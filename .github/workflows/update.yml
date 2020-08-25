@@ -1,0 +1,20 @@
+on:
+  push:
+  schedule:
+    - cron:  '0 0,12 * * *'
+
+name: Scrape CRAN
+
+jobs:
+  update:
+    name: Scrape CRAN packages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Scrape CRAN descriptions
+        uses: r-universe-org/cranscraper@master
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
