@@ -1,0 +1,44 @@
+[
+  {
+    "package": "bayesplot",
+    "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
+    "url": "https://github.com/stan-dev/bayesplot",
+    "available": true
+  },
+  {
+    "package": "loo",
+    "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
+    "url": "https://github.com/stan-dev/loo",
+    "available": true
+  },
+  {
+    "package": "projpred",
+    "maintainer": "Juho Piironen <juho.t.piironen@gmail.com>",
+    "url": "https://github.com/stan-dev/projpred",
+    "available": true
+  },
+  {
+    "package": "rstan",
+    "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
+    "url": "https://github.com/stan-dev/rstan",
+    "available": false
+  },
+  {
+    "package": "rstanarm",
+    "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
+    "url": "https://github.com/stan-dev/rstanarm",
+    "available": true
+  },
+  {
+    "package": "rstantools",
+    "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
+    "url": "https://github.com/stan-dev/rstantools",
+    "available": true
+  },
+  {
+    "package": "shinystan",
+    "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
+    "url": "https://github.com/stan-dev/shinystan",
+    "available": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "package": "BEDMatrix",
+    "maintainer": "Alexander Grueneberg <cran@agrueneberg.info>",
+    "url": "https://github.com/quantgen/bedmatrix",
+    "available": true
+  },
+  {
+    "package": "BGData",
+    "maintainer": "Alexander Grueneberg <cran@agrueneberg.info>",
+    "url": "https://github.com/quantgen/bgdata",
+    "available": true
+  },
+  {
+    "package": "LinkedMatrix",
+    "maintainer": "Alexander Grueneberg <cran@agrueneberg.info>",
+    "url": "https://github.com/quantgen/linkedmatrix",
+    "available": true
+  },
+  {
+    "package": "symDMatrix",
+    "maintainer": "Alexander Grueneberg <cran@agrueneberg.info>",
+    "url": "https://github.com/quantgen/symdmatrix",
+    "available": true
+  }
+]

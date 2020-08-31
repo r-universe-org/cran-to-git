@@ -1,0 +1,32 @@
+[
+  {
+    "package": "Distance",
+    "maintainer": "Laura Marshall <lhm@st-andrews.ac.uk>",
+    "url": "https://github.com/distancedevelopment/distance",
+    "available": true
+  },
+  {
+    "package": "dsm",
+    "maintainer": "Laura Marshall <lhm@st-andrews.ac.uk>",
+    "url": "https://github.com/distancedevelopment/dsm",
+    "available": true
+  },
+  {
+    "package": "dssd",
+    "maintainer": "Laura Marshall <lhm@st-andrews.ac.uk>",
+    "url": "https://github.com/distancedevelopment/dssd",
+    "available": true
+  },
+  {
+    "package": "mads",
+    "maintainer": "Laura Marshall <lhm@st-and.ac.uk>",
+    "url": "https://github.com/distancedevelopment/mads",
+    "available": false
+  },
+  {
+    "package": "mrds",
+    "maintainer": "Laura Marshall <lhm@st-andrews.ac.uk>",
+    "url": "https://github.com/distancedevelopment/mrds",
+    "available": true
+  }
+]

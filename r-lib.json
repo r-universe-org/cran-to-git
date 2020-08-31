@@ -1,0 +1,470 @@
+[
+  {
+    "package": "backports",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/r-lib/backports",
+    "available": true
+  },
+  {
+    "package": "bench",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/bench",
+    "available": true
+  },
+  {
+    "package": "brio",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/brio",
+    "available": true
+  },
+  {
+    "package": "callr",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/callr",
+    "available": true
+  },
+  {
+    "package": "carrier",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/carrier",
+    "available": true
+  },
+  {
+    "package": "cleancall",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/cleancall",
+    "available": true
+  },
+  {
+    "package": "cli",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/cli",
+    "available": true
+  },
+  {
+    "package": "cliapp",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/cliapp",
+    "available": true
+  },
+  {
+    "package": "conflicted",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/conflicted",
+    "available": true
+  },
+  {
+    "package": "covr",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/covr",
+    "available": true
+  },
+  {
+    "package": "cpp11",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/cpp11",
+    "available": true
+  },
+  {
+    "package": "crayon",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/crayon",
+    "available": true
+  },
+  {
+    "package": "credentials",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-lib/credentials",
+    "available": true
+  },
+  {
+    "package": "debugme",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/debugme",
+    "available": true
+  },
+  {
+    "package": "decor",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/decor",
+    "available": true
+  },
+  {
+    "package": "desc",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/desc",
+    "available": true
+  },
+  {
+    "package": "devoid",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
+    "url": "https://github.com/r-lib/devoid",
+    "available": true
+  },
+  {
+    "package": "devtools",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/devtools",
+    "available": true
+  },
+  {
+    "package": "ellipsis",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/ellipsis",
+    "available": true
+  },
+  {
+    "package": "evaluate",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/r-lib/evaluate",
+    "available": true
+  },
+  {
+    "package": "fastmap",
+    "maintainer": "Winston Chang <winston@rstudio.com>",
+    "url": "https://github.com/r-lib/fastmap",
+    "available": true
+  },
+  {
+    "package": "filelock",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/filelock",
+    "available": true
+  },
+  {
+    "package": "fs",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/fs",
+    "available": true
+  },
+  {
+    "package": "gargle",
+    "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
+    "url": "https://github.com/r-lib/gargle",
+    "available": true
+  },
+  {
+    "package": "generics",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/r-lib/generics",
+    "available": true
+  },
+  {
+    "package": "gert",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-lib/gert",
+    "available": true
+  },
+  {
+    "package": "gh",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/gh",
+    "available": true
+  },
+  {
+    "package": "gmailr",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/gmailr",
+    "available": true
+  },
+  {
+    "package": "gtable",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/gtable",
+    "available": true
+  },
+  {
+    "package": "httr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/httr",
+    "available": true
+  },
+  {
+    "package": "keyring",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/keyring",
+    "available": true
+  },
+  {
+    "package": "later",
+    "maintainer": "Joe Cheng <joe@rstudio.com>",
+    "url": "https://github.com/r-lib/later",
+    "available": true
+  },
+  {
+    "package": "lifecycle",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/lifecycle",
+    "available": true
+  },
+  {
+    "package": "liteq",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/liteq",
+    "available": true
+  },
+  {
+    "package": "lobstr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/lobstr",
+    "available": true
+  },
+  {
+    "package": "pak",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/pak",
+    "available": true
+  },
+  {
+    "package": "pillar",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-lib/pillar",
+    "available": true
+  },
+  {
+    "package": "pingr",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/pingr",
+    "available": true
+  },
+  {
+    "package": "pkgbuild",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/pkgbuild",
+    "available": true
+  },
+  {
+    "package": "pkgcache",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/pkgcache",
+    "available": true
+  },
+  {
+    "package": "pkgconfig",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/pkgconfig",
+    "available": true
+  },
+  {
+    "package": "pkgdown",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/pkgdown",
+    "available": true
+  },
+  {
+    "package": "pkgload",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/pkgload",
+    "available": true
+  },
+  {
+    "package": "prettycode",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/prettycode",
+    "available": true
+  },
+  {
+    "package": "processx",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/processx",
+    "available": true
+  },
+  {
+    "package": "progress",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/progress",
+    "available": true
+  },
+  {
+    "package": "ps",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/ps",
+    "available": true
+  },
+  {
+    "package": "R6",
+    "maintainer": "Winston Chang <winston@stdout.org>",
+    "url": "https://github.com/r-lib/r6",
+    "available": true
+  },
+  {
+    "package": "ragg",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
+    "url": "https://github.com/r-lib/ragg",
+    "available": true
+  },
+  {
+    "package": "rcmdcheck",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/rcmdcheck",
+    "available": true
+  },
+  {
+    "package": "rematch2",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/rematch2",
+    "available": true
+  },
+  {
+    "package": "remotes",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/remotes",
+    "available": true
+  },
+  {
+    "package": "rlang",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/rlang",
+    "available": true
+  },
+  {
+    "package": "roxygen2",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/roxygen2",
+    "available": true
+  },
+  {
+    "package": "roxygen2md",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-lib/roxygen2md",
+    "available": true
+  },
+  {
+    "package": "scales",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/scales",
+    "available": true
+  },
+  {
+    "package": "sessioninfo",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/sessioninfo",
+    "available": true
+  },
+  {
+    "package": "showimage",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/showimage",
+    "available": true
+  },
+  {
+    "package": "sloop",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/sloop",
+    "available": true
+  },
+  {
+    "package": "styler",
+    "maintainer": "Lorenz Walthert <lorenz.walthert@icloud.com>",
+    "url": "https://github.com/r-lib/styler",
+    "available": true
+  },
+  {
+    "package": "svglite",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
+    "url": "https://github.com/r-lib/svglite",
+    "available": true
+  },
+  {
+    "package": "systemfonts",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
+    "url": "https://github.com/r-lib/systemfonts",
+    "available": true
+  },
+  {
+    "package": "testthat",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/testthat",
+    "available": true
+  },
+  {
+    "package": "tidyselect",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/tidyselect",
+    "available": true
+  },
+  {
+    "package": "usethis",
+    "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
+    "url": "https://github.com/r-lib/usethis",
+    "available": true
+  },
+  {
+    "package": "vctrs",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/vctrs",
+    "available": true
+  },
+  {
+    "package": "vdiffr",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/vdiffr",
+    "available": true
+  },
+  {
+    "package": "vroom",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/vroom",
+    "available": true
+  },
+  {
+    "package": "waldo",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/waldo",
+    "available": true
+  },
+  {
+    "package": "whoami",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/whoami",
+    "available": true
+  },
+  {
+    "package": "withr",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/withr",
+    "available": true
+  },
+  {
+    "package": "xml2",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/xml2",
+    "available": true
+  },
+  {
+    "package": "xmlparsedata",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/xmlparsedata",
+    "available": true
+  },
+  {
+    "package": "xopen",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/xopen",
+    "available": true
+  },
+  {
+    "package": "ymlthis",
+    "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
+    "url": "https://github.com/r-lib/ymlthis",
+    "available": true
+  },
+  {
+    "package": "zip",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/zip",
+    "available": true
+  },
+  {
+    "package": "svglite",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
+    "url": "https://github.com/r-lib/svglite",
+    "available": true
+  },
+  {
+    "package": "vdiffr",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/vdiffr",
+    "available": true
+  }
+]

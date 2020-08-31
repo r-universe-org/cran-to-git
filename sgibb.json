@@ -1,0 +1,26 @@
+[
+  {
+    "package": "MALDIquant",
+    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
+    "url": "https://github.com/sgibb/maldiquant",
+    "available": true
+  },
+  {
+    "package": "MALDIquantForeign",
+    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
+    "url": "https://github.com/sgibb/maldiquantforeign",
+    "available": true
+  },
+  {
+    "package": "readBrukerFlexData",
+    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
+    "url": "https://github.com/sgibb/readbrukerflexdata",
+    "available": true
+  },
+  {
+    "package": "readMzXmlData",
+    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
+    "url": "https://github.com/sgibb/readmzxmldata",
+    "available": true
+  }
+]

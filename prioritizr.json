@@ -1,0 +1,26 @@
+[
+  {
+    "package": "oppr",
+    "maintainer": "Jeffrey O Hanson <jeffrey.hanson@uqconnect.edu.au>",
+    "url": "https://github.com/prioritizr/oppr",
+    "available": true
+  },
+  {
+    "package": "prioritizr",
+    "maintainer": "Richard Schuster <richard.schuster@glel.carleton.ca>",
+    "url": "https://github.com/prioritizr/prioritizr",
+    "available": true
+  },
+  {
+    "package": "prioritizrdata",
+    "maintainer": "Richard Schuster <richard.schuster@glel.carleton.ca>",
+    "url": "https://github.com/prioritizr/prioritizrdata",
+    "available": true
+  },
+  {
+    "package": "wdpar",
+    "maintainer": "Jeffrey O Hanson <jeffrey.hanson@uqconnect.edu.au>",
+    "url": "https://github.com/prioritizr/wdpar",
+    "available": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "package": "implyr",
+    "maintainer": "Ian Cook <ian@cloudera.com>",
+    "url": "https://github.com/ianmcook/implyr",
+    "available": true
+  },
+  {
+    "package": "queryparser",
+    "maintainer": "Ian Cook <ian@cloudera.com>",
+    "url": "https://github.com/ianmcook/queryparser",
+    "available": true
+  },
+  {
+    "package": "tidyquery",
+    "maintainer": "Ian Cook <ian@cloudera.com>",
+    "url": "https://github.com/ianmcook/tidyquery",
+    "available": true
+  },
+  {
+    "package": "wkb",
+    "maintainer": "Ian Cook <ianmcook@gmail.com>",
+    "url": "https://github.com/ianmcook/wkb",
+    "available": true
+  }
+]

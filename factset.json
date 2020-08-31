@@ -1,0 +1,14 @@
+[
+  {
+    "package": "factset.analyticsapi.engines",
+    "maintainer": "Akshay Sheth <asheth@factset.com>",
+    "url": "https://github.com/factset/analyticsapi-engines-r-sdk",
+    "available": false
+  },
+  {
+    "package": "factset.protobuf.stach",
+    "maintainer": "Charlie Mathis<chmathis@factset.com>",
+    "url": "https://github.com/factset/stachschema",
+    "available": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "package": "clere",
+    "maintainer": "Loic Yengo <loic.yengo@gmail.com>",
+    "url": "https://github.com/mcanouil/clere",
+    "available": true
+  },
+  {
+    "package": "ggpacman",
+    "maintainer": "Mickaël Canouil <mickael.canouil@cnrs.fr>",
+    "url": "https://github.com/mcanouil/pacman",
+    "available": true
+  },
+  {
+    "package": "NACHO",
+    "maintainer": "Mickaël Canouil <mickael.canouil@cnrs.fr>",
+    "url": "https://github.com/mcanouil/nacho",
+    "available": true
+  },
+  {
+    "package": "snpEnrichment",
+    "maintainer": "Mickael Canouil <mickael.canouil@cnrs.fr>",
+    "url": "https://github.com/mcanouil/snpenrichment",
+    "available": true
+  }
+]

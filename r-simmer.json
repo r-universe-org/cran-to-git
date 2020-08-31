@@ -1,0 +1,20 @@
+[
+  {
+    "package": "simmer",
+    "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
+    "url": "https://github.com/r-simmer/simmer",
+    "available": true
+  },
+  {
+    "package": "simmer.bricks",
+    "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
+    "url": "https://github.com/r-simmer/simmer.bricks",
+    "available": true
+  },
+  {
+    "package": "simmer.plot",
+    "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
+    "url": "https://github.com/r-simmer/simmer.plot",
+    "available": true
+  }
+]

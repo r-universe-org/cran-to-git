@@ -1,0 +1,44 @@
+[
+  {
+    "package": "datarium",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/datarium",
+    "available": true
+  },
+  {
+    "package": "factoextra",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/factoextra",
+    "available": true
+  },
+  {
+    "package": "fastqcr",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/fastqcr",
+    "available": true
+  },
+  {
+    "package": "ggcorrplot",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/ggcorrplot",
+    "available": true
+  },
+  {
+    "package": "ggpubr",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/ggpubr",
+    "available": true
+  },
+  {
+    "package": "rstatix",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/rstatix",
+    "available": true
+  },
+  {
+    "package": "survminer",
+    "maintainer": "Alboukadel Kassambara <alboukadel.kassambara@gmail.com>",
+    "url": "https://github.com/kassambara/survminer",
+    "available": true
+  }
+]

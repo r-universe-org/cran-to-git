@@ -1,0 +1,26 @@
+[
+  {
+    "package": "fauxnaif",
+    "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
+    "url": "https://github.com/rossellhayes/fauxnaif",
+    "available": false
+  },
+  {
+    "package": "ipa",
+    "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
+    "url": "https://github.com/rossellhayes/ipa",
+    "available": true
+  },
+  {
+    "package": "nombre",
+    "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
+    "url": "https://github.com/rossellhayes/nombre",
+    "available": true
+  },
+  {
+    "package": "plu",
+    "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
+    "url": "https://github.com/rossellhayes/plu",
+    "available": true
+  }
+]

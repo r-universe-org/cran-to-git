@@ -1,0 +1,20 @@
+[
+  {
+    "package": "betaboost",
+    "maintainer": "Andreas Mayr <mayr@uni-bonn.de>",
+    "url": "https://github.com/boost-r/betaboost",
+    "available": true
+  },
+  {
+    "package": "gamboostLSS",
+    "maintainer": "Benjamin Hofner <benjamin.hofner@pei.de>",
+    "url": "https://github.com/boost-r/gamboostlss",
+    "available": true
+  },
+  {
+    "package": "mboost",
+    "maintainer": "Benjamin Hofner <benjamin.hofner@pei.de>",
+    "url": "https://github.com/boost-r/mboost",
+    "available": true
+  }
+]

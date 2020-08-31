@@ -1,0 +1,38 @@
+[
+  {
+    "package": "cbsodataR",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/cbsodatar",
+    "available": true
+  },
+  {
+    "package": "chunked",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/chunked",
+    "available": true
+  },
+  {
+    "package": "daff",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/daff",
+    "available": true
+  },
+  {
+    "package": "ffbase",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/ffbase",
+    "available": false
+  },
+  {
+    "package": "sdcSpatial",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/sdcspatial",
+    "available": true
+  },
+  {
+    "package": "whisker",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/edwindj/whisker",
+    "available": true
+  }
+]

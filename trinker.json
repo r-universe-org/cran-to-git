@@ -1,0 +1,80 @@
+[
+  {
+    "package": "gofastr",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/gofastr",
+    "available": true
+  },
+  {
+    "package": "lexicon",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/lexicon",
+    "available": true
+  },
+  {
+    "package": "pacman",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/pacman",
+    "available": true
+  },
+  {
+    "package": "qdap",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/qdap",
+    "available": true
+  },
+  {
+    "package": "qdapDictionaries",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/qdapdictionaries",
+    "available": true
+  },
+  {
+    "package": "qdapRegex",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/qdapregex",
+    "available": true
+  },
+  {
+    "package": "qdapTools",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/qdaptools",
+    "available": true
+  },
+  {
+    "package": "sentimentr",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/sentimentr",
+    "available": true
+  },
+  {
+    "package": "textclean",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/textclean",
+    "available": true
+  },
+  {
+    "package": "textreadr",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/textreadr",
+    "available": true
+  },
+  {
+    "package": "textshape",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/textshape",
+    "available": true
+  },
+  {
+    "package": "textstem",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/textstem",
+    "available": true
+  },
+  {
+    "package": "wakefield",
+    "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
+    "url": "https://github.com/trinker/wakefield",
+    "available": true
+  }
+]

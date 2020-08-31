@@ -1,0 +1,128 @@
+[
+  {
+    "package": "BTM",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/btm",
+    "available": true
+  },
+  {
+    "package": "crfsuite",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/crfsuite",
+    "available": true
+  },
+  {
+    "package": "cronR",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/cronr",
+    "available": true
+  },
+  {
+    "package": "image.CannyEdges",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.ContourDetector",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.CornerDetectionF9",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.CornerDetectionHarris",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.dlib",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.libfacedetection",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.LineSegmentDetector",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "image.Otsu",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/image",
+    "available": false
+  },
+  {
+    "package": "nametagger",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/nametagger",
+    "available": true
+  },
+  {
+    "package": "ruimtehol",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/ruimtehol",
+    "available": true
+  },
+  {
+    "package": "sentencepiece",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/sentencepiece",
+    "available": true
+  },
+  {
+    "package": "spark.sas7bdat",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/spark.sas7bdat",
+    "available": true
+  },
+  {
+    "package": "taskscheduleR",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/taskscheduler",
+    "available": true
+  },
+  {
+    "package": "textplot",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/textplot",
+    "available": true
+  },
+  {
+    "package": "textrank",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/textrank",
+    "available": true
+  },
+  {
+    "package": "tokenizers.bpe",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/tokenizers.bpe",
+    "available": true
+  },
+  {
+    "package": "udpipe",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/udpipe",
+    "available": true
+  },
+  {
+    "package": "word2vec",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/word2vec",
+    "available": true
+  }
+]

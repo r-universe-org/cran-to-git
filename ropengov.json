@@ -1,0 +1,68 @@
+[
+  {
+    "package": "eurostat",
+    "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
+    "url": "https://github.com/ropengov/eurostat",
+    "available": true
+  },
+  {
+    "package": "federalregister",
+    "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
+    "url": "https://github.com/ropengov/federalregister",
+    "available": true
+  },
+  {
+    "package": "helsinki",
+    "maintainer": "Juuso Parkkinen <juuso.parkkinen@iki.fi>",
+    "url": "https://github.com/ropengov/helsinki",
+    "available": true
+  },
+  {
+    "package": "iotables",
+    "maintainer": "Daniel Antal <daniel.antal@ceemid.eu>",
+    "url": "https://github.com/ropengov/iotables",
+    "available": true
+  },
+  {
+    "package": "pollstR",
+    "maintainer": "Jeffrey B. Arnold <jeffrey.arnold@gmail.com>",
+    "url": "https://github.com/ropengov/pollstr",
+    "available": true
+  },
+  {
+    "package": "pxweb",
+    "maintainer": "Mans Magnusson <mons.magnusson@gmail.com>",
+    "url": "https://github.com/ropengov/pxweb",
+    "available": true
+  },
+  {
+    "package": "regions",
+    "maintainer": "Daniel Antal <daniel.antal@ceemid.eu>",
+    "url": "https://github.com/ropengov/regions",
+    "available": true
+  },
+  {
+    "package": "RPublica",
+    "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
+    "url": "https://github.com/ropengov/rpublica",
+    "available": true
+  },
+  {
+    "package": "sorvi",
+    "maintainer": "Leo Lahti <louhos@googlegroups.com>",
+    "url": "https://github.com/ropengov/sorvi",
+    "available": true
+  },
+  {
+    "package": "sotkanet",
+    "maintainer": "Leo Lahti <louhos@googlegroups.com>",
+    "url": "https://github.com/ropengov/sotkanet",
+    "available": true
+  },
+  {
+    "package": "sweidnumbr",
+    "maintainer": "Mans Magnusson <mons.magnusson@gmail.com>",
+    "url": "https://github.com/ropengov/sweidnumbr",
+    "available": true
+  }
+]

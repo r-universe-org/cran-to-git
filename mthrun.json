@@ -1,0 +1,38 @@
+[
+  {
+    "package": "AdaptGauss",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/adaptgauss",
+    "available": true
+  },
+  {
+    "package": "DatabionicSwarm",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/databionicswarm",
+    "available": true
+  },
+  {
+    "package": "DataVisualizations",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/datavisualizations",
+    "available": true
+  },
+  {
+    "package": "FCPS",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/fcps",
+    "available": true
+  },
+  {
+    "package": "GeneralizedUmatrix",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/generalizedumatrix",
+    "available": true
+  },
+  {
+    "package": "ProjectionBasedClustering",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/projectionbasedclustering",
+    "available": true
+  }
+]

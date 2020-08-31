@@ -1,0 +1,74 @@
+[
+  {
+    "package": "EpiModel",
+    "maintainer": "Samuel Jenness <samuel.m.jenness@emory.edu>",
+    "url": "https://github.com/statnet/epimodel",
+    "available": true
+  },
+  {
+    "package": "ergm",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/ergm",
+    "available": true
+  },
+  {
+    "package": "ergm.count",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/ergm.count",
+    "available": true
+  },
+  {
+    "package": "ergm.ego",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/ergm.ego",
+    "available": true
+  },
+  {
+    "package": "ergm.rank",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/ergm.rank",
+    "available": true
+  },
+  {
+    "package": "ergm.userterms",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/ergm.userterms",
+    "available": true
+  },
+  {
+    "package": "latentnet",
+    "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
+    "url": "https://github.com/statnet/latentnet",
+    "available": true
+  },
+  {
+    "package": "lolog",
+    "maintainer": "Ian E. Fellows <ian@fellstat.com>",
+    "url": "https://github.com/statnet/lolog",
+    "available": true
+  },
+  {
+    "package": "ndtv",
+    "maintainer": "Skye Bender-deMoll <skyebend@uw.edu>",
+    "url": "https://github.com/statnet/ndtv",
+    "available": false
+  },
+  {
+    "package": "statnet",
+    "maintainer": "Martina Morris <morrism@uw.edu>",
+    "url": "https://github.com/statnet/statnet",
+    "available": true
+  },
+  {
+    "package": "statnet.common",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/statnet.common",
+    "available": true
+  },
+  {
+    "package": "tergm",
+    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
+    "url": "https://github.com/statnet/tergm",
+    "available": true
+  }
+]

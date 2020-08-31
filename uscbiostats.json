@@ -1,0 +1,26 @@
+[
+  {
+    "package": "fmcmc",
+    "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
+    "url": "https://github.com/uscbiostats/fmcmc",
+    "available": true
+  },
+  {
+    "package": "partition",
+    "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
+    "url": "https://github.com/uscbiostats/partition",
+    "available": true
+  },
+  {
+    "package": "slurmR",
+    "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
+    "url": "https://github.com/uscbiostats/slurmr",
+    "available": true
+  },
+  {
+    "package": "xrnet",
+    "maintainer": "Garrett Weaver <gmweaver.usc@gmail.com>",
+    "url": "https://github.com/uscbiostats/xrnet",
+    "available": true
+  }
+]

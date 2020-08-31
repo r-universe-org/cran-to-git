@@ -1,0 +1,14 @@
+[
+  {
+    "package": "drf",
+    "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
+    "url": "https://github.com/lorismichel/mrf",
+    "available": false
+  },
+  {
+    "package": "quantregForest",
+    "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
+    "url": "https://github.com/lorismichel/quantregforest",
+    "available": true
+  }
+]

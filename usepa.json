@@ -1,0 +1,14 @@
+[
+  {
+    "package": "httk",
+    "maintainer": "John Wambaugh <wambaugh.john@epa.gov>",
+    "url": "https://github.com/usepa/comptox-expocast-httk",
+    "available": true
+  },
+  {
+    "package": "tcpl",
+    "maintainer": "Richard S Judson <Judson.Richard@epa.gov>",
+    "url": "https://github.com/usepa/comptox-toxcast-tcpl",
+    "available": true
+  }
+]

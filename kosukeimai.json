@@ -1,0 +1,32 @@
+[
+  {
+    "package": "experiment",
+    "maintainer": "Kosuke Imai <imai@harvard.edu>",
+    "url": "https://github.com/kosukeimai/experiment",
+    "available": true
+  },
+  {
+    "package": "fastLink",
+    "maintainer": "Ted Enamorado <ted.enamorado@gmail.com>",
+    "url": "https://github.com/kosukeimai/fastlink",
+    "available": true
+  },
+  {
+    "package": "MNP",
+    "maintainer": "Kosuke Imai <kimai@princeton.edu>",
+    "url": "https://github.com/kosukeimai/mnp",
+    "available": true
+  },
+  {
+    "package": "redist",
+    "maintainer": "Ben Fifield <bfifield@princeton.edu>",
+    "url": "https://github.com/kosukeimai/redist",
+    "available": true
+  },
+  {
+    "package": "wru",
+    "maintainer": "Kabir Khanna <kabirkhanna@gmail.com>",
+    "url": "https://github.com/kosukeimai/wru",
+    "available": true
+  }
+]

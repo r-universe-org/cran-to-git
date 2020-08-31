@@ -1,0 +1,44 @@
+[
+  {
+    "package": "DBI",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-dbi/dbi",
+    "available": true
+  },
+  {
+    "package": "DBItest",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-dbi/dbitest",
+    "available": true
+  },
+  {
+    "package": "odbc",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-dbi/odbc",
+    "available": true
+  },
+  {
+    "package": "RMariaDB",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-dbi/rmariadb",
+    "available": true
+  },
+  {
+    "package": "RMySQL",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-dbi/rmysql",
+    "available": true
+  },
+  {
+    "package": "RPostgres",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-dbi/rpostgres",
+    "available": true
+  },
+  {
+    "package": "RSQLite",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-dbi/rsqlite",
+    "available": true
+  }
+]

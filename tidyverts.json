@@ -1,0 +1,32 @@
+[
+  {
+    "package": "fable",
+    "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
+    "url": "https://github.com/tidyverts/fable",
+    "available": true
+  },
+  {
+    "package": "fabletools",
+    "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
+    "url": "https://github.com/tidyverts/fabletools",
+    "available": true
+  },
+  {
+    "package": "feasts",
+    "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
+    "url": "https://github.com/tidyverts/feasts",
+    "available": true
+  },
+  {
+    "package": "tsibble",
+    "maintainer": "Earo Wang <earo.wang@gmail.com>",
+    "url": "https://github.com/tidyverts/tsibble",
+    "available": true
+  },
+  {
+    "package": "tsibbledata",
+    "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
+    "url": "https://github.com/tidyverts/tsibbledata",
+    "available": true
+  }
+]

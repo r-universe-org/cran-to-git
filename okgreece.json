@@ -1,0 +1,32 @@
+[
+  {
+    "package": "Cluster.OBeu",
+    "maintainer": "Kleanthis Koupidis <koupidis@okfn.gr>",
+    "url": "https://github.com/okgreece/cluster.obeu",
+    "available": true
+  },
+  {
+    "package": "DescriptiveStats.OBeu",
+    "maintainer": "Kleanthis Koupidis <koupidis@okfn.gr>",
+    "url": "https://github.com/okgreece/descriptivestats.obeu",
+    "available": true
+  },
+  {
+    "package": "gginference",
+    "maintainer": "Kleanthis Koupidis <koupidis@okfn.gr>",
+    "url": "https://github.com/okgreece/gginference",
+    "available": true
+  },
+  {
+    "package": "TimeSeries.OBeu",
+    "maintainer": "Kleanthis Koupidis <koupidis@okfn.gr>",
+    "url": "https://github.com/okgreece/timeseries.obeu",
+    "available": true
+  },
+  {
+    "package": "TrafficBDE",
+    "maintainer": "Aikaterini Chatzopoulou <kchatzopoul@okfn.gr>",
+    "url": "https://github.com/okgreece/trafficbde",
+    "available": true
+  }
+]

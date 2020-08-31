@@ -1,0 +1,32 @@
+[
+  {
+    "package": "ggformula",
+    "maintainer": "Randall Pruim <rpruim@calvin.edu>",
+    "url": "https://github.com/projectmosaic/ggformula",
+    "available": true
+  },
+  {
+    "package": "mosaic",
+    "maintainer": "Randall Pruim <rpruim@calvin.edu>",
+    "url": "https://github.com/projectmosaic/mosaic",
+    "available": true
+  },
+  {
+    "package": "mosaicCalc",
+    "maintainer": "Daniel Kaplan <kaplan@macalester.edu>",
+    "url": "https://github.com/projectmosaic/mosaiccalc",
+    "available": true
+  },
+  {
+    "package": "mosaicCore",
+    "maintainer": "Randall Pruim <rpruim@calvin.edu>",
+    "url": "https://github.com/projectmosaic/mosaiccore",
+    "available": true
+  },
+  {
+    "package": "mosaicData",
+    "maintainer": "Randall Pruim <rpruim@calvin.edu>",
+    "url": "https://github.com/projectmosaic/mosaicdata",
+    "available": true
+  }
+]

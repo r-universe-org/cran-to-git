@@ -1,0 +1,44 @@
+[
+  {
+    "package": "Andromeda",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/andromeda",
+    "available": true
+  },
+  {
+    "package": "Cyclops",
+    "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
+    "url": "https://github.com/ohdsi/cyclops",
+    "available": true
+  },
+  {
+    "package": "DatabaseConnector",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/databaseconnector",
+    "available": true
+  },
+  {
+    "package": "DatabaseConnectorJars",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/databaseconnectorjars",
+    "available": true
+  },
+  {
+    "package": "EmpiricalCalibration",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/empiricalcalibration",
+    "available": true
+  },
+  {
+    "package": "ParallelLogger",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/parallellogger",
+    "available": true
+  },
+  {
+    "package": "SqlRender",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/sqlrender",
+    "available": true
+  }
+]

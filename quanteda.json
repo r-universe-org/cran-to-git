@@ -1,0 +1,32 @@
+[
+  {
+    "package": "quanteda",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/quanteda",
+    "available": true
+  },
+  {
+    "package": "quanteda.textmodels",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/quanteda.textmodels",
+    "available": true
+  },
+  {
+    "package": "readtext",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/readtext",
+    "available": true
+  },
+  {
+    "package": "spacyr",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/spacyr",
+    "available": true
+  },
+  {
+    "package": "stopwords",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/stopwords",
+    "available": true
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "package": "ASSISTant",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
+    "url": "https://github.com/bnaras/assistant",
+    "available": true
+  },
+  {
+    "package": "bcaboot",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.stanford.edu>",
+    "url": "https://github.com/bnaras/bcaboot",
+    "available": true
+  },
+  {
+    "package": "cubature",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.stanford.edu>",
+    "url": "https://github.com/bnaras/cubature",
+    "available": false
+  },
+  {
+    "package": "deconvolveR",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
+    "url": "https://github.com/bnaras/deconvolver",
+    "available": true
+  },
+  {
+    "package": "ECOSolveR",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
+    "url": "https://github.com/bnaras/ecosolver",
+    "available": true
+  },
+  {
+    "package": "homomorpheR",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
+    "url": "https://github.com/bnaras/homomorpher",
+    "available": true
+  },
+  {
+    "package": "PMA",
+    "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
+    "url": "https://github.com/bnaras/pma",
+    "available": true
+  }
+]

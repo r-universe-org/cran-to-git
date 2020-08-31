@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rpostgis",
+    "maintainer": "David Bucklin <david.bucklin@gmail.com>",
+    "url": "https://github.com/mablab/rpostgis",
+    "available": true
+  },
+  {
+    "package": "rpostgisLT",
+    "maintainer": "Balázs Dukai <balazs.dukai@gmail.com>",
+    "url": "https://github.com/mablab/rpostgislt",
+    "available": true
+  }
+]

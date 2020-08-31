@@ -1,0 +1,128 @@
+[
+  {
+    "package": "bbotk",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/bbotk",
+    "available": true
+  },
+  {
+    "package": "farff",
+    "maintainer": "Bernd Bischl <bernd_bischl@gmx.net>",
+    "url": "https://github.com/mlr-org/farff",
+    "available": true
+  },
+  {
+    "package": "mlr",
+    "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr",
+    "available": true
+  },
+  {
+    "package": "mlr3",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3",
+    "available": true
+  },
+  {
+    "package": "mlr3data",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3data",
+    "available": true
+  },
+  {
+    "package": "mlr3db",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3db",
+    "available": true
+  },
+  {
+    "package": "mlr3filters",
+    "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3filters",
+    "available": true
+  },
+  {
+    "package": "mlr3fselect",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3fselect",
+    "available": true
+  },
+  {
+    "package": "mlr3learners",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "available": true
+  },
+  {
+    "package": "mlr3measures",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3measures",
+    "available": true
+  },
+  {
+    "package": "mlr3misc",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "available": true
+  },
+  {
+    "package": "mlr3oml",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3oml",
+    "available": true
+  },
+  {
+    "package": "mlr3pipelines",
+    "maintainer": "Martin Binder <mlr.developer@mb706.com>",
+    "url": "https://github.com/mlr-org/mlr3pipelines",
+    "available": true
+  },
+  {
+    "package": "mlr3proba",
+    "maintainer": "Raphael Sonabend <raphael.sonabend.15@ucl.ac.uk>",
+    "url": "https://github.com/mlr-org/mlr3proba",
+    "available": true
+  },
+  {
+    "package": "mlr3tuning",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "available": true
+  },
+  {
+    "package": "mlr3verse",
+    "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3verse",
+    "available": true
+  },
+  {
+    "package": "mlr3viz",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3viz",
+    "available": true
+  },
+  {
+    "package": "mlrCPO",
+    "maintainer": "Martin Binder <developer.mb706@doublecaret.com>",
+    "url": "https://github.com/mlr-org/mlrcpo",
+    "available": true
+  },
+  {
+    "package": "mlrMBO",
+    "maintainer": "Jakob Richter <code@jakob-r.de>",
+    "url": "https://github.com/mlr-org/mlrmbo",
+    "available": true
+  },
+  {
+    "package": "paradox",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/paradox",
+    "available": true
+  },
+  {
+    "package": "ParamHelpers",
+    "maintainer": "Jakob Richter <code@jakob-r.de>",
+    "url": "https://github.com/mlr-org/paramhelpers",
+    "available": true
+  }
+]

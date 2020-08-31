@@ -1,0 +1,26 @@
+[
+  {
+    "package": "Deriv",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/deriv",
+    "available": true
+  },
+  {
+    "package": "kvh",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/kvh",
+    "available": true
+  },
+  {
+    "package": "r2sundials",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/r2sundials",
+    "available": true
+  },
+  {
+    "package": "rmumps",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/rmumps",
+    "available": true
+  }
+]

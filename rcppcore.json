@@ -1,0 +1,26 @@
+[
+  {
+    "package": "Rcpp",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/rcppcore/rcpp",
+    "available": true
+  },
+  {
+    "package": "RcppArmadillo",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/rcppcore/rcpparmadillo",
+    "available": true
+  },
+  {
+    "package": "RcppEigen",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/rcppcore/rcppeigen",
+    "available": true
+  },
+  {
+    "package": "RcppParallel",
+    "maintainer": "Kevin Ushey <kevin@rstudio.com>",
+    "url": "https://github.com/rcppcore/rcppparallel",
+    "available": true
+  }
+]

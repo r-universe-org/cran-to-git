@@ -1,0 +1,26 @@
+[
+  {
+    "package": "colorfindr",
+    "maintainer": "David Zumbach <david.zumbach@gfzb.ch>",
+    "url": "https://github.com/zumbov2/colorfindr",
+    "available": true
+  },
+  {
+    "package": "findR",
+    "maintainer": "David Zumbach <david.zumbach@gfzb.ch>",
+    "url": "https://github.com/zumbov2/findr",
+    "available": true
+  },
+  {
+    "package": "RSwissMaps",
+    "maintainer": "David Zumbach <david.zumbach@gfzb.ch>",
+    "url": "https://github.com/zumbov2/rswissmaps",
+    "available": false
+  },
+  {
+    "package": "swissparl",
+    "maintainer": "David Zumbach <david.zumbach@gfzb.ch>",
+    "url": "https://github.com/zumbov2/swissparl",
+    "available": true
+  }
+]

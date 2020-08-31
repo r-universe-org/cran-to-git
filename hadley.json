@@ -1,0 +1,104 @@
+[
+  {
+    "package": "babynames",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/babynames",
+    "available": true
+  },
+  {
+    "package": "crantastic",
+    "maintainer": "Bjorn Arild Maeland <bjorn.maeland@gmail.com>",
+    "url": "https://github.com/hadley/crantastic",
+    "available": false
+  },
+  {
+    "package": "cubelyr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/cubelyr",
+    "available": true
+  },
+  {
+    "package": "fueleconomy",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/fueleconomy",
+    "available": true
+  },
+  {
+    "package": "highlight",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/highlight",
+    "available": true
+  },
+  {
+    "package": "meifly",
+    "maintainer": "Hadley Wickham <h.wickham@gmail.com>",
+    "url": "https://github.com/hadley/meifly",
+    "available": true
+  },
+  {
+    "package": "memoise",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/hadley/memoise",
+    "available": true
+  },
+  {
+    "package": "nasaweather",
+    "maintainer": "'Hadley Wickham' <h.wickham@gmail.com>",
+    "url": "https://github.com/hadley/nasaweather",
+    "available": true
+  },
+  {
+    "package": "nycflights13",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/nycflights13",
+    "available": true
+  },
+  {
+    "package": "plyr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/plyr",
+    "available": true
+  },
+  {
+    "package": "productplots",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/productplots",
+    "available": true
+  },
+  {
+    "package": "profr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/profr",
+    "available": true
+  },
+  {
+    "package": "proto",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/proto",
+    "available": true
+  },
+  {
+    "package": "pryr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/pryr",
+    "available": true
+  },
+  {
+    "package": "purrrlyr",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/hadley/purrrlyr",
+    "available": true
+  },
+  {
+    "package": "rappdirs",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/rappdirs",
+    "available": true
+  },
+  {
+    "package": "reshape2",
+    "maintainer": "Hadley Wickham <h.wickham@gmail.com>",
+    "url": "https://github.com/hadley/reshape",
+    "available": true
+  }
+]

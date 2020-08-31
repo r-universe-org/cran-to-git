@@ -1,0 +1,50 @@
+[
+  {
+    "package": "kde1d",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/kde1d",
+    "available": true
+  },
+  {
+    "package": "kdecopula",
+    "maintainer": "Thomas Nagler <thomas.nagler@tum.de>",
+    "url": "https://github.com/tnagler/kdecopula",
+    "available": true
+  },
+  {
+    "package": "kdevine",
+    "maintainer": "Thomas Nagler <thomas.nagler@tum.de>",
+    "url": "https://github.com/tnagler/kdevine",
+    "available": true
+  },
+  {
+    "package": "RcppThread",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/rcppthread",
+    "available": true
+  },
+  {
+    "package": "VC2copula",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/vc2copula",
+    "available": true
+  },
+  {
+    "package": "VineCopula",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/vinecopula",
+    "available": true
+  },
+  {
+    "package": "vinereg",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/vinereg",
+    "available": true
+  },
+  {
+    "package": "wdm",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/wdm-r",
+    "available": true
+  }
+]

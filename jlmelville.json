@@ -1,0 +1,20 @@
+[
+  {
+    "package": "mize",
+    "maintainer": "James Melville <jlmelville@gmail.com>",
+    "url": "https://github.com/jlmelville/mize",
+    "available": true
+  },
+  {
+    "package": "RcppHNSW",
+    "maintainer": "James Melville <jlmelville@gmail.com>",
+    "url": "https://github.com/jlmelville/rcpphnsw",
+    "available": true
+  },
+  {
+    "package": "uwot",
+    "maintainer": "James Melville <jlmelville@gmail.com>",
+    "url": "https://github.com/jlmelville/uwot",
+    "available": true
+  }
+]

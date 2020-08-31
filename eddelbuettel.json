@@ -1,0 +1,170 @@
+[
+  {
+    "package": "anytime",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/anytime",
+    "available": true
+  },
+  {
+    "package": "AsioHeaders",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/asioheaders",
+    "available": true
+  },
+  {
+    "package": "BH",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/bh",
+    "available": true
+  },
+  {
+    "package": "binb",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/binb",
+    "available": true
+  },
+  {
+    "package": "digest",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/digest",
+    "available": true
+  },
+  {
+    "package": "drat",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/drat",
+    "available": true
+  },
+  {
+    "package": "gaussfacts",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/gaussfacts",
+    "available": true
+  },
+  {
+    "package": "gettz",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/gettz",
+    "available": true
+  },
+  {
+    "package": "inline",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/inline",
+    "available": true
+  },
+  {
+    "package": "linl",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/linl",
+    "available": true
+  },
+  {
+    "package": "littler",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/littler",
+    "available": true
+  },
+  {
+    "package": "pinp",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/pinp",
+    "available": true
+  },
+  {
+    "package": "RcppCCTZ",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppcctz",
+    "available": true
+  },
+  {
+    "package": "RcppClassic",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppclassic",
+    "available": true
+  },
+  {
+    "package": "RcppCNPy",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppcnpy",
+    "available": true
+  },
+  {
+    "package": "RcppDate",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppdate",
+    "available": true
+  },
+  {
+    "package": "RcppExamples",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppexamples",
+    "available": true
+  },
+  {
+    "package": "RcppGetconf",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppgetconf",
+    "available": true
+  },
+  {
+    "package": "RcppMsgPack",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppmsgpack",
+    "available": true
+  },
+  {
+    "package": "RcppStreams",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppstreams",
+    "available": true
+  },
+  {
+    "package": "RcppTOML",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcpptoml",
+    "available": true
+  },
+  {
+    "package": "RDieHarder",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rdieharder",
+    "available": true
+  },
+  {
+    "package": "rfoaas",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rfoaas",
+    "available": true
+  },
+  {
+    "package": "RInside",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rinside",
+    "available": true
+  },
+  {
+    "package": "RProtoBuf",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rprotobuf",
+    "available": true
+  },
+  {
+    "package": "RQuantLib",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rquantlib",
+    "available": true
+  },
+  {
+    "package": "RVowpalWabbit",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rvowpalwabbit",
+    "available": true
+  },
+  {
+    "package": "tint",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/tint",
+    "available": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "package": "hexbin",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/hexbin",
+    "available": true
+  },
+  {
+    "package": "intervals",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/intervals",
+    "available": true
+  },
+  {
+    "package": "sp",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/sp",
+    "available": true
+  },
+  {
+    "package": "spacetime",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/spacetime",
+    "available": true
+  },
+  {
+    "package": "trajectories",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/trajectories",
+    "available": true
+  },
+  {
+    "package": "vardiag",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/edzer/vardiag",
+    "available": true
+  }
+]

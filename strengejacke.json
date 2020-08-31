@@ -1,0 +1,38 @@
+[
+  {
+    "package": "esc",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/esc",
+    "available": true
+  },
+  {
+    "package": "ggeffects",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/ggeffects",
+    "available": true
+  },
+  {
+    "package": "sjlabelled",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/sjlabelled",
+    "available": true
+  },
+  {
+    "package": "sjmisc",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/sjmisc",
+    "available": true
+  },
+  {
+    "package": "sjPlot",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/sjplot",
+    "available": true
+  },
+  {
+    "package": "sjstats",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/strengejacke/sjstats",
+    "available": true
+  }
+]

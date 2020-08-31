@@ -1,0 +1,50 @@
+[
+  {
+    "package": "cubfits",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/cubfits",
+    "available": true
+  },
+  {
+    "package": "EMCluster",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/emcluster",
+    "available": true
+  },
+  {
+    "package": "MixfMRI",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/mixfmri",
+    "available": true
+  },
+  {
+    "package": "pbdMPI",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/pbdmpi",
+    "available": true
+  },
+  {
+    "package": "pbdRPC",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/pbdrpc",
+    "available": true
+  },
+  {
+    "package": "pbdSLAP",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/pbdslap",
+    "available": true
+  },
+  {
+    "package": "pbdZMQ",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/pbdzmq",
+    "available": true
+  },
+  {
+    "package": "phyclust",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/phyclust",
+    "available": true
+  }
+]

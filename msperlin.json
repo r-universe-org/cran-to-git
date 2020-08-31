@@ -1,0 +1,38 @@
+[
+  {
+    "package": "GetBCBData",
+    "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/getbcbdata",
+    "available": true
+  },
+  {
+    "package": "GetDFPData",
+    "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/getdfpdata",
+    "available": true
+  },
+  {
+    "package": "GetLattesData",
+    "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/getlattesdata",
+    "available": true
+  },
+  {
+    "package": "GetQuandlData",
+    "maintainer": "Marcelo S. Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/getquandldata",
+    "available": true
+  },
+  {
+    "package": "GetTDData",
+    "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/gettddata",
+    "available": true
+  },
+  {
+    "package": "simfinR",
+    "maintainer": "Marcelo S. Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/simfinr",
+    "available": true
+  }
+]

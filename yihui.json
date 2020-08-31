@@ -1,0 +1,86 @@
+[
+  {
+    "package": "animation",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/animation",
+    "available": true
+  },
+  {
+    "package": "formatR",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/formatr",
+    "available": true
+  },
+  {
+    "package": "fun",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/fun",
+    "available": true
+  },
+  {
+    "package": "highr",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/highr",
+    "available": true
+  },
+  {
+    "package": "knitr",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/knitr",
+    "available": true
+  },
+  {
+    "package": "mime",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/mime",
+    "available": true
+  },
+  {
+    "package": "MSG",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/msg",
+    "available": true
+  },
+  {
+    "package": "printr",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/printr",
+    "available": true
+  },
+  {
+    "package": "Rd2roxygen",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/rd2roxygen",
+    "available": true
+  },
+  {
+    "package": "servr",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/servr",
+    "available": true
+  },
+  {
+    "package": "testit",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/testit",
+    "available": true
+  },
+  {
+    "package": "tinytex",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/tinytex",
+    "available": true
+  },
+  {
+    "package": "xaringan",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/xaringan",
+    "available": true
+  },
+  {
+    "package": "xfun",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/yihui/xfun",
+    "available": true
+  }
+]

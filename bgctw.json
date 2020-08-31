@@ -1,0 +1,26 @@
+[
+  {
+    "package": "lognorm",
+    "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
+    "url": "https://github.com/bgctw/lognorm",
+    "available": true
+  },
+  {
+    "package": "REddyProc",
+    "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
+    "url": "https://github.com/bgctw/reddyproc",
+    "available": true
+  },
+  {
+    "package": "REddyProcNCDF",
+    "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
+    "url": "https://github.com/bgctw/reddyprocncdf",
+    "available": true
+  },
+  {
+    "package": "solartime",
+    "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
+    "url": "https://github.com/bgctw/solartime",
+    "available": true
+  }
+]

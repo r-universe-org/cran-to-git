@@ -1,0 +1,44 @@
+[
+  {
+    "package": "bridgedist",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/bridgedist",
+    "available": true
+  },
+  {
+    "package": "event",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/event",
+    "available": true
+  },
+  {
+    "package": "gnlm",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/gnlm",
+    "available": true
+  },
+  {
+    "package": "growth",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/growth",
+    "available": true
+  },
+  {
+    "package": "repeated",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/repeated",
+    "available": true
+  },
+  {
+    "package": "rmutil",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/rmutil",
+    "available": true
+  },
+  {
+    "package": "stable",
+    "maintainer": "Bruce Swihart <bruce.swihart@gmail.com>",
+    "url": "https://github.com/swihart/stable",
+    "available": true
+  }
+]

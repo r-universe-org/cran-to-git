@@ -1,0 +1,32 @@
+[
+  {
+    "package": "beakr",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/beakr",
+    "available": true
+  },
+  {
+    "package": "MazamaCoreUtils",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/mazamacoreutils",
+    "available": true
+  },
+  {
+    "package": "MazamaLocationUtils",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/mazamacoreutils",
+    "available": true
+  },
+  {
+    "package": "MazamaSpatialUtils",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/mazamaspatialutils",
+    "available": true
+  },
+  {
+    "package": "PWFSLSmoke",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/pwfslsmoke",
+    "available": true
+  }
+]

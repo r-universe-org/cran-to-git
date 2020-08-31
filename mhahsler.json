@@ -1,0 +1,62 @@
+[
+  {
+    "package": "arules",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/arules",
+    "available": true
+  },
+  {
+    "package": "arulesNBMiner",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/arulesnbminer",
+    "available": true
+  },
+  {
+    "package": "arulesViz",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/arulesviz",
+    "available": true
+  },
+  {
+    "package": "dbscan",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/dbscan",
+    "available": true
+  },
+  {
+    "package": "qap",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/qap",
+    "available": true
+  },
+  {
+    "package": "recommenderlab",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/recommenderlab",
+    "available": true
+  },
+  {
+    "package": "seriation",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/seriation",
+    "available": true
+  },
+  {
+    "package": "stream",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/stream",
+    "available": true
+  },
+  {
+    "package": "streamMOA",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/streammoa",
+    "available": true
+  },
+  {
+    "package": "TSP",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://github.com/mhahsler/tsp",
+    "available": true
+  }
+]

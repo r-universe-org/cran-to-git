@@ -1,0 +1,62 @@
+[
+  {
+    "package": "demography",
+    "maintainer": "Rob J Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/demography",
+    "available": true
+  },
+  {
+    "package": "expsmooth",
+    "maintainer": "Rob J Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/expsmooth",
+    "available": true
+  },
+  {
+    "package": "fma",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/fma",
+    "available": true
+  },
+  {
+    "package": "forecast",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/forecast",
+    "available": true
+  },
+  {
+    "package": "fpp2",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/fpp2-package",
+    "available": true
+  },
+  {
+    "package": "fpp3",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/fpp3-package",
+    "available": true
+  },
+  {
+    "package": "hdrcde",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/hdrcde",
+    "available": true
+  },
+  {
+    "package": "Mcomp",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/mcomp",
+    "available": true
+  },
+  {
+    "package": "thief",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/thief",
+    "available": true
+  },
+  {
+    "package": "tsfeatures",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/tsfeatures",
+    "available": true
+  }
+]

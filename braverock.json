@@ -1,0 +1,20 @@
+[
+  {
+    "package": "FinancialInstrument",
+    "maintainer": "Ross Bennett <rossbennett34@gmail.com>",
+    "url": "https://github.com/braverock/financialinstrument",
+    "available": true
+  },
+  {
+    "package": "PerformanceAnalytics",
+    "maintainer": "Brian G. Peterson <brian@braverock.com>",
+    "url": "https://github.com/braverock/performanceanalytics",
+    "available": true
+  },
+  {
+    "package": "PortfolioAnalytics",
+    "maintainer": "Brian G. Peterson <brian@braverock.com>",
+    "url": "https://github.com/braverock/portfolioanalytics",
+    "available": true
+  }
+]

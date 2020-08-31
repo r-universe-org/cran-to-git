@@ -1,0 +1,38 @@
+[
+  {
+    "package": "bsub",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/bsub",
+    "available": true
+  },
+  {
+    "package": "CePa",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/cepa",
+    "available": true
+  },
+  {
+    "package": "circlize",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/circlize",
+    "available": true
+  },
+  {
+    "package": "GetoptLong",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/getoptlong",
+    "available": true
+  },
+  {
+    "package": "GlobalOptions",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/globaloptions",
+    "available": true
+  },
+  {
+    "package": "pkgndep",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/pkgndep",
+    "available": true
+  }
+]

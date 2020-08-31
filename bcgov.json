@@ -1,0 +1,26 @@
+[
+  {
+    "package": "bcdata",
+    "maintainer": "Andy Teucher <andy.teucher@gov.bc.ca>",
+    "url": "https://github.com/bcgov/bcdata",
+    "available": true
+  },
+  {
+    "package": "bcmaps",
+    "maintainer": "Andy Teucher <andy.teucher@gov.bc.ca>",
+    "url": "https://github.com/bcgov/bcmaps",
+    "available": true
+  },
+  {
+    "package": "fasstr",
+    "maintainer": "Jon Goetz <jon.goetz@gov.bc.ca>",
+    "url": "https://github.com/bcgov/fasstr",
+    "available": true
+  },
+  {
+    "package": "ssdtools",
+    "maintainer": "Joe Thorley <joe@poissonconsulting.ca>",
+    "url": "https://github.com/bcgov/ssdtools",
+    "available": true
+  }
+]

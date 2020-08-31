@@ -1,0 +1,20 @@
+[
+  {
+    "package": "fdadensity",
+    "maintainer": "Alexander Petersen <petersen@pstat.ucsb.edu>",
+    "url": "https://github.com/functionaldata/tdens",
+    "available": true
+  },
+  {
+    "package": "fdapace",
+    "maintainer": "Cody Carroll <cjcarroll@ucdavis.edu>",
+    "url": "https://github.com/functionaldata/tpace",
+    "available": true
+  },
+  {
+    "package": "frechet",
+    "maintainer": "Yaqing Chen <yaqchen@ucdavis.edu>",
+    "url": "https://github.com/functionaldata/tfrechet",
+    "available": true
+  }
+]

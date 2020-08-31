@@ -1,0 +1,26 @@
+[
+  {
+    "package": "geometry",
+    "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
+    "url": "https://github.com/davidcsterratt/geometry",
+    "available": false
+  },
+  {
+    "package": "retistruct",
+    "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
+    "url": "https://github.com/davidcsterratt/retistruct",
+    "available": false
+  },
+  {
+    "package": "RImageJROI",
+    "maintainer": "David C Sterratt <david.c.sterratt@ed.ac.uk>",
+    "url": "https://github.com/davidcsterratt/rimagejroi",
+    "available": true
+  },
+  {
+    "package": "RTriangle",
+    "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
+    "url": "https://github.com/davidcsterratt/rtriangle",
+    "available": false
+  }
+]

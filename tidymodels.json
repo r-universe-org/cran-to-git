@@ -1,0 +1,164 @@
+[
+  {
+    "package": "applicable",
+    "maintainer": "Marly Gotti <marlygotti@gmail.com>",
+    "url": "https://github.com/tidymodels/applicable",
+    "available": true
+  },
+  {
+    "package": "baguette",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/baguette",
+    "available": true
+  },
+  {
+    "package": "broom",
+    "maintainer": "Alex Hayes <alexpghayes@gmail.com>",
+    "url": "https://github.com/tidymodels/broom",
+    "available": true
+  },
+  {
+    "package": "butcher",
+    "maintainer": "Joyce Cahoon <joyceyu48@gmail.com>",
+    "url": "https://github.com/tidymodels/butcher",
+    "available": true
+  },
+  {
+    "package": "corrr",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/corrr",
+    "available": true
+  },
+  {
+    "package": "dials",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/dials",
+    "available": true
+  },
+  {
+    "package": "discrim",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/discrim",
+    "available": true
+  },
+  {
+    "package": "embed",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/embed",
+    "available": true
+  },
+  {
+    "package": "hardhat",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/tidymodels/hardhat",
+    "available": true
+  },
+  {
+    "package": "infer",
+    "maintainer": "Andrew Bray <abray@reed.edu>",
+    "url": "https://github.com/tidymodels/infer",
+    "available": true
+  },
+  {
+    "package": "modeldata",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/tidymodels",
+    "available": true
+  },
+  {
+    "package": "modeldb",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/modeldb",
+    "available": true
+  },
+  {
+    "package": "parsnip",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/parsnip",
+    "available": true
+  },
+  {
+    "package": "plsmod",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/plsmod",
+    "available": true
+  },
+  {
+    "package": "poissonreg",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/poissonreg",
+    "available": true
+  },
+  {
+    "package": "probably",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/tidymodels/probably",
+    "available": true
+  },
+  {
+    "package": "recipes",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/recipes",
+    "available": true
+  },
+  {
+    "package": "rsample",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/rsample",
+    "available": true
+  },
+  {
+    "package": "rules",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/rules",
+    "available": true
+  },
+  {
+    "package": "textrecipes",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/tidymodels/textrecipes",
+    "available": true
+  },
+  {
+    "package": "themis",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/tidymodels/themis",
+    "available": true
+  },
+  {
+    "package": "tidymodels",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/tidymodels",
+    "available": true
+  },
+  {
+    "package": "tidyposterior",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/tidyposterior",
+    "available": true
+  },
+  {
+    "package": "tidypredict",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/tidypredict",
+    "available": true
+  },
+  {
+    "package": "tune",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/tune",
+    "available": true
+  },
+  {
+    "package": "workflows",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/tidymodels/workflows",
+    "available": true
+  },
+  {
+    "package": "yardstick",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/tidymodels/yardstick",
+    "available": true
+  }
+]

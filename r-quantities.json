@@ -1,0 +1,26 @@
+[
+  {
+    "package": "constants",
+    "maintainer": "Iñaki Ucar <i.ucar86@gmail.com>",
+    "url": "https://github.com/r-quantities/constants",
+    "available": true
+  },
+  {
+    "package": "errors",
+    "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
+    "url": "https://github.com/r-quantities/errors",
+    "available": true
+  },
+  {
+    "package": "quantities",
+    "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
+    "url": "https://github.com/r-quantities/quantities",
+    "available": true
+  },
+  {
+    "package": "units",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-quantities/units",
+    "available": true
+  }
+]

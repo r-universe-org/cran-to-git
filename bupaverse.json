@@ -1,0 +1,38 @@
+[
+  {
+    "package": "bupaR",
+    "maintainer": "Gert Janssenswillen <gert.janssenswillen@uhasselt.be>",
+    "url": "https://github.com/bupaverse/bupar",
+    "available": true
+  },
+  {
+    "package": "edeaR",
+    "maintainer": "Gert Janssenswillen <gert.janssenswillen@uhasselt.be>",
+    "url": "https://github.com/bupaverse/edear",
+    "available": true
+  },
+  {
+    "package": "heuristicsmineR",
+    "maintainer": "Felix Mannhardt <felix.mannhardt@sintef.no>",
+    "url": "https://github.com/bupaverse/heuristicsminer",
+    "available": true
+  },
+  {
+    "package": "processanimateR",
+    "maintainer": "Felix Mannhardt <felix.mannhardt@sintef.no>",
+    "url": "https://github.com/bupaverse/processanimater",
+    "available": true
+  },
+  {
+    "package": "processcheckR",
+    "maintainer": "Gert Janssenswillen <gert.janssenswillen@uhasselt.be>",
+    "url": "https://github.com/bupaverse/processcheckr",
+    "available": true
+  },
+  {
+    "package": "processmapR",
+    "maintainer": "Gert Janssenswillen <gert.janssenswillen@uhasselt.be>",
+    "url": "https://github.com/bupaverse/processmapr",
+    "available": true
+  }
+]

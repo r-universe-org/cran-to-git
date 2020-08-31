@@ -1,0 +1,44 @@
+[
+  {
+    "package": "dams",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/dams",
+    "available": true
+  },
+  {
+    "package": "nesRdata",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/nesrdata",
+    "available": true
+  },
+  {
+    "package": "nhdR",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/nhdr",
+    "available": true
+  },
+  {
+    "package": "nlaR",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/nlar",
+    "available": true
+  },
+  {
+    "package": "rv",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/rv",
+    "available": true
+  },
+  {
+    "package": "wikilake",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/wikilake",
+    "available": true
+  },
+  {
+    "package": "wql",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/jsta/wql",
+    "available": true
+  }
+]

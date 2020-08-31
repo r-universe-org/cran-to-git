@@ -1,0 +1,32 @@
+[
+  {
+    "package": "antaresProcessing",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/antaresprocessing",
+    "available": true
+  },
+  {
+    "package": "antaresRead",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/antaresread",
+    "available": true
+  },
+  {
+    "package": "antaresViz",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/antaresviz",
+    "available": true
+  },
+  {
+    "package": "manipulateWidget",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/manipulatewidget",
+    "available": true
+  },
+  {
+    "package": "spMaps",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/spmaps",
+    "available": true
+  }
+]

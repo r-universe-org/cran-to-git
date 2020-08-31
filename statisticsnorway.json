@@ -1,0 +1,32 @@
+[
+  {
+    "package": "CalibrateSSB",
+    "maintainer": "Oyvind Langsrud <oyl@ssb.no>",
+    "url": "https://github.com/statisticsnorway/calibratessb",
+    "available": true
+  },
+  {
+    "package": "easySdcTable",
+    "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
+    "url": "https://github.com/statisticsnorway/easysdctable",
+    "available": true
+  },
+  {
+    "package": "klassR",
+    "maintainer": "Susie Jentoft <susie.jentoft@ssb.no>",
+    "url": "https://github.com/statisticsnorway/klassr",
+    "available": true
+  },
+  {
+    "package": "SmallCountRounding",
+    "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
+    "url": "https://github.com/statisticsnorway/smallcountrounding",
+    "available": true
+  },
+  {
+    "package": "SSBtools",
+    "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
+    "url": "https://github.com/statisticsnorway/ssbtools",
+    "available": true
+  }
+]

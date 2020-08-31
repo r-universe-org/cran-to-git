@@ -1,0 +1,14 @@
+[
+  {
+    "package": "adaptMCMC",
+    "maintainer": "Andreas Scheidegger <andreas.scheidegger@eawag.ch>",
+    "url": "https://github.com/scheidan/adaptmcmc",
+    "available": false
+  },
+  {
+    "package": "WaMaSim",
+    "maintainer": "Christian Foerster <christian.foerster@eawag.ch>",
+    "url": "https://github.com/scheidan/wamasim",
+    "available": true
+  }
+]

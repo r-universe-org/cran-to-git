@@ -1,0 +1,20 @@
+[
+  {
+    "package": "FAdist",
+    "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
+    "url": "https://github.com/tpetzoldt/fadist",
+    "available": true
+  },
+  {
+    "package": "FAmle",
+    "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
+    "url": "https://github.com/tpetzoldt/famle",
+    "available": false
+  },
+  {
+    "package": "growthrates",
+    "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
+    "url": "https://github.com/tpetzoldt/growthrates",
+    "available": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "igraph",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/igraph/igraph",
+    "available": false
+  },
+  {
+    "package": "igraphdata",
+    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/igraph/igraphdata",
+    "available": true
+  }
+]

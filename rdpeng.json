@@ -1,0 +1,32 @@
+[
+  {
+    "package": "filehash",
+    "maintainer": "Roger D. Peng <rdpeng@jhu.edu>",
+    "url": "https://github.com/rdpeng/filehash",
+    "available": true
+  },
+  {
+    "package": "filehashSQLite",
+    "maintainer": "Roger D. Peng <rpeng@jhsph.edu>",
+    "url": "https://github.com/rdpeng/filehashsqlite",
+    "available": true
+  },
+  {
+    "package": "gpclib",
+    "maintainer": "Roger D. Peng <rpeng@jhsph.edu>",
+    "url": "https://github.com/rdpeng/gpclib",
+    "available": true
+  },
+  {
+    "package": "mvtsplot",
+    "maintainer": "Roger D. Peng <rpeng@jhsph.edu>",
+    "url": "https://github.com/rdpeng/mvtsplot",
+    "available": true
+  },
+  {
+    "package": "simpleboot",
+    "maintainer": "Roger D. Peng <rpeng@jhsph.edu>",
+    "url": "https://github.com/rdpeng/simpleboot",
+    "available": true
+  }
+]

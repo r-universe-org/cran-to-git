@@ -1,0 +1,38 @@
+[
+  {
+    "package": "SciViews",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/sciviews",
+    "available": true
+  },
+  {
+    "package": "svDialogs",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svdialogs",
+    "available": true
+  },
+  {
+    "package": "svGUI",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svgui",
+    "available": true
+  },
+  {
+    "package": "svMisc",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svmisc",
+    "available": true
+  },
+  {
+    "package": "svSocket",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svsocket",
+    "available": true
+  },
+  {
+    "package": "svUnit",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svunit",
+    "available": true
+  }
+]

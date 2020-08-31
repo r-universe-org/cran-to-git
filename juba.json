@@ -1,0 +1,38 @@
+[
+  {
+    "package": "explor",
+    "maintainer": "Julien Barnier <julien.barnier@cnrs.fr>",
+    "url": "https://github.com/juba/explor",
+    "available": true
+  },
+  {
+    "package": "questionr",
+    "maintainer": "Julien Barnier <julien.barnier@cnrs.fr>",
+    "url": "https://github.com/juba/questionr",
+    "available": true
+  },
+  {
+    "package": "rainette",
+    "maintainer": "Julien Barnier <julien.barnier@cnrs.fr>",
+    "url": "https://github.com/juba/rainette",
+    "available": true
+  },
+  {
+    "package": "rmdformats",
+    "maintainer": "Julien Barnier <julien.barnier@cnrs.fr>",
+    "url": "https://github.com/juba/rmdformats",
+    "available": true
+  },
+  {
+    "package": "scatterD3",
+    "maintainer": "Julien Barnier <julien.barnier@cnrs.fr>",
+    "url": "https://github.com/juba/scatterd3",
+    "available": true
+  },
+  {
+    "package": "shinyglide",
+    "maintainer": "Julien Barnier <julien.barnier@ens-lyon.fr>",
+    "url": "https://github.com/juba/shinyglide",
+    "available": true
+  }
+]

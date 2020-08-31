@@ -1,0 +1,20 @@
+[
+  {
+    "package": "magicLamp",
+    "maintainer": "Simon Garnier <garnier@njit.edu>",
+    "url": "https://github.com/swarm-lab/magiclamp",
+    "available": true
+  },
+  {
+    "package": "ROpenCVLite",
+    "maintainer": "Simon Garnier <garnier@njit.edu>",
+    "url": "https://github.com/swarm-lab/ropencvlite",
+    "available": true
+  },
+  {
+    "package": "trackdf",
+    "maintainer": "Simon Garnier <garnier@njit.edu>",
+    "url": "https://github.com/swarm-lab/trackdf",
+    "available": true
+  }
+]

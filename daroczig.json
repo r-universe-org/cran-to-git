@@ -1,0 +1,26 @@
+[
+  {
+    "package": "botor",
+    "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
+    "url": "https://github.com/daroczig/botor",
+    "available": true
+  },
+  {
+    "package": "logger",
+    "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
+    "url": "https://github.com/daroczig/logger",
+    "available": true
+  },
+  {
+    "package": "migration.indices",
+    "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
+    "url": "https://github.com/daroczig/migration.indices",
+    "available": true
+  },
+  {
+    "package": "saves",
+    "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
+    "url": "https://github.com/daroczig/saves",
+    "available": true
+  }
+]

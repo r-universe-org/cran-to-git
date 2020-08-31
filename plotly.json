@@ -1,0 +1,38 @@
+[
+  {
+    "package": "dash",
+    "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
+    "url": "https://github.com/plotly/dashr",
+    "available": true
+  },
+  {
+    "package": "dashCoreComponents",
+    "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
+    "url": "https://github.com/plotly/dash-core-components",
+    "available": true
+  },
+  {
+    "package": "dashHtmlComponents",
+    "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
+    "url": "https://github.com/plotly/dash-html-components",
+    "available": true
+  },
+  {
+    "package": "dashPivottable",
+    "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
+    "url": "https://github.com/plotly/dash-pivottable",
+    "available": true
+  },
+  {
+    "package": "dashTable",
+    "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
+    "url": "https://github.com/plotly/dash-table",
+    "available": true
+  },
+  {
+    "package": "rasterly",
+    "maintainer": "Zehao Xu <z267xu@uwaterloo.ca>",
+    "url": "https://github.com/plotly/rasterly",
+    "available": true
+  }
+]

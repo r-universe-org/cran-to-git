@@ -1,0 +1,20 @@
+[
+  {
+    "package": "h2o",
+    "maintainer": "Erin LeDell <erin@h2o.ai>",
+    "url": "https://github.com/h2oai/h2o-3",
+    "available": false
+  },
+  {
+    "package": "h2o4gpu",
+    "maintainer": "Yuan Tang <terrytangyuan@gmail.com>",
+    "url": "https://github.com/h2oai/h2o4gpu",
+    "available": false
+  },
+  {
+    "package": "rsparkling",
+    "maintainer": "Jakub Hava <jakub@h2o.ai>",
+    "url": "https://github.com/h2oai/sparkling-water",
+    "available": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "package": "ARTool",
+    "maintainer": "Matthew Kay <mjskay@umich.edu>",
+    "url": "https://github.com/mjskay/artool",
+    "available": true
+  },
+  {
+    "package": "ggdist",
+    "maintainer": "Matthew Kay <mjskay@umich.edu>",
+    "url": "https://github.com/mjskay/ggdist",
+    "available": true
+  },
+  {
+    "package": "tidybayes",
+    "maintainer": "Matthew Kay <mjskay@umich.edu>",
+    "url": "https://github.com/mjskay/tidybayes",
+    "available": true
+  }
+]

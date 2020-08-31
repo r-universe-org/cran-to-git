@@ -1,0 +1,32 @@
+[
+  {
+    "package": "diffee",
+    "maintainer": "Beilun Wang <bw4mw@virginia.edu>",
+    "url": "https://github.com/qdata/diffee",
+    "available": false
+  },
+  {
+    "package": "fasjem",
+    "maintainer": "Beilun Wang <bw4mw@virginia.edu>",
+    "url": "https://github.com/qdata/jem",
+    "available": false
+  },
+  {
+    "package": "jeek",
+    "maintainer": "Beilun Wang <bw4mw@virginia.edu>",
+    "url": "https://github.com/qdata/jeek",
+    "available": false
+  },
+  {
+    "package": "JointNets",
+    "maintainer": "Arshdeep Sekhon <as5cu@virginia.edu>",
+    "url": "https://github.com/qdata/jointnets",
+    "available": true
+  },
+  {
+    "package": "simule",
+    "maintainer": "Beilun Wang <bw4mw@virginia.edu>",
+    "url": "https://github.com/qdata/simule",
+    "available": false
+  }
+]

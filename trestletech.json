@@ -1,0 +1,26 @@
+[
+  {
+    "package": "plumber",
+    "maintainer": "Jeff Allen <cran@trestletech.com>",
+    "url": "https://github.com/trestletech/plumber",
+    "available": true
+  },
+  {
+    "package": "shinyAce",
+    "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
+    "url": "https://github.com/trestletech/shinyace",
+    "available": true
+  },
+  {
+    "package": "shinyRGL",
+    "maintainer": "Jeff Allen <jeff@trestletech.com>",
+    "url": "https://github.com/trestletech/shinyrgl",
+    "available": true
+  },
+  {
+    "package": "shinyTree",
+    "maintainer": "Mike Schaffer <mschaff@gmail.com>",
+    "url": "https://github.com/trestletech/shinytree",
+    "available": true
+  }
+]

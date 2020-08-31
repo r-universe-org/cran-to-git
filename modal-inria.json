@@ -1,0 +1,26 @@
+[
+  {
+    "package": "Rankcluster",
+    "maintainer": "Quentin Grimonprez <quentin.grimonprez@inria.fr>",
+    "url": "https://github.com/modal-inria/rankcluster",
+    "available": true
+  },
+  {
+    "package": "RMixtComp",
+    "maintainer": "Quentin Grimonprez <quentin.grimonprez@inria.fr>",
+    "url": "https://github.com/modal-inria/mixtcomp",
+    "available": false
+  },
+  {
+    "package": "RMixtCompIO",
+    "maintainer": "Quentin Grimonprez <quentin.grimonprez@inria.fr>",
+    "url": "https://github.com/modal-inria/mixtcomp",
+    "available": false
+  },
+  {
+    "package": "RMixtCompUtilities",
+    "maintainer": "Quentin Grimonprez <quentin.grimonprez@inria.fr>",
+    "url": "https://github.com/modal-inria/mixtcomp",
+    "available": false
+  }
+]

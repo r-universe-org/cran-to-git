@@ -1,0 +1,32 @@
+[
+  {
+    "package": "fgeo",
+    "maintainer": "Mauro Lepore <maurolepore@gmail.com>",
+    "url": "https://github.com/forestgeo/fgeo",
+    "available": true
+  },
+  {
+    "package": "fgeo.analyze",
+    "maintainer": "Mauro Lepore <maurolepore@gmail.com>",
+    "url": "https://github.com/forestgeo/fgeo.analyze",
+    "available": true
+  },
+  {
+    "package": "fgeo.plot",
+    "maintainer": "Mauro Lepore <maurolepore@gmail.com>",
+    "url": "https://github.com/forestgeo/fgeo.plot",
+    "available": true
+  },
+  {
+    "package": "fgeo.tool",
+    "maintainer": "Mauro Lepore <maurolepore@gmail.com>",
+    "url": "https://github.com/forestgeo/fgeo.tool",
+    "available": true
+  },
+  {
+    "package": "fgeo.x",
+    "maintainer": "Mauro Lepore <maurolepore@gmail.com>",
+    "url": "https://github.com/forestgeo/fgeo.x",
+    "available": true
+  }
+]

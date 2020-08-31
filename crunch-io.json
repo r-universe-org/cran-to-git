@@ -1,0 +1,20 @@
+[
+  {
+    "package": "crplyr",
+    "maintainer": "Greg Freedman Ellis <greg@crunch.io>",
+    "url": "https://github.com/crunch-io/crplyr",
+    "available": true
+  },
+  {
+    "package": "crunch",
+    "maintainer": "Greg Freedman Ellis <greg@crunch.io>",
+    "url": "https://github.com/crunch-io/rcrunch",
+    "available": true
+  },
+  {
+    "package": "crunchy",
+    "maintainer": "Greg Freedman Ellis <greg@crunch.io>",
+    "url": "https://github.com/crunch-io/crunchy",
+    "available": true
+  }
+]

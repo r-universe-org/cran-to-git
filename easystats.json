@@ -1,0 +1,50 @@
+[
+  {
+    "package": "bayestestR",
+    "maintainer": "Dominique Makowski <dom.makowski@gmail.com>",
+    "url": "https://github.com/easystats/bayestestr",
+    "available": true
+  },
+  {
+    "package": "correlation",
+    "maintainer": "Dominique Makowski <dom.makowski@gmail.com>",
+    "url": "https://github.com/easystats/correlation",
+    "available": true
+  },
+  {
+    "package": "effectsize",
+    "maintainer": "Mattan S. Ben-Shachar <matanshm@post.bgu.ac.il>",
+    "url": "https://github.com/easystats/effectsize",
+    "available": true
+  },
+  {
+    "package": "insight",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/easystats/insight",
+    "available": true
+  },
+  {
+    "package": "modelbased",
+    "maintainer": "Dominique Makowski <dom.makowski@gmail.com>",
+    "url": "https://github.com/easystats/modelbased",
+    "available": true
+  },
+  {
+    "package": "parameters",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/easystats/parameters",
+    "available": true
+  },
+  {
+    "package": "performance",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/easystats/performance",
+    "available": true
+  },
+  {
+    "package": "see",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/easystats/see",
+    "available": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "package": "cowplot",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/cowplot",
+    "available": true
+  },
+  {
+    "package": "ggridges",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/ggridges",
+    "available": true
+  },
+  {
+    "package": "ggtext",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/ggtext",
+    "available": true
+  },
+  {
+    "package": "gridtext",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/gridtext",
+    "available": true
+  },
+  {
+    "package": "isoband",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/isoband",
+    "available": true
+  },
+  {
+    "package": "sicegar",
+    "maintainer": "Claus O. Wilke <wilke@austin.utexas.edu>",
+    "url": "https://github.com/wilkelab/sicegar",
+    "available": true
+  }
+]

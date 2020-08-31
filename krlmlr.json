@@ -1,0 +1,74 @@
+[
+  {
+    "package": "bindr",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/bindr",
+    "available": true
+  },
+  {
+    "package": "bindrcpp",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/bindrcpp",
+    "available": true
+  },
+  {
+    "package": "dm",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/dm",
+    "available": true
+  },
+  {
+    "package": "enc",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/enc",
+    "available": true
+  },
+  {
+    "package": "here",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/here",
+    "available": true
+  },
+  {
+    "package": "kimisc",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/kimisc",
+    "available": true
+  },
+  {
+    "package": "MakefileR",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/makefiler",
+    "available": true
+  },
+  {
+    "package": "mockr",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/mockr",
+    "available": true
+  },
+  {
+    "package": "plogr",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/plogr",
+    "available": true
+  },
+  {
+    "package": "rprojroot",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/rprojroot",
+    "available": true
+  },
+  {
+    "package": "wrswoR",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/wrswor",
+    "available": true
+  },
+  {
+    "package": "wrswoR.benchmark",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/krlmlr/wrswor.benchmark",
+    "available": true
+  }
+]

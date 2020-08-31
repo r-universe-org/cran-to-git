@@ -1,0 +1,62 @@
+[
+  {
+    "package": "ClusterR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/clusterr",
+    "available": true
+  },
+  {
+    "package": "elmNNRcpp",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/elmnnrcpp",
+    "available": true
+  },
+  {
+    "package": "fuzzywuzzyR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/fuzzywuzzyr",
+    "available": true
+  },
+  {
+    "package": "geojsonR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/geojsonr",
+    "available": true
+  },
+  {
+    "package": "GeoMongo",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/geomongo",
+    "available": true
+  },
+  {
+    "package": "KernelKnn",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/kernelknn",
+    "available": true
+  },
+  {
+    "package": "nmslibR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/nmslibr",
+    "available": true
+  },
+  {
+    "package": "OpenImageR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/openimager",
+    "available": true
+  },
+  {
+    "package": "SuperpixelImageSegmentation",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/superpixelimagesegmentation",
+    "available": true
+  },
+  {
+    "package": "textTinyR",
+    "maintainer": "Lampros Mouselimis <mouselimislampros@gmail.com>",
+    "url": "https://github.com/mlampros/texttinyr",
+    "available": true
+  }
+]

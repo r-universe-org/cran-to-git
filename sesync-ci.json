@@ -1,0 +1,14 @@
+[
+  {
+    "package": "postGIStools",
+    "maintainer": "Philippe Marchand <marchand.philippe@gmail.com>",
+    "url": "https://github.com/sesync-ci/postgistools",
+    "available": true
+  },
+  {
+    "package": "rslurm",
+    "maintainer": "Quentin Read <qread@sesync.org>",
+    "url": "https://github.com/sesync-ci/rslurm",
+    "available": true
+  }
+]

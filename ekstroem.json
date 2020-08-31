@@ -1,0 +1,26 @@
+[
+  {
+    "package": "dataMaid",
+    "maintainer": "Claus Thorn Ekstrøm <ekstrom@sund.ku.dk>",
+    "url": "https://github.com/ekstroem/datamaid",
+    "available": true
+  },
+  {
+    "package": "MESS",
+    "maintainer": "Claus Thorn Ekstrøm <claus@rprimer.dk>",
+    "url": "https://github.com/ekstroem/mess",
+    "available": true
+  },
+  {
+    "package": "MethComp",
+    "maintainer": "Claus Thorn Ekstrøm <ekstrom@sund.ku.dk>",
+    "url": "https://github.com/ekstroem/methcomp",
+    "available": true
+  },
+  {
+    "package": "socceR",
+    "maintainer": "Claus Thorn Ekstrøm <ekstrom@sund.ku.dk>",
+    "url": "https://github.com/ekstroem/soccer",
+    "available": true
+  }
+]

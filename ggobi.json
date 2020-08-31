@@ -1,0 +1,26 @@
+[
+  {
+    "package": "DescribeDisplay",
+    "maintainer": "Di Cook <dicook@monash.edu>",
+    "url": "https://github.com/ggobi/describedisplay",
+    "available": true
+  },
+  {
+    "package": "GGally",
+    "maintainer": "Barret Schloerke <schloerke@gmail.com>",
+    "url": "https://github.com/ggobi/ggally",
+    "available": true
+  },
+  {
+    "package": "plumbr",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/ggobi/plumbr",
+    "available": true
+  },
+  {
+    "package": "tourr",
+    "maintainer": "Di Cook <dicook@monash.edu>",
+    "url": "https://github.com/ggobi/tourr",
+    "available": true
+  }
+]

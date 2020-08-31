@@ -1,0 +1,20 @@
+[
+  {
+    "package": "DSI",
+    "maintainer": "Yannick Marcon <yannick.marcon@obiba.org>",
+    "url": "https://github.com/datashield/dsi",
+    "available": true
+  },
+  {
+    "package": "DSLite",
+    "maintainer": "Yannick Marcon <yannick.marcon@obiba.org>",
+    "url": "https://github.com/datashield/dslite",
+    "available": true
+  },
+  {
+    "package": "DSOpal",
+    "maintainer": "Yannick Marcon <yannick.marcon@obiba.org>",
+    "url": "https://github.com/datashield/dsopal",
+    "available": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "package": "ksharp",
+    "maintainer": "Tomasz Konopka <tokonopka@gmail.com>",
+    "url": "https://github.com/tkonopka/ksharp",
+    "available": false
+  },
+  {
+    "package": "Rcssplot",
+    "maintainer": "Tomasz Konopka <tokonopka@gmail.com>",
+    "url": "https://github.com/tkonopka/rcssplot",
+    "available": true
+  },
+  {
+    "package": "umap",
+    "maintainer": "Tomasz Konopka <tokonopka@gmail.com>",
+    "url": "https://github.com/tkonopka/umap",
+    "available": true
+  }
+]

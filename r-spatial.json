@@ -1,0 +1,92 @@
+[
+  {
+    "package": "classInt",
+    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
+    "url": "https://github.com/r-spatial/classint",
+    "available": true
+  },
+  {
+    "package": "gstat",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-spatial/gstat",
+    "available": true
+  },
+  {
+    "package": "leafem",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/leafem",
+    "available": true
+  },
+  {
+    "package": "leafpm",
+    "maintainer": "Kenton Russell <kent.russell@timelyportfolio.com>",
+    "url": "https://github.com/r-spatial/leafpm",
+    "available": true
+  },
+  {
+    "package": "leafsync",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/leafsync",
+    "available": true
+  },
+  {
+    "package": "link2GI",
+    "maintainer": "Chris Reudenbach <reudenbach@uni-marburg.de>",
+    "url": "https://github.com/r-spatial/link2gi",
+    "available": true
+  },
+  {
+    "package": "lwgeom",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-spatial/lwgeom",
+    "available": true
+  },
+  {
+    "package": "mapedit",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/mapedit",
+    "available": true
+  },
+  {
+    "package": "mapview",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/mapview",
+    "available": true
+  },
+  {
+    "package": "RSAGA",
+    "maintainer": "Alexander Brenning <alexander.brenning@uni-jena.de>",
+    "url": "https://github.com/r-spatial/rsaga",
+    "available": true
+  },
+  {
+    "package": "s2",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-spatial/s2",
+    "available": true
+  },
+  {
+    "package": "sf",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-spatial/sf",
+    "available": true
+  },
+  {
+    "package": "spatialreg",
+    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
+    "url": "https://github.com/r-spatial/spatialreg",
+    "available": true
+  },
+  {
+    "package": "spdep",
+    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
+    "url": "https://github.com/r-spatial/spdep",
+    "available": true
+  },
+  {
+    "package": "stars",
+    "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
+    "url": "https://github.com/r-spatial/stars",
+    "available": true
+  }
+]

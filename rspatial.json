@@ -1,0 +1,14 @@
+[
+  {
+    "package": "raster",
+    "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
+    "url": "https://github.com/rspatial/raster",
+    "available": true
+  },
+  {
+    "package": "terra",
+    "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
+    "url": "https://github.com/rspatial/terra",
+    "available": true
+  }
+]

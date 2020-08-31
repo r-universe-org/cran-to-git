@@ -1,0 +1,56 @@
+[
+  {
+    "package": "alphavantager",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/alphavantager",
+    "available": true
+  },
+  {
+    "package": "anomalize",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/anomalize",
+    "available": true
+  },
+  {
+    "package": "correlationfunnel",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/correlationfunnel",
+    "available": true
+  },
+  {
+    "package": "modeltime",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/modeltime",
+    "available": true
+  },
+  {
+    "package": "riingo",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/business-science/riingo",
+    "available": true
+  },
+  {
+    "package": "sweep",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/sweep",
+    "available": true
+  },
+  {
+    "package": "tibbletime",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/business-science/tibbletime",
+    "available": true
+  },
+  {
+    "package": "tidyquant",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/tidyquant",
+    "available": true
+  },
+  {
+    "package": "timetk",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/timetk",
+    "available": true
+  }
+]

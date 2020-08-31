@@ -1,0 +1,44 @@
+[
+  {
+    "package": "logmult",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/logmult",
+    "available": true
+  },
+  {
+    "package": "R.temis",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "available": false
+  },
+  {
+    "package": "R2HTML",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r2html",
+    "available": true
+  },
+  {
+    "package": "RcmdrPlugin.temis",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "available": false
+  },
+  {
+    "package": "SnowballC",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "available": false
+  },
+  {
+    "package": "tm.plugin.factiva",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "available": false
+  },
+  {
+    "package": "tm.plugin.lexisnexis",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "available": false
+  }
+]

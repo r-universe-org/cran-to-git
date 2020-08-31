@@ -1,0 +1,32 @@
+[
+  {
+    "package": "BayLum",
+    "maintainer": "Anne Philippe <anne.philippe@univ-nantes.fr>",
+    "url": "https://github.com/r-lum/baylum",
+    "available": true
+  },
+  {
+    "package": "Luminescence",
+    "maintainer": "Sebastian Kreutzer <sebastian.kreutzer@u-bordeaux-montaigne.fr>",
+    "url": "https://github.com/r-lum/luminescence",
+    "available": true
+  },
+  {
+    "package": "RCarb",
+    "maintainer": "Sebastian Kreutzer <sebastian.kreutzer@u-bordeaux-montaigne.fr>",
+    "url": "https://github.com/r-lum/rcarb",
+    "available": true
+  },
+  {
+    "package": "RLumCarlo",
+    "maintainer": "Sebastian Kreutzer <sebastian.kreutzer@aber.ac.uk>",
+    "url": "https://github.com/r-lum/rlumcarlo",
+    "available": true
+  },
+  {
+    "package": "rxylib",
+    "maintainer": "Sebastian Kreutzer <sebastian.kreutzer@u-bordeaux-montaigne.fr>",
+    "url": "https://github.com/r-lum/rxylib",
+    "available": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "package": "directlabels",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/directlabels",
+    "available": true
+  },
+  {
+    "package": "inlinedocs",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/inlinedocs",
+    "available": true
+  },
+  {
+    "package": "LOPART",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/lopart",
+    "available": true
+  },
+  {
+    "package": "namedCapture",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/namedcapture",
+    "available": true
+  },
+  {
+    "package": "nc",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/nc",
+    "available": true
+  },
+  {
+    "package": "PeakSegDisk",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/peaksegdisk",
+    "available": true
+  },
+  {
+    "package": "penaltyLearning",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/penaltylearning",
+    "available": true
+  },
+  {
+    "package": "WeightedROC",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/weightedroc",
+    "available": true
+  }
+]

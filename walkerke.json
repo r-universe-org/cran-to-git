@@ -1,0 +1,14 @@
+[
+  {
+    "package": "tidycensus",
+    "maintainer": "Kyle Walker <kyle.walker@tcu.edu>",
+    "url": "https://github.com/walkerke/tidycensus",
+    "available": true
+  },
+  {
+    "package": "tigris",
+    "maintainer": "Kyle Walker <kyle@walker-data.com>",
+    "url": "https://github.com/walkerke/tigris",
+    "available": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "package": "microbenchmark",
+    "maintainer": "Joshua M. Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/microbenchmark",
+    "available": true
+  },
+  {
+    "package": "quantmod",
+    "maintainer": "Joshua M. Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/quantmod",
+    "available": true
+  },
+  {
+    "package": "TTR",
+    "maintainer": "Joshua Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/ttr",
+    "available": true
+  },
+  {
+    "package": "xts",
+    "maintainer": "Joshua M. Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/xts",
+    "available": true
+  }
+]

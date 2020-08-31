@@ -1,0 +1,20 @@
+[
+  {
+    "package": "lolR",
+    "maintainer": "Eric Bridgeford <ericwb95@gmail.com>",
+    "url": "https://github.com/neurodata/lol",
+    "available": true
+  },
+  {
+    "package": "mgc",
+    "maintainer": "Eric Bridgeford <ericwb95@gmail.com>",
+    "url": "https://github.com/neurodata/r-mgc",
+    "available": true
+  },
+  {
+    "package": "rerf",
+    "maintainer": "Jesse Patsolic <software@neurodata.io>",
+    "url": "https://github.com/neurodata/r-rerf",
+    "available": true
+  }
+]
