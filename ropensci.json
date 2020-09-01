@@ -1254,6 +1254,12 @@
     "available": true
   },
   {
+    "package": "virtuoso",
+    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
+    "url": "https://github.com/ropensci/virtuoso",
+    "available": true
+  },
+  {
     "package": "visdat",
     "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
     "url": "https://github.com/ropensci/visdat",
