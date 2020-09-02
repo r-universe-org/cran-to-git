@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "downlit",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/downlit",
+    "available": true
+  },
+  {
     "package": "ellipsis",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/ellipsis",
