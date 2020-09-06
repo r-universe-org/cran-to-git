@@ -9,19 +9,19 @@
     "package": "disposables",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/disposables",
-    "available": false
+    "available": true
   },
   {
     "package": "dotenv",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/dotenv",
-    "available": false
+    "available": true
   },
   {
     "package": "franc",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/franc",
-    "available": false
+    "available": true
   },
   {
     "package": "isa2",
@@ -33,19 +33,19 @@
     "package": "keypress",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/keypress",
-    "available": false
+    "available": true
   },
   {
     "package": "lpSolve",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/lpsolve",
-    "available": false
+    "available": true
   },
   {
     "package": "parsedate",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/parsedate",
-    "available": false
+    "available": true
   },
   {
     "package": "praise",
@@ -69,18 +69,18 @@
     "package": "rcorpora",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/rcorpora",
-    "available": false
+    "available": true
   },
   {
     "package": "sankey",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/sankey",
-    "available": false
+    "available": true
   },
   {
     "package": "secret",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/secret",
-    "available": false
+    "available": true
   }
 ]

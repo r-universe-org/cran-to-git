@@ -9,13 +9,13 @@
     "package": "dashCoreComponents",
     "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
     "url": "https://github.com/plotly/dash-core-components",
-    "available": true
+    "available": false
   },
   {
     "package": "dashHtmlComponents",
     "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
     "url": "https://github.com/plotly/dash-html-components",
-    "available": true
+    "available": false
   },
   {
     "package": "dashPivottable",
@@ -27,7 +27,7 @@
     "package": "dashTable",
     "maintainer": "Ryan Patrick Kyle <ryan@plotly.com>",
     "url": "https://github.com/plotly/dash-table",
-    "available": true
+    "available": false
   },
   {
     "package": "rasterly",

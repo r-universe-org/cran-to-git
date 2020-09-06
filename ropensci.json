@@ -213,7 +213,7 @@
     "package": "dittodb",
     "maintainer": "Jonathan Keane <jkeane@gmail.com>",
     "url": "https://github.com/ropensci/dittodb",
-    "available": false
+    "available": true
   },
   {
     "package": "drake",
@@ -381,7 +381,7 @@
     "package": "GSODR",
     "maintainer": "Adam Sparks <adamhsparks@gmail.com>",
     "url": "https://github.com/ropensci/gsodr",
-    "available": false
+    "available": true
   },
   {
     "package": "gutenbergr",
@@ -501,7 +501,7 @@
     "package": "lightr",
     "maintainer": "Hugo Gruson <hugo.gruson+R@normalesup.org>",
     "url": "https://github.com/ropensci/lightr",
-    "available": false
+    "available": true
   },
   {
     "package": "lingtypology",
@@ -909,7 +909,7 @@
     "package": "rglobi",
     "maintainer": "Jorrit Poelen <jhpoelen@xs4all.nl>",
     "url": "https://github.com/ropensci/rglobi",
-    "available": false
+    "available": true
   },
   {
     "package": "rif",
