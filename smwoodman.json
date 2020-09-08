@@ -1,8 +1,20 @@
 [
   {
+    "package": "CruzPlot",
+    "maintainer": "Samuel Woodman <sam.woodman@noaa.gov>",
+    "url": "https://github.com/smwoodman/cruzplot",
+    "available": true
+  },
+  {
     "package": "eSDM",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/smwoodman/esdm",
+    "available": true
+  },
+  {
+    "package": "swfscAirDAS",
+    "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
+    "url": "https://github.com/smwoodman/swfscairdas",
     "available": true
   },
   {
