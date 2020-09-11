@@ -786,6 +786,12 @@
     "available": true
   },
   {
+    "package": "rbace",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/rbace",
+    "available": true
+  },
+  {
     "package": "rbhl",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rbhl",
@@ -1203,12 +1209,6 @@
     "package": "tracerer",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/ropensci/tracerer",
-    "available": true
-  },
-  {
-    "package": "tradestatistics",
-    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
-    "url": "https://github.com/ropensci/tradestatistics",
     "available": true
   },
   {

@@ -1,5 +1,11 @@
 [
   {
+    "package": "crossmap",
+    "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
+    "url": "https://github.com/rossellhayes/crossmap",
+    "available": true
+  },
+  {
     "package": "fauxnaif",
     "maintainer": "Alexander Rossell Hayes <alexander@rossellhayes.com>",
     "url": "https://github.com/rossellhayes/fauxnaif",

@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "diffviewer",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-lib/diffviewer",
+    "available": true
+  },
+  {
     "package": "downlit",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/downlit",
