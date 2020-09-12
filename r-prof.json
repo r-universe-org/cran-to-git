@@ -1,5 +1,11 @@
 [
   {
+    "package": "procmaps",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-prof/procmaps",
+    "available": true
+  },
+  {
     "package": "proffer",
     "maintainer": "William Michael Landau <will.landau@gmail.com>",
     "url": "https://github.com/r-prof/proffer",
