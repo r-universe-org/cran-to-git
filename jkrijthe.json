@@ -1,5 +1,11 @@
 [
   {
+    "package": "RSSL",
+    "maintainer": "Jesse Krijthe <jkrijthe@gmail.com>",
+    "url": "https://github.com/jkrijthe/rssl",
+    "available": true
+  },
+  {
     "package": "Rtsne",
     "maintainer": "Jesse Krijthe <jkrijthe@gmail.com>",
     "url": "https://github.com/jkrijthe/rtsne",
