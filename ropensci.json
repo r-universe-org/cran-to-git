@@ -282,6 +282,12 @@
     "available": true
   },
   {
+    "package": "fingertipsR",
+    "maintainer": "Sebastian Fox <sebastian.fox@phe.gov.uk>",
+    "url": "https://github.com/ropensci/fingertipsr",
+    "available": true
+  },
+  {
     "package": "fulltext",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/fulltext",
