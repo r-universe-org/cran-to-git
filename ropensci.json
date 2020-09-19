@@ -990,6 +990,12 @@
     "available": true
   },
   {
+    "package": "rppo",
+    "maintainer": "John Deck <jdeck88@gmail.com>",
+    "url": "https://github.com/ropensci/rppo",
+    "available": true
+  },
+  {
     "package": "rredlist",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rredlist",
@@ -1209,6 +1215,12 @@
     "package": "tracerer",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/ropensci/tracerer",
+    "available": true
+  },
+  {
+    "package": "tradestatistics",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/ropensci/tradestatistics",
     "available": true
   },
   {
