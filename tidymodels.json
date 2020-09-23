@@ -150,6 +150,12 @@
     "available": true
   },
   {
+    "package": "usemodels",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/usemodels",
+    "available": true
+  },
+  {
     "package": "workflows",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/tidymodels/workflows",

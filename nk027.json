@@ -4,5 +4,17 @@
     "maintainer": "Nikolas Kuschnig <nikolas.kuschnig@wu.ac.at>",
     "url": "https://github.com/nk027/bvar",
     "available": true
+  },
+  {
+    "package": "BVARverse",
+    "maintainer": "Lukas Vashold <lukas.vashold@wu.ac.at>",
+    "url": "https://github.com/nk027/bvarverse",
+    "available": true
+  },
+  {
+    "package": "sanic",
+    "maintainer": "Nikolas Kuschnig <nikolas.kuschnig@wu.ac.at>",
+    "url": "https://github.com/nk027/sanic",
+    "available": true
   }
 ]
