@@ -54,6 +54,12 @@
     "available": false
   },
   {
+    "package": "rle",
+    "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
+    "url": "https://github.com/statnet/rle",
+    "available": true
+  },
+  {
     "package": "statnet",
     "maintainer": "Martina Morris <morrism@uw.edu>",
     "url": "https://github.com/statnet/statnet",
