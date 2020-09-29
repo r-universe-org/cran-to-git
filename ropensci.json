@@ -276,12 +276,6 @@
     "available": true
   },
   {
-    "package": "fingertipsR",
-    "maintainer": "Sebastian Fox <sebastian.fox@phe.gov.uk>",
-    "url": "https://github.com/ropensci/fingertipsr",
-    "available": true
-  },
-  {
     "package": "fulltext",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/fulltext",
@@ -525,6 +519,12 @@
     "package": "mauricer",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/ropensci/mauricer",
+    "available": true
+  },
+  {
+    "package": "medrxivr",
+    "maintainer": "Luke McGuinness <luke.mcguinness@bristol.ac.uk>",
+    "url": "https://github.com/ropensci/medrxivr",
     "available": true
   },
   {
