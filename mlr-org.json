@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "mlr3cluster",
+    "maintainer": "Damir Pulatov <dpulatov@uwyo.edu>",
+    "url": "https://github.com/mlr-org/mlr3cluster",
+    "available": true
+  },
+  {
     "package": "mlr3data",
     "maintainer": "Michel Lang <michellang@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3data",
