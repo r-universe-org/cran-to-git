@@ -1,5 +1,11 @@
 [
   {
+    "package": "HDPenReg",
+    "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
+    "url": "https://github.com/modal-inria/hdpenreg",
+    "available": true
+  },
+  {
     "package": "Rankcluster",
     "maintainer": "Quentin Grimonprez <quentin.grimonprez@inria.fr>",
     "url": "https://github.com/modal-inria/rankcluster",

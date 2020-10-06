@@ -1,5 +1,11 @@
 [
   {
+    "package": "bigrquery",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/r-dbi/bigrquery",
+    "available": true
+  },
+  {
     "package": "DBI",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
     "url": "https://github.com/r-dbi/dbi",
