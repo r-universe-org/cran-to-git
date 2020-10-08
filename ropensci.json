@@ -540,12 +540,6 @@
     "available": true
   },
   {
-    "package": "MODIStsp",
-    "maintainer": "Lorenzo Busetto <lbusett@gmail.com>",
-    "url": "https://github.com/ropensci/modistsp",
-    "available": true
-  },
-  {
     "package": "monkeylearn",
     "maintainer": "Maëlle Salmon <maelle.salmon@yahoo.se>",
     "url": "https://github.com/ropensci/monkeylearn",
@@ -1068,6 +1062,12 @@
     "available": true
   },
   {
+    "package": "skynet",
+    "maintainer": "Filipe Teixeira <Filipe.MarquesTeixeira@Ugent.be>",
+    "url": "https://github.com/ropensci/skynet",
+    "available": true
+  },
+  {
     "package": "smapr",
     "maintainer": "Maxwell Joseph <maxwell.b.joseph@colorado.edu>",
     "url": "https://github.com/ropensci/smapr",
@@ -1167,6 +1167,12 @@
     "package": "taxizedb",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/taxizedb",
+    "available": true
+  },
+  {
+    "package": "taxlist",
+    "maintainer": "Miguel Alvarez <kamapu78@gmail.com>",
+    "url": "https://github.com/ropensci/taxlist",
     "available": true
   },
   {

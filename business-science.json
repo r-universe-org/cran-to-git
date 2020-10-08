@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "modeltime.ensemble",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/modeltime.ensemble",
+    "available": true
+  },
+  {
     "package": "riingo",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/business-science/riingo",
