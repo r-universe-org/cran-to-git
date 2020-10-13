@@ -114,6 +114,12 @@
     "available": true
   },
   {
+    "package": "udpipe",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/udpipe",
+    "available": true
+  },
+  {
     "package": "word2vec",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/word2vec",
