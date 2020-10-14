@@ -1,5 +1,11 @@
 [
   {
+    "package": "gsisdecoder",
+    "maintainer": "Sebastian Carl <mrcaseb@gmail.com>",
+    "url": "https://github.com/mrcaseb/gsisdecoder",
+    "available": true
+  },
+  {
     "package": "nflfastR",
     "maintainer": "Ben Baldwin <bbaldwin206@gmail.com>",
     "url": "https://github.com/mrcaseb/nflfastr",

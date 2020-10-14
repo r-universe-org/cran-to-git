@@ -534,6 +534,12 @@
     "available": true
   },
   {
+    "package": "MODIStsp",
+    "maintainer": "Lorenzo Busetto <lbusett@gmail.com>",
+    "url": "https://github.com/ropensci/modistsp",
+    "available": true
+  },
+  {
     "package": "monkeylearn",
     "maintainer": "Maëlle Salmon <maelle.salmon@yahoo.se>",
     "url": "https://github.com/ropensci/monkeylearn",
@@ -915,6 +921,12 @@
     "package": "ritis",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/ritis",
+    "available": true
+  },
+  {
+    "package": "rmangal",
+    "maintainer": "Steve Vissault <s.vissault@yahoo.fr>",
+    "url": "https://github.com/ropensci/rmangal",
     "available": true
   },
   {
