@@ -156,6 +156,12 @@
     "available": true
   },
   {
+    "package": "CoordinateCleaner",
+    "maintainer": "Alexander Zizka <alexander.zizka@idiv.de>",
+    "url": "https://github.com/ropensci/coordinatecleaner",
+    "available": true
+  },
+  {
     "package": "cRegulome",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/ropensci/cregulome",
@@ -915,6 +921,12 @@
     "package": "rif",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/rif",
+    "available": true
+  },
+  {
+    "package": "rinat",
+    "maintainer": "Stéphane Guillou <stephane.guillou@member.fsf.org>",
+    "url": "https://github.com/ropensci/rinat",
     "available": true
   },
   {
