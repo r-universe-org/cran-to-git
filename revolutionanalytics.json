@@ -7,8 +7,14 @@
   },
   {
     "package": "foreach",
-    "maintainer": "Hong Ooi <hongooi@microsoft.com>",
+    "maintainer": "Michelle Wallig <Michelle.Wallig@microsoft.com>",
     "url": "https://github.com/revolutionanalytics/foreach",
+    "available": true
+  },
+  {
+    "package": "iterators",
+    "maintainer": "Michelle Wallig <Michelle.Wallig@microsoft.com>",
+    "url": "https://github.com/revolutionanalytics/iterators",
     "available": true
   }
 ]
