@@ -1,5 +1,11 @@
 [
   {
+    "package": "provExplainR",
+    "maintainer": "Barbara Lerner <blerner@mtholyoke.edu>",
+    "url": "https://github.com/end-to-end-provenance/provexplainr",
+    "available": true
+  },
+  {
     "package": "provSummarizeR",
     "maintainer": "Barbara Lerner <blerner@mtholyoke.edu>",
     "url": "https://github.com/end-to-end-provenance/provsummarizer",
