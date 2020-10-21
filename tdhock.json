@@ -1,5 +1,11 @@
 [
   {
+    "package": "animint2",
+    "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/animint2",
+    "available": true
+  },
+  {
     "package": "binsegRcpp",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/binseg",

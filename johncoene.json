@@ -30,6 +30,12 @@
     "available": true
   },
   {
+    "package": "packer",
+    "maintainer": "John Coene <jcoenep@gmail.com>",
+    "url": "https://github.com/johncoene/packer",
+    "available": true
+  },
+  {
     "package": "pushbar",
     "maintainer": "John Coene <jcoenep@gmail.com>",
     "url": "https://github.com/johncoene/pushbar",
