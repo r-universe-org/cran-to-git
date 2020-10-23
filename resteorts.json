@@ -1,8 +1,20 @@
 [
   {
+    "package": "cd",
+    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
+    "url": "https://github.com/resteorts/cd",
+    "available": true
+  },
+  {
     "package": "cora",
     "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
     "url": "https://github.com/resteorts/cora",
+    "available": true
+  },
+  {
+    "package": "restaurant",
+    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
+    "url": "https://github.com/resteorts/restaurant",
     "available": true
   }
 ]
