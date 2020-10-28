@@ -1,11 +1,5 @@
 [
   {
-    "package": "eurostat",
-    "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
-    "url": "https://github.com/ropengov/eurostat",
-    "available": true
-  },
-  {
     "package": "federalregister",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
     "url": "https://github.com/ropengov/federalregister",
@@ -21,12 +15,6 @@
     "package": "hetu",
     "maintainer": "Pyry Kantanen <pyry.kantanen@gmail.com>",
     "url": "https://github.com/ropengov/hetu",
-    "available": true
-  },
-  {
-    "package": "iotables",
-    "maintainer": "Daniel Antal <daniel.antal@ceemid.eu>",
-    "url": "https://github.com/ropengov/iotables",
     "available": true
   },
   {
