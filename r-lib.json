@@ -222,6 +222,12 @@
     "available": true
   },
   {
+    "package": "oskeyring",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/oskeyring",
+    "available": true
+  },
+  {
     "package": "pak",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/pak",
