@@ -114,6 +114,12 @@
     "available": true
   },
   {
+    "package": "RcppSimdJson",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppsimdjson",
+    "available": true
+  },
+  {
     "package": "RcppStreams",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppstreams",
