@@ -3,6 +3,7 @@
     "package": "rkeops",
     "maintainer": "Ghislain Durif <gd.dev@libertymail.net>",
     "url": "https://github.com/getkeops/keops",
-    "available": false
+    "subdir": "rkeops",
+    "available": true
   }
 ]

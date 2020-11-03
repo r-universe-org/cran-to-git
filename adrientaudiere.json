@@ -3,6 +3,7 @@
     "package": "cati",
     "maintainer": "Adrien Taudiere <adrien.taudiere@tutanota.com>",
     "url": "https://github.com/adrientaudiere/cati",
-    "available": false
+    "subdir": "pkg/cati",
+    "available": true
   }
 ]

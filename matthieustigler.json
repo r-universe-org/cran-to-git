@@ -3,12 +3,14 @@
     "package": "partsm",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
     "url": "https://github.com/matthieustigler/partsm",
-    "available": false
+    "subdir": "partsm",
+    "available": true
   },
   {
     "package": "tsDyn",
     "maintainer": "Ho Tsung-wu <tsungwu@ntnu.edu.tw>",
     "url": "https://github.com/matthieustigler/tsdyn",
-    "available": false
+    "subdir": "tsDyn",
+    "available": true
   }
 ]

@@ -3,12 +3,14 @@
     "package": "envirem",
     "maintainer": "Pascal Title <ptitle@iu.edu>",
     "url": "https://github.com/ptitle/envirem",
-    "available": false
+    "subdir": "envirem",
+    "available": true
   },
   {
     "package": "rangeBuilder",
     "maintainer": "Pascal Title <ptitle@umich.edu>",
     "url": "https://github.com/ptitle/rangebuilder",
-    "available": false
+    "subdir": "rangeBuilder",
+    "available": true
   }
 ]

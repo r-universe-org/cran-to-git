@@ -15,12 +15,14 @@
     "package": "CondIndTests",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
-    "available": false
+    "subdir": "CondIndTests",
+    "available": true
   },
   {
     "package": "nonlinearICP",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
-    "available": false
+    "subdir": "nonlinearICP",
+    "available": true
   }
 ]

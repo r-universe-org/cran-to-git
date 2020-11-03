@@ -3,12 +3,14 @@
     "package": "mipfp",
     "maintainer": "Johan Barthelemy <johan@uow.edu.au>",
     "url": "https://github.com/jojo-/mipfp",
-    "available": false
+    "subdir": "mipfp",
+    "available": true
   },
   {
     "package": "quarrint",
     "maintainer": "Johan Barthelemy <johan@uow.edu.au>",
     "url": "https://github.com/jojo-/quarrint",
-    "available": false
+    "subdir": "quarrint",
+    "available": true
   }
 ]

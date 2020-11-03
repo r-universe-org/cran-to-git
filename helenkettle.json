@@ -3,6 +3,7 @@
     "package": "stagePop",
     "maintainer": "David Nutter <david.nutter@bioss.ac.uk>",
     "url": "https://github.com/helenkettle/stagepop",
-    "available": false
+    "subdir": "stagePop",
+    "available": true
   }
 ]

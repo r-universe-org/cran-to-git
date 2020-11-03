@@ -27,7 +27,8 @@
     "package": "isa2",
     "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/isa",
-    "available": false
+    "subdir": "isa2",
+    "available": true
   },
   {
     "package": "keypress",

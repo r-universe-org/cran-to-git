@@ -3,6 +3,7 @@
     "package": "inctools",
     "maintainer": "Eduard Grebe <Eduard.Grebe@ucsf.edu>",
     "url": "https://github.com/sacema/inctools",
-    "available": false
+    "subdir": "inctools",
+    "available": true
   }
 ]

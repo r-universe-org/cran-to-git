@@ -3,6 +3,7 @@
     "package": "neptune",
     "maintainer": "Jakub Czakon <jakub.czakon@neptune.ai>",
     "url": "https://github.com/neptune-ai/neptune-r",
-    "available": false
+    "subdir": "neptune",
+    "available": true
   }
 ]

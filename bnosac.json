@@ -21,49 +21,57 @@
     "package": "image.CannyEdges",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.CannyEdges",
+    "available": true
   },
   {
     "package": "image.ContourDetector",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.ContourDetector",
+    "available": true
   },
   {
     "package": "image.CornerDetectionF9",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.CornerDetectionF9",
+    "available": true
   },
   {
     "package": "image.CornerDetectionHarris",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.CornerDetectionHarris",
+    "available": true
   },
   {
     "package": "image.dlib",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.dlib",
+    "available": true
   },
   {
     "package": "image.libfacedetection",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.libfacedetection",
+    "available": true
   },
   {
     "package": "image.LineSegmentDetector",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.LineSegmentDetector",
+    "available": true
   },
   {
     "package": "image.Otsu",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
-    "available": false
+    "subdir": "image.Otsu",
+    "available": true
   },
   {
     "package": "nametagger",

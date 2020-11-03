@@ -10,7 +10,8 @@
     "package": "retistruct",
     "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/retistruct",
-    "available": false
+    "subdir": "pkg/retistruct",
+    "available": true
   },
   {
     "package": "RImageJROI",

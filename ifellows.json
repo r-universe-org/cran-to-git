@@ -3,6 +3,7 @@
     "package": "OpenStreetMap",
     "maintainer": "Ian Fellows <ian@fellstat.com>",
     "url": "https://github.com/ifellows/rosm",
-    "available": false
+    "subdir": "OpenStreetMap",
+    "available": true
   }
 ]

@@ -3,6 +3,7 @@
     "package": "fields",
     "maintainer": "Douglas Nychka <douglasnychka@gmail.com>",
     "url": "https://github.com/ncar/fields",
-    "available": false
+    "subdir": "fields",
+    "available": true
   }
 ]

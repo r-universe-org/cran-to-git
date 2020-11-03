@@ -3,7 +3,8 @@
     "package": "adaptMCMC",
     "maintainer": "Andreas Scheidegger <andreas.scheidegger@eawag.ch>",
     "url": "https://github.com/scheidan/adaptmcmc",
-    "available": false
+    "subdir": "adaptMCMC",
+    "available": true
   },
   {
     "package": "WaMaSim",

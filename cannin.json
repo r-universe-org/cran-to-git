@@ -3,6 +3,7 @@
     "package": "snp.plotter",
     "maintainer": "Augustin Luna <augustin@mail.nih.gov>",
     "url": "https://github.com/cannin/snp_plotter",
-    "available": false
+    "subdir": "snp.plotter",
+    "available": true
   }
 ]

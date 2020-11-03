@@ -3,12 +3,14 @@
     "package": "gMCP",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/kornl/gmcp",
-    "available": false
+    "subdir": "pkg/gMCP",
+    "available": true
   },
   {
     "package": "mutoss",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/kornl/mutoss",
-    "available": false
+    "subdir": "pkg/mutoss",
+    "available": true
   }
 ]

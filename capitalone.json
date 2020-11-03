@@ -3,7 +3,8 @@
     "package": "dataCompareR",
     "maintainer": "Sarah Johnston <Sarah.Johnston@capitalone.com>",
     "url": "https://github.com/capitalone/datacomparer",
-    "available": false
+    "subdir": "dataCompareR",
+    "available": true
   },
   {
     "package": "otvPlots",

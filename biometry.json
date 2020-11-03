@@ -3,6 +3,7 @@
     "package": "bipartite",
     "maintainer": "Carsten F. Dormann <carsten.dormann@biom.uni-freiburg.de>",
     "url": "https://github.com/biometry/bipartite",
-    "available": false
+    "subdir": "bipartite",
+    "available": true
   }
 ]

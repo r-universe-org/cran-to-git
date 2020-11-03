@@ -3,6 +3,7 @@
     "package": "rpartitions",
     "maintainer": "Daniel McGlinn <danmcglinn@gmail.com>",
     "url": "https://github.com/klocey/partitions",
-    "available": false
+    "subdir": "rpartitions",
+    "available": true
   }
 ]

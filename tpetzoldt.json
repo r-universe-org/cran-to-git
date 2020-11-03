@@ -9,7 +9,8 @@
     "package": "FAmle",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/tpetzoldt/famle",
-    "available": false
+    "subdir": "pkg/FAmle",
+    "available": true
   },
   {
     "package": "growthrates",

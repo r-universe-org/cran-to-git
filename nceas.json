@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "metajam",
+    "maintainer": "Julien Brun <brun@nceas.ucsb.edu>",
+    "url": "https://github.com/nceas/metajam",
+    "available": true
+  },
+  {
     "package": "rt",
     "maintainer": "Bryce Mecum <mecum@nceas.ucsb.edu>",
     "url": "https://github.com/nceas/rt",

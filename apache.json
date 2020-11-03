@@ -3,6 +3,7 @@
     "package": "arrow",
     "maintainer": "Neal Richardson <neal@ursalabs.org>",
     "url": "https://github.com/apache/arrow",
-    "available": false
+    "subdir": "r",
+    "available": true
   }
 ]

@@ -27,7 +27,8 @@
     "package": "gym",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
     "url": "https://github.com/paulhendricks/gym-r",
-    "available": false
+    "subdir": "gym",
+    "available": true
   },
   {
     "package": "titanic",

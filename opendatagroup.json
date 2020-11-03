@@ -3,6 +3,7 @@
     "package": "aurelius",
     "maintainer": "Steven Mortimer <reportmort@gmail.com>",
     "url": "https://github.com/opendatagroup/hadrian",
-    "available": false
+    "subdir": "aurelius",
+    "available": true
   }
 ]
