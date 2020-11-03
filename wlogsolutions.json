@@ -3,7 +3,8 @@
     "package": "logging",
     "maintainer": "Walerian Sokolowski <r-logging@wlogsolutions.com>",
     "url": "https://github.com/wlogsolutions/r-logging",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "RSuite",

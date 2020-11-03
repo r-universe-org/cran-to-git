@@ -3,54 +3,63 @@
     "package": "gower",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/gower",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "hashr",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/hashr",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "lumberjack",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/lumberjack",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "rspa",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/rspa",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "rtrim",
     "maintainer": "Patrick Bogaart <rtrim@cbs.nl>",
     "url": "https://github.com/markvanderloo/rtrim",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "settings",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/settings",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "simputation",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/simputation",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "stringdist",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/stringdist",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "tinytest",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/tinytest",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   }
 ]

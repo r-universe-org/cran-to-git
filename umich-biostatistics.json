@@ -34,5 +34,11 @@
     "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
     "url": "https://github.com/umich-biostatistics/qif",
     "available": true
+  },
+  {
+    "package": "SEIRfansy",
+    "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
+    "url": "https://github.com/umich-biostatistics/seirfansy",
+    "available": true
   }
 ]

@@ -3,6 +3,7 @@
     "package": "mmpf",
     "maintainer": "Zachary Jones <zmj@zmjones.com>",
     "url": "https://github.com/zmjones/mmpf",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   }
 ]

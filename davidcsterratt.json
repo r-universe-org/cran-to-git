@@ -3,7 +3,8 @@
     "package": "geometry",
     "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/geometry",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "retistruct",
@@ -21,6 +22,7 @@
     "package": "RTriangle",
     "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/rtriangle",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   }
 ]

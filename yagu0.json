@@ -3,6 +3,7 @@
     "package": "morpheus",
     "maintainer": "Benjamin Auder <Benjamin.Auder@u-psud.fr>",
     "url": "https://github.com/yagu0/morpheus",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   }
 ]

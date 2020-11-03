@@ -3,25 +3,29 @@
     "package": "dcmodify",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/dcmodify",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "deducorrect",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deducorrect",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "deductive",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deductive",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "editrules",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/editrules",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "errorlocate",
@@ -33,13 +37,15 @@
     "package": "lintools",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/lintools",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "validate",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/validate",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "validatetools",
