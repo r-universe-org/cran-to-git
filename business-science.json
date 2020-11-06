@@ -30,6 +30,12 @@
     "available": true
   },
   {
+    "package": "modeltime.resample",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/modeltime.resample",
+    "available": true
+  },
+  {
     "package": "riingo",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/business-science/riingo",

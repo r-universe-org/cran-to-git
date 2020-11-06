@@ -4,5 +4,11 @@
     "maintainer": "David Bucklin <david.bucklin@gmail.com>",
     "url": "https://github.com/mablab/rpostgis",
     "available": true
+  },
+  {
+    "package": "sftrack",
+    "maintainer": "Mathieu Basille <basille@ufl.edu>",
+    "url": "https://github.com/mablab/sftrack",
+    "available": true
   }
 ]

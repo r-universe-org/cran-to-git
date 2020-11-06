@@ -60,6 +60,12 @@
     "available": true
   },
   {
+    "package": "AzureTableStor",
+    "maintainer": "Hong Ooi <hongooi73@gmail.com>",
+    "url": "https://github.com/azure/azuretablestor",
+    "available": true
+  },
+  {
     "package": "AzureVision",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
     "url": "https://github.com/azure/azurevision",

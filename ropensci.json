@@ -906,6 +906,12 @@
     "available": true
   },
   {
+    "package": "rgnparser",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/rgnparser",
+    "available": true
+  },
+  {
     "package": "rif",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/rif",
