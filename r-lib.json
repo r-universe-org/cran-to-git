@@ -174,6 +174,12 @@
     "available": true
   },
   {
+    "package": "gitcreds",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/gitcreds",
+    "available": true
+  },
+  {
     "package": "gmailr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/r-lib/gmailr",
