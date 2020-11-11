@@ -4,5 +4,11 @@
     "maintainer": "PARSE LTD <software@parse-health.org>",
     "url": "https://github.com/celehs/phecap",
     "available": true
+  },
+  {
+    "package": "sureLDA",
+    "maintainer": "Yuri Ahuja <Yuri_Ahuja@hms.harvard.edu>",
+    "url": "https://github.com/celehs/surelda",
+    "available": true
   }
 ]
