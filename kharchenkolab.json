@@ -1,5 +1,11 @@
 [
   {
+    "package": "leidenAlg",
+    "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
+    "url": "https://github.com/kharchenkolab/leidenalg",
+    "available": true
+  },
+  {
     "package": "N2R",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
     "url": "https://github.com/kharchenkolab/n2r",

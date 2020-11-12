@@ -1,5 +1,11 @@
 [
   {
+    "package": "fastai",
+    "maintainer": "Turgut Abdullayev <turqut.a.314@gmail.com>",
+    "url": "https://github.com/henry090/fastai",
+    "available": true
+  },
+  {
     "package": "kerastuneR",
     "maintainer": "Turgut Abdullayev <turqut.a.314@gmail.com>",
     "url": "https://github.com/henry090/kerastuner",
