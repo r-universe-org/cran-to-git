@@ -1,5 +1,11 @@
 [
   {
+    "package": "IRSF",
+    "maintainer": "Jean-Eudes Dazard <jean-eudes.dazard@case.edu>",
+    "url": "https://github.com/jedazard/irsf",
+    "available": true
+  },
+  {
     "package": "MVR",
     "maintainer": "Jean-Eudes Dazard <jean-eudes.dazard@case.edu>",
     "url": "https://github.com/jedazard/mvr",

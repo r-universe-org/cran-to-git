@@ -1,5 +1,11 @@
 [
   {
+    "package": "eixport",
+    "maintainer": "Sergio Ibarra-Espinosa <sergio.ibarra@usp.br>",
+    "url": "https://github.com/atmoschem/eixport",
+    "available": true
+  },
+  {
     "package": "EmissV",
     "maintainer": "Daniel Schuch <schuch@usp.br>",
     "url": "https://github.com/atmoschem/emissv",
