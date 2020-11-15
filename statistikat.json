@@ -1,5 +1,11 @@
 [
   {
+    "package": "simPop",
+    "maintainer": "Matthias Templ <matthias.templ@gmail.com>",
+    "url": "https://github.com/statistikat/simpop",
+    "available": true
+  },
+  {
     "package": "surveysd",
     "maintainer": "Johannes Gussenbauer <Johannes.Gussenbauer@statistik.gv.at>",
     "url": "https://github.com/statistikat/surveysd",
