@@ -192,6 +192,12 @@
     "available": true
   },
   {
+    "package": "here",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-lib/here",
+    "available": true
+  },
+  {
     "package": "httr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/httr",
@@ -351,6 +357,12 @@
     "package": "roxygen2md",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
     "url": "https://github.com/r-lib/roxygen2md",
+    "available": true
+  },
+  {
+    "package": "rprojroot",
+    "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
+    "url": "https://github.com/r-lib/rprojroot",
     "available": true
   },
   {
