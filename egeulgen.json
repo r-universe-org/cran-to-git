@@ -1,5 +1,11 @@
 [
   {
+    "package": "driveR",
+    "maintainer": "Ege Ulgen <egeulgen@gmail.com>",
+    "url": "https://github.com/egeulgen/driver",
+    "available": true
+  },
+  {
     "package": "pathfindR",
     "maintainer": "Ege Ulgen <egeulgen@gmail.com>",
     "url": "https://github.com/egeulgen/pathfindr",

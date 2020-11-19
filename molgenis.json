@@ -1,5 +1,11 @@
 [
   {
+    "package": "DSMolgenisArmadillo",
+    "maintainer": "Fleur Kelpin <f.kelpin@umcg.nl>",
+    "url": "https://github.com/molgenis/molgenis-r-datashield",
+    "available": true
+  },
+  {
     "package": "MolgenisAuth",
     "maintainer": "Fleur Kelpin <f.kelpin@umcg.nl>",
     "url": "https://github.com/molgenis/molgenis-r-auth",

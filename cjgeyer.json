@@ -1,5 +1,11 @@
 [
   {
+    "package": "CatDataAnalysis",
+    "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
+    "url": "https://github.com/cjgeyer/catdataanalysis",
+    "available": false
+  },
+  {
     "package": "glmbb",
     "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
     "url": "https://github.com/cjgeyer/glmbb",

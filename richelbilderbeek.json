@@ -6,9 +6,21 @@
     "available": true
   },
   {
+    "package": "netmhc2pan",
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/richelbilderbeek/netmhc2pan",
+    "available": true
+  },
+  {
     "package": "pureseqtmr",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/richelbilderbeek/pureseqtmr",
+    "available": true
+  },
+  {
+    "package": "tmhmm",
+    "maintainer": "Richel J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/richelbilderbeek/tmhmm",
     "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "missSBM",
+    "maintainer": "Julien Chiquet <julien.chiquet@inrae.fr>",
+    "url": "https://github.com/grosssbm/misssbm",
+    "available": true
+  },
+  {
     "package": "sbm",
     "maintainer": "Julien Chiquet <julien.chiquet@inrae.fr>",
     "url": "https://github.com/grosssbm/sbm",
