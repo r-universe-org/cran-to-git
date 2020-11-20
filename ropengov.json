@@ -1,5 +1,11 @@
 [
   {
+    "package": "eurostat",
+    "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
+    "url": "https://github.com/ropengov/eurostat",
+    "available": true
+  },
+  {
     "package": "federalregister",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
     "url": "https://github.com/ropengov/federalregister",

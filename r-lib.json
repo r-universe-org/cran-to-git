@@ -240,6 +240,12 @@
     "available": true
   },
   {
+    "package": "pak",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/pak",
+    "available": true
+  },
+  {
     "package": "pillar",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
     "url": "https://github.com/r-lib/pillar",
