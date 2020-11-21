@@ -48,6 +48,12 @@
     "available": true
   },
   {
+    "package": "finetune",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/finetune",
+    "available": true
+  },
+  {
     "package": "hardhat",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/tidymodels/hardhat",
