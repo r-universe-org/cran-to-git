@@ -30,6 +30,12 @@
     "available": true
   },
   {
+    "package": "modeltime.gluonts",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/modeltime.gluonts",
+    "available": true
+  },
+  {
     "package": "modeltime.resample",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.resample",

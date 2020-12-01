@@ -1,5 +1,11 @@
 [
   {
+    "package": "nsyllable",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/nsyllable",
+    "available": true
+  },
+  {
     "package": "quanteda",
     "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
     "url": "https://github.com/quanteda/quanteda",
