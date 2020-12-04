@@ -1,5 +1,11 @@
 [
   {
+    "package": "healthyR",
+    "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
+    "url": "https://github.com/spsanderson/healthyr",
+    "available": true
+  },
+  {
     "package": "healthyR.data",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr.data",

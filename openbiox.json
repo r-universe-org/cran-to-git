@@ -1,5 +1,11 @@
 [
   {
+    "package": "contribution",
+    "maintainer": "Shixiang Wang <w_shixiang@163.com>",
+    "url": "https://github.com/openbiox/contribution",
+    "available": true
+  },
+  {
     "package": "UCSCXenaShiny",
     "maintainer": "Shixiang Wang <w_shixiang@163.com>",
     "url": "https://github.com/openbiox/xenashiny",
