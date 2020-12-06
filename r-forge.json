@@ -7,6 +7,13 @@
     "available": true
   },
   {
+    "package": "aspect",
+    "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
+    "url": "https://github.com/r-forge/psychor",
+    "subdir": "pkg/aspect",
+    "available": true
+  },
+  {
     "package": "car",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/car",
@@ -53,6 +60,13 @@
     "maintainer": "Chel Hee Lee <gnustats@gmail.com>",
     "url": "https://github.com/r-forge/wanglee",
     "subdir": "pkg/dsample",
+    "available": true
+  },
+  {
+    "package": "expm",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/expm",
+    "subdir": "pkg",
     "available": true
   },
   {
@@ -208,6 +222,13 @@
     "available": true
   },
   {
+    "package": "Rcplex",
+    "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
+    "url": "https://github.com/r-forge/rcplex",
+    "subdir": "pkg",
+    "available": true
+  },
+  {
     "package": "rgdal",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/rgdal",
@@ -226,6 +247,13 @@
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/r-forge/rgl",
     "subdir": "pkg/rgl",
+    "available": true
+  },
+  {
+    "package": "Rglpk",
+    "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
+    "url": "https://github.com/r-forge/rglp",
+    "subdir": "pkg/Rglpk",
     "available": true
   },
   {
@@ -257,10 +285,24 @@
     "available": true
   },
   {
+    "package": "ROI.models.miplib",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/r-forge/roi",
+    "subdir": "pkg/ROI.models.miplib",
+    "available": true
+  },
+  {
     "package": "ROI.plugin.alabama",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
     "subdir": "pkg/ROI.plugin.alabama",
+    "available": true
+  },
+  {
+    "package": "ROI.plugin.cplex",
+    "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
+    "url": "https://github.com/r-forge/roi",
+    "subdir": "pkg/ROI.plugin.cplex",
     "available": true
   },
   {
@@ -362,6 +404,13 @@
     "available": true
   },
   {
+    "package": "Rsymphony",
+    "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+    "url": "https://github.com/r-forge/rsymphony",
+    "subdir": "pkg",
+    "available": true
+  },
+  {
     "package": "Rwave",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
     "url": "https://github.com/r-forge/rwave",
@@ -429,6 +478,13 @@
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/r-forge/r-temis",
     "subdir": "pkg/tm.plugin.europresse",
+    "available": true
+  },
+  {
+    "package": "truncreg",
+    "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
+    "url": "https://github.com/r-forge/truncreg",
+    "subdir": "pkg",
     "available": true
   },
   {
