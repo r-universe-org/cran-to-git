@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "quanteda.textstats",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/quanteda.textstats",
+    "available": true
+  },
+  {
     "package": "readtext",
     "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
     "url": "https://github.com/quanteda/readtext",
