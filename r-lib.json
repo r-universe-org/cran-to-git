@@ -54,6 +54,12 @@
     "available": true
   },
   {
+    "package": "coro",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/r-lib/coro",
+    "available": true
+  },
+  {
     "package": "covr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/r-lib/covr",
