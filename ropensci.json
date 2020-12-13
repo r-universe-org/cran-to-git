@@ -546,6 +546,12 @@
     "available": true
   },
   {
+    "package": "MODIStsp",
+    "maintainer": "Luigi Ranghetti <luigi@ranghetti.info>",
+    "url": "https://github.com/ropensci/modistsp",
+    "available": true
+  },
+  {
     "package": "MtreeRing",
     "maintainer": "Jingning Shi <snow940220@bjfu.edu.cn>",
     "url": "https://github.com/ropensci/mtreering",
