@@ -200,12 +200,6 @@
     "available": false
   },
   {
-    "package": "dcGOR",
-    "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
-    "url": "https://github.com/r-forge/dcgor",
-    "available": false
-  },
-  {
     "package": "depmixS4",
     "maintainer": "Ingmar Visser <i.visser@uva.nl>",
     "url": "https://github.com/r-forge/depmix",
@@ -281,12 +275,6 @@
     "url": "https://github.com/r-forge/distr",
     "subdir": "pkg/distrTEst",
     "available": true
-  },
-  {
-    "package": "dnet",
-    "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
-    "url": "https://github.com/r-forge/dnet",
-    "available": false
   },
   {
     "package": "dsample",
