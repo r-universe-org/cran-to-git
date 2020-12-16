@@ -448,8 +448,9 @@
   {
     "package": "inference",
     "maintainer": "Vinh Nguyen <vinhdizzo@gmail.com>",
-    "url": "https://github.com/r-forge/lists",
-    "available": false
+    "url": "https://github.com/r-forge/inference",
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "integIRTy",
@@ -1151,7 +1152,7 @@
   {
     "package": "seqinr",
     "maintainer": "Simon Penel <simon.penel@univ-lyon1.fr>",
-    "url": "https://github.com/r-forge/lists",
+    "url": "https://github.com/r-forge/seqinr",
     "available": false
   },
   {

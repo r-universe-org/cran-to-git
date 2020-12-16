@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "ib",
+    "maintainer": "Samuel Orso <Samuel.Orso@unige.ch>",
+    "url": "https://github.com/smac-group/ib",
+    "available": true
+  },
+  {
     "package": "simts",
     "maintainer": "Stéphane Guerrier <stef.guerrier@gmail.com>",
     "url": "https://github.com/smac-group/simts",
