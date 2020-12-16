@@ -106,8 +106,9 @@
   {
     "package": "CHNOSZ",
     "maintainer": "Jeffrey Dick <j3ffdick@gmail.com>",
-    "url": "https://github.com/r-forge/www.chnosz.net",
-    "available": false
+    "url": "https://github.com/r-forge/chnosz",
+    "subdir": "pkg/CHNOSZ",
+    "available": true
   },
   {
     "package": "ClassComparison",
@@ -146,7 +147,7 @@
   {
     "package": "colorspace",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/colorspace.r-forge.r-project.org",
+    "url": "https://github.com/r-forge/colorspacecontact.html",
     "available": false
   },
   {
@@ -200,7 +201,7 @@
   {
     "package": "dcGOR",
     "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
-    "url": "https://github.com/r-forge/supfam.org",
+    "url": "https://github.com/r-forge/dcgor",
     "available": false
   },
   {
@@ -303,7 +304,7 @@
   {
     "package": "dtw",
     "maintainer": "Toni Giorgino <toni.giorgino@gmail.com>",
-    "url": "https://github.com/r-forge/dynamictimewarping.github.io",
+    "url": "https://github.com/r-forge/dtw",
     "available": false
   },
   {
@@ -397,12 +398,6 @@
     "available": true
   },
   {
-    "package": "gMCP",
-    "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
-    "url": "https://github.com/r-forge/github.com",
-    "available": false
-  },
-  {
     "package": "GNE",
     "maintainer": "Christophe Dutang <christophe.dutang@ensimag.fr>",
     "url": "https://github.com/r-forge/optimizer",
@@ -482,12 +477,6 @@
     "available": true
   },
   {
-    "package": "lattice",
-    "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
-    "url": "https://github.com/r-forge/github.com",
-    "available": false
-  },
-  {
     "package": "latticeExtra",
     "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
     "url": "https://github.com/r-forge/latticeextra",
@@ -531,8 +520,9 @@
   {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
-    "url": "https://github.com/r-forge/r-forge.r-project.org",
-    "available": false
+    "url": "https://github.com/r-forge/matrix",
+    "subdir": "pkg/Matrix",
+    "available": true
   },
   {
     "package": "MatrixModels",
@@ -604,8 +594,9 @@
   {
     "package": "modelfree",
     "maintainer": "Kamila Zychaluk <kamila.zychaluk@liverpool.ac.uk>",
-    "url": "https://github.com/r-forge/www.modelfree.manchester.ac.uk",
-    "available": false
+    "url": "https://github.com/r-forge/modelfree",
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "modEvA",
@@ -631,8 +622,9 @@
   {
     "package": "msap",
     "maintainer": "Andres Perez-Figueroa <anpefi@uvigo.es>",
-    "url": "https://github.com/r-forge/r-forge.r-project.org",
-    "available": false
+    "url": "https://github.com/r-forge/msap",
+    "subdir": "pkg/msap",
+    "available": true
   },
   {
     "package": "multcomp",
@@ -863,8 +855,9 @@
   {
     "package": "rgeos",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
-    "url": "https://github.com/r-forge/github.com",
-    "available": false
+    "url": "https://github.com/r-forge/rgeos",
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "rgl",
@@ -1135,7 +1128,7 @@
   {
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/sandwich.r-forge.r-project.org",
+    "url": "https://github.com/r-forge/sandwichcontact.html",
     "available": false
   },
   {
@@ -1155,7 +1148,7 @@
   {
     "package": "seqinr",
     "maintainer": "Simon Penel <simon.penel@univ-lyon1.fr>",
-    "url": "https://github.com/r-forge/lists.r-forge.r-project.org",
+    "url": "https://github.com/r-forge/listscgi-bin",
     "available": false
   },
   {
@@ -1216,8 +1209,9 @@
   {
     "package": "sparsesvd",
     "maintainer": "Stefan Evert <stefan.evert@fau.de>",
-    "url": "https://github.com/r-forge/tedlab.mit.edu",
-    "available": false
+    "url": "https://github.com/r-forge/wordspace",
+    "subdir": "pkg/sparsesvd",
+    "available": true
   },
   {
     "package": "SpatialExtremes",
@@ -1504,15 +1498,10 @@
     "available": true
   },
   {
-    "package": "lattice",
-    "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
-    "url": "https://github.com/r-forge/github.com",
-    "available": false
-  },
-  {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
-    "url": "https://github.com/r-forge/r-forge.r-project.org",
-    "available": false
+    "url": "https://github.com/r-forge/matrix",
+    "subdir": "pkg/Matrix",
+    "available": true
   }
 ]
