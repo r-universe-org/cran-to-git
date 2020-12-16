@@ -147,8 +147,9 @@
   {
     "package": "colorspace",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/colorspacecontact.html",
-    "available": false
+    "url": "https://github.com/r-forge/colorspace",
+    "subdir": "pkg/colorspace",
+    "available": true
   },
   {
     "package": "CommonJavaJars",
@@ -447,7 +448,7 @@
   {
     "package": "inference",
     "maintainer": "Vinh Nguyen <vinhdizzo@gmail.com>",
-    "url": "https://github.com/r-forge/listsmailman",
+    "url": "https://github.com/r-forge/lists",
     "available": false
   },
   {
@@ -500,8 +501,9 @@
   {
     "package": "loa",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
-    "url": "https://github.com/r-forge/loaloa.intro.html",
-    "available": false
+    "url": "https://github.com/r-forge/loa",
+    "subdir": "pkg/loa",
+    "available": true
   },
   {
     "package": "lshorth",
@@ -704,7 +706,7 @@
   {
     "package": "partykit",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/partykitpartykit",
+    "url": "https://github.com/r-forge/partykit",
     "available": false
   },
   {
@@ -1128,8 +1130,9 @@
   {
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/sandwichcontact.html",
-    "available": false
+    "url": "https://github.com/r-forge/sandwich",
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "SBSA",
@@ -1148,7 +1151,7 @@
   {
     "package": "seqinr",
     "maintainer": "Simon Penel <simon.penel@univ-lyon1.fr>",
-    "url": "https://github.com/r-forge/listscgi-bin",
+    "url": "https://github.com/r-forge/lists",
     "available": false
   },
   {
@@ -1244,7 +1247,7 @@
   {
     "package": "survey",
     "maintainer": "\"Thomas Lumley\" <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/r-forge/r-surveysurvey",
+    "url": "https://github.com/r-forge/r-survey",
     "available": false
   },
   {
