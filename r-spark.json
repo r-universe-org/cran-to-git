@@ -4,5 +4,11 @@
     "maintainer": "Yitao Li <yitao@rstudio.com>",
     "url": "https://github.com/r-spark/sparklyr.flint",
     "available": true
+  },
+  {
+    "package": "sparkwarc",
+    "maintainer": "Yitao Li <yitao@rstudio.com>",
+    "url": "https://github.com/r-spark/sparkwarc",
+    "available": true
   }
 ]

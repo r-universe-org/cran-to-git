@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "nomnoml",
+    "maintainer": "Andrie de Vries <apdevries@gmail.com>",
+    "url": "https://github.com/rstudio/nomnoml",
+    "available": true
+  },
+  {
     "package": "packrat",
     "maintainer": "Kevin Ushey <kevin@rstudio.com>",
     "url": "https://github.com/rstudio/packrat",
@@ -193,7 +199,7 @@
   },
   {
     "package": "rscontract",
-    "maintainer": "Javier Luraschi <javier@rstudio.com>",
+    "maintainer": "Nathan Stephens <nathan@rstudio.com>",
     "url": "https://github.com/rstudio/rscontract",
     "available": true
   },
