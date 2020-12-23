@@ -96,12 +96,6 @@
     "available": true
   },
   {
-    "package": "ccafs",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/ccafs",
-    "available": true
-  },
-  {
     "package": "charlatan",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/charlatan",
@@ -816,12 +810,6 @@
     "available": true
   },
   {
-    "package": "rbraries",
-    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
-    "url": "https://github.com/ropensci/rbraries",
-    "available": true
-  },
-  {
     "package": "rcites",
     "maintainer": "Kevin Cazelles <kevin.cazelles@gmail.com>",
     "url": "https://github.com/ropensci/rcites",
@@ -933,12 +921,6 @@
     "package": "rgnparser",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rgnparser",
-    "available": true
-  },
-  {
-    "package": "rif",
-    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
-    "url": "https://github.com/ropensci/rif",
     "available": true
   },
   {
