@@ -312,12 +312,6 @@
     "available": true
   },
   {
-    "package": "geoops",
-    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
-    "url": "https://github.com/ropensci/geoops",
-    "available": true
-  },
-  {
     "package": "getCRUCLdata",
     "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
     "url": "https://github.com/ropensci/getcrucldata",
@@ -717,12 +711,6 @@
     "package": "plater",
     "maintainer": "Sean Hughes <smhughes@uw.edu>",
     "url": "https://github.com/ropensci/plater",
-    "available": true
-  },
-  {
-    "package": "pleiades",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/pleiades",
     "available": true
   },
   {
