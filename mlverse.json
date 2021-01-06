@@ -4,5 +4,11 @@
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torch",
     "available": true
+  },
+  {
+    "package": "torchvision",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/mlverse/torchvision",
+    "available": true
   }
 ]
