@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "postcards",
+    "maintainer": "Sean Kross <sean@seankross.com>",
+    "url": "https://github.com/seankross/postcards",
+    "available": true
+  },
+  {
     "package": "twilio",
     "maintainer": "Sean Kross <sean@seankross.com>",
     "url": "https://github.com/seankross/twilio",
