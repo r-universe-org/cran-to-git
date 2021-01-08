@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "EpiEstim",
+    "maintainer": "Anne Cori <a.cori@imperial.ac.uk>",
+    "url": "https://github.com/mrc-ide/epiestim",
+    "available": true
+  },
+  {
     "package": "odin",
     "maintainer": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
     "url": "https://github.com/mrc-ide/odin",
