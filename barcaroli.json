@@ -1,5 +1,11 @@
 [
   {
+    "package": "R2BEAT",
+    "maintainer": "Andrea Fasulo <fasulo@istat.it>",
+    "url": "https://github.com/barcaroli/r2beat",
+    "available": true
+  },
+  {
     "package": "SamplingStrata",
     "maintainer": "Giulio Barcaroli <gbarcaroli@gmail.com>",
     "url": "https://github.com/barcaroli/samplingstrata",
