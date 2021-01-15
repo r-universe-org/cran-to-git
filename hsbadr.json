@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayesian",
+    "maintainer": "Hamada S. Badr <badr@jhu.edu>",
+    "url": "https://github.com/hsbadr/bayesian",
+    "available": true
+  },
+  {
     "package": "HiClimR",
     "maintainer": "Hamada S. Badr <badr@jhu.edu>",
     "url": "https://github.com/hsbadr/hiclimr",
