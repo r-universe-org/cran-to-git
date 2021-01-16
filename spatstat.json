@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "spatstat.geom",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/spatstat/spatstat.geom",
+    "available": true
+  },
+  {
     "package": "spatstat.sparse",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/spatstat/spatstat.sparse",
