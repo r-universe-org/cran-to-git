@@ -300,6 +300,12 @@
     "available": true
   },
   {
+    "package": "thematic",
+    "maintainer": "Carson Sievert <carson@rstudio.com>",
+    "url": "https://github.com/rstudio/thematic",
+    "available": true
+  },
+  {
     "package": "tufte",
     "maintainer": "Yihui Xie <xie@yihui.name>",
     "url": "https://github.com/rstudio/tufte",
