@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "AzureCosmosR",
+    "maintainer": "Hong Ooi <hongooi73@gmail.com>",
+    "url": "https://github.com/azure/azurecosmosr",
+    "available": true
+  },
+  {
     "package": "AzureGraph",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
     "url": "https://github.com/azure/azuregraph",
