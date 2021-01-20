@@ -1,5 +1,11 @@
 [
   {
+    "package": "feamiR",
+    "maintainer": "Eleanor Williams <ecw63@cam.ac.uk>",
+    "url": "https://github.com/core-bioinformatics/feamir",
+    "available": true
+  },
+  {
     "package": "noisyr",
     "maintainer": "Ilias Moutsopoulos <im383@cam.ac.uk>",
     "url": "https://github.com/core-bioinformatics/noisyr",

@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "torchdatasets",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/mlverse/torchdatasets",
+    "available": true
+  },
+  {
     "package": "torchvision",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torchvision",
