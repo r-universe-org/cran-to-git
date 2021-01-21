@@ -1,5 +1,11 @@
 [
   {
+    "package": "IRdisplay",
+    "maintainer": "Philipp Angerer <phil.angerer@gmail.com>",
+    "url": "https://github.com/irkernel/irdisplay",
+    "available": true
+  },
+  {
     "package": "IRkernel",
     "maintainer": "Philipp Angerer <phil.angerer@gmail.com>",
     "url": "https://github.com/irkernel/irkernel",
