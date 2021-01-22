@@ -1152,6 +1152,12 @@
     "available": true
   },
   {
+    "package": "targets",
+    "maintainer": "William Michael Landau <will.landau@gmail.com>",
+    "url": "https://github.com/ropensci/targets",
+    "available": true
+  },
+  {
     "package": "taxa",
     "maintainer": "Zachary Foster <zacharyfoster1989@gmail.com>",
     "url": "https://github.com/ropensci/taxa",
