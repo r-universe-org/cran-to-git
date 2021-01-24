@@ -740,13 +740,6 @@
     "available": true
   },
   {
-    "package": "plm",
-    "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
-    "url": "https://github.com/r-forge/plm",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "plotKML",
     "maintainer": "Tomislav Hengl <tom.hengl@opengeohub.org>",
     "url": "https://github.com/r-forge/plotkml",
