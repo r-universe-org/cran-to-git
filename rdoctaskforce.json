@@ -1,11 +1,5 @@
 [
   {
-    "package": "parsetools",
-    "maintainer": "Andrew Redd <andrew.redd@hsc.utah.edu>",
-    "url": "https://github.com/rdoctaskforce/parsetools",
-    "available": true
-  },
-  {
     "package": "pkgcond",
     "maintainer": "Andrew Redd <Andrew.Redd@hsc.utah.edu>",
     "url": "https://github.com/rdoctaskforce/pkgcond",
@@ -15,12 +9,6 @@
     "package": "postlogic",
     "maintainer": "Andrew Redd <Andrew.Redd@hsc.utah.edu>",
     "url": "https://github.com/rdoctaskforce/postlogic",
-    "available": true
-  },
-  {
-    "package": "testextra",
-    "maintainer": "Andrew Redd <andrew.redd@hsc.utah.edu>",
-    "url": "https://github.com/rdoctaskforce/testextra",
     "available": true
   }
 ]
