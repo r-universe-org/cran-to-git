@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "bslib",
+    "maintainer": "Carson Sievert <carson@rstudio.com>",
+    "url": "https://github.com/rstudio/bslib",
+    "available": true
+  },
+  {
     "package": "config",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/config",
