@@ -88,5 +88,11 @@
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
     "url": "https://github.com/azure/azurevmmetadata",
     "available": true
+  },
+  {
+    "package": "Microsoft365R",
+    "maintainer": "Hong Ooi <hongooi73@gmail.com>",
+    "url": "https://github.com/azure/microsoft365r",
+    "available": true
   }
 ]
