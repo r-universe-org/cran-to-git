@@ -60,6 +60,12 @@
     "available": true
   },
   {
+    "package": "mlr3hyperband",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3hyperband",
+    "available": true
+  },
+  {
     "package": "mlr3learners",
     "maintainer": "Michel Lang <michellang@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3learners",

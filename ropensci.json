@@ -366,6 +366,12 @@
     "available": true
   },
   {
+    "package": "grainchanger",
+    "maintainer": "Laura Graham <LauraJaneEGraham@gmail.com>",
+    "url": "https://github.com/ropensci/grainchanger",
+    "available": true
+  },
+  {
     "package": "graphql",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/graphql",
