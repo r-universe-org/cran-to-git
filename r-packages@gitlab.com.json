@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "ufs",
+    "maintainer": "Gjalt-Jorn Peters <gjalt-jorn@behaviorchange.eu>",
+    "url": "https://gitlab.com/r-packages/ufs",
+    "available": true
+  },
+  {
     "package": "yum",
     "maintainer": "Gjalt-Jorn Peters <gjalt-jorn@userfriendlyscience.com>",
     "url": "https://gitlab.com/r-packages/yum",
