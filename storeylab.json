@@ -10,5 +10,29 @@
     "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
     "url": "https://github.com/storeylab/popkin",
     "available": true
+  },
+  {
+    "package": "biobroom",
+    "maintainer": "John D. Storey <jstorey@princeton.edu>",
+    "url": "https://github.com/storeylab/biobroom",
+    "available": true
+  },
+  {
+    "package": "gcatest",
+    "maintainer": "Wei Hao <whao@princeton.edu>",
+    "url": "https://github.com/storeylab/gcatest",
+    "available": true
+  },
+  {
+    "package": "lfa",
+    "maintainer": "Wei Hao <whao@princeton.edu>",
+    "url": "https://github.com/storeylab/lfa",
+    "available": true
+  },
+  {
+    "package": "subSeq",
+    "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
+    "url": "https://github.com/storeylab/subseq",
+    "available": true
   }
 ]

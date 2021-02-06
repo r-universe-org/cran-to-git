@@ -1,0 +1,26 @@
+[
+  {
+    "package": "affyio",
+    "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
+    "url": "https://github.com/bmbolstad/affyio",
+    "available": true
+  },
+  {
+    "package": "affyPLM",
+    "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
+    "url": "https://github.com/bmbolstad/affyplm",
+    "available": true
+  },
+  {
+    "package": "BufferedMatrix",
+    "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
+    "url": "https://github.com/bmbolstad/bufferedmatrix",
+    "available": true
+  },
+  {
+    "package": "preprocessCore",
+    "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
+    "url": "https://github.com/bmbolstad/preprocesscore",
+    "available": true
+  }
+]

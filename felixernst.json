@@ -1,0 +1,62 @@
+[
+  {
+    "package": "EpiTxDb",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/epitxdb",
+    "available": true
+  },
+  {
+    "package": "Modstrings",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/modstrings",
+    "available": true
+  },
+  {
+    "package": "RNAmodR",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/rnamodr",
+    "available": true
+  },
+  {
+    "package": "RNAmodR.AlkAnilineSeq",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/rnamodr.alkanilineseq",
+    "available": true
+  },
+  {
+    "package": "RNAmodR.ML",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/rnamodr.ml",
+    "available": true
+  },
+  {
+    "package": "RNAmodR.RiboMethSeq",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/rnamodr.ribomethseq",
+    "available": true
+  },
+  {
+    "package": "Structstrings",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/structstrings",
+    "available": true
+  },
+  {
+    "package": "tRNA",
+    "maintainer": "Felix GM Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/trna",
+    "available": true
+  },
+  {
+    "package": "tRNAdbImport",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/trnadbimport",
+    "available": true
+  },
+  {
+    "package": "tRNAscanImport",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/felixernst/trnascanimport",
+    "available": true
+  }
+]

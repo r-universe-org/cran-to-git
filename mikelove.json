@@ -1,0 +1,26 @@
+[
+  {
+    "package": "DESeq2",
+    "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
+    "url": "https://github.com/mikelove/deseq2",
+    "available": true
+  },
+  {
+    "package": "fishpond",
+    "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
+    "url": "https://github.com/mikelove/fishpond",
+    "available": true
+  },
+  {
+    "package": "tximeta",
+    "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
+    "url": "https://github.com/mikelove/tximeta",
+    "available": true
+  },
+  {
+    "package": "tximport",
+    "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
+    "url": "https://github.com/mikelove/tximport",
+    "available": true
+  }
+]

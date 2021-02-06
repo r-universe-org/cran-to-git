@@ -22,5 +22,17 @@
     "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
     "url": "https://github.com/rauschenberger/starnet",
     "available": true
+  },
+  {
+    "package": "globalSeq",
+    "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
+    "url": "https://github.com/rauschenberger/globalseq",
+    "available": true
+  },
+  {
+    "package": "semisup",
+    "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
+    "url": "https://github.com/rauschenberger/semisup",
+    "available": true
   }
 ]

@@ -10,5 +10,41 @@
     "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
     "url": "https://github.com/waldronlab/pensim",
     "available": true
+  },
+  {
+    "package": "cBioPortalData",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/cbioportaldata",
+    "available": true
+  },
+  {
+    "package": "CNVRanger",
+    "maintainer": "Ludwig Geistlinger <ludwig_geistlinger@hms.harvard.edu>",
+    "url": "https://github.com/waldronlab/cnvranger",
+    "available": true
+  },
+  {
+    "package": "GSEABenchmarkeR",
+    "maintainer": "Ludwig Geistlinger <Ludwig_Geistlinger@hms.harvard.edu>",
+    "url": "https://github.com/waldronlab/gseabenchmarker",
+    "available": true
+  },
+  {
+    "package": "lefser",
+    "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
+    "url": "https://github.com/waldronlab/lefser",
+    "available": true
+  },
+  {
+    "package": "MultiAssayExperiment",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/multiassayexperiment",
+    "available": true
+  },
+  {
+    "package": "TCGAutils",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/tcgautils",
+    "available": true
   }
 ]

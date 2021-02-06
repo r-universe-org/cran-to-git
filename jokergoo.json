@@ -34,5 +34,53 @@
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/pkgndep",
     "available": true
+  },
+  {
+    "package": "cola",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/cola",
+    "available": true
+  },
+  {
+    "package": "ComplexHeatmap",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/complexheatmap",
+    "available": true
+  },
+  {
+    "package": "EnrichedHeatmap",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/enrichedheatmap",
+    "available": true
+  },
+  {
+    "package": "gtrellis",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/gtrellis",
+    "available": true
+  },
+  {
+    "package": "HilbertCurve",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/hilbertcurve",
+    "available": true
+  },
+  {
+    "package": "InteractiveComplexHeatmap",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/interactivecomplexheatmap",
+    "available": true
+  },
+  {
+    "package": "rGREAT",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/rgreat",
+    "available": true
+  },
+  {
+    "package": "simplifyEnrichment",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/simplifyenrichment",
+    "available": true
   }
 ]

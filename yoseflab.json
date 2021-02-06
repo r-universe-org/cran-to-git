@@ -1,0 +1,20 @@
+[
+  {
+    "package": "LineagePulse",
+    "maintainer": "David S Fischer <david.fischer@helmholtz-muenchen.de>",
+    "url": "https://github.com/yoseflab/lineagepulse",
+    "available": true
+  },
+  {
+    "package": "MPRAnalyze",
+    "maintainer": "Tal Ashuach <tal_ashuach@berkeley.edu>",
+    "url": "https://github.com/yoseflab/mpranalyze",
+    "available": true
+  },
+  {
+    "package": "scone",
+    "maintainer": "Davide Risso <risso.davide@gmail.com>",
+    "url": "https://github.com/yoseflab/scone",
+    "available": true
+  }
+]

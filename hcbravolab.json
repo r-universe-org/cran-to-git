@@ -1,0 +1,20 @@
+[
+  {
+    "package": "antiProfiles",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://github.com/hcbravolab/antiprofiles",
+    "available": true
+  },
+  {
+    "package": "metagenomeFeatures",
+    "maintainer": "Nathan D. Olson <nolson@umiacs.umd.edu>",
+    "url": "https://github.com/hcbravolab/metagenomefeatures",
+    "available": true
+  },
+  {
+    "package": "Wrench",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://github.com/hcbravolab/wrench",
+    "available": true
+  }
+]

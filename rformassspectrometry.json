@@ -1,0 +1,20 @@
+[
+  {
+    "package": "MsCoreUtils",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/mscoreutils",
+    "available": true
+  },
+  {
+    "package": "QFeatures",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/rformassspectrometry/qfeatures",
+    "available": true
+  },
+  {
+    "package": "Spectra",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/spectra",
+    "available": true
+  }
+]

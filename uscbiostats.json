@@ -22,5 +22,17 @@
     "maintainer": "Garrett Weaver <gmweaver.usc@gmail.com>",
     "url": "https://github.com/uscbiostats/xrnet",
     "available": true
+  },
+  {
+    "package": "HiLDA",
+    "maintainer": "Zhi Yang <zyang895@gmail.com>",
+    "url": "https://github.com/uscbiostats/hilda",
+    "available": true
+  },
+  {
+    "package": "selectKSigs",
+    "maintainer": "Zhi Yang <zyang895@gmail.com>",
+    "url": "https://github.com/uscbiostats/hilda",
+    "available": true
   }
 ]

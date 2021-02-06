@@ -1,0 +1,26 @@
+[
+  {
+    "package": "CAMERA",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/camera",
+    "available": true
+  },
+  {
+    "package": "mzR",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/mzr",
+    "available": true
+  },
+  {
+    "package": "Rdisop",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/rdisop",
+    "available": true
+  },
+  {
+    "package": "xcms",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/xcms",
+    "available": true
+  }
+]

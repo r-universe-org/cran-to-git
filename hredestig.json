@@ -5,5 +5,11 @@
     "url": "https://github.com/hredestig/crmn",
     "subdir": "pkg",
     "available": true
+  },
+  {
+    "package": "pcaMethods",
+    "maintainer": "Henning Redestig <henning.red@gmail.com>",
+    "url": "https://github.com/hredestig/pcamethods",
+    "available": true
   }
 ]

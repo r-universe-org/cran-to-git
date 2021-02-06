@@ -1,0 +1,26 @@
+[
+  {
+    "package": "ChemmineOB",
+    "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
+    "url": "https://github.com/girke-lab/chemmineob",
+    "available": true
+  },
+  {
+    "package": "ChemmineR",
+    "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
+    "url": "https://github.com/girke-lab/chemminer",
+    "available": true
+  },
+  {
+    "package": "eiR",
+    "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
+    "url": "https://github.com/girke-lab/eir",
+    "available": true
+  },
+  {
+    "package": "fmcsR",
+    "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
+    "url": "https://github.com/girke-lab/fmcsr",
+    "available": true
+  }
+]

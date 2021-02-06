@@ -4,5 +4,23 @@
     "maintainer": "Nathan C. Sheffield <nathan@code.databio.org>",
     "url": "https://github.com/databio/folderfun",
     "available": true
+  },
+  {
+    "package": "COCOA",
+    "maintainer": "John Lawson <jtl2hk@virginia.edu>",
+    "url": "https://github.com/databio/cocoa",
+    "available": true
+  },
+  {
+    "package": "GenomicDistributions",
+    "maintainer": "Kristyna Kupkova <kristynakupkova@gmail.com>",
+    "url": "https://github.com/databio/genomicdistributions",
+    "available": true
+  },
+  {
+    "package": "MIRA",
+    "maintainer": "John Lawson <jtl2hk@virginia.edu>",
+    "url": "https://github.com/databio/mira",
+    "available": true
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "package": "animalcules",
+    "maintainer": "Yue Zhao <yuezh@bu.edu>",
+    "url": "https://github.com/compbiomed/animalcules",
+    "available": true
+  },
+  {
+    "package": "ASSIGN",
+    "maintainer": "Ying Shen <yshen3@bu.edu>",
+    "url": "https://github.com/compbiomed/assign",
+    "available": true
+  },
+  {
+    "package": "singleCellTK",
+    "maintainer": "Yusuke Koga <ykoga07@bu.edu>",
+    "url": "https://github.com/compbiomed/singlecelltk",
+    "available": true
+  },
+  {
+    "package": "TBSignatureProfiler",
+    "maintainer": "David Jenkins <dfj@bu.edu>",
+    "url": "https://github.com/compbiomed/tbsignatureprofiler",
+    "available": true
+  }
+]

@@ -16,5 +16,41 @@
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/tidytree",
     "available": true
+  },
+  {
+    "package": "ChIPseeker",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/chipseeker",
+    "available": true
+  },
+  {
+    "package": "ggtree",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/ggtree",
+    "available": true
+  },
+  {
+    "package": "ggtreeExtra",
+    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
+    "url": "https://github.com/yulab-smu/ggtreeextra",
+    "available": true
+  },
+  {
+    "package": "GOSemSim",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/gosemsim",
+    "available": true
+  },
+  {
+    "package": "MicrobiotaProcess",
+    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
+    "url": "https://github.com/yulab-smu/microbiotaprocess",
+    "available": true
+  },
+  {
+    "package": "treeio",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/treeio",
+    "available": true
   }
 ]

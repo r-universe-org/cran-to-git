@@ -4,5 +4,23 @@
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/cream",
     "available": true
+  },
+  {
+    "package": "consensusOV",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/bhklab/consensusov",
+    "available": true
+  },
+  {
+    "package": "PharmacoGx",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/bhklab/pharmacogx",
+    "available": true
+  },
+  {
+    "package": "Xeva",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/bhklab/xeva",
+    "available": true
   }
 ]

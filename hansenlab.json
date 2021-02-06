@@ -1,0 +1,32 @@
+[
+  {
+    "package": "bnbc",
+    "maintainer": "Kipper Fletez-Brant <cafletezbrant@gmail.com>",
+    "url": "https://github.com/hansenlab/bnbc",
+    "available": true
+  },
+  {
+    "package": "minfi",
+    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
+    "url": "https://github.com/hansenlab/minfi",
+    "available": true
+  },
+  {
+    "package": "mpra",
+    "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
+    "url": "https://github.com/hansenlab/mpra",
+    "available": true
+  },
+  {
+    "package": "spqn",
+    "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
+    "url": "https://github.com/hansenlab/spqn",
+    "available": true
+  },
+  {
+    "package": "yamss",
+    "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
+    "url": "https://github.com/hansenlab/yamss",
+    "available": true
+  }
+]
