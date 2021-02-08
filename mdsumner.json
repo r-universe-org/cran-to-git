@@ -1,11 +1,5 @@
 [
   {
-    "package": "angstroms",
-    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
-    "url": "https://github.com/mdsumner/angstroms",
-    "available": true
-  },
-  {
     "package": "basf",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/basf",
@@ -57,12 +51,6 @@
     "package": "spex",
     "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/spex",
-    "available": true
-  },
-  {
-    "package": "tripEstimation",
-    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
-    "url": "https://github.com/mdsumner/tripestimation",
     "available": true
   }
 ]

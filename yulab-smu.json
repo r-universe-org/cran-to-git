@@ -24,6 +24,24 @@
     "available": true
   },
   {
+    "package": "clusterProfiler",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/clusterProfiler",
+    "available": true
+  },
+  {
+    "package": "DOSE",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/DOSE",
+    "available": true
+  },
+  {
+    "package": "enrichplot",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/enrichplot",
+    "available": true
+  },
+  {
     "package": "ggtree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggtree",
@@ -42,9 +60,27 @@
     "available": true
   },
   {
+    "package": "meshes",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/meshes",
+    "available": true
+  },
+  {
     "package": "MicrobiotaProcess",
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/microbiotaprocess",
+    "available": true
+  },
+  {
+    "package": "ReactomePA",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/ReactomePA",
+    "available": true
+  },
+  {
+    "package": "seqcombo",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/YuLab-SMU/seqcombo",
     "available": true
   },
   {

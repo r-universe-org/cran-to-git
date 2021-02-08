@@ -144,6 +144,12 @@
     "available": true
   },
   {
+    "package": "parallelMap",
+    "maintainer": "Bernd Bischl <bernd_bischl@gmx.net>",
+    "url": "https://github.com/mlr-org/parallelMap",
+    "available": true
+  },
+  {
     "package": "ParamHelpers",
     "maintainer": "Jakob Richter <code@jakob-r.de>",
     "url": "https://github.com/mlr-org/paramhelpers",

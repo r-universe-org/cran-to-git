@@ -66,6 +66,12 @@
     "available": true
   },
   {
+    "package": "bibtex",
+    "maintainer": "ORPHANED",
+    "url": "https://github.com/ropensci/bibtex",
+    "available": true
+  },
+  {
     "package": "binman",
     "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
     "url": "https://github.com/ropensci/binman",
@@ -96,6 +102,12 @@
     "available": true
   },
   {
+    "package": "camsRad",
+    "maintainer": "Lukas Lundstrom <lukas.rokka@gmail.com>",
+    "url": "https://github.com/ropensci/camsRad",
+    "available": true
+  },
+  {
     "package": "charlatan",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/charlatan",
@@ -111,6 +123,12 @@
     "package": "chlorpromazineR",
     "maintainer": "Eric Brown <eb@ericebrown.com>",
     "url": "https://github.com/ropensci/chlorpromaziner",
+    "available": true
+  },
+  {
+    "package": "citecorp",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/citecorp",
     "available": true
   },
   {
@@ -159,6 +177,12 @@
     "package": "comtradr",
     "maintainer": "Chris Muir <chrismuirRVA@gmail.com>",
     "url": "https://github.com/ropensci/comtradr",
+    "available": true
+  },
+  {
+    "package": "conditionz",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/conditionz",
     "available": true
   },
   {
@@ -264,6 +288,12 @@
     "available": true
   },
   {
+    "package": "ezknitr",
+    "maintainer": "Dean Attali <daattali@gmail.com>",
+    "url": "https://github.com/ropensci/ezknitr",
+    "available": true
+  },
+  {
     "package": "fauxpas",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/fauxpas",
@@ -285,12 +315,6 @@
     "package": "fulltext",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/fulltext",
-    "available": true
-  },
-  {
-    "package": "gender",
-    "maintainer": "Lincoln Mullen <lincoln@lincolnmullen.com>",
-    "url": "https://github.com/ropensci/gender",
     "available": true
   },
   {
@@ -393,12 +417,6 @@
     "package": "handlr",
     "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
     "url": "https://github.com/ropensci/handlr",
-    "available": true
-  },
-  {
-    "package": "hddtools",
-    "maintainer": "Claudia Vitolo <cvitolodev@gmail.com>",
-    "url": "https://github.com/ropensci/hddtools",
     "available": true
   },
   {
@@ -543,6 +561,12 @@
     "package": "MODIStsp",
     "maintainer": "Luigi Ranghetti <luigi@ranghetti.info>",
     "url": "https://github.com/ropensci/modistsp",
+    "available": true
+  },
+  {
+    "package": "mregions",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/mregions",
     "available": true
   },
   {
@@ -714,12 +738,6 @@
     "available": true
   },
   {
-    "package": "plotdap",
-    "maintainer": "Roy Mendelssohn <roy.mendelssohn@noaa.gov>",
-    "url": "https://github.com/ropensci/plotdap",
-    "available": true
-  },
-  {
     "package": "plotly",
     "maintainer": "Carson Sievert <cpsievert1@gmail.com>",
     "url": "https://github.com/ropensci/plotly",
@@ -801,6 +819,12 @@
     "package": "rcites",
     "maintainer": "Kevin Cazelles <kevin.cazelles@gmail.com>",
     "url": "https://github.com/ropensci/rcites",
+    "available": true
+  },
+  {
+    "package": "rcitoid",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropensci/rcitoid",
     "available": true
   },
   {
@@ -918,6 +942,12 @@
     "available": true
   },
   {
+    "package": "riem",
+    "maintainer": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "url": "https://github.com/ropensci/riem",
+    "available": true
+  },
+  {
     "package": "rinat",
     "maintainer": "Stéphane Guillou <stephane.guillou@member.fsf.org>",
     "url": "https://github.com/ropensci/rinat",
@@ -933,6 +963,18 @@
     "package": "rnassqs",
     "maintainer": "Nicholas Potter <potter.nicholas@gmail.com>",
     "url": "https://github.com/ropensci/rnassqs",
+    "available": true
+  },
+  {
+    "package": "rnaturalearth",
+    "maintainer": "Andy South <southandy@gmail.com>",
+    "url": "https://github.com/ropensci/rnaturalearth",
+    "available": true
+  },
+  {
+    "package": "rnaturalearthdata",
+    "maintainer": "Andy South <southandy@gmail.com>",
+    "url": "https://github.com/ropensci/rnaturalearthdata",
     "available": true
   },
   {
@@ -1365,6 +1407,12 @@
     "package": "xslt",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/xslt",
+    "available": true
+  },
+  {
+    "package": "zbank",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropensci/zbank",
     "available": true
   }
 ]

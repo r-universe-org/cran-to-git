@@ -66,6 +66,12 @@
     "available": true
   },
   {
+    "package": "RPyGeo",
+    "maintainer": "Alexander Brenning <alexander.brenning@uni-jena.de>",
+    "url": "https://github.com/r-spatial/RPyGeo",
+    "available": true
+  },
+  {
     "package": "RSAGA",
     "maintainer": "Alexander Brenning <alexander.brenning@uni-jena.de>",
     "url": "https://github.com/r-spatial/rsaga",

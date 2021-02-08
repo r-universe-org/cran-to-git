@@ -1,20 +1,8 @@
 [
   {
-    "package": "ids",
-    "maintainer": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
-    "url": "https://github.com/richfitz/ids",
-    "available": true
-  },
-  {
     "package": "redux",
     "maintainer": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
     "url": "https://github.com/richfitz/redux",
-    "available": true
-  },
-  {
-    "package": "ring",
-    "maintainer": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
-    "url": "https://github.com/richfitz/ring",
     "available": true
   },
   {

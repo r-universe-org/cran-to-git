@@ -18,9 +18,27 @@
     "available": true
   },
   {
+    "package": "osrm",
+    "maintainer": "Timothée Giraud <timothee.giraud@cnrs.fr>",
+    "url": "https://github.com/riatelab/osrm",
+    "available": true
+  },
+  {
     "package": "potential",
     "maintainer": "Timothée Giraud <timothee.giraud@cnrs.fr>",
     "url": "https://github.com/riatelab/potential",
+    "available": true
+  },
+  {
+    "package": "SpatialPosition",
+    "maintainer": "Timothée Giraud <timothee.giraud@cnrs.fr>",
+    "url": "https://github.com/riatelab/SpatialPosition",
+    "available": true
+  },
+  {
+    "package": "tanaka",
+    "maintainer": "Timothée Giraud <timothee.giraud@cnrs.fr>",
+    "url": "https://github.com/riatelab/tanaka",
     "available": true
   }
 ]

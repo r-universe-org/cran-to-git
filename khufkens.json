@@ -1,20 +1,8 @@
 [
   {
-    "package": "daymetr",
-    "maintainer": "Hufkens Koen <koen.hufkens@gmail.com>",
-    "url": "https://github.com/khufkens/daymetr",
-    "available": true
-  },
-  {
     "package": "foto",
     "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
     "url": "https://github.com/khufkens/foto",
-    "available": true
-  },
-  {
-    "package": "snotelr",
-    "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
-    "url": "https://github.com/khufkens/snotelr",
     "available": true
   }
 ]

@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "fcuk",
+    "maintainer": "Vincent Guyader <vincent@thinkr.fr>",
+    "url": "https://github.com/ThinkR-open/fcuk",
+    "available": true
+  },
+  {
     "package": "golem",
     "maintainer": "Vincent Guyader <vincent@thinkr.fr>",
     "url": "https://github.com/thinkr-open/golem",
@@ -33,6 +39,12 @@
     "package": "shinipsum",
     "maintainer": "Colin Fay <contact@colinfay.me>",
     "url": "https://github.com/thinkr-open/shinipsum",
+    "available": true
+  },
+  {
+    "package": "spongecake",
+    "maintainer": "Vincent Guyader <vincent@thinkr.fr>",
+    "url": "https://github.com/ThinkR-open/spongecake",
     "available": true
   },
   {

@@ -1,11 +1,5 @@
 [
   {
-    "package": "clisymbols",
-    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/gaborcsardi/clisymbols",
-    "available": true
-  },
-  {
     "package": "disposables",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/disposables",
@@ -46,24 +40,6 @@
     "package": "parsedate",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/parsedate",
-    "available": true
-  },
-  {
-    "package": "praise",
-    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/gaborcsardi/praise",
-    "available": true
-  },
-  {
-    "package": "presser",
-    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/gaborcsardi/presser",
-    "available": true
-  },
-  {
-    "package": "prettyunits",
-    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/gaborcsardi/prettyunits",
     "available": true
   },
   {

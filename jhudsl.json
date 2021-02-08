@@ -1,5 +1,17 @@
 [
   {
+    "package": "ari",
+    "maintainer": "Sean Kross <sean@seankross.com>",
+    "url": "https://github.com/jhudsl/ari",
+    "available": true
+  },
+  {
+    "package": "ariExtra",
+    "maintainer": "John Muschelli <muschellij2@gmail.com>",
+    "url": "https://github.com/jhudsl/ariExtra",
+    "available": true
+  },
+  {
     "package": "crsra",
     "maintainer": "Aboozar Hadavand <hadavand.a@gmail.com>",
     "url": "https://github.com/jhudsl/crsra",
@@ -9,6 +21,12 @@
     "package": "matahari",
     "maintainer": "Sean Kross <sean@seankross.com>",
     "url": "https://github.com/jhudsl/matahari",
+    "available": true
+  },
+  {
+    "package": "text2speech",
+    "maintainer": "John Muschelli <muschellij2@gmail.com>",
+    "url": "https://github.com/jhudsl/text2speech",
     "available": true
   }
 ]

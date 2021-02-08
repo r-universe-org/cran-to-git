@@ -1,5 +1,11 @@
 [
   {
+    "package": "blastula",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rstudio/blastula",
+    "available": true
+  },
+  {
     "package": "blogdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
     "url": "https://github.com/rstudio/blogdown",
@@ -21,6 +27,12 @@
     "package": "config",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/config",
+    "available": true
+  },
+  {
+    "package": "connections",
+    "maintainer": "Javier Luraschi <javier@rstudio.com>",
+    "url": "https://github.com/rstudio/connections",
     "available": true
   },
   {

@@ -1,5 +1,11 @@
 [
   {
+    "package": "dmutate",
+    "maintainer": "Kyle T Baron <kyleb@metrumrg.com>",
+    "url": "https://github.com/kylebaron/dmutate",
+    "available": true
+  },
+  {
     "package": "mrgsim.parallel",
     "maintainer": "Kyle Baron <kylebtwin@imap.cc>",
     "url": "https://github.com/kylebaron/mrgsim.parallel",

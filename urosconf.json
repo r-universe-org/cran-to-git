@@ -1,5 +1,11 @@
 [
   {
+    "package": "nlgeocoder",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/uRosConf/nlgeocoder",
+    "available": true
+  },
+  {
     "package": "voronoiTreemap",
     "maintainer": "Alexander Kowarik <alexander.kowarik@statistik.gv.at>",
     "url": "https://github.com/urosconf/voronoitreemap",

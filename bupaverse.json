@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "pm4py",
+    "maintainer": "Felix Mannhardt <felix.mannhardt@sintef.no>",
+    "url": "https://github.com/bupaverse/pm4py",
+    "available": true
+  },
+  {
     "package": "processanimateR",
     "maintainer": "Felix Mannhardt <felix.mannhardt@sintef.no>",
     "url": "https://github.com/bupaverse/processanimater",

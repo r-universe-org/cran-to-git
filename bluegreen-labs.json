@@ -1,8 +1,20 @@
 [
   {
+    "package": "daymetr",
+    "maintainer": "Hufkens Koen <koen.hufkens@gmail.com>",
+    "url": "https://github.com/bluegreen-labs/daymetr",
+    "available": true
+  },
+  {
     "package": "ecmwfr",
     "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
     "url": "https://github.com/bluegreen-labs/ecmwfr",
+    "available": true
+  },
+  {
+    "package": "snotelr",
+    "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
+    "url": "https://github.com/bluegreen-labs/snotelr",
     "available": true
   }
 ]

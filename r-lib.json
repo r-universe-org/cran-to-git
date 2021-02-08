@@ -1,5 +1,11 @@
 [
   {
+    "package": "available",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/available",
+    "available": true
+  },
+  {
     "package": "backports",
     "maintainer": "Michel Lang <michellang@gmail.com>",
     "url": "https://github.com/r-lib/backports",
@@ -51,6 +57,12 @@
     "package": "cliapp",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/cliapp",
+    "available": true
+  },
+  {
+    "package": "clisymbols",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/clisymbols",
     "available": true
   },
   {
@@ -252,6 +264,12 @@
     "available": true
   },
   {
+    "package": "mockery",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/mockery",
+    "available": true
+  },
+  {
     "package": "oskeyring",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/oskeyring",
@@ -306,9 +324,21 @@
     "available": true
   },
   {
+    "package": "presser",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/webfakes",
+    "available": true
+  },
+  {
     "package": "prettycode",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/prettycode",
+    "available": true
+  },
+  {
+    "package": "prettyunits",
+    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/prettyunits",
     "available": true
   },
   {
@@ -387,6 +417,12 @@
     "package": "rprojroot",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
     "url": "https://github.com/r-lib/rprojroot",
+    "available": true
+  },
+  {
+    "package": "RSvgDevice",
+    "maintainer": "Matthieu Decorde <matthieu.decorde@ens-lyon.fr>",
+    "url": "https://github.com/r-lib/svglite",
     "available": true
   },
   {
@@ -519,6 +555,12 @@
     "package": "ymlthis",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
     "url": "https://github.com/r-lib/ymlthis",
+    "available": true
+  },
+  {
+    "package": "zeallot",
+    "maintainer": "Nathan Teetor <nathanteetor@gmail.com>",
+    "url": "https://github.com/r-lib/zeallot",
     "available": true
   },
   {

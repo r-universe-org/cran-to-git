@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "openMSE",
+    "maintainer": "Adrian Hordyk <adrian@bluematterscience.com>",
+    "url": "https://github.com/blue-matter/openmse",
+    "available": true
+  },
+  {
     "package": "SAMtool",
     "maintainer": "Quang Huynh <quang@bluematterscience.com>",
     "url": "https://github.com/blue-matter/samtool",
