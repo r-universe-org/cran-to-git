@@ -84,6 +84,12 @@
     "available": true
   },
   {
+    "package": "multidplyr",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/tidyverse/multidplyr",
+    "available": true
+  },
+  {
     "package": "purrr",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/tidyverse/purrr",
