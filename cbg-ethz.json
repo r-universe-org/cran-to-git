@@ -1,8 +1,20 @@
 [
   {
+    "package": "epiNEM",
+    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
+    "url": "https://github.com/cbg-ethz/epinem",
+    "available": true
+  },
+  {
     "package": "GeneAccord",
     "maintainer": "Ariane L. Moore <ariane.moore@bsse.ethz.ch>",
     "url": "https://github.com/cbg-ethz/geneaccord",
+    "available": true
+  },
+  {
+    "package": "mnem",
+    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
+    "url": "https://github.com/cbg-ethz/mnem",
     "available": true
   },
   {
