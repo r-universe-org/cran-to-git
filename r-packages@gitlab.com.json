@@ -1,5 +1,11 @@
 [
   {
+    "package": "behaviorchange",
+    "maintainer": "Gjalt-Jorn Peters <gjalt-jorn@a-bc.eu>",
+    "url": "https://gitlab.com/r-packages/behaviorchange",
+    "available": true
+  },
+  {
     "package": "psyverse",
     "maintainer": "Gjalt-Jorn Peters <gjalt-jorn@behaviorchange.eu>",
     "url": "https://gitlab.com/r-packages/psyverse",

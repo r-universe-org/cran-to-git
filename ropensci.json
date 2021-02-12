@@ -654,6 +654,12 @@
     "available": true
   },
   {
+    "package": "osmextract",
+    "maintainer": "Andrea Gilardi <andrea.gilardi@unimib.it>",
+    "url": "https://github.com/ropensci/osmextract",
+    "available": true
+  },
+  {
     "package": "osmplotr",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/osmplotr",
