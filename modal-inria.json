@@ -1,5 +1,11 @@
 [
   {
+    "package": "cfda",
+    "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
+    "url": "https://github.com/modal-inria/cfda",
+    "available": true
+  },
+  {
     "package": "HDPenReg",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
     "url": "https://github.com/modal-inria/hdpenreg",
