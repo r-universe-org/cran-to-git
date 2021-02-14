@@ -1,8 +1,20 @@
 [
   {
+    "package": "MetaboCoreUtils",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/metabocoreutils",
+    "available": true
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
+    "available": true
+  },
+  {
+    "package": "MsFeatures",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msfeatures",
     "available": true
   },
   {
