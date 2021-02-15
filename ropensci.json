@@ -420,6 +420,12 @@
     "available": true
   },
   {
+    "package": "hddtools",
+    "maintainer": "Claudia Vitolo <cvitolodev@gmail.com>",
+    "url": "https://github.com/ropensci/hddtools",
+    "available": true
+  },
+  {
     "package": "helminthR",
     "maintainer": "Tad Dallas <tad.a.dallas@gmail.com>",
     "url": "https://github.com/ropensci/helminthr",
@@ -625,7 +631,7 @@
   },
   {
     "package": "opencage",
-    "maintainer": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "maintainer": "Daniel Possenriede <possenriede+r@gmail.com>",
     "url": "https://github.com/ropensci/opencage",
     "available": true
   },

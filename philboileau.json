@@ -1,5 +1,11 @@
 [
   {
+    "package": "cvCovEst",
+    "maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
+    "url": "https://github.com/philboileau/cvcovest",
+    "available": true
+  },
+  {
     "package": "neatmaps",
     "maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
     "url": "https://github.com/philboileau/neatmaps",
