@@ -428,12 +428,6 @@
     "available": true
   },
   {
-    "package": "homals",
-    "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
-    "url": "https://github.com/r-forge/psychor",
-    "available": false
-  },
-  {
     "package": "inference",
     "maintainer": "Vinh Nguyen <vinhdizzo@gmail.com>",
     "url": "https://github.com/r-forge/inference",
@@ -1473,13 +1467,6 @@
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/zoo",
     "subdir": "pkg/zoo",
-    "available": true
-  },
-  {
-    "package": "Matrix",
-    "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
-    "url": "https://github.com/r-forge/matrix",
-    "subdir": "pkg/Matrix",
     "available": true
   },
   {
