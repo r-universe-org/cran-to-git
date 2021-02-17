@@ -1,5 +1,11 @@
 [
   {
+    "package": "batchr",
+    "maintainer": "Joe Thorley <joe@poissonconsulting.ca>",
+    "url": "https://github.com/poissonconsulting/batchr",
+    "available": true
+  },
+  {
     "package": "checkr",
     "maintainer": "Joe Thorley <joe@poissonconsulting.ca>",
     "url": "https://github.com/poissonconsulting/checkr",
