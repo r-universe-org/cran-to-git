@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "dang",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/dang",
+    "available": true
+  },
+  {
     "package": "digest",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/digest",

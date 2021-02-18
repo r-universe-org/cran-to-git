@@ -4,5 +4,11 @@
     "maintainer": "Miguel Rocha <mrocha@di.uminho.pt>",
     "url": "https://github.com/biosystemsum/specmine",
     "available": true
+  },
+  {
+    "package": "specmine.datasets",
+    "maintainer": "Miguel Rocha <mrocha@di.uminho.pt>",
+    "url": "https://github.com/biosystemsum/specmine.datasets",
+    "available": true
   }
 ]
