@@ -222,6 +222,12 @@
     "available": true
   },
   {
+    "package": "dbhydroR",
+    "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
+    "url": "https://github.com/ropensci/dbhydror",
+    "available": true
+  },
+  {
     "package": "dbparser",
     "maintainer": "Mohammed Ali <moh_fcis@yahoo.com>",
     "url": "https://github.com/ropensci/dbparser",
