@@ -66,6 +66,12 @@
     "available": true
   },
   {
+    "package": "fontawesome",
+    "maintainer": "Richard Iannone <rich@rstudio.com>",
+    "url": "https://github.com/rstudio/fontawesome",
+    "available": true
+  },
+  {
     "package": "graphframes",
     "maintainer": "Kevin Kuo <kevin.kuo@rstudio.com>",
     "url": "https://github.com/rstudio/graphframes",
