@@ -1,5 +1,11 @@
 [
   {
+    "package": "conos",
+    "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
+    "url": "https://github.com/kharchenkolab/conos",
+    "available": true
+  },
+  {
     "package": "leidenAlg",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
     "url": "https://github.com/kharchenkolab/leidenalg",
