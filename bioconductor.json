@@ -228,6 +228,12 @@
     "available": true
   },
   {
+    "package": "Summix",
+    "maintainer": "Audrey Hendricks <audrey.hendricks@ucdenver.edu>",
+    "url": "https://github.com/bioconductor/summix",
+    "available": false
+  },
+  {
     "package": "VariantExperiment",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/variantexperiment",
