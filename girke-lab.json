@@ -1,5 +1,11 @@
 [
   {
+    "package": "bioassayR",
+    "maintainer": "Daniela Cassol <danicassol@gmail.com>",
+    "url": "https://github.com/girke-lab/bioassayr",
+    "available": true
+  },
+  {
     "package": "ChemmineOB",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/chemmineob",
@@ -21,12 +27,6 @@
     "package": "fmcsR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/fmcsr",
-    "available": true
-  },
-  {
-    "package": "bioassayR",
-    "maintainer": "Tyler Backman <tbackman@lbl.gov>",
-    "url": "https://github.com/girke-lab/bioassayR",
     "available": true
   }
 ]
