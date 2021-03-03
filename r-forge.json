@@ -311,6 +311,13 @@
     "available": true
   },
   {
+    "package": "EvalEst",
+    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
+    "url": "https://github.com/r-forge/tsanalysis",
+    "subdir": "pkg/EvalEst",
+    "available": true
+  },
+  {
     "package": "expm",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/expm",
