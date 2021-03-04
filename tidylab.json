@@ -1,5 +1,11 @@
 [
   {
+    "package": "microservices",
+    "maintainer": "Harel Lustiger <tidylab@gmail.com>",
+    "url": "https://github.com/tidylab/microservices",
+    "available": true
+  },
+  {
     "package": "R6P",
     "maintainer": "Harel Lustiger <tidylab@gmail.com>",
     "url": "https://github.com/tidylab/r6p",
