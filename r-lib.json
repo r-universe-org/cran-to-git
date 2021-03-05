@@ -486,6 +486,18 @@
     "available": true
   },
   {
+    "package": "tzdb",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/r-lib/tzdb",
+    "available": true
+  },
+  {
+    "package": "urlchecker",
+    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "url": "https://github.com/r-lib/urlchecker",
+    "available": true
+  },
+  {
     "package": "usethis",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/usethis",
