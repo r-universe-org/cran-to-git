@@ -1,5 +1,11 @@
 [
   {
+    "package": "chipPCR",
+    "maintainer": "Stefan Roediger <stefan.roediger@b-tu.de>",
+    "url": "https://github.com/pcruniversum/chippcr",
+    "available": true
+  },
+  {
     "package": "RDML",
     "maintainer": "Konstantin A. Blagodatskikh <k.blag@yandex.ru>",
     "url": "https://github.com/PCRuniversum/RDML",
