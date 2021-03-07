@@ -1,11 +1,5 @@
 [
   {
-    "package": "dataRetrieval",
-    "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
-    "url": "https://github.com/usgs-r/dataretrieval",
-    "available": true
-  },
-  {
     "package": "EGRET",
     "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
     "url": "https://github.com/usgs-r/egret",
