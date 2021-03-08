@@ -1,5 +1,11 @@
 [
   {
+    "package": "beeswarm",
+    "maintainer": "Aron Eklund <aroneklund@gmail.com>",
+    "url": "https://github.com/aroneklund/beeswarm",
+    "available": true
+  },
+  {
     "package": "squash",
     "maintainer": "Aron C. Eklund <aroneklund@gmail.com>",
     "url": "https://github.com/aroneklund/squash",
