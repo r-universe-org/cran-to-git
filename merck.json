@@ -1,5 +1,11 @@
 [
   {
+    "package": "pkglite",
+    "maintainer": "Nan Xiao <nan.xiao1@merck.com>",
+    "url": "https://github.com/merck/pkglite",
+    "available": true
+  },
+  {
     "package": "Rspc",
     "maintainer": "Stanislav Matousek (MSD) <rspc@merck.com>",
     "url": "https://github.com/merck/spc_package",
