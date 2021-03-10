@@ -36,9 +36,9 @@
     "available": true
   },
   {
-    "package": "lefser",
-    "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
-    "url": "https://github.com/waldronlab/lefser",
+    "package": "TCGAutils",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/tcgautils",
     "available": true
   },
   {
@@ -48,9 +48,9 @@
     "available": true
   },
   {
-    "package": "TCGAutils",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/waldronlab/tcgautils",
+    "package": "lefser",
+    "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
+    "url": "https://github.com/waldronlab/lefser",
     "available": true
   }
 ]

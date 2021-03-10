@@ -1,14 +1,14 @@
 [
   {
-    "package": "cTRAP",
-    "maintainer": "Nuno Saraiva-Agostinho <nunodanielagostinho@gmail.com>",
-    "url": "https://github.com/nuno-agostinho/ctrap",
-    "available": true
-  },
-  {
     "package": "psichomics",
     "maintainer": "Nuno Saraiva-Agostinho <nunodanielagostinho@gmail.com>",
     "url": "https://github.com/nuno-agostinho/psichomics",
+    "available": true
+  },
+  {
+    "package": "cTRAP",
+    "maintainer": "Nuno Saraiva-Agostinho <nunodanielagostinho@gmail.com>",
+    "url": "https://github.com/nuno-agostinho/ctrap",
     "available": true
   }
 ]

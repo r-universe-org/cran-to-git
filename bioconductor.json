@@ -36,18 +36,6 @@
     "available": true
   },
   {
-    "package": "BiocCheck",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/bioccheck",
-    "available": true
-  },
-  {
-    "package": "BiocDockerManager",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/biocdockermanager",
-    "available": true
-  },
-  {
     "package": "BiocFileCache",
     "maintainer": "Lori Shepherd <lori.shepherd@roswellpark.org>",
     "url": "https://github.com/bioconductor/biocfilecache",
@@ -120,12 +108,6 @@
     "available": true
   },
   {
-    "package": "GenomeInfoDb",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/genomeinfodb",
-    "available": true
-  },
-  {
     "package": "GenomicAlignments",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicalignments",
@@ -147,24 +129,6 @@
     "package": "GenomicRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicranges",
-    "available": true
-  },
-  {
-    "package": "HCABrowser",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "HCAExplorer",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "HCAMatrixBrowser",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/bioconductor/hcamatrixbrowser",
     "available": true
   },
   {
@@ -249,6 +213,42 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
+    "available": true
+  },
+  {
+    "package": "GenomeInfoDb",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/genomeinfodb",
+    "available": true
+  },
+  {
+    "package": "BiocCheck",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/bioccheck",
+    "available": true
+  },
+  {
+    "package": "HCABrowser",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/hcabrowser",
+    "available": true
+  },
+  {
+    "package": "HCAExplorer",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/hcabrowser",
+    "available": true
+  },
+  {
+    "package": "BiocDockerManager",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/biocdockermanager",
+    "available": true
+  },
+  {
+    "package": "HCAMatrixBrowser",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/hcamatrixbrowser",
     "available": true
   }
 ]

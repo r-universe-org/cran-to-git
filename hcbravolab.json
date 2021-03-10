@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "metagenomeFeatures",
-    "maintainer": "Nathan D. Olson <nolson@umiacs.umd.edu>",
-    "url": "https://github.com/hcbravolab/metagenomefeatures",
-    "available": true
-  },
-  {
     "package": "metagenomeSeq",
     "maintainer": "Joseph N. Paulson <jpaulson@jimmy.harvard.edu>",
     "url": "https://github.com/HCBravoLab/metagenomeSeq",
@@ -21,6 +15,12 @@
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
+    "available": true
+  },
+  {
+    "package": "metagenomeFeatures",
+    "maintainer": "Nathan D. Olson <nolson@umiacs.umd.edu>",
+    "url": "https://github.com/hcbravolab/metagenomefeatures",
     "available": true
   }
 ]
