@@ -1,5 +1,11 @@
 [
   {
+    "package": "satuRn",
+    "maintainer": "Jeroen Gilis <jeroen.gilis@ugent.be>",
+    "url": "https://github.com/statomics/saturn",
+    "available": true
+  },
+  {
     "package": "tradeSeq",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://github.com/statomics/tradeseq",
