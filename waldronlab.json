@@ -36,15 +36,15 @@
     "available": true
   },
   {
-    "package": "TCGAutils",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/waldronlab/tcgautils",
-    "available": true
-  },
-  {
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
+    "available": true
+  },
+  {
+    "package": "TCGAutils",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/tcgautils",
     "available": true
   },
   {
