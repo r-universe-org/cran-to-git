@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "GenomeInfoDb",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/genomeinfodb",
+    "available": true
+  },
+  {
     "package": "GenomicAlignments",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicalignments",
@@ -213,12 +219,6 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
-    "available": true
-  },
-  {
-    "package": "GenomeInfoDb",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/genomeinfodb",
     "available": true
   },
   {

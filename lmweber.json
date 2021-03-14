@@ -1,14 +1,14 @@
 [
   {
-    "package": "regsplice",
+    "package": "diffcyt",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
-    "url": "https://github.com/lmweber/regsplice",
+    "url": "https://github.com/lmweber/diffcyt",
     "available": true
   },
   {
-    "package": "diffcyt",
-    "maintainer": "",
-    "url": "https://github.com/lmweber/diffcyt",
+    "package": "regsplice",
+    "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
+    "url": "https://github.com/lmweber/regsplice",
     "available": true
   }
 ]

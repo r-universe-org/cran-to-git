@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "RAQSAPI",
+    "maintainer": "Clinton Mccrowey <mccrowey.clinton@epa.gov>",
+    "url": "https://github.com/usepa/raqsapi",
+    "available": true
+  },
+  {
     "package": "tcpl",
     "maintainer": "Richard S Judson <Judson.Richard@epa.gov>",
     "url": "https://github.com/usepa/comptox-toxcast-tcpl",
