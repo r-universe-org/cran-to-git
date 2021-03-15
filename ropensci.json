@@ -594,12 +594,6 @@
     "available": true
   },
   {
-    "package": "NLMR",
-    "maintainer": "Marco Sciaini <sciaini.marco@gmail.com>",
-    "url": "https://github.com/ropensci/nlmr",
-    "available": true
-  },
-  {
     "package": "nlrx",
     "maintainer": "Jan Salecker <jsaleck@gwdg.de>",
     "url": "https://github.com/ropensci/nlrx",
@@ -1161,12 +1155,6 @@
     "package": "ssh",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/ssh",
-    "available": true
-  },
-  {
-    "package": "stats19",
-    "maintainer": "Robin Lovelace <rob00x@gmail.com>",
-    "url": "https://github.com/ropensci/stats19",
     "available": true
   },
   {

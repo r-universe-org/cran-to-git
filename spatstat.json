@@ -1,11 +1,5 @@
 [
   {
-    "package": "spatstat",
-    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat",
-    "available": true
-  },
-  {
     "package": "spatstat.core",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/spatstat/spatstat.core",

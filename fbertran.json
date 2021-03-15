@@ -1,5 +1,11 @@
 [
   {
+    "package": "BioStatR",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@math.unistra.fr>",
+    "url": "https://github.com/fbertran/biostatr",
+    "available": true
+  },
+  {
     "package": "Cascade",
     "maintainer": "Frederic Bertrand <frederic.bertrand@math.unistra.fr>",
     "url": "https://github.com/fbertran/cascade",

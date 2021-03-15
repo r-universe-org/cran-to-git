@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "spatstat",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/baddstats/spatstat",
+    "available": true
+  },
+  {
     "package": "spatstat.linnet",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/baddstats/spatstat.linnet",
