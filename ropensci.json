@@ -216,6 +216,12 @@
     "available": true
   },
   {
+    "package": "DataPackageR",
+    "maintainer": "Ellis Hughes <ehhughes@scharp.org>",
+    "url": "https://github.com/ropensci/datapackager",
+    "available": true
+  },
+  {
     "package": "DataSpaceR",
     "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
     "url": "https://github.com/ropensci/dataspacer",
