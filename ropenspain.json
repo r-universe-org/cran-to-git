@@ -1,5 +1,11 @@
 [
   {
+    "package": "climaemet",
+    "maintainer": "Manuel Pizarro <m.pizarro@csic.es>",
+    "url": "https://github.com/rOpenSpain/climaemet",
+    "available": true
+  },
+  {
     "package": "mapSpain",
     "maintainer": "Diego Hernangómez <diego.hernangomezherrero@gmail.com>",
     "url": "https://github.com/ropenspain/mapspain",
