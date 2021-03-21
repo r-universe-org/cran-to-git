@@ -1,5 +1,11 @@
 [
   {
+    "package": "catalog",
+    "maintainer": "Nathan Eastwood <nathan.eastwood@icloud.com>",
+    "url": "https://github.com/nathaneastwood/catalog",
+    "available": true
+  },
+  {
     "package": "gghalfnorm",
     "maintainer": "Nathan Eastwood <nathan.eastwood@icloud.com>",
     "url": "https://github.com/nathaneastwood/gghalfnorm",

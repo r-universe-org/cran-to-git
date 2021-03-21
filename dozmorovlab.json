@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "preciseTAD",
-    "maintainer": "Spiro Stilianoudakis <stilianoudasc@vcu.edu>",
-    "url": "https://github.com/dozmorovlab/precisetad",
-    "available": true
-  },
-  {
     "package": "SpectralTAD",
     "maintainer": "Kellen Cresswell <cresswellkg@vcu.edu>",
     "url": "https://github.com/dozmorovlab/spectraltad",
@@ -27,6 +21,12 @@
     "package": "TADCompare",
     "maintainer": "Kellen Cresswell <cresswellkg@vcu.edu>",
     "url": "https://github.com/dozmorovlab/tadcompare",
+    "available": true
+  },
+  {
+    "package": "preciseTAD",
+    "maintainer": "Spiro Stilianoudakis <stilianoudasc@vcu.edu>",
+    "url": "https://github.com/dozmorovlab/precisetad",
     "available": true
   }
 ]

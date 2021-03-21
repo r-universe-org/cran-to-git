@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "MsBackendMassbank",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/msbackendmassbank",
+    "available": true
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",

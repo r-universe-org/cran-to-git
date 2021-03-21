@@ -24,15 +24,15 @@
     "available": true
   },
   {
-    "package": "AnnotationHub",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/annotationhub",
-    "available": true
-  },
-  {
     "package": "Biobase",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biobase",
+    "available": true
+  },
+  {
+    "package": "BiocCheck",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/bioccheck",
     "available": true
   },
   {
@@ -117,18 +117,6 @@
     "package": "GenomicAlignments",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicalignments",
-    "available": true
-  },
-  {
-    "package": "GenomicDataCommons",
-    "maintainer": "Sean Davis <seandavi@gmail.com>",
-    "url": "https://github.com/bioconductor/genomicdatacommons",
-    "available": true
-  },
-  {
-    "package": "GenomicFeatures",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/genomicfeatures",
     "available": true
   },
   {
@@ -222,9 +210,21 @@
     "available": true
   },
   {
-    "package": "BiocCheck",
+    "package": "AnnotationHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/bioccheck",
+    "url": "https://github.com/bioconductor/annotationhub",
+    "available": true
+  },
+  {
+    "package": "GenomicDataCommons",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/bioconductor/genomicdatacommons",
+    "available": true
+  },
+  {
+    "package": "GenomicFeatures",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/genomicfeatures",
     "available": true
   },
   {
