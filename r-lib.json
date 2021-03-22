@@ -66,6 +66,12 @@
     "available": true
   },
   {
+    "package": "commonmark",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-lib/commonmark",
+    "available": true
+  },
+  {
     "package": "conflicted",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/conflicted",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "plumberDeploy",
+    "maintainer": "Bruno Tremblay <cran@neoxone.com>",
+    "url": "https://github.com/meztez/plumberdeploy",
+    "available": true
+  },
+  {
     "package": "rapidoc",
     "maintainer": "Bruno Tremblay <openr@neoxone.com>",
     "url": "https://github.com/meztez/rapidoc",
