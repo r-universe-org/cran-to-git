@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "AnnotationHub",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/annotationhub",
+    "available": true
+  },
+  {
     "package": "Biobase",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biobase",
@@ -33,6 +39,12 @@
     "package": "BiocCheck",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/bioccheck",
+    "available": true
+  },
+  {
+    "package": "BiocDockerManager",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/biocdockermanager",
     "available": true
   },
   {
@@ -210,12 +222,6 @@
     "available": true
   },
   {
-    "package": "AnnotationHub",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/annotationhub",
-    "available": true
-  },
-  {
     "package": "GenomicDataCommons",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/bioconductor/genomicdatacommons",
@@ -237,12 +243,6 @@
     "package": "HCAExplorer",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "BiocDockerManager",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/biocdockermanager",
     "available": true
   },
   {
