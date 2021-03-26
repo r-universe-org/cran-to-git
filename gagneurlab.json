@@ -1,14 +1,14 @@
 [
   {
-    "package": "OUTRIDER",
-    "maintainer": "Christian Mertes <mertes@in.tum.de>",
-    "url": "https://github.com/gagneurlab/outrider",
-    "available": true
-  },
-  {
     "package": "FRASER",
     "maintainer": "Christian Mertes <mertes@in.tum.de>",
     "url": "https://github.com/gagneurlab/fraser",
+    "available": true
+  },
+  {
+    "package": "OUTRIDER",
+    "maintainer": "Christian Mertes <mertes@in.tum.de>",
+    "url": "https://github.com/gagneurlab/outrider",
     "available": true
   }
 ]

@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "MsBackendMgf",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/msbackendmgf",
+    "available": true
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
