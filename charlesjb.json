@@ -1,14 +1,14 @@
 [
   {
-    "package": "metagene",
-    "maintainer": "Charles Joly Beauparlant <charles.joly-beauparlant@crchul.ulaval.ca>",
-    "url": "https://github.com/charlesjb/metagene",
-    "available": true
-  },
-  {
     "package": "ENCODExplorer",
     "maintainer": "Charles Joly Beauparlant <charles.joly-beauparlant@crchul.ulaval.ca>",
     "url": "https://github.com/charlesjb/encodexplorer",
+    "available": true
+  },
+  {
+    "package": "metagene",
+    "maintainer": "Charles Joly Beauparlant <charles.joly-beauparlant@crchul.ulaval.ca>",
+    "url": "https://github.com/charlesjb/metagene",
     "available": true
   }
 ]
