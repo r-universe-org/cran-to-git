@@ -1,5 +1,11 @@
 [
   {
+    "package": "anndata",
+    "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
+    "url": "https://github.com/dynverse/anndata",
+    "available": true
+  },
+  {
     "package": "babelwhale",
     "maintainer": "Wouter Saelens <wouter.saelens@gmail.com>",
     "url": "https://github.com/dynverse/babelwhale",

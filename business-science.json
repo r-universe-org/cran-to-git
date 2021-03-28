@@ -36,12 +36,6 @@
     "available": true
   },
   {
-    "package": "modeltime.h2o",
-    "maintainer": "Matt Dancho <mdancho@business-science.io>",
-    "url": "https://github.com/business-science/modeltime.h2o",
-    "available": true
-  },
-  {
     "package": "modeltime.resample",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.resample",
