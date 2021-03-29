@@ -132,6 +132,12 @@
     "available": true
   },
   {
+    "package": "RcppSpdlog",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppspdlog",
+    "available": true
+  },
+  {
     "package": "RcppStreams",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppstreams",

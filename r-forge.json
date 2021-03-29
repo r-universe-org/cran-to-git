@@ -415,12 +415,6 @@
     "available": true
   },
   {
-    "package": "GSIF",
-    "maintainer": "Tomislav Hengl <tom.hengl@opengeohub.org>",
-    "url": "https://github.com/r-forge/gsif",
-    "available": false
-  },
-  {
     "package": "HistogramTools",
     "maintainer": "Murray Stokely <murray@stokely.org>",
     "url": "https://github.com/r-forge/histogramtools",
