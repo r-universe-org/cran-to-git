@@ -36,6 +36,18 @@
     "available": true
   },
   {
+    "package": "BiocCheck",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/bioccheck",
+    "available": true
+  },
+  {
+    "package": "BiocDockerManager",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/biocdockermanager",
+    "available": true
+  },
+  {
     "package": "BiocFileCache",
     "maintainer": "Lori Shepherd <lori.shepherd@roswellpark.org>",
     "url": "https://github.com/bioconductor/biocfilecache",
@@ -61,7 +73,7 @@
   },
   {
     "package": "BiocStyle",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Bioconductor Package <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocstyle",
     "available": true
   },
@@ -117,12 +129,6 @@
     "package": "GenomicAlignments",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicalignments",
-    "available": true
-  },
-  {
-    "package": "GenomicDataCommons",
-    "maintainer": "Sean Davis <seandavi@gmail.com>",
-    "url": "https://github.com/bioconductor/genomicdatacommons",
     "available": true
   },
   {
@@ -222,9 +228,9 @@
     "available": true
   },
   {
-    "package": "BiocCheck",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/bioccheck",
+    "package": "GenomicDataCommons",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/bioconductor/genomicdatacommons",
     "available": true
   },
   {
@@ -237,12 +243,6 @@
     "package": "HCAExplorer",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "BiocDockerManager",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/biocdockermanager",
     "available": true
   },
   {

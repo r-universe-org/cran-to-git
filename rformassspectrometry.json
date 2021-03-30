@@ -6,6 +6,18 @@
     "available": true
   },
   {
+    "package": "MsBackendMassbank",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/msbackendmassbank",
+    "available": true
+  },
+  {
+    "package": "MsBackendMgf",
+    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
+    "url": "https://github.com/rformassspectrometry/msbackendmgf",
+    "available": true
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
@@ -27,18 +39,6 @@
     "package": "Spectra",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/spectra",
-    "available": true
-  },
-  {
-    "package": "MsBackendMassbank",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/msbackendmassbank",
-    "available": true
-  },
-  {
-    "package": "MsBackendMgf",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/msbackendmgf",
     "available": true
   }
 ]
