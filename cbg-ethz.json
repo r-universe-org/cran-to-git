@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "mnem",
+    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
+    "url": "https://github.com/cbg-ethz/mnem",
+    "available": true
+  },
+  {
     "package": "nempi",
     "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
     "url": "https://github.com/cbg-ethz/nempi",
@@ -27,12 +33,6 @@
     "package": "perturbatr",
     "maintainer": "Simon Dirmeier <simon.dirmeier@web.de>",
     "url": "https://github.com/cbg-ethz/perturbatr",
-    "available": true
-  },
-  {
-    "package": "mnem",
-    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
-    "url": "https://github.com/cbg-ethz/mnem",
     "available": true
   }
 ]
