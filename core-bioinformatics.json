@@ -1,5 +1,11 @@
 [
   {
+    "package": "ClustAssess",
+    "maintainer": "Arash Shahsavari <as3006@cam.ac.uk>",
+    "url": "https://github.com/core-bioinformatics/clustassess",
+    "available": true
+  },
+  {
     "package": "feamiR",
     "maintainer": "Eleanor Williams <ecw63@cam.ac.uk>",
     "url": "https://github.com/core-bioinformatics/feamir",
