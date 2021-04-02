@@ -132,6 +132,12 @@
     "available": true
   },
   {
+    "package": "GenomicDataCommons",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/bioconductor/genomicdatacommons",
+    "available": true
+  },
+  {
     "package": "GenomicFeatures",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicfeatures",
@@ -225,12 +231,6 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
-    "available": true
-  },
-  {
-    "package": "GenomicDataCommons",
-    "maintainer": "Sean Davis <seandavi@gmail.com>",
-    "url": "https://github.com/bioconductor/genomicdatacommons",
     "available": true
   },
   {

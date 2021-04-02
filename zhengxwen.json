@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "HIBAG",
+    "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
+    "url": "https://github.com/zhengxwen/hibag",
+    "available": true
+  },
+  {
     "package": "SeqArray",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/seqarray",
@@ -15,12 +21,6 @@
     "package": "SNPRelate",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/snprelate",
-    "available": true
-  },
-  {
-    "package": "HIBAG",
-    "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
-    "url": "https://github.com/zhengxwen/hibag",
     "available": true
   }
 ]
