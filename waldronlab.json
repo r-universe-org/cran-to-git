@@ -36,6 +36,12 @@
     "available": true
   },
   {
+    "package": "lefser",
+    "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
+    "url": "https://github.com/waldronlab/lefser",
+    "available": true
+  },
+  {
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
@@ -45,12 +51,6 @@
     "package": "TCGAutils",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tcgautils",
-    "available": true
-  },
-  {
-    "package": "lefser",
-    "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
-    "url": "https://github.com/waldronlab/lefser",
     "available": true
   }
 ]
