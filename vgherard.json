@@ -1,5 +1,11 @@
 [
   {
+    "package": "fcci",
+    "maintainer": "Valerio Gherardi <vgherard@sissa.it>",
+    "url": "https://github.com/vgherard/fcci",
+    "available": true
+  },
+  {
     "package": "sbo",
     "maintainer": "Valerio Gherardi <vgherard@sissa.it>",
     "url": "https://github.com/vgherard/sbo",
