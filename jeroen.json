@@ -1,11 +1,5 @@
 [
   {
-    "package": "askpass",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/askpass",
-    "available": true
-  },
-  {
     "package": "bcrypt",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/jeroen/bcrypt",

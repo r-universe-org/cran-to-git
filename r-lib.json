@@ -1,5 +1,11 @@
 [
   {
+    "package": "askpass",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-lib/askpass",
+    "available": true
+  },
+  {
     "package": "available",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/r-lib/available",
