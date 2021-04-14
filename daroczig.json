@@ -1,5 +1,11 @@
 [
   {
+    "package": "AWR",
+    "maintainer": "Gergely Daroczi <daroczig@rapporter.net>",
+    "url": "https://github.com/daroczig/awr",
+    "available": true
+  },
+  {
     "package": "AWR.Kinesis",
     "maintainer": "Gergely Daroczi <gergely.daroczi@card.com>",
     "url": "https://github.com/daroczig/AWR.Kinesis",
