@@ -78,6 +78,12 @@
     "available": true
   },
   {
+    "package": "RcppAPT",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppapt",
+    "available": true
+  },
+  {
     "package": "RcppCCTZ",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppcctz",
