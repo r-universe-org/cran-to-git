@@ -6,6 +6,18 @@
     "available": true
   },
   {
+    "package": "loadr",
+    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
+    "url": "https://github.com/databio/loadr",
+    "available": true
+  },
+  {
+    "package": "simpleCache",
+    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
+    "url": "https://github.com/databio/simplecache",
+    "available": true
+  },
+  {
     "package": "COCOA",
     "maintainer": "John Lawson <jtl2hk@virginia.edu>",
     "url": "https://github.com/databio/cocoa",
