@@ -1,5 +1,11 @@
 [
   {
+    "package": "PooledCohort",
+    "maintainer": "Byron Jaeger <bcjaeger@uab.edu>",
+    "url": "https://github.com/bcjaeger/pooledcohort",
+    "available": true
+  },
+  {
     "package": "r2glmm",
     "maintainer": "Byron Jaeger <byron.jaeger@gmail.com>",
     "url": "https://github.com/bcjaeger/r2glmm",
