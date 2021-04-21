@@ -90,6 +90,12 @@
     "available": true
   },
   {
+    "package": "nycflights13",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/tidyverse/nycflights13",
+    "available": true
+  },
+  {
     "package": "purrr",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/tidyverse/purrr",
