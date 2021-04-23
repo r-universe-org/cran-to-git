@@ -1,11 +1,5 @@
 [
   {
-    "package": "httk",
-    "maintainer": "John Wambaugh <wambaugh.john@epa.gov>",
-    "url": "https://github.com/usepa/comptox-expocast-httk",
-    "available": true
-  },
-  {
     "package": "RAQSAPI",
     "maintainer": "Clinton Mccrowey <mccrowey.clinton@epa.gov>",
     "url": "https://github.com/usepa/raqsapi",
