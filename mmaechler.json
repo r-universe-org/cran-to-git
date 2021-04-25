@@ -1,5 +1,11 @@
 [
   {
+    "package": "bitops",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/mmaechler/r-bitops",
+    "available": true
+  },
+  {
     "package": "fracdiff",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/mmaechler/fracdiff",
