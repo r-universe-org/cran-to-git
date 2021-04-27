@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "censo2017",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/ropensci/censo2017",
+    "available": true
+  },
+  {
     "package": "charlatan",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/charlatan",
