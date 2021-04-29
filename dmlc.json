@@ -1,5 +1,11 @@
 [
   {
+    "package": "audrex",
+    "maintainer": "Giancarlo Vercellino <giancarlo.vercellino@gmail.com>",
+    "url": "https://github.com/dmlc/xgboost",
+    "available": false
+  },
+  {
     "package": "xgboost",
     "maintainer": "Tong He <hetong007@gmail.com>",
     "url": "https://github.com/dmlc/xgboost",
