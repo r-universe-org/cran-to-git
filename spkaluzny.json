@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "robustarima",
+    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
+    "url": "https://github.com/spkaluzny/robustarima",
+    "available": true
+  },
+  {
     "package": "splus2R",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splus2r",
@@ -15,6 +21,12 @@
     "package": "splusTimeDate",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splustimedate",
+    "available": true
+  },
+  {
+    "package": "splusTimeSeries",
+    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
+    "url": "https://github.com/spkaluzny/splustimeseries",
     "available": true
   }
 ]

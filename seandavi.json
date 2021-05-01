@@ -1,5 +1,11 @@
 [
   {
+    "package": "BiocPkgTools",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/seandavi/biocpkgtools",
+    "available": true
+  },
+  {
     "package": "GEOquery",
     "maintainer": "Sean Davis <sdavis2@mail.nih.gov>",
     "url": "https://github.com/seandavi/geoquery",
@@ -15,12 +21,6 @@
     "package": "SRAdb",
     "maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
     "url": "https://github.com/seandavi/sradb",
-    "available": true
-  },
-  {
-    "package": "BiocPkgTools",
-    "maintainer": "Sean Davis <seandavi@gmail.com>",
-    "url": "https://github.com/seandavi/biocpkgtools",
     "available": true
   }
 ]
