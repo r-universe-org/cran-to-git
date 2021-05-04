@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "pRoloc",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/lgatto/proloc",
+    "available": true
+  },
+  {
     "package": "pRolocGUI",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/pRolocGUI",
@@ -45,12 +51,6 @@
     "package": "rpx",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rpx",
-    "available": true
-  },
-  {
-    "package": "pRoloc",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/lgatto/proloc",
     "available": true
   }
 ]

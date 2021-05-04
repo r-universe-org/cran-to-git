@@ -1,5 +1,11 @@
 [
   {
+    "package": "bfast",
+    "maintainer": "Dainius Masiliunas <pastas4@gmail.com>",
+    "url": "https://github.com/bfast2/bfast",
+    "available": true
+  },
+  {
     "package": "strucchangeRcpp",
     "maintainer": "Dainius Masiliunas <pastas4@gmail.com>",
     "url": "https://github.com/bfast2/strucchangercpp",
