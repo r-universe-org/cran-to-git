@@ -1,5 +1,11 @@
 [
   {
+    "package": "BI",
+    "maintainer": "Marc Schwartz <marc_schwartz@me.com>",
+    "url": "https://github.com/marcschwartz/bi",
+    "available": true
+  },
+  {
     "package": "WriteXLS",
     "maintainer": "Marc Schwartz <marc_schwartz@me.com>",
     "url": "https://github.com/marcschwartz/writexls",

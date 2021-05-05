@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "diptest",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/mmaechler/diptest",
+    "available": true
+  },
+  {
     "package": "fracdiff",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/mmaechler/fracdiff",
