@@ -720,6 +720,12 @@
     "available": true
   },
   {
+    "package": "pathviewr",
+    "maintainer": "Vikram B. Baliga <vbaliga87@gmail.com>",
+    "url": "https://github.com/ropensci/pathviewr",
+    "available": true
+  },
+  {
     "package": "pdftools",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/pdftools",
@@ -1389,6 +1395,12 @@
     "package": "wikitaxa",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/wikitaxa",
+    "available": true
+  },
+  {
+    "package": "workloopR",
+    "maintainer": "Vikram B. Baliga <vbaliga87@gmail.com>",
+    "url": "https://github.com/ropensci/workloopr",
     "available": true
   },
   {
