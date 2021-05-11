@@ -300,6 +300,12 @@
     "available": true
   },
   {
+    "package": "exoplanets",
+    "maintainer": "Tyler Littlefield <tylerlittlefield@hey.com>",
+    "url": "https://github.com/ropensci/exoplanets",
+    "available": true
+  },
+  {
     "package": "ezknitr",
     "maintainer": "Dean Attali <daattali@gmail.com>",
     "url": "https://github.com/ropensci/ezknitr",

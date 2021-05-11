@@ -1,5 +1,11 @@
 [
   {
+    "package": "diveR",
+    "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
+    "url": "https://github.com/great-northern-diver/diver",
+    "available": true
+  },
+  {
     "package": "loon",
     "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
     "url": "https://github.com/great-northern-diver/loon",
