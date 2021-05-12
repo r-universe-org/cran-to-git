@@ -1218,6 +1218,12 @@
     "available": true
   },
   {
+    "package": "tarchetypes",
+    "maintainer": "William Michael Landau <will.landau@gmail.com>",
+    "url": "https://github.com/ropensci/tarchetypes",
+    "available": true
+  },
+  {
     "package": "targets",
     "maintainer": "William Michael Landau <will.landau@gmail.com>",
     "url": "https://github.com/ropensci/targets",
