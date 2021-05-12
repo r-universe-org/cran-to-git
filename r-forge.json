@@ -193,13 +193,6 @@
     "available": false
   },
   {
-    "package": "depmixS4",
-    "maintainer": "Ingmar Visser <i.visser@uva.nl>",
-    "url": "https://github.com/r-forge/depmix",
-    "subdir": "pkg/depmixS4",
-    "available": true
-  },
-  {
     "package": "deSolve",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/r-forge/desolve",
