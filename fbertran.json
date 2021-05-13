@@ -1,5 +1,11 @@
 [
   {
+    "package": "bigalgebra",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@utt.fr>",
+    "url": "https://github.com/fbertran/bigalgebra",
+    "available": true
+  },
+  {
     "package": "BioStatR",
     "maintainer": "Frederic Bertrand <frederic.bertrand@math.unistra.fr>",
     "url": "https://github.com/fbertran/biostatr",
