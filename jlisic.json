@@ -1,5 +1,11 @@
 [
   {
+    "package": "cdlTools",
+    "maintainer": "Jonathan Lisic <jlisic@gmail.com>",
+    "url": "https://github.com/jlisic/cdltools",
+    "available": true
+  },
+  {
     "package": "ISR3",
     "maintainer": "Jonathan Lisic <jonathan.lisic@nass.usda.gov>",
     "url": "https://github.com/jlisic/isr3",

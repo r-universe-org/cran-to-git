@@ -126,6 +126,12 @@
     "available": true
   },
   {
+    "package": "chromer",
+    "maintainer": "Matthew Pennell <mwpennell@gmail.com>",
+    "url": "https://github.com/ropensci/chromer",
+    "available": true
+  },
+  {
     "package": "circle",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/ropensci/circle",
@@ -945,6 +951,12 @@
     "package": "rfishbase",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/rfishbase",
+    "available": true
+  },
+  {
+    "package": "rfisheries",
+    "maintainer": "Karthik Ram <karthik.ram@gmail.com>",
+    "url": "https://github.com/ropensci/rfisheries",
     "available": true
   },
   {

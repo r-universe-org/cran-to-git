@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "flowStats",
+    "maintainer": "Greg Finak <gfinak@fhcrc.org>",
+    "url": "https://github.com/rglab/flowstats",
+    "available": true
+  },
+  {
     "package": "ggcyto",
     "maintainer": "Mike Jiang <wjiang2@fhcrc.org>,Jake Wagner <jpwagner@fhcrc.org>",
     "url": "https://github.com/rglab/ggcyto",
