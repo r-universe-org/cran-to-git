@@ -234,6 +234,12 @@
     "available": true
   },
   {
+    "package": "dataspice",
+    "maintainer": "Bryce Mecum <brycemecum@gmail.com>",
+    "url": "https://github.com/ropensci/dataspice",
+    "available": true
+  },
+  {
     "package": "dbhydroR",
     "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
     "url": "https://github.com/ropensci/dbhydror",
