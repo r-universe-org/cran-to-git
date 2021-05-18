@@ -156,6 +156,12 @@
     "available": true
   },
   {
+    "package": "HubPub",
+    "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
+    "url": "https://github.com/bioconductor/hubpub",
+    "available": true
+  },
+  {
     "package": "IRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/iranges",

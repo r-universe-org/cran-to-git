@@ -1,5 +1,11 @@
 [
   {
+    "package": "msqrob2",
+    "maintainer": "Lieven Clement <lieven.clement@ugent.be>",
+    "url": "https://github.com/statomics/msqrob2",
+    "available": true
+  },
+  {
     "package": "satuRn",
     "maintainer": "Jeroen Gilis <jeroen.gilis@ugent.be>",
     "url": "https://github.com/statomics/saturn",

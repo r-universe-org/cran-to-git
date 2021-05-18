@@ -6,6 +6,24 @@
     "available": true
   },
   {
+    "package": "cosmosR",
+    "maintainer": "Katharina Zirngibl <katharina.zirngibl@uni-heidelberg.de>",
+    "url": "https://github.com/saezlab/cosmosr",
+    "available": true
+  },
+  {
+    "package": "decoupleR",
+    "maintainer": "Jesús Vélez <jvelezmagic@gmail.com>",
+    "url": "https://github.com/saezlab/decoupler",
+    "available": true
+  },
+  {
+    "package": "mistyR",
+    "maintainer": "Jovan Tanevski <jovan.tanevski@uni-heidelberg.de>",
+    "url": "https://github.com/saezlab/mistyr",
+    "available": true
+  },
+  {
     "package": "OmnipathR",
     "maintainer": "Denes Turei <turei.denes@gmail.com>",
     "url": "https://github.com/saezlab/omnipathr",
