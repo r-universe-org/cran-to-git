@@ -1,8 +1,20 @@
 [
   {
+    "package": "nnTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/rikenbit/nntensor",
+    "available": true
+  },
+  {
     "package": "rTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/rtensor",
+    "available": true
+  },
+  {
+    "package": "ttTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/rikenbit/tttensor",
     "available": true
   }
 ]
