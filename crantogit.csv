@@ -57,6 +57,7 @@ adpss,https://github.com/ca4wa/r-adpss
 ADtools,https://github.com/kcf-jackson/adtools
 AEenrich,https://github.com/umich-biostatistics/aeenrich
 afCEC,https://github.com/geigenprinzipal/afcec
+afdx,https://github.com/johnaponte/afdx
 afex,https://github.com/singmann/afex
 afpt,https://github.com/marcoklh/afpt-r
 AGD,https://github.com/stefvanbuuren/agd
@@ -282,7 +283,7 @@ autoshiny,https://github.com/alekrutkowski/autoshiny
 autothresholdr,https://github.com/rorynolan/autothresholdr
 autoTS,https://github.com/vivienroussez/autots
 av,https://github.com/ropensci/av
-available,https://github.com/r-lib/available
+available,https://github.com/ropenscilabs/available
 avar,https://github.com/smac-group/avar
 aVirtualTwins,https://github.com/prise6/avirtualtwins
 AWAPer,https://github.com/peterson-tim-j/awaper
@@ -862,11 +863,13 @@ circlize,https://github.com/jokergoo/circlize
 CircSpaceTime,https://github.com/santoroma/circspacetime
 circumplex,https://github.com/jmgirard/circumplex
 cIRT,https://github.com/tmsalab/cirt
+cit,https://github.com/uscbiostats/cit
 CITAN,https://github.com/gagolews/CITAN
 citation,https://github.com/pik-piam/citation
 citecorp,https://github.com/ropensci/citecorp
 ciTools,https://github.com/jthaman/citools
 civis,https://github.com/civisanalytics/civis-r
+cjbart,https://github.com/tsrobinson/cjbart
 ckanr,https://github.com/ropensci/ckanr
 clarifai,https://github.com/soodoku/clarifai
 ClassComparison,https://github.com/r-forge/oompa
@@ -981,6 +984,7 @@ colocr,https://github.com/ropensci/colocr
 colorDF,https://github.com/january3/colordf
 colorednoise,https://github.com/japilo/colorednoise
 colorfindr,https://github.com/zumbov2/colorfindr
+colorhex,https://github.com/athanasiamo/colorhex
 colorist,https://github.com/mstrimas/colorist
 colorizer,https://github.com/zumbov2/colorizer
 colormap,https://github.com/bhaskarvk/colormap
@@ -1196,6 +1200,7 @@ crul,https://github.com/ropensci/crul
 crunch,https://github.com/crunch-io/rcrunch
 crunchy,https://github.com/crunch-io/crunchy
 CruzPlot,https://github.com/smwoodman/cruzplot
+cryptowatchR,https://github.com/lorenzbr/cryptowatchr
 csa,https://github.com/imarkonis/csa
 cSEM,https://github.com/m-e-rademaker/csem
 CSGo,https://github.com/adsoncostanzifilho/csgo
@@ -2155,7 +2160,6 @@ flextable,https://github.com/davidgohel/flextable
 flifo,https://github.com/paulponcet/flifo
 flightplanning,https://github.com/caiohamamura/flightplanning-r
 flightplot,https://github.com/xmc811/flightplot
-FLightR,https://github.com/eldarrak/flightr
 flipdownr,https://github.com/feddelegrand7/flipdownr
 flipr,https://github.com/astamm/flipr
 float,https://github.com/wrathematics/float
@@ -2221,6 +2225,7 @@ fpmoutliers,https://github.com/jaroslav-kuchar/fpmoutliers
 fpp2,https://github.com/robjhyndman/fpp2-package
 fpp3,https://github.com/robjhyndman/fpp3-package
 fracdiff,https://github.com/mmaechler/fracdiff
+fracdist,https://github.com/leemorinucf/fracdist
 FractalParameterEstimation,https://github.com/phhermann/fractalparameterestimation
 fracture,https://github.com/rossellhayes/fracture
 frailtyEM,https://github.com/tbalan/frailtyem
@@ -2384,6 +2389,7 @@ gensvm,https://github.com/gjjvdburg/rgensvm
 geobr,https://github.com/ipeagit/geobr
 geocmeans,https://github.com/jeremygelb/geocmeans
 geodaData,https://github.com/spatialanalysis/geodadata
+GeodesiCL,https://github.com/diegoalarc/geodesicl
 geodist,https://github.com/hypertidy/geodist
 geodiv,https://github.com/bioxgeo/geodiv
 geodrawr,https://github.com/curycu/geodrawr
@@ -3205,6 +3211,7 @@ jsmodule,https://github.com/jinseob2kim/jsmodule
 jsonld,https://github.com/ropensci/jsonld
 jsonlite,https://github.com/jeroen/jsonlite
 jsonstat,https://github.com/zedoul/jsonstat
+jsonStrings,https://github.com/stla/jsonstrings
 jsonvalidate,https://github.com/ropensci/jsonvalidate
 jsr223,https://github.com/floidgilbert/jsr223
 jstable,https://github.com/jinseob2kim/jstable
@@ -3388,6 +3395,7 @@ lenses,https://github.com/cfhammill/lenses
 leontief,https://github.com/pachamaltese/leontief
 leri,https://github.com/earthlab/leri
 letsR,https://github.com/macroecology/letsr
+levitate,https://github.com/lewinfox/levitate
 lexicon,https://github.com/trinker/lexicon
 LexisNexisTools,https://github.com/jbgruber/lexisnexistools
 LexisPlotR,https://github.com/ottlngr/lexisplotr
@@ -5778,6 +5786,7 @@ RobMixReg,https://github.com/changwn/robmixreg
 robotstxt,https://github.com/ropensci/robotstxt
 robregcc,https://github.com/amishra-stats/robregcc
 RobRex,https://github.com/r-forge/robast
+robsel,https://github.com/dddlab/robust-selection
 robservable,https://github.com/juba/robservable
 robsurvey,https://github.com/martinster/robsurvey
 robumeta,https://github.com/zackfisher/robumeta
@@ -7591,7 +7600,7 @@ widgetframe,https://github.com/bhaskarvk/widgetframe
 widyr,https://github.com/dgrtwo/widyr
 wiesbaden,https://github.com/sumtxt/wiesbaden
 WikidataQueryServiceR,https://github.com/wikimedia/WikidataQueryServiceR
-WikidataR,https://github.com/ironholds/wikidatar
+WikidataR,https://github.com/ts404/wikidatar
 wikilake,https://github.com/jsta/wikilake
 wikipediatrend,https://github.com/petermeissner/wikipediatrend
 WikipediR,https://github.com/ironholds/wikipedir
@@ -7853,7 +7862,6 @@ cellmigRation,https://github.com/ocbe-uio/cellmigration
 CellMixS,https://github.com/almutlue/cellmixs
 censcyt,https://github.com/retogerber/censcyt
 ceRNAnetsim,https://github.com/selcenari/cernanetsim
-cfDNAPro,https://github.com/hw538/cfdnapro
 CGHbase,https://github.com/tgac-vumc/cghbase
 ChemmineOB,https://github.com/girke-lab/chemmineob
 ChemmineR,https://github.com/girke-lab/chemminer
