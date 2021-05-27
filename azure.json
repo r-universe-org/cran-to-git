@@ -63,7 +63,7 @@
     "package": "AzureStor",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
     "url": "https://github.com/azure/azurestor",
-    "available": false
+    "available": true
   },
   {
     "package": "AzureTableStor",
@@ -75,7 +75,7 @@
     "package": "AzureVision",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
     "url": "https://github.com/azure/azurevision",
-    "available": false
+    "available": true
   },
   {
     "package": "AzureVM",

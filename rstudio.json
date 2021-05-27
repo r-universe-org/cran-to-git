@@ -276,6 +276,12 @@
     "available": true
   },
   {
+    "package": "shinyvalidate",
+    "maintainer": "Richard Iannone <rich@rstudio.com>",
+    "url": "https://github.com/rstudio/shinyvalidate",
+    "available": true
+  },
+  {
     "package": "sortable",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/sortable",
