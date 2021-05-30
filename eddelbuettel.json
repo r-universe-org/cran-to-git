@@ -192,6 +192,12 @@
     "available": true
   },
   {
+    "package": "td",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/td",
+    "available": true
+  },
+  {
     "package": "tint",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/tint",
