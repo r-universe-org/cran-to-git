@@ -201,7 +201,6 @@ argparse,https://github.com/trevorld/r-argparse
 argparser,https://bitbucket.org/djhshih/argparser
 ari,https://github.com/jhudsl/ari
 aricode,https://github.com/jchiquet/aricode
-ariExtra,https://github.com/jhudsl/ariExtra
 arkdb,https://github.com/ropensci/arkdb
 arkhe,https://github.com/tesselle/arkhe
 arm,https://github.com/suyusung/arm
@@ -919,7 +918,6 @@ clustcurv,https://github.com/noramvillanueva/clustcurv
 Cluster.OBeu,https://github.com/okgreece/cluster.obeu
 ClusterBootstrap,https://github.com/mathijsdeen/clusterbootstrap
 clusteredinterference,https://github.com/barkleybg/clusteredinterference
-Clustering,https://github.com/laperez/clustering
 clustermole,https://github.com/igordot/clustermole
 clustermq,https://github.com/mschubert/clustermq
 clusternomics,https://github.com/evelinag/clusternomics
@@ -1741,6 +1739,7 @@ EditImputeCont,https://github.com/quanliwang/editimputecont
 editrules,https://github.com/data-cleaning/editrules
 edmdata,https://github.com/tmsalab/edmdata
 EDOIF,https://github.com/darkeyes/edoif
+educationdata,https://github.com/urbaninstitute/education-data-package-r
 edwards97,https://github.com/paleolimbot/edwards97
 eechidna,https://github.com/jforbes14/eechidna
 eefAnalytics,https://github.com/germaine86/eefanalytics
@@ -2309,7 +2308,6 @@ GADMTools,https://github.com/iamkdo/gadmtools
 galah,https://github.com/atlasoflivingaustralia/galah
 GALLO,https://github.com/pablobio/gallo
 galvanizer,https://github.com/jonlinca/galvanizer
-gama,https://github.com/jairsonrodrigues/gama
 gambin,https://github.com/txm676/gambin
 gamboostLSS,https://github.com/boost-r/gamboostlss
 gamCopula,https://github.com/tvatter/gamcopula
@@ -2392,6 +2390,7 @@ gensvm,https://github.com/gjjvdburg/rgensvm
 geobr,https://github.com/ipeagit/geobr
 geocmeans,https://github.com/jeremygelb/geocmeans
 geodaData,https://github.com/spatialanalysis/geodadata
+geodata,https://github.com/rspatial/geodata
 GeodesiCL,https://github.com/diegoalarc/geodesicl
 geodist,https://github.com/hypertidy/geodist
 geodiv,https://github.com/bioxgeo/geodiv
@@ -2974,6 +2973,7 @@ ICC,https://github.com/matthewwolak/icc
 iccbeta,https://github.com/tmsalab/iccbeta
 ICCbin,https://github.com/akhtarh/iccbin
 ICD10gm,https://github.com/edonnachie/icd10gm
+icecream,https://github.com/lewinfox/icecream
 iCellR,https://github.com/rezakj/icellr
 icesVocab,https://github.com/ices-tools-prod/icesvocab
 ichimoku,https://github.com/shikokuchuo/ichimoku
@@ -3325,6 +3325,7 @@ languageserver,https://github.com/reditorsupport/languageserver
 languageserversetup,https://github.com/jozefhajnala/languageserversetup
 lans2r,https://github.com/kopflab/lans2r
 LaplacesDemon,https://github.com/laplacesdemonr/laplacesdemon
+lares,https://github.com/laresbernardo/lares
 largeList,https://github.com/yuchun-zhang/r_largelist
 LassoGEE,https://github.com/liygcr/lassogee
 lassopv,https://github.com/lingfeiwang/lassopv
@@ -3410,7 +3411,6 @@ lfstat,https://github.com/mundl/lfstat
 lgr,https://github.com/s-fleck/lgr
 lhmixr,https://github.com/mintoc/lhmixr
 lhs,https://github.com/bertcarnell/lhs
-liayson,https://github.com/noemiandor/liayson
 libgeos,https://github.com/paleolimbot/libgeos
 LiblineaR.ACF,https://github.com/aydindemircioglu/liblinear.acf
 LibOPF,https://github.com/rafaeljm/libopf-in-r
@@ -4543,6 +4543,7 @@ Pareto,https://github.com/ulrichriegel/pareto
 parlitools,https://github.com/evanodell/parlitools
 parmigene,https://github.com/sales-lab/parmigene
 parmsurvfit,https://github.com/apjacobson/parmsurvfit
+paropt,https://github.com/konrad1991/paropt
 parsedate,https://github.com/gaborcsardi/parsedate
 parsermd,https://github.com/rundel/parsermd
 parsnip,https://github.com/tidymodels/parsnip
@@ -5262,6 +5263,7 @@ RANN,https://github.com/jefferislab/RANN
 rapbase,https://github.com/rapporteket/rapbase
 rapiclient,https://github.com/bergant/rapiclient
 rapidoc,https://github.com/meztez/rapidoc
+rapidraker,https://github.com/crew102/rapidraker
 RAppArmor,https://github.com/jeroen/rapparmor
 rappdirs,https://github.com/r-lib/rappdirs
 rapport,https://github.com/rapporter/rapport
@@ -5540,6 +5542,7 @@ REPTILE,https://github.com/yupenghe/reptile
 repurrrsive,https://github.com/jennybc/repurrrsive
 reqres,https://github.com/thomasp85/reqres
 request,https://github.com/sckott/request
+Require,https://github.com/predictiveecology/require
 rerddap,https://github.com/ropensci/rerddap
 rerddapXtracto,https://github.com/rmendels/rerddapxtracto
 reReg,https://github.com/stc04003/rereg
@@ -7360,6 +7363,7 @@ ukpolice,https://github.com/evanodell/ukpolice
 ulid,https://gitlab.com/hrbrmstr/ulid
 umap,https://github.com/tkonopka/umap
 Umpire,https://github.com/r-forge/oompa
+umx,https://github.com/tbates/umx
 UncertainInterval,https://github.com/hanslandsheer/uncertaininterval
 uncmbb,https://github.com/joongsup/uncmbb
 UNF,https://github.com/leeper/unf
@@ -7426,6 +7430,7 @@ utile.tables,https://github.com/efinite/utile.tables
 utile.tools,https://github.com/efinite/utile.tools
 utile.visuals,https://github.com/efinite/utile.visuals
 utilsIPEA,https://github.com/ipea/utilsipea
+utiml,https://github.com/rivolli/utiml
 uwot,https://github.com/jlmelville/uwot
 V8,https://github.com/jeroen/v8
 vacuum,https://github.com/sielinski/vacuum

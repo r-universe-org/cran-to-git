@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "geodata",
+    "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
+    "url": "https://github.com/rspatial/geodata",
+    "available": true
+  },
+  {
     "package": "raster",
     "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
     "url": "https://github.com/rspatial/raster",
