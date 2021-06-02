@@ -5,5 +5,12 @@
     "url": "https://github.com/kapelner/optimalrerandexpdesigns",
     "subdir": "OptimalRerandExpDesigns",
     "available": true
+  },
+  {
+    "package": "SeqExpMatch",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/kapelner/matching_on_the_fly_designs_r_package_and_paper_repr",
+    "subdir": "SeqExpMatch",
+    "available": true
   }
 ]
