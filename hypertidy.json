@@ -1,5 +1,11 @@
 [
   {
+    "package": "affinity",
+    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
+    "url": "https://github.com/hypertidy/affinity",
+    "available": true
+  },
+  {
     "package": "ceramic",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/hypertidy/ceramic",
