@@ -1,5 +1,11 @@
 [
   {
+    "package": "AMR",
+    "maintainer": "Matthijs S. Berends <m.s.berends@umcg.nl>",
+    "url": "https://github.com/msberends/amr",
+    "available": true
+  },
+  {
     "package": "clean",
     "maintainer": "Matthijs S. Berends <m.s.berends@umcg.nl>",
     "url": "https://github.com/msberends/cleaner",

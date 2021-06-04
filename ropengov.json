@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "iotables",
+    "maintainer": "Daniel Antal <daniel.antal@dataobservatory.eu>",
+    "url": "https://github.com/ropengov/iotables",
+    "available": true
+  },
+  {
     "package": "psData",
     "maintainer": "Christopher Gandrud <christopher.gandrud@gmail.com>",
     "url": "https://github.com/rOpenGov/psData",
