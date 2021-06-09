@@ -4,5 +4,11 @@
     "maintainer": "Maxim Nazarov <maxim.nazarov@openanalytics.eu>",
     "url": "https://github.com/openanalytics/bigl",
     "available": true
+  },
+  {
+    "package": "clinUtils",
+    "maintainer": "Michela Pasetto <michela.pasetto@openanalytics.eu>",
+    "url": "https://github.com/openanalytics/clinutils",
+    "available": false
   }
 ]
