@@ -47,7 +47,6 @@ adklakedata,https://github.com/lawinslow/adklakedata
 admisc,https://github.com/dusadrian/admisc
 AdMit,https://github.com/ardiad/admit
 admixr,https://github.com/bodkan/admixr
-admixturegraph,https://github.com/mailund/admixture_graph
 ADMMsigma,https://github.com/mgallow/admmsigma
 ADMUR,https://github.com/ucl/admur
 adnuts,https://github.com/cole-monnahan-noaa/adnuts
@@ -64,6 +63,7 @@ affinity,https://github.com/hypertidy/affinity
 afpt,https://github.com/marcoklh/afpt-r
 AGD,https://github.com/stefvanbuuren/agd
 AGHmatrix,https://github.com/prmunoz/aghmatrix
+aglm,https://github.com/kkondo1981/aglm
 agop,https://github.com/gagolews/agop
 AGread,https://github.com/paulhibbing/agread
 agridat,https://github.com/kwstat/agridat
@@ -1553,6 +1553,7 @@ dmbc,https://github.com/sergioventurini/dmbc
 DMCfun,https://github.com/igmmgi/dmcfun
 dmdScheme,https://github.com/exp-micro-ecol-hub/dmdscheme
 dml,https://github.com/terrytangyuan/dml
+dmri.tracking,https://github.com/vic-dragon/dmri.tracking
 DMTL,https://github.com/dhruba018/dmtl
 dmtools,https://github.com/konstantinryabov/dmtools
 dmutate,https://github.com/kylebaron/dmutate
@@ -1870,6 +1871,7 @@ epitrix,https://github.com/reconhub/epitrix
 epitweetr,https://github.com/eu-ecdc/epitweetr
 eplusr,https://github.com/hongyuanjia/eplusr
 eply,https://github.com/wlandau/eply
+epocakir,https://github.com/alwinw/epocakir
 eponge,https://github.com/krzjoa/eponge
 epsiwal,https://github.com/shabbychef/epsiwal
 epubr,https://github.com/ropensci/epubr
@@ -3682,6 +3684,7 @@ mboost,https://github.com/boost-r/mboost
 mboxr,https://github.com/jooyoungseo/mboxr
 mbr,https://github.com/ntthung/mbr
 mcbette,https://github.com/ropensci/mcbette
+mcboost,https://github.com/mlr-org/mcboost
 mcca,https://github.com/gaoming96/mcca
 mccf1,https://bitbucket.org/hoffmanlab/mccf1
 MCDA,https://github.com/paterijk/mcda
@@ -5493,6 +5496,7 @@ reclin,https://github.com/djvanderlaan/reclin
 recluster,https://github.com/leondap/recluster
 recmap,https://github.com/cpanse/recmap
 Recocrop,https://github.com/cropmodels/recocrop
+recodeflow,https://github.com/big-life-lab/recodeflow
 recommenderlab,https://github.com/mhahsler/recommenderlab
 reconstructr,https://github.com/ironholds/reconstructr
 recorder,https://github.com/smaakage85/recorder
@@ -5887,7 +5891,6 @@ rPackedBar,https://github.com/adamspannbauer/rpackedbar
 RPANDA,https://github.com/hmorlon/panda
 rPanglaoDB,https://github.com/dosorio/rpanglaodb
 rpart,https://github.com/bethatkinson/rpart
-rpartitions,https://github.com/klocey/partitions
 rpatrec,https://github.com/maiers94/rpatrec
 rpdo,https://github.com/poissonconsulting/rpdo
 RPEXE.RPEXT,https://github.com/hangangtrue/rpexe.rpext
@@ -6162,6 +6165,7 @@ scattermore,https://github.com/exaexa/scattermore
 scBio,https://github.com/amitfrish/scbio
 scclust,https://github.com/fsavje/scclust-r
 sccore,https://github.com/kharchenkolab/sccore
+scDHA,https://github.com/duct317/scdha
 scdhlm,https://github.com/jepusto/scdhlm
 scenario,https://github.com/swd-turner/scenario
 SCGLR,https://github.com/scnext/scglr
@@ -6987,7 +6991,6 @@ taxlist,https://github.com/ropensci/taxlist
 taxonomizr,https://github.com/sherrillmix/taxonomizr
 taxotools,https://github.com/vijaybarve/taxotools
 tbd,https://github.com/killingvectorfield/causal-inference-truncated-by-death
-tbdiag,https://github.com/mmparker/tbdiag
 tbl2xts,https://github.com/nicktz/tbl2xts
 tbm,https://github.com/r-forge/ctm
 tboot,https://github.com/njm18/tboot
@@ -7777,6 +7780,7 @@ ZIPFA,https://github.com/zjph602xtc/zipfa
 zipfextR,https://github.com/ardlop/zipfextr
 zipfR,https://github.com/r-forge/zipfr
 zipR,https://github.com/leslie-huang/zipr
+zipsae,https://github.com/dheel/zipsae
 zoltr,https://github.com/reichlab/zoltr
 zonator,https://github.com/cbig/zonator
 zonebuilder,https://github.com/zonebuilders/zonebuilder
@@ -8361,6 +8365,7 @@ RaggedExperiment,https://github.com/bioconductor/raggedexperiment
 ramr,https://github.com/bbcg/ramr
 ramwas,https://github.com/andreyshabalin/ramwas
 randRotation,https://github.com/phettegger/randrotation
+rawrr,https://github.com/fgcz/rawrr
 rBiopaxParser,https://github.com/frankkramer-lab/rbiopaxparser
 Rbowtie,https://github.com/fmicompbio/rbowtie
 rCGH,https://github.com/fredcommo/rcgh
@@ -8595,7 +8600,6 @@ zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
 BrowserViz,https://github.com/paul-shannon/browserviz
 destiny,https://github.com/theislab/destiny
-rawrr,https://github.com/fgcz/rawrr
 genoset,https://github.com/phaverty/genoset
 bigmemoryExtras,https://github.com/phaverty/bigmemoryextras
 seqplots,https://github.com/przemol/seqplots
