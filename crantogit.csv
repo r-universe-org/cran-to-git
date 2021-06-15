@@ -46,6 +46,7 @@ adjustedcranlogs,https://github.com/tylermorganwall/adjustedcranlogs
 adklakedata,https://github.com/lawinslow/adklakedata
 admisc,https://github.com/dusadrian/admisc
 AdMit,https://github.com/ardiad/admit
+admix,https://github.com/xaviermilhaud/admix
 admixr,https://github.com/bodkan/admixr
 ADMMsigma,https://github.com/mgallow/admmsigma
 ADMUR,https://github.com/ucl/admur
@@ -1215,6 +1216,7 @@ CSGo,https://github.com/adsoncostanzifilho/csgo
 cstab,https://github.com/jmbh/cstab
 CSUV,https://github.com/christineyuen/csuv
 csvread,https://github.com/jabiru/csvread
+csvwr,https://github.com/robsteranium/csvwr
 csvy,https://github.com/leeper/csvy
 ctmm,https://github.com/ctmm-initiative/ctmm
 ctrdata,https://github.com/rfhb/ctrdata
@@ -1625,6 +1627,7 @@ drhur,https://github.com/sammo3182/drhur
 DriftBurstHypothesis,https://github.com/emilsjoerup/driftbursthypothesis
 drifter,https://github.com/modeloriented/drifter
 DrImpute,https://github.com/ikwak2/drimpute
+DriveML,https://github.com/daya6489/driveml
 driveR,https://github.com/egeulgen/driver
 DRomics,https://github.com/aursiber/dromics
 droptest,https://github.com/chadr/droptest
@@ -2334,6 +2337,7 @@ gamlr,https://github.com/taddylab/gamlr
 gamma,https://github.com/crp2a/gamma
 ganalytics,https://github.com/jdeboer/ganalytics
 gap,https://github.com/jinghuazhao/r
+GapAnalysis,https://github.com/ciat-dapa/gapanalysis
 GAparsimony,https://github.com/jpison/gaparsimony
 gapfill,https://github.com/florafauna/gapfill
 gapmap,https://github.com/evanbiederstedt/gapmap
@@ -2424,6 +2428,7 @@ geojsonlint,https://github.com/ropensci/geojsonlint
 geojsonR,https://github.com/mlampros/geojsonr
 geojsonsf,https://github.com/symbolixau/geojsonsf
 geoknife,https://github.com/usgs-r/geoknife
+geomander,https://github.com/christopherkenny/geomander
 GeomComb,https://github.com/ceweiss/ForecastComb
 geomedb,https://github.com/biocodellc/fimsr-access
 geometa,https://github.com/eblondel/geometa
@@ -2437,9 +2442,9 @@ geonames,https://github.com/ropensci/geonames
 geonapi,https://github.com/eblondel/geonapi
 geonetwork,https://github.com/cirad-astre/geonetwork
 geos,https://github.com/paleolimbot/geos
+geoSAE,https://github.com/ketutdika/geosae
 geosapi,https://github.com/eblondel/geosapi
 geospark,https://github.com/harryprince/geospark
-geoSpectral,https://github.com/pranageo/geospectral
 geostats,https://github.com/pvermees/geostats
 geotopbricks,https://github.com/ecor/geotopbricks
 geouy,https://github.com/richdeto/geouy
@@ -3605,6 +3610,7 @@ malan,https://github.com/mikldk/malan
 malariaAtlas,https://github.com/malaria-atlas-project/malariaatlas
 MALDIquant,https://github.com/sgibb/maldiquant
 MALDIquantForeign,https://github.com/sgibb/maldiquantforeign
+ManagedCloudProvider,https://github.com/jiefei-wang/managedcloudprovider
 mangoTraining,https://github.com/mangothecat/mangotraining
 manhattanly,https://github.com/sahirbhatnagar/manhattanly
 manhplot,https://github.com/cgrace1978/manhplot
@@ -3905,6 +3911,7 @@ mize,https://github.com/jlmelville/mize
 mizer,https://github.com/sizespectrum/mizer
 mkin,https://github.com/jranke/mkin
 mknapsack,https://github.com/madedotcom/mknapsack
+mlbstatsR,https://github.com/ivovillanueva/mlbstatsr
 mldr,https://github.com/fcharte/mldr
 mldr.datasets,https://github.com/fcharte/mldr.datasets
 mleap,https://github.com/rstudio/mleap
@@ -4602,6 +4609,7 @@ pathfindR,https://github.com/egeulgen/pathfindr
 pathfindR.data,https://github.com/egeulgen/pathfindr.data
 pathmapping,https://github.com/stmueller/pathmapping
 pathviewr,https://github.com/ropensci/pathviewr
+patientProfilesVis,https://github.com/openanalytics/patientprofilesvis
 patrick,https://github.com/google/patrick
 patternator,https://github.com/stathwang/patternator
 patternize,https://github.com/stevenvb12/patternize
@@ -4818,6 +4826,7 @@ PlackettLuce,https://github.com/hturner/plackettluce
 plan,https://github.com/dankelley/plan
 planar,https://github.com/nano-optics/planar
 PlaneGeometry,https://github.com/stla/planegeometry
+PlanetNICFI,https://github.com/mlampros/planetnicfi
 plantecophys,https://bitbucket.org/remkoduursma/plantecophys
 plantecowrap,https://github.com/jstinzi/plantecowrap
 plater,https://github.com/ropensci/plater
@@ -4861,7 +4870,6 @@ pmd,https://github.com/yufree/pmd
 pmdplyr,https://github.com/nickch-k/pmdplyr
 pmetar,https://github.com/prcwiek/pmetar
 pmhtutorial,https://github.com/compops/pmh-tutorial-rpkg
-PML,https://github.com/xinyue-l/pml
 pmlbr,https://github.com/epistasislab/pmlbr
 pmml,https://github.com/softwareag/r-pmml
 pmpp,https://github.com/michaloleszak/pmpp
@@ -5358,7 +5366,6 @@ Rblpapi,https://github.com/rblp/rblpapi
 rblt,https://github.com/sg4r/rblt
 RBMRB,https://github.com/uwbmrb/rbmrb
 RBNZ,https://github.com/rntq472/rbnz
-rbokeh,https://github.com/bokeh/rbokeh
 Rborist,https://github.com/suiji/arborist
 RBPcurve,https://github.com/giuseppec/rbpcurve
 rbw,https://github.com/xiangzhou09/rbw
@@ -5668,6 +5675,7 @@ Rglpk,https://github.com/r-forge/rglp
 rgnparser,https://github.com/ropensci/rgnparser
 RGoogleAnalytics,https://github.com/manueldefrancisco/rgoogleanalytics
 RgoogleMaps,https://github.com/markusloecher/rgooglemaps
+rgovcan,https://github.com/vlucet/rgovcan
 rgplates,https://github.com/adamkocsis/rgplates
 rgrass7,https://github.com/rsbivand/rgrass7
 rgrassdoc,https://github.com/vlucet/rgrassdoc
@@ -6034,7 +6042,6 @@ Rthingsboard,https://github.com/ddorch/rthingsboard
 rticles,https://github.com/rstudio/rticles
 rticulate,https://github.com/stefanocoretta/rticulate
 rtide,https://github.com/poissonconsulting/rtide
-rtimicropem,https://github.com/ropensci/rtimicropem
 RTL,https://github.com/risktoollib/rtl
 rtodoist,https://github.com/thinkr-open/rtodoist
 rTorch,https://github.com/f0nzie/rtorch
@@ -6428,6 +6435,7 @@ signalHsmm,https://github.com/michbur/signalhsmm
 signnet,https://github.com/schochastics/signnet
 signs,https://github.com/benjaminwolfe/signs
 sigr,https://github.com/winvector/sigr
+SIHR,https://github.com/prabrishar1/sihr
 silicate,https://github.com/hypertidy/silicate
 Sim.DiffProc,https://github.com/acguidoum/sim.diffproc
 sim2Dpredictr,https://github.com/jmleach-bst/sim2dpredictr
@@ -6502,6 +6510,7 @@ sjlabelled,https://github.com/strengejacke/sjlabelled
 sjmisc,https://github.com/strengejacke/sjmisc
 sjPlot,https://github.com/strengejacke/sjplot
 sjstats,https://github.com/strengejacke/sjstats
+skedastic,https://github.com/tjfarrar/skedastic
 skeletor,https://github.com/nealrichardson/skeletor
 skellam,https://github.com/r-forge/healthqueues
 sketch,https://github.com/kcf-jackson/sketch
@@ -6609,6 +6618,7 @@ spacetime,https://github.com/edzer/spacetime
 spacey,https://github.com/mikemahoney218/spacey
 spacyr,https://github.com/quanteda/spacyr
 spAddins,https://github.com/gegznav/spaddins
+SpaDES,https://github.com/predictiveecology/spades
 SpaDES.addins,https://github.com/predictiveecology/spades.addins
 SpaDES.core,https://github.com/predictiveecology/spades.core
 SpaDES.tools,https://github.com/predictiveecology/spades.tools
@@ -6646,7 +6656,7 @@ SpatialEpiApp,https://github.com/paula-moraga/spatialepiapp
 SpatialExtremes,https://github.com/r-forge/spatialextremes
 SpatialGraph,https://github.com/garciapintado/spatialgraph
 SpatialKDE,https://github.com/jancaha/spatialkde
-SpatialPosition,https://github.com/riatelab/SpatialPosition
+SpatialPosition,https://github.com/riatelab/spatialposition
 spatialreg,https://github.com/r-spatial/spatialreg
 spatialrisk,https://github.com/mharinga/spatialrisk
 spatialsample,https://github.com/tidymodels/spatialsample
@@ -7553,6 +7563,7 @@ viscomplexr,https://github.com/peterbiber/viscomplexr
 visdat,https://github.com/ropensci/visdat
 ViSiElse,https://github.com/re2simlab/visielse
 visNetwork,https://github.com/datastorm-open/visnetwork
+visR,https://github.com/openpharma/visr
 vistime,https://github.com/shosaco/vistime
 vistributions,https://github.com/rsquaredacademy/vistributions
 visualize,https://github.com/coatless/visualize
@@ -7683,6 +7694,7 @@ word2vec,https://github.com/bnosac/word2vec
 wordbankr,https://github.com/langcog/wordbankr
 wordcloud2,https://github.com/lchiffon/wordcloud2
 wordpiece,https://github.com/jonathanbratt/wordpiece
+wordpredictor,https://github.com/pakjiddat/word-predictor
 wordpressr,https://github.com/simitpatel/wordpressr
 wordsalad,https://github.com/emilhvitfeldt/wordsalad
 wordspace,https://github.com/r-forge/wordspace
@@ -7897,6 +7909,7 @@ breakpointR,https://github.com/daewoooo/breakpointr
 brendaDb,https://github.com/y1zhou/brendadb
 BRGenomics,https://github.com/mdeber/brgenomics
 BridgeDbR,https://github.com/bridgedb/bridgedbr
+BrowserViz,https://github.com/paul-shannon/browserviz
 BSgenome,https://github.com/bioconductor/bsgenome
 bsseq,https://github.com/hansenlab/bsseq
 BufferedMatrix,https://github.com/bmbolstad/bufferedmatrix
@@ -8613,7 +8626,6 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
-BrowserViz,https://github.com/paul-shannon/browserviz
 destiny,https://github.com/theislab/destiny
 genoset,https://github.com/phaverty/genoset
 bigmemoryExtras,https://github.com/phaverty/bigmemoryextras
