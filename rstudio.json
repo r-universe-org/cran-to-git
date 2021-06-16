@@ -270,6 +270,12 @@
     "available": true
   },
   {
+    "package": "shinymeta",
+    "maintainer": "Carson Sievert <carson@rstudio.com>",
+    "url": "https://github.com/rstudio/shinymeta",
+    "available": true
+  },
+  {
     "package": "shinytest",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/rstudio/shinytest",
