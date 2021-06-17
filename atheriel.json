@@ -1,5 +1,11 @@
 [
   {
+    "package": "httpproblems",
+    "maintainer": "Aaron Jacobs <atheriel@gmail.com>",
+    "url": "https://github.com/atheriel/httpproblems",
+    "available": true
+  },
+  {
     "package": "openmetrics",
     "maintainer": "Aaron Jacobs <atheriel@gmail.com>",
     "url": "https://github.com/atheriel/openmetrics",
