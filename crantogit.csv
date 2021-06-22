@@ -141,6 +141,7 @@ animint2,https://github.com/tdhock/animint2
 aniview,https://github.com/lgnbhl/aniview
 ANN2,https://github.com/bflammers/ann2
 anndata,https://github.com/dynverse/anndata
+AnnoProbe,https://github.com/jmzeng1314/annoprobe
 AnnotationBustR,https://github.com/sborstein/annotationbustr
 AnnuityRIR,https://github.com/fabriziomaturo/annuityrir
 ANOM,https://github.com/philippallmann/anom
@@ -1194,6 +1195,7 @@ cronR,https://github.com/bnosac/cronr
 cropdatape,https://github.com/omarbenites/cropdatape
 cropDemand,https://github.com/filgueirasr/cropdemand
 CropDetectR,https://github.com/niconaut/cropdetectr
+cropgrowdays,https://gitlab.com/petebaker/cropgrowdays
 cropZoning,https://github.com/filgueirasr/cropzoning
 crossmap,https://github.com/rossellhayes/crossmap
 Crossover,https://github.com/kornl/crossover
@@ -1688,6 +1690,7 @@ dynaSpec,https://github.com/marce10/dynaspec
 dyndimred,https://github.com/dynverse/dyndimred
 dyngen,https://github.com/dynverse/dyngen
 dynparam,https://github.com/dynverse/dynparam
+dynplot,https://github.com/dynverse/dynplot
 dynprog,https://github.com/mailund/dynprog
 dynr,https://github.com/mhunter1/dynr
 dynsim,https://github.com/christophergandrud/dynsim
@@ -2439,7 +2442,6 @@ geometa,https://github.com/eblondel/geometa
 geometr,https://github.com/ehrmanns/geometr
 geometries,https://github.com/dcooley/geometries
 geometry,https://github.com/davidcsterratt/geometry
-geomnet,https://github.com/sctyner/geomnet
 GeoMongo,https://github.com/mlampros/geomongo
 geomorph,https://github.com/geomorphr/geomorph
 geonames,https://github.com/ropensci/geonames
@@ -3447,9 +3449,11 @@ lexRankr,https://github.com/adamspannbauer/lexrankr
 lfda,https://github.com/terrytangyuan/lfda
 lfe,https://github.com/sgaure/lfe
 lfstat,https://github.com/mundl/lfstat
+lgpr,https://github.com/jtimonen/lgpr
 lgr,https://github.com/s-fleck/lgr
 lhmixr,https://github.com/mintoc/lhmixr
 lhs,https://github.com/bertcarnell/lhs
+liayson,https://github.com/noemiandor/liayson
 libgeos,https://github.com/paleolimbot/libgeos
 LiblineaR.ACF,https://github.com/aydindemircioglu/liblinear.acf
 LibOPF,https://github.com/rafaeljm/libopf-in-r
@@ -3543,7 +3547,6 @@ logitr,https://github.com/jhelvy/logitr
 logmult,https://github.com/nalimilan/logmult
 lognorm,https://github.com/bgctw/lognorm
 logr,https://github.com/dbosak01/logr
-lolog,https://github.com/statnet/lolog
 lolR,https://github.com/neurodata/lol
 LongCART,https://github.com/madanstat/longcart
 longpower,https://github.com/mcdonohue/longpower
@@ -3590,6 +3593,7 @@ lwgeom,https://github.com/r-spatial/lwgeom
 m2b,https://github.com/ldbk/m2b
 m2r,https://github.com/coneill-math/m2r
 m61r,https://github.com/pv71u98h1/m61r
+MAAPER,https://github.com/vivianstats/maaper
 MachineShop,https://github.com/brian-j-smith/machineshop
 macleish,https://github.com/beanumber/macleish
 maclogp,https://github.com/yuanyuanli96/maclogp
@@ -4698,6 +4702,7 @@ pedometrics,https://github.com/Laboratorio-de-Pedometria/pedometrics-package
 pedprobr,https://github.com/magnusdv/pedprobr
 pedquant,https://github.com/shichenxie/pedquant
 pedSimulate,https://github.com/nilforooshan/pedsimulate
+pedsuite,https://github.com/magnusdv/pedsuite
 pedtools,https://github.com/magnusdv/pedtools
 PeerPerformance,https://github.com/ardiad/peerperformance
 PELVIS,https://gitlab.com/f-santos/pelvis
@@ -5231,6 +5236,7 @@ r2dictionary,https://github.com/oobianom/r2dictionary
 r2dii.analysis,https://github.com/2degreesinvesting/r2dii.analysis
 r2dii.data,https://github.com/2degreesinvesting/r2dii.data
 r2dii.match,https://github.com/2degreesinvesting/r2dii.match
+r2dii.plot,https://github.com/2degreesinvesting/r2dii.plot
 r2glmm,https://github.com/bcjaeger/r2glmm
 R2HTML,https://github.com/nalimilan/r2html
 R2jags,https://github.com/suyusung/r2jags
@@ -6334,6 +6340,7 @@ Seurat,https://github.com/satijalab/seurat
 SeuratObject,https://github.com/mojaveazure/seurat-object
 sever,https://github.com/johncoene/sever
 sf,https://github.com/r-spatial/sf
+sfarrow,https://github.com/wcjochem/sfarrow
 sfc,https://github.com/ctfysh/sfc
 sfcr,https://github.com/joaomacalos/sfcr
 sfdct,https://github.com/hypertidy/sfdct
@@ -7157,6 +7164,7 @@ tidycode,https://github.com/lucymcgowan/tidycode
 tidycomm,https://github.com/joon-e/tidycomm
 tidycwl,https://github.com/sbg/tidycwl
 tidydice,https://github.com/rolkra/tidydice
+tidyestimate,https://github.com/kaiaragaki/tidyestimate
 tidyfst,https://github.com/hope-data-science/tidyfst
 tidyft,https://github.com/hope-data-science/tidyft
 tidygapminder,https://github.com/ebedthan/tidygapminder
