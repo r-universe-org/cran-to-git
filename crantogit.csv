@@ -208,6 +208,7 @@ argparse,https://github.com/trevorld/r-argparse
 argparser,https://bitbucket.org/djhshih/argparser
 ari,https://github.com/jhudsl/ari
 aricode,https://github.com/jchiquet/aricode
+ariExtra,https://github.com/jhudsl/ariextra
 arkdb,https://github.com/ropensci/arkdb
 arkhe,https://github.com/tesselle/arkhe
 arm,https://github.com/suyusung/arm
@@ -539,6 +540,7 @@ BioStatR,https://github.com/fbertran/biostatr
 biotic,https://github.com/robbriers/biotic
 bipartite,https://github.com/biometry/bipartite
 BiplotGUI,https://github.com/r-forge/biplotgui
+BiplotML,https://github.com/jgbabativam/biplotml
 BIRDS,https://github.com/greensway/birds
 BIS,https://github.com/expersso/bis
 biscale,https://github.com/slu-opengis/biscale
@@ -2939,6 +2941,7 @@ hR,https://github.com/dalekube/hr
 hrbrthemes,https://github.com/hrbrmstr/hrbrthemes
 hrcomprisk,https://github.com/antiportad/hrcomprisk
 HRM,https://github.com/happma/hrm
+hrqglas,https://github.com/shaobo-li/hrqglas
 hSDM,https://github.com/ghislainv/hsdm
 hsm,https://github.com/yanxht/hsm
 hsstan,https://github.com/mcol/hsstan
@@ -3641,6 +3644,7 @@ mapedit,https://github.com/r-spatial/mapedit
 Mapinguari,https://github.com/gabrielhoc/mapinguari
 MAPITR,https://github.com/mturchin20/mapitr
 mapping,https://github.com/serafinialessio/mapping
+mappings,https://github.com/benjaminrich/mappings
 mappoly,https://github.com/mmollina/mappoly
 mapr,https://github.com/ropensci/mapr
 mapsapi,https://github.com/michaeldorman/mapsapi
@@ -4290,6 +4294,7 @@ ngramr,https://github.com/seancarmody/ngramr
 ngramrr,https://github.com/chainsawriot/ngramrr
 NGSSEML,https://github.com/hadht/ngsseml-r-package
 nhanesA,https://github.com/cjendres1/nhanes
+nhdplusTools,https://github.com/usgs-r/nhdplustools
 nhdR,https://github.com/jsta/nhdr
 nhlapi,https://github.com/jozefhajnala/nhlapi
 nhlscrape,https://github.com/adamazoulay/nhlscrape
@@ -5124,7 +5129,7 @@ pullword,https://github.com/hetong007/pullword
 puls,https://github.com/vinhtantran/puls
 pulsar,https://github.com/zdk123/pulsar
 pulseTD,https://github.com/biowzz/pulsetd_0.1.0
-pumilioR,https://github.com/ljvillanueva/pumilior
+pumilioR,https://github.com/villanueval/pumilioR
 puniform,https://github.com/robbievanaert/puniform
 PupillometryR,https://github.com/samhforbes/pupillometryr
 pureseqtmr,https://github.com/richelbilderbeek/pureseqtmr
@@ -5444,6 +5449,7 @@ RcppExamples,https://github.com/eddelbuettel/rcppexamples
 RcppFastFloat,https://github.com/eddelbuettel/rcppfastfloat
 RcppGetconf,https://github.com/eddelbuettel/rcppgetconf
 RcppGreedySetCover,https://github.com/matthiaskaeding/rcppgreedysetcover
+RcppGSL,https://github.com/eddelbuettel/rcppgsl
 RcppHNSW,https://github.com/jlmelville/rcpphnsw
 RcppHungarian,https://github.com/jsilve24/rcpphungarian
 RcppMeCab,https://github.com/junhewk/rcppmecab
@@ -5716,6 +5722,7 @@ rhli,https://github.com/qomaio/rhli
 rhmmer,https://github.com/arendsee/rhmmer
 rhoR,https://gitlab.com/epistemic-analytics/qe-packages
 rhosa,https://github.com/tabe/rhosa
+RHRT,https://github.com/vblesius/rhrt
 RHRV,https://github.com/r-forge/rhrv
 rhub,https://github.com/r-hub/rhub
 rhymer,https://github.com/landesbergn/rhymer
@@ -5731,6 +5738,7 @@ Riex,https://github.com/theeliteanalyst/riex
 riingo,https://github.com/business-science/riingo
 rijkspalette,https://github.com/vankesteren/rijkspalette
 Rilostat,https://github.com/ilostat/rilostat
+rim,https://github.com/rcst/rim
 RImageJROI,https://github.com/davidcsterratt/rimagejroi
 rinat,https://github.com/ropensci/rinat
 ring,https://github.com/mrc-ide/ring
@@ -6156,7 +6164,6 @@ safejoin,https://github.com/samedwardes/safejoin
 safer,https://github.com/talegari/safer
 safetyGraphics,https://github.com/safetygraphics/safetygraphics
 sail,https://github.com/sahirbhatnagar/sail
-salesforcer,https://github.com/stevenmmortimer/salesforcer
 salty,https://github.com/mdlincoln/salty
 samc,https://github.com/andrewmarx/samc
 SAMGEP,https://github.com/celehs/samgep
@@ -6632,7 +6639,7 @@ SortedEffects,https://github.com/yuqimemeda/sortedeffects
 sorvi,https://github.com/ropengov/sorvi
 sotkanet,https://github.com/ropengov/sotkanet
 sotu,https://github.com/statsmaths/sotu
-soundecology,https://github.com/ljvillanueva/soundecology
+soundecology,https://github.com/villanueval/soundecology
 SoundexBR,https://github.com/dmarcelinobr/SoundexBR
 soundgen,https://github.com/tatters/soundgen
 SoundShape,https://github.com/p-rocha/soundshape
@@ -6693,7 +6700,7 @@ spatialTIME,https://github.com/fridleylab/spatialtime
 spatialwarnings,https://github.com/spatial-ews/spatialwarnings
 spatPomp,https://github.com/kidusasfaw/spatpomp
 spatsoc,https://github.com/ropensci/spatsoc
-spatstat,https://github.com/baddstats/spatstat
+spatstat,https://github.com/spatstat/spatstat
 spatstat.core,https://github.com/spatstat/spatstat.core
 spatstat.data,https://github.com/spatstat/spatstat.data
 spatstat.geom,https://github.com/spatstat/spatstat.geom
@@ -6914,6 +6921,7 @@ sundialr,https://github.com/sn248/sundialr
 SUNGEO,https://github.com/zhukovyuri/sungeo
 supc,https://github.com/wush978/supc
 supclust,https://github.com/mmaechler/supclust
+superb,https://github.com/dcousin3/superb
 SuperExactTest,https://github.com/mw201608/superexacttest
 SuperLearner,https://github.com/ecpolley/superlearner
 superml,https://github.com/saraswatmks/superml
@@ -7203,6 +7211,7 @@ tidystats,https://github.com/willemsleegers/tidystats
 tidytable,https://github.com/markfairbanks/tidytable
 tidytext,https://github.com/juliasilge/tidytext
 tidytransit,https://github.com/r-transit/tidytransit
+tidytreatment,https://github.com/bonstats/tidytreatment
 tidytree,https://github.com/yulab-smu/tidytree
 tidytuesdayR,https://github.com/thebioengineer/tidytuesdayr
 tidyUSDA,https://github.com/bradlindblad/tidyusda

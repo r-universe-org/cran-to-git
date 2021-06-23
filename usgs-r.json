@@ -36,6 +36,12 @@
     "available": true
   },
   {
+    "package": "nhdplusTools",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/usgs-r/nhdplustools",
+    "available": true
+  },
+  {
     "package": "RSurvey",
     "maintainer": "Jason C. Fisher <jfisher@usgs.gov>",
     "url": "https://github.com/usgs-r/rsurvey",
