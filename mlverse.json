@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "tabnet",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/mlverse/tabnet",
+    "available": true
+  },
+  {
     "package": "torch",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torch",
