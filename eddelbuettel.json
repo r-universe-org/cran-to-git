@@ -138,6 +138,12 @@
     "available": true
   },
   {
+    "package": "RcppRedis",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppredis",
+    "available": true
+  },
+  {
     "package": "RcppSimdJson",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppsimdjson",
