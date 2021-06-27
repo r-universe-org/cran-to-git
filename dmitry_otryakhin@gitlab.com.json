@@ -2,14 +2,14 @@
   {
     "package": "EstimDiagnostics",
     "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
-    "url": "https://gitlab.com/Dmitry_Otryakhin/diagnostics-and-tests-for-statistical-estimators",
+    "url": "https://gitlab.com/dmitry_otryakhin/diagnostics-and-tests-for-statistical-estimators",
     "subdir": "EstimDiagnostics",
     "available": true
   },
   {
     "package": "rlfsm",
     "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
-    "url": "https://gitlab.com/Dmitry_Otryakhin/Tools-for-parameter-estimation-of-the-linear-fractional-stable-motion",
+    "url": "https://gitlab.com/dmitry_otryakhin/tools-for-parameter-estimation-of-the-linear-fractional-stable-motion",
     "subdir": "rlfsm",
     "available": true
   }
