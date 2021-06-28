@@ -238,23 +238,5 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
     "available": true
-  },
-  {
-    "package": "HCABrowser",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "HCAExplorer",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/hcabrowser",
-    "available": true
-  },
-  {
-    "package": "HCAMatrixBrowser",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/bioconductor/hcamatrixbrowser",
-    "available": true
   }
 ]
