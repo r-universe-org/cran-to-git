@@ -1,5 +1,11 @@
 [
   {
+    "package": "bsub",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/bsub",
+    "available": true
+  },
+  {
     "package": "CePa",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/cepa",
@@ -27,6 +33,12 @@
     "package": "pkgndep",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/pkgndep",
+    "available": true
+  },
+  {
+    "package": "spiralize",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/spiralize",
     "available": true
   },
   {

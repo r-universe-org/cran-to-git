@@ -32,6 +32,12 @@
     "available": true
   },
   {
+    "package": "sparsediscrim",
+    "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
+    "url": "https://github.com/topepo/sparsediscrim",
+    "available": true
+  },
+  {
     "package": "sparseLDA",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/sparselda",
