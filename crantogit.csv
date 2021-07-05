@@ -598,6 +598,7 @@ bold,https://github.com/ropensci/bold
 bookdown,https://github.com/rstudio/bookdown
 bookdownplus,https://github.com/pzhaonet/bookdownplus
 boot.heterogeneity,https://github.com/gabriellajg/boot.heterogeneity
+bootES,https://github.com/dgerlanc/bootes
 bootGOF,https://github.com/marselscheer/bootgof
 bootsPLS,https://bitbucket.org/florianr/package-bootspls
 bootstrap,https://gitlab.com/scottkosty/bootstrap
@@ -1836,7 +1837,6 @@ emayili,https://github.com/datawookie/emayili
 emba,https://github.com/bblodfon/emba
 embed,https://github.com/tidymodels/embed
 EMCluster,https://github.com/snoweye/emcluster
-emdi,https://github.com/soerenpannier/emdi
 EmissV,https://github.com/atmoschem/emissv
 EML,https://github.com/ropensci/eml
 emld,https://github.com/ropensci/emld
@@ -2802,7 +2802,6 @@ grpreg,https://github.com/pbreheny/grpreg
 grpsel,https://github.com/ryan-thompson/grpsel
 grpSLOPE,https://github.com/agisga/grpslope
 gscaLCA,https://github.com/hee6904/gscalca
-gscounts,https://github.com/tobiasmuetze/gscounts
 gsheet,https://github.com/maxconway/gsheet
 gsignal,https://github.com/gjmvanboxtel/gsignal
 gsisdecoder,https://github.com/nflverse/gsisdecoder
@@ -3407,7 +3406,7 @@ lax,https://github.com/paulnorthrop/lax
 lazyarray,https://github.com/dipterix/lazyarray
 lazybar,https://github.com/finyang/lazybar
 lazyraster,https://github.com/hypertidy/lazyraster
-lazysf,https://github.com/mdsumner/lazysf
+lazysf,https://github.com/hypertidy/lazysf
 lazysql,https://github.com/uweblock/lazysql
 lazytrade,https://github.com/vzhomeexperiments/lazytrade
 lba,https://github.com/ivanalaman/lba
@@ -3444,12 +3443,13 @@ leaflet.providers,https://github.com/rstudio/leaflet.providers
 leafletR,https://github.com/chgrl/leafletr
 leafpm,https://github.com/r-spatial/leafpm
 leafpop,https://github.com/r-spatial/leafpop
+leafR,https://github.com/draalmeida/leafr
 leafsync,https://github.com/r-spatial/leafsync
 leaftime,https://github.com/timelyportfolio/leaftime
 leanpubr,https://github.com/muschellij2/leanpubr
 learnPopGen,https://github.com/liamrevell/learnpopgen
 learnr,https://github.com/rstudio/learnr
-learnrbook,https://bitbucket.org/aphalo/learnrbook-pkg
+learnrbook,https://github.com/aphalo/learnrbook-pkg
 ledger,https://github.com/trevorld/r-ledger
 legco,https://github.com/elgarteo/legco
 legion,https://github.com/config-i1/legion
@@ -5311,7 +5311,6 @@ radsafer,https://github.com/markhogue/radsafer
 Radviz,https://github.com/yannabraham/radviz
 RAdwords,https://github.com/jburkhardt/radwords
 RAEN,https://github.com/saintland/raen
-Rage,https://github.com/jonesor/rage
 ragg,https://github.com/r-lib/ragg
 RagGrid,https://github.com/no-types/raggrid
 rags2ridges,https://github.com/cfwp/rags2ridges
@@ -6058,6 +6057,7 @@ RSpectra,https://github.com/yixuan/rspectra
 rsppfp,https://github.com/melvidoni/rsppfp
 RSQL,https://github.com/ropenstats/rsql
 RSQLite,https://github.com/r-dbi/rsqlite
+rsqliteadmin,https://github.com/rsqliteadmin/rsqliteadmin
 Rssa,https://github.com/asl/rssa
 RSSL,https://github.com/jkrijthe/rssl
 rstac,https://github.com/brazil-data-cube/rstac
@@ -7699,7 +7699,6 @@ wCorr,https://github.com/american-institutes-for-research/wcorr
 wdm,https://github.com/tnagler/wdm-r
 wdman,https://github.com/ropensci/wdman
 wdpar,https://github.com/prioritizr/wdpar
-weathercan,https://github.com/ropensci/weathercan
 weathermetrics,https://github.com/geanders/weathermetrics
 webchem,https://github.com/ropensci/webchem
 webdriver,https://github.com/rstudio/webdriver
