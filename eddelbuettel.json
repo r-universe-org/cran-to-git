@@ -214,5 +214,11 @@
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/tint",
     "available": true
+  },
+  {
+    "package": "ttdo",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ttdo",
+    "available": true
   }
 ]

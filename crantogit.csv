@@ -337,6 +337,7 @@ backports,https://github.com/r-lib/backports
 backShift,https://github.com/christinaheinze/backshift
 badgecreatr,https://github.com/rmhogervorst/badgecreatr
 badger,https://github.com/guangchuangyu/badger
+bagged.outliertrees,https://github.com/rafajpsantos/bagged.outliertrees
 baggr,https://github.com/wwiecek/baggr
 baguette,https://github.com/tidymodels/baguette
 balance,https://github.com/tpq/balance
@@ -390,7 +391,6 @@ BayesianNetwork,https://github.com/paulgovan/bayesiannetwork
 BayesianReasoning,https://github.com/gorkang/bayesianreasoning
 BayesianTools,https://github.com/florianhartig/bayesiantools
 bayesImageS,https://bitbucket.org/azeari/bayesimages
-bayeslincom,https://github.com/josue-rodriguez/bayeslincom
 BayesLogit,https://github.com/jwindle/bayeslogit
 BayesMallows,https://github.com/ocbe-uio/bayesmallows
 BayesMassBal,https://github.com/skoermer/bayesmassbal
@@ -474,7 +474,6 @@ bfsMaps,https://github.com/andrisignorell/bfsmaps
 bfw,https://github.com/oeysan/bfw
 BGData,https://github.com/quantgen/bgdata
 bggAnalytics,https://github.com/jakubbujnowicz/bgganalytics
-BGGM,https://github.com/donaldrwilliams/bggm
 bggum,https://github.com/duckmayr/bggum
 bgmfiles,https://github.com/australianantarcticdivision/bgmfiles
 BH,https://github.com/eddelbuettel/bh
@@ -821,6 +820,7 @@ CGGP,https://github.com/collinerickson/cggp
 cghRA,https://github.com/maressyl/r.cghra
 CGPfunctions,https://github.com/ibecav/cgpfunctions
 cgraph,https://github.com/triepels/cgraph
+ch,https://github.com/tsiamut/ch
 ChainLadder,https://github.com/mages/chainladder
 chandwich,https://github.com/paulnorthrop/chandwich
 changepoint,https://github.com/rkillick/changepoint
@@ -2204,6 +2204,7 @@ flextable,https://github.com/davidgohel/flextable
 flifo,https://github.com/paulponcet/flifo
 flightplanning,https://github.com/caiohamamura/flightplanning-r
 flightplot,https://github.com/xmc811/flightplot
+FLightR,https://github.com/eldarrak/flightr
 flipdownr,https://github.com/feddelegrand7/flipdownr
 flipdownWidgets,https://github.com/fanggong/flipdownwidgets
 flipr,https://github.com/astamm/flipr
@@ -2896,7 +2897,6 @@ HEMDAG,https://github.com/marconotaro/hemdag
 heplots,https://github.com/friendly/heplots
 here,https://github.com/r-lib/here
 hereR,https://github.com/munterfinger/herer
-HeritSeq,https://github.com/kechrislab/heritseq
 hermiter,https://github.com/mikejareds/hermiter
 hesim,https://github.com/hesim-dev/hesim
 hettreatreg,https://github.com/tslocz/hettreatreg
@@ -4971,7 +4971,6 @@ PortfolioAnalytics,https://github.com/braverock/portfolioanalytics
 portfolioBacktest,https://github.com/dppalomar/portfoliobacktest
 postcards,https://github.com/seankross/postcards
 PostcodesioR,https://github.com/ropensci/postcodesior
-postDoubleR,https://github.com/jszitas/postdoubler
 posterdown,https://github.com/brentthorne/posterdown
 PosteriorBootstrap,https://github.com/alan-turing-institute/posteriorbootstrap
 postGIStools,https://github.com/sesync-ci/postgistools
@@ -5273,6 +5272,7 @@ R2jags,https://github.com/suyusung/r2jags
 r2mlm,https://github.com/mkshaw/r2mlm
 R2MLwiN,https://github.com/r-forge/r2mlwin
 r2pmml,https://github.com/jpmml/r2pmml
+r2r,https://github.com/vgherard/r2r
 r2rtf,https://github.com/merck/r2rtf
 r2shortcode,https://github.com/oobianom/r2shortcode
 r2sundials,https://github.com/sgsokol/r2sundials
@@ -6190,6 +6190,7 @@ safejoin,https://github.com/samedwardes/safejoin
 safer,https://github.com/talegari/safer
 safetyGraphics,https://github.com/safetygraphics/safetygraphics
 sail,https://github.com/sahirbhatnagar/sail
+salesforcer,https://github.com/stevenmmortimer/salesforcer
 salty,https://github.com/mdlincoln/salty
 samc,https://github.com/andrewmarx/samc
 SAMGEP,https://github.com/celehs/samgep
@@ -6293,7 +6294,6 @@ sdcTable,https://github.com/sdctools/usersupport
 SDEFSR,https://github.com/simidat/sdefsr
 sdetorus,https://github.com/egarpor/sdetorus
 SDLfilter,https://github.com/takahiroshimada/sdlfilter
-sdmApp,https://github.com/abson-dev/sdmapp
 sdmpredictors,https://github.com/lifewatch/sdmpredictors
 SDMtune,https://github.com/consbiol-unibern/sdmtune
 sdmvspecies,https://github.com/howl-anderson/sdmvspecies
@@ -6789,6 +6789,7 @@ sportyR,https://github.com/rossdrucker/sportyr
 spotifyr,https://github.com/charlie86/spotifyr
 spotoroo,https://github.com/tengmcing/spotoroo
 spray,https://github.com/robinhankin/spray
+spreval,https://github.com/glgrabow/spreval
 sprex,https://github.com/ericarcher/sprex
 sprintr,https://github.com/hugogogo/sprintr
 spsann,https://github.com/laboratorio-de-pedometria/spsann-package
@@ -7430,6 +7431,7 @@ TSstudio,https://github.com/ramikrispin/tsstudio
 tsutils,https://github.com/trnnick/tsutils
 tsviz,https://github.com/xtreamsrl/tsviz
 ttbbeer,https://github.com/jasdumas/ttbbeer
+ttdo,https://github.com/eddelbuettel/ttdo
 TTR,https://github.com/joshuaulrich/ttr
 ttt,https://github.com/benjaminrich/ttt
 ttTensor,https://github.com/rikenbit/tttensor
@@ -7691,7 +7693,6 @@ water,https://github.com/midraed/water
 waterfall,https://github.com/howardjp/waterfall
 WaterML,https://github.com/jirikadlec2/waterml
 waterquality,https://github.com/rajohansen/waterquality
-waveformlidar,https://github.com/tankwin08/waveformlidar
 waver,https://github.com/pmarchand1/waver
 waves,https://github.com/gorelab/waves
 WaveSampling,https://github.com/rjauslin/wavesampling
@@ -7882,7 +7883,6 @@ zipR,https://github.com/leslie-huang/zipr
 zipsae,https://github.com/dheel/zipsae
 zoltr,https://github.com/reichlab/zoltr
 zonator,https://github.com/cbig/zonator
-zonebuilder,https://github.com/zonebuilders/zonebuilder
 zoo,https://github.com/r-forge/zoo
 zoom,https://github.com/cbarbu/r-package-zoom
 zoon,https://github.com/zoonproject/zoon
