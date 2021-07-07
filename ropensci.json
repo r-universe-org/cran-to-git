@@ -534,6 +534,12 @@
     "available": true
   },
   {
+    "package": "katex",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/ropensci/katex",
+    "available": true
+  },
+  {
     "package": "landscapetools",
     "maintainer": "Marco Sciaini <sciaini.marco@gmail.com>",
     "url": "https://github.com/ropensci/landscapetools",
