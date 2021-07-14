@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "posterior",
+    "maintainer": "Paul-Christian Bürkner <paul.buerkner@gmail.com>",
+    "url": "https://github.com/stan-dev/posterior",
+    "available": true
+  },
+  {
     "package": "projpred",
     "maintainer": "Alejandro Catalina <alecatfel@gmail.com>",
     "url": "https://github.com/stan-dev/projpred",

@@ -443,9 +443,7 @@ bea.R,https://github.com/us-bea/bea.r
 beadplexr,https://gitlab.com/ustervbo/beadplexr
 beakr,https://github.com/mazamascience/beakr
 beam,https://github.com/gleday/beam
-beastier,https://github.com/ropensci/beastier
 BeastJar,https://github.com/beast-dev/beastjar
-beautier,https://github.com/ropensci/beautier
 BED,https://github.com/patzaw/bed
 BEDMatrix,https://github.com/quantgen/bedmatrix
 beeswarm,https://github.com/aroneklund/beeswarm
@@ -2414,6 +2412,7 @@ GDINA,https://github.com/wenchao-ma/gdina
 gdistance,https://github.com/agrdatasci/gdistance
 gdtools,https://github.com/davidgohel/gdtools
 GE,https://github.com/liwur/cge
+geckor,https://github.com/next-game-solutions/geckor
 GeDS,https://github.com/alattuada/geds
 GEEmediate,https://github.com/daniel258/geemediate
 geex,https://github.com/bsaul/geex
@@ -3736,7 +3735,6 @@ matsbyname,https://github.com/matthewheun/matsbyname
 matsindf,https://github.com/matthewheun/matsindf
 matuR,https://github.com/josedv82/matur
 mau,https://github.com/pedroguarderas/mau
-mauricer,https://github.com/ropensci/mauricer
 MaxMC,https://github.com/julienneves/maxmc
 maxnet,https://github.com/mrmaxent/maxnet
 MazamaCoreUtils,https://github.com/mazamascience/mazamacoreutils
@@ -3752,7 +3750,6 @@ mbmixture,https://github.com/kbroman/mbmixture
 mboost,https://github.com/boost-r/mboost
 mboxr,https://github.com/jooyoungseo/mboxr
 mbr,https://github.com/ntthung/mbr
-mcbette,https://github.com/ropensci/mcbette
 mcboost,https://github.com/mlr-org/mcboost
 mcca,https://github.com/gaoming96/mcca
 mccf1,https://bitbucket.org/hoffmanlab/mccf1
@@ -4202,6 +4199,7 @@ music,https://github.com/egenn/music
 mustashe,https://github.com/jhrcook/mustashe
 mutoss,https://github.com/kornl/mutoss
 mutossGUI,https://github.com/r-forge/mutoss
+mutualinf,https://github.com/rafaelfuentealbac/mutualinf
 mvGPS,https://github.com/williazo/mvgps
 mvinfluence,https://github.com/friendly/mvinfluence
 MVLM,https://github.com/dmcartor/mvlm
@@ -4251,6 +4249,7 @@ nasaweather,https://github.com/hadley/nasaweather
 nat,https://github.com/natverse/nat
 nat.nblast,https://github.com/natverse/nat.nblast
 nat.templatebrains,https://github.com/natverse/nat.templatebrains
+natcpp,https://github.com/natverse/natcpp
 nationwider,https://github.com/kvasilopoulos/nationwider
 natmanager,https://github.com/natverse/natmanager
 natserv,https://github.com/ropensci/natserv
@@ -4272,7 +4271,6 @@ ncpen,https://github.com/zeemkr/ncpen
 NCutYX,https://github.com/seborinos/ncutyx
 ncvreg,https://github.com/pbreheny/ncvreg
 ndjson,https://gitlab.com/hrbrmstr/ndjson
-ndtv,https://github.com/statnet/ndtv
 neatmaps,https://github.com/philboileau/neatmaps
 neatRanges,https://github.com/arg0naut91/neatranges
 neatStats,https://github.com/gasparl/neatstats
@@ -4824,6 +4822,7 @@ photobiologyPlants,https://bitbucket.org/aphalo/photobiologyplants
 photobiologySensors,https://bitbucket.org/aphalo/photobiologysensors
 photobiologySun,https://bitbucket.org/aphalo/photobiologysun
 photobiologyWavebands,https://bitbucket.org/aphalo/photobiologywavebands
+PhotosynQ,https://github.com/photosynq/photosynq-r
 photosynthesis,https://github.com/cdmuir/photosynthesis
 phyclust,https://github.com/snoweye/phyclust
 phylin,https://github.com/ptarroso/phylin
@@ -4999,6 +4998,7 @@ portfolioBacktest,https://github.com/dppalomar/portfoliobacktest
 postcards,https://github.com/seankross/postcards
 PostcodesioR,https://github.com/ropensci/postcodesior
 posterdown,https://github.com/brentthorne/posterdown
+posterior,https://github.com/stan-dev/posterior
 PosteriorBootstrap,https://github.com/alan-turing-institute/posteriorbootstrap
 postGIStools,https://github.com/sesync-ci/postgistools
 postlogic,https://github.com/rdoctaskforce/postlogic
@@ -6279,7 +6279,7 @@ scdhlm,https://github.com/jepusto/scdhlm
 scenario,https://github.com/swd-turner/scenario
 SCGLR,https://github.com/scnext/scglr
 schoenberg,https://github.com/jadahlke/schoenberg
-scholar,https://github.com/jkeirstead/scholar
+scholar,https://github.com/yulab-smu/scholar
 schrute,https://github.com/bradlindblad/schrute
 scico,https://github.com/thomasp85/scico
 SCINA,https://github.com/jcao89757/scina
@@ -6875,6 +6875,7 @@ staRdom,https://github.com/matthiaspucher/stardom
 starnet,https://github.com/rauschenberger/starnet
 stars,https://github.com/r-spatial/stars
 starsExtra,https://github.com/michaeldorman/starsextra
+starter,https://github.com/ddsjoberg/starter
 STARTS,https://github.com/alexanderrobitzsch/starts
 startup,https://github.com/henrikbengtsson/startup
 starvars,https://github.com/andbucci/starvars
@@ -7397,8 +7398,8 @@ trekcolors,https://github.com/leonawicz/trekcolors
 trekfont,https://github.com/leonawicz/trekfont
 trelliscopejs,https://github.com/hafen/trelliscopejs
 trelloR,https://github.com/jchrom/trellor
-trendeval,https://github.com/reconhub/trendeval
-trending,https://github.com/reconhub/trending
+trendeval,https://github.com/reconverse/trendeval
+trending,https://github.com/reconverse/trending
 trendyy,https://github.com/josiahparry/trendyy
 TRES,https://github.com/leozeng15/tres
 TREXr,https://github.com/the-hull/trex
