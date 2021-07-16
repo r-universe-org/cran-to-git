@@ -144,6 +144,12 @@
     "available": true
   },
   {
+    "package": "shinyChakraUI",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/shinychakraui",
+    "available": true
+  },
+  {
     "package": "shinyMergely",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/shinymergely",
@@ -153,6 +159,12 @@
     "package": "shinyMonacoEditor",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/shinymonacoeditor",
+    "available": true
+  },
+  {
+    "package": "shinyToastify",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/shinytoastify",
     "available": true
   },
   {
