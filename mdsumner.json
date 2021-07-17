@@ -1,5 +1,11 @@
 [
   {
+    "package": "angstroms",
+    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
+    "url": "https://github.com/mdsumner/angstroms",
+    "available": false
+  },
+  {
     "package": "basf",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/basf",

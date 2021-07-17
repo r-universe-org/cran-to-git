@@ -3,7 +3,8 @@
     "package": "garchx",
     "maintainer": "Genaro Sucarrat <gsucarrat@gmail.com>",
     "url": "https://github.com/gsucarrat/garchx",
-    "available": false
+    "subdir": "garchx",
+    "available": true
   },
   {
     "package": "gets",

@@ -12,5 +12,11 @@
     "url": "https://github.com/florafauna/optimparallel-r",
     "subdir": "optimParallel",
     "available": true
+  },
+  {
+    "package": "ReplicationSuccess",
+    "maintainer": "Florian Gerber <florian.gerber@uzh.ch>",
+    "url": "https://github.com/florafauna/replicationsuccess",
+    "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "isatabr",
+    "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
+    "url": "https://github.com/biometris/isatabr",
+    "available": true
+  },
+  {
     "package": "statgenGWAS",
     "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
     "url": "https://github.com/biometris/statgengwas",
