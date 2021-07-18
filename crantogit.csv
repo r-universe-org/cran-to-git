@@ -137,7 +137,7 @@ analysisPipelines,https://github.com/mu-sigma/analysis-pipelines
 AnchorRegression,https://github.com/simzim96/anchorregression
 Andromeda,https://github.com/ohdsi/andromeda
 andurinha,https://github.com/noemiallefs/andurinha
-angstroms,https://github.com/mdsumner/angstroms
+angstroms,https://github.com/australianantarcticdivision/angstroms
 anim.plots,https://github.com/hughjonesd/anim.plots
 animation,https://github.com/yihui/animation
 animint2,https://github.com/tdhock/animint2
@@ -948,7 +948,6 @@ clusteredinterference,https://github.com/barkleybg/clusteredinterference
 clustermole,https://github.com/igordot/clustermole
 clustermq,https://github.com/mschubert/clustermq
 clusternomics,https://github.com/evelinag/clusternomics
-clusternor,https://github.com/flashxio/knor
 ClusterR,https://github.com/mlampros/clusterr
 ClusTorus,https://github.com/sungkyujung/clustorus
 clustree,https://github.com/lazappi/clustree
@@ -2803,7 +2802,6 @@ grImport,https://github.com/r-forge/grimport
 grImport2,https://github.com/r-forge/grimport
 groundhog,https://github.com/credibilitylab/groundhog
 groupdata2,https://github.com/ludvigolsen/groupdata2
-groupedstats,https://github.com/indrajeetpatil/groupedstats
 groupICA,https://github.com/sweichwald/groupica-r
 groupr,https://github.com/ngriffiths21/groupr
 GroupSeq,https://github.com/rpahl/groupseq
@@ -3260,6 +3258,7 @@ JMbayes2,https://github.com/drizopoulos/jmbayes2
 jmcm,https://github.com/ypan1988/jmcm
 JMcmprsk,https://github.com/whcsu/jmcmprsk
 jmotif,https://github.com/jmotif/jmotif-r
+jmv,https://github.com/jamovi/jmv
 jmvcore,https://github.com/jamovi/jmvcore
 jmvReadWrite,https://github.com/sjentsch/jmvreadwrite
 jocre,https://github.com/philippallmann/jocre
@@ -3343,7 +3342,6 @@ kimisc,https://github.com/krlmlr/kimisc
 kindisperse,https://github.com/moshejasper/kindisperse
 kit,https://github.com/2005m/kit
 kitagawa,https://github.com/abarbour/kitagawa
-kittyR,https://github.com/indrajeetpatil/kittyr
 kiwisR,https://github.com/rywhale/kiwisr
 kknn,https://github.com/klausvigo/kknn
 klassR,https://github.com/statisticsnorway/klassr
@@ -3364,7 +3362,6 @@ knitrProgressBar,https://github.com/rmflight/knitrprogressbar
 knn.covertree,https://github.com/flying-sheep/knn.covertree
 knnp,https://github.com/grasia/knnp
 Knoema,https://github.com/knoema/knoema-r-driver
-knor,https://github.com/flashxio/knor
 kntnr,https://github.com/yutannihilation/kntnr
 kofdata,https://github.com/kof-ch/kofdata
 kokudosuuchi,https://github.com/yutannihilation/kokudosuuchi
@@ -4339,6 +4336,7 @@ ngramrr,https://github.com/chainsawriot/ngramrr
 NGSSEML,https://github.com/hadht/ngsseml-r-package
 nhanesA,https://github.com/cjendres1/nhanes
 nhdplusTools,https://github.com/usgs-r/nhdplustools
+nhdR,https://github.com/jsta/nhdr
 nhlapi,https://github.com/jozefhajnala/nhlapi
 nhlscrape,https://github.com/adamazoulay/nhlscrape
 nhsnumber,https://github.com/sellorm/nhsnumber
@@ -6112,6 +6110,7 @@ RStata,https://github.com/lbraglia/rstata
 rstatix,https://github.com/kassambara/rstatix
 rstoat,https://github.com/mapoflife/rstoat
 RStoolbox,https://github.com/bleutner/rstoolbox
+RstoxData,https://github.com/stoxproject/rstoxdata
 rstpm2,https://github.com/mclements/rstpm2
 rstudio.prefs,https://github.com/ddsjoberg/rstudio.prefs
 rstudioapi,https://github.com/rstudio/rstudioapi
@@ -7451,7 +7450,6 @@ TSdbi,https://github.com/r-forge/tsdbi
 TSDFGS,https://gitlab.com/oumark/tsdfgs
 tsDyn,https://github.com/matthieustigler/tsdyn
 tsensembler,https://github.com/vcerqueira/tsensembler
-tsentiment,https://github.com/hakkisabah/tsentiment
 TSfame,https://github.com/r-forge/tsdbi
 tsfeatures,https://github.com/robjhyndman/tsfeatures
 tsfgrnn,https://github.com/franciscomartinezdelrio/tsfgrnn
@@ -7937,6 +7935,11 @@ ztable,https://github.com/cardiomoon/ztable
 ztpln,https://github.com/mattocci27/ztpln
 ZVCV,https://github.com/leahprice/zvcv
 zzlite,https://github.com/fkoh111/zzlite
+codetools,https://gitlab.com/luke-tierney/codetools
+lattice,https://github.com/deepayan/lattice
+Matrix,https://github.com/r-forge/matrix
+rpart,https://github.com/bethatkinson/rpart
+survival,https://github.com/therneau/survival
 codetools,https://gitlab.com/luke-tierney/codetools
 lattice,https://github.com/deepayan/lattice
 Matrix,https://github.com/r-forge/matrix

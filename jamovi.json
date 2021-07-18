@@ -1,5 +1,11 @@
 [
   {
+    "package": "jmv",
+    "maintainer": "Jonathon Love <jon@thon.cc>",
+    "url": "https://github.com/jamovi/jmv",
+    "available": true
+  },
+  {
     "package": "jmvcore",
     "maintainer": "Jonathon Love <jon@thon.cc>",
     "url": "https://github.com/jamovi/jmvcore",
