@@ -84,6 +84,12 @@
     "available": true
   },
   {
+    "package": "sageR",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@utt.fr>",
+    "url": "https://github.com/fbertran/sager",
+    "available": true
+  },
+  {
     "package": "SelectBoost",
     "maintainer": "Frederic Bertrand <frederic.bertrand@math.unistra.fr>",
     "url": "https://github.com/fbertran/selectboost",

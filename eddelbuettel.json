@@ -78,6 +78,12 @@
     "available": true
   },
   {
+    "package": "pkgKitten",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/pkgkitten",
+    "available": true
+  },
+  {
     "package": "RcppAPT",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppapt",
