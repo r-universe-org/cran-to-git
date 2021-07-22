@@ -298,6 +298,7 @@ autoTS,https://github.com/vivienroussez/autots
 av,https://github.com/ropensci/av
 available,https://github.com/r-lib/available
 avar,https://github.com/smac-group/avar
+AvInertia,https://github.com/charvey23/avinertia
 aVirtualTwins,https://github.com/prise6/avirtualtwins
 AWAPer,https://github.com/peterson-tim-j/awaper
 aweek,https://github.com/reconhub/aweek
@@ -985,6 +986,7 @@ codalm,https://github.com/jfiksel/codalm
 codebook,https://github.com/rubenarslan/codebook
 codebreaker,https://github.com/rolkra/codebreaker
 CodeDepends,https://github.com/duncantl/codedepends
+codemeta,https://github.com/cboettig/codemeta
 codemetar,https://github.com/ropensci/codemetar
 codename,https://github.com/svmiller/codename
 coder,https://github.com/ropensci/coder
@@ -1635,6 +1637,7 @@ downlit,https://github.com/r-lib/downlit
 downloader,https://github.com/wch/downloader
 downloadthis,https://github.com/fmmattioni/downloadthis
 downsize,https://github.com/wlandau/downsize
+dowser,https://bitbucket.org/kleinstein/dowser
 dparser,https://github.com/nlmixrdevelopment/dparser-r
 dplR,https://github.com/andybunn/dplr
 dplyr,https://github.com/tidyverse/dplyr
@@ -2460,6 +2463,7 @@ geodaData,https://github.com/spatialanalysis/geodadata
 geodata,https://github.com/rspatial/geodata
 GeodesiCL,https://github.com/diegoalarc/geodesicl
 geodist,https://github.com/hypertidy/geodist
+geodiv,https://github.com/bioxgeo/geodiv
 geodrawr,https://github.com/curycu/geodrawr
 geoelectrics,https://github.com/kleebaum/geoelectrics
 geofabrik,https://github.com/ibarraespinosa/geofabrik
@@ -3807,7 +3811,6 @@ meditations,https://github.com/jacobkap/meditations
 medmod,https://github.com/raviselker/medmod
 medrxivr,https://github.com/ropensci/medrxivr
 MEDseq,https://github.com/keefe-murphy/medseq
-meedr,https://github.com/schoulten/meedr
 meetupapi,https://github.com/zacdav/meetupapi
 mefa,https://github.com/psolymos/mefa
 mefa4,https://github.com/psolymos/mefa4
@@ -5028,6 +5031,7 @@ POV,https://github.com/paulantondeen/pov-r-package
 povcalnetR,https://github.com/worldbank/povcalnetr
 powdR,https://github.com/benmbutler/powdr
 Power2Stage,https://github.com/detlew/power2stage
+powerEQTL,https://github.com/sterding/powereqtl
 powerLATE,https://github.com/kbansak/powerlate
 poweRlaw,https://github.com/csgillespie/powerlaw
 PowerTOST,https://github.com/detlew/powertost
@@ -7596,6 +7600,7 @@ ursa,https://github.com/nplatonov/ursa
 us.census.geoheader,https://gitlab.com/minshall/us-census-geoheader
 usa,https://github.com/kiernann/usa
 USAboundaries,https://github.com/ropensci/usaboundaries
+UScensus2010,https://github.com/zalmquist/uscensus2010
 usdampr,https://github.com/cbw1243/usdampr
 usdarnass,https://github.com/rdinter/usdarnass
 usdata,https://github.com/openintrostat/usdata
@@ -8115,6 +8120,7 @@ COSNet,https://github.com/m1frasca/cosnet_github
 CountClust,https://github.com/kkdey/countclust
 countsimQC,https://github.com/csoneson/countsimqc
 crisprseekplus,https://github.com/umms-biocore/crisprseekplus
+csdR,https://github.com/almaaslab/csdr
 cTRAP,https://github.com/nuno-agostinho/ctrap
 ctsGE,https://github.com/michalsharabi/ctsge
 customCMPdb,https://github.com/yduan004/customcmpdb
@@ -8158,6 +8164,7 @@ diffcyt,https://github.com/lmweber/diffcyt
 DiffLogo,https://github.com/mgledi/difflogo
 diffloop,https://github.com/aryeelab/diffloop
 diffUTR,https://github.com/ethz-ins/diffutr
+Dino,https://github.com/jbrownbiostat/dino
 Director,https://github.com/kzouchka/director
 discordant,https://github.com/siskac/discordant
 DiscoRhythm,https://github.com/matthewcarlucci/discorhythm
@@ -8208,8 +8215,10 @@ FEAST,https://github.com/suke18/feast
 fedup,https://github.com/rosscm/fedup
 fgga,https://github.com/fspetale/fgga
 fgsea,https://github.com/ctlab/fgsea
+FindIT2,https://github.com/shangguandong1996/findit2
 FindMyFriends,https://github.com/thomasp85/findmyfriends
 fishpond,https://github.com/mikelove/fishpond
+FLAMES,https://github.com/olivervoogd/flames
 flowcatchR,https://github.com/federicomarini/flowcatchr
 flowGraph,https://github.com/aya49/flowgraph
 flowPloidy,https://github.com/plantarum/flowploidy
@@ -8629,6 +8638,7 @@ scPipe,https://github.com/luyitian/scpipe
 scRecover,https://github.com/miaozhun/screcover
 scruff,https://github.com/campbio/scruff
 scry,https://github.com/kstreet13/scry
+scShapes,https://github.com/malindrie/scshapes
 scTHI,https://github.com/miccec/scthi
 sechm,https://github.com/plger/sechm
 segmenter,https://github.com/mahshaaban/segmenter
@@ -8697,6 +8707,7 @@ SummarizedExperiment,https://github.com/bioconductor/summarizedexperiment
 Summix,https://github.com/bioconductor/summix
 supersigs,https://github.com/tomasettilab/supersigs
 supraHex,https://github.com/r-forge/suprahex
+svaNUMT,https://github.com/papenfusslab/svanumt
 SWATH2stats,https://github.com/peterblattmann/swath2stats
 swfdr,https://github.com/leekgroup/swfdr
 switchde,https://github.com/kieranrcampbell/switchde

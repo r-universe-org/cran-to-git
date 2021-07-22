@@ -1,5 +1,11 @@
 [
   {
+    "package": "codemeta",
+    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
+    "url": "https://github.com/cboettig/codemeta",
+    "available": true
+  },
+  {
     "package": "contentid",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/cboettig/contentid",
