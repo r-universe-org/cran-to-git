@@ -1,5 +1,11 @@
 [
   {
+    "package": "rUM",
+    "maintainer": "Raymond Balise <balise@miami.edu>",
+    "url": "https://github.com/raymondbalise/rum",
+    "available": true
+  },
+  {
     "package": "tidyREDCap",
     "maintainer": "Raymond Balise <balise@miami.edu>",
     "url": "https://github.com/raymondbalise/tidyredcap",

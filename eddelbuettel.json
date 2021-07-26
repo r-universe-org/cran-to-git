@@ -120,6 +120,12 @@
     "available": true
   },
   {
+    "package": "RcppFarmHash",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppfarmhash",
+    "available": true
+  },
+  {
     "package": "RcppFastFloat",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppfastfloat",
