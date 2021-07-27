@@ -1,5 +1,11 @@
 [
   {
+    "package": "dataverse",
+    "maintainer": "Shiro Kuriwaki <shirokuriwaki@gmail.com>",
+    "url": "https://github.com/iqss/dataverse-client-r",
+    "available": true
+  },
+  {
     "package": "WhatIf",
     "maintainer": "Soubhik Barari <soubhikbarari@gmail.com>",
     "url": "https://github.com/iqss/whatif",
