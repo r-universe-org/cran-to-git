@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "okcupiddata",
-    "maintainer": "Albert Y. Kim <albert.ys.kim@gmail.com>",
-    "url": "https://github.com/rudeboybert/okcupiddata",
-    "available": true
-  },
-  {
     "package": "resampledata",
     "maintainer": "Albert Y. Kim <albert.ys.kim@gmail.com>",
     "url": "https://github.com/rudeboybert/resampledata",
@@ -25,7 +19,7 @@
   },
   {
     "package": "SpatialEpi",
-    "maintainer": "Albert Y. Kim <albert@stat.washington.edu>",
+    "maintainer": "Albert Y. Kim <albert.ys.kim@gmail.com>",
     "url": "https://github.com/rudeboybert/spatialepi",
     "available": true
   }
