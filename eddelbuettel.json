@@ -84,6 +84,12 @@
     "available": true
   },
   {
+    "package": "RApiDatetime",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rapidatetime",
+    "available": true
+  },
+  {
     "package": "RcppAnnoy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppannoy",
