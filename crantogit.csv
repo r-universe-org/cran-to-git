@@ -89,7 +89,6 @@ ajv,https://github.com/jdthorpe/ajvr
 akc,https://github.com/hope-data-science/akc
 akiFlagger,https://github.com/isaranwrap/akiflagger
 akmedoids,https://github.com/manalytics/akmedoids
-ALA4R,https://github.com/atlasoflivingaustralia/ala4r
 alakazam,https://bitbucket.org/kleinstein/alakazam
 albopictus,https://github.com/kerguler/albopictusr
 aldvmm,https://github.com/pletschm/aldvmm
@@ -431,6 +430,7 @@ bcaboot,https://github.com/bnaras/bcaboot
 bcdata,https://github.com/bcgov/bcdata
 Bchron,https://github.com/andrewcparnell/bchron
 bcmaps,https://github.com/bcgov/bcmaps
+bcputility,https://github.com/tomroh/bcputility
 bcrm,https://github.com/mikesweeting/bcrm
 bcrypt,https://github.com/jeroen/bcrypt
 bcTSNE,https://github.com/emanuelealiverti/bc_tsne
@@ -646,7 +646,6 @@ brm,https://github.com/mclements/brm
 brms,https://github.com/paul-buerkner/brms
 Brobdingnag,https://github.com/robinhankin/brobdingnag
 brokenstick,https://github.com/growthcharts/brokenstick
-brolgar,https://github.com/njtierney/brolgar
 broman,https://github.com/kbroman/broman
 broom,https://github.com/tidymodels/broom
 broom.helpers,https://github.com/larmarange/broom.helpers
@@ -1058,6 +1057,7 @@ comprehenr,https://github.com/gdemin/comprehenr
 compstatr,https://github.com/slu-opengis/compstatr
 comtradr,https://github.com/ropensci/comtradr
 concatenate,https://github.com/jamesdunham/concatenate
+concatipede,https://github.com/tardipede/concatipede
 concaveman,https://github.com/joelgombin/concaveman
 concordance,https://github.com/insongkim/concordance
 concorR,https://github.com/atraxlab/concorr
@@ -3331,6 +3331,7 @@ kableExtra,https://github.com/haozhu233/kableextra
 kader,https://github.com/gerriteichner/kader
 kamila,https://github.com/ahfoss/kamila
 kantorovich,https://github.com/stla/kantorovich
+karel,https://github.com/mpru/karel
 katex,https://github.com/ropensci/katex
 kayadata,https://github.com/jonathan-g/kayadata
 kcopula,https://github.com/mlkremer/kcopula
@@ -3967,6 +3968,7 @@ mirtjml,https://github.com/slzhang-fd/mirtjml
 misaem,https://github.com/julierennes/misaem
 miscset,https://github.com/setempler/miscset
 missCompare,https://github.com/tirgit/misscompare
+missDiag,https://github.com/sumtxt/missdiag
 missForest,https://github.com/stekhoven/missforest
 missMethods,https://github.com/torockel/missmethods
 missRanger,https://github.com/mayer79/missranger
@@ -4527,6 +4529,7 @@ openMSE,https://github.com/blue-matter/openmse
 OpenMx,https://github.com/openmx/openmx
 OpenRepGrid,https://github.com/markheckmann/openrepgrid
 OpenRepGrid.ic,https://github.com/markheckmann/openrepgrid.ic
+openSkies,https://github.com/rafael-ayala/openskies
 OpenSpecy,https://github.com/wincowgerdev/openspecy
 openssl,https://github.com/jeroen/openssl
 openSTARS,https://github.com/mikatt/openstars
@@ -4580,7 +4583,7 @@ otsad,https://github.com/alaineiturria/otsad
 otuSummary,https://github.com/cam315/otusummary
 otvPlots,https://github.com/capitalone/otvplots
 ouch,https://github.com/kingaa/ouch
-outbreaks,https://github.com/reconhub/outbreaks
+outbreaks,https://github.com/reconverse/outbreaks
 outcomerate,https://github.com/ropensci/outcomerate
 outForest,https://github.com/mayer79/outforest
 outliertree,https://github.com/david-cortes/outliertree
@@ -4874,6 +4877,7 @@ phyr,https://github.com/daijiang/phyr
 physiology,https://github.com/jackwasey/physiology
 phytools,https://github.com/liamrevell/phytools
 pid,https://bitbucket.org/kevindunn/r-pid
+piecemaker,https://github.com/macmillancontentscience/piecemaker
 piecepackr,https://github.com/piecepackr/piecepackr
 piecewiseSEM,https://github.com/jslefche/piecewisesem
 piggyback,https://github.com/ropensci/piggyback
@@ -4962,6 +4966,7 @@ pltesim,https://github.com/christophergandrud/pltesim
 plu,https://github.com/rossellhayes/plu
 plumber,https://github.com/rstudio/plumber
 plumberDeploy,https://github.com/meztez/plumberdeploy
+plumbertableau,https://github.com/rstudio/plumbertableau
 plumbr,https://github.com/ggobi/plumbr
 pluralize,https://gitlab.com/hrbrmstr/pluralize
 plyr,https://github.com/hadley/plyr
@@ -6178,6 +6183,7 @@ Rthingsboard,https://github.com/ddorch/rthingsboard
 rticles,https://github.com/rstudio/rticles
 rticulate,https://github.com/stefanocoretta/rticulate
 rtide,https://github.com/poissonconsulting/rtide
+rtika,https://github.com/ropensci/rtika
 RTL,https://github.com/risktoollib/rtl
 rtodoist,https://github.com/thinkr-open/rtodoist
 rTorch,https://github.com/f0nzie/rtorch
@@ -6325,6 +6331,7 @@ scclust,https://github.com/fsavje/scclust-r
 sccore,https://github.com/kharchenkolab/sccore
 scDHA,https://github.com/duct317/scdha
 scdhlm,https://github.com/jepusto/scdhlm
+SCEM,https://github.com/kserkcho/scem
 scenario,https://github.com/swd-turner/scenario
 SCGLR,https://github.com/scnext/scglr
 schoenberg,https://github.com/jadahlke/schoenberg
@@ -6873,6 +6880,7 @@ spreval,https://github.com/glgrabow/spreval
 sprex,https://github.com/ericarcher/sprex
 springer,https://github.com/feizhoustat/springer
 sprintr,https://github.com/hugogogo/sprintr
+sprtt,https://github.com/meikesteinhilber/sprtt
 spsann,https://github.com/laboratorio-de-pedometria/spsann-package
 spsComps,https://github.com/lz100/spscomps
 SPSP,https://github.com/xiaoruizhu/spsp
@@ -7413,6 +7421,7 @@ tracerer,https://github.com/ropensci/tracerer
 track2KBA,https://github.com/birdlifeinternational/track2kba
 trackdem,https://github.com/marjoleinbruijning/trackdem
 trackdf,https://github.com/swarm-lab/trackdf
+trackdown,https://github.com/claudiozandonella/trackdown
 trackeR,https://github.com/trackerproject/tracker
 trackeRapp,https://github.com/trackerproject/trackerapp
 tractor.base,https://github.com/tractor/tractor

@@ -6,6 +6,12 @@
     "available": false
   },
   {
+    "package": "missDiag",
+    "maintainer": "Moritz Marbach <moritz.marbach@tamu.edu>",
+    "url": "https://github.com/sumtxt/missdiag",
+    "available": true
+  },
+  {
     "package": "wiesbaden",
     "maintainer": "Moritz Marbach <moritz.marbach@tamu.edu>",
     "url": "https://github.com/sumtxt/wiesbaden",

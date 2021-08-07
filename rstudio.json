@@ -168,6 +168,12 @@
     "available": true
   },
   {
+    "package": "plumbertableau",
+    "maintainer": "James Blair <james@rstudio.com>",
+    "url": "https://github.com/rstudio/plumbertableau",
+    "available": true
+  },
+  {
     "package": "pool",
     "maintainer": "Joe Cheng <joe@rstudio.com>",
     "url": "https://github.com/rstudio/pool",
