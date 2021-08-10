@@ -72,6 +72,12 @@
     "available": true
   },
   {
+    "package": "nanotime",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/nanotime",
+    "available": true
+  },
+  {
     "package": "pinp",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/pinp",

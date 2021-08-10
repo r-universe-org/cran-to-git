@@ -772,6 +772,7 @@ catsim,https://github.com/gzt/catsim
 catSurv,https://github.com/erossiter/catsurv
 cattonum,https://github.com/bfgray3/cattonum
 causact,https://github.com/flyaflya/causact
+causalCmprsk,https://github.com/bella2001/causalcmprsk
 causaleffect,https://github.com/santikka/causaleffect
 CausalMBSTS,https://github.com/fmenchetti/causalmbsts
 causaloptim,https://github.com/sachsmc/causaloptim
@@ -946,6 +947,7 @@ CLME,https://github.com/jelsema/clme
 clock,https://github.com/r-lib/clock
 clogitLasso,https://github.com/mavalosf/clogitlasso
 CloneSeeker,https://github.com/r-forge/oompa
+cloudos,https://github.com/lifebit-ai/cloudos
 clubSandwich,https://github.com/jepusto/clubsandwich
 clusrank,https://github.com/wenjie2wang/clusrank
 clust.bin.pair,https://github.com/dgopstein/clust.bin.pair
@@ -1077,6 +1079,7 @@ confinterpret,https://github.com/jimvine/confinterpret
 confintr,https://github.com/mayer79/confintr
 conflicted,https://github.com/r-lib/conflicted
 conflr,https://github.com/line/conflr
+ConformalSmallest,https://github.com/elsa-yang98/conformalsmallest
 confoundr,https://github.com/jwjackson/confoundr
 CongreveLamsdell2016,https://github.com/ms609/quartet
 conjurer,https://github.com/sidharthmacherla/conjurer
@@ -1167,7 +1170,6 @@ covid19br,https://github.com/fndemarqui/covid19br
 covid19dbcand,https://github.com/interstellar-consultation-services/covid19dbcand
 covid19india,https://github.com/maxsal/covid19india
 covid19italy,https://github.com/ramikrispin/covid19italy
-covid19jp,https://github.com/kj-9/covid19jp
 covid19sf,https://github.com/ramikrispin/covid19sf
 covid19swiss,https://github.com/covid19r/covid19swiss
 covidcast,https://github.com/cmu-delphi/covidcast
@@ -1593,6 +1595,8 @@ diveMove,https://github.com/spluque/divemove
 diveR,https://github.com/great-northern-diver/diver
 diverse,https://github.com/mguevara/diverse
 divest,https://github.com/jonclayden/divest
+divseg,https://github.com/christopherkenny/divseg
+diyar,https://github.com/olisansonwu/diyar
 DIZutils,https://github.com/miracum/misc-dizutils
 dlnm,https://github.com/gasparrini/dlnm
 dlookr,https://github.com/choonghyunryu/dlookr
@@ -2384,7 +2388,6 @@ fxTWAPLS,https://github.com/special-uor/fxtwapls
 g3viz,https://github.com/g3viz/g3viz
 GA,https://github.com/luca-scr/ga
 GADMTools,https://github.com/iamkdo/gadmtools
-galah,https://github.com/atlasoflivingaustralia/galah
 GALLO,https://github.com/pablobio/gallo
 galvanizer,https://github.com/jonlinca/galvanizer
 gambin,https://github.com/txm676/gambin
@@ -2554,6 +2557,7 @@ ggamma,https://github.com/matheushjs/ggamma
 gganimate,https://github.com/thomasp85/gganimate
 ggasym,https://github.com/jhrcook/ggasym
 ggbeeswarm,https://github.com/eclarke/ggbeeswarm
+ggborderline,https://github.com/wurli/ggborderline
 ggbreak,https://github.com/yulab-smu/ggbreak
 ggcharts,https://github.com/thomas-neitmann/ggcharts
 ggChernoff,https://github.com/selbosh/ggchernoff
@@ -2637,6 +2641,7 @@ ggraptR,https://github.com/cargomoose/ggraptr
 ggrastr,https://github.com/vpetukhov/ggrastr
 ggrepel,https://github.com/slowkow/ggrepel
 ggridges,https://github.com/wilkelab/ggridges
+ggrisk,https://github.com/yikeshu0611/ggrisk
 ggroups,https://github.com/nilforooshan/ggroups
 ggsci,https://github.com/nanxstats/ggsci
 ggseas,https://github.com/ellisp/ggseas
@@ -3168,6 +3173,7 @@ inpdfr,https://github.com/frareb/inpdfr
 inplace,https://github.com/privefl/inplace
 INQC,https://github.com/indecis-project/inqc
 insane,https://github.com/mcanouil/insane
+insect,https://github.com/shaunpwilkinson/insect
 insee,https://github.com/inseefr/r-insee-data
 insight,https://github.com/easystats/insight
 InSilicoVA,https://github.com/verbal-autopsy-software/insilicova
@@ -3499,6 +3505,7 @@ leontief,https://github.com/pachadotdev/leontief
 leri,https://github.com/earthlab/leri
 letsR,https://github.com/macroecology/letsr
 levitate,https://github.com/lewinfox/levitate
+LexFindR,https://github.com/maglab-uconn/lexfindr
 lexicon,https://github.com/trinker/lexicon
 LexisNexisTools,https://github.com/jbgruber/lexisnexistools
 LexisPlotR,https://github.com/ottlngr/lexisplotr
@@ -3896,6 +3903,7 @@ mfbvar,https://github.com/ankargren/mfbvar
 mfe,https://github.com/rivolli/mfe
 mfGARCH,https://github.com/onnokleen/mfgarch
 mFLICA,https://github.com/darkeyes/mflica
+MFPCA,https://github.com/clarahapp/mfpca
 mgarchBEKK,https://github.com/vst/mgarchbekk
 mgc,https://github.com/neurodata/r-mgc
 mgcViz,https://github.com/mfasiolo/mgcviz
@@ -4266,6 +4274,7 @@ nametagger,https://github.com/bnosac/nametagger
 nandb,https://github.com/rorynolan/nandb
 naniar,https://github.com/njtierney/naniar
 nanostringr,https://github.com/talhouklab/nanostringr
+nanotime,https://github.com/eddelbuettel/nanotime
 naptime,https://github.com/russellpierce/naptime
 nardl,https://github.com/zedtaha/nardl
 narray,https://github.com/mschubert/narray
@@ -4348,6 +4357,7 @@ newsmap,https://github.com/koheiw/newsmap
 newsmd,https://github.com/dschaykib/newsmd
 nfl4th,https://github.com/nflverse/nfl4th
 nflfastR,https://github.com/nflverse/nflfastr
+nflreadr,https://github.com/nflverse/nflreadr
 nflseedR,https://github.com/nflverse/nflseedr
 NFLSimulatoR,https://github.com/rtelmore/nflsimulator
 NFP,https://github.com/yiluheihei/nfp
@@ -4374,7 +4384,6 @@ nitrcbot,https://github.com/adigherman/nitrcbot
 NitrogenUptake2016,https://github.com/troyhill/nitrogenuptake2016
 njtr1,https://github.com/gavinrozzi/njtr1
 nlaR,https://github.com/jsta/nlar
-nlgeocoder,https://github.com/urosconf/nlgeocoder
 nlist,https://github.com/poissonconsulting/nlist
 nlmixr,https://github.com/nlmixrdevelopment/nlmixr
 nlraa,https://github.com/femiguez/nlraa
@@ -4387,6 +4396,7 @@ NMdata,https://github.com/philipdelff/nmdata
 Nmisc,https://github.com/numeract/nmisc
 nmixgof,https://github.com/jknape/nmixgof
 NMOF,https://github.com/enricoschumann/nmof
+NMproject,https://github.com/tsahota/nmproject
 nmslibR,https://github.com/mlampros/nmslibr
 NNbenchmark,https://github.com/pkr-pkr/nnbenchmark
 nnfor,https://github.com/trnnick/nnfor
@@ -5065,6 +5075,7 @@ prcbench,https://github.com/evalclass/prcbench
 prcr,https://github.com/jrosen48/prcr
 PRDA,https://github.com/claudiozandonella/prda
 pre,https://github.com/marjoleinf/pre
+precautionary,https://github.com/dcnorris/precautionary
 precintcon,https://github.com/lucasvenez/precintcon
 pRecipe,https://github.com/mirovago/precipe
 precisely,https://github.com/malcolmbarrett/precisely
