@@ -1091,6 +1091,7 @@ conos,https://github.com/kharchenkolab/conos
 conquer,https://github.com/xiaooupan/conquer
 ConR,https://github.com/gdauby/conr
 conserveR,https://github.com/azizka/conserver
+consort,https://github.com/adayim/consort
 ConsReg,https://github.com/puigjos/consreg
 constants,https://github.com/r-quantities/constants
 constellation,https://github.com/marksendak/constellation
@@ -1760,6 +1761,7 @@ easySVG,https://github.com/ytdai/easysvg
 eat,https://github.com/miriamesteve/eat
 eatATA,https://github.com/beckerbenj/eatata
 eatGADS,https://github.com/beckerbenj/eatgads
+eatRep,https://github.com/weirichs/eatrep
 eatTools,https://github.com/weirichs/eattools
 EBASS,https://github.com/scossin/ebass
 EbayesThresh,https://github.com/stephenslab/ebayesthresh
@@ -2729,7 +2731,6 @@ gmat,https://github.com/gherardovarando/gmat
 GMCM,https://github.com/aebilgrau/gmcm
 gMCP,https://github.com/kornl/gmcp
 Gmisc,https://github.com/gforge/gmisc
-gMOIP,https://github.com/relund/gmoip
 gms,https://github.com/pik-piam/gms
 GMSE,https://github.com/confoobio/gmse
 GMZTests,https://github.com/efguedes/gmztests
@@ -3113,6 +3114,7 @@ imagine,https://github.com/luislaum/imagine
 ImaginR,https://github.com/plstenger/imaginr
 imbalance,https://github.com/ncordon/imbalance
 imbibe,https://github.com/jonclayden/imbibe
+IMD,https://github.com/matthewgthomas/imd
 IMFData,https://github.com/mingjerli/imfdata
 imfr,https://github.com/christophergandrud/imfr
 imgpalr,https://github.com/leonawicz/imgpalr
@@ -3341,6 +3343,7 @@ kdecopula,https://github.com/tnagler/kdecopula
 kdensity,https://github.com/jonasmoss/kdensity
 kdetrees,https://github.com/grady/kdetrees
 kdevine,https://github.com/tnagler/kdevine
+kdtools,https://github.com/thk686/kdtools
 kehra,https://github.com/kehraproject/kehra
 kelvin,https://github.com/abarbour/kelvin
 keras,https://github.com/rstudio/keras
@@ -5986,6 +5989,7 @@ robustbase,https://github.com/r-forge/robustbase
 robustBLME,https://github.com/erlisr/robustblme
 robustlmm,https://github.com/kollerma/robustlmm
 robvis,https://github.com/mcguinlu/robvis
+ROCaggregator,https://gitlab.com/um-cds/general-tools
 rock,https://gitlab.com/r-packages/rock
 ROCket,https://github.com/da-zar/rocket
 roclang,https://github.com/zhuxr11/roclang
@@ -6990,6 +6994,7 @@ stockfish,https://github.com/curso-r/stockfish
 stokes,https://github.com/robinhankin/stokes
 stopwords,https://github.com/quanteda/stopwords
 storr,https://github.com/richfitz/storr
+storywranglr,https://github.com/chris31415926535/storywranglr
 stplanr,https://github.com/ropensci/stplanr
 stR,https://bitbucket.org/alexanderdokumentov/strpackage
 strand,https://github.com/strand-tech/strand
@@ -7076,6 +7081,7 @@ survival,https://github.com/therneau/survival
 survivalmodels,https://github.com/raphaels1/survivalmodels
 survivalsvm,https://github.com/imbs-hl/survivalsvm
 survivoR,https://github.com/doehm/survivor
+SurvMetrics,https://github.com/skyee1/survmetrics
 survminer,https://github.com/kassambara/survminer
 survMisc,https://github.com/dardisco/survmisc
 survMS,https://github.com/mathildesautreuil/survms
@@ -7565,6 +7571,7 @@ twoway,https://github.com/friendly/twoway
 txshift,https://github.com/nhejazi/txshift
 txtq,https://github.com/wlandau/txtq
 typed,https://github.com/moodymudskipper/typed
+typehint,https://github.com/jsugarelli/typehint
 tzdb,https://github.com/r-lib/tzdb
 uaparserjs,https://gitlab.com/hrbrmstr/uaparserjs
 uavRmp,https://github.com/gisma/uavrmp
@@ -7580,6 +7587,7 @@ udunits2,https://github.com/pacificclimate/rudunits2
 ufs,https://gitlab.com/r-packages/ufs
 uiucthemes,https://github.com/illinois-r/uiucthemes
 uk2us,https://github.com/bldavies/uk2us
+UKB.COVID19,https://github.com/bahlolab/ukb.covid19
 ukbabynames,https://github.com/mine-cetinkaya-rundel/ukbabynames
 ukgasapi,https://github.com/timothywong731/ukgasapi
 UKgrid,https://github.com/ramikrispin/ukgrid
@@ -7645,6 +7653,7 @@ useful,https://github.com/jaredlander/useful
 usefun,https://github.com/bblodfon/usefun
 usemodels,https://github.com/tidymodels/usemodels
 usethis,https://github.com/r-lib/usethis
+usethis2,https://github.com/tidylab/usethis2
 usfertilizer,https://github.com/wenlong-liu/usfertilizer
 USgas,https://github.com/ramikrispin/usgas
 USgrid,https://github.com/ramikrispin/usgrid
@@ -7993,11 +8002,6 @@ ztable,https://github.com/cardiomoon/ztable
 ztpln,https://github.com/mattocci27/ztpln
 ZVCV,https://github.com/leahprice/zvcv
 zzlite,https://github.com/fkoh111/zzlite
-codetools,https://gitlab.com/luke-tierney/codetools
-lattice,https://github.com/deepayan/lattice
-Matrix,https://github.com/r-forge/matrix
-rpart,https://github.com/bethatkinson/rpart
-survival,https://github.com/therneau/survival
 codetools,https://gitlab.com/luke-tierney/codetools
 lattice,https://github.com/deepayan/lattice
 Matrix,https://github.com/r-forge/matrix
