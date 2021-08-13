@@ -710,8 +710,7 @@
     "package": "PKPDmodels",
     "maintainer": "Douglas Bates <Bates@R-project.org>",
     "url": "https://github.com/r-forge/pkpd",
-    "subdir": "pkg/PKPDmodels",
-    "available": true
+    "available": false
   },
   {
     "package": "Polychrome",
