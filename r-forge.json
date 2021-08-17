@@ -1276,6 +1276,13 @@
     "available": true
   },
   {
+    "package": "tramME",
+    "maintainer": "Balint Tamasi <balint.tamasi@uzh.ch>",
+    "url": "https://github.com/r-forge/ctm",
+    "subdir": "pkg/tramME",
+    "available": true
+  },
+  {
     "package": "tramnet",
     "maintainer": "Lucas Kook <lucasheinrich.kook@uzh.ch>",
     "url": "https://github.com/r-forge/ctm",
