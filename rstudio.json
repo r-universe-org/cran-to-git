@@ -364,5 +364,11 @@
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/rstudio/webdriver",
     "available": true
+  },
+  {
+    "package": "websocket",
+    "maintainer": "Winston Chang <winston@rstudio.com>",
+    "url": "https://github.com/rstudio/websocket",
+    "available": true
   }
 ]

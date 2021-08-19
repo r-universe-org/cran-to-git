@@ -278,7 +278,6 @@ attempt,https://github.com/colinfay/attempt
 attenuation,https://github.com/jonasmoss/attenuation
 auctionr,https://github.com/ajmack/auctionr
 auditor,https://github.com/modeloriented/auditor
-audrex,https://github.com/dmlc/xgboost
 augmentedRCBD,https://github.com/aravind-j/augmentedrcbd
 auk,https://github.com/cornelllabofornithology/auk
 aurelius,https://github.com/modelop/hadrian
@@ -606,6 +605,7 @@ bookdownplus,https://github.com/pzhaonet/bookdownplus
 boomer,https://github.com/moodymudskipper/boomer
 boot.heterogeneity,https://github.com/gabriellajg/boot.heterogeneity
 bootES,https://github.com/dgerlanc/bootes
+bootf2,https://github.com/zhengguoxu/bootf2
 bootGOF,https://github.com/marselscheer/bootgof
 bootPLS,https://github.com/fbertran/bootpls
 bootsPLS,https://bitbucket.org/florianr/package-bootspls
@@ -3606,6 +3606,7 @@ lmmpar,https://github.com/fulyagokalp/lmmpar
 lmPerm,https://github.com/mtorchiano/lmperm
 lmQCM,https://github.com/huangzhii/lmqcm
 lmSubsets,https://github.com/marc-hofmann/lmsubsets.r
+lmtp,https://github.com/nt-williams/lmtp
 loa,https://github.com/r-forge/loa
 loadr,https://github.com/databio/loadr
 lobstr,https://github.com/r-lib/lobstr
@@ -4326,6 +4327,7 @@ ndjson,https://gitlab.com/hrbrmstr/ndjson
 ndtv,https://github.com/statnet/ndtv
 neatmaps,https://github.com/philboileau/neatmaps
 neatRanges,https://github.com/arg0naut91/neatranges
+neatStats,https://github.com/gasparl/neatstats
 needs,https://github.com/joshkatz/needs
 negenes,https://github.com/kbroman/negenes
 neo2R,https://github.com/patzaw/neo2r
@@ -5357,6 +5359,7 @@ R.utils,https://github.com/henrikbengtsson/r.utils
 R2BEAT,https://github.com/barcaroli/r2beat
 r2d3,https://github.com/rstudio/r2d3
 r2dictionary,https://github.com/oobianom/r2dictionary
+r2dii.analysis,https://github.com/2degreesinvesting/r2dii.analysis
 r2dii.data,https://github.com/2degreesinvesting/r2dii.data
 r2dii.match,https://github.com/2degreesinvesting/r2dii.match
 r2dii.plot,https://github.com/2degreesinvesting/r2dii.plot
@@ -7852,6 +7855,7 @@ webr,https://github.com/cardiomoon/webr
 webreadr,https://github.com/ironholds/webreadr
 websearchr,https://github.com/fschaffner/websearchr
 webshot,https://github.com/wch/webshot
+websocket,https://github.com/rstudio/websocket
 webTRISr,https://github.com/racfoundation/webtrisr
 webuse,https://github.com/leeper/webuse
 webutils,https://github.com/jeroen/webutils
@@ -8080,6 +8084,7 @@ BayesSpace,https://github.com/edward130603/bayesspace
 bayNorm,https://github.com/wt215/baynorm
 bcSeq,https://github.com/jl354/bcseq
 BEclear,https://github.com/uds-helms/beclear
+BentoBox,https://github.com/phanstiellab/bentobox
 BgeeCall,https://github.com/bgeedb/bgeecall
 BgeeDB,https://github.com/bgeedb/bgeedb_r
 bigPint,https://github.com/lindsayrutter/bigpint
@@ -8257,6 +8262,7 @@ eiR,https://github.com/girke-lab/eir
 eisaR,https://github.com/fmicompbio/eisar
 EmpiricalBrownsMethod,https://github.com/ilyalab/combiningdependentpvaluesusingebm
 EnhancedVolcano,https://github.com/kevinblighe/enhancedvolcano
+enhancerHomologSearch,https://github.com/jianhong/enhancerhomologsearch
 EnMCB,https://github.com/whirlsyu/enmcb
 EnrichedHeatmap,https://github.com/jokergoo/enrichedheatmap
 EnrichmentBrowser,https://github.com/lgeistlinger/enrichmentbrowser
@@ -8323,6 +8329,7 @@ GenomicAlignments,https://github.com/bioconductor/genomicalignments
 GenomicDataCommons,https://github.com/bioconductor/genomicdatacommons
 GenomicDistributions,https://github.com/databio/genomicdistributions
 GenomicFeatures,https://github.com/bioconductor/genomicfeatures
+genomicInstability,https://github.com/reef103/genomicinstability
 GenomicInteractions,https://github.com/computationalregulatorygenomicsicl/genomicinteractions
 GenomicRanges,https://github.com/bioconductor/genomicranges
 GenomicScores,https://github.com/rcastelo/genomicscores
@@ -8330,6 +8337,7 @@ GenomicSuperSignature,https://github.com/shbrief/genomicsupersignature
 GenomicTuples,https://github.com/petehaitch/genomictuples
 genphen,https://github.com/snaketron/genphen
 GenVisR,https://github.com/griffithlab/genvisr
+GEOexplorer,https://github.com/guypwhunt/geoexplorer
 GEOfastq,https://github.com/alexvpickering/geofastq
 GEOquery,https://github.com/seandavi/geoquery
 getDEE2,https://github.com/markziemann/getdee2
@@ -8427,6 +8435,7 @@ Maaslin2,https://github.com/biobakery/maaslin2
 MADSEQ,https://github.com/ykong2/madseq
 maftools,https://github.com/poisonalien/maftools
 MAGAR,https://github.com/mpiicomputationalepigenetics/magar
+MAI,https://github.com/kechrislab/mai
 MANOR,https://github.com/pneuvial/manor
 marr,https://github.com/ghoshlab/marr
 martini,https://github.com/hclimente/martini
