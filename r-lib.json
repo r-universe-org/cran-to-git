@@ -456,12 +456,6 @@
     "available": true
   },
   {
-    "package": "RSvgDevice",
-    "maintainer": "Matthieu Decorde <matthieu.decorde@ens-lyon.fr>",
-    "url": "https://github.com/r-lib/svglite",
-    "available": true
-  },
-  {
     "package": "scales",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/scales",
