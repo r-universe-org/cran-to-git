@@ -288,6 +288,12 @@
     "available": true
   },
   {
+    "package": "meltr",
+    "maintainer": "Duncan Garmonsway <nacnudus@gmail.com>",
+    "url": "https://github.com/r-lib/meltr",
+    "available": true
+  },
+  {
     "package": "memoise",
     "maintainer": "Jim Hester <jim.hester@rstudio.com>",
     "url": "https://github.com/r-lib/memoise",
