@@ -43,6 +43,18 @@
     "available": false
   },
   {
+    "package": "paws.developer.tools",
+    "maintainer": "David Kretch <david.kretch@gmail.com>",
+    "url": "https://github.com/paws-r/paws",
+    "available": false
+  },
+  {
+    "package": "paws.end.user.computing",
+    "maintainer": "David Kretch <david.kretch@gmail.com>",
+    "url": "https://github.com/paws-r/paws",
+    "available": false
+  },
+  {
     "package": "paws.machine.learning",
     "maintainer": "David Kretch <david.kretch@gmail.com>",
     "url": "https://github.com/paws-r/paws",
