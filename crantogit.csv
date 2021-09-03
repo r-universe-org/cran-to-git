@@ -411,6 +411,7 @@ BayesPostEst,https://github.com/shanascogin/bayespostest
 Bayesrel,https://github.com/juliuspf/bayesrel
 bayesrules,https://github.com/bayes-rules/bayesrules
 BayesSampling,https://github.com/pedrosfig/bayessampling
+BayesSenMC,https://github.com/formidify/bayessenmc
 BayesSPsurv,https://github.com/nicolas-schmidt/bayesspsurv
 bayestestR,https://github.com/easystats/bayestestr
 BayesTools,https://github.com/fbartos/bayestools
@@ -1147,7 +1148,6 @@ coro,https://github.com/r-lib/coro
 coroICA,https://github.com/sweichwald/coroica-r
 coronavirus,https://github.com/ramikrispin/coronavirus
 corpora,https://github.com/r-forge/sigil
-CorporaCoCo,https://github.com/mahlberg-lab/corporacoco
 corporaexplorer,https://github.com/kgjerde/corporaexplorer
 CoRpower,https://github.com/mjuraska/corpower
 corpus,https://github.com/leslie-huang/r-corpus
@@ -1722,7 +1722,6 @@ dsrTest,https://github.com/mnel/dsrtest
 DSSAT,https://github.com/palderman/dssat
 dssd,https://github.com/distancedevelopment/dssd
 dst,https://github.com/rapler/dst-1
-dstack,https://github.com/dstackai/dstack-r
 DstarM,https://github.com/vandenman/dstarm
 DSWE,https://github.com/tamu-aml/dswe-package
 DT,https://github.com/rstudio/dt
@@ -2951,7 +2950,6 @@ helda,https://github.com/redcart/helda
 helixvis,https://github.com/rrrlw/helixvis
 hellno,https://github.com/petermeissner/hellno
 helminthR,https://github.com/ropensci/helminthr
-helsinki,https://github.com/ropengov/helsinki
 HEMDAG,https://github.com/marconotaro/hemdag
 heplots,https://github.com/friendly/heplots
 here,https://github.com/r-lib/here
@@ -3268,6 +3266,7 @@ isa2,https://github.com/gaborcsardi/isa
 isatabr,https://github.com/biometris/isatabr
 isdparser,https://github.com/ropensci/isdparser
 isoband,https://github.com/wilkelab/isoband
+isobxr,https://github.com/ttacail/isobxr
 isocalcR,https://github.com/justinmathias/isocalcr
 isodistrreg,https://github.com/alexanderhenzi/isodistrreg
 IsoplotR,https://github.com/pvermees/isoplotr
@@ -3696,7 +3695,6 @@ MAAPER,https://github.com/vivianstats/maaper
 maat,https://github.com/choi-phd/maat
 MACER,https://github.com/rgyoung6/macer
 MachineShop,https://github.com/brian-j-smith/machineshop
-macleish,https://github.com/beanumber/macleish
 maclogp,https://github.com/yuanyuanli96/maclogp
 maddison,https://github.com/expersso/maddison
 maditr,https://github.com/gdemin/maditr
@@ -5126,7 +5124,6 @@ prcbench,https://github.com/evalclass/prcbench
 prcr,https://github.com/jrosen48/prcr
 PRDA,https://github.com/claudiozandonella/prda
 pre,https://github.com/marjoleinf/pre
-precautionary,https://github.com/dcnorris/precautionary
 precintcon,https://github.com/lucasvenez/precintcon
 pRecipe,https://github.com/mirovago/precipe
 precisely,https://github.com/malcolmbarrett/precisely
@@ -5613,6 +5610,7 @@ RcppParallel,https://github.com/rcppcore/rcppparallel
 RcppProgress,https://github.com/kforner/rcpp_progress
 RcppRedis,https://github.com/eddelbuettel/rcppredis
 RcppSimdJson,https://github.com/eddelbuettel/rcppsimdjson
+RcppSMC,https://github.com/rcppsmc/rcppsmc
 RcppSpdlog,https://github.com/eddelbuettel/rcppspdlog
 RcppStreams,https://github.com/eddelbuettel/rcppstreams
 RcppThread,https://github.com/tnagler/rcppthread
@@ -6014,6 +6012,7 @@ rNOMADS,https://github.com/r-forge/rnomads
 rnpn,https://github.com/ropensci/rnpn
 rnrfa,https://github.com/cvitolo/rnrfa
 Rnumerai,https://github.com/omni-analytics-group/rnumerai
+Rnvd3,https://github.com/stla/rnvd3
 roadoi,https://github.com/ropensci/roadoi
 roahd,https://github.com/astamm/roahd
 RobAStBase,https://github.com/r-forge/robast
@@ -6401,7 +6400,6 @@ SciViews,https://github.com/sciviews/sciviews
 scoper,https://bitbucket.org/kleinstein/scoper
 scopr,https://github.com/rethomics/scopr
 SCOR,https://github.com/synx21/scor
-scorecard,https://github.com/shichenxie/scorecard
 scorepeak,https://github.com/shotaochi/scorepeak
 scoringRules,https://github.com/fk83/scoringrules
 scoringTools,https://github.com/adimajo/scoringtools
@@ -6657,6 +6655,7 @@ simcross,https://github.com/kbroman/simcross
 SimDesign,https://github.com/philchalmers/simdesign
 simex,https://github.com/wolfganglederer/simex
 simExam,https://github.com/wleoncio/simexam
+simfam,https://github.com/ochoalab/simfam
 simfinapi,https://github.com/matthiasgomolka/simfinapi
 simfinR,https://github.com/msperlin/simfinr
 simglm,https://github.com/lebebr01/simglm
@@ -6904,6 +6903,7 @@ spex,https://github.com/mdsumner/spex
 spfda,https://github.com/dipterix/spfda
 spfilteR,https://github.com/sjuhl/spfilter
 spFSR,https://github.com/yongkai17/spfsr
+sphunif,https://github.com/egarpor/sphunif
 spiderbar,https://gitlab.com/hrbrmstr/spiderbar
 spikeSlabGAM,https://github.com/fabian-s/spikeslabgam
 spinBayes,https://github.com/jrhub/spinbayes
@@ -6912,6 +6912,7 @@ spinifex,https://github.com/nspyrison/spinifex
 spiR,https://github.com/warint/spir
 spiralize,https://github.com/jokergoo/spiralize
 spiritR,https://github.com/awconway/spiritr
+splash,https://github.com/villegar/splash
 splashr,https://gitlab.com/hrbrmstr/splashr
 splines2,https://github.com/wenjie2wang/splines2
 splinetree,https://github.com/anna-neufeld/splinetree
@@ -7414,6 +7415,7 @@ tidyverse,https://github.com/tidyverse/tidyverse
 tidyvpc,https://github.com/certara/tidyvpc
 tidyxl,https://github.com/nacnudus/tidyxl
 tigerhitteR,https://github.com/aiien61/tigerhitter
+TIGERr,https://github.com/han-siyu/tiger
 tigger,https://bitbucket.org/kleinstein/tigger
 tigreBrowserWriter,https://github.com/probic/tigrebrowserwriter
 tigris,https://github.com/walkerke/tigris
@@ -7499,6 +7501,7 @@ TRADER,https://github.com/pavel-fibich/trader
 TrafficBDE,https://github.com/okgreece/trafficbde
 trainR,https://github.com/villegar/trainr
 traipse,https://github.com/trackage/traipse
+traitdataform,https://github.com/ecologicaltraitdata/traitdataform
 traits,https://github.com/ropensci/traits
 TrajDataMining,https://github.com/inpetrajectories/trajdatamining
 trajectories,https://github.com/edzer/trajectories
@@ -7866,7 +7869,6 @@ washex,https://github.com/rwrandles/washex-r
 WASP,https://github.com/zejiang-unsw/wasp
 water,https://github.com/midraed/water
 waterfall,https://github.com/howardjp/waterfall
-WaterML,https://github.com/jirikadlec2/waterml
 waterquality,https://github.com/rajohansen/waterquality
 waver,https://github.com/pmarchand1/waver
 waves,https://github.com/gorelab/waves
