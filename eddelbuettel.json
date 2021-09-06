@@ -246,6 +246,12 @@
     "available": true
   },
   {
+    "package": "tidyCpp",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/tidycpp",
+    "available": true
+  },
+  {
     "package": "tint",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/tint",
