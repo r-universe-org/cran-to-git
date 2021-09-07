@@ -1,5 +1,17 @@
 [
   {
+    "package": "dlr",
+    "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
+    "url": "https://github.com/macmillancontentscience/dlr",
+    "available": true
+  },
+  {
+    "package": "morphemepiece.data",
+    "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
+    "url": "https://github.com/macmillancontentscience/morphemepiece.data",
+    "available": true
+  },
+  {
     "package": "piecemaker",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
     "url": "https://github.com/macmillancontentscience/piecemaker",
