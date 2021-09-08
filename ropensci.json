@@ -558,6 +558,12 @@
     "available": true
   },
   {
+    "package": "mauricer",
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/ropensci/mauricer",
+    "available": true
+  },
+  {
     "package": "medrxivr",
     "maintainer": "Luke McGuinness <luke.mcguinness@bristol.ac.uk>",
     "url": "https://github.com/ropensci/medrxivr",
@@ -1089,12 +1095,6 @@
     "package": "rzmq",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/rzmq",
-    "available": true
-  },
-  {
-    "package": "scrubr",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/scrubr",
     "available": true
   },
   {
