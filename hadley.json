@@ -27,7 +27,7 @@
     "package": "highlight",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/hadley/highlight",
-    "available": true
+    "available": false
   },
   {
     "package": "meifly",
@@ -63,7 +63,7 @@
     "package": "proto",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/hadley/proto",
-    "available": true
+    "available": false
   },
   {
     "package": "pryr",

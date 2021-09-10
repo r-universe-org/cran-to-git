@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "morphemepiece",
+    "maintainer": "Jonathan Bratt <jonathan.bratt@macmillan.com>",
+    "url": "https://github.com/macmillancontentscience/morphemepiece",
+    "available": true
+  },
+  {
     "package": "morphemepiece.data",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
     "url": "https://github.com/macmillancontentscience/morphemepiece.data",
