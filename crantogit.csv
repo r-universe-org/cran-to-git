@@ -1450,7 +1450,6 @@ deeplr,https://github.com/zumbov2/deeplr
 deepredeff,https://github.com/ruthkr/deepredeff
 deeptime,https://github.com/willgearty/deeptime
 deflateBR,https://github.com/meirelesff/deflatebr
-deisotoper,https://github.com/protviz/deisotoper
 Delaporte,https://github.com/aadler/delaporte
 delayed,https://github.com/tlverse/delayed
 deltar,https://github.com/teemour/deltar
@@ -1666,6 +1665,7 @@ doRedis,https://github.com/bwlewis/doredis
 doremi,https://github.com/dcourvoisier/doremi
 doRNG,https://github.com/renozao/dorng
 doseminer,https://github.com/selbosh/doseminer
+DOSPortfolio,https://github.com/statistics-in-portfolio-theory/dosportfolio
 dosresmeta,https://github.com/alecri/dosresmeta
 dostats,https://github.com/halpo/dostats
 DOT,https://github.com/haghish/dot
@@ -2465,6 +2465,7 @@ GCalignR,https://github.com/mottensmann/gcalignr
 gcdnet,https://github.com/emeryyi/gcdnet
 gclm,https://github.com/gherardovarando/gclm
 GCSM,https://github.com/liuyadong/gcsm
+gcTensor,https://github.com/rikenbit/gctensor
 gdalcubes,https://github.com/appelmar/gdalcubes_r
 gdalUtilities,https://github.com/joshobrien/gdalutilities
 gdalUtils,https://github.com/gearslaboratory/gdalutils
@@ -2629,6 +2630,7 @@ gghalfnorm,https://github.com/nathaneastwood/gghalfnorm
 gghalves,https://github.com/erocoar/gghalves
 gghighlight,https://github.com/yutannihilation/gghighlight
 gghilbertstrings,https://github.com/sumidu/gghilbertstrings
+ggHoriPlot,https://github.com/rivasiker/gghoriplot
 ggimage,https://github.com/guangchuangyu/ggimage
 ggimg,https://github.com/statsmaths/ggimg
 gginference,https://github.com/okgreece/gginference
@@ -2805,6 +2807,7 @@ govdown,https://github.com/ukgovdatascience/govdown
 gower,https://github.com/markvanderloo/gower
 goxygen,https://github.com/pik-piam/goxygen
 GPareto,https://github.com/mbinois/gpareto
+GPBayes,https://github.com/pulongma/gpbayes
 gpboost,https://github.com/fabsig/gpboost
 gpbStat,https://github.com/nandp1/gpbstat
 gpclib,https://github.com/rdpeng/gpclib
@@ -3082,7 +3085,7 @@ hydroTSM,https://github.com/hzambran/hydrotsm
 hyfo,https://github.com/yuanchao-xu/hyfo
 hyper2,https://github.com/robinhankin/hyper2
 HypergeoMat,https://github.com/stla/hypergeomat
-hyperSpec,https://github.com/cbeleites/hyperspec
+hyperSpec,https://github.com/r-hyperspec/hyperspec
 hypothesisr,https://github.com/mdlincoln/hypothesisr
 hypr,https://github.com/mmrabe/hypr
 hystReet,https://github.com/johannesfriedrich/hystreet
@@ -3750,6 +3753,7 @@ manhattanly,https://github.com/sahirbhatnagar/manhattanly
 manhplot,https://github.com/cgrace1978/manhplot
 manifestoR,https://github.com/manifestoproject/manifestor
 manipulateWidget,https://github.com/rte-antares-rpackage/manipulatewidget
+MAnorm2,https://github.com/tushiqi/manorm2
 MANOVA.RM,https://github.com/smn74/manova.rm
 manymodelr,https://github.com/nelson-gon/manymodelr
 MaOEA,https://github.com/dots26/maoea
@@ -4445,6 +4449,7 @@ nhsnumber,https://github.com/sellorm/nhsnumber
 NHSRdatasets,https://github.com/nhs-r-community/nhsrdatasets
 nichevol,https://github.com/marlonecobos/nichevol
 nima,https://github.com/nhejazi/nima
+NIMAA,https://github.com/jafarilab/nimaa
 nimble,https://github.com/nimble-dev/nimble
 nimbleEcology,https://github.com/nimble-dev/nimbleecology
 nimbleSMC,https://github.com/nimble-dev/nimblesmc
@@ -4914,6 +4919,7 @@ pgee.mixed,https://github.com/kaos42/pgee.mixed
 PGRdup,https://github.com/aravind-j/pgrdup
 pgsc,https://github.com/philipbarrett/pgsc
 pguIMP,https://github.com/smlms/pguimp
+PH1XBAR,https://github.com/bolus123/ph1xbar
 ph2rand,https://github.com/mjg211/ph2rand
 phangorn,https://github.com/klausvigo/phangorn
 pharmaRTF,https://github.com/atorus-research/pharmartf
@@ -5837,6 +5843,7 @@ revdbayes,https://github.com/paulnorthrop/revdbayes
 revealjs,https://github.com/rstudio/revealjs
 reveneraR,https://github.com/chrisumphlett/revenerar
 revengc,https://github.com/gshs-ornl/revengc
+RevGadgets,https://github.com/cmt2/revgadgets
 ReviewR,https://github.com/thewileylab/reviewr
 revpref,https://github.com/ksurana21/revpref
 revss,https://github.com/aadler/revss
@@ -6197,6 +6204,7 @@ rsample,https://github.com/tidymodels/rsample
 RSauceLabs,https://github.com/johndharrison/rsaucelabs
 rscala,https://github.com/dbdahl/rscala
 RSCAT,https://github.com/act-org/rscat
+rscc,https://github.com/sigbertklinke/rscc
 rscimark,https://github.com/berndbischl/rscimark
 rsconnect,https://github.com/rstudio/rsconnect
 rscontract,https://github.com/rstudio/rscontract
@@ -6950,10 +6958,12 @@ spiralize,https://github.com/jokergoo/spiralize
 spiritR,https://github.com/awconway/spiritr
 splash,https://github.com/villegar/splash
 splashr,https://gitlab.com/hrbrmstr/splashr
+SPLICE,https://github.com/agi-lab/splice
 splines2,https://github.com/wenjie2wang/splines2
 splinetree,https://github.com/anna-neufeld/splinetree
 splithalf,https://github.com/sdparsons/splithalf
 splithalfr,https://github.com/tpronk/splithalfr
+SplitKnockoff,https://github.com/wanghaoxue0/splitknockoff
 splitstackshape,https://github.com/mrdwab/splitstackshape
 splitTools,https://github.com/mayer79/splittools
 splot,https://github.com/miserman/splot
@@ -7812,7 +7822,7 @@ vcr,https://github.com/ropensci/vcr
 vctrs,https://github.com/r-lib/vctrs
 vdiffr,https://github.com/r-lib/vdiffr
 vdra,https://github.com/kentedegrees/vdra
-veccompare,https://github.com/publicus/r-veccompare
+veccompare,https://github.com/jglev/r-veccompare
 vectorwavelet,https://github.com/toygur/vectorwavelet
 vegalite,https://github.com/hrbrmstr/vegalite
 vegan,https://github.com/vegandevs/vegan
@@ -7832,6 +7842,7 @@ VetResearchLMM,https://github.com/myaseen208/vetresearchlmm
 vfinputs,https://github.com/rhenkin/vfinputs
 VFS,https://github.com/sgoslee/vfs
 viafr,https://github.com/stefanieschneider/viafr
+VIC5,https://github.com/rpkgs/vic5
 vICC,https://github.com/donaldrwilliams/vicc
 vici,https://github.com/sistm/vici
 VicmapR,https://github.com/justincally/vicmapr
