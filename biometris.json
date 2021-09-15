@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "statgenIBD",
+    "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
+    "url": "https://github.com/biometris/statgenibd",
+    "available": true
+  },
+  {
     "package": "statgenSTA",
     "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
     "url": "https://github.com/biometris/statgensta",
