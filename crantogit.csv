@@ -206,6 +206,7 @@ ARDL,https://github.com/natsiopoulos/ardl
 areal,https://github.com/slu-opengis/areal
 arena2r,https://github.com/pedroliman/arena2r
 arenar,https://github.com/modeloriented/arenar
+argoFloats,https://github.com/argocanada/argofloats
 argon2,https://github.com/wrathematics/argon2
 argonDash,https://github.com/rinterface/argondash
 argonR,https://github.com/rinterface/argonr
@@ -320,6 +321,7 @@ aws.s3,https://github.com/cloudyr/aws.s3
 aws.signature,https://github.com/cloudyr/aws.signature
 aws.transcribe,https://github.com/cloudyr/aws.transcribe
 aws.translate,https://github.com/cloudyr/aws.translate
+AzureAppInsights,https://github.com/stefanedwards/azureappinsights
 AzureAuth,https://github.com/azure/azureauth
 AzureCognitive,https://github.com/azure/azurecognitive
 AzureContainers,https://github.com/azure/azurecontainers
@@ -373,6 +375,7 @@ basf,https://github.com/mdsumner/basf
 basictabler,https://github.com/cbailiss/basictabler
 basicTrendline,https://github.com/phdmeiwp/basictrendline
 BasketballAnalyzeR,https://github.com/sndmrc/basketballanalyzer
+baskexact,https://github.com/lbau7/baskexact
 batata,https://github.com/feddelegrand7/batata
 BatchExperiments,https://github.com/tudo-r/batchexperiments
 BatchJobs,https://github.com/tudo-r/batchjobs
@@ -1794,6 +1797,7 @@ EbayesThresh,https://github.com/stephenslab/ebayesthresh
 EBCHS,https://github.com/dulilun/ebchs
 ebci,https://github.com/kolesarm/ebci
 ebdbNet,https://github.com/andreamrau/ebdbnet
+ebirdst,https://github.com/cornelllabofornithology/ebirdst
 EBMAforecast,https://github.com/fhollenbach/ebma
 ec50estimator,https://github.com/alvesks/ec50estimator
 eCAR,https://github.com/gpage2990/ecar
@@ -2417,6 +2421,7 @@ fuzzr,https://github.com/mdlincoln/fuzzr
 FuzzyAHP,https://github.com/jancaha/fuzzyahp
 fuzzyjoin,https://github.com/dgrtwo/fuzzyjoin
 FuzzyNumbers,https://github.com/gagolews/fuzzynumbers
+FuzzyResampling,https://github.com/mroman-ibs/fuzzyresampling
 fuzzywuzzyR,https://github.com/mlampros/fuzzywuzzyr
 FWDselect,https://github.com/sestelo/fwdselect
 fwi.fbp,https://github.com/r-forge/fwi-fbp
@@ -3321,6 +3326,7 @@ janitor,https://github.com/sfirke/janitor
 jaod,https://github.com/ropensci/jaod
 JBrowseR,https://github.com/gmod/jbrowser
 jcolors,https://github.com/jaredhuling/jcolors
+jds.rmd,https://github.com/wenjie2wang/jds.rmd
 jdx,https://github.com/floidgilbert/jdx
 jeek,https://github.com/qdata/jeek
 jetpack,https://github.com/ankane/jetpack
@@ -3611,7 +3617,7 @@ LinkageMapView,https://github.com/bio-services/linkagemapview
 linkcomm,https://github.com/alextkalinka/linkcomm
 LinkedMatrix,https://github.com/quantgen/linkedmatrix
 linkprediction,https://github.com/recon-icm/linkprediction
-linkspotter,https://github.com/sambaala/linkspotter
+linkspotter,https://github.com/orange-opensource/linkspotter
 linl,https://github.com/eddelbuettel/linl
 linne,https://github.com/johncoene/linne
 linpk,https://github.com/benjaminrich/linpk
@@ -5433,6 +5439,7 @@ R2jags,https://github.com/suyusung/r2jags
 r2mlm,https://github.com/mkshaw/r2mlm
 R2MLwiN,https://github.com/r-forge/r2mlwin
 r2pmml,https://github.com/jpmml/r2pmml
+r2pptx,https://github.com/mattle24/r2pptx
 r2r,https://github.com/vgherard/r2r
 r2rtf,https://github.com/merck/r2rtf
 r2shortcode,https://github.com/oobianom/r2shortcode
@@ -5935,6 +5942,7 @@ riem,https://github.com/ropensci/riem
 Riemann,https://github.com/kisungyou/riemann
 RiemBase,https://github.com/kisungyou/riembase
 Riex,https://github.com/theeliteanalyst/riex
+rigr,https://github.com/statdivlab/rigr
 riingo,https://github.com/business-science/riingo
 rijkspalette,https://github.com/vankesteren/rijkspalette
 Rilostat,https://github.com/ilostat/rilostat
@@ -6004,6 +6012,7 @@ RmarineHeatWaves,https://github.com/ajsmit/rmarineheatwaves
 rmarkdown,https://github.com/rstudio/rmarkdown
 rmatio,https://github.com/stewid/rmatio
 RMAWGEN,https://github.com/ecor/rmawgen
+rmBayes,https://github.com/zhengxiaouvic/rmbayes
 rmda,https://github.com/mdbrown/rmda
 rmdcev,https://github.com/plloydsmith/rmdcev
 rmdfiltr,https://github.com/crsh/rmdfiltr
@@ -6542,6 +6551,7 @@ seqHMM,https://github.com/helske/seqhmm
 seqinr,https://github.com/r-forge/seqinr
 seqmagick,https://github.com/yulab-smu/seqmagick
 seqminer,https://github.com/zhanxw/seqminer
+seqR,https://github.com/slowikj/seqr
 sequences,https://github.com/lgatto/sequences
 sequenza,https://bitbucket.org/sequenzatools/sequenza
 sergeant,https://gitlab.com/hrbrmstr/sergeant
@@ -6571,6 +6581,7 @@ sfsmisc,https://github.com/mmaechler/sfsmisc
 SFtools,https://github.com/mlaib/sftools
 sftrack,https://github.com/mablab/sftrack
 sgat,https://github.com/matiaspoullain/sgat
+sGBJ,https://github.com/lauravillain/sgbj
 sgd,https://github.com/airoldilab/sgd
 sglOptim,https://github.com/nielsrhansen/sgloptim
 sgmcmc,https://github.com/stor-i/sgmcmc
@@ -7939,6 +7950,7 @@ wdpar,https://github.com/prioritizr/wdpar
 weathermetrics,https://github.com/geanders/weathermetrics
 webchem,https://github.com/ropensci/webchem
 webdriver,https://github.com/rstudio/webdriver
+webexercises,https://github.com/psyteachr/webexercises
 webfakes,https://github.com/r-lib/webfakes
 WebGestaltR,https://github.com/bzhanglab/webgestaltr
 webglobe,https://github.com/r-barnes/webglobe

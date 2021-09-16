@@ -1,5 +1,11 @@
 [
   {
+    "package": "AzureAppInsights",
+    "maintainer": "Stefan McKinnon Høj-Edwards <smhe@kamstrup.dk>",
+    "url": "https://github.com/stefanedwards/azureappinsights",
+    "available": true
+  },
+  {
     "package": "lemon",
     "maintainer": "Stefan McKinnon Edwards <sme@iysik.com>",
     "url": "https://github.com/stefanedwards/lemon",
