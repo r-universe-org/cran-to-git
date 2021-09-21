@@ -612,6 +612,18 @@
     "available": true
   },
   {
+    "package": "NLMR",
+    "maintainer": "Marco Sciaini <marco.sciaini@posteo.net>",
+    "url": "https://github.com/ropensci/nlmr",
+    "available": true
+  },
+  {
+    "package": "nlrx",
+    "maintainer": "Sebastian Hanss <nlrx@mailbox.org>",
+    "url": "https://github.com/ropensci/nlrx",
+    "available": true
+  },
+  {
     "package": "nodbi",
     "maintainer": "Ralf Herold <ralf.herold@mailbox.org>",
     "url": "https://github.com/ropensci/nodbi",

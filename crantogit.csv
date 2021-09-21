@@ -417,7 +417,6 @@ BayesPostEst,https://github.com/shanascogin/bayespostest
 Bayesrel,https://github.com/juliuspf/bayesrel
 bayesrules,https://github.com/bayes-rules/bayesrules
 BayesSampling,https://github.com/pedrosfig/bayessampling
-BayesSenMC,https://github.com/formidify/bayessenmc
 BayesSPsurv,https://github.com/nicolas-schmidt/bayesspsurv
 bayestestR,https://github.com/easystats/bayestestr
 BayesTools,https://github.com/fbartos/bayestools
@@ -950,6 +949,7 @@ cliapp,https://github.com/r-lib/cliapp
 clifford,https://github.com/robinhankin/clifford
 clifro,https://github.com/ropensci/clifro
 climaemet,https://github.com/ropenspain/climaemet
+climate,https://github.com/bczernecki/climate
 climateStability,https://github.com/hannahlowens/climatestability
 climatrends,https://github.com/agrdatasci/climatrends
 climdex.pcic,https://github.com/pacificclimate/climdex.pcic
@@ -1180,6 +1180,7 @@ CoSMoS,https://github.com/tychelab/cosmos
 costsensitive,https://github.com/david-cortes/costsensitive
 CosW,https://github.com/trigonometricdistribution/cosw
 CoTiMA,https://github.com/cotima/cotima
+cotram,https://github.com/r-forge/ctm
 countfitteR,https://github.com/biogenies/countfitter
 Countr,https://github.com/geobosh/countr
 countrycode,https://github.com/vincentarelbundock/countrycode
@@ -1247,6 +1248,7 @@ crmn,https://github.com/hredestig/crmn
 crmPack,https://github.com/roche/crmpack
 crochet,https://github.com/agrueneberg/crochet
 cronologia,https://github.com/feddelegrand7/cronologia
+cronR,https://github.com/bnosac/cronr
 cropdatape,https://github.com/omarbenites/cropdatape
 cropDemand,https://github.com/filgueirasr/cropdemand
 CropDetectR,https://github.com/niconaut/cropdetectr
@@ -1909,6 +1911,7 @@ emoji,https://github.com/emilhvitfeldt/emoji
 emojifont,https://github.com/guangchuangyu/emojifont
 emov,https://github.com/schw4b/emov
 EmpiricalCalibration,https://github.com/ohdsi/empiricalcalibration
+EMSC,https://github.com/khliland/emsc
 EMSS,https://github.com/sangkyustat/emss
 emstreeR,https://github.com/allanvc/emstreer
 emulator,https://github.com/robinhankin/emulator
@@ -2298,6 +2301,7 @@ FME,https://github.com/r-forge/fme
 fmpcloudr,https://github.com/exploringfinance/fmpcloudr
 FMradio,https://github.com/cfwp/fmradio
 fmriqa,https://github.com/martin3141/fmriqa
+fMRIscrub,https://github.com/mandymejia/fmriscrub
 fmtr,https://github.com/dbosak01/fmtr
 foghorn,https://github.com/fmichonneau/foghorn
 foieGras,https://github.com/ianjonsen/foiegras
@@ -2541,6 +2545,7 @@ geomander,https://github.com/christopherkenny/geomander
 GeomComb,https://github.com/ceweiss/forecastcomb
 geomedb,https://github.com/biocodellc/fimsr-access
 geometa,https://github.com/eblondel/geometa
+geometr,https://github.com/ehrmanns/geometr
 geometries,https://github.com/dcooley/geometries
 geometry,https://github.com/davidcsterratt/geometry
 GeoMongo,https://github.com/mlampros/geomongo
@@ -3027,6 +3032,7 @@ Hmisc,https://github.com/harrelfe/hmisc
 hms,https://github.com/tidyverse/hms
 Hmsc,https://github.com/hmsc-r/hmsc
 hoardr,https://github.com/ropensci/hoardr
+hockeyR,https://github.com/danmorse314/hockeyr
 hockeystick,https://github.com/cortinah/hockeystick
 holodeck,https://github.com/aariq/holodeck
 homologene,https://github.com/oganm/homologene
@@ -3344,6 +3350,7 @@ JMcmprsk,https://github.com/whcsu/jmcmprsk
 jmotif,https://github.com/jmotif/jmotif-r
 jmv,https://github.com/jamovi/jmv
 jmvcore,https://github.com/jamovi/jmvcore
+jmvReadWrite,https://github.com/sjentsch/jmvreadwrite
 jocre,https://github.com/philippallmann/jocre
 joineR,https://github.com/graemeleehickey/joiner
 joineRmeta,https://github.com/mesudell/joinermeta
@@ -4288,6 +4295,7 @@ multiclassPairs,https://github.com/nourmarzouka/multiclasspairs
 multicmp,https://github.com/diagdavenport/multicmp
 multiColl,https://github.com/r-forge/colldetreat
 multicolor,https://github.com/aedobbyn/multicolor
+multid,https://github.com/vjilmari/multid
 multidplyr,https://github.com/tidyverse/multidplyr
 multifear,https://github.com/angelospsy/multifear
 multifwf,https://github.com/prontog/multifwf
@@ -4402,6 +4410,7 @@ neotoma,https://github.com/ropensci/neotoma
 neptune,https://github.com/neptune-ai/neptune-r
 nesRdata,https://github.com/jsta/nesrdata
 nestfs,https://github.com/mcol/nestfs
+net4pg,https://github.com/laurafancello/net4pg
 netCoin,https://github.com/modesto-escobar/netcoin-1.0
 netcom,https://github.com/langendorfr/netcom
 netdiffuseR,https://github.com/usccana/netdiffuser
@@ -4471,7 +4480,9 @@ njtr1,https://github.com/gavinrozzi/njtr1
 nlaR,https://github.com/jsta/nlar
 nlist,https://github.com/poissonconsulting/nlist
 nlmixr,https://github.com/nlmixrdevelopment/nlmixr
+NLMR,https://github.com/ropensci/nlmr
 nlraa,https://github.com/femiguez/nlraa
+nlrx,https://github.com/ropensci/nlrx
 nlstools,https://github.com/aursiber/nlstools
 nltm,https://github.com/mclements/nltm
 nLTT,https://github.com/thijsjanzen/nltt
@@ -5385,6 +5396,7 @@ qtl2pleio,https://github.com/fboehm/qtl2pleio
 qtlbook,https://github.com/kbroman/qtlbook
 qtlcharts,https://github.com/kbroman/qtlcharts
 quadmesh,https://github.com/hypertidy/quadmesh
+quadtree,https://github.com/dfriend21/quadtree
 qualCI,https://github.com/kkashin/qualci
 qualmap,https://github.com/slu-opengis/qualmap
 qualpalr,https://github.com/jolars/qualpalr
@@ -6073,6 +6085,7 @@ roadoi,https://github.com/ropensci/roadoi
 roahd,https://github.com/astamm/roahd
 RobAStBase,https://github.com/r-forge/robast
 RobAStRDA,https://github.com/r-forge/robast
+robber,https://github.com/chabert-liddell/robber
 roben,https://github.com/jrhub/roben
 robets,https://github.com/rubencrevits/robets
 RobExtremes,https://github.com/r-forge/robast
@@ -7786,14 +7799,15 @@ usdata,https://github.com/openintrostat/usdata
 useful,https://github.com/jaredlander/useful
 usefun,https://github.com/bblodfon/usefun
 usemodels,https://github.com/tidymodels/usemodels
+usethat,https://github.com/tidylab/usethat
 usethis,https://github.com/r-lib/usethis
-usethis2,https://github.com/tidylab/usethat
 usfertilizer,https://github.com/wenlong-liu/usfertilizer
 USgas,https://github.com/ramikrispin/usgas
 USgrid,https://github.com/ramikrispin/usgrid
 ushr,https://github.com/sineadmorris/ushr
 usl,https://github.com/smoeding/usl
 usmap,https://github.com/pdil/usmap
+USpopcenters,https://github.com/nikkrieger/uspopcenters
 ustyc,https://github.com/mrbcuda/ustyc
 utf8,https://github.com/patperry/r-utf8
 utile.tables,https://github.com/efinite/utile.tables
