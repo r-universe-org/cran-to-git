@@ -90,6 +90,12 @@
     "available": true
   },
   {
+    "package": "prrd",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/prrd",
+    "available": true
+  },
+  {
     "package": "RApiDatetime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rapidatetime",

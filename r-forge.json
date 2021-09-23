@@ -1084,13 +1084,6 @@
     "available": true
   },
   {
-    "package": "scan",
-    "maintainer": "Juergen Wilbert <jwilbert@uni-potsdam.de>",
-    "url": "https://github.com/r-forge/scan",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "seqinr",
     "maintainer": "Simon Penel <simon.penel@univ-lyon1.fr>",
     "url": "https://github.com/r-forge/seqinr",
