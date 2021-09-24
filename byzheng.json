@@ -1,14 +1,14 @@
 [
   {
-    "package": "BWGS",
-    "maintainer": "Bangyou Zheng <bangyou.zheng@csiro.au>",
-    "url": "https://github.com/byzheng/bwgs",
-    "available": true
-  },
-  {
     "package": "rapsimng",
     "maintainer": "Bangyou Zheng <bangyou.zheng@csiro.au>",
     "url": "https://github.com/byzheng/rapsimng",
+    "available": true
+  },
+  {
+    "package": "weaana",
+    "maintainer": "Bangyou Zheng <bangyou.zheng@csiro.au>",
+    "url": "https://github.com/byzheng/weaana",
     "available": true
   }
 ]
