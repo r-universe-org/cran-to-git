@@ -22,5 +22,11 @@
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
     "url": "https://github.com/macmillancontentscience/piecemaker",
     "available": true
+  },
+  {
+    "package": "wordpiece",
+    "maintainer": "Jonathan Bratt <jonathan.bratt@macmillan.com>",
+    "url": "https://github.com/macmillancontentscience/wordpiece",
+    "available": true
   }
 ]
