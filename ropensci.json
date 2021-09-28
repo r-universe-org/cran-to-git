@@ -36,6 +36,12 @@
     "available": true
   },
   {
+    "package": "babette",
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/ropensci/babette",
+    "available": true
+  },
+  {
     "package": "baRcodeR",
     "maintainer": "Yihan Wu <yihan.wu@queensu.ca>",
     "url": "https://github.com/ropensci/barcoder",
