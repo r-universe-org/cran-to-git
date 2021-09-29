@@ -28,5 +28,11 @@
     "maintainer": "Jonathan Bratt <jonathan.bratt@macmillan.com>",
     "url": "https://github.com/macmillancontentscience/wordpiece",
     "available": true
+  },
+  {
+    "package": "wordpiece.data",
+    "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
+    "url": "https://github.com/macmillancontentscience/wordpiece.data",
+    "available": true
   }
 ]

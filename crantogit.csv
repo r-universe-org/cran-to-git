@@ -247,6 +247,7 @@ AsioHeaders,https://github.com/eddelbuettel/asioheaders
 askpass,https://github.com/r-lib/askpass
 aslib,https://github.com/coseal/aslib-r
 aspect,https://github.com/r-forge/psychor
+aspline,https://github.com/goepp/aspline
 aSPU,https://github.com/ikwak2/aspu
 assemblerr,https://github.com/uupharmacometrics/assemblerr
 assert,https://github.com/olivierbinette/assert
@@ -572,6 +573,7 @@ biscale,https://github.com/slu-opengis/biscale
 bisect,https://github.com/eyalfisher-zz/bisect
 bisectr,https://github.com/wch/bisectr
 BisqueRNA,https://github.com/cozygene/bisque
+bistablehistory,https://github.com/alexander-pastukhov/bistablehistory
 bit,https://github.com/truecluster/bit
 bit64,https://github.com/truecluster/bit64
 bitmexr,https://github.com/hfshr/bitmexr
@@ -809,6 +811,7 @@ ccdf,https://github.com/mgauth/ccdf
 ccdrAlgorithm,https://github.com/itsrainingdata/ccdralgorithm
 cchsflow,https://github.com/big-life-lab/cchsflow
 ccid,https://github.com/anastasiou-andreas/ccid
+ccmEstimator,https://github.com/xiw021/ccmestimator
 ccmReportR,https://github.com/durhamregionharp/ccmreportr
 ccrtm,https://github.com/marcodvisser/ccrtm
 ccTensor,https://github.com/rikenbit/cctensor
@@ -2294,6 +2297,7 @@ flifo,https://github.com/paulponcet/flifo
 flightplanning,https://github.com/caiohamamura/flightplanning-r
 flightplot,https://github.com/xmc811/flightplot
 FLightR,https://github.com/eldarrak/flightr
+flintyR,https://github.com/alanaw1/flintyr
 flipdownr,https://github.com/feddelegrand7/flipdownr
 flipdownWidgets,https://github.com/fanggong/flipdownwidgets
 flipr,https://github.com/astamm/flipr
@@ -5079,7 +5083,7 @@ plotdap,https://github.com/rmendels/plotdap
 plothelper,https://github.com/githubwwwjjj/plothelper
 plotKML,https://github.com/envirometrix/plotkml
 plotluck,https://github.com/stefan-schroedl/plotluck
-plotly,https://github.com/ropensci/plotly
+plotly,https://github.com/plotly/plotly.r
 plotlyGeoAssets,https://github.com/cpsievert/plotlygeoassets
 plotMElm,https://github.com/christophergandrud/plotmelm
 plotmm,https://github.com/pdwaggoner/plotmm
@@ -7125,6 +7129,7 @@ statnipokladna,https://github.com/petrbouchal/statnipokladna
 statpsych,https://github.com/dgbonett/statpsych
 statquotes,https://github.com/friendly/statquotes
 stats19,https://github.com/ropensci/stats19
+statsearchanalyticsr,https://github.com/searchdiscovery/statsearchanalyticsr
 statsExpressions,https://github.com/indrajeetpatil/statsexpressions
 statsr,https://github.com/statswithr/statsr
 stcos,https://github.com/holans/st-cos
@@ -8061,6 +8066,7 @@ word2vec,https://github.com/bnosac/word2vec
 wordbankr,https://github.com/langcog/wordbankr
 wordcloud2,https://github.com/lchiffon/wordcloud2
 wordpiece,https://github.com/macmillancontentscience/wordpiece
+wordpiece.data,https://github.com/macmillancontentscience/wordpiece.data
 wordpredictor,https://github.com/pakjiddat/word-predictor
 wordsalad,https://github.com/emilhvitfeldt/wordsalad
 wordspace,https://github.com/r-forge/wordspace

@@ -30,6 +30,12 @@
     "available": false
   },
   {
+    "package": "plotly",
+    "maintainer": "Carson Sievert <cpsievert1@gmail.com>",
+    "url": "https://github.com/plotly/plotly.r",
+    "available": true
+  },
+  {
     "package": "rasterly",
     "maintainer": "Zehao Xu <z267xu@uwaterloo.ca>",
     "url": "https://github.com/plotly/rasterly",
