@@ -1,5 +1,11 @@
 [
   {
+    "package": "voson.tcn",
+    "maintainer": "Bryan Gertzel <bryan.gertzel@anu.edu.au>",
+    "url": "https://github.com/vosonlab/voson.tcn",
+    "available": true
+  },
+  {
     "package": "VOSONDash",
     "maintainer": "Bryan Gertzel <bryan.gertzel@anu.edu.au>",
     "url": "https://github.com/vosonlab/vosondash",
