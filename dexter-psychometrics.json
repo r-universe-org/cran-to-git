@@ -9,12 +9,6 @@
     "package": "dextergui",
     "maintainer": "jesse koops <jesse.koops@cito.nl>",
     "url": "https://github.com/dexter-psychometrics/dexter",
-    "available": true
-  },
-  {
-    "package": "dexterMST",
-    "maintainer": "Timo Bechger <tmbechger@gmail.com>",
-    "url": "https://github.com/dexter-psychometrics/dexter",
-    "available": true
+    "available": false
   }
 ]
