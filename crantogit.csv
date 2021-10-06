@@ -20,7 +20,6 @@ ActCR,https://github.com/junruidi/actcr
 actel,https://github.com/hugomflavio/actel
 ActFrag,https://github.com/junruidi/actfrag
 activatr,https://github.com/dschafer/activatr
-ActivePathways,https://github.com/reimandlab/activepathways
 activityCounts,https://github.com/walkabillylab/activitycounts
 actuar,https://gitlab.com/vigou3/actuar
 acumos,https://github.com/acumos/acumos-r-client
@@ -382,7 +381,6 @@ baskexact,https://github.com/lbau7/baskexact
 batata,https://github.com/feddelegrand7/batata
 BatchExperiments,https://github.com/tudo-r/batchexperiments
 BatchJobs,https://github.com/tudo-r/batchjobs
-batchr,https://github.com/poissonconsulting/batchr
 batchscr,https://github.com/sherrisherry/batchscr
 batchtools,https://github.com/mllg/batchtools
 batman,https://github.com/ironholds/batman
@@ -416,10 +414,10 @@ BayesMRA,https://github.com/jtipton25/bayesmra
 bayesnec,https://github.com/open-aims/bayesnec
 BayesNetBP,https://github.com/hyu-ub/bayesnetbp
 bayesplot,https://github.com/stan-dev/bayesplot
-BayesPostEst,https://github.com/shanascogin/bayespostest
 Bayesrel,https://github.com/juliuspf/bayesrel
 bayesrules,https://github.com/bayes-rules/bayesrules
 BayesSampling,https://github.com/pedrosfig/bayessampling
+BayesSenMC,https://github.com/formidify/bayessenmc
 BayesSPsurv,https://github.com/nicolas-schmidt/bayesspsurv
 bayestestR,https://github.com/easystats/bayestestr
 BayesTools,https://github.com/fbartos/bayestools
@@ -1136,7 +1134,6 @@ contact,https://github.com/lanzaslab/contact
 contactdata,https://github.com/bisaloo/contactdata
 container,https://github.com/rpahl/container
 contentid,https://github.com/cboettig/contentid
-contextual,https://github.com/nth-iteration-labs/contextual
 contfrac,https://github.com/robinhankin/contfrac
 ContourFunctions,https://github.com/collinerickson/contourfunctions
 contrast,https://github.com/alanocallaghan/contrast
@@ -1192,7 +1189,6 @@ CoSMoS,https://github.com/tychelab/cosmos
 costsensitive,https://github.com/david-cortes/costsensitive
 CosW,https://github.com/trigonometricdistribution/cosw
 CoTiMA,https://github.com/cotima/cotima
-cotram,https://github.com/r-forge/ctm
 countfitteR,https://github.com/biogenies/countfitter
 Countr,https://github.com/geobosh/countr
 countrycode,https://github.com/vincentarelbundock/countrycode
@@ -1647,7 +1643,6 @@ dm,https://github.com/cynkra/dm
 dmacs,https://github.com/ddueber/dmacs
 dmai,https://github.com/myaseen208/dmai
 dmbc,https://github.com/sergioventurini/dmbc
-DMCfun,https://github.com/igmmgi/dmcfun
 dml,https://github.com/terrytangyuan/dml
 dmri.tracking,https://github.com/vic-dragon/dmri.tracking
 DMTL,https://github.com/dhruba018/dmtl
@@ -1858,6 +1853,7 @@ editrules,https://github.com/data-cleaning/editrules
 edmcr,https://github.com/great-northern-diver/edmcr
 edmdata,https://github.com/tmsalab/edmdata
 EDOIF,https://github.com/darkeyes/edoif
+EdSurvey,https://github.com/american-institutes-for-research/edsurvey
 educationdata,https://github.com/urbaninstitute/education-data-package-r
 edwards97,https://github.com/paleolimbot/edwards97
 eechidna,https://github.com/jforbes14/eechidna
@@ -2037,7 +2033,6 @@ ETLUtils,https://github.com/jwijffels/etlutils
 etrader,https://github.com/exploringfinance/etrader
 eudract,https://github.com/shug0131/eudract
 eulerr,https://github.com/jolars/eulerr
-Eunomia,https://github.com/ohdsi/eunomia
 eurocordexr,https://github.com/mitmat/eurocordexr
 europepmc,https://github.com/ropensci/europepmc
 europop,https://github.com/mdlincoln/europop
@@ -2206,7 +2201,6 @@ FedData,https://github.com/ropensci/feddata
 federalregister,https://github.com/ropengov/federalregister
 fedregs,https://github.com/noaa-edab/fedregs
 fedstatAPIr,https://github.com/denchpokepon/fedstatapir
-feedeR,https://github.com/datawookie/feeder
 feisr,https://github.com/ruettenauer/feisr
 felp,https://github.com/atusy/felp
 FEprovideR,https://github.com/umich-biostatistics/feprovider
@@ -2445,7 +2439,6 @@ FuzzyResampling,https://github.com/mroman-ibs/fuzzyresampling
 fuzzywuzzyR,https://github.com/mlampros/fuzzywuzzyr
 FWDselect,https://github.com/sestelo/fwdselect
 fwi.fbp,https://github.com/r-forge/fwi-fbp
-fwildclusterboot,https://github.com/s3alfisc/fwildclusterboot
 fxTWAPLS,https://github.com/special-uor/fxtwapls
 g3viz,https://github.com/g3viz/g3viz
 GA,https://github.com/luca-scr/ga
@@ -2464,7 +2457,6 @@ ganalytics,https://github.com/jdeboer/ganalytics
 gap,https://github.com/jinghuazhao/r
 GapAnalysis,https://github.com/ciat-dapa/gapanalysis
 GAparsimony,https://github.com/jpison/gaparsimony
-gapclosing,https://github.com/ilundberg/gapclosing
 gapfill,https://github.com/florafauna/gapfill
 gapmap,https://github.com/evanbiederstedt/gapmap
 gapminder,https://github.com/jennybc/gapminder
@@ -3619,6 +3611,7 @@ liayson,https://github.com/noemiandor/liayson
 libgeos,https://github.com/paleolimbot/libgeos
 LiblineaR.ACF,https://github.com/aydindemircioglu/liblinear.acf
 LibOPF,https://github.com/rafaeljm/libopf-in-r
+libproj,https://github.com/paleolimbot/libproj
 libr,https://github.com/dbosak01/libr
 librarian,https://github.com/desiquintans/librarian
 librarysnapshot,https://github.com/petermeissner/librarysnapshot
@@ -4342,6 +4335,7 @@ multimorbidity,https://github.com/wyattbensken/multimorbidity
 multinets,https://github.com/neylsoncrepalde/multinets
 multinma,https://github.com/dmphillippo/multinma
 multinomineq,https://github.com/danheck/multinomineq
+multIntTestFunc,https://github.com/klausherrmann/multinttestfunc
 multiplex,https://github.com/mplex/multiplex
 MultisiteMediation,https://github.com/xu-qin/multisitemediation
 multitaper,https://github.com/krahim/multitaper
@@ -7128,7 +7122,6 @@ starsExtra,https://github.com/michaeldorman/starsextra
 starter,https://github.com/ddsjoberg/starter
 STARTS,https://github.com/alexanderrobitzsch/starts
 startup,https://github.com/henrikbengtsson/startup
-starvars,https://github.com/andbucci/starvars
 starvz,https://github.com/schnorr/starvz
 starwarsdb,https://github.com/gadenbuie/starwarsdb
 Stat2Data,https://github.com/statmanrobin/stat2data
@@ -7186,6 +7179,7 @@ stR,https://bitbucket.org/alexanderdokumentov/strpackage
 strand,https://github.com/strand-tech/strand
 strat,https://github.com/xiangzhou09/strat
 stratamatch,https://github.com/raikens1/stratamatch
+stratEst,https://github.com/fdvorak/stratest
 StrathE2E2,https://gitlab.com/marineresourcemodelling/strathe2e
 StratifiedMedicine,https://github.com/thomasjemielita/stratifiedmedicine
 StratifiedSampling,https://github.com/rjauslin/stratifiedsampling
@@ -8010,7 +8004,6 @@ warp,https://github.com/davisvaughan/warp
 washdata,https://github.com/katilingban/washdata
 washex,https://github.com/rwrandles/washex-r
 WASP,https://github.com/zejiang-unsw/wasp
-water,https://github.com/midraed/water
 waterfall,https://github.com/howardjp/waterfall
 waterquality,https://github.com/rajohansen/waterquality
 waver,https://github.com/pmarchand1/waver
