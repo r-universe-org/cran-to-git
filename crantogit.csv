@@ -163,6 +163,7 @@ AntWeb,https://github.com/ropensci/antweb
 anybadger,https://github.com/lmeninato/anybadger
 anyflights,https://github.com/simonpcouch/anyflights
 anytime,https://github.com/eddelbuettel/anytime
+ao,https://github.com/loelschlaeger/ao
 aof,https://github.com/frareb/aof
 aoos,https://github.com/wahani/aoos
 aopdata,https://github.com/ipeagit/aopdata
@@ -735,7 +736,6 @@ calcUnique,https://github.com/stephenbfroehlich/calcunique
 calibrar,https://github.com/roliveros-ramos/calibrar
 CalibrateSSB,https://github.com/statisticsnorway/calibratessb
 calibrator,https://github.com/robinhankin/calibrator
-caliver,https://github.com/ecmwf/caliver
 callr,https://github.com/r-lib/callr
 calmate,https://github.com/henrikbengtsson/calmate
 calpassapi,https://github.com/vinhdizzo/calpassapi
@@ -1200,7 +1200,6 @@ covequal,https://github.com/turgeonmaxime/covequal
 covfefe,https://github.com/mkirch/covfefe
 COVID19,https://github.com/covid19datahub/covid19
 covid19.analytics,https://github.com/mponce0/covid19.analytics
-covid19br,https://github.com/fndemarqui/covid19br
 covid19dbcand,https://github.com/interstellar-consultation-services/covid19dbcand
 covid19india,https://github.com/maxsal/covid19india
 covid19italy,https://github.com/ramikrispin/covid19italy
@@ -2462,7 +2461,6 @@ gapmap,https://github.com/evanbiederstedt/gapmap
 gapminder,https://github.com/jennybc/gapminder
 garchx,https://github.com/gsucarrat/garchx
 gargle,https://github.com/r-lib/gargle
-garma,https://github.com/rlph50/garma
 GAS,https://github.com/leopoldocatania/gas
 gaselect,https://github.com/dakep/gaselect
 gasfluxes,https://bitbucket.org/ecoroland/gasfluxes
@@ -2952,7 +2950,6 @@ haldensify,https://github.com/nhejazi/haldensify
 handlr,https://github.com/ropensci/handlr
 HandTill2001,https://gitlab.com/fvafrcu/handtill2001
 hansard,https://github.com/evanodell/hansard
-happybiRthday,https://github.com/bohdan-khomtchouk/happybirthday
 hardhat,https://github.com/tidymodels/hardhat
 HARModel,https://github.com/emilsjoerup/harmodel
 harrietr,https://github.com/andersgs/harrietr
@@ -3006,7 +3003,6 @@ hettreatreg,https://github.com/tslocz/hettreatreg
 hettx,https://github.com/bfifield/hettx
 hetu,https://github.com/ropengov/hetu
 heuristica,https://github.com/jeanimal/heuristica
-heuristicsmineR,https://github.com/bupaverse/heuristicsminer
 hexbin,https://github.com/edzer/hexbin
 hexSticker,https://github.com/guangchuangyu/hexsticker
 HGNChelper,https://github.com/waldronlab/hgnchelper
@@ -3505,7 +3501,6 @@ LAM,https://github.com/alexanderrobitzsch/lam
 Lambda4,https://github.com/jackstat/lambda4
 LambertW,https://github.com/gmgeorg/lambertw
 lamW,https://github.com/aadler/lamw
-landmap,https://github.com/envirometrix/landmap
 landscapemetrics,https://github.com/r-spatialecology/landscapemetrics
 landscapeR,https://github.com/dariomasante/landscaper
 landscapetools,https://github.com/ropensci/landscapetools
@@ -3763,7 +3758,6 @@ maditr,https://github.com/gdemin/maditr
 madness,https://github.com/shabbychef/madness
 madrat,https://github.com/pik-piam/madrat
 mads,https://github.com/distancedevelopment/mads
-MAFDash,https://github.com/ashishjain1988/mafdash
 magclass,https://github.com/pik-piam/magclass
 magic,https://github.com/robinhankin/magic
 magicfor,https://github.com/hoxo-m/magicfor
@@ -4049,7 +4043,6 @@ migest,https://github.com/guyabel/migest
 migraph,https://github.com/snlab-ch/migraph
 migrate,https://github.com/mthomas-ketchbrook/migrate
 migration.indices,https://github.com/daroczig/migration.indices
-migrbc,https://github.com/statisticsnz/migrbc
 miic,https://github.com/miicteam/miic_r_package
 MIIVsem,https://github.com/zackfisher/miivsem
 mikropml,https://github.com/schlosslab/mikropml
@@ -4923,7 +4916,6 @@ PedCNV,https://github.com/rksyouyou/pedcnv
 pedigreemm,https://github.com/r-forge/pedigreemm
 pedigreeTools,https://github.com/rpedigree/pedigreetools
 pedmut,https://github.com/magnusdv/pedmut
-pedometrics,https://github.com/laboratorio-de-pedometria/pedometrics-package
 pedprobr,https://github.com/magnusdv/pedprobr
 pedquant,https://github.com/shichenxie/pedquant
 pedSimulate,https://github.com/nilforooshan/pedsimulate
@@ -5090,7 +5082,6 @@ plogr,https://github.com/krlmlr/plogr
 plot3logit,https://github.com/f-santi/plot3logit
 plotdap,https://github.com/rmendels/plotdap
 plothelper,https://github.com/githubwwwjjj/plothelper
-plotKML,https://github.com/envirometrix/plotkml
 plotluck,https://github.com/stefan-schroedl/plotluck
 plotly,https://github.com/plotly/plotly.r
 plotlyGeoAssets,https://github.com/cpsievert/plotlygeoassets
@@ -5112,12 +5103,10 @@ plumbertableau,https://github.com/rstudio/plumbertableau
 plumbr,https://github.com/ggobi/plumbr
 pluralize,https://gitlab.com/hrbrmstr/pluralize
 plyr,https://github.com/hadley/plyr
-pm4py,https://github.com/bupaverse/pm4py
 PMA,https://github.com/bnaras/pma
 pmc,https://github.com/cboettig/pmc
 pmclust,https://github.com/snoweye/pmclust
 pmd,https://github.com/yufree/pmd
-pmdplyr,https://github.com/nickch-k/pmdplyr
 pmetar,https://github.com/prcwiek/pmetar
 pmhtutorial,https://github.com/compops/pmh-tutorial-rpkg
 pmlbr,https://github.com/epistasislab/pmlbr
@@ -5256,7 +5245,6 @@ primes,https://github.com/ironholds/primes
 PRIMME,https://github.com/primme/primme
 princurve,https://github.com/rcannood/princurve
 printr,https://github.com/yihui/printr
-prioritizr,https://github.com/prioritizr/prioritizr
 prioritizrdata,https://github.com/prioritizr/prioritizrdata
 prism,https://github.com/ropensci/prism
 PRISM.forecast,https://github.com/ryanddyi/prism
@@ -5270,7 +5258,6 @@ ProbReco,https://github.com/anastasiospanagiotelis/probreco
 pROC,https://github.com/xrobin/proc
 ProcData,https://github.com/xytangtang/procdata
 proceduralnames,https://github.com/mikemahoney218/proceduralnames
-processanimateR,https://github.com/bupaverse/processanimater
 processcheckR,https://github.com/bupaverse/processcheckr
 processmapR,https://github.com/bupaverse/processmapr
 processR,https://github.com/cardiomoon/processr
@@ -5406,7 +5393,6 @@ qicharts2,https://github.com/anhoej/qicharts2
 qif,https://github.com/umich-biostatistics/qif
 qiitr,https://github.com/yutannihilation/qiitr
 qmethod,https://github.com/aiorazabala/qmethod
-qoma.smuggler,https://github.com/qomaio/r-smuggler
 qpdf,https://github.com/ropensci/qpdf
 qpmadr,https://github.com/anderic1/qpmadr
 qqman,https://github.com/stephenturner/qqman
@@ -6542,7 +6528,6 @@ sdcSpatial,https://github.com/edwindj/sdcspatial
 sdcTable,https://github.com/sdctools/usersupport
 SDEFSR,https://github.com/simidat/sdefsr
 sdetorus,https://github.com/egarpor/sdetorus
-SDLfilter,https://github.com/takahiroshimada/sdlfilter
 sdmApp,https://github.com/abson-dev/sdmapp
 sdmpredictors,https://github.com/lifewatch/sdmpredictors
 SDMtune,https://github.com/consbiol-unibern/sdmtune
@@ -6729,7 +6714,6 @@ shinytoastr,https://github.com/mangothecat/shinytoastr
 shinyTree,https://github.com/shinytree/shinytree
 shinyvalidate,https://github.com/rstudio/shinyvalidate
 shinyWidgets,https://github.com/dreamrs/shinywidgets
-shinyypr,https://github.com/poissonconsulting/shinyypr
 shopifyr,https://github.com/charliebone/shopifyr
 shortcuts,https://github.com/jcval94/shortcuts
 ShortForm,https://github.com/anthonyraborn/shortform
@@ -7062,7 +7046,6 @@ springer,https://github.com/feizhoustat/springer
 sprintr,https://github.com/hugogogo/sprintr
 sprtt,https://github.com/meikesteinhilber/sprtt
 sps,https://github.com/marberts/sps
-spsann,https://github.com/laboratorio-de-pedometria/spsann-package
 spsComps,https://github.com/lz100/spscomps
 SPSP,https://github.com/xiaoruizhu/spsp
 spsur,https://github.com/rominsal/spsur
@@ -7229,7 +7212,6 @@ sunburstR,https://github.com/timelyportfolio/sunburstr
 suncalc,https://github.com/datastorm-open/suncalc
 sundialr,https://github.com/sn248/sundialr
 SUNGEO,https://github.com/zhukovyuri/sungeo
-supc,https://github.com/wush978/supc
 supclust,https://github.com/mmaechler/supclust
 superb,https://github.com/dcousin3/superb
 SuperExactTest,https://github.com/mw201608/superexacttest
@@ -7291,7 +7273,6 @@ swfscDAS,https://github.com/smwoodman/swfscdas
 swfscMisc,https://github.com/ericarcher/swfscmisc
 SWIM,https://github.com/spesenti/swim
 swissdd,https://github.com/politanch/swissdd
-swissparl,https://github.com/zumbov2/swissparl
 switchcase,https://github.com/jsugarelli/switchcase
 switchr,https://github.com/gmbecker/switchr
 swmmr,https://github.com/dleutnant/swmmr
@@ -7624,7 +7605,6 @@ tractor.base,https://github.com/tractor/tractor
 trade,https://github.com/luciu5/trade
 tradepolicy,https://github.com/pachadotdev/tradepolicy
 TRADER,https://github.com/pavel-fibich/trader
-TrafficBDE,https://github.com/okgreece/trafficbde
 trainR,https://github.com/villegar/trainr
 traipse,https://github.com/trackage/traipse
 traitdataform,https://github.com/ecologicaltraitdata/traitdataform
@@ -7782,7 +7762,6 @@ udunits2,https://github.com/pacificclimate/rudunits2
 ufs,https://gitlab.com/r-packages/ufs
 uiucthemes,https://github.com/illinois-r/uiucthemes
 uk2us,https://github.com/bldavies/uk2us
-UKB.COVID19,https://github.com/bahlolab/ukb.covid19
 ukbabynames,https://github.com/mine-cetinkaya-rundel/ukbabynames
 ukgasapi,https://github.com/timothywong731/ukgasapi
 UKgrid,https://github.com/ramikrispin/ukgrid
@@ -7912,7 +7891,6 @@ vegan,https://github.com/vegandevs/vegan
 vegan3d,https://github.com/vegandevs/vegan3d
 vegawidget,https://github.com/vegawidget/vegawidget
 vegperiod,https://github.com/rnuske/vegperiod
-vegtable,https://github.com/kamapu/vegtable
 vein,https://github.com/atmoschem/vein
 vembedr,https://github.com/ijlyttle/vembedr
 venn,https://github.com/dusadrian/venn
@@ -9059,10 +9037,10 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
+HPiP,https://github.com/mrbakhsh/hpip
 ENCODExplorer,https://github.com/charlesjb/encodexplorer
 destiny,https://github.com/theislab/destiny
 animalcules,https://github.com/compbiomed/animalcules
 ALPS,https://github.com/itsvenu/alps
 MouseFM,https://github.com/matmu/mousefm
 famat,https://github.com/emiliesecherre/famat
-HPiP,https://github.com/mrbakhsh/hpip
