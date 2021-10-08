@@ -1,5 +1,11 @@
 [
   {
+    "package": "gslnls",
+    "maintainer": "Joris Chau <joris.chau@openanalytics.eu>",
+    "url": "https://github.com/jorischau/gslnls",
+    "available": true
+  },
+  {
     "package": "pdSpecEst",
     "maintainer": "Joris Chau <joris.chau@openanalytics.eu>",
     "url": "https://github.com/jorischau/pdspecest",

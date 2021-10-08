@@ -108,7 +108,6 @@ alookr,https://github.com/choonghyunryu/alookr
 alpaca,https://github.com/amrei-stammann/alpaca
 alphabetr,https://github.com/edwardslee/alphabetr
 AlphaSimR,https://github.com/gaynorr/alphasimr
-AlphaVantageClient,https://github.com/athompson1991/alphavantageclient
 alphavantager,https://github.com/business-science/alphavantager
 altadata,https://github.com/altabering/altadata-r
 altair,https://github.com/vegawidget/altair
@@ -498,7 +497,6 @@ BH,https://github.com/eddelbuettel/bh
 BI,https://github.com/marcschwartz/bi
 BiasCorrector,https://github.com/kapsner/biascorrector
 bib2df,https://github.com/ropensci/bib2df
-biblio,https://github.com/kamapu/biblio
 bibliometrix,https://github.com/massimoaria/bibliometrix
 biblionetwork,https://github.com/agoutsmedt/biblionetwork
 bibtex,https://github.com/ropensci/bibtex
@@ -1386,7 +1384,6 @@ datamods,https://github.com/dreamrs/datamods
 dataonderivatives,https://github.com/imanuelcostigan/dataonderivatives
 dataone,https://github.com/dataoneorg/rdataone
 datapack,https://github.com/ropensci/datapack
-datapackage.r,https://github.com/frictionlessdata/datapackage-r
 DataPackageR,https://github.com/ropensci/datapackager
 datapasta,https://github.com/milesmcbain/datapasta
 dataPreparation,https://github.com/eltoulemonde/datapreparation
@@ -2762,7 +2759,6 @@ gkgraphR,https://github.com/racorreia/gkgraphr
 glassdoor,https://github.com/muschellij2/glassdoor
 glca,https://github.com/kim0sun/glca
 glcm,https://github.com/azvoleff/glcm
-glinvci,https://github.com/hckiang/glinvci
 gllvm,https://github.com/jenniniku/gllvm
 glm.deploy,https://github.com/oscarcastrolopez/glm.deploy
 glmbb,https://github.com/cjgeyer/glmbb
@@ -2904,6 +2900,7 @@ gsheet,https://github.com/maxconway/gsheet
 gsignal,https://github.com/gjmvanboxtel/gsignal
 gsisdecoder,https://github.com/nflverse/gsisdecoder
 gsl,https://github.com/robinhankin/gsl
+gslnls,https://github.com/jorischau/gslnls
 GSODR,https://github.com/ropensci/gsodr
 gstat,https://github.com/r-spatial/gstat
 gsubfn,https://github.com/ggrothendieck/gsubfn
@@ -3036,7 +3033,6 @@ hlidacr,https://github.com/skvrnami/hlidacr
 HLMdiag,https://github.com/aloy/hlmdiag
 HMDHFDplus,https://github.com/timriffe/tr1
 hmi,https://github.com/matthiasspeidel/hmi
-Hmisc,https://github.com/harrelfe/hmisc
 hms,https://github.com/tidyverse/hms
 Hmsc,https://github.com/hmsc-r/hmsc
 hoardr,https://github.com/ropensci/hoardr
@@ -4066,6 +4062,7 @@ mirt,https://github.com/philchalmers/mirt
 mirtCAT,https://github.com/philchalmers/mirtcat
 mirtjml,https://github.com/slzhang-fd/mirtjml
 misaem,https://github.com/julierennes/misaem
+misc3d,https://gitlab.com/luke-tierney/misc3d
 miscset,https://github.com/setempler/miscset
 missCompare,https://github.com/tirgit/misscompare
 missDiag,https://github.com/sumtxt/missdiag
@@ -4677,6 +4674,7 @@ optigrab,https://github.com/decisionpatterns/optigrab
 optimall,https://github.com/yangjasp/optimall
 OptimalRerandExpDesigns,https://github.com/kapelner/optimalrerandexpdesigns
 optimCheck,https://github.com/mlysy/optimcheck
+optimg,https://github.com/vthorrf/optimg
 optimParallel,https://github.com/florafauna/optimparallel-r
 optimus,https://github.com/mitchest/optimus
 optiRum,https://github.com/lockedata/optirum
@@ -5500,6 +5498,7 @@ rabhit,https://bitbucket.org/yaarilab/rabhit
 RABR,https://github.com/tian-yu-zhan/rabr
 raceland,https://github.com/nowosad/raceland
 racir,https://github.com/jstinzi/racir
+radarBoxplot,https://github.com/caiohamamura/radarboxplot-r
 radarchart,https://github.com/mangothecat/radarchart
 RadData,https://github.com/markhogue/raddata
 RadialVisGadgets,https://github.com/jmatute/radialshinygadgets
@@ -6863,6 +6862,7 @@ smog,https://github.com/chongma8903/smog
 smoof,https://github.com/jakobbossek/smoof
 smooth,https://github.com/config-i1/smooth
 smoothAPC,https://bitbucket.org/alexanderdokumentov/smoothapcpackage
+smoothHR,https://github.com/arturstat/smoothhr
 smoothr,https://github.com/mstrimas/smoothr
 smovie,https://github.com/paulnorthrop/smovie
 smpic,https://github.com/mikkelkrogsholm/smpic
@@ -7096,6 +7096,7 @@ StAMPP,https://github.com/lpembleton/stampp
 standardize,https://github.com/cdeager/standardize
 standartox,https://github.com/andschar/standartox
 stanette,https://github.com/stan-dev/rstan
+StanMoMo,https://github.com/kabarigou/stanmomo
 stapler,https://github.com/muschellij2/stapler
 staplr,https://github.com/pridiltal/staplr
 staRdom,https://github.com/matthiaspucher/stardom
@@ -7940,7 +7941,6 @@ vlad,https://github.com/wittenberg/vlad
 vlda,https://github.com/pnuwon/vlda
 VLTimeCausality,https://github.com/darkeyes/vltimeseriescausality
 vmr,https://gitlab.com/rstuff/vmr
-vmsbase,https://github.com/d-lorenz/r-vmsbase
 volcano3D,https://github.com/katrionagoldmann/volcano3d
 volesti,https://github.com/geomscale/volume_approximation
 volleystat,https://github.com/bozhinvi/volleystat
