@@ -187,6 +187,13 @@
     "available": true
   },
   {
+    "package": "cotram",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://github.com/r-forge/ctm",
+    "subdir": "pkg/cotram",
+    "available": true
+  },
+  {
     "package": "CrossValidate",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
