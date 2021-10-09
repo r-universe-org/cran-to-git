@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "tidybulk",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/tidybulk",
+    "available": true
+  },
+  {
     "package": "tidySingleCellExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysinglecellexperiment",
