@@ -12,6 +12,18 @@
     "available": true
   },
   {
+    "package": "heuristicsmineR",
+    "maintainer": "Felix Mannhardt <f.mannhardt@tue.nl>",
+    "url": "https://github.com/bupaverse/heuristicsminer",
+    "available": true
+  },
+  {
+    "package": "processanimateR",
+    "maintainer": "Felix Mannhardt <f.mannhardt@tue.nl>",
+    "url": "https://github.com/bupaverse/processanimater",
+    "available": true
+  },
+  {
     "package": "processcheckR",
     "maintainer": "Gert Janssenswillen <gert.janssenswillen@uhasselt.be>",
     "url": "https://github.com/bupaverse/processcheckr",
