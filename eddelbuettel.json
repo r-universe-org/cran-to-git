@@ -180,6 +180,12 @@
     "available": true
   },
   {
+    "package": "RcppQuantuccia",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppquantuccia",
+    "available": true
+  },
+  {
     "package": "RcppRedis",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppredis",

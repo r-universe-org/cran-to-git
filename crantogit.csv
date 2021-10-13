@@ -2942,6 +2942,7 @@ gWidgets2,https://github.com/jverzani/gwidgets2
 gWidgets2RGtk2,https://github.com/jverzani/gwidgets2rgtk2
 gWidgets2tcltk,https://github.com/jverzani/gwidgets2tcltk
 gwpcormapper,https://github.com/gwpcor/gwpcormapper
+GWPR.light,https://github.com/michaelchaoli-cpu/gwpr.light
 gwsem,https://github.com/jpritikin/gwsem
 gym,https://github.com/paulhendricks/gym-r
 h2o,https://github.com/h2oai/h2o-3
@@ -3957,6 +3958,7 @@ metabolighteR,https://github.com/aberhrml/metabolighter
 metacoder,https://github.com/grunwaldlab/metacoder
 metacom,https://github.com/taddallas/metacom
 MetaComp,https://github.com/seninp-bioinfo/metacomp
+metaconfoundr,https://github.com/malcolmbarrett/metaconfoundr
 metadat,https://github.com/wviechtb/metadat
 metaDigitise,https://github.com/daniel1noble/metadigitise
 metafolio,https://github.com/seananderson/metafolio
@@ -4238,7 +4240,7 @@ mosaic.find,https://github.com/delosh653/mosaic
 mosaicCalc,https://github.com/projectmosaic/mosaiccalc
 mosaicCore,https://github.com/projectmosaic/mosaiccore
 mosaicData,https://github.com/projectmosaic/mosaicdata
-mosmafs,https://github.com/compstat-lmu/mosmafs
+mosmafs,https://github.com/slds-lmu/mosmafs
 MOSS,https://github.com/agugonrey/moss
 motif,https://github.com/nowosad/motif
 motifcluster,https://github.com/wgunderwood/motifcluster
@@ -5385,6 +5387,7 @@ pxR,https://github.com/cjgb/pxr
 pxweb,https://github.com/ropengov/pxweb
 PxWebApiData,https://github.com/statisticsnorway/pxwebapidata
 pyinit,https://github.com/dakep/pyinit
+pylintR,https://github.com/stla/pylintr
 pzfx,https://github.com/yue-jiang/pzfx
 QAIG,https://github.com/shubh-b/qaig
 qap,https://github.com/mhahsler/qap
@@ -5709,6 +5712,7 @@ RcppMsgPack,https://github.com/eddelbuettel/rcppmsgpack
 RcppNumerical,https://github.com/yixuan/rcppnumerical
 RcppParallel,https://github.com/rcppcore/rcppparallel
 RcppProgress,https://github.com/kforner/rcpp_progress
+RcppQuantuccia,https://github.com/eddelbuettel/rcppquantuccia
 RcppRedis,https://github.com/eddelbuettel/rcppredis
 RcppSimdJson,https://github.com/eddelbuettel/rcppsimdjson
 RcppSMC,https://github.com/rcppsmc/rcppsmc
@@ -5858,7 +5862,7 @@ repello,https://github.com/thomasgstewart/repello
 repfdr,https://github.com/barakbri/repfdr
 REPLesentR,https://github.com/wahani/replesentr
 replicateBE,https://github.com/helmut01/replicatebe
-ReplicationSuccess,https://github.com/florafauna/replicationsuccess
+ReplicationSuccess,https://github.com/samch93/replicationsuccess
 repmis,https://github.com/christophergandrud/repmis
 RepoGenerator,https://github.com/jaredlander/repogenerator
 report,https://github.com/easystats/report
@@ -7421,6 +7425,7 @@ texreg,https://github.com/leifeld/texreg
 text,https://github.com/oscarkjell/text
 text.alignment,https://github.com/digi-vub/text.alignment
 text2map,https://gitlab.com/culturalcartography/text2map
+text2sdg,https://github.com/dwulff/text2sdg
 text2speech,https://github.com/jhudsl/text2speech
 text2vec,https://github.com/dselivanov/text2vec
 textclean,https://github.com/trinker/textclean
@@ -8107,7 +8112,6 @@ WVPlots,https://github.com/winvector/wvplots
 wwntests,https://github.com/dpetoukhov/wwntests
 x.ent,https://github.com/win-stub/x.ent
 x12,https://github.com/statistikat/x12
-x12GUI,https://github.com/statistikat/x12gui
 x13binary,https://github.com/x13org/x13binary
 xaringan,https://github.com/yihui/xaringan
 xaringanthemer,https://github.com/gadenbuie/xaringanthemer
@@ -8582,6 +8586,7 @@ Informeasure,https://github.com/chupan1218/informeasure
 InteractiveComplexHeatmap,https://github.com/jokergoo/interactivecomplexheatmap
 InterCellar,https://github.com/martaint/intercellar
 InterMineR,https://github.com/intermine/interminer
+IntramiRExploreR,https://github.com/vilainlab/intramirexplorer
 iPath,https://github.com/suke18/ipath
 ipdDb,https://github.com/dkms-lsl/ipddb
 IPO,https://github.com/rietho/ipo
@@ -9065,4 +9070,3 @@ animalcules,https://github.com/compbiomed/animalcules
 ALPS,https://github.com/itsvenu/alps
 MouseFM,https://github.com/matmu/mousefm
 famat,https://github.com/emiliesecherre/famat
-IntramiRExploreR,https://github.com/vilainlab/intramirexplorer
