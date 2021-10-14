@@ -1901,7 +1901,6 @@ eList,https://github.com/cmann3/elist
 ellipsis,https://github.com/r-lib/ellipsis
 elliptic,https://github.com/robinhankin/elliptic
 elmNNRcpp,https://github.com/mlampros/elmnnrcpp
-elo,https://github.com/eheinzen/elo
 EloChoice,https://github.com/gobbios/elochoice
 EloOptimized,https://github.com/jtfeld/elooptimized
 EloRating,https://github.com/gobbios/elorating
@@ -2569,6 +2568,7 @@ geos,https://github.com/paleolimbot/geos
 geoSAE,https://github.com/ketutdika/geosae
 geosapi,https://github.com/eblondel/geosapi
 geospark,https://github.com/harryprince/geospark
+geosphere,https://github.com/rspatial/geosphere
 geostats,https://github.com/pvermees/geostats
 geotopbricks,https://github.com/ecor/geotopbricks
 geouy,https://github.com/richdeto/geouy
@@ -3406,7 +3406,6 @@ jsonlite,https://github.com/jeroen/jsonlite
 jsonstat,https://github.com/zedoul/jsonstat
 jsonStrings,https://github.com/stla/jsonstrings
 jsonvalidate,https://github.com/ropensci/jsonvalidate
-jsr223,https://github.com/floidgilbert/jsr223
 jstable,https://github.com/jinseob2kim/jstable
 jsTree,https://github.com/yonicd/jstree
 jsTreeR,https://github.com/stla/jstreer
@@ -5169,7 +5168,6 @@ PooledCohort,https://github.com/bcjaeger/pooledcohort
 PoolTestR,https://github.com/angusmclure/pooltestr
 poorman,https://github.com/nathaneastwood/poorman
 PopED,https://github.com/andrewhooker/poped
-popEpi,https://github.com/wetrobot/popepi
 PopGenReport,https://github.com/green-striped-gecko/popgenreport
 popkin,https://github.com/storeylab/popkin
 poppr,https://github.com/grunwaldlab/poppr
@@ -5237,6 +5235,7 @@ prenoms,https://github.com/desautm/prenoms
 prepdat,https://github.com/ayalaallon/prepdat
 PreProcess,https://github.com/r-forge/oompa
 prereg,https://github.com/crsh/prereg
+preregr,https://gitlab.com/r-packages/preregr
 presenter,https://github.com/harrison4192/presenter
 presentes,https://github.com/diegokoz/presentes
 presize,https://github.com/ctu-bern/presize
@@ -6465,6 +6464,7 @@ sankey,https://github.com/gaborcsardi/sankey
 sankeywheel,https://github.com/czxa/sankeywheel
 santoku,https://github.com/hughjonesd/santoku
 sanzo,https://github.com/jmaasch/sanzo
+saotd,https://github.com/evan-l-munson/saotd
 sapfluxnetr,https://github.com/sapfluxnet/sapfluxnetr
 saqgetr,https://github.com/skgrange/saqgetr
 SAR,https://github.com/hongooi73/sar
@@ -7269,7 +7269,6 @@ survMS,https://github.com/mathildesautreuil/survms
 survParamSim,https://github.com/yoshidk6/survparamsim
 survPen,https://github.com/fauvernierma/survpen
 survSens,https://github.com/rong0707/survsens
-survSNP,https://bitbucket.org/kowzar/survsnp
 survtmle,https://github.com/benkeser/survtmle
 survxai,https://github.com/mi2datalab/survxai
 susieR,https://github.com/stephenslab/susier
@@ -7913,6 +7912,7 @@ vegan,https://github.com/vegandevs/vegan
 vegan3d,https://github.com/vegandevs/vegan3d
 vegawidget,https://github.com/vegawidget/vegawidget
 vegperiod,https://github.com/rnuske/vegperiod
+vegtable,https://github.com/kamapu/vegtable
 vein,https://github.com/atmoschem/vein
 vembedr,https://github.com/ijlyttle/vembedr
 venn,https://github.com/dusadrian/venn
@@ -8232,6 +8232,7 @@ amplican,https://github.com/valenlab/amplican
 Anaquin,https://github.com/student-t/ranaquin
 ANCOMBC,https://github.com/frederickhuanglin/ancombc
 AneuFinder,https://github.com/ataudt/aneufinder
+animalcules,https://github.com/compbiomed/animalcules
 AnnotationDbi,https://github.com/bioconductor/annotationdbi
 AnnotationFilter,https://github.com/bioconductor/annotationfilter
 AnnotationForge,https://github.com/bioconductor/annotationforge
@@ -8283,6 +8284,8 @@ BiocSingular,https://github.com/ltla/biocsingular
 BiocStyle,https://github.com/bioconductor/biocstyle
 biocthis,https://github.com/lcolladotor/biocthis
 biocViews,https://github.com/bioconductor/biocviews
+biodb,https://github.com/pkrog/biodb
+biodbChebi,https://github.com/pkrog/biodbchebi
 biomformat,https://github.com/joey711/biomformat
 BioNERO,https://github.com/almeidasilvaf/bionero
 BioNetStat,https://github.com/jardimviniciusc/bionetstat
@@ -8658,6 +8661,8 @@ mgsa,https://github.com/sba1/mgsa-bioc
 mia,https://github.com/microbiome/mia
 microbiome,https://github.com/microbiome/microbiome
 microbiomeDASim,https://github.com/williazo/microbiomedasim
+microbiomeMarker,https://github.com/yiluheihei/microbiomemarker
+MicrobiomeProfiler,https://github.com/yulab-smu/microbiomeprofiler
 MicrobiotaProcess,https://github.com/yulab-smu/microbiotaprocess
 MIGSA,https://github.com/jcrodriguez1989/migsa
 miloR,https://github.com/marionilab/milor
@@ -8726,6 +8731,7 @@ NoRCE,https://github.com/guldenolgun/norce
 NormalyzerDE,https://github.com/computationalproteomics/normalyzerde
 normr,https://github.com/your-highness/normr
 nucleoSim,https://github.com/arnauddroitlab/nucleosim
+ODER,https://github.com/eolagbaju/oder
 OmaDB,https://github.com/dessimozlab/omadb
 OmicsLonDA,https://github.com/aametwally/omicslonda
 Omixer,https://github.com/molepi/omixer
@@ -8742,6 +8748,7 @@ OVESEG,https://github.com/lululuella/oveseg
 packFinder,https://github.com/jackgisby/packfinder
 padma,https://github.com/andreamrau/padma
 pageRank,https://github.com/hd2326/pagerank
+pairkat,https://github.com/ghoshlab/pairkat
 PanVizGenerator,https://github.com/thomasp85/panvizgenerator
 PAST,https://github.com/igbb/past
 PathoStat,https://github.com/mani2012/pathostat
@@ -9066,7 +9073,7 @@ zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
 ENCODExplorer,https://github.com/charlesjb/encodexplorer
 destiny,https://github.com/theislab/destiny
-animalcules,https://github.com/compbiomed/animalcules
 ALPS,https://github.com/itsvenu/alps
 MouseFM,https://github.com/matmu/mousefm
 famat,https://github.com/emiliesecherre/famat
+nullranges,https://github.com/nullranges/nullranges

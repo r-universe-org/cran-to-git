@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "geosphere",
+    "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
+    "url": "https://github.com/rspatial/geosphere",
+    "available": true
+  },
+  {
     "package": "raster",
     "maintainer": "Robert J. Hijmans <r.hijmans@gmail.com>",
     "url": "https://github.com/rspatial/raster",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "animalcules",
+    "maintainer": "Yue Zhao <yuezh@bu.edu>",
+    "url": "https://github.com/compbiomed/animalcules",
+    "available": true
+  },
+  {
     "package": "ASSIGN",
     "maintainer": "Ying Shen <yshen3@bu.edu>",
     "url": "https://github.com/compbiomed/assign",
@@ -15,12 +21,6 @@
     "package": "TBSignatureProfiler",
     "maintainer": "Aubrey Odom <aodom@bu.edu>",
     "url": "https://github.com/compbiomed/tbsignatureprofiler",
-    "available": true
-  },
-  {
-    "package": "animalcules",
-    "maintainer": "Yue Zhao <yuezh@bu.edu>",
-    "url": "https://github.com/compbiomed/animalcules",
     "available": true
   }
 ]
