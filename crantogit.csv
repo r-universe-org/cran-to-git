@@ -3168,7 +3168,7 @@ ifultools,https://github.com/spkaluzny/ifultools
 igate,https://github.com/stefan-stein/igate
 igoR,https://github.com/dieghernan/igor
 IGP,https://github.com/collinerickson/igp
-igraph,https://github.com/igraph/igraph
+igraph,https://github.com/igraph/rigraph
 igraphdata,https://github.com/igraph/igraphdata
 iheatmapr,https://github.com/ropensci/iheatmapr
 iheiddown,https://github.com/jhollway/iheiddown
@@ -4741,6 +4741,7 @@ overviewR,https://github.com/cosimameyer/overviewr
 owd,https://github.com/feakster/owd
 owdbr,https://github.com/kimjoaoun/owdbr
 OwenQ,https://github.com/stla/owenq
+owidR,https://github.com/piersyork/owidr
 owmr,https://github.com/crazycapivara/owmr
 ows4R,https://github.com/eblondel/ows4r
 oxcgrt,https://github.com/como-ph/oxcgrt
@@ -4788,11 +4789,13 @@ paleomorph,https://github.com/timcdlucas/paleomorph
 paleopop,https://github.com/globalecologylab/paleopop
 paleotree,https://github.com/dwbapst/paleotree
 paletteer,https://github.com/emilhvitfeldt/paletteer
+paletteknife,https://github.com/johnxhobbs/paletteknife
 palettesForR,https://github.com/frareb/palettesforr
 palettetown,https://github.com/timcdlucas/palettetown
 palinsol,https://bitbucket.org/mcrucifix/insol
 palm,https://github.com/b-steve/palm
 palmerpenguins,https://github.com/allisonhorst/palmerpenguins
+palmid,https://github.com/ababaian/palmid
 palr,https://github.com/australianantarcticdivision/palr
 pals,https://github.com/kwstat/pals
 pamm,https://github.com/juliengamartin/pamm_r
@@ -4818,6 +4821,7 @@ ParamHelpers,https://github.com/mlr-org/paramhelpers
 paramlink2,https://github.com/magnusdv/paramlink2
 params,https://github.com/sahilseth/params
 ParBayesianOptimization,https://github.com/anothersamwilson/parbayesianoptimization
+parcats,https://github.com/erblast/parcats
 parcoords,https://github.com/timelyportfolio/parcoords
 Pareto,https://github.com/ulrichriegel/pareto
 parglm,https://github.com/boennecd/parglm
@@ -4984,6 +4988,7 @@ PH1XBAR,https://github.com/bolus123/ph1xbar
 ph2rand,https://github.com/mjg211/ph2rand
 phangorn,https://github.com/klausvigo/phangorn
 pharmaRTF,https://github.com/atorus-research/pharmartf
+pharmr,https://github.com/pharmpy/pharmr
 phaseR,https://github.com/mjg211/phaser
 PheCAP,https://github.com/celehs/phecap
 PHEindicatormethods,https://github.com/publichealthengland/pheindicatormethods
@@ -5187,6 +5192,7 @@ PostcodesioR,https://github.com/ropensci/postcodesior
 posterdown,https://github.com/brentthorne/posterdown
 posterior,https://github.com/stan-dev/posterior
 PosteriorBootstrap,https://github.com/alan-turing-institute/posteriorbootstrap
+postGGIR,https://github.com/dora201888/postggir
 postGIStools,https://github.com/sesync-ci/postgistools
 postlogic,https://github.com/rdoctaskforce/postlogic
 postpack,https://github.com/bstaton1/postpack
@@ -6852,6 +6858,7 @@ sknifedatar,https://github.com/rafzamb/sknifedatar
 skpr,https://github.com/tylermorganwall/skpr
 skynet,https://github.com/ropensci/skynet
 slackr,https://github.com/mrkaye97/slackr
+slasso,https://github.com/unina-sfere/slasso
 sleepr,https://github.com/rethomics/sleepr
 sleepwalk,https://github.com/anders-biostat/sleepwalk
 SLEMI,https://github.com/tjetka/slemi
@@ -7810,6 +7817,7 @@ unine,https://github.com/pommedeterresautee/unine
 UniprotR,https://github.com/proteomicslab57357/uniprotr
 uniqtag,https://github.com/sjackman/uniqtag
 unisensR,https://github.com/unisens/unisensr
+uniset,https://github.com/bpollner/uniset
 UnitCircle,https://github.com/berrij/unitcircle
 unitizer,https://github.com/brodieg/unitizer
 units,https://github.com/r-quantities/units
@@ -8291,6 +8299,7 @@ biocthis,https://github.com/lcolladotor/biocthis
 biocViews,https://github.com/bioconductor/biocviews
 biodb,https://github.com/pkrog/biodb
 biodbChebi,https://github.com/pkrog/biodbchebi
+biodbUniprot,https://github.com/pkrog/biodbuniprot
 biomformat,https://github.com/joey711/biomformat
 BioNERO,https://github.com/almeidasilvaf/bionero
 BioNetStat,https://github.com/jardimviniciusc/bionetstat
@@ -8350,6 +8359,7 @@ CIMICE,https://github.com/redsnic/cimice
 circRNAprofiler,https://github.com/aufiero/circrnaprofiler
 CiteFuse,https://github.com/sydneybiox/citefuse
 cleaver,https://github.com/sgibb/cleaver
+cliProfiler,https://github.com/codezy99/cliprofiler
 cliqueMS,https://github.com/osenan/cliquems
 CluMSID,https://github.com/tdepke/clumsid
 clusterExperiment,https://github.com/epurdom/clusterexperiment
@@ -8699,6 +8709,7 @@ mpra,https://github.com/hansenlab/mpra
 MPRAnalyze,https://github.com/yoseflab/mpranalyze
 MsBackendMassbank,https://github.com/rformassspectrometry/msbackendmassbank
 MsBackendMgf,https://github.com/rformassspectrometry/msbackendmgf
+MsBackendRawFileReader,https://github.com/fgcz/msbackendrawfilereader
 MsCoreUtils,https://github.com/rformassspectrometry/mscoreutils
 MsFeatures,https://github.com/rformassspectrometry/msfeatures
 msImpute,https://github.com/davislaboratory/msimpute
@@ -8736,6 +8747,7 @@ NoRCE,https://github.com/guldenolgun/norce
 NormalyzerDE,https://github.com/computationalproteomics/normalyzerde
 normr,https://github.com/your-highness/normr
 nucleoSim,https://github.com/arnauddroitlab/nucleosim
+nullranges,https://github.com/nullranges/nullranges
 ODER,https://github.com/eolagbaju/oder
 OmaDB,https://github.com/dessimozlab/omadb
 OmicsLonDA,https://github.com/aametwally/omicslonda
@@ -9081,4 +9093,3 @@ destiny,https://github.com/theislab/destiny
 ALPS,https://github.com/itsvenu/alps
 MouseFM,https://github.com/matmu/mousefm
 famat,https://github.com/emiliesecherre/famat
-nullranges,https://github.com/nullranges/nullranges
