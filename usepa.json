@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "spsurvey",
+    "maintainer": "Michael Dumelle <Dumelle.Michael@epa.gov>",
+    "url": "https://github.com/usepa/spsurvey",
+    "available": true
+  },
+  {
     "package": "tcpl",
     "maintainer": "Richard S Judson <Judson.Richard@epa.gov>",
     "url": "https://github.com/usepa/comptox-toxcast-tcpl",
