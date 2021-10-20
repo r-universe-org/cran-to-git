@@ -30,12 +30,6 @@
     "available": true
   },
   {
-    "package": "connections",
-    "maintainer": "Javier Luraschi <javier@rstudio.com>",
-    "url": "https://github.com/rstudio/connections",
-    "available": true
-  },
-  {
     "package": "connectwidgets",
     "maintainer": "Brian Smith <brian@rstudio.com>",
     "url": "https://github.com/rstudio/connectwidgets",
