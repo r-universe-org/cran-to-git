@@ -1981,7 +1981,6 @@ eplusr,https://github.com/hongyuanjia/eplusr
 eply,https://github.com/wlandau/eply
 epocakir,https://github.com/alwinw/epocakir
 eponge,https://github.com/krzjoa/eponge
-EPP,https://github.com/richdeto/epp
 epsiwal,https://github.com/shabbychef/epsiwal
 epubr,https://github.com/ropensci/epubr
 epwshiftr,https://github.com/ideas-lab-nus/epwshiftr
@@ -7151,7 +7150,6 @@ statnet.common,https://github.com/statnet/statnet.common
 statnipokladna,https://github.com/petrbouchal/statnipokladna
 statpsych,https://github.com/dgbonett/statpsych
 statquotes,https://github.com/friendly/statquotes
-stats19,https://github.com/ropensci/stats19
 statsearchanalyticsr,https://github.com/searchdiscovery/statsearchanalyticsr
 statsExpressions,https://github.com/indrajeetpatil/statsexpressions
 statsr,https://github.com/statswithr/statsr
@@ -8221,6 +8219,11 @@ lattice,https://github.com/deepayan/lattice
 Matrix,https://github.com/r-forge/matrix
 rpart,https://github.com/bethatkinson/rpart
 survival,https://github.com/therneau/survival
+codetools,https://gitlab.com/luke-tierney/codetools
+lattice,https://github.com/deepayan/lattice
+Matrix,https://github.com/r-forge/matrix
+rpart,https://github.com/bethatkinson/rpart
+survival,https://github.com/therneau/survival
 abseqR,https://github.com/malhamdoosh/abseqr
 ACE,https://github.com/tgac-vumc/ace
 ADaCGH2,https://github.com/rdiaz02/adacgh2
@@ -8270,6 +8273,7 @@ BayesSpace,https://github.com/edward130603/bayesspace
 bayNorm,https://github.com/wt215/baynorm
 bcSeq,https://github.com/jl354/bcseq
 BEclear,https://github.com/uds-helms/beclear
+benchdamic,https://github.com/mcalgaro93/benchdamic
 BgeeCall,https://github.com/bgeedb/bgeecall
 BgeeDB,https://github.com/bgeedb/bgeedb_r
 bigPint,https://github.com/lindsayrutter/bigpint
@@ -8293,6 +8297,7 @@ biocthis,https://github.com/lcolladotor/biocthis
 biocViews,https://github.com/bioconductor/biocviews
 biodb,https://github.com/pkrog/biodb
 biodbChebi,https://github.com/pkrog/biodbchebi
+biodbKegg,https://github.com/pkrog/biodbkegg
 biodbUniprot,https://github.com/pkrog/biodbuniprot
 biomformat,https://github.com/joey711/biomformat
 BioNERO,https://github.com/almeidasilvaf/bionero
@@ -8410,6 +8415,7 @@ debrowser,https://github.com/umms-biocore/debrowser
 deco,https://github.com/fjcamlab/deco
 decompTumor2Sig,https://github.com/rmpiro/decomptumor2sig
 decontam,https://github.com/benjjneb/decontam
+deconvR,https://github.com/bimsbbioinfo/deconvr
 decoupleR,https://github.com/saezlab/decoupler
 DEFormats,https://github.com/aoles/deformats
 DegNorm,https://github.com/jipingw/degnorm
@@ -8669,6 +8675,7 @@ methylumi,https://github.com/seandavi/methylumi
 MetID,https://github.com/ressomlab/metid
 mgsa,https://github.com/sba1/mgsa-bioc
 mia,https://github.com/microbiome/mia
+miaSim,https://github.com/microbiome/miasim
 microbiome,https://github.com/microbiome/microbiome
 microbiomeDASim,https://github.com/williazo/microbiomedasim
 microbiomeMarker,https://github.com/yiluheihei/microbiomemarker
@@ -8712,6 +8719,7 @@ MSnbase,https://github.com/lgatto/msnbase
 MSPrep,https://github.com/kechrislab/msprep
 msPurity,https://github.com/computational-metabolomics/mspurity
 msqrob2,https://github.com/statomics/msqrob2
+MSstatsLiP,https://github.com/vitek-lab/msstatslip
 MSstatsLOBD,https://github.com/vitek-lab/msstatslobd
 MSstatsPTM,https://github.com/vitek-lab/msstatsptm
 MSstatsTMTPTM,https://github.com/vitek-lab/msstatstmtptm
@@ -8912,6 +8920,7 @@ scAlign,https://github.com/quon-titative-biology/scalign
 scAnnotatR,https://github.com/grisslab/scannotatr
 SCArray,https://github.com/abbvie-computationalgenomics/scarray
 SCATE,https://github.com/winnie09/scate
+scatterHatch,https://github.com/fertiglab/scatterhatch
 scBFA,https://github.com/ucdavis/quon-titative-biology
 scCB2,https://github.com/zijianni/sccb2
 scClassify,https://github.com/sydneybiox/scclassify
@@ -9088,3 +9097,4 @@ ENCODExplorer,https://github.com/charlesjb/encodexplorer
 destiny,https://github.com/theislab/destiny
 ALPS,https://github.com/itsvenu/alps
 MouseFM,https://github.com/matmu/mousefm
+NxtIRFcore,https://github.com/alexchwong/nxtirfcore

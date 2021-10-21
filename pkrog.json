@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "biodbKegg",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbkegg",
+    "available": true
+  },
+  {
     "package": "biodbUniprot",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/pkrog/biodbuniprot",
