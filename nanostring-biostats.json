@@ -1,5 +1,11 @@
 [
   {
+    "package": "GeoDiff",
+    "maintainer": "Zhi Yang <zyang@nanostring.com>",
+    "url": "https://github.com/nanostring-biostats/geodiff",
+    "available": true
+  },
+  {
     "package": "SpatialDecon",
     "maintainer": "Patrick Danaher <pdanaher@nanostring.com>",
     "url": "https://github.com/nanostring-biostats/spatialdecon",

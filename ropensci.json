@@ -198,6 +198,12 @@
     "available": true
   },
   {
+    "package": "CoordinateCleaner",
+    "maintainer": "Alexander Zizka <zizka.alexander@gmail.com>",
+    "url": "https://github.com/ropensci/coordinatecleaner",
+    "available": true
+  },
+  {
     "package": "cRegulome",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/ropensci/cregulome",
@@ -759,6 +765,12 @@
     "package": "piggyback",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/piggyback",
+    "available": true
+  },
+  {
+    "package": "pixelclasser",
+    "maintainer": "Carlos Real <carlos.real@usc.es>",
+    "url": "https://github.com/ropensci/pixelclasser",
     "available": true
   },
   {
