@@ -246,7 +246,6 @@ AsioHeaders,https://github.com/eddelbuettel/asioheaders
 askpass,https://github.com/r-lib/askpass
 aslib,https://github.com/coseal/aslib-r
 aspect,https://github.com/r-forge/psychor
-aspline,https://github.com/goepp/aspline
 aSPU,https://github.com/ikwak2/aspu
 assemblerr,https://github.com/uupharmacometrics/assemblerr
 assert,https://github.com/olivierbinette/assert
@@ -643,6 +642,7 @@ bpnreg,https://github.com/joliencremers/bpnreg
 bRacatus,https://github.com/eduardoarle/bracatus
 bracer,https://github.com/trevorld/bracer
 BradleyTerry2,https://github.com/hturner/bradleyterry2
+BrailleR,https://github.com/ajrgodfrey/brailler
 brainGraph,https://github.com/cwatson/braingraph
 brandwatchR,https://github.com/phippsy/brandwatchr
 BrazilMet,https://github.com/filgueirasr/brazilmet
@@ -742,7 +742,6 @@ CamelUp,https://github.com/mczekanski1/camel-up
 campfin,https://github.com/irworkshop/campfin
 camsRad,https://github.com/ropensci/camsrad
 camtrapR,https://github.com/jniedballa/camtrapr
-cancensus,https://github.com/mountainmath/cancensus
 CancerGram,https://github.com/biogenies/cancergram
 candisc,https://github.com/friendly/candisc
 Canopy,https://github.com/yuchaojiang/canopy
@@ -1391,7 +1390,6 @@ DataPackageR,https://github.com/ropensci/datapackager
 datapasta,https://github.com/milesmcbain/datapasta
 dataPreparation,https://github.com/eltoulemonde/datapreparation
 dataquieR,https://gitlab.com/libreumg/dataquier
-dataReporter,https://github.com/ekstroem/datareporter
 dataRetrieval,https://github.com/usgs-r/dataretrieval
 datarium,https://github.com/kassambara/datarium
 datasailr,https://github.com/niceume/datasailr
@@ -2463,6 +2461,7 @@ gapmap,https://github.com/evanbiederstedt/gapmap
 gapminder,https://github.com/jennybc/gapminder
 garchx,https://github.com/gsucarrat/garchx
 gargle,https://github.com/r-lib/gargle
+garma,https://github.com/rlph50/garma
 GAS,https://github.com/leopoldocatania/gas
 gaselect,https://github.com/dakep/gaselect
 gasfluxes,https://bitbucket.org/ecoroland/gasfluxes
@@ -2634,6 +2633,7 @@ ggedit,https://github.com/yonicd/ggedit
 ggeffects,https://github.com/strengejacke/ggeffects
 ggetho,https://github.com/rethomics/ggetho
 ggExtra,https://github.com/daattali/ggextra
+ggfacto,https://github.com/bricenocenti/ggfacto
 ggfan,https://github.com/jasonhilton/ggfan
 ggfittext,https://github.com/wilkox/ggfittext
 ggfocus,https://github.com/freguglia/ggfocus
@@ -2645,7 +2645,6 @@ gggap,https://github.com/cmoralesmx/gggap
 gggenes,https://github.com/wilkox/gggenes
 ggghost,https://github.com/jonocarroll/ggghost
 gggibbous,https://github.com/mnbram/gggibbous
-ggguitar,https://github.com/ezgraphs/ggguitar
 ggh4x,https://github.com/teunbrand/ggh4x
 gghalfnorm,https://github.com/nathaneastwood/gghalfnorm
 gghalves,https://github.com/erocoar/gghalves
@@ -2975,7 +2974,6 @@ hdf5r,https://github.com/hhoeflin/hdf5r
 hdme,https://github.com/osorensen/hdme
 hdnom,https://github.com/nanxstats/hdnom
 HDPenReg,https://github.com/modal-inria/hdpenreg
-hdpGLM,https://github.com/diogoferrari/hdpglm
 hdrcde,https://github.com/robjhyndman/hdrcde
 hds,https://github.com/liangcj/hds
 HDShOP,https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio
@@ -3915,7 +3913,6 @@ mecor,https://github.com/lindanab/mecor
 medfate,https://github.com/emf-creaf/medfate
 medflex,https://github.com/jmpsteen/medflex
 Mediana,https://github.com/gpaux/mediana
-MedianaDesigner,https://github.com/medianasoft/medianadesigner
 medicaldata,https://github.com/higgi13425/medicaldata
 medicalrisk,https://github.com/patrickmdnet/medicalrisk
 medicare,https://github.com/robertgambrel/medicare
@@ -4423,7 +4420,6 @@ ncpen,https://github.com/zeemkr/ncpen
 NCutYX,https://github.com/seborinos/ncutyx
 ncvreg,https://github.com/pbreheny/ncvreg
 ndjson,https://gitlab.com/hrbrmstr/ndjson
-ndtv,https://github.com/statnet/ndtv
 neatmaps,https://github.com/philboileau/neatmaps
 neatRanges,https://github.com/arg0naut91/neatranges
 neatStats,https://github.com/gasparl/neatstats
@@ -4591,7 +4587,6 @@ obfuscatoR,https://github.com/edsandorf/obfuscator
 objectremover,https://github.com/alan-y/objectremover
 Observation,https://github.com/paulhibbing/observation
 observer,https://github.com/paulponcet/observer
-occCite,https://github.com/hannahlowens/occcite
 oce,https://github.com/dankelley/oce
 oceanis,https://github.com/insee-psar-at/oceanis-package
 oceanwaves,https://github.com/millerlp/oceanwaves
@@ -4907,7 +4902,6 @@ PCRedux,https://github.com/pcruniversum/pcredux
 PCSinR,https://github.com/felixhenninger/pcsinr
 pcsstools,https://github.com/jackmwolf/pcsstools
 pcSteiner,https://github.com/krashkov/pcsteiner
-pct,https://github.com/itsleeds/pct
 pcts,https://github.com/geobosh/pcts
 pdfetch,https://github.com/abielr/pdfetch
 pdfsearch,https://github.com/lebebr01/pdfsearch
@@ -4956,6 +4950,7 @@ performanceEstimation,https://github.com/ltorgo/performanceestimation
 pergola,https://github.com/grafab/pergola
 peRiodiCS,https://github.com/crtahlin/periodics
 periscope,https://github.com/cb4ds/periscope
+permuco,https://github.com/jaromilfrossard/permuco
 permutations,https://github.com/robinhankin/permutations
 permute,https://github.com/gavinsimpson/permute
 permutes,https://github.com/cvoeten/permutes
@@ -5643,7 +5638,7 @@ RBitmoji,https://github.com/bgreenwell/rbitmoji
 RblDataLicense,https://github.com/eguidotti/rbldatalicense
 Rblpapi,https://github.com/rblp/rblpapi
 rblt,https://github.com/sg4r/rblt
-RBMRB,https://github.com/uwbmrb/rbmrb
+RBMRB,https://github.com/bmrb-io/rbmrb
 RBNZ,https://github.com/rntq472/rbnz
 rbokeh,https://github.com/bokeh/rbokeh
 Rborist,https://github.com/suiji/arborist
@@ -6396,6 +6391,7 @@ ruta,https://github.com/fdavidcl/ruta
 rv,https://github.com/jsta/rv
 RVA,https://github.com/thermostats/rva
 Rvcg,https://github.com/zarquon42b/rvcg
+rvcheck,https://github.com/guangchuangyu/rvcheck
 RVerbalExpressions,https://github.com/verbalexpressions/rverbalexpressions
 rversions,https://github.com/r-hub/rversions
 rvertnet,https://github.com/ropensci/rvertnet
@@ -7105,6 +7101,7 @@ ssh.utils,https://github.com/collectivemedia/ssh.utils
 sship,https://github.com/rapporteket/sship
 SSM,https://github.com/peterrobertcurtis/ssm
 ssMousetrack,https://github.com/antcalcagni/ssmousetrack
+SSNbayes,https://github.com/edgarsantos-fernandez/ssnbayes
 SSP,https://github.com/edlinguerra/ssp
 ssr,https://github.com/enriquegit/ssr
 ssrn,https://github.com/uribo/ssrn
@@ -7184,7 +7181,6 @@ stokes,https://github.com/robinhankin/stokes
 stopwords,https://github.com/quanteda/stopwords
 storr,https://github.com/richfitz/storr
 storywranglr,https://github.com/chris31415926535/storywranglr
-stplanr,https://github.com/ropensci/stplanr
 stR,https://bitbucket.org/alexanderdokumentov/strpackage
 strand,https://github.com/strand-tech/strand
 strat,https://github.com/xiangzhou09/strat
