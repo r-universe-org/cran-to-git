@@ -6,6 +6,12 @@
     "available": false
   },
   {
+    "package": "sparseMVN",
+    "maintainer": "Michael Braun <braunm@smu.edu>",
+    "url": "https://github.com/braunm/sparsemvn",
+    "available": true
+  },
+  {
     "package": "trustOptim",
     "maintainer": "Michael Braun <braunm@smu.edu>",
     "url": "https://github.com/braunm/trustoptim",
