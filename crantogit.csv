@@ -596,6 +596,7 @@ blocklength,https://github.com/alec-stashevsky/blocklength
 blockRAR,https://github.com/thevaachandereng/blockrar
 blogdown,https://github.com/rstudio/blogdown
 blorr,https://github.com/rsquaredacademy/blorr
+blsR,https://github.com/groditi/blsr
 bltm,https://github.com/curso-r/bltm
 BMA,https://github.com/hanase/bma
 bmabasket,https://github.com/ethan-alt/bmabasket
@@ -799,6 +800,7 @@ causaleffect,https://github.com/santikka/causaleffect
 CausalGPS,https://github.com/fasrc/causalgps
 CausalMBSTS,https://github.com/fmenchetti/causalmbsts
 causaloptim,https://github.com/sachsmc/causaloptim
+causalPAF,https://github.com/mauriceoconnell/causalpaf
 cbar,https://github.com/zedoul/cbar
 CBDA,https://github.com/socr/cbda
 cbsodataR,https://github.com/edwindj/cbsodatar
@@ -2109,7 +2111,6 @@ ezEDA,https://github.com/kviswana/ezeda
 ezknitr,https://github.com/ropensci/ezknitr
 ezpickr,https://github.com/jooyoungseo/ezpickr
 ezr,https://github.com/jinkim3/ezr
-fabisearch,https://github.com/mondrus96/fabisearch
 fable,https://github.com/tidyverts/fable
 fable.prophet,https://github.com/mitchelloharawild/fable.prophet
 fabletools,https://github.com/tidyverts/fabletools
@@ -2496,6 +2497,7 @@ GDAtools,https://github.com/nicolas-robette/gdatools
 gde,https://github.com/smithsonian/gbif-dataset-explorer
 GDINA,https://github.com/wenchao-ma/gdina
 gdistance,https://github.com/agrdatasci/gdistance
+GDPuc,https://github.com/johanneskoch94/gdpuc
 gdtools,https://github.com/davidgohel/gdtools
 GE,https://github.com/liwur/cge
 geckor,https://github.com/next-game-solutions/geckor
@@ -3633,6 +3635,7 @@ lime,https://github.com/thomasp85/lime
 liminal,https://github.com/sa-lee/liminal
 LimnoPalettes,https://github.com/swampthingpaul/limnopalettes
 linbin,https://github.com/ezwelty/linbin
+linconGaussR,https://github.com/yunyishen/lincongaussr
 LindenmayeR,https://github.com/bryanhanson/lindenmayer
 lindia,https://github.com/yeukyul/lindia
 lineartestr,https://github.com/federicogarza/lineartestr
@@ -3810,6 +3813,7 @@ mapr,https://github.com/ropensci/mapr
 mapsapi,https://github.com/michaeldorman/mapsapi
 mapsf,https://github.com/riatelab/mapsf
 mapSpain,https://github.com/ropenspain/mapspain
+mapsPERU,https://github.com/musajajorge/mapsperu
 mapsRinteractive,https://github.com/soilmapper/mapsrinteractive
 maptiles,https://github.com/riatelab/maptiles
 maptools,https://github.com/r-forge/maptools
@@ -4899,6 +4903,7 @@ PCDimension,https://github.com/r-forge/oompa
 pcev,https://github.com/greenwoodlab/pcev
 pcFactorStan,https://github.com/jpritikin/pcfactorstan
 pcIRT,https://github.com/christinehohensinn/pcirt
+PCLassoReg,https://github.com/weiliu123/pclassoreg
 PCMBase,https://github.com/venelin/pcmbase
 PCMBaseCpp,https://github.com/venelin/pcmbasecpp
 pcoxtime,https://github.com/cygubicko/pcoxtime-pkg
@@ -5392,6 +5397,7 @@ pzfx,https://github.com/yue-jiang/pzfx
 QAIG,https://github.com/shubh-b/qaig
 qap,https://github.com/mhahsler/qap
 QBMS,https://github.com/icarda-git/qbms
+QCAcluster,https://github.com/ingorohlfing/qcacluster
 qcapower,https://github.com/ingorohlfing/qcapower
 qCBA,https://github.com/kliegr/qcba
 qcc,https://github.com/luca-scr/qcc
@@ -7291,7 +7297,7 @@ svGUI,https://github.com/sciviews/svgui
 svMisc,https://github.com/sciviews/svmisc
 svSocket,https://github.com/sciviews/svsocket
 svUnit,https://github.com/sciviews/svunit
-swag,https://github.com/smac-group/swag-r-package
+swag,https://github.com/smac-group/swag
 swagger,https://github.com/rstudio/swagger
 swatches,https://github.com/hrbrmstr/swatches
 sweep,https://github.com/business-science/sweep
@@ -7363,6 +7369,7 @@ tangram,https://github.com/spgarbet/tangram
 tangram.pipe,https://github.com/thomasgstewart/tangram.pipe
 tapnet,https://github.com/biometry/tapnet
 tarchetypes,https://github.com/ropensci/tarchetypes
+targeted,https://github.com/kkholst/targeted
 targets,https://github.com/ropensci/targets
 TargomoR,https://github.com/cwthom/targomor
 taskscheduleR,https://github.com/bnosac/taskscheduler
@@ -8891,6 +8898,7 @@ Risa,https://github.com/isa-tools/risa
 RIVER,https://github.com/ipw012/river
 RJMCMCNucleosomes,https://github.com/arnauddroitlab/rjmcmcnucleosomes
 RLassoCox,https://github.com/weiliu123/rlassocox
+RLSeq,https://github.com/bishop-laboratory/rlseq
 rmelting,https://github.com/aravind-j/rmelting
 rmspc,https://github.com/genometric/mspc
 RNAAgeCalc,https://github.com/reese3928/rnaagecalc
@@ -9108,8 +9116,3 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
-RLSeq,https://github.com/bishop-laboratory/rlseq
-ENCODExplorer,https://github.com/charlesjb/encodexplorer
-destiny,https://github.com/theislab/destiny
-ALPS,https://github.com/itsvenu/alps
-MouseFM,https://github.com/matmu/mousefm
