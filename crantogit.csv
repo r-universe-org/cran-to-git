@@ -847,6 +847,7 @@ ceser,https://github.com/diogoferrari/ceser
 cetcolor,https://github.com/coatless/cetcolor
 ceterisParibus,https://github.com/pbiecek/ceterisparibus
 CFAcoop,https://github.com/zytohmgu/cfacoop
+cfbfastR,https://github.com/saiemgilani/cfbfastr
 cfda,https://github.com/modal-inria/cfda
 cffdrs,https://github.com/r-forge/cffdrs
 cfid,https://github.com/santikka/cfid
@@ -1230,6 +1231,7 @@ cpp11,https://github.com/r-lib/cpp11
 cppRouting,https://github.com/vlarmet/cpprouting
 cpr,https://github.com/dewittpe/cpr
 cprr,https://github.com/anhoej/cprr
+cpsR,https://github.com/matt-saenz/cpsr
 cpsurvsim,https://github.com/camillejo/cpsurvsim
 cpsvote,https://github.com/reed-evic/cpsvote
 cptcity,https://github.com/ibarraespinosa/cptcity
@@ -2507,6 +2509,7 @@ geex,https://github.com/bsaul/geex
 geiger,https://github.com/mwpennell/geiger-v2
 gemma2,https://github.com/fboehm/gemma2
 gemtc,https://github.com/gertvv/gemtc
+gen3sis,https://github.com/project-gen3sis/r-package
 genalg,https://github.com/egonw/genalg
 GenAlgo,https://github.com/r-forge/oompa
 gender,https://github.com/lmullen/gender
@@ -2994,6 +2997,7 @@ healthyR.data,https://github.com/spsanderson/healthyr.data
 healthyR.ts,https://github.com/spsanderson/healthyr.ts
 heapsofpapers,https://github.com/rohanalexander/heapsofpapers
 heatmaply,https://github.com/talgalili/heatmaply
+heatwaveR,https://github.com/robwschlegel/heatwaver
 heddlr,https://github.com/mikemahoney218/heddlr
 hedgehog,https://github.com/hedgehogqa/r-hedgehog
 heemod,https://github.com/pierucci/heemod
@@ -3358,7 +3362,6 @@ jaod,https://github.com/ropensci/jaod
 JBrowseR,https://github.com/gmod/jbrowser
 jcolors,https://github.com/jaredhuling/jcolors
 jds.rmd,https://github.com/wenjie2wang/jds.rmd
-jdx,https://github.com/floidgilbert/jdx
 jeek,https://github.com/qdata/jeek
 jetpack,https://github.com/ankane/jetpack
 jfa,https://github.com/koenderks/jfa
@@ -6336,12 +6339,14 @@ rstoat,https://github.com/mapoflife/rstoat
 RStoolbox,https://github.com/bleutner/rstoolbox
 RstoxData,https://github.com/stoxproject/rstoxdata
 rstpm2,https://github.com/mclements/rstpm2
+rStrava,https://github.com/fawda123/rstrava
 rstudio.prefs,https://github.com/ddsjoberg/rstudio.prefs
 rstudioapi,https://github.com/rstudio/rstudioapi
 rsurfer,https://github.com/alexdiru/rsurfer
 RSurveillance,https://github.com/rostats/rsurveillance
 RSurvey,https://github.com/usgs-r/rsurvey
 rsvd,https://github.com/erichson/rsvd
+rsvddpd,https://github.com/subroy13/rsvddpd
 rsvg,https://github.com/jeroen/rsvg
 RSwissMaps,https://github.com/zumbov2/rswissmaps
 Rsymphony,https://github.com/r-forge/rsymphony
@@ -6462,6 +6467,7 @@ SAMGEP,https://github.com/celehs/samgep
 sampler,https://github.com/mbaldassaro/sampler
 samplesize,https://github.com/shearer/samplesize
 samplesizeCMH,https://github.com/spectrumhealthresearch/samplesizecmh
+sampleVADIR,https://github.com/tswanson222/samplevadir
 SamplingBigData,https://github.com/jlisic/samplingbigdata
 samplingbook,https://github.com/jmanitz/samplingbook
 SamplingStrata,https://github.com/barcaroli/samplingstrata
@@ -6898,6 +6904,7 @@ smoof,https://github.com/jakobbossek/smoof
 smooth,https://github.com/config-i1/smooth
 smoothAPC,https://bitbucket.org/alexanderdokumentov/smoothapcpackage
 smoothHR,https://github.com/arturstat/smoothhr
+smoothic,https://github.com/meadhbh-oneill/smoothic
 smoothr,https://github.com/mstrimas/smoothr
 smovie,https://github.com/paulnorthrop/smovie
 smpic,https://github.com/mikkelkrogsholm/smpic
@@ -8157,7 +8164,6 @@ xopen,https://github.com/r-lib/xopen
 xpectr,https://github.com/ludvigolsen/xpectr
 xplain,https://github.com/jsugarelli/xplain
 xplorerr,https://github.com/rsquaredacademy/xplorerr
-XPolaris,https://github.com/lhmrosso/xpolaris
 xpose,https://github.com/uupharmacometrics/xpose
 xpose4,https://github.com/uupharmacometrics/xpose4
 xray,https://github.com/sicarul/xray
@@ -9116,3 +9122,7 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
+ENCODExplorer,https://github.com/charlesjb/encodexplorer
+destiny,https://github.com/theislab/destiny
+ALPS,https://github.com/itsvenu/alps
+MouseFM,https://github.com/matmu/mousefm
