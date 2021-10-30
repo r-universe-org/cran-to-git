@@ -1,5 +1,11 @@
 [
   {
+    "package": "cancensus",
+    "maintainer": "Dmitry Shkolnik <shkolnikd@gmail.com>",
+    "url": "https://github.com/mountainmath/cancensus",
+    "available": true
+  },
+  {
     "package": "cansim",
     "maintainer": "Jens von Bergmann <jens@mountainmath.ca>",
     "url": "https://github.com/mountainmath/cansim",
