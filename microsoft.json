@@ -1,5 +1,11 @@
 [
   {
+    "package": "lightgbm",
+    "maintainer": "Yu Shi <yushi2@microsoft.com>",
+    "url": "https://github.com/microsoft/lightgbm",
+    "available": false
+  },
+  {
     "package": "wpa",
     "maintainer": "Martin Chan <martin.chan@microsoft.com>",
     "url": "https://github.com/microsoft/wpa",

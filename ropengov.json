@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "geofi",
+    "maintainer": "Markus Kainu <markus.kainu@kapsi.fi>",
+    "url": "https://github.com/ropengov/geofi",
+    "available": true
+  },
+  {
     "package": "giscoR",
     "maintainer": "Diego Hernangómez <diego.hernangomezherrero@gmail.com>",
     "url": "https://github.com/ropengov/giscor",
