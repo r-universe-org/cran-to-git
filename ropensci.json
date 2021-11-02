@@ -444,12 +444,6 @@
     "available": true
   },
   {
-    "package": "hddtools",
-    "maintainer": "Claudia Vitolo <cvitolodev@gmail.com>",
-    "url": "https://github.com/ropensci/hddtools",
-    "available": true
-  },
-  {
     "package": "helminthR",
     "maintainer": "Tad Dallas <tad.a.dallas@gmail.com>",
     "url": "https://github.com/ropensci/helminthr",
@@ -1167,6 +1161,12 @@
     "package": "stats19",
     "maintainer": "Robin Lovelace <rob00x@gmail.com>",
     "url": "https://github.com/ropensci/stats19",
+    "available": true
+  },
+  {
+    "package": "stplanr",
+    "maintainer": "Robin Lovelace <rob00x@gmail.com>",
+    "url": "https://github.com/ropensci/stplanr",
     "available": true
   },
   {

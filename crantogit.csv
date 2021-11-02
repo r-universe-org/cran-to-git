@@ -2982,7 +2982,6 @@ HBV.IANIGLA,https://gitlab.com/ezetoum27/hbv.ianigla
 hcandersenr,https://github.com/emilhvitfeldt/hcandersenr
 hchinamap,https://github.com/czxa/hchinamap
 HCmodelSets,https://github.com/hhhelfer/hcmodelsets
-hddtools,https://github.com/ropensci/hddtools
 hdf5r,https://github.com/hhoeflin/hdf5r
 hdme,https://github.com/osorensen/hdme
 hdnom,https://github.com/nanxstats/hdnom
@@ -3928,6 +3927,7 @@ mecor,https://github.com/lindanab/mecor
 medfate,https://github.com/emf-creaf/medfate
 medflex,https://github.com/jmpsteen/medflex
 Mediana,https://github.com/gpaux/mediana
+MedianaDesigner,https://github.com/medianasoft/medianadesigner
 medicaldata,https://github.com/higgi13425/medicaldata
 medicalrisk,https://github.com/patrickmdnet/medicalrisk
 medicare,https://github.com/robertgambrel/medicare
@@ -4602,6 +4602,7 @@ obfuscatoR,https://github.com/edsandorf/obfuscator
 objectremover,https://github.com/alan-y/objectremover
 Observation,https://github.com/paulhibbing/observation
 observer,https://github.com/paulponcet/observer
+occCite,https://github.com/hannahlowens/occcite
 oce,https://github.com/dankelley/oce
 oceanis,https://github.com/insee-psar-at/oceanis-package
 oceanwaves,https://github.com/millerlp/oceanwaves
@@ -4642,7 +4643,6 @@ omu,https://github.com/connor-reid-tiffany/omu
 onbabynames,https://github.com/desautm/onbabynames
 onbrand,https://github.com/john-harrold/onbrand
 oneclust,https://github.com/nanxstats/oneclust
-onemap,https://github.com/augusto-garcia/onemap
 onepass,https://github.com/jonlinca/onepass
 OneR,https://github.com/vonjd/oner
 ONEST,https://github.com/hangangtrue/onest
@@ -4805,7 +4805,6 @@ pamm,https://github.com/juliengamartin/pamm_r
 pammtools,https://github.com/adibender/pammtools
 pander,https://github.com/rapporter/pander
 pandocfilters,https://github.com/jgm/pandocfilters
-panelAR,https://github.com/kkashin/panelar
 PanelMatch,https://github.com/insongkim/panelmatch
 panelr,https://github.com/jacob-long/panelr
 panelWranglR,https://github.com/jszitas/panelwranglr
@@ -5629,7 +5628,6 @@ raveio,https://github.com/beauchamplab/raveio
 raven.rdf,https://github.com/raven-computing/rdf
 RavenR,https://github.com/rchlumsk/ravenr
 rAvis,https://github.com/ropensci/ravis
-rawr,https://github.com/stevecondylios/rawr
 rayimage,https://github.com/tylermorganwall/rayimage
 rayrender,https://github.com/tylermorganwall/rayrender
 rayshader,https://github.com/tylermorganwall/rayshader
@@ -6616,6 +6614,7 @@ SemNeT,https://github.com/alexchristensen/semnet
 SemNetCleaner,https://github.com/alexchristensen/semnetcleaner
 SemNetDictionaries,https://github.com/alexchristensen/semnetdictionaries
 semPlot,https://github.com/sachaepskamp/semplot
+semPower,https://github.com/moshagen/sempower
 semptools,https://github.com/sfcheung/semptools
 semTools,https://github.com/simsem/semtools
 semver,https://github.com/johndharrison/semver
@@ -7213,6 +7212,7 @@ stokes,https://github.com/robinhankin/stokes
 stopwords,https://github.com/quanteda/stopwords
 storr,https://github.com/richfitz/storr
 storywranglr,https://github.com/chris31415926535/storywranglr
+stplanr,https://github.com/ropensci/stplanr
 stR,https://bitbucket.org/alexanderdokumentov/strpackage
 strand,https://github.com/strand-tech/strand
 strat,https://github.com/xiangzhou09/strat
@@ -8248,11 +8248,6 @@ ztable,https://github.com/cardiomoon/ztable
 ztpln,https://github.com/mattocci27/ztpln
 ZVCV,https://github.com/leahprice/zvcv
 zzlite,https://github.com/fkoh111/zzlite
-codetools,https://gitlab.com/luke-tierney/codetools
-lattice,https://github.com/deepayan/lattice
-Matrix,https://github.com/r-forge/matrix
-rpart,https://github.com/bethatkinson/rpart
-survival,https://github.com/therneau/survival
 codetools,https://gitlab.com/luke-tierney/codetools
 lattice,https://github.com/deepayan/lattice
 Matrix,https://github.com/r-forge/matrix
