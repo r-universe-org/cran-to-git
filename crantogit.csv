@@ -958,6 +958,7 @@ clevr,https://github.com/cleanzr/clevr
 clhs,https://github.com/pierreroudier/clhs
 cli,https://github.com/r-lib/cli
 cliapp,https://github.com/r-lib/cliapp
+cliff,https://github.com/rtagbot/cliff
 clifford,https://github.com/robinhankin/clifford
 clifro,https://github.com/ropensci/clifro
 climaemet,https://github.com/ropenspain/climaemet
@@ -1372,7 +1373,6 @@ dashTable,https://github.com/plotly/dash-table
 dat,https://github.com/wahani/dat
 data.table,https://github.com/rdatatable/data.table
 data.tree,https://github.com/gluc/data.tree
-data.validator,https://github.com/appsilon/data.validator
 data360r,https://github.com/mrpsonglao/data360r
 DatabaseConnector,https://github.com/ohdsi/databaseconnector
 DatabaseConnectorJars,https://github.com/ohdsi/databaseconnectorjars
@@ -2915,6 +2915,7 @@ grpreg,https://github.com/pbreheny/grpreg
 grpsel,https://github.com/ryan-thompson/grpsel
 grpSLOPE,https://github.com/agisga/grpslope
 gscaLCA,https://github.com/hee6904/gscalca
+gscounts,https://github.com/tobiasmuetze/gscounts
 gsheet,https://github.com/maxconway/gsheet
 gsignal,https://github.com/gjmvanboxtel/gsignal
 gsisdecoder,https://github.com/nflverse/gsisdecoder
@@ -4244,7 +4245,6 @@ MortalityGaps,https://github.com/mpascariu/mortalitygaps
 MortalityLaws,https://github.com/mpascariu/mortalitylaws
 mortyr,https://github.com/mikejohnpage/mortyr
 mosaic,https://github.com/projectmosaic/mosaic
-mosaic.find,https://github.com/delosh653/mosaic
 mosaicCalc,https://github.com/projectmosaic/mosaiccalc
 mosaicCore,https://github.com/projectmosaic/mosaiccore
 mosaicData,https://github.com/projectmosaic/mosaicdata
@@ -4313,6 +4313,7 @@ msSPChelpR,https://github.com/marianschmidt/msspchelpr
 mstate,https://github.com/hputter/mstate
 mStats,https://github.com/myominnoo/mstats
 MTA,https://github.com/riatelab/mta
+mtb,https://github.com/yh202109/mtb
 MTE,https://github.com/shaobo-li/mte
 mthapower,https://github.com/aurora-mareviv/mthapower
 MTLR,https://github.com/haiderstats/mtlr
@@ -4435,6 +4436,7 @@ ncpen,https://github.com/zeemkr/ncpen
 NCutYX,https://github.com/seborinos/ncutyx
 ncvreg,https://github.com/pbreheny/ncvreg
 ndjson,https://gitlab.com/hrbrmstr/ndjson
+ndtv,https://github.com/statnet/ndtv
 neatmaps,https://github.com/philboileau/neatmaps
 neatRanges,https://github.com/arg0naut91/neatranges
 neatStats,https://github.com/gasparl/neatstats
@@ -4917,6 +4919,7 @@ PCRedux,https://github.com/pcruniversum/pcredux
 PCSinR,https://github.com/felixhenninger/pcsinr
 pcsstools,https://github.com/jackmwolf/pcsstools
 pcSteiner,https://github.com/krashkov/pcsteiner
+pct,https://github.com/itsleeds/pct
 pcts,https://github.com/geobosh/pcts
 pdfetch,https://github.com/abielr/pdfetch
 pdfsearch,https://github.com/lebebr01/pdfsearch
@@ -5365,6 +5368,7 @@ psychmeta,https://github.com/psychmeta/psychmeta
 psycho,https://github.com/neuropsychology/psycho.r
 psychonetrics,https://github.com/sachaepskamp/psychonetrics
 psychrolib,https://github.com/psychrometrics/psychrolib
+psychtm,https://github.com/ktw5691/psychtm
 psymonitor,https://github.com/itamarcaspi/psymonitor
 psyverse,https://gitlab.com/r-packages/psyverse
 ptm,https://bitbucket.org/jcaledo/ptm
@@ -6455,6 +6459,7 @@ sabre,https://github.com/nowosad/sabre
 saccades,https://github.com/tmalsburg/saccades
 sadists,https://github.com/shabbychef/sadists
 sads,https://github.com/pilaboratory/sads
+saeHB,https://github.com/zazaperwira/saehb
 saekernel,https://github.com/wicaksh/saekernel
 saeRobust,https://github.com/wahani/saerobust
 saeSim,https://github.com/wahani/saesim
@@ -6570,6 +6575,7 @@ sdcSpatial,https://github.com/edwindj/sdcspatial
 sdcTable,https://github.com/sdctools/usersupport
 SDEFSR,https://github.com/simidat/sdefsr
 sdetorus,https://github.com/egarpor/sdetorus
+SDLfilter,https://github.com/takahiroshimada/sdlfilter
 sdmApp,https://github.com/abson-dev/sdmapp
 sdmpredictors,https://github.com/lifewatch/sdmpredictors
 SDMtune,https://github.com/consbiol-unibern/sdmtune
@@ -6606,7 +6612,6 @@ SelectBoost,https://github.com/fbertran/selectboost
 selection.index,https://github.com/zankrut20/selection.index
 selectr,https://github.com/sjp/selectr
 seleniumPipes,https://github.com/johndharrison/seleniumpipes
-semantic.dashboard,https://github.com/appsilon/semantic.dashboard
 semEff,https://github.com/murphymv/semeff
 SEMgraph,https://github.com/fernandopalluzzi/semgraph
 SEMID,https://github.com/lucaweihs/semid
@@ -6701,7 +6706,6 @@ shiny,https://github.com/rstudio/shiny
 shiny.i18n,https://github.com/appsilon/shiny.i18n
 shiny.info,https://github.com/appsilon/shiny.info
 shiny.pwa,https://github.com/pedrocoutinhosilva/shiny.pwa
-shiny.semantic,https://github.com/appsilon/shiny.semantic
 shinyAce,https://github.com/trestletech/shinyace
 shinyalert,https://github.com/daattali/shinyalert
 shinyanimate,https://github.com/swechhya/shinyanimate
@@ -7327,6 +7331,7 @@ swfscDAS,https://github.com/smwoodman/swfscdas
 swfscMisc,https://github.com/ericarcher/swfscmisc
 SWIM,https://github.com/spesenti/swim
 swissdd,https://github.com/politanch/swissdd
+swissparl,https://github.com/zumbov2/swissparl
 switchcase,https://github.com/jsugarelli/switchcase
 switchr,https://github.com/gmbecker/switchr
 swmmr,https://github.com/dleutnant/swmmr
@@ -7458,7 +7463,6 @@ texreg,https://github.com/leifeld/texreg
 text,https://github.com/oscarkjell/text
 text.alignment,https://github.com/digi-vub/text.alignment
 text2map,https://gitlab.com/culturalcartography/text2map
-text2sdg,https://github.com/dwulff/text2sdg
 text2speech,https://github.com/jhudsl/text2speech
 text2vec,https://github.com/dselivanov/text2vec
 textclean,https://github.com/trinker/textclean
@@ -7526,6 +7530,7 @@ tidycat,https://github.com/guyabel/tidycat
 tidycensus,https://github.com/walkerke/tidycensus
 tidycode,https://github.com/lucymcgowan/tidycode
 tidycomm,https://github.com/joon-e/tidycomm
+TidyConsultant,https://github.com/harrison4192/tidyconsultant
 tidyCpp,https://github.com/eddelbuettel/tidycpp
 tidycwl,https://github.com/sbg/tidycwl
 tidydice,https://github.com/rolkra/tidydice
@@ -7630,6 +7635,7 @@ TOC,https://github.com/amsantac/toc
 togglr,https://github.com/thinkr-open/togglr
 tokenizers,https://github.com/ropensci/tokenizers
 tokenizers.bpe,https://github.com/bnosac/tokenizers.bpe
+tomba,https://github.com/tomba-io/r
 tongfen,https://github.com/mountainmath/tongfen
 toOrdinal,https://github.com/centerforassessment/toordinal
 TopDom,https://github.com/henrikbengtsson/topdom
@@ -7957,6 +7963,7 @@ venn,https://github.com/dusadrian/venn
 vennLasso,https://github.com/jaredhuling/vennlasso
 versions,https://github.com/goldingn/versions
 vesselr,https://github.com/jdwor/vesselr
+vetiver,https://github.com/tidymodels/vetiver
 vetools,https://github.com/talassio/vetools
 vetr,https://github.com/brodieg/vetr
 VetResearchLMM,https://github.com/myaseen208/vetresearchlmm

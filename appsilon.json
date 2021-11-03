@@ -1,17 +1,5 @@
 [
   {
-    "package": "data.validator",
-    "maintainer": "Dominik Krzeminski <dominik@appsilon.com>",
-    "url": "https://github.com/appsilon/data.validator",
-    "available": true
-  },
-  {
-    "package": "semantic.dashboard",
-    "maintainer": "Dominik Krzeminski <dominik@appsilon.com>",
-    "url": "https://github.com/appsilon/semantic.dashboard",
-    "available": true
-  },
-  {
     "package": "shiny.i18n",
     "maintainer": "Dominik Krzemiński <dominik@appsilon.com>",
     "url": "https://github.com/appsilon/shiny.i18n",
@@ -21,12 +9,6 @@
     "package": "shiny.info",
     "maintainer": "Jakub Nowicki <kuba@appsilon.com>",
     "url": "https://github.com/appsilon/shiny.info",
-    "available": true
-  },
-  {
-    "package": "shiny.semantic",
-    "maintainer": "Dominik Krzeminski <dominik@appsilon.com>",
-    "url": "https://github.com/appsilon/shiny.semantic",
     "available": true
   }
 ]
