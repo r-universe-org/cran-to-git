@@ -1,5 +1,11 @@
 [
   {
+    "package": "popbayes",
+    "maintainer": "Nicolas Casajus <nicolas.casajus@fondationbiodiversite.fr>",
+    "url": "https://github.com/frbcesab/popbayes",
+    "available": true
+  },
+  {
     "package": "rcompendium",
     "maintainer": "Nicolas Casajus <nicolas.casajus@fondationbiodiversite.fr>",
     "url": "https://github.com/frbcesab/rcompendium",
