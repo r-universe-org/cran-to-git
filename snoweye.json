@@ -1,8 +1,20 @@
 [
   {
+    "package": "cubfits",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/cubfits",
+    "available": true
+  },
+  {
     "package": "EMCluster",
     "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
     "url": "https://github.com/snoweye/emcluster",
+    "available": true
+  },
+  {
+    "package": "MixfMRI",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/mixfmri",
     "available": true
   },
   {
