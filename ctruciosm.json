@@ -2,7 +2,13 @@
   {
     "package": "HierPorfolios",
     "maintainer": "Carlos Trucios <ctrucios@gmail.com>",
-    "url": "https://github.com/ctruciosm/hierporfolios",
+    "url": "https://github.com/ctruciosm/hierportfolios",
     "available": true
+  },
+  {
+    "package": "HierPortfolios",
+    "maintainer": "Carlos Trucios <ctrucios@gmail.com>",
+    "url": "https://github.com/ctruciosm/hierportfolios",
+    "available": false
   }
 ]
