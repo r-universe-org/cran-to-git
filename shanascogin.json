@@ -1,5 +1,11 @@
 [
   {
+    "package": "BayesPostEst",
+    "maintainer": "Shana Scogin <shanarscogin@gmail.com>",
+    "url": "https://github.com/shanascogin/bayespostest",
+    "available": true
+  },
+  {
     "package": "modeLLtest",
     "maintainer": "Shana Scogin <shanarscogin@gmail.com>",
     "url": "https://github.com/shanascogin/modelltest",
