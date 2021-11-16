@@ -1,5 +1,11 @@
 [
   {
+    "package": "lambdr",
+    "maintainer": "David Neuzerling <david@neuzerling.com>",
+    "url": "https://github.com/mdneuzerling/lambdr",
+    "available": true
+  },
+  {
     "package": "ptvapi",
     "maintainer": "David Neuzerling <david@neuzerling.com>",
     "url": "https://github.com/mdneuzerling/ptvapi",

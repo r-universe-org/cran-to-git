@@ -153,7 +153,7 @@ antaresEditObject,https://github.com/rte-antares-rpackage/antareseditobject
 antaresProcessing,https://github.com/rte-antares-rpackage/antaresprocessing
 antaresRead,https://github.com/rte-antares-rpackage/antaresread
 antaresViz,https://github.com/rte-antares-rpackage/antaresviz
-anthro,https://github.com/dirkschumacher/anthro
+anthro,https://github.com/worldhealthorganization/anthro
 AnthropMMD,https://gitlab.com/f-santos/anthropmmd
 anticlust,https://github.com/m-py/anticlust
 antitrust,https://github.com/luciu5/antitrust
@@ -931,7 +931,6 @@ cinaR,https://github.com/eonurk/cinar
 cinaRgenesets,https://github.com/eonurk/cinar-genesets
 cinterpolate,https://github.com/mrc-ide/cinterpolate
 CIplot,https://github.com/toshi-ara/ciplot
-circglmbayes,https://github.com/keesmulder/circglmbayes
 circle,https://github.com/ropensci/circle
 circletyper,https://github.com/etiennebacher/circletyper
 circlize,https://github.com/jokergoo/circlize
@@ -1323,6 +1322,7 @@ curl,https://github.com/jeroen/curl
 curry,https://github.com/thomasp85/curry
 curstatCI,https://github.com/kimhendrickx/curstatci
 customsteps,https://github.com/smaakage85/customsteps
+cusumcharter,https://github.com/johnmackintosh/cusumcharter
 cutoff,https://github.com/yikeshu0611/cutoff
 cutpointr,https://github.com/thie1e/cutpointr
 cvap,https://github.com/christopherkenny/cvap
@@ -3371,7 +3371,6 @@ iterators,https://github.com/revolutionanalytics/iterators
 itertools2,https://github.com/ramhiser/itertools2
 itraxR,https://github.com/tombishop1/itraxr
 ivdesc,https://github.com/sumtxt/ivdesc
-ivdoctr,https://github.com/emallickhossain/ivdoctr
 ivreg,https://github.com/john-d-fox/ivreg
 ivx,https://github.com/kvasilopoulos/ivx
 IxPopDyMod,https://github.com/dallenmidd/ixpopdymod
@@ -3538,6 +3537,7 @@ lakemorpho,https://github.com/jhollist/lakemorpho
 laketemps,https://github.com/usgs-r/laketemps
 LAM,https://github.com/alexanderrobitzsch/lam
 Lambda4,https://github.com/jackstat/lambda4
+lambdr,https://github.com/mdneuzerling/lambdr
 LambertW,https://github.com/gmgeorg/lambertw
 lamW,https://github.com/aadler/lamw
 landmap,https://github.com/envirometrix/landmap
@@ -3574,6 +3574,7 @@ lazysf,https://github.com/hypertidy/lazysf
 lazysql,https://github.com/uweblock/lazysql
 lazytrade,https://github.com/vzhomeexperiments/lazytrade
 lba,https://github.com/ivanalaman/lba
+LBC,https://github.com/wanghaoxue0/lbc
 lbiassurv,https://github.com/r-forge/lbiassurv
 LBSPR,https://github.com/adrianhordyk/lbspr
 lcars,https://github.com/leonawicz/lcars
@@ -4338,6 +4339,7 @@ mssm,https://github.com/boennecd/mssm
 msSPChelpR,https://github.com/marianschmidt/msspchelpr
 mstate,https://github.com/hputter/mstate
 mStats,https://github.com/myominnoo/mstats
+mt,https://github.com/wanchanglin/mt
 MTA,https://github.com/riatelab/mta
 mtb,https://github.com/yh202109/mtb
 MTE,https://github.com/shaobo-li/mte
@@ -6277,6 +6279,7 @@ roxygen2md,https://github.com/r-lib/roxygen2md
 roxytest,https://github.com/mikldk/roxytest
 rPACI,https://github.com/dariorlual/rpaci
 rPackedBar,https://github.com/adamspannbauer/rpackedbar
+Rpadrino,https://github.com/padrinodb/rpadrino
 RPANDA,https://github.com/hmorlon/panda
 rPanglaoDB,https://github.com/dosorio/rpanglaodb
 rpart,https://github.com/bethatkinson/rpart
@@ -6304,6 +6307,7 @@ RProtoBuf,https://github.com/eddelbuettel/rprotobuf
 RPublica,https://github.com/ropengov/rpublica
 rpubs,https://github.com/aephidayatuloh/rpubs
 RPyGeo,https://github.com/r-spatial/rpygeo
+rpymat,https://github.com/dipterix/rpymat
 rQCC,https://github.com/appliedstat/r
 rqdatatable,https://github.com/winvector/rqdatatable
 RQEntangle,https://github.com/stephenhky/rqentangle
@@ -8286,6 +8290,7 @@ zipfextR,https://github.com/ardlop/zipfextr
 zipfR,https://github.com/r-forge/zipfr
 zipR,https://github.com/leslie-huang/zipr
 zipsae,https://github.com/dheel/zipsae
+zoid,https://github.com/nwfsc-cb/zoid
 zoltr,https://github.com/reichlab/zoltr
 zonator,https://github.com/cbig/zonator
 zonebuilder,https://github.com/zonebuilders/zonebuilder
@@ -8788,6 +8793,7 @@ monaLisa,https://github.com/fmicompbio/monalisa
 MoonlightR,https://github.com/elelab/moonlightr
 MOSim,https://github.com/neurergus/mosim
 motifbreakR,https://github.com/simon-coetzee/motifbreakr
+MouseFM,https://github.com/matmu/mousefm
 mpra,https://github.com/hansenlab/mpra
 MPRAnalyze,https://github.com/yoseflab/mpranalyze
 MsBackendMassbank,https://github.com/rformassspectrometry/msbackendmassbank
@@ -9183,4 +9189,3 @@ zlibbioc,https://github.com/bioconductor/zlibbioc
 ENCODExplorer,https://github.com/charlesjb/encodexplorer
 destiny,https://github.com/theislab/destiny
 ALPS,https://github.com/itsvenu/alps
-MouseFM,https://github.com/matmu/mousefm
