@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "mlr3spatial",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3spatial",
+    "available": true
+  },
+  {
     "package": "mlr3spatiotempcv",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3spatiotempcv",
