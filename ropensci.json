@@ -318,6 +318,12 @@
     "available": true
   },
   {
+    "package": "excluder",
+    "maintainer": "Jeffrey R. Stevens <jeffrey.r.stevens@gmail.com>",
+    "url": "https://github.com/ropensci/excluder",
+    "available": true
+  },
+  {
     "package": "exoplanets",
     "maintainer": "Tyler Littlefield <tylerlittlefield@hey.com>",
     "url": "https://github.com/ropensci/exoplanets",
@@ -555,6 +561,12 @@
     "package": "mapr",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/mapr",
+    "available": true
+  },
+  {
+    "package": "mapscanner",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci/mapscanner",
     "available": true
   },
   {
@@ -1027,7 +1039,7 @@
   },
   {
     "package": "rnoaa",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "maintainer": "Daniel Hocking <djhocking@gmail.com>",
     "url": "https://github.com/ropensci/rnoaa",
     "available": true
   },

@@ -28,6 +28,7 @@ AdaptGauss,https://github.com/mthrun/adaptgauss
 adaptMCMC,https://github.com/scheidan/adaptmcmc
 adaptMT,https://github.com/lihualei71/adaptmt
 AdaSampling,https://github.com/pyanglab/adasampling
+adass,https://github.com/unina-sfere/adass
 add2ggplot,https://github.com/jiaxiangbu/add2ggplot
 addinslist,https://github.com/daattali/addinslist
 addinsOutline,https://github.com/calote/addinsoutline
@@ -152,7 +153,6 @@ anscombiser,https://github.com/paulnorthrop/anscombiser
 antaresEditObject,https://github.com/rte-antares-rpackage/antareseditobject
 antaresProcessing,https://github.com/rte-antares-rpackage/antaresprocessing
 antaresRead,https://github.com/rte-antares-rpackage/antaresread
-antaresViz,https://github.com/rte-antares-rpackage/antaresviz
 anthro,https://github.com/worldhealthorganization/anthro
 AnthropMMD,https://gitlab.com/f-santos/anthropmmd
 anticlust,https://github.com/m-py/anticlust
@@ -1801,6 +1801,7 @@ dyngen,https://github.com/dynverse/dyngen
 dynparam,https://github.com/dynverse/dynparam
 dynplot,https://github.com/dynverse/dynplot
 dynprog,https://github.com/mailund/dynprog
+dynr,https://github.com/mhunter1/dynr
 dynsim,https://github.com/christophergandrud/dynsim
 dynsurv,https://github.com/wenjie2wang/dynsurv
 dynutils,https://github.com/dynverse/dynutils
@@ -2086,6 +2087,7 @@ exceedProb,https://github.com/bdsegal/exceedprob
 excel.link,https://github.com/gdemin/excel.link
 excelR,https://github.com/swechhya/excelr
 excerptr,https://gitlab.com/fvafrcu/excerptr
+excluder,https://github.com/ropensci/excluder
 exCon,https://github.com/bryanhanson/excon
 excursions,https://github.com/davidbolin/excursions
 exdex,https://github.com/paulnorthrop/exdex
@@ -3512,6 +3514,7 @@ knitrdata,https://github.com/dmkaplan2000/knitrdata
 knitrProgressBar,https://github.com/rmflight/knitrprogressbar
 knn.covertree,https://github.com/flying-sheep/knn.covertree
 knnp,https://github.com/grasia/knnp
+knnwtsim,https://github.com/mtrupiano1/knnwtsim
 Knoema,https://github.com/knoema/knoema-r-driver
 kntnr,https://github.com/yutannihilation/kntnr
 kofdata,https://github.com/kof-ch/kofdata
@@ -3654,7 +3657,7 @@ libr,https://github.com/dbosak01/libr
 librarian,https://github.com/desiquintans/librarian
 librarysnapshot,https://github.com/petermeissner/librarysnapshot
 libsoc,https://github.com/rikardn/libsoc
-lidR,https://github.com/jean-romain/lidr
+lidR,https://github.com/r-lidar/lidr
 lifecontingencies,https://github.com/spedygiorgio/lifecontingencies
 lifecycle,https://github.com/r-lib/lifecycle
 liftr,https://github.com/nanxstats/liftr
@@ -3847,6 +3850,7 @@ mappings,https://github.com/benjaminrich/mappings
 mappoly,https://github.com/mmollina/mappoly
 mapr,https://github.com/ropensci/mapr
 mapsapi,https://github.com/michaeldorman/mapsapi
+mapscanner,https://github.com/ropensci/mapscanner
 mapsf,https://github.com/riatelab/mapsf
 mapSpain,https://github.com/ropenspain/mapspain
 mapsPERU,https://github.com/musajajorge/mapsperu
@@ -6514,7 +6518,6 @@ saekernel,https://github.com/wicaksh/saekernel
 saeRobust,https://github.com/wahani/saerobust
 saeSim,https://github.com/wahani/saesim
 SAFARI,https://github.com/estfernandez/safari
-safedata,https://github.com/imperialcollegelondon/safedata
 safejoin,https://github.com/samedwardes/safejoin
 safer,https://github.com/talegari/safer
 safetyCharts,https://github.com/safetygraphics/safetycharts
@@ -6839,6 +6842,7 @@ sigmajs,https://github.com/johncoene/sigmajs
 sigmaNet,https://github.com/iankloo/sigmanet
 sigminer,https://github.com/shixiangwang/sigminer
 Signac,https://github.com/timoast/signac
+SignacX,https://github.com/mathewchamberlain/signacx
 signalHsmm,https://github.com/michbur/signalhsmm
 signnet,https://github.com/schochastics/signnet
 signs,https://github.com/benjaminwolfe/signs
