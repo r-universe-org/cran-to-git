@@ -120,6 +120,12 @@
     "available": true
   },
   {
+    "package": "shinymodels",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/shinymodels",
+    "available": true
+  },
+  {
     "package": "spatialsample",
     "maintainer": "Julia Silge <julia.silge@rstudio.com>",
     "url": "https://github.com/tidymodels/spatialsample",

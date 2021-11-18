@@ -562,7 +562,6 @@ biokNN,https://github.com/mcubillos3/bioknn
 BIOM.utils,https://github.com/braithwaite/biom.utils
 biomartr,https://github.com/ropensci/biomartr
 BIOMASS,https://github.com/umr-amap/biomass
-BioMedR,https://github.com/wind22zhu/biomedr
 bioRad,https://github.com/adokter/biorad
 bioseq,https://github.com/fkeck/bioseq
 bioset,https://github.com/randomchars42/bioset
@@ -701,6 +700,7 @@ BSW,https://github.com/adam-bec/bsw
 btergm,https://github.com/leifeld/btergm
 BTM,https://github.com/bnosac/btm
 BTSPAS,https://github.com/cschwarz-stat-sfu-ca/btspas
+BTYD,https://github.com/ghuiber/btyd
 BTYDplus,https://github.com/mplatzer/btydplus
 bubblyr,https://github.com/feddelegrand7/bubblyr
 bucky,https://github.com/atahk/bucky
@@ -2130,6 +2130,7 @@ ezknitr,https://github.com/ropensci/ezknitr
 ezpickr,https://github.com/jooyoungseo/ezpickr
 ezr,https://github.com/jinkim3/ezr
 fable,https://github.com/tidyverts/fable
+fable.ata,https://github.com/alsabtay/fable.ata
 fable.prophet,https://github.com/mitchelloharawild/fable.prophet
 fabletools,https://github.com/tidyverts/fabletools
 fabMix,https://github.com/mqbssppe/overfittingfabmix
@@ -3237,6 +3238,7 @@ immer,https://github.com/alexanderrobitzsch/immer
 Immigrate,https://github.com/ruzhangzhao/immigrate
 immunarch,https://github.com/immunomind/immunarch
 immuneSIM,https://github.com/greifflab/immunesim
+imola,https://github.com/pedrocoutinhosilva/imola
 IMP,https://github.com/anup50695/imppackage
 impactr,https://github.com/verasls/impactr
 implyr,https://github.com/ianmcook/implyr
@@ -3934,6 +3936,7 @@ mcMST,https://github.com/jakobbossek/mcmst
 mco,https://github.com/olafmersmann/mco
 Mcomp,https://github.com/robjhyndman/mcomp
 mcompanion,https://github.com/geobosh/mcompanion
+mcp,https://github.com/lindeloev/mcp
 mcparallelDo,https://github.com/russellpierce/mcparalleldo
 MCPModPack,https://github.com/medianainc/mcpmodpack
 mctq,https://github.com/ropensci/mctq
@@ -4865,6 +4868,7 @@ parcats,https://github.com/erblast/parcats
 parcoords,https://github.com/timelyportfolio/parcoords
 Pareto,https://github.com/ulrichriegel/pareto
 parglm,https://github.com/boennecd/parglm
+pARI,https://github.com/angeella/pari
 parlitools,https://github.com/evanodell/parlitools
 parmigene,https://github.com/sales-lab/parmigene
 parmsurvfit,https://github.com/apjacobson/parmsurvfit
@@ -5406,6 +5410,7 @@ psychrolib,https://github.com/psychrometrics/psychrolib
 psychtm,https://github.com/ktw5691/psychtm
 psymonitor,https://github.com/itamarcaspi/psymonitor
 psyverse,https://gitlab.com/r-packages/psyverse
+pTITAN2,https://github.com/sfigary/ptitan2
 ptm,https://bitbucket.org/jcaledo/ptm
 ptspotter,https://github.com/r-leyshon/ptspotter
 ptvapi,https://github.com/mdneuzerling/ptvapi
@@ -5533,6 +5538,7 @@ R.huge,https://github.com/henrikbengtsson/r.huge
 R.matlab,https://github.com/henrikbengtsson/r.matlab
 R.methodsS3,https://github.com/henrikbengtsson/r.methodss3
 R.oo,https://github.com/henrikbengtsson/r.oo
+r.proxy,https://github.com/xiayh17/r.proxy
 R.rsp,https://github.com/henrikbengtsson/r.rsp
 R.temis,https://github.com/nalimilan/r.temis
 R.utils,https://github.com/henrikbengtsson/r.utils
@@ -5789,6 +5795,7 @@ Rd2roxygen,https://github.com/yihui/rd2roxygen
 rdacca.hp,https://github.com/laijiangshan/rdacca.hp
 RDataCanvas,https://github.com/datacanvasio/rdatacanvas
 rdatacite,https://github.com/ropensci/rdatacite
+rDataPipeline,https://github.com/fairdatapipeline/rdatapipeline
 rdataretriever,https://github.com/ropensci/rdataretriever
 rddtools,https://github.com/bquast/rddtools
 rde,https://github.com/kloppen/rde
@@ -6102,7 +6109,7 @@ rKolada,https://github.com/lchansson/rkolada
 RKorAPClient,https://github.com/korap/rkorapclient
 rLakeAnalyzer,https://github.com/gleon/rlakeanalyzer
 rlang,https://github.com/r-lib/rlang
-rlas,https://github.com/jean-romain/rlas
+rlas,https://github.com/r-lidar/rlas
 Rlda,https://github.com/pedrobsb/rlda
 rle,https://github.com/statnet/rle
 rleafmap,https://github.com/fkeck/rleafmap
@@ -6213,6 +6220,7 @@ robustlmm,https://github.com/kollerma/robustlmm
 robvis,https://github.com/mcguinlu/robvis
 ROCaggregator,https://gitlab.com/um-cds/general-tools
 rock,https://gitlab.com/r-packages/rock
+rocker,https://github.com/nikolaus77/rocker
 ROCket,https://github.com/da-zar/rocket
 roclang,https://github.com/zhuxr11/roclang
 rocnp,https://github.com/dragosmg/rocnp
@@ -6741,6 +6749,7 @@ shazam,https://bitbucket.org/kleinstein/shazam
 SHELF,https://github.com/oakleyj/shelf
 ShellChron,https://github.com/nielsjdewinter/shellchron
 shelltrace,https://github.com/nielsjdewinter/shelltrace
+shidashi,https://github.com/dipterix/shidashi
 shiftR,https://github.com/andreyshabalin/shiftr
 ShiftShareSE,https://github.com/kolesarm/shiftsharese
 shinipsum,https://github.com/thinkr-open/shinipsum
@@ -6787,6 +6796,7 @@ shinyMergely,https://github.com/stla/shinymergely
 shinymeta,https://github.com/rstudio/shinymeta
 shinyML,https://github.com/jeanbertinr/shinyml
 shinyMobile,https://github.com/rinterface/shinymobile
+shinymodels,https://github.com/tidymodels/shinymodels
 shinyMolBio,https://github.com/pcruniversum/shinymolbio
 shinyMonacoEditor,https://github.com/stla/shinymonacoeditor
 shinyNotes,https://github.com/danielkovtun/shinynotes
@@ -6797,6 +6807,7 @@ shinyreforms,https://github.com/piotrbajger/shinyreforms
 shinyRGL,https://github.com/trestletech/shinyrgl
 shinyscreenshot,https://github.com/daattali/shinyscreenshot
 shinySearchbar,https://github.com/jes-n/shiny-searchbar
+shinySelect,https://github.com/stla/shinyselect
 shinyservicebot,https://github.com/capiaas/shinyservicebot
 shinystan,https://github.com/stan-dev/shinystan
 shinytest,https://github.com/rstudio/shinytest
@@ -6828,7 +6839,6 @@ sigmajs,https://github.com/johncoene/sigmajs
 sigmaNet,https://github.com/iankloo/sigmanet
 sigminer,https://github.com/shixiangwang/sigminer
 Signac,https://github.com/timoast/signac
-SignacX,https://github.com/mathewchamberlain/signacx
 signalHsmm,https://github.com/michbur/signalhsmm
 signnet,https://github.com/schochastics/signnet
 signs,https://github.com/benjaminwolfe/signs
