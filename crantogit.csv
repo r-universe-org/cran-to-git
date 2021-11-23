@@ -869,6 +869,7 @@ CGGP,https://github.com/collinerickson/cggp
 cghRA,https://github.com/maressyl/r.cghra
 CGPfunctions,https://github.com/ibecav/cgpfunctions
 cgraph,https://github.com/triepels/cgraph
+cgrcusum,https://github.com/d-gomon/cgrcusum
 ch,https://github.com/tsiamut/ch
 ChainLadder,https://github.com/mages/chainladder
 chandwich,https://github.com/paulnorthrop/chandwich
@@ -2187,7 +2188,6 @@ fastqq,https://github.com/gumeo/fastqq
 fastR2,https://github.com/rpruim/fastr2
 fastRG,https://github.com/rohelab/fastrg
 fastrmodels,https://github.com/nflverse/fastrmodels
-fastshap,https://github.com/bgreenwell/fastshap
 fastverse,https://github.com/sebkrantz/fastverse
 faux,https://github.com/debruine/faux
 fauxnaif,https://github.com/rossellhayes/fauxnaif
@@ -2679,6 +2679,7 @@ gggap,https://github.com/cmoralesmx/gggap
 gggenes,https://github.com/wilkox/gggenes
 ggghost,https://github.com/jonocarroll/ggghost
 gggibbous,https://github.com/mnbram/gggibbous
+gggrid,https://github.com/pmur002/gggrid
 ggh4x,https://github.com/teunbrand/ggh4x
 gghalfnorm,https://github.com/nathaneastwood/gghalfnorm
 gghalves,https://github.com/erocoar/gghalves
@@ -2831,6 +2832,7 @@ Gmisc,https://github.com/gforge/gmisc
 gMOIP,https://github.com/relund/gmoip
 gms,https://github.com/pik-piam/gms
 GMSE,https://github.com/confoobio/gmse
+gmvarkit,https://github.com/saviviro/gmvarkit
 GMZTests,https://github.com/efguedes/gmztests
 GNE,https://github.com/r-forge/optimizer
 gnlm,https://github.com/swihart/gnlm
@@ -3285,6 +3287,7 @@ inlabru,https://github.com/inlabru-org/inlabru
 inline,https://github.com/eddelbuettel/inline
 inlinedocs,https://github.com/tdhock/inlinedocs
 inlmisc,https://github.com/usgs-r/inlmisc
+innsight,https://github.com/bips-hb/innsight
 inops,https://github.com/moodymudskipper/inops
 inpdfr,https://github.com/frareb/inpdfr
 inplace,https://github.com/privefl/inplace
@@ -4279,6 +4282,7 @@ morphemepiece,https://github.com/macmillancontentscience/morphemepiece
 morphemepiece.data,https://github.com/macmillancontentscience/morphemepiece.data
 morpheus,https://github.com/yagu0/morpheus
 Morpho,https://github.com/zarquon42b/morpho
+MorphoTools2,https://github.com/marekslenker/morphotools2
 morse,https://github.com/pveber/morse
 MortalityGaps,https://github.com/mpascariu/mortalitygaps
 MortalityLaws,https://github.com/mpascariu/mortalitylaws
@@ -4552,6 +4556,7 @@ nichevol,https://github.com/marlonecobos/nichevol
 nima,https://github.com/nhejazi/nima
 NIMAA,https://github.com/jafarilab/nimaa
 nimble,https://github.com/nimble-dev/nimble
+nimbleAPT,https://github.com/drjp/nimbleapt
 nimbleEcology,https://github.com/nimble-dev/nimbleecology
 nimbleSMC,https://github.com/nimble-dev/nimblesmc
 nipals,https://github.com/kwstat/nipals
@@ -5076,6 +5081,7 @@ phylogram,https://github.com/ropensci/phylogram
 phylolm,https://github.com/lamho86/phylolm
 phylopath,https://github.com/ax3man/phylopath
 phyloregion,https://github.com/darunabas/phyloregion
+phylosamp,https://github.com/hopkinsidd/phylosamp
 phyloseqGraphTest,https://github.com/jfukuyama/phyloseqgraphtest
 phylotools,https://github.com/helixcn/phylotools
 phyr,https://github.com/daijiang/phyr
@@ -7203,9 +7209,11 @@ stabm,https://github.com/bommert/stabm
 stabs,https://github.com/hofnerb/stabs
 stackoverflow,https://github.com/nfultz/stackoverflow
 stacks,https://github.com/tidymodels/stacks
+stacomiR,https://github.com/marionlegrandlogrami/stacomir
 stagedtrees,https://github.com/gherardovarando/stagedtrees
 stagePop,https://github.com/helenkettle/stagepop
 StAMPP,https://github.com/lpembleton/stampp
+stan4bart,https://github.com/vdorie/stan4bart
 standardize,https://github.com/cdeager/standardize
 standartox,https://github.com/andschar/standartox
 stanette,https://github.com/stan-dev/rstan
