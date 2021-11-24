@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "antaresViz",
+    "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
+    "url": "https://github.com/rte-antares-rpackage/antaresviz",
+    "available": true
+  },
+  {
     "package": "manipulateWidget",
     "maintainer": "Veronique Bachelier <veronique.bachelier@rte-france.com>",
     "url": "https://github.com/rte-antares-rpackage/manipulatewidget",
