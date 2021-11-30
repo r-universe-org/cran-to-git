@@ -282,6 +282,12 @@
     "available": true
   },
   {
+    "package": "lintr",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/r-lib/lintr",
+    "available": true
+  },
+  {
     "package": "liteq",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/liteq",
