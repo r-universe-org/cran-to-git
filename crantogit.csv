@@ -7,6 +7,7 @@ abdiv,https://github.com/kylebittinger/abdiv
 abess,https://github.com/abess-team/abess
 ABHgenotypeR,https://github.com/stefanreuscher/abhgenotyper
 abjutils,https://github.com/abjur/abjutils
+abstr,https://github.com/a-b-street/abstr
 academictwitteR,https://github.com/cjbarrie/academictwitter
 accSDA,https://github.com/gumeo/accsda
 accucor,https://github.com/xiaoyangsu/accucor
@@ -140,7 +141,6 @@ andurinha,https://github.com/noemiallefs/andurinha
 angstroms,https://github.com/australianantarcticdivision/angstroms
 anim.plots,https://github.com/hughjonesd/anim.plots
 animation,https://github.com/yihui/animation
-animint2,https://github.com/tdhock/animint2
 aniview,https://github.com/lgnbhl/aniview
 ANN2,https://github.com/bflammers/ann2
 anndata,https://github.com/dynverse/anndata
@@ -288,6 +288,7 @@ auditor,https://github.com/modeloriented/auditor
 augmentedRCBD,https://github.com/aravind-j/augmentedrcbd
 auk,https://github.com/cornelllabofornithology/auk
 aurelius,https://github.com/modelop/hadrian
+AustralianPoliticians,https://github.com/rohanalexander/australianpoliticians
 auth0,https://github.com/curso-r/auth0
 autocogs,https://github.com/schloerke/autocogs
 autoCovariateSelection,https://github.com/technoslerphile/autocovariateselection
@@ -504,7 +505,6 @@ BH,https://github.com/eddelbuettel/bh
 BI,https://github.com/marcschwartz/bi
 BiasCorrector,https://github.com/kapsner/biascorrector
 bib2df,https://github.com/ropensci/bib2df
-biblio,https://github.com/kamapu/biblio
 bibliometrix,https://github.com/massimoaria/bibliometrix
 biblionetwork,https://github.com/agoutsmedt/biblionetwork
 bibtex,https://github.com/ropensci/bibtex
@@ -1225,6 +1225,7 @@ covid19italy,https://github.com/ramikrispin/covid19italy
 covid19sf,https://github.com/ramikrispin/covid19sf
 covid19swiss,https://github.com/covid19r/covid19swiss
 covidcast,https://github.com/cmu-delphi/covidcast
+COVIDIBGE,https://github.com/gabriel-assuncao/covidibge
 CovidMutations,https://github.com/msq-123/covidmutations
 covidprobability,https://github.com/eebrown/covidprobability
 covidregionaldata,https://github.com/epiforecasts/covidregionaldata
@@ -1308,6 +1309,7 @@ csvread,https://github.com/jabiru/csvread
 csvwr,https://github.com/robsteranium/csvwr
 csvy,https://github.com/leeper/csvy
 ctf,https://github.com/julianofhernandez/ctf
+cthist,https://github.com/bgcarlisle/cthist
 ctmm,https://github.com/ctmm-initiative/ctmm
 ctpm,https://github.com/noonanm/ctpm
 ctrdata,https://github.com/rfhb/ctrdata
@@ -1361,6 +1363,7 @@ D2MCS,https://github.com/drordas/d2mcs
 d3Network,https://github.com/christophergandrud/d3network
 d3r,https://github.com/timelyportfolio/d3r
 d3Tree,https://github.com/yonicd/d3tree
+d4storagehub4R,https://github.com/eblondel/d4storagehub4r
 DA,https://github.com/xinghuq/da
 dabestr,https://github.com/acclab/dabestr
 dabr,https://github.com/special-uor/dabr
@@ -1426,6 +1429,7 @@ datastructures,https://github.com/dirmeier/datastructures
 dataverse,https://github.com/iqss/dataverse-client-r
 DataVisualizations,https://github.com/mthrun/datavisualizations
 datawizard,https://github.com/easystats/datawizard
+datefixR,https://github.com/nathansam/datefixr
 daterangepicker,https://github.com/trafficonese/daterangepicker
 datetimeutils,https://github.com/enricoschumann/datetimeutils
 dateutils,https://github.com/macroeconomicdata/dateutils
@@ -1582,6 +1586,7 @@ diffmatchpatch,https://github.com/rundel/diffmatchpatch
 diffobj,https://github.com/brodieg/diffobj
 diffpriv,https://github.com/brubinstein/diffpriv
 diffr,https://github.com/muschellij2/diffr
+diffudist,https://github.com/gbertagnolli/diffudist
 diffusion,https://github.com/mamut86/diffusion
 diffusionMap,https://github.com/rcannood/diffusionmap
 DiffusionRgqd,https://github.com/eta21/diffusionrgqd
@@ -2006,6 +2011,7 @@ epinetr,https://github.com/diondetterer/epinetr
 EpiNow2,https://github.com/epiforecasts/epinow2
 epiphy,https://github.com/chgigot/epiphy
 episensr,https://github.com/dhaine/episensr
+EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection
 epitab,https://github.com/stulacy/epitab
 epitrix,https://github.com/reconhub/epitrix
 epitweetr,https://github.com/eu-ecdc/epitweetr
@@ -5053,6 +5059,7 @@ phangorn,https://github.com/klausvigo/phangorn
 pharmaRTF,https://github.com/atorus-research/pharmartf
 pharmr,https://github.com/pharmpy/pharmr
 phaseR,https://github.com/mjg211/phaser
+PhaseTypeR,https://github.com/rivasiker/phasetyper
 PheCAP,https://github.com/celehs/phecap
 PHEindicatormethods,https://github.com/publichealthengland/pheindicatormethods
 phenesse,https://github.com/mbelitz/phenesse
@@ -5202,9 +5209,12 @@ pmpp,https://github.com/michaloleszak/pmpp
 pmwg,https://github.com/newcastlecl/pmwg
 PMwR,https://github.com/enricoschumann/pmwr
 pmxTools,https://github.com/kestrel99/pmxtools
+PNADcIBGE,https://github.com/gabriel-assuncao/pnadcibge
+PNSIBGE,https://github.com/gabriel-assuncao/pnsibge
 PNWColors,https://github.com/jakelawlor/pnwcolors
 pocketapi,https://github.com/correlaid/pocketapi
 poems,https://github.com/globalecologylab/poems
+POFIBGE,https://github.com/gabriel-assuncao/pofibge
 pointblank,https://github.com/rich-iannone/pointblank
 pointr,https://github.com/jsugarelli/pointr
 poio,https://github.com/rl10n/poio
@@ -6312,7 +6322,6 @@ roxygen2md,https://github.com/r-lib/roxygen2md
 roxytest,https://github.com/mikldk/roxytest
 rPACI,https://github.com/dariorlual/rpaci
 rPackedBar,https://github.com/adamspannbauer/rpackedbar
-Rpadrino,https://github.com/padrinodb/rpadrino
 RPANDA,https://github.com/hmorlon/panda
 rPanglaoDB,https://github.com/dosorio/rpanglaodb
 rpart,https://github.com/bethatkinson/rpart
@@ -6867,6 +6876,7 @@ SignacX,https://github.com/mathewchamberlain/signacx
 signalHsmm,https://github.com/michbur/signalhsmm
 signnet,https://github.com/schochastics/signnet
 signs,https://github.com/benjaminwolfe/signs
+sigora,https://github.com/wolski/sigora
 sigr,https://github.com/winvector/sigr
 SIHR,https://github.com/prabrishar1/sihr
 silicate,https://github.com/hypertidy/silicate
@@ -6930,6 +6940,7 @@ sinew,https://github.com/yonicd/sinew
 singcar,https://github.com/jorittmo/singcar
 SingleCaseES,https://github.com/jepusto/singlecasees
 SinIW,https://github.com/trigonometricdistribution/siniw
+SIPDIBGE,https://github.com/gabriel-assuncao/sipdibge
 siplab,https://github.com/ogarciav/siplab
 sirad,https://github.com/r-forge/sirad
 sirt,https://github.com/alexanderrobitzsch/sirt
@@ -7838,6 +7849,7 @@ TSdbi,https://github.com/r-forge/tsdbi
 TSDFGS,https://gitlab.com/oumark/tsdfgs
 tsDyn,https://github.com/matthieustigler/tsdyn
 tsensembler,https://github.com/vcerqueira/tsensembler
+tsentiment,https://github.com/hakkisabah/tsentiment
 TSfame,https://github.com/r-forge/tsdbi
 tsfeatures,https://github.com/robjhyndman/tsfeatures
 tsfgrnn,https://github.com/franciscomartinezdelrio/tsfgrnn

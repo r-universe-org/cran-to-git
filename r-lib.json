@@ -1,7 +1,7 @@
 [
   {
     "package": "archive",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/archive",
     "available": true
   },
@@ -13,7 +13,7 @@
   },
   {
     "package": "available",
-    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/available",
     "available": true
   },
@@ -25,13 +25,13 @@
   },
   {
     "package": "bench",
-    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/r-lib/bench",
     "available": true
   },
   {
     "package": "brio",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/brio",
     "available": true
   },
@@ -109,7 +109,7 @@
   },
   {
     "package": "cpp11",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Romain François <romain@rstudio.com>",
     "url": "https://github.com/r-lib/cpp11",
     "available": true
   },
@@ -133,7 +133,7 @@
   },
   {
     "package": "decor",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Romain François <romain@rstudio.com>",
     "url": "https://github.com/r-lib/decor",
     "available": true
   },
@@ -151,7 +151,7 @@
   },
   {
     "package": "devtools",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/devtools",
     "available": true
   },
@@ -193,7 +193,7 @@
   },
   {
     "package": "fs",
-    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/fs",
     "available": true
   },
@@ -229,7 +229,7 @@
   },
   {
     "package": "gmailr",
-    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/gmailr",
     "available": true
   },
@@ -343,7 +343,7 @@
   },
   {
     "package": "pkgbuild",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/pkgbuild",
     "available": true
   },
@@ -373,7 +373,7 @@
   },
   {
     "package": "pkgload",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/r-lib/pkgload",
     "available": true
   },
@@ -439,7 +439,7 @@
   },
   {
     "package": "remotes",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/remotes",
     "available": true
   },
@@ -535,7 +535,7 @@
   },
   {
     "package": "urlchecker",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/urlchecker",
     "available": true
   },
@@ -559,7 +559,7 @@
   },
   {
     "package": "vroom",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/vroom",
     "available": true
   },
@@ -583,13 +583,13 @@
   },
   {
     "package": "withr",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/r-lib/withr",
     "available": true
   },
   {
     "package": "xml2",
-    "maintainer": "Jim Hester <jim.hester@rstudio.com>",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/xml2",
     "available": true
   },
