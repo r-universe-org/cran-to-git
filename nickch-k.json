@@ -1,5 +1,11 @@
 [
   {
+    "package": "causaldata",
+    "maintainer": "Nick Huntington-Klein <nhuntington-klein@seattleu.edu>",
+    "url": "https://github.com/nickch-k/causaldata",
+    "available": false
+  },
+  {
     "package": "vtable",
     "maintainer": "Nick Huntington-Klein <nhuntington-klein@seattleu.edu>",
     "url": "https://github.com/nickch-k/vtable",

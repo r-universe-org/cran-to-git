@@ -647,7 +647,6 @@ bpbounds,https://github.com/remlapmot/bpbounds
 bpcs,https://github.com/davidissamattos/bpcs
 BPmodel,https://github.com/santosneto/bpmodel
 bpnreg,https://github.com/joliencremers/bpnreg
-bRacatus,https://github.com/eduardoarle/bracatus
 bracer,https://github.com/trevorld/bracer
 BradleyTerry2,https://github.com/hturner/bradleyterry2
 BrailleR,https://github.com/ajrgodfrey/brailler
@@ -807,6 +806,7 @@ catSurv,https://github.com/erossiter/catsurv
 cattonum,https://github.com/bfgray3/cattonum
 causact,https://github.com/flyaflya/causact
 causalCmprsk,https://github.com/bella2001/causalcmprsk
+causaldata,https://github.com/nickch-k/causaldata
 causaleffect,https://github.com/santikka/causaleffect
 CausalGPS,https://github.com/fasrc/causalgps
 CausalMBSTS,https://github.com/fmenchetti/causalmbsts
@@ -3140,6 +3140,7 @@ httpuv,https://github.com/rstudio/httpuv
 httr,https://github.com/r-lib/httr
 httr2,https://github.com/r-lib/httr2
 hues,https://github.com/johnbaums/hues
+huito,https://github.com/flavjack/huito
 humanFormat,https://github.com/dustin/humanformat
 humaniformat,https://github.com/ironholds/humaniformat
 humanize,https://github.com/gerrymanoim/humanize
@@ -3792,6 +3793,7 @@ lsasim,https://github.com/tmatta/lsasim
 lshorth,https://github.com/r-forge/lshorth
 lslx,https://github.com/psyphh/lslx
 lspls,https://github.com/bhmevik/lspls
+lsr,https://github.com/djnavarro/lsr
 LSTS,https://github.com/pachadotdev/lsts
 LSX,https://github.com/koheiw/lsx
 ltm,https://github.com/drizopoulos/ltm
@@ -4627,12 +4629,14 @@ nos,https://github.com/txm676/nos
 nosoi,https://github.com/slequime/nosoi
 notifyme,https://github.com/epijim/notifyme
 novelforestSG,https://github.com/hrlai/novelforestsg
+nowcastDFM,https://github.com/dhopp1/nowcastdfm
 nowcasting,https://github.com/nmecsys/nowcasting
 Nozzle.R1,https://github.com/parklab/nozzle
 np,https://github.com/jeffreyracine/r-package-np
 npde,https://github.com/ecomets/npde30
 npExact,https://github.com/zauster/npexact
 NPflow,https://github.com/sistm/npflow
+nphPower,https://github.com/hcheng99/nphpower
 nplr,https://github.com/fredcommo/nplr
 npmlda,https://github.com/npmldabook/npmlda
 NPMLEmix,https://github.com/nabarund/npmlemix
@@ -4665,7 +4669,6 @@ obfuscatoR,https://github.com/edsandorf/obfuscator
 objectremover,https://github.com/alan-y/objectremover
 Observation,https://github.com/paulhibbing/observation
 observer,https://github.com/paulponcet/observer
-occCite,https://github.com/hannahlowens/occcite
 oce,https://github.com/dankelley/oce
 oceanis,https://github.com/insee-psar-at/oceanis-package
 oceanwaves,https://github.com/millerlp/oceanwaves
@@ -4706,6 +4709,7 @@ omu,https://github.com/connor-reid-tiffany/omu
 onbabynames,https://github.com/desautm/onbabynames
 onbrand,https://github.com/john-harrold/onbrand
 oneclust,https://github.com/nanxstats/oneclust
+onemap,https://github.com/augusto-garcia/onemap
 onepass,https://github.com/jonlinca/onepass
 OneR,https://github.com/vonjd/oner
 OneSampleMR,https://github.com/remlapmot/onesamplemr
@@ -4755,6 +4759,7 @@ operators,https://github.com/romainfrancois/operators
 opitools,https://github.com/manalytics/opitools
 oppr,https://github.com/prioritizr/oppr
 optband,https://github.com/seasamgo/optband
+optedr,https://github.com/kezrael/optedr
 opticut,https://github.com/psolymos/opticut
 optigrab,https://github.com/decisionpatterns/optigrab
 optimall,https://github.com/yangjasp/optimall
@@ -5620,7 +5625,6 @@ radiant.data,https://github.com/radiant-rstats/radiant.data
 radiant.design,https://github.com/radiant-rstats/radiant.design
 radiant.model,https://github.com/radiant-rstats/radiant.model
 radiant.multivariate,https://github.com/radiant-rstats/radiant.multivariate
-radix,https://github.com/rstudio/radix
 radmixture,https://github.com/wegene-llc/radmixture
 radous,https://github.com/feddelegrand7/radous
 radsafer,https://github.com/markhogue/radsafer
@@ -5930,6 +5934,7 @@ regress,https://github.com/kbroman/regress
 regrrr,https://github.com/rkzyang/regrrr
 RegSDC,https://github.com/olangsrud/regsdc
 regtools,https://github.com/matloff/regtools
+regweight,https://github.com/ddimmery/regweight
 rehh,https://gitlab.com/oneoverx/rehh
 rehydratoR,https://github.com/kevincoakley/rehydrator
 ReIns,https://github.com/treynkens/reins
@@ -8167,6 +8172,7 @@ wdm,https://github.com/tnagler/wdm-r
 wdman,https://github.com/ropensci/wdman
 wdpar,https://github.com/prioritizr/wdpar
 weaana,https://github.com/byzheng/weaana
+weathercan,https://github.com/ropensci/weathercan
 weathermetrics,https://github.com/geanders/weathermetrics
 webchem,https://github.com/ropensci/webchem
 webdriver,https://github.com/rstudio/webdriver

@@ -186,12 +186,6 @@
     "available": true
   },
   {
-    "package": "radix",
-    "maintainer": "JJ Allaire <jj@rstudio.com>",
-    "url": "https://github.com/rstudio/radix",
-    "available": false
-  },
-  {
     "package": "reactlog",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
     "url": "https://github.com/rstudio/reactlog",

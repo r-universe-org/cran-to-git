@@ -793,7 +793,7 @@
   },
   {
     "package": "PostcodesioR",
-    "maintainer": "Eryk Walczak <eryk.j.walczak@gmail.com>",
+    "maintainer": "Eryk Walczak <erykjwalczak@gmail.com>",
     "url": "https://github.com/ropensci/postcodesior",
     "available": true
   },
@@ -1365,6 +1365,12 @@
     "package": "wdman",
     "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
     "url": "https://github.com/ropensci/wdman",
+    "available": true
+  },
+  {
+    "package": "weathercan",
+    "maintainer": "Steffi LaZerte <steffi@steffi.ca>",
+    "url": "https://github.com/ropensci/weathercan",
     "available": true
   },
   {
