@@ -528,6 +528,12 @@
     "available": true
   },
   {
+    "package": "jstor",
+    "maintainer": "Thomas Klebel <t.klebel@hotmail.com>",
+    "url": "https://github.com/ropensci/jstor",
+    "available": true
+  },
+  {
     "package": "katex",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/katex",
