@@ -270,6 +270,13 @@
     "available": true
   },
   {
+    "package": "DPQ",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/specfun",
+    "subdir": "pkg/DPQ",
+    "available": true
+  },
+  {
     "package": "dsample",
     "maintainer": "Chel Hee Lee <gnustats@gmail.com>",
     "url": "https://github.com/r-forge/wanglee",
