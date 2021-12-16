@@ -689,6 +689,7 @@ broomExtra,https://github.com/indrajeetpatil/broomextra
 brotli,https://github.com/jeroen/brotli
 brranching,https://github.com/ropensci/brranching
 bruceR,https://github.com/psychbruce/brucer
+brulee,https://github.com/tidymodels/brulee
 brunnermunzel,https://github.com/toshi-ara/brunnermunzel
 bs4cards,https://github.com/djnavarro/bs4cards
 bs4Dash,https://github.com/rinterface/bs4dash
@@ -3920,7 +3921,7 @@ markovchain,https://github.com/spedygiorgio/markovchain
 MarkowitzR,https://github.com/shabbychef/markowitzr
 marmap,https://github.com/ericpante/marmap
 marqLevAlg,https://github.com/vivianephilipps/marqlevalgparallel
-MARSS,https://github.com/nwfsc-timeseries/marss
+MARSS,https://github.com/atsa-es/marss
 maSAE,https://gitlab.com/fvafrcu/masae
 mashr,https://github.com/stephenslab/mashr
 mason,https://github.com/lwjohnst86/mason
@@ -4166,7 +4167,6 @@ minqa,https://github.com/r-forge/optimizer
 minSNPs,https://github.com/ludwighoon/minsnps
 minval,https://github.com/gibbslab/minval
 mipfp,https://github.com/jojo-/mipfp
-mipred,https://github.com/bartjamertens/mipred
 MIRES,https://github.com/stephensrmmartin/mires
 mirt,https://github.com/philchalmers/mirt
 mirtCAT,https://github.com/philchalmers/mirtcat
@@ -4849,6 +4849,7 @@ OwenQ,https://github.com/stla/owenq
 owidR,https://github.com/piersyork/owidr
 owmr,https://github.com/crazycapivara/owmr
 ows4R,https://github.com/eblondel/ows4r
+ox,https://github.com/gogonzo/ox
 oxcgrt,https://github.com/como-ph/oxcgrt
 oysteR,https://github.com/sonatype-nexus-community/oyster
 ozmaps,https://github.com/mdsumner/ozmaps
@@ -5047,6 +5048,7 @@ pedsuite,https://github.com/magnusdv/pedsuite
 pedtools,https://github.com/magnusdv/pedtools
 PeerPerformance,https://github.com/ardiad/peerperformance
 PELVIS,https://gitlab.com/f-santos/pelvis
+pema,https://github.com/cjvanlissa/pema
 pems.utils,https://github.com/r-forge/pems
 penaltyLearning,https://github.com/tdhock/penaltylearning
 penfa,https://github.com/egeminiani/penfa
@@ -5291,6 +5293,7 @@ popEpi,https://github.com/wetrobot/popepi
 PopGenReport,https://github.com/green-striped-gecko/popgenreport
 popkin,https://github.com/storeylab/popkin
 poppr,https://github.com/grunwaldlab/poppr
+popPyramid,https://github.com/musajajorge/poppyramid
 popRF,https://github.com/wpgp/poprf
 popsom,https://github.com/lutzhamel/popsom
 poptrend,https://github.com/jknape/poptrend
@@ -5328,6 +5331,7 @@ ppdiag,https://github.com/owenward/ppdiag
 PPforest,https://github.com/natydasilva/ppforest
 ppgmmga,https://github.com/luca-scr/ppgmmga
 ppitables,https://github.com/katilingban/ppitables
+ppmf,https://github.com/christopherkenny/ppmf
 PPMR,https://github.com/umich-biostatistics/ppmr
 PPQplan,https://github.com/allenzhuaz/ppqplan
 PPTcirc,https://github.com/karlampm/pptcirc
@@ -5380,6 +5384,7 @@ primes,https://github.com/ironholds/primes
 PRIMME,https://github.com/primme/primme
 princurve,https://github.com/rcannood/princurve
 printr,https://github.com/yihui/printr
+prioriactions,https://github.com/prioriactions/prioriactions
 prioritizr,https://github.com/prioritizr/prioritizr
 prioritizrdata,https://github.com/prioritizr/prioritizrdata
 prism,https://github.com/ropensci/prism
@@ -5753,7 +5758,6 @@ rbace,https://github.com/ropensci/rbace
 RBaseX,https://github.com/benengbers/rbasex
 rBayesianOptimization,https://github.com/yanyachen/rbayesianoptimization
 rBDAT,https://gitlab.com/vochr/rbdat
-rbedrock,https://github.com/reedacartwright/rbedrock
 rbefdata,https://github.com/befdata/rbefdata
 rbenvo,https://github.com/apeterson91/rbenvo
 rbgm,https://github.com/australianantarcticdivision/rbgm
@@ -6063,6 +6067,7 @@ Rfast2,https://github.com/rfastofficial/rfast2
 RFCCA,https://github.com/calakus/rfcca
 RfEmpImp,https://github.com/shangzhi-hong/rfempimp
 rFerns,https://gitlab.com/mbq/rferns
+rFIA,https://github.com/hunter-stanke/rfia
 rfigshare,https://github.com/ropensci/rfigshare
 rfinterval,https://github.com/haozhestat/rfinterval
 rfishbase,https://github.com/ropensci/rfishbase
@@ -6940,7 +6945,6 @@ simex,https://github.com/wolfganglederer/simex
 simExam,https://github.com/wleoncio/simexam
 simfam,https://github.com/ochoalab/simfam
 simfinapi,https://github.com/matthiasgomolka/simfinapi
-simfinR,https://github.com/msperlin/simfinr
 simglm,https://github.com/lebebr01/simglm
 SimHaz,https://github.com/rabbeelab/simhaz
 simhelpers,https://github.com/meghapsimatrix/simhelpers
@@ -7440,6 +7444,7 @@ surveyplanning,https://github.com/csblatvia/surveyplanning
 surveysd,https://github.com/statistikat/surveysd
 survHE,https://github.com/giabaio/survhe
 survival,https://github.com/therneau/survival
+survival.svb,https://github.com/mkomod/survival.svb
 survivalmodels,https://github.com/raphaels1/survivalmodels
 survivalsvm,https://github.com/imbs-hl/survivalsvm
 survivoR,https://github.com/doehm/survivor
@@ -8634,6 +8639,7 @@ derfinder,https://github.com/lcolladotor/derfinder
 derfinderHelper,https://github.com/leekgroup/derfinderhelper
 derfinderPlot,https://github.com/leekgroup/derfinderplot
 DESeq2,https://github.com/mikelove/deseq2
+destiny,https://github.com/theislab/destiny
 DEWSeq,https://github.com/embl-hentze-group/dewseq
 DIAlignR,https://github.com/shubham1637/dialignr
 diffcoexp,https://github.com/hidelab/diffcoexp
@@ -9304,6 +9310,5 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
-destiny,https://github.com/theislab/destiny
 ENCODExplorer,https://github.com/charlesjb/encodexplorer
 ALPS,https://github.com/itsvenu/alps

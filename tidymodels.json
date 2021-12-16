@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "brulee",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/brulee",
+    "available": true
+  },
+  {
     "package": "butcher",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/tidymodels/butcher",

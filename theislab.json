@@ -1,14 +1,14 @@
 [
   {
-    "package": "zellkonverter",
-    "maintainer": "Luke Zappia <luke@lazappi.id.au>",
-    "url": "https://github.com/theislab/zellkonverter",
+    "package": "destiny",
+    "maintainer": "Philipp Angerer <phil.angerer@gmail.com>",
+    "url": "https://github.com/theislab/destiny",
     "available": true
   },
   {
-    "package": "destiny",
-    "maintainer": "Philipp Angerer <philipp.angerer@helmholtz-muenchen.de>",
-    "url": "https://github.com/theislab/destiny",
+    "package": "zellkonverter",
+    "maintainer": "Luke Zappia <luke@lazappi.id.au>",
+    "url": "https://github.com/theislab/zellkonverter",
     "available": true
   }
 ]
