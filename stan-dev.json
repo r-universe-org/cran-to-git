@@ -46,11 +46,5 @@
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
     "url": "https://github.com/stan-dev/shinystan",
     "available": true
-  },
-  {
-    "package": "stanette",
-    "maintainer": "Wenping Wang <wwang8198@gmail.com>",
-    "url": "https://github.com/stan-dev/rstan",
-    "available": false
   }
 ]
