@@ -1,5 +1,11 @@
 [
   {
+    "package": "sctransform",
+    "maintainer": "Christoph Hafemeister <christoph.hafemeister@nyu.edu>",
+    "url": "https://github.com/satijalab/sctransform",
+    "available": true
+  },
+  {
     "package": "Seurat",
     "maintainer": "Paul Hoffman <seurat@nygenome.org>",
     "url": "https://github.com/satijalab/seurat",

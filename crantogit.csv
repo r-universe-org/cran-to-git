@@ -247,6 +247,7 @@ arulesViz,https://github.com/mhahsler/arulesviz
 aRxiv,https://github.com/ropensci/arxiv
 ascii,https://github.com/mclements/ascii
 asciiSetupReader,https://github.com/jacobkap/asciisetupreader
+ascotraceR,https://github.com/ihsankhaliq/ascotracer
 asdreader,https://github.com/pierreroudier/asdreader
 ashr,https://github.com/stephens999/ashr
 AsioHeaders,https://github.com/eddelbuettel/asioheaders
@@ -254,7 +255,6 @@ askpass,https://github.com/r-lib/askpass
 aslib,https://github.com/coseal/aslib-r
 aspect,https://github.com/r-forge/psychor
 aSPU,https://github.com/ikwak2/aspu
-assemblerr,https://github.com/uupharmacometrics/assemblerr
 assert,https://github.com/olivierbinette/assert
 assertive,https://bitbucket.org/richierocks/assertive
 assertive.base,https://bitbucket.org/richierocks/assertive.base
@@ -293,6 +293,7 @@ auditor,https://github.com/modeloriented/auditor
 augmentedRCBD,https://github.com/aravind-j/augmentedrcbd
 auk,https://github.com/cornelllabofornithology/auk
 aurelius,https://github.com/modelop/hadrian
+aurin,https://github.com/asiripanich/aurin
 AustralianPoliticians,https://github.com/rohanalexander/australianpoliticians
 auth0,https://github.com/curso-r/auth0
 autocogs,https://github.com/schloerke/autocogs
@@ -1213,6 +1214,7 @@ cort,https://github.com/lrnv/cort
 corx,https://github.com/conig/corx
 cosinor,https://github.com/sachsmc/cosinor
 cosinor2,https://github.com/amutak/cosinor2
+cosmicsig,https://github.com/rozen-lab/cosmicsig
 CoSMoS,https://github.com/tychelab/cosmos
 costsensitive,https://github.com/david-cortes/costsensitive
 CosW,https://github.com/trigonometricdistribution/cosw
@@ -1975,7 +1977,6 @@ emov,https://github.com/schw4b/emov
 EmpiricalCalibration,https://github.com/ohdsi/empiricalcalibration
 EMSC,https://github.com/khliland/emsc
 EMSS,https://github.com/sangkyustat/emss
-emstreeR,https://github.com/allanvc/emstreer
 emulator,https://github.com/robinhankin/emulator
 emuR,https://github.com/ips-lmu/emur
 enc,https://github.com/krlmlr/enc
@@ -2927,6 +2928,7 @@ GramQuad,https://gitlab.com/iagogv/gramquad
 GRANBase,https://github.com/gmbecker/gran
 GRANCore,https://github.com/gmbecker/grancore
 grangers,https://github.com/matfar88/grangers
+grantham,https://github.com/maialab/grantham
 grapes,https://github.com/wlandau/grapes
 grapesAgri1,https://github.com/pratheesh3780/grapesagri1
 graph3d,https://github.com/stla/graph3d
@@ -4323,6 +4325,7 @@ mongolite,https://github.com/jeroen/mongolite
 mongopipe,https://gitlab.com/rpkgs/mongopipe
 monobin,https://github.com/andrija-djurovic/monobin
 monobinShiny,https://github.com/andrija-djurovic/monobinshiny
+monochromeR,https://github.com/cararthompson/monochromer
 monoClust,https://github.com/vinhtantran/monoclust
 monotonicity,https://github.com/skoestlmeier/monotonicity
 monreg,https://gitlab.com/scottkosty/monreg
@@ -4670,7 +4673,6 @@ nowcastDFM,https://github.com/dhopp1/nowcastdfm
 nowcasting,https://github.com/nmecsys/nowcasting
 Nozzle.R1,https://github.com/parklab/nozzle
 np,https://github.com/jeffreyracine/r-package-np
-npde,https://github.com/ecomets/npde30
 npExact,https://github.com/zauster/npexact
 NPflow,https://github.com/sistm/npflow
 nphPower,https://github.com/hcheng99/nphpower
@@ -5851,7 +5853,6 @@ RcppHNSW,https://github.com/jlmelville/rcpphnsw
 RcppHungarian,https://github.com/jsilve24/rcpphungarian
 RcppMeCab,https://github.com/junhewk/rcppmecab
 RcppML,https://github.com/zdebruine/rcppml
-RcppMLPACK,https://github.com/rcppmlpack/rcppmlpack1
 RcppMsgPack,https://github.com/eddelbuettel/rcppmsgpack
 RcppNumerical,https://github.com/yixuan/rcppnumerical
 RcppParallel,https://github.com/rcppcore/rcppparallel
@@ -5964,6 +5965,7 @@ REDCapR,https://github.com/ouhscbbmc/redcapr
 REddyProc,https://github.com/bgctw/reddyproc
 REddyProcNCDF,https://github.com/bgctw/reddyprocncdf
 redist,https://github.com/alarm-redist/redist
+redistmetrics,https://github.com/alarm-redist/redistmetrics
 redland,https://github.com/ropensci/redland-bindings
 redlistr,https://github.com/red-list-ecosystem/redlistr
 redoc,https://github.com/meztez/redoc
@@ -6709,7 +6711,7 @@ scs,https://github.com/florianschwendinger/scs
 scTenifoldKnk,https://github.com/cailab-tamu/sctenifoldknk
 scTenifoldNet,https://github.com/cailab-tamu/sctenifoldnet
 SCtools,https://github.com/bcastanho/sctools
-sctransform,https://github.com/christophh/sctransform
+sctransform,https://github.com/satijalab/sctransform
 scutr,https://github.com/s-kganz/scutr
 sdcHierarchies,https://github.com/bernhard-da/sdchierarchies
 sdcLog,https://github.com/matthiasgomolka/sdclog
@@ -8312,7 +8314,7 @@ wordpiece.data,https://github.com/macmillancontentscience/wordpiece.data
 wordpredictor,https://github.com/pakjiddat/word-predictor
 wordsalad,https://github.com/emilhvitfeldt/wordsalad
 wordspace,https://github.com/r-forge/wordspace
-workflowr,https://github.com/jdblischak/workflowr
+workflowr,https://github.com/workflowr/workflowr
 workflows,https://github.com/tidymodels/workflows
 workflowsets,https://github.com/tidymodels/workflowsets
 workloopR,https://github.com/ropensci/workloopr
