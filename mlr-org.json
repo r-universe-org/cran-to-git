@@ -21,7 +21,7 @@
     "package": "mlr",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/mlr-org/mlr",
-    "available": false
+    "available": true
   },
   {
     "package": "mlr3",
@@ -105,7 +105,7 @@
     "package": "mlr3proba",
     "maintainer": "Raphael Sonabend <raphaelsonabend@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3proba",
-    "available": false
+    "available": true
   },
   {
     "package": "mlr3spatial",
@@ -123,6 +123,12 @@
     "package": "mlr3tuning",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3tuning",
+    "available": true
+  },
+  {
+    "package": "mlr3tuningspaces",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3tuningspaces",
     "available": true
   },
   {
