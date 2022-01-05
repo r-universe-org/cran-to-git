@@ -86,7 +86,8 @@
     "package": "censReg",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/sampleselection",
-    "available": false
+    "subdir": "pkg/censReg",
+    "available": true
   },
   {
     "package": "cffdrs",
@@ -147,7 +148,8 @@
     "package": "CommonJavaJars",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/r-forge/gsrmtp",
-    "available": false
+    "subdir": "pkg/CommonJavaJars",
+    "available": true
   },
   {
     "package": "cops",

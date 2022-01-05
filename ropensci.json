@@ -177,7 +177,13 @@
     "package": "clifro",
     "maintainer": "Blake Seers <blake.seers@gmail.com>",
     "url": "https://github.com/ropensci/clifro",
-    "available": false
+    "available": true
+  },
+  {
+    "package": "codemetar",
+    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
+    "url": "https://github.com/ropensci/codemetar",
+    "available": true
   },
   {
     "package": "coder",

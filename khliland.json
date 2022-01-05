@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "fixedTimeEvents",
+    "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
+    "url": "https://github.com/khliland/fixedtimeevents",
+    "available": true
+  },
+  {
     "package": "multiblock",
     "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
     "url": "https://github.com/khliland/multiblock",
@@ -15,6 +21,18 @@
     "package": "pls",
     "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
     "url": "https://github.com/khliland/pls",
+    "available": true
+  },
+  {
+    "package": "plsVarSel",
+    "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
+    "url": "https://github.com/khliland/plsvarsel",
+    "available": true
+  },
+  {
+    "package": "RcmdrPlugin.NMBU",
+    "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
+    "url": "https://github.com/khliland/rcmdrplugin.nmbu",
     "available": true
   }
 ]
