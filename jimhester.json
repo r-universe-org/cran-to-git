@@ -4,5 +4,11 @@
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/jimhester/knitrbootstrap",
     "available": true
+  },
+  {
+    "package": "lintr",
+    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
+    "url": "https://github.com/jimhester/lintr",
+    "available": false
   }
 ]

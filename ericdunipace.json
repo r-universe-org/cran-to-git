@@ -1,5 +1,11 @@
 [
   {
+    "package": "approxOT",
+    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
+    "url": "https://github.com/ericdunipace/approxot",
+    "available": true
+  },
+  {
     "package": "RcppCGAL",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
     "url": "https://github.com/ericdunipace/rcppcgal",

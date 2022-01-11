@@ -93,7 +93,7 @@
     "package": "conflicted",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/conflicted",
-    "available": true
+    "available": false
   },
   {
     "package": "coro",
@@ -273,18 +273,12 @@
     "package": "later",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/r-lib/later",
-    "available": true
+    "available": false
   },
   {
     "package": "lifecycle",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/r-lib/lifecycle",
-    "available": true
-  },
-  {
-    "package": "lintr",
-    "maintainer": "Jim Hester <james.f.hester@gmail.com>",
-    "url": "https://github.com/r-lib/lintr",
     "available": true
   },
   {
@@ -441,6 +435,12 @@
     "package": "remotes",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/remotes",
+    "available": true
+  },
+  {
+    "package": "rex",
+    "maintainer": "Kevin Ushey <kevinushey@gmail.com>",
+    "url": "https://github.com/r-lib/rex",
     "available": true
   },
   {

@@ -15,7 +15,7 @@
     "package": "leafem",
     "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
     "url": "https://github.com/r-spatial/leafem",
-    "available": true
+    "available": false
   },
   {
     "package": "leafpm",
@@ -39,7 +39,7 @@
     "package": "link2GI",
     "maintainer": "Chris Reudenbach <reudenbach@uni-marburg.de>",
     "url": "https://github.com/r-spatial/link2gi",
-    "available": true
+    "available": false
   },
   {
     "package": "lwgeom",
