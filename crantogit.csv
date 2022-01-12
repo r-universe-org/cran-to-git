@@ -180,6 +180,7 @@ apaTables,https://github.com/dstanley4/apatables
 APAtree,https://github.com/jonasglatthorn/apatree
 apcf,https://github.com/rnuske/apcf
 apcluster,https://github.com/ubod/apcluster
+APCtools,https://github.com/bauer-alex/apctools
 apex,https://github.com/thibautjombart/apex
 apexcharter,https://github.com/dreamrs/apexcharter
 aphid,https://github.com/shaunpwilkinson/aphid
@@ -600,7 +601,7 @@ bjscrapeR,https://github.com/dylanjm/bjscraper
 bkmr,https://github.com/jenfb/bkmr
 blandr,https://github.com/deepankardatta/blandr
 BlanketStatsments,https://github.com/p-mq/blanketstatsments
-blaster,https://github.com/manutamminen/blaster
+blaster,https://github.com/tamminenlab/blaster
 blastula,https://github.com/rstudio/blastula
 BLCOP,https://github.com/mangothecat/blcop
 blindrecalc,https://github.com/imbi-heidelberg/blindrecalc
@@ -991,6 +992,7 @@ clifro,https://github.com/ropensci/clifro
 climaemet,https://github.com/ropenspain/climaemet
 climate,https://github.com/bczernecki/climate
 climateStability,https://github.com/hannahlowens/climatestability
+climatrends,https://github.com/agrdatasci/climatrends
 climdex.pcic,https://github.com/pacificclimate/climdex.pcic
 ClimDown,https://github.com/pacificclimate/climdown
 climextRemes,https://bitbucket.org/lbl-cascade/climextremes-dev
@@ -1429,6 +1431,7 @@ datamods,https://github.com/dreamrs/datamods
 dataonderivatives,https://github.com/imanuelcostigan/dataonderivatives
 dataone,https://github.com/dataoneorg/rdataone
 datapack,https://github.com/ropensci/datapack
+datapackage.r,https://github.com/frictionlessdata/datapackage-r
 DataPackageR,https://github.com/ropensci/datapackager
 datapasta,https://github.com/milesmcbain/datapasta
 dataPreparation,https://github.com/eltoulemonde/datapreparation
@@ -1754,6 +1757,7 @@ dpmr,https://github.com/christophergandrud/dpmr
 dppmix,https://bitbucket.org/djhshih/dppmix
 DPQ,https://github.com/r-forge/specfun
 dpseg,https://gitlab.com/raim/dpseg
+DQAstats,https://github.com/miracum/dqa-dqastats
 dqrng,https://github.com/daqana/dqrng
 dr4pl,https://bitbucket.org/dittmerlab/dr4pl
 dracor,https://github.com/jefferis/dracor
@@ -2322,9 +2326,7 @@ fipio,https://github.com/ufokn/fipio
 FiRE,https://github.com/princethewinner/fire
 firebase,https://github.com/johncoene/firebase
 fishbc,https://github.com/poissonconsulting/fishbc
-fishflux,https://github.com/nschiett/fishflux
 fishtree,https://github.com/jonchang/fishtree
-fishualize,https://github.com/nschiett/fishualize
 fitbitr,https://github.com/mrkaye97/fitbitr
 fitbitScraper,https://github.com/corynissen/fitbitscraper
 fitbitViz,https://github.com/mlampros/fitbitviz
@@ -2406,6 +2408,7 @@ forestControl,https://github.com/aberhrml/forestcontrol
 forestecology,https://github.com/rudeboybert/forestecology
 forestmangr,https://github.com/sollano/forestmangr
 forestplot,https://github.com/gforge/forestplot
+forestploter,https://github.com/adayim/forestploter
 forestr,https://github.com/atkinsjeff/forestr
 forestry,https://github.com/jienagu/forestry
 ForestTools,https://github.com/andrew-plowright/foresttools
@@ -2447,6 +2450,7 @@ freegroup,https://github.com/robinhankin/freegroup
 freesurfer,https://github.com/muschellij2/freesurfer
 freesurferformats,https://github.com/dfsp-spirit/freesurferformats
 frenchdata,https://github.com/nareal/frenchdata
+freqdistributionNogives,https://github.com/harshit-budakoti/freqdistributionnogives
 FreqProf,https://github.com/aibrt/freqprof
 freqtables,https://github.com/brad-cannell/freqtables
 frequency,https://github.com/wilcoxa/frequency
@@ -2744,6 +2748,7 @@ gglogo,https://github.com/heike/gglogo
 ggloop,https://github.com/seasmith/ggloop
 gglorenz,https://github.com/jjchern/gglorenz
 ggmap,https://github.com/dkahle/ggmap
+ggmatplot,https://github.com/xuan-liang/ggmatplot
 ggmcmc,https://github.com/xfim/ggmcmc
 ggmix,https://github.com/sahirbhatnagar/ggmix
 GGMncv,https://github.com/donaldrwilliams/ggmncv
@@ -3091,7 +3096,7 @@ HeritSeq,https://github.com/kechrislab/heritseq
 hermiter,https://github.com/mikejareds/hermiter
 hesim,https://github.com/hesim-dev/hesim
 hettreatreg,https://github.com/tslocz/hettreatreg
-hettx,https://github.com/bfifield/detect_heteffects
+hettx,https://github.com/bfifield/hettx
 hetu,https://github.com/ropengov/hetu
 heuristica,https://github.com/jeanimal/heuristica
 heuristicsmineR,https://github.com/bupaverse/heuristicsminer
@@ -3730,7 +3735,7 @@ libr,https://github.com/dbosak01/libr
 librarian,https://github.com/desiquintans/librarian
 librarysnapshot,https://github.com/petermeissner/librarysnapshot
 libsoc,https://github.com/rikardn/libsoc
-lidR,https://github.com/jean-romain/lidr
+lidR,https://github.com/r-lidar/lidr
 lifecontingencies,https://github.com/spedygiorgio/lifecontingencies
 lifecycle,https://github.com/r-lib/lifecycle
 liftr,https://github.com/nanxstats/liftr
@@ -3768,7 +3773,7 @@ linne,https://github.com/johncoene/linne
 linpk,https://github.com/benjaminrich/linpk
 linprog,https://github.com/r-forge/linprog
 lintools,https://github.com/data-cleaning/lintools
-lintr,https://github.com/jimhester/lintr
+lintr,https://github.com/r-lib/lintr
 liqueueR,https://github.com/datawookie/liqueuer
 lisa,https://github.com/tylurp/lisa
 listarrays,https://github.com/t-kalinowski/listarrays
@@ -4241,6 +4246,7 @@ MLGL,https://github.com/modal-inria/mlgl
 MLID,https://github.com/profrichharris/mlid
 MLmetrics,https://github.com/yanyachen/mlmetrics
 MLML2R,https://github.com/samarafk/mlml2r
+MLMusingR,https://github.com/flh3/mlmusingr
 mlogit,https://github.com/r-forge/mlogit
 mlpack,https://github.com/mlpack/mlpack
 MLPUGS,https://github.com/bearloga/mlpugs
@@ -4647,6 +4653,7 @@ nlmixr,https://github.com/nlmixrdevelopment/nlmixr
 NLMR,https://github.com/ropensci/nlmr
 nlraa,https://github.com/femiguez/nlraa
 nlrx,https://github.com/ropensci/nlrx
+nlsic,https://github.com/mathscell/nlsic
 nlstools,https://github.com/aursiber/nlstools
 nltm,https://github.com/mclements/nltm
 nLTT,https://github.com/thijsjanzen/nltt
@@ -4669,6 +4676,7 @@ noaastormevents,https://github.com/geanders/noaastormevents
 noah,https://github.com/teebusch/noah
 noctua,https://github.com/dyfanjones/noctua
 nodbi,https://github.com/ropensci/nodbi
+nodeSub,https://github.com/thijsjanzen/nodesub
 nodiv,https://github.com/mkborregaard/nodiv
 nofrills,https://github.com/egnha/nofrills
 noisyCE2,https://github.com/f-santi/noisyce2
@@ -5419,6 +5427,7 @@ primes,https://github.com/ironholds/primes
 PRIMME,https://github.com/primme/primme
 princurve,https://github.com/rcannood/princurve
 printr,https://github.com/yihui/printr
+prinvars,https://github.com/ronho/prinvars
 prioritizr,https://github.com/prioritizr/prioritizr
 prioritizrdata,https://github.com/prioritizr/prioritizrdata
 prism,https://github.com/ropensci/prism
@@ -7305,7 +7314,7 @@ sqlscore,https://github.com/wwbrannon/sqlscore
 sqlutils,https://github.com/jbryer/sqlutils
 squash,https://github.com/aroneklund/squash
 squashinformr,https://github.com/haydenmacdonald/squashinformr
-squid,https://github.com/hallegue/squid
+squid,https://github.com/squid-group/squid
 srm,https://github.com/alexanderrobitzsch/srm
 srt,https://github.com/kiernann/srt
 SRTtools,https://github.com/chihangchen/srttools
@@ -7646,6 +7655,7 @@ Ternary,https://github.com/ms609/ternary
 terra,https://github.com/rspatial/terra
 terrainmeshr,https://github.com/tylermorganwall/terrainmeshr
 terrainr,https://github.com/ropensci/terrainr
+tessellation,https://github.com/stla/tessellation
 tesseract,https://github.com/ropensci/tesseract
 testdat,https://github.com/socialresearchcentre/testdat
 TestDesign,https://github.com/choi-phd/testdesign
@@ -7706,6 +7716,7 @@ Thermimage,https://github.com/gtatters/thermimage
 thestats,https://github.com/analyticsresearchlab/thestats
 thief,https://github.com/robjhyndman/thief
 thinkr,https://github.com/thinkr-open/thinkr
+this.path,https://github.com/arcadeantics/this.path
 thor,https://github.com/richfitz/thor
 thorn,https://github.com/stla/thorn
 ThreeArmedTrials,https://github.com/tobiasmuetze/threearmedtrials
@@ -7836,6 +7847,7 @@ TMB,https://github.com/kaskr/adcomp
 tmbstan,https://github.com/kaskr/tmbstan
 Tmisc,https://github.com/stephenturner/tmisc
 tmt,https://github.com/jansteinfeld/tmt
+toastui,https://github.com/dreamrs/toastui
 TOC,https://github.com/amsantac/toc
 togglr,https://github.com/thinkr-open/togglr
 tokenizers,https://github.com/ropensci/tokenizers

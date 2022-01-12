@@ -3,6 +3,7 @@
     "package": "lfstat",
     "maintainer": "Tobias Gauster <t.gauster@boku.ac.at>",
     "url": "https://github.com/mundl/lfstat",
-    "available": false
+    "subdir": "pkg/lfstat",
+    "available": true
   }
 ]

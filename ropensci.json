@@ -483,7 +483,7 @@
     "package": "hydroscoper",
     "maintainer": "Konstantinos Vantas <kon.vantas@gmail.com>",
     "url": "https://github.com/ropensci/hydroscoper",
-    "available": false
+    "available": true
   },
   {
     "package": "iheatmapr",
@@ -555,7 +555,7 @@
     "package": "lightr",
     "maintainer": "Hugo Gruson <hugo.gruson+R@normalesup.org>",
     "url": "https://github.com/ropensci/lightr",
-    "available": false
+    "available": true
   },
   {
     "package": "lingtypology",

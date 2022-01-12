@@ -465,7 +465,8 @@
     "package": "lbiassurv",
     "maintainer": "Vahid Partovi Nia <vahid.partovinia@polymtl.ca>",
     "url": "https://github.com/r-forge/lbiassurv",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "linprog",

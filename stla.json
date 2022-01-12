@@ -105,7 +105,7 @@
     "package": "kantorovich",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/kantorovich",
-    "available": true
+    "available": false
   },
   {
     "package": "matrixsampling",
@@ -195,6 +195,12 @@
     "package": "syt",
     "maintainer": "Stéphane Laurent <laurent_step@yahoo.fr>",
     "url": "https://github.com/stla/syt",
+    "available": true
+  },
+  {
+    "package": "tessellation",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/tessellation",
     "available": true
   },
   {

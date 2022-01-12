@@ -3,7 +3,8 @@
     "package": "httk",
     "maintainer": "John Wambaugh <wambaugh.john@epa.gov>",
     "url": "https://github.com/usepa/comptox-expocast-httk",
-    "available": false
+    "subdir": "httk",
+    "available": true
   },
   {
     "package": "pTITAN2",
