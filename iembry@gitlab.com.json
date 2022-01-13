@@ -9,13 +9,13 @@
     "package": "iemisc",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://gitlab.com/iembry/iemisc",
-    "available": true
+    "available": false
   },
   {
     "package": "iemiscdata",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://gitlab.com/iembry/iemiscdata",
-    "available": true
+    "available": false
   },
   {
     "package": "iemisctext",
@@ -27,6 +27,12 @@
     "package": "install.load",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://gitlab.com/iembry/install.load",
+    "available": true
+  },
+  {
+    "package": "jab.adverse.reactions",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/jab.adverse.reactions",
     "available": true
   },
   {
