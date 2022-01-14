@@ -10,6 +10,7 @@
     "package": "rlfsm",
     "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
     "url": "https://gitlab.com/dmitry_otryakhin/tools-for-parameter-estimation-of-the-linear-fractional-stable-motion",
-    "available": false
+    "subdir": "rlfsm",
+    "available": true
   }
 ]

@@ -420,6 +420,12 @@
     "available": true
   },
   {
+    "package": "gittargets",
+    "maintainer": "William Michael Landau <will.landau@gmail.com>",
+    "url": "https://github.com/ropensci/gittargets",
+    "available": true
+  },
+  {
     "package": "googleLanguageR",
     "maintainer": "Mark Edmondson <r@sunholo.com>",
     "url": "https://github.com/ropensci/googlelanguager",
