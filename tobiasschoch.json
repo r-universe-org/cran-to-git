@@ -1,5 +1,11 @@
 [
   {
+    "package": "robsurvey",
+    "maintainer": "Tobias Schoch <tobias.schoch@fhnw.ch>",
+    "url": "https://github.com/tobiasschoch/robsurvey",
+    "available": true
+  },
+  {
     "package": "wbacon",
     "maintainer": "Tobias Schoch <tobias.schoch@gmail.com>",
     "url": "https://github.com/tobiasschoch/wbacon",
