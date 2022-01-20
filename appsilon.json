@@ -1,5 +1,11 @@
 [
   {
+    "package": "data.validator",
+    "maintainer": "Marcin Dubel <marcin@appsilon.com>",
+    "url": "https://github.com/appsilon/data.validator",
+    "available": true
+  },
+  {
     "package": "semantic.dashboard",
     "maintainer": "Developers Appsilon <support+opensource@appsilon.com>",
     "url": "https://github.com/appsilon/semantic.dashboard",
