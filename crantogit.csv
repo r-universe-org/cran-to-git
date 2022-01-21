@@ -563,7 +563,7 @@ binford,https://github.com/benmarwick/binford
 binman,https://github.com/ropensci/binman
 BinQuasi,https://github.com/emilygoren/binquasi
 binr,https://github.com/jabiru/binr
-binsegRcpp,https://github.com/tdhock/binseg
+binsegRcpp,https://github.com/tdhock/binsegrcpp
 binst,https://github.com/jules-and-dave/binst
 bio3d,https://bitbucket.org/grantlab/bio3d
 bioacoustics,https://github.com/wavx/bioacoustics
@@ -925,6 +925,7 @@ ChemoSpec2D,https://github.com/bryanhanson/chemospec2d
 ChemoSpecUtils,https://github.com/bryanhanson/chemospecutils
 cherryblossom,https://github.com/openintrostat/cherryblossom
 chess,https://github.com/curso-r/chess
+chessR,https://github.com/jaseziv/chessr
 chi,https://github.com/dkahle/chi
 childdevdata,https://github.com/d-score/childdevdata
 childesr,https://github.com/langcog/childesr
@@ -1175,6 +1176,7 @@ container,https://github.com/rpahl/container
 contentid,https://github.com/cboettig/contentid
 conText,https://github.com/prodriguezsosa/context
 contfrac,https://github.com/robinhankin/contfrac
+contingencytables,https://github.com/ocbe-uio/contingencytables
 ContourFunctions,https://github.com/collinerickson/contourfunctions
 contrast,https://github.com/alanocallaghan/contrast
 contribution,https://github.com/openbiox/contribution
@@ -2950,6 +2952,7 @@ grabsampling,https://github.com/mayooran1987/grabsampling
 gradDescent,https://github.com/drizzersilverberg/graddescentr
 grade,https://github.com/ltjohnson/grade
 gradientPickerD3,https://github.com/peikert/gradientpickerd3
+grafify,https://github.com/ashenoy-cmbi/grafify
 grainchanger,https://github.com/ropensci/grainchanger
 grainscape,https://github.com/achubaty/grainscape
 gramEvol,https://github.com/fnoorian/gramevol
@@ -3063,6 +3066,7 @@ hakaiApi,https://github.com/hakaiinstitute/hakai-api-client-r
 handlr,https://github.com/ropensci/handlr
 HandTill2001,https://gitlab.com/fvafrcu/handtill2001
 hansard,https://github.com/evanodell/hansard
+happign,https://github.com/paul-carteron/happign
 hardhat,https://github.com/tidymodels/hardhat
 HARModel,https://github.com/emilsjoerup/harmodel
 harrietr,https://github.com/andersgs/harrietr
@@ -3479,7 +3483,7 @@ jalcal,https://github.com/jalilian/jalcal
 JamendoR,https://github.com/maxgreil/jamendor
 janeaustenr,https://github.com/juliasilge/janeaustenr
 janitor,https://github.com/sfirke/janitor
-jaod,https://github.com/ropensci/jaod
+jaod,https://github.com/ropensci-archive/jaod
 japanmesh,https://github.com/uchidamizuki/japanmesh
 japanstat,https://github.com/uchidamizuki/japanstat
 JBrowseR,https://github.com/gmod/jbrowser
@@ -4159,6 +4163,7 @@ mFD,https://github.com/cmlmagneville/mfd
 mfe,https://github.com/rivolli/mfe
 mfGARCH,https://github.com/onnokleen/mfgarch
 mFLICA,https://github.com/darkeyes/mflica
+mfp,https://github.com/georgheinze/mfp
 MFPCA,https://github.com/clarahapp/mfpca
 mgarchBEKK,https://github.com/vst/mgarchbekk
 mgc,https://github.com/neurodata/r-mgc
@@ -4493,7 +4498,6 @@ multilevelTools,https://github.com/jwiley/multileveltools
 multimorbidity,https://github.com/wyattbensken/multimorbidity
 multinets,https://github.com/neylsoncrepalde/multinets
 multinma,https://github.com/dmphillippo/multinma
-multinomineq,https://github.com/danheck/multinomineq
 multIntTestFunc,https://github.com/klausherrmann/multinttestfunc
 multiplex,https://github.com/mplex/multiplex
 MultisiteMediation,https://github.com/xu-qin/multisitemediation
@@ -4609,6 +4613,7 @@ NetLogoR,https://github.com/predictiveecology/netlogor
 netmeta,https://github.com/guido-s/netmeta
 netmhc2pan,https://github.com/richelbilderbeek/netmhc2pan
 NetMix,https://github.com/solivella/netmix
+NetOrigin,https://github.com/jmanitz/netorigin
 netplot,https://github.com/usccana/netplot
 netrankr,https://github.com/schochastics/netrankr
 NetRep,https://github.com/sritchie73/netrep
@@ -5845,7 +5850,7 @@ rbin,https://github.com/rsquaredacademy/rbin
 rbioacc,https://github.com/aursiber/rbioacc
 rbioapi,https://github.com/moosa-r/rbioapi
 rbiom,https://github.com/cmmr/rbiom
-rbison,https://github.com/ropensci/rbison
+rbison,https://github.com/ropensci-archive/rbison
 Rbitcoin,https://github.com/jangorecki/rbitcoin
 RBitmoji,https://github.com/bgreenwell/rbitmoji
 RblDataLicense,https://github.com/eguidotti/rbldatalicense
@@ -7880,6 +7885,7 @@ tmap,https://github.com/r-tmap/tmap
 tmaptools,https://github.com/r-tmap/tmaptools
 TMB,https://github.com/kaskr/adcomp
 tmbstan,https://github.com/kaskr/tmbstan
+TmCalculator,https://github.com/junhuili1017/tmcalculator
 Tmisc,https://github.com/stephenturner/tmisc
 tmt,https://github.com/jansteinfeld/tmt
 toastui,https://github.com/dreamrs/toastui
