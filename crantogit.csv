@@ -573,6 +573,7 @@ bioC.logs,https://github.com/mponce0/bioc.logs
 BioCircos,https://github.com/lvulliard/biocircos.r
 BiocManager,https://github.com/bioconductor/biocmanager
 biocompute,https://github.com/sbg/biocompute
+biodosetools,https://github.com/biodosetools-team/biodosetools
 biogram,https://github.com/michbur/biogram
 bioimagetools,https://github.com/bioimaginggroup/bioimagetools
 biokNN,https://github.com/mcubillos3/bioknn
@@ -800,6 +801,7 @@ caRecall,https://github.com/wraysmith/carecall
 careless,https://github.com/ryentes/careless
 caret,https://github.com/topepo/caret
 caretEnsemble,https://github.com/zachmayer/caretensemble
+caretForecast,https://github.com/akai01/caretforecast
 cargo,https://github.com/dbdahl/cargo-framework
 CARlasso,https://github.com/yunyishen/car-lasso
 Carlson,https://github.com/stla/carlson
@@ -1982,6 +1984,7 @@ elfDistr,https://github.com/matheushjs/elfdistr
 elisr,https://github.com/sbissantz/elisr
 eList,https://github.com/cmann3/elist
 ellipsis,https://github.com/r-lib/ellipsis
+ElliptCopulas,https://github.com/alexisderumigny/elliptcopulas
 elliptic,https://github.com/robinhankin/elliptic
 elmNNRcpp,https://github.com/mlampros/elmnnrcpp
 EloChoice,https://github.com/gobbios/elochoice
@@ -2475,6 +2478,7 @@ freesurfer,https://github.com/muschellij2/freesurfer
 freesurferformats,https://github.com/dfsp-spirit/freesurferformats
 frenchdata,https://github.com/nareal/frenchdata
 freqdistributionNogives,https://github.com/harshit-budakoti/freqdistributionnogives
+freqpcr,https://github.com/sudoms/freqpcr
 FreqProf,https://github.com/aibrt/freqprof
 freqtables,https://github.com/brad-cannell/freqtables
 frequency,https://github.com/wilcoxa/frequency
@@ -2958,6 +2962,7 @@ gpindex,https://github.com/marberts/gpindex
 gplots,https://github.com/talgalili/gplots
 gppm,https://github.com/karchjd/gppm
 GPrank,https://github.com/probic/gprank
+gps,https://github.com/zheyuanli/gps
 gqlr,https://github.com/schloerke/gqlr
 grabsampling,https://github.com/mayooran1987/grabsampling
 gradDescent,https://github.com/drizzersilverberg/graddescentr
@@ -2993,6 +2998,7 @@ greatR,https://github.com/ruthkr/greatr
 grec,https://github.com/luislaum/grec
 greed,https://github.com/comeetie/greed
 greenclust,https://github.com/jeffjetton/greenclust
+GREENeR,https://github.com/calfarog/greener
 gremlin,https://github.com/matthewwolak/gremlin
 GREMLINS,https://github.com/demiperimetre/gremlins
 gren,https://github.com/magnusmunch/gren
@@ -3075,6 +3081,7 @@ hadron,https://github.com/hiskp-lqcd/hadron
 hagis,https://github.com/openplantpathology/hagis
 hakaiApi,https://github.com/hakaiinstitute/hakai-api-client-r
 hal9001,https://github.com/tlverse/hal9001
+haldensify,https://github.com/nhejazi/haldensify
 handlr,https://github.com/ropensci/handlr
 HandTill2001,https://gitlab.com/fvafrcu/handtill2001
 hansard,https://github.com/evanodell/hansard
@@ -3324,6 +3331,7 @@ imager,https://github.com/dahtah/imager
 imagerExtra,https://github.com/shotaochi/imagerextra
 imageseg,https://github.com/ecodynizw/imageseg
 imageviewer,https://github.com/yapus/imageviewer
+imaginator,https://github.com/casact/imaginator
 imagine,https://github.com/luislaum/imagine
 ImaginR,https://github.com/plstenger/imaginr
 imbalance,https://github.com/ncordon/imbalance
@@ -3503,6 +3511,7 @@ JBrowseR,https://github.com/gmod/jbrowser
 jcolors,https://github.com/jaredhuling/jcolors
 jds.rmd,https://github.com/wenjie2wang/jds.rmd
 jeek,https://github.com/qdata/jeek
+jetpack,https://github.com/ankane/jetpack
 jfa,https://github.com/koenderks/jfa
 jgcricolors,https://github.com/jgcri/jgcricolors
 jiebaR,https://github.com/qinwf/jiebar
@@ -4028,6 +4037,7 @@ mau,https://github.com/pedroguarderas/mau
 mauricer,https://github.com/ropensci/mauricer
 MaxMC,https://github.com/julienneves/maxmc
 maxnet,https://github.com/mrmaxent/maxnet
+maybe,https://github.com/armcn/maybe
 MazamaCoreUtils,https://github.com/mazamascience/mazamacoreutils
 MazamaLocationUtils,https://github.com/mazamascience/mazamalocationutils
 MazamaRollUtils,https://github.com/mazamascience/mazamarollutils
@@ -4680,6 +4690,7 @@ nhlapi,https://github.com/jozefhajnala/nhlapi
 nhlscrape,https://github.com/adamazoulay/nhlscrape
 nhsnumber,https://github.com/sellorm/nhsnumber
 NHSRdatasets,https://github.com/nhs-r-community/nhsrdatasets
+nic,https://github.com/thiyangt/nic
 NicheBarcoding,https://github.com/yangcq-ivy/nichebarcoding
 nichevol,https://github.com/marlonecobos/nichevol
 nima,https://github.com/nhejazi/nima
@@ -5835,6 +5846,7 @@ rasterize,https://github.com/pmur002/rasterize
 rasterKernelEstimates,https://github.com/jlisic/rasterkernelestimates
 rasterly,https://github.com/plotly/rasterly
 rasterpdf,https://github.com/ilarischeinin/rasterpdf
+rasterpic,https://github.com/dieghernan/rasterpic
 rasterVis,https://github.com/oscarperpinan/rastervis
 Rata,https://github.com/xluo11/rata
 ratelimitr,https://github.com/tarakc02/ratelimitr
