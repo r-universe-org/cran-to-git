@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "NetLogoR",
-    "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
-    "url": "https://github.com/predictiveecology/netlogor",
-    "available": true
-  },
-  {
     "package": "quickPlot",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
     "url": "https://github.com/predictiveecology/quickplot",
@@ -30,12 +24,6 @@
     "available": true
   },
   {
-    "package": "SpaDES",
-    "maintainer": "Alex M Chubaty <alex.chubaty@gmail.com>",
-    "url": "https://github.com/predictiveecology/spades",
-    "available": true
-  },
-  {
     "package": "SpaDES.addins",
     "maintainer": "Alex M Chubaty <alex.chubaty@gmail.com>",
     "url": "https://github.com/predictiveecology/spades.addins",
@@ -45,12 +33,6 @@
     "package": "SpaDES.core",
     "maintainer": "Alex M Chubaty <alex.chubaty@gmail.com>",
     "url": "https://github.com/predictiveecology/spades.core",
-    "available": true
-  },
-  {
-    "package": "SpaDES.tools",
-    "maintainer": "Alex M Chubaty <alex.chubaty@gmail.com>",
-    "url": "https://github.com/predictiveecology/spades.tools",
     "available": true
   }
 ]
