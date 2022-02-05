@@ -1987,6 +1987,7 @@ ellipsis,https://github.com/r-lib/ellipsis
 ElliptCopulas,https://github.com/alexisderumigny/elliptcopulas
 elliptic,https://github.com/robinhankin/elliptic
 elmNNRcpp,https://github.com/mlampros/elmnnrcpp
+elo,https://github.com/eheinzen/elo
 EloChoice,https://github.com/gobbios/elochoice
 EloOptimized,https://github.com/jtfeld/elooptimized
 EloRating,https://github.com/gobbios/elorating
@@ -2503,7 +2504,6 @@ FSelectorRcpp,https://github.com/mi2-warsaw/fselectorrcpp
 fslr,https://github.com/muschellij2/fslr
 fspe,https://github.com/jmbh/fspe
 fsr,https://github.com/accarniel/fsr
-fssemR,https://github.com/ivis4ml/fssemr
 fst,https://github.com/fstpackage/fst
 fstcore,https://github.com/fstpackage/fst
 ftDK,https://github.com/mikkelkrogsholm/ftdk
@@ -2567,6 +2567,7 @@ gapminder,https://github.com/jennybc/gapminder
 garchx,https://github.com/gsucarrat/garchx
 gargle,https://github.com/r-lib/gargle
 garma,https://github.com/rlph50/garma
+GAS,https://github.com/leopoldocatania/gas
 gaselect,https://github.com/dakep/gaselect
 gasfluxes,https://bitbucket.org/ecoroland/gasfluxes
 gasper,https://github.com/fabnavarro/gasper
@@ -2945,6 +2946,7 @@ googlenlp,https://github.com/brianweinstein/googlenlp
 googlePublicData,https://github.com/gvegayon/googlepublicdata
 googlePubsubR,https://github.com/andodet/googlepubsubr
 googler,https://github.com/mkearney/googler
+googlesheets,https://github.com/jennybc/googlesheets
 googlesheets4,https://github.com/tidyverse/googlesheets4
 googleVis,https://github.com/mages/googlevis
 googleway,https://github.com/symbolixau/googleway
@@ -3754,6 +3756,7 @@ legco,https://github.com/elgarteo/legco
 legion,https://github.com/config-i1/legion
 legislatoR,https://github.com/saschagobel/legislator
 legocolors,https://github.com/leonawicz/legocolors
+lehdr,https://github.com/jamgreen/lehdr
 leiden,https://github.com/tomkellygenetics/leiden
 leidenAlg,https://github.com/kharchenkolab/leidenalg
 lemna,https://github.com/nkehrein/lemna
@@ -3941,6 +3944,7 @@ maditr,https://github.com/gdemin/maditr
 madness,https://github.com/shabbychef/madness
 madrat,https://github.com/pik-piam/madrat
 mads,https://github.com/distancedevelopment/mads
+MAFDash,https://github.com/ashishjain1988/mafdash
 magclass,https://github.com/pik-piam/magclass
 magic,https://github.com/robinhankin/magic
 magicfor,https://github.com/hoxo-m/magicfor
@@ -4627,7 +4631,6 @@ ndjson,https://gitlab.com/hrbrmstr/ndjson
 ndtv,https://github.com/statnet/ndtv
 neatmaps,https://github.com/philboileau/neatmaps
 neatRanges,https://github.com/arg0naut91/neatranges
-neatStats,https://github.com/gasparl/neatstats
 needs,https://github.com/joshkatz/needs
 negenes,https://github.com/kbroman/negenes
 neo2R,https://github.com/patzaw/neo2r
@@ -5095,6 +5098,7 @@ paws.security.identity,https://github.com/paws-r/paws
 paws.storage,https://github.com/paws-r/paws
 pbapply,https://github.com/psolymos/pbapply
 pbdMPI,https://github.com/snoweye/pbdmpi
+pbdSLAP,https://github.com/snoweye/pbdslap
 pbdZMQ,https://github.com/snoweye/pbdzmq
 pbivnorm,https://github.com/brentonk/pbivnorm
 pbixr,https://github.com/pbixr/pbixr
@@ -5925,7 +5929,6 @@ rchie,https://github.com/noamross/rchie
 RCircos,https://github.com/hzhanghenry/rcircos
 rcites,https://github.com/ropensci/rcites
 rcitoid,https://github.com/ropensci/rcitoid
-RClickhouse,https://github.com/imsmwu/rclickhouse
 RClimacell,https://github.com/nikdata/rclimacell
 rclipboard,https://github.com/sbihorel/rclipboard
 RClone,https://github.com/dbailleul/rclone
@@ -6355,6 +6358,7 @@ rmdplugr,https://github.com/jolars/rmdplugr
 rmdshower,https://github.com/mangothecat/rmdshower
 rMEA,https://github.com/kleinbub/rmea
 rmetalog,https://github.com/isaacfab/rmetalog
+rmgarch,https://github.com/alexiosg/rmgarch
 rMIDAS,https://github.com/midasverse/rmidas
 rminizinc,https://github.com/acharaakshit/rminizinc
 rmio,https://github.com/privefl/rmio
@@ -7925,7 +7929,6 @@ tinytex,https://github.com/yihui/tinytex
 tipa,https://github.com/hugheylab/tipa
 tippy,https://github.com/johncoene/tippy
 titanic,https://github.com/paulhendricks/titanic
-TKCat,https://github.com/patzaw/tkcat
 tls,https://github.com/liyanstat/tls
 tm,https://github.com/r-forge/tm
 tm.plugin.alceste,https://github.com/r-forge/r-temis
