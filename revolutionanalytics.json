@@ -6,6 +6,13 @@
     "available": true
   },
   {
+    "package": "doParallel",
+    "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
+    "url": "https://github.com/revolutionanalytics/doparallel",
+    "subdir": "pkg",
+    "available": true
+  },
+  {
     "package": "foreach",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
     "url": "https://github.com/revolutionanalytics/foreach",

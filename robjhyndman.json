@@ -1,5 +1,11 @@
 [
   {
+    "package": "cricketdata",
+    "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/robjhyndman/cricketdata",
+    "available": true
+  },
+  {
     "package": "demography",
     "maintainer": "Rob J Hyndman <Rob.Hyndman@monash.edu>",
     "url": "https://github.com/robjhyndman/demography",
