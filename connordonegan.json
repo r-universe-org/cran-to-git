@@ -1,5 +1,11 @@
 [
   {
+    "package": "geostan",
+    "maintainer": "Connor Donegan <connor.donegan@gmail.com>",
+    "url": "https://github.com/connordonegan/geostan",
+    "available": true
+  },
+  {
     "package": "surveil",
     "maintainer": "Connor Donegan <connor.donegan@gmail.com>",
     "url": "https://github.com/connordonegan/surveil",

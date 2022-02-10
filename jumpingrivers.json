@@ -1,5 +1,29 @@
 [
   {
+    "package": "datasauRus",
+    "maintainer": "Steph Locke <stephanie.g.locke@gmail.com>",
+    "url": "https://github.com/jumpingrivers/datasaurus",
+    "available": true
+  },
+  {
+    "package": "ibmsunburst",
+    "maintainer": "Steph Locke <steph@itsalocke.com>",
+    "url": "https://github.com/jumpingrivers/ibmsunburst",
+    "available": true
+  },
+  {
+    "package": "namer",
+    "maintainer": "Steph Locke <steph@itsalocke.com>",
+    "url": "https://github.com/jumpingrivers/namer",
+    "available": true
+  },
+  {
+    "package": "optiRum",
+    "maintainer": "Steph Locke <stephanie.g.locke@gmail.com>",
+    "url": "https://github.com/jumpingrivers/optirum",
+    "available": true
+  },
+  {
     "package": "prettyB",
     "maintainer": "Colin Gillespie <csgillespie@gmail.com>",
     "url": "https://github.com/jumpingrivers/prettyb",

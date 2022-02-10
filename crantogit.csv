@@ -1460,7 +1460,7 @@ dataReporter,https://github.com/ekstroem/datareporter
 dataRetrieval,https://github.com/usgs-r/dataretrieval
 datarium,https://github.com/kassambara/datarium
 datasailr,https://github.com/niceume/datasailr
-datasauRus,https://github.com/lockedata/datasaurus
+datasauRus,https://github.com/jumpingrivers/datasaurus
 dataseries,https://github.com/christophsax/dataseries
 DataSpaceR,https://github.com/ropensci/dataspacer
 dataspice,https://github.com/ropensci/dataspice
@@ -2043,6 +2043,7 @@ enviPat,https://github.com/blosloos/envipat
 envir,https://github.com/t-kalinowski/envir
 envirem,https://github.com/ptitle/envirem
 envnames,https://github.com/mastropi/envnames
+envstat,https://github.com/sellorm/envstat
 EnvStats,https://github.com/alexkowa/envstats
 epanet2toolkit,https://github.com/bradleyjeck/epanet2toolkit
 epanetReader,https://github.com/bradleyjeck/epanetreader
@@ -2631,6 +2632,7 @@ generator,https://github.com/paulhendricks/generator
 GenericML,https://github.com/mwelz/genericml
 generics,https://github.com/r-lib/generics
 genero,https://github.com/datasketch/genero
+geneticae,https://github.com/jangelini/geneticae
 GeNetIt,https://github.com/jeffreyevans/genetit
 genie,https://github.com/gagolews/genie
 genieclust,https://github.com/gagolews/genieclust
@@ -2684,6 +2686,7 @@ geoSAE,https://github.com/ketutdika/geosae
 geosapi,https://github.com/eblondel/geosapi
 geospark,https://github.com/harryprince/geospark
 geosphere,https://github.com/rspatial/geosphere
+geostan,https://github.com/connordonegan/geostan
 geostats,https://github.com/pvermees/geostats
 geotopbricks,https://github.com/ecor/geotopbricks
 geouy,https://github.com/richdeto/geouy
@@ -3282,7 +3285,7 @@ IBCF.MTME,https://github.com/frahik/ibcf.mtme
 ibdsim2,https://github.com/magnusdv/ibdsim2
 ibm,https://github.com/roliveros-ramos/ibm
 IBMPopSim,https://github.com/daphnegiorgi/ibmpopsim
-ibmsunburst,https://github.com/lockedata/ibmsunburst
+ibmsunburst,https://github.com/jumpingrivers/ibmsunburst
 iBreakDown,https://github.com/modeloriented/ibreakdown
 iCAMP,https://github.com/daliangning/icamp1
 ICAMS,https://github.com/steverozen/icams
@@ -3448,6 +3451,7 @@ intsurv,https://github.com/wenjie2wang/intsurv
 intsvy,https://github.com/eldafani/intsvy
 invctr,https://github.com/fredhasselman/invctr
 inverseRegex,https://github.com/rntq472/inverseregex
+invertiforms,https://github.com/rohelab/invertiforms
 investr,https://github.com/bgreenwell/investr
 invgamma,https://github.com/dkahle/invgamma
 iNZightMR,https://github.com/inzightvit/inzightmr
@@ -3917,6 +3921,7 @@ LPWC,https://github.com/gitter-lab/lpwc
 LREP,https://github.com/jiqiaingwu/lrep
 lrequire,https://github.com/rickwargo/lrequire
 lrgs,https://github.com/abmantz/lrgs
+LRMF3,https://github.com/rohelab/lrmf3
 lsasim,https://github.com/tmatta/lsasim
 LSE,https://github.com/sergio05acm/lse
 lshorth,https://github.com/r-forge/lshorth
@@ -4155,6 +4160,7 @@ metaBMA,https://github.com/danheck/metabma
 metaboData,https://github.com/aberhrml/metabodata
 metabolic,https://github.com/fmmattioni/metabolic
 MetabolicSurv,https://github.com/olajumokeevangelina/metabolicsurv
+metabolighteR,https://github.com/aberhrml/metabolighter
 metacoder,https://github.com/grunwaldlab/metacoder
 metacom,https://github.com/taddallas/metacom
 MetaComp,https://github.com/seninp-bioinfo/metacomp
@@ -4560,6 +4566,7 @@ munfold,https://github.com/melff/munfold
 munsell,https://github.com/cwickham/munsell
 muRty,https://github.com/arg0naut91/murty
 MUS,https://github.com/alsguimaraes/mus
+musclesyneRgies,https://github.com/alesantuz/musclesynergies
 music,https://github.com/egenn/music
 mustashe,https://github.com/jhrcook/mustashe
 mutoss,https://github.com/kornl/mutoss
@@ -4602,7 +4609,7 @@ nakagami,https://github.com/jonasmoss/nakagami
 namedCapture,https://github.com/tdhock/namedcapture
 namedropR,https://github.com/nucleic-acid/namedropr
 NameNeedle,https://github.com/r-forge/oompa
-namer,https://github.com/lockedata/namer
+namer,https://github.com/jumpingrivers/namer
 nametagger,https://github.com/bnosac/nametagger
 nandb,https://github.com/rorynolan/nandb
 naniar,https://github.com/njtierney/naniar
@@ -4913,13 +4920,14 @@ optband,https://github.com/seasamgo/optband
 optedr,https://github.com/kezrael/optedr
 opticut,https://github.com/psolymos/opticut
 optigrab,https://github.com/decisionpatterns/optigrab
+optimall,https://github.com/yangjasp/optimall
 OptimalRerandExpDesigns,https://github.com/kapelner/optimalrerandexpdesigns
 optimCheck,https://github.com/mlysy/optimcheck
 optimg,https://github.com/vthorrf/optimg
 optimization,https://github.com/kaihusmann/optimization
 optimParallel,https://github.com/florafauna/optimparallel-r
 optimus,https://github.com/mitchest/optimus
-optiRum,https://github.com/lockedata/optirum
+optiRum,https://github.com/jumpingrivers/optirum
 optmatch,https://github.com/markmfredrickson/optmatch
 optparse,https://github.com/trevorld/r-optparse
 Orcs,https://github.com/fdetsch/orcs
@@ -5631,6 +5639,7 @@ puls,https://github.com/vinhtantran/puls
 pulsar,https://github.com/zdk123/pulsar
 pulseTD,https://github.com/biowzz/pulsetd_0.1.0
 pumilioR,https://github.com/ljvillanueva/pumilior
+PUMP,https://github.com/mdrcny/pump
 puniform,https://github.com/robbievanaert/puniform
 PupillometryR,https://github.com/samhforbes/pupillometryr
 pureseqtmr,https://github.com/richelbilderbeek/pureseqtmr
@@ -6494,6 +6503,7 @@ ROpenCVLite,https://github.com/swarm-lab/ropencvlite
 ropendata,https://github.com/brudis-r7/ropendata
 ROpenDota,https://github.com/rosdyana/ropendota
 ROpenFIGI,https://github.com/huangricky/ropenfigi
+roperators,https://github.com/benwiseman/roperators
 ropercenter,https://github.com/fsolt/ropercenter
 Ropj,https://github.com/aitap/ropj
 ROptEst,https://github.com/r-forge/robast
@@ -6559,7 +6569,6 @@ rr2,https://github.com/arives/rr2
 rrapply,https://github.com/jorischau/rrapply
 Rraven,https://github.com/marce10/rraven
 rrcov,https://github.com/valentint/rrcov
-rrcov3way,https://github.com/valentint/rrcov3way
 rrd,https://github.com/andrie/rrd
 rrecsys,https://github.com/ludovikcoba/rrecsys
 rredlist,https://github.com/ropensci/rredlist
@@ -7116,6 +7125,7 @@ simmr,https://github.com/andrewcparnell/simmr
 SimMultiCorrData,https://github.com/afialkowski/simmulticorrdata
 simPH,https://github.com/christophergandrud/simph
 SimPhe,https://github.com/beibeij/simphe
+simphony,https://github.com/hugheylab/simphony
 simpleboot,https://github.com/rdpeng/simpleboot
 simpleCache,https://github.com/databio/simplecache
 simplecolors,https://github.com/rjake/simplecolors
@@ -7174,6 +7184,7 @@ skeletor,https://github.com/nealrichardson/skeletor
 skellam,https://github.com/r-forge/healthqueues
 sketch,https://github.com/kcf-jackson/sketch
 sketcher,https://github.com/tsuda16k/sketcher
+sketchy,https://github.com/marce10/sketchy
 SkewHyperbolic,https://github.com/r-forge/rmetrics
 skewlmm,https://github.com/fernandalschumacher/skewlmm
 skimr,https://github.com/ropensci/skimr
@@ -7830,6 +7841,7 @@ thinkr,https://github.com/thinkr-open/thinkr
 this.path,https://github.com/arcadeantics/this.path
 thor,https://github.com/richfitz/thor
 thorn,https://github.com/stla/thorn
+thredds,https://github.com/bigelowlab/thredds
 ThreeArmedTrials,https://github.com/tobiasmuetze/threearmedtrials
 threeBrain,https://github.com/dipterix/threebrain
 threejs,https://github.com/bwlewis/rthreejs
@@ -7896,6 +7908,7 @@ tidyREDCap,https://github.com/raymondbalise/tidyredcap
 tidyRSS,https://github.com/robertmyles/tidyrss
 tidyrules,https://github.com/talegari/tidyrules
 tidyselect,https://github.com/r-lib/tidyselect
+tidySEM,https://github.com/cjvanlissa/tidysem
 tidyseurat,https://github.com/stemangiola/tidyseurat
 tidysmd,https://github.com/malcolmbarrett/tidysmd
 tidysq,https://github.com/biogenies/tidysq
@@ -8242,6 +8255,7 @@ USgrid,https://github.com/ramikrispin/usgrid
 ushr,https://github.com/sineadmorris/ushr
 usl,https://github.com/smoeding/usl
 usmap,https://github.com/pdil/usmap
+usmapdata,https://github.com/pdil/usmapdata
 USpopcenters,https://github.com/nikkrieger/uspopcenters
 ustyc,https://github.com/mrbcuda/ustyc
 utf8,https://github.com/patperry/r-utf8
