@@ -1,5 +1,11 @@
 [
   {
+    "package": "Certara.R",
+    "maintainer": "James Craig <james.craig@certara.com>",
+    "url": "https://github.com/certara/r-certara",
+    "available": true
+  },
+  {
     "package": "tidyvpc",
     "maintainer": "James Craig <james.craig@certara.com>",
     "url": "https://github.com/certara/tidyvpc",

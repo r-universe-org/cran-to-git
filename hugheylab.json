@@ -1,5 +1,11 @@
 [
   {
+    "package": "deltaccd",
+    "maintainer": "Jake Hughey <jakejhughey@gmail.com>",
+    "url": "https://github.com/hugheylab/deltaccd",
+    "available": true
+  },
+  {
     "package": "simphony",
     "maintainer": "Jake Hughey <jakejhughey@gmail.com>",
     "url": "https://github.com/hugheylab/simphony",
