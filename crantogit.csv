@@ -297,6 +297,7 @@ attempt,https://github.com/colinfay/attempt
 attenuation,https://github.com/jonasmoss/attenuation
 auctionr,https://github.com/ajmack/auctionr
 auditor,https://github.com/modeloriented/auditor
+audubon,https://github.com/paithiov909/audubon
 augmentedRCBD,https://github.com/aravind-j/augmentedrcbd
 auk,https://github.com/cornelllabofornithology/auk
 aum,https://github.com/tdhock/aum
@@ -778,6 +779,7 @@ calmate,https://github.com/henrikbengtsson/calmate
 calpassapi,https://github.com/vinhdizzo/calpassapi
 CamelUp,https://github.com/mczekanski1/camel-up
 campfin,https://github.com/irworkshop/campfin
+campsismod,https://github.com/calvagone/campsismod
 camsRad,https://github.com/ropensci/camsrad
 camtrapR,https://github.com/jniedballa/camtrapr
 canadacovid,https://github.com/taylordunn/canadacovid
@@ -1061,6 +1063,7 @@ CNAIM,https://github.com/utiligize/cnaim
 cNORM,https://github.com/wlenhard/cnorm
 cnum,https://github.com/elgarteo/cnum
 CNVScope,https://github.com/jamesdalg/cnvscope
+coala,https://github.com/statgenlmu/coala
 coalitions,https://github.com/adibender/coalitions
 cobalt,https://github.com/ngreifer/cobalt
 cobs,https://github.com/r-forge/curves-etc
@@ -1324,6 +1327,7 @@ cropZoning,https://github.com/filgueirasr/cropzoning
 crossmap,https://github.com/rossellhayes/crossmap
 Crossover,https://github.com/kornl/crossover
 crossrun,https://github.com/torewentzel-larsen/crossrun
+crosstable,https://github.com/danchaltiel/crosstable
 crosstalk,https://github.com/rstudio/crosstalk
 CrossValidate,https://github.com/r-forge/oompa
 crosswalkr,https://github.com/btskinner/crosswalkr
@@ -1586,7 +1590,7 @@ devtoolbox,https://github.com/martinctc/devtoolbox
 devtools,https://github.com/r-lib/devtools
 dexter,https://github.com/dexter-psychometrics/dexter
 dextergui,https://github.com/dexter-psychometrics/dexter
-dexterMST,https://github.com/jessekps/dexter
+dexterMST,https://github.com/dexter-psychometrics/dexter
 DFA,https://github.com/victormesquita40/dfa
 dfadjust,https://github.com/kolesarm/robust-small-sample-standard-errors
 dfCompare,https://github.com/swaldroff/dfcompare
@@ -1611,6 +1615,7 @@ DiallelAnalysisR,https://github.com/myaseen208/diallelanalysisr
 dialr,https://github.com/socialresearchcentre/dialr
 dialrjars,https://github.com/socialresearchcentre/dialrjars
 dials,https://github.com/tidymodels/dials
+dibble,https://github.com/uchidamizuki/dibble
 diceR,https://github.com/alinetalhouk/dicer
 DiceView,https://github.com/irsn/diceview
 dicionariosIBGE,https://github.com/arademaker/dicionariosibge
@@ -1984,6 +1989,7 @@ eirm,https://github.com/okanbulut/eirm
 EIX,https://github.com/modeloriented/eix
 eixport,https://github.com/atmoschem/eixport
 elastic,https://github.com/ropensci/elastic
+ELCIC,https://github.com/chencxxy28/elcic
 electionsBR,https://github.com/silvadenisson/electionsbr
 electivity,https://github.com/desiquintans/electivity
 elementR,https://github.com/charlottesirot/elementr
@@ -2045,6 +2051,7 @@ enviPat,https://github.com/blosloos/envipat
 envir,https://github.com/t-kalinowski/envir
 envirem,https://github.com/ptitle/envirem
 envnames,https://github.com/mastropi/envnames
+envstat,https://github.com/sellorm/envstat
 EnvStats,https://github.com/alexkowa/envstats
 epanet2toolkit,https://github.com/bradleyjeck/epanet2toolkit
 epanetReader,https://github.com/bradleyjeck/epanetreader
@@ -2223,6 +2230,7 @@ factorMerger,https://github.com/modeloriented/factormerger
 factory,https://github.com/jonthegeek/factory
 factset.analyticsapi.engines,https://github.com/factset/analyticsapi-engines-r-sdk
 factset.protobuf.stach.v2,https://github.com/factset/stachschema-sdks
+factset.protobuf.stachextensions,https://github.com/factset/stach-extensions
 fad,https://github.com/somakd/fad
 FAdist,https://github.com/tpetzoldt/fadist
 fail,https://github.com/mllg/fail
@@ -3044,6 +3052,7 @@ groupdata2,https://github.com/ludvigolsen/groupdata2
 groupICA,https://github.com/sweichwald/groupica-r
 groupr,https://github.com/ngriffiths21/groupr
 GroupSeq,https://github.com/rpahl/groupseq
+groupwalk,https://github.com/freejstone/groupwalk
 growth,https://github.com/swihart/growth
 growthcurver,https://github.com/sprouffske/growthcurver
 growthmodels,https://github.com/drodriguezperez/growthmodels
@@ -4280,6 +4289,7 @@ MIMSunit,https://github.com/mhealthgroup/mimsunit
 mimsy,https://github.com/michelleckelly/mimsy
 MinBAR,https://github.com/xavi-rp/minbar
 mindr,https://github.com/pzhaonet/mindr
+miniCRAN,https://github.com/andrie/minicran
 minidown,https://github.com/atusy/minidown
 minimap,https://github.com/seankross/minimap
 minimist,https://github.com/jeroen/minimist
@@ -5902,6 +5912,7 @@ rATTAINS,https://github.com/mps9506/rattains
 raveio,https://github.com/beauchamplab/raveio
 raven.rdf,https://github.com/raven-computing/rdf
 RavenR,https://github.com/rchlumsk/ravenr
+ravetools,https://github.com/dipterix/ravetools
 rAvis,https://github.com/ropensci/ravis
 rayimage,https://github.com/tylermorganwall/rayimage
 rayrender,https://github.com/tylermorganwall/rayrender
@@ -6864,6 +6875,7 @@ scriptexec,https://github.com/sagiegurari/scriptexec
 ScriptMapR,https://github.com/peyronlab/scriptmapr
 scriptName,https://github.com/mullinslab/scriptname
 scriptuRs,https://github.com/andrewheiss/scripturs
+scrm,https://github.com/scrm/scrm-r
 scrobbler,https://github.com/condwanaland/scrobbler
 scrollrevealR,https://github.com/feddelegrand7/scrollrevealr
 scrypt,https://github.com/rstudio/rscrypt
@@ -8593,6 +8605,7 @@ ymd,https://github.com/shrektan/ymd
 ymlthis,https://github.com/r-lib/ymlthis
 yonder,https://github.com/nteetor/yonder
 yorkr,https://github.com/tvganesh/yorkr
+youngSwimmers,https://github.com/nim-ach/youngswimmers
 youtubecaption,https://github.com/jooyoungseo/youtubecaption
 yowie,https://github.com/numbats/yowie
 YPBP,https://github.com/fndemarqui/ypbp

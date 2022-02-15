@@ -10,5 +10,11 @@
     "maintainer": "Charlie Mathis<chmathis@factset.com>",
     "url": "https://github.com/factset/stachschema-sdks",
     "available": false
+  },
+  {
+    "package": "factset.protobuf.stachextensions",
+    "maintainer": "Sai Giridhar Pasumarthi<spasumarthi@factset.com>",
+    "url": "https://github.com/factset/stach-extensions",
+    "available": false
   }
 ]

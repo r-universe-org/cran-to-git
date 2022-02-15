@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "miniCRAN",
+    "maintainer": "Andrie de Vries <apdevries@gmail.com>",
+    "url": "https://github.com/andrie/minicran",
+    "available": true
+  },
+  {
     "package": "rrd",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/andrie/rrd",
