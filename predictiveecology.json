@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "SpaDES",
+    "maintainer": "Alex M Chubaty <achubaty@for-cast.ca>",
+    "url": "https://github.com/predictiveecology/spades",
+    "available": true
+  },
+  {
     "package": "SpaDES.addins",
     "maintainer": "Alex M Chubaty <alex.chubaty@gmail.com>",
     "url": "https://github.com/predictiveecology/spades.addins",
