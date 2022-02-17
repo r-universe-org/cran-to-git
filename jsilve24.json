@@ -1,5 +1,11 @@
 [
   {
+    "package": "fido",
+    "maintainer": "Michelle Nixon\n<pistner@psu.edu>",
+    "url": "https://github.com/jsilve24/fido",
+    "available": true
+  },
+  {
     "package": "RcppHungarian",
     "maintainer": "Justin Silverman <JustinSilverman@psu.edu>",
     "url": "https://github.com/jsilve24/rcpphungarian",
