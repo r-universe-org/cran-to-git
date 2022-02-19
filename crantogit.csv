@@ -1015,6 +1015,7 @@ climatrends,https://github.com/agrdatasci/climatrends
 climdex.pcic,https://github.com/pacificclimate/climdex.pcic
 climextRemes,https://bitbucket.org/lbl-cascade/climextremes-dev
 ClimInd,https://gitlab.com/indecis-eu/indecis
+ClimMobTools,https://github.com/agrdatasci/climmobtools
 climwin,https://github.com/liamdbailey/climwin
 clinDataReview,https://github.com/openanalytics/clindatareview
 clinmon,https://github.com/lilleoel/clinmon
@@ -1720,6 +1721,7 @@ divseg,https://github.com/christopherkenny/divseg
 diyar,https://github.com/olisansonwu/diyar
 DIZtools,https://github.com/miracum/misc-diztools
 DIZutils,https://github.com/miracum/misc-dizutils
+DLL,https://github.com/zijguo/highdim-additive-inference
 dlnm,https://github.com/gasparrini/dlnm
 dlookr,https://github.com/choonghyunryu/dlookr
 dlr,https://github.com/macmillancontentscience/dlr
@@ -2945,6 +2947,7 @@ GMCM,https://github.com/aebilgrau/gmcm
 gMCP,https://github.com/kornl/gmcp
 Gmisc,https://github.com/gforge/gmisc
 gMOIP,https://github.com/relund/gmoip
+gmpoly,https://github.com/stla/gmpoly
 gms,https://github.com/pik-piam/gms
 GMSE,https://github.com/confoobio/gmse
 gmvarkit,https://github.com/saviviro/gmvarkit
@@ -3105,7 +3108,6 @@ gWidgets2,https://github.com/gwidgets3/gwidgets2
 gWidgets2tcltk,https://github.com/jverzani/gwidgets2tcltk
 gwpcormapper,https://github.com/gwpcor/gwpcormapper
 GWPR.light,https://github.com/michaelchaoli-cpu/gwpr.light
-gwsem,https://github.com/jpritikin/gwsem
 gym,https://github.com/paulhendricks/gym-r
 gyro,https://github.com/stla/gyro
 h2o,https://github.com/h2oai/h2o-3
@@ -3311,10 +3313,13 @@ ICCbin,https://github.com/akhtarh/iccbin
 ICD10gm,https://github.com/edonnachie/icd10gm
 icecream,https://github.com/lewinfox/icecream
 iCellR,https://github.com/rezakj/icellr
+icesAdvice,https://github.com/ices-tools-prod/icesadvice
 IceSat2R,https://github.com/mlampros/icesat2r
 icesDatras,https://github.com/ices-tools-prod/icesdatras
 icesDatsu,https://github.com/ices-tools-prod/icesdatsu
+icesDatsuQC,https://github.com/ices-tools-prod/icesdatsuqc
 icesSAG,https://github.com/ices-tools-prod/icessag
+icesSD,https://github.com/ices-tools-prod/icesdatsuqc
 icesVocab,https://github.com/ices-tools-prod/icesvocab
 ichimoku,https://github.com/shikokuchuo/ichimoku
 iCiteR,https://github.com/riddlet/iciter
@@ -3844,6 +3849,7 @@ lime,https://github.com/thomasp85/lime
 liminal,https://github.com/sa-lee/liminal
 LimnoPalettes,https://github.com/swampthingpaul/limnopalettes
 limonaid,https://gitlab.com/r-packages/limonaid
+limorhyde,https://github.com/hugheylab/limorhyde
 linbin,https://github.com/ezwelty/linbin
 linconGaussR,https://github.com/yunyishen/lincongaussr
 LindenmayeR,https://github.com/bryanhanson/lindenmayer
@@ -4614,7 +4620,6 @@ MVR,https://github.com/jedazard/mvr
 mvrsquared,https://github.com/tommyjones/mvrsquared
 mvtnorm,https://github.com/r-forge/mvtnorm
 mvtsplot,https://github.com/rdpeng/mvtsplot
-mwaved,https://github.com/jrwishart/mwaved
 mwcsr,https://github.com/ctlab/mwcsr
 mwTensor,https://github.com/rikenbit/mwtensor
 mycor,https://github.com/cardiomoon/mycor
@@ -4695,6 +4700,7 @@ netcom,https://github.com/langendorfr/netcom
 netdiffuseR,https://github.com/usccana/netdiffuser
 netgen,https://github.com/jakobbossek/netgen
 netgsa,https://github.com/mikehellstern/netgsa
+NetLogoR,https://github.com/predictiveecology/netlogor
 netmap,https://github.com/artod83/netmap
 netmeta,https://github.com/guido-s/netmeta
 netmhc2pan,https://github.com/richelbilderbeek/netmhc2pan
@@ -6490,6 +6496,7 @@ robustHD,https://github.com/aalfons/robusthd
 robustlmm,https://github.com/kollerma/robustlmm
 robvis,https://github.com/mcguinlu/robvis
 ROCaggregator,https://gitlab.com/um-cds/general-tools
+ROCFTP.MMS,https://github.com/nabipoor/rocftp.mms
 rock,https://gitlab.com/r-packages/rock
 rocker,https://github.com/nikolaus77/rocker
 ROCket,https://github.com/da-zar/rocket

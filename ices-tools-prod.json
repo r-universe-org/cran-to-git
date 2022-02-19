@@ -1,5 +1,11 @@
 [
   {
+    "package": "icesAdvice",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesadvice",
+    "available": true
+  },
+  {
     "package": "icesDatras",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icesdatras",
@@ -12,10 +18,22 @@
     "available": true
   },
   {
+    "package": "icesDatsuQC",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesdatsuqc",
+    "available": true
+  },
+  {
     "package": "icesSAG",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icessag",
     "available": true
+  },
+  {
+    "package": "icesSD",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesdatsuqc",
+    "available": false
   },
   {
     "package": "icesVocab",
