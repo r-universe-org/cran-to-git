@@ -48,6 +48,12 @@
     "available": true
   },
   {
+    "package": "report",
+    "maintainer": "Dominique Makowski <dom.makowski@gmail.com>",
+    "url": "https://github.com/easystats/report",
+    "available": true
+  },
+  {
     "package": "see",
     "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
     "url": "https://github.com/easystats/see",
