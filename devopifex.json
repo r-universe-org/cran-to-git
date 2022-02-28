@@ -1,5 +1,11 @@
 [
   {
+    "package": "ambiorix",
+    "maintainer": "John Coene <jcoenep@gmail.com>",
+    "url": "https://github.com/devopifex/ambiorix",
+    "available": true
+  },
+  {
     "package": "erratum",
     "maintainer": "John Coene <john@opifex.org>",
     "url": "https://github.com/devopifex/erratum",
