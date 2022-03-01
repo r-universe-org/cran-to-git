@@ -1,5 +1,11 @@
 [
   {
+    "package": "easycensus",
+    "maintainer": "Cory McCartan <cmccartan@g.harvard.edu>",
+    "url": "https://github.com/corymccartan/easycensus",
+    "available": true
+  },
+  {
     "package": "PL94171",
     "maintainer": "Cory McCartan <cmccartan@g.harvard.edu>",
     "url": "https://github.com/corymccartan/pl94171",

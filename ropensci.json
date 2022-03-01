@@ -1230,12 +1230,6 @@
     "available": true
   },
   {
-    "package": "taxadb",
-    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
-    "url": "https://github.com/ropensci/taxadb",
-    "available": true
-  },
-  {
     "package": "taxize",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/taxize",
