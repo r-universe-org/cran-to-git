@@ -1302,6 +1302,12 @@
     "available": true
   },
   {
+    "package": "tradestatistics",
+    "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
+    "url": "https://github.com/ropensci/tradestatistics",
+    "available": true
+  },
+  {
     "package": "traits",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/traits",

@@ -28,6 +28,7 @@ ActivePathways,https://github.com/reimandlab/activepathways
 activityCounts,https://github.com/walkabillylab/activitycounts
 actuar,https://gitlab.com/vigou3/actuar
 acumos,https://github.com/acumos/acumos-r-client
+ACWR,https://github.com/jorgedelro/acwr
 adaptDiag,https://github.com/graemeleehickey/adaptdiag
 AdaptGauss,https://github.com/mthrun/adaptgauss
 adaptMCMC,https://github.com/scheidan/adaptmcmc
@@ -384,6 +385,7 @@ baRcodeR,https://github.com/ropensci/barcoder
 BARIS,https://github.com/feddelegrand7/baris
 Barnard,https://github.com/kerguler/barnard
 bartCause,https://github.com/vdorie/bartcause
+baRulho,https://github.com/marce10/barulho
 BAS,https://github.com/merliseclyde/bas
 base64url,https://github.com/mllg/base64url
 baseballDBR,https://github.com/keberwein/baseballdbr
@@ -466,6 +468,7 @@ bcputility,https://github.com/tomroh/bcputility
 bcrm,https://github.com/mikesweeting/bcrm
 bcrypt,https://github.com/jeroen/bcrypt
 bcTSNE,https://github.com/emanuelealiverti/bc_tsne
+bdc,https://github.com/brunobrr/bdc
 bdchecks,https://github.com/bd-r/bdchecks
 bdclean,https://github.com/bd-r/bdclean
 bdl,https://github.com/statisticspoland/r_package_to_api_bdl
@@ -2394,6 +2397,7 @@ fitdistrplus,https://github.com/aursiber/fitdistrplus
 fitHeavyTail,https://github.com/dppalomar/fitheavytail
 fitmix,https://github.com/guven-code/fitmix
 fitODBOD,https://github.com/amalan-constat/r-fitodbod
+fitscape,https://github.com/rrrlw/fitscape
 FitUltD,https://github.com/jcval94/fitultd
 fitur,https://github.com/tomroh/fitur
 fitzRoy,https://github.com/jimmyday12/fitzroy
@@ -2665,6 +2669,7 @@ genius,https://github.com/josiahparry/genius
 geniusr,https://github.com/ewenme/geniusr
 genlasso,https://github.com/glmgen/genlasso
 GenomeAdapt,https://github.com/xinghuq/genomeadapt
+GenomeAdmixR,https://github.com/thijsjanzen/genomeadmixr
 genomic.autocorr,https://github.com/chr1swallace/genomic.autocorr
 genoPlotR,https://github.com/r-forge/genoplotr
 genotypeR,https://github.com/stevisonlab/genotyper
@@ -3353,7 +3358,6 @@ ifaTools,https://github.com/jpritikin/ifatools
 IFC,https://github.com/gitdemont/ifc
 ifCNVR,https://github.com/simcab-chu/ifcnvr
 ifctools,https://github.com/lbraglia/ifctools
-ifultools,https://github.com/spkaluzny/ifultools
 igate,https://github.com/stefan-stein/igate
 igoR,https://github.com/dieghernan/igor
 IGP,https://github.com/collinerickson/igp
@@ -4754,6 +4758,7 @@ nflseedR,https://github.com/nflverse/nflseedr
 NFLSimulatoR,https://github.com/rtelmore/nflsimulator
 nflverse,https://github.com/nflverse/nflverse
 NFP,https://github.com/yiluheihei/nfp
+ngboostForecast,https://github.com/akai01/ngboostforecast
 NGLVieweR,https://github.com/nvelden/nglviewer
 ngram,https://github.com/wrathematics/ngram
 ngramr,https://github.com/seancarmody/ngramr
@@ -5479,7 +5484,7 @@ PoolTestR,https://github.com/angusmclure/pooltestr
 poorman,https://github.com/nathaneastwood/poorman
 popbayes,https://github.com/frbcesab/popbayes
 PopED,https://github.com/andrewhooker/poped
-popEpi,https://github.com/wetrobot/popepi
+popEpi,https://github.com/finnishcancerregistry/popepi
 PopGenReport,https://github.com/green-striped-gecko/popgenreport
 popkin,https://github.com/storeylab/popkin
 poppr,https://github.com/grunwaldlab/poppr
@@ -6169,6 +6174,7 @@ redux,https://github.com/richfitz/redux
 refinr,https://github.com/chrismuir/refinr
 RefManageR,https://github.com/ropensci/refmanager
 refnr,https://github.com/zedoul/refnr
+refreshr,https://github.com/jsugarelli/refreshr
 refset,https://github.com/hughjonesd/refset
 refuge,https://github.com/evanodell/refuge
 regexSelect,https://github.com/yonicd/regexselect
@@ -6610,6 +6616,7 @@ rprev,https://github.com/stulacy/rprev-dev
 rprime,https://github.com/tjmahr/rprime
 rprintf,https://github.com/renkun-ken/rprintf
 rprojroot,https://github.com/r-lib/rprojroot
+rprojtree,https://github.com/miguel-conde/rprojtree
 RProtoBuf,https://github.com/eddelbuettel/rprotobuf
 RPublica,https://github.com/ropengov/rpublica
 rpubs,https://github.com/aephidayatuloh/rpubs
@@ -7558,6 +7565,7 @@ statgenIBD,https://github.com/biometris/statgenibd
 statgenSTA,https://github.com/biometris/statgensta
 stationaRy,https://github.com/rich-iannone/stationary
 statip,https://github.com/paulponcet/statip
+StatMatch,https://github.com/marcellodo/statmatch
 statnet,https://github.com/statnet/statnet
 statnet.common,https://github.com/statnet/statnet.common
 statnipokladna,https://github.com/petrbouchal/statnipokladna
@@ -7724,6 +7732,7 @@ switchr,https://github.com/gmbecker/switchr
 switchrGist,https://github.com/gmbecker/switchrgist
 swmmr,https://github.com/dleutnant/swmmr
 SWMPr,https://github.com/fawda123/swmpr
+SWMPrExtension,https://github.com/noaa-ocm/swmprextension
 SWTools,https://github.com/matt-s-gibbs/swtools
 sylcount,https://github.com/wrathematics/sylcount
 sylly,https://github.com/undocumeantit/sylly
@@ -8078,6 +8087,7 @@ tractor.base,https://github.com/tractor/tractor
 trade,https://github.com/luciu5/trade
 tradepolicy,https://github.com/pachadotdev/tradepolicy
 TRADER,https://github.com/pavel-fibich/trader
+tradestatistics,https://github.com/ropensci/tradestatistics
 trainR,https://github.com/villegar/trainr
 traipse,https://github.com/trackage/traipse
 traitdataform,https://github.com/ecologicaltraitdata/traitdataform
@@ -8456,6 +8466,7 @@ vueR,https://github.com/vue-r/vuer
 VulnToolkit,https://github.com/troyhill/vulntoolkit
 vwline,https://github.com/pmur002/vwline
 W2CWM2C,https://github.com/jomopo/w2cwm2c
+wacolors,https://github.com/corymccartan/wacolors
 wactor,https://github.com/mkearney/wactor
 waffle,https://github.com/hrbrmstr/waffle
 waiter,https://github.com/johncoene/waiter
@@ -8600,6 +8611,7 @@ xgboost,https://github.com/dmlc/xgboost
 XiMpLe,https://github.com/rkward-community/ximple
 XLConnect,https://github.com/miraisolutions/xlconnect
 xlink,https://github.com/qiuanzhu/xlink
+XLS,https://github.com/sametsoekel/extreme-least-squares
 xlsx,https://github.com/colearendt/xlsx
 xmeta,https://github.com/penncil/xmeta
 xml2,https://github.com/r-lib/xml2
