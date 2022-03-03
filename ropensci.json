@@ -888,12 +888,6 @@
     "available": true
   },
   {
-    "package": "rcol",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/rcol",
-    "available": true
-  },
-  {
     "package": "rcoreoa",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/rcoreoa",
@@ -1095,6 +1089,12 @@
     "package": "rromeo",
     "maintainer": "Matthias Grenié <matthias.grenie@gmail.com>",
     "url": "https://github.com/ropensci/rromeo",
+    "available": true
+  },
+  {
+    "package": "rsat",
+    "maintainer": "Unai Pérez - Goya <unai.perez@unavarra.es>",
+    "url": "https://github.com/ropensci/rsat",
     "available": true
   },
   {

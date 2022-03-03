@@ -1,5 +1,11 @@
 [
   {
+    "package": "dccpp",
+    "maintainer": "Jonathan Berrisch <Jonathan@Berrisch.biz>",
+    "url": "https://github.com/berrij/dccpp",
+    "available": true
+  },
+  {
     "package": "profoc",
     "maintainer": "Jonathan Berrisch <Jonathan@Berrisch.biz>",
     "url": "https://github.com/berrij/profoc",

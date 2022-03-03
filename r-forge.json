@@ -448,13 +448,6 @@
     "available": false
   },
   {
-    "package": "klausuR",
-    "maintainer": "m.eik michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/r-forge/klausur",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "latticeExtra",
     "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
     "url": "https://github.com/r-forge/latticeextra",

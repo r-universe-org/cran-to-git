@@ -1,5 +1,12 @@
 [
   {
+    "package": "gofar",
+    "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
+    "url": "https://github.com/amishra-stats/gofar",
+    "subdir": "gofar",
+    "available": true
+  },
+  {
     "package": "nbfar",
     "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
     "url": "https://github.com/amishra-stats/nbfar",

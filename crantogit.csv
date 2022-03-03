@@ -983,6 +983,7 @@ citation,https://github.com/pik-piam/citation
 citecorp,https://github.com/ropensci/citecorp
 ciTools,https://github.com/jthaman/citools
 civis,https://github.com/civisanalytics/civis-r
+cjbart,https://github.com/tsrobinson/cjbart
 ckanr,https://github.com/ropensci/ckanr
 clarifai,https://github.com/soodoku/clarifai
 ClassComparison,https://github.com/r-forge/oompa
@@ -1501,6 +1502,7 @@ dbplot,https://github.com/edgararuiz/dbplot
 dbplyr,https://github.com/tidyverse/dbplyr
 dbscan,https://github.com/mhahsler/dbscan
 dbx,https://github.com/ankane/dbx
+dccpp,https://github.com/berrij/dccpp
 dccvalidator,https://github.com/sage-bionetworks/dccvalidator
 DCEM,https://github.com/parichit/dcem
 dcGOR,https://github.com/hfang-bristol/dcgor
@@ -2913,6 +2915,7 @@ giscoR,https://github.com/ropengov/giscor
 gistr,https://github.com/ropensci/gistr
 git2r,https://github.com/ropensci/git2r
 git2rdata,https://github.com/ropensci/git2rdata
+git4r,https://github.com/johnxhobbs/git4r
 gitcreds,https://github.com/r-lib/gitcreds
 gitdown,https://github.com/thinkr-open/gitdown
 gitear,https://github.com/ixpantia/gitear
@@ -2970,6 +2973,7 @@ gnm,https://github.com/hturner/gnm
 gnorm,https://github.com/maryclare/gnorm
 GOCompare,https://github.com/ccsosa/gocompare
 goeveg,https://github.com/fgoral/goeveg
+gofar,https://github.com/amishra-stats/gofar
 gofastr,https://github.com/trinker/gofastr
 goffda,https://github.com/egarpor/goffda
 goftest,https://github.com/baddstats/goftest
@@ -3677,7 +3681,7 @@ kitagawa,https://github.com/abarbour/kitagawa
 kiwisR,https://github.com/rywhale/kiwisr
 kknn,https://github.com/klausvigo/kknn
 klassR,https://github.com/statisticsnorway/klassr
-klausuR,https://github.com/r-forge/klausur
+klausuR,https://github.com/undocumeantit/klausur
 klexdatr,https://github.com/poissonconsulting/klexdatr
 KLexp,https://github.com/zongrui-dai/kernel-lasso-feature-expansion
 klic,https://github.com/acabassi/klic
@@ -3806,6 +3810,7 @@ learnPopGen,https://github.com/liamrevell/learnpopgen
 learnr,https://github.com/rstudio/learnr
 learnrbook,https://github.com/aphalo/learnrbook-pkg
 ledger,https://github.com/trevorld/r-ledger
+leem,https://github.com/bendeivide/leem
 legco,https://github.com/elgarteo/legco
 legion,https://github.com/config-i1/legion
 legislatoR,https://github.com/saschagobel/legislator
@@ -5727,6 +5732,7 @@ qcapower,https://github.com/ingorohlfing/qcapower
 qCBA,https://github.com/kliegr/qcba
 qcc,https://github.com/luca-scr/qcc
 qccrs,https://github.com/myaseen208/qccrs
+qcr,https://github.com/mflores72000/qcr
 QCSimulator,https://github.com/tvganesh/qcsimulator
 qdap,https://github.com/trinker/qdap
 qdapDictionaries,https://github.com/trinker/qdapdictionaries
@@ -5903,6 +5909,7 @@ rando,https://github.com/myko101/rando
 randomcoloR,https://github.com/ronammar/randomcolor
 randomForestExplainer,https://github.com/modeloriented/randomforestexplainer
 RandomForestsGLS,https://github.com/arkajyotisaha/randomforestsgls
+randomForestSRC,https://github.com/kogalur/randomforestsrc
 randomizr,https://github.com/declaredesign/randomizr
 randomNames,https://github.com/centerforassessment/randomnames
 Randomuseragent,https://github.com/fangzhou-xie/randomuseragent
@@ -6018,7 +6025,6 @@ rcmdcheck,https://github.com/r-lib/rcmdcheck
 RcmdrPlugin.NMBU,https://github.com/khliland/rcmdrplugin.nmbu
 RcmdrPlugin.temis,https://github.com/nalimilan/r.temis
 rco,https://github.com/jcrodriguez1989/rco
-rcol,https://github.com/ropensci/rcol
 RColetum,https://github.com/geo-sapiens/rcoletum
 Rcompadre,https://github.com/jonesor/rcompadre
 rcompendium,https://github.com/frbcesab/rcompendium
@@ -6648,6 +6654,7 @@ rSAFE,https://github.com/modeloriented/rsafe
 RSAGA,https://github.com/r-spatial/rsaga
 RSAlgaeR,https://github.com/cahhansen/rsalgae
 rsample,https://github.com/tidymodels/rsample
+rsat,https://github.com/ropensci/rsat
 RSauceLabs,https://github.com/johndharrison/rsaucelabs
 rscala,https://github.com/dbdahl/rscala
 RSCAT,https://github.com/act-org/rscat
@@ -6819,6 +6826,7 @@ saccades,https://github.com/tmalsburg/saccades
 sadists,https://github.com/shabbychef/sadists
 sads,https://github.com/pilaboratory/sads
 saeHB,https://github.com/zazaperwira/saehb
+saeHB.spatial,https://github.com/arinams/saehb.spatial
 saeHB.twofold,https://github.com/reymath99/saehb.twofold
 saekernel,https://github.com/wicaksh/saekernel
 saeRobust,https://github.com/wahani/saerobust
@@ -7664,7 +7672,6 @@ SUNGEO,https://github.com/zhukovyuri/sungeo
 supc,https://github.com/wush978/supc
 supclust,https://github.com/mmaechler/supclust
 superb,https://github.com/dcousin3/superb
-supercells,https://github.com/nowosad/supercells
 SuperExactTest,https://github.com/mw201608/superexacttest
 SuperLearner,https://github.com/ecpolley/superlearner
 superml,https://github.com/saraswatmks/superml
