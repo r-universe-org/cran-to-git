@@ -1,5 +1,11 @@
 [
   {
+    "package": "kesernetwork",
+    "maintainer": "Su-Chun Cheng <scheng@parse-health.org>",
+    "url": "https://github.com/celehs/kesernetwork",
+    "available": true
+  },
+  {
     "package": "PheCAP",
     "maintainer": "PARSE LTD <software@parse-health.org>",
     "url": "https://github.com/celehs/phecap",
