@@ -648,12 +648,6 @@
     "available": true
   },
   {
-    "package": "NLMR",
-    "maintainer": "Marco Sciaini <marco.sciaini@posteo.net>",
-    "url": "https://github.com/ropensci/nlmr",
-    "available": true
-  },
-  {
     "package": "nlrx",
     "maintainer": "Sebastian Hanss <nlrx@mailbox.org>",
     "url": "https://github.com/ropensci/nlrx",
@@ -1227,6 +1221,12 @@
     "package": "taxa",
     "maintainer": "Zachary Foster <zacharyfoster1989@gmail.com>",
     "url": "https://github.com/ropensci/taxa",
+    "available": true
+  },
+  {
+    "package": "taxadb",
+    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
+    "url": "https://github.com/ropensci/taxadb",
     "available": true
   },
   {
