@@ -422,13 +422,6 @@
     "available": true
   },
   {
-    "package": "inference",
-    "maintainer": "Vinh Nguyen <vinhdizzo@gmail.com>",
-    "url": "https://github.com/r-forge/inference",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "integIRTy",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
