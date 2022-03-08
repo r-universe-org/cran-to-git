@@ -3,6 +3,7 @@ AATtools,https://github.com/spiritspeak/aattools
 aba,https://github.com/ncullen93/abar
 abbreviate,https://github.com/sigbertklinke/abbreviate
 abbyyR,https://github.com/soodoku/abbyyr
+abclass,https://github.com/wenjie2wang/abclass
 ABCoptim,https://github.com/gvegayon/abcoptim
 abctools,https://github.com/dennisprangle/abctools
 abdiv,https://github.com/kylebittinger/abdiv
@@ -958,6 +959,7 @@ chromer,https://github.com/ropensci/chromer
 chromseq,https://github.com/msq-123/chromseq
 chronochrt,https://gitlab.com/archaeothommy/chronochrt
 chronosphere,https://github.com/chronosphere-portal/r_package
+chunked,https://github.com/edwindj/chunked
 chunkhooks,https://github.com/atusy/chunkhooks
 CICA,https://github.com/jeffreydurieux/cica
 ciccr,https://github.com/sokbae/ciccr
@@ -3150,6 +3152,7 @@ hcandersenr,https://github.com/emilhvitfeldt/hcandersenr
 hchinamap,https://github.com/czxa/hchinamap
 HCmodelSets,https://github.com/hhhelfer/hcmodelsets
 hdf5r,https://github.com/hhoeflin/hdf5r
+hdImpute,https://github.com/pdwaggoner/hdimpute
 hdme,https://github.com/osorensen/hdme
 hdnom,https://github.com/nanxstats/hdnom
 HDPenReg,https://github.com/modal-inria/hdpenreg
@@ -3493,7 +3496,6 @@ iNZightRegression,https://github.com/inzightvit/inzightregression
 iNZightTools,https://github.com/inzightvit/inzighttools
 iNZightTS,https://github.com/inzightvit/inzightts
 io,https://bitbucket.org/djhshih/io
-IOHanalyzer,https://github.com/iohprofiler/iohanalyzer
 IOHexperimenter,https://github.com/iohprofiler/iohexperimenter
 iotables,https://github.com/ropengov/iotables
 ip2location,https://github.com/ip2location/ip2location-r
@@ -6178,6 +6180,7 @@ refset,https://github.com/hughjonesd/refset
 refuge,https://github.com/evanodell/refuge
 regexSelect,https://github.com/yonicd/regexselect
 regexTestR,https://github.com/adamspannbauer/r_regex_tester_app
+regfilter,https://github.com/juanmartinsantos/regfilter
 reghelper,https://github.com/jeff-hughes/reghelper
 regioncode,https://github.com/sammo3182/regioncode
 regions,https://github.com/ropengov/regions
@@ -6220,6 +6223,7 @@ repmis,https://github.com/christophergandrud/repmis
 RepoGenerator,https://github.com/jaredlander/repogenerator
 report,https://github.com/easystats/report
 reporter,https://github.com/dbosak01/reporter
+repoRter.nih,https://github.com/bikeactuary/reporter.nih
 reportfactory,https://github.com/reconverse/reportfactory
 reportr,https://github.com/jonclayden/reportr
 repr,https://github.com/irkernel/repr
@@ -6482,7 +6486,7 @@ Rnmr1D,https://github.com/inra/rnmr1d
 rnn,https://github.com/bquast/rnn
 rnoaa,https://github.com/ropensci/rnoaa
 rNOMADS,https://github.com/r-forge/rnomads
-rnpn,https://github.com/ropensci/rnpn
+rnpn,https://github.com/usa-npn/rnpn
 rnrfa,https://github.com/cvitolo/rnrfa
 Rnumerai,https://github.com/omni-analytics-group/rnumerai
 Rnvd3,https://github.com/stla/rnvd3
@@ -7382,6 +7386,7 @@ sparsebn,https://github.com/itsrainingdata/sparsebn
 sparsebnUtils,https://github.com/itsrainingdata/sparsebnutils
 sparsediscrim,https://github.com/topepo/sparsediscrim
 sparseEigen,https://github.com/dppalomar/sparseeigen
+sparsegl,https://github.com/dajmcdon/sparsegl
 sparseHessianFD,https://github.com/braunm/trustoptim
 sparseIndexTracking,https://github.com/dppalomar/sparseindextracking
 sparseLDA,https://github.com/topepo/sparselda
@@ -7567,6 +7572,7 @@ statgenIBD,https://github.com/biometris/statgenibd
 statgenSTA,https://github.com/biometris/statgensta
 stationaRy,https://github.com/rich-iannone/stationary
 statip,https://github.com/paulponcet/statip
+statisfactory,https://github.com/adamlilith/statisfactory
 StatMatch,https://github.com/marcellodo/statmatch
 statnet,https://github.com/statnet/statnet
 statnet.common,https://github.com/statnet/statnet.common
@@ -8135,7 +8141,7 @@ trelloR,https://github.com/jchrom/trellor
 trendeval,https://github.com/reconverse/trendeval
 trending,https://github.com/reconverse/trending
 trendyy,https://github.com/josiahparry/trendyy
-TRES,https://github.com/leozeng15/tres
+TRES,https://github.com/jingzzeng/tres
 TREXr,https://github.com/the-hull/trex
 trialr,https://github.com/brockk/trialr
 triangle,https://github.com/bertcarnell/triangle
@@ -8750,7 +8756,6 @@ ASSIGN,https://github.com/compbiomed/assign
 atena,https://github.com/functionalgenomics/atena
 atSNP,https://github.com/sunyoungshin/atsnp
 autonomics,https://bitbucket.org/graumannlabtools/autonomics
-Autotuner,https://github.com/kujawinskilaboratory/autotuner
 AWFisher,https://github.com/caleb-huo/awfisher
 awst,https://github.com/drisso/awst
 ballgown,https://github.com/alyssafrazee/ballgown
@@ -8822,6 +8827,7 @@ CAGEfightR,https://github.com/maltethodberg/cagefightr
 cageminer,https://github.com/almeidasilvaf/cageminer
 calm,https://github.com/k22liang/calm
 CAMERA,https://github.com/sneumann/camera
+canceR,https://github.com/kmezhoud/cancer
 CancerSubtypes,https://github.com/taoshengxu/cancersubtypes
 CARNIVAL,https://github.com/saezlab/carnival
 CATALYST,https://github.com/helenalc/catalyst
@@ -8840,7 +8846,6 @@ cfDNAPro,https://github.com/hw538/cfdnapro
 CGHbase,https://github.com/tgac-vumc/cghbase
 ChemmineOB,https://github.com/girke-lab/chemmineob
 ChemmineR,https://github.com/girke-lab/chemminer
-CHETAH,https://github.com/jdekanter/chetah
 chimeraviz,https://github.com/stianlagstad/chimeraviz
 ChIPexoQual,https://github.com/welch16/chipexoqual
 ChIPseeker,https://github.com/yulab-smu/chipseeker
@@ -8882,7 +8887,6 @@ CopywriteR,https://github.com/peeperlab/copywriter
 coRdon,https://github.com/bioinfohr/cordon
 cosmosR,https://github.com/saezlab/cosmosr
 COSNet,https://github.com/m1frasca/cosnet_github
-CountClust,https://github.com/kkdey/countclust
 countsimQC,https://github.com/csoneson/countsimqc
 crisprseekplus,https://github.com/umms-biocore/crisprseekplus
 csdR,https://github.com/almaaslab/csdr
@@ -8986,7 +8990,6 @@ fedup,https://github.com/rosscm/fedup
 fgga,https://github.com/fspetale/fgga
 fgsea,https://github.com/ctlab/fgsea
 FindIT2,https://github.com/shangguandong1996/findit2
-FindMyFriends,https://github.com/thomasp85/findmyfriends
 fishpond,https://github.com/mikelove/fishpond
 FLAMES,https://github.com/olivervoogd/flames
 flowcatchR,https://github.com/federicomarini/flowcatchr
@@ -9016,7 +9019,6 @@ GeneExpressionSignature,https://github.com/yiluheihei/geneexpressionsignature
 GENESIS,https://github.com/uw-gac/genesis
 GeneTonic,https://github.com/federicomarini/genetonic
 geneXtendeR,https://github.com/bohdan-khomtchouk/genextender
-GenoGAM,https://github.com/gstricker/genogam
 genomation,https://github.com/bimsbbioinfo/genomation
 GenomeInfoDb,https://github.com/bioconductor/genomeinfodb
 GenomicAlignments,https://github.com/bioconductor/genomicalignments
@@ -9072,7 +9074,6 @@ Harman,https://github.com/jasonr055/harman
 HDF5Array,https://github.com/bioconductor/hdf5array
 HDTD,https://github.com/anestistouloumis/hdtd
 Heatplus,https://github.com/alexploner/heatplus
-Herper,https://github.com/rockefelleruniversity/herper
 HIBAG,https://github.com/zhengxwen/hibag
 HiCcompare,https://github.com/dozmorovlab/hiccompare
 HilbertCurve,https://github.com/jokergoo/hilbertcurve
@@ -9144,7 +9145,6 @@ MAST,https://github.com/rglab/mast
 MatrixGenerics,https://github.com/bioconductor/matrixgenerics
 matter,https://github.com/kuwisdelu/matter
 mbkmeans,https://github.com/drisso/mbkmeans
-MBQN,https://github.com/arianeschad/mbqn
 MEAT,https://github.com/sarah-voisin/meat
 megadepth,https://github.com/lieberinstitute/megadepth
 memes,https://github.com/snystrom/memes
@@ -9157,7 +9157,6 @@ metagene2,https://github.com/arnauddroitlab/metagene2
 metagenomeSeq,https://github.com/hcbravolab/metagenomeseq
 metaMS,https://github.com/yguitton/metams
 metaseqR2,https://github.com/pmoulos/metaseqr2
-MethCP,https://github.com/boyinggong/methcp
 methInheritSim,https://github.com/belleau/methinheritsim
 MethReg,https://github.com/transbioinfolab/methreg
 methrix,https://github.com/compepigen/methrix
@@ -9218,7 +9217,6 @@ msqrob2,https://github.com/statomics/msqrob2
 MSstatsLiP,https://github.com/vitek-lab/msstatslip
 MSstatsLOBD,https://github.com/vitek-lab/msstatslobd
 MSstatsPTM,https://github.com/vitek-lab/msstatsptm
-MSstatsTMTPTM,https://github.com/vitek-lab/msstatstmtptm
 MultiAssayExperiment,https://github.com/waldronlab/multiassayexperiment
 multicrispr,https://github.com/loosolab/multicrispr
 multiGSEA,https://github.com/yigbt/multigsea
@@ -9285,7 +9283,6 @@ PepsNMR,https://github.com/manonmartin/pepsnmr
 pepStat,https://github.com/rglab/pepstat
 PERFect,https://github.com/cxquy91/perfect
 periodicDNA,https://github.com/js2264/periodicdna
-perturbatr,https://github.com/cbg-ethz/perturbatr
 PFP,https://github.com/aib-group/pfp
 phantasus,https://github.com/ctlab/phantasus
 PharmacoGx,https://github.com/bhklab/pharmacogx
@@ -9587,7 +9584,6 @@ waddR,https://github.com/goncalves-lab/waddr
 wpm,https://github.com/helbor/wpm
 wppi,https://github.com/anagalhoz37/wppi
 Wrench,https://github.com/hcbravolab/wrench
-XCIR,https://github.com/srenan/xcir
 xcms,https://github.com/sneumann/xcms
 Xeva,https://github.com/bhklab/xeva
 XVector,https://github.com/bioconductor/xvector
@@ -9596,5 +9592,16 @@ zellkonverter,https://github.com/theislab/zellkonverter
 zFPKM,https://github.com/ronammar/zfpkm
 zinbwave,https://github.com/drisso/zinbwave
 zlibbioc,https://github.com/bioconductor/zlibbioc
+Herper,https://github.com/rockefelleruniversity/herper
+MethCP,https://github.com/boyinggong/methcp
+MBQN,https://github.com/arianeschad/mbqn
 ENCODExplorer,https://github.com/charlesjb/encodexplorer
+FindMyFriends,https://github.com/thomasp85/findmyfriends
+CountClust,https://github.com/kkdey/countclust
+GenoGAM,https://github.com/gstricker/genogam
+perturbatr,https://github.com/cbg-ethz/perturbatr
+CHETAH,https://github.com/jdekanter/chetah
+XCIR,https://github.com/srenan/xcir
+Autotuner,https://github.com/kujawinskilaboratory/autotuner
 ALPS,https://github.com/itsvenu/alps
+MSstatsTMTPTM,https://github.com/vitek-lab/msstatstmtptm
