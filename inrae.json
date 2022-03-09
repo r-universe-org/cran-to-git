@@ -1,5 +1,11 @@
 [
   {
+    "package": "airGRiwrm",
+    "maintainer": "David Dorchies <david.dorchies@inrae.fr>",
+    "url": "https://github.com/inrae/airgriwrm",
+    "available": true
+  },
+  {
     "package": "Rodam",
     "maintainer": "Daniel Jacob <daniel.jacob@inrae.fr>",
     "url": "https://github.com/inrae/odam",
