@@ -1,5 +1,11 @@
 [
   {
+    "package": "BISdata",
+    "maintainer": "Enrico Schumann <es@enricoschumann.net>",
+    "url": "https://github.com/enricoschumann/bisdata",
+    "available": true
+  },
+  {
     "package": "bundesbank",
     "maintainer": "Enrico Schumann <es@enricoschumann.net>",
     "url": "https://github.com/enricoschumann/bundesbank",

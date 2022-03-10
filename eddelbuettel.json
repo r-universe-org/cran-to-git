@@ -42,6 +42,12 @@
     "available": true
   },
   {
+    "package": "dtts",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/dtts",
+    "available": true
+  },
+  {
     "package": "gaussfacts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/gaussfacts",
