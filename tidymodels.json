@@ -84,6 +84,12 @@
     "available": true
   },
   {
+    "package": "multilevelmod",
+    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "url": "https://github.com/tidymodels/multilevelmod",
+    "available": true
+  },
+  {
     "package": "parsnip",
     "maintainer": "Max Kuhn <max@rstudio.com>",
     "url": "https://github.com/tidymodels/parsnip",
