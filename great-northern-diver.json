@@ -18,6 +18,12 @@
     "available": false
   },
   {
+    "package": "loon.data",
+    "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
+    "url": "https://github.com/great-northern-diver/loon.data",
+    "available": true
+  },
+  {
     "package": "loon.ggplot",
     "maintainer": "Zehao Xu <z267xu@uwaterloo.ca>",
     "url": "https://github.com/great-northern-diver/loon.ggplot",

@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "iterpc",
+    "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
+    "url": "https://github.com/randy3k/iterpc",
+    "available": true
+  },
+  {
     "package": "otp",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
     "url": "https://github.com/randy3k/otp",
@@ -27,6 +33,12 @@
     "package": "retry",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
     "url": "https://github.com/randy3k/retry",
+    "available": true
+  },
+  {
+    "package": "xptr",
+    "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
+    "url": "https://github.com/randy3k/xptr",
     "available": true
   }
 ]

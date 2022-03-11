@@ -1,5 +1,11 @@
 [
   {
+    "package": "CausalImpact",
+    "maintainer": "Alain Hauser <alhauser@google.com>",
+    "url": "https://github.com/google/causalimpact",
+    "available": true
+  },
+  {
     "package": "patrick",
     "maintainer": "Michael Quinn <msquinn@google.com>",
     "url": "https://github.com/google/patrick",
