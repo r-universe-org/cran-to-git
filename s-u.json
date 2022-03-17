@@ -4,5 +4,11 @@
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
     "url": "https://github.com/s-u/rjava",
     "available": true
+  },
+  {
+    "package": "uuid",
+    "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
+    "url": "https://github.com/s-u/uuid",
+    "available": true
   }
 ]
