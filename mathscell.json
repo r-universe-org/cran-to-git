@@ -1,5 +1,11 @@
 [
   {
+    "package": "bspline",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/mathscell/bspline",
+    "available": true
+  },
+  {
     "package": "nlsic",
     "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
     "url": "https://github.com/mathscell/nlsic",
