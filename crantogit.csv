@@ -55,6 +55,7 @@ adheRenceRX,https://github.com/btbeal/adherencerx
 AdhereR,https://github.com/ddediu/adherer
 AdhereRViz,https://github.com/ddediu/adherer
 adjclust,https://github.com/pneuvial/adjclust
+adjROC,https://github.com/haghish/adjroc
 adjustedcranlogs,https://github.com/tylermorganwall/adjustedcranlogs
 adklakedata,https://github.com/lawinslow/adklakedata
 admisc,https://github.com/dusadrian/admisc
@@ -796,6 +797,7 @@ callr,https://github.com/r-lib/callr
 calmate,https://github.com/henrikbengtsson/calmate
 calpassapi,https://github.com/vinhdizzo/calpassapi
 CamelUp,https://github.com/mczekanski1/camel-up
+camerondata,https://github.com/juvlac/camerondata
 campfin,https://github.com/irworkshop/campfin
 campsis,https://github.com/calvagone/campsis
 campsismod,https://github.com/calvagone/campsismod
@@ -1823,7 +1825,7 @@ downloader,https://github.com/wch/downloader
 downloadthis,https://github.com/fmmattioni/downloadthis
 downsize,https://github.com/wlandau/downsize
 dowser,https://bitbucket.org/kleinstein/dowser
-dparser,https://github.com/nlmixrdevelopment/dparser-r
+dparser,https://github.com/nlmixr2/dparser-r
 dplbnDE,https://github.com/alexplatasl/dplbnde
 dplR,https://github.com/andybunn/dplr
 dplyr,https://github.com/tidyverse/dplyr
@@ -2037,7 +2039,6 @@ eikosograms,https://github.com/rwoldford/eikosograms
 einet,https://github.com/travisbyrum/einet
 eirm,https://github.com/okanbulut/eirm
 EIX,https://github.com/modeloriented/eix
-eixport,https://github.com/atmoschem/eixport
 elastic,https://github.com/ropensci/elastic
 ELCIC,https://github.com/chencxxy28/elcic
 electionsBR,https://github.com/silvadenisson/electionsbr
@@ -2076,6 +2077,7 @@ emov,https://github.com/schw4b/emov
 EmpiricalCalibration,https://github.com/ohdsi/empiricalcalibration
 EMSC,https://github.com/khliland/emsc
 EMSS,https://github.com/sangkyustat/emss
+emstreeR,https://github.com/allanvc/emstreer
 emulator,https://github.com/robinhankin/emulator
 emuR,https://github.com/ips-lmu/emur
 enc,https://github.com/krlmlr/enc
@@ -3253,6 +3255,7 @@ heuristica,https://github.com/jeanimal/heuristica
 heuristicsmineR,https://github.com/bupaverse/heuristicsminer
 hexbin,https://github.com/edzer/hexbin
 hexSticker,https://github.com/guangchuangyu/hexsticker
+hgnc,https://github.com/maialab/hgnc
 HGNChelper,https://github.com/waldronlab/hgnchelper
 hgutils,https://github.com/hvdboorn/hgutils
 HHG,https://github.com/barakbri/hhg
@@ -3411,6 +3414,7 @@ idmodelr,https://github.com/seabbs/idmodelr
 ids,https://github.com/reside-ic/ids
 IDSL.IPA,https://github.com/idslme/idsl.ipa
 IDSL.MXP,https://github.com/idslme/idsl.ipa
+IDSL.SUFA,https://github.com/idslme/idsl.ufa
 IDSL.UFA,https://github.com/idslme/idsl.ufa
 IDSL.UFAx,https://github.com/idslme/idsl.ufa
 idx2r,https://github.com/edoffagne/idx2r
@@ -3805,6 +3809,7 @@ Landmarking,https://github.com/isobelbarrott/landmarking
 landscapemetrics,https://github.com/r-spatialecology/landscapemetrics
 landscapeR,https://github.com/dariomasante/landscaper
 landscapetools,https://github.com/ropensci/landscapetools
+langevitour,https://github.com/pfh/langevitour
 languagelayeR,https://github.com/colinfay/languagelayer
 languageserver,https://github.com/reditorsupport/languageserver
 languageserversetup,https://github.com/jozefhajnala/languageserversetup
@@ -4556,6 +4561,7 @@ mombf,https://github.com/davidrusi/mombf
 momentuHMM,https://github.com/bmcclintock/momentuhmm
 Momocs,https://github.com/momx/momocs
 monaco,https://github.com/stla/monaco
+monashtipr,https://github.com/jimmyday12/monash_tipr
 mondate,https://github.com/chiefmurph/mondate
 Mondrian,https://github.com/aursiber/mondrian
 mongolite,https://github.com/jeroen/mongolite
@@ -5502,6 +5508,7 @@ plinkQC,https://github.com/meyer-lab-cshl/plinkqc
 plm,https://github.com/ycroissant/plm
 PLNmodels,https://github.com/pln-team/plnmodels
 plogr,https://github.com/krlmlr/plogr
+PLORN,https://github.com/takakoizumi/plorn
 plot.matrix,https://github.com/sigbertklinke/plot.matrix
 plot3logit,https://github.com/f-santi/plot3logit
 plotdap,https://github.com/rmendels/plotdap
@@ -5632,6 +5639,7 @@ ppitables,https://github.com/katilingban/ppitables
 ppmf,https://github.com/christopherkenny/ppmf
 PPMR,https://github.com/umich-biostatistics/ppmr
 PPQplan,https://github.com/allenzhuaz/ppqplan
+PPSFS,https://github.com/paradoxical-rhapsody/ppsfs
 prais,https://github.com/franzmohr/prais
 praise,https://github.com/rladies/praise
 praznik,https://gitlab.com/mbq/praznik
@@ -6101,6 +6109,7 @@ RBitmoji,https://github.com/bgreenwell/rbitmoji
 RblDataLicense,https://github.com/eguidotti/rbldatalicense
 Rblpapi,https://github.com/rblp/rblpapi
 rblt,https://github.com/sg4r/rblt
+rbmi,https://github.com/insightsengineering/rbmi
 RBMRB,https://github.com/bmrb-io/rbmrb
 RBNZ,https://github.com/rntq472/rbnz
 rbokeh,https://github.com/bokeh/rbokeh
@@ -7774,6 +7783,7 @@ storr,https://github.com/richfitz/storr
 stoRy,https://github.com/theme-ontology/story
 storywranglr,https://github.com/chris31415926535/storywranglr
 stplanr,https://github.com/ropensci/stplanr
+stppSim,https://github.com/manalytics/stppsim
 stR,https://bitbucket.org/alexanderdokumentov/strpackage
 strand,https://github.com/strand-tech/strand
 strat,https://github.com/xiangzhou09/strat
@@ -8575,7 +8585,7 @@ vennLasso,https://github.com/jaredhuling/vennlasso
 verbalisr,https://github.com/magnusdv/verbalisr
 versions,https://github.com/goldingn/versions
 vesselr,https://github.com/jdwor/vesselr
-vetiver,https://github.com/tidymodels/vetiver
+vetiver,https://github.com/tidymodels/vetiver-r
 vetools,https://github.com/talassio/vetools
 vetr,https://github.com/brodieg/vetr
 VetResearchLMM,https://github.com/myaseen208/vetresearchlmm
@@ -9074,7 +9084,7 @@ crisprseekplus,https://github.com/umms-biocore/crisprseekplus
 csdR,https://github.com/almaaslab/csdr
 cTRAP,https://github.com/nuno-agostinho/ctrap
 ctsGE,https://github.com/michalsharabi/ctsge
-customCMPdb,https://github.com/yduan004/customcmpdb
+customCMPdb,https://github.com/girke-lab/customcmpdb
 cyanoFilter,https://github.com/fomotis/cyanofilter
 CytoGLMM,https://github.com/christofseiler/cytoglmm
 cytoKernel,https://github.com/ghoshlab/cytokernel
@@ -9652,7 +9662,7 @@ sevenC,https://github.com/ibn-salem/sevenc
 SharedObject,https://github.com/jiefei-wang/sharedobject
 shinyepico,https://github.com/omorante/shinyepico
 sights,https://github.com/eg-r/sights
-signatureSearch,https://github.com/yduan004/signaturesearch
+signatureSearch,https://github.com/girke-lab/signaturesearch
 signeR,https://github.com/rvalieris/signer
 SigsPack,https://github.com/bihealth/sigspack
 similaRpeak,https://github.com/adeschen/similarpeak

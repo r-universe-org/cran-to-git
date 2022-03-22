@@ -1,5 +1,11 @@
 [
   {
+    "package": "adjROC",
+    "maintainer": "E. F. Haghish <haghish@uio.no>",
+    "url": "https://github.com/haghish/adjroc",
+    "available": true
+  },
+  {
     "package": "convertGraph",
     "maintainer": "E. F. Haghish <haghish@imada.sdu.dk>",
     "url": "https://github.com/haghish/convertgraph",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "PLORN",
+    "maintainer": "Takahiko Koizumi <takahiko.koizumi@riken.jp>",
+    "url": "https://github.com/takakoizumi/plorn",
+    "available": true
+  },
+  {
     "package": "QuESTr",
     "maintainer": "Takahiko Koizumi <takahiko.koizumi@riken.jp>",
     "url": "https://github.com/takakoizumi/questr",

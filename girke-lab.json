@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "customCMPdb",
+    "maintainer": "Yuzhu Duan <yduan004@ucr.edu>",
+    "url": "https://github.com/girke-lab/customcmpdb",
+    "available": true
+  },
+  {
     "package": "drugTargetInteractions",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/drugtargetinteractions",
@@ -33,6 +39,12 @@
     "package": "fmcsR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/fmcsr",
+    "available": true
+  },
+  {
+    "package": "signatureSearch",
+    "maintainer": "Yuzhu Duan <yduan004@ucr.edu>",
+    "url": "https://github.com/girke-lab/signaturesearch",
     "available": true
   }
 ]
