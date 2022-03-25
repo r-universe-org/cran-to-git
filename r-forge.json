@@ -1457,6 +1457,13 @@
     "available": true
   },
   {
+    "package": "Matrix",
+    "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
+    "url": "https://github.com/r-forge/matrix",
+    "subdir": "pkg/Matrix",
+    "available": true
+  },
+  {
     "package": "lpsymphony",
     "maintainer": "Vladislav Kim <Vladislav.Kim@embl.de>",
     "url": "https://github.com/r-forge/rsymphony",

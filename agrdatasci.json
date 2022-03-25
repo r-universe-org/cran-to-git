@@ -1,5 +1,11 @@
 [
   {
+    "package": "ag5Tools",
+    "maintainer": "David Brown <d.brown@cgiar.org>",
+    "url": "https://github.com/agrdatasci/ag5tools",
+    "available": true
+  },
+  {
     "package": "climatrends",
     "maintainer": "Kauê de Sousa <kaue.desousa@inn.no>",
     "url": "https://github.com/agrdatasci/climatrends",
