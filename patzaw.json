@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "ClickHouseHTTP",
+    "maintainer": "Patrice Godard <patrice.godard@gmail.com>",
+    "url": "https://github.com/patzaw/clickhousehttp",
+    "available": true
+  },
+  {
     "package": "neo2R",
     "maintainer": "Patrice Godard <patrice.godard@gmail.com>",
     "url": "https://github.com/patzaw/neo2r",

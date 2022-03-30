@@ -1,5 +1,11 @@
 [
   {
+    "package": "formatters",
+    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
+    "url": "https://github.com/insightsengineering/formatters",
+    "available": true
+  },
+  {
     "package": "rbmi",
     "maintainer": "Craig Gower-Page <craig.gower-page@roche.com>",
     "url": "https://github.com/insightsengineering/rbmi",

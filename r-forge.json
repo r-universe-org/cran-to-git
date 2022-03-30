@@ -1159,6 +1159,13 @@
     "available": true
   },
   {
+    "package": "spgwr",
+    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
+    "url": "https://github.com/r-forge/rspatial",
+    "subdir": "pkg/spgwr",
+    "available": true
+  },
+  {
     "package": "SportsAnalytics",
     "maintainer": "Manuel J. A. Eugster <manuel.eugster@stat.uni-muenchen.de>",
     "url": "https://github.com/r-forge/soccer",
