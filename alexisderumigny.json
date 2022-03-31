@@ -1,5 +1,11 @@
 [
   {
+    "package": "CondCopulas",
+    "maintainer": "Alexis Derumigny <a.f.f.derumigny@tudelft.nl>",
+    "url": "https://github.com/alexisderumigny/condcopulas",
+    "available": true
+  },
+  {
     "package": "ElliptCopulas",
     "maintainer": "Alexis Derumigny <a.f.f.derumigny@tudelft.nl>",
     "url": "https://github.com/alexisderumigny/elliptcopulas",
