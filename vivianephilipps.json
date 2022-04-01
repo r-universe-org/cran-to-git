@@ -1,5 +1,11 @@
 [
   {
+    "package": "JLPM",
+    "maintainer": "Viviane Philipps <Viviane.Philipps@u-bordeaux.fr>",
+    "url": "https://github.com/vivianephilipps/jlpm",
+    "available": true
+  },
+  {
     "package": "marqLevAlg",
     "maintainer": "Viviane Philipps <viviane.philipps@u-bordeaux.fr>",
     "url": "https://github.com/vivianephilipps/marqlevalgparallel",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "AirMonitor",
+    "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
+    "url": "https://github.com/mazamascience/airmonitor",
+    "available": true
+  },
+  {
     "package": "AirSensor",
     "maintainer": "Jonathan Callahan <jonathan.s.callahan@gmail.com>",
     "url": "https://github.com/mazamascience/airsensor",
