@@ -832,13 +832,6 @@
     "available": true
   },
   {
-    "package": "rJython",
-    "maintainer": "Carlos J. Gil Bellosta <cgb@datanalytics.com>",
-    "url": "https://github.com/r-forge/rjython",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "Rmpfr",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/rmpfr",
