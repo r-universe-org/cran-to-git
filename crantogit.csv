@@ -339,6 +339,7 @@ autoTS,https://github.com/vivienroussez/autots
 av,https://github.com/ropensci/av
 available,https://github.com/r-lib/available
 avar,https://github.com/smac-group/avar
+avidaR,https://gitlab.com/fortunalab/avidar
 AvInertia,https://github.com/charvey23/avinertia
 aVirtualTwins,https://github.com/prise6/avirtualtwins
 aweek,https://github.com/reconhub/aweek
@@ -928,7 +929,6 @@ cffr,https://github.com/ropensci/cffr
 cfid,https://github.com/santikka/cfid
 cforward,https://github.com/muschellij2/cforward
 cgal4h,https://gitlab.com/dickoa/cgal4h
-cgdsr,https://github.com/cbioportal/cgdsr
 CGE,https://github.com/liwur/cge
 CGGP,https://github.com/collinerickson/cggp
 cghRA,https://github.com/maressyl/r.cghra
@@ -2496,6 +2496,7 @@ flora,https://github.com/gustavobio/flora
 flow,https://github.com/moodymudskipper/flow
 flowr,https://github.com/flow-r/flowr
 FlowRegEnvCost,https://github.com/garciadejalon/flowregenvcost
+fm.index,https://github.com/clemenshug/fm.index
 fma,https://github.com/robjhyndman/fma
 fmbasics,https://github.com/imanuelcostigan/fmbasics
 fmcmc,https://github.com/uscbiostats/fmcmc
@@ -2644,7 +2645,6 @@ FWDselect,https://github.com/sestelo/fwdselect
 fwi.fbp,https://github.com/r-forge/fwi-fbp
 fwildclusterboot,https://github.com/s3alfisc/fwildclusterboot
 fxTWAPLS,https://github.com/special-uor/fxtwapls
-g3viz,https://github.com/g3viz/g3viz
 GA,https://github.com/luca-scr/ga
 GADMTools,https://github.com/iamkdo/gadmtools
 galah,https://github.com/atlasoflivingaustralia/galah
@@ -3279,6 +3279,7 @@ highfrequency,https://github.com/jonathancornelissen/highfrequency
 highlight,https://github.com/hadley/highlight
 highlightHTML,https://github.com/lebebr01/highlighthtml
 highr,https://github.com/yihui/highr
+hilbert,https://github.com/program--/hilbert
 hilbertSimilarity,https://github.com/yannabraham/hilbertsimilarity
 hilldiv,https://github.com/anttonalberdi/hilldiv
 hillmakeR,https://github.com/gilinson/hillmaker
@@ -3501,6 +3502,7 @@ incase,https://github.com/rossellhayes/incase
 incgraph,https://github.com/rcannood/incgraph
 incidence,https://github.com/reconhub/incidence
 incidence2,https://github.com/reconverse/incidence2
+incidentally,https://github.com/zpneal/incidentally
 inctools,https://github.com/sacema/inctools
 IndexNumR,https://github.com/grahamjwhite/indexnumr
 IndianTaxCalc,https://github.com/sulthanphd/indiantaxcalc
@@ -3805,7 +3807,6 @@ labelled,https://github.com/larmarange/labelled
 labelmachine,https://github.com/a-maldet/labelmachine
 labourR,https://github.com/eworx-org/labourr
 labstats,https://github.com/stanlazic/labstats
-lacrmr,https://github.com/ixpantia/lacrmr
 lacunaritycovariance,https://github.com/kasselhingee/lacunaritycovariance
 LaF,https://github.com/djvanderlaan/laf
 lagged,https://github.com/geobosh/lagged
@@ -3986,6 +3987,7 @@ listdown,https://github.com/kaneplusplus/listdown
 listenv,https://github.com/henrikbengtsson/listenv
 listviewer,https://github.com/timelyportfolio/listviewer
 listWithDefaults,https://github.com/russellpierce/listwithdefaults
+lite,https://github.com/paulnorthrop/lite
 liteq,https://github.com/r-lib/liteq
 littler,https://github.com/eddelbuettel/littler
 live,https://github.com/modeloriented/live
@@ -4682,6 +4684,7 @@ mthapower,https://github.com/aurora-mareviv/mthapower
 MTLR,https://github.com/haiderstats/mtlr
 MtreeRing,https://github.com/ropensci/mtreering
 MTSYS,https://github.com/okayaa/mtsys
+MuChPoint,https://github.com/lionning/muchpoint
 muckrock,https://github.com/ironholds/muckrock
 mudata2,https://github.com/paleolimbot/mudata2
 mudfold,https://github.com/cran/mudfold
@@ -4824,6 +4827,7 @@ nestfs,https://github.com/mcol/nestfs
 net4pg,https://github.com/laurafancello/net4pg
 netCoin,https://github.com/modesto-escobar/netcoin-2.x
 netcom,https://github.com/langendorfr/netcom
+NetCoupler,https://github.com/netcoupler/netcoupler
 netdiffuseR,https://github.com/usccana/netdiffuser
 netgen,https://github.com/jakobbossek/netgen
 netgsa,https://github.com/mikehellstern/netgsa
@@ -5129,7 +5133,6 @@ osmextract,https://github.com/ropensci/osmextract
 osmose,https://github.com/osmose-model/osmose
 osmplotr,https://github.com/ropensci/osmplotr
 OSMscale,https://github.com/brry/osmscale
-ospsuite.utils,https://github.com/open-systems-pharmacology/ospsuite.rutils
 osrm,https://github.com/riatelab/osrm
 Ostats,https://github.com/neon-biodiversity/ostats
 otp,https://github.com/randy3k/otp
@@ -6439,7 +6442,7 @@ Rfast2,https://github.com/rfastofficial/rfast2
 RfEmpImp,https://github.com/shangzhi-hong/rfempimp
 rFerns,https://gitlab.com/mbq/rferns
 rFIA,https://github.com/hunter-stanke/rfia
-rfigshare,https://github.com/ropensci/rfigshare
+rfigshare,https://github.com/ropensci-archive/rfigshare
 rfinterval,https://github.com/haozhestat/rfinterval
 rfishbase,https://github.com/ropensci/rfishbase
 RFishBC,https://github.com/fishr-core-team/rfishbc
@@ -6998,7 +7001,6 @@ saekernel,https://github.com/wicaksh/saekernel
 saeRobust,https://github.com/wahani/saerobust
 saeSim,https://github.com/wahani/saesim
 SAFARI,https://github.com/estfernandez/safari
-safedata,https://github.com/imperialcollegelondon/safedata
 safejoin,https://github.com/samedwardes/safejoin
 safer,https://github.com/talegari/safer
 safetyCharts,https://github.com/safetygraphics/safetycharts
@@ -8237,6 +8239,7 @@ tinyspotifyr,https://github.com/troyhernandez/tinyspotifyr
 tinytest,https://github.com/markvanderloo/tinytest
 tinytex,https://github.com/yihui/tinytex
 tipa,https://github.com/hugheylab/tipa
+TippingPoint,https://github.com/xikunhan/tippingpoint
 tippy,https://github.com/johncoene/tippy
 titanic,https://github.com/paulhendricks/titanic
 tls,https://github.com/liyanstat/tls
