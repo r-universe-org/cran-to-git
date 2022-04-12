@@ -60,6 +60,12 @@
     "available": true
   },
   {
+    "package": "plainview",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/plainview",
+    "available": true
+  },
+  {
     "package": "rgee",
     "maintainer": "Cesar Aybar <csaybar@gmail.com>",
     "url": "https://github.com/r-spatial/rgee",
@@ -87,6 +93,12 @@
     "package": "sf",
     "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
     "url": "https://github.com/r-spatial/sf",
+    "available": true
+  },
+  {
+    "package": "slideview",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/slideview",
     "available": true
   },
   {
