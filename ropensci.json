@@ -1062,6 +1062,12 @@
     "available": true
   },
   {
+    "package": "Rpolyhedra",
+    "maintainer": "Alejandro Baranek <abaranek@dc.uba.ar>",
+    "url": "https://github.com/ropensci/rpolyhedra",
+    "available": true
+  },
+  {
     "package": "rredlist",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rredlist",
@@ -1089,6 +1095,12 @@
     "package": "rsnps",
     "maintainer": "Julia Gustavsen <j.gustavsen@gmail.com>",
     "url": "https://github.com/ropensci/rsnps",
+    "available": true
+  },
+  {
+    "package": "rsvg",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/ropensci/rsvg",
     "available": true
   },
   {
