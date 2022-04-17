@@ -394,6 +394,13 @@
     "available": true
   },
   {
+    "package": "GPArotation",
+    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
+    "url": "https://github.com/r-forge/optimizer",
+    "subdir": "pkg/GPArotation",
+    "available": true
+  },
+  {
     "package": "gridGraphviz",
     "maintainer": "Paul Murrell <p.murrell@auckland.ac.nz>",
     "url": "https://github.com/r-forge/gridgraph",
