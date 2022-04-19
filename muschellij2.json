@@ -18,18 +18,6 @@
     "available": true
   },
   {
-    "package": "freesurfer",
-    "maintainer": "John Muschelli <muschellij2@gmail.com>",
-    "url": "https://github.com/muschellij2/freesurfer",
-    "available": true
-  },
-  {
-    "package": "fslr",
-    "maintainer": "John Muschelli <muschellij2@gmail.com>",
-    "url": "https://github.com/muschellij2/fslr",
-    "available": true
-  },
-  {
     "package": "gifti",
     "maintainer": "John Muschelli <muschellij2@gmail.com>",
     "url": "https://github.com/muschellij2/gifti",
@@ -60,12 +48,6 @@
     "available": true
   },
   {
-    "package": "neurobase",
-    "maintainer": "John Muschelli <muschellij2@gmail.com>",
-    "url": "https://github.com/muschellij2/neurobase",
-    "available": true
-  },
-  {
     "package": "neurohcp",
     "maintainer": "John Muschelli <muschellij2@gmail.com>",
     "url": "https://github.com/muschellij2/neurohcp",
@@ -78,12 +60,6 @@
     "available": true
   },
   {
-    "package": "papayar",
-    "maintainer": "John Muschelli <muschellij2@gmail.com>",
-    "url": "https://github.com/muschellij2/papayar",
-    "available": true
-  },
-  {
     "package": "rscopus",
     "maintainer": "John Muschelli <muschellij2@gmail.com>",
     "url": "https://github.com/muschellij2/rscopus",
@@ -93,12 +69,6 @@
     "package": "stapler",
     "maintainer": "John Muschelli <muschellij2@gmail.com>",
     "url": "https://github.com/muschellij2/stapler",
-    "available": true
-  },
-  {
-    "package": "WhiteStripe",
-    "maintainer": "John Muschelli <muschellij2@gmail.com>",
-    "url": "https://github.com/muschellij2/whitestripe",
     "available": true
   }
 ]
