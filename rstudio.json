@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "chromote",
+    "maintainer": "Winston Chang <winston@rstudio.com>",
+    "url": "https://github.com/rstudio/chromote",
+    "available": true
+  },
+  {
     "package": "config",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/config",
