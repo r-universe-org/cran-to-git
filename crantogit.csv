@@ -802,10 +802,9 @@ calibrator,https://github.com/robinhankin/calibrator
 callr,https://github.com/r-lib/callr
 calmate,https://github.com/henrikbengtsson/calmate
 calpassapi,https://github.com/vinhdizzo/calpassapi
-CamelUp,https://github.com/mczekanski1/camel-up
+CamelUp,https://github.com/mczek/camel-up
 camerondata,https://github.com/juvlac/camerondata
 campfin,https://github.com/irworkshop/campfin
-campsis,https://github.com/calvagone/campsis
 campsismod,https://github.com/calvagone/campsismod
 camsRad,https://github.com/ropensci/camsrad
 camtrapR,https://github.com/jniedballa/camtrapr
@@ -1404,6 +1403,7 @@ ctsem,https://github.com/cdriveraus/ctsem
 ctsemOMX,https://github.com/cdriveraus/ctsemomx
 ctv,https://github.com/cran-task-views/ctv
 cubature,https://github.com/bnaras/cubature
+cubble,https://github.com/huizezhang-sherry/cubble
 cubelyr,https://github.com/hadley/cubelyr
 cubfits,https://github.com/snoweye/cubfits
 Cubist,https://github.com/topepo/cubist
@@ -1519,7 +1519,6 @@ dataverse,https://github.com/iqss/dataverse-client-r
 DataVisualizations,https://github.com/mthrun/datavisualizations
 datawizard,https://github.com/easystats/datawizard
 datefixR,https://github.com/nathansam/datefixr
-datelife,https://github.com/phylotastic/datelife
 daterangepicker,https://github.com/trafficonese/daterangepicker
 datetimeutils,https://github.com/enricoschumann/datetimeutils
 dateutils,https://github.com/macroeconomicdata/dateutils
@@ -2707,6 +2706,7 @@ GeDS,https://github.com/alattuada/geds
 GEEmediate,https://github.com/daniel258/geemediate
 geex,https://github.com/bsaul/geex
 geiger,https://github.com/mwpennell/geiger-v2
+gellipsoid,https://github.com/friendly/gellipsoid
 gemma2,https://github.com/fboehm/gemma2
 gemtc,https://github.com/gertvv/gemtc
 gen3sis,https://github.com/project-gen3sis/r-package
@@ -3123,6 +3123,7 @@ gren,https://github.com/magnusmunch/gren
 greport,https://github.com/harrelfe/greport
 greta,https://github.com/greta-dev/greta
 gretel,https://github.com/davidbuch/gretel
+gretlR,https://github.com/sagirumati/gretlr
 grex,https://github.com/nanxstats/grex
 greybox,https://github.com/config-i1/greybox
 grf,https://github.com/grf-labs/grf
@@ -3560,6 +3561,7 @@ interlineaR,https://github.com/sylvainloiseau/interlinear
 interplot,https://github.com/sammo3182/interplot
 interpret,https://github.com/interpretml/interpret
 interpretCI,https://github.com/cardiomoon/interpretci
+inters,https://github.com/mattblackwell/inters
 intervals,https://github.com/edzer/intervals
 inTextSummaryTable,https://github.com/openanalytics/intextsummarytable
 inti,https://github.com/flavjack/inti
@@ -4912,6 +4914,7 @@ njtr1,https://github.com/gavinrozzi/njtr1
 nlaR,https://github.com/jsta/nlar
 nlist,https://github.com/poissonconsulting/nlist
 nlmixr,https://github.com/nlmixrdevelopment/nlmixr
+nlmixr2data,https://github.com/nlmixr2/nlmixr2data
 nloptr,https://github.com/astamm/nloptr
 nlraa,https://github.com/femiguez/nlraa
 nlrx,https://github.com/ropensci/nlrx
@@ -5069,6 +5072,7 @@ opa,https://github.com/timbeechey/opa
 opalr,https://github.com/obiba/opalr
 openadds,https://github.com/sckott/openadds
 openair,https://github.com/davidcarslaw/openair
+openalexR,https://github.com/massimoaria/openalexr
 openbankeR,https://github.com/nik01010/openbanker
 opencage,https://github.com/ropensci/opencage
 OpenCL,https://github.com/s-u/opencl
@@ -5680,6 +5684,7 @@ prcr,https://github.com/jrosen48/prcr
 PRDA,https://github.com/claudiozandonella/prda
 pre,https://github.com/marjoleinf/pre
 precintcon,https://github.com/lucasvenez/precintcon
+pRecipe,https://github.com/mirovago/precipe
 precisely,https://github.com/malcolmbarrett/precisely
 precisePlacement,https://github.com/rntq472/preciseplacement
 precommit,https://github.com/lorenzwalthert/precommit
@@ -7249,6 +7254,7 @@ SGPdata,https://github.com/centerforassessment/sgpdata
 sgstar,https://github.com/yogasatria30/sgstar
 shades,https://github.com/jonclayden/shades
 shadow,https://github.com/michaeldorman/shadow
+shadowr,https://github.com/ricilandolt/shadowr
 shadowtext,https://github.com/guangchuangyu/shadowtext
 shallot,https://github.com/dbdahl/shallot
 shapeR,https://github.com/lisalibungan/shaper
@@ -8124,6 +8130,7 @@ tglkmeans,https://github.com/tanaylab/tglkmeans
 TGS,https://github.com/sap01/tgs
 tgstat,https://github.com/tanaylab/tgstat
 tgver,https://github.com/tgve/tgver
+thaipdf,https://github.com/lightbridge-ks/thaipdf
 ThankYouStars,https://github.com/ksmzn/thankyoustars
 theiaR,https://github.com/norival/theiar
 thematic,https://github.com/rstudio/thematic
@@ -8228,6 +8235,7 @@ tilegramsR,https://github.com/bhaskarvk/tilegramsr
 tilemaps,https://github.com/kaerosen/tilemaps
 tiler,https://github.com/ropensci/tiler
 timbr,https://github.com/uchidamizuki/timbr
+time.slots,https://bitbucket.org/annalectnz/time.slots
 timechange,https://github.com/vspinu/timechange
 timeline,https://github.com/jbryer/timeline
 timelineS,https://github.com/daheelee/timelines
@@ -8288,6 +8296,7 @@ torch,https://github.com/mlverse/torch
 torchdatasets,https://github.com/mlverse/torchdatasets
 torchvision,https://github.com/mlverse/torchvision
 tornado,https://github.com/bertcarnell/tornado
+toRvik,https://github.com/andreweatherman/torvik
 tosca,https://github.com/docma-tu/tosca
 tosr,https://github.com/coreofscience/tosr
 totalcensus,https://github.com/gl-li/totalcensus
@@ -8951,11 +8960,6 @@ ztable,https://github.com/cardiomoon/ztable
 ztpln,https://github.com/mattocci27/ztpln
 ZVCV,https://github.com/leahprice/zvcv
 zzlite,https://github.com/fkoh111/zzlite
-codetools,https://gitlab.com/luke-tierney/codetools
-lattice,https://github.com/deepayan/lattice
-Matrix,https://github.com/r-forge/matrix
-rpart,https://github.com/bethatkinson/rpart
-survival,https://github.com/therneau/survival
 codetools,https://gitlab.com/luke-tierney/codetools
 lattice,https://github.com/deepayan/lattice
 Matrix,https://github.com/r-forge/matrix
