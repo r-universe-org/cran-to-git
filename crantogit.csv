@@ -79,7 +79,6 @@ AGD,https://github.com/stefvanbuuren/agd
 AGHmatrix,https://github.com/rramadeu/aghmatrix
 aglm,https://github.com/kkondo1981/aglm
 agop,https://github.com/gagolews/agop
-AGread,https://github.com/paulhibbing/agread
 agricolaeplotr,https://github.com/jensharbers/agricolaeplotr
 agridat,https://github.com/kwstat/agridat
 agriwater,https://github.com/cesarofs/agriwater
@@ -401,6 +400,7 @@ BARIS,https://github.com/feddelegrand7/baris
 Barnard,https://github.com/kerguler/barnard
 bartCause,https://github.com/vdorie/bartcause
 baRulho,https://github.com/marce10/barulho
+BAS,https://github.com/merliseclyde/bas
 base64enc,https://github.com/s-u/base64enc
 base64url,https://github.com/mllg/base64url
 baseballDBR,https://github.com/keberwein/baseballdbr
@@ -580,7 +580,6 @@ billboarder,https://github.com/dreamrs/billboarder
 bimets,https://github.com/andrea-luciani/bimets
 BimodalIndex,https://github.com/r-forge/oompa
 binancer,https://github.com/daroczig/binancer
-binaryLogic,https://github.com/d4ndo/binarylogic
 binb,https://github.com/eddelbuettel/binb
 binda,https://github.com/strimmerlab/software
 bindr,https://github.com/krlmlr/bindr
@@ -997,7 +996,6 @@ cicerone,https://github.com/johncoene/cicerone
 CIDER,https://github.com/zhiyhu/cider
 ciftiTools,https://github.com/mandymejia/ciftitools
 cimir,https://github.com/mkoohafkan/cimir
-cinaR,https://github.com/eonurk/cinar
 cinaRgenesets,https://github.com/eonurk/cinar-genesets
 cinterpolate,https://github.com/mrc-ide/cinterpolate
 CIplot,https://github.com/toshi-ara/ciplot
@@ -2922,6 +2920,7 @@ ggpubr,https://github.com/kassambara/ggpubr
 ggpval,https://github.com/s6juncheng/ggpval
 ggquickeda,https://github.com/smouksassi/ggquickeda
 ggquiver,https://github.com/mitchelloharawild/ggquiver
+ggRandomForests,https://github.com/ehrlinger/ggrandomforests
 ggraph,https://github.com/thomasp85/ggraph
 ggraptR,https://github.com/cargomoose/ggraptr
 ggrastr,https://github.com/vpetukhov/ggrastr
@@ -3020,7 +3019,7 @@ gluedown,https://github.com/kiernann/gluedown
 glycanr,https://github.com/iugrina/glycanr
 gm,https://github.com/flujoo/gm
 gmailr,https://github.com/r-lib/gmailr
-gmapsdistance,https://github.com/rodazuero/gmapsdistance
+gmapsdistance,https://github.com/jlacko/gmapsdistance
 gmat,https://github.com/gherardovarando/gmat
 GMCM,https://github.com/aebilgrau/gmcm
 gMCP,https://github.com/kornl/gmcp
@@ -4740,7 +4739,6 @@ mvGPS,https://github.com/williazo/mvgps
 mvinfluence,https://github.com/friendly/mvinfluence
 MVLM,https://github.com/dmcartor/mvlm
 mvMISE,https://github.com/randel/mvmise
-mvMonitoring,https://github.com/gabrielodom/mvmonitoring
 mvMORPH,https://github.com/jclavel/mvmorph
 MVNBayesian,https://github.com/cubiczebra/mvnbayesian
 mvnfast,https://github.com/mfasiolo/mvnfast
@@ -4998,7 +4996,6 @@ obAnalytics,https://github.com/phil8192/ob-analytics
 obfuscatoR,https://github.com/edsandorf/obfuscator
 OBIC,https://github.com/agrocares/open-bodem-index-calculator
 objectremover,https://github.com/alan-y/objectremover
-Observation,https://github.com/paulhibbing/observation
 observer,https://github.com/paulponcet/observer
 occCite,https://github.com/ropensci/occcite
 oce,https://github.com/dankelley/oce
@@ -5987,6 +5984,7 @@ R2jags,https://github.com/suyusung/r2jags
 r2mlm,https://github.com/mkshaw/r2mlm
 R2MLwiN,https://github.com/r-forge/r2mlwin
 r2pmml,https://github.com/jpmml/r2pmml
+R2PPT,https://github.com/waynegitshell/r2ppt
 r2pptx,https://github.com/mattle24/r2pptx
 r2r,https://github.com/vgherard/r2r
 r2rtf,https://github.com/merck/r2rtf
@@ -6255,7 +6253,6 @@ RDieHarder,https://github.com/eddelbuettel/rdieharder
 Rdimtools,https://github.com/kisungyou/rdimtools
 rdist,https://github.com/blasern/rdist
 Rdistance,https://github.com/tmcd82070/rdistance
-rdiversity,https://github.com/boydorr/rdiversity
 RDML,https://github.com/pcruniversum/rdml
 rDNAse,https://github.com/wind22zhu/rdnase
 rdnb,https://github.com/chgrl/rdnb
@@ -7322,7 +7319,6 @@ shinyMonacoEditor,https://github.com/stla/shinymonacoeditor
 shinyNotes,https://github.com/danielkovtun/shinynotes
 shinyobjects,https://github.com/rjake/shinyobjects
 shinypanels,https://github.com/datasketch/shinypanels
-shinyrecap,https://github.com/fellstat/shinyrecap
 shinyrecipes,https://github.com/albertoalmuinha/shinyrecipes
 shinyreforms,https://github.com/piotrbajger/shinyreforms
 shinyRGL,https://github.com/trestletech/shinyrgl
@@ -8309,6 +8305,7 @@ TPmsm,https://github.com/arturstat/tpmsm
 TR8,https://github.com/giobo/tr8
 tracer,https://github.com/mangothecat/tracer
 tracerer,https://github.com/ropensci/tracerer
+track2KBA,https://github.com/birdlifeinternational/track2kba
 trackdem,https://github.com/marjoleinbruijning/trackdem
 trackdf,https://github.com/swarm-lab/trackdf
 trackdown,https://github.com/claudiozandonella/trackdown
@@ -8618,6 +8615,7 @@ vcr,https://github.com/ropensci/vcr
 vctrs,https://github.com/r-lib/vctrs
 vdiffr,https://github.com/r-lib/vdiffr
 vdra,https://github.com/kentedegrees/vdra
+vec2dtransf,https://github.com/gacarrillor/vec2dtransf
 veccompare,https://github.com/jglev/r-veccompare
 vectorwavelet,https://github.com/toygur/vectorwavelet
 vegalite,https://github.com/hrbrmstr/vegalite
