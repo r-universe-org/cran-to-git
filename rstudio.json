@@ -288,6 +288,12 @@
     "available": true
   },
   {
+    "package": "shinytest2",
+    "maintainer": "Barret Schloerke <barret@rstudio.com>",
+    "url": "https://github.com/rstudio/shinytest2",
+    "available": true
+  },
+  {
     "package": "shinythemes",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/rstudio/shinythemes",

@@ -21,13 +21,6 @@
     "available": true
   },
   {
-    "package": "aspect",
-    "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
-    "url": "https://github.com/r-forge/psychor",
-    "subdir": "pkg/aspect",
-    "available": true
-  },
-  {
     "package": "basefun",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
@@ -562,13 +555,6 @@
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
     "available": false
-  },
-  {
-    "package": "modelfree",
-    "maintainer": "Kamila Zychaluk <kamila.zychaluk@liverpool.ac.uk>",
-    "url": "https://github.com/r-forge/modelfree",
-    "subdir": "pkg",
-    "available": true
   },
   {
     "package": "modEvA",
