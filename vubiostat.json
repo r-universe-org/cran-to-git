@@ -1,5 +1,11 @@
 [
   {
+    "package": "haplo.ccs",
+    "maintainer": "Benjamin French <b.french@vumc.org>",
+    "url": "https://github.com/vubiostat/haplo.ccs",
+    "available": true
+  },
+  {
     "package": "yaml",
     "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
     "url": "https://github.com/vubiostat/r-yaml",
