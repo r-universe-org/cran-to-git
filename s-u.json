@@ -60,6 +60,12 @@
     "available": true
   },
   {
+    "package": "iplots",
+    "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
+    "url": "https://github.com/s-u/iplots",
+    "available": true
+  },
+  {
     "package": "JavaGD",
     "maintainer": "Simon Urbanek <Simon.Urbanek@R-project.org>",
     "url": "https://github.com/s-u/javagd",
