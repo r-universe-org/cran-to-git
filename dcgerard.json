@@ -1,5 +1,11 @@
 [
   {
+    "package": "hwep",
+    "maintainer": "David Gerard <gerard.1787@gmail.com>",
+    "url": "https://github.com/dcgerard/hwep",
+    "available": true
+  },
+  {
     "package": "ldsep",
     "maintainer": "David Gerard <gerard.1787@gmail.com>",
     "url": "https://github.com/dcgerard/ldsep",
