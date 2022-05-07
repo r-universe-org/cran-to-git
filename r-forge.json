@@ -21,6 +21,13 @@
     "available": true
   },
   {
+    "package": "aspect",
+    "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
+    "url": "https://github.com/r-forge/psychor",
+    "subdir": "pkg/aspect",
+    "available": true
+  },
+  {
     "package": "basefun",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
