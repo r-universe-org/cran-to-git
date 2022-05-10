@@ -1,5 +1,11 @@
 [
   {
+    "package": "fdacluster",
+    "maintainer": "Aymeric Stamm <aymeric.stamm@math.cnrs.fr>",
+    "url": "https://github.com/astamm/fdacluster",
+    "available": true
+  },
+  {
     "package": "nevada",
     "maintainer": "Aymeric Stamm <aymeric.stamm@math.cnrs.fr>",
     "url": "https://github.com/astamm/nevada",
