@@ -12,9 +12,27 @@
     "available": true
   },
   {
+    "package": "svDialogstcltk",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svdialogstcltk",
+    "available": true
+  },
+  {
     "package": "svGUI",
     "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
     "url": "https://github.com/sciviews/svgui",
+    "available": true
+  },
+  {
+    "package": "svHttp",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svhttp",
+    "available": true
+  },
+  {
+    "package": "svKomodo",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svkomodo",
     "available": true
   },
   {
@@ -27,6 +45,12 @@
     "package": "svSocket",
     "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
     "url": "https://github.com/sciviews/svsocket",
+    "available": true
+  },
+  {
+    "package": "svSweave",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/sciviews/svsweave",
     "available": true
   },
   {

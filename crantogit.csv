@@ -544,6 +544,7 @@ biblionetwork,https://github.com/agoutsmedt/biblionetwork
 bibtex,https://github.com/ropensci/bibtex
 biclique,https://github.com/yupinglu/biclique
 biclustermd,https://github.com/jreisner/biclustermd
+bidask,https://github.com/eguidotti/bidask
 BiDimRegression,https://github.com/alexander-pastukhov/bidim-regression
 BifactorIndicesCalculator,https://github.com/ddueber/bifactorindicescalculator
 bife,https://github.com/amrei-stammann/bife
@@ -2812,6 +2813,7 @@ ggamma,https://github.com/matheushjs/ggamma
 gganimate,https://github.com/thomasp85/gganimate
 ggasym,https://github.com/jhrcook/ggasym
 ggbeeswarm,https://github.com/eclarke/ggbeeswarm
+ggblanket,https://github.com/davidhodge931/ggblanket
 ggborderline,https://github.com/wurli/ggborderline
 ggbreak,https://github.com/yulab-smu/ggbreak
 ggcharts,https://github.com/thomas-neitmann/ggcharts
@@ -3061,6 +3063,7 @@ gppm,https://github.com/karchjd/gppm
 gqlr,https://github.com/schloerke/gqlr
 grabsampling,https://github.com/mayooran1987/grabsampling
 grade,https://github.com/ltjohnson/grade
+graDiEnt,https://github.com/bmgaldo/gradient
 gradientPickerD3,https://github.com/peikert/gradientpickerd3
 grafify,https://github.com/ashenoy-cmbi/grafify
 grainchanger,https://github.com/ropensci/grainchanger
@@ -3262,7 +3265,6 @@ highr,https://github.com/yihui/highr
 hilbert,https://github.com/program--/hilbert
 hilbertSimilarity,https://github.com/yannabraham/hilbertsimilarity
 hilldiv,https://github.com/anttonalberdi/hilldiv
-hillmakeR,https://github.com/gilinson/hillmaker
 hillR,https://github.com/daijiang/hillr
 HIMA,https://github.com/yinanzheng/hima
 himach,https://github.com/david6marsh/himach
@@ -3279,7 +3281,6 @@ hlidacr,https://github.com/skvrnami/hlidacr
 HLMdiag,https://github.com/aloy/hlmdiag
 HMDHFDplus,https://github.com/timriffe/tr1
 hmer,https://github.com/andy-iskauskas/hmer
-hmi,https://github.com/matthiasspeidel/hmi
 hmmr,https://github.com/depmix/hmmr
 hms,https://github.com/tidyverse/hms
 Hmsc,https://github.com/hmsc-r/hmsc
@@ -3718,7 +3719,6 @@ kcopula,https://github.com/mlkremer/kcopula
 kde1d,https://github.com/tnagler/kde1d
 kdecopula,https://github.com/tnagler/kdecopula
 kdensity,https://github.com/jonasmoss/kdensity
-kdetrees,https://github.com/grady/kdetrees
 kdevine,https://github.com/tnagler/kdevine
 kdtools,https://github.com/thk686/kdtools
 kehra,https://github.com/kehraproject/kehra
@@ -4883,7 +4883,6 @@ nimbleEcology,https://github.com/nimble-dev/nimbleecology
 nimbleSMC,https://github.com/nimble-dev/nimblesmc
 nipals,https://github.com/kwstat/nipals
 nipnTK,https://github.com/nutriverse/nipntk
-nitrcbot,https://github.com/adigherman/nitrcbot
 NitrogenUptake2016,https://github.com/troyhill/nitrogenuptake2016
 njtr1,https://github.com/gavinrozzi/njtr1
 nlaR,https://github.com/jsta/nlar
@@ -5407,6 +5406,7 @@ phenomap,https://github.com/jepsonnomad/phenomap
 PheNorm,https://github.com/celehs/phenorm
 Phenotype,https://github.com/biozhp/phenotype
 PhenotypeSimulator,https://github.com/hannahvmeyer/phenotypesimulator
+phers,https://github.com/hugheylab/phers
 phia,https://github.com/heliosdrm/phia
 philentropy,https://github.com/drostlab/philentropy
 PhilipsHue,https://gitlab.com/fascinatingfingers/philipshue
@@ -7683,6 +7683,7 @@ SqlRender,https://github.com/ohdsi/sqlrender
 sqlscore,https://github.com/wwbrannon/sqlscore
 sqlutils,https://github.com/jbryer/sqlutils
 squash,https://github.com/aroneklund/squash
+squashinformr,https://github.com/haydenmacdonald/squashinformr
 squid,https://github.com/squidgroup/squid
 sRdpData,https://github.com/hgoers/srdpdata
 srm,https://github.com/alexanderrobitzsch/srm
@@ -7833,7 +7834,6 @@ stylest,https://github.com/leslie-huang/stylest
 stylo,https://github.com/computationalstylistics/stylo
 subformula,https://github.com/jonasmoss/subformula
 subgxe,https://github.com/umich-cphds/subgxe
-subniche,https://github.com/karasiewiczstephane/witomi
 subplex,https://github.com/kingaa/subplex
 subsemble,https://github.com/ledell/subsemble
 SubtypeDrug,https://github.com/hanjunwei-lab/subtypedrug
@@ -7896,13 +7896,17 @@ susieR,https://github.com/stephenslab/susier
 sValues,https://github.com/carloscinelli/svalues
 svd,https://github.com/asl/svd
 svDialogs,https://github.com/sciviews/svdialogs
+svDialogstcltk,https://github.com/sciviews/svdialogstcltk
 svglite,https://github.com/r-lib/svglite
 svgPanZoom,https://github.com/timelyportfolio/svgpanzoom
 svGUI,https://github.com/sciviews/svgui
 svgViewR,https://github.com/aaronolsen/tutorials
+svHttp,https://github.com/sciviews/svhttp
 svines,https://github.com/tnagler/svines
+svKomodo,https://github.com/sciviews/svkomodo
 svMisc,https://github.com/sciviews/svmisc
 svSocket,https://github.com/sciviews/svsocket
+svSweave,https://github.com/sciviews/svsweave
 svUnit,https://github.com/sciviews/svunit
 SvyNom,https://github.com/mskcc-epi-bio/svynom
 swag,https://github.com/smac-group/swag
@@ -8116,6 +8120,7 @@ threejs,https://github.com/bwlewis/rthreejs
 threesixtygiving,https://github.com/evanodell/threesixtygiving
 Thresher,https://github.com/r-forge/oompa
 threshr,https://github.com/paulnorthrop/threshr
+thriftr,https://github.com/systemincloud/thriftr
 thunder,https://github.com/bczernecki/thunder
 thurstonianIRT,https://github.com/paul-buerkner/thurstonianirt
 tibble,https://github.com/tidyverse/tibble
@@ -8534,6 +8539,7 @@ usfertilizer,https://github.com/wenlong-liu/usfertilizer
 USgas,https://github.com/ramikrispin/usgas
 USgrid,https://github.com/ramikrispin/usgrid
 ushr,https://github.com/sineadmorris/ushr
+usincometaxes,https://github.com/shanejorr/usincometaxes
 usl,https://github.com/smoeding/usl
 usmap,https://github.com/pdil/usmap
 usmapdata,https://github.com/pdil/usmapdata
