@@ -1,5 +1,11 @@
 [
   {
+    "package": "gamboostLSS",
+    "maintainer": "Benjamin Hofner <benjamin.hofner@pei.de>",
+    "url": "https://github.com/boost-r/gamboostlss",
+    "available": true
+  },
+  {
     "package": "mboost",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/boost-r/mboost",
