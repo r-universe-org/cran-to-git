@@ -16,5 +16,11 @@
     "maintainer": "Yannick Marcon <yannick.marcon@obiba.org>",
     "url": "https://github.com/obiba/resourcer",
     "available": true
+  },
+  {
+    "package": "s3.resourcer",
+    "maintainer": "Yannick Marcon <yannick.marcon@obiba.org>",
+    "url": "https://github.com/obiba/s3.resourcer",
+    "available": true
   }
 ]

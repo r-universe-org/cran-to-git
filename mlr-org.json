@@ -54,6 +54,12 @@
     "available": true
   },
   {
+    "package": "mlr3fairness",
+    "maintainer": "Florian Pfisterer <pfistererf@googlemail.com>",
+    "url": "https://github.com/mlr-org/mlr3fairness",
+    "available": true
+  },
+  {
     "package": "mlr3filters",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3filters",
