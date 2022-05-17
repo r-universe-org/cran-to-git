@@ -360,6 +360,12 @@
     "available": true
   },
   {
+    "package": "tinytex",
+    "maintainer": "Yihui Xie <xie@yihui.name>",
+    "url": "https://github.com/rstudio/tinytex",
+    "available": true
+  },
+  {
     "package": "tufte",
     "maintainer": "Christophe Dervieux <cderv@rstudio.com>",
     "url": "https://github.com/rstudio/tufte",

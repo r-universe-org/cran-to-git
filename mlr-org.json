@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "mcboost",
-    "maintainer": "Florian Pfisterer <pfistererf@googlemail.com>",
-    "url": "https://github.com/mlr-org/mcboost",
-    "available": true
-  },
-  {
     "package": "mlr",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/mlr-org/mlr",
@@ -108,12 +102,6 @@
     "available": true
   },
   {
-    "package": "mlr3proba",
-    "maintainer": "Michel Lang <michellang@gmail.com>",
-    "url": "https://github.com/mlr-org/mlr3proba",
-    "available": true
-  },
-  {
     "package": "mlr3spatial",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3spatial",
@@ -135,12 +123,6 @@
     "package": "mlr3tuningspaces",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3tuningspaces",
-    "available": true
-  },
-  {
-    "package": "mlr3verse",
-    "maintainer": "Michel Lang <michellang@gmail.com>",
-    "url": "https://github.com/mlr-org/mlr3verse",
     "available": true
   },
   {
