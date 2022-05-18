@@ -12,6 +12,18 @@
     "available": true
   },
   {
+    "package": "immer",
+    "maintainer": "Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>",
+    "url": "https://github.com/alexanderrobitzsch/immer",
+    "available": true
+  },
+  {
+    "package": "mdmb",
+    "maintainer": "Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>",
+    "url": "https://github.com/alexanderrobitzsch/mdmb",
+    "available": true
+  },
+  {
     "package": "miceadds",
     "maintainer": "Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>",
     "url": "https://github.com/alexanderrobitzsch/miceadds",
@@ -21,6 +33,12 @@
     "package": "pbv",
     "maintainer": "Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>",
     "url": "https://github.com/alexanderrobitzsch/pbv",
+    "available": true
+  },
+  {
+    "package": "sirt",
+    "maintainer": "Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>",
+    "url": "https://github.com/alexanderrobitzsch/sirt",
     "available": true
   },
   {

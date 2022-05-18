@@ -1049,13 +1049,6 @@
     "available": true
   },
   {
-    "package": "sampSurf",
-    "maintainer": "Jeffrey H. Gove <jgove@fs.fed.us>",
-    "url": "https://github.com/r-forge/sampsurf",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/sandwich",
