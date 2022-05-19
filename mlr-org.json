@@ -126,6 +126,12 @@
     "available": true
   },
   {
+    "package": "mlr3verse",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3verse",
+    "available": true
+  },
+  {
     "package": "mlr3viz",
     "maintainer": "Michel Lang <michellang@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3viz",

@@ -378,6 +378,12 @@
     "available": true
   },
   {
+    "package": "webshot2",
+    "maintainer": "Winston Chang <winston@rstudio.com>",
+    "url": "https://github.com/rstudio/webshot2",
+    "available": true
+  },
+  {
     "package": "websocket",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/rstudio/websocket",

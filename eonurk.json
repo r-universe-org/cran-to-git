@@ -1,5 +1,11 @@
 [
   {
+    "package": "cinaR",
+    "maintainer": "Onur Karakaslar <eonurkara@gmail.com>",
+    "url": "https://github.com/eonurk/cinar",
+    "available": true
+  },
+  {
     "package": "cinaRgenesets",
     "maintainer": "Onur Karakaslar <eonurkara@gmail.com>",
     "url": "https://github.com/eonurk/cinar-genesets",
