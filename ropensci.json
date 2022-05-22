@@ -348,6 +348,12 @@
     "available": true
   },
   {
+    "package": "gbifdb",
+    "maintainer": "Carl Boettiger <cboettig@gmail.com>",
+    "url": "https://github.com/ropensci/gbifdb",
+    "available": true
+  },
+  {
     "package": "geojson",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/geojson",
