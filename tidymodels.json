@@ -192,12 +192,6 @@
     "available": true
   },
   {
-    "package": "vetiver",
-    "maintainer": "Julia Silge <julia.silge@rstudio.com>",
-    "url": "https://github.com/tidymodels/vetiver-r",
-    "available": true
-  },
-  {
     "package": "workflows",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/tidymodels/workflows",

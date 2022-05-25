@@ -372,6 +372,12 @@
     "available": true
   },
   {
+    "package": "vetiver",
+    "maintainer": "Julia Silge <julia.silge@rstudio.com>",
+    "url": "https://github.com/rstudio/vetiver-r",
+    "available": true
+  },
+  {
     "package": "webdriver",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/rstudio/webdriver",
