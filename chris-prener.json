@@ -1,5 +1,11 @@
 [
   {
+    "package": "biscale",
+    "maintainer": "Christopher Prener <chris.prener@slu.edu>",
+    "url": "https://github.com/chris-prener/biscale",
+    "available": true
+  },
+  {
     "package": "testDriveR",
     "maintainer": "Christopher Prener <chris.prener@slu.edu>",
     "url": "https://github.com/chris-prener/testdriver",

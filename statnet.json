@@ -13,7 +13,7 @@
   },
   {
     "package": "ergm.ego",
-    "maintainer": "Pavel N. Krivitsky <p.krivitsky@unsw.edu.au>",
+    "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
     "url": "https://github.com/statnet/ergm.ego",
     "available": true
   },
@@ -21,12 +21,6 @@
     "package": "ergm.rank",
     "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
     "url": "https://github.com/statnet/ergm.rank",
-    "available": true
-  },
-  {
-    "package": "ergm.userterms",
-    "maintainer": "Pavel N. Krivitsky <pavel@uow.edu.au>",
-    "url": "https://github.com/statnet/ergm.userterms",
     "available": true
   },
   {
