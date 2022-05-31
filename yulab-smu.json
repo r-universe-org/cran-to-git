@@ -66,21 +66,9 @@
     "available": true
   },
   {
-    "package": "ggmsa",
-    "maintainer": "Lang Zhou <nyzhoulang@gmail.com>",
-    "url": "https://github.com/yulab-smu/ggmsa",
-    "available": true
-  },
-  {
     "package": "ggtree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggtree",
-    "available": true
-  },
-  {
-    "package": "ggtreeExtra",
-    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
-    "url": "https://github.com/yulab-smu/ggtreeextra",
     "available": true
   },
   {
@@ -93,18 +81,6 @@
     "package": "meshes",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/meshes",
-    "available": true
-  },
-  {
-    "package": "MicrobiomeProfiler",
-    "maintainer": "Meijun Chen <mjchen1996@outlook.com>",
-    "url": "https://github.com/yulab-smu/microbiomeprofiler",
-    "available": true
-  },
-  {
-    "package": "MicrobiotaProcess",
-    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
-    "url": "https://github.com/yulab-smu/microbiotaprocess",
     "available": true
   },
   {

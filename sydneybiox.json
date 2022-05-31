@@ -1,26 +1,8 @@
 [
   {
-    "package": "CiteFuse",
-    "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
-    "url": "https://github.com/sydneybiox/citefuse",
-    "available": true
-  },
-  {
-    "package": "scClassify",
-    "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
-    "url": "https://github.com/sydneybiox/scclassify",
-    "available": true
-  },
-  {
     "package": "scMerge",
-    "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
+    "maintainer": "Kevin Wang <kevin.wang@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scmerge",
-    "available": true
-  },
-  {
-    "package": "scReClassify",
-    "maintainer": "Taiyun Kim <taiyun.kim91@gmail.com>",
-    "url": "https://github.com/sydneybiox/screclassify",
     "available": true
   }
 ]

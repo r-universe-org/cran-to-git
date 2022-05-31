@@ -1,17 +1,5 @@
 [
   {
-    "package": "ReactomeContentService4R",
-    "maintainer": "Chi-Lam Poon <clpoon807@gmail.com>",
-    "url": "https://github.com/reactome/reactomecontentservice4r",
-    "available": true
-  },
-  {
-    "package": "ReactomeGraph4R",
-    "maintainer": "Chi-Lam Poon <clpoon807@gmail.com>",
-    "url": "https://github.com/reactome/reactomegraph4r",
-    "available": true
-  },
-  {
     "package": "ReactomeGSA",
     "maintainer": "Johannes Griss <johannes.griss@meduniwien.ac.at>",
     "url": "https://github.com/reactome/reactomegsa",

@@ -114,15 +114,15 @@
     "available": true
   },
   {
-    "package": "PanVizGenerator",
-    "maintainer": "Thomas Lin Pedersen <thomasp85@gmail.com>",
-    "url": "https://github.com/thomasp85/panvizgenerator",
-    "available": true
-  },
-  {
     "package": "FindMyFriends",
     "maintainer": "Thomas Lin Pedersen <thomasp85@gmail.com>",
     "url": "https://github.com/thomasp85/findmyfriends",
+    "available": true
+  },
+  {
+    "package": "PanVizGenerator",
+    "maintainer": "Thomas Lin Pedersen <thomasp85@gmail.com>",
+    "url": "https://github.com/thomasp85/panvizgenerator",
     "available": true
   }
 ]

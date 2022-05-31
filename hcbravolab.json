@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "metagenomeFeatures",
+    "maintainer": "Nathan D. Olson <nolson@umiacs.umd.edu>",
+    "url": "https://github.com/hcbravolab/metagenomefeatures",
+    "available": true
+  },
+  {
     "package": "metagenomeSeq",
     "maintainer": "Joseph N. Paulson <jpaulson@jimmy.harvard.edu>",
     "url": "https://github.com/hcbravolab/metagenomeseq",

@@ -1,20 +1,8 @@
 [
   {
-    "package": "LACE",
-    "maintainer": "Davide Maspero <d.maspero@campus.unimib.it>",
-    "url": "https://github.com/bimib-disco/lace",
-    "available": true
-  },
-  {
     "package": "TRONCO",
     "maintainer": "Luca De Sano <luca.desano@gmail.com>",
     "url": "https://github.com/bimib-disco/tronco",
     "available": true
-  },
-  {
-    "package": "VERSO",
-    "maintainer": "Davide Maspero <d.maspero@campus.unimib.it>",
-    "url": "https://github.com/bimib-disco/verso",
-    "available": false
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "package": "mia",
-    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
-    "url": "https://github.com/microbiome/mia",
-    "available": true
-  },
-  {
-    "package": "miaSim",
-    "maintainer": "Yagmur Simsek <yagmur.simsek@hsrw.org>",
-    "url": "https://github.com/microbiome/miasim",
-    "available": true
-  },
-  {
     "package": "microbiome",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
     "url": "https://github.com/microbiome/microbiome",

@@ -1,50 +1,8 @@
 [
   {
-    "package": "MetaboCoreUtils",
-    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
-    "url": "https://github.com/rformassspectrometry/metabocoreutils",
-    "available": true
-  },
-  {
-    "package": "MsBackendMassbank",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/msbackendmassbank",
-    "available": true
-  },
-  {
-    "package": "MsBackendMgf",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/msbackendmgf",
-    "available": true
-  },
-  {
-    "package": "MsCoreUtils",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/mscoreutils",
-    "available": true
-  },
-  {
-    "package": "MsFeatures",
-    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
-    "url": "https://github.com/rformassspectrometry/msfeatures",
-    "available": true
-  },
-  {
     "package": "ProtGenerics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/protgenerics",
-    "available": true
-  },
-  {
-    "package": "QFeatures",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/rformassspectrometry/qfeatures",
-    "available": true
-  },
-  {
-    "package": "Spectra",
-    "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
-    "url": "https://github.com/rformassspectrometry/spectra",
     "available": true
   }
 ]

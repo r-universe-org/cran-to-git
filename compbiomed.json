@@ -13,14 +13,8 @@
   },
   {
     "package": "singleCellTK",
-    "maintainer": "Yichen Wang <wangych@bu.edu>",
+    "maintainer": "David Jenkins <dfj@bu.edu>",
     "url": "https://github.com/compbiomed/singlecelltk",
-    "available": true
-  },
-  {
-    "package": "TBSignatureProfiler",
-    "maintainer": "Aubrey Odom <aodom@bu.edu>",
-    "url": "https://github.com/compbiomed/tbsignatureprofiler",
     "available": true
   }
 ]
