@@ -1,5 +1,11 @@
 [
   {
+    "package": "admiral",
+    "maintainer": "Thomas Neitmann <thomas.neitmann@roche.com>",
+    "url": "https://github.com/pharmaverse/admiral",
+    "available": true
+  },
+  {
     "package": "metatools",
     "maintainer": "Christina Fillmore <christina.e.fillmore@gsk.com>",
     "url": "https://github.com/pharmaverse/metatools",
