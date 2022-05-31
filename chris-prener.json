@@ -1,5 +1,11 @@
 [
   {
+    "package": "areal",
+    "maintainer": "Christopher Prener <chris.prener@slu.edu>",
+    "url": "https://github.com/chris-prener/areal",
+    "available": true
+  },
+  {
     "package": "biscale",
     "maintainer": "Christopher Prener <chris.prener@gmail.com>",
     "url": "https://github.com/chris-prener/biscale",
@@ -7,8 +13,14 @@
   },
   {
     "package": "censusxy",
-    "maintainer": "Christopher Prener <chris.prener@slu.edu>",
+    "maintainer": "Christopher Prener <chris.prener@gmail.com>",
     "url": "https://github.com/chris-prener/censusxy",
+    "available": true
+  },
+  {
+    "package": "qualmap",
+    "maintainer": "Christopher Prener <chris.prener@slu.edu>",
+    "url": "https://github.com/chris-prener/qualmap",
     "available": true
   },
   {
