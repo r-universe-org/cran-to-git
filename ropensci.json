@@ -270,6 +270,12 @@
     "available": true
   },
   {
+    "package": "EDIutils",
+    "maintainer": "Colin Smith <colin.smith@wisc.edu>",
+    "url": "https://github.com/ropensci/ediutils",
+    "available": true
+  },
+  {
     "package": "eia",
     "maintainer": "Matthew Leonawicz <mfleonawicz@gmail.com>",
     "url": "https://github.com/ropensci/eia",
