@@ -1,5 +1,11 @@
 [
   {
+    "package": "agua",
+    "maintainer": "Qiushi Yan <qiushi.yann@gmail.com>",
+    "url": "https://github.com/tidymodels/agua",
+    "available": true
+  },
+  {
     "package": "applicable",
     "maintainer": "Marly Gotti <marlygotti@gmail.com>",
     "url": "https://github.com/tidymodels/applicable",

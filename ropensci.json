@@ -834,12 +834,6 @@
     "available": true
   },
   {
-    "package": "rAltmetric",
-    "maintainer": "Karthik Ram <karthik.ram@gmail.com>",
-    "url": "https://github.com/ropensci/raltmetric",
-    "available": true
-  },
-  {
     "package": "ramlegacy",
     "maintainer": "Kshitiz Gupta <kshtzgupta1@berkeley.edu>",
     "url": "https://github.com/ropensci/ramlegacy",
@@ -1125,6 +1119,12 @@
     "package": "skimr",
     "maintainer": "Elin Waring <elin.waring@gmail.com>",
     "url": "https://github.com/ropensci/skimr",
+    "available": true
+  },
+  {
+    "package": "skynet",
+    "maintainer": "Filipe Teixeira <Filipe.MarquesTeixeira@Ugent.be>",
+    "url": "https://github.com/ropensci/skynet",
     "available": true
   },
   {

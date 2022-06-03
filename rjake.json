@@ -1,5 +1,11 @@
 [
   {
+    "package": "headliner",
+    "maintainer": "Jake Riley <rjake@sas.upenn.edu>",
+    "url": "https://github.com/rjake/headliner",
+    "available": true
+  },
+  {
     "package": "shinyobjects",
     "maintainer": "Jake Riley <rjake@sas.upenn.edu>",
     "url": "https://github.com/rjake/shinyobjects",
