@@ -777,6 +777,13 @@
     "available": true
   },
   {
+    "package": "randtoolbox",
+    "maintainer": "Christophe Dutang <dutangc@gmail.com>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/randtoolbox",
+    "available": true
+  },
+  {
     "package": "RandVar",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
