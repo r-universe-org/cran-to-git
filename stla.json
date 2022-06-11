@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "cppcheckR",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/cppcheckr",
+    "available": true
+  },
+  {
     "package": "cxhull",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/cxhull",
@@ -93,6 +99,12 @@
     "package": "JSconsole",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/jsconsole",
+    "available": true
+  },
+  {
+    "package": "jshintr",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/jshintr",
     "available": true
   },
   {

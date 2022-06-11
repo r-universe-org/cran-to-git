@@ -1290,13 +1290,6 @@
     "available": true
   },
   {
-    "package": "TScompare",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TScompare",
-    "available": true
-  },
-  {
     "package": "tscount",
     "maintainer": "Tobias Liboschik <liboschik@statistik.tu-dortmund.de>",
     "url": "https://github.com/r-forge/tscount",
