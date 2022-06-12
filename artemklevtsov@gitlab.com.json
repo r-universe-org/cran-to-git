@@ -3,24 +3,24 @@
     "package": "benchr",
     "maintainer": "Artem Klevtsov <a.a.klevtsov@gmail.com>",
     "url": "https://gitlab.com/artemklevtsov/benchr",
-    "available": true
+    "available": false
   },
   {
     "package": "ced",
     "maintainer": "Artem Klevtsov <a.a.klevtsov@gmail.com>",
     "url": "https://gitlab.com/artemklevtsov/ced",
-    "available": true
+    "available": false
   },
   {
     "package": "RcppUUID",
     "maintainer": "Artem Klevtsov <a.a.klevtsov@gmail.com>",
     "url": "https://gitlab.com/artemklevtsov/rcppuuid",
-    "available": true
+    "available": false
   },
   {
     "package": "uchardet",
     "maintainer": "Artem Klevtsov <a.a.klevtsov@gmail.com>",
     "url": "https://gitlab.com/artemklevtsov/uchardet",
-    "available": true
+    "available": false
   }
 ]

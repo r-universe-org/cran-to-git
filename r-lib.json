@@ -498,6 +498,12 @@
     "available": true
   },
   {
+    "package": "sodium",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/r-lib/sodium",
+    "available": true
+  },
+  {
     "package": "styler",
     "maintainer": "Lorenz Walthert <lorenz.walthert@icloud.com>",
     "url": "https://github.com/r-lib/styler",

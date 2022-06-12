@@ -3,18 +3,18 @@
     "package": "move",
     "maintainer": "Bart Kranstauber <b.kranstauber@uva.nl>",
     "url": "https://gitlab.com/bartk/move",
-    "available": true
+    "available": false
   },
   {
     "package": "moveWindSpeed",
     "maintainer": "Bart Kranstauber <bart.kranstauber@ieu.uzh.ch>",
     "url": "https://gitlab.com/bartk/movewindspeed",
-    "available": true
+    "available": false
   },
   {
     "package": "starsTileServer",
     "maintainer": "Bart Kranstauber <b.kranstauber@uva.nl>",
     "url": "https://gitlab.com/bartk/starstileserver",
-    "available": true
+    "available": false
   }
 ]
