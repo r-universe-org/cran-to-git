@@ -1,5 +1,11 @@
 [
   {
+    "package": "parma",
+    "maintainer": "Alexios Galanos <alexios@4dscape.com>",
+    "url": "https://github.com/alexiosg/parma",
+    "available": true
+  },
+  {
     "package": "rmgarch",
     "maintainer": "Alexios Galanos <alexios@4dscape.com>",
     "url": "https://github.com/alexiosg/rmgarch",

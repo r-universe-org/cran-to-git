@@ -585,13 +585,6 @@
     "available": true
   },
   {
-    "package": "msap",
-    "maintainer": "Andres Perez-Figueroa <anpefi@uvigo.es>",
-    "url": "https://github.com/r-forge/msap",
-    "subdir": "pkg/msap",
-    "available": true
-  },
-  {
     "package": "multcomp",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/multcomp",
