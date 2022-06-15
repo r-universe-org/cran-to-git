@@ -1,5 +1,11 @@
 [
   {
+    "package": "abjData",
+    "maintainer": "Julio Trecenti <julio.trecenti@gmail.com>",
+    "url": "https://github.com/abjur/abjdata",
+    "available": true
+  },
+  {
     "package": "abjutils",
     "maintainer": "Caio Lente <clente@abj.org.br>",
     "url": "https://github.com/abjur/abjutils",
