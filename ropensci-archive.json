@@ -6,6 +6,18 @@
     "available": true
   },
   {
+    "package": "outsider",
+    "maintainer": "Dom Bennett <dominic.john.bennett@gmail.com>",
+    "url": "https://github.com/ropensci-archive/outsider",
+    "available": true
+  },
+  {
+    "package": "outsider.base",
+    "maintainer": "Dom Bennett <dominic.john.bennett@gmail.com>",
+    "url": "https://github.com/ropensci-archive/outsider.base",
+    "available": true
+  },
+  {
     "package": "rbison",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci-archive/rbison",

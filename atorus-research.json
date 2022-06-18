@@ -1,5 +1,11 @@
 [
   {
+    "package": "logrx",
+    "maintainer": "Nathan Kosiba <Nathan.Kosiba@atorusresearch.com>",
+    "url": "https://github.com/atorus-research/logrx",
+    "available": true
+  },
+  {
     "package": "pharmaRTF",
     "maintainer": "Michael Stackhouse <mike.stackhouse@atorusresearch.com>",
     "url": "https://github.com/atorus-research/pharmartf",
