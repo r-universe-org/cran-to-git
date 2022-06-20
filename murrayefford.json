@@ -1,5 +1,11 @@
 [
   {
+    "package": "ipsecr",
+    "maintainer": "Murray Efford <murray.efford@otago.ac.nz>",
+    "url": "https://github.com/murrayefford/ipsecr",
+    "available": true
+  },
+  {
     "package": "openCR",
     "maintainer": "Murray Efford <murray.efford@otago.ac.nz>",
     "url": "https://github.com/murrayefford/opencr",

@@ -476,13 +476,6 @@
     "available": true
   },
   {
-    "package": "lshorth",
-    "maintainer": "G. Sawitzki <gs@statlab.uni-heidelberg.de>",
-    "url": "https://github.com/r-forge/lshorth",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "maptools",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/maptools",
@@ -697,13 +690,6 @@
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/pems",
     "subdir": "pkg/pems.utils",
-    "available": true
-  },
-  {
-    "package": "PKPDmodels",
-    "maintainer": "Douglas Bates <Bates@R-project.org>",
-    "url": "https://github.com/r-forge/pkpd",
-    "subdir": "pkg/PKPDmodels",
     "available": true
   },
   {
@@ -1052,13 +1038,6 @@
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/sandwich",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
-    "package": "SBSA",
-    "maintainer": "Davor Cubranic <cubranic@stat.ubc.ca>",
-    "url": "https://github.com/r-forge/sbsa",
     "subdir": "pkg",
     "available": true
   },
