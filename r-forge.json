@@ -455,13 +455,6 @@
     "available": true
   },
   {
-    "package": "lbiassurv",
-    "maintainer": "Vahid Partovi Nia <vahid.partovinia@polymtl.ca>",
-    "url": "https://github.com/r-forge/lbiassurv",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "linprog",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/linprog",
@@ -636,13 +629,6 @@
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
     "subdir": "pkg/oompaData",
-    "available": true
-  },
-  {
-    "package": "osmar",
-    "maintainer": "Thomas Schlesinger <tho.schlesinger@googlemail.com>",
-    "url": "https://github.com/r-forge/osmar",
-    "subdir": "pkg/osmar",
     "available": true
   },
   {
