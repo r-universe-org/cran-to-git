@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "bonsai",
+    "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
+    "url": "https://github.com/tidymodels/bonsai",
+    "available": true
+  },
+  {
     "package": "broom",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
     "url": "https://github.com/tidymodels/broom",
@@ -55,7 +61,7 @@
   },
   {
     "package": "discrim",
-    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
     "url": "https://github.com/tidymodels/discrim",
     "available": true
   },
@@ -139,7 +145,7 @@
   },
   {
     "package": "rules",
-    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
     "url": "https://github.com/tidymodels/rules",
     "available": true
   },
