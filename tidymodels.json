@@ -36,6 +36,12 @@
     "available": true
   },
   {
+    "package": "censored",
+    "maintainer": "Hannah Frick <hannah@rstudio.com>",
+    "url": "https://github.com/tidymodels/censored",
+    "available": true
+  },
+  {
     "package": "corrr",
     "maintainer": "Max Kuhn <max@rstudio.com>",
     "url": "https://github.com/tidymodels/corrr",

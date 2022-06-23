@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "jacobi",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/jacobi",
+    "available": true
+  },
+  {
     "package": "JSconsole",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/jsconsole",
@@ -147,6 +153,12 @@
     "package": "monaco",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/monaco",
+    "available": true
+  },
+  {
+    "package": "multiActionButton",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/multiactionbutton",
     "available": true
   },
   {
