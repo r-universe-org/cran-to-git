@@ -1,9 +1,15 @@
 [
   {
+    "package": "makePalette",
+    "maintainer": "Jorge L. C. Musaja <musajajorge@gmail.com>",
+    "url": "https://github.com/musajajorge/makepalette",
+    "available": true
+  },
+  {
     "package": "MakeYourPalette",
     "maintainer": "Jorge L. C. Musaja <musajajorge@gmail.com>",
     "url": "https://github.com/musajajorge/makeyourpalette",
-    "available": true
+    "available": false
   },
   {
     "package": "mapsPERU",
