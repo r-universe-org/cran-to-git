@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "provSummarizeR",
+    "maintainer": "Emery Boose <boose@fas.harvard.edu>",
+    "url": "https://github.com/end-to-end-provenance/provsummarizer",
+    "available": true
+  },
+  {
     "package": "provTraceR",
     "maintainer": "Emery Boose <boose@fas.harvard.edu>",
     "url": "https://github.com/end-to-end-provenance/provtracer",
