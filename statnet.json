@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "ergm.multi",
+    "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
+    "url": "https://github.com/statnet/ergm.multi",
+    "available": true
+  },
+  {
     "package": "ergm.rank",
     "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
     "url": "https://github.com/statnet/ergm.rank",
