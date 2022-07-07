@@ -1,5 +1,11 @@
 [
   {
+    "package": "baseline",
+    "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
+    "url": "https://github.com/khliland/baseline",
+    "available": true
+  },
+  {
     "package": "EMSC",
     "maintainer": "Kristian Hovde Liland <kristian.liland@nmbu.no>",
     "url": "https://github.com/khliland/emsc",
