@@ -36,12 +36,6 @@
     "available": true
   },
   {
-    "package": "ncdfgeom",
-    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/usgs-r/ncdfgeom",
-    "available": true
-  },
-  {
     "package": "nhdplusTools",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
     "url": "https://github.com/usgs-r/nhdplustools",
