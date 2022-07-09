@@ -1,5 +1,17 @@
 [
   {
+    "package": "pcaPP",
+    "maintainer": "Valentin Todorov <valentin.todorov@chello.at>",
+    "url": "https://github.com/valentint/pcapp",
+    "available": true
+  },
+  {
+    "package": "robust",
+    "maintainer": "Valentin Todorov <valentin.todorov@chello.at>",
+    "url": "https://github.com/valentint/robust",
+    "available": true
+  },
+  {
     "package": "rrcov",
     "maintainer": "Valentin Todorov <valentin.todorov@chello.at>",
     "url": "https://github.com/valentint/rrcov",
