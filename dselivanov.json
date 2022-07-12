@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "sparsio",
+    "maintainer": "Dmitriy Selivanov <selivanov.dmitriy@gmail.com>",
+    "url": "https://github.com/dselivanov/sparsio",
+    "available": false
+  },
+  {
     "package": "text2vec",
     "maintainer": "Dmitriy Selivanov <selivanov.dmitriy@gmail.com>",
     "url": "https://github.com/dselivanov/text2vec",

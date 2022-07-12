@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "imguR",
+    "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
+    "url": "https://github.com/leeper/imgur",
+    "available": false
+  },
+  {
     "package": "margins",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
     "url": "https://github.com/leeper/margins",

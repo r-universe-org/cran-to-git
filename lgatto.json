@@ -9,54 +9,48 @@
     "package": "MSnbase",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/msnbase",
-    "available": true
-  },
-  {
-    "package": "Pbase",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/lgatto/pbase",
-    "available": true
+    "available": false
   },
   {
     "package": "pRoloc",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/proloc",
-    "available": true
-  },
-  {
-    "package": "pRolocGUI",
-    "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
-    "url": "https://github.com/lgatto/prolocgui",
-    "available": true
+    "available": false
   },
   {
     "package": "ProteomicsAnnotationHubData",
     "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
     "url": "https://github.com/lgatto/proteomicsannotationhubdata",
-    "available": true
+    "available": false
+  },
+  {
+    "package": "ProtGenerics",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/lgatto/protgenerics",
+    "available": false
   },
   {
     "package": "qcmetrics",
     "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
     "url": "https://github.com/lgatto/qcmetrics",
-    "available": true
+    "available": false
   },
   {
     "package": "rols",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rols",
-    "available": true
+    "available": false
   },
   {
     "package": "rpx",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rpx",
-    "available": true
+    "available": false
   },
   {
     "package": "synapter",
     "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
     "url": "https://github.com/lgatto/synapter",
-    "available": true
+    "available": false
   }
 ]

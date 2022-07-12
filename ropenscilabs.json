@@ -4,5 +4,59 @@
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropenscilabs/allcontributors",
     "available": true
+  },
+  {
+    "package": "camsRad",
+    "maintainer": "Lukas Lundstrom <lukas.rokka@gmail.com>",
+    "url": "https://github.com/ropenscilabs/camsrad",
+    "available": false
+  },
+  {
+    "package": "citecorp",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropenscilabs/citecorp",
+    "available": false
+  },
+  {
+    "package": "conditionz",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropenscilabs/conditionz",
+    "available": false
+  },
+  {
+    "package": "ezknitr",
+    "maintainer": "Dean Attali <daattali@gmail.com>",
+    "url": "https://github.com/ropenscilabs/ezknitr",
+    "available": false
+  },
+  {
+    "package": "rcitoid",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropenscilabs/rcitoid",
+    "available": false
+  },
+  {
+    "package": "rnaturalearth",
+    "maintainer": "Andy South <southandy@gmail.com>",
+    "url": "https://github.com/ropenscilabs/rnaturalearth",
+    "available": false
+  },
+  {
+    "package": "rnaturalearthdata",
+    "maintainer": "Andy South <southandy@gmail.com>",
+    "url": "https://github.com/ropenscilabs/rnaturalearthdata",
+    "available": false
+  },
+  {
+    "package": "syn",
+    "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
+    "url": "https://github.com/ropenscilabs/syn",
+    "available": false
+  },
+  {
+    "package": "zbank",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropenscilabs/zbank",
+    "available": false
   }
 ]

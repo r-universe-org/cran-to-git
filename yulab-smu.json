@@ -60,51 +60,21 @@
     "available": true
   },
   {
-    "package": "clusterProfiler",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/clusterprofiler",
-    "available": true
-  },
-  {
-    "package": "DOSE",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/dose",
-    "available": true
-  },
-  {
     "package": "ggtree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggtree",
-    "available": true
+    "available": false
   },
   {
     "package": "GOSemSim",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/gosemsim",
-    "available": true
-  },
-  {
-    "package": "meshes",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/meshes",
-    "available": true
-  },
-  {
-    "package": "ReactomePA",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/reactomepa",
-    "available": true
-  },
-  {
-    "package": "seqcombo",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/seqcombo",
-    "available": true
+    "available": false
   },
   {
     "package": "treeio",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/treeio",
-    "available": true
+    "available": false
   }
 ]

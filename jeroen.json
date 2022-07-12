@@ -1,5 +1,11 @@
 [
   {
+    "package": "askpass",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/jeroen/askpass",
+    "available": false
+  },
+  {
     "package": "bcrypt",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/jeroen/bcrypt",
@@ -39,12 +45,6 @@
     "package": "maketools",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/jeroen/maketools",
-    "available": true
-  },
-  {
-    "package": "minimist",
-    "maintainer": "Jeroen Ooms <jeroen.ooms@stat.ucla.edu>",
-    "url": "https://github.com/jeroen/minimist",
     "available": true
   },
   {

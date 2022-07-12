@@ -3,21 +3,18 @@
     "package": "Crossover",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/kornl/crossover",
-    "subdir": "pkg/Crossover",
-    "available": true
+    "available": false
   },
   {
     "package": "gMCP",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/kornl/gmcp",
-    "subdir": "pkg/gMCP",
-    "available": true
+    "available": false
   },
   {
     "package": "mutoss",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/kornl/mutoss",
-    "subdir": "pkg/mutoss",
-    "available": true
+    "available": false
   }
 ]

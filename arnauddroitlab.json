@@ -3,24 +3,24 @@
     "package": "consensusSeekeR",
     "maintainer": "Astrid Deschenes <adeschen@hotmail.com>",
     "url": "https://github.com/arnauddroitlab/consensusseeker",
-    "available": true
+    "available": false
   },
   {
     "package": "metagene2",
     "maintainer": "Eric Fournier <fournier.eric.2@crchudequebec.ulaval.ca>",
     "url": "https://github.com/arnauddroitlab/metagene2",
-    "available": true
+    "available": false
   },
   {
     "package": "nucleoSim",
     "maintainer": "Astrid Deschenes <adeschen@hotmail.com>",
     "url": "https://github.com/arnauddroitlab/nucleosim",
-    "available": true
+    "available": false
   },
   {
     "package": "RJMCMCNucleosomes",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/arnauddroitlab/rjmcmcnucleosomes",
-    "available": true
+    "available": false
   }
 ]

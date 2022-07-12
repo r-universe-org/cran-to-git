@@ -9,56 +9,54 @@
     "package": "gower",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/gower",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "hashr",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/hashr",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "lumberjack",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/lumberjack",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "rspa",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/rspa",
-    "subdir": "pkg",
-    "available": true
+    "available": false
+  },
+  {
+    "package": "rtrim",
+    "maintainer": "Patrick Bogaart <rtrim@cbs.nl>",
+    "url": "https://github.com/markvanderloo/rtrim",
+    "available": false
   },
   {
     "package": "settings",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/settings",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "simputation",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/simputation",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "stringdist",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/stringdist",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "tinytest",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/tinytest",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   }
 ]

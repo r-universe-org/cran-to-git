@@ -3,21 +3,18 @@
     "package": "readHAC",
     "maintainer": "Kasper Kristensen <kaskr@dtu.dk>",
     "url": "https://github.com/kaskr/hac",
-    "subdir": "readHAC",
-    "available": true
+    "available": false
   },
   {
     "package": "TMB",
     "maintainer": "Kasper Kristensen <kaskr@dtu.dk>",
     "url": "https://github.com/kaskr/adcomp",
-    "subdir": "TMB",
-    "available": true
+    "available": false
   },
   {
     "package": "tmbstan",
     "maintainer": "Kasper Kristensen <kaskr@dtu.dk>",
     "url": "https://github.com/kaskr/tmbstan",
-    "subdir": "tmbstan",
-    "available": true
+    "available": false
   }
 ]

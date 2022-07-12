@@ -45,36 +45,36 @@
     "package": "cola",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/cola",
-    "available": true
+    "available": false
   },
   {
     "package": "ComplexHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/complexheatmap",
-    "available": true
+    "available": false
   },
   {
     "package": "EnrichedHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/enrichedheatmap",
-    "available": true
+    "available": false
   },
   {
     "package": "gtrellis",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/gtrellis",
-    "available": true
+    "available": false
   },
   {
     "package": "HilbertCurve",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/hilbertcurve",
-    "available": true
+    "available": false
   },
   {
     "package": "rGREAT",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/rgreat",
-    "available": true
+    "available": false
   }
 ]

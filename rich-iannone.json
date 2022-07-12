@@ -1,5 +1,11 @@
 [
   {
+    "package": "blastula",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rich-iannone/blastula",
+    "available": false
+  },
+  {
     "package": "DiagrammeR",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rich-iannone/diagrammer",

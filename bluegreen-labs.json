@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "foto",
-    "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
-    "url": "https://github.com/bluegreen-labs/foto",
-    "available": true
-  },
-  {
     "package": "hwsdr",
     "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
     "url": "https://github.com/bluegreen-labs/hwsdr",
@@ -27,12 +21,6 @@
     "package": "igrf",
     "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
     "url": "https://github.com/bluegreen-labs/igrf",
-    "available": true
-  },
-  {
-    "package": "snotelr",
-    "maintainer": "Koen Hufkens <koen.hufkens@gmail.com>",
-    "url": "https://github.com/bluegreen-labs/snotelr",
     "available": true
   }
 ]

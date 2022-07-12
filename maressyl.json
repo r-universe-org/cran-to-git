@@ -3,28 +3,24 @@
     "package": "cghRA",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.cghra",
-    "subdir": "cghRA",
-    "available": true
+    "available": false
   },
   {
     "package": "LPS",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.lps",
-    "subdir": "LPS",
-    "available": true
+    "available": false
   },
   {
     "package": "ODB",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.odb",
-    "subdir": "ODB",
-    "available": true
+    "available": false
   },
   {
     "package": "Rgb",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.rgb",
-    "subdir": "Rgb",
-    "available": true
+    "available": false
   }
 ]

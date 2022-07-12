@@ -3,42 +3,42 @@
     "package": "COMPASS",
     "maintainer": "Greg Finak <gfinak@fhcrc.org>",
     "url": "https://github.com/rglab/compass",
-    "available": true
+    "available": false
   },
   {
     "package": "CytoML",
     "maintainer": "Mike Jiang <wjiang2@fhcrc.org>",
     "url": "https://github.com/rglab/cytoml",
-    "available": true
+    "available": false
   },
   {
     "package": "flowStats",
     "maintainer": "Greg Finak <gfinak@fhcrc.org>",
     "url": "https://github.com/rglab/flowstats",
-    "available": true
+    "available": false
   },
   {
     "package": "ggcyto",
     "maintainer": "Mike Jiang <wjiang2@fhcrc.org>",
     "url": "https://github.com/rglab/ggcyto",
-    "available": true
+    "available": false
   },
   {
     "package": "ImmuneSpaceR",
     "maintainer": "ImmuneSpace Package Maintainer <immunespace@gmail.com>",
     "url": "https://github.com/rglab/immunespacer",
-    "available": true
+    "available": false
   },
   {
     "package": "MAST",
     "maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
     "url": "https://github.com/rglab/mast",
-    "available": true
+    "available": false
   },
   {
     "package": "pepStat",
     "maintainer": "Gregory C Imholte <gimholte@uw.edu>",
     "url": "https://github.com/rglab/pepstat",
-    "available": true
+    "available": false
   }
 ]

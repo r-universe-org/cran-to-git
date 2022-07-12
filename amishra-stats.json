@@ -3,21 +3,18 @@
     "package": "gofar",
     "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
     "url": "https://github.com/amishra-stats/gofar",
-    "subdir": "gofar",
-    "available": true
+    "available": false
   },
   {
     "package": "nbfar",
     "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
     "url": "https://github.com/amishra-stats/nbfar",
-    "subdir": "nbfar",
-    "available": true
+    "available": false
   },
   {
     "package": "robregcc",
     "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
     "url": "https://github.com/amishra-stats/robregcc",
-    "subdir": "robregcc",
-    "available": true
+    "available": false
   }
 ]

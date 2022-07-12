@@ -3,14 +3,12 @@
     "package": "Rlgt",
     "maintainer": "Christoph Bergmeir <christoph.bergmeir@monash.edu>",
     "url": "https://github.com/cbergmeir/rlgt",
-    "subdir": "Rlgt",
-    "available": true
+    "available": false
   },
   {
     "package": "RSNNS",
     "maintainer": "Christoph Bergmeir <c.bergmeir@decsai.ugr.es>",
     "url": "https://github.com/cbergmeir/rsnns",
-    "subdir": "RSNNS",
-    "available": true
+    "available": false
   }
 ]

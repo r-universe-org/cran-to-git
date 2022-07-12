@@ -48,6 +48,12 @@
     "available": true
   },
   {
+    "package": "psData",
+    "maintainer": "Christopher Gandrud <christopher.gandrud@gmail.com>",
+    "url": "https://github.com/christophergandrud/psdata",
+    "available": false
+  },
+  {
     "package": "repmis",
     "maintainer": "Christopher Gandrud <christopher.gandrud@gmail.com>",
     "url": "https://github.com/christophergandrud/repmis",

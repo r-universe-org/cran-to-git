@@ -6,27 +6,21 @@
     "available": true
   },
   {
-    "package": "bsseq",
-    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
-    "url": "https://github.com/hansenlab/bsseq",
-    "available": true
-  },
-  {
     "package": "minfi",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/hansenlab/minfi",
-    "available": true
+    "available": false
   },
   {
     "package": "mpra",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/mpra",
-    "available": true
+    "available": false
   },
   {
     "package": "yamss",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/yamss",
-    "available": true
+    "available": false
   }
 ]

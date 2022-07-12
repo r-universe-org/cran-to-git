@@ -3,14 +3,12 @@
     "package": "garchx",
     "maintainer": "Genaro Sucarrat <gsucarrat@gmail.com>",
     "url": "https://github.com/gsucarrat/garchx",
-    "subdir": "garchx",
-    "available": true
+    "available": false
   },
   {
     "package": "gets",
     "maintainer": "Genaro Sucarrat <genaro.sucarrat@bi.no>",
     "url": "https://github.com/gsucarrat/gets",
-    "subdir": "gets",
-    "available": true
+    "available": false
   }
 ]

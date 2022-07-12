@@ -9,18 +9,18 @@
     "package": "GEOquery",
     "maintainer": "Sean Davis <sdavis2@mail.nih.gov>",
     "url": "https://github.com/seandavi/geoquery",
-    "available": true
+    "available": false
   },
   {
     "package": "methylumi",
     "maintainer": "Sean Davis <sdavis2@mail.nih.gov>",
     "url": "https://github.com/seandavi/methylumi",
-    "available": true
+    "available": false
   },
   {
     "package": "SRAdb",
     "maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
     "url": "https://github.com/seandavi/sradb",
-    "available": true
+    "available": false
   }
 ]

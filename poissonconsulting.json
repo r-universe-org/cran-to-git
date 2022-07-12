@@ -96,6 +96,12 @@
     "available": true
   },
   {
+    "package": "tinter",
+    "maintainer": "Sebastian Dalgarno <seb@poissonconsulting.ca>",
+    "url": "https://github.com/poissonconsulting/tinter",
+    "available": false
+  },
+  {
     "package": "universals",
     "maintainer": "Joe Thorley <joe@poissonconsulting.ca>",
     "url": "https://github.com/poissonconsulting/universals",

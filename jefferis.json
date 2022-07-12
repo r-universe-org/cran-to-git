@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "RANN",
+    "maintainer": "Gregory Jefferis <jefferis@gmail.com>",
+    "url": "https://github.com/jefferis/rann",
+    "available": false
+  },
+  {
     "package": "readbitmap",
     "maintainer": "Gregory Jefferis <jefferis@gmail.com>",
     "url": "https://github.com/jefferis/readbitmap",

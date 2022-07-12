@@ -3,21 +3,18 @@
     "package": "mclogit",
     "maintainer": "Martin Elff <mclogit@elff.eu>",
     "url": "https://github.com/melff/mclogit",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "memisc",
     "maintainer": "Martin Elff <memisc@elff.eu>",
     "url": "https://github.com/melff/memisc",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "munfold",
     "maintainer": "Martin Elff <martin@elff.eu>",
     "url": "https://github.com/melff/munfold",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   }
 ]

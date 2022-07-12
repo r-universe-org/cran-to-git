@@ -66,12 +66,6 @@
     "available": true
   },
   {
-    "package": "bibtex",
-    "maintainer": "ORPHANED",
-    "url": "https://github.com/ropensci/bibtex",
-    "available": true
-  },
-  {
     "package": "binman",
     "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
     "url": "https://github.com/ropensci/binman",
@@ -93,12 +87,6 @@
     "package": "brranching",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/brranching",
-    "available": true
-  },
-  {
-    "package": "camsRad",
-    "maintainer": "Lukas Lundstrom <lukas.rokka@gmail.com>",
-    "url": "https://github.com/ropensci/camsrad",
     "available": true
   },
   {
@@ -135,12 +123,6 @@
     "package": "circle",
     "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
     "url": "https://github.com/ropensci/circle",
-    "available": true
-  },
-  {
-    "package": "citecorp",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/citecorp",
     "available": true
   },
   {
@@ -189,12 +171,6 @@
     "package": "comtradr",
     "maintainer": "Chris Muir <chrismuirRVA@gmail.com>",
     "url": "https://github.com/ropensci/comtradr",
-    "available": true
-  },
-  {
-    "package": "conditionz",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/conditionz",
     "available": true
   },
   {
@@ -321,12 +297,6 @@
     "package": "exoplanets",
     "maintainer": "Tyler Littlefield <tylerlittlefield@hey.com>",
     "url": "https://github.com/ropensci/exoplanets",
-    "available": true
-  },
-  {
-    "package": "ezknitr",
-    "maintainer": "Dean Attali <daattali@gmail.com>",
-    "url": "https://github.com/ropensci/ezknitr",
     "available": true
   },
   {
@@ -508,6 +478,12 @@
     "maintainer": "William Michael Landau <will.landau@gmail.com>",
     "url": "https://github.com/ropensci/jagstargets",
     "available": true
+  },
+  {
+    "package": "jaod",
+    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
+    "url": "https://github.com/ropensci/jaod",
+    "available": false
   },
   {
     "package": "jqr",
@@ -786,6 +762,12 @@
     "available": true
   },
   {
+    "package": "plotdap",
+    "maintainer": "Roy Mendelssohn <roy.mendelssohn@noaa.gov>",
+    "url": "https://github.com/ropensci/plotdap",
+    "available": false
+  },
+  {
     "package": "PostcodesioR",
     "maintainer": "Eryk Walczak <erykjwalczak@gmail.com>",
     "url": "https://github.com/ropensci/postcodesior",
@@ -840,15 +822,15 @@
     "available": true
   },
   {
+    "package": "rbison",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/rbison",
+    "available": false
+  },
+  {
     "package": "rcites",
     "maintainer": "Kevin Cazelles <kevin.cazelles@gmail.com>",
     "url": "https://github.com/ropensci/rcites",
-    "available": true
-  },
-  {
-    "package": "rcitoid",
-    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
-    "url": "https://github.com/ropensci/rcitoid",
     "available": true
   },
   {
@@ -981,18 +963,6 @@
     "package": "rnassqs",
     "maintainer": "Nicholas Potter <econpotter@gmail.com>",
     "url": "https://github.com/ropensci/rnassqs",
-    "available": true
-  },
-  {
-    "package": "rnaturalearth",
-    "maintainer": "Andy South <southandy@gmail.com>",
-    "url": "https://github.com/ropensci/rnaturalearth",
-    "available": true
-  },
-  {
-    "package": "rnaturalearthdata",
-    "maintainer": "Andy South <southandy@gmail.com>",
-    "url": "https://github.com/ropensci/rnaturalearthdata",
     "available": true
   },
   {
@@ -1395,12 +1365,6 @@
     "package": "yfR",
     "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
     "url": "https://github.com/ropensci/yfr",
-    "available": true
-  },
-  {
-    "package": "zbank",
-    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
-    "url": "https://github.com/ropensci/zbank",
     "available": true
   }
 ]

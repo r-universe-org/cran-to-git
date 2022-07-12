@@ -3,14 +3,12 @@
     "package": "instaR",
     "maintainer": "Pablo Barbera <pbarbera@usc.edu>",
     "url": "https://github.com/pablobarbera/instar",
-    "subdir": "instaR",
-    "available": true
+    "available": false
   },
   {
     "package": "Rfacebook",
     "maintainer": "Pablo Barbera <pbarbera@usc.edu>",
     "url": "https://github.com/pablobarbera/rfacebook",
-    "subdir": "Rfacebook",
-    "available": true
+    "available": false
   }
 ]

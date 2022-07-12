@@ -54,9 +54,39 @@
     "available": true
   },
   {
+    "package": "clusterProfiler",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/clusterprofiler",
+    "available": false
+  },
+  {
+    "package": "DOSE",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/dose",
+    "available": false
+  },
+  {
     "package": "enrichplot",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/enrichplot",
-    "available": true
+    "available": false
+  },
+  {
+    "package": "meshes",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/meshes",
+    "available": false
+  },
+  {
+    "package": "ReactomePA",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/reactomepa",
+    "available": false
+  },
+  {
+    "package": "seqcombo",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/seqcombo",
+    "available": false
   }
 ]

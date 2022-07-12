@@ -9,14 +9,12 @@
     "package": "partsm",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
     "url": "https://github.com/matthieustigler/partsm",
-    "subdir": "partsm",
-    "available": true
+    "available": false
   },
   {
     "package": "tsDyn",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
     "url": "https://github.com/matthieustigler/tsdyn",
-    "subdir": "tsDyn",
-    "available": true
+    "available": false
   }
 ]

@@ -3,15 +3,13 @@
     "package": "IDSL.IPA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.ipa",
-    "subdir": "IDSL.IPA",
-    "available": true
+    "available": false
   },
   {
     "package": "IDSL.MXP",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.mxp",
-    "subdir": "IDSL.MXP",
-    "available": true
+    "available": false
   },
   {
     "package": "IDSL.SUFA",
@@ -23,8 +21,7 @@
     "package": "IDSL.UFA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.ufa",
-    "subdir": "IDSL.UFA",
-    "available": true
+    "available": false
   },
   {
     "package": "IDSL.UFAx",

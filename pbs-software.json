@@ -3,28 +3,24 @@
     "package": "PBSadmb",
     "maintainer": "Rowan Haigh <rowan.haigh@dfo-mpo.gc.ca>",
     "url": "https://github.com/pbs-software/pbs-admb",
-    "subdir": "PBSadmb",
-    "available": true
+    "available": false
   },
   {
     "package": "PBSddesolve",
     "maintainer": "Rowan Haigh <rowan.haigh@dfo-mpo.gc.ca>",
     "url": "https://github.com/pbs-software/pbs-ddesolve",
-    "subdir": "PBSddesolve",
-    "available": true
+    "available": false
   },
   {
     "package": "PBSmapping",
     "maintainer": "Rowan Haigh <rowan.haigh@dfo-mpo.gc.ca>",
     "url": "https://github.com/pbs-software/pbs-mapping",
-    "subdir": "PBSmapping",
-    "available": true
+    "available": false
   },
   {
     "package": "PBSmodelling",
     "maintainer": "Rowan Haigh <rowan.haigh@dfo-mpo.gc.ca>",
     "url": "https://github.com/pbs-software/pbs-modelling",
-    "subdir": "PBSmodelling",
-    "available": true
+    "available": false
   }
 ]

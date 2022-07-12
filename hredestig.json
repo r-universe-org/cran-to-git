@@ -3,13 +3,12 @@
     "package": "crmn",
     "maintainer": "Henning Redestig <henning.red@gmail.com>",
     "url": "https://github.com/hredestig/crmn",
-    "subdir": "pkg",
-    "available": true
+    "available": false
   },
   {
     "package": "pcaMethods",
     "maintainer": "Henning Redestig <henning.red@gmail.com>",
     "url": "https://github.com/hredestig/pcamethods",
-    "available": true
+    "available": false
   }
 ]

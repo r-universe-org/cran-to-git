@@ -27,13 +27,6 @@
     "package": "pscore",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
     "url": "https://github.com/jwiley/score-project",
-    "subdir": "pscore",
-    "available": true
-  },
-  {
-    "package": "varian",
-    "maintainer": "Joshua F. Wiley <josh@elkhartgroup.com>",
-    "url": "https://github.com/jwiley/varian",
-    "available": true
+    "available": false
   }
 ]

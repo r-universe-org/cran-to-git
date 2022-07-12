@@ -1,26 +1,8 @@
 [
   {
-    "package": "cd",
-    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
-    "url": "https://github.com/cleanzr/cd",
-    "available": true
-  },
-  {
     "package": "clevr",
     "maintainer": "Neil Marchant <ngmarchant@gmail.com>",
     "url": "https://github.com/cleanzr/clevr",
-    "available": true
-  },
-  {
-    "package": "cora",
-    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
-    "url": "https://github.com/cleanzr/cora",
-    "available": true
-  },
-  {
-    "package": "restaurant",
-    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
-    "url": "https://github.com/cleanzr/restaurant",
     "available": true
   }
 ]

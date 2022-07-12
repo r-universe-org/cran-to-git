@@ -15,30 +15,24 @@
     "package": "CNVRanger",
     "maintainer": "Ludwig Geistlinger <ludwig.geistlinger@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/cnvranger",
-    "available": true
-  },
-  {
-    "package": "doppelgangR",
-    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
-    "url": "https://github.com/waldronlab/doppelgangr",
-    "available": true
+    "available": false
   },
   {
     "package": "GSEABenchmarkeR",
     "maintainer": "Ludwig Geistlinger <Ludwig.Geistlinger@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/gseabenchmarker",
-    "available": true
+    "available": false
   },
   {
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
-    "available": true
+    "available": false
   },
   {
     "package": "TCGAutils",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tcgautils",
-    "available": true
+    "available": false
   }
 ]

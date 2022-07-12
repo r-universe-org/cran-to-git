@@ -3,8 +3,7 @@
     "package": "paws",
     "maintainer": "David Kretch <david.kretch@gmail.com>",
     "url": "https://github.com/paws-r/paws",
-    "subdir": "paws",
-    "available": true
+    "available": false
   },
   {
     "package": "paws.analytics",
