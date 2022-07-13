@@ -9,7 +9,8 @@
     "package": "R.temis",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "available": false
+    "subdir": "R.temis",
+    "available": true
   },
   {
     "package": "R2HTML",
@@ -27,18 +28,21 @@
     "package": "SnowballC",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "available": false
+    "subdir": "SnowballC",
+    "available": true
   },
   {
     "package": "tm.plugin.factiva",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "available": false
+    "subdir": "tm.plugin.factiva",
+    "available": true
   },
   {
     "package": "tm.plugin.lexisnexis",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "available": false
+    "subdir": "tm.plugin.lexisnexis",
+    "available": true
   }
 ]

@@ -27,7 +27,8 @@
     "package": "mads",
     "maintainer": "Laura Marshall <lhm@st-and.ac.uk>",
     "url": "https://github.com/distancedevelopment/mads",
-    "available": false
+    "subdir": "mads",
+    "available": true
   },
   {
     "package": "mrds",

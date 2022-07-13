@@ -9,24 +9,28 @@
     "package": "clinDataReview",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/openanalytics/clindatareview",
-    "available": false
+    "subdir": "clinDataReview",
+    "available": true
   },
   {
     "package": "clinUtils",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/openanalytics/clinutils",
-    "available": false
+    "subdir": "clinUtils",
+    "available": true
   },
   {
     "package": "inTextSummaryTable",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/openanalytics/intextsummarytable",
-    "available": false
+    "subdir": "inTextSummaryTable",
+    "available": true
   },
   {
     "package": "patientProfilesVis",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/openanalytics/patientprofilesvis",
-    "available": false
+    "subdir": "patientProfilesVis",
+    "available": true
   }
 ]

@@ -39,25 +39,25 @@
     "package": "DelayedDataFrame",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/delayeddataframe",
-    "available": false
+    "available": true
   },
   {
     "package": "GDSArray",
     "maintainer": "Qian Liu <qliu7@buffalo.edu>",
     "url": "https://github.com/bioconductor/gdsarray",
-    "available": false
+    "available": true
   },
   {
     "package": "GenomicDataCommons",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/bioconductor/genomicdatacommons",
-    "available": false
+    "available": true
   },
   {
     "package": "HCABrowser",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/hcabrowser",
-    "available": false
+    "available": true
   },
   {
     "package": "HCAExplorer",
@@ -69,24 +69,24 @@
     "package": "RaggedExperiment",
     "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
-    "available": false
+    "available": true
   },
   {
     "package": "Rhtslib",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rhtslib",
-    "available": false
+    "available": true
   },
   {
     "package": "SQLDataFrame",
     "maintainer": "Qian Liu <qliu7@buffalo.edu>",
     "url": "https://github.com/bioconductor/sqldataframe",
-    "available": false
+    "available": true
   },
   {
     "package": "VariantExperiment",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/variantexperiment",
-    "available": false
+    "available": true
   }
 ]

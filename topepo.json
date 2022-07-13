@@ -15,7 +15,8 @@
     "package": "caret",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/caret",
-    "available": false
+    "subdir": "pkg/caret",
+    "available": true
   },
   {
     "package": "Cubist",
@@ -27,7 +28,8 @@
     "package": "desirability",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/desirability",
-    "available": false
+    "subdir": "desirability",
+    "available": true
   },
   {
     "package": "sparsediscrim",
@@ -39,6 +41,7 @@
     "package": "sparseLDA",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/sparselda",
-    "available": false
+    "subdir": "pkg/sparseLDA",
+    "available": true
   }
 ]

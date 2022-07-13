@@ -3,24 +3,24 @@
     "package": "EDASeq",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/edaseq",
-    "available": false
+    "available": true
   },
   {
     "package": "mbkmeans",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/mbkmeans",
-    "available": false
+    "available": true
   },
   {
     "package": "RUVSeq",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/ruvseq",
-    "available": false
+    "available": true
   },
   {
     "package": "zinbwave",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/zinbwave",
-    "available": false
+    "available": true
   }
 ]

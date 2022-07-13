@@ -1,11 +1,5 @@
 [
   {
-    "package": "angstroms",
-    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
-    "url": "https://github.com/mdsumner/angstroms",
-    "available": false
-  },
-  {
     "package": "basf",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/basf",
@@ -30,12 +24,6 @@
     "available": true
   },
   {
-    "package": "lazysf",
-    "maintainer": "Michael Sumner <mdsumner@gmail.com>",
-    "url": "https://github.com/mdsumner/lazysf",
-    "available": false
-  },
-  {
     "package": "ozmaps",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/ozmaps",
@@ -58,11 +46,5 @@
     "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/mdsumner/spex",
     "available": true
-  },
-  {
-    "package": "tripEstimation",
-    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
-    "url": "https://github.com/mdsumner/tripestimation",
-    "available": false
   }
 ]

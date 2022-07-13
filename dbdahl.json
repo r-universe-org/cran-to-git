@@ -9,7 +9,8 @@
     "package": "cargo",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/cargo-framework",
-    "available": false
+    "subdir": "cargo",
+    "available": true
   },
   {
     "package": "commonsMath",

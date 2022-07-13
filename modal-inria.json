@@ -27,18 +27,21 @@
     "package": "RMixtComp",
     "maintainer": "Julien Vandaele <julien.vandaele@inria.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "available": false
+    "subdir": "RMixtComp",
+    "available": true
   },
   {
     "package": "RMixtCompIO",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "available": false
+    "subdir": "RMixtCompIO",
+    "available": true
   },
   {
     "package": "RMixtCompUtilities",
     "maintainer": "Julien Vandaele <julien.vandaele@inria.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "available": false
+    "subdir": "RMixtCompUtilities",
+    "available": true
   }
 ]

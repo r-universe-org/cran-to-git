@@ -3,6 +3,7 @@
     "package": "StabilizedRegression",
     "maintainer": "Niklas Pfister <np@math.ku.dk>",
     "url": "https://github.com/niklaspfister/stabilizedregression-r",
-    "available": false
+    "subdir": "StabilizedRegression",
+    "available": true
   }
 ]

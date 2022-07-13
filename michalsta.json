@@ -3,6 +3,7 @@
     "package": "opentimsr",
     "maintainer": "Michał Piotr Startek <michal.startek@mimuw.edu.pl>",
     "url": "https://github.com/michalsta/opentims",
-    "available": false
+    "subdir": "opentimsr",
+    "available": true
   }
 ]

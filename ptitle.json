@@ -3,7 +3,8 @@
     "package": "envirem",
     "maintainer": "Pascal Title <pascal.title@stonybrook.edu>",
     "url": "https://github.com/ptitle/envirem",
-    "available": false
+    "subdir": "envirem",
+    "available": true
   },
   {
     "package": "epm",

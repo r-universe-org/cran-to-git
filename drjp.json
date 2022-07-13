@@ -3,12 +3,14 @@
     "package": "nimbleAPT",
     "maintainer": "David Pleydell <david.pleydell@inrae.fr>",
     "url": "https://github.com/drjp/nimbleapt",
-    "available": false
+    "subdir": "nimbleAPT",
+    "available": true
   },
   {
     "package": "nimbleNoBounds",
     "maintainer": "David Pleydell <david.pleydell@inrae.fr>",
     "url": "https://github.com/drjp/nimblenobounds",
-    "available": false
+    "subdir": "nimbleNoBounds",
+    "available": true
   }
 ]

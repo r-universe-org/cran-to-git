@@ -3,12 +3,14 @@
     "package": "AdhereR",
     "maintainer": "Dan Dediu <ddediu@gmail.com>",
     "url": "https://github.com/ddediu/adherer",
-    "available": false
+    "subdir": "AdhereR",
+    "available": true
   },
   {
     "package": "AdhereRViz",
     "maintainer": "Dan Dediu <ddediu@gmail.com>",
     "url": "https://github.com/ddediu/adherer",
-    "available": false
+    "subdir": "AdhereRViz",
+    "available": true
   }
 ]

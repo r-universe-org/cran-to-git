@@ -9,7 +9,8 @@
     "package": "doParallel",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
     "url": "https://github.com/revolutionanalytics/doparallel",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "foreach",

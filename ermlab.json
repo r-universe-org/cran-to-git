@@ -2,7 +2,8 @@
   {
     "package": "LightningR",
     "maintainer": "Kolodziejski Kamil <kolodziejski.kamil@hotmail.com>",
-    "url": "https://github.com/ermlab/lightining-rstat",
-    "available": false
+    "url": "https://github.com/ermlab/lightning-rstat",
+    "subdir": "LightningR",
+    "available": true
   }
 ]

@@ -3,12 +3,14 @@
     "package": "MGDrivE",
     "maintainer": "Héctor Manuel Sánchez Castellanos <sanchez.hmsc@berkeley.edu>",
     "url": "https://github.com/marshalllab/mgdrive",
-    "available": false
+    "subdir": "MGDrivE",
+    "available": true
   },
   {
     "package": "MGDrivE2",
     "maintainer": "Sean L. Wu <slwood89@gmail.com>",
     "url": "https://github.com/marshalllab/mgdrive",
-    "available": false
+    "subdir": "MGDrivE2",
+    "available": true
   }
 ]

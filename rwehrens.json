@@ -3,7 +3,8 @@
     "package": "ptw",
     "maintainer": "Ron Wehrens <ron.wehrens@gmail.com>",
     "url": "https://github.com/rwehrens/ptw",
-    "available": false
+    "subdir": "ptw",
+    "available": true
   },
   {
     "package": "alsace",

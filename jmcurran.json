@@ -3,7 +3,8 @@
     "package": "Bolstad2",
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/bolstad2",
-    "available": false
+    "subdir": "Bolstad2",
+    "available": true
   },
   {
     "package": "Hotelling",

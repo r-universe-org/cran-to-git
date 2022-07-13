@@ -3,18 +3,21 @@
     "package": "gemtc",
     "maintainer": "Gert van Valkenhoef <gert@gertvv.nl>",
     "url": "https://github.com/gertvv/gemtc",
-    "available": false
+    "subdir": "gemtc",
+    "available": true
   },
   {
     "package": "hitandrun",
     "maintainer": "Gert van Valkenhoef <gert@gertvv.nl>",
     "url": "https://github.com/gertvv/hitandrun",
-    "available": false
+    "subdir": "hitandrun",
+    "available": true
   },
   {
     "package": "smaa",
     "maintainer": "Gert van Valkenhoef <gert@gertvv.nl>",
     "url": "https://github.com/gertvv/rsmaa",
-    "available": false
+    "subdir": "smaa",
+    "available": true
   }
 ]

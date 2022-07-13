@@ -3,12 +3,14 @@
     "package": "rQCC",
     "maintainer": "Chanseok Park <statpnu@gmail.com>",
     "url": "https://github.com/appliedstat/r",
-    "available": false
+    "subdir": "rQCC",
+    "available": true
   },
   {
     "package": "weibullness",
     "maintainer": "Chanseok Park <statpnu@gmail.com>",
     "url": "https://github.com/appliedstat/r",
-    "available": false
+    "subdir": "weibullness",
+    "available": true
   }
 ]

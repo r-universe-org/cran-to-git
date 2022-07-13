@@ -3,6 +3,7 @@
     "package": "FER",
     "maintainer": "Jaehyuk Choi <pyfe@eml.cc>",
     "url": "https://github.com/pyfe/fe-r",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   }
 ]

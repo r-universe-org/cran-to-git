@@ -9,12 +9,14 @@
     "package": "ADaCGH2",
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
     "url": "https://github.com/rdiaz02/adacgh2",
-    "available": false
+    "subdir": "ADaCGH2",
+    "available": true
   },
   {
     "package": "OncoSimulR",
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
     "url": "https://github.com/rdiaz02/oncosimul",
-    "available": false
+    "subdir": "OncoSimulR",
+    "available": true
   }
 ]

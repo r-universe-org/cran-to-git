@@ -9,6 +9,7 @@
     "package": "rgw",
     "maintainer": "Adam Mantz <amantz@slac.stanford.edu>",
     "url": "https://github.com/abmantz/rgw",
-    "available": false
+    "subdir": "rgw",
+    "available": true
   }
 ]

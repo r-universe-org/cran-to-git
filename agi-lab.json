@@ -3,12 +3,14 @@
     "package": "SPLICE",
     "maintainer": "Melantha Wang <wang.melantha@gmail.com>",
     "url": "https://github.com/agi-lab/splice",
-    "available": false
+    "subdir": "SPLICE",
+    "available": true
   },
   {
     "package": "SynthETIC",
     "maintainer": "Melantha Wang <wang.melantha@gmail.com>",
     "url": "https://github.com/agi-lab/synthetic",
-    "available": false
+    "subdir": "SynthETIC",
+    "available": true
   }
 ]

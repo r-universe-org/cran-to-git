@@ -3,37 +3,43 @@
     "package": "agrmt",
     "maintainer": "Didier Ruedin <didier.ruedin@unine.ch>",
     "url": "https://github.com/r-forge/agrmt",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "anacor",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "available": false
+    "subdir": "pkg/anacor",
+    "available": true
   },
   {
     "package": "arrayhelpers",
     "maintainer": "C. Beleites <claudia.beleites@chemometrix.eu>",
     "url": "https://github.com/r-forge/arrayhelpers",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "aspect",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "available": false
+    "subdir": "pkg/aspect",
+    "available": true
   },
   {
     "package": "basefun",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/basefun",
+    "available": true
   },
   {
     "package": "Bessel",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/specfun",
-    "available": false
+    "subdir": "pkg/Bessel",
+    "available": true
   },
   {
     "package": "BimodalIndex",
@@ -45,61 +51,71 @@
     "package": "BiplotGUI",
     "maintainer": "Niel le Roux <njlr@sun.ac.za>",
     "url": "https://github.com/r-forge/biplotgui",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "car",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/car",
-    "available": false
+    "subdir": "pkg/car",
+    "available": true
   },
   {
     "package": "carData",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/car",
-    "available": false
+    "subdir": "pkg/carData",
+    "available": true
   },
   {
     "package": "cardidates",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/r-forge/cardidates",
-    "available": false
+    "subdir": "pkg/cardidates",
+    "available": true
   },
   {
     "package": "cdb",
     "maintainer": "Emilio Torres Manzanera <torres@uniovi.es>",
     "url": "https://github.com/r-forge/cdb",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "censReg",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/sampleselection",
-    "available": false
+    "subdir": "pkg/censReg",
+    "available": true
   },
   {
     "package": "cffdrs",
     "maintainer": "Alan Cantin <alan.cantin@canada.ca>",
     "url": "https://github.com/r-forge/cffdrs",
-    "available": false
+    "subdir": "pkg/cffdrs",
+    "available": true
   },
   {
     "package": "CHNOSZ",
     "maintainer": "Jeffrey Dick <j3ffdick@gmail.com>",
     "url": "https://github.com/r-forge/chnosz",
-    "available": false
+    "subdir": "pkg/CHNOSZ",
+    "available": true
   },
   {
     "package": "ClassComparison",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/ClassComparison",
+    "available": true
   },
   {
     "package": "ClassDiscovery",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/ClassDiscovery",
+    "available": true
   },
   {
     "package": "CloneSeeker",
@@ -111,61 +127,71 @@
     "package": "cobs",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",
-    "available": false
+    "subdir": "pkg/cobs",
+    "available": true
   },
   {
     "package": "coin",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/coin",
-    "available": false
+    "subdir": "pkg/coin",
+    "available": true
   },
   {
     "package": "colorspace",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/colorspace",
-    "available": false
+    "subdir": "pkg/colorspace",
+    "available": true
   },
   {
     "package": "CommonJavaJars",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/r-forge/gsrmtp",
-    "available": false
+    "subdir": "pkg/CommonJavaJars",
+    "available": true
   },
   {
     "package": "cops",
     "maintainer": "Thomas Rusch <thomas.rusch@wu.ac.at>",
     "url": "https://github.com/r-forge/stops",
-    "available": false
+    "subdir": "pkg/cops",
+    "available": true
   },
   {
     "package": "copula",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/copula",
-    "available": false
+    "subdir": "pkg/copula",
+    "available": true
   },
   {
     "package": "copulaData",
     "maintainer": "Marius Hofert <marius.hofert@uwaterloo.ca>",
     "url": "https://github.com/r-forge/copula",
-    "available": false
+    "subdir": "pkg/copulaData",
+    "available": true
   },
   {
     "package": "cordillera",
     "maintainer": "Thomas Rusch <thomas.rusch@wu.ac.at>",
     "url": "https://github.com/r-forge/stops",
-    "available": false
+    "subdir": "pkg/cordillera",
+    "available": true
   },
   {
     "package": "corpora",
     "maintainer": "Stephanie Evert <stephanie.evert@fau.de>",
     "url": "https://github.com/r-forge/sigil",
-    "available": false
+    "subdir": "pkg/corpora",
+    "available": true
   },
   {
     "package": "cotram",
     "maintainer": "Sandra Siegfried <sandra.siegfried@uzh.ch>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/cotram",
+    "available": true
   },
   {
     "package": "CrossValidate",
@@ -177,79 +203,92 @@
     "package": "deSolve",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/r-forge/desolve",
-    "available": false
+    "subdir": "pkg/deSolve",
+    "available": true
   },
   {
     "package": "distr",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distr",
+    "available": true
   },
   {
     "package": "distrDoc",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrDoc",
+    "available": true
   },
   {
     "package": "distrEllipse",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrEllipse",
+    "available": true
   },
   {
     "package": "distrEx",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrEx",
+    "available": true
   },
   {
     "package": "distrMod",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrMod",
+    "available": true
   },
   {
     "package": "distrRmetrics",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrRmetrics",
+    "available": true
   },
   {
     "package": "distrSim",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrSim",
+    "available": true
   },
   {
     "package": "distrTeach",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrTeach",
+    "available": true
   },
   {
     "package": "distrTEst",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/distrTEst",
+    "available": true
   },
   {
     "package": "DPQ",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/specfun",
-    "available": false
+    "subdir": "pkg/DPQ",
+    "available": true
   },
   {
     "package": "dsample",
     "maintainer": "Chel Hee Lee <gnustats@gmail.com>",
     "url": "https://github.com/r-forge/wanglee",
-    "available": false
+    "subdir": "pkg/dsample",
+    "available": true
   },
   {
     "package": "dse",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "available": false
+    "subdir": "pkg/dse",
+    "available": true
   },
   {
     "package": "dtw",
@@ -261,55 +300,64 @@
     "package": "Eagle",
     "maintainer": "Andrew George  <geo047@gmail.com>",
     "url": "https://github.com/r-forge/eagle",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "EasyABC",
     "maintainer": "Nicolas Dumoulin <nicolas.dumoulin@irstea.fr>",
     "url": "https://github.com/r-forge/easyabc",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "EvalEst",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "available": false
+    "subdir": "pkg/EvalEst",
+    "available": true
   },
   {
     "package": "expm",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/expm",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "FFD",
     "maintainer": "Ian Kopacka <ian.kopacka@ages.at>",
     "url": "https://github.com/r-forge/ffd",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "FinTS",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/r-forge/fints",
-    "available": false
+    "subdir": "pkg/FinTS",
+    "available": true
   },
   {
     "package": "FME",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
     "url": "https://github.com/r-forge/fme",
-    "available": false
+    "subdir": "pkg/FME",
+    "available": true
   },
   {
     "package": "frontier",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/frontier",
-    "available": false
+    "subdir": "pkg/frontier",
+    "available": true
   },
   {
     "package": "fwi.fbp",
     "maintainer": "Alan Cantin <Alan.Cantin@Canada.ca>",
     "url": "https://github.com/r-forge/fwi-fbp",
-    "available": false
+    "subdir": "pkg/fwi.fbp",
+    "available": true
   },
   {
     "package": "GenAlgo",
@@ -321,55 +369,64 @@
     "package": "GeneralizedHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",
-    "available": false
+    "subdir": "pkg/GeneralizedHyperbolic",
+    "available": true
   },
   {
     "package": "genoPlotR",
     "maintainer": "Lionel Guy <lionel.guy@imbim.uu.se>",
     "url": "https://github.com/r-forge/genoplotr",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "Gifi",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "available": false
+    "subdir": "pkg/Gifi",
+    "available": true
   },
   {
     "package": "GNE",
     "maintainer": "Christophe Dutang <dutangc@gmail.com>",
     "url": "https://github.com/r-forge/optimizer",
-    "available": false
+    "subdir": "pkg/GNE",
+    "available": true
   },
   {
     "package": "GPArotation",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/optimizer",
-    "available": false
+    "subdir": "pkg/GPArotation",
+    "available": true
   },
   {
     "package": "gridGraphviz",
     "maintainer": "Paul Murrell <p.murrell@auckland.ac.nz>",
     "url": "https://github.com/r-forge/gridgraph",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "grImport",
     "maintainer": "Paul Murrell <p.murrell@auckland.ac.nz>",
     "url": "https://github.com/r-forge/grimport",
-    "available": false
+    "subdir": "pkg/grImport",
+    "available": true
   },
   {
     "package": "grImport2",
     "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
     "url": "https://github.com/r-forge/grimport",
-    "available": false
+    "subdir": "pkg/grImport2",
+    "available": true
   },
   {
     "package": "HistogramTools",
     "maintainer": "Murray Stokely <murray@stokely.org>",
     "url": "https://github.com/r-forge/histogramtools",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "integIRTy",
@@ -381,7 +438,8 @@
     "package": "isotone",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "available": false
+    "subdir": "pkg/isotone",
+    "available": true
   },
   {
     "package": "JM",
@@ -393,37 +451,43 @@
     "package": "latticeExtra",
     "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
     "url": "https://github.com/r-forge/latticeextra",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "linprog",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/linprog",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "loa",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/loa",
-    "available": false
+    "subdir": "pkg/loa",
+    "available": true
   },
   {
     "package": "maptools",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/maptools",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
-    "available": false
+    "subdir": "pkg/Matrix",
+    "available": true
   },
   {
     "package": "MatrixModels",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
-    "available": false
+    "subdir": "pkg/MatrixModels",
+    "available": true
   },
   {
     "package": "Mercator",
@@ -435,13 +499,15 @@
     "package": "metamisc",
     "maintainer": "Thomas Debray <thomas.debray@gmail.com>",
     "url": "https://github.com/r-forge/metamisc",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "meteo",
     "maintainer": "Milan Kilibarda <kili@grf.bg.ac.rs>",
     "url": "https://github.com/r-forge/meteo",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "metRology",
@@ -453,25 +519,29 @@
     "package": "minqa",
     "maintainer": "Katharine M. Mullen <katharine.mullen@stat.ucla.edu>",
     "url": "https://github.com/r-forge/optimizer",
-    "available": false
+    "subdir": "pkg/minqa",
+    "available": true
   },
   {
     "package": "mlogit",
     "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
     "url": "https://github.com/r-forge/mlogit",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "mlt",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/mlt",
+    "available": true
   },
   {
     "package": "mlt.docreg",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/mlt.docreg",
+    "available": true
   },
   {
     "package": "Modeler",
@@ -483,43 +553,50 @@
     "package": "modEvA",
     "maintainer": "A. Marcia Barbosa <ana.marcia.barbosa@gmail.com>",
     "url": "https://github.com/r-forge/modeva",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "mpm",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/r-forge/mpm",
-    "available": false
+    "subdir": "pkg/mpm",
+    "available": true
   },
   {
     "package": "mpmi",
     "maintainer": "Chris Pardy <cooliomcdude@gmail.com>",
     "url": "https://github.com/r-forge/mpmi",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "multcomp",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/multcomp",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "multiColl",
     "maintainer": "R. Salmeron <romansg@ugr.es>",
     "url": "https://github.com/r-forge/colldetreat",
-    "available": false
+    "subdir": "pkg/multiColl",
+    "available": true
   },
   {
     "package": "mutossGUI",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/r-forge/mutoss",
-    "available": false
+    "subdir": "pkg/mutossGUI",
+    "available": true
   },
   {
     "package": "mvtnorm",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/mvtnorm",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "NameNeedle",
@@ -537,25 +614,29 @@
     "package": "numDeriv",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/optimizer",
-    "available": false
+    "subdir": "pkg/numDeriv",
+    "available": true
   },
   {
     "package": "oompaBase",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/oompaBase",
+    "available": true
   },
   {
     "package": "oompaData",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/oompaData",
+    "available": true
   },
   {
     "package": "party",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/party",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "partykit",
@@ -567,13 +648,15 @@
     "package": "patchDVI",
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/r-forge/sweavesearch",
-    "available": false
+    "subdir": "pkg/patchDVI",
+    "available": true
   },
   {
     "package": "pcalg",
     "maintainer": "Markus Kalisch <kalisch@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/pcalg",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "PCDimension",
@@ -585,85 +668,99 @@
     "package": "pedigreemm",
     "maintainer": "Ana Ines Vazquez <anainesvs@gmail.com>",
     "url": "https://github.com/r-forge/pedigreemm",
-    "available": false
+    "subdir": "pkg/pedigreemm",
+    "available": true
   },
   {
     "package": "pems.utils",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/pems",
-    "available": false
+    "subdir": "pkg/pems.utils",
+    "available": true
   },
   {
     "package": "plugdensity",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",
-    "available": false
+    "subdir": "pkg/plugdensity",
+    "available": true
   },
   {
     "package": "Polychrome",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/Polychrome",
+    "available": true
   },
   {
     "package": "polycor",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/polycor",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "POT",
     "maintainer": "Christophe Dutang <christophe.dutang@ensimag.fr>",
     "url": "https://github.com/r-forge/pot",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "PreProcess",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/PreProcess",
+    "available": true
   },
   {
     "package": "PST",
     "maintainer": "Alexis Gabadinho <alexis.gabadinho@wanadoo.fr>",
     "url": "https://github.com/r-forge/pst",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "QSARdata",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/r-forge/qsardata",
-    "available": false
+    "subdir": "QSARdata",
+    "available": true
   },
   {
     "package": "qualV",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/r-forge/qualv",
-    "available": false
+    "subdir": "pkg/qualV",
+    "available": true
   },
   {
     "package": "R2MLwiN",
     "maintainer": "Zhengzheng Zhang <zhengzheng236@gmail.com>",
     "url": "https://github.com/r-forge/r2mlwin",
-    "available": false
+    "subdir": "R2MLwiN",
+    "available": true
   },
   {
     "package": "randtoolbox",
     "maintainer": "Christophe Dutang <dutangc@gmail.com>",
     "url": "https://github.com/r-forge/rmetrics",
-    "available": false
+    "subdir": "pkg/randtoolbox",
+    "available": true
   },
   {
     "package": "RandVar",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RandVar",
+    "available": true
   },
   {
     "package": "Rcplex",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
     "url": "https://github.com/r-forge/rcplex",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "RCytoGPS",
@@ -675,223 +772,260 @@
     "package": "rgdal",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/rgdal",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "rgeos",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/rgeos",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "Rglpk",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
     "url": "https://github.com/r-forge/rglp",
-    "available": false
+    "subdir": "pkg/Rglpk",
+    "available": true
   },
   {
     "package": "RHRV",
     "maintainer": "Leandro Rodriguez-Linares <leandro@uvigo.es>",
     "url": "https://github.com/r-forge/rhrv",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "Rmpfr",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/rmpfr",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "RNetLogo",
     "maintainer": "Jan C. Thiele <rnetlogo@gmx.de>",
     "url": "https://github.com/r-forge/rnetlogo",
-    "available": false
+    "subdir": "pkg/RNetLogo",
+    "available": true
   },
   {
     "package": "rNOMADS",
     "maintainer": "Daniel C. Bowman <danny.c.bowman@gmail.com>",
     "url": "https://github.com/r-forge/rnomads",
-    "available": false
+    "subdir": "pkg/rNOMADS",
+    "available": true
   },
   {
     "package": "RobAStBase",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobAStBase",
+    "available": true
   },
   {
     "package": "RobAStRDA",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobAStRDA",
+    "available": true
   },
   {
     "package": "RobExtremes",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobExtremes",
+    "available": true
   },
   {
     "package": "RobLox",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobLox",
+    "available": true
   },
   {
     "package": "RobLoxBioC",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobLoxBioC",
+    "available": true
   },
   {
     "package": "RobRex",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/RobRex",
+    "available": true
   },
   {
     "package": "robustbase",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/robustbase",
-    "available": false
+    "subdir": "pkg/robustbase",
+    "available": true
   },
   {
     "package": "ROI",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI",
+    "available": true
   },
   {
     "package": "ROI.models.miplib",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.models.miplib",
+    "available": true
   },
   {
     "package": "ROI.plugin.alabama",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.alabama",
+    "available": true
   },
   {
     "package": "ROI.plugin.cplex",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.cplex",
+    "available": true
   },
   {
     "package": "ROI.plugin.deoptim",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.deoptim",
+    "available": true
   },
   {
     "package": "ROI.plugin.ecos",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.ecos",
+    "available": true
   },
   {
     "package": "ROI.plugin.glpk",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.glpk",
+    "available": true
   },
   {
     "package": "ROI.plugin.ipop",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.ipop",
+    "available": true
   },
   {
     "package": "ROI.plugin.msbinlp",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.msbinlp",
+    "available": true
   },
   {
     "package": "ROI.plugin.neos",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.neos",
+    "available": true
   },
   {
     "package": "ROI.plugin.nloptr",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.nloptr",
+    "available": true
   },
   {
     "package": "ROI.plugin.optimx",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.optimx",
+    "available": true
   },
   {
     "package": "ROI.plugin.osqp",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.osqp",
+    "available": true
   },
   {
     "package": "ROI.plugin.qpoases",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.qpoases",
+    "available": true
   },
   {
     "package": "ROI.plugin.quadprog",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.quadprog",
+    "available": true
   },
   {
     "package": "ROI.plugin.scs",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.scs",
+    "available": true
   },
   {
     "package": "ROI.plugin.symphony",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
-    "available": false
+    "subdir": "pkg/ROI.plugin.symphony",
+    "available": true
   },
   {
     "package": "ROptEst",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/ROptEst",
+    "available": true
   },
   {
     "package": "ROptEstOld",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/ROptEstOld",
+    "available": true
   },
   {
     "package": "ROptRegTS",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "available": false
+    "subdir": "pkg/ROptRegTS",
+    "available": true
   },
   {
     "package": "Rsymphony",
     "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
     "url": "https://github.com/r-forge/rsymphony",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "Rwave",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
     "url": "https://github.com/r-forge/rwave",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/sandwich",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "seqinr",
@@ -903,7 +1037,8 @@
     "package": "setRNG",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/distr",
-    "available": false
+    "subdir": "pkg/setRNG",
+    "available": true
   },
   {
     "package": "SIBERG",
@@ -915,67 +1050,78 @@
     "package": "sirad",
     "maintainer": "Jedrzej S. Bojanowski <jedrzej.bojanowski@gmail.com>",
     "url": "https://github.com/r-forge/sirad",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "skellam",
     "maintainer": "Patrick E. Brown <patrick.brown@utoronto.ca>",
     "url": "https://github.com/r-forge/healthqueues",
-    "available": false
+    "subdir": "pkg/skellam",
+    "available": true
   },
   {
     "package": "SkewHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",
-    "available": false
+    "subdir": "pkg/SkewHyperbolic",
+    "available": true
   },
   {
     "package": "Sleuth2",
     "maintainer": "Berwin A Turlach <Berwin.Turlach@gmail.com>",
     "url": "https://github.com/r-forge/sleuth2",
-    "available": false
+    "subdir": "pkg/Sleuth2",
+    "available": true
   },
   {
     "package": "Sleuth3",
     "maintainer": "Berwin A Turlach <Berwin.Turlach@gmail.com>",
     "url": "https://github.com/r-forge/sleuth2",
-    "available": false
+    "subdir": "pkg/Sleuth3",
+    "available": true
   },
   {
     "package": "softclassval",
     "maintainer": "C. Beleites <claudia.beleites@chemometrix.eu>",
     "url": "https://github.com/r-forge/softclassval",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "sparsesvd",
     "maintainer": "Stefan Evert <stefan.evert@fau.de>",
     "url": "https://github.com/r-forge/wordspace",
-    "available": false
+    "subdir": "pkg/sparsesvd",
+    "available": true
   },
   {
     "package": "SpatialExtremes",
     "maintainer": "Mathieu Ribatet <mathieu.ribatet@ec-nantes.fr>",
     "url": "https://github.com/r-forge/spatialextremes",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "spgwr",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/rspatial",
-    "available": false
+    "subdir": "pkg/spgwr",
+    "available": true
   },
   {
     "package": "sse",
     "maintainer": "Thomas Fabbro <thomas.fabbro@unibas.ch>",
     "url": "https://github.com/r-forge/power",
-    "available": false
+    "subdir": "pkg/sse",
+    "available": true
   },
   {
     "package": "surveillance",
     "maintainer": "Sebastian Meyer <seb.meyer@fau.de>",
     "url": "https://github.com/r-forge/surveillance",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "survey",
@@ -987,37 +1133,43 @@
     "package": "tables",
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/r-forge/tables",
-    "available": false
+    "subdir": "pkg/tables",
+    "available": true
   },
   {
     "package": "TailRank",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/TailRank",
+    "available": true
   },
   {
     "package": "tbm",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/tbm",
+    "available": true
   },
   {
     "package": "tfplot",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "available": false
+    "subdir": "pkg/tfplot",
+    "available": true
   },
   {
     "package": "tframe",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "available": false
+    "subdir": "pkg/tframe",
+    "available": true
   },
   {
     "package": "tframePlus",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "available": false
+    "subdir": "pkg/tframePlus",
+    "available": true
   },
   {
     "package": "Thresher",
@@ -1029,121 +1181,141 @@
     "package": "TIMP",
     "maintainer": "Joris J. Snellenburg  <j.snellenburg@vu.nl>",
     "url": "https://github.com/r-forge/timp",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "tm",
     "maintainer": "Ingo Feinerer <feinerer@logic.at>",
     "url": "https://github.com/r-forge/tm",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "tm.plugin.alceste",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/r-forge/r-temis",
-    "available": false
+    "subdir": "pkg/tm.plugin.alceste",
+    "available": true
   },
   {
     "package": "tm.plugin.europresse",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/r-forge/r-temis",
-    "available": false
+    "subdir": "pkg/tm.plugin.europresse",
+    "available": true
   },
   {
     "package": "TopKLists",
     "maintainer": "Michael G. Schimek <michael.schimek@medunigraz.at>",
     "url": "https://github.com/r-forge/topklists",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "tram",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/tram",
+    "available": true
   },
   {
     "package": "tramME",
     "maintainer": "Balint Tamasi <balint.tamasi@uzh.ch>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/tramME",
+    "available": true
   },
   {
     "package": "tramnet",
     "maintainer": "Lucas Kook <lucasheinrich.kook@uzh.ch>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/tramnet",
+    "available": true
   },
   {
     "package": "trtf",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/trtf",
+    "available": true
   },
   {
     "package": "truncreg",
     "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
     "url": "https://github.com/r-forge/truncreg",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "tscount",
     "maintainer": "Tobias Liboschik <liboschik@statistik.tu-dortmund.de>",
     "url": "https://github.com/r-forge/tscount",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "TSdata",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSdata",
+    "available": true
   },
   {
     "package": "TSdbi",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSdbi",
+    "available": true
   },
   {
     "package": "TSmisc",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSmisc",
+    "available": true
   },
   {
     "package": "TSMySQL",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSMySQL",
+    "available": true
   },
   {
     "package": "TSodbc",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSodbc",
+    "available": true
   },
   {
     "package": "TSPostgreSQL",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSPostgreSQL",
+    "available": true
   },
   {
     "package": "TSsdmx",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSsdmx",
+    "available": true
   },
   {
     "package": "TSsql",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSsql",
+    "available": true
   },
   {
     "package": "TSSQLite",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsdbi",
-    "available": false
+    "subdir": "pkg/TSSQLite",
+    "available": true
   },
   {
     "package": "Umpire",
@@ -1155,49 +1327,57 @@
     "package": "urbin",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/urbin",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "variables",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
-    "available": false
+    "subdir": "pkg/variables",
+    "available": true
   },
   {
     "package": "VarSelLCM",
     "maintainer": "Mohammed Sedki <mohammed.sedki@u-psud.fr>",
     "url": "https://github.com/r-forge/varsellcm",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "wordspace",
     "maintainer": "Stephanie Evert <stephanie.evert@fau.de>",
     "url": "https://github.com/r-forge/wordspace",
-    "available": false
+    "subdir": "pkg/wordspace",
+    "available": true
   },
   {
     "package": "WRS2",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "available": false
+    "subdir": "pkg/WRS2",
+    "available": true
   },
   {
     "package": "xtable",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/xtable",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "zipfR",
     "maintainer": "Stefan Evert <stefan.evert@fau.de>",
     "url": "https://github.com/r-forge/zipfr",
-    "available": false
+    "subdir": "pkg/zipfR",
+    "available": true
   },
   {
     "package": "zoo",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/zoo",
-    "available": false
+    "subdir": "pkg/zoo",
+    "available": true
   },
   {
     "package": "lpsymphony",
@@ -1209,7 +1389,8 @@
     "package": "supraHex",
     "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
     "url": "https://github.com/r-forge/suprahex",
-    "available": false
+    "subdir": "pkg",
+    "available": true
   },
   {
     "package": "waveTiling",

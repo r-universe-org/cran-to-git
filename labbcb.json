@@ -3,18 +3,18 @@
     "package": "GA4GHclient",
     "maintainer": "Welliton Souza <well309@gmail.com>",
     "url": "https://github.com/labbcb/ga4ghclient",
-    "available": false
+    "available": true
   },
   {
     "package": "GA4GHshiny",
     "maintainer": "Welliton Souza <well309@gmail.com>",
     "url": "https://github.com/labbcb/ga4ghshiny",
-    "available": false
+    "available": true
   },
   {
     "package": "Rqc",
     "maintainer": "Welliton Souza <well309@gmail.com>",
     "url": "https://github.com/labbcb/rqc",
-    "available": false
+    "available": true
   }
 ]

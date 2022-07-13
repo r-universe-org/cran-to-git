@@ -3,12 +3,14 @@
     "package": "gapfill",
     "maintainer": "Florian Gerber <flora.fauna.gerber@gmail.com>",
     "url": "https://github.com/florafauna/gapfill",
-    "available": false
+    "subdir": "gapfill",
+    "available": true
   },
   {
     "package": "optimParallel",
     "maintainer": "Florian Gerber <flora.fauna.gerber@gmail.com>",
     "url": "https://github.com/florafauna/optimparallel-r",
-    "available": false
+    "subdir": "optimParallel",
+    "available": true
   }
 ]

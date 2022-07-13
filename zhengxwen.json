@@ -3,24 +3,24 @@
     "package": "gdsfmt",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/gdsfmt",
-    "available": false
+    "available": true
   },
   {
     "package": "HIBAG",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/hibag",
-    "available": false
+    "available": true
   },
   {
     "package": "SeqArray",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/seqarray",
-    "available": false
+    "available": true
   },
   {
     "package": "SNPRelate",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/zhengxwen/snprelate",
-    "available": false
+    "available": true
   }
 ]

@@ -18,6 +18,24 @@
     "available": true
   },
   {
+    "package": "cepiigeodist",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/pachadotdev/cepiigeodist",
+    "available": true
+  },
+  {
+    "package": "chilemapas",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/pachadotdev/chilemapas",
+    "available": true
+  },
+  {
+    "package": "economiccomplexity",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/pachadotdev/economiccomplexity",
+    "available": true
+  },
+  {
     "package": "eflm",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
     "url": "https://github.com/pachadotdev/eflm",
@@ -27,6 +45,12 @@
     "package": "gravity",
     "maintainer": "Mauricio Vargas <mv.sepulveda@mail.utoronto.ca>",
     "url": "https://github.com/pachadotdev/gravity",
+    "available": true
+  },
+  {
+    "package": "leontief",
+    "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "url": "https://github.com/pachadotdev/leontief",
     "available": true
   },
   {

@@ -3,12 +3,14 @@
     "package": "surveyplanning",
     "maintainer": "Juris Breidaks <rcsb@csb.gov.lv>",
     "url": "https://github.com/csblatvia/surveyplanning",
-    "available": false
+    "subdir": "surveyplanning",
+    "available": true
   },
   {
     "package": "vardpoor",
     "maintainer": "Martins Liberts <martins.liberts@csb.gov.lv>",
     "url": "https://github.com/csblatvia/vardpoor",
-    "available": false
+    "subdir": "vardpoor",
+    "available": true
   }
 ]

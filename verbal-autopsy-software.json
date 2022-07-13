@@ -3,7 +3,8 @@
     "package": "InSilicoVA",
     "maintainer": "Zehang Richard Li <lizehang@gmail.com>",
     "url": "https://github.com/verbal-autopsy-software/insilicova",
-    "available": false
+    "subdir": "InSilicoVA",
+    "available": true
   },
   {
     "package": "openVA",

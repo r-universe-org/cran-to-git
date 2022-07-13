@@ -3,12 +3,14 @@
     "package": "BayesianTools",
     "maintainer": "Florian Hartig <florian.hartig@biologie.uni-regensburg.de>",
     "url": "https://github.com/florianhartig/bayesiantools",
-    "available": false
+    "subdir": "BayesianTools",
+    "available": true
   },
   {
     "package": "DHARMa",
     "maintainer": "Florian Hartig <florian.hartig@biologie.uni-regensburg.de>",
     "url": "https://github.com/florianhartig/dharma",
-    "available": false
+    "subdir": "DHARMa",
+    "available": true
   }
 ]

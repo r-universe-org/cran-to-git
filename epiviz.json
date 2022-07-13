@@ -3,12 +3,12 @@
     "package": "epivizrData",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/epiviz/epivizrdata",
-    "available": false
+    "available": true
   },
   {
     "package": "epivizrServer",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/epiviz/epivizrserver",
-    "available": false
+    "available": true
   }
 ]

@@ -3,6 +3,7 @@
     "package": "tractor.base",
     "maintainer": "Jon Clayden <code@clayden.org>",
     "url": "https://github.com/tractor/tractor",
-    "available": false
+    "subdir": "tractor.base",
+    "available": true
   }
 ]

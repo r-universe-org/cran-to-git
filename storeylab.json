@@ -18,21 +18,33 @@
     "available": true
   },
   {
+    "package": "edge",
+    "maintainer": "John D. Storey <jstorey@princeton.edu>",
+    "url": "https://github.com/storeylab/edge",
+    "available": true
+  },
+  {
     "package": "gcatest",
     "maintainer": "Wei Hao <whao@princeton.edu>",
     "url": "https://github.com/storeylab/gcatest",
-    "available": false
+    "available": true
   },
   {
     "package": "lfa",
     "maintainer": "Wei Hao <whao@princeton.edu>",
     "url": "https://github.com/storeylab/lfa",
-    "available": false
+    "available": true
+  },
+  {
+    "package": "qvalue",
+    "maintainer": "John D. Storey <jstorey@princeton.edu>",
+    "url": "https://github.com/storeylab/qvalue",
+    "available": true
   },
   {
     "package": "subSeq",
     "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
     "url": "https://github.com/storeylab/subseq",
-    "available": false
+    "available": true
   }
 ]

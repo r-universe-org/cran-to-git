@@ -45,7 +45,8 @@
     "package": "ndtv",
     "maintainer": "Skye Bender-deMoll <skyebend@uw.edu>",
     "url": "https://github.com/statnet/ndtv",
-    "available": false
+    "subdir": "ndtv",
+    "available": true
   },
   {
     "package": "rle",

@@ -15,18 +15,18 @@
     "package": "kebabs",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/kebabs",
-    "available": false
+    "available": true
   },
   {
     "package": "podkat",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/podkat",
-    "available": false
+    "available": true
   },
   {
     "package": "procoil",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/procoil",
-    "available": false
+    "available": true
   }
 ]

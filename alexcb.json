@@ -3,6 +3,7 @@
     "package": "rjson",
     "maintainer": "Alex Couture-Beil <rjson_pkg@mofo.ca>",
     "url": "https://github.com/alexcb/rjson",
-    "available": false
+    "subdir": "rjson",
+    "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "plotdap",
+    "maintainer": "Roy Mendelssohn <roy.mendelssohn@noaa.gov>",
+    "url": "https://github.com/rmendels/plotdap",
+    "available": true
+  },
+  {
     "package": "rerddapXtracto",
     "maintainer": "Roy Mendelssohn <roy.mendelssohn@noaa.gov>",
     "url": "https://github.com/rmendels/rerddapxtracto",
