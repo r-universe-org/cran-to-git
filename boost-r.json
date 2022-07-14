@@ -1,5 +1,11 @@
 [
   {
+    "package": "FDboost",
+    "maintainer": "David Ruegamer <david.ruegamer@gmail.com>",
+    "url": "https://github.com/boost-r/fdboost",
+    "available": true
+  },
+  {
     "package": "gamboostLSS",
     "maintainer": "Benjamin Hofner <benjamin.hofner@pei.de>",
     "url": "https://github.com/boost-r/gamboostlss",
