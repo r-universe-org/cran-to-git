@@ -240,6 +240,12 @@
     "available": true
   },
   {
+    "package": "datefixR",
+    "maintainer": "Nathan Constantine-Cooke <nathan.constantine-cooke@ed.ac.uk>",
+    "url": "https://github.com/ropensci/datefixr",
+    "available": true
+  },
+  {
     "package": "dbhydroR",
     "maintainer": "Joseph Stachelek <stachel2@msu.edu>",
     "url": "https://github.com/ropensci/dbhydror",
