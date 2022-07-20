@@ -1178,6 +1178,13 @@
     "available": false
   },
   {
+    "package": "timeDate",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/timeDate",
+    "available": true
+  },
+  {
     "package": "TIMP",
     "maintainer": "Joris J. Snellenburg  <j.snellenburg@vu.nl>",
     "url": "https://github.com/r-forge/timp",
