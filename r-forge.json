@@ -90,13 +90,6 @@
     "available": true
   },
   {
-    "package": "cffdrs",
-    "maintainer": "Alan Cantin <alan.cantin@canada.ca>",
-    "url": "https://github.com/r-forge/cffdrs",
-    "subdir": "pkg/cffdrs",
-    "available": true
-  },
-  {
     "package": "CHNOSZ",
     "maintainer": "Jeffrey Dick <j3ffdick@gmail.com>",
     "url": "https://github.com/r-forge/chnosz",
@@ -329,6 +322,13 @@
     "maintainer": "Ian Kopacka <ian.kopacka@ages.at>",
     "url": "https://github.com/r-forge/ffd",
     "subdir": "pkg",
+    "available": true
+  },
+  {
+    "package": "fImport",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fImport",
     "available": true
   },
   {
