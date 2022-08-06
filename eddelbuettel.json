@@ -222,6 +222,12 @@
     "available": true
   },
   {
+    "package": "RcppXts",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppxts",
+    "available": true
+  },
+  {
     "package": "RDieHarder",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rdieharder",
