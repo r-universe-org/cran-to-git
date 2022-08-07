@@ -318,10 +318,24 @@
     "available": true
   },
   {
+    "package": "fExtremes",
+    "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fExtremes",
+    "available": true
+  },
+  {
     "package": "FFD",
     "maintainer": "Ian Kopacka <ian.kopacka@ages.at>",
     "url": "https://github.com/r-forge/ffd",
     "subdir": "pkg",
+    "available": true
+  },
+  {
+    "package": "fGarch",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fGarch",
     "available": true
   },
   {
@@ -350,6 +364,13 @@
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/frontier",
     "subdir": "pkg/frontier",
+    "available": true
+  },
+  {
+    "package": "fUnitRoots",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fUnitRoots",
     "available": true
   },
   {
