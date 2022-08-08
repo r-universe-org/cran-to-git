@@ -108,6 +108,12 @@
     "available": true
   },
   {
+    "package": "RApiSerialize",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rapiserialize",
+    "available": true
+  },
+  {
     "package": "RcppAnnoy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppannoy",
