@@ -76,13 +76,6 @@
     "available": true
   },
   {
-    "package": "cdb",
-    "maintainer": "Emilio Torres Manzanera <torres@uniovi.es>",
-    "url": "https://github.com/r-forge/cdb",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "censReg",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/sampleselection",

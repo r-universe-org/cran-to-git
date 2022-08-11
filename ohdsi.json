@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "Cyclops",
+    "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
+    "url": "https://github.com/ohdsi/cyclops",
+    "available": true
+  },
+  {
     "package": "DatabaseConnector",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/databaseconnector",
