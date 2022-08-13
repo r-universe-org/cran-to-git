@@ -30,6 +30,12 @@
     "available": true
   },
   {
+    "package": "babette",
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/ropensci/babette",
+    "available": true
+  },
+  {
     "package": "baRcodeR",
     "maintainer": "Robert Colautti <robert.colautti@queensu.ca>",
     "url": "https://github.com/ropensci/barcoder",
@@ -573,6 +579,12 @@
     "package": "mapscanner",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/mapscanner",
+    "available": true
+  },
+  {
+    "package": "mauricer",
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/ropensci/mauricer",
     "available": true
   },
   {
