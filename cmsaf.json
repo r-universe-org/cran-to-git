@@ -1,5 +1,12 @@
 [
   {
+    "package": "cmsaf",
+    "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
+    "url": "https://github.com/cmsaf/cmsaf-r-tools",
+    "subdir": "cmsaf",
+    "available": true
+  },
+  {
     "package": "cmsafvis",
     "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
     "url": "https://github.com/cmsaf/cmsaf-r-tools",
