@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "geobr",
+    "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
+    "url": "https://github.com/ipeagit/geobr",
+    "available": false
+  },
+  {
     "package": "gtfs2gps",
     "maintainer": "Pedro R. Andrade <pedro.andrade@inpe.br>",
     "url": "https://github.com/ipeagit/gtfs2gps",
