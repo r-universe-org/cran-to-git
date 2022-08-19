@@ -1,5 +1,11 @@
 [
   {
+    "package": "ICED",
+    "maintainer": "Sam Parsons <sam.parsons@radboudumc.nl>",
+    "url": "https://github.com/sdparsons/iced",
+    "available": true
+  },
+  {
     "package": "splithalf",
     "maintainer": "Sam Parsons <sam.parsons@radboudumc.nl>",
     "url": "https://github.com/sdparsons/splithalf",
