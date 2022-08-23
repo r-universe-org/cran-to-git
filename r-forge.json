@@ -1124,13 +1124,6 @@
     "available": true
   },
   {
-    "package": "sparsesvd",
-    "maintainer": "Stefan Evert <stefan.evert@fau.de>",
-    "url": "https://github.com/r-forge/wordspace",
-    "subdir": "pkg/sparsesvd",
-    "available": true
-  },
-  {
     "package": "SpatialExtremes",
     "maintainer": "Mathieu Ribatet <mathieu.ribatet@ec-nantes.fr>",
     "url": "https://github.com/r-forge/spatialextremes",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "aorsf",
+    "maintainer": "Byron Jaeger <bjaeger@wakehealth.edu>",
+    "url": "https://github.com/bcjaeger/aorsf",
+    "available": true
+  },
+  {
     "package": "PooledCohort",
     "maintainer": "Byron Jaeger <bcjaeger@uab.edu>",
     "url": "https://github.com/bcjaeger/pooledcohort",
