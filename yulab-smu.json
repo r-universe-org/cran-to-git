@@ -78,6 +78,12 @@
     "available": true
   },
   {
+    "package": "ggtreeExtra",
+    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
+    "url": "https://github.com/yulab-smu/ggtreeextra",
+    "available": true
+  },
+  {
     "package": "GOSemSim",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/gosemsim",
@@ -87,6 +93,12 @@
     "package": "meshes",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/meshes",
+    "available": true
+  },
+  {
+    "package": "MicrobiotaProcess",
+    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
+    "url": "https://github.com/yulab-smu/microbiotaprocess",
     "available": true
   },
   {

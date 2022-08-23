@@ -13,8 +13,14 @@
   },
   {
     "package": "singleCellTK",
-    "maintainer": "David Jenkins <dfj@bu.edu>",
+    "maintainer": "Yusuke Koga <ykoga07@bu.edu>",
     "url": "https://github.com/compbiomed/singlecelltk",
+    "available": true
+  },
+  {
+    "package": "TBSignatureProfiler",
+    "maintainer": "Aubrey Odom <aodom@bu.edu>",
+    "url": "https://github.com/compbiomed/tbsignatureprofiler",
     "available": true
   }
 ]

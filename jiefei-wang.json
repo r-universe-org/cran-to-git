@@ -18,15 +18,21 @@
     "available": true
   },
   {
-    "package": "SharedObject",
+    "package": "gpuMagic",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
+    "url": "https://github.com/jiefei-wang/gpumagic",
+    "available": true
+  },
+  {
+    "package": "SharedObject",
+    "maintainer": "Jiefei Wang <jwang96@buffalo.edu>",
     "url": "https://github.com/jiefei-wang/sharedobject",
     "available": true
   },
   {
-    "package": "gpuMagic",
+    "package": "Travel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/gpumagic",
+    "url": "https://github.com/jiefei-wang/travel",
     "available": true
   }
 ]

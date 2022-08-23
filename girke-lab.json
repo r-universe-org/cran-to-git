@@ -1,7 +1,7 @@
 [
   {
     "package": "bioassayR",
-    "maintainer": "Tyler Backman <tbackman@lbl.gov>",
+    "maintainer": "Daniela Cassol <danicassol@gmail.com>",
     "url": "https://github.com/girke-lab/bioassayr",
     "available": true
   },
@@ -15,6 +15,18 @@
     "package": "ChemmineR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/chemminer",
+    "available": true
+  },
+  {
+    "package": "customCMPdb",
+    "maintainer": "Yuzhu Duan <yduan004@ucr.edu>",
+    "url": "https://github.com/girke-lab/customcmpdb",
+    "available": true
+  },
+  {
+    "package": "drugTargetInteractions",
+    "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
+    "url": "https://github.com/girke-lab/drugtargetinteractions",
     "available": true
   },
   {

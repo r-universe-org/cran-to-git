@@ -16,5 +16,17 @@
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidyseurat",
     "available": true
+  },
+  {
+    "package": "ppcseq",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/ppcseq",
+    "available": true
+  },
+  {
+    "package": "tidySingleCellExperiment",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/tidysinglecellexperiment",
+    "available": true
   }
 ]

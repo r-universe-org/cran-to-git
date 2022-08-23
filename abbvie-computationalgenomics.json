@@ -4,5 +4,11 @@
     "maintainer": "Xiuwen Zheng <xiuwen.zheng@abbvie.com>",
     "url": "https://github.com/abbvie-computationalgenomics/saigegds",
     "available": true
+  },
+  {
+    "package": "SCArray",
+    "maintainer": "Xiuwen Zheng <xiuwen.zheng@abbvie.com>",
+    "url": "https://github.com/abbvie-computationalgenomics/scarray",
+    "available": false
   }
 ]

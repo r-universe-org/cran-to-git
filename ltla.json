@@ -4,5 +4,47 @@
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/biocsingular",
     "available": true
+  },
+  {
+    "package": "BumpyMatrix",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/bumpymatrix",
+    "available": true
+  },
+  {
+    "package": "DelayedRandomArray",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/delayedrandomarray",
+    "available": true
+  },
+  {
+    "package": "ResidualMatrix",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/residualmatrix",
+    "available": true
+  },
+  {
+    "package": "ScaledMatrix",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/scaledmatrix",
+    "available": true
+  },
+  {
+    "package": "SingleR",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/singler",
+    "available": true
+  },
+  {
+    "package": "TileDBArray",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/tiledbarray",
+    "available": true
+  },
+  {
+    "package": "TrajectoryUtils",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/trajectoryutils",
+    "available": true
   }
 ]

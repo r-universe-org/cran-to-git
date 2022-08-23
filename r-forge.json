@@ -1440,11 +1440,5 @@
     "url": "https://github.com/r-forge/suprahex",
     "subdir": "pkg",
     "available": true
-  },
-  {
-    "package": "waveTiling",
-    "maintainer": "Kristof De Beuf <kristof.debeuf@UGent.be>",
-    "url": "https://github.com/r-forge/wavetiling",
-    "available": false
   }
 ]

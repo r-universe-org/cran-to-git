@@ -1,8 +1,14 @@
 [
   {
     "package": "iSEE",
-    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
+    "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/isee",
+    "available": true
+  },
+  {
+    "package": "iSEEu",
+    "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
+    "url": "https://github.com/isee/iseeu",
     "available": true
   }
 ]

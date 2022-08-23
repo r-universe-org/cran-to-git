@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "Pbase",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/lgatto/pbase",
-    "available": true
-  },
-  {
     "package": "pRoloc",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/proloc",
@@ -25,7 +19,7 @@
   },
   {
     "package": "pRolocGUI",
-    "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/prolocgui",
     "available": true
   },
@@ -37,7 +31,7 @@
   },
   {
     "package": "qcmetrics",
-    "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/qcmetrics",
     "available": true
   },

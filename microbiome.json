@@ -1,5 +1,11 @@
 [
   {
+    "package": "mia",
+    "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
+    "url": "https://github.com/microbiome/mia",
+    "available": true
+  },
+  {
     "package": "microbiome",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
     "url": "https://github.com/microbiome/microbiome",
