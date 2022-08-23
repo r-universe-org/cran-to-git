@@ -1,5 +1,11 @@
 [
   {
+    "package": "disbayes",
+    "maintainer": "Christopher Jackson <chris.jackson@mrc-bsu.cam.ac.uk>",
+    "url": "https://github.com/chjackson/disbayes",
+    "available": true
+  },
+  {
     "package": "fic",
     "maintainer": "Christopher Jackson <chris.jackson@mrc-bsu.cam.ac.uk>",
     "url": "https://github.com/chjackson/fic",
