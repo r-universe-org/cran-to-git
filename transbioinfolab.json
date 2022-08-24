@@ -1,5 +1,11 @@
 [
   {
+    "package": "coMethDMR",
+    "maintainer": "Fernanda Veitzman <fveit001@fiu.edu>",
+    "url": "https://github.com/transbioinfolab/comethdmr",
+    "available": true
+  },
+  {
     "package": "MethReg",
     "maintainer": "Tiago Silva <tiagochst@gmail.com>",
     "url": "https://github.com/transbioinfolab/methreg",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "crossmeta",
+    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
+    "url": "https://github.com/alexvpickering/crossmeta",
+    "available": true
+  },
+  {
     "package": "GEOfastq",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/geofastq",

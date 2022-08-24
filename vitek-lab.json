@@ -1,5 +1,11 @@
 [
   {
+    "package": "MSstatsLiP",
+    "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
+    "url": "https://github.com/vitek-lab/msstatslip",
+    "available": true
+  },
+  {
     "package": "MSstatsLOBD",
     "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatslobd",
@@ -9,12 +15,6 @@
     "package": "MSstatsPTM",
     "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatsptm",
-    "available": true
-  },
-  {
-    "package": "MSstatsTMTPTM",
-    "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
-    "url": "https://github.com/vitek-lab/msstatstmtptm",
     "available": true
   }
 ]

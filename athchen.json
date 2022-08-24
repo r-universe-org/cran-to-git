@@ -1,5 +1,11 @@
 [
   {
+    "package": "beer",
+    "maintainer": "Athena Chen <achen70@jhu.edu>",
+    "url": "https://github.com/athchen/beer",
+    "available": true
+  },
+  {
     "package": "PhIPData",
     "maintainer": "Athena Chen <achen70@jhu.edu>",
     "url": "https://github.com/athchen/phipdata",

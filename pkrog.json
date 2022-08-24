@@ -1,0 +1,44 @@
+[
+  {
+    "package": "biodb",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodb",
+    "available": true
+  },
+  {
+    "package": "biodbChebi",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbchebi",
+    "available": true
+  },
+  {
+    "package": "biodbHmdb",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbhmdb",
+    "available": true
+  },
+  {
+    "package": "biodbKegg",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbkegg",
+    "available": true
+  },
+  {
+    "package": "biodbLipidmaps",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodblipidmaps",
+    "available": true
+  },
+  {
+    "package": "biodbNcbi",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbncbi",
+    "available": true
+  },
+  {
+    "package": "biodbUniprot",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/pkrog/biodbuniprot",
+    "available": true
+  }
+]

@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "monaLisa",
+    "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
+    "url": "https://github.com/fmicompbio/monalisa",
+    "available": true
+  },
+  {
     "package": "Rbowtie",
     "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
     "url": "https://github.com/fmicompbio/rbowtie",

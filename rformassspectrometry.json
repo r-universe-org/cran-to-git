@@ -1,5 +1,17 @@
 [
   {
+    "package": "CompoundDb",
+    "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/compounddb",
+    "available": true
+  },
+  {
+    "package": "MetaboAnnotation",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/metaboannotation",
+    "available": true
+  },
+  {
     "package": "MetaboCoreUtils",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metabocoreutils",
@@ -18,6 +30,12 @@
     "available": true
   },
   {
+    "package": "MsBackendMsp",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msbackendmsp",
+    "available": true
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
@@ -33,6 +51,12 @@
     "package": "ProtGenerics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/protgenerics",
+    "available": true
+  },
+  {
+    "package": "PSMatch",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/rformassspectrometry/psmatch",
     "available": true
   },
   {
