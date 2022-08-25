@@ -1,20 +1,8 @@
 [
   {
-    "package": "crisprBase",
-    "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
-    "url": "https://github.com/jfortin1/crisprbase",
-    "available": false
-  },
-  {
     "package": "crisprBowtie",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/crisprbowtie",
-    "available": false
-  },
-  {
-    "package": "crisprBwa",
-    "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
-    "url": "https://github.com/jfortin1/crisprbwa",
     "available": false
   },
   {

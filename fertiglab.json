@@ -1,5 +1,11 @@
 [
   {
+    "package": "ATACCoGAPS",
+    "maintainer": "Rossin Erbe <rerbe1@jhmi.edu>",
+    "url": "https://github.com/fertiglab/ataccogaps",
+    "available": true
+  },
+  {
     "package": "scatterHatch",
     "maintainer": "Atul Deshpande <adeshpande@jhu.edu>",
     "url": "https://github.com/fertiglab/scatterhatch",

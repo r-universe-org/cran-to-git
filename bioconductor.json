@@ -41,6 +41,12 @@
     "branch": "RELEASE_3_15"
   },
   {
+    "package": "BiocBaseUtils",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/biocbaseutils",
+    "available": true
+  },
+  {
     "package": "BiocCheck",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/bioccheck",
