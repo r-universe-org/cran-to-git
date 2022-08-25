@@ -3,6 +3,7 @@
     "package": "BEclear",
     "maintainer": "David Rasp <david.j.rasp@gmail.com>",
     "url": "https://github.com/uds-helms/beclear",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

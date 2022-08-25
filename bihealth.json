@@ -9,6 +9,7 @@
     "package": "SigsPack",
     "maintainer": "Franziska Schumann <franziska.schumann@student.hpi.de>",
     "url": "https://github.com/bihealth/sigspack",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

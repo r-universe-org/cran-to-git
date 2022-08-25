@@ -3,12 +3,14 @@
     "package": "epialleleR",
     "maintainer": "Oleksii Nikolaienko <oleksii.nikolaienko@gmail.com>",
     "url": "https://github.com/bbcg/epialleler",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ramr",
     "maintainer": "Oleksii Nikolaienko <oleksii.nikolaienko@gmail.com>",
     "url": "https://github.com/bbcg/ramr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,6 +3,7 @@
     "package": "diffUTR",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/ethz-ins/diffutr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

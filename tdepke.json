@@ -3,6 +3,7 @@
     "package": "CluMSID",
     "maintainer": "Tobias Depke <depke@mailbox.org>",
     "url": "https://github.com/tdepke/clumsid",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

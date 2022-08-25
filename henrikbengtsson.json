@@ -189,18 +189,21 @@
     "package": "affxparser",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/henrikbengtsson/affxparser",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "aroma.light",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/aroma.light",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "illuminaio",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/henrikbengtsson/illuminaio",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,18 +3,21 @@
     "package": "ATACseqTFEA",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/atacseqtfea",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "enhancerHomologSearch",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/enhancerhomologsearch",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GenomicInteractionNodes",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/genomicinteractionnodes",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

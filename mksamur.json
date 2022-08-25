@@ -3,6 +3,7 @@
     "package": "RTCGAToolbox",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/mksamur/rtcgatoolbox",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

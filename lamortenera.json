@@ -3,6 +3,7 @@
     "package": "bamsignals",
     "maintainer": "Johannes Helmuth <johannes.helmuth@laborberlin.com>",
     "url": "https://github.com/lamortenera/bamsignals",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,6 +3,7 @@
     "package": "cytoMEM",
     "maintainer": "Jonathan Irish <jonathan.irish@vanderbilt.edu>",
     "url": "https://github.com/cytolab/cytomem",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

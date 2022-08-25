@@ -3,18 +3,21 @@
     "package": "coMethDMR",
     "maintainer": "Fernanda Veitzman <fveit001@fiu.edu>",
     "url": "https://github.com/transbioinfolab/comethdmr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MethReg",
     "maintainer": "Tiago Silva <tiagochst@gmail.com>",
     "url": "https://github.com/transbioinfolab/methreg",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rnaEditr",
     "maintainer": "Lanyu Zhang <jennyzly2016@gmail.com>",
     "url": "https://github.com/transbioinfolab/rnaeditr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

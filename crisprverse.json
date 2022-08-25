@@ -3,24 +3,28 @@
     "package": "crisprBase",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprbase",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "crisprBwa",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprbwa",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "crisprDesign",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprdesign",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "crisprVerse",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprverse",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

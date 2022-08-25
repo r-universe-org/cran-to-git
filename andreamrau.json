@@ -9,6 +9,7 @@
     "package": "padma",
     "maintainer": "Andrea Rau <andrea.rau@inrae.fr>",
     "url": "https://github.com/andreamrau/padma",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

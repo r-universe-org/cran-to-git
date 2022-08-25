@@ -3,12 +3,14 @@
     "package": "FEAST",
     "maintainer": "Kenong Su <kenong.su@emory.edu>",
     "url": "https://github.com/suke18/feast",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "iPath",
     "maintainer": "Kenong Su <kenong.su@emory.edu>",
     "url": "https://github.com/suke18/ipath",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

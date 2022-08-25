@@ -9,6 +9,7 @@
     "package": "MassSpecWavelet",
     "maintainer": "Sergio Oller Moreno <sergioller@gmail.com>",
     "url": "https://github.com/zeehio/massspecwavelet",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

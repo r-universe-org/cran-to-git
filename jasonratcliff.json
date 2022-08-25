@@ -3,6 +3,7 @@
     "package": "aggregateBioVar",
     "maintainer": "Jason Ratcliff <jason-ratcliff@uiowa.edu>",
     "url": "https://github.com/jasonratcliff/aggregatebiovar",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

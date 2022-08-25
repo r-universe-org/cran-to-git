@@ -3,6 +3,7 @@
     "package": "IgGeneUsage",
     "maintainer": "Simo Kitanovski <simo.kitanovski@uni-due.de>",
     "url": "https://github.com/snaketron/iggeneusage",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

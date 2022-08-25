@@ -9,12 +9,14 @@
     "package": "segmenter",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/mahshaaban/segmenter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "target",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/mahshaaban/target",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,6 +3,7 @@
     "package": "clusterExperiment",
     "maintainer": "Elizabeth Purdom <epurdom@stat.berkeley.edu>",
     "url": "https://github.com/epurdom/clusterexperiment",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,18 +3,21 @@
     "package": "MSstatsLiP",
     "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatslip",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MSstatsLOBD",
     "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatslobd",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MSstatsPTM",
     "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatsptm",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

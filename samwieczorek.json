@@ -3,12 +3,14 @@
     "package": "DAPAR",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
     "url": "https://github.com/samwieczorek/dapar",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Prostar",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
     "url": "https://github.com/samwieczorek/prostar",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

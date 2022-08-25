@@ -3,12 +3,14 @@
     "package": "debCAM",
     "maintainer": "Lulu Chen <luluchen@vt.edu>",
     "url": "https://github.com/lululuella/debcam",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "OVESEG",
     "maintainer": "Lulu Chen <luluchen@vt.edu>",
     "url": "https://github.com/lululuella/oveseg",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

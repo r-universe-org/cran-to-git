@@ -57,12 +57,14 @@
     "package": "HiLDA",
     "maintainer": "Zhi Yang <zyang895@gmail.com>",
     "url": "https://github.com/uscbiostats/hilda",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "selectKSigs",
     "maintainer": "Zhi Yang <zyang895@gmail.com>",
     "url": "https://github.com/uscbiostats/hilda",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   }
 ]

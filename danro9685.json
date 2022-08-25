@@ -3,12 +3,14 @@
     "package": "OncoScore",
     "maintainer": "Luca De Sano <luca.desano@gmail.com>",
     "url": "https://github.com/danro9685/oncoscore",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "SparseSignatures",
     "maintainer": "Luca De Sano <luca.desano@gmail.com>",
     "url": "https://github.com/danro9685/sparsesignatures",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

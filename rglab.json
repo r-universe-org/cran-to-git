@@ -3,42 +3,49 @@
     "package": "COMPASS",
     "maintainer": "Greg Finak <gfinak@fhcrc.org>",
     "url": "https://github.com/rglab/compass",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "CytoML",
     "maintainer": "Mike Jiang <mike@ozette.com>",
     "url": "https://github.com/rglab/cytoml",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "flowStats",
     "maintainer": "Greg Finak <greg@ozette.com>",
     "url": "https://github.com/rglab/flowstats",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ggcyto",
     "maintainer": "Mike Jiang <mike@ozette.com>",
     "url": "https://github.com/rglab/ggcyto",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ImmuneSpaceR",
     "maintainer": "ImmuneSpace Package Maintainer <immunespace@gmail.com>",
     "url": "https://github.com/rglab/immunespacer",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MAST",
     "maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
     "url": "https://github.com/rglab/mast",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "pepStat",
     "maintainer": "Gregory C Imholte <gimholte@uw.edu>",
     "url": "https://github.com/rglab/pepstat",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

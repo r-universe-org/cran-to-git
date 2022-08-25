@@ -3,12 +3,14 @@
     "package": "crossmeta",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/crossmeta",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GEOfastq",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/geofastq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

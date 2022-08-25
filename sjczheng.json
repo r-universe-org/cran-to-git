@@ -3,6 +3,7 @@
     "package": "EpiDISH",
     "maintainer": "Shijie C. Zheng <shijieczheng@gmail.com>",
     "url": "https://github.com/sjczheng/epidish",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

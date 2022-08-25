@@ -3,6 +3,7 @@
     "package": "MobilityTransformR",
     "maintainer": "Liesa Salzer <liesa.salzer@helmholtz-muenchen.de>",
     "url": "https://github.com/liesasalzer/mobilitytransformr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,30 +3,35 @@
     "package": "alevinQC",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/alevinqc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "compcodeR",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/compcoder",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "countsimQC",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/countsimqc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ExploreModelMatrix",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/exploremodelmatrix",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "iCOBRA",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/icobra",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -21,18 +21,21 @@
     "package": "gpuMagic",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/gpumagic",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "SharedObject",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/sharedobject",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Travel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/travel",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

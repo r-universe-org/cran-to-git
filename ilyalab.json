@@ -3,6 +3,7 @@
     "package": "EmpiricalBrownsMethod",
     "maintainer": "David Gibbs <dgibbs@systemsbiology.org>",
     "url": "https://github.com/ilyalab/combiningdependentpvaluesusingebm",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   }
 ]

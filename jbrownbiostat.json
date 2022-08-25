@@ -3,6 +3,7 @@
     "package": "Dino",
     "maintainer": "Jared Brown <brownj@ds.dfci.harvard.edu>",
     "url": "https://github.com/jbrownbiostat/dino",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

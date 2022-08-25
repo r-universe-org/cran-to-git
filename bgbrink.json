@@ -3,6 +3,7 @@
     "package": "ddPCRclust",
     "maintainer": "Benedikt G. Brink <bbrink@cebitec.uni-bielefeld.de>",
     "url": "https://github.com/bgbrink/ddpcrclust",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

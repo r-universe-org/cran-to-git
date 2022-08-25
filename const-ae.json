@@ -27,24 +27,28 @@
     "package": "glmGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/glmgampoi",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "proDA",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/proda",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "sparseMatrixStats",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/sparsematrixstats",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "transformGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/transformgampoi",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

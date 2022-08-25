@@ -3,6 +3,7 @@
     "package": "CNVfilteR",
     "maintainer": "Jose Marcos Moreno-Cabrera <jpuntomarcos@gmail.com>",
     "url": "https://github.com/jpuntomarcos/cnvfilter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

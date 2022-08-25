@@ -3,12 +3,14 @@
     "package": "PICS",
     "maintainer": "Renan Sauteraud <renan.sauteraud@gmail.com>",
     "url": "https://github.com/srenan/pics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "XCIR",
     "maintainer": "Renan Sauteraud <rxs575@psu.edu>",
     "url": "https://github.com/srenan/xcir",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

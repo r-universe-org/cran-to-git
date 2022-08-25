@@ -3,12 +3,14 @@
     "package": "CopyNumberPlots",
     "maintainer": "Bernat Gel <bgel@igtp.cat>",
     "url": "https://github.com/bernatgel/copynumberplots",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "karyoploteR",
     "maintainer": "Bernat Gel <bgel@igtp.cat>",
     "url": "https://github.com/bernatgel/karyoploter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

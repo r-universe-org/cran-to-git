@@ -3,6 +3,7 @@
     "package": "ipdDb",
     "maintainer": "Steffen Klasberg <klasberg@dkms-lab.de>",
     "url": "https://github.com/dkms-lsl/ipddb",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

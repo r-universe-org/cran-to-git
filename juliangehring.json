@@ -3,6 +3,7 @@
     "package": "SomaticSignatures",
     "maintainer": "Julian Gehring <jg-bioc@gmx.com>",
     "url": "https://github.com/juliangehring/somaticsignatures",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

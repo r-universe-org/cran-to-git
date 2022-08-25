@@ -3,12 +3,14 @@
     "package": "methylInheritance",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/adeschen/methylinheritance",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "similaRpeak",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/adeschen/similarpeak",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

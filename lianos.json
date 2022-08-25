@@ -3,6 +3,7 @@
     "package": "sparrow",
     "maintainer": "Steve Lianoglou <slianoglou@gmail.com>",
     "url": "https://github.com/lianos/sparrow",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

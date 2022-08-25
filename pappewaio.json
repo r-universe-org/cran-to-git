@@ -3,6 +3,7 @@
     "package": "AllelicImbalance",
     "maintainer": "Jesper R Gadin <j.r.gadin@gmail.com>",
     "url": "https://github.com/pappewaio/allelicimbalance",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

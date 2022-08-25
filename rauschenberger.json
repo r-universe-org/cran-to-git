@@ -27,12 +27,14 @@
     "package": "globalSeq",
     "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
     "url": "https://github.com/rauschenberger/globalseq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "semisup",
     "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
     "url": "https://github.com/rauschenberger/semisup",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

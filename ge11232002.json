@@ -9,12 +9,14 @@
     "package": "CNEr",
     "maintainer": "Ge Tan <ge_tan@live.com>",
     "url": "https://github.com/ge11232002/cner",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "TFBSTools",
     "maintainer": "Ge Tan <ge_tan@live.com>",
     "url": "https://github.com/ge11232002/tfbstools",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

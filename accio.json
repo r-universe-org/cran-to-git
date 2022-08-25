@@ -3,6 +3,7 @@
     "package": "BioQC",
     "maintainer": "Jitao David Zhang <jitao_david.zhang@roche.com>",
     "url": "https://github.com/accio/bioqc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

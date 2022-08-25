@@ -3,12 +3,14 @@
     "package": "SCnorm",
     "maintainer": "Rhonda Bacher <rbacher@ufl.edu>",
     "url": "https://github.com/rhondabacher/scnorm",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Trendy",
     "maintainer": "Rhonda Bacher <rbacher@ufl.edu>",
     "url": "https://github.com/rhondabacher/trendy",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

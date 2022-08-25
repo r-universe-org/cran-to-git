@@ -3,6 +3,7 @@
     "package": "geneClassifiers",
     "maintainer": "R Kuiper <r.kuiper.emc@gmail.com>",
     "url": "https://github.com/rkuiper/geneclassifiers",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

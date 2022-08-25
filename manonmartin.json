@@ -3,6 +3,7 @@
     "package": "PepsNMR",
     "maintainer": "Manon Martin <manon.martin@uclouvain.be>",
     "url": "https://github.com/manonmartin/pepsnmr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

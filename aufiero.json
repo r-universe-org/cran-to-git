@@ -3,6 +3,7 @@
     "package": "circRNAprofiler",
     "maintainer": "Simona Aufiero <simo.aufiero@gmail.com>",
     "url": "https://github.com/aufiero/circrnaprofiler",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

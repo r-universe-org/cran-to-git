@@ -3,24 +3,28 @@
     "package": "affyio",
     "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
     "url": "https://github.com/bmbolstad/affyio",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "affyPLM",
     "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
     "url": "https://github.com/bmbolstad/affyplm",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "BufferedMatrix",
     "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
     "url": "https://github.com/bmbolstad/bufferedmatrix",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "preprocessCore",
     "maintainer": "Ben Bolstad <bmb@bmbolstad.com>",
     "url": "https://github.com/bmbolstad/preprocesscore",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

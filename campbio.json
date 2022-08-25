@@ -3,18 +3,21 @@
     "package": "celda",
     "maintainer": "Joshua Campbell <camp@bu.edu>",
     "url": "https://github.com/campbio/celda",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "musicatk",
     "maintainer": "Aaron Chevalier <atgc@bu.edu>",
     "url": "https://github.com/campbio/musicatk",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "scruff",
     "maintainer": "Zhe Wang <zhe@bu.edu>",
     "url": "https://github.com/campbio/scruff",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

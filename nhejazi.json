@@ -21,6 +21,7 @@
     "package": "biotmle",
     "maintainer": "Nima Hejazi <nh@nimahejazi.org>",
     "url": "https://github.com/nhejazi/biotmle",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

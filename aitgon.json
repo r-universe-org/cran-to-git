@@ -3,6 +3,7 @@
     "package": "LedPred",
     "maintainer": "Aitor Gonzalez <aitor.gonzalez@univ-amu.fr>",
     "url": "https://github.com/aitgon/ledpred",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,6 +3,7 @@
     "package": "BRGenomics",
     "maintainer": "Mike DeBerardine <mike.deberardine@gmail.com>",
     "url": "https://github.com/mdeber/brgenomics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

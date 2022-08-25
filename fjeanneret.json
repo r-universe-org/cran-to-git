@@ -3,6 +3,7 @@
     "package": "multiSight",
     "maintainer": "Florian Jeanneret <florian.jeanneret@cea.fr>",
     "url": "https://github.com/fjeanneret/multisight",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

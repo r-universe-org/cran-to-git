@@ -3,18 +3,21 @@
     "package": "codelink",
     "maintainer": "Diego Diez <diego10ruiz@gmail.com>",
     "url": "https://github.com/ddiez/codelink",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rTRM",
     "maintainer": "Diego Diez <diego10ruiz@gmail.com>",
     "url": "https://github.com/ddiez/rtrm",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rTRMui",
     "maintainer": "Diego Diez <diego10ruiz@gmail.com>",
     "url": "https://github.com/ddiez/rtrmui",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

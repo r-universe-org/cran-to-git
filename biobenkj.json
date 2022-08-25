@@ -3,6 +3,7 @@
     "package": "compartmap",
     "maintainer": "Benjamin Johnson <ben.johnson@vai.org>",
     "url": "https://github.com/biobenkj/compartmap",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

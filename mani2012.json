@@ -3,12 +3,14 @@
     "package": "BatchQC",
     "maintainer": "Solaiappan Manimaran <manimaran_1975@hotmail.com>",
     "url": "https://github.com/mani2012/batchqc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "PathoStat",
     "maintainer": "Solaiappan Manimaran <manimaran_1975@hotmail.com>",
     "url": "https://github.com/mani2012/pathostat",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

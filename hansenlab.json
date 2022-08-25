@@ -3,42 +3,49 @@
     "package": "bnbc",
     "maintainer": "Kipper Fletez-Brant <cafletezbrant@gmail.com>",
     "url": "https://github.com/hansenlab/bnbc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "bsseq",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/hansenlab/bsseq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "minfi",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/hansenlab/minfi",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "mpra",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/mpra",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "spqn",
     "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
     "url": "https://github.com/hansenlab/spqn",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tricycle",
     "maintainer": "Shijie Zheng <shijieczheng@gmail.com>",
     "url": "https://github.com/hansenlab/tricycle",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "yamss",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/yamss",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

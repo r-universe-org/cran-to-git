@@ -57,78 +57,91 @@
     "package": "ChIPseeker",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/chipseeker",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "clusterProfiler",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/clusterprofiler",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "DOSE",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/dose",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ggmsa",
     "maintainer": "Lang Zhou <nyzhoulang@gmail.com>",
     "url": "https://github.com/yulab-smu/ggmsa",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ggtree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggtree",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ggtreeExtra",
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/ggtreeextra",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GOSemSim",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/gosemsim",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "meshes",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/meshes",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MicrobiomeProfiler",
     "maintainer": "Meijun Chen <mjchen1996@outlook.com>",
     "url": "https://github.com/yulab-smu/microbiomeprofiler",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MicrobiotaProcess",
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/microbiotaprocess",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ReactomePA",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/reactomepa",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "seqcombo",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/seqcombo",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "treeio",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/treeio",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

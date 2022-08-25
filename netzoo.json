@@ -3,6 +3,7 @@
     "package": "netZooR",
     "maintainer": "Marouen Ben Guebila <benguebila@hsph.harvard.edu>",
     "url": "https://github.com/netzoo/netzoor",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

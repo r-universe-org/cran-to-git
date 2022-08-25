@@ -1425,13 +1425,15 @@
     "package": "lpsymphony",
     "maintainer": "Vladislav Kim <Vladislav.Kim@embl.de>",
     "url": "https://github.com/r-forge/rsymphony",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   },
   {
     "package": "supraHex",
     "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
     "url": "https://github.com/r-forge/suprahex",
     "subdir": "pkg",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

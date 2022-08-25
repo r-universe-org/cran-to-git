@@ -3,12 +3,14 @@
     "package": "gscreend",
     "maintainer": "Katharina Imkeller <k.imkeller@dkfz.de>",
     "url": "https://github.com/imkeller/gscreend",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "immunotation",
     "maintainer": "Katharina Imkeller <k.imkeller@dkfz.de>",
     "url": "https://github.com/imkeller/immunotation",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

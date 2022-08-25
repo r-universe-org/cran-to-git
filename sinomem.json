@@ -3,6 +3,7 @@
     "package": "CNVgears",
     "maintainer": "Simone Montalbano <simone.montalbano@protonmail.com>",
     "url": "https://github.com/sinomem/cnvgears",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

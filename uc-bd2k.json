@@ -3,6 +3,7 @@
     "package": "GRmetrics",
     "maintainer": "Nicholas Clark <nicholas.clark00@gmail.com>",
     "url": "https://github.com/uc-bd2k/grmetrics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

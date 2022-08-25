@@ -9,24 +9,28 @@
     "package": "consensusOV",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/consensusov",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "PDATK",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/pdatk",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "PharmacoGx",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/pharmacogx",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Xeva",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/xeva",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

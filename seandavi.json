@@ -3,24 +3,28 @@
     "package": "BiocPkgTools",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/biocpkgtools",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GEOquery",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/geoquery",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "methylumi",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/methylumi",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "SRAdb",
     "maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
     "url": "https://github.com/seandavi/sradb",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,6 +3,7 @@
     "package": "rsemmed",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/lmyint/rsemmed",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

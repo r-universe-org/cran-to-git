@@ -3,18 +3,21 @@
     "package": "mia",
     "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
     "url": "https://github.com/microbiome/mia",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "miaSim",
     "maintainer": "Yagmur Simsek <yagmur.simsek@hsrw.org>",
     "url": "https://github.com/microbiome/miasim",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "microbiome",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
     "url": "https://github.com/microbiome/microbiome",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

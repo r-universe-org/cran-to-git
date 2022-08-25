@@ -3,18 +3,21 @@
     "package": "cytoKernel",
     "maintainer": "Tusharkanti Ghosh <tusharkantighosh30@gmail.com>",
     "url": "https://github.com/ghoshlab/cytokernel",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "marr",
     "maintainer": "Tusharkanti Ghosh <tusharkantighosh30@gmail.com>",
     "url": "https://github.com/ghoshlab/marr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "pairkat",
     "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
     "url": "https://github.com/ghoshlab/pairkat",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   }
 ]

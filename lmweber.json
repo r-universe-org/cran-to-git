@@ -3,24 +3,28 @@
     "package": "diffcyt",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/diffcyt",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ggspavis",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/ggspavis",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "nnSVG",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/nnsvg",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "regsplice",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/regsplice",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

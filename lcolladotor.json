@@ -3,12 +3,14 @@
     "package": "biocthis",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/lcolladotor/biocthis",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "derfinder",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/lcolladotor/derfinder",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

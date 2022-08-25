@@ -3,6 +3,7 @@
     "package": "bumphunter",
     "maintainer": "Tamilselvi Guharaj <selvi@ds.dfci.harvard.edu>",
     "url": "https://github.com/rafalab/bumphunter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

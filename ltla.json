@@ -3,48 +3,56 @@
     "package": "BiocSingular",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/biocsingular",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "BumpyMatrix",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/bumpymatrix",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "DelayedRandomArray",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/delayedrandomarray",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ResidualMatrix",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/residualmatrix",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ScaledMatrix",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/scaledmatrix",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "SingleR",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/singler",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "TileDBArray",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/tiledbarray",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "TrajectoryUtils",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/trajectoryutils",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

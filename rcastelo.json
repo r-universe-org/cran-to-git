@@ -3,24 +3,28 @@
     "package": "GenomicScores",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/genomicscores",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GSVA",
     "maintainer": "Justin Guinney <justin.guinney@sagebase.org>",
     "url": "https://github.com/rcastelo/gsva",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "qpgraph",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/rcastelo",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   },
   {
     "package": "VariantFiltering",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/variantfiltering",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -9,18 +9,21 @@
     "package": "BASiCStan",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/basicstan",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "densvis",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/densvis",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "snifter",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/snifter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

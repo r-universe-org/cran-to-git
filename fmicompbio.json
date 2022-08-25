@@ -3,24 +3,28 @@
     "package": "eisaR",
     "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
     "url": "https://github.com/fmicompbio/eisar",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "monaLisa",
     "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
     "url": "https://github.com/fmicompbio/monalisa",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Rbowtie",
     "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
     "url": "https://github.com/fmicompbio/rbowtie",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Rhisat2",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/fmicompbio/rhisat2",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

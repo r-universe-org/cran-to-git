@@ -3,18 +3,21 @@
     "package": "NxtIRFcore",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/nxtirfcore",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ompBAM",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/ompbam",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "SpliceWiz",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/splicewiz",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

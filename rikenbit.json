@@ -45,12 +45,14 @@
     "package": "DelayedTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/delayedtensor",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "meshr",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/meshr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

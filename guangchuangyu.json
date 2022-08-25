@@ -57,6 +57,7 @@
     "package": "enrichplot",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/enrichplot",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

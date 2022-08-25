@@ -3,12 +3,14 @@
     "package": "Gviz",
     "maintainer": "Robert Ivanek <robert.ivanek@unibas.ch>",
     "url": "https://github.com/ivanek/gviz",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "seqLogo",
     "maintainer": "Robert Ivanek <robert.ivanek@unibas.ch>",
     "url": "https://github.com/ivanek/seqlogo",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

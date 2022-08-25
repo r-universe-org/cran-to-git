@@ -3,12 +3,14 @@
     "package": "INDEED",
     "maintainer": "Ressom group <hwr@georgetown.edu>",
     "url": "https://github.com/ressomlab/indeed",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "MetID",
     "maintainer": "Zhenzhi Li <zzrickli@gmail.com>",
     "url": "https://github.com/ressomlab/metid",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

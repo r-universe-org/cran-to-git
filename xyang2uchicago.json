@@ -3,6 +3,7 @@
     "package": "BioTIP",
     "maintainer": "Yuxi Sun <ysun11@uchicago.edu> (Jennifer)",
     "url": "https://github.com/xyang2uchicago/biotip",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

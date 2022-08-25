@@ -3,6 +3,7 @@
     "package": "decompTumor2Sig",
     "maintainer": "Rosario M. Piro <rmpiro@gmail.com>",
     "url": "https://github.com/rmpiro/decomptumor2sig",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

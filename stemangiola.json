@@ -21,30 +21,35 @@
     "package": "ppcseq",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/ppcseq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "sccomp",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/sccomp",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tidybulk",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidybulk",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tidySingleCellExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysinglecellexperiment",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysummarizedexperiment",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

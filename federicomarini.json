@@ -9,24 +9,28 @@
     "package": "flowcatchR",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/flowcatchr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "GeneTonic",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/genetonic",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ideal",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/ideal",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "pcaExplorer",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/pcaexplorer",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

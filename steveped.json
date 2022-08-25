@@ -3,12 +3,14 @@
     "package": "extraChIPs",
     "maintainer": "Stephen Pederson <stephen.pederson.au@gmail.com>",
     "url": "https://github.com/steveped/extrachips",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "ngsReports",
     "maintainer": "Steve Pederson <stephen.pederson.au@gmail.com>",
     "url": "https://github.com/steveped/ngsreports",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

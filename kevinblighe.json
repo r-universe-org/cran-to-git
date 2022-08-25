@@ -3,18 +3,21 @@
     "package": "EnhancedVolcano",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/enhancedvolcano",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "PCAtools",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/pcatools",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "scDataviz",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/scdataviz",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

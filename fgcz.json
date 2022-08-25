@@ -3,18 +3,21 @@
     "package": "MsBackendRawFileReader",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/msbackendrawfilereader",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rawrr",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/rawrr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "specL",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/specl",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

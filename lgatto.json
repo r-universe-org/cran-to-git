@@ -9,42 +9,49 @@
     "package": "MSnbase",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/msnbase",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "pRoloc",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/proloc",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "pRolocGUI",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/prolocgui",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "qcmetrics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/qcmetrics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rols",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rols",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "rpx",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rpx",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "synapter",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be> Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/lgatto/synapter",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

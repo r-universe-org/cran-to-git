@@ -3,6 +3,7 @@
     "package": "infercnv",
     "maintainer": "Christophe Georgescu <cgeorges@broadinstitute.org>",
     "url": "https://github.com/broadinstitute/infercnv",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

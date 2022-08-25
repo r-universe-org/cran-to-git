@@ -9,12 +9,14 @@
     "package": "epimutacions",
     "maintainer": "Leire Abarrategui <abarrategui.leire@gmail.com>",
     "url": "https://github.com/isglobal-brge/epimutacions",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "methylclock",
     "maintainer": "Dolors Pelegri-Siso <dolors.pelegri@isglobal.org>",
     "url": "https://github.com/isglobal-brge/methylclock",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

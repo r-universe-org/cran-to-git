@@ -9,6 +9,7 @@
     "package": "qmtools",
     "maintainer": "Jaehyun Joo <jaehyunjoo@outlook.com>",
     "url": "https://github.com/himesgroup/qmtools",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -3,12 +3,14 @@
     "package": "fobitools",
     "maintainer": "Pol Castellano-Escuder <polcaes@gmail.com>",
     "url": "https://github.com/pcastellanoescuder/fobitools",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "POMA",
     "maintainer": "Pol Castellano-Escuder <polcaes@gmail.com>",
     "url": "https://github.com/pcastellanoescuder/poma",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

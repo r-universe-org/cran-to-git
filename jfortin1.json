@@ -3,18 +3,21 @@
     "package": "crisprBowtie",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/crisprbowtie",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   },
   {
     "package": "crisprScore",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/crisprscore",
-    "available": false
+    "available": false,
+    "registry": "bioc"
   },
   {
     "package": "Rbwa",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/rbwa",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

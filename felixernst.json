@@ -3,60 +3,70 @@
     "package": "EpiTxDb",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/epitxdb",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Modstrings",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/modstrings",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "RNAmodR",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "RNAmodR.AlkAnilineSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.alkanilineseq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "RNAmodR.ML",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ml",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "RNAmodR.RiboMethSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ribomethseq",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "Structstrings",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/structstrings",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tRNA",
     "maintainer": "Felix GM Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/trna",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tRNAdbImport",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/trnadbimport",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "tRNAscanImport",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/trnascanimport",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

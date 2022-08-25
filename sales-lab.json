@@ -9,12 +9,14 @@
     "package": "graphite",
     "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
     "url": "https://github.com/sales-lab/graphite",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "spatialDE",
     "maintainer": "Davide Corso <davide.corso.2@phd.unipd.it>",
     "url": "https://github.com/sales-lab/spatialde",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

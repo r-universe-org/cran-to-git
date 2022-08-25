@@ -3,6 +3,7 @@
     "package": "HIPPO",
     "maintainer": "Tae Kim <tk382@uchicago.edu>",
     "url": "https://github.com/tk382/hippo",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

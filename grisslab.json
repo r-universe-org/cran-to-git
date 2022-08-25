@@ -3,6 +3,7 @@
     "package": "scAnnotatR",
     "maintainer": "Johannes Griss <johannes.griss@meduniwien.ac.at>",
     "url": "https://github.com/grisslab/scannotatr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

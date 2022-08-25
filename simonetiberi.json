@@ -3,18 +3,21 @@
     "package": "BANDITS",
     "maintainer": "Simone Tiberi <simone.tiberi@uzh.ch>",
     "url": "https://github.com/simonetiberi/bandits",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "DifferentialRegulation",
     "maintainer": "Simone Tiberi <simone.tiberi@uzh.ch>",
     "url": "https://github.com/simonetiberi/differentialregulation",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "distinct",
     "maintainer": "Simone Tiberi <simone.tiberi@uzh.ch>",
     "url": "https://github.com/simonetiberi/distinct",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

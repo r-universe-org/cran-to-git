@@ -9,18 +9,21 @@
     "package": "deconvR",
     "maintainer": "İrem B. Gündüz <irembgunduz@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/deconvr",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "genomation",
     "maintainer": "Altuna Akalin <aakalin@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/genomation",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "netSmooth",
     "maintainer": "Jonathan Ronen <yablee@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/netsmooth",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]

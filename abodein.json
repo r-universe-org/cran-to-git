@@ -3,12 +3,14 @@
     "package": "netOmics",
     "maintainer": "Antoine Bodein <antoine.bodein.1@ulaval.ca>",
     "url": "https://github.com/abodein/netomics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "timeOmics",
     "maintainer": "Antoine Bodein <antoine.bodein.1@ulaval.ca>",
     "url": "https://github.com/abodein/timeomics",
-    "available": true
+    "available": true,
+    "registry": "bioc"
   }
 ]
