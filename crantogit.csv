@@ -2086,7 +2086,7 @@ envalysis,https://github.com/zsteinmetz/envalysis,,
 EnvCpt,https://github.com/rkillick/envcpt,,
 envDocument,https://github.com/dgjacks0n/envdocument,envDocument,
 EnvExpInd,https://github.com/spatial-r/envexpind,,
-envi,https://github.com/waller-susan/envi,,
+envi,https://github.com/lance-waller-lab/envi,,
 enviGCMS,https://github.com/yufree/envigcms,,
 enviPat,https://github.com/blosloos/envipat,,
 envir,https://github.com/t-kalinowski/envir,,
@@ -2581,6 +2581,7 @@ FSAdata,https://github.com/fishr-core-team/fsadata,,
 fsbrain,https://github.com/dfsp-spirit/fsbrain,,
 FSelector,https://github.com/larskotthoff/fselector,,
 FSelectorRcpp,https://github.com/mi2-warsaw/fselectorrcpp,,
+fslr,https://github.com/muschellij2/fslr,,
 fspe,https://github.com/jmbh/fspe,,
 fsr,https://github.com/accarniel/fsr,,
 fssemR,https://github.com/ivis4ml/fssemr,,
@@ -3102,7 +3103,7 @@ greed,https://github.com/comeetie/greed,,
 greenclust,https://github.com/jeffjetton/greenclust,,
 GREENeR,https://github.com/calfarog/greener,,
 gremlin,https://github.com/matthewwolak/gremlin,,
-GREMLINS,https://github.com/demiperimetre/gremlins,,
+GREMLINS,https://github.com/grosssbm/gremlins,,
 greport,https://github.com/harrelfe/greport,,
 greta,https://github.com/greta-dev/greta,,
 gretel,https://github.com/davidbuch/gretel,,
@@ -9372,6 +9373,7 @@ metagene2,https://github.com/arnauddroitlab/metagene2,,bioc
 metagenomeSeq,https://github.com/hcbravolab/metagenomeseq,,bioc
 metaMS,https://github.com/yguitton/metams,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
+MethCP,https://github.com/boyinggong/methcp,,bioc
 methInheritSim,https://github.com/belleau/methinheritsim,,bioc
 MethReg,https://github.com/transbioinfolab/methreg,,bioc
 methrix,https://github.com/compepigen/methrix,,bioc
@@ -9532,13 +9534,14 @@ preprocessCore,https://github.com/bmbolstad/preprocesscore,,bioc
 primirTSS,https://github.com/ipumin/primirtss,,bioc
 PrInCE,https://github.com/fosterlab/prince,,bioc
 proActiv,https://github.com/goekelab/proactiv,,bioc
+proBatch,https://github.com/symbioticme/probatch,,bioc
 procoil,https://github.com/ubod/procoil,,bioc
 proDA,https://github.com/const-ae/proda,,bioc
 progeny,https://github.com/saezlab/progeny,,bioc
 projectR,https://github.com/genesofeve/projectr,,bioc
 pRoloc,https://github.com/lgatto/proloc,,bioc
 pRolocGUI,https://github.com/lgatto/prolocgui,,bioc
-Prostar,https://github.com/samwieczorek/prostar,,bioc
+Prostar,https://github.com/prostarproteomics/prostar,,bioc
 proteasy,https://github.com/martinry/proteasy,,bioc
 ProteoDisco,https://github.com/erasmusmc-ccbc/proteodisco,,bioc
 protGear,https://github.com/keniajin/protgear,,bioc
@@ -9615,6 +9618,7 @@ RNAmodR.ML,https://github.com/felixernst/rnamodr.ml,,bioc
 RNAmodR.RiboMethSeq,https://github.com/felixernst/rnamodr.ribomethseq,,bioc
 RNAsense,https://github.com/marcusrosenblatt/rnasense,,bioc
 rnaseqcomp,https://github.com/tengmx/rnaseqcomp,,bioc
+RNASeqR,https://github.com/kuanhao-chao/rnaseqr,,bioc
 roar,https://github.com/vodkatad/roar,,bioc
 ROCpAI,https://github.com/juanpegarcia/rocpai,,bioc
 RolDE,https://github.com/elolab/rolde,,bioc
@@ -9645,6 +9649,7 @@ savR,https://github.com/bcalder/savr,,bioc
 SBGNview,https://github.com/datapplab/sbgnview,,bioc
 SC3,https://github.com/hemberg-lab/sc3,,bioc
 ScaledMatrix,https://github.com/ltla/scaledmatrix,,bioc
+scAlign,https://github.com/quon-titative-biology/scalign,,bioc
 scAnnotatR,https://github.com/grisslab/scannotatr,,bioc
 SCATE,https://github.com/winnie09/scate,,bioc
 scatterHatch,https://github.com/fertiglab/scatterhatch,,bioc
@@ -9841,14 +9846,10 @@ flowUtils,https://github.com/jspidlen/flowutils,,bioc
 synapter,https://github.com/lgatto/synapter,,bioc
 TVTB,https://github.com/kevinrue/tvtb,,bioc
 iteremoval,https://github.com/cihga39871/iteremoval,,bioc
-RNASeqR,https://github.com/kuanhao-chao/rnaseqr,,bioc
 TimeSeriesExperiment,https://github.com/nlhuong/timeseriesexperiment,,bioc
 GAPGOM,https://github.com/berghopper/gapgom,,bioc
-proBatch,https://github.com/symbioticme/probatch,,bioc
-scAlign,https://github.com/quon-titative-biology/scalign,,bioc
 XCIR,https://github.com/srenan/xcir,,bioc
 MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
-MethCP,https://github.com/boyinggong/methcp,,bioc
 timeOmics,https://github.com/abodein/timeomics,,bioc
 CytoTree,https://github.com/jhuanglab/cytotree,,bioc
 famat,https://github.com/emiliesecherre/famat,,bioc
