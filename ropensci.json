@@ -1134,6 +1134,12 @@
     "available": true
   },
   {
+    "package": "spiro",
+    "maintainer": "Simon Nolte <s.nolte@dshs-koeln.de>",
+    "url": "https://github.com/ropensci/spiro",
+    "available": true
+  },
+  {
     "package": "spocc",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/spocc",
