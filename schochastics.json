@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "netUtils",
+    "maintainer": "David Schoch <david@schochastics.net>",
+    "url": "https://github.com/schochastics/netutils",
+    "available": true
+  },
+  {
     "package": "signnet",
     "maintainer": "David Schoch <david@schochastics.net>",
     "url": "https://github.com/schochastics/signnet",
