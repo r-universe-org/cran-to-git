@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "easystats",
+    "maintainer": "Daniel Lüdecke <d.luedecke@uke.de>",
+    "url": "https://github.com/easystats/easystats",
+    "available": true
+  },
+  {
     "package": "effectsize",
     "maintainer": "Mattan S. Ben-Shachar <matanshm@post.bgu.ac.il>",
     "url": "https://github.com/easystats/effectsize",

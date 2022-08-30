@@ -1,5 +1,11 @@
 [
   {
+    "package": "autonewsmd",
+    "maintainer": "Lorenz A. Kapsner <lorenz.kapsner@gmail.com>",
+    "url": "https://github.com/kapsner/autonewsmd",
+    "available": true
+  },
+  {
     "package": "BiasCorrector",
     "maintainer": "Lorenz A. Kapsner <lorenz.kapsner@gmail.com>",
     "url": "https://github.com/kapsner/biascorrector",

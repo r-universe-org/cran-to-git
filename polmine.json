@@ -1,5 +1,11 @@
 [
   {
+    "package": "cwbtools",
+    "maintainer": "Andreas Blaette <andreas.blaette@uni-due.de>",
+    "url": "https://github.com/polmine/cwbtools",
+    "available": true
+  },
+  {
     "package": "polmineR",
     "maintainer": "Andreas Blaette <andreas.blaette@uni-due.de>",
     "url": "https://github.com/polmine/polminer",

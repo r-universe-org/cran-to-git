@@ -1,5 +1,11 @@
 [
   {
+    "package": "gMCPLite",
+    "maintainer": "Yalin Zhu <yalin.zhu@merck.com>",
+    "url": "https://github.com/merck/gmcplite",
+    "available": true
+  },
+  {
     "package": "pkglite",
     "maintainer": "Nan Xiao <nan.xiao1@merck.com>",
     "url": "https://github.com/merck/pkglite",
