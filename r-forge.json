@@ -1297,69 +1297,6 @@
     "available": true
   },
   {
-    "package": "TSdata",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSdata",
-    "available": true
-  },
-  {
-    "package": "TSdbi",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSdbi",
-    "available": true
-  },
-  {
-    "package": "TSmisc",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSmisc",
-    "available": true
-  },
-  {
-    "package": "TSMySQL",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSMySQL",
-    "available": true
-  },
-  {
-    "package": "TSodbc",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSodbc",
-    "available": true
-  },
-  {
-    "package": "TSPostgreSQL",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSPostgreSQL",
-    "available": true
-  },
-  {
-    "package": "TSsdmx",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSsdmx",
-    "available": true
-  },
-  {
-    "package": "TSsql",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSsql",
-    "available": true
-  },
-  {
-    "package": "TSSQLite",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsdbi",
-    "subdir": "pkg/TSSQLite",
-    "available": true
-  },
-  {
     "package": "Umpire",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
