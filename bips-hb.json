@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "micd",
+    "maintainer": "Ronja Foraita <foraita@leibniz-bips.de>",
+    "url": "https://github.com/bips-hb/micd",
+    "available": true
+  },
+  {
     "package": "neuralnet",
     "maintainer": "Marvin N. Wright <wright@leibniz-bips.de>",
     "url": "https://github.com/bips-hb/neuralnet",

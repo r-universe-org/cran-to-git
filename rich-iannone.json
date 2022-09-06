@@ -1,5 +1,11 @@
 [
   {
+    "package": "bigD",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rich-iannone/bigd",
+    "available": true
+  },
+  {
     "package": "DiagrammeR",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rich-iannone/diagrammer",

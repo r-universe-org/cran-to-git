@@ -936,6 +936,12 @@
     "available": true
   },
   {
+    "package": "restez",
+    "maintainer": "Joel Nitta <joelnitta@gmail.com>",
+    "url": "https://github.com/ropensci/restez",
+    "available": true
+  },
+  {
     "package": "rfishbase",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/rfishbase",
