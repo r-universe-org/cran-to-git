@@ -1,11 +1,5 @@
 [
   {
-    "package": "attachment",
-    "maintainer": "Sébastien Rochette <sebastien@thinkr.fr>",
-    "url": "https://github.com/thinkr-open/attachment",
-    "available": true
-  },
-  {
     "package": "dockerfiler",
     "maintainer": "Colin Fay <contact@colinfay.me>",
     "url": "https://github.com/thinkr-open/dockerfiler",
@@ -15,12 +9,6 @@
     "package": "fcuk",
     "maintainer": "Vincent Guyader <vincent@thinkr.fr>",
     "url": "https://github.com/thinkr-open/fcuk",
-    "available": true
-  },
-  {
-    "package": "fusen",
-    "maintainer": "Sebastien Rochette <sebastien@thinkr.fr>",
-    "url": "https://github.com/thinkr-open/fusen",
     "available": true
   },
   {
