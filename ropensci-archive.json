@@ -1,8 +1,98 @@
 [
   {
+    "package": "conditionz",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/conditionz",
+    "available": true
+  },
+  {
+    "package": "fauxpas",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/fauxpas",
+    "available": true
+  },
+  {
+    "package": "finch",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/finch",
+    "available": true
+  },
+  {
+    "package": "geojson",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/geojson",
+    "available": true
+  },
+  {
+    "package": "geojsonlint",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/geojsonlint",
+    "available": true
+  },
+  {
+    "package": "getlandsat",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/getlandsat",
+    "available": true
+  },
+  {
+    "package": "hoardr",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/hoardr",
+    "available": true
+  },
+  {
+    "package": "isdparser",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/isdparser",
+    "available": true
+  },
+  {
     "package": "jaod",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci-archive/jaod",
+    "available": true
+  },
+  {
+    "package": "mapr",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/mapr",
+    "available": true
+  },
+  {
+    "package": "microdemic",
+    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
+    "url": "https://github.com/ropensci-archive/microdemic",
+    "available": true
+  },
+  {
+    "package": "natserv",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/natserv",
+    "available": true
+  },
+  {
+    "package": "pubchunks",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropensci-archive/pubchunks",
+    "available": true
+  },
+  {
+    "package": "randgeo",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/randgeo",
+    "available": true
+  },
+  {
+    "package": "rbace",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rbace",
+    "available": true
+  },
+  {
+    "package": "rbhl",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rbhl",
     "available": true
   },
   {
@@ -12,9 +102,63 @@
     "available": true
   },
   {
+    "package": "rcitoid",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropensci-archive/rcitoid",
+    "available": true
+  },
+  {
+    "package": "rcoreoa",
+    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rcoreoa",
+    "available": true
+  },
+  {
     "package": "rfigshare",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci-archive/rfigshare",
+    "available": true
+  },
+  {
+    "package": "rorcid",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rorcid",
+    "available": true
+  },
+  {
+    "package": "rplos",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rplos",
+    "available": true
+  },
+  {
+    "package": "rvertnet",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rvertnet",
+    "available": true
+  },
+  {
+    "package": "sofa",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/sofa",
+    "available": true
+  },
+  {
+    "package": "solrium",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/solrium",
+    "available": true
+  },
+  {
+    "package": "traits",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/traits",
+    "available": true
+  },
+  {
+    "package": "zbank",
+    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "url": "https://github.com/ropensci-archive/zbank",
     "available": true
   }
 ]
