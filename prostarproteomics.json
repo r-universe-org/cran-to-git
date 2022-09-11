@@ -1,5 +1,12 @@
 [
   {
+    "package": "DAPAR",
+    "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
+    "url": "https://github.com/prostarproteomics/dapar",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "Prostar",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
     "url": "https://github.com/prostarproteomics/prostar",
