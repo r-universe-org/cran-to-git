@@ -16,5 +16,11 @@
     "maintainer": "Julia Silge <julia.silge@gmail.com>",
     "url": "https://github.com/juliasilge/tidytext",
     "available": true
+  },
+  {
+    "package": "widyr",
+    "maintainer": "David Robinson <admiral.david@gmail.com>",
+    "url": "https://github.com/juliasilge/widyr",
+    "available": true
   }
 ]

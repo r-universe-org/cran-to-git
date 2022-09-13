@@ -1170,6 +1170,12 @@
     "available": true
   },
   {
+    "package": "traits",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/traits",
+    "available": true
+  },
+  {
     "package": "treebase",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/treebase",

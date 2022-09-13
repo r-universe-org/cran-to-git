@@ -1,5 +1,11 @@
 [
   {
+    "package": "BoundEdgeworth",
+    "maintainer": "Alexis Derumigny <a.f.f.derumigny@tudelft.nl>",
+    "url": "https://github.com/alexisderumigny/boundedgeworth",
+    "available": true
+  },
+  {
     "package": "CondCopulas",
     "maintainer": "Alexis Derumigny <a.f.f.derumigny@tudelft.nl>",
     "url": "https://github.com/alexisderumigny/condcopulas",
