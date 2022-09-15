@@ -6,6 +6,12 @@
     "available": false
   },
   {
+    "package": "epimdr2",
+    "maintainer": "Ottar N. Bjornstad <onb1@psu.edu>",
+    "url": "https://github.com/objornstad/epimdr2",
+    "available": true
+  },
+  {
     "package": "ncf",
     "maintainer": "Ottar N. Bjornstad <onb1@psu.edu>",
     "url": "https://github.com/objornstad/ncf",
