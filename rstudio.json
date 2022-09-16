@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "bundle",
+    "maintainer": "Julia Silge <julia.silge@rstudio.com>",
+    "url": "https://github.com/rstudio/bundle",
+    "available": true
+  },
+  {
     "package": "chromote",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/rstudio/chromote",
