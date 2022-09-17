@@ -10,14 +10,14 @@
     "package": "PCAtools",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/pcatools",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "scDataviz",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/scdataviz",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

@@ -240,7 +240,7 @@
     "package": "RaggedExperiment",
     "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -248,7 +248,7 @@
     "package": "Rhtslib",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rhtslib",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -256,7 +256,7 @@
     "package": "Rsamtools",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rsamtools",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -264,7 +264,7 @@
     "package": "S4Vectors",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/s4vectors",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -280,7 +280,7 @@
     "package": "SQLDataFrame",
     "maintainer": "Qian Liu <qian.liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/sqldataframe",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -310,7 +310,7 @@
     "package": "VariantExperiment",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/variantexperiment",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -318,7 +318,7 @@
     "package": "XVector",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/xvector",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -326,7 +326,7 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

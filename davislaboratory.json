@@ -17,7 +17,7 @@
     "package": "singscore",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/singscore",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -31,7 +31,7 @@
     "package": "vissE",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/visse",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

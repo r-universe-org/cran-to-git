@@ -31,7 +31,7 @@
     "package": "spqn",
     "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
     "url": "https://github.com/hansenlab/spqn",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -45,7 +45,7 @@
     "package": "yamss",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/yamss",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

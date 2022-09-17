@@ -3,7 +3,7 @@
     "package": "NxtIRFcore",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/nxtirfcore",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -17,7 +17,7 @@
     "package": "SpliceWiz",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/splicewiz",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

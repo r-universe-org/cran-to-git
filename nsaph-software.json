@@ -1,5 +1,11 @@
 [
   {
+    "package": "CausalGPS",
+    "maintainer": "Naeem Khoshnevis <nkhoshnevis@g.harvard.edu>",
+    "url": "https://github.com/nsaph-software/causalgps",
+    "available": true
+  },
+  {
     "package": "GPCERF",
     "maintainer": "Naeem Khoshnevis <nkhoshnevis@g.harvard.edu>",
     "url": "https://github.com/nsaph-software/gpcerf",

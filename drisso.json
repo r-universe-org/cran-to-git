@@ -24,14 +24,14 @@
     "package": "RUVSeq",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/ruvseq",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "zinbwave",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/zinbwave",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

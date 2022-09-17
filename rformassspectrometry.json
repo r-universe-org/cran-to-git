@@ -59,28 +59,28 @@
     "package": "ProtGenerics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/protgenerics",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "PSMatch",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/rformassspectrometry/psmatch",
-    "available": true,
+    "url": "https://github.com/rformassspectrometry/psm",
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "QFeatures",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/qfeatures",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "Spectra",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/spectra",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

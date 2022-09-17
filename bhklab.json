@@ -16,21 +16,21 @@
     "package": "PDATK",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/pdatk",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "PharmacoGx",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/pharmacogx",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "Xeva",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/xeva",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

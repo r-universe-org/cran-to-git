@@ -17,14 +17,14 @@
     "package": "Rdisop",
     "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
     "url": "https://github.com/sneumann/rdisop",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "xcms",
     "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
     "url": "https://github.com/sneumann/xcms",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

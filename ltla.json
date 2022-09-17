@@ -31,7 +31,7 @@
     "package": "ResidualMatrix",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/residualmatrix",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -45,7 +45,7 @@
     "package": "SingleR",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/singler",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

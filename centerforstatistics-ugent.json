@@ -22,7 +22,7 @@
     "package": "RCM",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/rcm",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -36,7 +36,7 @@
     "package": "SPsimSeq",
     "maintainer": "Joris Meys <Joris.Meys@ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/spsimseq",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

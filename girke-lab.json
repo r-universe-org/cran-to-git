@@ -47,12 +47,5 @@
     "url": "https://github.com/girke-lab/fmcsr",
     "available": true,
     "registry": "bioc"
-  },
-  {
-    "package": "signatureSearch",
-    "maintainer": "Brendan Gongol <bgong001@ucr.edu>",
-    "url": "https://github.com/girke-lab/signaturesearch",
-    "available": true,
-    "registry": "bioc"
   }
 ]

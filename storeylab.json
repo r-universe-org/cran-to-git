@@ -40,13 +40,6 @@
     "registry": "bioc"
   },
   {
-    "package": "qvalue",
-    "maintainer": "John D. Storey <jstorey@princeton.edu>",
-    "url": "https://github.com/storeylab/qvalue",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "subSeq",
     "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
     "url": "https://github.com/storeylab/subseq",

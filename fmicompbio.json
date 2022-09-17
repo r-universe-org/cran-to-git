@@ -17,14 +17,14 @@
     "package": "Rbowtie",
     "maintainer": "Michael Stadler <michael.stadler@fmi.ch>",
     "url": "https://github.com/fmicompbio/rbowtie",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "Rhisat2",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/fmicompbio/rhisat2",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]
