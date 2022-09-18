@@ -3,14 +3,14 @@
     "package": "variancePartition",
     "maintainer": "Gabriel E. Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/variancepartition",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "zenith",
     "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/zenith",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

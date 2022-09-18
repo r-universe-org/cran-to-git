@@ -17,14 +17,14 @@
     "package": "scMerge",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scmerge",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "scReClassify",
     "maintainer": "Taiyun Kim <taiyun.kim91@gmail.com>",
     "url": "https://github.com/sydneybiox/screclassify",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

@@ -10,35 +10,35 @@
     "package": "Modstrings",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/modstrings",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.AlkAnilineSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.alkanilineseq",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.ML",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ml",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.RiboMethSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ribomethseq",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

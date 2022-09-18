@@ -10,14 +10,14 @@
     "package": "multiHiCcompare",
     "maintainer": "John Stansfield <stansfieldjc@vcu.edu>",
     "url": "https://github.com/dozmorovlab/multihiccompare",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "preciseTAD",
     "maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "url": "https://github.com/dozmorovlab/precisetad",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -31,7 +31,7 @@
     "package": "TADCompare",
     "maintainer": "Kellen Cresswell <cresswellkg@vcu.edu>",
     "url": "https://github.com/dozmorovlab/tadcompare",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

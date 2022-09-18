@@ -3,7 +3,7 @@
     "package": "methylGSA",
     "maintainer": "Xu Ren <xuren2120@gmail.com>",
     "url": "https://github.com/reese3928/methylgsa",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -17,7 +17,7 @@
     "package": "RNAAgeCalc",
     "maintainer": "Xu Ren <xuren2120@gmail.com>",
     "url": "https://github.com/reese3928/rnaagecalc",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

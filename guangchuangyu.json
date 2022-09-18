@@ -59,5 +59,19 @@
     "url": "https://github.com/guangchuangyu/enrichplot",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "meshes",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/meshes",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
+    "package": "seqcombo",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/seqcombo",
+    "available": false,
+    "registry": "bioc"
   }
 ]

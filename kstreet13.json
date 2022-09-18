@@ -9,7 +9,7 @@
     "package": "scry",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/scry",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -23,7 +23,7 @@
     "package": "VDJdive",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/vdjdive",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

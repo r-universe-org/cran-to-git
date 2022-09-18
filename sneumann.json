@@ -10,21 +10,21 @@
     "package": "mzR",
     "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
     "url": "https://github.com/sneumann/mzr",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "Rdisop",
     "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
     "url": "https://github.com/sneumann/rdisop",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "xcms",
     "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
     "url": "https://github.com/sneumann/xcms",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

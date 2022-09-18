@@ -17,7 +17,7 @@
     "package": "mbkmeans",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/mbkmeans",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -31,7 +31,7 @@
     "package": "zinbwave",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/zinbwave",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

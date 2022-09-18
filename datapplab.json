@@ -10,14 +10,14 @@
     "package": "pathview",
     "maintainer": "Weijun Luo <luo_weijun@yahoo.com>",
     "url": "https://github.com/datapplab/pathview",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SBGNview",
     "maintainer": "Weijun Luo <luo_weijun@yahoo.com>",
     "url": "https://github.com/datapplab/sbgnview",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

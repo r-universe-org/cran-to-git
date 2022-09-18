@@ -3,13 +3,13 @@
     "package": "filehash",
     "maintainer": "Roger D. Peng <rdpeng@jhu.edu>",
     "url": "https://github.com/rdpeng/filehash",
-    "available": true
+    "available": false
   },
   {
     "package": "filehashSQLite",
     "maintainer": "Roger D. Peng <rpeng@jhsph.edu>",
     "url": "https://github.com/rdpeng/filehashsqlite",
-    "available": true
+    "available": false
   },
   {
     "package": "gpclib",

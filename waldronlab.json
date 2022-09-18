@@ -57,21 +57,21 @@
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "TCGAutils",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tcgautils",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "terraTCGAdata",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/terratcgadata",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

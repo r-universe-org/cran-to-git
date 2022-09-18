@@ -3,14 +3,14 @@
     "package": "SC3",
     "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/sc3",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scmap",
     "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/scmap",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

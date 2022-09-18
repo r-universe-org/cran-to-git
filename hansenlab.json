@@ -17,21 +17,21 @@
     "package": "minfi",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/hansenlab/minfi",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "mpra",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/mpra",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "spqn",
     "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
     "url": "https://github.com/hansenlab/spqn",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -45,7 +45,7 @@
     "package": "yamss",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/yamss",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

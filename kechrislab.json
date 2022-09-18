@@ -22,14 +22,14 @@
     "package": "MSPrep",
     "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
     "url": "https://github.com/kechrislab/msprep",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "multiMiR",
     "maintainer": "Matt Mulvahill <matt.mulvahill@gmail.com>",
     "url": "https://github.com/kechrislab/multimir",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

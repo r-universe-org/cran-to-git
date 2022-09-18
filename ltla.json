@@ -45,14 +45,14 @@
     "package": "SingleR",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/singler",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TileDBArray",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/tiledbarray",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

@@ -10,14 +10,14 @@
     "package": "scDblFinder",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/scdblfinder",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sechm",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/sechm",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

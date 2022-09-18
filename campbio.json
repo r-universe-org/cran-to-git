@@ -10,14 +10,14 @@
     "package": "musicatk",
     "maintainer": "Aaron Chevalier <atgc@bu.edu>",
     "url": "https://github.com/campbio/musicatk",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "scruff",
     "maintainer": "Zhe Wang <zhe@bu.edu>",
     "url": "https://github.com/campbio/scruff",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]
