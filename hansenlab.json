@@ -17,7 +17,7 @@
     "package": "minfi",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/hansenlab/minfi",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -31,7 +31,7 @@
     "package": "spqn",
     "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
     "url": "https://github.com/hansenlab/spqn",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

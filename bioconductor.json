@@ -216,7 +216,7 @@
     "package": "HubPub",
     "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
     "url": "https://github.com/bioconductor/hubpub",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -224,7 +224,7 @@
     "package": "IRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/iranges",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -240,7 +240,7 @@
     "package": "RaggedExperiment",
     "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -256,7 +256,7 @@
     "package": "Rsamtools",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rsamtools",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -264,7 +264,7 @@
     "package": "S4Vectors",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/s4vectors",
-    "available": true,
+    "available": false,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -280,7 +280,7 @@
     "package": "SQLDataFrame",
     "maintainer": "Qian Liu <qian.liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/sqldataframe",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

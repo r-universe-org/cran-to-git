@@ -3,14 +3,14 @@
     "package": "lisaClust",
     "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
     "url": "https://github.com/ellispatrick/lisaclust",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "spicyR",
     "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
     "url": "https://github.com/ellispatrick/spicyr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

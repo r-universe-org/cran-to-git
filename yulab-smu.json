@@ -15,7 +15,7 @@
     "package": "MMINP",
     "maintainer": "Wenli Tang <1071429394@qq.com>",
     "url": "https://github.com/yulab-smu/mminp",
-    "available": true
+    "available": false
   },
   {
     "package": "nCov2019",
@@ -114,13 +114,6 @@
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/microbiotaprocess",
     "available": false,
-    "registry": "bioc"
-  },
-  {
-    "package": "ReactomePA",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/reactomepa",
-    "available": true,
     "registry": "bioc"
   },
   {

@@ -9,7 +9,7 @@
     "package": "dlstats",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/dlstats",
-    "available": true
+    "available": false
   },
   {
     "package": "emojifont",
@@ -64,6 +64,13 @@
     "package": "meshes",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/meshes",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
+    "package": "ReactomePA",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/guangchuangyu/reactomepa",
     "available": false,
     "registry": "bioc"
   },

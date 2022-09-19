@@ -15,13 +15,13 @@
     "package": "dplyr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/tidyverse/dplyr",
-    "available": true
+    "available": false
   },
   {
     "package": "dtplyr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/tidyverse/dtplyr",
-    "available": true
+    "available": false
   },
   {
     "package": "forcats",
@@ -57,7 +57,7 @@
     "package": "haven",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/tidyverse/haven",
-    "available": true
+    "available": false
   },
   {
     "package": "hms",
@@ -69,7 +69,7 @@
     "package": "lubridate",
     "maintainer": "Vitalie Spinu <spinuvit@gmail.com>",
     "url": "https://github.com/tidyverse/lubridate",
-    "available": true
+    "available": false
   },
   {
     "package": "magrittr",

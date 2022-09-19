@@ -3,13 +3,13 @@
     "package": "dipsaus",
     "maintainer": "Zhengjia Wang <dipterix.wang@gmail.com>",
     "url": "https://github.com/dipterix/dipsaus",
-    "available": true
+    "available": false
   },
   {
     "package": "filearray",
     "maintainer": "Zhengjia Wang <dipterix.wang@gmail.com>",
     "url": "https://github.com/dipterix/filearray",
-    "available": false
+    "available": true
   },
   {
     "package": "lazyarray",

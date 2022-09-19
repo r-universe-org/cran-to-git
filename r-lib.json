@@ -135,13 +135,13 @@
     "package": "debugme",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/debugme",
-    "available": true
+    "available": false
   },
   {
     "package": "decor",
     "maintainer": "Romain François <romain@rstudio.com>",
     "url": "https://github.com/r-lib/decor",
-    "available": true
+    "available": false
   },
   {
     "package": "desc",
@@ -153,25 +153,25 @@
     "package": "devoid",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
     "url": "https://github.com/r-lib/devoid",
-    "available": true
+    "available": false
   },
   {
     "package": "devtools",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/devtools",
-    "available": true
+    "available": false
   },
   {
     "package": "diffviewer",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/diffviewer",
-    "available": true
+    "available": false
   },
   {
     "package": "downlit",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/downlit",
-    "available": true
+    "available": false
   },
   {
     "package": "ellipsis",
@@ -195,7 +195,7 @@
     "package": "filelock",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/filelock",
-    "available": false
+    "available": true
   },
   {
     "package": "fs",
@@ -291,19 +291,19 @@
     "package": "lintr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/r-lib/lintr",
-    "available": true
+    "available": false
   },
   {
     "package": "liteq",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/liteq",
-    "available": true
+    "available": false
   },
   {
     "package": "lobstr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/lobstr",
-    "available": true
+    "available": false
   },
   {
     "package": "meltr",
@@ -315,7 +315,7 @@
     "package": "memoise",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/r-lib/memoise",
-    "available": true
+    "available": false
   },
   {
     "package": "mockery",

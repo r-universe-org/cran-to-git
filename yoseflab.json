@@ -3,7 +3,7 @@
     "package": "LineagePulse",
     "maintainer": "David S Fischer <david.fischer@helmholtz-muenchen.de>",
     "url": "https://github.com/yoseflab/lineagepulse",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -17,7 +17,7 @@
     "package": "scone",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/yoseflab/scone",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

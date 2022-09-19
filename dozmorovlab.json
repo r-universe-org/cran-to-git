@@ -10,7 +10,7 @@
     "package": "multiHiCcompare",
     "maintainer": "John Stansfield <stansfieldjc@vcu.edu>",
     "url": "https://github.com/dozmorovlab/multihiccompare",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -24,7 +24,7 @@
     "package": "SpectralTAD",
     "maintainer": "Kellen Cresswell <cresswellkg@vcu.edu>",
     "url": "https://github.com/dozmorovlab/spectraltad",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

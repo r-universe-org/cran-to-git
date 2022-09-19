@@ -24,7 +24,7 @@
     "package": "mistyR",
     "maintainer": "Jovan Tanevski <jovan.tanevski@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/mistyr",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -38,7 +38,7 @@
     "package": "progeny",
     "maintainer": "Aurélien Dugourd <aurelien.dugourd@bioquant.uni-heidelberg.de>",
     "url": "https://github.com/saezlab/progeny",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

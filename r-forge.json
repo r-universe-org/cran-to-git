@@ -10,8 +10,7 @@
     "package": "anacor",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
-    "subdir": "pkg/anacor",
-    "available": true
+    "available": false
   },
   {
     "package": "arrayhelpers",
@@ -1369,8 +1368,7 @@
     "package": "supraHex",
     "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
     "url": "https://github.com/r-forge/suprahex",
-    "subdir": "pkg",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

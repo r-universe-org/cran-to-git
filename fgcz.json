@@ -10,14 +10,14 @@
     "package": "rawrr",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/rawrr",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "specL",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/specl",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

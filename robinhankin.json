@@ -33,7 +33,7 @@
     "package": "disordR",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/disordr",
-    "available": true
+    "available": false
   },
   {
     "package": "elliptic",
@@ -81,7 +81,7 @@
     "package": "lorentz",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/lorentz",
-    "available": true
+    "available": false
   },
   {
     "package": "magic",
@@ -93,13 +93,13 @@
     "package": "MM",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/mm",
-    "available": true
+    "available": false
   },
   {
     "package": "multivator",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/multivator",
-    "available": true
+    "available": false
   },
   {
     "package": "mvp",

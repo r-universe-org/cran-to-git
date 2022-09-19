@@ -33,7 +33,7 @@
     "package": "drifter",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/modeloriented/drifter",
-    "available": true
+    "available": false
   },
   {
     "package": "EIX",
@@ -57,19 +57,19 @@
     "package": "ingredients",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/modeloriented/ingredients",
-    "available": true
+    "available": false
   },
   {
     "package": "live",
     "maintainer": "Mateusz Staniak <mateusz.staniak@math.uni.wroc.pl>",
     "url": "https://github.com/modeloriented/live",
-    "available": true
+    "available": false
   },
   {
     "package": "localModel",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/modeloriented/localmodel",
-    "available": true
+    "available": false
   },
   {
     "package": "modelDown",

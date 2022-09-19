@@ -43,14 +43,14 @@
     "package": "GSEABenchmarkeR",
     "maintainer": "Ludwig Geistlinger <Ludwig_Geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/gseabenchmarker",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "lefser",
     "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
     "url": "https://github.com/waldronlab/lefser",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

@@ -15,7 +15,7 @@
     "package": "MAI",
     "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
     "url": "https://github.com/kechrislab/mai",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -29,7 +29,7 @@
     "package": "multiMiR",
     "maintainer": "Matt Mulvahill <matt.mulvahill@gmail.com>",
     "url": "https://github.com/kechrislab/multimir",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

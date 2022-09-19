@@ -45,7 +45,7 @@
     "package": "SingleR",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/singler",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -59,7 +59,7 @@
     "package": "TrajectoryUtils",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/trajectoryutils",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

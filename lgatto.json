@@ -20,17 +20,10 @@
     "registry": "bioc"
   },
   {
-    "package": "pRolocGUI",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/lgatto/prolocgui",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "qcmetrics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/qcmetrics",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -44,7 +37,7 @@
     "package": "rpx",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rpx",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

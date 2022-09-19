@@ -9,13 +9,13 @@
     "package": "DockerParallel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/dockerparallel",
-    "available": true
+    "available": false
   },
   {
     "package": "ManagedCloudProvider",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/managedcloudprovider",
-    "available": true
+    "available": false
   },
   {
     "package": "gpuMagic",

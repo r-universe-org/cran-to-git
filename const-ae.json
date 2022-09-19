@@ -15,7 +15,7 @@
     "package": "mixdir",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/mixdir",
-    "available": true
+    "available": false
   },
   {
     "package": "tidygenomics",
@@ -34,21 +34,21 @@
     "package": "proDA",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/proda",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sparseMatrixStats",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/sparsematrixstats",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "transformGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/transformgampoi",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   }
 ]

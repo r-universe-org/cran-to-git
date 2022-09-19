@@ -21,7 +21,7 @@
     "package": "donut",
     "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
     "url": "https://github.com/paulnorthrop/donut",
-    "available": true
+    "available": false
   },
   {
     "package": "exdex",
@@ -45,13 +45,13 @@
     "package": "lite",
     "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
     "url": "https://github.com/paulnorthrop/lite",
-    "available": true
+    "available": false
   },
   {
     "package": "revdbayes",
     "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
     "url": "https://github.com/paulnorthrop/revdbayes",
-    "available": false
+    "available": true
   },
   {
     "package": "rust",

@@ -66,21 +66,21 @@
     "package": "gtrellis",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/gtrellis",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "HilbertCurve",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/hilbertcurve",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "InteractiveComplexHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/interactivecomplexheatmap",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

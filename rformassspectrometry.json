@@ -10,21 +10,21 @@
     "package": "MetaboAnnotation",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metaboannotation",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "MetaboCoreUtils",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metabocoreutils",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
     "package": "MsBackendMassbank",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/msbackendmassbank",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -65,15 +65,15 @@
   {
     "package": "PSMatch",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/rformassspectrometry/psm",
-    "available": false,
+    "url": "https://github.com/rformassspectrometry/psmatch",
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "QFeatures",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/qfeatures",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {

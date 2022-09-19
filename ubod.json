@@ -15,7 +15,7 @@
     "package": "kebabs",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/kebabs",
-    "available": true,
+    "available": false,
     "registry": "bioc"
   },
   {
@@ -29,7 +29,7 @@
     "package": "procoil",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/procoil",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

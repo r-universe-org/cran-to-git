@@ -9,7 +9,7 @@
     "package": "gstat",
     "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
     "url": "https://github.com/r-spatial/gstat",
-    "available": true
+    "available": false
   },
   {
     "package": "leafem",
@@ -39,25 +39,25 @@
     "package": "link2GI",
     "maintainer": "Chris Reudenbach <reudenbach@uni-marburg.de>",
     "url": "https://github.com/r-spatial/link2gi",
-    "available": true
+    "available": false
   },
   {
     "package": "lwgeom",
     "maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
     "url": "https://github.com/r-spatial/lwgeom",
-    "available": true
+    "available": false
   },
   {
     "package": "mapedit",
     "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
     "url": "https://github.com/r-spatial/mapedit",
-    "available": true
+    "available": false
   },
   {
     "package": "mapview",
     "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
     "url": "https://github.com/r-spatial/mapview",
-    "available": true
+    "available": false
   },
   {
     "package": "plainview",
