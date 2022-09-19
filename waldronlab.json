@@ -43,35 +43,35 @@
     "package": "GSEABenchmarkeR",
     "maintainer": "Ludwig Geistlinger <Ludwig_Geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/gseabenchmarker",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "lefser",
     "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
     "url": "https://github.com/waldronlab/lefser",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TCGAutils",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tcgautils",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "terraTCGAdata",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/terratcgadata",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

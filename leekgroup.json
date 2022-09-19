@@ -17,21 +17,21 @@
     "package": "recount",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/recount",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "regionReport",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/regionreport",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "swfdr",
     "maintainer": "Simina M. Boca <smb310@georgetown.edu>",
     "url": "https://github.com/leekgroup/swfdr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

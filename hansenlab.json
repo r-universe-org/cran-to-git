@@ -24,14 +24,14 @@
     "package": "mpra",
     "maintainer": "Leslie Myint <leslie.myint@gmail.com>",
     "url": "https://github.com/hansenlab/mpra",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "spqn",
     "maintainer": "Yi Wang <yiwangthu5@gmail.com>",
     "url": "https://github.com/hansenlab/spqn",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

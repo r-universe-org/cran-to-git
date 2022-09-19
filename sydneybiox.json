@@ -10,14 +10,14 @@
     "package": "scClassify",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scclassify",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scMerge",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scmerge",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

@@ -10,21 +10,21 @@
     "package": "rhdf5",
     "maintainer": "Mike Smith <mike.smith@embl.de>",
     "url": "https://github.com/grimbough/rhdf5",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rhdf5filters",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
     "url": "https://github.com/grimbough/rhdf5filters",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "Rhdf5lib",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
     "url": "https://github.com/grimbough/rhdf5lib",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

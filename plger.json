@@ -3,28 +3,28 @@
     "package": "pipeComp",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/pipecomp",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scDblFinder",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/scdblfinder",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sechm",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/sechm",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SEtools",
     "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
     "url": "https://github.com/plger/setools",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

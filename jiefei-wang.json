@@ -9,13 +9,13 @@
     "package": "DockerParallel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/dockerparallel",
-    "available": false
+    "available": true
   },
   {
     "package": "ManagedCloudProvider",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/managedcloudprovider",
-    "available": false
+    "available": true
   },
   {
     "package": "gpuMagic",
@@ -28,7 +28,7 @@
     "package": "SharedObject",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/sharedobject",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

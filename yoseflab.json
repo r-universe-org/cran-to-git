@@ -3,14 +3,14 @@
     "package": "LineagePulse",
     "maintainer": "David S Fischer <david.fischer@helmholtz-muenchen.de>",
     "url": "https://github.com/yoseflab/lineagepulse",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MPRAnalyze",
     "maintainer": "Tal Ashuach <tal_ashuach@berkeley.edu>",
     "url": "https://github.com/yoseflab/mpranalyze",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

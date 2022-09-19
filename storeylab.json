@@ -36,7 +36,7 @@
     "package": "lfa",
     "maintainer": "Wei Hao <whao@princeton.edu>",
     "url": "https://github.com/storeylab/lfa",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -50,7 +50,7 @@
     "package": "subSeq",
     "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
     "url": "https://github.com/storeylab/subseq",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

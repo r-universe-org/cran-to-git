@@ -17,14 +17,14 @@
     "package": "mbkmeans",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/mbkmeans",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RUVSeq",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/ruvseq",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

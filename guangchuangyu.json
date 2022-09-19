@@ -9,7 +9,7 @@
     "package": "dlstats",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/dlstats",
-    "available": false
+    "available": true
   },
   {
     "package": "emojifont",
@@ -58,27 +58,6 @@
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/enrichplot",
     "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "meshes",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/guangchuangyu/meshes",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
-    "package": "ReactomePA",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/guangchuangyu/reactomepa",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
-    "package": "seqcombo",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/guangchuangyu/seqcombo",
-    "available": false,
     "registry": "bioc"
   }
 ]

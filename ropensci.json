@@ -255,13 +255,13 @@
     "package": "dittodb",
     "maintainer": "Jonathan Keane <jkeane@gmail.com>",
     "url": "https://github.com/ropensci/dittodb",
-    "available": false
+    "available": true
   },
   {
     "package": "drake",
     "maintainer": "William Michael Landau <will.landau@gmail.com>",
     "url": "https://github.com/ropensci/drake",
-    "available": false
+    "available": true
   },
   {
     "package": "EDIutils",
@@ -399,7 +399,7 @@
     "package": "grainchanger",
     "maintainer": "Laura Graham <LauraJaneEGraham@gmail.com>",
     "url": "https://github.com/ropensci/grainchanger",
-    "available": false
+    "available": true
   },
   {
     "package": "graphql",
@@ -411,7 +411,7 @@
     "package": "GSODR",
     "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
     "url": "https://github.com/ropensci/gsodr",
-    "available": false
+    "available": true
   },
   {
     "package": "gutenbergr",
@@ -423,7 +423,7 @@
     "package": "handlr",
     "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
     "url": "https://github.com/ropensci/handlr",
-    "available": false
+    "available": true
   },
   {
     "package": "helminthR",
@@ -513,7 +513,7 @@
     "package": "lingtypology",
     "maintainer": "George Moroz <agricolamz@gmail.com>",
     "url": "https://github.com/ropensci/lingtypology",
-    "available": false
+    "available": true
   },
   {
     "package": "magick",
@@ -522,34 +522,28 @@
     "available": true
   },
   {
-    "package": "mapr",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/mapr",
-    "available": false
-  },
-  {
     "package": "mapscanner",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/mapscanner",
-    "available": false
+    "available": true
   },
   {
     "package": "mauricer",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/ropensci/mauricer",
-    "available": false
+    "available": true
   },
   {
     "package": "mcbette",
     "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
     "url": "https://github.com/ropensci/mcbette",
-    "available": false
+    "available": true
   },
   {
     "package": "mctq",
     "maintainer": "Daniel Vartanian <danvartan@gmail.com>",
     "url": "https://github.com/ropensci/mctq",
-    "available": false
+    "available": true
   },
   {
     "package": "medrxivr",

@@ -39,12 +39,12 @@
     "package": "logger",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
     "url": "https://github.com/daroczig/logger",
-    "available": false
+    "available": true
   },
   {
     "package": "migration.indices",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
     "url": "https://github.com/daroczig/migration.indices",
-    "available": false
+    "available": true
   }
 ]

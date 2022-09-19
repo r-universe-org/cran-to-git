@@ -10,14 +10,14 @@
     "package": "MetaboAnnotation",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metaboannotation",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MetaboCoreUtils",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metabocoreutils",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -31,35 +31,35 @@
     "package": "MsBackendMgf",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/msbackendmgf",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MsBackendMsp",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/msbackendmsp",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MsFeatures",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/msfeatures",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ProtGenerics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/protgenerics",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -73,14 +73,14 @@
     "package": "QFeatures",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/qfeatures",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "Spectra",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/spectra",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

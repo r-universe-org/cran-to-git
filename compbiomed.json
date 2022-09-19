@@ -17,14 +17,14 @@
     "package": "singleCellTK",
     "maintainer": "Yichen Wang <wangych@bu.edu>",
     "url": "https://github.com/compbiomed/singlecelltk",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TBSignatureProfiler",
     "maintainer": "Aubrey Odom-Mabey <aodom@bu.edu>",
     "url": "https://github.com/compbiomed/tbsignatureprofiler",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

@@ -9,13 +9,13 @@
     "package": "DiagrammeR",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rich-iannone/diagrammer",
-    "available": false
+    "available": true
   },
   {
     "package": "DiagrammeRsvg",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rich-iannone/diagrammersvg",
-    "available": false
+    "available": true
   },
   {
     "package": "i18n",
@@ -27,7 +27,7 @@
     "package": "messaging",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rich-iannone/messaging",
-    "available": false
+    "available": true
   },
   {
     "package": "omsvg",

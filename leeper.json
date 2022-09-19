@@ -21,7 +21,7 @@
     "package": "margins",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
     "url": "https://github.com/leeper/margins",
-    "available": false
+    "available": true
   },
   {
     "package": "prediction",
@@ -33,12 +33,6 @@
     "package": "rio",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
     "url": "https://github.com/leeper/rio",
-    "available": true
-  },
-  {
-    "package": "UNF",
-    "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
-    "url": "https://github.com/leeper/unf",
     "available": true
   },
   {

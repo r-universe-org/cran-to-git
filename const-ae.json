@@ -15,7 +15,7 @@
     "package": "mixdir",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/mixdir",
-    "available": false
+    "available": true
   },
   {
     "package": "tidygenomics",
@@ -48,7 +48,7 @@
     "package": "transformGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/transformgampoi",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

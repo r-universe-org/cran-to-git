@@ -135,13 +135,13 @@
     "package": "debugme",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/debugme",
-    "available": false
+    "available": true
   },
   {
     "package": "decor",
     "maintainer": "Romain François <romain@rstudio.com>",
     "url": "https://github.com/r-lib/decor",
-    "available": false
+    "available": true
   },
   {
     "package": "desc",
@@ -153,25 +153,25 @@
     "package": "devoid",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
     "url": "https://github.com/r-lib/devoid",
-    "available": false
+    "available": true
   },
   {
     "package": "devtools",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
     "url": "https://github.com/r-lib/devtools",
-    "available": false
+    "available": true
   },
   {
     "package": "diffviewer",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/diffviewer",
-    "available": false
+    "available": true
   },
   {
     "package": "downlit",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/downlit",
-    "available": false
+    "available": true
   },
   {
     "package": "ellipsis",
@@ -291,19 +291,19 @@
     "package": "lintr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
     "url": "https://github.com/r-lib/lintr",
-    "available": false
+    "available": true
   },
   {
     "package": "liteq",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/liteq",
-    "available": false
+    "available": true
   },
   {
     "package": "lobstr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/lobstr",
-    "available": false
+    "available": true
   },
   {
     "package": "meltr",
@@ -315,7 +315,7 @@
     "package": "memoise",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/r-lib/memoise",
-    "available": false
+    "available": true
   },
   {
     "package": "mockery",

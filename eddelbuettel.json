@@ -33,19 +33,19 @@
     "package": "digest",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/digest",
-    "available": false
+    "available": true
   },
   {
     "package": "drat",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/drat",
-    "available": false
+    "available": true
   },
   {
     "package": "dtts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/dtts",
-    "available": false
+    "available": true
   },
   {
     "package": "gaussfacts",
@@ -69,13 +69,13 @@
     "package": "linl",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/linl",
-    "available": false
+    "available": true
   },
   {
     "package": "littler",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/littler",
-    "available": false
+    "available": true
   },
   {
     "package": "nanotime",

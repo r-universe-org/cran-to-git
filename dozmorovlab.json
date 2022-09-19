@@ -17,7 +17,7 @@
     "package": "preciseTAD",
     "maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "url": "https://github.com/dozmorovlab/precisetad",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -31,7 +31,7 @@
     "package": "TADCompare",
     "maintainer": "Kellen Cresswell <cresswellkg@vcu.edu>",
     "url": "https://github.com/dozmorovlab/tadcompare",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

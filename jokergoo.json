@@ -66,35 +66,35 @@
     "package": "gtrellis",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/gtrellis",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "HilbertCurve",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/hilbertcurve",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "InteractiveComplexHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/interactivecomplexheatmap",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rGREAT",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/rgreat",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "simplifyEnrichment",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/simplifyenrichment",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

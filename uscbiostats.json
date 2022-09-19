@@ -27,7 +27,13 @@
     "package": "LUCIDus",
     "maintainer": "Yinqi Zhao <yinqiz@usc.edu>",
     "url": "https://github.com/uscbiostats/lucidus",
-    "available": false
+    "available": true
+  },
+  {
+    "package": "methcon5",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/uscbiostats/methcon5",
+    "available": true
   },
   {
     "package": "partition",
@@ -51,7 +57,7 @@
     "package": "HiLDA",
     "maintainer": "Zhi Yang <zyang895@gmail.com>",
     "url": "https://github.com/uscbiostats/hilda",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

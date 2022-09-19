@@ -27,7 +27,7 @@
     "package": "directlabels",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/directlabels",
-    "available": false
+    "available": true
   },
   {
     "package": "inlinedocs",
@@ -39,7 +39,7 @@
     "package": "LOPART",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/lopart",
-    "available": false
+    "available": true
   },
   {
     "package": "namedCapture",

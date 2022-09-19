@@ -3,14 +3,14 @@
     "package": "miRSM",
     "maintainer": "Junpeng Zhang <zhangjunpeng411@gmail.com>",
     "url": "https://github.com/zhangjunpeng411/mirsm",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "miRspongeR",
     "maintainer": "Junpeng Zhang <zhangjunpeng411@gmail.com>",
     "url": "https://github.com/zhangjunpeng411/mirsponger",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

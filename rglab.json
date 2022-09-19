@@ -31,21 +31,21 @@
     "package": "ImmuneSpaceR",
     "maintainer": "ImmuneSpace Package Maintainer <immunespace@gmail.com>",
     "url": "https://github.com/rglab/immunespacer",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MAST",
     "maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
     "url": "https://github.com/rglab/mast",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pepStat",
     "maintainer": "Gregory C Imholte <gimholte@uw.edu>",
     "url": "https://github.com/rglab/pepstat",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

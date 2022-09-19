@@ -10,42 +10,42 @@
     "package": "Modstrings",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/modstrings",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.AlkAnilineSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.alkanilineseq",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.ML",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ml",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RNAmodR.RiboMethSeq",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/rnamodr.ribomethseq",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "Structstrings",
     "maintainer": "Felix G.M. Ernst <felix.gm.ernst@outlook.com>",
     "url": "https://github.com/felixernst/structstrings",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

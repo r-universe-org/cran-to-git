@@ -3,24 +3,24 @@
     "package": "DIZtools",
     "maintainer": "Jonathan M. Mang <jonathan.mang@uk-erlangen.de>",
     "url": "https://github.com/miracum/misc-diztools",
-    "available": false
+    "available": true
   },
   {
     "package": "DIZutils",
     "maintainer": "Jonathan M. Mang <jonathan.mang@uk-erlangen.de>",
     "url": "https://github.com/miracum/misc-dizutils",
-    "available": false
+    "available": true
   },
   {
     "package": "DQAgui",
     "maintainer": "Lorenz A. Kapsner <lorenz.kapsner@uk-erlangen.de>",
     "url": "https://github.com/miracum/dqa-dqagui",
-    "available": false
+    "available": true
   },
   {
     "package": "DQAstats",
     "maintainer": "Lorenz A. Kapsner <lorenz.kapsner@uk-erlangen.de>",
     "url": "https://github.com/miracum/dqa-dqastats",
-    "available": false
+    "available": true
   }
 ]

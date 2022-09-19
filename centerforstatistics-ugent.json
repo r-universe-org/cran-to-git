@@ -22,21 +22,21 @@
     "package": "RCM",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/rcm",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "reconsi",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/reconsi",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SPsimSeq",
     "maintainer": "Joris Meys <Joris.Meys@ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/spsimseq",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

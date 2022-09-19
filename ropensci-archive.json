@@ -54,6 +54,12 @@
     "available": true
   },
   {
+    "package": "mapr",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/mapr",
+    "available": true
+  },
+  {
     "package": "microdemic",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci-archive/microdemic",

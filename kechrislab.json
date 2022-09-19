@@ -15,14 +15,14 @@
     "package": "MAI",
     "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
     "url": "https://github.com/kechrislab/mai",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MSPrep",
     "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
     "url": "https://github.com/kechrislab/msprep",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

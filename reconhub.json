@@ -9,13 +9,13 @@
     "package": "distcrete",
     "maintainer": "Steph Locke <steph@itsalocke.com>",
     "url": "https://github.com/reconhub/distcrete",
-    "available": false
+    "available": true
   },
   {
     "package": "earlyR",
     "maintainer": "Thibaut Jombart <thibautjombart@gmail.com>",
     "url": "https://github.com/reconhub/earlyr",
-    "available": false
+    "available": true
   },
   {
     "package": "epicontacts",
@@ -45,7 +45,7 @@
     "package": "matchmaker",
     "maintainer": "Zhian N. Kamvar <zkamvar@gmail.com>",
     "url": "https://github.com/reconhub/matchmaker",
-    "available": false
+    "available": true
   },
   {
     "package": "projections",

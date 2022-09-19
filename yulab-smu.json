@@ -15,7 +15,7 @@
     "package": "MMINP",
     "maintainer": "Wenli Tang <1071429394@qq.com>",
     "url": "https://github.com/yulab-smu/mminp",
-    "available": false
+    "available": true
   },
   {
     "package": "nCov2019",
@@ -103,17 +103,38 @@
     "registry": "bioc"
   },
   {
+    "package": "meshes",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/meshes",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "MicrobiomeProfiler",
     "maintainer": "Meijun Chen <mjchen1996@outlook.com>",
     "url": "https://github.com/yulab-smu/microbiomeprofiler",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MicrobiotaProcess",
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/microbiotaprocess",
-    "available": false,
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "ReactomePA",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/reactomepa",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "seqcombo",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/seqcombo",
+    "available": true,
     "registry": "bioc"
   },
   {

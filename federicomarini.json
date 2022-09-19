@@ -23,14 +23,14 @@
     "package": "ideal",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/ideal",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pcaExplorer",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/pcaexplorer",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

@@ -31,7 +31,7 @@
     "package": "ResidualMatrix",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/residualmatrix",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
@@ -45,21 +45,21 @@
     "package": "SingleR",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/singler",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TileDBArray",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/tiledbarray",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TrajectoryUtils",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/trajectoryutils",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

@@ -3,14 +3,14 @@
     "package": "NxtIRFcore",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/nxtirfcore",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ompBAM",
     "maintainer": "Alex Chit Hei Wong <a.wong@centenary.org.au>",
     "url": "https://github.com/alexchwong/ompbam",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

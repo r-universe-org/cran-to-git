@@ -9,14 +9,14 @@
     "package": "ndexr",
     "maintainer": "Florian Auer <florian.auer@informatik.uni-augsburg.de>",
     "url": "https://github.com/frankkramer-lab/ndexr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rBiopaxParser",
     "maintainer": "Frank Kramer <frank.kramer@informatik.uni-augsburg.de>",
     "url": "https://github.com/frankkramer-lab/rbiopaxparser",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

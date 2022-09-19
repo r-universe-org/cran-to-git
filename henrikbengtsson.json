@@ -39,13 +39,13 @@
     "package": "dChipIO",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/dchipio",
-    "available": false
+    "available": true
   },
   {
     "package": "doFuture",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/dofuture",
-    "available": false
+    "available": true
   },
   {
     "package": "future",
@@ -87,7 +87,7 @@
     "package": "listenv",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/listenv",
-    "available": false
+    "available": true
   },
   {
     "package": "matrixStats",
@@ -203,7 +203,7 @@
     "package": "illuminaio",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
     "url": "https://github.com/henrikbengtsson/illuminaio",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

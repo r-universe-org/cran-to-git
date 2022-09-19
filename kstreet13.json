@@ -3,20 +3,20 @@
     "package": "mazing",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/mazing",
-    "available": false
+    "available": true
   },
   {
     "package": "scry",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/scry",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "slingshot",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/slingshot",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

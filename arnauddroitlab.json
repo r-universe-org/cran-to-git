@@ -10,21 +10,21 @@
     "package": "metagene2",
     "maintainer": "Eric Fournier <ericfournier2@yahoo.ca>",
     "url": "https://github.com/arnauddroitlab/metagene2",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "nucleoSim",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/arnauddroitlab/nucleosim",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RJMCMCNucleosomes",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/arnauddroitlab/rjmcmcnucleosomes",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

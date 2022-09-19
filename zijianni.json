@@ -3,14 +3,14 @@
     "package": "scCB2",
     "maintainer": "Zijian Ni <zni25@wisc.edu>",
     "url": "https://github.com/zijianni/sccb2",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SpotClean",
     "maintainer": "Zijian Ni <zni25@wisc.edu>",
     "url": "https://github.com/zijianni/spotclean",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

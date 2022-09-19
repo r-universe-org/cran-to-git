@@ -3,14 +3,14 @@
     "package": "svaNUMT",
     "maintainer": "Ruining Dong <lnyidrn@gmail.com>",
     "url": "https://github.com/papenfusslab/svanumt",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "svaRetro",
     "maintainer": "Ruining Dong <lnyidrn@gmail.com>",
     "url": "https://github.com/papenfusslab/svaretro",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

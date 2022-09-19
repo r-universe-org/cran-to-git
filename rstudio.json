@@ -63,19 +63,19 @@
     "package": "distill",
     "maintainer": "Christophe Dervieux <cderv@rstudio.com>",
     "url": "https://github.com/rstudio/distill",
-    "available": false
+    "available": true
   },
   {
     "package": "DT",
     "maintainer": "Yihui Xie <xie@yihui.name>",
     "url": "https://github.com/rstudio/dt",
-    "available": false
+    "available": true
   },
   {
     "package": "dygraphs",
     "maintainer": "Petr Shevtsov <petr.shevtsov@gmail.com>",
     "url": "https://github.com/rstudio/dygraphs",
-    "available": false
+    "available": true
   },
   {
     "package": "flexdashboard",
@@ -141,7 +141,7 @@
     "package": "markdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
     "url": "https://github.com/rstudio/markdown",
-    "available": false
+    "available": true
   },
   {
     "package": "nomnoml",

@@ -24,14 +24,14 @@
     "package": "mistyR",
     "maintainer": "Jovan Tanevski <jovan.tanevski@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/mistyr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "OmnipathR",
     "maintainer": "Denes Turei <turei.denes@gmail.com>",
     "url": "https://github.com/saezlab/omnipathr",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {

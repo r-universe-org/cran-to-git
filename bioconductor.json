@@ -216,7 +216,7 @@
     "package": "HubPub",
     "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
     "url": "https://github.com/bioconductor/hubpub",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -224,7 +224,7 @@
     "package": "IRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/iranges",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -232,7 +232,7 @@
     "package": "MatrixGenerics",
     "maintainer": "Peter Hickey <peter.hickey@gmail.com>",
     "url": "https://github.com/bioconductor/matrixgenerics",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -240,7 +240,7 @@
     "package": "RaggedExperiment",
     "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -248,7 +248,7 @@
     "package": "Rhtslib",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rhtslib",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -264,7 +264,7 @@
     "package": "S4Vectors",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/s4vectors",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },
@@ -280,14 +280,14 @@
     "package": "SQLDataFrame",
     "maintainer": "Qian Liu <qian.liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/sqldataframe",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SummarizedExperiment",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/summarizedexperiment",
-    "available": false,
+    "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_15"
   },

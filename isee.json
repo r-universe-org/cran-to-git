@@ -3,21 +3,21 @@
     "package": "iSEE",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/isee",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "iSEEhex",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseehex",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "iSEEu",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseeu",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

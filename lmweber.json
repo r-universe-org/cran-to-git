@@ -17,14 +17,14 @@
     "package": "nnSVG",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/nnsvg",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   },
   {
     "package": "regsplice",
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/regsplice",
-    "available": false,
+    "available": true,
     "registry": "bioc"
   }
 ]

@@ -3,13 +3,13 @@
     "package": "disposables",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/disposables",
-    "available": false
+    "available": true
   },
   {
     "package": "dotenv",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/dotenv",
-    "available": false
+    "available": true
   },
   {
     "package": "franc",
@@ -34,7 +34,7 @@
     "package": "lpSolve",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/lpsolve",
-    "available": false
+    "available": true
   },
   {
     "package": "parsedate",
