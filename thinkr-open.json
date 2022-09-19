@@ -1,5 +1,11 @@
 [
   {
+    "package": "attachment",
+    "maintainer": "Sébastien Rochette <sebastien@thinkr.fr>",
+    "url": "https://github.com/thinkr-open/attachment",
+    "available": true
+  },
+  {
     "package": "dockerfiler",
     "maintainer": "Colin Fay <contact@colinfay.me>",
     "url": "https://github.com/thinkr-open/dockerfiler",
