@@ -552,6 +552,12 @@
     "available": true
   },
   {
+    "package": "melt",
+    "maintainer": "Eunseop Kim <kim.7302@osu.edu>",
+    "url": "https://github.com/ropensci/melt",
+    "available": true
+  },
+  {
     "package": "MODISTools",
     "maintainer": "Hufkens Koen <koen.hufkens@gmail.com>",
     "url": "https://github.com/ropensci/modistools",
