@@ -1,5 +1,11 @@
 [
   {
+    "package": "fdaconcur",
+    "maintainer": "Satarupa Bhattacharjee <sbhattacharjee@ucdavis.edu>",
+    "url": "https://github.com/functionaldata/tfdaconcur",
+    "available": true
+  },
+  {
     "package": "fdadensity",
     "maintainer": "Alexander Petersen <petersen@pstat.ucsb.edu>",
     "url": "https://github.com/functionaldata/tdens",
