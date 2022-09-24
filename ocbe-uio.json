@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "EnrichIntersect",
+    "maintainer": "Zhi Zhao <zhi.zhao@medisin.uio.no>",
+    "url": "https://github.com/ocbe-uio/enrichintersect",
+    "available": true
+  },
+  {
     "package": "TruncExpFam",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
     "url": "https://github.com/ocbe-uio/truncexpfam",

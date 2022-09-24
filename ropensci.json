@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "aorsf",
+    "maintainer": "Byron Jaeger <bjaeger@wakehealth.edu>",
+    "url": "https://github.com/ropensci/aorsf",
+    "available": true
+  },
+  {
     "package": "arkdb",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/arkdb",
