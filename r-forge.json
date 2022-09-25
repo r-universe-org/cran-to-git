@@ -531,13 +531,6 @@
     "available": false
   },
   {
-    "package": "metamisc",
-    "maintainer": "Thomas Debray <thomas.debray@gmail.com>",
-    "url": "https://github.com/r-forge/metamisc",
-    "subdir": "pkg",
-    "available": true
-  },
-  {
     "package": "meteo",
     "maintainer": "Milan Kilibarda <kili@grf.bg.ac.rs>",
     "url": "https://github.com/r-forge/meteo",
