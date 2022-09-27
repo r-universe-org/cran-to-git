@@ -984,6 +984,12 @@
     "available": true
   },
   {
+    "package": "rtika",
+    "maintainer": "Sasha Goodman <goodmansasha@gmail.com>",
+    "url": "https://github.com/ropensci/rtika",
+    "available": false
+  },
+  {
     "package": "rtweet",
     "maintainer": "Lluís Revilla Sancho <lluis.revilla@gmail.com>",
     "url": "https://github.com/ropensci/rtweet",
