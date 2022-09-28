@@ -86,7 +86,6 @@ AGD,https://github.com/stefvanbuuren/agd,,
 AGHmatrix,https://github.com/rramadeu/aghmatrix,,
 aglm,https://github.com/kkondo1981/aglm,,
 agop,https://github.com/gagolews/agop,,
-AGread,https://github.com/paulhibbing/agread,,
 agricolaeplotr,https://github.com/jensharbers/agricolaeplotr,,
 agridat,https://github.com/kwstat/agridat,,
 agriwater,https://github.com/cesarofs/agriwater,,
@@ -1245,6 +1244,7 @@ contfrac,https://github.com/robinhankin/contfrac,,
 contingencytables,https://github.com/ocbe-uio/contingencytables,,
 ContourFunctions,https://github.com/collinerickson/contourfunctions,,
 contrast,https://github.com/alanocallaghan/contrast,,
+ContRespPP,https://github.com/jcliff89/contresppp,,
 contribution,https://github.com/openbiox/contribution,,
 control,https://github.com/benubah/control,,
 controlfunctionIV,https://github.com/zijguo/controlfunctioniv,,
@@ -1291,6 +1291,7 @@ corrarray,https://github.com/medicine1/corrarray,,
 corrcoverage,https://github.com/annahutch/corrcoverage,,
 correlation,https://github.com/easystats/correlation,,
 correlationfunnel,https://github.com/business-science/correlationfunnel,,
+correspondenceTables,https://github.com/eurostat/correspondencetables,,
 corrgram,https://github.com/kwstat/corrgram,,
 corrgrapher,https://github.com/modeloriented/corrgrapher,,
 corrplot,https://github.com/taiyun/corrplot,,
@@ -2051,6 +2052,7 @@ eikosograms,https://github.com/rwoldford/eikosograms,,
 einet,https://github.com/travisbyrum/einet,,
 eirm,https://github.com/okanbulut/eirm,,
 EIX,https://github.com/modeloriented/eix,,
+eixport,https://github.com/atmoschem/eixport,,
 elastes,https://github.com/mpff/elastes,,
 elastic,https://github.com/ropensci/elastic,,
 elbird,https://github.com/mrchypark/elbird,,
@@ -2373,6 +2375,7 @@ fdaoutlier,https://github.com/otsegun/fdaoutlier,,
 fdapace,https://github.com/functionaldata/tpace,,
 fdapaceShiny,https://github.com/cpossinger/fdapaceshiny,,
 fdaPOIFD,https://github.com/aefdz/fdapoifd,,
+FDboost,https://github.com/boost-r/fdboost,,
 fddm,https://github.com/rtdists/fddm,,
 fdistr,https://github.com/dtminnick/fdistr,,
 FDX,https://github.com/disohda/fdx,,
@@ -6929,6 +6932,7 @@ rticles,https://github.com/rstudio/rticles,,
 rticulate,https://github.com/stefanocoretta/rticulate,,
 rtiddlywiki,https://github.com/byzheng/rtiddlywiki,,
 rtide,https://github.com/poissonconsulting/rtide,,
+rtika,https://github.com/ropensci/rtika,,
 RTL,https://github.com/risktoollib/rtl,,
 rTLS,https://github.com/antguz/rtls,,
 rtodoist,https://github.com/thinkr-open/rtodoist,,
@@ -7745,6 +7749,7 @@ sqliter,https://github.com/wilsonfreitas/sqliter,,
 SqlRender,https://github.com/ohdsi/sqlrender,,
 sqlscore,https://github.com/wwbrannon/sqlscore,,
 squash,https://github.com/aroneklund/squash,,
+squat,https://github.com/lmjl-alea/squat,,
 SqueakR,https://github.com/osimon81/squeakr,,
 squid,https://github.com/squidgroup/squid,,
 sRdpData,https://github.com/fragmentation-project/srdpdata,,
@@ -9186,6 +9191,7 @@ crisprDesign,https://github.com/crisprverse/crisprdesign,,bioc
 crisprScore,https://github.com/crisprverse/crisprscore,,bioc
 crisprseekplus,https://github.com/umms-biocore/crisprseekplus,,bioc
 crisprVerse,https://github.com/crisprverse/crisprverse,,bioc
+crisprViz,https://github.com/crisprverse/crisprviz,,bioc
 crossmeta,https://github.com/alexvpickering/crossmeta,,bioc
 csdR,https://github.com/almaaslab/csdr,,bioc
 cTRAP,https://github.com/nuno-agostinho/ctrap,,bioc
@@ -9418,6 +9424,7 @@ IRanges,https://github.com/bioconductor/iranges,,bioc
 ISAnalytics,https://github.com/calabrialab/isanalytics,,bioc
 iSEE,https://github.com/isee/isee,,bioc
 iSEEhex,https://github.com/isee/iseehex,,bioc
+iSEEhub,https://github.com/isee/iseehub,,bioc
 iSEEu,https://github.com/isee/iseeu,,bioc
 isobar,https://github.com/fbreitwieser/isobar,,bioc
 IsoformSwitchAnalyzeR,https://github.com/kvittingseerup/isoformswitchanalyzer,,bioc
@@ -9954,3 +9961,4 @@ MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 timeOmics,https://github.com/abodein/timeomics,,bioc
 CytoTree,https://github.com/jhuanglab/cytotree,,bioc
 famat,https://github.com/emiliesecherre/famat,,bioc
+MsExperiment,https://github.com/rformassspectrometry/msexperiment,,bioc
