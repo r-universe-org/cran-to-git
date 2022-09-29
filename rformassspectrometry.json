@@ -49,6 +49,13 @@
     "registry": "bioc"
   },
   {
+    "package": "MsExperiment",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/rformassspectrometry/msexperiment",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "MsFeatures",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/msfeatures",
@@ -80,13 +87,6 @@
     "package": "Spectra",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/spectra",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "MsExperiment",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-    "url": "https://github.com/rformassspectrometry/msexperiment",
     "available": true,
     "registry": "bioc"
   }

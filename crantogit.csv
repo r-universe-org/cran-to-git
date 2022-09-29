@@ -3509,7 +3509,7 @@ imagine,https://github.com/luislaum/imagine,,
 ImaginR,https://github.com/plstenger/imaginr,,
 imbalance,https://github.com/ncordon/imbalance,,
 imbibe,https://github.com/jonclayden/imbibe,,
-IMD,https://github.com/matthewgthomas/imd,,
+IMD,https://github.com/humaniverse/imd,,
 imgpalr,https://github.com/leonawicz/imgpalr,,
 imgrec,https://github.com/cschwem2er/imgrec,,
 imguR,https://github.com/cloudyr/imgur,,
@@ -5985,7 +5985,6 @@ quickmatch,https://github.com/fsavje/quickmatch,,
 quickPlot,https://github.com/predictiveecology/quickplot,,
 quietR,https://github.com/thomascjohnson/quietr,,
 quincunx,https://github.com/maialab/quincunx,,
-quokar,https://github.com/wenjingwang/quokar,,
 quRan,https://github.com/andrewheiss/quran,,
 qvcalc,https://github.com/davidfirth/qvcalc,,
 qwraps2,https://github.com/dewittpe/qwraps2,,
@@ -7368,6 +7367,7 @@ shinytoastr,https://github.com/mangothecat/shinytoastr,,
 shinyTree,https://github.com/shinytree/shinytree,,
 shinyvalidate,https://github.com/rstudio/shinyvalidate,,
 shinyWidgets,https://github.com/dreamrs/shinywidgets,,
+shinyXYpad,https://github.com/stla/shinyxypad,,
 shopifyr,https://github.com/charliebone/shopifyr,,
 shortcuts,https://github.com/jcval94/shortcuts,,
 ShortForm,https://github.com/anthonyraborn/shortform,,
@@ -7546,7 +7546,6 @@ SnowballC,https://github.com/nalimilan/r.temis,SnowballC,
 snpEnrichment,https://github.com/mcanouil/snpenrichment,,
 SNPknock,https://github.com/msesia/snpknock,,
 snpsettest,https://github.com/himesgroup/snpsettest,,
-snSMART,https://github.com/sidiwang/snsmart,,
 SOAs,https://github.com/bertcarnell/soas,,
 sobolnp,https://github.com/maikol-solis/sobolnp,,
 soc.ca,https://github.com/rsoc/soc.ca,,
@@ -9390,6 +9389,7 @@ hermes,https://github.com/insightsengineering/hermes,,bioc
 HIBAG,https://github.com/zhengxwen/hibag,,bioc
 HiCcompare,https://github.com/dozmorovlab/hiccompare,,bioc
 HiCDOC,https://github.com/mzytnicki/hicdoc,,bioc
+HiContacts,https://github.com/js2264/hicontacts,,bioc
 HilbertCurve,https://github.com/jokergoo/hilbertcurve,,bioc
 HiLDA,https://github.com/uscbiostats/hilda,,bioc
 HIPPO,https://github.com/tk382/hippo,,bioc
@@ -9532,6 +9532,7 @@ MsBackendMgf,https://github.com/rformassspectrometry/msbackendmgf,,bioc
 MsBackendMsp,https://github.com/rformassspectrometry/msbackendmsp,,bioc
 MsBackendRawFileReader,https://github.com/fgcz/msbackendrawfilereader,,bioc
 MsCoreUtils,https://github.com/rformassspectrometry/mscoreutils,,bioc
+MsExperiment,https://github.com/rformassspectrometry/msexperiment,,bioc
 MsFeatures,https://github.com/rformassspectrometry/msfeatures,,bioc
 msImpute,https://github.com/davislaboratory/msimpute,,bioc
 MSnbase,https://github.com/lgatto/msnbase,,bioc
@@ -9771,6 +9772,7 @@ scde,https://github.com/hms-dbmi/scde,,bioc
 SCFA,https://github.com/duct317/scfa,,bioc
 scGPS,https://github.com/imb-computational-genomics-lab/scgps,,bioc
 schex,https://github.com/saskiafreytag/schex,,bioc
+scifer,https://github.com/rodrigarc/scifer,,bioc
 scmap,https://github.com/hemberg-lab/scmap,,bioc
 scMerge,https://github.com/sydneybiox/scmerge,,bioc
 scMET,https://github.com/andreaskapou/scmet,,bioc
@@ -9870,6 +9872,7 @@ svaRetro,https://github.com/papenfusslab/svaretro,,bioc
 SWATH2stats,https://github.com/peterblattmann/swath2stats,,bioc
 swfdr,https://github.com/leekgroup/swfdr,,bioc
 switchde,https://github.com/kieranrcampbell/switchde,,bioc
+synapter,https://github.com/lgatto/synapter,,bioc
 SynMut,https://github.com/koohoko/synmut,,bioc
 syntenet,https://github.com/almeidasilvaf/syntenet,,bioc
 systemPipeR,https://github.com/tgirke/systempiper,,bioc
@@ -9951,7 +9954,6 @@ EnMCB,https://github.com/whirlsyu/enmcb,,bioc
 Herper,https://github.com/rockefelleruniversity/herper,,bioc
 MOFA2,https://github.com/biofam/mofa2,,bioc
 flowUtils,https://github.com/jspidlen/flowutils,,bioc
-synapter,https://github.com/lgatto/synapter,,bioc
 TVTB,https://github.com/kevinrue/tvtb,,bioc
 iteremoval,https://github.com/cihga39871/iteremoval,,bioc
 TimeSeriesExperiment,https://github.com/nlhuong/timeseriesexperiment,,bioc
@@ -9961,4 +9963,3 @@ MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 timeOmics,https://github.com/abodein/timeomics,,bioc
 CytoTree,https://github.com/jhuanglab/cytotree,,bioc
 famat,https://github.com/emiliesecherre/famat,,bioc
-MsExperiment,https://github.com/rformassspectrometry/msexperiment,,bioc
