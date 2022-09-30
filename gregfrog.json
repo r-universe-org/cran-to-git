@@ -1,5 +1,11 @@
 [
   {
+    "package": "brew",
+    "maintainer": "Greg Hunt <greg@firmansyah.com>",
+    "url": "https://github.com/gregfrog/brew",
+    "available": true
+  },
+  {
     "package": "WebAnalytics",
     "maintainer": "Greg Hunt <greg@firmansyah.com>",
     "url": "https://github.com/gregfrog/webanalytics",
