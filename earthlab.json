@@ -1,5 +1,11 @@
 [
   {
+    "package": "cft",
+    "maintainer": "Erick Verleye <erve3705@colorado.edu>",
+    "url": "https://github.com/earthlab/cft-cran",
+    "available": true
+  },
+  {
     "package": "leri",
     "maintainer": "Max Joseph <maxwell.b.joseph@colorado.edu>",
     "url": "https://github.com/earthlab/leri",
