@@ -16,8 +16,9 @@
   {
     "package": "IDSL.SUFA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
-    "url": "https://github.com/idslme/idsl.ufa",
-    "available": false
+    "url": "https://github.com/idslme/idsl.sufa",
+    "subdir": "IDSL.SUFA",
+    "available": true
   },
   {
     "package": "IDSL.UFA",

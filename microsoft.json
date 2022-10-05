@@ -12,6 +12,12 @@
     "available": false
   },
   {
+    "package": "vivainsights",
+    "maintainer": "Martin Chan <martin.chan@microsoft.com>",
+    "url": "https://github.com/microsoft/vivainsights",
+    "available": true
+  },
+  {
     "package": "wpa",
     "maintainer": "Martin Chan <martin.chan@microsoft.com>",
     "url": "https://github.com/microsoft/wpa",
