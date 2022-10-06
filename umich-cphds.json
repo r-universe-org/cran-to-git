@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "medScan",
+    "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
+    "url": "https://github.com/umich-cphds/medscan",
+    "available": false
+  },
+  {
     "package": "subgxe",
     "maintainer": "Alexander Rix <alexrix@umich.edu>",
     "url": "https://github.com/umich-cphds/subgxe",

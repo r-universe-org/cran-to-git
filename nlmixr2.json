@@ -52,5 +52,11 @@
     "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
     "url": "https://github.com/nlmixr2/rxode2ll",
     "available": true
+  },
+  {
+    "package": "rxode2parse",
+    "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
+    "url": "https://github.com/nlmixr2/rxode2parse",
+    "available": false
   }
 ]
