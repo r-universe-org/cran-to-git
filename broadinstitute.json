@@ -1,5 +1,11 @@
 [
   {
+    "package": "gsalib",
+    "maintainer": "Louis Bergelson <louisb@broadinstitute.org>",
+    "url": "https://github.com/broadinstitute/gsalib",
+    "available": false
+  },
+  {
     "package": "infercnv",
     "maintainer": "Christophe Georgescu <cgeorges@broadinstitute.org>",
     "url": "https://github.com/broadinstitute/infercnv",
