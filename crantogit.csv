@@ -127,6 +127,7 @@ almanac,https://github.com/davisvaughan/almanac,,
 alookr,https://github.com/choonghyunryu/alookr,,
 alpaca,https://github.com/amrei-stammann/alpaca,,
 alphabetr,https://github.com/edwardslee/alphabetr,,
+alphaci,https://github.com/jonasmoss/alphaci,,
 AlphaSimR,https://github.com/gaynorr/alphasimr,,
 alphavantager,https://github.com/business-science/alphavantager,,
 altadata,https://github.com/altabering/altadata-r,,
@@ -458,6 +459,7 @@ BayesMallows,https://github.com/ocbe-uio/bayesmallows,,
 BayesMassBal,https://github.com/skoermer/bayesmassbal,,
 bayesmove,https://github.com/joshcullen/bayesmove,,
 BayesMRA,https://github.com/jtipton25/bayesmra,,
+BayesMultiMode,https://github.com/paullabonne/bayesmultimode,,
 bayesnec,https://github.com/open-aims/bayesnec,,
 BayesNetBP,https://github.com/hyu-ub/bayesnetbp,BayesNetBP,
 bayesplot,https://github.com/stan-dev/bayesplot,,
@@ -1221,6 +1223,7 @@ conflicted,https://github.com/r-lib/conflicted,,
 conformalbayes,https://github.com/corymccartan/conformalbayes,,
 ConformalSmallest,https://github.com/elsa-yang98/conformalsmallest,,
 confoundr,https://github.com/jwjackson/confoundr,,
+congress,https://github.com/christopherkenny/congress,,
 conjurer,https://github.com/sidharthmacherla/conjurer,,
 connectapi,https://github.com/rstudio/connectapi,,
 connectwidgets,https://github.com/rstudio/connectwidgets,,
@@ -1663,6 +1666,7 @@ dexter,https://github.com/dexter-psychometrics/dexter,,
 DFA,https://github.com/victormesquita40/dfa,,
 dfadjust,https://github.com/kolesarm/robust-small-sample-standard-errors,,
 dfCompare,https://github.com/swaldroff/dfcompare,,
+dfms,https://github.com/sebkrantz/dfms,,
 dfoliatR,https://github.com/chguiterman/dfoliatr,,
 dformula,https://github.com/dataallaround/dformula,,
 dfped,https://github.com/artemis-toumazi/dfped,,
@@ -1938,6 +1942,7 @@ dynatopGIS,https://github.com/waternumbers/dynatopgis,,
 dynConfiR,https://github.com/sehellmann/dynconfir,,
 dyndimred,https://github.com/dynverse/dyndimred,,
 DynForest,https://github.com/anthonydevaux/dynforest,,
+dyngen,https://github.com/dynverse/dyngen,,
 dynparam,https://github.com/dynverse/dynparam,,
 dynplot,https://github.com/dynverse/dynplot,,
 dynprog,https://github.com/mailund/dynprog,,
@@ -3195,7 +3200,6 @@ guardianapi,https://github.com/evanodell/guardianapi,,
 Guerry,https://github.com/friendly/guerry,,
 guess,https://github.com/soodoku/guess,,
 GUILDS,https://github.com/thijsjanzen/guilds,,
-guiplot,https://github.com/s0521/guiplot,,
 guix.install,https://github.com/bimsbbioinfo/guix.install,,
 gunit,https://github.com/cdmuir/gunit,,
 gustave,https://github.com/martinchevalier/gustave,,
@@ -6412,7 +6416,6 @@ repmis,https://github.com/christophergandrud/repmis,,
 RepoGenerator,https://github.com/jaredlander/repogenerator,,
 report,https://github.com/easystats/report,,
 reporter,https://github.com/dbosak01/reporter,,
-repoRter.nih,https://github.com/bikeactuary/reporter.nih,,
 reportfactory,https://github.com/reconverse/reportfactory,,
 reportr,https://github.com/jonclayden/reportr,,
 repr,https://github.com/irkernel/repr,,
@@ -8250,6 +8253,7 @@ tidysq,https://github.com/biogenies/tidysq,,
 tidystats,https://github.com/willemsleegers/tidystats,,
 tidytable,https://github.com/markfairbanks/tidytable,,
 tidytags,https://github.com/ropensci/tidytags,,
+tidyterra,https://github.com/dieghernan/tidyterra,,
 tidytext,https://github.com/juliasilge/tidytext,,
 tidytransit,https://github.com/r-transit/tidytransit,,
 tidytreatment,https://github.com/bonstats/tidytreatment,,
@@ -9138,6 +9142,7 @@ chromstaR,https://github.com/ataudt/chromstar,,bioc
 chromswitch,https://github.com/sjessa/chromswitch,,bioc
 CIMICE,https://github.com/redsnic/cimice,,bioc
 circRNAprofiler,https://github.com/aufiero/circrnaprofiler,,bioc
+CircSeqAlignTk,https://github.com/jsun/circseqaligntk,,bioc
 CiteFuse,https://github.com/sydneybiox/citefuse,,bioc
 cleaver,https://github.com/sgibb/cleaver,,bioc
 cliProfiler,https://github.com/codezy99/cliprofiler,,bioc
@@ -9274,6 +9279,7 @@ epihet,https://github.com/thejacksonlaboratory/epihet,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 epimutacions,https://github.com/isglobal-brge/epimutacions,,bioc
 epiNEM,https://github.com/cbg-ethz/epinem,,bioc
+epistasisGA,https://github.com/mnodzenski/epistasisga,,bioc
 EpiTxDb,https://github.com/felixernst/epitxdb,,bioc
 epivizrData,https://github.com/epiviz/epivizrdata,,bioc
 epivizrServer,https://github.com/epiviz/epivizrserver,,bioc
@@ -9447,6 +9453,7 @@ Maaslin2,https://github.com/biobakery/maaslin2,,bioc
 MADSEQ,https://github.com/ykong2/madseq,,bioc
 maftools,https://github.com/poisonalien/maftools,,bioc
 MAGAR,https://github.com/mpiicomputationalepigenetics/magar,,bioc
+magrene,https://github.com/almeidasilvaf/magrene,,bioc
 MAI,https://github.com/kechrislab/mai,,bioc
 MANOR,https://github.com/pneuvial/manor,,bioc
 marr,https://github.com/ghoshlab/marr,,bioc
@@ -9754,6 +9761,7 @@ scAlign,https://github.com/quon-titative-biology/scalign,,bioc
 scAnnotatR,https://github.com/grisslab/scannotatr,,bioc
 SCATE,https://github.com/winnie09/scate,,bioc
 scatterHatch,https://github.com/fertiglab/scatterhatch,,bioc
+scBubbletree,https://github.com/snaketron/scbubbletree,,bioc
 scCB2,https://github.com/zijianni/sccb2,,bioc
 scClassify,https://github.com/sydneybiox/scclassify,,bioc
 sccomp,https://github.com/stemangiola/sccomp,,bioc
@@ -9957,3 +9965,5 @@ XCIR,https://github.com/srenan/xcir,,bioc
 MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 CytoTree,https://github.com/jhuanglab/cytotree,,bioc
 famat,https://github.com/emiliesecherre/famat,,bioc
+SpatialFeatureExperiment,https://github.com/pachterlab/spatialfeatureexperiment,,bioc
+Voyager,https://github.com/pachterlab/voyager,,bioc

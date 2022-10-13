@@ -5,5 +5,12 @@
     "url": "https://github.com/snaketron/iggeneusage",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "scBubbletree",
+    "maintainer": "Simo Kitanovski <simokitanovski@gmail.com>",
+    "url": "https://github.com/snaketron/scbubbletree",
+    "available": true,
+    "registry": "bioc"
   }
 ]

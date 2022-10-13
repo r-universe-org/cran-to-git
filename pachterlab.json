@@ -1,0 +1,16 @@
+[
+  {
+    "package": "SpatialFeatureExperiment",
+    "maintainer": "Lambda Moses <dlu2@caltech.edu>",
+    "url": "https://github.com/pachterlab/spatialfeatureexperiment",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "Voyager",
+    "maintainer": "Lambda Moses <dlu2@caltech.edu>",
+    "url": "https://github.com/pachterlab/voyager",
+    "available": true,
+    "registry": "bioc"
+  }
+]
