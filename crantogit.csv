@@ -152,11 +152,11 @@ AMR,https://github.com/msberends/amr,,
 amt,https://github.com/jmsigner/amt,,
 AmyloGram,https://github.com/michbur/amylogram,,
 AnaCoDa,https://github.com/clandere/anacoda,,
+Anaconda,https://github.com/plstenger/anaconda,,
 anacor,https://github.com/r-forge/psychor,pkg/anacor,
 analogsea,https://github.com/pachadotdev/analogsea,,
 analogue,https://github.com/gavinsimpson/analogue,,
 analogueExtra,https://github.com/gavinsimpson/analogueextra,,
-analysisPipelines,https://github.com/mu-sigma/analysis-pipelines,,
 AnchorRegression,https://github.com/simzim96/anchorregression,,
 and,https://github.com/rossellhayes/and,,
 Andromeda,https://github.com/ohdsi/andromeda,,
@@ -2746,7 +2746,7 @@ genieclust,https://github.com/gagolews/genieclust,,
 genio,https://github.com/ochoalab/genio,,
 genius,https://github.com/josiahparry/genius,,
 geniusr,https://github.com/ewenme/geniusr,,
-genlasso,https://github.com/glmgen/genlasso,,
+genlasso,https://github.com/ryantibs/genlasso,,
 GenomeAdapt,https://github.com/xinghuq/genomeadapt,,
 GenomeAdmixR,https://github.com/thijsjanzen/genomeadmixr,,
 genomic.autocorr,https://github.com/chr1swallace/genomic.autocorr,,
@@ -4530,6 +4530,7 @@ MLML2R,https://github.com/samarafk/mlml2r,,
 MLMusingR,https://github.com/flh3/mlmusingr,,
 mlogit,https://github.com/r-forge/mlogit,pkg,
 MLPUGS,https://github.com/bearloga/mlpugs,,
+mlpwr,https://github.com/flxzimmer/mlpwr,,
 mlquantify,https://github.com/andregustavom/mlquantify,,
 mlr,https://github.com/mlr-org/mlr,,
 mlr3,https://github.com/mlr-org/mlr3,,
@@ -4825,6 +4826,7 @@ nanotime,https://github.com/eddelbuettel/nanotime,,
 naptime,https://github.com/russellpierce/naptime,,
 nardl,https://github.com/zedtaha/nardl,,
 narray,https://github.com/mschubert/narray,,
+naryn,https://github.com/tanaylab/naryn,,
 nasapower,https://github.com/ropensci/nasapower,,
 nasaweather,https://github.com/hadley/nasaweather,,
 NasdaqDataLink,https://github.com/nasdaq/data-link-r,,
@@ -4855,6 +4857,7 @@ nCov2019,https://github.com/yulab-smu/ncov2019,,
 ncpen,https://github.com/zeemkr/ncpen,,
 NCutYX,https://github.com/seborinos/ncutyx,,
 ncvreg,https://github.com/pbreheny/ncvreg,,
+nda,https://github.com/kzst/nda,,
 ndi,https://github.com/idblr/ndi,,
 ndjson,https://gitlab.com/hrbrmstr/ndjson,,
 ndtv,https://github.com/statnet/ndtv,ndtv,
@@ -7139,6 +7142,7 @@ SCORPIUS,https://github.com/rcannood/scorpius,,
 ScottKnott,https://github.com/jcfaria/scottknott,,
 ScottKnottESD,https://github.com/klainfo/scottknottesd,,
 scPloidy,https://github.com/fumi-github/scploidy,,
+SCpubr,https://github.com/enblacar/scpubr,,
 scrappy,https://github.com/villegar/scrappy,,
 SCRIP,https://github.com/thecailab/scrip,,
 scriptexec,https://github.com/sagiegurari/scriptexec,,
@@ -7314,6 +7318,7 @@ shiny.info,https://github.com/appsilon/shiny.info,,
 shiny.pwa,https://github.com/pedrocoutinhosilva/shiny.pwa,,
 shiny.reglog,https://github.com/statismike/shiny.reglog,,
 shiny.semantic,https://github.com/appsilon/shiny.semantic,,
+shiny.tailwind,https://github.com/kylebutts/shiny.tailwind,,
 shinyAce,https://github.com/trestletech/shinyace,,
 shinyalert,https://github.com/daattali/shinyalert,,
 shinyanimate,https://github.com/swechhya/shinyanimate,,
@@ -7844,6 +7849,7 @@ stcos,https://github.com/holans/st-cos,,
 stdmod,https://github.com/sfcheung/stdmod,,
 stdvectors,https://github.com/digemall/stdvectors,,
 SteinerNet,https://github.com/krashkov/steinernet,,
+StemAnalysis,https://github.com/forestscientist/stemanalysis,,
 stemmatology,https://github.com/jean-baptiste-camps/stemmatology,,
 stencilaschema,https://github.com/stencila/schema,r,
 stenR,https://github.com/statismike/stenr,,
@@ -8356,6 +8362,7 @@ touch,https://github.com/wenjie2wang/touch,,
 TouRnament,https://github.com/captaincaracho/tournament,,
 tourr,https://github.com/ggobi/tourr,,
 toxEval,https://github.com/usgs-r/toxeval,,
+ToxicR,https://github.com/niehs/toxicr,,
 toxpiR,https://github.com/toxpi/toxpir,,
 Tplyr,https://github.com/atorus-research/tplyr,,
 TPmsm,https://github.com/arturstat/tpmsm,,
@@ -9301,6 +9308,7 @@ ExploreModelMatrix,https://github.com/csoneson/exploremodelmatrix,,bioc
 extraChIPs,https://github.com/steveped/extrachips,,bioc
 factR,https://github.com/fursham-h/factr,,bioc
 FamAgg,https://github.com/euracbiomedicalresearch/famagg,,bioc
+famat,https://github.com/emiliesecherre/famat,,bioc
 fastreeR,https://github.com/gkanogiannis/fastreer,,bioc
 FEAST,https://github.com/suke18/feast,,bioc
 fedup,https://github.com/rosscm/fedup,,bioc
@@ -9843,6 +9851,7 @@ spaSim,https://github.com/trigosteam/spasim,,bioc
 spatialDE,https://github.com/sales-lab/spatialde,,bioc
 SpatialDecon,https://github.com/nanostring-biostats/spatialdecon,,bioc
 SpatialExperiment,https://github.com/drighelli/spatialexperiment,,bioc
+SpatialFeatureExperiment,https://github.com/pachterlab/spatialfeatureexperiment,,bioc
 spatialHeatmap,https://github.com/jianhaizhang/spatialheatmap,,bioc
 specL,https://github.com/fgcz/specl,,bioc
 Spectra,https://github.com/rformassspectrometry/spectra,,bioc
@@ -9946,6 +9955,7 @@ velociraptor,https://github.com/kevinrue/velociraptor,,bioc
 VennDetail,https://github.com/guokai8/venndetail,,bioc
 vidger,https://github.com/btmonier/vidger,,bioc
 vissE,https://github.com/davislaboratory/visse,,bioc
+Voyager,https://github.com/pachterlab/voyager,,bioc
 VplotR,https://github.com/js2264/vplotr,,bioc
 waddR,https://github.com/goncalves-lab/waddr,,bioc
 wpm,https://github.com/helbor/wpm,,bioc
@@ -9970,6 +9980,3 @@ GAPGOM,https://github.com/berghopper/gapgom,,bioc
 XCIR,https://github.com/srenan/xcir,,bioc
 MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 CytoTree,https://github.com/jhuanglab/cytotree,,bioc
-famat,https://github.com/emiliesecherre/famat,,bioc
-SpatialFeatureExperiment,https://github.com/pachterlab/spatialfeatureexperiment,,bioc
-Voyager,https://github.com/pachterlab/voyager,,bioc

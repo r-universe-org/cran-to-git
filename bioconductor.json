@@ -10,40 +10,35 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationdbi",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "AnnotationFilter",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationfilter",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "AnnotationForge",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationforge",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "AnnotationHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationhub",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "Biobase",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biobase",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocBaseUtils",
@@ -57,224 +52,196 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/bioccheck",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocDockerManager",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocdockermanager",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocFileCache",
     "maintainer": "Lori Shepherd <lori.shepherd@roswellpark.org>",
     "url": "https://github.com/bioconductor/biocfilecache",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocGenerics",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocgenerics",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocIO",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocio",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocParallel",
     "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
     "url": "https://github.com/bioconductor/biocparallel",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BiocStyle",
     "maintainer": "Bioconductor Package <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocstyle",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "biocViews",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocviews",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "Biostrings",
     "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/biostrings",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "BSgenome",
     "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/bsgenome",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "DelayedArray",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/delayedarray",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "DelayedDataFrame",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/delayeddataframe",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "ExperimentHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/experimenthub",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GDSArray",
     "maintainer": "Qian Liu <qliu7@buffalo.edu>",
     "url": "https://github.com/bioconductor/gdsarray",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GenomeInfoDb",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomeinfodb",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GenomicAlignments",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicalignments",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GenomicDataCommons",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/bioconductor/genomicdatacommons",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GenomicFeatures",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicfeatures",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "GenomicRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/genomicranges",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "HDF5Array",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/hdf5array",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "HubPub",
     "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
     "url": "https://github.com/bioconductor/hubpub",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "IRanges",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/iranges",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "MatrixGenerics",
     "maintainer": "Peter Hickey <peter.hickey@gmail.com>",
     "url": "https://github.com/bioconductor/matrixgenerics",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "RaggedExperiment",
     "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "Rhtslib",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rhtslib",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "Rsamtools",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/rsamtools",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "S4Vectors",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/s4vectors",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "SplicingGraphs",
     "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/splicinggraphs",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "SQLDataFrame",
@@ -288,8 +255,7 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/summarizedexperiment",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "Summix",
@@ -303,24 +269,21 @@
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/updateobject",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "VariantExperiment",
     "maintainer": "Qian Liu <Qian.Liu@roswellpark.org>",
     "url": "https://github.com/bioconductor/variantexperiment",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "XVector",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/xvector",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_15"
+    "registry": "bioc"
   },
   {
     "package": "zlibbioc",

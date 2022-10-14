@@ -1,5 +1,11 @@
 [
   {
+    "package": "Anaconda",
+    "maintainer": "Pierre-Louis Stenger <Pierrelouis.stenger@gmail.com>",
+    "url": "https://github.com/plstenger/anaconda",
+    "available": true
+  },
+  {
     "package": "ImaginR",
     "maintainer": "Pierre-Louis Stenger <Pierre.Louis.Stenger@ifremer.fr>",
     "url": "https://github.com/plstenger/imaginr",
