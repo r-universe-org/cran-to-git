@@ -66,6 +66,12 @@
     "available": true
   },
   {
+    "package": "timeSeries",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/geobosh/timeseriesdoc",
+    "available": false
+  },
+  {
     "package": "uroot",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/geobosh/uroot",
