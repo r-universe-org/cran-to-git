@@ -48,6 +48,12 @@
     "available": true
   },
   {
+    "package": "ndjson",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://github.com/hrbrmstr/ndjson",
+    "available": true
+  },
+  {
     "package": "qrencoder",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/qrencoder",

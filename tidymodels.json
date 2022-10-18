@@ -102,6 +102,12 @@
     "available": true
   },
   {
+    "package": "modelenv",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/tidymodels/modelenv",
+    "available": true
+  },
+  {
     "package": "multilevelmod",
     "maintainer": "Hannah Frick <hannah@rstudio.com>",
     "url": "https://github.com/tidymodels/multilevelmod",
