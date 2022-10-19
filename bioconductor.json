@@ -237,6 +237,13 @@
     "registry": "bioc"
   },
   {
+    "package": "ShortRead",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/shortread",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "SplicingGraphs",
     "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/splicinggraphs",
