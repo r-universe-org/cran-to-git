@@ -1,12 +1,5 @@
 [
   {
-    "package": "crisprBowtie",
-    "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
-    "url": "https://github.com/jfortin1/crisprbowtie",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
     "package": "Rbwa",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/rbwa",
