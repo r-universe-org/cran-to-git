@@ -147,7 +147,7 @@
   },
   {
     "package": "GenomeInfoDb",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomeinfodb",
     "available": true,
     "registry": "bioc"
@@ -210,7 +210,7 @@
   },
   {
     "package": "RaggedExperiment",
-    "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",
     "available": true,
     "registry": "bioc"

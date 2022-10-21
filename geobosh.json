@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "fBasics",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/geobosh/fbasicsdoc",
+    "available": false
+  },
+  {
     "package": "gbutils",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/geobosh/gbutils",
