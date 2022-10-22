@@ -5,5 +5,12 @@
     "url": "https://github.com/vjcitn/anvilbilling",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "ontoProc",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/ontoproc",
+    "available": true,
+    "registry": "bioc"
   }
 ]
