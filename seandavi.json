@@ -19,12 +19,5 @@
     "url": "https://github.com/seandavi/methylumi",
     "available": true,
     "registry": "bioc"
-  },
-  {
-    "package": "SRAdb",
-    "maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
-    "url": "https://github.com/seandavi/sradb",
-    "available": true,
-    "registry": "bioc"
   }
 ]
