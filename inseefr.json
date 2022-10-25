@@ -1,5 +1,11 @@
 [
   {
+    "package": "btb",
+    "maintainer": "Kim Antunez <antuki.kim+cran@gmail.com>",
+    "url": "https://github.com/inseefr/btb",
+    "available": true
+  },
+  {
     "package": "disaggR",
     "maintainer": "Thomas Laurent <thomas.laurent@insee.fr>",
     "url": "https://github.com/inseefr/disaggr",
