@@ -7,6 +7,13 @@
     "registry": "bioc"
   },
   {
+    "package": "RESOLVE",
+    "maintainer": "Luca De Sano <luca.desano@gmail.com>",
+    "url": "https://github.com/danro9685/resolve",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "SparseSignatures",
     "maintainer": "Luca De Sano <luca.desano@gmail.com>",
     "url": "https://github.com/danro9685/sparsesignatures",
