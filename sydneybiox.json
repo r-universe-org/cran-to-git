@@ -26,5 +26,12 @@
     "url": "https://github.com/sydneybiox/screclassify",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "simpleSeg",
+    "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/simpleseg",
+    "available": true,
+    "registry": "bioc"
   }
 ]

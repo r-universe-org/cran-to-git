@@ -7,6 +7,13 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocFHIR",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/biocfhir",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
     "package": "ontoProc",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/ontoproc",
