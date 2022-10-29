@@ -7,6 +7,13 @@
     "available": true
   },
   {
+    "package": "cmsafops",
+    "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
+    "url": "https://github.com/cmsaf/cmsaf-r-tools",
+    "subdir": "cmsafops",
+    "available": true
+  },
+  {
     "package": "cmsafvis",
     "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
     "url": "https://github.com/cmsaf/cmsaf-r-tools",
