@@ -5,5 +5,12 @@
     "url": "https://github.com/gkanogiannis/fastreer",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "metabinR",
+    "maintainer": "Anestis Gkanogiannis <anestis@gkanogiannis.com>",
+    "url": "https://github.com/gkanogiannis/metabinr",
+    "available": true,
+    "registry": "bioc"
   }
 ]

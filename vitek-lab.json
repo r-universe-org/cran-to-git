@@ -19,5 +19,12 @@
     "url": "https://github.com/vitek-lab/msstatsptm",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "MSstatsShiny",
+    "maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
+    "url": "https://github.com/vitek-lab/msstatsshiny",
+    "available": true,
+    "registry": "bioc"
   }
 ]
