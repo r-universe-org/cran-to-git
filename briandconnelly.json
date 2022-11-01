@@ -1,5 +1,11 @@
 [
   {
+    "package": "airnow",
+    "maintainer": "Brian Connelly <bdc@bconnelly.net>",
+    "url": "https://github.com/briandconnelly/airnow",
+    "available": true
+  },
+  {
     "package": "pushoverr",
     "maintainer": "Brian Connelly <bdc@bconnelly.net>",
     "url": "https://github.com/briandconnelly/pushoverr",
