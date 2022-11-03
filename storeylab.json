@@ -26,20 +26,6 @@
     "registry": "bioc"
   },
   {
-    "package": "gcatest",
-    "maintainer": "Wei Hao <whao@princeton.edu>",
-    "url": "https://github.com/storeylab/gcatest",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "lfa",
-    "maintainer": "Wei Hao <whao@princeton.edu>",
-    "url": "https://github.com/storeylab/lfa",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "qvalue",
     "maintainer": "John D. Storey <jstorey@princeton.edu>",
     "url": "https://github.com/storeylab/qvalue",
@@ -50,6 +36,20 @@
     "package": "subSeq",
     "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
     "url": "https://github.com/storeylab/subseq",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "gcatest",
+    "maintainer": "Wei Hao <whao@princeton.edu>",
+    "url": "https://github.com/storeylab/gcatest",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "lfa",
+    "maintainer": "Wei Hao <whao@princeton.edu>",
+    "url": "https://github.com/storeylab/lfa",
     "available": true,
     "registry": "bioc"
   }

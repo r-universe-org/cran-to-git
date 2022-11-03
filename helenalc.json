@@ -1,15 +1,15 @@
 [
   {
-    "package": "CATALYST",
-    "maintainer": "Helena L. Crowell <helena.crowell@uzh.ch>",
-    "url": "https://github.com/helenalc/catalyst",
+    "package": "muscat",
+    "maintainer": "Helena L. Crowell <helena@crowell.eu>",
+    "url": "https://github.com/helenalc/muscat",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "muscat",
-    "maintainer": "Helena L. Crowell <helena@crowell.eu>",
-    "url": "https://github.com/helenalc/muscat",
+    "package": "CATALYST",
+    "maintainer": "Helena L. Crowell <helena.crowell@uzh.ch>",
+    "url": "https://github.com/helenalc/catalyst",
     "available": true,
     "registry": "bioc"
   }

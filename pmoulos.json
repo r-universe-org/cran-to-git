@@ -1,12 +1,5 @@
 [
   {
-    "package": "metaseqR2",
-    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
-    "url": "https://github.com/pmoulos/metaseqr2",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "recoup",
     "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/recoup",
@@ -17,6 +10,13 @@
     "package": "sitadela",
     "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/sitadela",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "metaseqR2",
+    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
+    "url": "https://github.com/pmoulos/metaseqr2",
     "available": true,
     "registry": "bioc"
   }

@@ -1,12 +1,5 @@
 [
   {
-    "package": "dpeak",
-    "maintainer": "Dongjun Chung <dongjun.chung@gmail.com>",
-    "url": "https://github.com/dongjunchung/dpeak",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "GGPA",
     "maintainer": "Dongjun Chung <dongjun.chung@gmail.com>",
     "url": "https://github.com/dongjunchung/ggpa",
@@ -17,6 +10,13 @@
     "package": "GPA",
     "maintainer": "Dongjun Chung <dongjun.chung@gmail.com>",
     "url": "https://github.com/dongjunchung/gpa",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "dpeak",
+    "maintainer": "Dongjun Chung <dongjun.chung@gmail.com>",
+    "url": "https://github.com/dongjunchung/dpeak",
     "available": true,
     "registry": "bioc"
   }

@@ -48,13 +48,6 @@
     "registry": "bioc"
   },
   {
-    "package": "BiocCheck",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/bioconductor/bioccheck",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "BiocDockerManager",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocdockermanager",
@@ -70,7 +63,7 @@
   },
   {
     "package": "BiocGenerics",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/biocgenerics",
     "available": true,
     "registry": "bioc"
@@ -154,7 +147,7 @@
   },
   {
     "package": "GenomicAlignments",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomicalignments",
     "available": true,
     "registry": "bioc"
@@ -168,14 +161,14 @@
   },
   {
     "package": "GenomicFeatures",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomicfeatures",
     "available": true,
     "registry": "bioc"
   },
   {
     "package": "GenomicRanges",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomicranges",
     "available": true,
     "registry": "bioc"
@@ -188,15 +181,8 @@
     "registry": "bioc"
   },
   {
-    "package": "HubPub",
-    "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
-    "url": "https://github.com/bioconductor/hubpub",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "IRanges",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/iranges",
     "available": true,
     "registry": "bioc"
@@ -217,7 +203,7 @@
   },
   {
     "package": "Rhtslib",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/rhtslib",
     "available": true,
     "registry": "bioc"
@@ -231,7 +217,7 @@
   },
   {
     "package": "S4Vectors",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/s4vectors",
     "available": true,
     "registry": "bioc"
@@ -259,7 +245,7 @@
   },
   {
     "package": "SummarizedExperiment",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/summarizedexperiment",
     "available": true,
     "registry": "bioc"
@@ -296,6 +282,20 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "BiocCheck",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/bioccheck",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "HubPub",
+    "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
+    "url": "https://github.com/bioconductor/hubpub",
     "available": true,
     "registry": "bioc"
   }

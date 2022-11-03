@@ -1,15 +1,15 @@
 [
   {
-    "package": "getDEE2",
+    "package": "mitch",
     "maintainer": "Mark Ziemann <mark.ziemann@gmail.com>",
-    "url": "https://github.com/markziemann/getdee2",
+    "url": "https://github.com/markziemann/mitch",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "mitch",
+    "package": "getDEE2",
     "maintainer": "Mark Ziemann <mark.ziemann@gmail.com>",
-    "url": "https://github.com/markziemann/mitch",
+    "url": "https://github.com/markziemann/getdee2",
     "available": true,
     "registry": "bioc"
   }

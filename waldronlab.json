@@ -19,13 +19,6 @@
     "registry": "bioc"
   },
   {
-    "package": "cBioPortalData",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/waldronlab/cbioportaldata",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
     "package": "CNVRanger",
     "maintainer": "Ludwig Geistlinger <ludwig_geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/cnvranger",
@@ -71,6 +64,13 @@
     "package": "TENxIO",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tenxio",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "cBioPortalData",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/cbioportaldata",
     "available": true,
     "registry": "bioc"
   },
