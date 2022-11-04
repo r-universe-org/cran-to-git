@@ -1,5 +1,11 @@
 [
   {
+    "package": "eco",
+    "maintainer": "Ying Lu <ying.lu@nyu.edu>",
+    "url": "https://github.com/kosukeimai/eco",
+    "available": true
+  },
+  {
     "package": "experiment",
     "maintainer": "Kosuke Imai <imai@harvard.edu>",
     "url": "https://github.com/kosukeimai/experiment",
