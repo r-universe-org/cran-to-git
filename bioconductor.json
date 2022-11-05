@@ -143,7 +143,8 @@
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomeinfodb",
     "available": true,
-    "registry": "bioc"
+    "registry": "bioc",
+    "branch": "RELEASE_3_16"
   },
   {
     "package": "GenomicAlignments",

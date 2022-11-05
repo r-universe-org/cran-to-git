@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "rgeomstats",
+    "maintainer": "Aymeric Stamm <aymeric.stamm@math.cnrs.fr>",
+    "url": "https://github.com/lmjl-alea/rgeomstats",
+    "available": false
+  },
+  {
     "package": "squat",
     "maintainer": "Aymeric Stamm <aymeric.stamm@math.cnrs.fr>",
     "url": "https://github.com/lmjl-alea/squat",

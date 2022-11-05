@@ -1,5 +1,12 @@
 [
   {
+    "package": "GreedyExperimentalDesign",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/kapelner/greedyexperimentaldesign",
+    "subdir": "GreedyExperimentalDesign",
+    "available": true
+  },
+  {
     "package": "OptimalRerandExpDesigns",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/optimalrerandexpdesigns",
