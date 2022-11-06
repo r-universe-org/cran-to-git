@@ -14,16 +14,16 @@
     "registry": "bioc"
   },
   {
-    "package": "iSEEu",
+    "package": "iSEEhub",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
-    "url": "https://github.com/isee/iseeu",
+    "url": "https://github.com/isee/iseehub",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "iSEEhub",
+    "package": "iSEEu",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
-    "url": "https://github.com/isee/iseehub",
+    "url": "https://github.com/isee/iseeu",
     "available": true,
     "registry": "bioc"
   }

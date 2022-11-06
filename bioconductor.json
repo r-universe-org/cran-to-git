@@ -105,7 +105,7 @@
   },
   {
     "package": "BSgenome",
-    "maintainer": "H. Pagès <hpages.on.github@gmail.com>",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/bsgenome",
     "available": true,
     "registry": "bioc"
@@ -178,6 +178,13 @@
     "package": "HDF5Array",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/hdf5array",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "HubPub",
+    "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
+    "url": "https://github.com/bioconductor/hubpub",
     "available": true,
     "registry": "bioc"
   },
@@ -290,13 +297,6 @@
     "package": "BiocCheck",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/bioccheck",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "HubPub",
-    "maintainer": "Kayla Interdonato <kayla.morrell@roswellpark.org>",
-    "url": "https://github.com/bioconductor/hubpub",
     "available": true,
     "registry": "bioc"
   }

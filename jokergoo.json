@@ -77,16 +77,16 @@
     "registry": "bioc"
   },
   {
-    "package": "simplifyEnrichment",
+    "package": "rGREAT",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/simplifyenrichment",
+    "url": "https://github.com/jokergoo/rgreat",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "rGREAT",
+    "package": "simplifyEnrichment",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/rgreat",
+    "url": "https://github.com/jokergoo/simplifyenrichment",
     "available": true,
     "registry": "bioc"
   },

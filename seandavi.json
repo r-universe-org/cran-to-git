@@ -1,5 +1,12 @@
 [
   {
+    "package": "BiocPkgTools",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/seandavi/biocpkgtools",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "GEOquery",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/geoquery",
@@ -10,13 +17,6 @@
     "package": "methylumi",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/methylumi",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "BiocPkgTools",
-    "maintainer": "Sean Davis <seandavi@gmail.com>",
-    "url": "https://github.com/seandavi/biocpkgtools",
     "available": true,
     "registry": "bioc"
   }
