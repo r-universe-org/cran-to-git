@@ -1,5 +1,11 @@
 [
   {
+    "package": "laketemps",
+    "maintainer": "Jordan S Read <jread@usgs.gov>",
+    "url": "https://github.com/gleon/laketemps",
+    "available": true
+  },
+  {
     "package": "rLakeAnalyzer",
     "maintainer": "Luke Winslow <lawinslow@gmail.com>",
     "url": "https://github.com/gleon/rlakeanalyzer",
