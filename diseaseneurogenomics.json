@@ -1,5 +1,11 @@
 [
   {
+    "package": "remaCor",
+    "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
+    "url": "https://github.com/diseaseneurogenomics/remacor",
+    "available": true
+  },
+  {
     "package": "variancePartition",
     "maintainer": "Gabriel E. Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/variancepartition",

@@ -2532,6 +2532,7 @@ fmpcloudr,https://github.com/exploringfinance/fmpcloudr,,
 FMradio,https://github.com/cfwp/fmradio,,
 fmriqa,https://github.com/martin3141/fmriqa,,
 fMRIscrub,https://github.com/mandymejia/fmriscrub,,
+fMRItools,https://github.com/mandymejia/fmritools,,
 fmtr,https://github.com/dbosak01/fmtr,,
 foghorn,https://github.com/fmichonneau/foghorn,,
 foieGras,https://github.com/ianjonsen/foiegras,,
@@ -3632,6 +3633,7 @@ iNZightTS,https://github.com/inzightvit/inzightts,,
 io,https://bitbucket.org/djhshih/io,,
 IOHanalyzer,https://github.com/iohprofiler/iohanalyzer,,
 iotables,https://github.com/ropengov/iotables,,
+iotarelr,https://github.com/fberding/iotarelr,,
 iotools,https://github.com/s-u/iotools,,
 ip2location,https://github.com/ip2location/ip2location-r,,
 ipa,https://github.com/rossellhayes/ipa,,
@@ -3778,6 +3780,7 @@ jsTree,https://github.com/yonicd/jstree,,
 jsTreeR,https://github.com/stla/jstreer,,
 jti,https://github.com/mlindsk/jti,,
 jtools,https://github.com/jacob-long/jtools,,
+juicyjuice,https://github.com/rich-iannone/juicyjuice,,
 Julia,https://github.com/msuzen/julia,,
 JuliaCall,https://github.com/non-contradiction/juliacall,,
 junctions,https://github.com/thijsjanzen/junctions,,
@@ -5047,6 +5050,7 @@ npregfast,https://github.com/sestelo/npregfast,,
 npsurvSS,https://github.com/godwinyyung/npsurvss,,
 nsapi,https://github.com/rmhogervorst/nsapi,,
 nscancor,https://github.com/chrsigg/nscancor,,
+nse,https://github.com/keblu/nse,,
 nse2r,https://github.com/rsquaredacademy/nse2r,,
 NSO1212,https://github.com/galaamn/nso1212,,
 nsprcomp,https://github.com/chrsigg/nsprcomp,,
@@ -5855,7 +5859,6 @@ prompt,https://github.com/gaborcsardi/prompt,,
 prompter,https://github.com/etiennebacher/prompter,,
 promr,https://github.com/domodwyer/promr,,
 PropCIs,https://github.com/shearer/propcis,,
-propr,https://github.com/tpq/propr,,
 ProPublicaR,https://github.com/dietrichson/propublicar,,
 PROscorer,https://github.com/raybaser/proscorer,,
 PROscorerTools,https://github.com/mskcc-epi-bio/proscorertools,,
@@ -6435,7 +6438,7 @@ reinstallr,https://github.com/calligross/reinstallr,,
 relatable,https://github.com/domjarkey/relatable,,
 reliabilitydiag,https://github.com/aijordan/reliabilitydiag,,
 RelimpPCR,https://github.com/mhernan88/relimppcr,,
-remaCor,https://github.com/gabrielhoffman/remacor,,
+remaCor,https://github.com/diseaseneurogenomics/remacor,,
 remap,https://github.com/jadonwagstaff/remap,,
 rematch,https://github.com/mangothecat/rematch,,
 rematch2,https://github.com/r-lib/rematch2,,
@@ -6889,6 +6892,7 @@ rrnni,https://github.com/biods/rrnni,,
 rroad,https://github.com/vsimko/rroad,,
 RRPP,https://github.com/mlcollyer/rrpp,,
 rrr,https://github.com/chrisaddy/rrr,,
+RRreg,https://github.com/danheck/rrreg,,
 RRRR,https://github.com/finyang/rrrr,,
 rsae,https://github.com/tobiasschoch/rsae,,
 rSAFE,https://github.com/modeloriented/rsafe,,
@@ -8733,6 +8737,7 @@ venneuler,https://github.com/s-u/venneuler,,
 vennLasso,https://github.com/jaredhuling/vennlasso,,
 verbaliseR,https://github.com/cararthompson/verbaliser,,
 verbalisr,https://github.com/magnusdv/verbalisr,,
+vermeulen,https://github.com/ramiromagno/vermeulen,,
 versions,https://github.com/goldingn/versions,,
 vesselr,https://github.com/jdwor/vesselr,,
 vetiver,https://github.com/rstudio/vetiver-r,,
@@ -9025,7 +9030,6 @@ YPBP,https://github.com/fndemarqui/ypbp,,
 YPPE,https://github.com/fndemarqui/yppe,,
 ypr,https://github.com/poissonconsulting/ypr,,
 yum,https://gitlab.com/r-packages/yum,,
-zbank,https://github.com/ropensci-archive/zbank,,
 zCompositions,https://github.com/japal/zcompositions,,
 zcurve,https://github.com/fbartos/zcurve,,
 zdeskR,https://github.com/chrisumphlett/zdeskr,,
@@ -9074,6 +9078,7 @@ airpart,https://github.com/wancen/airpart,,bioc
 ALDEx2,https://github.com/ggloor/aldex_bioc,,bioc
 alevinQC,https://github.com/csoneson/alevinqc,,bioc
 AllelicImbalance,https://github.com/pappewaio/allelicimbalance,,bioc
+AlpsNMR,https://github.com/sipss/alpsnmr,,bioc
 amplican,https://github.com/valenlab/amplican,,bioc
 ANCOMBC,https://github.com/frederickhuanglin/ancombc,,bioc
 AneuFinder,https://github.com/ataudt/aneufinder,,bioc
@@ -9123,6 +9128,7 @@ biobroom,https://github.com/storeylab/biobroom,,bioc
 biobtreeR,https://github.com/tamerh/biobtreer,,bioc
 bioCancer,https://github.com/kmezhoud/biocancer,,bioc
 BiocBaseUtils,https://github.com/bioconductor/biocbaseutils,,bioc
+BiocCheck,https://github.com/bioconductor/bioccheck,,bioc
 BiocDockerManager,https://github.com/bioconductor/biocdockermanager,,bioc
 BiocFHIR,https://github.com/vjcitn/biocfhir,,bioc
 BiocFileCache,https://github.com/bioconductor/biocfilecache,,bioc
@@ -9308,6 +9314,7 @@ DNABarcodeCompatibility,https://github.com/comoto-pasteur-fr/dnabarcodecompatibi
 DNAfusion,https://github.com/ctriermaansson/dnafusion,,bioc
 doppelgangR,https://github.com/waldronlab/doppelgangr,,bioc
 DOSE,https://github.com/yulab-smu/dose,,bioc
+doubletrouble,https://github.com/almeidasilvaf/doubletrouble,,bioc
 dpeak,https://github.com/dongjunchung/dpeak,,bioc
 drawProteins,https://github.com/brennanpincardiff/drawproteins,,bioc
 drugTargetInteractions,https://github.com/girke-lab/drugtargetinteractions,,bioc
@@ -9398,6 +9405,7 @@ GeoDiff,https://github.com/nanostring-biostats/geodiff,,bioc
 GEOexplorer,https://github.com/guypwhunt/geoexplorer,,bioc
 GEOfastq,https://github.com/alexvpickering/geofastq,,bioc
 GEOquery,https://github.com/seandavi/geoquery,,bioc
+getDEE2,https://github.com/markziemann/getdee2,,bioc
 geva,https://github.com/sbcblab/geva,,bioc
 ggbio,https://github.com/lawremi/ggbio,,bioc
 ggcyto,https://github.com/rglab/ggcyto,,bioc
@@ -9435,6 +9443,7 @@ HDF5Array,https://github.com/bioconductor/hdf5array,,bioc
 HDTD,https://github.com/anestistouloumis/hdtd,,bioc
 Heatplus,https://github.com/alexploner/heatplus,,bioc
 hermes,https://github.com/insightsengineering/hermes,,bioc
+Herper,https://github.com/rockefelleruniversity/herper,,bioc
 HIBAG,https://github.com/zhengxwen/hibag,,bioc
 HiCcompare,https://github.com/dozmorovlab/hiccompare,,bioc
 HiCDOC,https://github.com/mzytnicki/hicdoc,,bioc
@@ -9542,6 +9551,7 @@ microbiomeDASim,https://github.com/williazo/microbiomedasim,,bioc
 microbiomeMarker,https://github.com/yiluheihei/microbiomemarker,,bioc
 MicrobiomeProfiler,https://github.com/yulab-smu/microbiomeprofiler,,bioc
 MicrobiotaProcess,https://github.com/yulab-smu/microbiotaprocess,,bioc
+microSTASIS,https://github.com/biotechpedro/microstasis,,bioc
 mimager,https://github.com/aaronwolen/mimager,,bioc
 mina,https://github.com/guan06/mina,,bioc
 minfi,https://github.com/hansenlab/minfi,,bioc
@@ -9739,6 +9749,7 @@ Risa,https://github.com/isa-tools/risa,,bioc
 RIVER,https://github.com/ipw012/river,,bioc
 RJMCMCNucleosomes,https://github.com/arnauddroitlab/rjmcmcnucleosomes,,bioc
 RLassoCox,https://github.com/weiliu123/rlassocox,,bioc
+RLSeq,https://github.com/bishop-laboratory/rlseq,,bioc
 rmelting,https://github.com/aravind-j/rmelting,,bioc
 RNAAgeCalc,https://github.com/reese3928/rnaagecalc,,bioc
 rnaEditr,https://github.com/transbioinfolab/rnaeditr,,bioc
@@ -9965,7 +9976,6 @@ SharedObject,https://github.com/jiefei-wang/sharedobject,,bioc
 swfdr,https://github.com/leekgroup/swfdr,,bioc
 Travel,https://github.com/jiefei-wang/travel,,bioc
 qrqc,https://github.com/vsbuffalo/qrqc,,bioc
-BiocCheck,https://github.com/bioconductor/bioccheck,,bioc
 NetPathMiner,https://github.com/ahmohamed/netpathminer,,bioc
 podkat,https://github.com/ubod/podkat,,bioc
 CopywriteR,https://github.com/peeperlab/copywriter,,bioc
@@ -10003,14 +10013,11 @@ ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 MethCP,https://github.com/boyinggong/methcp,,bioc
 randRotation,https://github.com/phettegger/randrotation,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
-getDEE2,https://github.com/markziemann/getdee2,,bioc
 uncoverappLib,https://github.com/manuelaio/uncoverapplib,,bioc
 spatialHeatmap,https://github.com/jianhaizhang/spatialheatmap,,bioc
-Herper,https://github.com/rockefelleruniversity/herper,,bioc
 musicatk,https://github.com/campbio/musicatk,,bioc
 tidySingleCellExperiment,https://github.com/stemangiola/tidysinglecellexperiment,,bioc
 NewWave,https://github.com/fedeago/newwave,,bioc
-AlpsNMR,https://github.com/sipss/alpsnmr,,bioc
 censcyt,https://github.com/retogerber/censcyt,,bioc
 wppi,https://github.com/anagalhoz37/wppi,,bioc
 MungeSumstats,https://github.com/neurogenomics/mungesumstats,,bioc
@@ -10025,7 +10032,6 @@ imcRtools,https://github.com/bodenmillergroup/imcrtools,,bioc
 nullranges,https://github.com/nullranges/nullranges,,bioc
 MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
 biodbLipidmaps,https://github.com/pkrog/biodblipidmaps,,bioc
-RLSeq,https://github.com/bishop-laboratory/rlseq,,bioc
 sccomp,https://github.com/stemangiola/sccomp,,bioc
 netZooR,https://github.com/netzoo/netzoor,,bioc
 seqArchR,https://github.com/snikumbh/seqarchr,,bioc
@@ -10036,3 +10042,4 @@ ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 scifer,https://github.com/rodrigarc/scifer,,bioc
 ccImpute,https://github.com/khazum/ccimpute,,bioc
+IFAA,https://github.com/quranwu/ifaa,,bioc

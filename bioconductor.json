@@ -54,6 +54,14 @@
     "branch": "RELEASE_3_16"
   },
   {
+    "package": "BiocCheck",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/bioccheck",
+    "available": true,
+    "registry": "bioc",
+    "branch": "RELEASE_3_16"
+  },
+  {
     "package": "BiocDockerManager",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocdockermanager",
@@ -328,14 +336,6 @@
     "package": "zlibbioc",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/zlibbioc",
-    "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_16"
-  },
-  {
-    "package": "BiocCheck",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/bioconductor/bioccheck",
     "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_16"
