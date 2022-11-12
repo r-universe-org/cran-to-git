@@ -234,6 +234,12 @@
     "available": true
   },
   {
+    "package": "daiquiri",
+    "maintainer": "T. Phuong Quan <phuong.quan@ndm.ox.ac.uk>",
+    "url": "https://github.com/ropensci/daiquiri",
+    "available": true
+  },
+  {
     "package": "datapack",
     "maintainer": "Matthew B. Jones <jones@nceas.ucsb.edu>",
     "url": "https://github.com/ropensci/datapack",
@@ -763,7 +769,7 @@
   },
   {
     "package": "rcrossref",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "maintainer": "Najko Jahn <najko.jahn@gmail.com>",
     "url": "https://github.com/ropensci/rcrossref",
     "available": true
   },
@@ -829,7 +835,7 @@
   },
   {
     "package": "restez",
-    "maintainer": "Joel Nitta <joelnitta@gmail.com>",
+    "maintainer": "Joel H. Nitta <joelnitta@gmail.com>",
     "url": "https://github.com/ropensci/restez",
     "available": true
   },
@@ -943,7 +949,7 @@
   },
   {
     "package": "rredlist",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "maintainer": "William Gearty <willgearty@gmail.com>",
     "url": "https://github.com/ropensci/rredlist",
     "available": true
   },

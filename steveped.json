@@ -1,15 +1,15 @@
 [
   {
-    "package": "ngsReports",
+    "package": "extraChIPs",
     "maintainer": "Stephen Pederson <stephen.pederson.au@gmail.com>",
-    "url": "https://github.com/steveped/ngsreports",
+    "url": "https://github.com/steveped/extrachips",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "extraChIPs",
+    "package": "ngsReports",
     "maintainer": "Stephen Pederson <stephen.pederson.au@gmail.com>",
-    "url": "https://github.com/steveped/extrachips",
+    "url": "https://github.com/steveped/ngsreports",
     "available": true,
     "registry": "bioc"
   }

@@ -464,7 +464,6 @@ bayesnec,https://github.com/open-aims/bayesnec,,
 BayesNetBP,https://github.com/hyu-ub/bayesnetbp,BayesNetBP,
 bayesplot,https://github.com/stan-dev/bayesplot,,
 BayesPostEst,https://github.com/shanascogin/bayespostest,,
-Bayesrel,https://github.com/juliuspf/bayesrel,,
 bayesrules,https://github.com/bayes-rules/bayesrules,,
 bayess,https://github.com/jmm34/bayess,,
 BayesSampling,https://github.com/pedrosfig/bayessampling,,
@@ -863,7 +862,6 @@ cartogram,https://github.com/sjewo/cartogram,,
 cartography,https://github.com/riatelab/cartography,,
 Cascade,https://github.com/fbertran/cascade,,
 CascadeData,https://github.com/fbertran/cascadedata,,
-casebase,https://github.com/sahirbhatnagar/casebase,,
 casino,https://github.com/anthonypileggi/casino,,
 cassowaryr,https://github.com/numbats/cassowaryr,,
 CAST,https://github.com/hannameyer/cast,,
@@ -1178,6 +1176,7 @@ combiroc,https://github.com/ingmbioinfo/combiroc,,
 combiter,https://github.com/kota7/combiter,,
 cometr,https://github.com/comet-ml/cometr,,
 comFuncs,https://github.com/tucai/comfuncs,,
+commafree,https://github.com/t-kalinowski/commafree,,
 commentr,https://bitbucket.org/cancercentrum/commentr,,
 CommKern,https://github.com/aljensen89/commkern,,
 common,https://github.com/dbosak01/common,,
@@ -1490,6 +1489,7 @@ dadjokeapi,https://github.com/jhollist/dadjokeapi,,
 dados,https://github.com/cienciadedatos/dados,,
 daff,https://github.com/edwindj/daff,,
 dagitty,https://github.com/jtextor/dagitty,r,
+daiquiri,https://github.com/ropensci/daiquiri,,
 daiR,https://github.com/hegghammer/dair,,
 DAISIE,https://github.com/rsetienne/daisie,,
 DALEX,https://github.com/modeloriented/dalex,,
@@ -2216,7 +2216,6 @@ ETLUtils,https://github.com/jwijffels/etlutils,,
 etrader,https://github.com/exploringfinance/etrader,,
 etree,https://github.com/ricgbl/etree,,
 eulerr,https://github.com/jolars/eulerr,,
-eurlex,https://github.com/michalovadek/eurlex,,
 eurocordexr,https://github.com/mitmat/eurocordexr,,
 eurodata,https://github.com/alekrutkowski/eurodata,,
 europeanaR,https://github.com/alekoure/europeanar,,
@@ -2737,7 +2736,6 @@ gen3sis,https://github.com/project-gen3sis/r-package,,
 gender,https://github.com/lmullen/gender,,
 genderBR,https://github.com/meirelesff/genderbr,,
 geneHummus,https://github.com/ncbi-hackathons/genehummus,,
-genekitr,https://github.com/ganglilab/genekitr,,
 genemodel,https://github.com/greymonroe/genemodel,,
 GeneralizedHyperbolic,https://github.com/r-forge/rmetrics,pkg/GeneralizedHyperbolic,
 GeneralizedUmatrix,https://github.com/mthrun/generalizedumatrix,,
@@ -2745,7 +2743,6 @@ generator,https://github.com/paulhendricks/generator,,
 GenericML,https://github.com/mwelz/genericml,,
 generics,https://github.com/r-lib/generics,,
 genero,https://github.com/datasketch/genero,,
-geneset,https://github.com/ganglilab/geneset,,
 geneticae,https://github.com/jangelini/geneticae,,
 GeNetIt,https://github.com/jeffreyevans/genetit,,
 genie,https://github.com/gagolews/genie,,
@@ -3381,7 +3378,6 @@ htm2txt,https://github.com/replicable/htm2txt,,
 htmcglm,https://github.com/lineu96/htmcglm,,
 html2R,https://github.com/stla/html2r,,
 htmldf,https://github.com/alastairrushworth/htmldf,,
-htmltab,https://github.com/htmltab/htmltab,,
 htmlTable,https://github.com/gforge/htmltable,,
 htmltools,https://github.com/rstudio/htmltools,,
 htmlwidgets,https://github.com/ramnathv/htmlwidgets,,
@@ -7782,6 +7778,7 @@ splusTimeDate,https://github.com/spkaluzny/splustimedate,,
 splusTimeSeries,https://github.com/spkaluzny/splustimeseries,,
 splutil,https://github.com/sykdomspulsen-org/splutil,,
 spMaps,https://github.com/rte-antares-rpackage/spmaps,,
+spmodel,https://github.com/usepa/spmodel,,
 spNetwork,https://github.com/jeremygelb/spnetwork,,
 spocc,https://github.com/ropensci/spocc,,
 spOccupancy,https://github.com/doserjef/spoccupancy,,
@@ -8618,7 +8615,6 @@ UniprotR,https://github.com/proteomicslab57357/uniprotr,,
 uniqtag,https://github.com/sjackman/uniqtag,,
 unisensR,https://github.com/unisens/unisensr,,
 uniset,https://github.com/bpollner/uniset,,
-uniswappeR,https://github.com/omni-analytics-group/uniswapper,,
 UnitCircle,https://github.com/berrij/unitcircle,,
 unitizer,https://github.com/brodieg/unitizer,,
 unitquantreg,https://github.com/andrmenezes/unitquantreg,,
@@ -9329,6 +9325,7 @@ eiR,https://github.com/girke-lab/eir,,bioc
 eisaR,https://github.com/fmicompbio/eisar,,bioc
 EnhancedVolcano,https://github.com/kevinblighe/enhancedvolcano,,bioc
 enhancerHomologSearch,https://github.com/jianhong/enhancerhomologsearch,,bioc
+EnrichedHeatmap,https://github.com/jokergoo/enrichedheatmap,,bioc
 EnrichmentBrowser,https://github.com/lgeistlinger/enrichmentbrowser,,bioc
 enrichplot,https://github.com/guangchuangyu/enrichplot,,bioc
 enrichTF,https://github.com/wzthu/enrichtf,,bioc
@@ -9352,6 +9349,7 @@ EWCE,https://github.com/nathanskene/ewce,,bioc
 exomePeak2,https://github.com/zw-xjtlu/exomepeak2,,bioc
 ExperimentHub,https://github.com/bioconductor/experimenthub,,bioc
 ExploreModelMatrix,https://github.com/csoneson/exploremodelmatrix,,bioc
+extraChIPs,https://github.com/steveped/extrachips,,bioc
 factR,https://github.com/fursham-h/factr,,bioc
 FamAgg,https://github.com/euracbiomedicalresearch/famagg,,bioc
 famat,https://github.com/emiliesecherre/famat,,bioc
@@ -9809,6 +9807,7 @@ SCnorm,https://github.com/rhondabacher/scnorm,,bioc
 scone,https://github.com/yoseflab/scone,,bioc
 scp,https://github.com/uclouvain-cbio/scp,,bioc
 scPCA,https://github.com/philboileau/scpca,,bioc
+scPipe,https://github.com/luyitian/scpipe,,bioc
 scReClassify,https://github.com/sydneybiox/screclassify,,bioc
 ScreenR,https://github.com/emanuelsoda/screenr,,bioc
 scruff,https://github.com/campbio/scruff,,bioc
@@ -9972,9 +9971,11 @@ zFPKM,https://github.com/ronammar/zfpkm,,bioc
 zinbwave,https://github.com/drisso/zinbwave,,bioc
 zlibbioc,https://github.com/bioconductor/zlibbioc,,bioc
 EnMCB,https://github.com/whirlsyu/enmcb,,bioc
+OmnipathR,https://github.com/saezlab/omnipathr,,bioc
 SharedObject,https://github.com/jiefei-wang/sharedobject,,bioc
 swfdr,https://github.com/leekgroup/swfdr,,bioc
 Travel,https://github.com/jiefei-wang/travel,,bioc
+wppi,https://github.com/anagalhoz37/wppi,,bioc
 qrqc,https://github.com/vsbuffalo/qrqc,,bioc
 NetPathMiner,https://github.com/ahmohamed/netpathminer,,bioc
 podkat,https://github.com/ubod/podkat,,bioc
@@ -9982,7 +9983,6 @@ CopywriteR,https://github.com/peeperlab/copywriter,,bioc
 miRLAB,https://github.com/pvvhoang/mirlab,,bioc
 TCGAbiolinks,https://github.com/bioinformaticsfmrp/tcgabiolinks,,bioc
 motifbreakR,https://github.com/simon-coetzee/motifbreakr,,bioc
-EnrichedHeatmap,https://github.com/jokergoo/enrichedheatmap,,bioc
 gcatest,https://github.com/storeylab/gcatest,,bioc
 lfa,https://github.com/storeylab/lfa,,bioc
 GenVisR,https://github.com/griffithlab/genvisr,,bioc
@@ -9992,7 +9992,6 @@ TVTB,https://github.com/kevinrue/tvtb,,bioc
 MIGSA,https://github.com/jcrodriguez1989/migsa,,bioc
 rqt,https://github.com/izhbannikov/rqt,,bioc
 CATALYST,https://github.com/helenalc/catalyst,,bioc
-scPipe,https://github.com/luyitian/scpipe,,bioc
 RcisTarget,https://github.com/aertslab/rcistarget,,bioc
 diffcyt,https://github.com/lmweber/diffcyt,,bioc
 epihet,https://github.com/thejacksonlaboratory/epihet,,bioc
@@ -10008,7 +10007,6 @@ MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 brendaDb,https://github.com/y1zhou/brendadb,,bioc
 SEtools,https://github.com/plger/setools,,bioc
 SAIGEgds,https://github.com/abbvie-computationalgenomics/saigegds,,bioc
-OmnipathR,https://github.com/saezlab/omnipathr,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 MethCP,https://github.com/boyinggong/methcp,,bioc
 randRotation,https://github.com/phettegger/randrotation,,bioc
@@ -10019,7 +10017,6 @@ musicatk,https://github.com/campbio/musicatk,,bioc
 tidySingleCellExperiment,https://github.com/stemangiola/tidysinglecellexperiment,,bioc
 NewWave,https://github.com/fedeago/newwave,,bioc
 censcyt,https://github.com/retogerber/censcyt,,bioc
-wppi,https://github.com/anagalhoz37/wppi,,bioc
 MungeSumstats,https://github.com/neurogenomics/mungesumstats,,bioc
 immunotation,https://github.com/imkeller/immunotation,,bioc
 miloR,https://github.com/marionilab/milor,,bioc
@@ -10037,7 +10034,6 @@ netZooR,https://github.com/netzoo/netzoor,,bioc
 seqArchR,https://github.com/snikumbh/seqarchr,,bioc
 protGear,https://github.com/keniajin/protgear,,bioc
 pareg,https://github.com/cbg-ethz/pareg,,bioc
-extraChIPs,https://github.com/steveped/extrachips,,bioc
 ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 scifer,https://github.com/rodrigarc/scifer,,bioc
