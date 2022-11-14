@@ -24,6 +24,12 @@
     "available": false
   },
   {
+    "package": "gtfs2emis",
+    "maintainer": "Joao Bazzo <joao.bazzo@gmail.com>",
+    "url": "https://github.com/ipeagit/gtfs2emis",
+    "available": true
+  },
+  {
     "package": "gtfs2gps",
     "maintainer": "Pedro R. Andrade <pedro.andrade@inpe.br>",
     "url": "https://github.com/ipeagit/gtfs2gps",

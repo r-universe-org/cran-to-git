@@ -606,6 +606,12 @@
     "available": true
   },
   {
+    "package": "npi",
+    "maintainer": "Frank Farach <frank.farach@gmail.com>",
+    "url": "https://github.com/ropensci/npi",
+    "available": true
+  },
+  {
     "package": "oai",
     "maintainer": "Michal Bojanowski <michal2992@gmail.com>",
     "url": "https://github.com/ropensci/oai",
