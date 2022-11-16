@@ -510,6 +510,12 @@
     "available": true
   },
   {
+    "package": "slider",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/r-lib/slider",
+    "available": true
+  },
+  {
     "package": "sloop",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/sloop",

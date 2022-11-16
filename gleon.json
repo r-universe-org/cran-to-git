@@ -1,5 +1,11 @@
 [
   {
+    "package": "LakeMetabolizer",
+    "maintainer": "Jake Zwart <jayzlimno@gmail.com>",
+    "url": "https://github.com/gleon/lakemetabolizer",
+    "available": true
+  },
+  {
     "package": "laketemps",
     "maintainer": "Jordan S Read <jread@usgs.gov>",
     "url": "https://github.com/gleon/laketemps",
