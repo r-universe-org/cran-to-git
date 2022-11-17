@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "matlab2r",
+    "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
+    "url": "https://github.com/ocbe-uio/matlab2r",
+    "available": true
+  },
+  {
     "package": "TruncExpFam",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
     "url": "https://github.com/ocbe-uio/truncexpfam",

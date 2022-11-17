@@ -862,6 +862,7 @@ cartogram,https://github.com/sjewo/cartogram,,
 cartography,https://github.com/riatelab/cartography,,
 Cascade,https://github.com/fbertran/cascade,,
 CascadeData,https://github.com/fbertran/cascadedata,,
+casebase,https://github.com/sahirbhatnagar/casebase,,
 casino,https://github.com/anthonypileggi/casino,,
 cassowaryr,https://github.com/numbats/cassowaryr,,
 CAST,https://github.com/hannameyer/cast,,
@@ -1506,6 +1507,7 @@ dapr,https://github.com/mkearney/dapr,,
 daqapo,https://github.com/bupaverse/daqapo,,
 Dark,https://github.com/emkayoh/dark,,
 darksky,https://github.com/hrbrmstr/darksky,,
+dartR.data,https://github.com/green-striped-gecko/dartr.data,,
 dashboardthemes,https://github.com/nik01010/dashboardthemes,,
 dashPivottable,https://github.com/plotly/dash-pivottable,,
 dat,https://github.com/wahani/dat,,
@@ -1589,7 +1591,6 @@ DDoutlier,https://github.com/jhmadsen/ddoutlier,,
 ddpcr,https://github.com/daattali/ddpcr,,
 DDPNA,https://github.com/liukf10/ddpna,DDPNA,
 DEBBI,https://github.com/bmgaldo/debbi,,
-deBInfer,https://github.com/pboesu/debinfer,,
 debugme,https://github.com/r-lib/debugme,,
 debugr,https://github.com/jsugarelli/debugr,,
 DeCAFS,https://github.com/gtromano/decafs,,
@@ -2183,7 +2184,6 @@ equatags,https://github.com/ardata-fr/equatags,,
 equate,https://github.com/talbano/equate,,
 equatiomatic,https://github.com/datalorax/equatiomatic,,
 equivUMP,https://github.com/thmild/equivump,,
-era,https://github.com/joeroe/era,,
 ergm,https://github.com/statnet/ergm,,
 ergm.count,https://github.com/statnet/ergm.count,,
 ergm.ego,https://github.com/statnet/ergm.ego,,
@@ -2618,6 +2618,7 @@ frequencyConnectedness,https://github.com/tomaskrehlik/frequencyconnectedness,,
 frequentdirections,https://github.com/shinichi-takayanagi/frequentdirections,,
 fresh,https://github.com/dreamrs/fresh,,
 freshr,https://github.com/shawnlinxl/freshr,,
+frictionless,https://github.com/frictionlessdata/frictionless-r,,
 friends,https://github.com/emilhvitfeldt/friends,,
 FRK,https://github.com/andrewzm/frk,,
 fromo,https://github.com/shabbychef/fromo,,
@@ -3673,6 +3674,7 @@ IRon,https://github.com/nunompmoniz/iron,,
 IrregLong,https://github.com/epullenayegum/irreglong,,
 irt,https://github.com/egonulates/irt,,
 IRTest,https://github.com/seewooli/irtest,,
+irtpwr,https://github.com/flxzimmer/irtpwr,,
 isa2,https://github.com/gaborcsardi/isa,isa2,
 isatabr,https://github.com/biometris/isatabr,,
 iscoCrosswalks,https://github.com/eworx-org/iscocrosswalks,,
@@ -4266,6 +4268,7 @@ MatchThem,https://github.com/farhadpishgar/matchthem,,
 materialmodifier,https://github.com/tsuda16k/materialmodifier,,
 mathjaxr,https://github.com/wviechtb/mathjaxr,,
 mathpix,https://github.com/jonocarroll/mathpix,,
+matlab2r,https://github.com/ocbe-uio/matlab2r,,
 matlabr,https://github.com/muschellij2/matlabr,,
 matlib,https://github.com/friendly/matlib,,
 matricks,https://github.com/krzjoa/matricks,,
@@ -4373,6 +4376,7 @@ memor,https://github.com/hebrewseniorlife/memor,,
 memuse,https://github.com/shinra-dev/memuse,,
 merDeriv,https://github.com/nctingwang/merderiv,,
 merTools,https://github.com/jknowles/mertools,,
+MeshAgreement,https://github.com/dwoll/meshagreement,,
 MeshesTools,https://github.com/stla/meshestools,,
 MESS,https://github.com/ekstroem/mess,,
 messaging,https://github.com/rich-iannone/messaging,,
@@ -8267,6 +8271,7 @@ thriftr,https://github.com/systemincloud/thriftr,,
 thurstonianIRT,https://github.com/paul-buerkner/thurstonianirt,,
 tibble,https://github.com/tidyverse/tibble,,
 tibbletime,https://github.com/business-science/tibbletime,,
+tibblify,https://github.com/mgirlich/tibblify,,
 tictactoe,https://github.com/kota7/tictactoe,,
 tictoc,https://github.com/jabiru/tictoc,,
 tidybayes,https://github.com/mjskay/tidybayes,,
@@ -8801,6 +8806,7 @@ VLTimeCausality,https://github.com/darkeyes/vltimeseriescausality,,
 VMDecomp,https://github.com/mlampros/vmdecomp,,
 vmr,https://gitlab.com/rstuff/vmr,,
 voice,https://github.com/filipezabala/voice,,
+vol2birdR,https://github.com/adokter/vol2birdr,,
 volcano3D,https://github.com/katrionagoldmann/volcano3d,,
 volleystat,https://github.com/bozhinvi/volleystat,,
 voluModel,https://github.com/hannahlowens/volumodel,,
@@ -9831,6 +9837,7 @@ sechm,https://github.com/plger/sechm,,bioc
 segmenter,https://github.com/mahshaaban/segmenter,,bioc
 SemDist,https://github.com/iangonzalez/semdist,,bioc
 semisup,https://github.com/rauschenberger/semisup,,bioc
+seqArchR,https://github.com/snikumbh/seqarchr,,bioc
 SeqArray,https://github.com/zhengxwen/seqarray,,bioc
 seqcombo,https://github.com/yulab-smu/seqcombo,,bioc
 SeqGate,https://github.com/srialle/seqgate,,bioc
@@ -9997,6 +10004,7 @@ netboost,https://github.com/pascalschlosser/netboost,,bioc
 NetPathMiner,https://github.com/ahmohamed/netpathminer,,bioc
 protGear,https://github.com/keniajin/protgear,,bioc
 randRotation,https://github.com/phettegger/randrotation,,bioc
+SAIGEgds,https://github.com/abbvie-computationalgenomics/saigegds,,bioc
 scifer,https://github.com/rodrigarc/scifer,,bioc
 qrqc,https://github.com/vsbuffalo/qrqc,,bioc
 podkat,https://github.com/ubod/podkat,,bioc
@@ -10022,7 +10030,6 @@ lipidr,https://github.com/ahmohamed/lipidr,,bioc
 MMAPPR2,https://github.com/jonathonthill/mmappr2,,bioc
 brendaDb,https://github.com/y1zhou/brendadb,,bioc
 SEtools,https://github.com/plger/setools,,bioc
-SAIGEgds,https://github.com/abbvie-computationalgenomics/saigegds,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 MethCP,https://github.com/boyinggong/methcp,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
@@ -10046,7 +10053,6 @@ MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
 biodbLipidmaps,https://github.com/pkrog/biodblipidmaps,,bioc
 sccomp,https://github.com/stemangiola/sccomp,,bioc
 netZooR,https://github.com/netzoo/netzoor,,bioc
-seqArchR,https://github.com/snikumbh/seqarchr,,bioc
 pareg,https://github.com/cbg-ethz/pareg,,bioc
 ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
