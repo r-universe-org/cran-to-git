@@ -18,7 +18,8 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationfilter",
     "available": true,
-    "registry": "bioc"
+    "registry": "bioc",
+    "branch": "RELEASE_3_16"
   },
   {
     "package": "AnnotationForge",
@@ -33,7 +34,8 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationhub",
     "available": true,
-    "registry": "bioc"
+    "registry": "bioc",
+    "branch": "RELEASE_3_16"
   },
   {
     "package": "Biobase",
