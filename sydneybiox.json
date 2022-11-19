@@ -33,5 +33,12 @@
     "url": "https://github.com/sydneybiox/simpleseg",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "ClassifyR",
+    "maintainer": "Dario Strbenac <dario.strbenac@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/classifyr",
+    "available": true,
+    "registry": "bioc"
   }
 ]

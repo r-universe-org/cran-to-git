@@ -90,6 +90,12 @@
     "available": true
   },
   {
+    "package": "mlr3mbo",
+    "maintainer": "Lennart Schneider <lennart.sch@web.de>",
+    "url": "https://github.com/mlr-org/mlr3mbo",
+    "available": true
+  },
+  {
     "package": "mlr3measures",
     "maintainer": "Michel Lang <michellang@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3measures",
@@ -117,6 +123,12 @@
     "package": "mlr3spatial",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3spatial",
+    "available": true
+  },
+  {
+    "package": "mlr3spatiotempcv",
+    "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3spatiotempcv",
     "available": true
   },
   {

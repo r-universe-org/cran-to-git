@@ -3,18 +3,18 @@
     "package": "org",
     "maintainer": "Richard Aubrey White <hello@rwhite.no>",
     "url": "https://github.com/sykdomspulsen-org/org",
-    "available": true
+    "available": false
   },
   {
     "package": "plnr",
     "maintainer": "Richard Aubrey White <hello@rwhite.no>",
     "url": "https://github.com/sykdomspulsen-org/plnr",
-    "available": true
+    "available": false
   },
   {
     "package": "splutil",
     "maintainer": "Richard Aubrey White <sykdomspulsen@fhi.no>",
     "url": "https://github.com/sykdomspulsen-org/splutil",
-    "available": true
+    "available": false
   }
 ]
