@@ -744,6 +744,12 @@
     "available": true
   },
   {
+    "package": "prismjs",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/ropensci/prismjs",
+    "available": true
+  },
+  {
     "package": "qpdf",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/qpdf",
