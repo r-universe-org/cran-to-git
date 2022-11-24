@@ -1,5 +1,11 @@
 [
   {
+    "package": "ggredist",
+    "maintainer": "Christopher T. Kenny <christopherkenny@fas.harvard.edu>",
+    "url": "https://github.com/alarm-redist/ggredist",
+    "available": true
+  },
+  {
     "package": "redist",
     "maintainer": "Christopher T. Kenny <christopherkenny@fas.harvard.edu>",
     "url": "https://github.com/alarm-redist/redist",

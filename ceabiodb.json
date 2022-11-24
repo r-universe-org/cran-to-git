@@ -5,5 +5,40 @@
     "url": "https://github.com/ceabiodb/biodb",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "biodbChebi",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodbchebi",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "biodbHmdb",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodbhmdb",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "biodbKegg",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodbkegg",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "biodbUniprot",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodbuniprot",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "biodbLipidmaps",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodblipidmaps",
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -1423,6 +1423,7 @@ crypto2,https://github.com/sstoeckl/crypto2,,
 cryptowatchR,https://github.com/lorenzbr/cryptowatchr,,
 csa,https://github.com/imarkonis/csa,,
 CSCDRNA,https://github.com/empiricalbayes/cscdrna,,
+csdata,https://github.com/csids/csdata,,
 cSEM,https://github.com/m-e-rademaker/csem,,
 CSGo,https://github.com/adsoncostanzifilho/csgo,,
 CSHShydRology,https://github.com/cshs-hydrology/cshshydrology,,
@@ -2216,7 +2217,6 @@ EstimDiagnostics,https://gitlab.com/dmitry_otryakhin/diagnostics-and-tests-for-s
 estmeansd,https://github.com/stmcg/estmeansd,,
 esvis,https://github.com/datalorax/esvis,,
 et.nwfva,https://github.com/rnuske/et.nwfva,,
-ETAS,https://github.com/jalilian/etas,,
 ethnobotanyR,https://github.com/cwwhitney/ethnobotanyr,,
 etl,https://github.com/beanumber/etl,,
 ETLUtils,https://github.com/jwijffels/etlutils,,
@@ -2749,6 +2749,7 @@ gen3sis,https://github.com/project-gen3sis/r-package,,
 gender,https://github.com/lmullen/gender,,
 genderBR,https://github.com/meirelesff/genderbr,,
 geneHummus,https://github.com/ncbi-hackathons/genehummus,,
+genekitr,https://github.com/ganglilab/genekitr,,
 genemodel,https://github.com/greymonroe/genemodel,,
 GeneralizedHyperbolic,https://github.com/r-forge/rmetrics,pkg/GeneralizedHyperbolic,
 GeneralizedUmatrix,https://github.com/mthrun/generalizedumatrix,,
@@ -2965,6 +2966,7 @@ ggRandomForests,https://github.com/ehrlinger/ggrandomforests,,
 ggraph,https://github.com/thomasp85/ggraph,,
 ggraptR,https://github.com/cargomoose/ggraptr,,
 ggrastr,https://github.com/vpetukhov/ggrastr,,
+ggredist,https://github.com/alarm-redist/ggredist,,
 ggrepel,https://github.com/slowkow/ggrepel,,
 ggResidpanel,https://github.com/goodekat/ggresidpanel,,
 ggridges,https://github.com/wilkelab/ggridges,,
@@ -5440,7 +5442,6 @@ PCRedux,https://github.com/pcruniversum/pcredux,,
 PCSinR,https://github.com/felixhenninger/pcsinr,,
 pcsstools,https://github.com/jackmwolf/pcsstools,,
 pcSteiner,https://github.com/krashkov/pcsteiner,,
-pct,https://github.com/itsleeds/pct,,
 pcts,https://github.com/geobosh/pcts,,
 pdfetch,https://github.com/abielr/pdfetch,,
 pdfsearch,https://github.com/lebebr01/pdfsearch,,
@@ -5641,6 +5642,7 @@ pliman,https://github.com/tiagoolivoto/pliman,,
 plinkQC,https://github.com/meyer-lab-cshl/plinkqc,,
 plm,https://github.com/ycroissant/plm,,
 PLNmodels,https://github.com/pln-team/plnmodels,,
+plnr,https://github.com/csids/plnr,,
 plogr,https://github.com/krlmlr/plogr,,
 plot.matrix,https://github.com/sigbertklinke/plot.matrix,,
 plot3logit,https://github.com/f-santi/plot3logit,,
@@ -5679,7 +5681,6 @@ pmd,https://github.com/yufree/pmd,,
 pmetar,https://github.com/prcwiek/pmetar,,
 pmlbr,https://github.com/epistasislab/pmlbr,,
 pmml,https://github.com/softwareag/r-pmml,,
-pmparser,https://github.com/hugheylab/pmparser,,
 pmwg,https://github.com/newcastlecl/pmwg,,
 PMwR,https://gitlab.com/enricoschumann/pmwr,,
 pmxTools,https://github.com/kestrel99/pmxtools,,
@@ -7318,6 +7319,7 @@ sentimentr,https://github.com/trinker/sentimentr,,
 sentometrics,https://github.com/sentometricsresearch/sentometrics,,
 sentopics,https://github.com/odelmarcelle/sentopics,,
 sentryR,https://github.com/ozean12/sentryr,,
+sepkoski,https://github.com/lewisajones/sepkoski,,
 seqDesign,https://github.com/mjuraska/seqdesign,,
 SeqExpMatch,https://github.com/kapelner/matching_on_the_fly_designs_r_package_and_paper_repr,SeqExpMatch,
 seqgendiff,https://github.com/dcgerard/seqgendiff,,
@@ -9178,11 +9180,11 @@ BiocStyle,https://github.com/bioconductor/biocstyle,,bioc
 biocthis,https://github.com/lcolladotor/biocthis,,bioc
 biocViews,https://github.com/bioconductor/biocviews,,bioc
 biodb,https://github.com/ceabiodb/biodb,,bioc
-biodbChebi,https://github.com/pkrog/biodbchebi,,bioc
-biodbHmdb,https://github.com/pkrog/biodbhmdb,,bioc
-biodbKegg,https://github.com/pkrog/biodbkegg,,bioc
+biodbChebi,https://github.com/ceabiodb/biodbchebi,,bioc
+biodbHmdb,https://github.com/ceabiodb/biodbhmdb,,bioc
+biodbKegg,https://github.com/ceabiodb/biodbkegg,,bioc
 biodbNcbi,https://github.com/pkrog/biodbncbi,,bioc
-biodbUniprot,https://github.com/pkrog/biodbuniprot,,bioc
+biodbUniprot,https://github.com/ceabiodb/biodbuniprot,,bioc
 biomformat,https://github.com/joey711/biomformat,,bioc
 BioNERO,https://github.com/almeidasilvaf/bionero,,bioc
 BioNetStat,https://github.com/jardimviniciusc/bionetstat,,bioc
@@ -10015,6 +10017,7 @@ zinbwave,https://github.com/drisso/zinbwave,,bioc
 zlibbioc,https://github.com/bioconductor/zlibbioc,,bioc
 EnMCB,https://github.com/whirlsyu/enmcb,,bioc
 OmnipathR,https://github.com/saezlab/omnipathr,,bioc
+pareg,https://github.com/cbg-ethz/pareg,,bioc
 SharedObject,https://github.com/jiefei-wang/sharedobject,,bioc
 swfdr,https://github.com/leekgroup/swfdr,,bioc
 Travel,https://github.com/jiefei-wang/travel,,bioc
@@ -10072,10 +10075,9 @@ svaRetro,https://github.com/papenfusslab/svaretro,,bioc
 imcRtools,https://github.com/bodenmillergroup/imcrtools,,bioc
 nullranges,https://github.com/nullranges/nullranges,,bioc
 MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
-biodbLipidmaps,https://github.com/pkrog/biodblipidmaps,,bioc
+biodbLipidmaps,https://github.com/ceabiodb/biodblipidmaps,,bioc
 sccomp,https://github.com/stemangiola/sccomp,,bioc
 netZooR,https://github.com/netzoo/netzoor,,bioc
-pareg,https://github.com/cbg-ethz/pareg,,bioc
 ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 ccImpute,https://github.com/khazum/ccimpute,,bioc
