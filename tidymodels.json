@@ -186,6 +186,12 @@
     "available": true
   },
   {
+    "package": "tidyclust",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/tidymodels/tidyclust",
+    "available": true
+  },
+  {
     "package": "tidymodels",
     "maintainer": "Max Kuhn <max@rstudio.com>",
     "url": "https://github.com/tidymodels/tidymodels",

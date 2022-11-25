@@ -28,6 +28,13 @@
     "registry": "bioc"
   },
   {
+    "package": "biodbNcbi",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodbncbi",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "biodbUniprot",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/ceabiodb/biodbuniprot",
