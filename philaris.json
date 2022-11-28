@@ -1,5 +1,11 @@
 [
   {
+    "package": "figir",
+    "maintainer": "Panagiotis Cheilaris <philaris@gmail.com>",
+    "url": "https://github.com/philaris/figir",
+    "available": true
+  },
+  {
     "package": "syslognet",
     "maintainer": "Panagiotis Cheilaris <philaris@gmail.com>",
     "url": "https://github.com/philaris/syslognet",

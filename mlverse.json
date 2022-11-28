@@ -40,5 +40,11 @@
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torchvision",
     "available": true
+  },
+  {
+    "package": "wav",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/mlverse/wav",
+    "available": true
   }
 ]

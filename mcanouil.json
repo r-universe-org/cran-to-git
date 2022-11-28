@@ -1,11 +1,5 @@
 [
   {
-    "package": "ggpacman",
-    "maintainer": "Mickaël Canouil <mickael.canouil@cnrs.fr>",
-    "url": "https://github.com/mcanouil/ggpacman",
-    "available": true
-  },
-  {
     "package": "insane",
     "maintainer": "Mickaël Canouil <mickael@canouil.dev>",
     "url": "https://github.com/mcanouil/insane",
@@ -15,12 +9,6 @@
     "package": "NACHO",
     "maintainer": "Mickaël Canouil <mickael@canouil.dev>",
     "url": "https://github.com/mcanouil/nacho",
-    "available": true
-  },
-  {
-    "package": "snpEnrichment",
-    "maintainer": "Mickael Canouil <mickael.canouil@cnrs.fr>",
-    "url": "https://github.com/mcanouil/snpenrichment",
     "available": true
   }
 ]

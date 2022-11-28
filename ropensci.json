@@ -738,6 +738,12 @@
     "available": true
   },
   {
+    "package": "postdoc",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/ropensci/postdoc",
+    "available": true
+  },
+  {
     "package": "prism",
     "maintainer": "Alan Butler <rabutler@usbr.gov>",
     "url": "https://github.com/ropensci/prism",
