@@ -2486,6 +2486,7 @@ fitdistrplus,https://github.com/aursiber/fitdistrplus,,
 fitHeavyTail,https://github.com/dppalomar/fitheavytail,,
 fitmix,https://github.com/guven-code/fitmix,,
 fitODBOD,https://github.com/amalan-constat/r-fitodbod,,
+fitPS,https://github.com/jmcurran/fitps,,
 fitscape,https://github.com/rrrlw/fitscape,,
 FitUltD,https://github.com/jcval94/fitultd,,
 fitur,https://github.com/tomroh/fitur,,
@@ -6189,6 +6190,7 @@ rapbase,https://github.com/rapporteket/rapbase,,
 rapiclient,https://github.com/bergant/rapiclient,,
 RApiDatetime,https://github.com/eddelbuettel/rapidatetime,,
 rapidoc,https://github.com/meztez/rapidoc,,
+rapidphylo,https://github.com/arindamroychoudhury/rapidphylo,,
 rapidraker,https://github.com/crew102/rapidraker,,
 RApiSerialize,https://github.com/eddelbuettel/rapiserialize,,
 RAppArmor,https://github.com/jeroen/rapparmor,,
@@ -7772,6 +7774,7 @@ spatstat.utils,https://github.com/spatstat/spatstat.utils,,
 spbabel,https://github.com/mdsumner/spbabel,,
 spData,https://github.com/nowosad/spdata,,
 spdep,https://github.com/r-spatial/spdep,,
+spdl,https://github.com/eddelbuettel/spdl,,
 spdplyr,https://github.com/mdsumner/spdplyr,,
 spduration,https://github.com/andybega/spduration,,
 spdynmod,https://github.com/javimarlop/spdynmod,,
@@ -8456,7 +8459,6 @@ torchdatasets,https://github.com/mlverse/torchdatasets,,
 torchopt,https://github.com/e-sensing/torchopt,,
 torchvision,https://github.com/mlverse/torchvision,,
 tornado,https://github.com/bertcarnell/tornado,,
-toRvik,https://github.com/andreweatherman/torvik,,
 tosca,https://github.com/docma-tu/tosca,,
 tosr,https://github.com/coreofscience/tosr,,
 totalcensus,https://github.com/gl-li/totalcensus,,
@@ -9890,6 +9892,7 @@ SEtools,https://github.com/plger/setools,,bioc
 sevenbridges,https://github.com/sbg/sevenbridges-r,,bioc
 sevenC,https://github.com/ibn-salem/sevenc,,bioc
 shinyepico,https://github.com/omorante/shinyepico,,bioc
+shinyMethyl,https://github.com/jfortin1/shinymethyl,,bioc
 ShortRead,https://github.com/bioconductor/shortread,,bioc
 sights,https://github.com/eg-r/sights,,bioc
 signatureSearch,https://github.com/girke-lab/signaturesearch,,bioc
@@ -10050,7 +10053,6 @@ randRotation,https://github.com/phettegger/randrotation,,bioc
 SAIGEgds,https://github.com/abbvie-computationalgenomics/saigegds,,bioc
 scifer,https://github.com/rodrigarc/scifer,,bioc
 qrqc,https://github.com/vsbuffalo/qrqc,,bioc
-shinyMethyl,https://github.com/jfortin1/shinymethyl,,bioc
 CopywriteR,https://github.com/peeperlab/copywriter,,bioc
 miRLAB,https://github.com/pvvhoang/mirlab,,bioc
 TCGAbiolinks,https://github.com/bioinformaticsfmrp/tcgabiolinks,,bioc

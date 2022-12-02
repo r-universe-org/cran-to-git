@@ -270,6 +270,12 @@
     "available": true
   },
   {
+    "package": "spdl",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/spdl",
+    "available": true
+  },
+  {
     "package": "td",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/td",
