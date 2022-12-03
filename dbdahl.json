@@ -18,6 +18,13 @@
     "available": false
   },
   {
+    "package": "salso",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/dbdahl/salso",
+    "subdir": "salso",
+    "available": true
+  },
+  {
     "package": "shallot",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/shallot",

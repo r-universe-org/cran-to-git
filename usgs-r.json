@@ -12,39 +12,15 @@
     "available": true
   },
   {
-    "package": "geoknife",
-    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/usgs-r/geoknife",
-    "available": true
-  },
-  {
     "package": "inlmisc",
     "maintainer": "Jason C. Fisher <jfisher@usgs.gov>",
     "url": "https://github.com/usgs-r/inlmisc",
     "available": true
   },
   {
-    "package": "ncdfgeom",
-    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/usgs-r/ncdfgeom",
-    "available": true
-  },
-  {
-    "package": "nhdplusTools",
-    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/usgs-r/nhdplustools",
-    "available": true
-  },
-  {
     "package": "RSurvey",
     "maintainer": "Jason C. Fisher <jfisher@usgs.gov>",
     "url": "https://github.com/usgs-r/rsurvey",
-    "available": true
-  },
-  {
-    "package": "sbtools",
-    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/usgs-r/sbtools",
     "available": true
   },
   {

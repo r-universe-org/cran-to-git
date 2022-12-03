@@ -4,5 +4,29 @@
     "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
     "url": "https://github.com/doi-usgs/dataretrieval",
     "available": true
+  },
+  {
+    "package": "geoknife",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/doi-usgs/geoknife",
+    "available": true
+  },
+  {
+    "package": "ncdfgeom",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/doi-usgs/ncdfgeom",
+    "available": true
+  },
+  {
+    "package": "nhdplusTools",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/doi-usgs/nhdplustools",
+    "available": true
+  },
+  {
+    "package": "sbtools",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/doi-usgs/sbtools",
+    "available": true
   }
 ]

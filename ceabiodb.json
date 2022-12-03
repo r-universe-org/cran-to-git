@@ -28,6 +28,13 @@
     "registry": "bioc"
   },
   {
+    "package": "biodbLipidmaps",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/ceabiodb/biodblipidmaps",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "biodbNcbi",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/ceabiodb/biodbncbi",
@@ -38,13 +45,6 @@
     "package": "biodbUniprot",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/ceabiodb/biodbuniprot",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "biodbLipidmaps",
-    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
-    "url": "https://github.com/ceabiodb/biodblipidmaps",
     "available": true,
     "registry": "bioc"
   }
