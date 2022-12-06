@@ -12,6 +12,13 @@
     "available": false
   },
   {
+    "package": "fangs",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/dbdahl/fangs",
+    "subdir": "fangs",
+    "available": true
+  },
+  {
     "package": "rscala",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/rscala",
