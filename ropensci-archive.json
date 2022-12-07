@@ -114,6 +114,12 @@
     "available": true
   },
   {
+    "package": "rgnparser",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci-archive/rgnparser",
+    "available": true
+  },
+  {
     "package": "rorcid",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci-archive/rorcid",

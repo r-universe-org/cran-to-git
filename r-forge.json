@@ -693,6 +693,13 @@
     "available": true
   },
   {
+    "package": "plasma",
+    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
+    "url": "https://github.com/r-forge/oompa",
+    "subdir": "pkg/plasma",
+    "available": true
+  },
+  {
     "package": "plugdensity",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",
