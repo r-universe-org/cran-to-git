@@ -701,7 +701,6 @@ bpa,https://github.com/bgreenwell/bpa,,
 bpbounds,https://github.com/remlapmot/bpbounds,,
 bpnreg,https://github.com/joliencremers/bpnreg,,
 bqror,https://github.com/prajual/bqror,,
-bRacatus,https://github.com/eduardoarle/bracatus,,
 bracer,https://github.com/trevorld/bracer,,
 BradleyTerry2,https://github.com/hturner/bradleyterry2,,
 BrailleR,https://github.com/ajrgodfrey/brailler,,
@@ -1112,7 +1111,6 @@ CNAIM,https://github.com/utiligize/cnaim,,
 cNORM,https://github.com/wlenhard/cnorm,,
 cnum,https://github.com/elgarteo/cnum,,
 CNVScope,https://github.com/jamesdalg/cnvscope,,
-coala,https://github.com/statgenlmu/coala,,
 coalitions,https://github.com/adibender/coalitions,,
 cobalt,https://github.com/ngreifer/cobalt,,
 cobs,https://github.com/r-forge/curves-etc,pkg/cobs,
@@ -2280,6 +2278,7 @@ explor,https://github.com/juba/explor,,
 exploratory,https://github.com/jinkim3/exploratory,,
 explore,https://github.com/rolkra/explore,,
 expm,https://github.com/r-forge/expm,pkg,
+export,https://github.com/tomwenseleers/export,,
 ExPosition,https://github.com/derekbeaton/exposition1,ExPosition,
 ExposR,https://github.com/expos-model/exposr,,
 expsmooth,https://github.com/robjhyndman/expsmooth,,
@@ -3088,6 +3087,7 @@ gmpoly,https://github.com/stla/gmpoly,,
 gms,https://github.com/pik-piam/gms,,
 GMSE,https://github.com/confoobio/gmse,,
 gmvarkit,https://github.com/saviviro/gmvarkit,,
+gmvjoint,https://github.com/jamesmurray7/gmvjoint,,
 GNE,https://github.com/r-forge/optimizer,pkg/GNE,
 gnlm,https://github.com/swihart/gnlm,,
 gnm,https://github.com/hturner/gnm,,
@@ -6119,6 +6119,7 @@ r2r,https://github.com/vgherard/r2r,,
 r2resize,https://github.com/oobianom/r2resize,,
 r2rtf,https://github.com/merck/r2rtf,,
 r2shortcode,https://github.com/oobianom/r2shortcode,,
+r2social,https://github.com/oobianom/r2social,,
 r2spss,https://github.com/aalfons/r2spss,,
 r2sundials,https://github.com/sgsokol/r2sundials,,
 R2SWF,https://github.com/yixuan/r2swf,,
@@ -7977,6 +7978,7 @@ StMoMo,https://github.com/amvillegas/stmomo,,
 StMoSim,https://github.com/matthiassalvisberg/stmosim,,
 STMotif,https://github.com/heraldoborges/stmotif,,
 STMr,https://github.com/mladenjovanovic/stmr,,
+stochLAB,https://github.com/hidef-aerial-surveying/stochlab,,
 stochQN,https://github.com/david-cortes/stochqn,,
 stochvol,https://github.com/gregorkastner/stochvol,,
 stochvolTMB,https://github.com/jenswahl/stochvoltmb,,
@@ -9658,6 +9660,7 @@ MSnbase,https://github.com/lgatto/msnbase,,bioc
 MSPrep,https://github.com/kechrislab/msprep,,bioc
 msPurity,https://github.com/computational-metabolomics/mspurity,,bioc
 msqrob2,https://github.com/statomics/msqrob2,,bioc
+MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
 MSstatsLOBD,https://github.com/vitek-lab/msstatslobd,,bioc
 MSstatsPTM,https://github.com/vitek-lab/msstatsptm,,bioc
 MSstatsShiny,https://github.com/vitek-lab/msstatsshiny,,bioc
@@ -10102,7 +10105,6 @@ plotgardener,https://github.com/phanstiellab/plotgardener,,bioc
 svaRetro,https://github.com/papenfusslab/svaretro,,bioc
 imcRtools,https://github.com/bodenmillergroup/imcrtools,,bioc
 nullranges,https://github.com/nullranges/nullranges,,bioc
-MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
 sccomp,https://github.com/stemangiola/sccomp,,bioc
 netZooR,https://github.com/netzoo/netzoor,,bioc
 ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
