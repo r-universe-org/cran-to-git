@@ -1192,13 +1192,6 @@
     "available": false
   },
   {
-    "package": "timeDate",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/r-forge/rmetrics",
-    "subdir": "pkg/timeDate",
-    "available": true
-  },
-  {
     "package": "tm",
     "maintainer": "Ingo Feinerer <feinerer@logic.at>",
     "url": "https://github.com/r-forge/tm",

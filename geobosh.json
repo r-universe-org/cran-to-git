@@ -72,6 +72,12 @@
     "available": true
   },
   {
+    "package": "timeDate",
+    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
+    "url": "https://github.com/geobosh/timedatedoc",
+    "available": false
+  },
+  {
     "package": "timeSeries",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/geobosh/timeseriesdoc",
