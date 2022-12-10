@@ -32,16 +32,16 @@
     "registry": "bioc"
   },
   {
-    "package": "tidySummarizedExperiment",
+    "package": "tidySingleCellExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidysummarizedexperiment",
+    "url": "https://github.com/stemangiola/tidysinglecellexperiment",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "tidySingleCellExperiment",
+    "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidysinglecellexperiment",
+    "url": "https://github.com/stemangiola/tidysummarizedexperiment",
     "available": true,
     "registry": "bioc"
   },

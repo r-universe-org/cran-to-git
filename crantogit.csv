@@ -71,6 +71,7 @@ adnuts,https://github.com/cole-monnahan-noaa/adnuts,,
 adobeanalyticsr,https://github.com/benrwoodard/adobeanalyticsr,,
 adoptr,https://github.com/kkmann/adoptr,,
 ADPclust,https://github.com/ethanyxu/adpclust,,
+adpss,https://github.com/ca4wa/r-adpss,,
 adw,https://github.com/panfengzhang/adw,,
 AEenrich,https://github.com/umich-biostatistics/aeenrich,,
 afdx,https://github.com/johnaponte/afdx,,
@@ -1945,6 +1946,7 @@ dygraphs,https://github.com/rstudio/dygraphs,,
 DYM,https://github.com/kos59125/dym,,
 dyn.log,https://github.com/bmoretz/dyn.log,,
 dynamac,https://github.com/andyphilips/dynamac,,
+dynamAedes,https://github.com/mattmar/dynamaedes,,
 dynamic,https://github.com/melissagwolf/dynamic,,
 dynamichazard,https://github.com/boennecd/dynamichazard,,
 DynaRankR,https://github.com/straussed/dynarankr,,
@@ -2689,6 +2691,7 @@ fwi.fbp,https://github.com/r-forge/fwi-fbp,pkg/fwi.fbp,
 fxTWAPLS,https://github.com/special-uor/fxtwapls,,
 g3viz,https://github.com/g3viz/g3viz,,
 GA,https://github.com/luca-scr/ga,,
+gadget3,https://github.com/gadget-framework/gadget3,,
 galah,https://github.com/atlasoflivingaustralia/galah-r,,
 GALLO,https://github.com/pablobio/gallo,,
 galvanizer,https://github.com/jonlinca/galvanizer,,
@@ -4189,6 +4192,7 @@ MACER,https://github.com/rgyoung6/macer,,
 MachineShop,https://github.com/brian-j-smith/machineshop,,
 macleish,https://github.com/beanumber/macleish,,
 maclogp,https://github.com/yuanyuanli96/maclogp,,
+macroBiome,https://github.com/szelepcsenyi/macrobiome,,
 maddison,https://github.com/expersso/maddison,,
 maditr,https://github.com/gdemin/maditr,,
 madness,https://github.com/shabbychef/madness,,
@@ -5162,6 +5166,7 @@ omu,https://github.com/connor-reid-tiffany/omu,,
 onbabynames,https://github.com/desautm/onbabynames,,
 onbrand,https://github.com/john-harrold/onbrand,,
 once,https://github.com/gdmcdonald/once,,
+oncomsm,https://github.com/boehringer-ingelheim/oncomsm,,
 ondisc,https://github.com/timothy-barry/ondisc,,
 oneclust,https://github.com/nanxstats/oneclust,,
 onemap,https://github.com/augusto-garcia/onemap,,
@@ -6530,6 +6535,7 @@ reReg,https://github.com/stc04003/rereg,,
 resampledata,https://github.com/rudeboybert/resampledata,,
 rescue,https://github.com/seasamgo/rescue,,
 resemble,https://github.com/l-ramirez-lopez/resemble,,
+reservr,https://github.com/ashesitr/reservr,,
 resevol,https://github.com/bradduthie/resevol,,
 reshape2,https://github.com/hadley/reshape,,
 ResistorArray,https://github.com/robinhankin/resistorarray,,
@@ -6621,7 +6627,7 @@ rgl,https://github.com/dmurdoch/rgl,,
 rgl2gltf,https://github.com/dmurdoch/rgl2gltf,,
 rglobi,https://github.com/ropensci/rglobi,,
 Rglpk,https://github.com/r-forge/rglp,pkg/Rglpk,
-rgnparser,https://github.com/ropensci-archive/rgnparser,,
+rgnparser,https://github.com/ropensci/rgnparser,,
 rgoogleads,https://github.com/selesnow/rgoogleads,,
 rgplates,https://github.com/adamkocsis/rgplates,,
 rgraph6,https://github.com/mbojan/rgraph6,,
@@ -8175,7 +8181,6 @@ takos,https://github.com/sere3s/takos,,
 TAM,https://github.com/alexanderrobitzsch/tam,,
 tanaka,https://github.com/riatelab/tanaka,,
 TanB,https://github.com/trigonometricdistribution/tanb,,
-tangram,https://github.com/spgarbet/tangram,,
 tangram.pipe,https://github.com/thomasgstewart/tangram.pipe,,
 tapnet,https://github.com/biometry/tapnet,tapnet,
 tarchetypes,https://github.com/ropensci/tarchetypes,,
@@ -9530,6 +9535,7 @@ icetea,https://github.com/vivekbhr/icetea,,bioc
 iCOBRA,https://github.com/csoneson/icobra,,bioc
 ideal,https://github.com/federicomarini/ideal,,bioc
 idpr,https://github.com/wmm27/idpr,,bioc
+IFAA,https://github.com/quranwu/ifaa,,bioc
 iGC,https://github.com/ccwang002/igc,,bioc
 IgGeneUsage,https://github.com/snaketron/iggeneusage,,bioc
 igvR,https://github.com/paul-shannon/igvr,,bioc
@@ -9994,6 +10000,7 @@ TENxIO,https://github.com/waldronlab/tenxio,,bioc
 terraTCGAdata,https://github.com/waldronlab/terratcgadata,,bioc
 TFBSTools,https://github.com/ge11232002/tfbstools,,bioc
 tidybulk,https://github.com/stemangiola/tidybulk,,bioc
+tidySingleCellExperiment,https://github.com/stemangiola/tidysinglecellexperiment,,bioc
 tidySummarizedExperiment,https://github.com/stemangiola/tidysummarizedexperiment,,bioc
 tigre,https://github.com/ahonkela/tigre,,bioc
 TileDBArray,https://github.com/ltla/tiledbarray,,bioc
@@ -10094,7 +10101,6 @@ metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 uncoverappLib,https://github.com/manuelaio/uncoverapplib,,bioc
 spatialHeatmap,https://github.com/jianhaizhang/spatialheatmap,,bioc
 musicatk,https://github.com/campbio/musicatk,,bioc
-tidySingleCellExperiment,https://github.com/stemangiola/tidysinglecellexperiment,,bioc
 NewWave,https://github.com/fedeago/newwave,,bioc
 censcyt,https://github.com/retogerber/censcyt,,bioc
 MungeSumstats,https://github.com/neurogenomics/mungesumstats,,bioc
@@ -10111,4 +10117,3 @@ netZooR,https://github.com/netzoo/netzoor,,bioc
 ATACCoGAPS,https://github.com/fertiglab/ataccogaps,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 ccImpute,https://github.com/khazum/ccimpute,,bioc
-IFAA,https://github.com/quranwu/ifaa,,bioc
