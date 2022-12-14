@@ -1,5 +1,11 @@
 [
   {
+    "package": "AnxietySleep",
+    "maintainer": "Matías Castillo-Aguilar <matcasti@umag.cl>",
+    "url": "https://github.com/nim-ach/anxietysleep",
+    "available": true
+  },
+  {
     "package": "youngSwimmers",
     "maintainer": "Matías Castillo Aguilar <matcasti@umag.cl>",
     "url": "https://github.com/nim-ach/youngswimmers",

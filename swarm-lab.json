@@ -1,5 +1,11 @@
 [
   {
+    "package": "CEC",
+    "maintainer": "Simon Garnier <garnier@njit.edu>",
+    "url": "https://github.com/swarm-lab/cec",
+    "available": true
+  },
+  {
     "package": "magicLamp",
     "maintainer": "Simon Garnier <garnier@njit.edu>",
     "url": "https://github.com/swarm-lab/magiclamp",
