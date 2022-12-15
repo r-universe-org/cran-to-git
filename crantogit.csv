@@ -1425,6 +1425,7 @@ csdata,https://github.com/csids/csdata,,
 cSEM,https://github.com/m-e-rademaker/csem,,
 CSGo,https://github.com/adsoncostanzifilho/csgo,,
 CSHShydRology,https://github.com/cshs-hydrology/cshshydrology,,
+csmaps,https://github.com/csids/csmaps,,
 cstab,https://github.com/jmbh/cstab,,
 cstime,https://github.com/csids/cstime,,
 csutil,https://github.com/csids/csutil,,
@@ -2230,6 +2231,7 @@ etl,https://github.com/beanumber/etl,,
 ETLUtils,https://github.com/jwijffels/etlutils,,
 etrader,https://github.com/exploringfinance/etrader,,
 etree,https://github.com/ricgbl/etree,,
+etwfe,https://github.com/grantmcdermott/etwfe,,
 eulerr,https://github.com/jolars/eulerr,,
 eurlex,https://github.com/michalovadek/eurlex,,
 eurocordexr,https://github.com/mitmat/eurocordexr,,
@@ -3250,6 +3252,7 @@ guiplot,https://github.com/s0521/guiplot,,
 guix.install,https://github.com/bimsbbioinfo/guix.install,,
 gunit,https://github.com/cdmuir/gunit,,
 gustave,https://github.com/martinchevalier/gustave,,
+gutenbergr,https://github.com/ropensci/gutenbergr,,
 gvc,https://github.com/bquast/gvc,,
 gvcR,https://github.com/myaseen208/gvcr,,
 gwaRs,https://github.com/lindonkambule/gwars,,
@@ -5095,6 +5098,7 @@ nsapi,https://github.com/rmhogervorst/nsapi,,
 nscancor,https://github.com/chrsigg/nscancor,,
 nse,https://github.com/keblu/nse,,
 nse2r,https://github.com/rsquaredacademy/nse2r,,
+nser,https://github.com/nandp1/nser,,
 NSO1212,https://github.com/galaamn/nso1212,,
 nsprcomp,https://github.com/chrsigg/nsprcomp,,
 nsrr,https://github.com/muschellij2/nsrr,,
@@ -6100,7 +6104,6 @@ R.huge,https://github.com/henrikbengtsson/r.huge,,
 R.matlab,https://github.com/henrikbengtsson/r.matlab,,
 R.methodsS3,https://github.com/henrikbengtsson/r.methodss3,,
 R.oo,https://github.com/henrikbengtsson/r.oo,,
-r.proxy,https://github.com/xiayh17/r.proxy,,
 R.rsp,https://github.com/henrikbengtsson/r.rsp,,
 R.temis,https://github.com/nalimilan/r.temis,R.temis,
 R.utils,https://github.com/henrikbengtsson/r.utils,,
@@ -6603,6 +6606,7 @@ RGAN,https://github.com/mneunhoe/rgan,,
 Rgb,https://github.com/maressyl/r.rgb,Rgb,
 rgbif,https://github.com/ropensci/rgbif,,
 Rgbp,https://github.com/jyklly/rgbp,Rgbp,
+RGCxGC,https://github.com/danielquiroz97/rgcxgc,,
 rgdal,https://github.com/r-forge/rgdal,pkg,
 rgdax,https://github.com/dheerajagarwal/rgdax,,
 RGeckoboard,https://github.com/ploner/rgeckoboard,,
@@ -8558,11 +8562,13 @@ trigpoints,https://github.com/philmikejones/trigpoints,,
 TriMatch,https://github.com/jbryer/trimatch,,
 trimetStops,https://github.com/graysonwhite/trimetstops,,
 trimr,https://github.com/jimgrange/trimr,,
+trip,https://github.com/trackage/trip,,
 tripEstimation,https://github.com/trackage/tripestimation,,
 triplot,https://github.com/modeloriented/triplot,,
 tripsAndDipR,https://github.com/delomast/tripsanddipr,,
 troopdata,https://github.com/meflynn/troopdata,,
 TropFishR,https://github.com/tokami/tropfishr,,
+tRophicPosition,https://github.com/clquezada/trophicposition,,
 trouBBlme4SolveR,https://gitlab.com/iagogv/troubblme4solver,,
 trtf,https://github.com/r-forge/ctm,pkg/trtf,
 truelies,https://github.com/hughjonesd/truelies,,
@@ -9677,6 +9683,7 @@ multicrispr,https://github.com/loosolab/multicrispr,,bioc
 multiGSEA,https://github.com/yigbt/multigsea,,bioc
 multiHiCcompare,https://github.com/dozmorovlab/multihiccompare,,bioc
 multiMiR,https://github.com/kechrislab/multimir,,bioc
+MungeSumstats,https://github.com/neurogenomics/mungesumstats,,bioc
 muscat,https://github.com/helenalc/muscat,,bioc
 mzR,https://github.com/sneumann/mzr,,bioc
 NanoMethViz,https://github.com/shians/nanomethviz,,bioc
@@ -10102,7 +10109,6 @@ metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 uncoverappLib,https://github.com/manuelaio/uncoverapplib,,bioc
 musicatk,https://github.com/campbio/musicatk,,bioc
 censcyt,https://github.com/retogerber/censcyt,,bioc
-MungeSumstats,https://github.com/neurogenomics/mungesumstats,,bioc
 miloR,https://github.com/marionilab/milor,,bioc
 multiSight,https://github.com/fjeanneret/multisight,,bioc
 svaNUMT,https://github.com/papenfusslab/svanumt,,bioc
