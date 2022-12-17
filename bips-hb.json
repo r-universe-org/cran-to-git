@@ -1,5 +1,11 @@
 [
   {
+    "package": "arf",
+    "maintainer": "Marvin N. Wright <cran@wrig.de>",
+    "url": "https://github.com/bips-hb/arf",
+    "available": true
+  },
+  {
     "package": "blockForest",
     "maintainer": "Marvin N. Wright <cran@wrig.de>",
     "url": "https://github.com/bips-hb/blockforest",
