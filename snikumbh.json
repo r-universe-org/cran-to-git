@@ -5,5 +5,12 @@
     "url": "https://github.com/snikumbh/seqarchr",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "seqArchRplus",
+    "maintainer": "Sarvesh Nikumbh <sarvesh.nikumbh@gmail.com>",
+    "url": "https://github.com/snikumbh/seqarchrplus",
+    "available": true,
+    "registry": "bioc"
   }
 ]

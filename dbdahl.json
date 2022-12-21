@@ -6,6 +6,19 @@
     "available": false
   },
   {
+    "package": "cargo",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/dbdahl/cargo-framework",
+    "subdir": "cargo",
+    "available": true
+  },
+  {
+    "package": "caviarpd",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/dbdahl/fangs",
+    "available": false
+  },
+  {
     "package": "commonsMath",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/commonsmath",

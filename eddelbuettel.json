@@ -156,6 +156,12 @@
     "available": true
   },
   {
+    "package": "RcppDE",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppde",
+    "available": true
+  },
+  {
     "package": "RcppExamples",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppexamples",
