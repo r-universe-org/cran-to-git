@@ -1,5 +1,11 @@
 [
   {
+    "package": "rworkflows",
+    "maintainer": "Brian Schilder <brian_schilder@alumni.brown.edu>",
+    "url": "https://github.com/neurogenomics/rworkflows",
+    "available": true
+  },
+  {
     "package": "EpiCompare",
     "maintainer": "Sera Choi <serachoi1230@gmail.com>",
     "url": "https://github.com/neurogenomics/epicompare",
