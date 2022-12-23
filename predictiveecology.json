@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "reproducible",
+    "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
+    "url": "https://github.com/predictiveecology/reproducible",
+    "available": true
+  },
+  {
     "package": "Require",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
     "url": "https://github.com/predictiveecology/require",
