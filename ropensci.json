@@ -282,6 +282,12 @@
     "available": true
   },
   {
+    "package": "dynamite",
+    "maintainer": "Santtu Tikka <santtuth@gmail.com>",
+    "url": "https://github.com/ropensci/dynamite",
+    "available": true
+  },
+  {
     "package": "EDIutils",
     "maintainer": "Colin Smith <colin.smith@wisc.edu>",
     "url": "https://github.com/ropensci/ediutils",

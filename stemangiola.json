@@ -25,6 +25,13 @@
     "registry": "bioc"
   },
   {
+    "package": "sccomp",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/sccomp",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "tidybulk",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidybulk",
@@ -42,13 +49,6 @@
     "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysummarizedexperiment",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "sccomp",
-    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/sccomp",
     "available": true,
     "registry": "bioc"
   }
