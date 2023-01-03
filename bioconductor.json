@@ -10,7 +10,8 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationdbi",
     "available": true,
-    "registry": "bioc"
+    "registry": "bioc",
+    "branch": "RELEASE_3_16"
   },
   {
     "package": "AnnotationFilter",
