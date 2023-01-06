@@ -1,5 +1,11 @@
 [
   {
+    "package": "coala",
+    "maintainer": "Dirk Metzler <metzler@bio.lmu.de>",
+    "url": "https://github.com/statgenlmu/coala",
+    "available": true
+  },
+  {
     "package": "jaatha",
     "maintainer": "Dirk Metzler <metzler@bio.lmu.de>",
     "url": "https://github.com/statgenlmu/jaatha",
