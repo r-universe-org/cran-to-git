@@ -1,5 +1,11 @@
 [
   {
+    "package": "gasper",
+    "maintainer": "Fabien Navarro <fabien.navarro@math.cnrs.fr>",
+    "url": "https://github.com/fabnavarro/gasper",
+    "available": true
+  },
+  {
     "package": "rwavelet",
     "maintainer": "Navarro Fabien <fnavarro@math.cnrs.fr>",
     "url": "https://github.com/fabnavarro/rwavelet",
