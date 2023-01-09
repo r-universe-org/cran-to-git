@@ -1,5 +1,11 @@
 [
   {
+    "package": "paramGUI",
+    "maintainer": "Joris Snellenburg <j.snellenburg@vu.nl>",
+    "url": "https://github.com/glotaran/paramgui",
+    "available": true
+  },
+  {
     "package": "TIMP",
     "maintainer": "Joris Snellenburg <j.snellenburg@vu.nl>",
     "url": "https://github.com/glotaran/timp",
