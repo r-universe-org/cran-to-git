@@ -48,18 +48,6 @@
     "available": true
   },
   {
-    "package": "connectapi",
-    "maintainer": "Cole Arendt <cole@rstudio.com>",
-    "url": "https://github.com/rstudio/connectapi",
-    "available": true
-  },
-  {
-    "package": "connectwidgets",
-    "maintainer": "Brian Smith <brian@rstudio.com>",
-    "url": "https://github.com/rstudio/connectwidgets",
-    "available": true
-  },
-  {
     "package": "crosstalk",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
     "url": "https://github.com/rstudio/crosstalk",
