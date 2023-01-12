@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "swaRm",
+    "maintainer": "Simon Garnier <garnier@njit.edu>",
+    "url": "https://github.com/swarm-lab/swarm",
+    "available": true
+  },
+  {
     "package": "trackdf",
     "maintainer": "Simon Garnier <garnier@njit.edu>",
     "url": "https://github.com/swarm-lab/trackdf",
