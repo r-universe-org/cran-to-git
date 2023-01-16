@@ -450,6 +450,12 @@
     "available": true
   },
   {
+    "package": "hoardr",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/hoardr",
+    "available": true
+  },
+  {
     "package": "hunspell",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/hunspell",
