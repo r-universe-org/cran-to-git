@@ -17,5 +17,12 @@
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/hotelling",
     "available": true
+  },
+  {
+    "package": "multimix",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/jmcurran/multimix",
+    "subdir": "multimix",
+    "available": true
   }
 ]
