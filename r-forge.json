@@ -1138,6 +1138,13 @@
     "available": true
   },
   {
+    "package": "stops",
+    "maintainer": "Thomas Rusch <thomas.rusch@wu.ac.at>",
+    "url": "https://github.com/r-forge/stops",
+    "subdir": "pkg/stops",
+    "available": true
+  },
+  {
     "package": "surveillance",
     "maintainer": "Sebastian Meyer <seb.meyer@fau.de>",
     "url": "https://github.com/r-forge/surveillance",

@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "shiny.benchmark",
+    "maintainer": "Douglas Azevedo <opensource+douglas@appsilon.com>",
+    "url": "https://github.com/appsilon/shiny.benchmark",
+    "available": true
+  },
+  {
     "package": "shiny.i18n",
     "maintainer": "Jakub Nowicki <opensource+kuba@appsilon.com>",
     "url": "https://github.com/appsilon/shiny.i18n",
