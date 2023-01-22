@@ -12,5 +12,12 @@
     "url": "https://github.com/aoles/ebimage",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "RBioFormats",
+    "maintainer": "Andrzej Oleś <andrzej.oles@gmail.com>",
+    "url": "https://github.com/aoles/rbioformats",
+    "available": true,
+    "registry": "bioc"
   }
 ]
