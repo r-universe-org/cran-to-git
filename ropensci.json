@@ -822,6 +822,12 @@
     "available": true
   },
   {
+    "package": "readODS",
+    "maintainer": "Chung-hong Chan <chainsawtiney@gmail.com>",
+    "url": "https://github.com/ropensci/readods",
+    "available": true
+  },
+  {
     "package": "rebird",
     "maintainer": "Sebastian Pardo <sebpardo@gmail.com>",
     "url": "https://github.com/ropensci/rebird",
@@ -919,7 +925,7 @@
   },
   {
     "package": "rnaturalearth",
-    "maintainer": "Andy South <southandy@gmail.com>",
+    "maintainer": "Philippe Massicotte <pmassicotte@hotmail.com>",
     "url": "https://github.com/ropensci/rnaturalearth",
     "available": true
   },

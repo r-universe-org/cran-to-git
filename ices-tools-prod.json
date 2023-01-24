@@ -36,6 +36,12 @@
     "available": false
   },
   {
+    "package": "icesTAF",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icestaf",
+    "available": true
+  },
+  {
     "package": "icesVocab",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icesvocab",
