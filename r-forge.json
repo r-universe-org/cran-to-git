@@ -100,15 +100,13 @@
     "package": "ClassComparison",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/ClassComparison",
-    "available": true
+    "available": false
   },
   {
     "package": "ClassDiscovery",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/ClassDiscovery",
-    "available": true
+    "available": false
   },
   {
     "package": "CloneSeeker",
@@ -635,15 +633,13 @@
     "package": "oompaBase",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/oompaBase",
-    "available": true
+    "available": false
   },
   {
     "package": "oompaData",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/oompaData",
-    "available": true
+    "available": false
   },
   {
     "package": "party",
@@ -696,8 +692,7 @@
     "package": "plasma",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/plasma",
-    "available": true
+    "available": false
   },
   {
     "package": "plugdensity",
@@ -710,8 +705,7 @@
     "package": "Polychrome",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/Polychrome",
-    "available": true
+    "available": false
   },
   {
     "package": "polycor",
@@ -731,8 +725,7 @@
     "package": "PreProcess",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/PreProcess",
-    "available": true
+    "available": false
   },
   {
     "package": "PST",
@@ -1168,8 +1161,7 @@
     "package": "TailRank",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "subdir": "pkg/TailRank",
-    "available": true
+    "available": false
   },
   {
     "package": "tbm",

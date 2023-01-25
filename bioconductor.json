@@ -42,8 +42,7 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biobase",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_16"
+    "registry": "bioc"
   },
   {
     "package": "BiocBaseUtils",
