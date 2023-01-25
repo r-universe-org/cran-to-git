@@ -3,7 +3,8 @@
     "package": "IDSL.CSA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.csa",
-    "available": false
+    "subdir": "IDSL.CSA",
+    "available": true
   },
   {
     "package": "IDSL.FSA",
@@ -30,7 +31,8 @@
     "package": "IDSL.NPA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.npa",
-    "available": false
+    "subdir": "IDSL.NPA",
+    "available": true
   },
   {
     "package": "IDSL.SUFA",
