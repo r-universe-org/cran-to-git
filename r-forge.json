@@ -100,13 +100,15 @@
     "package": "ClassComparison",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/ClassComparison",
+    "available": true
   },
   {
     "package": "ClassDiscovery",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/ClassDiscovery",
+    "available": true
   },
   {
     "package": "CloneSeeker",
@@ -633,13 +635,15 @@
     "package": "oompaBase",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/oompaBase",
+    "available": true
   },
   {
     "package": "oompaData",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/oompaData",
+    "available": true
   },
   {
     "package": "party",
@@ -692,7 +696,8 @@
     "package": "plasma",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/plasma",
+    "available": true
   },
   {
     "package": "plugdensity",
@@ -705,7 +710,8 @@
     "package": "Polychrome",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/Polychrome",
+    "available": true
   },
   {
     "package": "polycor",
@@ -725,7 +731,8 @@
     "package": "PreProcess",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/PreProcess",
+    "available": true
   },
   {
     "package": "PST",
@@ -1161,7 +1168,8 @@
     "package": "TailRank",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
-    "available": false
+    "subdir": "pkg/TailRank",
+    "available": true
   },
   {
     "package": "tbm",

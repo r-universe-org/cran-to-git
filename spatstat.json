@@ -32,8 +32,8 @@
   {
     "package": "spatstat.model",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.core",
-    "available": false
+    "url": "https://github.com/spatstat/spatstat.model",
+    "available": true
   },
   {
     "package": "spatstat.random",

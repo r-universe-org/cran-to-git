@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "redcapAPI",
+    "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
+    "url": "https://github.com/vubiostat/redcapapi",
+    "available": true
+  },
+  {
     "package": "yaml",
     "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
     "url": "https://github.com/vubiostat/r-yaml",
