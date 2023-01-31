@@ -10,5 +10,11 @@
     "maintainer": "Max Joseph <maxwell.b.joseph@colorado.edu>",
     "url": "https://github.com/earthlab/leri",
     "available": true
+  },
+  {
+    "package": "rslurm",
+    "maintainer": "Quentin Read <quentin.read@usda.gov>",
+    "url": "https://github.com/earthlab/rslurm",
+    "available": true
   }
 ]
