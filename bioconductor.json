@@ -26,16 +26,14 @@
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationforge",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_16"
+    "registry": "bioc"
   },
   {
     "package": "AnnotationHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationhub",
     "available": true,
-    "registry": "bioc",
-    "branch": "RELEASE_3_16"
+    "registry": "bioc"
   },
   {
     "package": "Biobase",

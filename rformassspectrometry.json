@@ -42,6 +42,13 @@
     "registry": "bioc"
   },
   {
+    "package": "MsBackendSql",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msbackendsql",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "MsCoreUtils",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/mscoreutils",
