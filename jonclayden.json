@@ -36,6 +36,12 @@
     "available": true
   },
   {
+    "package": "RcppArray",
+    "maintainer": "Jon Clayden <code@clayden.org>",
+    "url": "https://github.com/jonclayden/rcpparray",
+    "available": true
+  },
+  {
     "package": "reportr",
     "maintainer": "Jon Clayden <code@clayden.org>",
     "url": "https://github.com/jonclayden/reportr",
