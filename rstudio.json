@@ -48,6 +48,12 @@
     "available": true
   },
   {
+    "package": "connectapi",
+    "maintainer": "Cole Arendt <cole@posit.co>",
+    "url": "https://github.com/rstudio/connectapi",
+    "available": false
+  },
+  {
     "package": "connectwidgets",
     "maintainer": "Brian Smith <brian@rstudio.com>",
     "url": "https://github.com/rstudio/connectwidgets",
