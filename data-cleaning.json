@@ -7,12 +7,6 @@
     "available": true
   },
   {
-    "package": "dcmodifydb",
-    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/dcmodifydb",
-    "available": true
-  },
-  {
     "package": "deducorrect",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deducorrect",
@@ -51,12 +45,6 @@
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/validate",
     "subdir": "pkg",
-    "available": true
-  },
-  {
-    "package": "validatedb",
-    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/validatedb",
     "available": true
   },
   {
