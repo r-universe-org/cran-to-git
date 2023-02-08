@@ -1324,5 +1324,12 @@
     "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
     "url": "https://github.com/ropensci/yfr",
     "available": true
+  },
+  {
+    "package": "osmplotr",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci/osmplotr",
+    "available": false,
+    "registry": "archived"
   }
 ]

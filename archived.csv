@@ -1,22 +1,38 @@
 "Package","Date","Maintainer","Git"
 "AIG",2023-02-02,"Bao Sheng Loe (Aiden) <bsl28@cam.ac.uk>",NA
 "ASMap",2023-01-24,"Julian Taylor <julian.taylor@adelaide.edu.au>",NA
+"Biolinv",2022-12-12,"Luca Butikofer <lucabutikofer@gmail.com>",NA
 "Cprob",2023-01-10,"Arthur Allignol <arthur.allignol@gmail.com>",NA
 "Crossover",2023-01-24,"Kornelius Rohmeyer <rohmeyer@small-projects.de>","https://github.com/kornl/crossover"
 "DataFakeR",2023-01-10,"Krystian Igras <krystian8207@gmail.com>",NA
 "DataGraph",2023-01-24,"David Adalsteinsson <david@visualdatatools.com>",NA
 "ENMTools",2023-01-10,"Dan Warren <dan.l.warren@gmail.com>",NA
+"EpiStats",2023-01-09,"Jean Pierre Decorps <jean.pierre.decorps@gmail.com>",NA
+"ForestGapR",2022-12-12,"Carlos Alberto Silva <carlos_engflorestal@outlook.com>",NA
 "GauPro",2023-01-25,"Collin Erickson <collinberickson@gmail.com>","https://github.com/collinerickson/gaupro"
+"GeoFIS",2022-12-17,"Jean-Luc Lablée <jean-luc.lablee@inrae.fr>",NA
+"GmAMisc",2022-12-12,"Gianmarco Alberti <gianmarcoalberti@gmail.com>",NA
 "HierDpart",2023-01-23,"Xinghu Qin <qinxinghu@gmail.com>","https://github.com/xinghuq/hierdpart"
+"IDSpatialStats",2022-12-12,"Justin Lessler <jlessler@unc.edu>",NA
 "IGP",2023-01-25,"Collin Erickson <collinberickson@gmail.com>","https://github.com/collinerickson/igp"
+"ImaginR",2022-12-17,"Pierre-Louis Stenger <Pierre.Louis.Stenger@ifremer.fr>","https://github.com/plstenger/imaginr"
 "JointNets",2023-02-02,"Arshdeep Sekhon <as5cu@virginia.edu>","https://github.com/qdata/jointnets"
 "LDheatmap",2023-01-22,"Brad McNeney <mcneney@sfu.ca>","https://github.com/sfustatgen/ldheatmap"
 "MODIS",2023-01-10,"Florian Detsch <fdetsch@web.de>","https://github.com/fdetsch/modis"
+"ManlyMix",2022-12-27,"Xuwen Zhu <xuwen.zhu@louisville.edu>",NA
+"MatManlyMix",2022-12-27,"Xuwen Zhu <xuwen.zhu@louisville.edu>",NA
+"ORdensity",2022-12-19,"José María Martínez Otzeta <josemaria.martinezo@ehu.eus>",NA
 "RAEN",2023-01-25,"Han Sun <han.sunny@gmail.com>","https://github.com/saintland/raen"
 "RBMRB",2023-01-10,"Kumaran Baskaran<baskaran.kumaran@gmail.com>","https://github.com/uwbmrb/rbmrb"
 "RGISTools",2023-01-31,"U Perez - Goya <unai.perez@unavarra.es>","https://github.com/spatialstatisticsupna/rgistools"
+"Rgb",2023-01-09,"Sylvain Mareschal <maressyl@gmail.com>","https://github.com/maressyl/r.rgb"
+"RiverLoad",2022-12-20,"Veronica Nava <veronicanava245@gmail.com>",NA
 "Rrdrand",2023-01-26,"Ei-ji Nakama <nakama@ki.rim.or.jp>",NA
+"RstoxData",2022-12-26,"Ibrahim Umar <ibrahim.umar@hi.no>","https://github.com/stoxproject/rstoxdata"
 "SCAT",2023-01-28,"Han Zhang <han.zhang2@nih.gov>",NA
+"SpNetPrep",2022-12-12,"Alvaro Briz-Redon <alvaro.briz@uv.es>",NA
+"TCIU",2022-12-12,"Yongkai Qiu <yongkai@umich.edu>","https://github.com/socr/tciu"
+"TippingPoint",2022-12-19,"Xikun Han <hanxikun2017@gmail.com>","https://github.com/xikunhan/tippingpoint"
 "ToxicR",2023-01-11,"Matt Wheeler <matt.wheeler@nih.gov>","https://github.com/niehs/toxicr"
 "UComp",2023-01-24,"Diego J. Pedregal <Diego.Pedregal@uclm.es>",NA
 "analogueExtra",2023-02-02,"Gavin L. Simpson <ucfagls@gmail.com>","https://github.com/gavinsimpson/analogueextra"
@@ -26,10 +42,14 @@
 "blscrapeR",2023-02-07,"Kris Eberwein <kris.eberwein@gmail.com>","https://github.com/keberwein/blscraper"
 "buffeRs",2023-01-10,"Tilman Leo Hohenberger <tlh@ust.hk>","https://github.com/tlhenvironment/buffers"
 "cattonum",2023-01-10,"Bernie Gray <bfgray3@gmail.com>","https://github.com/bfgray3/cattonum"
+"cghRA",2023-01-09,"Sylvain Mareschal <maressyl@gmail.com>","https://github.com/maressyl/r.cghra"
+"clustcurv",2022-12-19,"Nora M. Villanueva <nmvillanueva@uvigo.es>","https://github.com/noramvillanueva/clustcurv"
 "clustering.sc.dp",2023-01-31,"Tibor Szkaliczki <szkaliczki.tibor@sztaki.mta.hu>",NA
 "comparer",2023-01-17,"Collin Erickson <collinberickson@gmail.com>","https://github.com/collinerickson/comparer"
 "cort",2023-01-10,"Oskar Laverny <oskar.laverny@gmail.com>","https://github.com/lrnv/cort"
 "crestr",2023-01-10,"Manuel Chevalier <chevalier.manuel@gmail.com>","https://github.com/mchevalier2/crestr"
+"crispRdesignR",2022-12-19,"Dylan Beeber <dylan.beeber@gmail.com>","https://github.com/dylanbeeber/crisprdesignr"
+"cuml4r",2022-12-31,"Yitao Li <yitao@rstudio.com>",NA
 "datagovindia",2023-01-10,"Abhishek Arora <abhishek.arora1996@gmail.com>","https://github.com/econabhishek/datagovindia"
 "dcmodifydb",2023-02-04,"Edwin de Jonge <edwindjonge@gmail.com>","https://github.com/data-cleaning/dcmodifydb"
 "deepboost",2023-01-25,"Daniel Marcous <dmarcous@gmail.com>","https://github.com/dmarcous/cran_deepboost"
@@ -46,18 +66,29 @@
 "ffscrapr",2023-01-10,"Tan Ho <tan@tanho.ca>","https://github.com/ffverse/ffscrapr"
 "ffsimulator",2023-01-10,"Tan Ho <tan@tanho.ca>","https://github.com/ffverse/ffsimulator"
 "ffstream",2023-01-13,"Dean Bodenham <deanbodenhampkgs@gmail.com>",NA
+"flair",2022-12-19,"Kelly Bodwin <kelly@bodwin.us>","https://github.com/kbodwin/flair"
+"foieGras",2022-12-12,"Ian Jonsen <ian.jonsen@mq.edu.au>","https://github.com/ianjonsen/foiegras"
+"genius",2022-12-11,"Josiah Parry <josiah.parry@gmail.com>","https://github.com/josiahparry/genius"
+"geonet",2022-12-12,"Marc Schneble <marc.schneble@stat.uni-muenchen.de>",NA
 "giphyr",2023-01-25,"Hao Zhu <haozhu233@gmail.com>","https://github.com/haozhu233/giphyr"
+"hht",2022-12-12,"Daniel C. Bowman <danny.c.bowman@gmail.com>",NA
 "hisse",2023-02-04,"Jeremy Beaulieu <jmbeauli@uark.edu>",NA
+"hydrorecipes",2022-12-13,"Jonathan Kennel <jkennel@uoguelph.ca>","https://github.com/jkennel/hydrorecipes"
+"ino",2022-12-15,"Lennart Oelschläger <oelschlaeger.lennart@gmail.com>","https://github.com/loelschlaeger/ino"
 "intePareto",2023-02-01,"Yingying Cao <yingying.cao@uni-due.de>",NA
 "interplex",2023-02-06,"Jason Cory Brunson <cornelioid@gmail.com>","https://github.com/corybrunson/interplex"
 "iva",2023-01-28,"Han Zhang <han.zhang2@nih.gov>",NA
 "kml3d",2023-02-06,"Christophe Genolini <christophe.genolini@u-paris10.fr>",NA
+"kmlShape",2022-12-19,"Christophe Genolini <christophe.genolini@u-paris10.fr>",NA
 "layer",2023-01-10,"Marco Sciaini <marco@kaldera.dev>",NA
 "lclGWAS",2023-01-24,"Jiaxing Lin <jiaxing.lin@duke.edu>",NA
+"mboxr",2023-01-09,"JooYoung Seo <jooyoung@psu.edu>","https://github.com/jooyoungseo/mboxr"
 "medfate",2023-01-23,"Miquel De Cáceres <miquelcaceres@gmail.com>","https://github.com/emf-creaf/medfate"
 "mergedblocks",2023-01-23,"Stephanie van der Pas <s.l.vanderpas@amsterdamumc.nl>",NA
+"metaMix",2022-12-14,"Sofia Morfopoulou <sofia.morfopoulou.10@ucl.ac.uk>",NA
 "mistat",2023-01-30,"Daniele Amberti <daniele.amberti@gmail.com>",NA
 "mixComp",2023-01-23,"Yulia Kulagina <yulia.kulagina@stat.math.ethz.ch>",NA
+"mpwR",2022-12-19,"Oliver Kardell <Okdll@gmx.net>",NA
 "mully",2023-02-02,"Zaynab Hammoud <zaynabhassanhammoud@gmail.com>","https://github.com/frankkramer-lab/mully"
 "multilink",2023-02-07,"Serge Aleshin-Guendel <saleshinguendel@gmail.com>","https://github.com/aleshing/multilink"
 "mvMAPIT",2023-01-10,"Julian Stamp <julian_stamp@brown.edu>","https://github.com/lcrawlab/mvmapit"
@@ -65,6 +96,7 @@
 "nfer",2023-01-24,"Sean Kauffman <seank@cs.aau.dk>","https://bitbucket.org/seanmk/nfer"
 "nsrr",2023-01-28,"John Muschelli <muschellij2@gmail.com>","https://github.com/muschellij2/nsrr"
 "ordinalgmifs",2023-01-24,"Kellie J. Archer <archer.43@osu.edu>",NA
+"osmplotr",2022-12-12,"Mark Padgham <mark.padgham@email.com>","https://github.com/ropensci/osmplotr"
 "paleofire",2023-01-10,"Olivier Blarquez <blarquez@gmail.com>",NA
 "panelr",2023-02-07,"Jacob A. Long <jacob.long@sc.edu>","https://github.com/jacob-long/panelr"
 "pca3d",2023-02-02,"January Weiner <january.weiner@gmail.com>",NA
@@ -72,13 +104,24 @@
 "predict3d",2023-02-02,"Keon-Woong Moon <cardiomoon@gmail.com>","https://github.com/cardiomoon/predict3d"
 "processR",2023-02-02,"Keon-Woong Moon <cardiomoon@gmail.com>","https://github.com/cardiomoon/processr"
 "qmvs",2023-01-24,"Martin Schlather <martin.schlather@uni-mannheim.de>",NA
+"r.proxy",2022-12-14,"Yonghe Xia <xiayh17@gmail.com>","https://github.com/xiayh17/r.proxy"
 "rForest",2023-02-02,"Carlos Alberto Silva <carlos_engflorestal@outlook.com>","https://github.com/carlos-alberto-silva/rforest"
+"rKolada",2022-12-12,"Love Hansson <love.hansson@gmail.com>","https://github.com/lchansson/rkolada"
 "randomizeR",2023-01-23,"Diane Uschner <Diane.Uschner@gmail.com>",NA
 "rcage",2023-02-04,"Shannon T. Holloway <shannon.t.holloway@gmail.com>",NA
 "rdddr",2023-01-18,"Graeme Blair <graeme.blair@gmail.com>",NA
 "rgeolocate",2023-01-26,"Os Keyes <ironholds@gmail.com>","https://github.com/ironholds/rgeolocate"
+"robFitConGraph",2022-12-19,"Daniel Vogel <daniel.vogel@tu-dortmund.de>",NA
+"rpubs",2023-01-09,"Aep Hidayatuloh <aef.stk@gmail.com>","https://github.com/aephidayatuloh/rpubs"
 "rstoat",2023-01-24,"John Wilshire <john.wilshire@yale.edu>","https://github.com/mapoflife/rstoat"
+"rwt",2023-01-09,"P. Roebuck <proebuck1701@gmail.com>",NA
 "scImmuneGraph",2023-01-10,"Fenfei Zhao <fenfeizhao2020@163.com>","https://github.com/zff-excellent/scimmunegraph"
+"scMappR",2022-12-21,"Dustin Sokolowski <dustin.sokolowski@sickkids.ca>",NA
+"spatstat.core",2022-12-12,"Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>","https://github.com/spatstat/spatstat.core"
 "surf",2023-01-17,"Guilherme Jacob <guilhermejacob91@gmail.com>","https://github.com/guilhermejacob/surf"
 "survtmle",2023-02-07,"David Benkeser <benkeser@emory.edu>","https://github.com/benkeser/survtmle"
+"traitdataform",2022-12-18,"Florian D. Schneider <florian.dirk.schneider@gmail.com>","https://github.com/ecologicaltraitdata/traitdataform"
+"treetop",2022-12-12,"Carlos Alberto Silva <carlos_engflorestal@outlook.com>","https://github.com/carlos-alberto-silva/weblidar-treetop"
+"truthiness",2022-12-12,"Dale Barr <dalejbarr@protonmail.com>","https://github.com/dalejbarr/truthiness"
 "validatedb",2023-02-04,"Edwin de Jonge <edwindjonge@gmail.com>","https://github.com/data-cleaning/validatedb"
+"zfa",2023-01-09,"Haoyi Weng <hyweng@link.cuhk.edu.hk>",NA

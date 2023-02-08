@@ -12,5 +12,19 @@
     "url": "https://github.com/maressyl/r.odb",
     "subdir": "ODB",
     "available": true
+  },
+  {
+    "package": "Rgb",
+    "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
+    "url": "https://github.com/maressyl/r.rgb",
+    "available": false,
+    "registry": "archived"
+  },
+  {
+    "package": "cghRA",
+    "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
+    "url": "https://github.com/maressyl/r.cghra",
+    "available": false,
+    "registry": "archived"
   }
 ]

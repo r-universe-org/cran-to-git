@@ -52,5 +52,12 @@
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/spatstat/spatstat.utils",
     "available": true
+  },
+  {
+    "package": "spatstat.core",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/spatstat/spatstat.core",
+    "available": false,
+    "registry": "archived"
   }
 ]

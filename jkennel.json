@@ -4,5 +4,12 @@
     "maintainer": "Jonathan Kennel <jkennel@uoguelph.ca>",
     "url": "https://github.com/jkennel/earthtide",
     "available": true
+  },
+  {
+    "package": "hydrorecipes",
+    "maintainer": "Jonathan Kennel <jkennel@uoguelph.ca>",
+    "url": "https://github.com/jkennel/hydrorecipes",
+    "available": false,
+    "registry": "archived"
   }
 ]

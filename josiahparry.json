@@ -10,5 +10,12 @@
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/josiahparry/trendyy",
     "available": true
+  },
+  {
+    "package": "genius",
+    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
+    "url": "https://github.com/josiahparry/genius",
+    "available": false,
+    "registry": "archived"
   }
 ]
