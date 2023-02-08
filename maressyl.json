@@ -17,14 +17,16 @@
     "package": "Rgb",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.rgb",
-    "available": false,
+    "subdir": "Rgb",
+    "available": true,
     "registry": "archived"
   },
   {
     "package": "cghRA",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.cghra",
-    "available": false,
+    "subdir": "cghRA",
+    "available": true,
     "registry": "archived"
   }
 ]
