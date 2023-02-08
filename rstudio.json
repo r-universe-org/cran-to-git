@@ -1,5 +1,11 @@
 [
   {
+    "package": "bigD",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rstudio/bigd",
+    "available": true
+  },
+  {
     "package": "blastula",
     "maintainer": "Richard Iannone <riannone@me.com>",
     "url": "https://github.com/rstudio/blastula",
@@ -117,6 +123,12 @@
     "package": "httpuv",
     "maintainer": "Winston Chang <winston@rstudio.com>",
     "url": "https://github.com/rstudio/httpuv",
+    "available": true
+  },
+  {
+    "package": "juicyjuice",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rstudio/juicyjuice",
     "available": true
   },
   {
