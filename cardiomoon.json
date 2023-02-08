@@ -58,5 +58,19 @@
     "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
     "url": "https://github.com/cardiomoon/ztable",
     "available": true
+  },
+  {
+    "package": "predict3d",
+    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
+    "url": "https://github.com/cardiomoon/predict3d",
+    "available": false,
+    "registry": "archived"
+  },
+  {
+    "package": "processR",
+    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
+    "url": "https://github.com/cardiomoon/processr",
+    "available": false,
+    "registry": "archived"
   }
 ]

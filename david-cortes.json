@@ -52,5 +52,12 @@
     "maintainer": "David Cortes <david.cortes.rivera@gmail.com>",
     "url": "https://github.com/david-cortes/stochqn",
     "available": true
+  },
+  {
+    "package": "poismf",
+    "maintainer": "David Cortes <david.cortes.rivera@gmail.com>",
+    "url": "https://github.com/david-cortes/poismf",
+    "available": false,
+    "registry": "archived"
   }
 ]

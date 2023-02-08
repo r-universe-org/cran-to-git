@@ -22,5 +22,26 @@
     "maintainer": "Collin Erickson <collinberickson@gmail.com>",
     "url": "https://github.com/collinerickson/sfflhd",
     "available": true
+  },
+  {
+    "package": "GauPro",
+    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
+    "url": "https://github.com/collinerickson/gaupro",
+    "available": false,
+    "registry": "archived"
+  },
+  {
+    "package": "IGP",
+    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
+    "url": "https://github.com/collinerickson/igp",
+    "available": true,
+    "registry": "archived"
+  },
+  {
+    "package": "comparer",
+    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
+    "url": "https://github.com/collinerickson/comparer",
+    "available": false,
+    "registry": "archived"
   }
 ]

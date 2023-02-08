@@ -12,5 +12,13 @@
     "url": "https://github.com/kornl/mutoss",
     "subdir": "pkg/mutoss",
     "available": true
+  },
+  {
+    "package": "Crossover",
+    "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
+    "url": "https://github.com/kornl/crossover",
+    "subdir": "pkg/Crossover",
+    "available": true,
+    "registry": "archived"
   }
 ]

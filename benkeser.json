@@ -10,5 +10,12 @@
     "maintainer": "David Benkeser <benkeser@emory.edu>",
     "url": "https://github.com/benkeser/drtmle",
     "available": true
+  },
+  {
+    "package": "survtmle",
+    "maintainer": "David Benkeser <benkeser@emory.edu>",
+    "url": "https://github.com/benkeser/survtmle",
+    "available": false,
+    "registry": "archived"
   }
 ]

@@ -19,5 +19,12 @@
     "url": "https://github.com/frankkramer-lab/rcx",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "mully",
+    "maintainer": "Zaynab Hammoud <zaynabhassanhammoud@gmail.com>",
+    "url": "https://github.com/frankkramer-lab/mully",
+    "available": false,
+    "registry": "archived"
   }
 ]

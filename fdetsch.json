@@ -4,5 +4,12 @@
     "maintainer": "Florian Detsch <fdetsch@web.de>",
     "url": "https://github.com/fdetsch/orcs",
     "available": true
+  },
+  {
+    "package": "MODIS",
+    "maintainer": "Florian Detsch <fdetsch@web.de>",
+    "url": "https://github.com/fdetsch/modis",
+    "available": true,
+    "registry": "archived"
   }
 ]

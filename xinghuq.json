@@ -10,5 +10,12 @@
     "maintainer": "Xinghu Qin <qinxinghu@gmail.com>",
     "url": "https://github.com/xinghuq/genomeadapt",
     "available": true
+  },
+  {
+    "package": "HierDpart",
+    "maintainer": "Xinghu Qin <qinxinghu@gmail.com>",
+    "url": "https://github.com/xinghuq/hierdpart",
+    "available": false,
+    "registry": "archived"
   }
 ]

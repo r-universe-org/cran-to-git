@@ -22,5 +22,12 @@
     "maintainer": "Beilun Wang <bw4mw@virginia.edu>",
     "url": "https://github.com/qdata/simule",
     "available": false
+  },
+  {
+    "package": "JointNets",
+    "maintainer": "Arshdeep Sekhon <as5cu@virginia.edu>",
+    "url": "https://github.com/qdata/jointnets",
+    "available": false,
+    "registry": "archived"
   }
 ]

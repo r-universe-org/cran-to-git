@@ -76,5 +76,12 @@
     "maintainer": "John Muschelli <muschellij2@gmail.com>",
     "url": "https://github.com/muschellij2/whitestripe",
     "available": true
+  },
+  {
+    "package": "nsrr",
+    "maintainer": "John Muschelli <muschellij2@gmail.com>",
+    "url": "https://github.com/muschellij2/nsrr",
+    "available": false,
+    "registry": "archived"
   }
 ]

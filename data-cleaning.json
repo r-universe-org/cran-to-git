@@ -52,5 +52,19 @@
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/validatetools",
     "available": true
+  },
+  {
+    "package": "dcmodifydb",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/data-cleaning/dcmodifydb",
+    "available": true,
+    "registry": "archived"
+  },
+  {
+    "package": "validatedb",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/data-cleaning/validatedb",
+    "available": true,
+    "registry": "archived"
   }
 ]
