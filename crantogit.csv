@@ -1073,6 +1073,7 @@ clhs,https://github.com/pierreroudier/clhs,,
 cli,https://github.com/r-lib/cli,,
 cliapp,https://github.com/r-lib/cliapp,,
 ClickHouseHTTP,https://github.com/patzaw/clickhousehttp,,
+clidamonger,https://github.com/iwugermany/clidamonger,,
 clidatajp,https://github.com/matutosi/clidatajp,,
 cliff,https://github.com/randy3k/cliff,,
 clifford,https://github.com/robinhankin/clifford,,
@@ -4934,6 +4935,7 @@ mvgb,https://github.com/swihart/mvgb,,
 mvGPS,https://github.com/williazo/mvgps,,
 mvinfluence,https://github.com/friendly/mvinfluence,,
 MVLM,https://github.com/dmcartor/mvlm,,
+mvMAPIT,https://github.com/lcrawlab/mvmapit,,
 mvMISE,https://github.com/randel/mvmise,,
 mvMonitoring,https://github.com/gabrielodom/mvmonitoring,,
 mvMORPH,https://github.com/jclavel/mvmorph,,
@@ -5288,6 +5290,7 @@ opalr,https://github.com/obiba/opalr,,
 openadds,https://github.com/sckott/openadds,,
 openai,https://github.com/irudnyts/openai,,
 openair,https://github.com/davidcarslaw/openair,,
+openairmaps,https://github.com/davidcarslaw/openairmaps,,
 openalexR,https://github.com/massimoaria/openalexr,,
 openbankeR,https://github.com/nik01010/openbanker,,
 opencage,https://github.com/ropensci/opencage,,
@@ -5456,6 +5459,7 @@ pammtools,https://github.com/adibender/pammtools,,
 pander,https://github.com/rapporter/pander,,
 pandoc,https://github.com/cderv/pandoc,,
 PanelMatch,https://github.com/insongkim/panelmatch,,
+panelr,https://github.com/jacob-long/panelr,,
 panelsummary,https://github.com/michaeltopper1/panelsummary,,
 panelWranglR,https://github.com/jszitas/panelwranglr,,
 pangaear,https://github.com/ropensci/pangaear,,
@@ -5700,6 +5704,7 @@ picR,https://github.com/javenrflo/picr,,
 piecemaker,https://github.com/macmillancontentscience/piecemaker,,
 piecepackr,https://github.com/piecepackr/piecepackr,,
 piecewiseSEM,https://github.com/jslefche/piecewisesem,,
+PieGlyph,https://github.com/rishvish/pieglyph,,
 piggyback,https://github.com/ropensci/piggyback,,
 pillar,https://github.com/r-lib/pillar,,
 pim,https://github.com/centerforstatistics-ugent/pim,,
@@ -9876,6 +9881,7 @@ ndexr,https://github.com/frankkramer-lab/ndexr,,bioc
 Nebulosa,https://github.com/powellgenomicslab/nebulosa,,bioc
 nempi,https://github.com/cbg-ethz/nempi,,bioc
 netOmics,https://github.com/abodein/netomics,,bioc
+NetPathMiner,https://github.com/ahmohamed/netpathminer,,bioc
 netresponse,https://github.com/antagomir/netresponse,,bioc
 netSmooth,https://github.com/bimsbbioinfo/netsmooth,,bioc
 ngsReports,https://github.com/steveped/ngsreports,,bioc
@@ -10276,7 +10282,6 @@ flowPloidy,https://github.com/plantarum/flowploidy,,bioc
 gcatest,https://github.com/storeylab/gcatest,,bioc
 hypeR,https://github.com/montilab/hyper,,bioc
 lfa,https://github.com/storeylab/lfa,,bioc
-NetPathMiner,https://github.com/ahmohamed/netpathminer,,bioc
 randRotation,https://github.com/phettegger/randrotation,,bioc
 scifer,https://github.com/rodrigarc/scifer,,bioc
 lipidr,https://github.com/ahmohamed/lipidr,,bioc
@@ -10347,24 +10352,17 @@ mboxr,https://github.com/jooyoungseo/mboxr,,archived
 medfate,https://github.com/emf-creaf/medfate,,archived
 mully,https://github.com/frankkramer-lab/mully,,archived
 multilink,https://github.com/aleshing/multilink,,archived
-mvMAPIT,https://github.com/lcrawlab/mvmapit,,archived
 nsrr,https://github.com/muschellij2/nsrr,,archived
-osmplotr,https://github.com/ropensci/osmplotr,,archived
-panelr,https://github.com/jacob-long/panelr,,archived
 poismf,https://github.com/david-cortes/poismf,,archived
 predict3d,https://github.com/cardiomoon/predict3d,,archived
 processR,https://github.com/cardiomoon/processr,,archived
 r.proxy,https://github.com/xiayh17/r.proxy,,archived
 rForest,https://github.com/carlos-alberto-silva/rforest,,archived
-rKolada,https://github.com/lchansson/rkolada,,archived
 rgeolocate,https://github.com/ironholds/rgeolocate,,archived
 rpubs,https://github.com/aephidayatuloh/rpubs,,archived
 rstoat,https://github.com/mapoflife/rstoat,,archived
 scImmuneGraph,https://github.com/zff-excellent/scimmunegraph,,archived
-spatstat.core,https://github.com/spatstat/spatstat.core,,archived
 surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
 traitdataform,https://github.com/ecologicaltraitdata/traitdataform,,archived
-treetop,https://github.com/carlos-alberto-silva/weblidar-treetop,,archived
-truthiness,https://github.com/dalejbarr/truthiness,,archived
 validatedb,https://github.com/data-cleaning/validatedb,,archived
