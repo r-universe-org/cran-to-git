@@ -1727,6 +1727,7 @@ DGM,https://github.com/schw4b/dgm,,
 dgpsi,https://github.com/mingdeyu/dgpsi-r,,
 dgumbel,https://github.com/blunde1/dgumbel,,
 DHARMa,https://github.com/florianhartig/dharma,DHARMa,
+dhis2r,https://github.com/amanyiraho/dhis2r,,
 diagis,https://github.com/helske/diagis,,
 diagmeta,https://github.com/guido-s/diagmeta,,
 diagonals,https://github.com/bquast/diagonals,,
@@ -3583,7 +3584,6 @@ ifaTools,https://github.com/jpritikin/ifatools,,
 IFC,https://github.com/gitdemont/ifc,,
 ifCNVR,https://github.com/simcab-chu/ifcnv-r,ifCNVR,
 ifctools,https://github.com/lbraglia/ifctools,,
-ifultools,https://github.com/spkaluzny/ifultools,,
 igate,https://github.com/stefan-stein/igate,,
 iglu,https://github.com/irinagain/iglu,,
 igoR,https://github.com/dieghernan/igor,,
@@ -6437,6 +6437,7 @@ Rcompadre,https://github.com/jonesor/rcompadre,,
 rcompendium,https://github.com/frbcesab/rcompendium,,
 rconfig,https://github.com/analythium/rconfig,,
 RConics,https://github.com/emanuelhuber/rconics,,
+rcontroll,https://github.com/sylvainschmitt/rcontroll,,
 rcoreoa,https://github.com/ropensci-archive/rcoreoa,,
 rcorpora,https://github.com/gaborcsardi/rcorpora,,
 Rcplex,https://github.com/r-forge/rcplex,pkg,
@@ -6777,7 +6778,6 @@ RH2,https://github.com/dmkaplan2000/rh2,,
 rhandsontable,https://github.com/jrowen/rhandsontable,,
 rhierbaps,https://github.com/gtonkinhill/rhierbaps,,
 rhino,https://github.com/appsilon/rhino,,
-rhli,https://github.com/qomaio/rhli,,
 rhosa,https://github.com/tabe/rhosa,,
 RHRT,https://github.com/vblesius/rhrt,RHRT,
 RHRV,https://github.com/r-forge/rhrv,pkg,
@@ -8994,7 +8994,6 @@ vfinputs,https://github.com/rhenkin/vfinputs,,
 VFS,https://github.com/sgoslee/vfs,,
 vglmer,https://github.com/mgoplerud/vglmer,,
 viafr,https://github.com/stefanieschneider/viafr,,
-VIC5,https://github.com/rpkgs/vic5,,
 vICC,https://github.com/donaldrwilliams/vicc,,
 vici,https://github.com/sistm/vici,,
 VicmapR,https://github.com/justincally/vicmapr,,
@@ -9247,7 +9246,6 @@ xplorerr,https://github.com/rsquaredacademy/xplorerr,,
 xportr,https://github.com/atorus-research/xportr,,
 xpose,https://github.com/uupharmacometrics/xpose,,
 xpose4,https://github.com/uupharmacometrics/xpose4,,
-xptr,https://github.com/randy3k/xptr,,
 xQTLbiolinks,https://github.com/dingruofan/xqtlbiolinks,,
 xray,https://github.com/sicarul/xray,,
 xrf,https://github.com/holub008/xrf,,
@@ -9895,6 +9893,7 @@ NoRCE,https://github.com/guldenolgun/norce,,bioc
 NormalyzerDE,https://github.com/computationalproteomics/normalyzerde,,bioc
 normr,https://github.com/your-highness/normr,,bioc
 nucleoSim,https://github.com/arnauddroitlab/nucleosim,,bioc
+nullranges,https://github.com/nullranges/nullranges,,bioc
 NxtIRFcore,https://github.com/alexchwong/nxtirfcore,,bioc
 ODER,https://github.com/eolagbaju/oder,,bioc
 OGRE,https://github.com/svenbioinf/ogre,,bioc
@@ -9949,6 +9948,7 @@ pipeComp,https://github.com/plger/pipecomp,,bioc
 pipeFrame,https://github.com/wzthu/pipeframe,,bioc
 planet,https://github.com/wvictor14/planet,,bioc
 planttfhunter,https://github.com/almeidasilvaf/planttfhunter,,bioc
+plotgardener,https://github.com/phanstiellab/plotgardener,,bioc
 plotGrouper,https://github.com/jdgagnon/plotgrouper,,bioc
 plyranges,https://github.com/sa-lee/plyranges,,bioc
 podkat,https://github.com/ubod/podkat,,bioc
@@ -10308,8 +10308,6 @@ GAPGOM,https://github.com/berghopper/gapgom,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 miloR,https://github.com/marionilab/milor,,bioc
-plotgardener,https://github.com/phanstiellab/plotgardener,,bioc
-nullranges,https://github.com/nullranges/nullranges,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 GauPro,https://github.com/collinerickson/gaupro,,archived
@@ -10350,6 +10348,7 @@ ffscrapr,https://github.com/ffverse/ffscrapr,,archived
 ffsimulator,https://github.com/ffverse/ffsimulator,,archived
 flair,https://github.com/r-for-educators/flair,,archived
 giphyr,https://github.com/haozhu233/giphyr,,archived
+ifultools,https://github.com/spkaluzny/ifultools,,archived
 ino,https://github.com/loelschlaeger/ino,,archived
 interplex,https://github.com/tdaverse/interplex,,archived
 mboxr,https://github.com/jooyoungseo/mboxr,,archived
@@ -10360,9 +10359,9 @@ nsrr,https://github.com/muschellij2/nsrr,,archived
 poismf,https://github.com/david-cortes/poismf,,archived
 predict3d,https://github.com/cardiomoon/predict3d,,archived
 processR,https://github.com/cardiomoon/processr,,archived
-r.proxy,https://github.com/xiayh17/r.proxy,,archived
 rForest,https://github.com/carlos-alberto-silva/rforest,,archived
 rgeolocate,https://github.com/ironholds/rgeolocate,,archived
+rhli,https://github.com/qomaio/rhli,,archived
 rpubs,https://github.com/aephidayatuloh/rpubs,,archived
 rstoat,https://github.com/mapoflife/rstoat,,archived
 scImmuneGraph,https://github.com/zff-excellent/scimmunegraph,,archived
@@ -10370,3 +10369,4 @@ surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
 traitdataform,https://github.com/ecologicaltraitdata/traitdataform,,archived
 validatedb,https://github.com/data-cleaning/validatedb,,archived
+xptr,https://github.com/randy3k/xptr,,archived
