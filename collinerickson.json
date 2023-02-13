@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "GauPro",
+    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
+    "url": "https://github.com/collinerickson/gaupro",
+    "available": true
+  },
+  {
     "package": "mixopt",
     "maintainer": "Collin Erickson <collinberickson@gmail.com>",
     "url": "https://github.com/collinerickson/mixopt",
@@ -22,13 +28,6 @@
     "maintainer": "Collin Erickson <collinberickson@gmail.com>",
     "url": "https://github.com/collinerickson/sfflhd",
     "available": true
-  },
-  {
-    "package": "GauPro",
-    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
-    "url": "https://github.com/collinerickson/gaupro",
-    "available": true,
-    "registry": "archived"
   },
   {
     "package": "IGP",

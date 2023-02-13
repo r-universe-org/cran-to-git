@@ -1560,6 +1560,7 @@ dataCompareR,https://github.com/capitalone/datacomparer,dataCompareR,
 datadogr,https://github.com/yutannihilation/k9,,
 DataEditR,https://github.com/dillonhammill/dataeditr,,
 DataExplorer,https://github.com/boxuancui/dataexplorer,,
+DataFakeR,https://github.com/openpharma/datafaker,,
 datafsm,https://github.com/jonathan-g/datafsm,,
 dataMaid,https://github.com/ekstroem/datamaid,,
 dataMeta,https://github.com/dmrodz/datameta,,
@@ -2214,6 +2215,7 @@ EpiLPS,https://github.com/oswaldogressani/epilps,,
 epimdr2,https://github.com/objornstad/epimdr2,,
 EpiModel,https://github.com/epimodel/epimodel,,
 epinetr,https://github.com/diondetterer/epinetr,,
+EpiNow2,https://github.com/epiforecasts/epinow2,,
 episensr,https://github.com/dhaine/episensr,,
 EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection,,
 epitab,https://github.com/stulacy/epitab,,
@@ -2474,6 +2476,8 @@ FFD,https://github.com/r-forge/ffd,pkg,
 FFdownload,https://github.com/sstoeckl/ffdownload,,
 ffmanova,https://github.com/olangsrud/ffmanova,,
 ffp,https://github.com/reckziegel/ffp,,
+ffscrapr,https://github.com/ffverse/ffscrapr,,
+ffsimulator,https://github.com/ffverse/ffsimulator,,
 FFTrees,https://github.com/ndphillips/fftrees,,
 fftwtools,https://github.com/krahim/fftwtools,,
 fGarch,https://github.com/r-forge/rmetrics,pkg/fGarch,
@@ -2642,7 +2646,6 @@ formulops,https://github.com/billdenney/formulops,,
 forrel,https://github.com/magnusdv/forrel,,
 FORTLS,https://github.com/molina-valero/fortls,,
 forwards,https://github.com/forwards/forwards,,
-foster,https://github.com/mqueinnec/foster,,
 foto,https://github.com/bluegreen-labs/foto,,
 fourierin,https://github.com/gbasulto/fourierin,,
 fourPNO,https://github.com/tmsalab/fourpno,,
@@ -2771,6 +2774,7 @@ gasper,https://github.com/fabnavarro/gasper,,
 gastempt,https://github.com/dmenne/gastempt,,
 gatepoints,https://github.com/wjawaid/gatepoints,,
 gateR,https://github.com/lance-waller-lab/gater,,
+GauPro,https://github.com/collinerickson/gaupro,,
 gaussfacts,https://github.com/eddelbuettel/gaussfacts,,
 gaussplotR,https://github.com/vbaliga/gaussplotr,,
 GaussSuppression,https://github.com/statisticsnorway/gausssuppression,,
@@ -7147,7 +7151,6 @@ rstanemax,https://github.com/yoshidk6/rstanemax,,
 rstantools,https://github.com/stan-dev/rstantools,,
 RStata,https://github.com/lbraglia/rstata,,
 rstatix,https://github.com/kassambara/rstatix,,
-RStoolbox,https://github.com/bleutner/rstoolbox,,
 rstpm2,https://github.com/mclements/rstpm2,,
 rStrava,https://github.com/fawda123/rstrava,,
 rstudio.prefs,https://github.com/ddsjoberg/rstudio.prefs,,
@@ -7199,7 +7202,6 @@ rtsdata,https://bitbucket.org/rtsvizteam/rtsdata,,
 Rtsne,https://github.com/jkrijthe/rtsne,,
 rtson,https://github.com/tercen/tson,rtson,
 rtsplot,https://bitbucket.org/rtsvizteam/rtsplot,,
-rtsVis,https://github.com/johmast/rtsvis,,
 Rttf2pt1,https://github.com/wch/rttf2pt1,,
 rtweet,https://github.com/ropensci/rtweet,,
 rtype,https://github.com/renkun-ken/rtype,,
@@ -10310,7 +10312,6 @@ metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 miloR,https://github.com/marionilab/milor,,bioc
 EpiMix,https://github.com/gevaertlab/epimix,,bioc
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
-GauPro,https://github.com/collinerickson/gaupro,,archived
 HierDpart,https://github.com/xinghuq/hierdpart,,archived
 IGP,https://github.com/collinerickson/igp,,archived
 ImaginR,https://github.com/plstenger/imaginr,,archived
@@ -10320,6 +10321,7 @@ MODIS,https://github.com/fdetsch/modis,,archived
 RAEN,https://github.com/saintland/raen,,archived
 RBMRB,https://github.com/bmrb-io/rbmrb,RBMRB,archived
 RGISTools,https://github.com/spatialstatisticsupna/rgistools,,archived
+RStoolbox,https://github.com/bleutner/rstoolbox,,archived
 Rgb,https://github.com/maressyl/r.rgb,Rgb,archived
 RstoxData,https://github.com/stoxproject/rstoxdata,,archived
 TippingPoint,https://github.com/xikunhan/tippingpoint,,archived
@@ -10344,12 +10346,10 @@ dynConfiR,https://github.com/sehellmann/dynconfir,,archived
 elbird,https://github.com/mrchypark/elbird,,archived
 fRLR,https://github.com/szcf-weiya/frlr,,archived
 ffmetadata,https://github.com/fragilefamilieschallenge/ffmetadata,,archived
-ffscrapr,https://github.com/ffverse/ffscrapr,,archived
-ffsimulator,https://github.com/ffverse/ffsimulator,,archived
 flair,https://github.com/r-for-educators/flair,,archived
+foster,https://github.com/mqueinnec/foster,,archived
 giphyr,https://github.com/haozhu233/giphyr,,archived
 ifultools,https://github.com/spkaluzny/ifultools,,archived
-ino,https://github.com/loelschlaeger/ino,,archived
 interplex,https://github.com/tdaverse/interplex,,archived
 mboxr,https://github.com/jooyoungseo/mboxr,,archived
 medfate,https://github.com/emf-creaf/medfate,,archived
@@ -10364,6 +10364,7 @@ rgeolocate,https://github.com/ironholds/rgeolocate,,archived
 rhli,https://github.com/qomaio/rhli,,archived
 rpubs,https://github.com/aephidayatuloh/rpubs,,archived
 rstoat,https://github.com/mapoflife/rstoat,,archived
+rtsVis,https://github.com/johmast/rtsvis,,archived
 scImmuneGraph,https://github.com/zff-excellent/scimmunegraph,,archived
 surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
