@@ -1,14 +1,15 @@
 [
   {
-    "package": "kmscv",
-    "maintainer": "Samet Sokel <a_s@eskisehir.edu.tr>",
-    "url": "https://github.com/sametsoekel/kmscv",
-    "available": true
-  },
-  {
     "package": "XLS",
     "maintainer": "Samet Sokel <a_s@eskisehir.edu.tr>",
     "url": "https://github.com/sametsoekel/extreme-least-squares",
     "available": true
+  },
+  {
+    "package": "kmscv",
+    "maintainer": "Samet Sokel <a_s@eskisehir.edu.tr>",
+    "url": "https://github.com/sametsoekel/kmscv",
+    "available": true,
+    "registry": "archived"
   }
 ]

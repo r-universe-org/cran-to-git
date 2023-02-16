@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "glmmrMCML",
-    "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
-    "url": "https://github.com/samuel-watson/glmmrmcml",
-    "available": true
-  },
-  {
     "package": "glmmrOptim",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
     "url": "https://github.com/samuel-watson/glmmroptim",
@@ -22,5 +16,12 @@
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
     "url": "https://github.com/samuel-watson/sparsechol",
     "available": true
+  },
+  {
+    "package": "glmmrMCML",
+    "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
+    "url": "https://github.com/samuel-watson/glmmrmcml",
+    "available": true,
+    "registry": "archived"
   }
 ]

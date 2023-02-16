@@ -3086,7 +3086,7 @@ gibble,https://github.com/mdsumner/gibble,,
 Gifi,https://github.com/r-forge/psychor,pkg/Gifi,
 gifski,https://github.com/r-rust/gifski,,
 gifti,https://github.com/muschellij2/gifti,,
-GIFTr,https://github.com/omarashkar/giftr,,
+GIFTr,https://github.com/omarmetrx/giftr,,
 gigg,https://github.com/umich-cphds/gigg,,
 GillespieSSA,https://github.com/rcannood/gillespiessa,,
 GillespieSSA2,https://github.com/rcannood/gillespiessa2,,
@@ -3108,6 +3108,7 @@ githubinstall,https://github.com/hoxo-m/githubinstall,,
 gitignore,https://github.com/ropensci/gitignore,,
 gitlabr,https://github.com/thinkr-open/gitlabr,,
 gitlink,https://github.com/colearendt/gitlink,,
+gitr,https://github.com/stufield/gitr,,
 gittargets,https://github.com/ropensci/gittargets,,
 gk,https://github.com/dennisprangle/gk,,
 GK2011,https://github.com/leeper/gk2011,,
@@ -3125,7 +3126,6 @@ glmm.hp,https://github.com/laijiangshan/glmm.hp,,
 GLMMadaptive,https://github.com/drizopoulos/glmmadaptive,,
 glmmfields,https://github.com/seananderson/glmmfields,,
 glmmrBase,https://github.com/samuel-watson/glmmrbase,,
-glmmrMCML,https://github.com/samuel-watson/glmmrmcml,,
 glmmrOptim,https://github.com/samuel-watson/glmmroptim,,
 glmmSeq,https://github.com/myles-lewis/glmmseq,,
 glmmTMB,https://github.com/glmmtmb/glmmtmb,glmmTMB,
@@ -3955,7 +3955,6 @@ klustR,https://github.com/mckaymdavis/klustr,,
 kmc,https://github.com/yfyang86/kmc,,
 kmer,https://github.com/shaunpwilkinson/kmer,,
 kmi,https://github.com/aallignol/kmi,,
-kmscv,https://github.com/sametsoekel/kmscv,,
 KMunicate,https://github.com/ellessenne/kmunicate-package,,
 KnapsackSampling,https://github.com/chinsoon12/knapsacksampling,,
 knitcitations,https://github.com/cboettig/knitcitations,,
@@ -6265,6 +6264,7 @@ r2pmml,https://github.com/jpmml/r2pmml,,
 R2PPT,https://github.com/waynegitshell/r2ppt,,
 r2pptx,https://github.com/mattle24/r2pptx,,
 r2r,https://github.com/vgherard/r2r,,
+r2redux,https://github.com/mommy003/r2redux,,
 r2resize,https://github.com/oobianom/r2resize,,
 r2rtf,https://github.com/merck/r2rtf,,
 r2shortcode,https://github.com/oobianom/r2shortcode,,
@@ -8114,6 +8114,7 @@ starvars,https://github.com/andbucci/starvars,,
 starvz,https://github.com/schnorr/starvz,,
 starwarsdb,https://github.com/gadenbuie/starwarsdb,,
 Stat2Data,https://github.com/statmanrobin/stat2data,,
+Statamarkdown,https://github.com/hemken/statamarkdown,,
 statar,https://github.com/matthieugomez/statar,,
 statcanR,https://github.com/warint/statcanr,,
 statcodelists,https://github.com/antaldaniel/statcodelists,,
@@ -8255,6 +8256,7 @@ surbayes,https://github.com/ethan-alt/surbayes,,
 sure,https://github.com/koalaverse/sure,,
 sureLDA,https://github.com/celehs/surelda,,
 SurfaceTortoise,https://github.com/kriper0217/surfacetortoise,,
+SurrogateRsq,https://github.com/xiaoruizhu/surrogatersq,,
 survBootOutliers,https://github.com/jonydog/survbootoutliers,,
 surveil,https://github.com/connordonegan/surveil,,
 surveillance,https://github.com/r-forge/surveillance,pkg,
@@ -9459,6 +9461,7 @@ canceR,https://github.com/kmezhoud/cancer,,bioc
 CancerSubtypes,https://github.com/taoshengxu/cancersubtypes,,bioc
 cardelino,https://github.com/single-cell-genetics/cardelino,,bioc
 CARNIVAL,https://github.com/saezlab/carnival,,bioc
+CATALYST,https://github.com/helenalc/catalyst,,bioc
 categoryCompare,https://github.com/rmflight/categorycompare,,bioc
 CBEA,https://github.com/qpmnguyen/cbea,,bioc
 cBioPortalData,https://github.com/waldronlab/cbioportaldata,,bioc
@@ -9620,6 +9623,7 @@ epialleleR,https://github.com/bbcg/epialleler,,bioc
 EpiCompare,https://github.com/neurogenomics/epicompare,,bioc
 epidecodeR,https://github.com/kandarprj/epidecoder,,bioc
 EpiDISH,https://github.com/sjczheng/epidish,,bioc
+EpiMix,https://github.com/gevaertlab/epimix,,bioc
 epimutacions,https://github.com/isglobal-brge/epimutacions,,bioc
 epiNEM,https://github.com/cbg-ethz/epinem,,bioc
 epistasisGA,https://github.com/mnodzenski/epistasisga,,bioc
@@ -10319,14 +10323,12 @@ qrqc,https://github.com/vsbuffalo/qrqc,,bioc
 CopywriteR,https://github.com/peeperlab/copywriter,,bioc
 motifbreakR,https://github.com/simon-coetzee/motifbreakr,,bioc
 MIGSA,https://github.com/jcrodriguez1989/migsa,,bioc
-CATALYST,https://github.com/helenalc/catalyst,,bioc
 epihet,https://github.com/thejacksonlaboratory/epihet,,bioc
 deco,https://github.com/fjcamlab/deco,,bioc
 GAPGOM,https://github.com/berghopper/gapgom,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 miloR,https://github.com/marionilab/milor,,bioc
-EpiMix,https://github.com/gevaertlab/epimix,,bioc
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 HierDpart,https://github.com/xinghuq/hierdpart,,archived
 IGP,https://github.com/collinerickson/igp,,archived
@@ -10364,8 +10366,10 @@ ffmetadata,https://github.com/fragilefamilieschallenge/ffmetadata,,archived
 flair,https://github.com/r-for-educators/flair,,archived
 foster,https://github.com/mqueinnec/foster,,archived
 giphyr,https://github.com/haozhu233/giphyr,,archived
+glmmrMCML,https://github.com/samuel-watson/glmmrmcml,,archived
 ifultools,https://github.com/spkaluzny/ifultools,,archived
 interplex,https://github.com/tdaverse/interplex,,archived
+kmscv,https://github.com/sametsoekel/kmscv,,archived
 mboxr,https://github.com/jooyoungseo/mboxr,,archived
 medfate,https://github.com/emf-creaf/medfate,,archived
 mully,https://github.com/frankkramer-lab/mully,,archived
@@ -10384,6 +10388,5 @@ scImmuneGraph,https://github.com/zff-excellent/scimmunegraph,,archived
 suddengains,https://github.com/milanwiedemann/suddengains,,archived
 surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
-traitdataform,https://github.com/ecologicaltraitdata/traitdataform,,archived
 validatedb,https://github.com/data-cleaning/validatedb,,archived
 xptr,https://github.com/randy3k/xptr,,archived
