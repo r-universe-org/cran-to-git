@@ -89,6 +89,7 @@ aglm,https://github.com/kkondo1981/aglm,,
 agop,https://github.com/gagolews/agop,,
 agricolaeplotr,https://github.com/jensharbers/agricolaeplotr,,
 agridat,https://github.com/kwstat/agridat,,
+agriutilities,https://github.com/apariciojohan/agriutilities,,
 agriwater,https://github.com/cesarofs/agriwater,,
 agrmt,https://github.com/r-forge/agrmt,pkg,
 agua,https://github.com/tidymodels/agua,,
@@ -215,6 +216,7 @@ aplore3,https://github.com/lbraglia/aplore3,,
 aplot,https://github.com/yulab-smu/aplot,,
 appler,https://github.com/ashbaldry/appler,,
 applicable,https://github.com/tidymodels/applicable,,
+apportion,https://github.com/christopherkenny/apportion,,
 approxOT,https://github.com/ericdunipace/approxot,,
 aprean3,https://github.com/lbraglia/aprean3,,
 aprof,https://github.com/marcodvisser/aprof,,
@@ -3981,7 +3983,6 @@ ksharp,https://github.com/tkonopka/ksharp,,
 kssa,https://github.com/pipeben/kssa,,
 kvh,https://github.com/sgsokol/kvh,,
 kwb.hantush,https://github.com/kwb-r/kwb.hantush,,
-L0Learn,https://github.com/hazimehh/l0learn,,
 labelled,https://github.com/larmarange/labelled,,
 labelmachine,https://github.com/a-maldet/labelmachine,,
 lablaster,https://github.com/alexsb1/lablaster,,
@@ -4199,6 +4200,7 @@ localFDA,https://github.com/aefdz/localfda,,
 localICE,https://github.com/viadee/localice,,
 localIV,https://github.com/xiangzhou09/localiv,,
 localModel,https://github.com/modeloriented/localmodel,,
+locaR,https://github.com/rhedley/locar,,
 locatexec,https://github.com/ardata-fr/locatexec,,
 loder,https://github.com/jonclayden/loder,,
 lodi,https://github.com/umich-cphds/lodi,,
@@ -4457,7 +4459,6 @@ mdgc,https://github.com/boennecd/mdgc,,
 mdir.logrank,https://github.com/marcdii/mdir.logrank,,
 mdmb,https://github.com/alexanderrobitzsch/mdmb,,
 MDMR,https://github.com/dmcartor/mdmr,,
-MDP2,https://github.com/relund/mdp,,
 MDplot,https://github.com/mdplot/mdplot,MDplot,
 mdsr,https://github.com/mdsr-book/mdsr,,
 meanr,https://github.com/wrathematics/meanr,,
@@ -7254,6 +7255,7 @@ rwa,https://github.com/martinctc/rwa,,
 rwalkr,https://github.com/earowang/rwalkr,,
 Rwave,https://github.com/r-forge/rwave,pkg,
 rwavelet,https://github.com/fabnavarro/rwavelet,,
+rWCVP,https://github.com/matildabrown/rwcvp,,
 RWDataPlyr,https://github.com/bouldercodehub/rwdataplyr,,
 rwhatsapp,https://github.com/jbgruber/rwhatsapp,,
 rwicc,https://github.com/d-morrison/rwicc,,
@@ -8521,6 +8523,7 @@ tibbletime,https://github.com/business-science/tibbletime,,
 tibblify,https://github.com/mgirlich/tibblify,,
 tictactoe,https://github.com/kota7/tictactoe,,
 tictoc,https://github.com/jabiru/tictoc,,
+tidyAML,https://github.com/spsanderson/tidyaml,,
 tidybayes,https://github.com/mjskay/tidybayes,,
 tidyBdE,https://github.com/ropenspain/tidybde,,
 tidybins,https://github.com/harrison4192/tidybins,,
@@ -10333,7 +10336,9 @@ Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 HierDpart,https://github.com/xinghuq/hierdpart,,archived
 IGP,https://github.com/collinerickson/igp,,archived
 JointNets,https://github.com/qdata/jointnets,,archived
+L0Learn,https://github.com/hazimehh/l0learn,,archived
 LDheatmap,https://github.com/sfustatgen/ldheatmap,,archived
+MDP2,https://github.com/relund/mdp,,archived
 MODIS,https://github.com/fdetsch/modis,,archived
 RAEN,https://github.com/saintland/raen,,archived
 RBMRB,https://github.com/bmrb-io/rbmrb,RBMRB,archived
@@ -10341,7 +10346,6 @@ RGISTools,https://github.com/spatialstatisticsupna/rgistools,,archived
 RStoolbox,https://github.com/bleutner/rstoolbox,,archived
 Rgb,https://github.com/maressyl/r.rgb,Rgb,archived
 RstoxData,https://github.com/stoxproject/rstoxdata,,archived
-TippingPoint,https://github.com/xikunhan/tippingpoint,,archived
 ToxicR,https://github.com/niehs/toxicr,,archived
 analogueExtra,https://github.com/gavinsimpson/analogueextra,,archived
 baseballr,https://github.com/billpetti/baseballr,,archived
@@ -10349,11 +10353,9 @@ blscrapeR,https://github.com/keberwein/blscraper,,archived
 buffeRs,https://github.com/tlhenvironment/buffers,,archived
 cattonum,https://github.com/bfgray3/cattonum,,archived
 cghRA,https://github.com/maressyl/r.cghra,cghRA,archived
-clustcurv,https://github.com/noramvillanueva/clustcurv,,archived
 comparer,https://github.com/collinerickson/comparer,,archived
 cort,https://github.com/lrnv/cort,,archived
 crestr,https://github.com/mchevalier2/crestr,,archived
-crispRdesignR,https://github.com/dylanbeeber/crisprdesignr,,archived
 datagovindia,https://github.com/econabhishek/datagovindia,,archived
 dcmodifydb,https://github.com/data-cleaning/dcmodifydb,,archived
 deepboost,https://github.com/dmarcous/cran_deepboost,,archived
@@ -10363,7 +10365,6 @@ dynConfiR,https://github.com/sehellmann/dynconfir,,archived
 elbird,https://github.com/mrchypark/elbird,,archived
 fRLR,https://github.com/szcf-weiya/frlr,,archived
 ffmetadata,https://github.com/fragilefamilieschallenge/ffmetadata,,archived
-flair,https://github.com/r-for-educators/flair,,archived
 foster,https://github.com/mqueinnec/foster,,archived
 giphyr,https://github.com/haozhu233/giphyr,,archived
 glmmrMCML,https://github.com/samuel-watson/glmmrmcml,,archived
