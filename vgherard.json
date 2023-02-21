@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "kgrams",
-    "maintainer": "Valerio Gherardi <vgherard840@gmail.com>",
-    "url": "https://github.com/vgherard/kgrams",
-    "available": true
-  },
-  {
     "package": "r2r",
     "maintainer": "Valerio Gherardi <vgherard@sissa.it>",
     "url": "https://github.com/vgherard/r2r",
@@ -22,5 +16,12 @@
     "maintainer": "Valerio Gherardi <vgherard@sissa.it>",
     "url": "https://github.com/vgherard/sbo",
     "available": true
+  },
+  {
+    "package": "kgrams",
+    "maintainer": "Valerio Gherardi <vgherard840@gmail.com>",
+    "url": "https://github.com/vgherard/kgrams",
+    "available": true,
+    "registry": "archived"
   }
 ]
