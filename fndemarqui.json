@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "covid19br",
-    "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
-    "url": "https://github.com/fndemarqui/covid19br",
-    "available": true
-  },
-  {
     "package": "peppm",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
     "url": "https://github.com/fndemarqui/peppm",
@@ -28,5 +22,12 @@
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
     "url": "https://github.com/fndemarqui/yppe",
     "available": true
+  },
+  {
+    "package": "covid19br",
+    "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
+    "url": "https://github.com/fndemarqui/covid19br",
+    "available": true,
+    "registry": "archived"
   }
 ]

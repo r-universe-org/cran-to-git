@@ -1,5 +1,11 @@
 [
   {
+    "package": "finbipartite",
+    "maintainer": "Ze Vinicius <jvmirca@gmail.com>",
+    "url": "https://github.com/convexfi/bipartite",
+    "available": true
+  },
+  {
     "package": "fingraph",
     "maintainer": "Ze Vinicius <jvmirca@gmail.com>",
     "url": "https://github.com/convexfi/fingraph",

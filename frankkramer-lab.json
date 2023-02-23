@@ -1,5 +1,11 @@
 [
   {
+    "package": "mully",
+    "maintainer": "Zaynab Hammoud <zaynabhassanhammoud@gmail.com>",
+    "url": "https://github.com/frankkramer-lab/mully",
+    "available": true
+  },
+  {
     "package": "ndexr",
     "maintainer": "Florian Auer <florian.auer@informatik.uni-augsburg.de>",
     "url": "https://github.com/frankkramer-lab/ndexr",
@@ -19,12 +25,5 @@
     "url": "https://github.com/frankkramer-lab/rcx",
     "available": true,
     "registry": "bioc"
-  },
-  {
-    "package": "mully",
-    "maintainer": "Zaynab Hammoud <zaynabhassanhammoud@gmail.com>",
-    "url": "https://github.com/frankkramer-lab/mully",
-    "available": true,
-    "registry": "archived"
   }
 ]
