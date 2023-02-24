@@ -19,5 +19,12 @@
     "url": "https://github.com/jianhong/genomicinteractionnodes",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "scRNAseqApp",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/scrnaseqapp",
+    "available": true,
+    "registry": "bioc"
   }
 ]

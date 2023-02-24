@@ -770,7 +770,6 @@ broom.helpers,https://github.com/larmarange/broom.helpers,,
 broom.mixed,https://github.com/bbolker/broom.mixed,,
 brotli,https://github.com/jeroen/brotli,,
 brpop,https://github.com/rfsaldanha/brpop,,
-brranching,https://github.com/ropensci/brranching,,
 bruceR,https://github.com/psychbruce/brucer,,
 brulee,https://github.com/tidymodels/brulee,,
 brunnermunzel,https://github.com/toshi-ara/brunnermunzel,,
@@ -1596,7 +1595,6 @@ dataverse,https://github.com/iqss/dataverse-client-r,,
 DataVisualizations,https://github.com/mthrun/datavisualizations,,
 datawizard,https://github.com/easystats/datawizard,,
 datefixR,https://github.com/ropensci/datefixr,,
-datelife,https://github.com/phylotastic/datelife,,
 daterangepicker,https://github.com/trafficonese/daterangepicker,,
 datetimeoffset,https://github.com/trevorld/r-datetimeoffset,,
 datetimeutils,https://github.com/enricoschumann/datetimeutils,,
@@ -1694,6 +1692,7 @@ desc,https://github.com/r-lib/desc,,
 descr,https://github.com/jalvesaq/descr,,
 DescribeDisplay,https://github.com/ggobi/describedisplay,,
 describer,https://github.com/paulhendricks/describer,,
+descriptio,https://github.com/nicolas-robette/descriptio,,
 DescriptiveStats.OBeu,https://github.com/okgreece/descriptivestats.obeu,,
 DescriptiveWH,https://github.com/william-hc/descriptivewh,,
 descriptr,https://github.com/rsquaredacademy/descriptr,,
@@ -1972,6 +1971,7 @@ dst,https://github.com/rapler/dst-1,,
 DstarM,https://github.com/vandenman/dstarm,,
 DSWE,https://github.com/tamu-aml/dswe-package,,
 DT,https://github.com/rstudio/dt,,
+DTComPair,https://github.com/chstock/dtcompair,,
 DtD,https://github.com/boennecd/dtd,,
 DTDA.ni,https://github.com/sidoruvigo/dtda.ni,,
 dtplyr,https://github.com/tidyverse/dtplyr,,
@@ -4472,6 +4472,7 @@ meanShiftR,https://github.com/jlisic/meanshiftr,,
 measurementProtocol,https://github.com/markedmondson1234/measurementprotocol,,
 meconetcomp,https://github.com/chiliubio/meconetcomp,,
 mecor,https://github.com/lindanab/mecor,,
+mecoturn,https://github.com/chiliubio/mecoturn,,
 medflex,https://github.com/jmpsteen/medflex,,
 Mediana,https://github.com/gpaux/mediana,,
 MedianaDesigner,https://github.com/medianasoft/medianadesigner,,
@@ -5711,7 +5712,6 @@ photosynthesis,https://github.com/cdmuir/photosynthesis,,
 phyclust,https://github.com/snoweye/phyclust,,
 phylobase,https://github.com/fmichonneau/phylobase,,
 phylocanvas,https://github.com/zachcp/phylocanvas,,
-phylocomr,https://github.com/ropensci/phylocomr,,
 PhylogeneticEM,https://github.com/pbastide/phylogeneticem,,
 phylogram,https://github.com/ropensci/phylogram,,
 phylolm,https://github.com/lamho86/phylolm,,
@@ -8380,6 +8380,7 @@ TailRank,https://github.com/r-forge/oompa,pkg/TailRank,
 taipan,https://github.com/srkobakian/taipan,,
 takos,https://github.com/sere3s/takos,,
 TAM,https://github.com/alexanderrobitzsch/tam,,
+tame,https://github.com/laksafoss/tame,,
 tanaka,https://github.com/riatelab/tanaka,,
 TanB,https://github.com/trigonometricdistribution/tanb,,
 TangledFeatures,https://github.com/allen-1242/tangledfeatures,,
@@ -9776,6 +9777,7 @@ immunotation,https://github.com/imkeller/immunotation,,bioc
 INDEED,https://github.com/ressomlab/indeed,,bioc
 infercnv,https://github.com/broadinstitute/infercnv,,bioc
 Informeasure,https://github.com/chupan1218/informeasure,,bioc
+INTACT,https://github.com/jokamoto97/intact,,bioc
 InteractiveComplexHeatmap,https://github.com/jokergoo/interactivecomplexheatmap,,bioc
 InterCellar,https://github.com/martaint/intercellar,,bioc
 InterMineR,https://github.com/intermine/interminer,,bioc
@@ -10067,6 +10069,7 @@ Rhisat2,https://github.com/fmicompbio/rhisat2,,bioc
 Rhtslib,https://github.com/bioconductor/rhtslib,,bioc
 RiboCrypt,https://github.com/m-swirski/ribocrypt,,bioc
 rifi,https://github.com/cyanolabfreiburg/rifi,,bioc
+rifiComparative,https://github.com/cyanolabfreiburg/rificomparative,,bioc
 RIPAT,https://github.com/bioinfo16/ripat,,bioc
 Risa,https://github.com/isa-tools/risa,,bioc
 RIVER,https://github.com/ipw012/river,,bioc
@@ -10245,6 +10248,7 @@ TargetDecoy,https://github.com/statomics/targetdecoy,,bioc
 TargetSearch,https://github.com/acinostroza/targetsearch,,bioc
 TBSignatureProfiler,https://github.com/compbiomed/tbsignatureprofiler,,bioc
 TCGAutils,https://github.com/waldronlab/tcgautils,,bioc
+TDbasedUFE,https://github.com/tagtag/tdbasedufe,,bioc
 TEKRABber,https://github.com/ferygood/tekrabber,,bioc
 TENxIO,https://github.com/waldronlab/tenxio,,bioc
 terraTCGAdata,https://github.com/waldronlab/terratcgadata,,bioc
@@ -10344,6 +10348,8 @@ deco,https://github.com/fjcamlab/deco,,bioc
 GAPGOM,https://github.com/berghopper/gapgom,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
+scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
+ReUseData,https://github.com/rworkflow/reusedata,,bioc
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 GNGTools,https://github.com/gcicc/gngtools,,archived
 HierDpart,https://github.com/xinghuq/hierdpart,,archived
@@ -10360,11 +10366,11 @@ RBMRB,https://github.com/bmrb-io/rbmrb,RBMRB,archived
 RGISTools,https://github.com/spatialstatisticsupna/rgistools,,archived
 RStoolbox,https://github.com/bleutner/rstoolbox,,archived
 Rgb,https://github.com/maressyl/r.rgb,Rgb,archived
-RstoxData,https://github.com/stoxproject/rstoxdata,,archived
 ToxicR,https://github.com/niehs/toxicr,,archived
 analogueExtra,https://github.com/gavinsimpson/analogueextra,,archived
 baseballr,https://github.com/billpetti/baseballr,,archived
 blscrapeR,https://github.com/keberwein/blscraper,,archived
+brranching,https://github.com/ropensci/brranching,,archived
 buffeRs,https://github.com/tlhenvironment/buffers,,archived
 cattonum,https://github.com/bfgray3/cattonum,,archived
 cghRA,https://github.com/maressyl/r.cghra,cghRA,archived
@@ -10372,6 +10378,7 @@ cort,https://github.com/lrnv/cort,,archived
 covid19br,https://github.com/fndemarqui/covid19br,,archived
 crestr,https://github.com/mchevalier2/crestr,,archived
 datagovindia,https://github.com/econabhishek/datagovindia,,archived
+datelife,https://github.com/phylotastic/datelife,,archived
 dcmodifydb,https://github.com/data-cleaning/dcmodifydb,,archived
 deepboost,https://github.com/dmarcous/cran_deepboost,,archived
 diseq,https://github.com/pi-kappa-devel/diseq,,archived
@@ -10393,6 +10400,7 @@ mboxr,https://github.com/jooyoungseo/mboxr,,archived
 medfate,https://github.com/emf-creaf/medfate,,archived
 multilink,https://github.com/aleshing/multilink,,archived
 nsrr,https://github.com/muschellij2/nsrr,,archived
+phylocomr,https://github.com/ropensci/phylocomr,,archived
 poismf,https://github.com/david-cortes/poismf,,archived
 predict3d,https://github.com/cardiomoon/predict3d,,archived
 processR,https://github.com/cardiomoon/processr,,archived

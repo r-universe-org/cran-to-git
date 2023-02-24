@@ -1,5 +1,11 @@
 [
   {
+    "package": "descriptio",
+    "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
+    "url": "https://github.com/nicolas-robette/descriptio",
+    "available": true
+  },
+  {
     "package": "GDAtools",
     "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
     "url": "https://github.com/nicolas-robette/gdatools",
