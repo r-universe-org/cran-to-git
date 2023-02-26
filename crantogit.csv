@@ -249,7 +249,6 @@ arena2r,https://github.com/pedroliman/arena2r,,
 arenar,https://github.com/modeloriented/arenar,,
 arf,https://github.com/bips-hb/arf,,
 argoFloats,https://github.com/argocanada/argofloats,,
-argon2,https://github.com/wrathematics/argon2,,
 argonDash,https://github.com/rinterface/argondash,,
 argonR,https://github.com/rinterface/argonr,,
 argparse,https://github.com/trevorld/r-argparse,,
@@ -495,7 +494,6 @@ BayesSPsurv,https://github.com/nicolas-schmidt/bayesspsurv,,
 bayestestR,https://github.com/easystats/bayestestr,,
 BayesTools,https://github.com/fbartos/bayestools,,
 BayesTwin,https://github.com/ingaschwabe/bayestwin,,
-BayesVarSel,https://github.com/comodin19/bayesvarsel,,
 bayesvl,https://github.com/sshpa/bayesvl,,
 bayfoxr,https://github.com/brews/bayfoxr,,
 baygel,https://github.com/jarod-smithy/baygel,,
@@ -2856,6 +2854,7 @@ genridge,https://github.com/friendly/genridge,,
 genscore,https://github.com/sqyu/genscore,,
 genSurv,https://github.com/arturstat/gensurv,,
 gensvm,https://github.com/gjjvdburg/rgensvm,,
+geoAr,https://github.com/politicaargentina/geoar,,
 geocmeans,https://github.com/jeremygelb/geocmeans,,
 geodaData,https://github.com/spatialanalysis/geodadata,,
 geodata,https://github.com/rspatial/geodata,,
@@ -6661,7 +6660,6 @@ rematch2,https://github.com/r-lib/rematch2,,
 remedy,https://github.com/thinkr-open/remedy,,
 remiod,https://github.com/xsswang/remiod,,
 rEMM,https://github.com/mhahsler/remm,,
-remoter,https://github.com/rbigdata/remoter,,
 remotes,https://github.com/r-lib/remotes,,
 rempsyc,https://github.com/rempsyc/rempsyc,,
 renderthis,https://github.com/jhelvy/renderthis,,
@@ -6757,7 +6755,6 @@ rflashtext,https://github.com/abrja/rflashtext,,
 rflexscan,https://github.com/tkhrotn/rflexscan,,
 rflsgen,https://github.com/dimitri-justeau/rflsgen,,
 rfm,https://github.com/rsquaredacademy/rfm,,
-RFmerge,https://github.com/hzambran/rfmerge,,
 rfoaas,https://github.com/eddelbuettel/rfoaas,,
 rfordummies,https://github.com/rfordummies/rfordummies,,
 Rforestry,https://github.com/forestry-labs/rforestry,,
@@ -7704,6 +7701,7 @@ SIHR,https://github.com/prabrishar1/sihr,,
 silicate,https://github.com/hypertidy/silicate,,
 Sim.DiffProc,https://github.com/acguidoum/sim.diffproc,,
 sim2Dpredictr,https://github.com/jmleach-bst/sim2dpredictr,,
+simaerep,https://github.com/openpharma/simaerep,,
 SimBIID,https://github.com/tjmckinley/simbiid,,
 simboot,https://github.com/shearer/simboot,,
 simcausal,https://github.com/osofr/simcausal,,
@@ -9007,7 +9005,6 @@ vdra,https://github.com/kentedegrees/vdra,,
 vec2dtransf,https://github.com/gacarrillor/vec2dtransf,,
 veccompare,https://github.com/jglev/r-veccompare,,
 vectorwavelet,https://github.com/toygur/vectorwavelet,,
-VedicDateTime,https://github.com/prajwalkpatil/vedicdatetime,,
 vegalite,https://github.com/hrbrmstr/vegalite,,
 vegan,https://github.com/vegandevs/vegan,,
 vegan3d,https://github.com/vegandevs/vegan3d,,
@@ -9568,6 +9565,7 @@ cytoKernel,https://github.com/ghoshlab/cytokernel,,bioc
 cytomapper,https://github.com/bodenmillergroup/cytomapper,,bioc
 cytoMEM,https://github.com/cytolab/cytomem,,bioc
 CytoML,https://github.com/rglab/cytoml,,bioc
+CytoPipeline,https://github.com/uclouvain-cbio/cytopipeline,,bioc
 dada2,https://github.com/benjjneb/dada2,,bioc
 DAMEfinder,https://github.com/markrobinsonuzh/damefinder,,bioc
 DAPAR,https://github.com/prostarproteomics/dapar,,bioc
@@ -10132,6 +10130,7 @@ scDD,https://github.com/kdkorthauer/scdd,,bioc
 scDDboost,https://github.com/wiscstatman/scddboost,,bioc
 scde,https://github.com/hms-dbmi/scde,,bioc
 SCFA,https://github.com/duct317/scfa,,bioc
+scFeatures,https://github.com/sydneybiox/scfeatures,,bioc
 scGPS,https://github.com/imb-computational-genomics-lab/scgps,,bioc
 schex,https://github.com/saskiafreytag/schex,,bioc
 scmap,https://github.com/hemberg-lab/scmap,,bioc
@@ -10354,6 +10353,7 @@ ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
 ReUseData,https://github.com/rworkflow/reusedata,,bioc
+BayesVarSel,https://github.com/comodin19/bayesvarsel,,archived
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 GNGTools,https://github.com/gcicc/gngtools,,archived
 HierDpart,https://github.com/xinghuq/hierdpart,,archived
@@ -10367,11 +10367,14 @@ MODIS,https://github.com/fdetsch/modis,,archived
 MrSGUIDE,https://github.com/baconzhou/mrsguide,,archived
 RAEN,https://github.com/saintland/raen,,archived
 RBMRB,https://github.com/bmrb-io/rbmrb,RBMRB,archived
+RFmerge,https://github.com/hzambran/rfmerge,,archived
 RGISTools,https://github.com/spatialstatisticsupna/rgistools,,archived
 RStoolbox,https://github.com/bleutner/rstoolbox,,archived
 Rgb,https://github.com/maressyl/r.rgb,Rgb,archived
 ToxicR,https://github.com/niehs/toxicr,,archived
+VedicDateTime,https://github.com/prajwalkpatil/vedicdatetime,,archived
 analogueExtra,https://github.com/gavinsimpson/analogueextra,,archived
+argon2,https://github.com/wrathematics/argon2,,archived
 baseballr,https://github.com/billpetti/baseballr,,archived
 blscrapeR,https://github.com/keberwein/blscraper,,archived
 brranching,https://github.com/ropensci/brranching,,archived
@@ -10410,6 +10413,7 @@ predict3d,https://github.com/cardiomoon/predict3d,,archived
 processR,https://github.com/cardiomoon/processr,,archived
 rForest,https://github.com/carlos-alberto-silva/rforest,,archived
 rIP,https://github.com/mahdlab/rip,,archived
+remoter,https://github.com/rbigdata/remoter,,archived
 rgeolocate,https://github.com/ironholds/rgeolocate,,archived
 rhli,https://github.com/qomaio/rhli,,archived
 robets,https://github.com/rubencrevits/robets,,archived

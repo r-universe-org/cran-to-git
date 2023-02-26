@@ -21,6 +21,13 @@
     "registry": "bioc"
   },
   {
+    "package": "scFeatures",
+    "maintainer": "Yue Cao <yue.cao@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/scfeatures",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "scMerge",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scmerge",
