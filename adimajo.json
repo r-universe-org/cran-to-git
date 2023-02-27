@@ -1,11 +1,5 @@
 [
   {
-    "package": "glmdisc",
-    "maintainer": "Adrien Ehrhardt <adrien.ehrhardt@centraliens-lille.org>",
-    "url": "https://github.com/adimajo/glmdisc",
-    "available": true
-  },
-  {
     "package": "glmtree",
     "maintainer": "Adrien Ehrhardt <adrien.ehrhardt@centraliens-lille.org>",
     "url": "https://github.com/adimajo/glmtree",
@@ -16,5 +10,12 @@
     "maintainer": "Adrien Ehrhardt <adrien.ehrhardt@centraliens-lille.org>",
     "url": "https://github.com/adimajo/scoringtools",
     "available": true
+  },
+  {
+    "package": "glmdisc",
+    "maintainer": "Adrien Ehrhardt <adrien.ehrhardt@centraliens-lille.org>",
+    "url": "https://github.com/adimajo/glmdisc",
+    "available": true,
+    "registry": "archived"
   }
 ]
