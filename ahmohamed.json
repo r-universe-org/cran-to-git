@@ -1,15 +1,15 @@
 [
   {
-    "package": "NetPathMiner",
+    "package": "lipidr",
     "maintainer": "Ahmed Mohamed <mohamed@kuicr.kyoto-u.ac.jp>",
-    "url": "https://github.com/ahmohamed/netpathminer",
+    "url": "https://github.com/ahmohamed/lipidr",
     "available": true,
     "registry": "bioc"
   },
   {
-    "package": "lipidr",
+    "package": "NetPathMiner",
     "maintainer": "Ahmed Mohamed <mohamed@kuicr.kyoto-u.ac.jp>",
-    "url": "https://github.com/ahmohamed/lipidr",
+    "url": "https://github.com/ahmohamed/netpathminer",
     "available": true,
     "registry": "bioc"
   }
