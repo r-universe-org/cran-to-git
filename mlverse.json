@@ -24,12 +24,6 @@
     "available": true
   },
   {
-    "package": "tfevents",
-    "maintainer": "Daniel Falbel <daniel@posit.co>",
-    "url": "https://github.com/mlverse/tfevents",
-    "available": true
-  },
-  {
     "package": "torch",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torch",
@@ -52,5 +46,12 @@
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/wav",
     "available": true
+  },
+  {
+    "package": "tfevents",
+    "maintainer": "Daniel Falbel <daniel@posit.co>",
+    "url": "https://github.com/mlverse/tfevents",
+    "available": true,
+    "registry": "archived"
   }
 ]

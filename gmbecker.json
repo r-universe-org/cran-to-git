@@ -1,32 +1,36 @@
 [
   {
-    "package": "GRANBase",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/gran",
-    "available": true
-  },
-  {
-    "package": "GRANCore",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/grancore",
-    "available": true
-  },
-  {
     "package": "SearchTrees",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/gmbecker/searchtrees",
     "available": true
   },
   {
+    "package": "GRANBase",
+    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
+    "url": "https://github.com/gmbecker/gran",
+    "available": true,
+    "registry": "archived"
+  },
+  {
+    "package": "GRANCore",
+    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
+    "url": "https://github.com/gmbecker/grancore",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "switchr",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/gmbecker/switchr",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "switchrGist",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/gmbecker/switchrgist",
-    "available": true
+    "available": true,
+    "registry": "archived"
   }
 ]

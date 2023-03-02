@@ -1,5 +1,11 @@
 [
   {
+    "package": "ptable",
+    "maintainer": "Tobias Enderle <tobias.enderle@destatis.de>",
+    "url": "https://github.com/sdctools/ptable",
+    "available": true
+  },
+  {
     "package": "sdcMicro",
     "maintainer": "Matthias Templ <matthias.templ@gmail.com>",
     "url": "https://github.com/sdctools/sdcmicro",
