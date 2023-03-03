@@ -100,6 +100,7 @@ AHMbook,https://github.com/mikemeredith/ahmbook,,
 ahnr,https://github.com/jroberayalas/ahnr,,
 AhoCorasickTrie,https://github.com/chambm/ahocorasicktrie,,
 aIc,https://github.com/ggloor/aic,,
+aihuman,https://github.com/sooahnshin/aihuman,,
 aimsir17,https://github.com/jimduggan/aimsir17,,
 AIPW,https://github.com/yqzhong7/aipw,,
 aire.zmvm,https://github.com/diegovalle/aire.zmvm,,
@@ -411,7 +412,6 @@ bain,https://github.com/cjvanlissa/bain,,
 baizer,https://github.com/william-swl/baizer,,
 bakeoff,https://github.com/apreshill/bakeoff,,
 bakR,https://github.com/simonlabcode/bakr,,
-BALCONY,https://github.com/stolarczyk/balcony,,
 bama,https://github.com/umich-cphds/bama,,
 BAMBI,https://github.com/c7rishi/bambi,,
 bambooHR,https://github.com/mangothecat/bamboohr,,
@@ -2226,7 +2226,6 @@ EpiLPS,https://github.com/oswaldogressani/epilps,,
 epimdr2,https://github.com/objornstad/epimdr2,,
 EpiModel,https://github.com/epimodel/epimodel,,
 epinetr,https://github.com/diondetterer/epinetr,,
-EpiNow2,https://github.com/epiforecasts/epinow2,,
 episensr,https://github.com/dhaine/episensr,,
 EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection,,
 epitab,https://github.com/stulacy/epitab,,
@@ -4515,6 +4514,7 @@ metacoder,https://github.com/grunwaldlab/metacoder,,
 metacom,https://github.com/taddallas/metacom,,
 MetaComp,https://github.com/seninp-bioinfo/metacomp,,
 metaconfoundr,https://github.com/malcolmbarrett/metaconfoundr,,
+metacore,https://github.com/atorus-research/metacore,,
 MetaculR,https://gitlab.com/ntrlshrp/metaculr,,
 metadat,https://github.com/wviechtb/metadat,,
 metaDigitise,https://github.com/daniel1noble/metadigitise,,
@@ -4911,6 +4911,7 @@ multibridge,https://github.com/asarafoglou/multibridge,,
 multiclassPairs,https://github.com/nourmarzouka/multiclasspairs,,
 multicmp,https://github.com/diagdavenport/multicmp,,
 multiColl,https://github.com/r-forge/colldetreat,pkg/multiColl,
+multicolor,https://github.com/aedobbyn/multicolor,,
 multid,https://github.com/vjilmari/multid,,
 multidplyr,https://github.com/tidyverse/multidplyr,,
 multifear,https://github.com/angelospsy/multifear,,
@@ -5776,6 +5777,7 @@ pkgstats,https://github.com/ropensci-review-tools/pkgstats,,
 pkgverse,https://github.com/mkearney/pkgverse,,
 PKI,https://github.com/s-u/pki,,
 PKNCA,https://github.com/billdenney/pknca,,
+PKPDsim,https://github.com/insightrx/pkpdsim,,
 pksensi,https://github.com/nanhung/pksensi,,
 PL94171,https://github.com/corymccartan/pl94171,,
 plac,https://github.com/942kid/plac,,
@@ -7604,6 +7606,7 @@ shiny.info,https://github.com/appsilon/shiny.info,,
 shiny.pwa,https://github.com/pedrocoutinhosilva/shiny.pwa,,
 shiny.react,https://github.com/appsilon/shiny.react,,
 shiny.reglog,https://github.com/statismike/shiny.reglog,,
+shiny.router,https://github.com/appsilon/shiny.router,,
 shiny.semantic,https://github.com/appsilon/shiny.semantic,,
 shiny.tailwind,https://github.com/kylebutts/shiny.tailwind,,
 shinyAce,https://github.com/trestletech/shinyace,,
@@ -9103,6 +9106,7 @@ vueR,https://github.com/vue-r/vuer,,
 VulnToolkit,https://github.com/troyhill/vulntoolkit,,
 vvfiller,https://github.com/vusaverse/vvfiller,,
 vwline,https://github.com/pmur002/vwline,pkg,
+W2CWM2C,https://github.com/jomopo/w2cwm2c,,
 wacolors,https://github.com/corymccartan/wacolors,,
 wactor,https://github.com/mkearney/wactor,,
 waffle,https://github.com/hrbrmstr/waffle,,
@@ -10353,9 +10357,11 @@ ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
 ReUseData,https://github.com/rworkflow/reusedata,,bioc
+BALCONY,https://github.com/stolarczyk/balcony,,archived
 BayesVarSel,https://github.com/comodin19/bayesvarsel,,archived
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 DAISIE,https://github.com/rsetienne/daisie,,archived
+EpiNow2,https://github.com/epiforecasts/epinow2,,archived
 GNGTools,https://github.com/gcicc/gngtools,,archived
 GRANBase,https://github.com/gmbecker/gran,,archived
 GRANCore,https://github.com/gmbecker/grancore,,archived
@@ -10368,6 +10374,7 @@ LDheatmap,https://github.com/sfustatgen/ldheatmap,,archived
 MCPModPack,https://github.com/medianainc/mcpmodpack,,archived
 MDP2,https://github.com/relund/mdp,,archived
 MODIS,https://github.com/fdetsch/modis,,archived
+MortalityLaws,https://github.com/mpascariu/mortalitylaws,,archived
 MrSGUIDE,https://github.com/baconzhou/mrsguide,,archived
 NetOrigin,https://github.com/jmanitz/netorigin,,archived
 PHEindicatormethods,https://github.com/publichealthengland/pheindicatormethods,,archived
@@ -10420,9 +10427,7 @@ kmscv,https://github.com/sametsoekel/kmscv,,archived
 listdown,https://github.com/kaneplusplus/listdown,,archived
 mboxr,https://github.com/jooyoungseo/mboxr,,archived
 medfate,https://github.com/emf-creaf/medfate,,archived
-metacore,https://github.com/atorus-research/metacore,,archived
 metatools,https://github.com/pharmaverse/metatools,,archived
-multicolor,https://github.com/aedobbyn/multicolor,,archived
 multilink,https://github.com/aleshing/multilink,,archived
 nsrr,https://github.com/muschellij2/nsrr,,archived
 phylocomr,https://github.com/ropensci/phylocomr,,archived
