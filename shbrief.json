@@ -1,5 +1,12 @@
 [
   {
+    "package": "AnVILWorkflow",
+    "maintainer": "Sehyun Oh <shbrief@gmail.com>",
+    "url": "https://github.com/shbrief/anvilworkflow",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "GenomicSuperSignature",
     "maintainer": "Sehyun Oh <shbrief@gmail.com>",
     "url": "https://github.com/shbrief/genomicsupersignature",

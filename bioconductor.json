@@ -86,6 +86,13 @@
     "branch": "RELEASE_3_16"
   },
   {
+    "package": "BiocHubsShiny",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/biochubsshiny",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "BiocIO",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/biocio",

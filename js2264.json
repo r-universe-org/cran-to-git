@@ -1,8 +1,22 @@
 [
   {
+    "package": "HiCExperiment",
+    "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
+    "url": "https://github.com/js2264/hicexperiment",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "HiContacts",
     "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
     "url": "https://github.com/js2264/hicontacts",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "HiCool",
+    "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
+    "url": "https://github.com/js2264/hicool",
     "available": true,
     "registry": "bioc"
   },
