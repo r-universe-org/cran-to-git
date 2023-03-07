@@ -2436,7 +2436,6 @@ fasttime,https://github.com/s-u/fasttime,,
 fastTopics,https://github.com/stephenslab/fasttopics,,
 fastverse,https://github.com/fastverse/fastverse,,
 fastWavelets,https://github.com/johnswyou/fastwavelets,,
-faux,https://github.com/debruine/faux,,
 fauxnaif,https://github.com/rossellhayes/fauxnaif,,
 fauxpas,https://github.com/sckott/fauxpas,,
 faviconPlease,https://github.com/jdblischak/faviconplease,,
@@ -3099,7 +3098,7 @@ gibble,https://github.com/mdsumner/gibble,,
 Gifi,https://github.com/r-forge/psychor,pkg/Gifi,
 gifski,https://github.com/r-rust/gifski,,
 gifti,https://github.com/muschellij2/gifti,,
-GIFTr,https://github.com/omarmetrx/giftr,,
+GIFTr,https://github.com/omashkartrx/giftr,,
 gigg,https://github.com/umich-cphds/gigg,,
 GillespieSSA,https://github.com/rcannood/gillespiessa,,
 GillespieSSA2,https://github.com/rcannood/gillespiessa2,,
@@ -3324,6 +3323,7 @@ guaguas,https://github.com/rivaquiroga/guaguas,,
 guardianapi,https://github.com/evanodell/guardianapi,,
 Guerry,https://github.com/friendly/guerry,,
 guess,https://github.com/soodoku/guess,,
+guildai,https://github.com/guildai/guildai-r,,
 GUILDS,https://github.com/thijsjanzen/guilds,,
 guiplot,https://github.com/s0521/guiplot,,
 guix.install,https://github.com/bimsbbioinfo/guix.install,,
@@ -5368,7 +5368,6 @@ optmatch,https://github.com/markmfredrickson/optmatch,,
 optparse,https://github.com/trevorld/r-optparse,,
 optrefine,https://github.com/kkbrum/optrefine,,
 Orcs,https://github.com/fdetsch/orcs,,
-ordbetareg,https://github.com/saudiwin/ordbetareg_pack,,
 OrdCD,https://github.com/nystat/ordcd,,
 ordering,https://github.com/decisionpatterns/ordering,,
 orderly,https://github.com/vimc/orderly,,
@@ -5681,6 +5680,7 @@ PhaseType,https://github.com/louisaslett/phasetype,,
 PhaseTypeR,https://github.com/rivasiker/phasetyper,,
 PheCAP,https://github.com/celehs/phecap,,
 phecodemap,https://github.com/celehs/phecodemap,,
+PHEindicatormethods,https://github.com/publichealthengland/pheindicatormethods,,
 phenocamr,https://github.com/bluegreen-labs/phenocamr,,
 phenoCDM,https://github.com/bnasr/phenocdm,,
 phenofit,https://github.com/eco-hydro/phenofit,,
@@ -6489,6 +6489,7 @@ RcppEigen,https://github.com/rcppcore/rcppeigen,,
 RcppEnsmallen,https://github.com/coatless-rpkg/rcppensmallen,,
 RcppExamples,https://github.com/eddelbuettel/rcppexamples,,
 RcppFarmHash,https://github.com/eddelbuettel/rcppfarmhash,,
+RcppFastAD,https://github.com/eddelbuettel/rcppfastad,,
 RcppFastFloat,https://github.com/eddelbuettel/rcppfastfloat,,
 RcppGetconf,https://github.com/eddelbuettel/rcppgetconf,,
 RcppGreedySetCover,https://github.com/matthiaskaeding/rcppgreedysetcover,,
@@ -10076,6 +10077,7 @@ regutools,https://github.com/comunidadbioinfo/regutools,,bioc
 REMP,https://github.com/yinanzheng/remp,,bioc
 ResidualMatrix,https://github.com/ltla/residualmatrix,,bioc
 RESOLVE,https://github.com/danro9685/resolve,,bioc
+ReUseData,https://github.com/rworkflow/reusedata,,bioc
 rgoslin,https://github.com/lifs-tools/rgoslin,,bioc
 rGREAT,https://github.com/jokergoo/rgreat,,bioc
 rhdf5,https://github.com/grimbough/rhdf5,,bioc
@@ -10362,7 +10364,6 @@ GAPGOM,https://github.com/berghopper/gapgom,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
-ReUseData,https://github.com/rworkflow/reusedata,,bioc
 BALCONY,https://github.com/stolarczyk/balcony,,archived
 BayesVarSel,https://github.com/comodin19/bayesvarsel,,archived
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
@@ -10383,7 +10384,6 @@ MODIS,https://github.com/fdetsch/modis,,archived
 MortalityLaws,https://github.com/mpascariu/mortalitylaws,,archived
 MrSGUIDE,https://github.com/baconzhou/mrsguide,,archived
 NetOrigin,https://github.com/jmanitz/netorigin,,archived
-PHEindicatormethods,https://github.com/publichealthengland/pheindicatormethods,,archived
 RAEN,https://github.com/saintland/raen,,archived
 RBMRB,https://github.com/bmrb-io/rbmrb,RBMRB,archived
 RFmerge,https://github.com/hzambran/rfmerge,,archived
@@ -10417,6 +10417,7 @@ dynConfiR,https://github.com/sehellmann/dynconfir,,archived
 dynamAedes,https://github.com/mattmar/dynamaedes,,archived
 elbird,https://github.com/mrchypark/elbird,,archived
 fRLR,https://github.com/szcf-weiya/frlr,,archived
+faux,https://github.com/debruine/faux,,archived
 ffmetadata,https://github.com/fragilefamilieschallenge/ffmetadata,,archived
 fieldRS,https://github.com/rremelgado/fieldrs,,archived
 foster,https://github.com/mqueinnec/foster,,archived
@@ -10437,6 +10438,7 @@ medfate,https://github.com/emf-creaf/medfate,,archived
 metatools,https://github.com/pharmaverse/metatools,,archived
 multilink,https://github.com/aleshing/multilink,,archived
 nsrr,https://github.com/muschellij2/nsrr,,archived
+ordbetareg,https://github.com/saudiwin/ordbetareg_pack,,archived
 phylocomr,https://github.com/ropensci/phylocomr,,archived
 poismf,https://github.com/david-cortes/poismf,,archived
 predict3d,https://github.com/cardiomoon/predict3d,,archived

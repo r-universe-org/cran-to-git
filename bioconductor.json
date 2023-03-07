@@ -157,6 +157,13 @@
     "branch": "RELEASE_3_16"
   },
   {
+    "package": "ENmix",
+    "maintainer": "Zongli Xu <xuz@niehs.nih.gov>",
+    "url": "https://github.com/bioconductor/enmix",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
     "package": "ExperimentHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/experimenthub",
