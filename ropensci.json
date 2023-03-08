@@ -1218,6 +1218,12 @@
     "available": true
   },
   {
+    "package": "tsbox",
+    "maintainer": "Christoph Sax <christoph.sax@gmail.com>",
+    "url": "https://github.com/ropensci/tsbox",
+    "available": true
+  },
+  {
     "package": "UCSCXenaTools",
     "maintainer": "Shixiang Wang <w_shixiang@163.com>",
     "url": "https://github.com/ropensci/ucscxenatools",

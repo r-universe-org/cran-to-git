@@ -737,6 +737,7 @@ brainGraph,https://github.com/cwatson/braingraph,,
 BranchGLM,https://github.com/jacobseedorff21/branchglm,,
 brandwatchR,https://github.com/phippsy/brandwatchr,,
 BrazilMet,https://github.com/filgueirasr/brazilmet,,
+brclimr,https://github.com/rfsaldanha/brclimr,,
 BRDT,https://github.com/ericchen12377/brdt,,
 bread,https://github.com/magichead99/bread,,
 breakaway,https://github.com/adw96/breakaway,,
@@ -2746,7 +2747,7 @@ future.callr,https://github.com/henrikbengtsson/future.callr,,
 future.tests,https://github.com/henrikbengtsson/future.tests,,
 fuzzr,https://github.com/mdlincoln/fuzzr,,
 FuzzyAHP,https://github.com/jancaha/fuzzyahp,,
-FuzzyClass,https://github.com/jodavid/fuzzyclass,,
+FuzzyClass,https://github.com/leapigufpb/fuzzyclass,,
 fuzzyjoin,https://github.com/dgrtwo/fuzzyjoin,,
 FuzzyNumbers,https://github.com/gagolews/fuzzynumbers,,
 FuzzyQ,https://github.com/ligophorus/fuzzyq,,
@@ -3600,6 +3601,7 @@ IDSL.UFAx,https://github.com/idslme/idsl.ufax,IDSL.UFAx,
 idx2r,https://github.com/edoffagne/idx2r,,
 ie2misc,https://gitlab.com/iembry/ie2misc,,
 ie2miscdata,https://gitlab.com/iembry/ie2miscdata,,
+iemisc,https://gitlab.com/iembry/iemisc,,
 iemiscdata,https://gitlab.com/iembry/iemiscdata,,
 iemisctext,https://gitlab.com/iembry/iemisctext,,
 IFAA,https://github.com/quranwu/ifaa,,
@@ -3987,6 +3989,7 @@ ksharp,https://github.com/tkonopka/ksharp,,
 kssa,https://github.com/pipeben/kssa,,
 kvh,https://github.com/sgsokol/kvh,,
 kwb.hantush,https://github.com/kwb-r/kwb.hantush,,
+L0Learn,https://github.com/hazimehh/l0learn,,
 labelled,https://github.com/larmarange/labelled,,
 labelmachine,https://github.com/a-maldet/labelmachine,,
 lablaster,https://github.com/alexsb1/lablaster,,
@@ -8502,6 +8505,7 @@ tfarima,https://github.com/gallegoj/tfarima,,
 tfautograph,https://github.com/t-kalinowski/tfautograph,,
 tfdatasets,https://github.com/rstudio/tfdatasets,,
 tfestimators,https://github.com/rstudio/tfestimators,,
+tfevents,https://github.com/mlverse/tfevents,,
 tfhub,https://github.com/rstudio/tfhub,,
 TFMPvalue,https://github.com/ge11232002/tfmpvalue,,
 tfplot,https://github.com/r-forge/tsanalysis,pkg/tfplot,
@@ -8799,7 +8803,7 @@ trustOptim,https://github.com/braunm/trustoptim,,
 TrustVDJ,https://github.com/hatsunecode/trustvdj,,
 tryCatchLog,https://github.com/aryoda/trycatchlog,,
 ts2net,https://github.com/lnferreira/ts2net,,
-tsbox,https://github.com/christophsax/tsbox,,
+tsbox,https://github.com/ropensci/tsbox,,
 TSCI,https://github.com/dlcarl/tsci,,
 tscount,https://github.com/r-forge/tscount,pkg,
 tsdb,https://github.com/enricoschumann/tsdb,,
@@ -8867,6 +8871,7 @@ tzdb,https://github.com/r-lib/tzdb,,
 u5mr,https://github.com/myominnoo/u5mr,,
 uaparserjs,https://gitlab.com/hrbrmstr/uaparserjs,,
 uavRmp,https://github.com/gisma/uavrmp,,
+UBayFS,https://github.com/annajenul/ubayfs,,
 ubiquity,https://github.com/john-harrold/ubiquity,,
 UBL,https://github.com/paobranco/ubl,,
 ubms,https://github.com/kenkellner/ubms,,
@@ -10376,7 +10381,6 @@ HierDpart,https://github.com/xinghuq/hierdpart,,archived
 IGP,https://github.com/collinerickson/igp,,archived
 JointNets,https://github.com/qdata/jointnets,,archived
 KSgeneral,https://github.com/raymondtsr/ksgeneral,,archived
-L0Learn,https://github.com/hazimehh/l0learn,,archived
 LDheatmap,https://github.com/sfustatgen/ldheatmap,,archived
 MCPModPack,https://github.com/medianainc/mcpmodpack,,archived
 MDP2,https://github.com/relund/mdp,,archived
@@ -10425,7 +10429,6 @@ giphyr,https://github.com/haozhu233/giphyr,,archived
 glmdisc,https://github.com/adimajo/glmdisc,,archived
 glmmrMCML,https://github.com/samuel-watson/glmmrmcml,,archived
 helda,https://github.com/redcart/helda,,archived
-iemisc,https://gitlab.com/iembry/iemisc,,archived
 ifultools,https://github.com/spkaluzny/ifultools,,archived
 interplex,https://github.com/tdaverse/interplex,,archived
 iptools,https://github.com/hrbrmstr/iptools,,archived
@@ -10458,7 +10461,6 @@ surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
 switchr,https://github.com/gmbecker/switchr,,archived
 switchrGist,https://github.com/gmbecker/switchrgist,,archived
-tfevents,https://github.com/mlverse/tfevents,,archived
 tramvs,https://github.com/r-forge/ctm,pkg/tramvs,archived
 treeplyr,https://github.com/uyedaj/treeplyr,,archived
 ts.extend,https://github.com/ben-oneill/ts.extend,,archived

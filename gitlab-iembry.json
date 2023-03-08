@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "iemisc",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/iemisc",
+    "available": true
+  },
+  {
     "package": "iemiscdata",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://gitlab.com/iembry/iemiscdata",
@@ -52,12 +58,5 @@
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://gitlab.com/iembry/vaers",
     "available": false
-  },
-  {
-    "package": "iemisc",
-    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
-    "url": "https://gitlab.com/iembry/iemisc",
-    "available": true,
-    "registry": "archived"
   }
 ]
