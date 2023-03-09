@@ -37,7 +37,7 @@
   },
   {
     "package": "butcher",
-    "maintainer": "Julia Silge <julia.silge@rstudio.com>",
+    "maintainer": "Julia Silge <julia.silge@posit.co>",
     "url": "https://github.com/tidymodels/butcher",
     "available": true
   },
@@ -61,7 +61,7 @@
   },
   {
     "package": "discrim",
-    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
     "url": "https://github.com/tidymodels/discrim",
     "available": true
   },
@@ -103,7 +103,7 @@
   },
   {
     "package": "modelenv",
-    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
     "url": "https://github.com/tidymodels/modelenv",
     "available": true
   },

@@ -493,6 +493,7 @@ BayesSPsurv,https://github.com/nicolas-schmidt/bayesspsurv,,
 bayestestR,https://github.com/easystats/bayestestr,,
 BayesTools,https://github.com/fbartos/bayestools,,
 BayesTwin,https://github.com/ingaschwabe/bayestwin,,
+BayesVarSel,https://github.com/comodin19/bayesvarsel,,
 bayesvl,https://github.com/sshpa/bayesvl,,
 bayfoxr,https://github.com/brews/bayfoxr,,
 baygel,https://github.com/jarod-smithy/baygel,,
@@ -2233,6 +2234,7 @@ EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection,,
 epitab,https://github.com/stulacy/epitab,,
 epitrix,https://github.com/reconhub/epitrix,,
 epitweetr,https://github.com/eu-ecdc/epitweetr,epitweetr,
+EPLSIM,https://github.com/yuyanwangsixtwo/eplsim,,
 eplusr,https://github.com/hongyuanjia/eplusr,,
 eply,https://github.com/wlandau/eply,,
 epm,https://github.com/ptitle/epm,,
@@ -3425,7 +3427,6 @@ hhsmm,https://github.com/mortamini/hhsmm,,
 hibayes,https://github.com/yinlilin/hibayes,,
 HiClimR,https://github.com/hsbadr/hiclimr,,
 hidecan,https://github.com/plantandfoodresearch/hidecan,,
-hier.part,https://github.com/cjbwalsh/hier.part,,
 hierfstat,https://github.com/jgx65/hierfstat,,
 HierPortfolios,https://github.com/ctruciosm/hierportfolios,,
 hierSDR,https://github.com/jaredhuling/hiersdr,,
@@ -5177,6 +5178,7 @@ nodbi,https://github.com/ropensci/nodbi,,
 nodeSub,https://github.com/thijsjanzen/nodesub,,
 nodiv,https://github.com/mkborregaard/nodiv,,
 nofrills,https://github.com/egnha/nofrills,,
+noia,https://github.com/lerouzic/noia,,
 noisyCE2,https://github.com/f-santi/noisyce2,,
 noisyr,https://github.com/core-bioinformatics/noisyr,,
 nombre,https://github.com/rossellhayes/nombre,,
@@ -5978,6 +5980,7 @@ predtoolsTS,https://github.com/avm00016/predtoolsts,,
 prefeR,https://github.com/jlepird/prefer,,
 preferably,https://github.com/amirmasoudabdol/preferably,,
 preference,https://github.com/kaneplusplus/preference,,
+prefio,https://github.com/fleverest/prefio,,
 PreKnitPostHTMLRender,https://github.com/chinsoon12/preknitposthtmlrender,,
 prenoms,https://github.com/desautm/prenoms,,
 prepdat,https://github.com/ayalaallon/prepdat,,
@@ -6762,7 +6765,6 @@ rflsgen,https://github.com/dimitri-justeau/rflsgen,,
 rfm,https://github.com/rsquaredacademy/rfm,,
 rfoaas,https://github.com/eddelbuettel/rfoaas,,
 rfordummies,https://github.com/rfordummies/rfordummies,,
-Rforestry,https://github.com/forestry-labs/rforestry,,
 rfPermute,https://github.com/ericarcher/rfpermute,,
 RFpredInterval,https://github.com/calakus/rfpredinterval,,
 Rfssa,https://github.com/haghbinh/rfssa,,
@@ -8083,6 +8085,7 @@ squash,https://github.com/aroneklund/squash,,
 squat,https://github.com/lmjl-alea/squat,,
 SqueakR,https://github.com/osimon81/squeakr,,
 squid,https://github.com/squidgroup/squid,,
+sra,https://github.com/lerouzic/sra,,
 sRdpData,https://github.com/fragmentation-project/srdpdata,,
 srm,https://github.com/alexanderrobitzsch/srm,,
 srt,https://github.com/kiernann/srt,,
@@ -8689,6 +8692,7 @@ TopDom,https://github.com/henrikbengtsson/topdom,,
 topicdoc,https://github.com/doug-friedman/topicdoc,,
 TopKLists,https://github.com/r-forge/topklists,pkg,
 topmodel,https://github.com/ichydro/topmodel,topmodel,
+toposort,https://github.com/tzakharko/toposort,,
 topr,https://github.com/totajuliusd/topr,,
 tor,https://github.com/maurolepore/tor,,
 torch,https://github.com/mlverse/torch,,
@@ -8762,6 +8766,7 @@ TreeSearch,https://github.com/ms609/treesearch,,
 treespace,https://github.com/thibautjombart/treespace,,
 treestartr,https://github.com/ropensci/treestartr,,
 TreeTools,https://github.com/ms609/treetools,,
+treetop,https://github.com/carlos-alberto-silva/weblidar-treetop,,
 trekcolors,https://github.com/leonawicz/trekcolors,,
 trekfont,https://github.com/leonawicz/trekfont,,
 trelliscopejs,https://github.com/hafen/trelliscopejs,,
@@ -10167,6 +10172,7 @@ scPipe,https://github.com/luyitian/scpipe,,bioc
 scReClassify,https://github.com/sydneybiox/screclassify,,bioc
 scRecover,https://github.com/miaozhun/screcover,,bioc
 ScreenR,https://github.com/emanuelsoda/screenr,,bioc
+scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
 scruff,https://github.com/campbio/scruff,,bioc
 scry,https://github.com/kstreet13/scry,,bioc
 scShapes,https://github.com/malindrie/scshapes,,bioc
@@ -10368,9 +10374,7 @@ deco,https://github.com/fjcamlab/deco,,bioc
 GAPGOM,https://github.com/berghopper/gapgom,,bioc
 ASpediaFI,https://github.com/nachoryu/aspediafi,,bioc
 metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
-scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
 BALCONY,https://github.com/stolarczyk/balcony,,archived
-BayesVarSel,https://github.com/comodin19/bayesvarsel,,archived
 Crossover,https://github.com/kornl/crossover,pkg/Crossover,archived
 DAISIE,https://github.com/rsetienne/daisie,,archived
 EpiNow2,https://github.com/epiforecasts/epinow2,,archived
