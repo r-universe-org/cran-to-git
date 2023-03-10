@@ -1255,6 +1255,13 @@
     "available": true
   },
   {
+    "package": "tramvs",
+    "maintainer": "Lucas Kook <lucasheinrich.kook@uzh.ch>",
+    "url": "https://github.com/r-forge/ctm",
+    "subdir": "pkg/tramvs",
+    "available": true
+  },
+  {
     "package": "trtf",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
@@ -1351,13 +1358,5 @@
     "subdir": "pkg",
     "available": true,
     "registry": "bioc"
-  },
-  {
-    "package": "tramvs",
-    "maintainer": "Lucas Kook <lucasheinrich.kook@uzh.ch>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/tramvs",
-    "available": true,
-    "registry": "archived"
   }
 ]

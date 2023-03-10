@@ -1,5 +1,11 @@
 [
   {
+    "package": "cellKey",
+    "maintainer": "Bernhard Meindl <bernhard.meindl@statistik.gv.at>",
+    "url": "https://github.com/sdctools/usersupport",
+    "available": false
+  },
+  {
     "package": "ptable",
     "maintainer": "Tobias Enderle <tobias.enderle@destatis.de>",
     "url": "https://github.com/sdctools/ptable",
