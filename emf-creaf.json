@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "medfate",
+    "maintainer": "Miquel De Cáceres <miquelcaceres@gmail.com>",
+    "url": "https://github.com/emf-creaf/medfate",
+    "available": true
+  },
+  {
     "package": "meteoland",
     "maintainer": "Miquel De Cáceres <miquelcaceres@gmail.com>",
     "url": "https://github.com/emf-creaf/meteoland",
@@ -28,12 +34,5 @@
     "maintainer": "Miquel De Cáceres <miquelcaceres@gmail.com>",
     "url": "https://github.com/emf-creaf/vegclust",
     "available": true
-  },
-  {
-    "package": "medfate",
-    "maintainer": "Miquel De C<c3><a1>ceres <miquelcaceres@gmail.com>",
-    "url": "https://github.com/emf-creaf/medfate",
-    "available": true,
-    "registry": "archived"
   }
 ]

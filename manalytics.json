@@ -1,11 +1,5 @@
 [
   {
-    "package": "akmedoids",
-    "maintainer": "Monsuru Adepeju <monsuur2010@yahoo.com>",
-    "url": "https://github.com/manalytics/akmedoids",
-    "available": true
-  },
-  {
     "package": "opitools",
     "maintainer": "Monsuru Adepeju <monsuur2010@yahoo.com>",
     "url": "https://github.com/manalytics/opitools",
@@ -16,5 +10,12 @@
     "maintainer": "Monsuru Adepeju <monsuur2010@yahoo.com>",
     "url": "https://github.com/manalytics/stppsim",
     "available": true
+  },
+  {
+    "package": "akmedoids",
+    "maintainer": "Monsuru Adepeju <monsuur2010@yahoo.com>",
+    "url": "https://github.com/manalytics/akmedoids",
+    "available": true,
+    "registry": "archived"
   }
 ]
