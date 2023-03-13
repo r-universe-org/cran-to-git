@@ -1,32 +1,35 @@
 [
   {
-    "package": "robustarima",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/robustarima",
-    "available": true
-  },
-  {
     "package": "splus2R",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splus2r",
     "available": true
   },
   {
+    "package": "ifultools",
+    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
+    "url": "https://github.com/spkaluzny/ifultools",
+    "available": true,
+    "registry": "archived"
+  },
+  {
+    "package": "robustarima",
+    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
+    "url": "https://github.com/spkaluzny/robustarima",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "splusTimeDate",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splustimedate",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "splusTimeSeries",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splustimeseries",
-    "available": true
-  },
-  {
-    "package": "ifultools",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/ifultools",
     "available": true,
     "registry": "archived"
   }

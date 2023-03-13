@@ -5211,7 +5211,6 @@ npmlda,https://github.com/npmldabook/npmlda,,
 NPRED,https://github.com/zejiang-unsw/npred,,
 npregfast,https://github.com/sestelo/npregfast,,
 npsurvSS,https://github.com/godwinyyung/npsurvss,,
-nsapi,https://github.com/rmhogervorst/nsapi,,
 nscancor,https://github.com/chrsigg/nscancor,,
 nse,https://github.com/keblu/nse,,
 nse2r,https://github.com/rsquaredacademy/nse2r,,
@@ -6745,7 +6744,6 @@ Rfast2,https://github.com/rfastofficial/rfast2,,
 RFCCA,https://github.com/calakus/rfcca,,
 RfEmpImp,https://github.com/shangzhi-hong/rfempimp,,
 rFerns,https://gitlab.com/mbq/rferns,,
-rFIA,https://github.com/hunter-stanke/rfia,,
 rfigshare,https://github.com/ropensci-archive/rfigshare,,
 rfinterval,https://github.com/haozhestat/rfinterval,,
 rfishbase,https://github.com/ropensci/rfishbase,,
@@ -6981,7 +6979,6 @@ RoBTT,https://github.com/fbartos/robtt,,
 robumeta,https://github.com/zackfisher/robumeta,,
 robust,https://github.com/valentint/robust,,
 robust2sls,https://github.com/jkurle/robust2sls,,
-robustarima,https://github.com/spkaluzny/robustarima,,
 robustbase,https://github.com/r-forge/robustbase,pkg/robustbase,
 robustBLME,https://github.com/erlisr/robustblme,,
 robustHD,https://github.com/aalfons/robusthd,,
@@ -8037,8 +8034,6 @@ splitstackshape,https://github.com/mrdwab/splitstackshape,,
 splitTools,https://github.com/mayer79/splittools,,
 splot,https://github.com/miserman/splot,,
 splus2R,https://github.com/spkaluzny/splus2r,,
-splusTimeDate,https://github.com/spkaluzny/splustimedate,,
-splusTimeSeries,https://github.com/spkaluzny/splustimeseries,,
 spMaps,https://github.com/rte-antares-rpackage/spmaps,,
 spmodel,https://github.com/usepa/spmodel,,
 spNetwork,https://github.com/jeremygelb/spnetwork,,
@@ -9314,7 +9309,6 @@ yaImpute,https://github.com/jeffreyevans/yaimpute,,
 yaml,https://github.com/vubiostat/r-yaml,,
 yamlet,https://github.com/bergsmat/yamlet,,
 yamlme,https://github.com/kamapu/yamlme,,
-yaps,https://github.com/baktoft/yaps,,
 yardstick,https://github.com/tidymodels/yardstick,,
 yarr,https://github.com/fdavidcl/yarr,,
 yarrr,https://github.com/ndphillips/yarrr,,
@@ -10438,17 +10432,21 @@ phylocomr,https://github.com/ropensci/phylocomr,,archived
 poismf,https://github.com/david-cortes/poismf,,archived
 predict3d,https://github.com/cardiomoon/predict3d,,archived
 processR,https://github.com/cardiomoon/processr,,archived
+rFIA,https://github.com/hunter-stanke/rfia,,archived
 rForest,https://github.com/carlos-alberto-silva/rforest,,archived
 rIP,https://github.com/mahdlab/rip,,archived
 remoter,https://github.com/rbigdata/remoter,,archived
 rgeolocate,https://github.com/ironholds/rgeolocate,,archived
 rhli,https://github.com/qomaio/rhli,,archived
 robets,https://github.com/rubencrevits/robets,,archived
+robustarima,https://github.com/spkaluzny/robustarima,,archived
 rstoat,https://github.com/mapoflife/rstoat,,archived
 rtsVis,https://github.com/johmast/rtsvis,,archived
 rvMF,https://github.com/seungwoo-stat/rvmf,,archived
 scDHA,https://github.com/duct317/scdha,,archived
 spiR,https://github.com/warint/spir,,archived
+splusTimeDate,https://github.com/spkaluzny/splustimedate,,archived
+splusTimeSeries,https://github.com/spkaluzny/splustimeseries,,archived
 surf,https://github.com/guilhermejacob/surf,,archived
 survtmle,https://github.com/benkeser/survtmle,,archived
 switchr,https://github.com/gmbecker/switchr,,archived
@@ -10458,3 +10456,4 @@ ts.extend,https://github.com/ben-oneill/ts.extend,,archived
 validatedb,https://github.com/data-cleaning/validatedb,,archived
 visxhclust,https://github.com/rhenkin/visxhclust,,archived
 xptr,https://github.com/randy3k/xptr,,archived
+yaps,https://github.com/baktoft/yaps,,archived
