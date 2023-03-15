@@ -490,6 +490,13 @@
     "available": true
   },
   {
+    "package": "lpsymphony",
+    "maintainer": "Vladislav Kim <Vladislav.Kim@embl.de>",
+    "url": "https://github.com/r-forge/rsymphony",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
     "package": "maptools",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/maptools",
@@ -657,13 +664,6 @@
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/partykit",
     "available": false
-  },
-  {
-    "package": "patchDVI",
-    "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
-    "url": "https://github.com/r-forge/sweavesearch",
-    "subdir": "pkg/patchDVI",
-    "available": true
   },
   {
     "package": "pcalg",
@@ -1145,6 +1145,14 @@
     "available": true
   },
   {
+    "package": "supraHex",
+    "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
+    "url": "https://github.com/r-forge/suprahex",
+    "subdir": "pkg",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "surveillance",
     "maintainer": "Sebastian Meyer <seb.meyer@fau.de>",
     "url": "https://github.com/r-forge/surveillance",
@@ -1343,20 +1351,5 @@
     "url": "https://github.com/r-forge/zoo",
     "subdir": "pkg/zoo",
     "available": true
-  },
-  {
-    "package": "lpsymphony",
-    "maintainer": "Vladislav Kim <Vladislav.Kim@embl.de>",
-    "url": "https://github.com/r-forge/rsymphony",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
-    "package": "supraHex",
-    "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
-    "url": "https://github.com/r-forge/suprahex",
-    "subdir": "pkg",
-    "available": true,
-    "registry": "bioc"
   }
 ]

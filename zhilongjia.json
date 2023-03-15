@@ -1,15 +1,15 @@
 [
   {
-    "package": "DNMF",
-    "maintainer": "Zhilong Jia <zhilongjia@gmail.com>",
-    "url": "https://github.com/zhilongjia/dnmf",
-    "available": true
-  },
-  {
     "package": "cogena",
     "maintainer": "Zhilong Jia <zhilongjia@gmail.com>",
     "url": "https://github.com/zhilongjia/cogena",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "DNMF",
+    "maintainer": "Zhilong Jia <zhilongjia@gmail.com>",
+    "url": "https://github.com/zhilongjia/dnmf",
+    "available": true
   }
 ]

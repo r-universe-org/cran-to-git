@@ -1,17 +1,5 @@
 [
   {
-    "package": "bnpsd",
-    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
-    "url": "https://github.com/storeylab/bnpsd",
-    "available": true
-  },
-  {
-    "package": "popkin",
-    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
-    "url": "https://github.com/storeylab/popkin",
-    "available": true
-  },
-  {
     "package": "biobroom",
     "maintainer": "John D. Storey <jstorey@princeton.edu>",
     "url": "https://github.com/storeylab/biobroom",
@@ -19,23 +7,15 @@
     "registry": "bioc"
   },
   {
+    "package": "bnpsd",
+    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
+    "url": "https://github.com/storeylab/bnpsd",
+    "available": true
+  },
+  {
     "package": "edge",
     "maintainer": "John D. Storey <jstorey@princeton.edu>",
     "url": "https://github.com/storeylab/edge",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "qvalue",
-    "maintainer": "John D. Storey <jstorey@princeton.edu>",
-    "url": "https://github.com/storeylab/qvalue",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "subSeq",
-    "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
-    "url": "https://github.com/storeylab/subseq",
     "available": true,
     "registry": "bioc"
   },
@@ -50,6 +30,26 @@
     "package": "lfa",
     "maintainer": "Wei Hao <whao@princeton.edu>",
     "url": "https://github.com/storeylab/lfa",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "popkin",
+    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
+    "url": "https://github.com/storeylab/popkin",
+    "available": true
+  },
+  {
+    "package": "qvalue",
+    "maintainer": "John D. Storey <jstorey@princeton.edu>",
+    "url": "https://github.com/storeylab/qvalue",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "subSeq",
+    "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
+    "url": "https://github.com/storeylab/subseq",
     "available": true,
     "registry": "bioc"
   }

@@ -1,23 +1,5 @@
 [
   {
-    "package": "tidygate",
-    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidygate",
-    "available": true
-  },
-  {
-    "package": "tidyHeatmap",
-    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidyheatmap",
-    "available": true
-  },
-  {
-    "package": "tidyseurat",
-    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidyseurat",
-    "available": true
-  },
-  {
     "package": "ppcseq",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/ppcseq",
@@ -37,6 +19,24 @@
     "url": "https://github.com/stemangiola/tidybulk",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "tidygate",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/tidygate",
+    "available": true
+  },
+  {
+    "package": "tidyHeatmap",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/tidyheatmap",
+    "available": true
+  },
+  {
+    "package": "tidyseurat",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/tidyseurat",
+    "available": true
   },
   {
     "package": "tidySingleCellExperiment",

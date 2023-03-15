@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "SmCCNet",
-    "maintainer": "W. Jenny Shi <wjennyshi@gmail.com>",
-    "url": "https://github.com/kechrislab/smccnet",
-    "available": true
-  },
-  {
     "package": "MAI",
     "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
     "url": "https://github.com/kechrislab/mai",
@@ -31,5 +25,11 @@
     "url": "https://github.com/kechrislab/multimir",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "SmCCNet",
+    "maintainer": "W. Jenny Shi <wjennyshi@gmail.com>",
+    "url": "https://github.com/kechrislab/smccnet",
+    "available": true
   }
 ]

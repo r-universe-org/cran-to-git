@@ -1,16 +1,16 @@
 [
   {
-    "package": "CREAM",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
-    "url": "https://github.com/bhklab/cream",
-    "available": true
-  },
-  {
     "package": "consensusOV",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/consensusov",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "CREAM",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/bhklab/cream",
+    "available": true
   },
   {
     "package": "PDATK",

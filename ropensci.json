@@ -96,6 +96,13 @@
     "available": true
   },
   {
+    "package": "brranching",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/brranching",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "camsRad",
     "maintainer": "Lukas Lundstrom <lukas.rokka@gmail.com>",
     "url": "https://github.com/ropensci/camsrad",
@@ -712,6 +719,13 @@
     "maintainer": "George Moroz <agricolamz@gmail.com>",
     "url": "https://github.com/ropensci/phonfieldwork",
     "available": true
+  },
+  {
+    "package": "phylocomr",
+    "maintainer": "Luna Luisa Sanchez Reyes <sanchez.reyes.luna@gmail.com>",
+    "url": "https://github.com/ropensci/phylocomr",
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "phylogram",
@@ -1336,19 +1350,5 @@
     "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
     "url": "https://github.com/ropensci/yfr",
     "available": true
-  },
-  {
-    "package": "brranching",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/brranching",
-    "available": true,
-    "registry": "archived"
-  },
-  {
-    "package": "phylocomr",
-    "maintainer": "Luna Luisa Sanchez Reyes <sanchez.reyes.luna@gmail.com>",
-    "url": "https://github.com/ropensci/phylocomr",
-    "available": true,
-    "registry": "archived"
   }
 ]

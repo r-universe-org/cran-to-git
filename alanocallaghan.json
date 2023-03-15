@@ -1,16 +1,16 @@
 [
   {
-    "package": "contrast",
-    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/contrast",
-    "available": true
-  },
-  {
     "package": "BASiCStan",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/basicstan",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "contrast",
+    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
+    "url": "https://github.com/alanocallaghan/contrast",
+    "available": true
   },
   {
     "package": "densvis",

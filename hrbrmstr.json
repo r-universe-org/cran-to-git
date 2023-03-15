@@ -36,6 +36,13 @@
     "available": true
   },
   {
+    "package": "iptools",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://github.com/hrbrmstr/iptools",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "metricsgraphics",
     "maintainer": "Bob Rudis <bob@rudis.net>",
     "url": "https://github.com/hrbrmstr/metricsgraphics",
@@ -82,12 +89,5 @@
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/waffle",
     "available": true
-  },
-  {
-    "package": "iptools",
-    "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/iptools",
-    "available": true,
-    "registry": "archived"
   }
 ]

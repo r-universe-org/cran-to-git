@@ -48,18 +48,6 @@
     "available": true
   },
   {
-    "package": "webr",
-    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
-    "url": "https://github.com/cardiomoon/webr",
-    "available": true
-  },
-  {
-    "package": "ztable",
-    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
-    "url": "https://github.com/cardiomoon/ztable",
-    "available": true
-  },
-  {
     "package": "predict3d",
     "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
     "url": "https://github.com/cardiomoon/predict3d",
@@ -72,5 +60,17 @@
     "url": "https://github.com/cardiomoon/processr",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "webr",
+    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
+    "url": "https://github.com/cardiomoon/webr",
+    "available": true
+  },
+  {
+    "package": "ztable",
+    "maintainer": "Keon-Woong Moon <cardiomoon@gmail.com>",
+    "url": "https://github.com/cardiomoon/ztable",
+    "available": true
   }
 ]

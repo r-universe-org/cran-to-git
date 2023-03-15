@@ -6,6 +6,13 @@
     "available": true
   },
   {
+    "package": "analogueExtra",
+    "maintainer": "Gavin L. Simpson <ucfagls@gmail.com>",
+    "url": "https://github.com/gavinsimpson/analogueextra",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "cocorresp",
     "maintainer": "Gavin L. Simpson <ucfagls@gmail.com>",
     "url": "https://github.com/gavinsimpson/cocorresp",
@@ -28,12 +35,5 @@
     "maintainer": "Gavin L. Simpson <ucfagls@gmail.com>",
     "url": "https://github.com/gavinsimpson/permute",
     "available": true
-  },
-  {
-    "package": "analogueExtra",
-    "maintainer": "Gavin L. Simpson <ucfagls@gmail.com>",
-    "url": "https://github.com/gavinsimpson/analogueextra",
-    "available": true,
-    "registry": "archived"
   }
 ]

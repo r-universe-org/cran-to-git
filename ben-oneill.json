@@ -1,15 +1,15 @@
 [
   {
-    "package": "utilities",
-    "maintainer": "Ben O'Neill <ben.oneill@hotmail.com>",
-    "url": "https://github.com/ben-oneill/utilities",
-    "available": true
-  },
-  {
     "package": "ts.extend",
     "maintainer": "Ben O'Neill <ben.oneill@hotmail.com>",
     "url": "https://github.com/ben-oneill/ts.extend",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "utilities",
+    "maintainer": "Ben O'Neill <ben.oneill@hotmail.com>",
+    "url": "https://github.com/ben-oneill/utilities",
+    "available": true
   }
 ]

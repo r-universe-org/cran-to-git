@@ -1,11 +1,5 @@
 [
   {
-    "package": "BiocManager",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
-    "url": "https://github.com/bioconductor/biocmanager",
-    "available": true
-  },
-  {
     "package": "AnnotationDbi",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationdbi",
@@ -99,6 +93,12 @@
     "available": true,
     "registry": "bioc",
     "branch": "RELEASE_3_16"
+  },
+  {
+    "package": "BiocManager",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/bioconductor/biocmanager",
+    "available": true
   },
   {
     "package": "BiocParallel",

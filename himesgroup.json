@@ -1,15 +1,15 @@
 [
   {
-    "package": "snpsettest",
-    "maintainer": "Jaehyun Joo <jaehyunjoo@outlook.com>",
-    "url": "https://github.com/himesgroup/snpsettest",
-    "available": true
-  },
-  {
     "package": "qmtools",
     "maintainer": "Jaehyun Joo <jaehyunjoo@outlook.com>",
     "url": "https://github.com/himesgroup/qmtools",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "snpsettest",
+    "maintainer": "Jaehyun Joo <jaehyunjoo@outlook.com>",
+    "url": "https://github.com/himesgroup/snpsettest",
+    "available": true
   }
 ]

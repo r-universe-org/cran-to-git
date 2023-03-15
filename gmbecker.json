@@ -1,11 +1,5 @@
 [
   {
-    "package": "SearchTrees",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/searchtrees",
-    "available": true
-  },
-  {
     "package": "GRANBase",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/gmbecker/gran",
@@ -18,6 +12,12 @@
     "url": "https://github.com/gmbecker/grancore",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "SearchTrees",
+    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
+    "url": "https://github.com/gmbecker/searchtrees",
+    "available": true
   },
   {
     "package": "switchr",

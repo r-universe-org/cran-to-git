@@ -1,15 +1,15 @@
 [
   {
-    "package": "mvGPS",
-    "maintainer": "Justin Williams <williazo@ucla.edu>",
-    "url": "https://github.com/williazo/mvgps",
-    "available": true
-  },
-  {
     "package": "microbiomeDASim",
     "maintainer": "Justin Williams <williazo@ucla.edu>",
     "url": "https://github.com/williazo/microbiomedasim",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "mvGPS",
+    "maintainer": "Justin Williams <williazo@ucla.edu>",
+    "url": "https://github.com/williazo/mvgps",
+    "available": true
   }
 ]

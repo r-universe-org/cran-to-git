@@ -66,6 +66,13 @@
     "available": true
   },
   {
+    "package": "rgeolocate",
+    "maintainer": "Os Keyes <ironholds@gmail.com>",
+    "url": "https://github.com/ironholds/rgeolocate",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "triebeard",
     "maintainer": "Os Keyes <ironholds@gmail.com>",
     "url": "https://github.com/ironholds/triebeard",
@@ -88,12 +95,5 @@
     "maintainer": "Oliver Keyes <ironholds@gmail.com>",
     "url": "https://github.com/ironholds/wikipedir",
     "available": true
-  },
-  {
-    "package": "rgeolocate",
-    "maintainer": "Os Keyes <ironholds@gmail.com>",
-    "url": "https://github.com/ironholds/rgeolocate",
-    "available": true,
-    "registry": "archived"
   }
 ]

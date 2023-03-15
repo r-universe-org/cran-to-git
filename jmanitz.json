@@ -1,15 +1,15 @@
 [
   {
-    "package": "samplingbook",
-    "maintainer": "Juliane Manitz <r@manitz.org>",
-    "url": "https://github.com/jmanitz/samplingbook",
-    "available": true
-  },
-  {
     "package": "NetOrigin",
     "maintainer": "Juliane Manitz <r@manitz.org>",
     "url": "https://github.com/jmanitz/netorigin",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "samplingbook",
+    "maintainer": "Juliane Manitz <r@manitz.org>",
+    "url": "https://github.com/jmanitz/samplingbook",
+    "available": true
   }
 ]

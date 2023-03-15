@@ -6,12 +6,6 @@
     "available": true
   },
   {
-    "package": "rococo",
-    "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
-    "url": "https://github.com/ubod/rococo",
-    "available": true
-  },
-  {
     "package": "kebabs",
     "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
     "url": "https://github.com/ubod/kebabs",
@@ -31,5 +25,11 @@
     "url": "https://github.com/ubod/procoil",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "rococo",
+    "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
+    "url": "https://github.com/ubod/rococo",
+    "available": true
   }
 ]

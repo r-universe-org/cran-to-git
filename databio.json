@@ -1,28 +1,16 @@
 [
   {
-    "package": "folderfun",
-    "maintainer": "Nathan C. Sheffield <nathan@code.databio.org>",
-    "url": "https://github.com/databio/folderfun",
-    "available": true
-  },
-  {
-    "package": "loadr",
-    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
-    "url": "https://github.com/databio/loadr",
-    "available": true
-  },
-  {
-    "package": "simpleCache",
-    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
-    "url": "https://github.com/databio/simplecache",
-    "available": true
-  },
-  {
     "package": "COCOA",
     "maintainer": "John Lawson <jtl2hk@virginia.edu>",
     "url": "https://github.com/databio/cocoa",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "folderfun",
+    "maintainer": "Nathan C. Sheffield <nathan@code.databio.org>",
+    "url": "https://github.com/databio/folderfun",
+    "available": true
   },
   {
     "package": "GenomicDistributions",
@@ -32,10 +20,22 @@
     "registry": "bioc"
   },
   {
+    "package": "loadr",
+    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
+    "url": "https://github.com/databio/loadr",
+    "available": true
+  },
+  {
     "package": "MIRA",
     "maintainer": "John Lawson <jtl2hk@virginia.edu>",
     "url": "https://github.com/databio/mira",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "simpleCache",
+    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
+    "url": "https://github.com/databio/simplecache",
+    "available": true
   }
 ]

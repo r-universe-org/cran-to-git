@@ -1,11 +1,5 @@
 [
   {
-    "package": "sequences",
-    "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
-    "url": "https://github.com/lgatto/sequences",
-    "available": true
-  },
-  {
     "package": "MSnbase",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/msnbase",
@@ -46,6 +40,12 @@
     "url": "https://github.com/lgatto/rpx",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "sequences",
+    "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
+    "url": "https://github.com/lgatto/sequences",
+    "available": true
   },
   {
     "package": "synapter",

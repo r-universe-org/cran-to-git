@@ -1,5 +1,12 @@
 [
   {
+    "package": "EpiNow2",
+    "maintainer": "Sam Abbott <sam.abbott@lshtm.ac.uk>",
+    "url": "https://github.com/epiforecasts/epinow2",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "RtD3",
     "maintainer": "Hamish Gibbs <lshhg2@lshtm.ac.uk>",
     "url": "https://github.com/epiforecasts/rtd3",
@@ -16,12 +23,5 @@
     "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
     "url": "https://github.com/epiforecasts/socialmixr",
     "available": true
-  },
-  {
-    "package": "EpiNow2",
-    "maintainer": "Sam Abbott <sam.abbott@lshtm.ac.uk>",
-    "url": "https://github.com/epiforecasts/epinow2",
-    "available": true,
-    "registry": "archived"
   }
 ]

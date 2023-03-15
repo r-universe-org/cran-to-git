@@ -1,5 +1,12 @@
 [
   {
+    "package": "cleaver",
+    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
+    "url": "https://github.com/sgibb/cleaver",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "MALDIquant",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/sgibb/maldiquant",
@@ -22,13 +29,6 @@
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/sgibb/readmzxmldata",
     "available": true
-  },
-  {
-    "package": "cleaver",
-    "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/cleaver",
-    "available": true,
-    "registry": "bioc"
   },
   {
     "package": "topdownr",

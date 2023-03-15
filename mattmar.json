@@ -1,15 +1,15 @@
 [
   {
-    "package": "rasterdiv",
-    "maintainer": "Matteo Marcantonio <marcantoniomatteo@gmail.com>",
-    "url": "https://github.com/mattmar/rasterdiv",
-    "available": true
-  },
-  {
     "package": "dynamAedes",
     "maintainer": "Matteo Marcantonio <marcantoniomatteo@gmail.com>",
     "url": "https://github.com/mattmar/dynamaedes",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "rasterdiv",
+    "maintainer": "Matteo Marcantonio <marcantoniomatteo@gmail.com>",
+    "url": "https://github.com/mattmar/rasterdiv",
+    "available": true
   }
 ]

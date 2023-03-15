@@ -14,6 +14,13 @@
     "registry": "bioc"
   },
   {
+    "package": "GeneAccord",
+    "maintainer": "Ariane L. Moore <ariane.moore@bsse.ethz.ch>",
+    "url": "https://github.com/cbg-ethz/geneaccord",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
     "package": "mnem",
     "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
     "url": "https://github.com/cbg-ethz/mnem",
@@ -32,13 +39,6 @@
     "maintainer": "Kim Philipp Jablonski <kim.philipp.jablonski@gmail.com>",
     "url": "https://github.com/cbg-ethz/pareg",
     "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "GeneAccord",
-    "maintainer": "Ariane L. Moore <ariane.moore@bsse.ethz.ch>",
-    "url": "https://github.com/cbg-ethz/geneaccord",
-    "available": false,
     "registry": "bioc"
   }
 ]

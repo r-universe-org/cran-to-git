@@ -6,16 +6,16 @@
     "available": true
   },
   {
-    "package": "wilson",
-    "maintainer": "Hendrik Schultheis <hendrik.schultheis@mpi-bn.mpg.de>",
-    "url": "https://github.com/loosolab/wilson",
-    "available": true
-  },
-  {
     "package": "multicrispr",
     "maintainer": "Aditya Bhagwat <aditya.bhagwat@mpi-bn.mpg.de>",
     "url": "https://github.com/loosolab/multicrispr",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "wilson",
+    "maintainer": "Hendrik Schultheis <hendrik.schultheis@mpi-bn.mpg.de>",
+    "url": "https://github.com/loosolab/wilson",
+    "available": true
   }
 ]

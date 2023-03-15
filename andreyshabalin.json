@@ -12,16 +12,16 @@
     "available": true
   },
   {
-    "package": "shiftR",
-    "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
-    "url": "https://github.com/andreyshabalin/shiftr",
-    "available": true
-  },
-  {
     "package": "ramwas",
     "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
     "url": "https://github.com/andreyshabalin/ramwas",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "shiftR",
+    "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
+    "url": "https://github.com/andreyshabalin/shiftr",
+    "available": true
   }
 ]

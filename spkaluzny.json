@@ -1,11 +1,5 @@
 [
   {
-    "package": "splus2R",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/splus2r",
-    "available": true
-  },
-  {
     "package": "ifultools",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/ifultools",
@@ -18,6 +12,12 @@
     "url": "https://github.com/spkaluzny/robustarima",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "splus2R",
+    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
+    "url": "https://github.com/spkaluzny/splus2r",
+    "available": true
   },
   {
     "package": "splusTimeDate",

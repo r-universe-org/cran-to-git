@@ -1,11 +1,5 @@
 [
   {
-    "package": "varSelRF",
-    "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
-    "url": "https://github.com/rdiaz02/varselrf",
-    "available": true
-  },
-  {
     "package": "ADaCGH2",
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
     "url": "https://github.com/rdiaz02/adacgh2",
@@ -20,5 +14,11 @@
     "subdir": "OncoSimulR",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "varSelRF",
+    "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
+    "url": "https://github.com/rdiaz02/varselrf",
+    "available": true
   }
 ]

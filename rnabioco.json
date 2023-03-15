@@ -1,5 +1,12 @@
 [
   {
+    "package": "clustifyr",
+    "maintainer": "Kent Riemondy <kent.riemondy@cuanschutz.edu>",
+    "url": "https://github.com/rnabioco/clustifyr",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "ggtrace",
     "maintainer": "Ryan Sheridan <ryan.sheridan@cuanschutz.edu>",
     "url": "https://github.com/rnabioco/ggtrace",
@@ -10,12 +17,5 @@
     "maintainer": "Kent Riemondy <kent.riemondy@cuanschutz.edu>",
     "url": "https://github.com/rnabioco/valr",
     "available": true
-  },
-  {
-    "package": "clustifyr",
-    "maintainer": "Kent Riemondy <kent.riemondy@cuanschutz.edu>",
-    "url": "https://github.com/rnabioco/clustifyr",
-    "available": true,
-    "registry": "bioc"
   }
 ]

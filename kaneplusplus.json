@@ -12,16 +12,16 @@
     "available": true
   },
   {
-    "package": "preference",
-    "maintainer": "Michael Kane <michael.kane@yale.edu>",
-    "url": "https://github.com/kaneplusplus/preference",
-    "available": true
-  },
-  {
     "package": "listdown",
     "maintainer": "Michael J. Kane <michael.kane@yale.edu>",
     "url": "https://github.com/kaneplusplus/listdown",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "preference",
+    "maintainer": "Michael Kane <michael.kane@yale.edu>",
+    "url": "https://github.com/kaneplusplus/preference",
+    "available": true
   }
 ]

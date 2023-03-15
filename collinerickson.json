@@ -24,6 +24,13 @@
     "available": true
   },
   {
+    "package": "IGP",
+    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
+    "url": "https://github.com/collinerickson/igp",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "mixopt",
     "maintainer": "Collin Erickson <collinberickson@gmail.com>",
     "url": "https://github.com/collinerickson/mixopt",
@@ -34,12 +41,5 @@
     "maintainer": "Collin Erickson <collinberickson@gmail.com>",
     "url": "https://github.com/collinerickson/sfflhd",
     "available": true
-  },
-  {
-    "package": "IGP",
-    "maintainer": "Collin Erickson <collinberickson@gmail.com>",
-    "url": "https://github.com/collinerickson/igp",
-    "available": true,
-    "registry": "archived"
   }
 ]

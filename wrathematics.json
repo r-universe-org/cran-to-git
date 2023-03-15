@@ -1,5 +1,12 @@
 [
   {
+    "package": "argon2",
+    "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
+    "url": "https://github.com/wrathematics/argon2",
+    "available": true,
+    "registry": "archived"
+  },
+  {
     "package": "coop",
     "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
     "url": "https://github.com/wrathematics/coop",
@@ -40,12 +47,5 @@
     "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
     "url": "https://github.com/wrathematics/sylcount",
     "available": false
-  },
-  {
-    "package": "argon2",
-    "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
-    "url": "https://github.com/wrathematics/argon2",
-    "available": true,
-    "registry": "archived"
   }
 ]

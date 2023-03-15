@@ -12,6 +12,13 @@
     "available": true
   },
   {
+    "package": "DelayedTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/rikenbit/delayedtensor",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "gcTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/gctensor",
@@ -22,6 +29,13 @@
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/mwtensor",
     "available": false
+  },
+  {
+    "package": "meshr",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/rikenbit/meshr",
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "mwTensor",
@@ -52,19 +66,5 @@
     "maintainer": "Kentaro Yamamoto <yamaken37.the.answer@gmail.com>",
     "url": "https://github.com/rikenbit/wormtensor",
     "available": true
-  },
-  {
-    "package": "DelayedTensor",
-    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/delayedtensor",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "meshr",
-    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/meshr",
-    "available": true,
-    "registry": "bioc"
   }
 ]

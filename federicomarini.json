@@ -1,11 +1,5 @@
 [
   {
-    "package": "simrec",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/simrec",
-    "available": true
-  },
-  {
     "package": "flowcatchR",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/flowcatchr",
@@ -32,5 +26,11 @@
     "url": "https://github.com/federicomarini/pcaexplorer",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "simrec",
+    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
+    "url": "https://github.com/federicomarini/simrec",
+    "available": true
   }
 ]

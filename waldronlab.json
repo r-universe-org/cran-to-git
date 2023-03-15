@@ -1,17 +1,5 @@
 [
   {
-    "package": "HGNChelper",
-    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
-    "url": "https://github.com/waldronlab/hgnchelper",
-    "available": true
-  },
-  {
-    "package": "pensim",
-    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
-    "url": "https://github.com/waldronlab/pensim",
-    "available": true
-  },
-  {
     "package": "bugsigdbr",
     "maintainer": "Ludwig Geistlinger <ludwig_geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/bugsigdbr",
@@ -47,6 +35,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HGNChelper",
+    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
+    "url": "https://github.com/waldronlab/hgnchelper",
+    "available": true
+  },
+  {
     "package": "lefser",
     "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
     "url": "https://github.com/waldronlab/lefser",
@@ -59,6 +53,12 @@
     "url": "https://github.com/waldronlab/multiassayexperiment",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "pensim",
+    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
+    "url": "https://github.com/waldronlab/pensim",
+    "available": true
   },
   {
     "package": "TCGAutils",

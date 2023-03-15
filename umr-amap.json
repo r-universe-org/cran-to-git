@@ -6,16 +6,16 @@
     "available": true
   },
   {
-    "package": "BIOMASS",
-    "maintainer": "Maxime Réjou-Méchain <maxime.rejou@gmail.com>",
-    "url": "https://github.com/umr-amap/biomass",
-    "available": true
-  },
-  {
     "package": "aRchi",
     "maintainer": "Olivier Martin <oli.martin@ntymail.com>",
     "url": "https://github.com/umr-amap/archi",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "BIOMASS",
+    "maintainer": "Maxime Réjou-Méchain <maxime.rejou@gmail.com>",
+    "url": "https://github.com/umr-amap/biomass",
+    "available": true
   }
 ]

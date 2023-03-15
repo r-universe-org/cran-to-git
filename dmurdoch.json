@@ -6,6 +6,13 @@
     "available": true
   },
   {
+    "package": "patchDVI",
+    "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
+    "url": "https://github.com/dmurdoch/patchdvi",
+    "subdir": "pkg/patchDVI",
+    "available": true
+  },
+  {
     "package": "rgl",
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/dmurdoch/rgl",

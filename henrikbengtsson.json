@@ -6,6 +6,13 @@
     "available": true
   },
   {
+    "package": "affxparser",
+    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
+    "url": "https://github.com/henrikbengtsson/affxparser",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "aroma.affymetrix",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/aroma.affymetrix",
@@ -28,6 +35,13 @@
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/aroma.core",
     "available": true
+  },
+  {
+    "package": "aroma.light",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/henrikbengtsson/aroma.light",
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "calmate",
@@ -82,6 +96,13 @@
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/globals",
     "available": true
+  },
+  {
+    "package": "illuminaio",
+    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
+    "url": "https://github.com/henrikbengtsson/illuminaio",
+    "available": true,
+    "registry": "bioc"
   },
   {
     "package": "listenv",
@@ -191,26 +212,5 @@
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/henrikbengtsson/topdom",
     "available": true
-  },
-  {
-    "package": "affxparser",
-    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
-    "url": "https://github.com/henrikbengtsson/affxparser",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "aroma.light",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.light",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "illuminaio",
-    "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
-    "url": "https://github.com/henrikbengtsson/illuminaio",
-    "available": true,
-    "registry": "bioc"
   }
 ]

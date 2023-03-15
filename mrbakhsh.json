@@ -1,15 +1,15 @@
 [
   {
-    "package": "MACP",
-    "maintainer": "Matineh Rahmatbakhsh <matinerb.94@gmail.com>",
-    "url": "https://github.com/mrbakhsh/macp",
-    "available": true
-  },
-  {
     "package": "HPiP",
     "maintainer": "Matineh Rahmatbakhsh <matinerb.94@gmail.com>",
     "url": "https://github.com/mrbakhsh/hpip",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "MACP",
+    "maintainer": "Matineh Rahmatbakhsh <matinerb.94@gmail.com>",
+    "url": "https://github.com/mrbakhsh/macp",
+    "available": true
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "package": "statcanR",
-    "maintainer": "Thierry Warin <thierry.warin@hec.ca>",
-    "url": "https://github.com/warint/statcanr",
-    "available": true
-  },
-  {
     "package": "iriR",
     "maintainer": "Thierry Warin <thierry.warin@hec.ca>",
     "url": "https://github.com/warint/irir",
@@ -18,5 +12,11 @@
     "url": "https://github.com/warint/spir",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "statcanR",
+    "maintainer": "Thierry Warin <thierry.warin@hec.ca>",
+    "url": "https://github.com/warint/statcanr",
+    "available": true
   }
 ]

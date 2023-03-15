@@ -18,6 +18,13 @@
     "available": true
   },
   {
+    "package": "HiLDA",
+    "maintainer": "Zhi Yang <zyang895@gmail.com>",
+    "url": "https://github.com/uscbiostats/hilda",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "hJAM",
     "maintainer": "Lai Jiang <jian848@usc.edu>",
     "url": "https://github.com/uscbiostats/hjam",
@@ -42,6 +49,13 @@
     "available": true
   },
   {
+    "package": "selectKSigs",
+    "maintainer": "Zhi Yang <zyang895@gmail.com>",
+    "url": "https://github.com/uscbiostats/hilda",
+    "available": false,
+    "registry": "bioc"
+  },
+  {
     "package": "slurmR",
     "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
     "url": "https://github.com/uscbiostats/slurmr",
@@ -52,19 +66,5 @@
     "maintainer": "Garrett Weaver <gmweaver.usc@gmail.com>",
     "url": "https://github.com/uscbiostats/xrnet",
     "available": true
-  },
-  {
-    "package": "HiLDA",
-    "maintainer": "Zhi Yang <zyang895@gmail.com>",
-    "url": "https://github.com/uscbiostats/hilda",
-    "available": true,
-    "registry": "bioc"
-  },
-  {
-    "package": "selectKSigs",
-    "maintainer": "Zhi Yang <zyang895@gmail.com>",
-    "url": "https://github.com/uscbiostats/hilda",
-    "available": false,
-    "registry": "bioc"
   }
 ]

@@ -12,23 +12,17 @@
     "available": true
   },
   {
-    "package": "mixdir",
-    "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/mixdir",
-    "available": true
-  },
-  {
-    "package": "tidygenomics",
-    "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/tidygenomics",
-    "available": true
-  },
-  {
     "package": "glmGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/glmgampoi",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "mixdir",
+    "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
+    "url": "https://github.com/const-ae/mixdir",
+    "available": true
   },
   {
     "package": "proDA",
@@ -43,6 +37,12 @@
     "url": "https://github.com/const-ae/sparsematrixstats",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "tidygenomics",
+    "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
+    "url": "https://github.com/const-ae/tidygenomics",
+    "available": true
   },
   {
     "package": "transformGamPoi",
