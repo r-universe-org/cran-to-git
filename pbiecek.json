@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "bgmm",
+    "maintainer": "Przemyslaw Biecek <Przemyslaw.Biecek@gmail.com>",
+    "url": "https://github.com/pbiecek/bgmm",
+    "available": true
+  },
+  {
     "package": "breakDown",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/pbiecek/breakdown",
@@ -15,6 +21,30 @@
     "package": "ceterisParibus",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/pbiecek/ceterisparibus",
+    "available": true
+  },
+  {
+    "package": "ddst",
+    "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/pbiecek/ddst",
+    "available": true
+  },
+  {
+    "package": "PBImisc",
+    "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/pbiecek/pbimisc",
+    "available": true
+  },
+  {
+    "package": "PogromcyDanych",
+    "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/pbiecek/pogromcydanych",
+    "available": true
+  },
+  {
+    "package": "SmarterPoland",
+    "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/pbiecek/smarterpoland",
     "available": true
   }
 ]

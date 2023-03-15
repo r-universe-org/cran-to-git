@@ -1,5 +1,11 @@
 [
   {
+    "package": "coefplot",
+    "maintainer": "Jared P. Lander <packages@jaredlander.com>",
+    "url": "https://github.com/jaredlander/coefplot",
+    "available": true
+  },
+  {
     "package": "RepoGenerator",
     "maintainer": "Jared P. Lander <packages@jaredlander.com>",
     "url": "https://github.com/jaredlander/repogenerator",

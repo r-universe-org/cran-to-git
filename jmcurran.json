@@ -7,6 +7,12 @@
     "available": true
   },
   {
+    "package": "comparison",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/jmcurran/comparison",
+    "available": true
+  },
+  {
     "package": "fitPS",
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/fitps",
@@ -16,6 +22,18 @@
     "package": "Hotelling",
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/hotelling",
+    "available": true
+  },
+  {
+    "package": "jaggR",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/jmcurran/jaggr",
+    "available": true
+  },
+  {
+    "package": "multicool",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/jmcurran/multicool",
     "available": true
   },
   {

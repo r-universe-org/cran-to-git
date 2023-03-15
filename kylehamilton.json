@@ -1,5 +1,17 @@
 [
   {
+    "package": "CTTShiny",
+    "maintainer": "William Kyle Hamilton <kyle.hamilton@gmail.com>",
+    "url": "https://github.com/kylehamilton/cttshiny",
+    "available": true
+  },
+  {
+    "package": "IRTShiny",
+    "maintainer": "W. Kyle Hamilton <kyle.hamilton@gmail.com>",
+    "url": "https://github.com/kylehamilton/irtshiny",
+    "available": true
+  },
+  {
     "package": "lavaan.shiny",
     "maintainer": "W. Kyle Hamilton <kyle.hamilton@gmail.com>",
     "url": "https://github.com/kylehamilton/lavaan.shiny",

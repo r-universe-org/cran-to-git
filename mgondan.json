@@ -1,5 +1,11 @@
 [
   {
+    "package": "mathml",
+    "maintainer": "Matthias Gondan <Matthias.Gondan-Rochon@uibk.ac.at>",
+    "url": "https://github.com/mgondan/mathml",
+    "available": true
+  },
+  {
     "package": "rolog",
     "maintainer": "Matthias Gondan <Matthias.Gondan-Rochon@uibk.ac.at>",
     "url": "https://github.com/mgondan/rolog",

@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "distcomp",
+    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
+    "url": "https://github.com/bnaras/distcomp",
+    "available": true
+  },
+  {
     "package": "ECOSolveR",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
     "url": "https://github.com/bnaras/ecosolver",

@@ -1,8 +1,38 @@
 [
   {
+    "package": "learningr",
+    "maintainer": "Richie Cotton <richierocks@gmail.com>",
+    "url": "https://github.com/richierocks/learningr",
+    "available": true
+  },
+  {
+    "package": "rebus",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://github.com/richierocks/rebus",
+    "available": true
+  },
+  {
     "package": "rebus.base",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://github.com/richierocks/rebus.base",
+    "available": true
+  },
+  {
+    "package": "rebus.datetimes",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://github.com/richierocks/rebus.datetimes",
+    "available": true
+  },
+  {
+    "package": "rebus.numbers",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://github.com/richierocks/rebus.numbers",
+    "available": true
+  },
+  {
+    "package": "rebus.unicode",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://github.com/richierocks/rebus.unicode",
     "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "distro",
+    "maintainer": "Neal Richardson <neal.p.richardson@gmail.com>",
+    "url": "https://github.com/nealrichardson/distro",
+    "available": true
+  },
+  {
     "package": "httpcache",
     "maintainer": "Neal Richardson <neal.p.richardson@gmail.com>",
     "url": "https://github.com/nealrichardson/httpcache",

@@ -1,5 +1,23 @@
 [
   {
+    "package": "fontBitstreamVera",
+    "maintainer": "Lionel Henry <lionel.hry@gmail.com>",
+    "url": "https://github.com/lionel-/fontbitstreamvera",
+    "available": true
+  },
+  {
+    "package": "fontLiberation",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/lionel-/fontliberation",
+    "available": true
+  },
+  {
+    "package": "fontquiver",
+    "maintainer": "Lionel Henry <lionel@rstudio.com>",
+    "url": "https://github.com/lionel-/fontquiver",
+    "available": true
+  },
+  {
     "package": "ggstance",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/lionel-/ggstance",

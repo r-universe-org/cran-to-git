@@ -6,9 +6,21 @@
     "available": true
   },
   {
+    "package": "geoFourierFDA",
+    "maintainer": "Gilberto Sassi <sassi.pereira.gilberto@gmail.com>",
+    "url": "https://github.com/gilberto-sassi/geofourierfda",
+    "available": true
+  },
+  {
     "package": "sinar",
     "maintainer": "Gilberto P. Sassi <sassi.pereira.gilberto@gmail.com>",
     "url": "https://github.com/gilberto-sassi/sinar",
+    "available": true
+  },
+  {
+    "package": "statBasics",
+    "maintainer": "Gilberto Sassi <sassi.pereira.gilberto@gmail.com>",
+    "url": "https://github.com/gilberto-sassi/statbasics",
     "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "causalsens",
+    "maintainer": "Matthew Blackwell <mblackwell@gov.harvard.edu>",
+    "url": "https://github.com/mattblackwell/causalsens",
+    "available": true
+  },
+  {
     "package": "DirectEffects",
     "maintainer": "Matthew Blackwell <mblackwell@gov.harvard.edu>",
     "url": "https://github.com/mattblackwell/directeffects",

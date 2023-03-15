@@ -1,5 +1,11 @@
 [
   {
+    "package": "blatr",
+    "maintainer": "Stefan Milton Bache <stefan@stefanbache.dk>",
+    "url": "https://github.com/smbache/blatr",
+    "available": true
+  },
+  {
     "package": "ensurer",
     "maintainer": "Stefan Milton Bache <stefan@stefanbache.dk>",
     "url": "https://github.com/smbache/ensurer",

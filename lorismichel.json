@@ -6,6 +6,12 @@
     "available": false
   },
   {
+    "package": "HPLB",
+    "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
+    "url": "https://github.com/lorismichel/hplb",
+    "available": true
+  },
+  {
     "package": "quantregForest",
     "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
     "url": "https://github.com/lorismichel/quantregforest",

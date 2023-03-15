@@ -1,5 +1,11 @@
 [
   {
+    "package": "BayesMFSurv",
+    "maintainer": "Nicolas Schmidt <nschmidt@cienciassociales.edu.uy>",
+    "url": "https://github.com/nicolas-schmidt/bayesmfsurv",
+    "available": true
+  },
+  {
     "package": "BayesSPsurv",
     "maintainer": "Nicolas Schmidt <nschmidt@cienciassociales.edu.uy>",
     "url": "https://github.com/nicolas-schmidt/bayesspsurv",

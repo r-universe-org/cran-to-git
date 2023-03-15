@@ -30,6 +30,12 @@
     "available": true
   },
   {
+    "package": "HistData",
+    "maintainer": "Michael Friendly <friendly@yorku.ca>",
+    "url": "https://github.com/friendly/histdata",
+    "available": true
+  },
+  {
     "package": "matlib",
     "maintainer": "Michael Friendly <friendly@yorku.ca>",
     "url": "https://github.com/friendly/matlib",
@@ -57,6 +63,12 @@
     "package": "vcdExtra",
     "maintainer": "Michael Friendly <friendly@yorku.ca>",
     "url": "https://github.com/friendly/vcdextra",
+    "available": true
+  },
+  {
+    "package": "WordPools",
+    "maintainer": "Michael Friendly <friendly@yorku.ca>",
+    "url": "https://github.com/friendly/wordpools",
     "available": true
   }
 ]

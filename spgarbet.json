@@ -1,5 +1,17 @@
 [
   {
+    "package": "emg",
+    "maintainer": "Shawn Garbett <Shawn@Garbett.org>",
+    "url": "https://github.com/spgarbet/emg",
+    "available": true
+  },
+  {
+    "package": "fracprolif",
+    "maintainer": "Shawn Garbett <Shawn@Garbett.org>",
+    "url": "https://github.com/spgarbet/fracprolif",
+    "available": true
+  },
+  {
     "package": "rccola",
     "maintainer": "Shawn Garbett <Shawn.Garbett@vumc.org>",
     "url": "https://github.com/spgarbet/rccola",

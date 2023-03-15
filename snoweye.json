@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "MixSim",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/mixsim",
+    "available": true
+  },
+  {
     "package": "pbdMPI",
     "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
     "url": "https://github.com/snoweye/pbdmpi",
@@ -45,6 +51,12 @@
     "package": "pmclust",
     "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
     "url": "https://github.com/snoweye/pmclust",
+    "available": true
+  },
+  {
+    "package": "QZ",
+    "maintainer": "Wei-Chen Chen <wccsnow@gmail.com>",
+    "url": "https://github.com/snoweye/qz",
     "available": true
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "doubt",
+    "maintainer": "Antoine Fabri <antoine.fabri@gmail.com>",
+    "url": "https://github.com/moodymudskipper/doubt",
+    "available": true
+  },
+  {
     "package": "inops",
     "maintainer": "Antoine Fabri <antoine.fabri@gmail.com>",
     "url": "https://github.com/moodymudskipper/inops",
@@ -15,6 +21,12 @@
     "package": "typed",
     "maintainer": "Antoine Fabri <antoine.fabri@gmail.com>",
     "url": "https://github.com/moodymudskipper/typed",
+    "available": true
+  },
+  {
+    "package": "unglue",
+    "maintainer": "Antoine Fabri <antoine.fabri@gmail.com>",
+    "url": "https://github.com/moodymudskipper/unglue",
     "available": true
   }
 ]

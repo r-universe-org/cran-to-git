@@ -1,5 +1,17 @@
 [
   {
+    "package": "DGEobj",
+    "maintainer": "Connie Brett <connie@aggregate-genius.com>",
+    "url": "https://github.com/cb4ds/dgeobj",
+    "available": true
+  },
+  {
+    "package": "DGEobj.utils",
+    "maintainer": "Connie Brett <connie@aggregate-genius.com>",
+    "url": "https://github.com/cb4ds/dgeobj.utils",
+    "available": true
+  },
+  {
     "package": "periscope",
     "maintainer": "Constance Brett <connie@aggregate-genius.com>",
     "url": "https://github.com/cb4ds/periscope",

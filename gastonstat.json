@@ -4,5 +4,17 @@
     "maintainer": "Frederic Bertrand <frederic.bertrand@utt.fr>",
     "url": "https://github.com/gastonstat/plspm",
     "available": true
+  },
+  {
+    "package": "tester",
+    "maintainer": "Gaston Sanchez <gaston.stat@gmail.com>",
+    "url": "https://github.com/gastonstat/tester",
+    "available": true
+  },
+  {
+    "package": "turner",
+    "maintainer": "Gaston Sanchez <gaston.stat@gmail.com>",
+    "url": "https://github.com/gastonstat/turner",
+    "available": true
   }
 ]

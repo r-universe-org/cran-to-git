@@ -1,5 +1,17 @@
 [
   {
+    "package": "EMMAgeo",
+    "maintainer": "Michael Dietze <mdietze@gfz-potsdam.de>",
+    "url": "https://github.com/coffeemuggler/emmageo",
+    "available": true
+  },
+  {
+    "package": "eseis",
+    "maintainer": "Michael Dietze <mdietze@gfz-potsdam.de>",
+    "url": "https://github.com/coffeemuggler/eseis",
+    "available": true
+  },
+  {
     "package": "sandbox",
     "maintainer": "Michael Dietze <mdietze@gfz-potsdam.de>",
     "url": "https://github.com/coffeemuggler/sandbox",

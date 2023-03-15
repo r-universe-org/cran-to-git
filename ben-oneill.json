@@ -1,5 +1,11 @@
 [
   {
+    "package": "occupancy",
+    "maintainer": "Ben O'Neill <ben.oneill@hotmail.com>",
+    "url": "https://github.com/ben-oneill/occupancy",
+    "available": true
+  },
+  {
     "package": "ts.extend",
     "maintainer": "Ben O'Neill <ben.oneill@hotmail.com>",
     "url": "https://github.com/ben-oneill/ts.extend",

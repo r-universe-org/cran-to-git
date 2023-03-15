@@ -1,5 +1,11 @@
 [
   {
+    "package": "logitnorm",
+    "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
+    "url": "https://github.com/bgctw/logitnorm",
+    "available": true
+  },
+  {
     "package": "lognorm",
     "maintainer": "Thomas Wutzler <twutz@bgc-jena.mpg.de>",
     "url": "https://github.com/bgctw/lognorm",

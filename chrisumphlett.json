@@ -1,5 +1,17 @@
 [
   {
+    "package": "ibmAcousticR",
+    "maintainer": "Chris Umphlett <christopher.umphlett@gmail.com>",
+    "url": "https://github.com/chrisumphlett/ibmacousticr",
+    "available": true
+  },
+  {
+    "package": "marketr",
+    "maintainer": "Chris Umphlett <christopher.umphlett@gmail.com>",
+    "url": "https://github.com/chrisumphlett/marketr",
+    "available": true
+  },
+  {
     "package": "reveneraR",
     "maintainer": "Chris Umphlett <christopher.umphlett@gmail.com>",
     "url": "https://github.com/chrisumphlett/revenerar",
@@ -10,6 +22,12 @@
     "maintainer": "Chris Umphlett <christopher.umphlett@gmail.com>",
     "url": "https://github.com/chrisumphlett/revulyticsr",
     "available": false
+  },
+  {
+    "package": "skilljaR",
+    "maintainer": "Chris Umphlett <christopher.umphlett@gmail.com>",
+    "url": "https://github.com/chrisumphlett/skilljar",
+    "available": true
   },
   {
     "package": "zdeskR",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "blink",
+    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
+    "url": "https://github.com/cleanzr/blink",
+    "available": true
+  },
+  {
     "package": "cd",
     "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
     "url": "https://github.com/cleanzr/cd",
@@ -15,6 +21,24 @@
     "package": "cora",
     "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
     "url": "https://github.com/cleanzr/cora",
+    "available": true
+  },
+  {
+    "package": "italy",
+    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
+    "url": "https://github.com/cleanzr/italy",
+    "available": true
+  },
+  {
+    "package": "klsh",
+    "maintainer": "Rebecca Steorts <beka@stat.duke.edu>",
+    "url": "https://github.com/cleanzr/klsh",
+    "available": true
+  },
+  {
+    "package": "representr",
+    "maintainer": "Andee Kaplan <andee.kaplan@colostate.edu>",
+    "url": "https://github.com/cleanzr/representr",
     "available": true
   },
   {

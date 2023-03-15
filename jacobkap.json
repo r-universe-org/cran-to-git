@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "censusGeography",
+    "maintainer": "Jacob Kaplan <jacobkap@sas.upenn.edu>",
+    "url": "https://github.com/jacobkap/censusgeography",
+    "available": true
+  },
+  {
     "package": "crimeutils",
     "maintainer": "Jacob Kaplan <jkkaplan6@gmail.com>",
     "url": "https://github.com/jacobkap/crimeutils",
@@ -33,6 +39,12 @@
     "package": "predictrace",
     "maintainer": "Jacob Kaplan <jkkaplan6@gmail.com>",
     "url": "https://github.com/jacobkap/predictrace",
+    "available": true
+  },
+  {
+    "package": "UCR.ColumnNames",
+    "maintainer": "Jacob Kaplan <jacobkap@sas.upenn.edu>",
+    "url": "https://github.com/jacobkap/ucr.columnnames",
     "available": true
   }
 ]

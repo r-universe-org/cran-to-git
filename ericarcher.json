@@ -1,5 +1,11 @@
 [
   {
+    "package": "banter",
+    "maintainer": "Eric Archer <eric.archer@noaa.gov>",
+    "url": "https://github.com/ericarcher/banter",
+    "available": true
+  },
+  {
     "package": "rfPermute",
     "maintainer": "Eric Archer <eric.archer@noaa.gov>",
     "url": "https://github.com/ericarcher/rfpermute",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "mlmc",
+    "maintainer": "Louis Aslett <aslett@stats.ox.ac.uk>",
+    "url": "https://github.com/louisaslett/mlmc",
+    "available": true
+  },
+  {
     "package": "PhaseType",
     "maintainer": "Louis Aslett <louis.aslett@durham.ac.uk>",
     "url": "https://github.com/louisaslett/phasetype",

@@ -24,6 +24,12 @@
     "available": true
   },
   {
+    "package": "spatstat.Knet",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/spatstat/spatstat.knet",
+    "available": true
+  },
+  {
     "package": "spatstat.linnet",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/spatstat/spatstat.linnet",

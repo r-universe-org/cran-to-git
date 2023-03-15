@@ -6,9 +6,21 @@
     "available": true
   },
   {
+    "package": "Hmisc",
+    "maintainer": "Frank E Harrell Jr <fh@fharrell.com>",
+    "url": "https://github.com/harrelfe/hmisc",
+    "available": true
+  },
+  {
     "package": "rms",
     "maintainer": "Frank E Harrell Jr <fh@fharrell.com>",
     "url": "https://github.com/harrelfe/rms",
+    "available": true
+  },
+  {
+    "package": "rmsb",
+    "maintainer": "Frank Harrell <fh@fharrell.com>",
+    "url": "https://github.com/harrelfe/rmsb",
     "available": true
   }
 ]

@@ -54,9 +54,21 @@
     "available": true
   },
   {
+    "package": "PeakError",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/peakerror",
+    "available": true
+  },
+  {
     "package": "PeakSegDisk",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/peaksegdisk",
+    "available": true
+  },
+  {
+    "package": "PeakSegDP",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/peaksegdp",
     "available": true
   },
   {
@@ -66,9 +78,21 @@
     "available": true
   },
   {
+    "package": "PeakSegOptimal",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/peaksegoptimal",
+    "available": true
+  },
+  {
     "package": "penaltyLearning",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/penaltylearning",
+    "available": true
+  },
+  {
+    "package": "plotHMM",
+    "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/plothmm",
     "available": true
   },
   {

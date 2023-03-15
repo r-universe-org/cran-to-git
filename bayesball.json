@@ -1,5 +1,11 @@
 [
   {
+    "package": "LearnBayes",
+    "maintainer": "Jim Albert <albert@bgsu.edu>",
+    "url": "https://github.com/bayesball/learnbayes",
+    "available": true
+  },
+  {
     "package": "ProbBayes",
     "maintainer": "Jim Albert <albert@bgsu.edu>",
     "url": "https://github.com/bayesball/probbayes",

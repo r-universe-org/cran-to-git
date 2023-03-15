@@ -1,5 +1,23 @@
 [
   {
+    "package": "pec",
+    "maintainer": "Thomas A. Gerds <tag@biostat.ku.dk>",
+    "url": "https://github.com/tagteam/pec",
+    "available": true
+  },
+  {
+    "package": "prodlim",
+    "maintainer": "Thomas A. Gerds <tag@biostat.ku.dk>",
+    "url": "https://github.com/tagteam/prodlim",
+    "available": true
+  },
+  {
+    "package": "Publish",
+    "maintainer": "Thomas A. Gerds <tag@biostat.ku.dk>",
+    "url": "https://github.com/tagteam/publish",
+    "available": true
+  },
+  {
     "package": "riskRegression",
     "maintainer": "Thomas Alexander Gerds <tag@biostat.ku.dk>",
     "url": "https://github.com/tagteam/riskregression",

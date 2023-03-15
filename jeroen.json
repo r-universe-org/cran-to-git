@@ -1,5 +1,11 @@
 [
   {
+    "package": "base64",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/jeroen/base64",
+    "available": true
+  },
+  {
     "package": "bcrypt",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/jeroen/bcrypt",

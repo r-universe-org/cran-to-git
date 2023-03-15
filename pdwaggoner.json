@@ -12,9 +12,21 @@
     "available": true
   },
   {
+    "package": "mlbstats",
+    "maintainer": "Philip D. Waggoner <philip.waggoner@gmail.com>",
+    "url": "https://github.com/pdwaggoner/mlbstats",
+    "available": true
+  },
+  {
     "package": "plotmm",
     "maintainer": "Philip Waggoner <philip.waggoner@gmail.com>",
     "url": "https://github.com/pdwaggoner/plotmm",
+    "available": true
+  },
+  {
+    "package": "purging",
+    "maintainer": "Philip D. Waggoner <philip.waggoner@gmail.com>",
+    "url": "https://github.com/pdwaggoner/purging",
     "available": true
   }
 ]

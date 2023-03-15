@@ -1,5 +1,11 @@
 [
   {
+    "package": "diversitree",
+    "maintainer": "Richard G. FitzJohn <rich.fitzjohn@gmail.com>",
+    "url": "https://github.com/richfitz/diversitree",
+    "available": true
+  },
+  {
     "package": "redux",
     "maintainer": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
     "url": "https://github.com/richfitz/redux",

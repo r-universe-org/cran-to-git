@@ -5,5 +5,11 @@
     "url": "https://github.com/raivokolde/gosummaries",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "pheatmap",
+    "maintainer": "Raivo Kolde <rkolde@gmail.com>",
+    "url": "https://github.com/raivokolde/pheatmap",
+    "available": true
   }
 ]

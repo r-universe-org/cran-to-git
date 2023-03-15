@@ -1,5 +1,17 @@
 [
   {
+    "package": "ePCR",
+    "maintainer": "Teemu Daniel Laajala <teelaa@utu.fi>",
+    "url": "https://github.com/syksy/epcr",
+    "available": true
+  },
+  {
+    "package": "hamlet",
+    "maintainer": "Teemu Daniel Laajala <teelaa@utu.fi>",
+    "url": "https://github.com/syksy/hamlet",
+    "available": true
+  },
+  {
     "package": "oscar",
     "maintainer": "Teemu Daniel Laajala <teelaa@utu.fi>",
     "url": "https://github.com/syksy/oscar",

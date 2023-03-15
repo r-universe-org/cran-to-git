@@ -1,5 +1,11 @@
 [
   {
+    "package": "adaptiveGPCA",
+    "maintainer": "Julia Fukuyama <julia.fukuyama@gmail.com>",
+    "url": "https://github.com/jfukuyama/adaptivegpca",
+    "available": true
+  },
+  {
     "package": "phyloseqGraphTest",
     "maintainer": "Julia Fukuyama <julia.fukuyama@gmail.com>",
     "url": "https://github.com/jfukuyama/phyloseqgraphtest",

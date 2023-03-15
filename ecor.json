@@ -1,8 +1,26 @@
 [
   {
+    "package": "blockmatrix",
+    "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
+    "url": "https://github.com/ecor/blockmatrix",
+    "available": true
+  },
+  {
     "package": "geotopbricks",
     "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
     "url": "https://github.com/ecor/geotopbricks",
+    "available": true
+  },
+  {
+    "package": "lmomPi",
+    "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
+    "url": "https://github.com/ecor/lmompi",
+    "available": true
+  },
+  {
+    "package": "rasterList",
+    "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
+    "url": "https://github.com/ecor/rasterlist",
     "available": true
   },
   {

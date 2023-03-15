@@ -1,5 +1,11 @@
 [
   {
+    "package": "gdiff",
+    "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
+    "url": "https://github.com/pmur002/gdiff",
+    "available": true
+  },
+  {
     "package": "gggrid",
     "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
     "url": "https://github.com/pmur002/gggrid",
@@ -24,6 +30,12 @@
     "available": true
   },
   {
+    "package": "hexView",
+    "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
+    "url": "https://github.com/pmur002/hexview",
+    "available": true
+  },
+  {
     "package": "metapost",
     "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
     "url": "https://github.com/pmur002/metapost",
@@ -33,6 +45,18 @@
     "package": "rasterize",
     "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
     "url": "https://github.com/pmur002/rasterize",
+    "available": true
+  },
+  {
+    "package": "roloc",
+    "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
+    "url": "https://github.com/pmur002/roloc",
+    "available": true
+  },
+  {
+    "package": "rolocISCCNBS",
+    "maintainer": "Paul Murrell <paul@stat.auckland.ac.nz>",
+    "url": "https://github.com/pmur002/rolocisccnbs",
     "available": true
   },
   {

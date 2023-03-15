@@ -1,8 +1,20 @@
 [
   {
+    "package": "AWR.Athena",
+    "maintainer": "Neal Fultz <nfultz@gmail.com>",
+    "url": "https://github.com/nfultz/awr.athena",
+    "available": true
+  },
+  {
     "package": "c2d4u.tools",
     "maintainer": "Neal Fultz <nfultz@gmail.com>",
     "url": "https://github.com/nfultz/c2d4u.tools",
+    "available": true
+  },
+  {
+    "package": "cns",
+    "maintainer": "Neal Fultz <nfultz@gmail.com>",
+    "url": "https://github.com/nfultz/cns",
     "available": true
   },
   {

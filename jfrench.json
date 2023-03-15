@@ -1,14 +1,32 @@
 [
   {
+    "package": "api2lm",
+    "maintainer": "Joshua P. French <joshua.french@ucdenver.edu>",
+    "url": "https://github.com/jfrench/api2lm",
+    "available": true
+  },
+  {
     "package": "autoimage",
     "maintainer": "Joshua French <joshua.french@ucdenver.edu>",
     "url": "https://github.com/jfrench/autoimage",
     "available": true
   },
   {
+    "package": "smacpod",
+    "maintainer": "Joshua French <joshua.french@ucdenver.edu>",
+    "url": "https://github.com/jfrench/smacpod",
+    "available": true
+  },
+  {
     "package": "smerc",
     "maintainer": "Joshua French <joshua.french@ucdenver.edu>",
     "url": "https://github.com/jfrench/smerc",
+    "available": true
+  },
+  {
+    "package": "SpatialTools",
+    "maintainer": "Joshua French <joshua.french@ucdenver.edu>",
+    "url": "https://github.com/jfrench/spatialtools",
     "available": true
   }
 ]

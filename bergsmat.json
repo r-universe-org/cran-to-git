@@ -1,5 +1,47 @@
 [
   {
+    "package": "csv",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/csv",
+    "available": true
+  },
+  {
+    "package": "encode",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/encode",
+    "available": true
+  },
+  {
+    "package": "latexpdf",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/latexpdf",
+    "available": true
+  },
+  {
+    "package": "metaplot",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/metaplot",
+    "available": true
+  },
+  {
+    "package": "nonmemica",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/nonmemica",
+    "available": true
+  },
+  {
+    "package": "spec",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/spec",
+    "available": true
+  },
+  {
+    "package": "spork",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/bergsmat/spork",
+    "available": true
+  },
+  {
     "package": "tablet",
     "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
     "url": "https://github.com/bergsmat/tablet",

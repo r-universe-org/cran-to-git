@@ -1,5 +1,11 @@
 [
   {
+    "package": "condSURV",
+    "maintainer": "Marta Sestelo <sestelo@uvigo.es>",
+    "url": "https://github.com/sestelo/condsurv",
+    "available": true
+  },
+  {
     "package": "FWDselect",
     "maintainer": "Marta Sestelo <sestelo@uvigo.es>",
     "url": "https://github.com/sestelo/fwdselect",
@@ -9,6 +15,12 @@
     "package": "npregfast",
     "maintainer": "Marta Sestelo <sestelo@uvigo.es>",
     "url": "https://github.com/sestelo/npregfast",
+    "available": true
+  },
+  {
+    "package": "survidm",
+    "maintainer": "Marta Sestelo <sestelo@uvigo.es>",
+    "url": "https://github.com/sestelo/survidm",
     "available": true
   }
 ]

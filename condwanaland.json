@@ -1,5 +1,11 @@
 [
   {
+    "package": "fishdata",
+    "maintainer": "Conor Neilson <condwanaland@gmail.com>",
+    "url": "https://github.com/condwanaland/fishdata",
+    "available": true
+  },
+  {
     "package": "scrobbler",
     "maintainer": "Conor Neilson <condwanaland@gmail.com>",
     "url": "https://github.com/condwanaland/scrobbler",
@@ -9,6 +15,18 @@
     "package": "summariser",
     "maintainer": "Conor Neilson <condwanaland@gmail.com>",
     "url": "https://github.com/condwanaland/summariser",
+    "available": true
+  },
+  {
+    "package": "verhoeff",
+    "maintainer": "Conor Neilson <condwanaland@gmail.com>",
+    "url": "https://github.com/condwanaland/verhoeff",
+    "available": true
+  },
+  {
+    "package": "words",
+    "maintainer": "Conor Neilson <condwanaland@gmail.com>",
+    "url": "https://github.com/condwanaland/words",
     "available": true
   }
 ]

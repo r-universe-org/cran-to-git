@@ -1,0 +1,26 @@
+[
+  {
+    "package": "dann",
+    "maintainer": "Greg McMahan <gmcmacran@gmail.com>",
+    "url": "https://github.com/gmcmacran/dann",
+    "available": true
+  },
+  {
+    "package": "extendedFamily",
+    "maintainer": "Greg McMahan <gmcmacran@gmail.com>",
+    "url": "https://github.com/gmcmacran/extendedfamily",
+    "available": true
+  },
+  {
+    "package": "GlmSimulatoR",
+    "maintainer": "Greg McMahan <gmcmacran@gmail.com>",
+    "url": "https://github.com/gmcmacran/glmsimulator",
+    "available": true
+  },
+  {
+    "package": "LRTesteR",
+    "maintainer": "Greg McMahan <gmcmacran@gmail.com>",
+    "url": "https://github.com/gmcmacran/lrtester",
+    "available": true
+  }
+]

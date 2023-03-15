@@ -1,8 +1,20 @@
 [
   {
+    "package": "ForecastTB",
+    "maintainer": "Neeraj Dhanraj Bokde <neerajdhanraj@gmail.com>",
+    "url": "https://github.com/neerajdhanraj/forecasttb",
+    "available": true
+  },
+  {
     "package": "imputeTestbench",
     "maintainer": "Marcus W. Beck <mbafs2012@gmail.com>",
     "url": "https://github.com/neerajdhanraj/imputetestbench",
+    "available": true
+  },
+  {
+    "package": "Jaya",
+    "maintainer": "Neeraj Bokde <neerajdhanraj@gmail.com>",
+    "url": "https://github.com/neerajdhanraj/jaya",
     "available": true
   },
   {

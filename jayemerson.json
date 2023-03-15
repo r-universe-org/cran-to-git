@@ -1,5 +1,11 @@
 [
   {
+    "package": "gpairs",
+    "maintainer": "John W. Emerson <john.emerson@yale.edu>",
+    "url": "https://github.com/jayemerson/gpairs",
+    "available": true
+  },
+  {
     "package": "STV",
     "maintainer": "John Emerson <john.emerson@yale.edu>",
     "url": "https://github.com/jayemerson/stv",

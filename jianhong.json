@@ -1,8 +1,29 @@
 [
   {
+    "package": "ATACseqQC",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/atacseqqc",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "ATACseqTFEA",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/atacseqtfea",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "ChIPpeakAnno",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/chippeakanno",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "dagLogo",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/daglogo",
     "available": true,
     "registry": "bioc"
   },
@@ -14,6 +35,13 @@
     "registry": "bioc"
   },
   {
+    "package": "GeneNetworkBuilder",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/genenetworkbuilder",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "GenomicInteractionNodes",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/genomicinteractionnodes",
@@ -21,9 +49,44 @@
     "registry": "bioc"
   },
   {
+    "package": "InPAS",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/inpas",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "motifStack",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/motifstack",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "NADfinder",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/nadfinder",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "ribosomeProfilingQC",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/ribosomeprofilingqc",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "scRNAseqApp",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/scrnaseqapp",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "trackViewer",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/trackviewer",
     "available": true,
     "registry": "bioc"
   }

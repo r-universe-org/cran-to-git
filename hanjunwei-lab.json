@@ -1,5 +1,47 @@
 [
   {
+    "package": "DTSEA",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/dtsea",
+    "available": true
+  },
+  {
+    "package": "ICDS",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/icds",
+    "available": true
+  },
+  {
+    "package": "LncPath",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/lncpath",
+    "available": true
+  },
+  {
+    "package": "MiRSEA",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/mirsea",
+    "available": true
+  },
+  {
+    "package": "PMAPscore",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/pmapscore",
+    "available": true
+  },
+  {
+    "package": "psSubpathway",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/pssubpathway",
+    "available": true
+  },
+  {
+    "package": "SMDIC",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/hanjunwei-lab/smdic",
+    "available": true
+  },
+  {
     "package": "SubtypeDrug",
     "maintainer": "Junwei Han <hanjunwei1981@163.com>",
     "url": "https://github.com/hanjunwei-lab/subtypedrug",

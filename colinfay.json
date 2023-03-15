@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "gargoyle",
+    "maintainer": "Colin Fay <contact@colinfay.me>",
+    "url": "https://github.com/colinfay/gargoyle",
+    "available": true
+  },
+  {
     "package": "languagelayeR",
     "maintainer": "Colin FAY <contact@colinfay.me>",
     "url": "https://github.com/colinfay/languagelayer",
@@ -15,6 +21,18 @@
     "package": "proustr",
     "maintainer": "Colin Fay <contact@colinfay.me>",
     "url": "https://github.com/colinfay/proustr",
+    "available": true
+  },
+  {
+    "package": "rpinterest",
+    "maintainer": "Colin FAY <contact@colinfay.me>",
+    "url": "https://github.com/colinfay/rpinterest",
+    "available": true
+  },
+  {
+    "package": "tidystringdist",
+    "maintainer": "Colin Fay <contact@colinfay.me>",
+    "url": "https://github.com/colinfay/tidystringdist",
     "available": true
   }
 ]

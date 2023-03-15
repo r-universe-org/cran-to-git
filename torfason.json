@@ -1,5 +1,11 @@
 [
   {
+    "package": "qst",
+    "maintainer": "Magnus Thor Torfason <m@zulutime.net>",
+    "url": "https://github.com/torfason/qst",
+    "available": true
+  },
+  {
     "package": "zfit",
     "maintainer": "Magnus Thor Torfason <m@zulutime.net>",
     "url": "https://github.com/torfason/zfit",

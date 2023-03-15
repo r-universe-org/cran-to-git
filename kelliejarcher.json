@@ -1,8 +1,33 @@
 [
   {
+    "package": "countgmifs",
+    "maintainer": "Kellie Archer <archer.43@osu.edu>",
+    "url": "https://github.com/kelliejarcher/countgmifs",
+    "available": true
+  },
+  {
+    "package": "glmnetcr",
+    "maintainer": "Kellie J. Archer <archer.43@osu.edu>",
+    "url": "https://github.com/kelliejarcher/glmnetcr",
+    "available": true
+  },
+  {
+    "package": "glmpathcr",
+    "maintainer": "Kellie J. Archer <archer.43@osu.edu>",
+    "url": "https://github.com/kelliejarcher/glmpathcr",
+    "available": true
+  },
+  {
     "package": "ordinalbayes",
     "maintainer": "Kellie J. Archer <archer.43@osu.edu>",
     "url": "https://github.com/kelliejarcher/ordinalbayes",
     "available": true
+  },
+  {
+    "package": "ordinalgmifs",
+    "maintainer": "Kellie J. Archer <archer.43@osu.edu>",
+    "url": "https://github.com/kelliejarcher/ordinalgmifs",
+    "available": true,
+    "registry": "archived"
   }
 ]

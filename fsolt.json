@@ -1,5 +1,11 @@
 [
   {
+    "package": "DCPO",
+    "maintainer": "Frederick Solt <frederick-solt@uiowa.edu>",
+    "url": "https://github.com/fsolt/dcpo",
+    "available": true
+  },
+  {
     "package": "dotwhisker",
     "maintainer": "Yue Hu <yuehu@tsinghua.edu.cn>",
     "url": "https://github.com/fsolt/dotwhisker",
@@ -9,6 +15,12 @@
     "package": "gesisdata",
     "maintainer": "Frederick Solt <frederick-solt@uiowa.edu>",
     "url": "https://github.com/fsolt/gesisdata",
+    "available": true
+  },
+  {
+    "package": "icpsrdata",
+    "maintainer": "Frederick Solt <frederick-solt@uiowa.edu>",
+    "url": "https://github.com/fsolt/icpsrdata",
     "available": true
   },
   {

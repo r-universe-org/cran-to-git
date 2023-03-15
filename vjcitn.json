@@ -14,9 +14,37 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocOncoTK",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/bioconcotk",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "BiocSklearn",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/biocsklearn",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "ontoProc",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/ontoproc",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "pogos",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/pogos",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "rhdf5client",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/rhdf5client",
     "available": true,
     "registry": "bioc"
   }

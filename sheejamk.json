@@ -1,8 +1,20 @@
 [
   {
+    "package": "IPDFileCheck",
+    "maintainer": "Sheeja Manchira Krishnan <sheejamk@gmail.com>",
+    "url": "https://github.com/sheejamk/ipdfilecheck",
+    "available": true
+  },
+  {
     "package": "packDAMipd",
     "maintainer": "Sheeja Manchira Krishnan <sheejamk@gmail.com>",
     "url": "https://github.com/sheejamk/packdamipd",
+    "available": true
+  },
+  {
+    "package": "valueEQ5D",
+    "maintainer": "Sheeja Manchira Krishnan <sheejamk@gmail.com>",
+    "url": "https://github.com/sheejamk/valueeq5d",
     "available": true
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "package": "attention",
+    "maintainer": "Bastiaan Quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/attention",
+    "available": true
+  },
+  {
+    "package": "datasets.load",
+    "maintainer": "Bastiaan quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/datasets.load",
+    "available": true
+  },
+  {
     "package": "decompr",
     "maintainer": "Bastiaan Quast <bquast@gmail.com>",
     "url": "https://github.com/bquast/decompr",
@@ -18,6 +30,24 @@
     "available": true
   },
   {
+    "package": "HEtools",
+    "maintainer": "Bastiaan Quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/hetools",
+    "available": true
+  },
+  {
+    "package": "HomomorphicEncryption",
+    "maintainer": "Bastiaan Quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/homomorphicencryption",
+    "available": true
+  },
+  {
+    "package": "learNN",
+    "maintainer": "Bastiaan Quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/learnn",
+    "available": true
+  },
+  {
     "package": "rddtools",
     "maintainer": "Bastiaan Quast <bquast@gmail.com>",
     "url": "https://github.com/bquast/rddtools",
@@ -27,6 +57,12 @@
     "package": "rnn",
     "maintainer": "Bastiaan Quast <bquast@gmail.com>",
     "url": "https://github.com/bquast/rnn",
+    "available": true
+  },
+  {
+    "package": "sigmoid",
+    "maintainer": "Bastiaan Quast <bquast@gmail.com>",
+    "url": "https://github.com/bquast/sigmoid",
     "available": true
   }
 ]

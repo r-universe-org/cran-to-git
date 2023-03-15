@@ -25,6 +25,12 @@
     "available": true
   },
   {
+    "package": "RedisBaseContainer",
+    "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
+    "url": "https://github.com/jiefei-wang/redisbasecontainer",
+    "available": true
+  },
+  {
     "package": "SharedObject",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/sharedobject",

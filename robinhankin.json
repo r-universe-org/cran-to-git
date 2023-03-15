@@ -1,5 +1,11 @@
 [
   {
+    "package": "BACCO",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/robinhankin/bacco",
+    "available": true
+  },
+  {
     "package": "Brobdingnag",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/brobdingnag",
@@ -27,6 +33,12 @@
     "package": "contfrac",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/contfrac",
+    "available": true
+  },
+  {
+    "package": "Davies",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/robinhankin/davies",
     "available": true
   },
   {
@@ -72,9 +84,21 @@
     "available": true
   },
   {
+    "package": "hypergeo",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/robinhankin/hypergeo",
+    "available": true
+  },
+  {
     "package": "jordan",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/jordan",
+    "available": true
+  },
+  {
+    "package": "knotR",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/robinhankin/knotr",
     "available": true
   },
   {
@@ -105,6 +129,12 @@
     "package": "mvp",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/mvp",
+    "available": true
+  },
+  {
+    "package": "Oarray",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/robinhankin/oarray",
     "available": true
   },
   {

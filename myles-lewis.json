@@ -1,5 +1,11 @@
 [
   {
+    "package": "easylabel",
+    "maintainer": "Myles Lewis <myles.lewis@qmul.ac.uk>",
+    "url": "https://github.com/myles-lewis/easylabel",
+    "available": true
+  },
+  {
     "package": "glmmSeq",
     "maintainer": "Myles Lewis <myles.lewis@qmul.ac.uk>",
     "url": "https://github.com/myles-lewis/glmmseq",

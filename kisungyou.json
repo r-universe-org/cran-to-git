@@ -1,14 +1,44 @@
 [
   {
+    "package": "ADMM",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/admm",
+    "available": true
+  },
+  {
     "package": "CovTools",
     "maintainer": "Kisung You <kisungyou@outlook.com>",
     "url": "https://github.com/kisungyou/covtools",
     "available": true
   },
   {
+    "package": "filling",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/filling",
+    "available": true
+  },
+  {
+    "package": "graphon",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/graphon",
+    "available": true
+  },
+  {
     "package": "maotai",
     "maintainer": "Kisung You <kisungyou@outlook.com>",
     "url": "https://github.com/kisungyou/maotai",
+    "available": true
+  },
+  {
+    "package": "mclustcomp",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/mclustcomp",
+    "available": true
+  },
+  {
+    "package": "NetworkDistance",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/networkdistance",
     "available": true
   },
   {
@@ -30,6 +60,24 @@
     "available": true
   },
   {
+    "package": "Rlinsolve",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/rlinsolve",
+    "available": true
+  },
+  {
+    "package": "ROptSpace",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/roptspace",
+    "available": true
+  },
+  {
+    "package": "SBmedian",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/sbmedian",
+    "available": true
+  },
+  {
     "package": "SHT",
     "maintainer": "Kisung You <kisungyou@outlook.com>",
     "url": "https://github.com/kisungyou/sht",
@@ -42,9 +90,27 @@
     "available": true
   },
   {
+    "package": "T4transport",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/t4transport",
+    "available": true
+  },
+  {
+    "package": "TDAkit",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/tdakit",
+    "available": true
+  },
+  {
     "package": "tvR",
     "maintainer": "Kisung You <kisungyou@outlook.com>",
     "url": "https://github.com/kisungyou/tvr",
+    "available": true
+  },
+  {
+    "package": "Zseq",
+    "maintainer": "Kisung You <kisungyou@outlook.com>",
+    "url": "https://github.com/kisungyou/zseq",
     "available": true
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "package": "CombinS",
+    "maintainer": "Mohamed Laib <laib.med@gmail.com>",
+    "url": "https://github.com/mlaib/combins",
+    "available": true
+  },
+  {
+    "package": "MFDFA",
+    "maintainer": "Mohamed Laib <laib.med@gmail.com>",
+    "url": "https://github.com/mlaib/mfdfa",
+    "available": true
+  },
+  {
+    "package": "PGM2",
+    "maintainer": "Mohamed Laib <laib.med@gmail.com>",
+    "url": "https://github.com/mlaib/pgm2",
+    "available": true
+  },
+  {
+    "package": "RPPairwiseDesign",
+    "maintainer": "Mohamed Laib <laib.med@gmail.com>",
+    "url": "https://github.com/mlaib/rppairwisedesign",
+    "available": true
+  },
+  {
     "package": "SFtools",
     "maintainer": "Mohamed Laib <laib.med@gmail.com>",
     "url": "https://github.com/mlaib/sftools",

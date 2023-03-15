@@ -1,8 +1,20 @@
 [
   {
+    "package": "assertthat",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/assertthat",
+    "available": true
+  },
+  {
     "package": "babynames",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/hadley/babynames",
+    "available": true
+  },
+  {
+    "package": "classifly",
+    "maintainer": "Hadley Wickham <h.wickham@gmail.com>",
+    "url": "https://github.com/hadley/classifly",
     "available": true
   },
   {
@@ -18,9 +30,33 @@
     "available": true
   },
   {
+    "package": "ggplot2movies",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/ggplot2movies",
+    "available": true
+  },
+  {
+    "package": "hflights",
+    "maintainer": "Hadley Wickham <h.wickham@gmail.com>",
+    "url": "https://github.com/hadley/hflights",
+    "available": true
+  },
+  {
     "package": "highlight",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/hadley/highlight",
+    "available": true
+  },
+  {
+    "package": "lazyeval",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/lazyeval",
+    "available": true
+  },
+  {
+    "package": "lvplot",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/hadley/lvplot",
     "available": true
   },
   {

@@ -1,5 +1,11 @@
 [
   {
+    "package": "markerpen",
+    "maintainer": "Yixuan Qiu <yixuan.qiu@cos.name>",
+    "url": "https://github.com/yixuan/markerpen",
+    "available": true
+  },
+  {
     "package": "prettydoc",
     "maintainer": "Yixuan Qiu <yixuan.qiu@cos.name>",
     "url": "https://github.com/yixuan/prettydoc",
@@ -45,6 +51,12 @@
     "package": "showtext",
     "maintainer": "Yixuan Qiu <yixuan.qiu@cos.name>",
     "url": "https://github.com/yixuan/showtext",
+    "available": true
+  },
+  {
+    "package": "showtextdb",
+    "maintainer": "Yixuan Qiu <yixuan.qiu@cos.name>",
+    "url": "https://github.com/yixuan/showtextdb",
     "available": true
   },
   {

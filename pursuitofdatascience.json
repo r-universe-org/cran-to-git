@@ -1,8 +1,20 @@
 [
   {
+    "package": "ggchangepoint",
+    "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
+    "url": "https://github.com/pursuitofdatascience/ggchangepoint",
+    "available": true
+  },
+  {
     "package": "ggDoubleHeat",
     "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
     "url": "https://github.com/pursuitofdatascience/ggdoubleheat",
+    "available": true
+  },
+  {
+    "package": "tidyEmoji",
+    "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
+    "url": "https://github.com/pursuitofdatascience/tidyemoji",
     "available": true
   }
 ]

@@ -18,6 +18,12 @@
     "available": true
   },
   {
+    "package": "leafgl",
+    "maintainer": "Tim Appelhans <tim.appelhans@gmail.com>",
+    "url": "https://github.com/r-spatial/leafgl",
+    "available": true
+  },
+  {
     "package": "leafpm",
     "maintainer": "Kenton Russell <kent.russell@timelyportfolio.com>",
     "url": "https://github.com/r-spatial/leafpm",

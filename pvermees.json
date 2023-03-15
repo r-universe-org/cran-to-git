@@ -1,5 +1,11 @@
 [
   {
+    "package": "ArArRedux",
+    "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
+    "url": "https://github.com/pvermees/ararredux",
+    "available": true
+  },
+  {
     "package": "geostats",
     "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
     "url": "https://github.com/pvermees/geostats",
@@ -15,6 +21,12 @@
     "package": "IsoplotRgui",
     "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
     "url": "https://github.com/pvermees/isoplotrgui",
+    "available": true
+  },
+  {
+    "package": "provenance",
+    "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
+    "url": "https://github.com/pvermees/provenance",
     "available": true
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "package": "bmp",
+    "maintainer": "Gregory Jefferis <jefferis@gmail.com>",
+    "url": "https://github.com/jefferis/bmp",
+    "available": true
+  },
+  {
+    "package": "dendroextras",
+    "maintainer": "Gregory Jefferis <jefferis@gmail.com>",
+    "url": "https://github.com/jefferis/dendroextras",
+    "available": true
+  },
+  {
     "package": "nabor",
     "maintainer": "Gregory Jefferis <jefferis@gmail.com>",
     "url": "https://github.com/jefferis/nabor",

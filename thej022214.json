@@ -1,5 +1,17 @@
 [
   {
+    "package": "corHMM",
+    "maintainer": "Jeremy Beaulieu <jmbeauli@uark.edu>",
+    "url": "https://github.com/thej022214/corhmm",
+    "available": true
+  },
+  {
+    "package": "hisse",
+    "maintainer": "Jeremy Beaulieu <jmbeauli@uark.edu>",
+    "url": "https://github.com/thej022214/hisse",
+    "available": true
+  },
+  {
     "package": "OUwie",
     "maintainer": "Jeremy Beaulieu <jmbeauli@uark.edu>",
     "url": "https://github.com/thej022214/ouwie",

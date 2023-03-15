@@ -1,5 +1,11 @@
 [
   {
+    "package": "arrApply",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/arrapply",
+    "available": true
+  },
+  {
     "package": "Deriv",
     "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
     "url": "https://github.com/sgsokol/deriv",
@@ -9,6 +15,12 @@
     "package": "kvh",
     "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
     "url": "https://github.com/sgsokol/kvh",
+    "available": true
+  },
+  {
+    "package": "multbxxc",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/sgsokol/multbxxc",
     "available": true
   },
   {

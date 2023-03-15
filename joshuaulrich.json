@@ -1,8 +1,20 @@
 [
   {
+    "package": "IBrokers",
+    "maintainer": "Joshua M. Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/ibrokers",
+    "available": true
+  },
+  {
     "package": "microbenchmark",
     "maintainer": "Joshua M. Ulrich <josh.m.ulrich@gmail.com>",
     "url": "https://github.com/joshuaulrich/microbenchmark",
+    "available": true
+  },
+  {
+    "package": "pack",
+    "maintainer": "Josh Ulrich <josh.m.ulrich@gmail.com>",
+    "url": "https://github.com/joshuaulrich/pack",
     "available": true
   },
   {

@@ -5,5 +5,29 @@
     "url": "https://github.com/rsetienne/daisie",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "DAMOCLES",
+    "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
+    "url": "https://github.com/rsetienne/damocles",
+    "available": true
+  },
+  {
+    "package": "DDD",
+    "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
+    "url": "https://github.com/rsetienne/ddd",
+    "available": true
+  },
+  {
+    "package": "SADISA",
+    "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
+    "url": "https://github.com/rsetienne/sadisa",
+    "available": true
+  },
+  {
+    "package": "secsse",
+    "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
+    "url": "https://github.com/rsetienne/secsse",
+    "available": true
   }
 ]

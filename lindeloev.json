@@ -1,5 +1,11 @@
 [
   {
+    "package": "job",
+    "maintainer": "Jonas Kristoffer Lindeløv <jonas@lindeloev.dk>",
+    "url": "https://github.com/lindeloev/job",
+    "available": true
+  },
+  {
     "package": "mcp",
     "maintainer": "Jonas Kristoffer Lindeløv <jonas@lindeloev.dk>",
     "url": "https://github.com/lindeloev/mcp",

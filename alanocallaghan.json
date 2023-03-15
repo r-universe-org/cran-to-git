@@ -20,6 +20,13 @@
     "registry": "bioc"
   },
   {
+    "package": "scater",
+    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
+    "url": "https://github.com/alanocallaghan/scater",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "snifter",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/snifter",

@@ -1,8 +1,20 @@
 [
   {
+    "package": "empichar",
+    "maintainer": "Guillermo Basulto-Elias <guillermobasulto@gmail.com>",
+    "url": "https://github.com/gbasulto/empichar",
+    "available": true
+  },
+  {
     "package": "fourierin",
     "maintainer": "Guillermo Basulto-Elias <guillermobasulto@gmail.com>",
     "url": "https://github.com/gbasulto/fourierin",
+    "available": true
+  },
+  {
+    "package": "glancedata",
+    "maintainer": "Guillermo Basulto-Elias <guillermobasulto@gmail.com>",
+    "url": "https://github.com/gbasulto/glancedata",
     "available": true
   }
 ]

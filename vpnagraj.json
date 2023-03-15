@@ -1,8 +1,20 @@
 [
   {
+    "package": "acroname",
+    "maintainer": "VP Nagraj <nagraj@nagraj.net>",
+    "url": "https://github.com/vpnagraj/acroname",
+    "available": true
+  },
+  {
     "package": "rrefine",
     "maintainer": "VP Nagraj <nagraj@nagraj.net>",
     "url": "https://github.com/vpnagraj/rrefine",
+    "available": true
+  },
+  {
+    "package": "twoxtwo",
+    "maintainer": "VP Nagraj <nagraj@nagraj.net>",
+    "url": "https://github.com/vpnagraj/twoxtwo",
     "available": true
   }
 ]

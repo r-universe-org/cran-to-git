@@ -1,5 +1,11 @@
 [
   {
+    "package": "intSDM",
+    "maintainer": "Philip Mostert <philip.s.mostert@ntnu.no>",
+    "url": "https://github.com/philipmostert/intsdm",
+    "available": true
+  },
+  {
     "package": "PointedSDMs",
     "maintainer": "Philip Mostert <philip.s.mostert@ntnu.no>",
     "url": "https://github.com/philipmostert/pointedsdms",

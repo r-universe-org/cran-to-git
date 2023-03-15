@@ -1,5 +1,11 @@
 [
   {
+    "package": "MKclass",
+    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
+    "url": "https://github.com/stamats/mkclass",
+    "available": true
+  },
+  {
     "package": "MKdescr",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/stamats/mkdescr",
@@ -15,6 +21,18 @@
     "package": "MKmisc",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/stamats/mkmisc",
+    "available": true
+  },
+  {
+    "package": "MKomics",
+    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
+    "url": "https://github.com/stamats/mkomics",
+    "available": true
+  },
+  {
+    "package": "MKpower",
+    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
+    "url": "https://github.com/stamats/mkpower",
     "available": true
   }
 ]

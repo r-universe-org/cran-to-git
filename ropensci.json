@@ -118,7 +118,8 @@
     "package": "censo2017",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
     "url": "https://github.com/ropensci/censo2017",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "cffr",
@@ -1022,6 +1023,12 @@
     "available": true
   },
   {
+    "package": "rusda",
+    "maintainer": "Franz-Sebastian Krah <f.krah@mailbox.org>",
+    "url": "https://github.com/ropensci/rusda",
+    "available": true
+  },
+  {
     "package": "rzmq",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/rzmq",
@@ -1265,7 +1272,8 @@
     "package": "USAboundaries",
     "maintainer": "Lincoln Mullen <lincoln@lincolnmullen.com>",
     "url": "https://github.com/ropensci/usaboundaries",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "vcr",

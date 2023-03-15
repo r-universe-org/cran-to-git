@@ -1,8 +1,26 @@
 [
   {
+    "package": "oro.dicom",
+    "maintainer": "Brandon Whitcher <bwhitcher@gmail.com>",
+    "url": "https://github.com/bjw34032/oro.dicom",
+    "available": true
+  },
+  {
     "package": "oro.nifti",
     "maintainer": "Brandon Whitcher <bwhitcher@gmail.com>",
     "url": "https://github.com/bjw34032/oro.nifti",
+    "available": true
+  },
+  {
+    "package": "oro.pet",
+    "maintainer": "Brandon Whitcher <bwhitcher@gmail.com>",
+    "url": "https://github.com/bjw34032/oro.pet",
+    "available": true
+  },
+  {
+    "package": "waveslim",
+    "maintainer": "Brandon Whitcher <bwhitcher@gmail.com>",
+    "url": "https://github.com/bjw34032/waveslim",
     "available": true
   }
 ]

@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "cymruservices",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://github.com/hrbrmstr/cymruservices",
+    "available": true
+  },
+  {
     "package": "darksky",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/darksky",
@@ -43,6 +49,12 @@
     "registry": "archived"
   },
   {
+    "package": "longurl",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://github.com/hrbrmstr/longurl",
+    "available": true
+  },
+  {
     "package": "metricsgraphics",
     "maintainer": "Bob Rudis <bob@rudis.net>",
     "url": "https://github.com/hrbrmstr/metricsgraphics",
@@ -70,6 +82,12 @@
     "package": "swatches",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/swatches",
+    "available": true
+  },
+  {
+    "package": "tdigest",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://github.com/hrbrmstr/tdigest",
     "available": true
   },
   {

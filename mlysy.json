@@ -18,6 +18,18 @@
     "available": true
   },
   {
+    "package": "msde",
+    "maintainer": "Martin Lysy <mlysy@uwaterloo.ca>",
+    "url": "https://github.com/mlysy/msde",
+    "available": true
+  },
+  {
+    "package": "nicheROVER",
+    "maintainer": "Martin Lysy <mlysy@uwaterloo.ca>",
+    "url": "https://github.com/mlysy/nicherover",
+    "available": true
+  },
+  {
     "package": "optimCheck",
     "maintainer": "Martin Lysy <mlysy@uwaterloo.ca>",
     "url": "https://github.com/mlysy/optimcheck",

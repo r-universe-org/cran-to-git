@@ -1,5 +1,11 @@
 [
   {
+    "package": "measures",
+    "maintainer": "Philipp Probst <philipp_probst@gmx.de>",
+    "url": "https://github.com/philipppro/measures",
+    "available": true
+  },
+  {
     "package": "OOBCurve",
     "maintainer": "Philipp Probst <philipp_probst@gmx.de>",
     "url": "https://github.com/philipppro/oobcurve",
@@ -9,6 +15,18 @@
     "package": "quantregRanger",
     "maintainer": "Philipp Probst <philipp_probst@gmx.de>",
     "url": "https://github.com/philipppro/quantregranger",
+    "available": true
+  },
+  {
+    "package": "tuneRanger",
+    "maintainer": "Philipp Probst <philipp_probst@gmx.de>",
+    "url": "https://github.com/philipppro/tuneranger",
+    "available": true
+  },
+  {
+    "package": "varImp",
+    "maintainer": "Philipp Probst <philipp_probst@gmx.de>",
+    "url": "https://github.com/philipppro/varimp",
     "available": true
   }
 ]

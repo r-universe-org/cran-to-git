@@ -1,5 +1,17 @@
 [
   {
+    "package": "avocado",
+    "maintainer": "Nikhil Agarwal <gitnik@niks.me>",
+    "url": "https://github.com/nikdata/avocado",
+    "available": true
+  },
+  {
+    "package": "ialiquor",
+    "maintainer": "Nikhil Agarwal <gitnik@niks.me>",
+    "url": "https://github.com/nikdata/ialiquor",
+    "available": true
+  },
+  {
     "package": "RClimacell",
     "maintainer": "Nikhil Agarwal <gitnik@niks.me>",
     "url": "https://github.com/nikdata/rclimacell",

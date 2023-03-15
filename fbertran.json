@@ -54,6 +54,12 @@
     "available": true
   },
   {
+    "package": "penalizedSVM",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@utt.fr>",
+    "url": "https://github.com/fbertran/penalizedsvm",
+    "available": true
+  },
+  {
     "package": "peperr",
     "maintainer": "Frederic Bertrand <frederic.bertrand@utt.fr>",
     "url": "https://github.com/fbertran/peperr",

@@ -4,5 +4,41 @@
     "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
     "url": "https://github.com/pdhoff/amen",
     "available": true
+  },
+  {
+    "package": "covKCD",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/covkcd",
+    "available": true
+  },
+  {
+    "package": "fabCI",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/fabci",
+    "available": true
+  },
+  {
+    "package": "FABInference",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/fabinference",
+    "available": true
+  },
+  {
+    "package": "Rduino",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/rduino",
+    "available": true
+  },
+  {
+    "package": "rstiefel",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/rstiefel",
+    "available": true
+  },
+  {
+    "package": "sbgcop",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/pdhoff/sbgcop",
+    "available": true
   }
 ]

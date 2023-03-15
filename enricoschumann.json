@@ -30,6 +30,18 @@
     "available": true
   },
   {
+    "package": "orgutils",
+    "maintainer": "Enrico Schumann <es@enricoschumann.net>",
+    "url": "https://github.com/enricoschumann/orgutils",
+    "available": true
+  },
+  {
+    "package": "password",
+    "maintainer": "Enrico Schumann <es@enricoschumann.net>",
+    "url": "https://github.com/enricoschumann/password",
+    "available": true
+  },
+  {
     "package": "textutils",
     "maintainer": "Enrico Schumann <es@enricoschumann.net>",
     "url": "https://github.com/enricoschumann/textutils",

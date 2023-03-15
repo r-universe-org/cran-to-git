@@ -12,5 +12,11 @@
     "url": "https://github.com/yiluheihei/microbiomemarker",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "RevEcoR",
+    "maintainer": "Yang Cao <yiluheihei@gmail.com>",
+    "url": "https://github.com/yiluheihei/revecor",
+    "available": true
   }
 ]

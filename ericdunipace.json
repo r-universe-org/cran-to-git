@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "causalOT",
+    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
+    "url": "https://github.com/ericdunipace/causalot",
+    "available": true
+  },
+  {
     "package": "RcppCGAL",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
     "url": "https://github.com/ericdunipace/rcppcgal",

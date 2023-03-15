@@ -1,8 +1,20 @@
 [
   {
+    "package": "inbreedR",
+    "maintainer": "Martin A. Stoffel <martin.adam.stoffel@gmail.com>",
+    "url": "https://github.com/mastoffel/inbreedr",
+    "available": true
+  },
+  {
     "package": "partR2",
     "maintainer": "Martin A. Stoffel <martin.adam.stoffel@gmail.com>",
     "url": "https://github.com/mastoffel/partr2",
+    "available": true
+  },
+  {
+    "package": "rptR",
+    "maintainer": "Martin Stoffel <martin.adam.stoffel@gmail.com>",
+    "url": "https://github.com/mastoffel/rptr",
     "available": true
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "package": "hierNet",
+    "maintainer": "Jacob Bien <jbien@usc.edu>",
+    "url": "https://github.com/jacobbien/hiernet",
+    "available": true
+  },
+  {
+    "package": "protoclust",
+    "maintainer": "Jacob Bien <jbien@usc.edu>",
+    "url": "https://github.com/jacobbien/protoclust",
+    "available": true
+  },
+  {
     "package": "simulator",
     "maintainer": "Jacob Bien <jbien@usc.edu>",
     "url": "https://github.com/jacobbien/simulator",

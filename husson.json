@@ -1,8 +1,32 @@
 [
   {
+    "package": "FactoInvestigate",
+    "maintainer": "Francois Husson <husson@agrocampus-ouest.fr>",
+    "url": "https://github.com/husson/factoinvestigate",
+    "available": true
+  },
+  {
     "package": "FactoMineR",
     "maintainer": "Francois Husson <francois.husson@agrocampus-ouest.fr>",
     "url": "https://github.com/husson/factominer",
+    "available": true
+  },
+  {
+    "package": "Factoshiny",
+    "maintainer": "Francois Husson <husson@agrocampus-ouest.fr>",
+    "url": "https://github.com/husson/factoshiny",
+    "available": true
+  },
+  {
+    "package": "missMDA",
+    "maintainer": "Francois Husson <husson@agrocampus-ouest.fr>",
+    "url": "https://github.com/husson/missmda",
+    "available": true
+  },
+  {
+    "package": "SensoMineR",
+    "maintainer": "Francois Husson <husson@agrocampus-ouest.fr>",
+    "url": "https://github.com/husson/sensominer",
     "available": true
   }
 ]

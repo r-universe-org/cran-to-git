@@ -1,8 +1,20 @@
 [
   {
+    "package": "clockify",
+    "maintainer": "Andrew B. Collier <andrew@fathomdata.dev>",
+    "url": "https://github.com/datawookie/clockify",
+    "available": true
+  },
+  {
     "package": "emayili",
     "maintainer": "Andrew B. Collier <andrew@fathomdata.dev>",
     "url": "https://github.com/datawookie/emayili",
+    "available": true
+  },
+  {
+    "package": "filebin",
+    "maintainer": "Andrew B. Collier <andrew@fathomdata.dev>",
+    "url": "https://github.com/datawookie/filebin",
     "available": true
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "package": "BayesComm",
+    "maintainer": "Nick Golding\n<nick.golding.research@gmail.com>",
+    "url": "https://github.com/goldingn/bayescomm",
+    "available": true
+  },
+  {
+    "package": "default",
+    "maintainer": "Nick Golding <nick.golding.research@gmail.com>",
+    "url": "https://github.com/goldingn/default",
+    "available": true
+  },
+  {
+    "package": "pop",
+    "maintainer": "Nick Golding <nick.golding.research@gmail.com>",
+    "url": "https://github.com/goldingn/pop",
+    "available": true
+  },
+  {
     "package": "versions",
     "maintainer": "Nick Golding <nick.golding.research@gmail.com>",
     "url": "https://github.com/goldingn/versions",

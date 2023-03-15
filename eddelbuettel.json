@@ -54,9 +54,21 @@
     "available": true
   },
   {
+    "package": "gcbd",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/gcbd",
+    "available": true
+  },
+  {
     "package": "gettz",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/gettz",
+    "available": true
+  },
+  {
+    "package": "gunsales",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/gunsales",
     "available": true
   },
   {
@@ -102,6 +114,12 @@
     "available": true
   },
   {
+    "package": "random",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/random",
+    "available": true
+  },
+  {
     "package": "RApiDatetime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rapidatetime",
@@ -141,6 +159,12 @@
     "package": "RcppClassic",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppclassic",
+    "available": true
+  },
+  {
+    "package": "RcppClassicExamples",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppclassicexamples",
     "available": true
   },
   {
@@ -204,6 +228,12 @@
     "available": true
   },
   {
+    "package": "RcppNLoptExample",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppnloptexample",
+    "available": true
+  },
+  {
     "package": "RcppQuantuccia",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppquantuccia",
@@ -246,6 +276,12 @@
     "available": true
   },
   {
+    "package": "RcppZiggurat",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppziggurat",
+    "available": true
+  },
+  {
     "package": "RDieHarder",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rdieharder",
@@ -264,9 +300,21 @@
     "available": true
   },
   {
+    "package": "rmsfact",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rmsfact",
+    "available": true
+  },
+  {
     "package": "RProtoBuf",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rprotobuf",
+    "available": true
+  },
+  {
+    "package": "RPushbullet",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rpushbullet",
     "available": true
   },
   {
@@ -279,6 +327,12 @@
     "package": "RVowpalWabbit",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rvowpalwabbit",
+    "available": true
+  },
+  {
+    "package": "sanitizers",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/sanitizers",
     "available": true
   },
   {

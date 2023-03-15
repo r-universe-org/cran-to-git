@@ -1,0 +1,20 @@
+[
+  {
+    "package": "disttools",
+    "maintainer": "Zachary Colburn <zcolburn@gmail.com>",
+    "url": "https://github.com/mamc-dci/disttools",
+    "available": true
+  },
+  {
+    "package": "documenter",
+    "maintainer": "Zachary Colburn <zcolburn@gmail.com>",
+    "url": "https://github.com/mamc-dci/documenter",
+    "available": true
+  },
+  {
+    "package": "pubtatordb",
+    "maintainer": "Zachary Colburn <zcolburn@gmail.com>",
+    "url": "https://github.com/mamc-dci/pubtatordb",
+    "available": true
+  }
+]

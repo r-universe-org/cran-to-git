@@ -1,5 +1,11 @@
 [
   {
+    "package": "BatchGetSymbols",
+    "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
+    "url": "https://github.com/msperlin/batchgetsymbols",
+    "available": true
+  },
+  {
     "package": "GetBCBData",
     "maintainer": "Marcelo Perlin <marceloperlin@gmail.com>",
     "url": "https://github.com/msperlin/getbcbdata",

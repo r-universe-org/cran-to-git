@@ -5,5 +5,31 @@
     "url": "https://github.com/lawremi/ggbio",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "gmapR",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/lawremi/gmapr",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "restfulr",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/lawremi/restfulr",
+    "available": true
+  },
+  {
+    "package": "rsolr",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/lawremi/rsolr",
+    "available": true
+  },
+  {
+    "package": "rtracklayer",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/lawremi/rtracklayer",
+    "available": true,
+    "registry": "bioc"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "package": "globe",
+    "maintainer": "Adrian Baddeley <adrian.baddeley@curtin.edu.au>",
+    "url": "https://github.com/baddstats/globe",
+    "available": true
+  },
+  {
     "package": "goftest",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/baddstats/goftest",
@@ -9,6 +15,12 @@
     "package": "polyclip",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/baddstats/polyclip",
+    "available": true
+  },
+  {
+    "package": "spatstat.local",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/baddstats/spatstat.local",
     "available": true
   }
 ]

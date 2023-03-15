@@ -5,5 +5,11 @@
     "url": "https://github.com/ifellows/rosm",
     "subdir": "OpenStreetMap",
     "available": true
+  },
+  {
+    "package": "wordcloud",
+    "maintainer": "Ian Fellows <ian@fellstat.com>",
+    "url": "https://github.com/ifellows/wordcloud",
+    "available": true
   }
 ]

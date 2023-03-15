@@ -7,9 +7,16 @@
     "available": true
   },
   {
+    "package": "InterVA4",
+    "maintainer": "Zehang Richard Li <lizehang@gmail.com>",
+    "url": "https://github.com/verbal-autopsy-software/interva4",
+    "available": true
+  },
+  {
     "package": "openVA",
     "maintainer": "Zehang Richard Li <lizehang@gmail.com>",
     "url": "https://github.com/verbal-autopsy-software/openva",
-    "available": true
+    "available": true,
+    "registry": "archived"
   }
 ]

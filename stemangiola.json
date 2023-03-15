@@ -51,5 +51,11 @@
     "url": "https://github.com/stemangiola/tidysummarizedexperiment",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "ttservice",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/ttservice",
+    "available": true
   }
 ]

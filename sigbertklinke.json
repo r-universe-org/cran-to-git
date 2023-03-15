@@ -12,15 +12,45 @@
     "available": true
   },
   {
+    "package": "demoShiny",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/demoshiny",
+    "available": true
+  },
+  {
+    "package": "HKRbook",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/hkrbook",
+    "available": true
+  },
+  {
+    "package": "mmstat4",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/mmstat4",
+    "available": true
+  },
+  {
     "package": "plot.matrix",
     "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
     "url": "https://github.com/sigbertklinke/plot.matrix",
     "available": true
   },
   {
+    "package": "rmdwc",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/rmdwc",
+    "available": true
+  },
+  {
     "package": "rscc",
     "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
     "url": "https://github.com/sigbertklinke/rscc",
+    "available": true
+  },
+  {
+    "package": "smvgraph",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/smvgraph",
     "available": true
   }
 ]

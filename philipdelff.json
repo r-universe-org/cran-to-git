@@ -1,8 +1,20 @@
 [
   {
+    "package": "NMcalc",
+    "maintainer": "Philip Delff <philip@delff.dk>",
+    "url": "https://github.com/philipdelff/nmcalc",
+    "available": true
+  },
+  {
     "package": "NMdata",
     "maintainer": "Philip Delff <philip@delff.dk>",
     "url": "https://github.com/philipdelff/nmdata",
+    "available": true
+  },
+  {
+    "package": "tracee",
+    "maintainer": "Philip Delff <philip@delff.dk>",
+    "url": "https://github.com/philipdelff/tracee",
     "available": true
   }
 ]

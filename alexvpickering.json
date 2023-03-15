@@ -12,5 +12,17 @@
     "url": "https://github.com/alexvpickering/geofastq",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "shinydlplot",
+    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
+    "url": "https://github.com/alexvpickering/shinydlplot",
+    "available": true
+  },
+  {
+    "package": "shinypanel",
+    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
+    "url": "https://github.com/alexvpickering/shinypanel",
+    "available": true
   }
 ]

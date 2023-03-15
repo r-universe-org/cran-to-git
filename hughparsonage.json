@@ -1,8 +1,32 @@
 [
   {
+    "package": "Census2016",
+    "maintainer": "Hugh Parsonage <hugh.parsonage@gmail.com>",
+    "url": "https://github.com/hughparsonage/census2016",
+    "available": true
+  },
+  {
+    "package": "dauphin",
+    "maintainer": "Hugh Parsonage <hugh.parsonage@gmail.com>",
+    "url": "https://github.com/hughparsonage/dauphin",
+    "available": true
+  },
+  {
+    "package": "fy",
+    "maintainer": "Hugh Parsonage <hugh.parsonage@gmail.com>",
+    "url": "https://github.com/hughparsonage/fy",
+    "available": true
+  },
+  {
     "package": "grattan",
     "maintainer": "Hugh Parsonage <hugh.parsonage@gmail.com>",
     "url": "https://github.com/hughparsonage/grattan",
+    "available": true
+  },
+  {
+    "package": "heims",
+    "maintainer": "Hugh Parsonage <hugh.parsonage@gmail.com>",
+    "url": "https://github.com/hughparsonage/heims",
     "available": true
   },
   {
