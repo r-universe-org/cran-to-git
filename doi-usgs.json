@@ -34,5 +34,11 @@
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
     "url": "https://github.com/doi-usgs/sbtools",
     "available": true
+  },
+  {
+    "package": "toxEval",
+    "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
+    "url": "https://github.com/doi-usgs/toxeval",
+    "available": true
   }
 ]

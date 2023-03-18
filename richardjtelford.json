@@ -1,5 +1,11 @@
 [
   {
+    "package": "checker",
+    "maintainer": "Richard J. Telford <richard.telford@uib.no>",
+    "url": "https://github.com/richardjtelford/checker",
+    "available": true
+  },
+  {
     "package": "palaeoSig",
     "maintainer": "Richard Telford <Richard.Telford@uib.no>",
     "url": "https://github.com/richardjtelford/palaeosig",

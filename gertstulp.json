@@ -1,5 +1,11 @@
 [
   {
+    "package": "FertNet",
+    "maintainer": "Stulp Gert <g.stulp@rug.nl>",
+    "url": "https://github.com/gertstulp/fertnet",
+    "available": true
+  },
+  {
     "package": "ggplotgui",
     "maintainer": "Gert Stulp <g.stulp@rug.nl>",
     "url": "https://github.com/gertstulp/ggplotgui",
