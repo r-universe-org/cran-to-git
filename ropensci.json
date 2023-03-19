@@ -212,6 +212,12 @@
     "available": true
   },
   {
+    "package": "concstats",
+    "maintainer": "Andreas Schneider <schneiderconsultingpy@gmail.com>",
+    "url": "https://github.com/ropensci/concstats",
+    "available": true
+  },
+  {
     "package": "CoordinateCleaner",
     "maintainer": "Alexander Zizka <zizka.alexander@gmail.com>",
     "url": "https://github.com/ropensci/coordinatecleaner",
