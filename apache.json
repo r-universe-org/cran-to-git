@@ -1,5 +1,11 @@
 [
   {
+    "package": "apache.sedona",
+    "maintainer": "Apache Sedona <private@sedona.apache.org>",
+    "url": "https://github.com/apache/sedona",
+    "available": false
+  },
+  {
     "package": "arrow",
     "maintainer": "Nic Crane <thisisnic@gmail.com>",
     "url": "https://github.com/apache/arrow",
