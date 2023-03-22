@@ -1166,6 +1166,13 @@
     "available": false
   },
   {
+    "package": "systemfit",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/r-forge/systemfit",
+    "subdir": "pkg",
+    "available": true
+  },
+  {
     "package": "tables",
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/r-forge/tables",
