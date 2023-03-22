@@ -42,9 +42,21 @@
     "available": true
   },
   {
+    "package": "icesVMS",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesvms",
+    "available": true
+  },
+  {
     "package": "icesVocab",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icesvocab",
+    "available": true
+  },
+  {
+    "package": "TAF",
+    "maintainer": "Arni Magnusson <thisisarni@gmail.com>",
+    "url": "https://github.com/ices-tools-prod/taf",
     "available": true
   }
 ]

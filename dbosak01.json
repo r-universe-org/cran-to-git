@@ -1,5 +1,11 @@
 [
   {
+    "package": "ards",
+    "maintainer": "David Bosak <dbosak01@gmail.com>",
+    "url": "https://github.com/dbosak01/ards",
+    "available": true
+  },
+  {
     "package": "common",
     "maintainer": "David Bosak <dbosak01@gmail.com>",
     "url": "https://github.com/dbosak01/common",
