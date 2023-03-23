@@ -18,6 +18,11 @@
     "available": true
   },
   {
+    "package": "emdist",
+    "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
+    "url": "https://github.com/cran/emdist"
+  },
+  {
     "package": "fastmatch",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
     "url": "https://github.com/s-u/fastmatch",

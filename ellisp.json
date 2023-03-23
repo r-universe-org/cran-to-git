@@ -14,6 +14,11 @@
     "available": true
   },
   {
+    "package": "nzelect",
+    "maintainer": "Peter Ellis <peter.ellis2013nz@gmail.com>",
+    "url": "https://github.com/cran/nzelect"
+  },
+  {
     "package": "Tcomp",
     "maintainer": "Peter Ellis <peter.ellis2013nz@gmail.com>",
     "url": "https://github.com/ellisp/tcomp-r-package",

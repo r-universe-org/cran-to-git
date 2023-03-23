@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "clustertend",
+    "maintainer": "Kevin Wright <kw.stat@gmail.com>",
+    "url": "https://github.com/cran/clustertend"
+  },
+  {
     "package": "corrgram",
     "maintainer": "Kevin Wright <kw.stat@gmail.com>",
     "url": "https://github.com/kwstat/corrgram",
@@ -64,5 +69,10 @@
     "maintainer": "Kevin Wright <kw.stat@gmail.com>",
     "url": "https://github.com/kwstat/pals",
     "available": true
+  },
+  {
+    "package": "rseedcalc",
+    "maintainer": "Kevin Wright <kw.stat@gmail.com>",
+    "url": "https://github.com/cran/rseedcalc"
   }
 ]

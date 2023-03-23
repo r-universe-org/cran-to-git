@@ -1,5 +1,15 @@
 [
   {
+    "package": "BioMark",
+    "maintainer": "Ron Wehrens <ron.wehrens@gmail.com>",
+    "url": "https://github.com/cran/BioMark"
+  },
+  {
+    "package": "kohonen",
+    "maintainer": "Ron Wehrens <ron.wehrens@gmail.com>",
+    "url": "https://github.com/cran/kohonen"
+  },
+  {
     "package": "ptw",
     "maintainer": "Ron Wehrens <ron.wehrens@gmail.com>",
     "url": "https://github.com/rwehrens/ptw",

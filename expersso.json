@@ -1,5 +1,10 @@
 [
   {
+    "package": "ecb",
+    "maintainer": "Eric Persson <expersso5@gmail.com>",
+    "url": "https://github.com/cran/ecb"
+  },
+  {
     "package": "maddison",
     "maintainer": "Eric Persson <expersso5@gmail.com>",
     "url": "https://github.com/expersso/maddison",

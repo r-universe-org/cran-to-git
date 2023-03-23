@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "jquerylib",
+    "maintainer": "Carson Sievert <carson@rstudio.com>",
+    "url": "https://github.com/cran/jquerylib"
+  },
+  {
     "package": "LDAvis",
     "maintainer": "Carson Sievert <cpsievert1@gmail.com>",
     "url": "https://github.com/cpsievert/ldavis",

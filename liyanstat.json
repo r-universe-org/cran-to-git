@@ -1,5 +1,10 @@
 [
   {
+    "package": "fmerPack",
+    "maintainer": "Yan Li <yan.4.li@uconn.edu>",
+    "url": "https://github.com/cran/fmerPack"
+  },
+  {
     "package": "tls",
     "maintainer": "Yan Li <yan.4.li@uconn.edu>",
     "url": "https://github.com/liyanstat/tls",

@@ -1,5 +1,10 @@
 [
   {
+    "package": "galigor",
+    "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
+    "url": "https://github.com/cran/galigor"
+  },
+  {
     "package": "getProxy",
     "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
     "url": "https://github.com/selesnow/getproxy",

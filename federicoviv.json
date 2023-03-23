@@ -1,8 +1,18 @@
 [
   {
+    "package": "Convolutioner",
+    "maintainer": "Federico Maria Vivaldi <federico-vivaldi@virgilio.it>",
+    "url": "https://github.com/cran/Convolutioner"
+  },
+  {
     "package": "EleChemr",
     "maintainer": "Federico Maria Vivaldi <federico-vivaldi@virgilio.it>",
     "url": "https://github.com/federicoviv/elechemr",
     "available": true
+  },
+  {
+    "package": "SIPETool",
+    "maintainer": "Federico Vivaldi <federico-vivaldi@virgilio.it>",
+    "url": "https://github.com/cran/SIPETool"
   }
 ]

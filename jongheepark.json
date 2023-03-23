@@ -1,5 +1,10 @@
 [
   {
+    "package": "MCMCpack",
+    "maintainer": "Jong Hee Park <jongheepark@snu.ac.kr>",
+    "url": "https://github.com/cran/MCMCpack"
+  },
+  {
     "package": "NetworkChange",
     "maintainer": "Jong Hee Park <jongheepark@snu.ac.kr>",
     "url": "https://github.com/jongheepark/networkchange",

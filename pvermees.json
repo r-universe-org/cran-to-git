@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "geostats",
+    "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
+    "url": "https://github.com/cran/geostats"
+  },
+  {
     "package": "IsoplotR",
     "maintainer": "Pieter Vermeesch <p.vermeesch@ucl.ac.uk>",
     "url": "https://github.com/pvermees/isoplotr",

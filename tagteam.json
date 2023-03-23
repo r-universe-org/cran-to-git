@@ -22,5 +22,10 @@
     "maintainer": "Thomas Alexander Gerds <tag@biostat.ku.dk>",
     "url": "https://github.com/tagteam/riskregression",
     "available": true
+  },
+  {
+    "package": "SmoothHazard",
+    "maintainer": "Thomas Alexander Gerds <tag@biostat.ku.dk>",
+    "url": "https://github.com/cran/SmoothHazard"
   }
 ]

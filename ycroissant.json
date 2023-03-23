@@ -1,5 +1,10 @@
 [
   {
+    "package": "cmtest",
+    "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
+    "url": "https://github.com/cran/cmtest"
+  },
+  {
     "package": "descstat",
     "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
     "url": "https://github.com/ycroissant/descstat",
@@ -16,6 +21,11 @@
     "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
     "url": "https://github.com/ycroissant/mhurdle",
     "available": true
+  },
+  {
+    "package": "pder",
+    "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
+    "url": "https://github.com/cran/pder"
   },
   {
     "package": "pglm",

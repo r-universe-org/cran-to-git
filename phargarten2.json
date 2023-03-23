@@ -1,5 +1,10 @@
 [
   {
+    "package": "condTruncMVN",
+    "maintainer": "Paul M. Hargarten <hargartenp@vcu.edu>",
+    "url": "https://github.com/cran/condTruncMVN"
+  },
+  {
     "package": "matrixNormal",
     "maintainer": "Paul M. Hargarten <hargartenp@alumni.vcu.edu>",
     "url": "https://github.com/phargarten2/matrixnormal",

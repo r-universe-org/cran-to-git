@@ -1,5 +1,29 @@
 [
   {
+    "package": "epivizr",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/epivizr",
+    "registry": "bioc"
+  },
+  {
+    "package": "epivizrChart",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/epivizrChart",
+    "registry": "bioc"
+  },
+  {
+    "package": "epivizrStandalone",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/epivizrStandalone",
+    "registry": "bioc"
+  },
+  {
+    "package": "metavizr",
+    "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/metavizr",
+    "registry": "bioc"
+  },
+  {
     "package": "Rcsdp",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcorrada/rcsdp",

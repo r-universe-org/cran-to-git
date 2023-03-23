@@ -1,5 +1,10 @@
 [
   {
+    "package": "FKSUM",
+    "maintainer": "David P. Hofmeyr <dhofmeyr@sun.ac.za>",
+    "url": "https://github.com/cran/FKSUM"
+  },
+  {
     "package": "PPCI",
     "maintainer": "David Hofmeyr <dhofmeyr@sun.ac.za>",
     "url": "https://github.com/davidhofmeyr/ppci",

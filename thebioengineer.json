@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "gto",
+    "maintainer": "Ellis Hughes <ellis.h.hughes@gsk.com>",
+    "url": "https://github.com/cran/gto"
+  },
+  {
     "package": "tidytuesdayR",
     "maintainer": "Ellis Hughes <ellishughes@live.com>",
     "url": "https://github.com/thebioengineer/tidytuesdayr",

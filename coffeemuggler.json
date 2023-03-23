@@ -1,5 +1,10 @@
 [
   {
+    "package": "caTools",
+    "maintainer": "Michael Dietze <mdietze@gfz-potsdam.de>",
+    "url": "https://github.com/cran/caTools"
+  },
+  {
     "package": "EMMAgeo",
     "maintainer": "Michael Dietze <mdietze@gfz-potsdam.de>",
     "url": "https://github.com/coffeemuggler/emmageo",

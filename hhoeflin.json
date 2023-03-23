@@ -6,9 +6,19 @@
     "available": true
   },
   {
+    "package": "flsa",
+    "maintainer": "Holger Hoefling <hhoeflin@gmail.com>",
+    "url": "https://github.com/cran/flsa"
+  },
+  {
     "package": "hdf5r",
     "maintainer": "Holger Hoefling <hhoeflin@gmail.com>",
     "url": "https://github.com/hhoeflin/hdf5r",
     "available": true
+  },
+  {
+    "package": "neariso",
+    "maintainer": "Holger Hoefling <hhoeflin@gmail.com>",
+    "url": "https://github.com/cran/neariso"
   }
 ]

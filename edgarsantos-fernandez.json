@@ -1,5 +1,15 @@
 [
   {
+    "package": "MPCI",
+    "maintainer": "Edgar Santos-Fernandez <edgar.santosfdez@gmail.com>",
+    "url": "https://github.com/cran/MPCI"
+  },
+  {
+    "package": "MSQC",
+    "maintainer": "Edgar Santos-Fernandez <edgar.santosfdez@gmail.com>",
+    "url": "https://github.com/cran/MSQC"
+  },
+  {
     "package": "SSNbayes",
     "maintainer": "Edgar Santos-Fernandez <santosfe@qut.edu.au>",
     "url": "https://github.com/edgarsantos-fernandez/ssnbayes",

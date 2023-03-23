@@ -1,5 +1,10 @@
 [
   {
+    "package": "ahw",
+    "maintainer": "Pål Christie Ryalen <p.c.ryalen@medisin.uio.no>",
+    "url": "https://github.com/cran/ahw"
+  },
+  {
     "package": "transform.hazards",
     "maintainer": "Pål Christie Ryalen <p.c.ryalen@medisin.uio.no>",
     "url": "https://github.com/palryalen/transform.hazards",

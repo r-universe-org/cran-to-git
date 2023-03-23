@@ -4,5 +4,15 @@
     "maintainer": "Aaron Olsen <aarolsen@gmail.com>",
     "url": "https://github.com/aaronolsen/bezier",
     "available": true
+  },
+  {
+    "package": "StereoMorph",
+    "maintainer": "Aaron Olsen <aarolsen@gmail.com>",
+    "url": "https://github.com/cran/StereoMorph"
+  },
+  {
+    "package": "svgViewR",
+    "maintainer": "Aaron M Olsen <aarolsen@gmail.com>",
+    "url": "https://github.com/cran/svgViewR"
   }
 ]

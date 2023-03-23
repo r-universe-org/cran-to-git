@@ -5,5 +5,22 @@
     "url": "https://github.com/markrobinsonuzh/damefinder",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "flagme",
+    "maintainer": "Mark Robinson <mark.robinson@imls.uzh.ch>",
+    "url": "https://git.bioconductor.org/packages/flagme",
+    "registry": "bioc"
+  },
+  {
+    "package": "gsmoothr",
+    "maintainer": "Mark Robinson <mark.robinson@imls.uzh.ch>",
+    "url": "https://github.com/cran/gsmoothr"
+  },
+  {
+    "package": "Repitools",
+    "maintainer": "Mark Robinson <mark.robinson@imls.uzh.ch>",
+    "url": "https://git.bioconductor.org/packages/Repitools",
+    "registry": "bioc"
   }
 ]

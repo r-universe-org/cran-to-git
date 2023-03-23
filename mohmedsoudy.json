@@ -1,8 +1,18 @@
 [
   {
+    "package": "MERO",
+    "maintainer": "Mohamed Soudy <MohmedSoudy2009@gmail.com>",
+    "url": "https://github.com/cran/MERO"
+  },
+  {
     "package": "ORTSC",
     "maintainer": "Mohamed Soudy <MohmedSoudy2009@gmail.com>",
     "url": "https://github.com/mohmedsoudy/ortsc",
     "available": true
+  },
+  {
+    "package": "ResearchAssociate",
+    "maintainer": "Mohamed Soudy <MohmedSoudy2009@gmail.com>",
+    "url": "https://github.com/cran/ResearchAssociate"
   }
 ]

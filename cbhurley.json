@@ -12,6 +12,16 @@
     "available": true
   },
   {
+    "package": "ERSA",
+    "maintainer": "Catherine B. Hurley <catherine.hurley@mu.ie>",
+    "url": "https://github.com/cran/ERSA"
+  },
+  {
+    "package": "gclus",
+    "maintainer": "Catherine Hurley <catherine.hurley@mu.ie>",
+    "url": "https://github.com/cran/gclus"
+  },
+  {
     "package": "PairViz",
     "maintainer": "Catherine Hurley <catherine.hurley@mu.ie>",
     "url": "https://github.com/cbhurley/pairviz",

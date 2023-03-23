@@ -1,5 +1,10 @@
 [
   {
+    "package": "opusminer",
+    "maintainer": "Christoph Bergmeir <christoph.bergmeir@monash.edu>",
+    "url": "https://github.com/cran/opusminer"
+  },
+  {
     "package": "Rlgt",
     "maintainer": "Christoph Bergmeir <christoph.bergmeir@monash.edu>",
     "url": "https://github.com/cbergmeir/rlgt",

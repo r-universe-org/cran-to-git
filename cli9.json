@@ -1,5 +1,15 @@
 [
   {
+    "package": "dipm",
+    "maintainer": "Cai Li <cai.li.stats@gmail.com>",
+    "url": "https://github.com/cran/dipm"
+  },
+  {
+    "package": "face",
+    "maintainer": "Cai Li <cai.li.stats@gmail.com>",
+    "url": "https://github.com/cran/face"
+  },
+  {
     "package": "mfaces",
     "maintainer": "Cai Li <cai.li.stats@gmail.com>",
     "url": "https://github.com/cli9/mfaces",

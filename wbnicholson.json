@@ -5,5 +5,10 @@
     "url": "https://github.com/wbnicholson/bigvar",
     "subdir": "BigVAR",
     "available": true
+  },
+  {
+    "package": "DTMCPack",
+    "maintainer": "William Nicholson<wbnicholson@gmail.com>",
+    "url": "https://github.com/cran/DTMCPack"
   }
 ]

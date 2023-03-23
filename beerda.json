@@ -6,6 +6,12 @@
     "available": true
   },
   {
+    "package": "paircompviz",
+    "maintainer": "Michal Burda <michal.burda@osu.cz>",
+    "url": "https://git.bioconductor.org/packages/paircompviz",
+    "registry": "bioc"
+  },
+  {
     "package": "rmake",
     "maintainer": "Michal Burda <michal.burda@osu.cz>",
     "url": "https://github.com/beerda/rmake",

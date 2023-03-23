@@ -1,5 +1,10 @@
 [
   {
+    "package": "mlapi",
+    "maintainer": "Dmitriy Selivanov <selivanov.dmitriy@gmail.com>",
+    "url": "https://github.com/cran/mlapi"
+  },
+  {
     "package": "sparsepp",
     "maintainer": "Dmitriy Selivanov <selivanov.dmitriy@gmail.com>",
     "url": "https://github.com/dselivanov/r-sparsepp",

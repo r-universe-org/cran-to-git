@@ -4,5 +4,10 @@
     "maintainer": "Yanming Di <diy@stat.oregonstate.edu>",
     "url": "https://github.com/diystat/nbpseq",
     "available": true
+  },
+  {
+    "package": "regsubseq",
+    "maintainer": "Yanming Di<diy@stat.oregonstate.edu>",
+    "url": "https://github.com/cran/regsubseq"
   }
 ]

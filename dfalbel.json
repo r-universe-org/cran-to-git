@@ -1,5 +1,15 @@
 [
   {
+    "package": "cloudml",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/cran/cloudml"
+  },
+  {
+    "package": "madgrad",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/cran/madgrad"
+  },
+  {
     "package": "ptwikiwords",
     "maintainer": "Daniel Falbel <dfalbel@gmail.com>",
     "url": "https://github.com/dfalbel/ptwikiwords",
@@ -10,5 +20,15 @@
     "maintainer": "Daniel Falbel <dfalbel@gmail.com>",
     "url": "https://github.com/dfalbel/rslp",
     "available": true
+  },
+  {
+    "package": "tfdeploy",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/cran/tfdeploy"
+  },
+  {
+    "package": "torchvisionlib",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/cran/torchvisionlib"
   }
 ]

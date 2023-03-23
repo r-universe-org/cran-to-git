@@ -1,0 +1,33 @@
+[
+  {
+    "package": "helloJavaWorld",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://github.com/cran/helloJavaWorld"
+  },
+  {
+    "package": "km.ci",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://github.com/cran/km.ci"
+  },
+  {
+    "package": "MLP",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://git.bioconductor.org/packages/MLP",
+    "registry": "bioc"
+  },
+  {
+    "package": "RSBJson",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://github.com/cran/RSBJson"
+  },
+  {
+    "package": "SDaA",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://github.com/cran/SDaA"
+  },
+  {
+    "package": "SMCRM",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
+    "url": "https://github.com/cran/SMCRM"
+  }
+]

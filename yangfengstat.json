@@ -1,5 +1,25 @@
 [
   {
+    "package": "nproc",
+    "maintainer": "Yang Feng <yangfengstat@gmail.com>",
+    "url": "https://github.com/cran/nproc"
+  },
+  {
+    "package": "pgraph",
+    "maintainer": "Yang Feng <yangfengstat@gmail.com>",
+    "url": "https://github.com/cran/pgraph"
+  },
+  {
+    "package": "r02pro",
+    "maintainer": "Yang Feng <yangfengstat@gmail.com>",
+    "url": "https://github.com/cran/r02pro"
+  },
+  {
+    "package": "RAMP",
+    "maintainer": "Yang Feng <yangfengstat@gmail.com>",
+    "url": "https://github.com/cran/RAMP"
+  },
+  {
     "package": "SIS",
     "maintainer": "Yang Feng <yangfengstat@gmail.com>",
     "url": "https://github.com/yangfengstat/sis",

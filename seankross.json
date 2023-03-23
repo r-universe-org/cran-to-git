@@ -12,6 +12,16 @@
     "available": true
   },
   {
+    "package": "swirl",
+    "maintainer": "Sean Kross <sean@seankross.com>",
+    "url": "https://github.com/cran/swirl"
+  },
+  {
+    "package": "swirlify",
+    "maintainer": "Sean Kross <sean@seankross.com>",
+    "url": "https://github.com/cran/swirlify"
+  },
+  {
     "package": "tidydatatutor",
     "maintainer": "Sean Kross <sean@seankross.com>",
     "url": "https://github.com/seankross/tidydatatutor",

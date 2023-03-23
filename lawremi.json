@@ -1,5 +1,11 @@
 [
   {
+    "package": "biovizBase",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://git.bioconductor.org/packages/biovizBase",
+    "registry": "bioc"
+  },
+  {
     "package": "ggbio",
     "maintainer": "Michael Lawrence <michafla@gene.com>",
     "url": "https://github.com/lawremi/ggbio",
@@ -14,10 +20,32 @@
     "registry": "bioc"
   },
   {
+    "package": "HelloRanges",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://git.bioconductor.org/packages/HelloRanges",
+    "registry": "bioc"
+  },
+  {
+    "package": "objectProperties",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/cran/objectProperties"
+  },
+  {
+    "package": "objectSignals",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://github.com/cran/objectSignals"
+  },
+  {
     "package": "restfulr",
     "maintainer": "Michael Lawrence <michafla@gene.com>",
     "url": "https://github.com/lawremi/restfulr",
     "available": true
+  },
+  {
+    "package": "rsbml",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://git.bioconductor.org/packages/rsbml",
+    "registry": "bioc"
   },
   {
     "package": "rsolr",
@@ -30,6 +58,12 @@
     "maintainer": "Michael Lawrence <michafla@gene.com>",
     "url": "https://github.com/lawremi/rtracklayer",
     "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "VariantTools",
+    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "url": "https://git.bioconductor.org/packages/VariantTools",
     "registry": "bioc"
   }
 ]

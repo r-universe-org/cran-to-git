@@ -1,8 +1,118 @@
 [
   {
+    "package": "AER",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/AER"
+  },
+  {
+    "package": "betareg",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/betareg"
+  },
+  {
+    "package": "ctv",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/ctv"
+  },
+  {
+    "package": "dynlm",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/dynlm"
+  },
+  {
+    "package": "exams",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/exams"
+  },
+  {
+    "package": "exams2learnr",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/exams2learnr"
+  },
+  {
+    "package": "Formula",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/Formula"
+  },
+  {
+    "package": "fortunes",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/fortunes"
+  },
+  {
+    "package": "fxregime",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/fxregime"
+  },
+  {
+    "package": "glmx",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/glmx"
+  },
+  {
+    "package": "glogis",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/glogis"
+  },
+  {
+    "package": "ineq",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/ineq"
+  },
+  {
     "package": "ivreg",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/zeileis/ivreg",
     "available": true
+  },
+  {
+    "package": "lagsarlmtree",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/lagsarlmtree"
+  },
+  {
+    "package": "lmtest",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/lmtest"
+  },
+  {
+    "package": "psychotools",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/psychotools"
+  },
+  {
+    "package": "psychotree",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/psychotree"
+  },
+  {
+    "package": "pwt",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/pwt"
+  },
+  {
+    "package": "pwt10",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/pwt10"
+  },
+  {
+    "package": "pwt8",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/pwt8"
+  },
+  {
+    "package": "pwt9",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/pwt9"
+  },
+  {
+    "package": "stablelearner",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/stablelearner"
+  },
+  {
+    "package": "strucchange",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/strucchange"
   }
 ]

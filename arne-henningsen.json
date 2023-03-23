@@ -1,8 +1,38 @@
 [
   {
+    "package": "micEcon",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/micEcon"
+  },
+  {
+    "package": "micEconAids",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/micEconAids"
+  },
+  {
+    "package": "micEconIndex",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/micEconIndex"
+  },
+  {
+    "package": "micEconSNQP",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/micEconSNQP"
+  },
+  {
     "package": "miscTools",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/arne-henningsen/misctools",
     "available": true
+  },
+  {
+    "package": "mvProbit",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/mvProbit"
+  },
+  {
+    "package": "sampleSelection",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/cran/sampleSelection"
   }
 ]

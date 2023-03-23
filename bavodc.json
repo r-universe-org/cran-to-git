@@ -1,5 +1,10 @@
 [
   {
+    "package": "actuaRE",
+    "maintainer": "Campo Bavo D.C. <bavo.decock@kuleuven.be>",
+    "url": "https://github.com/cran/actuaRE"
+  },
+  {
     "package": "CalibrationCurves",
     "maintainer": "De Cock Bavo <bavo.decock@kuleuven.be>",
     "url": "https://github.com/bavodc/calibrationcurves",

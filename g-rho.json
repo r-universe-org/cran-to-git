@@ -4,5 +4,15 @@
     "maintainer": "Gero Szepannek <gero.szepannek@web.de>",
     "url": "https://github.com/g-rho/clustmixtype",
     "available": true
+  },
+  {
+    "package": "hda",
+    "maintainer": "Gero Szepannek <gero.szepannek@web.de>",
+    "url": "https://github.com/cran/hda"
+  },
+  {
+    "package": "orclus",
+    "maintainer": "Gero Szepannek <gero.szepannek@web.de>",
+    "url": "https://github.com/cran/orclus"
   }
 ]

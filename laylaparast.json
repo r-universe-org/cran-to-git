@@ -1,9 +1,59 @@
 [
   {
+    "package": "CMFsurrogate",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/CMFsurrogate"
+  },
+  {
+    "package": "freebird",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/freebird"
+  },
+  {
+    "package": "hetsurr",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/hetsurr"
+  },
+  {
     "package": "hettest",
     "maintainer": "Layla Parast <parast@austin.utexas.edu>",
     "url": "https://github.com/laylaparast/hettest",
     "available": true
+  },
+  {
+    "package": "landest",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/landest"
+  },
+  {
+    "package": "landmix",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/landmix"
+  },
+  {
+    "package": "landpred",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/landpred"
+  },
+  {
+    "package": "longsurr",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/longsurr"
+  },
+  {
+    "package": "OptimalSurrogate",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/OptimalSurrogate"
+  },
+  {
+    "package": "OSsurvival",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/OSsurvival"
+  },
+  {
+    "package": "PTERP",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/PTERP"
   },
   {
     "package": "Rsurrogate",
@@ -16,5 +66,15 @@
     "maintainer": "Layla Parast <parast@austin.utexas.edu>",
     "url": "https://github.com/laylaparast/sbdecomp",
     "available": true
+  },
+  {
+    "package": "SurrogateOutcome",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/SurrogateOutcome"
+  },
+  {
+    "package": "SurrogateTest",
+    "maintainer": "Layla Parast <parast@austin.utexas.edu>",
+    "url": "https://github.com/cran/SurrogateTest"
   }
 ]

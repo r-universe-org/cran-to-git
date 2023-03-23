@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "dbWebForms",
+    "maintainer": "Timothy Conwell <timconwell@gmail.com>",
+    "url": "https://github.com/cran/dbWebForms"
+  },
+  {
     "package": "html5",
     "maintainer": "Timothy Conwell <timconwell@gmail.com>",
     "url": "https://github.com/tconwell/html5",
@@ -16,6 +21,11 @@
     "maintainer": "Timothy Conwell <timconwell@gmail.com>",
     "url": "https://github.com/tconwell/pgtools",
     "available": true
+  },
+  {
+    "package": "textTools",
+    "maintainer": "Timothy Conwell <timconwell@gmail.com>",
+    "url": "https://github.com/cran/textTools"
   },
   {
     "package": "toolbox",

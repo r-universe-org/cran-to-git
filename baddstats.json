@@ -18,6 +18,16 @@
     "available": true
   },
   {
+    "package": "scuba",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/cran/scuba"
+  },
+  {
+    "package": "spatstat.gui",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/cran/spatstat.gui"
+  },
+  {
     "package": "spatstat.local",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/baddstats/spatstat.local",

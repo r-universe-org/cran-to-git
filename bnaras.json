@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "banditpam",
+    "maintainer": "Balasubramanian Narasimhan <naras@stanford.edu>",
+    "url": "https://github.com/cran/banditpam"
+  },
+  {
     "package": "bcaboot",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.stanford.edu>",
     "url": "https://github.com/bnaras/bcaboot",
@@ -40,6 +45,16 @@
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
     "url": "https://github.com/bnaras/homomorpher",
     "available": true
+  },
+  {
+    "package": "multiview",
+    "maintainer": "Balasubramanian Narasimhan <naras@stanford.edu>",
+    "url": "https://github.com/cran/multiview"
+  },
+  {
+    "package": "osqp",
+    "maintainer": "Balasubramanian Narasimhan <naras@stanford.edu>",
+    "url": "https://github.com/cran/osqp"
   },
   {
     "package": "PMA",

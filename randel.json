@@ -1,5 +1,10 @@
 [
   {
+    "package": "GMAC",
+    "maintainer": "Jiebiao Wang <randel.wang@gmail.com>",
+    "url": "https://github.com/cran/GMAC"
+  },
+  {
     "package": "MixRF",
     "maintainer": "Jiebiao Wang <randel.wang@gmail.com>",
     "url": "https://github.com/randel/mixrf",

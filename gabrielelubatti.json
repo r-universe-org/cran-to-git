@@ -1,8 +1,18 @@
 [
   {
+    "package": "CIARA",
+    "maintainer": "Gabriele Lubatti\n<gabriele.lubatti@helmholtz-muenchen.de>",
+    "url": "https://github.com/cran/CIARA"
+  },
+  {
     "package": "MitoHEAR",
     "maintainer": "Gabriele Lubatti <gabriele.lubatti@helmholtz-muenchen.de>",
     "url": "https://github.com/gabrielelubatti/mitohear",
     "available": true
+  },
+  {
+    "package": "WOTPLY",
+    "maintainer": "Gabriele Lubatti <gabriele.lubatti@helmholtz-muenchen.de>",
+    "url": "https://github.com/cran/WOTPLY"
   }
 ]

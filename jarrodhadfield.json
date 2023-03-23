@@ -1,5 +1,11 @@
 [
   {
+    "package": "MasterBayes",
+    "maintainer": "Jarrod Hadfield <j.hadfield@ed.ac.uk>",
+    "url": "https://github.com/cran/MasterBayes",
+    "registry": "archived"
+  },
+  {
     "package": "MCMCglmm",
     "maintainer": "Jarrod Hadfield <j.hadfield@ed.ac.uk>",
     "url": "https://github.com/jarrodhadfield/mcmcglmm",

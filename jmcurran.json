@@ -1,5 +1,10 @@
 [
   {
+    "package": "Bolstad",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/cran/Bolstad"
+  },
+  {
     "package": "Bolstad2",
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/bolstad2",
@@ -11,6 +16,11 @@
     "maintainer": "James Curran <j.curran@auckland.ac.nz>",
     "url": "https://github.com/jmcurran/comparison",
     "available": true
+  },
+  {
+    "package": "dafs",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/cran/dafs"
   },
   {
     "package": "fitPS",
@@ -42,5 +52,20 @@
     "url": "https://github.com/jmcurran/multimix",
     "subdir": "multimix",
     "available": true
+  },
+  {
+    "package": "relSim",
+    "maintainer": "James M. Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/cran/relSim"
+  },
+  {
+    "package": "s20x",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/cran/s20x"
+  },
+  {
+    "package": "tfer",
+    "maintainer": "James Curran <j.curran@auckland.ac.nz>",
+    "url": "https://github.com/cran/tfer"
   }
 ]

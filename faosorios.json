@@ -11,5 +11,15 @@
     "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
     "url": "https://github.com/faosorios/l1pack",
     "available": true
+  },
+  {
+    "package": "MVT",
+    "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
+    "url": "https://github.com/cran/MVT"
+  },
+  {
+    "package": "SpatialPack",
+    "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
+    "url": "https://github.com/cran/SpatialPack"
   }
 ]

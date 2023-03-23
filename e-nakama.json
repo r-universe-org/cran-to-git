@@ -1,5 +1,10 @@
 [
   {
+    "package": "RhpcBLASctl",
+    "maintainer": "Ei-ji Nakama <nakama@ki.rim.or.jp>",
+    "url": "https://github.com/cran/RhpcBLASctl"
+  },
+  {
     "package": "Rrdrand",
     "maintainer": "Ei-ji Nakama <nakama@ki.rim.or.jp>",
     "url": "https://github.com/e-nakama/rrdrand",

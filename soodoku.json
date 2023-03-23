@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "aws.alexa",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://github.com/cran/aws.alexa"
+  },
+  {
     "package": "captr",
     "maintainer": "Gaurav Sood <gsood07@gmail.com>",
     "url": "https://github.com/soodoku/captr",
@@ -22,6 +27,11 @@
     "maintainer": "Gaurav Sood <gsood07@gmail.com>",
     "url": "https://github.com/soodoku/guess",
     "available": true
+  },
+  {
+    "package": "rdomains",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://github.com/cran/rdomains"
   },
   {
     "package": "tuber",

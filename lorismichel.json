@@ -1,5 +1,10 @@
 [
   {
+    "package": "drf",
+    "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/drf"
+  },
+  {
     "package": "HPLB",
     "maintainer": "Loris Michel <michel@stat.math.ethz.ch>",
     "url": "https://github.com/lorismichel/hplb",

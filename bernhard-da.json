@@ -1,8 +1,18 @@
 [
   {
+    "package": "cellKey",
+    "maintainer": "Bernhard Meindl <bernhard.meindl@statistik.gv.at>",
+    "url": "https://github.com/cran/cellKey"
+  },
+  {
     "package": "sdcHierarchies",
     "maintainer": "Bernhard Meindl <Bernhard.Meindl@statistik.gv.at>",
     "url": "https://github.com/bernhard-da/sdchierarchies",
     "available": true
+  },
+  {
+    "package": "sdcTable",
+    "maintainer": "Bernhard Meindl <bernhard.meindl@gmail.com>",
+    "url": "https://github.com/cran/sdcTable"
   }
 ]

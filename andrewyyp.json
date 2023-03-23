@@ -1,5 +1,20 @@
 [
   {
+    "package": "ivsacim",
+    "maintainer": "Andrew Ying <aying9339@gmail.com>",
+    "url": "https://github.com/cran/ivsacim"
+  },
+  {
+    "package": "NMMIPW",
+    "maintainer": "Andrew Ying <aying9339@gmail.com>",
+    "url": "https://github.com/cran/NMMIPW"
+  },
+  {
+    "package": "PCL",
+    "maintainer": "Andrew Ying <aying9339@gmail.com>",
+    "url": "https://github.com/cran/PCL"
+  },
+  {
     "package": "tsriadditive",
     "maintainer": "Andrew Ying <aying9339@gmail.com>",
     "url": "https://github.com/andrewyyp/tsriadditive",

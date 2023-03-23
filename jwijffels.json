@@ -1,8 +1,28 @@
 [
   {
+    "package": "dlib",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/cran/dlib"
+  },
+  {
     "package": "ETLUtils",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/jwijffels/etlutils",
     "available": true
+  },
+  {
+    "package": "RMOA",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/cran/RMOA"
+  },
+  {
+    "package": "RMOAjars",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/cran/RMOAjars"
+  },
+  {
+    "package": "topicmodels.etm",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/cran/topicmodels.etm"
   }
 ]

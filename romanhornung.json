@@ -1,9 +1,30 @@
 [
   {
+    "package": "bapred",
+    "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
+    "url": "https://github.com/cran/bapred"
+  },
+  {
+    "package": "CMA",
+    "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
+    "url": "https://git.bioconductor.org/packages/CMA",
+    "registry": "bioc"
+  },
+  {
     "package": "diversityForest",
     "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
     "url": "https://github.com/romanhornung/diversityforest",
     "available": true
+  },
+  {
+    "package": "ordinalForest",
+    "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
+    "url": "https://github.com/cran/ordinalForest"
+  },
+  {
+    "package": "prioritylasso",
+    "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
+    "url": "https://github.com/cran/prioritylasso"
   },
   {
     "package": "rfvimptest",

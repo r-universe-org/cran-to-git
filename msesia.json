@@ -1,5 +1,10 @@
 [
   {
+    "package": "knockoff",
+    "maintainer": "Matteo Sesia <sesia@marshall.usc.edu>",
+    "url": "https://github.com/cran/knockoff"
+  },
+  {
     "package": "SNPknock",
     "maintainer": "Matteo Sesia <msesia@stanford.edu>",
     "url": "https://github.com/msesia/snpknock",

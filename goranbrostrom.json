@@ -4,5 +4,10 @@
     "maintainer": "Göran Broström <goran.brostrom@umu.se>",
     "url": "https://github.com/goranbrostrom/eha",
     "available": true
+  },
+  {
+    "package": "glmmML",
+    "maintainer": "Göran Broström <goran.brostrom@umu.se>",
+    "url": "https://github.com/cran/glmmML"
   }
 ]

@@ -4,5 +4,10 @@
     "maintainer": "Florian Detsch <fdetsch@web.de>",
     "url": "https://github.com/fdetsch/orcs",
     "available": true
+  },
+  {
+    "package": "satellite",
+    "maintainer": "Florian Detsch <fdetsch@web.de>",
+    "url": "https://github.com/cran/satellite"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "package": "decomposedPSF",
+    "maintainer": "Neeraj Bokde <neerajdhanraj@gmail.com>",
+    "url": "https://github.com/cran/decomposedPSF"
+  },
+  {
     "package": "ForecastTB",
     "maintainer": "Neeraj Dhanraj Bokde <neerajdhanraj@gmail.com>",
     "url": "https://github.com/neerajdhanraj/forecasttb",
@@ -22,5 +27,10 @@
     "maintainer": "Neeraj Bokde <neerajdhanraj@gmail.com>",
     "url": "https://github.com/neerajdhanraj/psf",
     "available": true
+  },
+  {
+    "package": "WindCurves",
+    "maintainer": "Neeraj Bokde <neerajdhanraj@gmail.com>",
+    "url": "https://github.com/cran/WindCurves"
   }
 ]

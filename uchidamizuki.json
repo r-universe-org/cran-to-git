@@ -6,6 +6,16 @@
     "available": true
   },
   {
+    "package": "japanmesh",
+    "maintainer": "Mizuki Uchida <uchidamizuki@vivaldi.net>",
+    "url": "https://github.com/cran/japanmesh"
+  },
+  {
+    "package": "japanstat",
+    "maintainer": "Mizuki Uchida <uchidamizuki@vivaldi.net>",
+    "url": "https://github.com/cran/japanstat"
+  },
+  {
     "package": "jpgrid",
     "maintainer": "Mizuki Uchida <uchidamizuki@vivaldi.net>",
     "url": "https://github.com/uchidamizuki/jpgrid",

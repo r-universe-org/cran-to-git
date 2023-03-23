@@ -1,5 +1,15 @@
 [
   {
+    "package": "CATTexact",
+    "maintainer": "Dominic Edelmann <dominic.edelmann@dkfz-heidelberg.de>",
+    "url": "https://github.com/cran/CATTexact"
+  },
+  {
+    "package": "dcortools",
+    "maintainer": "Dominic Edelmann <dominic.edelmann@dkfz-heidelberg.de>",
+    "url": "https://github.com/cran/dcortools"
+  },
+  {
     "package": "hctrial",
     "maintainer": "Dominic Edelmann <dominic.edelmann@dkfz-heidelberg.de>",
     "url": "https://github.com/edelmand21/hctrial",

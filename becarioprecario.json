@@ -4,5 +4,20 @@
     "maintainer": "Virgilio Gómez-Rubio <Virgilio.Gomez@uclm.es>",
     "url": "https://github.com/becarioprecario/dcluster",
     "available": true
+  },
+  {
+    "package": "DClusterm",
+    "maintainer": "Virgilio Gomez-Rubio <virgilio.gomez@uclm.es>",
+    "url": "https://github.com/cran/DClusterm"
+  },
+  {
+    "package": "INLABMA",
+    "maintainer": "Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>",
+    "url": "https://github.com/cran/INLABMA"
+  },
+  {
+    "package": "RGIFT",
+    "maintainer": "Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>",
+    "url": "https://github.com/cran/RGIFT"
   }
 ]

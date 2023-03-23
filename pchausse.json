@@ -4,5 +4,10 @@
     "maintainer": "Pierre Chausse <pchausse@uwaterloo.ca>",
     "url": "https://github.com/pchausse/gmm",
     "available": true
+  },
+  {
+    "package": "momentfit",
+    "maintainer": "Pierre Chausse <pchausse@uwaterloo.ca>",
+    "url": "https://github.com/cran/momentfit"
   }
 ]

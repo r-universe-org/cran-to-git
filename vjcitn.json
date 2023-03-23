@@ -1,9 +1,21 @@
 [
   {
+    "package": "affyContam",
+    "maintainer": "V. Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/affyContam",
+    "registry": "bioc"
+  },
+  {
     "package": "AnVILBilling",
     "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/anvilbilling",
     "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "arrayMvout",
+    "maintainer": "V. Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/arrayMvout",
     "registry": "bioc"
   },
   {
@@ -28,10 +40,81 @@
     "registry": "bioc"
   },
   {
+    "package": "combinat",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/cran/combinat"
+  },
+  {
+    "package": "erma",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/erma",
+    "registry": "bioc"
+  },
+  {
+    "package": "gwascat",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/gwascat",
+    "registry": "bioc"
+  },
+  {
+    "package": "hmdbQuery",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/hmdbQuery",
+    "registry": "bioc"
+  },
+  {
+    "package": "HumanTranscriptomeCompendium",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/HumanTranscriptomeCompendium",
+    "registry": "bioc"
+  },
+  {
+    "package": "ivygapSE",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/ivygapSE",
+    "registry": "bioc"
+  },
+  {
+    "package": "keggorthology",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/keggorthology",
+    "registry": "bioc"
+  },
+  {
+    "package": "ldblock",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/ldblock",
+    "registry": "bioc"
+  },
+  {
+    "package": "MLInterfaces",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/MLInterfaces",
+    "registry": "bioc"
+  },
+  {
     "package": "ontoProc",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/ontoproc",
     "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "parglms",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/parglms",
+    "registry": "bioc"
+  },
+  {
+    "package": "parody",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/parody",
+    "registry": "bioc"
+  },
+  {
+    "package": "pathRender",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/pathRender",
     "registry": "bioc"
   },
   {
@@ -42,10 +125,46 @@
     "registry": "bioc"
   },
   {
+    "package": "RbcBook1",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/RbcBook1",
+    "registry": "bioc"
+  },
+  {
     "package": "rhdf5client",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/rhdf5client",
     "available": true,
+    "registry": "bioc"
+  },
+  {
+    "package": "ROC",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/ROC",
+    "registry": "bioc"
+  },
+  {
+    "package": "ssrch",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/ssrch",
+    "registry": "bioc"
+  },
+  {
+    "package": "tenXplore",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/tenXplore",
+    "registry": "bioc"
+  },
+  {
+    "package": "TFutils",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/TFutils",
+    "registry": "bioc"
+  },
+  {
+    "package": "vtpnet",
+    "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
+    "url": "https://git.bioconductor.org/packages/vtpnet",
     "registry": "bioc"
   }
 ]

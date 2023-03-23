@@ -1,5 +1,15 @@
 [
   {
+    "package": "CompAREdesign",
+    "maintainer": "Marta Bofill Roig <marta.bofillroig@meduniwien.ac.at>",
+    "url": "https://github.com/cran/CompAREdesign"
+  },
+  {
+    "package": "eselect",
+    "maintainer": "Marta Bofill Roig <marta.bofillroig@meduniwien.ac.at>",
+    "url": "https://github.com/cran/eselect"
+  },
+  {
     "package": "survmixer",
     "maintainer": "Marta Bofill Roig <marta.bofillroig@meduniwien.ac.at>",
     "url": "https://github.com/martabofillroig/survmixer",

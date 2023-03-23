@@ -7,6 +7,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Dune",
+    "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
+    "url": "https://git.bioconductor.org/packages/Dune",
+    "registry": "bioc"
+  },
+  {
     "package": "Ecume",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://github.com/hectorrdb/ecume",

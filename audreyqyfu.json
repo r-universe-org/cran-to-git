@@ -1,8 +1,23 @@
 [
   {
+    "package": "cancerGI",
+    "maintainer": "Audrey Q. Fu <audreyqyfu@gmail.com>",
+    "url": "https://github.com/cran/cancerGI"
+  },
+  {
+    "package": "DIRECT",
+    "maintainer": "Audrey Q. Fu <audreyqyfu@gmail.com>",
+    "url": "https://github.com/cran/DIRECT"
+  },
+  {
     "package": "MRPC",
     "maintainer": "Audrey Fu <audreyqyfu@gmail.com>",
     "url": "https://github.com/audreyqyfu/mrpc",
     "available": true
+  },
+  {
+    "package": "noise",
+    "maintainer": "Audrey Q. Fu <audreyqyfu@gmail.com>",
+    "url": "https://github.com/cran/noise"
   }
 ]

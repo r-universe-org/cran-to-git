@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "CARBayesdata",
+    "maintainer": "Duncan Lee <Duncan.Lee@glasgow.ac.uk>",
+    "url": "https://github.com/cran/CARBayesdata"
+  },
+  {
     "package": "CARBayesST",
     "maintainer": "Duncan Lee <Duncan.Lee@glasgow.ac.uk>",
     "url": "https://github.com/duncanplee/carbayesst",

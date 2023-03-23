@@ -1,5 +1,15 @@
 [
   {
+    "package": "archetypal",
+    "maintainer": "Demetris Christopoulos <dchristop@econ.uoa.gr>",
+    "url": "https://github.com/cran/archetypal"
+  },
+  {
+    "package": "inflection",
+    "maintainer": "Demetris T. Christopoulos <dchristop@econ.uoa.gr>",
+    "url": "https://github.com/cran/inflection"
+  },
+  {
     "package": "RootsExtremaInflections",
     "maintainer": "Demetris T. Christopoulos <dchristop@econ.uoa.gr>",
     "url": "https://github.com/dchristop/rootsextremainflections",

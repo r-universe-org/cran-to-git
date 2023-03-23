@@ -12,6 +12,11 @@
     "available": true
   },
   {
+    "package": "isdals",
+    "maintainer": "Claus Ekstrom <ekstrom@sund.ku.dk>",
+    "url": "https://github.com/cran/isdals"
+  },
+  {
     "package": "MESS",
     "maintainer": "Claus Thorn Ekstrøm <claus@rprimer.dk>",
     "url": "https://github.com/ekstroem/mess",
@@ -34,5 +39,10 @@
     "maintainer": "Claus Thorn Ekstrøm <ekstrom@sund.ku.dk>",
     "url": "https://github.com/ekstroem/soccer",
     "available": true
+  },
+  {
+    "package": "SuperRanker",
+    "maintainer": "Claus Thorn Ekstrøm <ekstrom@sund.ku.dk>",
+    "url": "https://github.com/cran/SuperRanker"
   }
 ]

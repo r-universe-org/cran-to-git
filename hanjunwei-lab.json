@@ -1,5 +1,15 @@
 [
   {
+    "package": "DrugSim2DR",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/cran/DrugSim2DR"
+  },
+  {
+    "package": "DRviaSPCN",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/cran/DRviaSPCN"
+  },
+  {
     "package": "DTSEA",
     "maintainer": "Junwei Han <hanjunwei1981@163.com>",
     "url": "https://github.com/hanjunwei-lab/dtsea",
@@ -22,6 +32,11 @@
     "maintainer": "Junwei Han <hanjunwei1981@163.com>",
     "url": "https://github.com/hanjunwei-lab/mirsea",
     "available": true
+  },
+  {
+    "package": "pathwayTMB",
+    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
+    "url": "https://github.com/cran/pathwayTMB"
   },
   {
     "package": "PMAPscore",

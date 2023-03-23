@@ -1,5 +1,11 @@
 [
   {
+    "package": "ccmap",
+    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/ccmap",
+    "registry": "bioc"
+  },
+  {
     "package": "crossmeta",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/crossmeta",

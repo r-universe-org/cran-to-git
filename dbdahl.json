@@ -1,10 +1,30 @@
 [
   {
+    "package": "aibd",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/aibd"
+  },
+  {
+    "package": "bamboo",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/bamboo"
+  },
+  {
     "package": "cargo",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/cargo-framework",
     "subdir": "cargo",
     "available": true
+  },
+  {
+    "package": "caviarpd",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/caviarpd"
+  },
+  {
+    "package": "commonsMath",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/commonsMath"
   },
   {
     "package": "fangs",
@@ -14,10 +34,25 @@
     "available": true
   },
   {
+    "package": "rscala",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/rscala"
+  },
+  {
     "package": "salso",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/salso",
     "subdir": "salso",
     "available": true
+  },
+  {
+    "package": "sams",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/sams"
+  },
+  {
+    "package": "shallot",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/shallot"
   }
 ]

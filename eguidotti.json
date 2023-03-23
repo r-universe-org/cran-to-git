@@ -1,5 +1,10 @@
 [
   {
+    "package": "bidask",
+    "maintainer": "Emanuele Guidotti <emanuele.guidotti@unine.ch>",
+    "url": "https://github.com/cran/bidask"
+  },
+  {
     "package": "calculus",
     "maintainer": "Emanuele Guidotti <emanuele.guidotti@unine.ch>",
     "url": "https://github.com/eguidotti/calculus",
@@ -10,5 +15,10 @@
     "maintainer": "Emanuele Guidotti <emanuele.guidotti@unine.ch>",
     "url": "https://github.com/eguidotti/rbldatalicense",
     "available": true
+  },
+  {
+    "package": "yuimaGUI",
+    "maintainer": "Emanuele Guidotti <emanuele.guidotti@hotmail.it>",
+    "url": "https://github.com/cran/yuimaGUI"
   }
 ]

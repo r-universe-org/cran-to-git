@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "labelVector",
+    "maintainer": "Benjamin Nutter <benjamin.nutter@gmail.com>",
+    "url": "https://github.com/cran/labelVector"
+  },
+  {
     "package": "lazyWeave",
     "maintainer": "Benjamin Nutter <benjamin.nutter@gmail.com>",
     "url": "https://github.com/nutterb/lazyweave",

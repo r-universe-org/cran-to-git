@@ -4,5 +4,10 @@
     "maintainer": "Liviu Andronic <landronimirc@gmail.com>",
     "url": "https://github.com/landroni/rcmdrplugin.export",
     "available": true
+  },
+  {
+    "package": "RcmdrPlugin.sos",
+    "maintainer": "Liviu Andronic <landronimirc@gmail.com>",
+    "url": "https://github.com/cran/RcmdrPlugin.sos"
   }
 ]

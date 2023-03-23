@@ -1,0 +1,27 @@
+[
+  {
+    "package": "clusterRepro",
+    "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
+    "url": "https://github.com/cran/clusterRepro"
+  },
+  {
+    "package": "pamr",
+    "maintainer": "Rob Tibshirani  <tibs@stanford.edu>",
+    "url": "https://github.com/cran/pamr"
+  },
+  {
+    "package": "pcLasso",
+    "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
+    "url": "https://github.com/cran/pcLasso"
+  },
+  {
+    "package": "samr",
+    "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
+    "url": "https://github.com/cran/samr"
+  },
+  {
+    "package": "selectiveInference",
+    "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
+    "url": "https://github.com/cran/selectiveInference"
+  }
+]

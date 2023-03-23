@@ -1,0 +1,30 @@
+[
+  {
+    "package": "affylmGUI",
+    "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
+    "url": "https://git.bioconductor.org/packages/affylmGUI",
+    "registry": "bioc"
+  },
+  {
+    "package": "dglm",
+    "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
+    "url": "https://github.com/cran/dglm"
+  },
+  {
+    "package": "limma",
+    "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
+    "url": "https://git.bioconductor.org/packages/limma",
+    "registry": "bioc"
+  },
+  {
+    "package": "limmaGUI",
+    "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
+    "url": "https://git.bioconductor.org/packages/limmaGUI",
+    "registry": "bioc"
+  },
+  {
+    "package": "statmod",
+    "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
+    "url": "https://github.com/cran/statmod"
+  }
+]

@@ -1,5 +1,20 @@
 [
   {
+    "package": "MDPtoolbox",
+    "maintainer": "Guillaume Chapron <gchapron@carnivoreconservation.org>",
+    "url": "https://github.com/cran/MDPtoolbox"
+  },
+  {
+    "package": "pop.lion",
+    "maintainer": "Guillaume Chapron <gchapron@carnivoreconservation.org>",
+    "url": "https://github.com/cran/pop.lion"
+  },
+  {
+    "package": "pop.wolf",
+    "maintainer": "Guillaume Chapron <guillaume.chapron@slu.se>",
+    "url": "https://github.com/cran/pop.wolf"
+  },
+  {
     "package": "population",
     "maintainer": "Guillaume Chapron <gchapron@carnivoreconservation.org>",
     "url": "https://github.com/gchapron/population",

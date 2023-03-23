@@ -6,10 +6,30 @@
     "available": true
   },
   {
+    "package": "CLA",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/CLA"
+  },
+  {
+    "package": "classGraph",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/classGraph"
+  },
+  {
+    "package": "cluster",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/cluster"
+  },
+  {
     "package": "diptest",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/mmaechler/diptest",
     "available": true
+  },
+  {
+    "package": "DPQmpfr",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/DPQmpfr"
   },
   {
     "package": "fracdiff",
@@ -18,15 +38,55 @@
     "available": true
   },
   {
+    "package": "lokern",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/lokern"
+  },
+  {
+    "package": "longmemo",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/longmemo"
+  },
+  {
+    "package": "lpridge",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/lpridge"
+  },
+  {
+    "package": "nor1mix",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/nor1mix"
+  },
+  {
+    "package": "robustX",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/robustX"
+  },
+  {
+    "package": "sca",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/sca"
+  },
+  {
     "package": "sfsmisc",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/mmaechler/sfsmisc",
     "available": true
   },
   {
+    "package": "stabledist",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/stabledist"
+  },
+  {
     "package": "supclust",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/mmaechler/supclust",
     "available": true
+  },
+  {
+    "package": "VLMC",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/cran/VLMC"
   }
 ]

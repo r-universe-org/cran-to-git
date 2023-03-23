@@ -1,5 +1,10 @@
 [
   {
+    "package": "BcDiag",
+    "maintainer": "Ewoud De Troyer <ewoud.detroyer@uhasselt.be>",
+    "url": "https://github.com/cran/BcDiag"
+  },
+  {
     "package": "BiBitR",
     "maintainer": "De Troyer Ewoud <ewoud.detroyer@uhasselt.be>",
     "url": "https://github.com/ewouddt/bibitr",
@@ -10,5 +15,10 @@
     "maintainer": "Ewoud De Troyer <ewoud.detroyer@uhasselt.be>",
     "url": "https://github.com/ewouddt/csfa",
     "available": true
+  },
+  {
+    "package": "RcmdrPlugin.BiclustGUI",
+    "maintainer": "De Troyer Ewoud <ewoud.detroyer@uhasselt.be>",
+    "url": "https://github.com/cran/RcmdrPlugin.BiclustGUI"
   }
 ]

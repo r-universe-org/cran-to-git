@@ -1,8 +1,43 @@
 [
   {
+    "package": "ald",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/ald"
+  },
+  {
+    "package": "endtoend",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/endtoend"
+  },
+  {
+    "package": "hopbyhop",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/hopbyhop"
+  },
+  {
+    "package": "lqr",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/lqr"
+  },
+  {
     "package": "MomTrunc",
     "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
     "url": "https://github.com/chedgala/momtrunc",
     "available": true
+  },
+  {
+    "package": "Opportunistic",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/Opportunistic"
+  },
+  {
+    "package": "qrLMM",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/qrLMM"
+  },
+  {
+    "package": "qrNLMM",
+    "maintainer": "Christian E. Galarza <cgalarza88@gmail.com>",
+    "url": "https://github.com/cran/qrNLMM"
   }
 ]

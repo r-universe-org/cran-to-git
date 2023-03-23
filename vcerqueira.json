@@ -1,5 +1,10 @@
 [
   {
+    "package": "autoBagging",
+    "maintainer": "Vitor Cerqueira <cerqueira.vitormanuel@gmail.com>",
+    "url": "https://github.com/cran/autoBagging"
+  },
+  {
     "package": "tsensembler",
     "maintainer": "Vitor Cerqueira <cerqueira.vitormanuel@gmail.com>",
     "url": "https://github.com/vcerqueira/tsensembler",

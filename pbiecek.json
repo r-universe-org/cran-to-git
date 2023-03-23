@@ -42,6 +42,16 @@
     "available": true
   },
   {
+    "package": "proton",
+    "maintainer": "Przemysław Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/cran/proton"
+  },
+  {
+    "package": "Przewodnik",
+    "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
+    "url": "https://github.com/cran/Przewodnik"
+  },
+  {
     "package": "SmarterPoland",
     "maintainer": "Przemyslaw Biecek <przemyslaw.biecek@gmail.com>",
     "url": "https://github.com/pbiecek/smarterpoland",

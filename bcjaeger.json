@@ -1,5 +1,10 @@
 [
   {
+    "package": "obliqueRSF",
+    "maintainer": "Byron Jaeger <bjaeger@wakehealth.edu>",
+    "url": "https://github.com/cran/obliqueRSF"
+  },
+  {
     "package": "PooledCohort",
     "maintainer": "Byron Jaeger <bcjaeger@uab.edu>",
     "url": "https://github.com/bcjaeger/pooledcohort",

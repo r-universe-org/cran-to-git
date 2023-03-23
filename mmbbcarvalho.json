@@ -1,8 +1,23 @@
 [
   {
+    "package": "ASSA",
+    "maintainer": "Miguel de Carvalho <miguel.decarvalho@ed.ac.uk>",
+    "url": "https://github.com/cran/ASSA"
+  },
+  {
+    "package": "DATAstudio",
+    "maintainer": "Miguel de Carvalho <Miguel.deCarvalho@ed.ac.uk>",
+    "url": "https://github.com/cran/DATAstudio"
+  },
+  {
     "package": "extremis",
     "maintainer": "Miguel de Carvalho <miguel.decarvalho@ed.ac.uk>",
     "url": "https://github.com/mmbbcarvalho/extremis",
     "available": true
+  },
+  {
+    "package": "spearmanCI",
+    "maintainer": "Miguel de Carvalho <miguel.decarvalho@ed.ac.uk>",
+    "url": "https://github.com/cran/spearmanCI"
   }
 ]

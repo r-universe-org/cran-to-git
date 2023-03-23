@@ -1,9 +1,19 @@
 [
   {
+    "package": "averisk",
+    "maintainer": "John Ferguson <john.ferguson@nuigalway.ie>",
+    "url": "https://github.com/cran/averisk"
+  },
+  {
     "package": "corlink",
     "maintainer": "John Ferguson <john.ferguson@nuigalway.ie>",
     "url": "https://github.com/johnfergusonnuig/corlink",
     "available": true
+  },
+  {
+    "package": "EBrank",
+    "maintainer": "John Ferguson <john.ferguson@nuigalway.ie>",
+    "url": "https://github.com/cran/EBrank"
   },
   {
     "package": "graphPAF",

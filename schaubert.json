@@ -1,8 +1,53 @@
 [
   {
+    "package": "BTLLasso",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/BTLLasso"
+  },
+  {
+    "package": "catdata",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/catdata"
+  },
+  {
+    "package": "DIFboost",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/DIFboost"
+  },
+  {
+    "package": "DIFlasso",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/DIFlasso"
+  },
+  {
+    "package": "EffectStars",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/EffectStars"
+  },
+  {
+    "package": "EffectStars2",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/EffectStars2"
+  },
+  {
+    "package": "GPCMlasso",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/GPCMlasso"
+  },
+  {
     "package": "MultOrdRS",
     "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
     "url": "https://github.com/schaubert/multordrs",
     "available": true
+  },
+  {
+    "package": "PCMRS",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/PCMRS"
+  },
+  {
+    "package": "UPCM",
+    "maintainer": "Gunther Schauberger <gunther.schauberger@tum.de>",
+    "url": "https://github.com/cran/UPCM"
   }
 ]

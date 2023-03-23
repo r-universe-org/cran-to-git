@@ -1,10 +1,37 @@
 [
   {
+    "package": "DelayedEffect.Design",
+    "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
+    "url": "https://github.com/cran/DelayedEffect.Design"
+  },
+  {
     "package": "iCARE",
     "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
     "url": "https://github.com/wheelerb/icare",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "INPower",
+    "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
+    "url": "https://git.bioconductor.org/packages/INPower",
+    "registry": "bioc"
+  },
+  {
+    "package": "NegativeControlOutcomeAdjustment",
+    "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
+    "url": "https://github.com/cran/NegativeControlOutcomeAdjustment"
+  },
+  {
+    "package": "REBET",
+    "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
+    "url": "https://git.bioconductor.org/packages/REBET",
+    "registry": "bioc"
+  },
+  {
+    "package": "samplesizelogisticcasecontrol",
+    "maintainer": "William Wheeler <WheelerB@imsweb.com>",
+    "url": "https://github.com/cran/samplesizelogisticcasecontrol"
   },
   {
     "package": "SUITOR",

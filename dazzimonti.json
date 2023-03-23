@@ -4,5 +4,20 @@
     "maintainer": "Dario Azzimonti <dario.azzimonti@gmail.com>",
     "url": "https://github.com/dazzimonti/anmc",
     "available": true
+  },
+  {
+    "package": "KrigInv",
+    "maintainer": "Dario Azzimonti <dario.azzimonti@gmail.com>",
+    "url": "https://github.com/cran/KrigInv"
+  },
+  {
+    "package": "pGPx",
+    "maintainer": "Dario Azzimonti <dario.azzimonti@gmail.com>",
+    "url": "https://github.com/cran/pGPx"
+  },
+  {
+    "package": "profExtrema",
+    "maintainer": "Dario Azzimonti <dario.azzimonti@gmail.com>",
+    "url": "https://github.com/cran/profExtrema"
   }
 ]

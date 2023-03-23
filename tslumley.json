@@ -18,10 +18,30 @@
     "available": true
   },
   {
+    "package": "leaps",
+    "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/cran/leaps"
+  },
+  {
+    "package": "mitools",
+    "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/cran/mitools"
+  },
+  {
     "package": "rimu",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
     "url": "https://github.com/tslumley/rimu",
     "available": true
+  },
+  {
+    "package": "rmeta",
+    "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/cran/rmeta"
+  },
+  {
+    "package": "survey",
+    "maintainer": "\"Thomas Lumley\" <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/cran/survey"
   },
   {
     "package": "svyVGAM",

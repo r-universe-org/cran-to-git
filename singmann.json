@@ -1,8 +1,18 @@
 [
   {
+    "package": "acss.data",
+    "maintainer": "Henrik Singmann <singmann@gmail.com>",
+    "url": "https://github.com/cran/acss.data"
+  },
+  {
     "package": "afex",
     "maintainer": "Henrik Singmann <singmann@gmail.com>",
     "url": "https://github.com/singmann/afex",
     "available": true
+  },
+  {
+    "package": "MPTinR",
+    "maintainer": "Henrik Singmann <singmann@gmail.com>",
+    "url": "https://github.com/cran/MPTinR"
   }
 ]

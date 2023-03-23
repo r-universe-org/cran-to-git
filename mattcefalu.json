@@ -1,8 +1,18 @@
 [
   {
+    "package": "madr",
+    "maintainer": "Matthew Cefalu <Matthew_Cefalu@rand.org>",
+    "url": "https://github.com/cran/madr"
+  },
+  {
     "package": "twang",
     "maintainer": "Matthew Cefalu <Matthew_Cefalu@rand.org>",
     "url": "https://github.com/mattcefalu/twang",
     "available": true
+  },
+  {
+    "package": "twangRDC",
+    "maintainer": "Matthew Cefalu <Matthew_Cefalu@rand.org>",
+    "url": "https://github.com/cran/twangRDC"
   }
 ]

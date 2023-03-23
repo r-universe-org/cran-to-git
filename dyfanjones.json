@@ -6,6 +6,76 @@
     "available": true
   },
   {
+    "package": "paws.analytics",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.analytics"
+  },
+  {
+    "package": "paws.application.integration",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.application.integration"
+  },
+  {
+    "package": "paws.common",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.common"
+  },
+  {
+    "package": "paws.compute",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.compute"
+  },
+  {
+    "package": "paws.cost.management",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.cost.management"
+  },
+  {
+    "package": "paws.customer.engagement",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.customer.engagement"
+  },
+  {
+    "package": "paws.database",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.database"
+  },
+  {
+    "package": "paws.developer.tools",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.developer.tools"
+  },
+  {
+    "package": "paws.end.user.computing",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.end.user.computing"
+  },
+  {
+    "package": "paws.machine.learning",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.machine.learning"
+  },
+  {
+    "package": "paws.management",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.management"
+  },
+  {
+    "package": "paws.networking",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.networking"
+  },
+  {
+    "package": "paws.security.identity",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.security.identity"
+  },
+  {
+    "package": "paws.storage",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/cran/paws.storage"
+  },
+  {
     "package": "RAthena",
     "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
     "url": "https://github.com/dyfanjones/rathena",

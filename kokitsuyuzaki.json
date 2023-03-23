@@ -1,0 +1,37 @@
+[
+  {
+    "package": "iTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/cran/iTensor"
+  },
+  {
+    "package": "LRBaseDbi",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://git.bioconductor.org/packages/LRBaseDbi",
+    "registry": "bioc"
+  },
+  {
+    "package": "MeSHDbi",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://git.bioconductor.org/packages/MeSHDbi",
+    "registry": "bioc"
+  },
+  {
+    "package": "metaSeq",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://git.bioconductor.org/packages/metaSeq",
+    "registry": "bioc"
+  },
+  {
+    "package": "scTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://git.bioconductor.org/packages/scTensor",
+    "registry": "bioc"
+  },
+  {
+    "package": "scTGIF",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://git.bioconductor.org/packages/scTGIF",
+    "registry": "bioc"
+  }
+]

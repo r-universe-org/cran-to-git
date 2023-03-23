@@ -1,5 +1,25 @@
 [
   {
+    "package": "BINCOR",
+    "maintainer": "Josué M. Polanco-Martínez <josue.m.polanco@gmail.com>",
+    "url": "https://github.com/cran/BINCOR"
+  },
+  {
+    "package": "NonParRolCor",
+    "maintainer": "Josue M. Polanco-Martinez <josue.m.polanco@gmail.com>",
+    "url": "https://github.com/cran/NonParRolCor"
+  },
+  {
+    "package": "RolWinMulCor",
+    "maintainer": "Josue M. Polanco-Martinez <josue.m.polanco@gmail.com>",
+    "url": "https://github.com/cran/RolWinMulCor"
+  },
+  {
+    "package": "RolWinWavCor",
+    "maintainer": "Josué M. Polanco-Martínez <josue.m.polanco@gmail.com>",
+    "url": "https://github.com/cran/RolWinWavCor"
+  },
+  {
     "package": "VisualDom",
     "maintainer": "Josué M. Polanco-Martínez <josue.m.polanco@gmail.com>",
     "url": "https://github.com/jomopo/visualdom",

@@ -1,5 +1,10 @@
 [
   {
+    "package": "CausalQueries",
+    "maintainer": "Till Tietz <ttietz2014@gmail.com>",
+    "url": "https://github.com/cran/CausalQueries"
+  },
+  {
     "package": "parsel",
     "maintainer": "Till Tietz <ttietz2014@gmail.com>",
     "url": "https://github.com/till-tietz/parsel",

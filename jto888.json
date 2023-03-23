@@ -4,5 +4,20 @@
     "maintainer": "Jacob Ormerod <jake@openreliability.org>",
     "url": "https://github.com/jto888/faulttree",
     "available": true
+  },
+  {
+    "package": "stosim",
+    "maintainer": "Jacob Ormerod <jake@openreliability.org>",
+    "url": "https://github.com/cran/stosim"
+  },
+  {
+    "package": "WeibullR",
+    "maintainer": "Jacob Ormerod <jake@openreliability.org>",
+    "url": "https://github.com/cran/WeibullR"
+  },
+  {
+    "package": "WeibullR.ALT",
+    "maintainer": "Jacob Ormerod <jake@openreliability.org>",
+    "url": "https://github.com/cran/WeibullR.ALT"
   }
 ]

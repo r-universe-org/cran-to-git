@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "CINID",
+    "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/cran/CINID"
+  },
+  {
     "package": "DRomics",
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/aursiber/dromics",
@@ -31,6 +36,11 @@
     "registry": "bioc"
   },
   {
+    "package": "LDcorSV",
+    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/cran/LDcorSV"
+  },
+  {
     "package": "MareyMap",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/aursiber/mareymap",
@@ -53,6 +63,11 @@
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/aursiber/nlstools",
     "available": true
+  },
+  {
+    "package": "OnAge",
+    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/cran/OnAge"
   },
   {
     "package": "rbioacc",

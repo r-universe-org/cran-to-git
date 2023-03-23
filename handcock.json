@@ -1,8 +1,23 @@
 [
   {
+    "package": "degreenet",
+    "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
+    "url": "https://github.com/cran/degreenet"
+  },
+  {
+    "package": "RDS",
+    "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
+    "url": "https://github.com/cran/RDS"
+  },
+  {
     "package": "reldist",
     "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
     "url": "https://github.com/handcock/reldist",
     "available": true
+  },
+  {
+    "package": "sspse",
+    "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
+    "url": "https://github.com/cran/sspse"
   }
 ]

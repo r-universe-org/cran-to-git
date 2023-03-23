@@ -1,9 +1,24 @@
 [
   {
+    "package": "crossdes",
+    "maintainer": "Bjoern Bornkamp <bbnkmp@mail.de>",
+    "url": "https://github.com/cran/crossdes"
+  },
+  {
     "package": "DoseFinding",
     "maintainer": "Bjoern Bornkamp <bbnkmp@mail.de>",
     "url": "https://github.com/bbnkmp/dosefinding",
     "available": true
+  },
+  {
+    "package": "gsbDesign",
+    "maintainer": "Bjoern Bornkamp <bbnkmp@mail.de>",
+    "url": "https://github.com/cran/gsbDesign"
+  },
+  {
+    "package": "SEL",
+    "maintainer": "Bjoern Bornkamp <bbnkmp@mail.de>",
+    "url": "https://github.com/cran/SEL"
   },
   {
     "package": "txtplot",

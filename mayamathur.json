@@ -1,8 +1,28 @@
 [
   {
+    "package": "EValue",
+    "maintainer": "Maya B. Mathur <mmathur@stanford.edu>",
+    "url": "https://github.com/cran/EValue"
+  },
+  {
     "package": "MetaUtility",
     "maintainer": "Maya B. Mathur <mmathur@stanford.edu>",
     "url": "https://github.com/mayamathur/metautility",
     "available": true
+  },
+  {
+    "package": "NRejections",
+    "maintainer": "Maya B. Mathur <mmathur@stanford.edu>",
+    "url": "https://github.com/cran/NRejections"
+  },
+  {
+    "package": "Replicate",
+    "maintainer": "Maya B. Mathur <mmathur@stanford.edu>",
+    "url": "https://github.com/cran/Replicate"
+  },
+  {
+    "package": "SimTimeVar",
+    "maintainer": "Maya B. Mathur <mmathur@stanford.edu>",
+    "url": "https://github.com/cran/SimTimeVar"
   }
 ]

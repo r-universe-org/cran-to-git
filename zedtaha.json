@@ -1,14 +1,29 @@
 [
   {
+    "package": "dtp",
+    "maintainer": "Taha Zaghdoudi <zedtaha@gmail.com>",
+    "url": "https://github.com/cran/dtp"
+  },
+  {
     "package": "dynpanel",
     "maintainer": "Taha Zaghdoudi <zedtaha@gmail.com>",
     "url": "https://github.com/zedtaha/dynpanel",
     "available": true
   },
   {
+    "package": "ivprobit",
+    "maintainer": "Zaghdoudi Taha <zedtaha@gmail.com>",
+    "url": "https://github.com/cran/ivprobit"
+  },
+  {
     "package": "nardl",
     "maintainer": "Taha Zaghdoudi <zedtaha@gmail.com>",
     "url": "https://github.com/zedtaha/nardl",
     "available": true
+  },
+  {
+    "package": "Qardl",
+    "maintainer": "Taha Zaghdoudi <zedtaha@gmail.com>",
+    "url": "https://github.com/cran/Qardl"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "package": "cancerTiming",
+    "maintainer": "Elizabeth Purdom <epurdom@stat.berkeley.edu>",
+    "url": "https://github.com/cran/cancerTiming"
+  },
+  {
     "package": "clusterExperiment",
     "maintainer": "Elizabeth Purdom <epurdom@stat.berkeley.edu>",
     "url": "https://github.com/epurdom/clusterexperiment",

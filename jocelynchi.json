@@ -1,5 +1,15 @@
 [
   {
+    "package": "kpodclustr",
+    "maintainer": "Jocelyn T. Chi <jtchi@ncsu.edu>",
+    "url": "https://github.com/cran/kpodclustr"
+  },
+  {
+    "package": "L2E",
+    "maintainer": "Jocelyn Chi <jocetchi@gmail.com>",
+    "url": "https://github.com/cran/L2E"
+  },
+  {
     "package": "SEAGLE",
     "maintainer": "Jocelyn Chi <jocetchi@gmail.com>",
     "url": "https://github.com/jocelynchi/seagle",

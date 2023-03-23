@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "datetime",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/cran/datetime"
+  },
+  {
     "package": "encode",
     "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
     "url": "https://github.com/bergsmat/encode",
@@ -28,6 +33,11 @@
     "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
     "url": "https://github.com/bergsmat/nonmemica",
     "available": true
+  },
+  {
+    "package": "plotscale",
+    "maintainer": "Tim Bergsma <bergsmat@gmail.com>",
+    "url": "https://github.com/cran/plotscale"
   },
   {
     "package": "spec",

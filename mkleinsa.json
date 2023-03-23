@@ -1,8 +1,23 @@
 [
   {
+    "package": "ActiSleep",
+    "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
+    "url": "https://github.com/cran/ActiSleep"
+  },
+  {
     "package": "hlt",
     "maintainer": "Michael Kleinsasser <mjkleinsa@gmail.com>",
     "url": "https://github.com/mkleinsa/hlt",
     "available": true
+  },
+  {
+    "package": "INTRIGUE",
+    "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
+    "url": "https://github.com/cran/INTRIGUE"
+  },
+  {
+    "package": "StackImpute",
+    "maintainer": "Mike Kleinsasser <mkleinsa@umich.edu>",
+    "url": "https://github.com/cran/StackImpute"
   }
 ]

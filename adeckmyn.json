@@ -1,5 +1,15 @@
 [
   {
+    "package": "mapdata",
+    "maintainer": "Alex Deckmyn <alex.deckmyn@meteo.be>",
+    "url": "https://github.com/cran/mapdata"
+  },
+  {
+    "package": "mapproj",
+    "maintainer": "Alex Deckmyn <alex.deckmyn@meteo.be>",
+    "url": "https://github.com/cran/mapproj"
+  },
+  {
     "package": "maps",
     "maintainer": "Alex Deckmyn <alex.deckmyn@meteo.be>",
     "url": "https://github.com/adeckmyn/maps",

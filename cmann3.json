@@ -1,8 +1,43 @@
 [
   {
+    "package": "cursr",
+    "maintainer": "Chris Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/cursr"
+  },
+  {
+    "package": "eFRED",
+    "maintainer": "Chris Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/eFRED"
+  },
+  {
     "package": "eList",
     "maintainer": "Chris Mann <cmann3@unl.edu>",
     "url": "https://github.com/cmann3/elist",
     "available": true
+  },
+  {
+    "package": "matchr",
+    "maintainer": "Christopher Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/matchr"
+  },
+  {
+    "package": "oews2020",
+    "maintainer": "Christopher Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/oews2020"
+  },
+  {
+    "package": "oews2021",
+    "maintainer": "Christopher Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/oews2021"
+  },
+  {
+    "package": "oops",
+    "maintainer": "Christopher Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/oops"
+  },
+  {
+    "package": "refer",
+    "maintainer": "Christopher Mann <cmann3@unl.edu>",
+    "url": "https://github.com/cran/refer"
   }
 ]

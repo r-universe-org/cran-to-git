@@ -1,8 +1,33 @@
 [
   {
+    "package": "mlearning",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/cran/mlearning"
+  },
+  {
     "package": "pastecs",
     "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
     "url": "https://github.com/phgrosjean/pastecs",
     "available": true
+  },
+  {
+    "package": "svIDE",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/cran/svIDE"
+  },
+  {
+    "package": "svTools",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/cran/svTools"
+  },
+  {
+    "package": "svWidgets",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/cran/svWidgets"
+  },
+  {
+    "package": "zooimage",
+    "maintainer": "Philippe Grosjean <phgrosjean@sciviews.org>",
+    "url": "https://github.com/cran/zooimage"
   }
 ]

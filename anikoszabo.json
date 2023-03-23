@@ -1,8 +1,18 @@
 [
   {
+    "package": "CorrBin",
+    "maintainer": "Aniko Szabo <aszabo@mcw.edu>",
+    "url": "https://github.com/cran/CorrBin"
+  },
+  {
     "package": "multiCA",
     "maintainer": "Aniko Szabo <aszabo@mcw.edu>",
     "url": "https://github.com/anikoszabo/multica",
     "available": true
+  },
+  {
+    "package": "Oncotree",
+    "maintainer": "Aniko Szabo <aszabo@mcw.edu>",
+    "url": "https://github.com/cran/Oncotree"
   }
 ]

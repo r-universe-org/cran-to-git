@@ -19,6 +19,11 @@
     "available": true
   },
   {
+    "package": "RcmdrPlugin.temis",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/cran/RcmdrPlugin.temis"
+  },
+  {
     "package": "SnowballC",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",

@@ -4,5 +4,20 @@
     "maintainer": "Emmanuel Paradis <Emmanuel.Paradis@ird.fr>",
     "url": "https://github.com/emmanuelparadis/ape",
     "available": true
+  },
+  {
+    "package": "coalescentMCMC",
+    "maintainer": "Emmanuel Paradis <Emmanuel.Paradis@ird.fr>",
+    "url": "https://github.com/cran/coalescentMCMC"
+  },
+  {
+    "package": "distory",
+    "maintainer": "Emmanuel Paradis <Emmanuel.Paradis@ird.fr>",
+    "url": "https://github.com/cran/distory"
+  },
+  {
+    "package": "pegas",
+    "maintainer": "Emmanuel Paradis <Emmanuel.Paradis@ird.fr>",
+    "url": "https://github.com/cran/pegas"
   }
 ]

@@ -5,5 +5,15 @@
     "url": "https://github.com/dnychka/fieldsrpackage",
     "subdir": "fields",
     "available": true
+  },
+  {
+    "package": "LatticeKrig",
+    "maintainer": "Douglas Nychka <nychka@ucar.edu>",
+    "url": "https://github.com/cran/LatticeKrig"
+  },
+  {
+    "package": "RadioSonde",
+    "maintainer": "Doug Nychka <nychka@mines.edu>",
+    "url": "https://github.com/cran/RadioSonde"
   }
 ]

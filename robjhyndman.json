@@ -30,6 +30,11 @@
     "available": true
   },
   {
+    "package": "fpp",
+    "maintainer": "Rob J Hyndman <Rob.Hyndman@monash.edu>",
+    "url": "https://github.com/cran/fpp"
+  },
+  {
     "package": "fpp2",
     "maintainer": "Rob Hyndman <Rob.Hyndman@monash.edu>",
     "url": "https://github.com/robjhyndman/fpp2-package",

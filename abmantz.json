@@ -1,5 +1,10 @@
 [
   {
+    "package": "lrgs",
+    "maintainer": "Adam Mantz <amantz@slac.stanford.edu>",
+    "url": "https://github.com/cran/lrgs"
+  },
+  {
     "package": "rgw",
     "maintainer": "Adam Mantz <amantz@slac.stanford.edu>",
     "url": "https://github.com/abmantz/rgw",

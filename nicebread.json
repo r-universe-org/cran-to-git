@@ -1,8 +1,18 @@
 [
   {
+    "package": "fSRM",
+    "maintainer": "Felix Schönbrodt <felix@nicebread.de>",
+    "url": "https://github.com/cran/fSRM"
+  },
+  {
     "package": "RSA",
     "maintainer": "Felix Schönbrodt <felix@nicebread.de>",
     "url": "https://github.com/nicebread/rsa",
     "available": true
+  },
+  {
+    "package": "TripleR",
+    "maintainer": "Felix Schönbrodt <felix.schoenbrodt@psy.lmu.de>",
+    "url": "https://github.com/cran/TripleR"
   }
 ]

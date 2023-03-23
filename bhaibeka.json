@@ -1,0 +1,47 @@
+[
+  {
+    "package": "CoreGx",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/CoreGx",
+    "registry": "bioc"
+  },
+  {
+    "package": "genefu",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/genefu",
+    "registry": "bioc"
+  },
+  {
+    "package": "MM2S",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/cran/MM2S"
+  },
+  {
+    "package": "MM2Sdata",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/cran/MM2Sdata"
+  },
+  {
+    "package": "RadioGx",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/RadioGx",
+    "registry": "bioc"
+  },
+  {
+    "package": "SIGN",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/cran/SIGN"
+  },
+  {
+    "package": "survcomp",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/survcomp",
+    "registry": "bioc"
+  },
+  {
+    "package": "ToxicoGx",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/ToxicoGx",
+    "registry": "bioc"
+  }
+]

@@ -1,5 +1,10 @@
 [
   {
+    "package": "cloudUtil",
+    "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
+    "url": "https://github.com/cran/cloudUtil"
+  },
+  {
     "package": "protViz",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/cpanse/protviz",

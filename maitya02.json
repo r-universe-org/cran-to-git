@@ -1,5 +1,10 @@
 [
   {
+    "package": "brlrmr",
+    "maintainer": "Arnab Maity <arnab.maity@pfizer.com>",
+    "url": "https://github.com/cran/brlrmr"
+  },
+  {
     "package": "horseshoenlm",
     "maintainer": "Arnab Kumar Maity <Arnab.Maity@pfizer.com>",
     "url": "https://github.com/maitya02/horseshoenlm",
@@ -10,6 +15,11 @@
     "maintainer": "Arnab Maity <arnab.maity@pfizer.com>",
     "url": "https://github.com/maitya02/pancanvarsel",
     "available": true
+  },
+  {
+    "package": "sahpm",
+    "maintainer": "Arnab Maity <arnab.maity@pfizer.com>",
+    "url": "https://github.com/cran/sahpm"
   },
   {
     "package": "semmcmc",

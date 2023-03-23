@@ -1,5 +1,10 @@
 [
   {
+    "package": "bootStepAIC",
+    "maintainer": "Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>",
+    "url": "https://github.com/cran/bootStepAIC"
+  },
+  {
     "package": "cvGEE",
     "maintainer": "Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>",
     "url": "https://github.com/drizopoulos/cvgee",
@@ -10,6 +15,11 @@
     "maintainer": "Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>",
     "url": "https://github.com/drizopoulos/glmmadaptive",
     "available": true
+  },
+  {
+    "package": "JM",
+    "maintainer": "Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>",
+    "url": "https://github.com/cran/JM"
   },
   {
     "package": "JMbayes",

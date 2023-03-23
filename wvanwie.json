@@ -1,5 +1,10 @@
 [
   {
+    "package": "porridge",
+    "maintainer": "Wessel N. van Wieringen <w.vanwieringen@vumc.nl>",
+    "url": "https://github.com/cran/porridge"
+  },
+  {
     "package": "ragt2ridges",
     "maintainer": "Wessel N. van Wieringen <w.vanwieringen@vumc.nl>",
     "url": "https://github.com/wvanwie/ragt2ridges",

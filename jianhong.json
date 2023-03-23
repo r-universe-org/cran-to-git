@@ -21,6 +21,11 @@
     "registry": "bioc"
   },
   {
+    "package": "colorBlindness",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/cran/colorBlindness"
+  },
+  {
     "package": "dagLogo",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/daglogo",

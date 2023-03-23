@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "boussinesq",
+    "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
+    "url": "https://github.com/cran/boussinesq"
+  },
+  {
     "package": "geotopbricks",
     "maintainer": "Emanuele Cordano <emanuele.cordano@gmail.com>",
     "url": "https://github.com/ecor/geotopbricks",

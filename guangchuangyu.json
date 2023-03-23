@@ -25,6 +25,11 @@
     "registry": "bioc"
   },
   {
+    "package": "ggfun",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/cran/ggfun"
+  },
+  {
     "package": "ggimage",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/ggimage",
@@ -37,6 +42,17 @@
     "available": true
   },
   {
+    "package": "ggtreeDendro",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/ggtreeDendro",
+    "registry": "bioc"
+  },
+  {
+    "package": "gson",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/cran/gson"
+  },
+  {
     "package": "hexSticker",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/hexsticker",
@@ -47,6 +63,11 @@
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/meme",
     "available": true
+  },
+  {
+    "package": "plotbb",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/cran/plotbb"
   },
   {
     "package": "rvcheck",
@@ -65,5 +86,15 @@
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/guangchuangyu/shadowtext",
     "available": true
+  },
+  {
+    "package": "shinyTempSignal",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/cran/shinyTempSignal"
+  },
+  {
+    "package": "yulab.utils",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/cran/yulab.utils"
   }
 ]

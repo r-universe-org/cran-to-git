@@ -18,6 +18,11 @@
     "available": true
   },
   {
+    "package": "plotGMM",
+    "maintainer": "Philip Waggoner <philip.waggoner@gmail.com>",
+    "url": "https://github.com/cran/plotGMM"
+  },
+  {
     "package": "plotmm",
     "maintainer": "Philip Waggoner <philip.waggoner@gmail.com>",
     "url": "https://github.com/pdwaggoner/plotmm",

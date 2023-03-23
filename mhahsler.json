@@ -72,6 +72,12 @@
     "available": true
   },
   {
+    "package": "rRDP",
+    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
+    "url": "https://git.bioconductor.org/packages/rRDP",
+    "registry": "bioc"
+  },
+  {
     "package": "seriation",
     "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
     "url": "https://github.com/mhahsler/seriation",

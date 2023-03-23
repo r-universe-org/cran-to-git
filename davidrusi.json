@@ -1,5 +1,17 @@
 [
   {
+    "package": "casper",
+    "maintainer": "David Rossell <rosselldavid@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/casper",
+    "registry": "bioc"
+  },
+  {
+    "package": "gaga",
+    "maintainer": "David Rossell <rosselldavid@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/gaga",
+    "registry": "bioc"
+  },
+  {
     "package": "mombf",
     "maintainer": "David Rossell <rosselldavid@gmail.com>",
     "url": "https://github.com/davidrusi/mombf",

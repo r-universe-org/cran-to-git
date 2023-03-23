@@ -37,6 +37,11 @@
     "available": true
   },
   {
+    "package": "kazaam",
+    "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
+    "url": "https://github.com/cran/kazaam"
+  },
+  {
     "package": "meanr",
     "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
     "url": "https://github.com/wrathematics/meanr",
@@ -47,5 +52,10 @@
     "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
     "url": "https://github.com/wrathematics/ngram",
     "available": true
+  },
+  {
+    "package": "sylcount",
+    "maintainer": "Drew Schmidt <wrathematics@gmail.com>",
+    "url": "https://github.com/cran/sylcount"
   }
 ]

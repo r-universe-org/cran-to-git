@@ -1,5 +1,10 @@
 [
   {
+    "package": "barcode",
+    "maintainer": "John W. Emerson <john.emerson@yale.edu>",
+    "url": "https://github.com/cran/barcode"
+  },
+  {
     "package": "gpairs",
     "maintainer": "John W. Emerson <john.emerson@yale.edu>",
     "url": "https://github.com/jayemerson/gpairs",
@@ -10,5 +15,10 @@
     "maintainer": "John Emerson <john.emerson@yale.edu>",
     "url": "https://github.com/jayemerson/stv",
     "available": true
+  },
+  {
+    "package": "YaleToolkit",
+    "maintainer": "John W. Emerson <john.emerson@yale.edu>",
+    "url": "https://github.com/cran/YaleToolkit"
   }
 ]

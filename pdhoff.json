@@ -12,6 +12,11 @@
     "available": true
   },
   {
+    "package": "eigenmodel",
+    "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
+    "url": "https://github.com/cran/eigenmodel"
+  },
+  {
     "package": "fabCI",
     "maintainer": "Peter Hoff <peter.hoff@duke.edu>",
     "url": "https://github.com/pdhoff/fabci",

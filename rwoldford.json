@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "loon",
+    "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
+    "url": "https://github.com/cran/loon"
+  },
+  {
     "package": "qqtest",
     "maintainer": "Wayne Oldford <rwoldford@uwaterloo.ca>",
     "url": "https://github.com/rwoldford/qqtest",

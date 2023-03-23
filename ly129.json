@@ -1,8 +1,23 @@
 [
   {
+    "package": "free",
+    "maintainer": "Yi Lian <yi.lian@mail.mcgill.ca>",
+    "url": "https://github.com/cran/free"
+  },
+  {
     "package": "ktweedie",
     "maintainer": "Yi Lian <yi.lian@mail.mcgill.ca>",
     "url": "https://github.com/ly129/ktweedie",
     "available": true
+  },
+  {
+    "package": "netcox",
+    "maintainer": "Yi Lian <yi.lian@mail.mcgill.ca>",
+    "url": "https://github.com/cran/netcox"
+  },
+  {
+    "package": "sox",
+    "maintainer": "Yi Lian <yi.lian@mail.mcgill.ca>",
+    "url": "https://github.com/cran/sox"
   }
 ]

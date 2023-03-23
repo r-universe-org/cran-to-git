@@ -24,6 +24,11 @@
     "available": true
   },
   {
+    "package": "feather",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/cran/feather"
+  },
+  {
     "package": "fueleconomy",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/hadley/fueleconomy",
@@ -106,6 +111,11 @@
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
     "url": "https://github.com/hadley/purrrlyr",
     "available": true
+  },
+  {
+    "package": "reshape",
+    "maintainer": "Hadley Wickham <hadley@rstudio.com>",
+    "url": "https://github.com/cran/reshape"
   },
   {
     "package": "reshape2",

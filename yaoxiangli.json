@@ -1,8 +1,18 @@
 [
   {
+    "package": "bpgmm",
+    "maintainer": "Yaoxiang Li <yl814@georgetown.edu>",
+    "url": "https://github.com/cran/bpgmm"
+  },
+  {
     "package": "cmmr",
     "maintainer": "Yaoxiang Li <yl814@georgetown.edu>",
     "url": "https://github.com/yaoxiangli/cmmr",
     "available": true
+  },
+  {
+    "package": "ShinyLink",
+    "maintainer": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "url": "https://github.com/cran/ShinyLink"
   }
 ]

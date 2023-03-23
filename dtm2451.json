@@ -5,5 +5,10 @@
     "url": "https://github.com/dtm2451/dittoseq",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "magmaR",
+    "maintainer": "Daniel Bunis <daniel.bunis@ucsf.edu>",
+    "url": "https://github.com/cran/magmaR"
   }
 ]

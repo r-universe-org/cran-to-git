@@ -24,6 +24,11 @@
     "available": true
   },
   {
+    "package": "ot",
+    "maintainer": "Neal Fultz <nfultz@gmail.com>",
+    "url": "https://github.com/cran/ot"
+  },
+  {
     "package": "Rip46",
     "maintainer": "Neal Fultz <nfultz@gmail.com>",
     "url": "https://github.com/nfultz/rip46",
@@ -34,6 +39,11 @@
     "maintainer": "Neal Fultz <nfultz@gmail.com>",
     "url": "https://github.com/nfultz/stackoverflow",
     "available": true
+  },
+  {
+    "package": "stat.extend",
+    "maintainer": "Neal Fultz <nfultz@gmail.com>",
+    "url": "https://github.com/cran/stat.extend"
   },
   {
     "package": "static",

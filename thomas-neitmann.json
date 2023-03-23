@@ -1,5 +1,10 @@
 [
   {
+    "package": "admiral.test",
+    "maintainer": "Thomas Neitmann <thomas.neitmann@roche.com>",
+    "url": "https://github.com/cran/admiral.test"
+  },
+  {
     "package": "ggcharts",
     "maintainer": "Thomas Neitmann <th.neitmann@gmail.com>",
     "url": "https://github.com/thomas-neitmann/ggcharts",

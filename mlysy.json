@@ -40,5 +40,10 @@
     "maintainer": "Clemens Schmid <clemens@nevrome.de>",
     "url": "https://github.com/mlysy/rdoxygen",
     "available": true
+  },
+  {
+    "package": "SuperGauss",
+    "maintainer": "Martin Lysy <mlysy@uwaterloo.ca>",
+    "url": "https://github.com/cran/SuperGauss"
   }
 ]

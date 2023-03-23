@@ -36,6 +36,11 @@
     "available": true
   },
   {
+    "package": "photobiologyFilters",
+    "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
+    "url": "https://github.com/cran/photobiologyFilters"
+  },
+  {
     "package": "photobiologyInOut",
     "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
     "url": "https://github.com/aphalo/photobiologyinout",
@@ -52,5 +57,25 @@
     "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
     "url": "https://github.com/aphalo/photobiologyleds",
     "available": true
+  },
+  {
+    "package": "photobiologyPlants",
+    "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
+    "url": "https://github.com/cran/photobiologyPlants"
+  },
+  {
+    "package": "photobiologySensors",
+    "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
+    "url": "https://github.com/cran/photobiologySensors"
+  },
+  {
+    "package": "photobiologySun",
+    "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
+    "url": "https://github.com/cran/photobiologySun"
+  },
+  {
+    "package": "photobiologyWavebands",
+    "maintainer": "Pedro J. Aphalo <pedro.aphalo@helsinki.fi>",
+    "url": "https://github.com/cran/photobiologyWavebands"
   }
 ]

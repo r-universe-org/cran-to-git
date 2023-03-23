@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "MAT",
+    "maintainer": "Seung W. Choi <schoi@austin.utexas.edu>",
+    "url": "https://github.com/cran/MAT"
+  },
+  {
     "package": "PROsetta",
     "maintainer": "Seung W. Choi <schoi@austin.utexas.edu>",
     "url": "https://github.com/choi-phd/prosetta",

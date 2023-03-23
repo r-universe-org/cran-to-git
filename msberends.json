@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "clean",
+    "maintainer": "Matthijs S. Berends <m.s.berends@umcg.nl>",
+    "url": "https://github.com/cran/clean"
+  },
+  {
     "package": "cleaner",
     "maintainer": "Matthijs S. Berends <m.s.berends@umcg.nl>",
     "url": "https://github.com/msberends/cleaner",

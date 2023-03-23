@@ -1,5 +1,10 @@
 [
   {
+    "package": "covglasso",
+    "maintainer": "Michael Fop <michael.fop@ucd.ie>",
+    "url": "https://github.com/cran/covglasso"
+  },
+  {
     "package": "LCAvarsel",
     "maintainer": "Michael Fop <michael.fop@ucd.ie>",
     "url": "https://github.com/michaelfop/lcavarsel",

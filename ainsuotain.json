@@ -1,5 +1,15 @@
 [
   {
+    "package": "kfda",
+    "maintainer": "Donghwan Kim <donhkim9714@korea.ac.kr>",
+    "url": "https://github.com/cran/kfda"
+  },
+  {
+    "package": "matrixProfile",
+    "maintainer": "Donghwan Kim <donhkim9714@korea.ac.kr>",
+    "url": "https://github.com/cran/matrixProfile"
+  },
+  {
     "package": "pasadr",
     "maintainer": "Donghwan Kim <donhkim9714@korea.ac.kr>",
     "url": "https://github.com/ainsuotain/pasadr",

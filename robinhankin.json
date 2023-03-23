@@ -1,5 +1,10 @@
 [
   {
+    "package": "approximator",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/cran/approximator"
+  },
+  {
     "package": "BACCO",
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/bacco",
@@ -118,6 +123,11 @@
     "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
     "url": "https://github.com/robinhankin/mm",
     "available": true
+  },
+  {
+    "package": "multipol",
+    "maintainer": "Robin K. S. Hankin <hankin.robin@gmail.com>",
+    "url": "https://github.com/cran/multipol"
   },
   {
     "package": "multivator",

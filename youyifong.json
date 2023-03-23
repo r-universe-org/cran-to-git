@@ -6,6 +6,16 @@
     "available": true
   },
   {
+    "package": "FSDAM",
+    "maintainer": "Youyi Fong <youyifong@gmail.com>",
+    "url": "https://github.com/cran/FSDAM"
+  },
+  {
+    "package": "krm",
+    "maintainer": "Youyi Fong <youyifong@gmail.com>",
+    "url": "https://github.com/cran/krm"
+  },
+  {
     "package": "kyotil",
     "maintainer": "Youyi Fong <youyifong@gmail.com>",
     "url": "https://github.com/youyifong/kyotil",
@@ -16,5 +26,20 @@
     "maintainer": "Youyi Fong <youyifong@gmail.com>",
     "url": "https://github.com/youyifong/marginalizedrisk",
     "available": true
+  },
+  {
+    "package": "mdw",
+    "maintainer": "Youyi Fong <youyifong@gmail.com>",
+    "url": "https://github.com/cran/mdw"
+  },
+  {
+    "package": "robustrank",
+    "maintainer": "Youyi Fong <youyifong@gmail.com>",
+    "url": "https://github.com/cran/robustrank"
+  },
+  {
+    "package": "sptm",
+    "maintainer": "Youyi Fong <youyifong@gmail.com>",
+    "url": "https://github.com/cran/sptm"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "package": "colorhcplot",
+    "maintainer": "Damiano Fantini <damiano.fantini@gmail.com>",
+    "url": "https://github.com/cran/colorhcplot"
+  },
+  {
     "package": "easyPubMed",
     "maintainer": "Damiano Fantini <damiano.fantini@gmail.com>",
     "url": "https://github.com/dami82/easypubmed",
@@ -10,5 +15,10 @@
     "maintainer": "Damiano Fantini <damiano.fantini@gmail.com>",
     "url": "https://github.com/dami82/mutsignatures",
     "available": true
+  },
+  {
+    "package": "TCGAretriever",
+    "maintainer": "Damiano Fantini <damiano.fantini@gmail.com>",
+    "url": "https://github.com/cran/TCGAretriever"
   }
 ]

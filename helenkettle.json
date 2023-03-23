@@ -1,5 +1,10 @@
 [
   {
+    "package": "microPop",
+    "maintainer": "Helen Kettle <Helen.Kettle@bioss.ac.uk>",
+    "url": "https://github.com/cran/microPop"
+  },
+  {
     "package": "stagePop",
     "maintainer": "David Nutter <david.nutter@bioss.ac.uk>",
     "url": "https://github.com/helenkettle/stagepop",

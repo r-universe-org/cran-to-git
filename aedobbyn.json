@@ -1,5 +1,10 @@
 [
   {
+    "package": "covid19france",
+    "maintainer": "Amanda Dobbyn <amanda.e.dobbyn@gmail.com>",
+    "url": "https://github.com/cran/covid19france"
+  },
+  {
     "package": "covid19us",
     "maintainer": "Amanda Dobbyn <amanda.e.dobbyn@gmail.com>",
     "url": "https://github.com/aedobbyn/covid19us",

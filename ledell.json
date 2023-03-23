@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "h2o",
+    "maintainer": "Erin LeDell <erin@h2o.ai>",
+    "url": "https://github.com/cran/h2o"
+  },
+  {
     "package": "subsemble",
     "maintainer": "Erin LeDell <oss@ledell.org>",
     "url": "https://github.com/ledell/subsemble",

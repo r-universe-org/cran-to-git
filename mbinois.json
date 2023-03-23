@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "hetGP",
+    "maintainer": "Mickael Binois <mickael.binois@inria.fr>",
+    "url": "https://github.com/cran/hetGP"
+  },
+  {
     "package": "OOR",
     "maintainer": "M. Binois <mickael.binois@inria.fr>",
     "url": "https://github.com/mbinois/oor",

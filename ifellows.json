@@ -1,5 +1,10 @@
 [
   {
+    "package": "Deducer",
+    "maintainer": "Ian Fellows <ian@fellstat.com>",
+    "url": "https://github.com/cran/Deducer"
+  },
+  {
     "package": "OpenStreetMap",
     "maintainer": "Ian Fellows <ian@fellstat.com>",
     "url": "https://github.com/ifellows/rosm",

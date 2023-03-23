@@ -6,6 +6,16 @@
     "available": true
   },
   {
+    "package": "coreNLP",
+    "maintainer": "Taylor Arnold <tarnold2@richmond.edu>",
+    "url": "https://github.com/cran/coreNLP"
+  },
+  {
+    "package": "ctrialsgov",
+    "maintainer": "Taylor Arnold <tarnold2@richmond.edu>",
+    "url": "https://github.com/cran/ctrialsgov"
+  },
+  {
     "package": "ggimg",
     "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
     "url": "https://github.com/statsmaths/ggimg",
@@ -17,6 +27,11 @@
     "url": "https://github.com/statsmaths/kerasr",
     "available": true,
     "registry": "archived"
+  },
+  {
+    "package": "leaderCluster",
+    "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
+    "url": "https://github.com/cran/leaderCluster"
   },
   {
     "package": "sotu",

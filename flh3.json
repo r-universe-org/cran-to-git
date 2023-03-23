@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "gendata",
+    "maintainer": "Francis Huang <flh3@hotmail.com>",
+    "url": "https://github.com/cran/gendata"
+  },
+  {
     "package": "hornpa",
     "maintainer": "Francis Huang <huangf@missouri.edu>",
     "url": "https://github.com/flh3/hornpa",

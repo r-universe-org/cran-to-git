@@ -16,5 +16,15 @@
     "maintainer": "Adam Clark <adam.tclark@gmail.com>",
     "url": "https://github.com/adamtclark/multispatialccm",
     "available": true
+  },
+  {
+    "package": "partitionBEFsp",
+    "maintainer": "Adam Clark <adam.tclark@gmail.com>",
+    "url": "https://github.com/cran/partitionBEFsp"
+  },
+  {
+    "package": "pttstability",
+    "maintainer": "Adam Clark <adam.tclark@gmail.com>",
+    "url": "https://github.com/cran/pttstability"
   }
 ]

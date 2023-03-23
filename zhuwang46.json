@@ -1,5 +1,10 @@
 [
   {
+    "package": "irboost",
+    "maintainer": "Zhu Wang <zhuwang@gmail.com>",
+    "url": "https://github.com/cran/irboost"
+  },
+  {
     "package": "mpath",
     "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
     "url": "https://github.com/zhuwang46/mpath",

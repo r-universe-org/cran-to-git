@@ -1,8 +1,23 @@
 [
   {
+    "package": "gamclass",
+    "maintainer": "John Maindonald <john@statsresearch.co.nz>",
+    "url": "https://github.com/cran/gamclass"
+  },
+  {
+    "package": "hddplot",
+    "maintainer": "John Maindonald <jhmaindonald@gmail.com>",
+    "url": "https://github.com/cran/hddplot"
+  },
+  {
     "package": "qra",
     "maintainer": "John Maindonald <john@statsresearch.co.nz>",
     "url": "https://github.com/jhmaindonald/qra",
     "available": true
+  },
+  {
+    "package": "tTOlr",
+    "maintainer": "John Maindonald <john@statsresearch.co.nz>",
+    "url": "https://github.com/cran/tTOlr"
   }
 ]

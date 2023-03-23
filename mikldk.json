@@ -18,10 +18,21 @@
     "available": true
   },
   {
+    "package": "fwsim",
+    "maintainer": "Mikkel Meyer Andersen <mikl@math.aau.dk>",
+    "url": "https://github.com/cran/fwsim"
+  },
+  {
     "package": "malan",
     "maintainer": "Mikkel Meyer Andersen <mikl@math.aau.dk>",
     "url": "https://github.com/mikldk/malan",
     "available": true
+  },
+  {
+    "package": "rforensicbatwing",
+    "maintainer": "Mikkel Meyer Andersen <mikl@math.aau.dk>",
+    "url": "https://github.com/cran/rforensicbatwing",
+    "registry": "archived"
   },
   {
     "package": "roxytest",

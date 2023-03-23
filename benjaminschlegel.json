@@ -1,5 +1,10 @@
 [
   {
+    "package": "brant",
+    "maintainer": "Benjamin Schlegel <kontakt@benjaminschlegel.ch>",
+    "url": "https://github.com/cran/brant"
+  },
+  {
     "package": "glm.predict",
     "maintainer": "Benjamin Schlegel <kontakt@benjaminschlegel.ch>",
     "url": "https://github.com/benjaminschlegel/glm.predict",

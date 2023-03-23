@@ -12,9 +12,19 @@
     "available": true
   },
   {
+    "package": "fCopulae",
+    "maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+    "url": "https://github.com/cran/fCopulae"
+  },
+  {
     "package": "FKF",
     "maintainer": "Paul Smith <paul@waternumbers.co.uk>",
     "url": "https://github.com/waternumbers/fkf",
     "available": true
+  },
+  {
+    "package": "fNonlinear",
+    "maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+    "url": "https://github.com/cran/fNonlinear"
   }
 ]

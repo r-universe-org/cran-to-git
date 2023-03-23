@@ -1,5 +1,10 @@
 [
   {
+    "package": "CongreveLamsdell2016",
+    "maintainer": "Martin R. Smith <martin.smith@durham.ac.uk>",
+    "url": "https://github.com/cran/CongreveLamsdell2016"
+  },
+  {
     "package": "Quartet",
     "maintainer": "Martin R. Smith <martin.smith@durham.ac.uk>",
     "url": "https://github.com/ms609/quartet",
@@ -22,6 +27,11 @@
     "maintainer": "Martin R. Smith <martin.smith@durham.ac.uk>",
     "url": "https://github.com/ms609/ternary",
     "available": true
+  },
+  {
+    "package": "TotalCopheneticIndex",
+    "maintainer": "Martin R. Smith <martin.smith@durham.ac.uk>",
+    "url": "https://github.com/cran/TotalCopheneticIndex"
   },
   {
     "package": "TreeDist",

@@ -1,5 +1,10 @@
 [
   {
+    "package": "africamonitor",
+    "maintainer": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
+    "url": "https://github.com/cran/africamonitor"
+  },
+  {
     "package": "collapse",
     "maintainer": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
     "url": "https://github.com/sebkrantz/collapse",
@@ -10,5 +15,10 @@
     "maintainer": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
     "url": "https://github.com/sebkrantz/dfms",
     "available": true
+  },
+  {
+    "package": "ugatsdb",
+    "maintainer": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
+    "url": "https://github.com/cran/ugatsdb"
   }
 ]

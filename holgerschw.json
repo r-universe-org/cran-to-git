@@ -1,0 +1,30 @@
+[
+  {
+    "package": "logicFS",
+    "maintainer": "Holger Schwender <holger.schw@gmx.de>",
+    "url": "https://git.bioconductor.org/packages/logicFS",
+    "registry": "bioc"
+  },
+  {
+    "package": "mcbiopi",
+    "maintainer": "Holger Schwender <holger.schw@gmx.de>",
+    "url": "https://github.com/cran/mcbiopi"
+  },
+  {
+    "package": "scrime",
+    "maintainer": "Holger Schwender <holger.schw@gmx.de>",
+    "url": "https://github.com/cran/scrime"
+  },
+  {
+    "package": "siggenes",
+    "maintainer": "Holger Schwender <holger.schw@gmx.de>",
+    "url": "https://git.bioconductor.org/packages/siggenes",
+    "registry": "bioc"
+  },
+  {
+    "package": "trio",
+    "maintainer": "Holger Schwender <holger.schw@gmx.de>",
+    "url": "https://git.bioconductor.org/packages/trio",
+    "registry": "bioc"
+  }
+]

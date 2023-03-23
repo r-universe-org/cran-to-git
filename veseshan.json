@@ -4,5 +4,16 @@
     "maintainer": "Venkatraman E. Seshan <seshanv@mskcc.org>",
     "url": "https://github.com/veseshan/clinfun",
     "available": true
+  },
+  {
+    "package": "DNAcopy",
+    "maintainer": "Venkatraman E. Seshan <seshanv@mskcc.org>",
+    "url": "https://git.bioconductor.org/packages/DNAcopy",
+    "registry": "bioc"
+  },
+  {
+    "package": "genepi",
+    "maintainer": "Venkatraman E. Seshan <seshanv@mskcc.org>",
+    "url": "https://github.com/cran/genepi"
   }
 ]

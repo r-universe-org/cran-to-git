@@ -1,5 +1,20 @@
 [
   {
+    "package": "bayesLife",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/bayesLife"
+  },
+  {
+    "package": "bayesPop",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/bayesPop"
+  },
+  {
+    "package": "bayesTFR",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/bayesTFR"
+  },
+  {
     "package": "BMA",
     "maintainer": "Hana Sevcikova <hanas@uw.edu>",
     "url": "https://github.com/hanase/bma",
@@ -36,6 +51,11 @@
     "available": true
   },
   {
+    "package": "MortCast",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/MortCast"
+  },
+  {
     "package": "rlecuyer",
     "maintainer": "Hana Sevcikova <hanas@uw.edu>",
     "url": "https://github.com/hanase/rlecuyer",
@@ -52,5 +72,40 @@
     "maintainer": "Hana Sevcikova<hanas@uw.edu>",
     "url": "https://github.com/hanase/vote",
     "available": true
+  },
+  {
+    "package": "wpp2008",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2008"
+  },
+  {
+    "package": "wpp2010",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2010"
+  },
+  {
+    "package": "wpp2012",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2012"
+  },
+  {
+    "package": "wpp2015",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2015"
+  },
+  {
+    "package": "wpp2017",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2017"
+  },
+  {
+    "package": "wpp2019",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wpp2019"
+  },
+  {
+    "package": "wppExplorer",
+    "maintainer": "Hana Sevcikova <hanas@uw.edu>",
+    "url": "https://github.com/cran/wppExplorer"
   }
 ]

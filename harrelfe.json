@@ -12,6 +12,11 @@
     "available": true
   },
   {
+    "package": "qreport",
+    "maintainer": "Frank Harrell <fh@fharrell.com>",
+    "url": "https://github.com/cran/qreport"
+  },
+  {
     "package": "rms",
     "maintainer": "Frank E Harrell Jr <fh@fharrell.com>",
     "url": "https://github.com/harrelfe/rms",

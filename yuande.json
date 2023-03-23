@@ -1,5 +1,22 @@
 [
   {
+    "package": "GMRP",
+    "maintainer": "Yuan-De Tan <tanyuande@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/GMRP",
+    "registry": "bioc"
+  },
+  {
+    "package": "MBttest",
+    "maintainer": "Yuan-De Tan <tanyuande@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/MBttest",
+    "registry": "bioc"
+  },
+  {
+    "package": "NBBttest",
+    "maintainer": "Yuan-De Tan <tanyuande@gmail.com>",
+    "url": "https://github.com/cran/NBBttest"
+  },
+  {
     "package": "tatest",
     "maintainer": "Yuan-De Tan <tanyuande@gmail.com>",
     "url": "https://github.com/yuande/tatest",

@@ -1,9 +1,19 @@
 [
   {
+    "package": "eoffice",
+    "maintainer": "Kai Guo <guokai8@gmail.com>",
+    "url": "https://github.com/cran/eoffice"
+  },
+  {
     "package": "microbial",
     "maintainer": "Kai Guo <guokai8@gmail.com>",
     "url": "https://github.com/guokai8/microbial",
     "available": true
+  },
+  {
+    "package": "o2plsda",
+    "maintainer": "Kai Guo <guokai8@gmail.com>",
+    "url": "https://github.com/cran/o2plsda"
   },
   {
     "package": "VennDetail",

@@ -12,6 +12,11 @@
     "available": true
   },
   {
+    "package": "IntCal",
+    "maintainer": "Maarten Blaauw <maarten.blaauw@qub.ac.uk>",
+    "url": "https://github.com/cran/IntCal"
+  },
+  {
     "package": "rbacon",
     "maintainer": "Maarten Blaauw <maarten.blaauw@qub.ac.uk>",
     "url": "https://github.com/maarten14c/rbacon",

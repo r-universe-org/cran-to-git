@@ -12,5 +12,16 @@
     "url": "https://github.com/jipingw/nupop",
     "available": true,
     "registry": "bioc"
+  },
+  {
+    "package": "RiboDiPA",
+    "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
+    "url": "https://git.bioconductor.org/packages/RiboDiPA",
+    "registry": "bioc"
+  },
+  {
+    "package": "SPECIES",
+    "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
+    "url": "https://github.com/cran/SPECIES"
   }
 ]
