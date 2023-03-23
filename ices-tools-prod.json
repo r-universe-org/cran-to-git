@@ -30,12 +30,6 @@
     "available": true
   },
   {
-    "package": "icesSD",
-    "maintainer": "Colin Millar <colin.millar@ices.dk>",
-    "url": "https://github.com/ices-tools-prod/icesdatsuqc",
-    "available": false
-  },
-  {
     "package": "icesTAF",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icestaf",

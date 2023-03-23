@@ -49,13 +49,6 @@
     "available": true
   },
   {
-    "package": "selectKSigs",
-    "maintainer": "Zhi Yang <zyang895@gmail.com>",
-    "url": "https://github.com/uscbiostats/hilda",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
     "package": "slurmR",
     "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
     "url": "https://github.com/uscbiostats/slurmr",

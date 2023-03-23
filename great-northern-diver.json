@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "loon",
-    "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
-    "url": "https://github.com/great-northern-diver/loon",
-    "available": false
-  },
-  {
     "package": "loon.data",
     "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
     "url": "https://github.com/great-northern-diver/loon.data",

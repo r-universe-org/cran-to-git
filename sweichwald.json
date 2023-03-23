@@ -5,11 +5,5 @@
     "url": "https://github.com/sweichwald/coroica-r",
     "subdir": "coroICA",
     "available": true
-  },
-  {
-    "package": "groupICA",
-    "maintainer": "Niklas Pfister <pfister@stat.math.ethz.ch>",
-    "url": "https://github.com/sweichwald/groupica-r",
-    "available": false
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "package": "conformalInference.fd",
-    "maintainer": "Paolo Vergottini <paolo.vergottini@gmail.com>",
-    "url": "https://github.com/ryantibs/conformal",
-    "available": false
-  },
-  {
-    "package": "conformalInference.multi",
-    "maintainer": "Paolo Vergottini <paolo.vergottini@gmail.com>",
-    "url": "https://github.com/ryantibs/conformal",
-    "available": false
-  },
-  {
     "package": "genlasso",
     "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
     "url": "https://github.com/ryantibs/genlasso",

@@ -855,12 +855,6 @@
     "available": true
   },
   {
-    "package": "redland",
-    "maintainer": "Matthew B. Jones <jones@nceas.ucsb.edu>",
-    "url": "https://github.com/ropensci/redland-bindings",
-    "available": false
-  },
-  {
     "package": "RefManageR",
     "maintainer": "Mathew W. McLean <mathew.w.mclean@gmail.com>",
     "url": "https://github.com/ropensci/refmanager",

@@ -12,22 +12,10 @@
     "available": true
   },
   {
-    "package": "CADStat",
-    "maintainer": "David Rebhuhn <rebhuhn.david@epa.gov>",
-    "url": "https://github.com/s-u/cadstat",
-    "available": false
-  },
-  {
     "package": "Cairo",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
     "url": "https://github.com/s-u/cairo",
     "available": true
-  },
-  {
-    "package": "emdist",
-    "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/emd",
-    "available": false
   },
   {
     "package": "fastmatch",

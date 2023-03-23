@@ -12,12 +12,5 @@
     "url": "https://github.com/ghoshlab/marr",
     "available": true,
     "registry": "bioc"
-  },
-  {
-    "package": "pairkat",
-    "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
-    "url": "https://github.com/ghoshlab/pairkat",
-    "available": false,
-    "registry": "bioc"
   }
 ]

@@ -12,12 +12,6 @@
     "available": true
   },
   {
-    "package": "fBasics",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/geobosh/fbasicsdoc",
-    "available": false
-  },
-  {
     "package": "gbutils",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/geobosh/gbutils",
@@ -70,18 +64,6 @@
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/geobosh/stableestim",
     "available": true
-  },
-  {
-    "package": "timeDate",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/geobosh/timedatedoc",
-    "available": false
-  },
-  {
-    "package": "timeSeries",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/geobosh/timeseriesdoc",
-    "available": false
   },
   {
     "package": "uroot",

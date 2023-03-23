@@ -42,12 +42,6 @@
     "available": true
   },
   {
-    "package": "BimodalIndex",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
     "package": "BiplotGUI",
     "maintainer": "Niel le Roux <njlr@sun.ac.za>",
     "url": "https://github.com/r-forge/biplotgui",
@@ -109,12 +103,6 @@
     "url": "https://github.com/r-forge/oompa",
     "subdir": "pkg/ClassDiscovery",
     "available": true
-  },
-  {
-    "package": "CloneSeeker",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "cobs",
@@ -185,12 +173,6 @@
     "url": "https://github.com/r-forge/ctm",
     "subdir": "pkg/cotram",
     "available": true
-  },
-  {
-    "package": "CrossValidate",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "deSolve",
@@ -275,12 +257,6 @@
     "url": "https://github.com/r-forge/tsanalysis",
     "subdir": "pkg/dse",
     "available": true
-  },
-  {
-    "package": "dtw",
-    "maintainer": "Toni Giorgino <toni.giorgino@gmail.com>",
-    "url": "https://github.com/r-forge/dtw",
-    "available": false
   },
   {
     "package": "Eagle",
@@ -381,12 +357,6 @@
     "available": true
   },
   {
-    "package": "GenAlgo",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
     "package": "GeneralizedHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",
@@ -450,23 +420,11 @@
     "available": true
   },
   {
-    "package": "integIRTy",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
     "package": "isotone",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",
     "subdir": "pkg/isotone",
     "available": true
-  },
-  {
-    "package": "JM",
-    "maintainer": "Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>",
-    "url": "https://github.com/r-forge/jmr",
-    "available": false
   },
   {
     "package": "latticeExtra",
@@ -490,13 +448,6 @@
     "available": true
   },
   {
-    "package": "lpsymphony",
-    "maintainer": "Vladislav Kim <Vladislav.Kim@embl.de>",
-    "url": "https://github.com/r-forge/rsymphony",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
     "package": "maptools",
     "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
     "url": "https://github.com/r-forge/maptools",
@@ -518,23 +469,11 @@
     "available": true
   },
   {
-    "package": "Mercator",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
     "package": "meteo",
     "maintainer": "Milan Kilibarda <kili@grf.bg.ac.rs>",
     "url": "https://github.com/r-forge/meteo",
     "subdir": "pkg",
     "available": true
-  },
-  {
-    "package": "metRology",
-    "maintainer": "Stephen L R Ellison <s.ellison@lgcgroup.com>",
-    "url": "https://github.com/r-forge/metrology",
-    "available": false
   },
   {
     "package": "minqa",
@@ -563,12 +502,6 @@
     "url": "https://github.com/r-forge/ctm",
     "subdir": "pkg/mlt.docreg",
     "available": true
-  },
-  {
-    "package": "Modeler",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "modEvA",
@@ -620,18 +553,6 @@
     "available": true
   },
   {
-    "package": "NameNeedle",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
-    "package": "NewmanOmics",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
-  },
-  {
     "package": "numDeriv",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/optimizer",
@@ -660,23 +581,11 @@
     "available": true
   },
   {
-    "package": "partykit",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/partykit",
-    "available": false
-  },
-  {
     "package": "pcalg",
     "maintainer": "Markus Kalisch <kalisch@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/pcalg",
     "subdir": "pkg",
     "available": true
-  },
-  {
-    "package": "PCDimension",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "pedigreemm",
@@ -782,12 +691,6 @@
     "url": "https://github.com/r-forge/rcplex",
     "subdir": "pkg",
     "available": true
-  },
-  {
-    "package": "RCytoGPS",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "rgdal",
@@ -1056,23 +959,11 @@
     "available": true
   },
   {
-    "package": "seqinr",
-    "maintainer": "Simon Penel <simon.penel@univ-lyon1.fr>",
-    "url": "https://github.com/r-forge/seqinr",
-    "available": false
-  },
-  {
     "package": "setRNG",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/distr",
     "subdir": "pkg/setRNG",
     "available": true
-  },
-  {
-    "package": "SIBERG",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "sirad",
@@ -1160,12 +1051,6 @@
     "available": true
   },
   {
-    "package": "survey",
-    "maintainer": "\"Thomas Lumley\" <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/r-forge/r-survey",
-    "available": false
-  },
-  {
     "package": "systemfit",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/systemfit",
@@ -1213,12 +1098,6 @@
     "url": "https://github.com/r-forge/tsanalysis",
     "subdir": "pkg/tframePlus",
     "available": true
-  },
-  {
-    "package": "Thresher",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "tm",
@@ -1296,12 +1175,6 @@
     "url": "https://github.com/r-forge/tscount",
     "subdir": "pkg",
     "available": true
-  },
-  {
-    "package": "Umpire",
-    "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
-    "url": "https://github.com/r-forge/oompa",
-    "available": false
   },
   {
     "package": "urbin",

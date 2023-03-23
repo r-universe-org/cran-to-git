@@ -14,13 +14,6 @@
     "registry": "bioc"
   },
   {
-    "package": "qpgraph",
-    "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
-    "url": "https://github.com/rcastelo/rcastelo",
-    "available": false,
-    "registry": "bioc"
-  },
-  {
     "package": "VariantFiltering",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/variantfiltering",

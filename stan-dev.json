@@ -24,12 +24,6 @@
     "available": true
   },
   {
-    "package": "rstan",
-    "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
-    "url": "https://github.com/stan-dev/rstan",
-    "available": false
-  },
-  {
     "package": "rstanarm",
     "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
     "url": "https://github.com/stan-dev/rstanarm",
