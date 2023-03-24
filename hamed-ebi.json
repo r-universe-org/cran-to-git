@@ -1,0 +1,19 @@
+[
+  {
+    "package": "OpenStats",
+    "maintainer": "Hamed Haseli Mashhadi <hamedhm@ebi.ac.uk>",
+    "url": "https://git.bioconductor.org/packages/OpenStats",
+    "registry": "bioc"
+  },
+  {
+    "package": "PhenStat",
+    "maintainer": "Hamed Haselimashhadi <hamedhm@ebi.ac.uk>",
+    "url": "https://git.bioconductor.org/packages/PhenStat",
+    "registry": "bioc"
+  },
+  {
+    "package": "SmoothWin",
+    "maintainer": "Hamed Haselimashhadi <hamedhm@ebi.ac.uk>",
+    "url": "https://github.com/cran/SmoothWin"
+  }
+]

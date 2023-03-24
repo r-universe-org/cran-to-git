@@ -9,7 +9,8 @@
     "package": "anomalize",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/anomalize",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "correlationfunnel",
@@ -33,7 +34,8 @@
     "package": "modeltime.gluonts",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.gluonts",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "modeltime.h2o",
@@ -57,7 +59,8 @@
     "package": "sweep",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/sweep",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "tibbletime",

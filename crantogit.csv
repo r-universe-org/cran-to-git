@@ -254,7 +254,7 @@ AnnotationHub,https://github.com/bioconductor/annotationhub,,bioc
 annotatr,https://github.com/rcavalcante/annotatr,,bioc
 AnnuityRIR,https://github.com/fabriziomaturo/annuityrir,,
 ANOM,https://github.com/philippallmann/anom,,
-anomalize,https://github.com/business-science/anomalize,,
+anomalize,https://github.com/business-science/anomalize,,archived
 anscombiser,https://github.com/paulnorthrop/anscombiser,,
 antaresEditObject,https://github.com/rte-antares-rpackage/antareseditobject,,
 antaresProcessing,https://github.com/rte-antares-rpackage/antaresprocessing,,
@@ -870,6 +870,7 @@ bioimagetools,https://github.com/bioimaginggroup/bioimagetools,,
 bioinactivation,https://github.com/albgarre/bioinactivation,,
 biokNN,https://github.com/mcubillos3/bioknn,,
 biolink,https://github.com/aaronwolen/biolink,,
+biomaRt,https://github.com/grimbough/biomart,,bioc
 biomartr,https://github.com/ropensci/biomartr,,
 BIOMASS,https://github.com/umr-amap/biomass,,
 biometryassist,https://github.com/biometryhub/biometryassist,,
@@ -1158,6 +1159,7 @@ c060,https://github.com/fbertran/c060,,
 c212,https://github.com/rcarragh/c212,,
 c2c,https://github.com/mitchest/c2c,,
 c2d4u.tools,https://github.com/nfultz/c2d4u.tools,,
+c2z,https://github.com/oeysan/c2z,,
 c3,https://github.com/mrjoh3/c3,,
 C443,https://github.com/kuleuven-ppw-okpiv/c443,,
 C50,https://github.com/topepo/c5.0,,
@@ -1500,7 +1502,7 @@ cleaner,https://github.com/msberends/cleaner,,
 cleangeo,https://github.com/eblondel/cleangeo,,
 cleanNLP,https://github.com/statsmaths/cleannlp,,
 cleanrmd,https://github.com/gadenbuie/cleanrmd,,
-cleanTS,https://github.com/mayur1009/cleants,,
+cleanTS,https://github.com/mayur1009/cleants,,archived
 cleaR,https://github.com/joundso/clear,,
 cleaver,https://github.com/sgibb/cleaver,,bioc
 clevr,https://github.com/cleanzr/clevr,,
@@ -1731,7 +1733,7 @@ complexNet,https://github.com/marcosmolla/complexnet,,
 ComplexUpset,https://github.com/krassowski/complex-upset,,
 complmrob,https://github.com/dakep/complmrob,,
 COMPoissonReg,https://github.com/lotze/compoissonreg,,
-composits,https://github.com/sevvandi/composits,,
+composits,https://github.com/sevvandi/composits,,archived
 CompoundDb,https://github.com/rformassspectrometry/compounddb,,bioc
 comprehenr,https://github.com/gdemin/comprehenr,,
 comtradr,https://github.com/ropensci/comtradr,,
@@ -2560,7 +2562,6 @@ diveMove,https://github.com/spluque/divemove,,
 diveR,https://github.com/great-northern-diver/diver,,
 diverse,https://github.com/mguevara/diverse,,
 diversitree,https://github.com/richfitz/diversitree,,
-diveRsity,https://github.com/kkeenan02/diversity,,archived
 diversityForest,https://github.com/romanhornung/diversityforest,,
 divest,https://github.com/jonclayden/divest,,
 divseg,https://github.com/christopherkenny/divseg,,
@@ -3171,6 +3172,7 @@ eventglm,https://github.com/sachsmc/eventglm,,
 EventPointer,https://github.com/jpromeror/eventpointer,,bioc
 eventr,https://github.com/alvarofranq/eventr,,archived
 eventstream,https://github.com/sevvandi/eventstream,,
+EventStudy,https://github.com/eventstudytools/api-wrapper.r,,
 EvidenceSynthesis,https://github.com/ohdsi/evidencesynthesis,,
 EviewsR,https://github.com/sagirumati/eviewsr,,
 evir,https://github.com/bpfaff/evir,,
@@ -4658,7 +4660,6 @@ HiCool,https://github.com/js2264/hicool,,bioc
 hidecan,https://github.com/plantandfoodresearch/hidecan,,
 hierarchicalSets,https://github.com/thomasp85/hierarchicalsets,,
 hierBipartite,https://github.com/calvintchi/hierbipartite,,
-HierDpart,https://github.com/xinghuq/hierdpart,,archived
 hierfstat,https://github.com/jgx65/hierfstat,,
 hierNet,https://github.com/jacobbien/hiernet,,
 HierPortfolios,https://github.com/ctruciosm/hierportfolios,,
@@ -6499,7 +6500,7 @@ modelsummary,https://github.com/vincentarelbundock/modelsummary,,
 modeltests,https://github.com/alexpghayes/modeltests,,
 modeltime,https://github.com/business-science/modeltime,,
 modeltime.ensemble,https://github.com/business-science/modeltime.ensemble,,
-modeltime.gluonts,https://github.com/business-science/modeltime.gluonts,,
+modeltime.gluonts,https://github.com/business-science/modeltime.gluonts,,archived
 modeltime.h2o,https://github.com/business-science/modeltime.h2o,,
 modeltime.resample,https://github.com/business-science/modeltime.resample,,
 moderndive,https://github.com/moderndive/moderndive,,
@@ -11162,7 +11163,7 @@ SwarmSVM,https://github.com/hetong007/swarmsvm,,
 swatches,https://github.com/hrbrmstr/swatches,,
 SWATH2stats,https://github.com/peterblattmann/swath2stats,,bioc
 sweater,https://github.com/chainsawriot/sweater,,
-sweep,https://github.com/business-science/sweep,,
+sweep,https://github.com/business-science/sweep,,archived
 sweidnumbr,https://github.com/ropengov/sweidnumbr,,
 swephR,https://github.com/rstub/swephr,,
 swfdr,https://github.com/leekgroup/swfdr,,bioc
@@ -12106,6 +12107,7 @@ VIC5,https://github.com/cug-hydro/vic5.r,,
 vICC,https://github.com/donaldrwilliams/vicc,,
 vici,https://github.com/sistm/vici,,
 VicmapR,https://github.com/justincally/vicmapr,,
+Vicus,https://github.com/rikenbit/vicus,,
 video,https://github.com/ashbaldry/video,,
 vidger,https://github.com/btmonier/vidger,,bioc
 vietnameseConverter,https://github.com/ecodynizw/vietnameseconverter,,
