@@ -1,5 +1,11 @@
 [
   {
+    "package": "deps",
+    "maintainer": "Peter Solymos <peter@analythium.io>",
+    "url": "https://github.com/analythium/deps",
+    "available": true
+  },
+  {
     "package": "rconfig",
     "maintainer": "Peter Solymos <peter@analythium.io>",
     "url": "https://github.com/analythium/rconfig",

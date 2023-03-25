@@ -1,5 +1,11 @@
 [
   {
+    "package": "brickset",
+    "maintainer": "Jason Bryer <jason@bryer.org>",
+    "url": "https://github.com/jbryer/brickset",
+    "available": true
+  },
+  {
     "package": "likert",
     "maintainer": "Jason Bryer <jason@bryer.org>",
     "url": "https://github.com/jbryer/likert",

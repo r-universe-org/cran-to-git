@@ -1,5 +1,12 @@
 [
   {
+    "package": "cytofQC",
+    "maintainer": "Jill Lundell <jflundell@gmail.com>",
+    "url": "https://github.com/jillbo1000/cytofqc",
+    "available": true,
+    "registry": "bioc"
+  },
+  {
     "package": "EZtune",
     "maintainer": "Jill Lundell <jflundell@gmail.com>",
     "url": "https://github.com/jillbo1000/eztune",
