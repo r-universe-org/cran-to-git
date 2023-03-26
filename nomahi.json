@@ -6,6 +6,11 @@
     "available": true
   },
   {
+    "package": "PINMA",
+    "maintainer": "Hisashi Noma <noma@ism.ac.jp>",
+    "url": "https://github.com/cran/PINMA"
+  },
+  {
     "package": "robustmeta",
     "maintainer": "Hisashi Noma <noma@ism.ac.jp>",
     "url": "https://github.com/cran/robustmeta"
