@@ -1029,6 +1029,13 @@
     "available": true
   },
   {
+    "package": "stabledist",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/stabledist",
+    "available": true
+  },
+  {
     "package": "stops",
     "maintainer": "Thomas Rusch <thomas.rusch@wu.ac.at>",
     "url": "https://github.com/r-forge/stops",

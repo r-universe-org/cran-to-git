@@ -3,13 +3,15 @@
     "package": "healthyR",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "healthyR.ai",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr.ai",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "healthyR.data",
@@ -21,13 +23,15 @@
     "package": "healthyR.ts",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr.ts",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "healthyverse",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyverse",
-    "available": true
+    "available": true,
+    "registry": "archived"
   },
   {
     "package": "tidyAML",
