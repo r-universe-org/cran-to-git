@@ -1,5 +1,11 @@
 [
   {
+    "package": "precondition",
+    "maintainer": "Taras Zakharko <taras.zakharko@gmail.com>",
+    "url": "https://github.com/tzakharko/precondition",
+    "available": true
+  },
+  {
     "package": "toposort",
     "maintainer": "Taras Zakharko <taras.zakharko@gmail.com>",
     "url": "https://github.com/tzakharko/toposort",

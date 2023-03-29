@@ -12,6 +12,12 @@
     "available": true
   },
   {
+    "package": "makeit",
+    "maintainer": "Arni Magnusson <thisisarni@gmail.com>",
+    "url": "https://github.com/arni-magnusson/makeit",
+    "available": true
+  },
+  {
     "package": "MSSQL",
     "maintainer": "Arni Magnusson <thisisarni@gmail.com>",
     "url": "https://github.com/cran/MSSQL"
