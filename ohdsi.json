@@ -2,49 +2,41 @@
   {
     "package": "Andromeda",
     "maintainer": "Adam Black <black@ohdsi.org>",
-    "url": "https://github.com/ohdsi/andromeda",
-    "available": true
+    "url": "https://github.com/ohdsi/andromeda"
   },
   {
     "package": "Cyclops",
     "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
-    "url": "https://github.com/ohdsi/cyclops",
-    "available": true
+    "url": "https://github.com/ohdsi/cyclops"
   },
   {
     "package": "DatabaseConnector",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/databaseconnector",
-    "available": true
+    "url": "https://github.com/ohdsi/databaseconnector"
   },
   {
     "package": "DatabaseConnectorJars",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/databaseconnectorjars",
-    "available": true
+    "url": "https://github.com/ohdsi/databaseconnectorjars"
   },
   {
     "package": "EmpiricalCalibration",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/empiricalcalibration",
-    "available": true
+    "url": "https://github.com/ohdsi/empiricalcalibration"
   },
   {
     "package": "EvidenceSynthesis",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/evidencesynthesis",
-    "available": true
+    "url": "https://github.com/ohdsi/evidencesynthesis"
   },
   {
     "package": "ParallelLogger",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/parallellogger",
-    "available": true
+    "url": "https://github.com/ohdsi/parallellogger"
   },
   {
     "package": "SqlRender",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
-    "url": "https://github.com/ohdsi/sqlrender",
-    "available": true
+    "url": "https://github.com/ohdsi/sqlrender"
   }
 ]

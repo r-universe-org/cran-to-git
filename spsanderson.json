@@ -3,46 +3,39 @@
     "package": "healthyR",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "healthyR.ai",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr.ai",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "healthyR.data",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
-    "url": "https://github.com/spsanderson/healthyr.data",
-    "available": true
+    "url": "https://github.com/spsanderson/healthyr.data"
   },
   {
     "package": "healthyR.ts",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyr.ts",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "healthyverse",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
     "url": "https://github.com/spsanderson/healthyverse",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "tidyAML",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
-    "url": "https://github.com/spsanderson/tidyaml",
-    "available": true
+    "url": "https://github.com/spsanderson/tidyaml"
   },
   {
     "package": "TidyDensity",
     "maintainer": "Steven Sanderson <spsanderson@gmail.com>",
-    "url": "https://github.com/spsanderson/tidydensity",
-    "available": true
+    "url": "https://github.com/spsanderson/tidydensity"
   }
 ]

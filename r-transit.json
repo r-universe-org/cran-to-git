@@ -2,13 +2,11 @@
   {
     "package": "gtfsio",
     "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/r-transit/gtfsio",
-    "available": true
+    "url": "https://github.com/r-transit/gtfsio"
   },
   {
     "package": "tidytransit",
     "maintainer": "Flavio Poletti <flavio.poletti@hotmail.ch>",
-    "url": "https://github.com/r-transit/tidytransit",
-    "available": true
+    "url": "https://github.com/r-transit/tidytransit"
   }
 ]

@@ -2,20 +2,17 @@
   {
     "package": "globe",
     "maintainer": "Adrian Baddeley <adrian.baddeley@curtin.edu.au>",
-    "url": "https://github.com/baddstats/globe",
-    "available": true
+    "url": "https://github.com/baddstats/globe"
   },
   {
     "package": "goftest",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/baddstats/goftest",
-    "available": true
+    "url": "https://github.com/baddstats/goftest"
   },
   {
     "package": "polyclip",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/baddstats/polyclip",
-    "available": true
+    "url": "https://github.com/baddstats/polyclip"
   },
   {
     "package": "scuba",
@@ -30,7 +27,6 @@
   {
     "package": "spatstat.local",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/baddstats/spatstat.local",
-    "available": true
+    "url": "https://github.com/baddstats/spatstat.local"
   }
 ]

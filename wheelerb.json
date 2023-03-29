@@ -8,7 +8,6 @@
     "package": "iCARE",
     "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
     "url": "https://github.com/wheelerb/icare",
-    "available": true,
     "registry": "bioc"
   },
   {
@@ -37,7 +36,6 @@
     "package": "SUITOR",
     "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
     "url": "https://github.com/wheelerb/suitor",
-    "available": true,
     "registry": "bioc"
   }
 ]

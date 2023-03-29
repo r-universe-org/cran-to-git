@@ -3,21 +3,18 @@
     "package": "antiProfiles",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/antiprofiles",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "metagenomeSeq",
     "maintainer": "Joseph N. Paulson <jpaulson@jimmy.harvard.edu>",
     "url": "https://github.com/hcbravolab/metagenomeseq",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
-    "available": true,
     "registry": "bioc"
   }
 ]

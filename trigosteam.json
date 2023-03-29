@@ -3,14 +3,12 @@
     "package": "spaSim",
     "maintainer": "Yuzhou Feng <yuzhou.feng@petermac.org>",
     "url": "https://github.com/trigosteam/spasim",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SPIAT",
     "maintainer": "Yuzhou Feng <yuzhou.feng@petermac.org>",
     "url": "https://github.com/trigosteam/spiat",
-    "available": true,
     "registry": "bioc"
   }
 ]

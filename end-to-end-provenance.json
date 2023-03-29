@@ -2,31 +2,26 @@
   {
     "package": "provExplainR",
     "maintainer": "Barbara Lerner <blerner@mtholyoke.edu>",
-    "url": "https://github.com/end-to-end-provenance/provexplainr",
-    "available": true
+    "url": "https://github.com/end-to-end-provenance/provexplainr"
   },
   {
     "package": "provSummarizeR",
     "maintainer": "Emery Boose <boose@fas.harvard.edu>",
-    "url": "https://github.com/end-to-end-provenance/provsummarizer",
-    "available": true
+    "url": "https://github.com/end-to-end-provenance/provsummarizer"
   },
   {
     "package": "provTraceR",
     "maintainer": "Emery Boose <boose@fas.harvard.edu>",
-    "url": "https://github.com/end-to-end-provenance/provtracer",
-    "available": true
+    "url": "https://github.com/end-to-end-provenance/provtracer"
   },
   {
     "package": "provViz",
     "maintainer": "Barbara Lerner <blerner@mtholyoke.edu>",
-    "url": "https://github.com/end-to-end-provenance/provviz",
-    "available": true
+    "url": "https://github.com/end-to-end-provenance/provviz"
   },
   {
     "package": "rdtLite",
     "maintainer": "Barbara Lerner <blerner@mtholyoke.edu>",
-    "url": "https://github.com/end-to-end-provenance/rdtlite",
-    "available": true
+    "url": "https://github.com/end-to-end-provenance/rdtlite"
   }
 ]

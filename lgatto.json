@@ -3,55 +3,47 @@
     "package": "MSnbase",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/msnbase",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pRoloc",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/proloc",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pRolocGUI",
     "maintainer": "Lisa Breckels <lms79@cam.ac.uk>",
     "url": "https://github.com/lgatto/prolocgui",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "qcmetrics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/qcmetrics",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rols",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rols",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rpx",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/lgatto/rpx",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sequences",
     "maintainer": "Laurent Gatto <lg390@cam.ac.uk>",
-    "url": "https://github.com/lgatto/sequences",
-    "available": true
+    "url": "https://github.com/lgatto/sequences"
   },
   {
     "package": "synapter",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be> Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/lgatto/synapter",
-    "available": true,
     "registry": "bioc"
   }
 ]

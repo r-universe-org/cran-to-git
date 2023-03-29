@@ -2,43 +2,36 @@
   {
     "package": "bayesplot",
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
-    "url": "https://github.com/stan-dev/bayesplot",
-    "available": true
+    "url": "https://github.com/stan-dev/bayesplot"
   },
   {
     "package": "loo",
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
-    "url": "https://github.com/stan-dev/loo",
-    "available": true
+    "url": "https://github.com/stan-dev/loo"
   },
   {
     "package": "posterior",
     "maintainer": "Paul-Christian Bürkner <paul.buerkner@gmail.com>",
-    "url": "https://github.com/stan-dev/posterior",
-    "available": true
+    "url": "https://github.com/stan-dev/posterior"
   },
   {
     "package": "projpred",
     "maintainer": "Frank Weber <fweber144@protonmail.com>",
-    "url": "https://github.com/stan-dev/projpred",
-    "available": true
+    "url": "https://github.com/stan-dev/projpred"
   },
   {
     "package": "rstanarm",
     "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
-    "url": "https://github.com/stan-dev/rstanarm",
-    "available": true
+    "url": "https://github.com/stan-dev/rstanarm"
   },
   {
     "package": "rstantools",
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
-    "url": "https://github.com/stan-dev/rstantools",
-    "available": true
+    "url": "https://github.com/stan-dev/rstantools"
   },
   {
     "package": "shinystan",
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
-    "url": "https://github.com/stan-dev/shinystan",
-    "available": true
+    "url": "https://github.com/stan-dev/shinystan"
   }
 ]

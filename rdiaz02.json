@@ -4,7 +4,6 @@
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
     "url": "https://github.com/rdiaz02/adacgh2",
     "subdir": "ADaCGH2",
-    "available": true,
     "registry": "bioc"
   },
   {
@@ -12,19 +11,16 @@
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
     "url": "https://github.com/rdiaz02/oncosimul",
     "subdir": "OncoSimulR",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "PHYLOGR",
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
-    "url": "https://github.com/rdiaz02/phylogr",
-    "available": true
+    "url": "https://github.com/rdiaz02/phylogr"
   },
   {
     "package": "varSelRF",
     "maintainer": "Ramon Diaz-Uriarte <rdiaz02@gmail.com>",
-    "url": "https://github.com/rdiaz02/varselrf",
-    "available": true
+    "url": "https://github.com/rdiaz02/varselrf"
   }
 ]

@@ -2,13 +2,11 @@
   {
     "package": "igraph",
     "maintainer": "Tamás Nepusz <ntamas@gmail.com>",
-    "url": "https://github.com/igraph/rigraph",
-    "available": true
+    "url": "https://github.com/igraph/rigraph"
   },
   {
     "package": "igraphdata",
     "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/igraph/igraphdata",
-    "available": true
+    "url": "https://github.com/igraph/igraphdata"
   }
 ]

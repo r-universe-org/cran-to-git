@@ -3,14 +3,12 @@
     "package": "rifi",
     "maintainer": "Jens Georg <jens.georg@biologie.uni-freiburg.de>",
     "url": "https://github.com/cyanolabfreiburg/rifi",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rifiComparative",
     "maintainer": "Loubna Youssar <lyoussar@gmail.com>",
     "url": "https://github.com/cyanolabfreiburg/rificomparative",
-    "available": true,
     "registry": "bioc"
   }
 ]

@@ -3,59 +3,50 @@
     "package": "ppcseq",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/ppcseq",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sccomp",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/sccomp",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tidybulk",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidybulk",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tidygate",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidygate",
-    "available": true
+    "url": "https://github.com/stemangiola/tidygate"
   },
   {
     "package": "tidyHeatmap",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidyheatmap",
-    "available": true
+    "url": "https://github.com/stemangiola/tidyheatmap"
   },
   {
     "package": "tidyseurat",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidyseurat",
-    "available": true
+    "url": "https://github.com/stemangiola/tidyseurat"
   },
   {
     "package": "tidySingleCellExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysinglecellexperiment",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysummarizedexperiment",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ttservice",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/ttservice",
-    "available": true
+    "url": "https://github.com/stemangiola/ttservice"
   }
 ]

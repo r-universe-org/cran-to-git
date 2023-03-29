@@ -2,14 +2,12 @@
   {
     "package": "hSDM",
     "maintainer": "Ghislain Vieilledent <ghislain.vieilledent@cirad.fr>",
-    "url": "https://github.com/ghislainv/hsdm",
-    "available": true
+    "url": "https://github.com/ghislainv/hsdm"
   },
   {
     "package": "jSDM",
     "maintainer": "Jeanne Cl<c3><a9>ment <jeanne.clement16@laposte.net>",
     "url": "https://github.com/ghislainv/jsdm",
-    "available": true,
     "registry": "archived"
   }
 ]

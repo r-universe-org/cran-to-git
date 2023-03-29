@@ -2,157 +2,131 @@
   {
     "package": "blob",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/tidyverse/blob",
-    "available": true
+    "url": "https://github.com/tidyverse/blob"
   },
   {
     "package": "dbplyr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/dbplyr",
-    "available": true
+    "url": "https://github.com/tidyverse/dbplyr"
   },
   {
     "package": "dplyr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/dplyr",
-    "available": true
+    "url": "https://github.com/tidyverse/dplyr"
   },
   {
     "package": "dtplyr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/dtplyr",
-    "available": true
+    "url": "https://github.com/tidyverse/dtplyr"
   },
   {
     "package": "forcats",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/forcats",
-    "available": true
+    "url": "https://github.com/tidyverse/forcats"
   },
   {
     "package": "ggplot2",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
-    "url": "https://github.com/tidyverse/ggplot2",
-    "available": true
+    "url": "https://github.com/tidyverse/ggplot2"
   },
   {
     "package": "glue",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/tidyverse/glue",
-    "available": true
+    "url": "https://github.com/tidyverse/glue"
   },
   {
     "package": "googledrive",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
-    "url": "https://github.com/tidyverse/googledrive",
-    "available": true
+    "url": "https://github.com/tidyverse/googledrive"
   },
   {
     "package": "googlesheets4",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
-    "url": "https://github.com/tidyverse/googlesheets4",
-    "available": true
+    "url": "https://github.com/tidyverse/googlesheets4"
   },
   {
     "package": "haven",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/haven",
-    "available": true
+    "url": "https://github.com/tidyverse/haven"
   },
   {
     "package": "hms",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/tidyverse/hms",
-    "available": true
+    "url": "https://github.com/tidyverse/hms"
   },
   {
     "package": "lubridate",
     "maintainer": "Vitalie Spinu <spinuvit@gmail.com>",
-    "url": "https://github.com/tidyverse/lubridate",
-    "available": true
+    "url": "https://github.com/tidyverse/lubridate"
   },
   {
     "package": "magrittr",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/tidyverse/magrittr",
-    "available": true
+    "url": "https://github.com/tidyverse/magrittr"
   },
   {
     "package": "modelr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/modelr",
-    "available": true
+    "url": "https://github.com/tidyverse/modelr"
   },
   {
     "package": "multidplyr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/multidplyr",
-    "available": true
+    "url": "https://github.com/tidyverse/multidplyr"
   },
   {
     "package": "nycflights13",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/nycflights13",
-    "available": true
+    "url": "https://github.com/tidyverse/nycflights13"
   },
   {
     "package": "purrr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/purrr",
-    "available": true
+    "url": "https://github.com/tidyverse/purrr"
   },
   {
     "package": "readr",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
-    "url": "https://github.com/tidyverse/readr",
-    "available": true
+    "url": "https://github.com/tidyverse/readr"
   },
   {
     "package": "readxl",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
-    "url": "https://github.com/tidyverse/readxl",
-    "available": true
+    "url": "https://github.com/tidyverse/readxl"
   },
   {
     "package": "reprex",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/tidyverse/reprex",
-    "available": true
+    "url": "https://github.com/tidyverse/reprex"
   },
   {
     "package": "rvest",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/rvest",
-    "available": true
+    "url": "https://github.com/tidyverse/rvest"
   },
   {
     "package": "stringr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/stringr",
-    "available": true
+    "url": "https://github.com/tidyverse/stringr"
   },
   {
     "package": "tibble",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/tidyverse/tibble",
-    "available": true
+    "url": "https://github.com/tidyverse/tibble"
   },
   {
     "package": "tidyr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/tidyverse/tidyr",
-    "available": true
+    "url": "https://github.com/tidyverse/tidyr"
   },
   {
     "package": "tidyverse",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/tidyverse/tidyverse",
-    "available": true
+    "url": "https://github.com/tidyverse/tidyverse"
   },
   {
     "package": "vroom",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/tidyverse/vroom",
-    "available": true
+    "url": "https://github.com/tidyverse/vroom"
   }
 ]

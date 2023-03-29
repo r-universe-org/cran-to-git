@@ -2,14 +2,12 @@
   {
     "package": "ggarchery",
     "maintainer": "Matthew Hall <matthew.hall@bdi.ox.ac.uk>",
-    "url": "https://github.com/mdhall272/ggarchery",
-    "available": true
+    "url": "https://github.com/mdhall272/ggarchery"
   },
   {
     "package": "STraTUS",
     "maintainer": "Matthew Hall <matthew.hall@bdi.ox.ac.uk>",
     "url": "https://github.com/mdhall272/stratus",
-    "subdir": "STraTUS",
-    "available": true
+    "subdir": "STraTUS"
   }
 ]

@@ -2,32 +2,27 @@
   {
     "package": "augmentedRCBD",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/augmentedrcbd",
-    "available": true
+    "url": "https://github.com/aravind-j/augmentedrcbd"
   },
   {
     "package": "EvaluateCore",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/evaluatecore",
-    "available": true
+    "url": "https://github.com/aravind-j/evaluatecore"
   },
   {
     "package": "germinationmetrics",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/germinationmetrics",
-    "available": true
+    "url": "https://github.com/aravind-j/germinationmetrics"
   },
   {
     "package": "PGRdup",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/pgrdup",
-    "available": true
+    "url": "https://github.com/aravind-j/pgrdup"
   },
   {
     "package": "rmelting",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
     "url": "https://github.com/aravind-j/rmelting",
-    "available": true,
     "registry": "bioc"
   }
 ]

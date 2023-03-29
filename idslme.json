@@ -3,56 +3,48 @@
     "package": "IDSL.CSA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.csa",
-    "subdir": "IDSL.CSA",
-    "available": true
+    "subdir": "IDSL.CSA"
   },
   {
     "package": "IDSL.FSA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.fsa",
-    "subdir": "IDSL.FSA",
-    "available": true
+    "subdir": "IDSL.FSA"
   },
   {
     "package": "IDSL.IPA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.ipa",
-    "subdir": "IDSL.IPA",
-    "available": true
+    "subdir": "IDSL.IPA"
   },
   {
     "package": "IDSL.MXP",
     "maintainer": "Dinesh Barupal <dinesh.barupal@mssm.edu>",
     "url": "https://github.com/idslme/idsl.mxp",
-    "subdir": "IDSL.MXP",
-    "available": true
+    "subdir": "IDSL.MXP"
   },
   {
     "package": "IDSL.NPA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.npa",
-    "subdir": "IDSL.NPA",
-    "available": true
+    "subdir": "IDSL.NPA"
   },
   {
     "package": "IDSL.SUFA",
     "maintainer": "Dinesh Barupal <dinesh.barupal@mssm.edu>",
     "url": "https://github.com/idslme/idsl.sufa",
-    "subdir": "IDSL.SUFA",
-    "available": true
+    "subdir": "IDSL.SUFA"
   },
   {
     "package": "IDSL.UFA",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.ufa",
-    "subdir": "IDSL.UFA",
-    "available": true
+    "subdir": "IDSL.UFA"
   },
   {
     "package": "IDSL.UFAx",
     "maintainer": "Sadjad Fakouri-Baygi <sadjad.fakouri-baygi@mssm.edu>",
     "url": "https://github.com/idslme/idsl.ufax",
-    "subdir": "IDSL.UFAx",
-    "available": true
+    "subdir": "IDSL.UFAx"
   }
 ]

@@ -2,37 +2,31 @@
   {
     "package": "radiant",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant"
   },
   {
     "package": "radiant.basics",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.basics",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant.basics"
   },
   {
     "package": "radiant.data",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.data",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant.data"
   },
   {
     "package": "radiant.design",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.design",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant.design"
   },
   {
     "package": "radiant.model",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.model",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant.model"
   },
   {
     "package": "radiant.multivariate",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.multivariate",
-    "available": true
+    "url": "https://github.com/radiant-rstats/radiant.multivariate"
   }
 ]

@@ -3,14 +3,12 @@
     "package": "CancerSubtypes",
     "maintainer": "Taosheng Xu <taosheng.x@gmail.com>",
     "url": "https://github.com/taoshengxu/cancersubtypes",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "miRBaseConverter",
     "maintainer": "Taosheng Xu<taosheng.x@gmail.com>",
     "url": "https://github.com/taoshengxu/mirbaseconverter",
-    "available": true,
     "registry": "bioc"
   }
 ]

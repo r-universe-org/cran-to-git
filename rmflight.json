@@ -3,13 +3,11 @@
     "package": "categoryCompare",
     "maintainer": "Robert M. Flight <rflight79@gmail.com>",
     "url": "https://github.com/rmflight/categorycompare",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "knitrProgressBar",
     "maintainer": "Robert M Flight <rflight79@gmail.com>",
-    "url": "https://github.com/rmflight/knitrprogressbar",
-    "available": true
+    "url": "https://github.com/rmflight/knitrprogressbar"
   }
 ]

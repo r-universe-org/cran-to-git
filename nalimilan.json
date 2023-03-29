@@ -2,21 +2,18 @@
   {
     "package": "logmult",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
-    "url": "https://github.com/nalimilan/logmult",
-    "available": true
+    "url": "https://github.com/nalimilan/logmult"
   },
   {
     "package": "R.temis",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "subdir": "R.temis",
-    "available": true
+    "subdir": "R.temis"
   },
   {
     "package": "R2HTML",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
-    "url": "https://github.com/nalimilan/r2html",
-    "available": true
+    "url": "https://github.com/nalimilan/r2html"
   },
   {
     "package": "RcmdrPlugin.temis",
@@ -27,21 +24,18 @@
     "package": "SnowballC",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "subdir": "SnowballC",
-    "available": true
+    "subdir": "SnowballC"
   },
   {
     "package": "tm.plugin.factiva",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "subdir": "tm.plugin.factiva",
-    "available": true
+    "subdir": "tm.plugin.factiva"
   },
   {
     "package": "tm.plugin.lexisnexis",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",
-    "subdir": "tm.plugin.lexisnexis",
-    "available": true
+    "subdir": "tm.plugin.lexisnexis"
   }
 ]

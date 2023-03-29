@@ -2,62 +2,52 @@
   {
     "package": "aphylo",
     "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
-    "url": "https://github.com/uscbiostats/aphylo",
-    "available": true
+    "url": "https://github.com/uscbiostats/aphylo"
   },
   {
     "package": "cit",
     "maintainer": "Joshua Millstein <joshua.millstein@usc.edu>",
-    "url": "https://github.com/uscbiostats/cit",
-    "available": true
+    "url": "https://github.com/uscbiostats/cit"
   },
   {
     "package": "fmcmc",
     "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
-    "url": "https://github.com/uscbiostats/fmcmc",
-    "available": true
+    "url": "https://github.com/uscbiostats/fmcmc"
   },
   {
     "package": "HiLDA",
     "maintainer": "Zhi Yang <zyang895@gmail.com>",
     "url": "https://github.com/uscbiostats/hilda",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "hJAM",
     "maintainer": "Lai Jiang <jian848@usc.edu>",
-    "url": "https://github.com/uscbiostats/hjam",
-    "available": true
+    "url": "https://github.com/uscbiostats/hjam"
   },
   {
     "package": "LUCIDus",
     "maintainer": "Yinqi Zhao <yinqiz@usc.edu>",
-    "url": "https://github.com/uscbiostats/lucidus",
-    "available": true
+    "url": "https://github.com/uscbiostats/lucidus"
   },
   {
     "package": "methcon5",
     "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
-    "url": "https://github.com/uscbiostats/methcon5",
-    "available": true
+    "url": "https://github.com/uscbiostats/methcon5"
   },
   {
     "package": "partition",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
-    "url": "https://github.com/uscbiostats/partition",
-    "available": true
+    "url": "https://github.com/uscbiostats/partition"
   },
   {
     "package": "slurmR",
     "maintainer": "George Vega Yon <g.vegayon@gmail.com>",
-    "url": "https://github.com/uscbiostats/slurmr",
-    "available": true
+    "url": "https://github.com/uscbiostats/slurmr"
   },
   {
     "package": "xrnet",
     "maintainer": "Garrett Weaver <gmweaver.usc@gmail.com>",
-    "url": "https://github.com/uscbiostats/xrnet",
-    "available": true
+    "url": "https://github.com/uscbiostats/xrnet"
   }
 ]

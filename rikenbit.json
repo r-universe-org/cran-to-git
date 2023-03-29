@@ -2,75 +2,63 @@
   {
     "package": "ccTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/cctensor",
-    "available": true
+    "url": "https://github.com/rikenbit/cctensor"
   },
   {
     "package": "dcTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/dctensor",
-    "available": true
+    "url": "https://github.com/rikenbit/dctensor"
   },
   {
     "package": "DelayedTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/delayedtensor",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "gcTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/gctensor",
-    "available": true
+    "url": "https://github.com/rikenbit/gctensor"
   },
   {
     "package": "guidedPLS",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/guidedpls",
-    "available": true
+    "url": "https://github.com/rikenbit/guidedpls"
   },
   {
     "package": "meshr",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/meshr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "mwTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/mwtensor",
-    "available": true
+    "url": "https://github.com/rikenbit/mwtensor"
   },
   {
     "package": "nnTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/nntensor",
-    "available": true
+    "url": "https://github.com/rikenbit/nntensor"
   },
   {
     "package": "rTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/rtensor",
-    "available": true
+    "url": "https://github.com/rikenbit/rtensor"
   },
   {
     "package": "ttTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/tttensor",
-    "available": true
+    "url": "https://github.com/rikenbit/tttensor"
   },
   {
     "package": "Vicus",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/vicus",
-    "available": true
+    "url": "https://github.com/rikenbit/vicus"
   },
   {
     "package": "WormTensor",
     "maintainer": "Kentaro Yamamoto <yamaken37.the.answer@gmail.com>",
-    "url": "https://github.com/rikenbit/wormtensor",
-    "available": true
+    "url": "https://github.com/rikenbit/wormtensor"
   }
 ]

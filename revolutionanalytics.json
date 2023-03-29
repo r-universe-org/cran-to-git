@@ -2,26 +2,22 @@
   {
     "package": "checkpoint",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
-    "url": "https://github.com/revolutionanalytics/checkpoint",
-    "available": true
+    "url": "https://github.com/revolutionanalytics/checkpoint"
   },
   {
     "package": "doParallel",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
     "url": "https://github.com/revolutionanalytics/doparallel",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "foreach",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
-    "url": "https://github.com/revolutionanalytics/foreach",
-    "available": true
+    "url": "https://github.com/revolutionanalytics/foreach"
   },
   {
     "package": "iterators",
     "maintainer": "Folashade Daniel <fdaniel@microsoft.com>",
-    "url": "https://github.com/revolutionanalytics/iterators",
-    "available": true
+    "url": "https://github.com/revolutionanalytics/iterators"
   }
 ]

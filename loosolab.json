@@ -2,20 +2,17 @@
   {
     "package": "i2dash",
     "maintainer": "Arsenij Ustjanzew <arsenij.ustjanzew@gmail.com>",
-    "url": "https://github.com/loosolab/i2dash",
-    "available": true
+    "url": "https://github.com/loosolab/i2dash"
   },
   {
     "package": "multicrispr",
     "maintainer": "Aditya Bhagwat <aditya.bhagwat@mpi-bn.mpg.de>",
     "url": "https://github.com/loosolab/multicrispr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "wilson",
     "maintainer": "Hendrik Schultheis <hendrik.schultheis@mpi-bn.mpg.de>",
-    "url": "https://github.com/loosolab/wilson",
-    "available": true
+    "url": "https://github.com/loosolab/wilson"
   }
 ]

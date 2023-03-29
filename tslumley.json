@@ -2,20 +2,17 @@
   {
     "package": "bigQF",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/bigqf",
-    "available": true
+    "url": "https://github.com/tslumley/bigqf"
   },
   {
     "package": "DHBins",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/dhbins",
-    "available": true
+    "url": "https://github.com/tslumley/dhbins"
   },
   {
     "package": "hextri",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/hextri",
-    "available": true
+    "url": "https://github.com/tslumley/hextri"
   },
   {
     "package": "leaps",
@@ -30,8 +27,7 @@
   {
     "package": "rimu",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/rimu",
-    "available": true
+    "url": "https://github.com/tslumley/rimu"
   },
   {
     "package": "rmeta",
@@ -46,13 +42,11 @@
   {
     "package": "svyVGAM",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/svyvgam",
-    "available": true
+    "url": "https://github.com/tslumley/svyvgam"
   },
   {
     "package": "xkcdcolors",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
-    "url": "https://github.com/tslumley/xkcdcolors",
-    "available": true
+    "url": "https://github.com/tslumley/xkcdcolors"
   }
 ]

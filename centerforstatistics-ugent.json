@@ -3,40 +3,34 @@
     "package": "combi",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/combi",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pim",
     "maintainer": "Joris Meys <Joris.Meys@UGent.be>",
-    "url": "https://github.com/centerforstatistics-ugent/pim",
-    "available": true
+    "url": "https://github.com/centerforstatistics-ugent/pim"
   },
   {
     "package": "RCM",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/rcm",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "reconsi",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/reconsi",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SPsimSeq",
     "maintainer": "Joris Meys <Joris.Meys@ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/spsimseq",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "xnet",
     "maintainer": "Joris Meys <Joris.Meys@UGent.be>",
-    "url": "https://github.com/centerforstatistics-ugent/xnet",
-    "available": true
+    "url": "https://github.com/centerforstatistics-ugent/xnet"
   }
 ]

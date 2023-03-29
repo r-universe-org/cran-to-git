@@ -2,14 +2,12 @@
   {
     "package": "biolink",
     "maintainer": "Aaron Wolen <aaron@wolen.com>",
-    "url": "https://github.com/aaronwolen/biolink",
-    "available": true
+    "url": "https://github.com/aaronwolen/biolink"
   },
   {
     "package": "mimager",
     "maintainer": "Aaron Wolen <aaron@wolen.com>",
     "url": "https://github.com/aaronwolen/mimager",
-    "available": true,
     "registry": "bioc"
   }
 ]

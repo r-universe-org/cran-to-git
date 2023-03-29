@@ -2,63 +2,53 @@
   {
     "package": "analogsea",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
-    "url": "https://github.com/pachadotdev/analogsea",
-    "available": true
+    "url": "https://github.com/pachadotdev/analogsea"
   },
   {
     "package": "canadamaps",
     "maintainer": "Mauricio Vargas Sepulveda <mv.sepulveda@mail.utoronto.ca>",
-    "url": "https://github.com/pachadotdev/canadamaps",
-    "available": true
+    "url": "https://github.com/pachadotdev/canadamaps"
   },
   {
     "package": "cepiigeodist",
     "maintainer": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
-    "url": "https://github.com/pachadotdev/cepiigeodist",
-    "available": true
+    "url": "https://github.com/pachadotdev/cepiigeodist"
   },
   {
     "package": "chilemapas",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
-    "url": "https://github.com/pachadotdev/chilemapas",
-    "available": true
+    "url": "https://github.com/pachadotdev/chilemapas"
   },
   {
     "package": "d3po",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
-    "url": "https://github.com/pachadotdev/d3po",
-    "available": true
+    "url": "https://github.com/pachadotdev/d3po"
   },
   {
     "package": "economiccomplexity",
     "maintainer": "Mauricio Vargas <hello+r@pacha.dev>",
-    "url": "https://github.com/pachadotdev/economiccomplexity",
-    "available": true
+    "url": "https://github.com/pachadotdev/economiccomplexity"
   },
   {
     "package": "eflm",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
     "url": "https://github.com/pachadotdev/eflm",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "gravity",
     "maintainer": "Mauricio Vargas <mv.sepulveda@mail.utoronto.ca>",
-    "url": "https://github.com/pachadotdev/gravity",
-    "available": true
+    "url": "https://github.com/pachadotdev/gravity"
   },
   {
     "package": "LSTS",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
-    "url": "https://github.com/pachadotdev/lsts",
-    "available": true
+    "url": "https://github.com/pachadotdev/lsts"
   },
   {
     "package": "tradepolicy",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
     "url": "https://github.com/pachadotdev/tradepolicy",
-    "available": true,
     "registry": "archived"
   }
 ]

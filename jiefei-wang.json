@@ -2,46 +2,39 @@
   {
     "package": "aws.ecx",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/aws.ecx",
-    "available": true
+    "url": "https://github.com/jiefei-wang/aws.ecx"
   },
   {
     "package": "DockerParallel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/dockerparallel",
-    "available": true
+    "url": "https://github.com/jiefei-wang/dockerparallel"
   },
   {
     "package": "gpuMagic",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/gpumagic",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ManagedCloudProvider",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/managedcloudprovider",
-    "available": true
+    "url": "https://github.com/jiefei-wang/managedcloudprovider"
   },
   {
     "package": "RedisBaseContainer",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/redisbasecontainer",
-    "available": true
+    "url": "https://github.com/jiefei-wang/redisbasecontainer"
   },
   {
     "package": "SharedObject",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/sharedobject",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "Travel",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/travel",
-    "available": true,
     "registry": "bioc"
   }
 ]

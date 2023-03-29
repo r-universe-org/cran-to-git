@@ -2,21 +2,18 @@
   {
     "package": "lfe",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
-    "url": "https://github.com/matthieustigler/lfe",
-    "available": true
+    "url": "https://github.com/matthieustigler/lfe"
   },
   {
     "package": "partsm",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
     "url": "https://github.com/matthieustigler/partsm",
-    "subdir": "partsm",
-    "available": true
+    "subdir": "partsm"
   },
   {
     "package": "tsDyn",
     "maintainer": "Matthieu Stigler <Matthieu.Stigler@gmail.com>",
     "url": "https://github.com/matthieustigler/tsdyn",
-    "subdir": "tsDyn",
-    "available": true
+    "subdir": "tsDyn"
   }
 ]

@@ -3,19 +3,16 @@
     "package": "dearseq",
     "maintainer": "Boris P. Hejblum <boris.hejblum@u-bordeaux.fr>",
     "url": "https://github.com/borishejblum/dearseq",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "kernscr",
     "maintainer": "Boris P Hejblum <boris.hejblum@u-bordeaux.fr>",
-    "url": "https://github.com/borishejblum/kernscr",
-    "available": true
+    "url": "https://github.com/borishejblum/kernscr"
   },
   {
     "package": "ludic",
     "maintainer": "Boris P Hejblum <boris.hejblum@u-bordeaux.fr>",
-    "url": "https://github.com/borishejblum/ludic",
-    "available": true
+    "url": "https://github.com/borishejblum/ludic"
   }
 ]

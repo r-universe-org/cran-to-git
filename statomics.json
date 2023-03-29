@@ -3,28 +3,24 @@
     "package": "msqrob2",
     "maintainer": "Lieven Clement <lieven.clement@ugent.be>",
     "url": "https://github.com/statomics/msqrob2",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "satuRn",
     "maintainer": "Jeroen Gilis <jeroen.gilis@ugent.be>",
     "url": "https://github.com/statomics/saturn",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TargetDecoy",
     "maintainer": "Elke Debrie <elkedebrie@gmail.com>",
     "url": "https://github.com/statomics/targetdecoy",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tradeSeq",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://github.com/statomics/tradeseq",
-    "available": true,
     "registry": "bioc"
   }
 ]

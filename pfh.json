@@ -2,14 +2,12 @@
   {
     "package": "langevitour",
     "maintainer": "Paul Harrison <pfh@logarithmic.net>",
-    "url": "https://github.com/pfh/langevitour",
-    "available": true
+    "url": "https://github.com/pfh/langevitour"
   },
   {
     "package": "topconfects",
     "maintainer": "Paul Harrison <paul.harrison@monash.edu>",
     "url": "https://github.com/pfh/topconfects",
-    "available": true,
     "registry": "bioc"
   }
 ]

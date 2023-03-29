@@ -3,14 +3,12 @@
     "package": "GeoDiff",
     "maintainer": "Nicole Ortogero <nortogero@nanostring.com>",
     "url": "https://github.com/nanostring-biostats/geodiff",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SpatialDecon",
     "maintainer": "Maddy Griswold <mgriswold@nanostring.com>",
     "url": "https://github.com/nanostring-biostats/spatialdecon",
-    "available": true,
     "registry": "bioc"
   }
 ]

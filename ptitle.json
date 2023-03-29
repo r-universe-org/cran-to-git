@@ -3,19 +3,16 @@
     "package": "envirem",
     "maintainer": "Pascal Title <pascal.title@stonybrook.edu>",
     "url": "https://github.com/ptitle/envirem",
-    "subdir": "envirem",
-    "available": true
+    "subdir": "envirem"
   },
   {
     "package": "epm",
     "maintainer": "Pascal Title <pascal.title@stonybrook.edu>",
-    "url": "https://github.com/ptitle/epm",
-    "available": true
+    "url": "https://github.com/ptitle/epm"
   },
   {
     "package": "rangeBuilder",
     "maintainer": "Pascal Title <ptitle@umich.edu>",
-    "url": "https://github.com/ptitle/rangebuilder",
-    "available": true
+    "url": "https://github.com/ptitle/rangebuilder"
   }
 ]

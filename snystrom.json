@@ -2,14 +2,12 @@
   {
     "package": "cmdfun",
     "maintainer": "Spencer Nystrom <nystromdev@gmail.com>",
-    "url": "https://github.com/snystrom/cmdfun",
-    "available": true
+    "url": "https://github.com/snystrom/cmdfun"
   },
   {
     "package": "memes",
     "maintainer": "Spencer Nystrom <nystromdev@gmail.com>",
     "url": "https://github.com/snystrom/memes",
-    "available": true,
     "registry": "bioc"
   }
 ]

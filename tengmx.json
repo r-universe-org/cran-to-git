@@ -3,14 +3,12 @@
     "package": "gcapc",
     "maintainer": "Mingxiang Teng <tengmx@gmail.com>",
     "url": "https://github.com/tengmx/gcapc",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rnaseqcomp",
     "maintainer": "Mingxiang Teng <tengmx@gmail.com>",
     "url": "https://github.com/tengmx/rnaseqcomp",
-    "available": true,
     "registry": "bioc"
   }
 ]

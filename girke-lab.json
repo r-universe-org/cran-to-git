@@ -3,56 +3,48 @@
     "package": "bioassayR",
     "maintainer": "Daniela Cassol <danicassol@gmail.com>",
     "url": "https://github.com/girke-lab/bioassayr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ChemmineOB",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/chemmineob",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ChemmineR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/chemminer",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "customCMPdb",
     "maintainer": "Yuzhu Duan <yduan004@ucr.edu>",
     "url": "https://github.com/girke-lab/customcmpdb",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "drugTargetInteractions",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/drugtargetinteractions",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "eiR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/eir",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "fmcsR",
     "maintainer": "Thomas Girke <thomas.girke@ucr.edu>",
     "url": "https://github.com/girke-lab/fmcsr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "signatureSearch",
     "maintainer": "Brendan Gongol <bgong001@ucr.edu>",
     "url": "https://github.com/girke-lab/signaturesearch",
-    "available": true,
     "registry": "bioc"
   }
 ]

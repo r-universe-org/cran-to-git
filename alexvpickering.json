@@ -9,26 +9,22 @@
     "package": "crossmeta",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/crossmeta",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "GEOfastq",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/geofastq",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "shinydlplot",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
-    "url": "https://github.com/alexvpickering/shinydlplot",
-    "available": true
+    "url": "https://github.com/alexvpickering/shinydlplot"
   },
   {
     "package": "shinypanel",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
-    "url": "https://github.com/alexvpickering/shinypanel",
-    "available": true
+    "url": "https://github.com/alexvpickering/shinypanel"
   }
 ]

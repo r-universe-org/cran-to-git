@@ -3,14 +3,12 @@
     "package": "bioCancer",
     "maintainer": "Karim Mezhoud <kmezhoud@gmail.com>",
     "url": "https://github.com/kmezhoud/biocancer",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "canceR",
     "maintainer": "Karim Mezhoud <kmezhoud@gmail.com>",
     "url": "https://github.com/kmezhoud/cancer",
-    "available": true,
     "registry": "bioc"
   }
 ]

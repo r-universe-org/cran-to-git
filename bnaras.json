@@ -2,8 +2,7 @@
   {
     "package": "ASSISTant",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://github.com/bnaras/assistant",
-    "available": true
+    "url": "https://github.com/bnaras/assistant"
   },
   {
     "package": "banditpam",
@@ -13,38 +12,32 @@
   {
     "package": "bcaboot",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.stanford.edu>",
-    "url": "https://github.com/bnaras/bcaboot",
-    "available": true
+    "url": "https://github.com/bnaras/bcaboot"
   },
   {
     "package": "cubature",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.stanford.edu>",
-    "url": "https://github.com/bnaras/cubature",
-    "available": true
+    "url": "https://github.com/bnaras/cubature"
   },
   {
     "package": "deconvolveR",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://github.com/bnaras/deconvolver",
-    "available": true
+    "url": "https://github.com/bnaras/deconvolver"
   },
   {
     "package": "distcomp",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://github.com/bnaras/distcomp",
-    "available": true
+    "url": "https://github.com/bnaras/distcomp"
   },
   {
     "package": "ECOSolveR",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://github.com/bnaras/ecosolver",
-    "available": true
+    "url": "https://github.com/bnaras/ecosolver"
   },
   {
     "package": "homomorpheR",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://github.com/bnaras/homomorpher",
-    "available": true
+    "url": "https://github.com/bnaras/homomorpher"
   },
   {
     "package": "multiview",
@@ -59,7 +52,6 @@
   {
     "package": "PMA",
     "maintainer": "Rob Tibshirani <tibs@stanford.edu>",
-    "url": "https://github.com/bnaras/pma",
-    "available": true
+    "url": "https://github.com/bnaras/pma"
   }
 ]

@@ -2,32 +2,27 @@
   {
     "package": "bellreg",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
-    "url": "https://github.com/fndemarqui/bellreg",
-    "available": true
+    "url": "https://github.com/fndemarqui/bellreg"
   },
   {
     "package": "covid19br",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
     "url": "https://github.com/fndemarqui/covid19br",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "peppm",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
-    "url": "https://github.com/fndemarqui/peppm",
-    "available": true
+    "url": "https://github.com/fndemarqui/peppm"
   },
   {
     "package": "YPBP",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
-    "url": "https://github.com/fndemarqui/ypbp",
-    "available": true
+    "url": "https://github.com/fndemarqui/ypbp"
   },
   {
     "package": "YPPE",
     "maintainer": "Fabio Demarqui <fndemarqui@est.ufmg.br>",
-    "url": "https://github.com/fndemarqui/yppe",
-    "available": true
+    "url": "https://github.com/fndemarqui/yppe"
   }
 ]

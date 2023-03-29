@@ -2,32 +2,27 @@
   {
     "package": "describer",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
-    "url": "https://github.com/paulhendricks/describer",
-    "available": true
+    "url": "https://github.com/paulhendricks/describer"
   },
   {
     "package": "detector",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
-    "url": "https://github.com/paulhendricks/detector",
-    "available": true
+    "url": "https://github.com/paulhendricks/detector"
   },
   {
     "package": "generator",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
-    "url": "https://github.com/paulhendricks/generator",
-    "available": true
+    "url": "https://github.com/paulhendricks/generator"
   },
   {
     "package": "gym",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
     "url": "https://github.com/paulhendricks/gym-r",
-    "subdir": "gym",
-    "available": true
+    "subdir": "gym"
   },
   {
     "package": "titanic",
     "maintainer": "Paul Hendricks <paul.hendricks.2013@owu.edu>",
-    "url": "https://github.com/paulhendricks/titanic",
-    "available": true
+    "url": "https://github.com/paulhendricks/titanic"
   }
 ]

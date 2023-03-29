@@ -3,68 +3,58 @@
     "package": "dcmodify",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/dcmodify",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "dcmodifydb",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/dcmodifydb",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "deducorrect",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deducorrect",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "deductive",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deductive",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "editrules",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/editrules",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "errorlocate",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/errorlocate",
-    "available": true
+    "url": "https://github.com/data-cleaning/errorlocate"
   },
   {
     "package": "lintools",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/lintools",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "validate",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/validate",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "validatedb",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/validatedb",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "validatetools",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/validatetools",
-    "available": true
+    "url": "https://github.com/data-cleaning/validatetools"
   }
 ]

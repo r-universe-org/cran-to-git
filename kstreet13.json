@@ -2,28 +2,24 @@
   {
     "package": "mazing",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
-    "url": "https://github.com/kstreet13/mazing",
-    "available": true
+    "url": "https://github.com/kstreet13/mazing"
   },
   {
     "package": "scry",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/scry",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "slingshot",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/slingshot",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "VDJdive",
     "maintainer": "Kelly Street <street.kelly@gmail.com>",
     "url": "https://github.com/kstreet13/vdjdive",
-    "available": true,
     "registry": "bioc"
   }
 ]

@@ -2,26 +2,22 @@
   {
     "package": "filematrix",
     "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
-    "url": "https://github.com/andreyshabalin/filematrix",
-    "available": true
+    "url": "https://github.com/andreyshabalin/filematrix"
   },
   {
     "package": "MatrixEQTL",
     "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
-    "url": "https://github.com/andreyshabalin/matrixeqtl",
-    "available": true
+    "url": "https://github.com/andreyshabalin/matrixeqtl"
   },
   {
     "package": "ramwas",
     "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
     "url": "https://github.com/andreyshabalin/ramwas",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "shiftR",
     "maintainer": "Andrey A Shabalin <andrey.shabalin@gmail.com>",
-    "url": "https://github.com/andreyshabalin/shiftr",
-    "available": true
+    "url": "https://github.com/andreyshabalin/shiftr"
   }
 ]

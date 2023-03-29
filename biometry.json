@@ -3,14 +3,12 @@
     "package": "bipartite",
     "maintainer": "Carsten F. Dormann <carsten.dormann@biom.uni-freiburg.de>",
     "url": "https://github.com/biometry/bipartite",
-    "subdir": "bipartite",
-    "available": true
+    "subdir": "bipartite"
   },
   {
     "package": "tapnet",
     "maintainer": "Carsten Dormann <carsten.dormann@biom.uni-freiburg.de>",
     "url": "https://github.com/biometry/tapnet",
-    "subdir": "tapnet",
-    "available": true
+    "subdir": "tapnet"
   }
 ]

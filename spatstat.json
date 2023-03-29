@@ -2,61 +2,51 @@
   {
     "package": "spatstat",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat"
   },
   {
     "package": "spatstat.data",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.data",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.data"
   },
   {
     "package": "spatstat.explore",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.explore",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.explore"
   },
   {
     "package": "spatstat.geom",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.geom",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.geom"
   },
   {
     "package": "spatstat.Knet",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.knet",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.knet"
   },
   {
     "package": "spatstat.linnet",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.linnet",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.linnet"
   },
   {
     "package": "spatstat.model",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.model",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.model"
   },
   {
     "package": "spatstat.random",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.random",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.random"
   },
   {
     "package": "spatstat.sparse",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.sparse",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.sparse"
   },
   {
     "package": "spatstat.utils",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
-    "url": "https://github.com/spatstat/spatstat.utils",
-    "available": true
+    "url": "https://github.com/spatstat/spatstat.utils"
   }
 ]

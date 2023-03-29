@@ -2,19 +2,16 @@
   {
     "package": "FDboost",
     "maintainer": "David Ruegamer <david.ruegamer@gmail.com>",
-    "url": "https://github.com/boost-r/fdboost",
-    "available": true
+    "url": "https://github.com/boost-r/fdboost"
   },
   {
     "package": "gamboostLSS",
     "maintainer": "Benjamin Hofner <benjamin.hofner@pei.de>",
-    "url": "https://github.com/boost-r/gamboostlss",
-    "available": true
+    "url": "https://github.com/boost-r/gamboostlss"
   },
   {
     "package": "mboost",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/boost-r/mboost",
-    "available": true
+    "url": "https://github.com/boost-r/mboost"
   }
 ]

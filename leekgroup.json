@@ -3,35 +3,30 @@
     "package": "derfinderHelper",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/derfinderhelper",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "derfinderPlot",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/derfinderplot",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "recount",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/recount",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "regionReport",
     "maintainer": "Leonardo Collado-Torres <lcolladotor@gmail.com>",
     "url": "https://github.com/leekgroup/regionreport",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "swfdr",
     "maintainer": "Simina M. Boca <smb310@georgetown.edu>",
     "url": "https://github.com/leekgroup/swfdr",
-    "available": true,
     "registry": "bioc"
   }
 ]

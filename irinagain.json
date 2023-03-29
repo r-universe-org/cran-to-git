@@ -2,14 +2,12 @@
   {
     "package": "DAP",
     "maintainer": "Tianying Wang <tianying@stat.tamu.edu>",
-    "url": "https://github.com/irinagain/dap",
-    "available": true
+    "url": "https://github.com/irinagain/dap"
   },
   {
     "package": "iglu",
     "maintainer": "Irina Gaynanova <irinag@stat.tamu.edu>",
-    "url": "https://github.com/irinagain/iglu",
-    "available": true
+    "url": "https://github.com/irinagain/iglu"
   },
   {
     "package": "MGSDA",
@@ -19,7 +17,6 @@
   {
     "package": "mixedCCA",
     "maintainer": "Irina Gaynanova <irinag@stat.tamu.edu>",
-    "url": "https://github.com/irinagain/mixedcca",
-    "available": true
+    "url": "https://github.com/irinagain/mixedcca"
   }
 ]

@@ -2,37 +2,31 @@
   {
     "package": "admiral",
     "maintainer": "Thomas Neitmann <thomas.neitmann@roche.com>",
-    "url": "https://github.com/pharmaverse/admiral",
-    "available": true
+    "url": "https://github.com/pharmaverse/admiral"
   },
   {
     "package": "admiraldev",
     "maintainer": "Ben Straub <ben.x.straub@gsk.com>",
-    "url": "https://github.com/pharmaverse/admiraldev",
-    "available": true
+    "url": "https://github.com/pharmaverse/admiraldev"
   },
   {
     "package": "admiralophtha",
     "maintainer": "Edoardo Mancini <edoardo.mancini@roche.com>",
-    "url": "https://github.com/pharmaverse/admiralophtha",
-    "available": true
+    "url": "https://github.com/pharmaverse/admiralophtha"
   },
   {
     "package": "logrx",
     "maintainer": "Nathan Kosiba <nhkosiba@gmail.com>",
-    "url": "https://github.com/pharmaverse/logrx",
-    "available": true
+    "url": "https://github.com/pharmaverse/logrx"
   },
   {
     "package": "metatools",
     "maintainer": "Christina Fillmore <christina.e.fillmore@gsk.com>",
-    "url": "https://github.com/pharmaverse/metatools",
-    "available": true
+    "url": "https://github.com/pharmaverse/metatools"
   },
   {
     "package": "pharmaverse",
     "maintainer": "Ari Siggaard Knoph <aikp@novonordisk.com>",
-    "url": "https://github.com/pharmaverse/pharmaverse-pkg",
-    "available": true
+    "url": "https://github.com/pharmaverse/pharmaverse-pkg"
   }
 ]

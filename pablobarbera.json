@@ -3,21 +3,18 @@
     "package": "instaR",
     "maintainer": "Pablo Barbera <pbarbera@usc.edu>",
     "url": "https://github.com/pablobarbera/instar",
-    "subdir": "instaR",
-    "available": true
+    "subdir": "instaR"
   },
   {
     "package": "Rfacebook",
     "maintainer": "Pablo Barbera <pbarbera@usc.edu>",
     "url": "https://github.com/pablobarbera/rfacebook",
-    "subdir": "Rfacebook",
-    "available": true
+    "subdir": "Rfacebook"
   },
   {
     "package": "ROAuth",
     "maintainer": "Pablo Barbera <pablo.barbera@nyu.edu>",
-    "url": "https://github.com/pablobarbera/roauth",
-    "available": true
+    "url": "https://github.com/pablobarbera/roauth"
   },
   {
     "package": "streamR",

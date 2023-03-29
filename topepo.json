@@ -2,58 +2,49 @@
   {
     "package": "AmesHousing",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/topepo/ameshousing",
-    "available": true
+    "url": "https://github.com/topepo/ameshousing"
   },
   {
     "package": "AppliedPredictiveModeling",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
-    "url": "https://github.com/topepo/appliedpredictivemodeling",
-    "available": true
+    "url": "https://github.com/topepo/appliedpredictivemodeling"
   },
   {
     "package": "beans",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
-    "url": "https://github.com/topepo/beans",
-    "available": true
+    "url": "https://github.com/topepo/beans"
   },
   {
     "package": "C50",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
-    "url": "https://github.com/topepo/c5.0",
-    "available": true
+    "url": "https://github.com/topepo/c5.0"
   },
   {
     "package": "caret",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/caret",
-    "subdir": "pkg/caret",
-    "available": true
+    "subdir": "pkg/caret"
   },
   {
     "package": "Cubist",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
-    "url": "https://github.com/topepo/cubist",
-    "available": true
+    "url": "https://github.com/topepo/cubist"
   },
   {
     "package": "desirability",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/desirability",
-    "subdir": "desirability",
-    "available": true
+    "subdir": "desirability"
   },
   {
     "package": "sparsediscrim",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
-    "url": "https://github.com/topepo/sparsediscrim",
-    "available": true
+    "url": "https://github.com/topepo/sparsediscrim"
   },
   {
     "package": "sparseLDA",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/topepo/sparselda",
-    "subdir": "pkg/sparseLDA",
-    "available": true
+    "subdir": "pkg/sparseLDA"
   }
 ]

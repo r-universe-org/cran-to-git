@@ -2,75 +2,63 @@
   {
     "package": "cdcfluview",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/cdcfluview",
-    "available": true
+    "url": "https://github.com/hrbrmstr/cdcfluview"
   },
   {
     "package": "censys",
     "maintainer": "Bob Rudis <brudis@rapid7.com>",
-    "url": "https://github.com/hrbrmstr/censys",
-    "available": true
+    "url": "https://github.com/hrbrmstr/censys"
   },
   {
     "package": "cymruservices",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/cymruservices",
-    "available": true
+    "url": "https://github.com/hrbrmstr/cymruservices"
   },
   {
     "package": "darksky",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/darksky",
-    "available": true
+    "url": "https://github.com/hrbrmstr/darksky"
   },
   {
     "package": "epidata",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/epidata",
-    "available": true
+    "url": "https://github.com/hrbrmstr/epidata"
   },
   {
     "package": "ggalt",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/ggalt",
-    "available": true
+    "url": "https://github.com/hrbrmstr/ggalt"
   },
   {
     "package": "hrbrthemes",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/hrbrthemes",
-    "available": true
+    "url": "https://github.com/hrbrmstr/hrbrthemes"
   },
   {
     "package": "iptools",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/iptools",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "longurl",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/longurl",
-    "available": true
+    "url": "https://github.com/hrbrmstr/longurl"
   },
   {
     "package": "metricsgraphics",
     "maintainer": "Bob Rudis <bob@rudis.net>",
-    "url": "https://github.com/hrbrmstr/metricsgraphics",
-    "available": true
+    "url": "https://github.com/hrbrmstr/metricsgraphics"
   },
   {
     "package": "ndjson",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/ndjson",
-    "available": true
+    "url": "https://github.com/hrbrmstr/ndjson"
   },
   {
     "package": "qrencoder",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/qrencoder",
-    "available": true
+    "url": "https://github.com/hrbrmstr/qrencoder"
   },
   {
     "package": "ropendata",
@@ -80,37 +68,31 @@
   {
     "package": "spiderbar",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/spiderbar",
-    "available": true
+    "url": "https://github.com/hrbrmstr/spiderbar"
   },
   {
     "package": "swatches",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/swatches",
-    "available": true
+    "url": "https://github.com/hrbrmstr/swatches"
   },
   {
     "package": "tdigest",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/tdigest",
-    "available": true
+    "url": "https://github.com/hrbrmstr/tdigest"
   },
   {
     "package": "vegalite",
     "maintainer": "Bob Rudis <bob@rudis.net>",
-    "url": "https://github.com/hrbrmstr/vegalite",
-    "available": true
+    "url": "https://github.com/hrbrmstr/vegalite"
   },
   {
     "package": "voteogram",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/voteogram",
-    "available": true
+    "url": "https://github.com/hrbrmstr/voteogram"
   },
   {
     "package": "waffle",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://github.com/hrbrmstr/waffle",
-    "available": true
+    "url": "https://github.com/hrbrmstr/waffle"
   }
 ]

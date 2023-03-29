@@ -2,14 +2,12 @@
   {
     "package": "EpiSignalDetection",
     "maintainer": "Lore Merdrignac <l.merdrignac@epiconcept.fr>",
-    "url": "https://github.com/eu-ecdc/episignaldetection",
-    "available": true
+    "url": "https://github.com/eu-ecdc/episignaldetection"
   },
   {
     "package": "epitweetr",
     "maintainer": "Laura Espinosa <laura.espinosa@ecdc.europa.eu>",
     "url": "https://github.com/eu-ecdc/epitweetr",
-    "subdir": "epitweetr",
-    "available": true
+    "subdir": "epitweetr"
   }
 ]

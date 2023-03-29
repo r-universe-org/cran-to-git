@@ -2,91 +2,76 @@
   {
     "package": "aws.comprehend",
     "maintainer": "Antoine Sachet <antoine.sac@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.comprehend",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.comprehend"
   },
   {
     "package": "aws.ec2metadata",
     "maintainer": "Jonathan Stott <jonathan.stott@magairports.com>",
-    "url": "https://github.com/cloudyr/aws.ec2metadata",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.ec2metadata"
   },
   {
     "package": "aws.iam",
     "maintainer": "Simon Urbanek <simon.urbanek@R-project.org>",
-    "url": "https://github.com/cloudyr/aws.iam",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.iam"
   },
   {
     "package": "aws.kms",
     "maintainer": "Simon Urbanek <simon.urbanek@R-project.org>",
-    "url": "https://github.com/cloudyr/aws.kms",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.kms"
   },
   {
     "package": "aws.lambda",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.lambda",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.lambda"
   },
   {
     "package": "aws.polly",
     "maintainer": "Antoine Sachet <antoine.sac@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.polly",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.polly"
   },
   {
     "package": "aws.s3",
     "maintainer": "Simon Urbanek <simon.urbanek@R-project.org>",
-    "url": "https://github.com/cloudyr/aws.s3",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.s3"
   },
   {
     "package": "aws.signature",
     "maintainer": "Jonathan Stott <jonathan.stott@magairports.com>",
-    "url": "https://github.com/cloudyr/aws.signature",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.signature"
   },
   {
     "package": "aws.transcribe",
     "maintainer": "Antoine Sachet <antoine.sac@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.transcribe",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.transcribe"
   },
   {
     "package": "aws.translate",
     "maintainer": "Antoine Sachet <antoine.sac@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.translate",
-    "available": true
+    "url": "https://github.com/cloudyr/aws.translate"
   },
   {
     "package": "bigQueryR",
     "maintainer": "Mark Edmondson <r@sunholo.com>",
-    "url": "https://github.com/cloudyr/bigqueryr",
-    "available": true
+    "url": "https://github.com/cloudyr/bigqueryr"
   },
   {
     "package": "googleCloudStorageR",
     "maintainer": "Mark Edmondson <r@sunholo.com>",
-    "url": "https://github.com/cloudyr/googlecloudstorager",
-    "available": true
+    "url": "https://github.com/cloudyr/googlecloudstorager"
   },
   {
     "package": "googleCloudVisionR",
     "maintainer": "Jeno Pal <paljenczy@gmail.com>",
-    "url": "https://github.com/cloudyr/googlecloudvisionr",
-    "available": true
+    "url": "https://github.com/cloudyr/googlecloudvisionr"
   },
   {
     "package": "googleComputeEngineR",
     "maintainer": "Mark Edmondson <r@sunholo.com>",
-    "url": "https://github.com/cloudyr/googlecomputeenginer",
-    "available": true
+    "url": "https://github.com/cloudyr/googlecomputeenginer"
   },
   {
     "package": "imguR",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
-    "url": "https://github.com/cloudyr/imgur",
-    "available": true
+    "url": "https://github.com/cloudyr/imgur"
   }
 ]

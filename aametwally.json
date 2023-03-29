@@ -2,14 +2,12 @@
   {
     "package": "MetaLonDA",
     "maintainer": "Ahmed A. Metwally <ametwall@stanford.edu>",
-    "url": "https://github.com/aametwally/metalonda",
-    "available": true
+    "url": "https://github.com/aametwally/metalonda"
   },
   {
     "package": "OmicsLonDA",
     "maintainer": "Ahmed A. Metwally <ametwall@stanford.edu>",
     "url": "https://github.com/aametwally/omicslonda",
-    "available": true,
     "registry": "bioc"
   }
 ]

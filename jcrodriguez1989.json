@@ -2,26 +2,22 @@
   {
     "package": "chatgpt",
     "maintainer": "Juan Cruz Rodriguez <jcrodriguez@unc.edu.ar>",
-    "url": "https://github.com/jcrodriguez1989/chatgpt",
-    "available": true
+    "url": "https://github.com/jcrodriguez1989/chatgpt"
   },
   {
     "package": "malvinas",
     "maintainer": "Juan Cruz Rodriguez <jcrodriguez@unc.edu.ar>",
-    "url": "https://github.com/jcrodriguez1989/malvinas",
-    "available": true
+    "url": "https://github.com/jcrodriguez1989/malvinas"
   },
   {
     "package": "MIGSA",
     "maintainer": "Juan C. Rodriguez <jcrodriguez@unc.edu.ar>",
     "url": "https://github.com/jcrodriguez1989/migsa",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rco",
     "maintainer": "Juan Cruz Rodriguez <jcrodriguez@unc.edu.ar>",
-    "url": "https://github.com/jcrodriguez1989/rco",
-    "available": true
+    "url": "https://github.com/jcrodriguez1989/rco"
   }
 ]

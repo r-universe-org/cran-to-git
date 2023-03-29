@@ -3,14 +3,12 @@
     "package": "AneuFinder",
     "maintainer": "Aaron Taudt <aaron.taudt@gmail.com>",
     "url": "https://github.com/ataudt/aneufinder",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "chromstaR",
     "maintainer": "Aaron Taudt <aaron.taudt@gmail.com>",
     "url": "https://github.com/ataudt/chromstar",
-    "available": true,
     "registry": "bioc"
   }
 ]

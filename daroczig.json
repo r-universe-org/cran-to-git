@@ -2,49 +2,41 @@
   {
     "package": "AWR",
     "maintainer": "Gergely Daroczi <daroczig@rapporter.net>",
-    "url": "https://github.com/daroczig/awr",
-    "available": true
+    "url": "https://github.com/daroczig/awr"
   },
   {
     "package": "AWR.Kinesis",
     "maintainer": "Gergely Daroczi <gergely.daroczi@card.com>",
-    "url": "https://github.com/daroczig/awr.kinesis",
-    "available": true
+    "url": "https://github.com/daroczig/awr.kinesis"
   },
   {
     "package": "AWR.KMS",
     "maintainer": "Gergely Daroczi <gergely.daroczi@card.com>",
-    "url": "https://github.com/daroczig/awr.kms",
-    "available": true
+    "url": "https://github.com/daroczig/awr.kms"
   },
   {
     "package": "binancer",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
-    "url": "https://github.com/daroczig/binancer",
-    "available": true
+    "url": "https://github.com/daroczig/binancer"
   },
   {
     "package": "botor",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
-    "url": "https://github.com/daroczig/botor",
-    "available": true
+    "url": "https://github.com/daroczig/botor"
   },
   {
     "package": "fbRads",
     "maintainer": "Gergely Daroczi <gergely.daroczi@card.com>",
-    "url": "https://github.com/daroczig/fbrads",
-    "available": true
+    "url": "https://github.com/daroczig/fbrads"
   },
   {
     "package": "logger",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
-    "url": "https://github.com/daroczig/logger",
-    "available": true
+    "url": "https://github.com/daroczig/logger"
   },
   {
     "package": "migration.indices",
     "maintainer": "Gergely Daróczi <daroczig@rapporter.net>",
-    "url": "https://github.com/daroczig/migration.indices",
-    "available": true
+    "url": "https://github.com/daroczig/migration.indices"
   }
 ]

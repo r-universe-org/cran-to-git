@@ -3,82 +3,70 @@
     "package": "bugsigdbr",
     "maintainer": "Ludwig Geistlinger <ludwig_geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/bugsigdbr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "cBioPortalData",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/cbioportaldata",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "CNVRanger",
     "maintainer": "Ludwig Geistlinger <ludwig_geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/cnvranger",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "doppelgangR",
     "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
     "url": "https://github.com/waldronlab/doppelgangr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "GSEABenchmarkeR",
     "maintainer": "Ludwig Geistlinger <Ludwig_Geistlinger@hms.harvard.edu>",
     "url": "https://github.com/waldronlab/gseabenchmarker",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "HGNChelper",
     "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
-    "url": "https://github.com/waldronlab/hgnchelper",
-    "available": true
+    "url": "https://github.com/waldronlab/hgnchelper"
   },
   {
     "package": "lefser",
     "maintainer": "Asya Khleborodova <asya.bioconductor@gmail.com>",
     "url": "https://github.com/waldronlab/lefser",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MultiAssayExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pensim",
     "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
-    "url": "https://github.com/waldronlab/pensim",
-    "available": true
+    "url": "https://github.com/waldronlab/pensim"
   },
   {
     "package": "TCGAutils",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tcgautils",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TENxIO",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/tenxio",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "terraTCGAdata",
     "maintainer": "Marcel Ramos <marcel.ramosperez@roswellpark.org>",
     "url": "https://github.com/waldronlab/terratcgadata",
-    "available": true,
     "registry": "bioc"
   }
 ]

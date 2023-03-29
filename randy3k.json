@@ -2,44 +2,37 @@
   {
     "package": "arrangements",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/arrangements",
-    "available": true
+    "url": "https://github.com/randy3k/arrangements"
   },
   {
     "package": "cliff",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/cliff",
-    "available": true
+    "url": "https://github.com/randy3k/cliff"
   },
   {
     "package": "collections",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/collections",
-    "available": true
+    "url": "https://github.com/randy3k/collections"
   },
   {
     "package": "iterpc",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/iterpc",
-    "available": true
+    "url": "https://github.com/randy3k/iterpc"
   },
   {
     "package": "otp",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/otp",
-    "available": true
+    "url": "https://github.com/randy3k/otp"
   },
   {
     "package": "retry",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
-    "url": "https://github.com/randy3k/retry",
-    "available": true
+    "url": "https://github.com/randy3k/retry"
   },
   {
     "package": "xptr",
     "maintainer": "Randy Lai <randy.cs.lai@gmail.com>",
     "url": "https://github.com/randy3k/xptr",
-    "available": true,
     "registry": "archived"
   }
 ]

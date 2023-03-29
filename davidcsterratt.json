@@ -3,20 +3,17 @@
     "package": "geometry",
     "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/geometry",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "RImageJROI",
     "maintainer": "David C Sterratt <david.c.sterratt@ed.ac.uk>",
-    "url": "https://github.com/davidcsterratt/rimagejroi",
-    "available": true
+    "url": "https://github.com/davidcsterratt/rimagejroi"
   },
   {
     "package": "RTriangle",
     "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/rtriangle",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   }
 ]

@@ -3,19 +3,16 @@
     "package": "akc",
     "maintainer": "Tian-Yuan Huang <huang.tian-yuan@qq.com>",
     "url": "https://github.com/hope-data-science/akc",
-    "subdir": "akc",
-    "available": true
+    "subdir": "akc"
   },
   {
     "package": "tidyfst",
     "maintainer": "Tian-Yuan Huang <huang.tian-yuan@qq.com>",
-    "url": "https://github.com/hope-data-science/tidyfst",
-    "available": true
+    "url": "https://github.com/hope-data-science/tidyfst"
   },
   {
     "package": "tidyft",
     "maintainer": "Tian-Yuan Huang <huang.tian-yuan@qq.com>",
-    "url": "https://github.com/hope-data-science/tidyft",
-    "available": true
+    "url": "https://github.com/hope-data-science/tidyft"
   }
 ]

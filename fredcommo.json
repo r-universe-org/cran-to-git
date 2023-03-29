@@ -2,14 +2,12 @@
   {
     "package": "nplr",
     "maintainer": "Frederic Commo <fredcommo@gmail.com>",
-    "url": "https://github.com/fredcommo/nplr",
-    "available": true
+    "url": "https://github.com/fredcommo/nplr"
   },
   {
     "package": "rCGH",
     "maintainer": "Frederic Commo <fredcommo@gmail.com>",
     "url": "https://github.com/fredcommo/rcgh",
-    "available": true,
     "registry": "bioc"
   }
 ]

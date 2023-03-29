@@ -3,8 +3,7 @@
     "package": "accumulate",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/accumulate",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "extremevalues",
@@ -15,56 +14,48 @@
     "package": "gower",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/gower",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "hashr",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/hashr",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "lumberjack",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/lumberjack",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "rspa",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/rspa",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "settings",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/settings",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "simputation",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/simputation",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "stringdist",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/stringdist",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "tinytest",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/markvanderloo/tinytest",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   }
 ]

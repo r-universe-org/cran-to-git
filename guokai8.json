@@ -7,8 +7,7 @@
   {
     "package": "microbial",
     "maintainer": "Kai Guo <guokai8@gmail.com>",
-    "url": "https://github.com/guokai8/microbial",
-    "available": true
+    "url": "https://github.com/guokai8/microbial"
   },
   {
     "package": "o2plsda",
@@ -19,7 +18,6 @@
     "package": "VennDetail",
     "maintainer": "Kai Guo <guokai8@gmail.com>",
     "url": "https://github.com/guokai8/venndetail",
-    "available": true,
     "registry": "bioc"
   }
 ]

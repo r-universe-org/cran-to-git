@@ -3,14 +3,12 @@
     "package": "arrow",
     "maintainer": "Nic Crane <thisisnic@gmail.com>",
     "url": "https://github.com/apache/arrow",
-    "subdir": "r",
-    "available": true
+    "subdir": "r"
   },
   {
     "package": "nanoarrow",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-nanoarrow",
-    "subdir": "r",
-    "available": true
+    "subdir": "r"
   }
 ]

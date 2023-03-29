@@ -2,20 +2,17 @@
   {
     "package": "audio",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/audio",
-    "available": true
+    "url": "https://github.com/s-u/audio"
   },
   {
     "package": "base64enc",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/base64enc",
-    "available": true
+    "url": "https://github.com/s-u/base64enc"
   },
   {
     "package": "Cairo",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/cairo",
-    "available": true
+    "url": "https://github.com/s-u/cairo"
   },
   {
     "package": "emdist",
@@ -25,115 +22,96 @@
   {
     "package": "fastmatch",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/fastmatch",
-    "available": true
+    "url": "https://github.com/s-u/fastmatch"
   },
   {
     "package": "FastRWeb",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/fastrweb",
-    "available": true
+    "url": "https://github.com/s-u/fastrweb"
   },
   {
     "package": "fasttime",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/fasttime",
-    "available": true
+    "url": "https://github.com/s-u/fasttime"
   },
   {
     "package": "iotools",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/iotools",
-    "available": true
+    "url": "https://github.com/s-u/iotools"
   },
   {
     "package": "iplots",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/iplots",
-    "available": true
+    "url": "https://github.com/s-u/iplots"
   },
   {
     "package": "JavaGD",
     "maintainer": "Simon Urbanek <Simon.Urbanek@R-project.org>",
-    "url": "https://github.com/s-u/javagd",
-    "available": true
+    "url": "https://github.com/s-u/javagd"
   },
   {
     "package": "jpeg",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/jpeg",
-    "available": true
+    "url": "https://github.com/s-u/jpeg"
   },
   {
     "package": "OpenCL",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/opencl",
-    "available": true
+    "url": "https://github.com/s-u/opencl"
   },
   {
     "package": "PKI",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/pki",
-    "available": true
+    "url": "https://github.com/s-u/pki"
   },
   {
     "package": "png",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/png",
-    "available": true
+    "url": "https://github.com/s-u/png"
   },
   {
     "package": "proj4",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/proj4",
-    "available": true
+    "url": "https://github.com/s-u/proj4"
   },
   {
     "package": "rJava",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/rjava",
-    "available": true
+    "url": "https://github.com/s-u/rjava"
   },
   {
     "package": "RJDBC",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/rjdbc",
-    "available": true
+    "url": "https://github.com/s-u/rjdbc"
   },
   {
     "package": "RSclient",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/rsclient",
-    "available": true
+    "url": "https://github.com/s-u/rsclient"
   },
   {
     "package": "Rserve",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/rserve",
-    "available": true
+    "url": "https://github.com/s-u/rserve"
   },
   {
     "package": "scagnostics",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/scagnostics",
-    "available": true
+    "url": "https://github.com/s-u/scagnostics"
   },
   {
     "package": "tiff",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/tiff",
-    "available": true
+    "url": "https://github.com/s-u/tiff"
   },
   {
     "package": "uuid",
     "maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-    "url": "https://github.com/s-u/uuid",
-    "available": true
+    "url": "https://github.com/s-u/uuid"
   },
   {
     "package": "venneuler",
     "maintainer": "Simon Urbanek <simon.urbanek@r-project.org>",
-    "url": "https://github.com/s-u/venneuler",
-    "available": true
+    "url": "https://github.com/s-u/venneuler"
   }
 ]

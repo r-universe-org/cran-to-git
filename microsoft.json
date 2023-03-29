@@ -3,19 +3,16 @@
     "package": "finnts",
     "maintainer": "Mike Tokic <mftokic@gmail.com>",
     "url": "https://github.com/microsoft/finnts",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "vivainsights",
     "maintainer": "Martin Chan <martin.chan@microsoft.com>",
-    "url": "https://github.com/microsoft/vivainsights",
-    "available": true
+    "url": "https://github.com/microsoft/vivainsights"
   },
   {
     "package": "wpa",
     "maintainer": "Martin Chan <martin.chan@microsoft.com>",
-    "url": "https://github.com/microsoft/wpa",
-    "available": true
+    "url": "https://github.com/microsoft/wpa"
   }
 ]

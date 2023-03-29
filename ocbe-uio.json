@@ -2,44 +2,37 @@
   {
     "package": "BayesMallows",
     "maintainer": "Oystein Sorensen <oystein.sorensen.1985@gmail.com>",
-    "url": "https://github.com/ocbe-uio/bayesmallows",
-    "available": true
+    "url": "https://github.com/ocbe-uio/bayesmallows"
   },
   {
     "package": "cellmigRation",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
     "url": "https://github.com/ocbe-uio/cellmigration",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "contingencytables",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
-    "url": "https://github.com/ocbe-uio/contingencytables",
-    "available": true
+    "url": "https://github.com/ocbe-uio/contingencytables"
   },
   {
     "package": "DIscBIO",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
-    "url": "https://github.com/ocbe-uio/discbio",
-    "available": true
+    "url": "https://github.com/ocbe-uio/discbio"
   },
   {
     "package": "EnrichIntersect",
     "maintainer": "Zhi Zhao <zhi.zhao@medisin.uio.no>",
-    "url": "https://github.com/ocbe-uio/enrichintersect",
-    "available": true
+    "url": "https://github.com/ocbe-uio/enrichintersect"
   },
   {
     "package": "matlab2r",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
-    "url": "https://github.com/ocbe-uio/matlab2r",
-    "available": true
+    "url": "https://github.com/ocbe-uio/matlab2r"
   },
   {
     "package": "TruncExpFam",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
-    "url": "https://github.com/ocbe-uio/truncexpfam",
-    "available": true
+    "url": "https://github.com/ocbe-uio/truncexpfam"
   }
 ]

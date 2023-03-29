@@ -2,49 +2,41 @@
   {
     "package": "bigrquery",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-dbi/bigrquery",
-    "available": true
+    "url": "https://github.com/r-dbi/bigrquery"
   },
   {
     "package": "DBI",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
-    "url": "https://github.com/r-dbi/dbi",
-    "available": true
+    "url": "https://github.com/r-dbi/dbi"
   },
   {
     "package": "DBItest",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/r-dbi/dbitest",
-    "available": true
+    "url": "https://github.com/r-dbi/dbitest"
   },
   {
     "package": "odbc",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-dbi/odbc",
-    "available": true
+    "url": "https://github.com/r-dbi/odbc"
   },
   {
     "package": "RMariaDB",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
-    "url": "https://github.com/r-dbi/rmariadb",
-    "available": true
+    "url": "https://github.com/r-dbi/rmariadb"
   },
   {
     "package": "RMySQL",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-dbi/rmysql",
-    "available": true
+    "url": "https://github.com/r-dbi/rmysql"
   },
   {
     "package": "RPostgres",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/r-dbi/rpostgres",
-    "available": true
+    "url": "https://github.com/r-dbi/rpostgres"
   },
   {
     "package": "RSQLite",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/r-dbi/rsqlite",
-    "available": true
+    "url": "https://github.com/r-dbi/rsqlite"
   }
 ]

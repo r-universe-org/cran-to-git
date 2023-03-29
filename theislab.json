@@ -3,14 +3,12 @@
     "package": "destiny",
     "maintainer": "Philipp Angerer <phil.angerer@gmail.com>",
     "url": "https://github.com/theislab/destiny",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "zellkonverter",
     "maintainer": "Luke Zappia <luke@lazappi.id.au>",
     "url": "https://github.com/theislab/zellkonverter",
-    "available": true,
     "registry": "bioc"
   }
 ]

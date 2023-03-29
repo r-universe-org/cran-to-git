@@ -3,21 +3,18 @@
     "package": "cmsaf",
     "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
     "url": "https://github.com/cmsaf/cmsaf-r-tools",
-    "subdir": "cmsaf",
-    "available": true
+    "subdir": "cmsaf"
   },
   {
     "package": "cmsafops",
     "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
     "url": "https://github.com/cmsaf/cmsaf-r-tools",
-    "subdir": "cmsafops",
-    "available": true
+    "subdir": "cmsafops"
   },
   {
     "package": "cmsafvis",
     "maintainer": "Steffen Kothe <Steffen.Kothe@dwd.de>",
     "url": "https://github.com/cmsaf/cmsaf-r-tools",
-    "subdir": "cmsafvis",
-    "available": true
+    "subdir": "cmsafvis"
   }
 ]

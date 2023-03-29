@@ -2,34 +2,29 @@
   {
     "package": "HeritSeq",
     "maintainer": "W. Jenny Shi <wjennyshi@gmail.com>",
-    "url": "https://github.com/kechrislab/heritseq",
-    "available": true
+    "url": "https://github.com/kechrislab/heritseq"
   },
   {
     "package": "MAI",
     "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
     "url": "https://github.com/kechrislab/mai",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MSPrep",
     "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
     "url": "https://github.com/kechrislab/msprep",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "multiMiR",
     "maintainer": "Matt Mulvahill <matt.mulvahill@gmail.com>",
     "url": "https://github.com/kechrislab/multimir",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SmCCNet",
     "maintainer": "W. Jenny Shi <wjennyshi@gmail.com>",
-    "url": "https://github.com/kechrislab/smccnet",
-    "available": true
+    "url": "https://github.com/kechrislab/smccnet"
   }
 ]

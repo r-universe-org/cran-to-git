@@ -3,14 +3,12 @@
     "package": "katdetectr",
     "maintainer": "Daan Hazelaar <daanhazelaar@gmail.com>",
     "url": "https://github.com/erasmusmc-ccbc/katdetectr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ProteoDisco",
     "maintainer": "Job van Riet <jobvriet@gmail.com>",
     "url": "https://github.com/erasmusmc-ccbc/proteodisco",
-    "available": true,
     "registry": "bioc"
   }
 ]

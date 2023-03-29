@@ -3,37 +3,31 @@
     "package": "httk",
     "maintainer": "John Wambaugh <wambaugh.john@epa.gov>",
     "url": "https://github.com/usepa/comptox-expocast-httk",
-    "subdir": "httk",
-    "available": true
+    "subdir": "httk"
   },
   {
     "package": "pTITAN2",
     "maintainer": "Peter DeWitt <peter.dewitt@cuanschutz.edu>",
-    "url": "https://github.com/usepa/ptitan2",
-    "available": true
+    "url": "https://github.com/usepa/ptitan2"
   },
   {
     "package": "RAQSAPI",
     "maintainer": "Clinton Mccrowey <mccrowey.clinton@epa.gov>",
-    "url": "https://github.com/usepa/raqsapi",
-    "available": true
+    "url": "https://github.com/usepa/raqsapi"
   },
   {
     "package": "spmodel",
     "maintainer": "Michael Dumelle <Dumelle.Michael@epa.gov>",
-    "url": "https://github.com/usepa/spmodel",
-    "available": true
+    "url": "https://github.com/usepa/spmodel"
   },
   {
     "package": "spsurvey",
     "maintainer": "Michael Dumelle <Dumelle.Michael@epa.gov>",
-    "url": "https://github.com/usepa/spsurvey",
-    "available": true
+    "url": "https://github.com/usepa/spsurvey"
   },
   {
     "package": "tcpl",
     "maintainer": "Jason Brown <brown.jason@epa.gov>",
-    "url": "https://github.com/usepa/comptox-toxcast-tcpl",
-    "available": true
+    "url": "https://github.com/usepa/comptox-toxcast-tcpl"
   }
 ]

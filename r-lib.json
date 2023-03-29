@@ -2,655 +2,546 @@
   {
     "package": "archive",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/archive",
-    "available": true
+    "url": "https://github.com/r-lib/archive"
   },
   {
     "package": "asciicast",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/asciicast",
-    "available": true
+    "url": "https://github.com/r-lib/asciicast"
   },
   {
     "package": "askpass",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/askpass",
-    "available": true
+    "url": "https://github.com/r-lib/askpass"
   },
   {
     "package": "available",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/available",
-    "available": true
+    "url": "https://github.com/r-lib/available"
   },
   {
     "package": "backports",
     "maintainer": "Michel Lang <michellang@gmail.com>",
-    "url": "https://github.com/r-lib/backports",
-    "available": true
+    "url": "https://github.com/r-lib/backports"
   },
   {
     "package": "bench",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/r-lib/bench",
-    "available": true
+    "url": "https://github.com/r-lib/bench"
   },
   {
     "package": "brio",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/brio",
-    "available": true
+    "url": "https://github.com/r-lib/brio"
   },
   {
     "package": "cachem",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/r-lib/cachem",
-    "available": true
+    "url": "https://github.com/r-lib/cachem"
   },
   {
     "package": "callr",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/callr",
-    "available": true
+    "url": "https://github.com/r-lib/callr"
   },
   {
     "package": "carrier",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/carrier",
-    "available": true
+    "url": "https://github.com/r-lib/carrier"
   },
   {
     "package": "cleancall",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/cleancall",
-    "available": true
+    "url": "https://github.com/r-lib/cleancall"
   },
   {
     "package": "cli",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/cli",
-    "available": true
+    "url": "https://github.com/r-lib/cli"
   },
   {
     "package": "cliapp",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/cliapp",
-    "available": true
+    "url": "https://github.com/r-lib/cliapp"
   },
   {
     "package": "clisymbols",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/clisymbols",
-    "available": true
+    "url": "https://github.com/r-lib/clisymbols"
   },
   {
     "package": "clock",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/r-lib/clock",
-    "available": true
+    "url": "https://github.com/r-lib/clock"
   },
   {
     "package": "commonmark",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/commonmark",
-    "available": true
+    "url": "https://github.com/r-lib/commonmark"
   },
   {
     "package": "conflicted",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/conflicted",
-    "available": true
+    "url": "https://github.com/r-lib/conflicted"
   },
   {
     "package": "coro",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/coro",
-    "available": true
+    "url": "https://github.com/r-lib/coro"
   },
   {
     "package": "covr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
-    "url": "https://github.com/r-lib/covr",
-    "available": true
+    "url": "https://github.com/r-lib/covr"
   },
   {
     "package": "cpp11",
     "maintainer": "Romain François <romain@rstudio.com>",
-    "url": "https://github.com/r-lib/cpp11",
-    "available": true
+    "url": "https://github.com/r-lib/cpp11"
   },
   {
     "package": "crayon",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/crayon",
-    "available": true
+    "url": "https://github.com/r-lib/crayon"
   },
   {
     "package": "credentials",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/credentials",
-    "available": true
+    "url": "https://github.com/r-lib/credentials"
   },
   {
     "package": "debugme",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/debugme",
-    "available": true
+    "url": "https://github.com/r-lib/debugme"
   },
   {
     "package": "decor",
     "maintainer": "Romain François <romain@rstudio.com>",
-    "url": "https://github.com/r-lib/decor",
-    "available": true
+    "url": "https://github.com/r-lib/decor"
   },
   {
     "package": "desc",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/desc",
-    "available": true
+    "url": "https://github.com/r-lib/desc"
   },
   {
     "package": "devoid",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
-    "url": "https://github.com/r-lib/devoid",
-    "available": true
+    "url": "https://github.com/r-lib/devoid"
   },
   {
     "package": "devtools",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/r-lib/devtools",
-    "available": true
+    "url": "https://github.com/r-lib/devtools"
   },
   {
     "package": "diffviewer",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/diffviewer",
-    "available": true
+    "url": "https://github.com/r-lib/diffviewer"
   },
   {
     "package": "downlit",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/downlit",
-    "available": true
+    "url": "https://github.com/r-lib/downlit"
   },
   {
     "package": "ellipsis",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/ellipsis",
-    "available": true
+    "url": "https://github.com/r-lib/ellipsis"
   },
   {
     "package": "evaluate",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/r-lib/evaluate",
-    "available": true
+    "url": "https://github.com/r-lib/evaluate"
   },
   {
     "package": "fastmap",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/r-lib/fastmap",
-    "available": true
+    "url": "https://github.com/r-lib/fastmap"
   },
   {
     "package": "filelock",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/filelock",
-    "available": true
+    "url": "https://github.com/r-lib/filelock"
   },
   {
     "package": "fs",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/fs",
-    "available": true
+    "url": "https://github.com/r-lib/fs"
   },
   {
     "package": "gargle",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
-    "url": "https://github.com/r-lib/gargle",
-    "available": true
+    "url": "https://github.com/r-lib/gargle"
   },
   {
     "package": "generics",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/generics",
-    "available": true
+    "url": "https://github.com/r-lib/generics"
   },
   {
     "package": "gert",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/gert",
-    "available": true
+    "url": "https://github.com/r-lib/gert"
   },
   {
     "package": "gh",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/gh",
-    "available": true
+    "url": "https://github.com/r-lib/gh"
   },
   {
     "package": "ghapps",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/ghapps",
-    "available": true
+    "url": "https://github.com/r-lib/ghapps"
   },
   {
     "package": "gitcreds",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/gitcreds",
-    "available": true
+    "url": "https://github.com/r-lib/gitcreds"
   },
   {
     "package": "gmailr",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/r-lib/gmailr",
-    "available": true
+    "url": "https://github.com/r-lib/gmailr"
   },
   {
     "package": "gtable",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
-    "url": "https://github.com/r-lib/gtable",
-    "available": true
+    "url": "https://github.com/r-lib/gtable"
   },
   {
     "package": "here",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
-    "url": "https://github.com/r-lib/here",
-    "available": true
+    "url": "https://github.com/r-lib/here"
   },
   {
     "package": "httr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/r-lib/httr",
-    "available": true
+    "url": "https://github.com/r-lib/httr"
   },
   {
     "package": "httr2",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/httr2",
-    "available": true
+    "url": "https://github.com/r-lib/httr2"
   },
   {
     "package": "isoband",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/r-lib/isoband",
-    "available": true
+    "url": "https://github.com/r-lib/isoband"
   },
   {
     "package": "jose",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/jose",
-    "available": true
+    "url": "https://github.com/r-lib/jose"
   },
   {
     "package": "keyring",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/keyring",
-    "available": true
+    "url": "https://github.com/r-lib/keyring"
   },
   {
     "package": "later",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/r-lib/later",
-    "available": true
+    "url": "https://github.com/r-lib/later"
   },
   {
     "package": "lifecycle",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/lifecycle",
-    "available": true
+    "url": "https://github.com/r-lib/lifecycle"
   },
   {
     "package": "lintr",
     "maintainer": "Jim Hester <james.f.hester@gmail.com>",
-    "url": "https://github.com/r-lib/lintr",
-    "available": true
+    "url": "https://github.com/r-lib/lintr"
   },
   {
     "package": "liteq",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/liteq",
-    "available": true
+    "url": "https://github.com/r-lib/liteq"
   },
   {
     "package": "lobstr",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/lobstr",
-    "available": true
+    "url": "https://github.com/r-lib/lobstr"
   },
   {
     "package": "meltr",
     "maintainer": "Duncan Garmonsway <nacnudus@gmail.com>",
-    "url": "https://github.com/r-lib/meltr",
-    "available": true
+    "url": "https://github.com/r-lib/meltr"
   },
   {
     "package": "memoise",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/r-lib/memoise",
-    "available": true
+    "url": "https://github.com/r-lib/memoise"
   },
   {
     "package": "mockery",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/mockery",
-    "available": true
+    "url": "https://github.com/r-lib/mockery"
   },
   {
     "package": "oskeyring",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/oskeyring",
-    "available": true
+    "url": "https://github.com/r-lib/oskeyring"
   },
   {
     "package": "pak",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pak",
-    "available": true
+    "url": "https://github.com/r-lib/pak"
   },
   {
     "package": "pillar",
     "maintainer": "Kirill Müller <kirill@cynkra.com>",
-    "url": "https://github.com/r-lib/pillar",
-    "available": true
+    "url": "https://github.com/r-lib/pillar"
   },
   {
     "package": "pingr",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pingr",
-    "available": true
+    "url": "https://github.com/r-lib/pingr"
   },
   {
     "package": "pkgbuild",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pkgbuild",
-    "available": true
+    "url": "https://github.com/r-lib/pkgbuild"
   },
   {
     "package": "pkgcache",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pkgcache",
-    "available": true
+    "url": "https://github.com/r-lib/pkgcache"
   },
   {
     "package": "pkgconfig",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pkgconfig",
-    "available": true
+    "url": "https://github.com/r-lib/pkgconfig"
   },
   {
     "package": "pkgdepends",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/pkgdepends",
-    "available": true
+    "url": "https://github.com/r-lib/pkgdepends"
   },
   {
     "package": "pkgdown",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/pkgdown",
-    "available": true
+    "url": "https://github.com/r-lib/pkgdown"
   },
   {
     "package": "pkgload",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/pkgload",
-    "available": true
+    "url": "https://github.com/r-lib/pkgload"
   },
   {
     "package": "prettycode",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/prettycode",
-    "available": true
+    "url": "https://github.com/r-lib/prettycode"
   },
   {
     "package": "prettyunits",
     "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/prettyunits",
-    "available": true
+    "url": "https://github.com/r-lib/prettyunits"
   },
   {
     "package": "processx",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/processx",
-    "available": true
+    "url": "https://github.com/r-lib/processx"
   },
   {
     "package": "progress",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/progress",
-    "available": true
+    "url": "https://github.com/r-lib/progress"
   },
   {
     "package": "ps",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/ps",
-    "available": true
+    "url": "https://github.com/r-lib/ps"
   },
   {
     "package": "R6",
     "maintainer": "Winston Chang <winston@stdout.org>",
-    "url": "https://github.com/r-lib/r6",
-    "available": true
+    "url": "https://github.com/r-lib/r6"
   },
   {
     "package": "ragg",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
-    "url": "https://github.com/r-lib/ragg",
-    "available": true
+    "url": "https://github.com/r-lib/ragg"
   },
   {
     "package": "rappdirs",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/rappdirs",
-    "available": true
+    "url": "https://github.com/r-lib/rappdirs"
   },
   {
     "package": "rcmdcheck",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/rcmdcheck",
-    "available": true
+    "url": "https://github.com/r-lib/rcmdcheck"
   },
   {
     "package": "rematch2",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/rematch2",
-    "available": true
+    "url": "https://github.com/r-lib/rematch2"
   },
   {
     "package": "remotes",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/remotes",
-    "available": true
+    "url": "https://github.com/r-lib/remotes"
   },
   {
     "package": "rex",
     "maintainer": "Kevin Ushey <kevinushey@gmail.com>",
-    "url": "https://github.com/r-lib/rex",
-    "available": true
+    "url": "https://github.com/r-lib/rex"
   },
   {
     "package": "rlang",
     "maintainer": "Lionel Henry <lionel@posit.co>",
-    "url": "https://github.com/r-lib/rlang",
-    "available": true
+    "url": "https://github.com/r-lib/rlang"
   },
   {
     "package": "roxygen2",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/roxygen2",
-    "available": true
+    "url": "https://github.com/r-lib/roxygen2"
   },
   {
     "package": "roxygen2md",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
-    "url": "https://github.com/r-lib/roxygen2md",
-    "available": true
+    "url": "https://github.com/r-lib/roxygen2md"
   },
   {
     "package": "rprojroot",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
-    "url": "https://github.com/r-lib/rprojroot",
-    "available": true
+    "url": "https://github.com/r-lib/rprojroot"
   },
   {
     "package": "scales",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/scales",
-    "available": true
+    "url": "https://github.com/r-lib/scales"
   },
   {
     "package": "sessioninfo",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/sessioninfo",
-    "available": true
+    "url": "https://github.com/r-lib/sessioninfo"
   },
   {
     "package": "showimage",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/showimage",
-    "available": true
+    "url": "https://github.com/r-lib/showimage"
   },
   {
     "package": "slider",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/r-lib/slider",
-    "available": true
+    "url": "https://github.com/r-lib/slider"
   },
   {
     "package": "sloop",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/sloop",
-    "available": true
+    "url": "https://github.com/r-lib/sloop"
   },
   {
     "package": "sodium",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/r-lib/sodium",
-    "available": true
+    "url": "https://github.com/r-lib/sodium"
   },
   {
     "package": "styler",
     "maintainer": "Lorenz Walthert <lorenz.walthert@icloud.com>",
-    "url": "https://github.com/r-lib/styler",
-    "available": true
+    "url": "https://github.com/r-lib/styler"
   },
   {
     "package": "svglite",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
-    "url": "https://github.com/r-lib/svglite",
-    "available": true
+    "url": "https://github.com/r-lib/svglite"
   },
   {
     "package": "systemfonts",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
-    "url": "https://github.com/r-lib/systemfonts",
-    "available": true
+    "url": "https://github.com/r-lib/systemfonts"
   },
   {
     "package": "testthat",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/testthat",
-    "available": true
+    "url": "https://github.com/r-lib/testthat"
   },
   {
     "package": "textshaping",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@rstudio.com>",
-    "url": "https://github.com/r-lib/textshaping",
-    "available": true
+    "url": "https://github.com/r-lib/textshaping"
   },
   {
     "package": "tidyselect",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/tidyselect",
-    "available": true
+    "url": "https://github.com/r-lib/tidyselect"
   },
   {
     "package": "tzdb",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/r-lib/tzdb",
-    "available": true
+    "url": "https://github.com/r-lib/tzdb"
   },
   {
     "package": "urlchecker",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/urlchecker",
-    "available": true
+    "url": "https://github.com/r-lib/urlchecker"
   },
   {
     "package": "usethis",
     "maintainer": "Jennifer Bryan <jenny@rstudio.com>",
-    "url": "https://github.com/r-lib/usethis",
-    "available": true
+    "url": "https://github.com/r-lib/usethis"
   },
   {
     "package": "vctrs",
     "maintainer": "Davis Vaughan <davis@posit.co>",
-    "url": "https://github.com/r-lib/vctrs",
-    "available": true
+    "url": "https://github.com/r-lib/vctrs"
   },
   {
     "package": "vdiffr",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/vdiffr",
-    "available": true
+    "url": "https://github.com/r-lib/vdiffr"
   },
   {
     "package": "waldo",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/waldo",
-    "available": true
+    "url": "https://github.com/r-lib/waldo"
   },
   {
     "package": "webfakes",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/webfakes",
-    "available": true
+    "url": "https://github.com/r-lib/webfakes"
   },
   {
     "package": "whoami",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/whoami",
-    "available": true
+    "url": "https://github.com/r-lib/whoami"
   },
   {
     "package": "withr",
     "maintainer": "Lionel Henry <lionel@rstudio.com>",
-    "url": "https://github.com/r-lib/withr",
-    "available": true
+    "url": "https://github.com/r-lib/withr"
   },
   {
     "package": "xml2",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
-    "url": "https://github.com/r-lib/xml2",
-    "available": true
+    "url": "https://github.com/r-lib/xml2"
   },
   {
     "package": "xmlparsedata",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/xmlparsedata",
-    "available": true
+    "url": "https://github.com/r-lib/xmlparsedata"
   },
   {
     "package": "xopen",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/xopen",
-    "available": true
+    "url": "https://github.com/r-lib/xopen"
   },
   {
     "package": "ymlthis",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
-    "url": "https://github.com/r-lib/ymlthis",
-    "available": true
+    "url": "https://github.com/r-lib/ymlthis"
   },
   {
     "package": "zeallot",
     "maintainer": "Nathan Teetor <nathanteetor@gmail.com>",
-    "url": "https://github.com/r-lib/zeallot",
-    "available": true
+    "url": "https://github.com/r-lib/zeallot"
   },
   {
     "package": "zip",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/r-lib/zip",
-    "available": true
+    "url": "https://github.com/r-lib/zip"
   }
 ]

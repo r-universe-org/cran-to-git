@@ -3,21 +3,18 @@
     "package": "DMCFB",
     "maintainer": "Farhad Shokoohi <shokoohi@icloud.com>",
     "url": "https://github.com/shokoohi/dmcfb",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "DMCHMM",
     "maintainer": "Farhad Shokoohi <shokoohi@icloud.com>",
     "url": "https://github.com/shokoohi/dmchmm",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "fmrs",
     "maintainer": "Farhad Shokoohi <shokoohi@icloud.com>",
     "url": "https://github.com/shokoohi/fmrs",
-    "available": true,
     "registry": "bioc"
   }
 ]

@@ -2,37 +2,31 @@
   {
     "package": "dlr",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
-    "url": "https://github.com/macmillancontentscience/dlr",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/dlr"
   },
   {
     "package": "morphemepiece",
     "maintainer": "Jonathan Bratt <jonathan.bratt@macmillan.com>",
-    "url": "https://github.com/macmillancontentscience/morphemepiece",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/morphemepiece"
   },
   {
     "package": "morphemepiece.data",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
-    "url": "https://github.com/macmillancontentscience/morphemepiece.data",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/morphemepiece.data"
   },
   {
     "package": "piecemaker",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
-    "url": "https://github.com/macmillancontentscience/piecemaker",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/piecemaker"
   },
   {
     "package": "wordpiece",
     "maintainer": "Jonathan Bratt <jonathan.bratt@macmillan.com>",
-    "url": "https://github.com/macmillancontentscience/wordpiece",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/wordpiece"
   },
   {
     "package": "wordpiece.data",
     "maintainer": "Jon Harmon <jonthegeek@gmail.com>",
-    "url": "https://github.com/macmillancontentscience/wordpiece.data",
-    "available": true
+    "url": "https://github.com/macmillancontentscience/wordpiece.data"
   }
 ]

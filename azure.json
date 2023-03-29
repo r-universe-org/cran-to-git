@@ -2,97 +2,81 @@
   {
     "package": "AzureAuth",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azureauth",
-    "available": true
+    "url": "https://github.com/azure/azureauth"
   },
   {
     "package": "AzureCognitive",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurecognitive",
-    "available": true
+    "url": "https://github.com/azure/azurecognitive"
   },
   {
     "package": "AzureContainers",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurecontainers",
-    "available": true
+    "url": "https://github.com/azure/azurecontainers"
   },
   {
     "package": "AzureCosmosR",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurecosmosr",
-    "available": true
+    "url": "https://github.com/azure/azurecosmosr"
   },
   {
     "package": "AzureGraph",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azuregraph",
-    "available": true
+    "url": "https://github.com/azure/azuregraph"
   },
   {
     "package": "AzureKeyVault",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurekeyvault",
-    "available": true
+    "url": "https://github.com/azure/azurekeyvault"
   },
   {
     "package": "AzureKusto",
     "maintainer": "Alex Kyllo <jekyllo@microsoft.com>",
-    "url": "https://github.com/azure/azurekusto",
-    "available": true
+    "url": "https://github.com/azure/azurekusto"
   },
   {
     "package": "azuremlsdk",
     "maintainer": "Diondra Peck <Diondra.Peck@microsoft.com>",
-    "url": "https://github.com/azure/azureml-sdk-for-r",
-    "available": true
+    "url": "https://github.com/azure/azureml-sdk-for-r"
   },
   {
     "package": "AzureQstor",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azureqstor",
-    "available": true
+    "url": "https://github.com/azure/azureqstor"
   },
   {
     "package": "AzureRMR",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurermr",
-    "available": true
+    "url": "https://github.com/azure/azurermr"
   },
   {
     "package": "AzureStor",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurestor",
-    "available": true
+    "url": "https://github.com/azure/azurestor"
   },
   {
     "package": "AzureTableStor",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azuretablestor",
-    "available": true
+    "url": "https://github.com/azure/azuretablestor"
   },
   {
     "package": "AzureVision",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurevision",
-    "available": true
+    "url": "https://github.com/azure/azurevision"
   },
   {
     "package": "AzureVM",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurevm",
-    "available": true
+    "url": "https://github.com/azure/azurevm"
   },
   {
     "package": "AzureVMmetadata",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/azurevmmetadata",
-    "available": true
+    "url": "https://github.com/azure/azurevmmetadata"
   },
   {
     "package": "Microsoft365R",
     "maintainer": "Hong Ooi <hongooi73@gmail.com>",
-    "url": "https://github.com/azure/microsoft365r",
-    "available": true
+    "url": "https://github.com/azure/microsoft365r"
   }
 ]

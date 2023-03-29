@@ -3,20 +3,17 @@
     "package": "GeneExpressionSignature",
     "maintainer": "Yang Cao <yiluheihei@gmail.com>",
     "url": "https://github.com/yiluheihei/geneexpressionsignature",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "microbiomeMarker",
     "maintainer": "Yang Cao <caoyang.name@gmail.com>",
     "url": "https://github.com/yiluheihei/microbiomemarker",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RevEcoR",
     "maintainer": "Yang Cao <yiluheihei@gmail.com>",
-    "url": "https://github.com/yiluheihei/revecor",
-    "available": true
+    "url": "https://github.com/yiluheihei/revecor"
   }
 ]

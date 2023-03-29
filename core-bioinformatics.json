@@ -2,26 +2,22 @@
   {
     "package": "bulkAnalyseR",
     "maintainer": "Ilias Moutsopoulos <im383@cam.ac.uk>",
-    "url": "https://github.com/core-bioinformatics/bulkanalyser",
-    "available": true
+    "url": "https://github.com/core-bioinformatics/bulkanalyser"
   },
   {
     "package": "ClustAssess",
     "maintainer": "Arash Shahsavari <as3006@cam.ac.uk>",
-    "url": "https://github.com/core-bioinformatics/clustassess",
-    "available": true
+    "url": "https://github.com/core-bioinformatics/clustassess"
   },
   {
     "package": "feamiR",
     "maintainer": "Eleanor Williams <ecw63@cam.ac.uk>",
     "url": "https://github.com/core-bioinformatics/feamir",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "noisyr",
     "maintainer": "Ilias Moutsopoulos <im383@cam.ac.uk>",
-    "url": "https://github.com/core-bioinformatics/noisyr",
-    "available": true
+    "url": "https://github.com/core-bioinformatics/noisyr"
   }
 ]

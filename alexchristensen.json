@@ -2,38 +2,32 @@
   {
     "package": "latentFactoR",
     "maintainer": "Alexander Christensen <alexpaulchristensen@gmail.com>",
-    "url": "https://github.com/alexchristensen/latentfactor",
-    "available": true
+    "url": "https://github.com/alexchristensen/latentfactor"
   },
   {
     "package": "NetworkToolbox",
     "maintainer": "Alexander Christensen <alexpaulchristensen@gmail.com>",
-    "url": "https://github.com/alexchristensen/networktoolbox",
-    "available": true
+    "url": "https://github.com/alexchristensen/networktoolbox"
   },
   {
     "package": "SemNeT",
     "maintainer": "Alexander P. Christensen <alexpaulchristensen@gmail.com>",
     "url": "https://github.com/alexchristensen/semnet",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "SemNetCleaner",
     "maintainer": "Alexander P. Christensen <alexpaulchristensen@gmail.com>",
-    "url": "https://github.com/alexchristensen/semnetcleaner",
-    "available": true
+    "url": "https://github.com/alexchristensen/semnetcleaner"
   },
   {
     "package": "SemNetDictionaries",
     "maintainer": "Alexander P. Christensen <alexpaulchristensen@gmail.com>",
-    "url": "https://github.com/alexchristensen/semnetdictionaries",
-    "available": true
+    "url": "https://github.com/alexchristensen/semnetdictionaries"
   },
   {
     "package": "transforEmotion",
     "maintainer": "Alexander Christensen <alexpaulchristensen@gmail.com>",
-    "url": "https://github.com/alexchristensen/transforemotion",
-    "available": true
+    "url": "https://github.com/alexchristensen/transforemotion"
   }
 ]

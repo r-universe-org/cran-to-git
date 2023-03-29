@@ -3,25 +3,21 @@
     "package": "HDTD",
     "maintainer": "Anestis Touloumis <A.Touloumis@brighton.ac.uk>",
     "url": "https://github.com/anestistouloumis/hdtd",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "multgee",
     "maintainer": "Anestis Touloumis <A.Touloumis@brighton.ac.uk>",
-    "url": "https://github.com/anestistouloumis/multgee",
-    "available": true
+    "url": "https://github.com/anestistouloumis/multgee"
   },
   {
     "package": "ShrinkCovMat",
     "maintainer": "Anestis Touloumis <A.Touloumis@brighton.ac.uk>",
-    "url": "https://github.com/anestistouloumis/shrinkcovmat",
-    "available": true
+    "url": "https://github.com/anestistouloumis/shrinkcovmat"
   },
   {
     "package": "SimCorMultRes",
     "maintainer": "Anestis Touloumis <A.Touloumis@brighton.ac.uk>",
-    "url": "https://github.com/anestistouloumis/simcormultres",
-    "available": true
+    "url": "https://github.com/anestistouloumis/simcormultres"
   }
 ]

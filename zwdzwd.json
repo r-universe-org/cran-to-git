@@ -3,13 +3,11 @@
     "package": "sesame",
     "maintainer": "Wanding Zhou <zhouwanding@gmail.com>",
     "url": "https://github.com/zwdzwd/sesame",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "wheatmap",
     "maintainer": "Wanding Zhou <zhouwanding@gmail.com>",
-    "url": "https://github.com/zwdzwd/wheatmap",
-    "available": true
+    "url": "https://github.com/zwdzwd/wheatmap"
   }
 ]

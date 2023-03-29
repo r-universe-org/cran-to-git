@@ -3,27 +3,23 @@
     "package": "EpiCompare",
     "maintainer": "Sera Choi <serachoi1230@gmail.com>",
     "url": "https://github.com/neurogenomics/epicompare",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MungeSumstats",
     "maintainer": "Alan Murphy <alanmurph94@hotmail.com>",
     "url": "https://github.com/neurogenomics/mungesumstats",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "orthogene",
     "maintainer": "Brian Schilder <brian_schilder@alumni.brown.edu>",
     "url": "https://github.com/neurogenomics/orthogene",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rworkflows",
     "maintainer": "Brian Schilder <brian_schilder@alumni.brown.edu>",
-    "url": "https://github.com/neurogenomics/rworkflows",
-    "available": true
+    "url": "https://github.com/neurogenomics/rworkflows"
   }
 ]

@@ -3,14 +3,12 @@
     "package": "ATACCoGAPS",
     "maintainer": "Rossin Erbe <rerbe1@jhmi.edu>",
     "url": "https://github.com/fertiglab/ataccogaps",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scatterHatch",
     "maintainer": "Atul Deshpande <adeshpande@jhu.edu>",
     "url": "https://github.com/fertiglab/scatterhatch",
-    "available": true,
     "registry": "bioc"
   }
 ]

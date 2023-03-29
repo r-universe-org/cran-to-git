@@ -2,43 +2,36 @@
   {
     "package": "dataRetrieval",
     "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
-    "url": "https://github.com/doi-usgs/dataretrieval",
-    "available": true
+    "url": "https://github.com/doi-usgs/dataretrieval"
   },
   {
     "package": "EGRET",
     "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
-    "url": "https://github.com/doi-usgs/egret",
-    "available": true
+    "url": "https://github.com/doi-usgs/egret"
   },
   {
     "package": "geoknife",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/doi-usgs/geoknife",
-    "available": true
+    "url": "https://github.com/doi-usgs/geoknife"
   },
   {
     "package": "ncdfgeom",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/doi-usgs/ncdfgeom",
-    "available": true
+    "url": "https://github.com/doi-usgs/ncdfgeom"
   },
   {
     "package": "nhdplusTools",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/doi-usgs/nhdplustools",
-    "available": true
+    "url": "https://github.com/doi-usgs/nhdplustools"
   },
   {
     "package": "sbtools",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
-    "url": "https://github.com/doi-usgs/sbtools",
-    "available": true
+    "url": "https://github.com/doi-usgs/sbtools"
   },
   {
     "package": "toxEval",
     "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
-    "url": "https://github.com/doi-usgs/toxeval",
-    "available": true
+    "url": "https://github.com/doi-usgs/toxeval"
   }
 ]

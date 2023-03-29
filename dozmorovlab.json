@@ -3,35 +3,30 @@
     "package": "HiCcompare",
     "maintainer": "John Stansfield <stansfieldjc@vcu.edu>",
     "url": "https://github.com/dozmorovlab/hiccompare",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "multiHiCcompare",
     "maintainer": "John Stansfield <stansfieldjc@vcu.edu>",
     "url": "https://github.com/dozmorovlab/multihiccompare",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "preciseTAD",
     "maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "url": "https://github.com/dozmorovlab/precisetad",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "SpectralTAD",
     "maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "url": "https://github.com/dozmorovlab/spectraltad",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "TADCompare",
     "maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "url": "https://github.com/dozmorovlab/tadcompare",
-    "available": true,
     "registry": "bioc"
   }
 ]

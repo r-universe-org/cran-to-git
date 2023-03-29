@@ -3,14 +3,12 @@
     "package": "BindingSiteFinder",
     "maintainer": "Mirko Brüggemann <mirko.brueggemann@mail.de>",
     "url": "https://github.com/zarnackgroup/bindingsitefinder",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "m6Aboost",
     "maintainer": "You Zhou <youzhoulearning@gmail.com>",
     "url": "https://github.com/zarnackgroup/m6aboost",
-    "available": true,
     "registry": "bioc"
   }
 ]

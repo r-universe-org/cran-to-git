@@ -3,34 +3,29 @@
     "package": "BASiCStan",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/basicstan",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "contrast",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/contrast",
-    "available": true
+    "url": "https://github.com/alanocallaghan/contrast"
   },
   {
     "package": "densvis",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/densvis",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scater",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/scater",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "snifter",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/snifter",
-    "available": true,
     "registry": "bioc"
   }
 ]

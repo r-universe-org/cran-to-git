@@ -3,27 +3,23 @@
     "package": "deconvR",
     "maintainer": "İrem B. Gündüz <irembgunduz@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/deconvr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "genomation",
     "maintainer": "Altuna Akalin <aakalin@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/genomation",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "guix.install",
     "maintainer": "Ricardo Wurmus <ricardo.wurmus@mdc-berlin.de>",
-    "url": "https://github.com/bimsbbioinfo/guix.install",
-    "available": true
+    "url": "https://github.com/bimsbbioinfo/guix.install"
   },
   {
     "package": "netSmooth",
     "maintainer": "Jonathan Ronen <yablee@gmail.com>",
     "url": "https://github.com/bimsbbioinfo/netsmooth",
-    "available": true,
     "registry": "bioc"
   }
 ]

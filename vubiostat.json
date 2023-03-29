@@ -2,19 +2,16 @@
   {
     "package": "haplo.ccs",
     "maintainer": "Benjamin French <b.french@vumc.org>",
-    "url": "https://github.com/vubiostat/haplo.ccs",
-    "available": true
+    "url": "https://github.com/vubiostat/haplo.ccs"
   },
   {
     "package": "redcapAPI",
     "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
-    "url": "https://github.com/vubiostat/redcapapi",
-    "available": true
+    "url": "https://github.com/vubiostat/redcapapi"
   },
   {
     "package": "yaml",
     "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
-    "url": "https://github.com/vubiostat/r-yaml",
-    "available": true
+    "url": "https://github.com/vubiostat/r-yaml"
   }
 ]

@@ -3,20 +3,17 @@
     "package": "DAISIE",
     "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
     "url": "https://github.com/rsetienne/daisie",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "DAMOCLES",
     "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
-    "url": "https://github.com/rsetienne/damocles",
-    "available": true
+    "url": "https://github.com/rsetienne/damocles"
   },
   {
     "package": "DDD",
     "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
-    "url": "https://github.com/rsetienne/ddd",
-    "available": true
+    "url": "https://github.com/rsetienne/ddd"
   },
   {
     "package": "PBD",
@@ -26,13 +23,11 @@
   {
     "package": "SADISA",
     "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
-    "url": "https://github.com/rsetienne/sadisa",
-    "available": true
+    "url": "https://github.com/rsetienne/sadisa"
   },
   {
     "package": "secsse",
     "maintainer": "Rampal S. Etienne <r.s.etienne@rug.nl>",
-    "url": "https://github.com/rsetienne/secsse",
-    "available": true
+    "url": "https://github.com/rsetienne/secsse"
   }
 ]

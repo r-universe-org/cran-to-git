@@ -3,35 +3,30 @@
     "package": "dcanr",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/dcanr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "msImpute",
     "maintainer": "Soroor Hediyeh-zadeh <hediyehzadeh.s@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/msimpute",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "singscore",
     "maintainer": "Malvika Kharbanda <kharbanda.m@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/singscore",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "standR",
     "maintainer": "Ning Liu <liu.n@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/standr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "vissE",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/visse",
-    "available": true,
     "registry": "bioc"
   }
 ]

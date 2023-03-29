@@ -3,34 +3,29 @@
     "package": "ifultools",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/ifultools",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "robustarima",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/robustarima",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "splus2R",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/splus2r",
-    "available": true
+    "url": "https://github.com/spkaluzny/splus2r"
   },
   {
     "package": "splusTimeDate",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splustimedate",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "splusTimeSeries",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splustimeseries",
-    "available": true,
     "registry": "archived"
   }
 ]

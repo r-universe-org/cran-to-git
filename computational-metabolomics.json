@@ -3,14 +3,12 @@
     "package": "msPurity",
     "maintainer": "Thomas N. Lawson <thomas.nigel.lawson@gmail.com>",
     "url": "https://github.com/computational-metabolomics/mspurity",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "structToolbox",
     "maintainer": "Gavin Rhys Lloyd <g.r.lloyd@bham.ac.uk>",
     "url": "https://github.com/computational-metabolomics/structtoolbox",
-    "available": true,
     "registry": "bioc"
   }
 ]

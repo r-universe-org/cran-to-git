@@ -3,8 +3,7 @@
     "package": "BuildSys",
     "maintainer": "Paavo Jumppanen <paavo.jumppanen@csiro.au>",
     "url": "https://github.com/pjumppanen/buildsys",
-    "subdir": "BuildSys",
-    "available": true
+    "subdir": "BuildSys"
   },
   {
     "package": "keep",

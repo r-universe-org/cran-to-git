@@ -3,21 +3,18 @@
     "package": "GreedyExperimentalDesign",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/greedyexperimentaldesign",
-    "subdir": "GreedyExperimentalDesign",
-    "available": true
+    "subdir": "GreedyExperimentalDesign"
   },
   {
     "package": "OptimalRerandExpDesigns",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/optimalrerandexpdesigns",
-    "subdir": "OptimalRerandExpDesigns",
-    "available": true
+    "subdir": "OptimalRerandExpDesigns"
   },
   {
     "package": "SeqExpMatch",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/matching_on_the_fly_designs_r_package_and_paper_repr",
-    "subdir": "SeqExpMatch",
-    "available": true
+    "subdir": "SeqExpMatch"
   }
 ]

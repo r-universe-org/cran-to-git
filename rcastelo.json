@@ -3,21 +3,18 @@
     "package": "GenomicScores",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/genomicscores",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "GSVA",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/gsva",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "VariantFiltering",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "url": "https://github.com/rcastelo/variantfiltering",
-    "available": true,
     "registry": "bioc"
   }
 ]

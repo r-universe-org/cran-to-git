@@ -2,26 +2,22 @@
   {
     "package": "glmmrBase",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
-    "url": "https://github.com/samuel-watson/glmmrbase",
-    "available": true
+    "url": "https://github.com/samuel-watson/glmmrbase"
   },
   {
     "package": "glmmrMCML",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
     "url": "https://github.com/samuel-watson/glmmrmcml",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "glmmrOptim",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
-    "url": "https://github.com/samuel-watson/glmmroptim",
-    "available": true
+    "url": "https://github.com/samuel-watson/glmmroptim"
   },
   {
     "package": "SparseChol",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
-    "url": "https://github.com/samuel-watson/sparsechol",
-    "available": true
+    "url": "https://github.com/samuel-watson/sparsechol"
   }
 ]

@@ -2,26 +2,22 @@
   {
     "package": "drord",
     "maintainer": "David Benkeser <benkeser@emory.edu>",
-    "url": "https://github.com/benkeser/drord",
-    "available": true
+    "url": "https://github.com/benkeser/drord"
   },
   {
     "package": "drtmle",
     "maintainer": "David Benkeser <benkeser@emory.edu>",
-    "url": "https://github.com/benkeser/drtmle",
-    "available": true
+    "url": "https://github.com/benkeser/drtmle"
   },
   {
     "package": "nlpred",
     "maintainer": "David Benkeser <benkeser@emory.edu>",
-    "url": "https://github.com/benkeser/nlpred",
-    "available": true
+    "url": "https://github.com/benkeser/nlpred"
   },
   {
     "package": "survtmle",
     "maintainer": "David Benkeser <benkeser@emory.edu>",
     "url": "https://github.com/benkeser/survtmle",
-    "available": true,
     "registry": "archived"
   }
 ]

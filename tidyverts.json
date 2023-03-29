@@ -2,31 +2,26 @@
   {
     "package": "fable",
     "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
-    "url": "https://github.com/tidyverts/fable",
-    "available": true
+    "url": "https://github.com/tidyverts/fable"
   },
   {
     "package": "fabletools",
     "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
-    "url": "https://github.com/tidyverts/fabletools",
-    "available": true
+    "url": "https://github.com/tidyverts/fabletools"
   },
   {
     "package": "feasts",
     "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
-    "url": "https://github.com/tidyverts/feasts",
-    "available": true
+    "url": "https://github.com/tidyverts/feasts"
   },
   {
     "package": "tsibble",
     "maintainer": "Earo Wang <earo.wang@gmail.com>",
-    "url": "https://github.com/tidyverts/tsibble",
-    "available": true
+    "url": "https://github.com/tidyverts/tsibble"
   },
   {
     "package": "tsibbledata",
     "maintainer": "Mitchell O'Hara-Wild <mail@mitchelloharawild.com>",
-    "url": "https://github.com/tidyverts/tsibbledata",
-    "available": true
+    "url": "https://github.com/tidyverts/tsibbledata"
   }
 ]

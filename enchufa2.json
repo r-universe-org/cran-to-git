@@ -2,25 +2,21 @@
   {
     "package": "bspm",
     "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
-    "url": "https://github.com/enchufa2/bspm",
-    "available": true
+    "url": "https://github.com/enchufa2/bspm"
   },
   {
     "package": "flexiblas",
     "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
-    "url": "https://github.com/enchufa2/r-flexiblas",
-    "available": true
+    "url": "https://github.com/enchufa2/r-flexiblas"
   },
   {
     "package": "RcppXPtrUtils",
     "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
-    "url": "https://github.com/enchufa2/rcppxptrutils",
-    "available": true
+    "url": "https://github.com/enchufa2/rcppxptrutils"
   },
   {
     "package": "rspm",
     "maintainer": "Iñaki Ucar <iucar@fedoraproject.org>",
-    "url": "https://github.com/enchufa2/rspm",
-    "available": true
+    "url": "https://github.com/enchufa2/rspm"
   }
 ]

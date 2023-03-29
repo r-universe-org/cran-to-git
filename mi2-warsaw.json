@@ -2,21 +2,18 @@
   {
     "package": "FSelectorRcpp",
     "maintainer": "Zygmunt Zawadzki <zygmunt@zstat.pl>",
-    "url": "https://github.com/mi2-warsaw/fselectorrcpp",
-    "available": true
+    "url": "https://github.com/mi2-warsaw/fselectorrcpp"
   },
   {
     "package": "GOpro",
     "maintainer": "Lidia Chrabaszcz <chrabaszcz.lidia@gmail.com>",
     "url": "https://github.com/mi2-warsaw/gopro",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sejmRP",
     "maintainer": "Piotr Smuda <piotrsmuda@gmail.com>",
     "url": "https://github.com/mi2-warsaw/sejmrp",
-    "subdir": "sejmRP",
-    "available": true
+    "subdir": "sejmRP"
   }
 ]

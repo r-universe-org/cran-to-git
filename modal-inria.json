@@ -2,46 +2,39 @@
   {
     "package": "cfda",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
-    "url": "https://github.com/modal-inria/cfda",
-    "available": true
+    "url": "https://github.com/modal-inria/cfda"
   },
   {
     "package": "HDPenReg",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
-    "url": "https://github.com/modal-inria/hdpenreg",
-    "available": true
+    "url": "https://github.com/modal-inria/hdpenreg"
   },
   {
     "package": "MLGL",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
-    "url": "https://github.com/modal-inria/mlgl",
-    "available": true
+    "url": "https://github.com/modal-inria/mlgl"
   },
   {
     "package": "Rankcluster",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
-    "url": "https://github.com/modal-inria/rankcluster",
-    "available": true
+    "url": "https://github.com/modal-inria/rankcluster"
   },
   {
     "package": "RMixtComp",
     "maintainer": "Julien Vandaele <julien.vandaele@inria.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "subdir": "RMixtComp",
-    "available": true
+    "subdir": "RMixtComp"
   },
   {
     "package": "RMixtCompIO",
     "maintainer": "Quentin Grimonprez <quentingrim@yahoo.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "subdir": "RMixtCompIO",
-    "available": true
+    "subdir": "RMixtCompIO"
   },
   {
     "package": "RMixtCompUtilities",
     "maintainer": "Julien Vandaele <julien.vandaele@inria.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "subdir": "RMixtCompUtilities",
-    "available": true
+    "subdir": "RMixtCompUtilities"
   }
 ]

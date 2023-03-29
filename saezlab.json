@@ -3,42 +3,36 @@
     "package": "CARNIVAL",
     "maintainer": "Attila Gabor <attila.gabor@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/carnival",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "cosmosR",
     "maintainer": "Attila Gabor <attila.gabor@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/cosmosr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "decoupleR",
     "maintainer": "Pau Badia-i-Mompel <pau.badia@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/decoupler",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "mistyR",
     "maintainer": "Jovan Tanevski <jovan.tanevski@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/mistyr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "OmnipathR",
     "maintainer": "Denes Turei <turei.denes@gmail.com>",
     "url": "https://github.com/saezlab/omnipathr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "progeny",
     "maintainer": "Aurélien Dugourd <aurelien.dugourd@bioquant.uni-heidelberg.de>",
     "url": "https://github.com/saezlab/progeny",
-    "available": true,
     "registry": "bioc"
   }
 ]

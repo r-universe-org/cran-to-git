@@ -2,20 +2,17 @@
   {
     "package": "biocompute",
     "maintainer": "Soner Koc <soner.koc@sevenbridges.com>",
-    "url": "https://github.com/sbg/biocompute",
-    "available": true
+    "url": "https://github.com/sbg/biocompute"
   },
   {
     "package": "sevenbridges",
     "maintainer": "Soner Koc <soner.koc@sevenbridges.com>",
     "url": "https://github.com/sbg/sevenbridges-r",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tidycwl",
     "maintainer": "Soner Koc <soner.koc@sevenbridges.com>",
-    "url": "https://github.com/sbg/tidycwl",
-    "available": true
+    "url": "https://github.com/sbg/tidycwl"
   }
 ]

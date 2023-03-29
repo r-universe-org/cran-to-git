@@ -2,14 +2,12 @@
   {
     "package": "liminal",
     "maintainer": "Stuart Lee <stuart.andrew.lee@gmail.com>",
-    "url": "https://github.com/sa-lee/liminal",
-    "available": true
+    "url": "https://github.com/sa-lee/liminal"
   },
   {
     "package": "plyranges",
     "maintainer": "Stuart Lee <stuart.andrew.lee@gmail.com>",
     "url": "https://github.com/sa-lee/plyranges",
-    "available": true,
     "registry": "bioc"
   }
 ]

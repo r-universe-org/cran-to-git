@@ -3,20 +3,17 @@
     "package": "scDHA",
     "maintainer": "Duc Tran <duct@nevada.unr.edu>",
     "url": "https://github.com/duct317/scdha",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "SCFA",
     "maintainer": "Duc Tran <duct@nevada.unr.edu>",
     "url": "https://github.com/duct317/scfa",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "scISR",
     "maintainer": "Duc Tran <duct@nevada.unr.edu>",
-    "url": "https://github.com/duct317/scisr",
-    "available": true
+    "url": "https://github.com/duct317/scisr"
   }
 ]

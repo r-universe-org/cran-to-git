@@ -2,38 +2,32 @@
   {
     "package": "brmsmargins",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
-    "url": "https://github.com/jwiley/brmsmargins",
-    "available": true
+    "url": "https://github.com/jwiley/brmsmargins"
   },
   {
     "package": "extraoperators",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
-    "url": "https://github.com/jwiley/extraoperators",
-    "available": true
+    "url": "https://github.com/jwiley/extraoperators"
   },
   {
     "package": "JWileymisc",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
-    "url": "https://github.com/jwiley/jwileymisc",
-    "available": true
+    "url": "https://github.com/jwiley/jwileymisc"
   },
   {
     "package": "multilevelTools",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
-    "url": "https://github.com/jwiley/multileveltools",
-    "available": true
+    "url": "https://github.com/jwiley/multileveltools"
   },
   {
     "package": "pscore",
     "maintainer": "Joshua F. Wiley <jwiley.psych@gmail.com>",
     "url": "https://github.com/jwiley/score-project",
-    "subdir": "pscore",
-    "available": true
+    "subdir": "pscore"
   },
   {
     "package": "varian",
     "maintainer": "Joshua F. Wiley <josh@elkhartgroup.com>",
-    "url": "https://github.com/jwiley/varian",
-    "available": true
+    "url": "https://github.com/jwiley/varian"
   }
 ]

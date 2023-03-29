@@ -2,20 +2,17 @@
   {
     "package": "ebdbNet",
     "maintainer": "Andrea Rau <andrea.rau@inra.fr>",
-    "url": "https://github.com/andreamrau/ebdbnet",
-    "available": true
+    "url": "https://github.com/andreamrau/ebdbnet"
   },
   {
     "package": "HTSCluster",
     "maintainer": "Andrea Rau <andrea.rau@jouy.inra.fr>",
-    "url": "https://github.com/andreamrau/htscluster",
-    "available": true
+    "url": "https://github.com/andreamrau/htscluster"
   },
   {
     "package": "padma",
     "maintainer": "Andrea Rau <andrea.rau@inrae.fr>",
     "url": "https://github.com/andreamrau/padma",
-    "available": true,
     "registry": "bioc"
   }
 ]

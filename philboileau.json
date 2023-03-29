@@ -2,20 +2,17 @@
   {
     "package": "cvCovEst",
     "maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
-    "url": "https://github.com/philboileau/cvcovest",
-    "available": true
+    "url": "https://github.com/philboileau/cvcovest"
   },
   {
     "package": "neatmaps",
     "maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
-    "url": "https://github.com/philboileau/neatmaps",
-    "available": true
+    "url": "https://github.com/philboileau/neatmaps"
   },
   {
     "package": "scPCA",
     "maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
     "url": "https://github.com/philboileau/scpca",
-    "available": true,
     "registry": "bioc"
   }
 ]

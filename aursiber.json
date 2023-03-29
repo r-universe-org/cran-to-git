@@ -2,8 +2,7 @@
   {
     "package": "ade4TkGUI",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/ade4tkgui",
-    "available": true
+    "url": "https://github.com/aursiber/ade4tkgui"
   },
   {
     "package": "CINID",
@@ -13,26 +12,22 @@
   {
     "package": "DRomics",
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/dromics",
-    "available": true
+    "url": "https://github.com/aursiber/dromics"
   },
   {
     "package": "fitdistrplus",
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/fitdistrplus",
-    "available": true
+    "url": "https://github.com/aursiber/fitdistrplus"
   },
   {
     "package": "Interatrix",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/interatrix",
-    "available": true
+    "url": "https://github.com/aursiber/interatrix"
   },
   {
     "package": "kissDE",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/aursiber/kissde",
-    "available": true,
     "registry": "bioc"
   },
   {
@@ -43,26 +38,22 @@
   {
     "package": "MareyMap",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/mareymap",
-    "available": true
+    "url": "https://github.com/aursiber/mareymap"
   },
   {
     "package": "Mondrian",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/mondrian",
-    "available": true
+    "url": "https://github.com/aursiber/mondrian"
   },
   {
     "package": "nlsMicrobio",
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/nlsmicrobio",
-    "available": true
+    "url": "https://github.com/aursiber/nlsmicrobio"
   },
   {
     "package": "nlstools",
     "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/nlstools",
-    "available": true
+    "url": "https://github.com/aursiber/nlstools"
   },
   {
     "package": "OnAge",
@@ -72,7 +63,6 @@
   {
     "package": "rbioacc",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
-    "url": "https://github.com/aursiber/rbioacc",
-    "available": true
+    "url": "https://github.com/aursiber/rbioacc"
   }
 ]

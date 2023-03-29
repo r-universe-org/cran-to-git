@@ -2,20 +2,17 @@
   {
     "package": "AMAPVox",
     "maintainer": "Philippe Verley <philippe.verley@ird.fr>",
-    "url": "https://github.com/umr-amap/amapvox",
-    "available": true
+    "url": "https://github.com/umr-amap/amapvox"
   },
   {
     "package": "aRchi",
     "maintainer": "Olivier Martin <oli.martin@ntymail.com>",
     "url": "https://github.com/umr-amap/archi",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "BIOMASS",
     "maintainer": "Maxime Réjou-Méchain <maxime.rejou@gmail.com>",
-    "url": "https://github.com/umr-amap/biomass",
-    "available": true
+    "url": "https://github.com/umr-amap/biomass"
   }
 ]

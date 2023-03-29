@@ -3,14 +3,12 @@
     "package": "cytoKernel",
     "maintainer": "Tusharkanti Ghosh <tusharkantighosh30@gmail.com>",
     "url": "https://github.com/ghoshlab/cytokernel",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "marr",
     "maintainer": "Tusharkanti Ghosh <tusharkantighosh30@gmail.com>",
     "url": "https://github.com/ghoshlab/marr",
-    "available": true,
     "registry": "bioc"
   }
 ]

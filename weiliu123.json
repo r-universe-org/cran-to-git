@@ -2,14 +2,12 @@
   {
     "package": "PCLassoReg",
     "maintainer": "Wei Liu <freelw@qq.com>",
-    "url": "https://github.com/weiliu123/pclassoreg",
-    "available": true
+    "url": "https://github.com/weiliu123/pclassoreg"
   },
   {
     "package": "RLassoCox",
     "maintainer": "Wei Liu <freelw@qq.com>",
     "url": "https://github.com/weiliu123/rlassocox",
-    "available": true,
     "registry": "bioc"
   }
 ]

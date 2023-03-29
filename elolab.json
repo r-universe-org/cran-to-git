@@ -3,14 +3,12 @@
     "package": "ILoReg",
     "maintainer": "Johannes Smolander <johannes.smolander@gmail.com>",
     "url": "https://github.com/elolab/iloreg",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "RolDE",
     "maintainer": "Tommi Valikangas <tsvali@utu.fi>",
     "url": "https://github.com/elolab/rolde",
-    "available": true,
     "registry": "bioc"
   }
 ]

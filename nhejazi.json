@@ -3,25 +3,21 @@
     "package": "biotmle",
     "maintainer": "Nima Hejazi <nh@nimahejazi.org>",
     "url": "https://github.com/nhejazi/biotmle",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "haldensify",
     "maintainer": "Nima Hejazi <nh@nimahejazi.org>",
-    "url": "https://github.com/nhejazi/haldensify",
-    "available": true
+    "url": "https://github.com/nhejazi/haldensify"
   },
   {
     "package": "nima",
     "maintainer": "Nima Hejazi <nh@nimahejazi.org>",
-    "url": "https://github.com/nhejazi/nima",
-    "available": true
+    "url": "https://github.com/nhejazi/nima"
   },
   {
     "package": "txshift",
     "maintainer": "Nima Hejazi <nh@nimahejazi.org>",
-    "url": "https://github.com/nhejazi/txshift",
-    "available": true
+    "url": "https://github.com/nhejazi/txshift"
   }
 ]

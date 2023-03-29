@@ -8,13 +8,11 @@
     "package": "OpenStreetMap",
     "maintainer": "Ian Fellows <ian@fellstat.com>",
     "url": "https://github.com/ifellows/rosm",
-    "subdir": "OpenStreetMap",
-    "available": true
+    "subdir": "OpenStreetMap"
   },
   {
     "package": "wordcloud",
     "maintainer": "Ian Fellows <ian@fellstat.com>",
-    "url": "https://github.com/ifellows/wordcloud",
-    "available": true
+    "url": "https://github.com/ifellows/wordcloud"
   }
 ]

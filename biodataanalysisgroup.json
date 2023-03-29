@@ -3,14 +3,12 @@
     "package": "lineagespot",
     "maintainer": "Nikolaos Pechlivanis <inab.bioinformatics@lists.certh.gr>",
     "url": "https://github.com/biodataanalysisgroup/lineagespot",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tripr",
     "maintainer": "Nikolaos Pechlivanis <inab.bioinformatics@lists.certh.gr>",
     "url": "https://github.com/biodataanalysisgroup/tripr",
-    "available": true,
     "registry": "bioc"
   }
 ]

@@ -3,13 +3,11 @@
     "package": "compareMCMCs",
     "maintainer": "Perry de Valpine <pdevalpine@berkeley.edu>",
     "url": "https://github.com/nimble-dev/comparemcmcs",
-    "subdir": "compareMCMCs",
-    "available": true
+    "subdir": "compareMCMCs"
   },
   {
     "package": "nimbleEcology",
     "maintainer": "Benjamin R. Goldstein <ben.goldstein@berkeley.edu>",
-    "url": "https://github.com/nimble-dev/nimbleecology",
-    "available": true
+    "url": "https://github.com/nimble-dev/nimbleecology"
   }
 ]

@@ -3,14 +3,12 @@
     "package": "fastmatrix",
     "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
     "url": "https://github.com/faosorios/fastmatrix",
-    "subdir": "pkg",
-    "available": true
+    "subdir": "pkg"
   },
   {
     "package": "L1pack",
     "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
-    "url": "https://github.com/faosorios/l1pack",
-    "available": true
+    "url": "https://github.com/faosorios/l1pack"
   },
   {
     "package": "MVT",

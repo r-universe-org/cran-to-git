@@ -2,19 +2,16 @@
   {
     "package": "cwbtools",
     "maintainer": "Andreas Blaette <andreas.blaette@uni-due.de>",
-    "url": "https://github.com/polmine/cwbtools",
-    "available": true
+    "url": "https://github.com/polmine/cwbtools"
   },
   {
     "package": "polmineR",
     "maintainer": "Andreas Blaette <andreas.blaette@uni-due.de>",
-    "url": "https://github.com/polmine/polminer",
-    "available": true
+    "url": "https://github.com/polmine/polminer"
   },
   {
     "package": "RcppCWB",
     "maintainer": "Andreas Blaette <andreas.blaette@uni-due.de>",
-    "url": "https://github.com/polmine/rcppcwb",
-    "available": true
+    "url": "https://github.com/polmine/rcppcwb"
   }
 ]

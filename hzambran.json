@@ -2,26 +2,22 @@
   {
     "package": "hydroGOF",
     "maintainer": "Mauricio Zambrano-Bigiarini <mzb.devel@gmail.com>",
-    "url": "https://github.com/hzambran/hydrogof",
-    "available": true
+    "url": "https://github.com/hzambran/hydrogof"
   },
   {
     "package": "hydroPSO",
     "maintainer": "Mauricio Zambrano-Bigiarini <mzb.devel@gmail.com>",
-    "url": "https://github.com/hzambran/hydropso",
-    "available": true
+    "url": "https://github.com/hzambran/hydropso"
   },
   {
     "package": "hydroTSM",
     "maintainer": "Mauricio Zambrano-Bigiarini <mzb.devel@gmail.com>",
-    "url": "https://github.com/hzambran/hydrotsm",
-    "available": true
+    "url": "https://github.com/hzambran/hydrotsm"
   },
   {
     "package": "RFmerge",
     "maintainer": "Mauricio Zambrano-Bigiarini <mzb.devel@gmail.com>",
     "url": "https://github.com/hzambran/rfmerge",
-    "available": true,
     "registry": "archived"
   }
 ]

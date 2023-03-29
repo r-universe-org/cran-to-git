@@ -2,38 +2,32 @@
   {
     "package": "formatters",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/insightsengineering/formatters",
-    "available": true
+    "url": "https://github.com/insightsengineering/formatters"
   },
   {
     "package": "hermes",
     "maintainer": "Daniel Sabanés Bové <daniel.sabanes_bove@roche.com>",
     "url": "https://github.com/insightsengineering/hermes",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "rbmi",
     "maintainer": "Craig Gower-Page <craig.gower-page@roche.com>",
-    "url": "https://github.com/insightsengineering/rbmi",
-    "available": true
+    "url": "https://github.com/insightsengineering/rbmi"
   },
   {
     "package": "rlistings",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/insightsengineering/rlistings",
-    "available": true
+    "url": "https://github.com/insightsengineering/rlistings"
   },
   {
     "package": "rtables",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/insightsengineering/rtables",
-    "available": true
+    "url": "https://github.com/insightsengineering/rtables"
   },
   {
     "package": "simIDM",
     "maintainer": "Alexandra Erdmann <alexandra.erdmann@uni-ulm.de>",
-    "url": "https://github.com/insightsengineering/simidm",
-    "available": true
+    "url": "https://github.com/insightsengineering/simidm"
   }
 ]

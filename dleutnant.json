@@ -2,14 +2,12 @@
   {
     "package": "influxdbr",
     "maintainer": "Dominik Leutnant <leutnant@fh-muenster.de>",
-    "url": "https://github.com/dleutnant/influxdbr",
-    "available": true
+    "url": "https://github.com/dleutnant/influxdbr"
   },
   {
     "package": "swmmr",
     "maintainer": "Dominik Leutnant <leutnant@fh-muenster.de>",
     "url": "https://github.com/dleutnant/swmmr",
-    "available": true,
     "registry": "archived"
   }
 ]

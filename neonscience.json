@@ -3,14 +3,12 @@
     "package": "neonOS",
     "maintainer": "Claire Lunch <clunch@battelleecology.org>",
     "url": "https://github.com/neonscience/neon-os-data-processing",
-    "subdir": "neonOS",
-    "available": true
+    "subdir": "neonOS"
   },
   {
     "package": "neonUtilities",
     "maintainer": "Claire Lunch <clunch@battelleecology.org>",
     "url": "https://github.com/neonscience/neon-utilities",
-    "subdir": "neonUtilities",
-    "available": true
+    "subdir": "neonUtilities"
   }
 ]

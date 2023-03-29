@@ -3,49 +3,42 @@
     "package": "crisprBase",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprbase",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprBowtie",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprbowtie",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprBwa",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprbwa",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprDesign",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprdesign",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprScore",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprscore",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprVerse",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprverse",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "crisprViz",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprviz",
-    "available": true,
     "registry": "bioc"
   }
 ]

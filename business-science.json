@@ -3,81 +3,69 @@
     "package": "alphavantager",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/alphavantager",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "anomalize",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/anomalize",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "correlationfunnel",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
-    "url": "https://github.com/business-science/correlationfunnel",
-    "available": true
+    "url": "https://github.com/business-science/correlationfunnel"
   },
   {
     "package": "modeltime",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "modeltime.ensemble",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.ensemble",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "modeltime.gluonts",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.gluonts",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "modeltime.h2o",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.h2o",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "modeltime.resample",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/modeltime.resample",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "riingo",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/business-science/riingo",
-    "available": true
+    "url": "https://github.com/business-science/riingo"
   },
   {
     "package": "sweep",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/sweep",
-    "available": true,
     "registry": "archived"
   },
   {
     "package": "tibbletime",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/business-science/tibbletime",
-    "available": true
+    "url": "https://github.com/business-science/tibbletime"
   },
   {
     "package": "timetk",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
     "url": "https://github.com/business-science/timetk",
-    "available": true,
     "registry": "archived"
   }
 ]

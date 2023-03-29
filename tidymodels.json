@@ -2,241 +2,201 @@
   {
     "package": "agua",
     "maintainer": "Qiushi Yan <qiushi.yann@gmail.com>",
-    "url": "https://github.com/tidymodels/agua",
-    "available": true
+    "url": "https://github.com/tidymodels/agua"
   },
   {
     "package": "applicable",
     "maintainer": "Marly Gotti <marlygotti@gmail.com>",
-    "url": "https://github.com/tidymodels/applicable",
-    "available": true
+    "url": "https://github.com/tidymodels/applicable"
   },
   {
     "package": "baguette",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/baguette",
-    "available": true
+    "url": "https://github.com/tidymodels/baguette"
   },
   {
     "package": "bonsai",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
-    "url": "https://github.com/tidymodels/bonsai",
-    "available": true
+    "url": "https://github.com/tidymodels/bonsai"
   },
   {
     "package": "broom",
     "maintainer": "Simon Couch <simon.couch@posit.co>",
-    "url": "https://github.com/tidymodels/broom",
-    "available": true
+    "url": "https://github.com/tidymodels/broom"
   },
   {
     "package": "brulee",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/brulee",
-    "available": true
+    "url": "https://github.com/tidymodels/brulee"
   },
   {
     "package": "butcher",
     "maintainer": "Julia Silge <julia.silge@posit.co>",
-    "url": "https://github.com/tidymodels/butcher",
-    "available": true
+    "url": "https://github.com/tidymodels/butcher"
   },
   {
     "package": "censored",
     "maintainer": "Hannah Frick <hannah@rstudio.com>",
-    "url": "https://github.com/tidymodels/censored",
-    "available": true
+    "url": "https://github.com/tidymodels/censored"
   },
   {
     "package": "corrr",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/corrr",
-    "available": true
+    "url": "https://github.com/tidymodels/corrr"
   },
   {
     "package": "dials",
     "maintainer": "Hannah Frick <hannah@rstudio.com>",
-    "url": "https://github.com/tidymodels/dials",
-    "available": true
+    "url": "https://github.com/tidymodels/dials"
   },
   {
     "package": "discrim",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
-    "url": "https://github.com/tidymodels/discrim",
-    "available": true
+    "url": "https://github.com/tidymodels/discrim"
   },
   {
     "package": "embed",
     "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
-    "url": "https://github.com/tidymodels/embed",
-    "available": true
+    "url": "https://github.com/tidymodels/embed"
   },
   {
     "package": "finetune",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/finetune",
-    "available": true
+    "url": "https://github.com/tidymodels/finetune"
   },
   {
     "package": "hardhat",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
-    "url": "https://github.com/tidymodels/hardhat",
-    "available": true
+    "url": "https://github.com/tidymodels/hardhat"
   },
   {
     "package": "infer",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
-    "url": "https://github.com/tidymodels/infer",
-    "available": true
+    "url": "https://github.com/tidymodels/infer"
   },
   {
     "package": "modeldata",
     "maintainer": "Max Kuhn <max@posit.co>",
-    "url": "https://github.com/tidymodels/modeldata",
-    "available": true
+    "url": "https://github.com/tidymodels/modeldata"
   },
   {
     "package": "modeldb",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/modeldb",
-    "available": true
+    "url": "https://github.com/tidymodels/modeldb"
   },
   {
     "package": "modelenv",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
-    "url": "https://github.com/tidymodels/modelenv",
-    "available": true
+    "url": "https://github.com/tidymodels/modelenv"
   },
   {
     "package": "multilevelmod",
     "maintainer": "Hannah Frick <hannah@rstudio.com>",
-    "url": "https://github.com/tidymodels/multilevelmod",
-    "available": true
+    "url": "https://github.com/tidymodels/multilevelmod"
   },
   {
     "package": "parsnip",
     "maintainer": "Max Kuhn <max@posit.co>",
-    "url": "https://github.com/tidymodels/parsnip",
-    "available": true
+    "url": "https://github.com/tidymodels/parsnip"
   },
   {
     "package": "plsmod",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/plsmod",
-    "available": true
+    "url": "https://github.com/tidymodels/plsmod"
   },
   {
     "package": "poissonreg",
     "maintainer": "Hannah Frick <hannah@rstudio.com>",
-    "url": "https://github.com/tidymodels/poissonreg",
-    "available": true
+    "url": "https://github.com/tidymodels/poissonreg"
   },
   {
     "package": "probably",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/probably",
-    "available": true
+    "url": "https://github.com/tidymodels/probably"
   },
   {
     "package": "recipes",
     "maintainer": "Max Kuhn <max@posit.co>",
-    "url": "https://github.com/tidymodels/recipes",
-    "available": true
+    "url": "https://github.com/tidymodels/recipes"
   },
   {
     "package": "rsample",
     "maintainer": "Hannah Frick <hannah@posit.co>",
-    "url": "https://github.com/tidymodels/rsample",
-    "available": true
+    "url": "https://github.com/tidymodels/rsample"
   },
   {
     "package": "rules",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
-    "url": "https://github.com/tidymodels/rules",
-    "available": true
+    "url": "https://github.com/tidymodels/rules"
   },
   {
     "package": "shinymodels",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/shinymodels",
-    "available": true
+    "url": "https://github.com/tidymodels/shinymodels"
   },
   {
     "package": "spatialsample",
     "maintainer": "Michael Mahoney <mike.mahoney.218@gmail.com>",
-    "url": "https://github.com/tidymodels/spatialsample",
-    "available": true
+    "url": "https://github.com/tidymodels/spatialsample"
   },
   {
     "package": "stacks",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
-    "url": "https://github.com/tidymodels/stacks",
-    "available": true
+    "url": "https://github.com/tidymodels/stacks"
   },
   {
     "package": "textrecipes",
     "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
-    "url": "https://github.com/tidymodels/textrecipes",
-    "available": true
+    "url": "https://github.com/tidymodels/textrecipes"
   },
   {
     "package": "themis",
     "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
-    "url": "https://github.com/tidymodels/themis",
-    "available": true
+    "url": "https://github.com/tidymodels/themis"
   },
   {
     "package": "tidyclust",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
-    "url": "https://github.com/tidymodels/tidyclust",
-    "available": true
+    "url": "https://github.com/tidymodels/tidyclust"
   },
   {
     "package": "tidymodels",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/tidymodels",
-    "available": true
+    "url": "https://github.com/tidymodels/tidymodels"
   },
   {
     "package": "tidyposterior",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/tidyposterior",
-    "available": true
+    "url": "https://github.com/tidymodels/tidyposterior"
   },
   {
     "package": "tidypredict",
     "maintainer": "Edgar Ruiz <edgar@posit.co>",
-    "url": "https://github.com/tidymodels/tidypredict",
-    "available": true
+    "url": "https://github.com/tidymodels/tidypredict"
   },
   {
     "package": "tune",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/tune",
-    "available": true
+    "url": "https://github.com/tidymodels/tune"
   },
   {
     "package": "usemodels",
     "maintainer": "Max Kuhn <max@rstudio.com>",
-    "url": "https://github.com/tidymodels/usemodels",
-    "available": true
+    "url": "https://github.com/tidymodels/usemodels"
   },
   {
     "package": "workflows",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
-    "url": "https://github.com/tidymodels/workflows",
-    "available": true
+    "url": "https://github.com/tidymodels/workflows"
   },
   {
     "package": "workflowsets",
     "maintainer": "Simon Couch <simonpatrickcouch@gmail.com>",
-    "url": "https://github.com/tidymodels/workflowsets",
-    "available": true
+    "url": "https://github.com/tidymodels/workflowsets"
   },
   {
     "package": "yardstick",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@rstudio.com>",
-    "url": "https://github.com/tidymodels/yardstick",
-    "available": true
+    "url": "https://github.com/tidymodels/yardstick"
   }
 ]

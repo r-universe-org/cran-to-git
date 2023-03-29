@@ -3,22 +3,19 @@
     "package": "gap",
     "maintainer": "Jing Hua Zhao <jinghuazhao@hotmail.com>",
     "url": "https://github.com/jinghuazhao/r",
-    "subdir": "gap",
-    "available": true
+    "subdir": "gap"
   },
   {
     "package": "gap.datasets",
     "maintainer": "Jing Hua Zhao <jinghuazhao@hotmail.com>",
     "url": "https://github.com/jinghuazhao/r",
-    "subdir": "gap.datasets",
-    "available": true
+    "subdir": "gap.datasets"
   },
   {
     "package": "lmm",
     "maintainer": "Jing hua Zhao <jinghuazhao@hotmail.com>",
     "url": "https://github.com/jinghuazhao/r",
-    "subdir": "lmm",
-    "available": true
+    "subdir": "lmm"
   },
   {
     "package": "pan",
@@ -29,7 +26,6 @@
     "package": "tdthap",
     "maintainer": "Jing Hua Zhao <jinghuazhao@hotmail.com>",
     "url": "https://github.com/jinghuazhao/r",
-    "subdir": "tdthap",
-    "available": true
+    "subdir": "tdthap"
   }
 ]

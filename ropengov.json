@@ -2,103 +2,86 @@
   {
     "package": "eurostat",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
-    "url": "https://github.com/ropengov/eurostat",
-    "available": true
+    "url": "https://github.com/ropengov/eurostat"
   },
   {
     "package": "federalregister",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
-    "url": "https://github.com/ropengov/federalregister",
-    "available": true
+    "url": "https://github.com/ropengov/federalregister"
   },
   {
     "package": "geofi",
     "maintainer": "Markus Kainu <markus.kainu@kapsi.fi>",
-    "url": "https://github.com/ropengov/geofi",
-    "available": true
+    "url": "https://github.com/ropengov/geofi"
   },
   {
     "package": "giscoR",
     "maintainer": "Diego Hernangómez <diego.hernangomezherrero@gmail.com>",
-    "url": "https://github.com/ropengov/giscor",
-    "available": true
+    "url": "https://github.com/ropengov/giscor"
   },
   {
     "package": "helsinki",
     "maintainer": "Juuso Parkkinen <juuso.parkkinen@iki.fi>",
-    "url": "https://github.com/ropengov/helsinki",
-    "available": true
+    "url": "https://github.com/ropengov/helsinki"
   },
   {
     "package": "hetu",
     "maintainer": "Pyry Kantanen <pyry.kantanen@gmail.com>",
-    "url": "https://github.com/ropengov/hetu",
-    "available": true
+    "url": "https://github.com/ropengov/hetu"
   },
   {
     "package": "iotables",
     "maintainer": "Daniel Antal <daniel.antal@dataobservatory.eu>",
-    "url": "https://github.com/ropengov/iotables",
-    "available": true
+    "url": "https://github.com/ropengov/iotables"
   },
   {
     "package": "oldbailey",
     "maintainer": "Steph Buongiorno <steph.buon@gmail.com>",
-    "url": "https://github.com/ropengov/oldbailey",
-    "available": true
+    "url": "https://github.com/ropengov/oldbailey"
   },
   {
     "package": "psData",
     "maintainer": "Christopher Gandrud <christopher.gandrud@gmail.com>",
-    "url": "https://github.com/ropengov/psdata",
-    "available": true
+    "url": "https://github.com/ropengov/psdata"
   },
   {
     "package": "pxweb",
     "maintainer": "Mans Magnusson <mons.magnusson@gmail.com>",
-    "url": "https://github.com/ropengov/pxweb",
-    "available": true
+    "url": "https://github.com/ropengov/pxweb"
   },
   {
     "package": "regions",
     "maintainer": "Daniel Antal <daniel.antal@ceemid.eu>",
-    "url": "https://github.com/ropengov/regions",
-    "available": true
+    "url": "https://github.com/ropengov/regions"
   },
   {
     "package": "retroharmonize",
     "maintainer": "Daniel Antal <daniel.antal@ceemid.eu>",
-    "url": "https://github.com/ropengov/retroharmonize",
-    "available": true
+    "url": "https://github.com/ropengov/retroharmonize"
   },
   {
     "package": "RPublica",
     "maintainer": "Thomas J. Leeper <thosjleeper@gmail.com>",
-    "url": "https://github.com/ropengov/rpublica",
-    "available": true
+    "url": "https://github.com/ropengov/rpublica"
   },
   {
     "package": "sorvi",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
-    "url": "https://github.com/ropengov/sorvi",
-    "available": true
+    "url": "https://github.com/ropengov/sorvi"
   },
   {
     "package": "sotkanet",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
-    "url": "https://github.com/ropengov/sotkanet",
-    "available": true
+    "url": "https://github.com/ropengov/sotkanet"
   },
   {
     "package": "sweidnumbr",
     "maintainer": "Mans Magnusson <mons.magnusson@gmail.com>",
-    "url": "https://github.com/ropengov/sweidnumbr",
-    "available": true
+    "url": "https://github.com/ropengov/sweidnumbr"
   },
   {
     "package": "usdoj",
     "maintainer": "Steph Buongiorno <steph.buon@gmail.com>",
-    "url": "https://github.com/ropengov/usdoj",
-    "available": true
+    "url": "https://github.com/ropengov/usdoj"
   }
 ]

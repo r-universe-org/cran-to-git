@@ -2,421 +2,351 @@
   {
     "package": "bigD",
     "maintainer": "Richard Iannone <riannone@me.com>",
-    "url": "https://github.com/rstudio/bigd",
-    "available": true
+    "url": "https://github.com/rstudio/bigd"
   },
   {
     "package": "blastula",
     "maintainer": "Richard Iannone <riannone@me.com>",
-    "url": "https://github.com/rstudio/blastula",
-    "available": true
+    "url": "https://github.com/rstudio/blastula"
   },
   {
     "package": "blogdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/blogdown",
-    "available": true
+    "url": "https://github.com/rstudio/blogdown"
   },
   {
     "package": "bookdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/bookdown",
-    "available": true
+    "url": "https://github.com/rstudio/bookdown"
   },
   {
     "package": "bsicons",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/bsicons",
-    "available": true
+    "url": "https://github.com/rstudio/bsicons"
   },
   {
     "package": "bslib",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/bslib",
-    "available": true
+    "url": "https://github.com/rstudio/bslib"
   },
   {
     "package": "bundle",
     "maintainer": "Julia Silge <julia.silge@rstudio.com>",
-    "url": "https://github.com/rstudio/bundle",
-    "available": true
+    "url": "https://github.com/rstudio/bundle"
   },
   {
     "package": "chromote",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/chromote",
-    "available": true
+    "url": "https://github.com/rstudio/chromote"
   },
   {
     "package": "config",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
-    "url": "https://github.com/rstudio/config",
-    "available": true
+    "url": "https://github.com/rstudio/config"
   },
   {
     "package": "connectapi",
     "maintainer": "Cole Arendt <cole@posit.co>",
-    "url": "https://github.com/rstudio/connectapi",
-    "available": true
+    "url": "https://github.com/rstudio/connectapi"
   },
   {
     "package": "connectwidgets",
     "maintainer": "Brian Smith <brian@rstudio.com>",
-    "url": "https://github.com/rstudio/connectwidgets",
-    "available": true
+    "url": "https://github.com/rstudio/connectwidgets"
   },
   {
     "package": "crosstalk",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/crosstalk",
-    "available": true
+    "url": "https://github.com/rstudio/crosstalk"
   },
   {
     "package": "distill",
     "maintainer": "Christophe Dervieux <cderv@rstudio.com>",
-    "url": "https://github.com/rstudio/distill",
-    "available": true
+    "url": "https://github.com/rstudio/distill"
   },
   {
     "package": "DT",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/dt",
-    "available": true
+    "url": "https://github.com/rstudio/dt"
   },
   {
     "package": "dygraphs",
     "maintainer": "Petr Shevtsov <petr.shevtsov@gmail.com>",
-    "url": "https://github.com/rstudio/dygraphs",
-    "available": true
+    "url": "https://github.com/rstudio/dygraphs"
   },
   {
     "package": "flexdashboard",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/flexdashboard",
-    "available": true
+    "url": "https://github.com/rstudio/flexdashboard"
   },
   {
     "package": "fontawesome",
     "maintainer": "Richard Iannone <rich@rstudio.com>",
-    "url": "https://github.com/rstudio/fontawesome",
-    "available": true
+    "url": "https://github.com/rstudio/fontawesome"
   },
   {
     "package": "graphframes",
     "maintainer": "Kevin Kuo <kevin.kuo@rstudio.com>",
-    "url": "https://github.com/rstudio/graphframes",
-    "available": true
+    "url": "https://github.com/rstudio/graphframes"
   },
   {
     "package": "gt",
     "maintainer": "Richard Iannone <rich@rstudio.com>",
-    "url": "https://github.com/rstudio/gt",
-    "available": true
+    "url": "https://github.com/rstudio/gt"
   },
   {
     "package": "htmltools",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/htmltools",
-    "available": true
+    "url": "https://github.com/rstudio/htmltools"
   },
   {
     "package": "httpuv",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/httpuv",
-    "available": true
+    "url": "https://github.com/rstudio/httpuv"
   },
   {
     "package": "juicyjuice",
     "maintainer": "Richard Iannone <riannone@me.com>",
-    "url": "https://github.com/rstudio/juicyjuice",
-    "available": true
+    "url": "https://github.com/rstudio/juicyjuice"
   },
   {
     "package": "keras",
     "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
-    "url": "https://github.com/rstudio/keras",
-    "available": true
+    "url": "https://github.com/rstudio/keras"
   },
   {
     "package": "leaflet",
     "maintainer": "Joe Cheng <joe@rstudio.com>",
-    "url": "https://github.com/rstudio/leaflet",
-    "available": true
+    "url": "https://github.com/rstudio/leaflet"
   },
   {
     "package": "leaflet.providers",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/leaflet.providers",
-    "available": true
+    "url": "https://github.com/rstudio/leaflet.providers"
   },
   {
     "package": "learnr",
     "maintainer": "Garrick Aden-Buie <garrick@posit.co>",
-    "url": "https://github.com/rstudio/learnr",
-    "available": true
+    "url": "https://github.com/rstudio/learnr"
   },
   {
     "package": "markdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/markdown",
-    "available": true
+    "url": "https://github.com/rstudio/markdown"
   },
   {
     "package": "nomnoml",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
-    "url": "https://github.com/rstudio/nomnoml",
-    "available": true
+    "url": "https://github.com/rstudio/nomnoml"
   },
   {
     "package": "packrat",
     "maintainer": "Aron Atkins <aron@posit.co>",
-    "url": "https://github.com/rstudio/packrat",
-    "available": true
+    "url": "https://github.com/rstudio/packrat"
   },
   {
     "package": "pagedown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/pagedown",
-    "available": true
+    "url": "https://github.com/rstudio/pagedown"
   },
   {
     "package": "pins",
     "maintainer": "Julia Silge <julia.silge@rstudio.com>",
-    "url": "https://github.com/rstudio/pins-r",
-    "available": true
+    "url": "https://github.com/rstudio/pins-r"
   },
   {
     "package": "plumber",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/plumber",
-    "available": true
+    "url": "https://github.com/rstudio/plumber"
   },
   {
     "package": "plumbertableau",
     "maintainer": "James Blair <james@rstudio.com>",
-    "url": "https://github.com/rstudio/plumbertableau",
-    "available": true
+    "url": "https://github.com/rstudio/plumbertableau"
   },
   {
     "package": "pool",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
-    "url": "https://github.com/rstudio/pool",
-    "available": true
+    "url": "https://github.com/rstudio/pool"
   },
   {
     "package": "profvis",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/profvis",
-    "available": true
+    "url": "https://github.com/rstudio/profvis"
   },
   {
     "package": "promises",
     "maintainer": "Joe Cheng <joe@rstudio.com>",
-    "url": "https://github.com/rstudio/promises",
-    "available": true
+    "url": "https://github.com/rstudio/promises"
   },
   {
     "package": "r2d3",
     "maintainer": "Nick Strayer <nick.strayer@rstudio.com>",
-    "url": "https://github.com/rstudio/r2d3",
-    "available": true
+    "url": "https://github.com/rstudio/r2d3"
   },
   {
     "package": "reactlog",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/reactlog",
-    "available": true
+    "url": "https://github.com/rstudio/reactlog"
   },
   {
     "package": "renv",
     "maintainer": "Kevin Ushey <kevin@rstudio.com>",
-    "url": "https://github.com/rstudio/renv",
-    "available": true
+    "url": "https://github.com/rstudio/renv"
   },
   {
     "package": "reticulate",
     "maintainer": "Tomasz Kalinowski <tomasz@rstudio.com>",
-    "url": "https://github.com/rstudio/reticulate",
-    "available": true
+    "url": "https://github.com/rstudio/reticulate"
   },
   {
     "package": "revealjs",
     "maintainer": "JJ Allaire <jj@rstudio.com>",
-    "url": "https://github.com/rstudio/revealjs",
-    "available": true
+    "url": "https://github.com/rstudio/revealjs"
   },
   {
     "package": "rmarkdown",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "available": true
+    "url": "https://github.com/rstudio/rmarkdown"
   },
   {
     "package": "rsconnect",
     "maintainer": "Aron Atkins <aron@posit.co>",
-    "url": "https://github.com/rstudio/rsconnect",
-    "available": true
+    "url": "https://github.com/rstudio/rsconnect"
   },
   {
     "package": "rscontract",
     "maintainer": "Nathan Stephens <nathan@rstudio.com>",
-    "url": "https://github.com/rstudio/rscontract",
-    "available": true
+    "url": "https://github.com/rstudio/rscontract"
   },
   {
     "package": "rstudioapi",
     "maintainer": "Kevin Ushey <kevin@rstudio.com>",
-    "url": "https://github.com/rstudio/rstudioapi",
-    "available": true
+    "url": "https://github.com/rstudio/rstudioapi"
   },
   {
     "package": "rticles",
     "maintainer": "Christophe Dervieux <cderv@rstudio.com>",
-    "url": "https://github.com/rstudio/rticles",
-    "available": true
+    "url": "https://github.com/rstudio/rticles"
   },
   {
     "package": "sass",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/sass",
-    "available": true
+    "url": "https://github.com/rstudio/sass"
   },
   {
     "package": "shiny",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/shiny",
-    "available": true
+    "url": "https://github.com/rstudio/shiny"
   },
   {
     "package": "shinydashboard",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/shinydashboard",
-    "available": true
+    "url": "https://github.com/rstudio/shinydashboard"
   },
   {
     "package": "shinyloadtest",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/shinyloadtest",
-    "available": true
+    "url": "https://github.com/rstudio/shinyloadtest"
   },
   {
     "package": "shinymeta",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/shinymeta",
-    "available": true
+    "url": "https://github.com/rstudio/shinymeta"
   },
   {
     "package": "shinytest",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/shinytest",
-    "available": true
+    "url": "https://github.com/rstudio/shinytest"
   },
   {
     "package": "shinytest2",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/shinytest2",
-    "available": true
+    "url": "https://github.com/rstudio/shinytest2"
   },
   {
     "package": "shinythemes",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/shinythemes",
-    "available": true
+    "url": "https://github.com/rstudio/shinythemes"
   },
   {
     "package": "shinyvalidate",
     "maintainer": "Richard Iannone <rich@rstudio.com>",
-    "url": "https://github.com/rstudio/shinyvalidate",
-    "available": true
+    "url": "https://github.com/rstudio/shinyvalidate"
   },
   {
     "package": "sortable",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
-    "url": "https://github.com/rstudio/sortable",
-    "available": true
+    "url": "https://github.com/rstudio/sortable"
   },
   {
     "package": "swagger",
     "maintainer": "Barret Schloerke <barret@rstudio.com>",
-    "url": "https://github.com/rstudio/swagger",
-    "available": true
+    "url": "https://github.com/rstudio/swagger"
   },
   {
     "package": "tensorflow",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tensorflow",
-    "available": true
+    "url": "https://github.com/rstudio/tensorflow"
   },
   {
     "package": "tfdatasets",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tfdatasets",
-    "available": true
+    "url": "https://github.com/rstudio/tfdatasets"
   },
   {
     "package": "tfestimators",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tfestimators",
-    "available": true
+    "url": "https://github.com/rstudio/tfestimators"
   },
   {
     "package": "tfhub",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tfhub",
-    "available": true
+    "url": "https://github.com/rstudio/tfhub"
   },
   {
     "package": "tfprobability",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tfprobability",
-    "available": true
+    "url": "https://github.com/rstudio/tfprobability"
   },
   {
     "package": "tfruns",
     "maintainer": "Tomasz Kalinowski <tomasz@rstudio.com>",
-    "url": "https://github.com/rstudio/tfruns",
-    "available": true
+    "url": "https://github.com/rstudio/tfruns"
   },
   {
     "package": "thematic",
     "maintainer": "Carson Sievert <carson@rstudio.com>",
-    "url": "https://github.com/rstudio/thematic",
-    "available": true
+    "url": "https://github.com/rstudio/thematic"
   },
   {
     "package": "tinytex",
     "maintainer": "Yihui Xie <xie@yihui.name>",
-    "url": "https://github.com/rstudio/tinytex",
-    "available": true
+    "url": "https://github.com/rstudio/tinytex"
   },
   {
     "package": "tufte",
     "maintainer": "Christophe Dervieux <cderv@rstudio.com>",
-    "url": "https://github.com/rstudio/tufte",
-    "available": true
+    "url": "https://github.com/rstudio/tufte"
   },
   {
     "package": "vetiver",
     "maintainer": "Julia Silge <julia.silge@rstudio.com>",
-    "url": "https://github.com/rstudio/vetiver-r",
-    "available": true
+    "url": "https://github.com/rstudio/vetiver-r"
   },
   {
     "package": "webdriver",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-    "url": "https://github.com/rstudio/webdriver",
-    "available": true
+    "url": "https://github.com/rstudio/webdriver"
   },
   {
     "package": "webshot2",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/webshot2",
-    "available": true
+    "url": "https://github.com/rstudio/webshot2"
   },
   {
     "package": "websocket",
     "maintainer": "Winston Chang <winston@rstudio.com>",
-    "url": "https://github.com/rstudio/websocket",
-    "available": true
+    "url": "https://github.com/rstudio/websocket"
   }
 ]

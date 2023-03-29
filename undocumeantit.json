@@ -2,37 +2,31 @@
   {
     "package": "klausuR",
     "maintainer": "m.eik michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/klausur",
-    "available": true
+    "url": "https://github.com/undocumeantit/klausur"
   },
   {
     "package": "koRpus",
     "maintainer": "Meik Michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/korpus",
-    "available": true
+    "url": "https://github.com/undocumeantit/korpus"
   },
   {
     "package": "koRpus.lang.en",
     "maintainer": "Meik Michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/korpus.lang.en",
-    "available": true
+    "url": "https://github.com/undocumeantit/korpus.lang.en"
   },
   {
     "package": "sylly",
     "maintainer": "Meik Michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/sylly",
-    "available": true
+    "url": "https://github.com/undocumeantit/sylly"
   },
   {
     "package": "sylly.en",
     "maintainer": "Meik Michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/sylly.en",
-    "available": true
+    "url": "https://github.com/undocumeantit/sylly.en"
   },
   {
     "package": "tm.plugin.koRpus",
     "maintainer": "m.eik michalke <meik.michalke@hhu.de>",
-    "url": "https://github.com/undocumeantit/tm.plugin.korpus",
-    "available": true
+    "url": "https://github.com/undocumeantit/tm.plugin.korpus"
   }
 ]

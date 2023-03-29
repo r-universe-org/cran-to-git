@@ -2,20 +2,17 @@
   {
     "package": "kknn",
     "maintainer": "Klaus Schliep <klaus.schliep@gmail.com>",
-    "url": "https://github.com/klausvigo/kknn",
-    "available": true
+    "url": "https://github.com/klausvigo/kknn"
   },
   {
     "package": "phangorn",
     "maintainer": "Klaus Schliep <klaus.schliep@gmail.com>",
-    "url": "https://github.com/klausvigo/phangorn",
-    "available": true
+    "url": "https://github.com/klausvigo/phangorn"
   },
   {
     "package": "tanggle",
     "maintainer": "Klaus Schliep <klaus.schliep@gmail.com>",
     "url": "https://github.com/klausvigo/tanggle",
-    "available": true,
     "registry": "bioc"
   }
 ]

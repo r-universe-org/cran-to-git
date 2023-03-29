@@ -3,38 +3,32 @@
     "package": "cleaver",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/sgibb/cleaver",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "MALDIquant",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/maldiquant",
-    "available": true
+    "url": "https://github.com/sgibb/maldiquant"
   },
   {
     "package": "MALDIquantForeign",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/maldiquantforeign",
-    "available": true
+    "url": "https://github.com/sgibb/maldiquantforeign"
   },
   {
     "package": "readBrukerFlexData",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/readbrukerflexdata",
-    "available": true
+    "url": "https://github.com/sgibb/readbrukerflexdata"
   },
   {
     "package": "readMzXmlData",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/readmzxmldata",
-    "available": true
+    "url": "https://github.com/sgibb/readmzxmldata"
   },
   {
     "package": "topdownr",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/sgibb/topdownr",
-    "available": true,
     "registry": "bioc"
   }
 ]

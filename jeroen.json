@@ -2,74 +2,62 @@
   {
     "package": "base64",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/base64",
-    "available": true
+    "url": "https://github.com/jeroen/base64"
   },
   {
     "package": "bcrypt",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/bcrypt",
-    "available": true
+    "url": "https://github.com/jeroen/bcrypt"
   },
   {
     "package": "brotli",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/brotli",
-    "available": true
+    "url": "https://github.com/jeroen/brotli"
   },
   {
     "package": "curl",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/curl",
-    "available": true
+    "url": "https://github.com/jeroen/curl"
   },
   {
     "package": "gpg",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/gpg",
-    "available": true
+    "url": "https://github.com/jeroen/gpg"
   },
   {
     "package": "js",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/js",
-    "available": true
+    "url": "https://github.com/jeroen/js"
   },
   {
     "package": "jsonlite",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/jsonlite",
-    "available": true
+    "url": "https://github.com/jeroen/jsonlite"
   },
   {
     "package": "maketools",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/maketools",
-    "available": true
+    "url": "https://github.com/jeroen/maketools"
   },
   {
     "package": "mongolite",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/mongolite",
-    "available": true
+    "url": "https://github.com/jeroen/mongolite"
   },
   {
     "package": "openssl",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/openssl",
-    "available": true
+    "url": "https://github.com/jeroen/openssl"
   },
   {
     "package": "protolite",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/protolite",
-    "available": true
+    "url": "https://github.com/jeroen/protolite"
   },
   {
     "package": "RAppArmor",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/rapparmor",
-    "available": true
+    "url": "https://github.com/jeroen/rapparmor"
   },
   {
     "package": "rjade",
@@ -79,31 +67,26 @@
   {
     "package": "sys",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/sys",
-    "available": true
+    "url": "https://github.com/jeroen/sys"
   },
   {
     "package": "unix",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/unix",
-    "available": true
+    "url": "https://github.com/jeroen/unix"
   },
   {
     "package": "V8",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/v8",
-    "available": true
+    "url": "https://github.com/jeroen/v8"
   },
   {
     "package": "webp",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/webp",
-    "available": true
+    "url": "https://github.com/jeroen/webp"
   },
   {
     "package": "webutils",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
-    "url": "https://github.com/jeroen/webutils",
-    "available": true
+    "url": "https://github.com/jeroen/webutils"
   }
 ]

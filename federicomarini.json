@@ -3,41 +3,35 @@
     "package": "flowcatchR",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/flowcatchr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "GeneTonic",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/genetonic",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "ideal",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/ideal",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pcaExplorer",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/pcaexplorer",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "quantiseqr",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/quantiseqr",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "simrec",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/simrec",
-    "available": true
+    "url": "https://github.com/federicomarini/simrec"
   }
 ]

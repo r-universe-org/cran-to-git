@@ -2,31 +2,26 @@
   {
     "package": "chipPCR",
     "maintainer": "Stefan Roediger <stefan.roediger@b-tu.de>",
-    "url": "https://github.com/pcruniversum/chippcr",
-    "available": true
+    "url": "https://github.com/pcruniversum/chippcr"
   },
   {
     "package": "MBmca",
     "maintainer": "Stefan Roediger <stefan_roediger@gmx.de>",
-    "url": "https://github.com/pcruniversum/mbmca",
-    "available": true
+    "url": "https://github.com/pcruniversum/mbmca"
   },
   {
     "package": "PCRedux",
     "maintainer": "Stefan Roediger <stefan.roediger@b-tu.de>",
-    "url": "https://github.com/pcruniversum/pcredux",
-    "available": true
+    "url": "https://github.com/pcruniversum/pcredux"
   },
   {
     "package": "RDML",
     "maintainer": "Konstantin A. Blagodatskikh <k.blag@yandex.ru>",
-    "url": "https://github.com/pcruniversum/rdml",
-    "available": true
+    "url": "https://github.com/pcruniversum/rdml"
   },
   {
     "package": "shinyMolBio",
     "maintainer": "Konstantin A. Blagodatskikh <k.blag@yandex.ru>",
-    "url": "https://github.com/pcruniversum/shinymolbio",
-    "available": true
+    "url": "https://github.com/pcruniversum/shinymolbio"
   }
 ]

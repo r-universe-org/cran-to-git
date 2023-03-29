@@ -2,105 +2,89 @@
   {
     "package": "bsub",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/bsub",
-    "available": true
+    "url": "https://github.com/jokergoo/bsub"
   },
   {
     "package": "CePa",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/cepa",
-    "available": true
+    "url": "https://github.com/jokergoo/cepa"
   },
   {
     "package": "circlize",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/circlize",
-    "available": true
+    "url": "https://github.com/jokergoo/circlize"
   },
   {
     "package": "cola",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/cola",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "colorRamp2",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/colorramp2",
-    "available": true
+    "url": "https://github.com/jokergoo/colorramp2"
   },
   {
     "package": "ComplexHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/complexheatmap",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "EnrichedHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/enrichedheatmap",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "GetoptLong",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/getoptlong",
-    "available": true
+    "url": "https://github.com/jokergoo/getoptlong"
   },
   {
     "package": "GlobalOptions",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/globaloptions",
-    "available": true
+    "url": "https://github.com/jokergoo/globaloptions"
   },
   {
     "package": "gtrellis",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/gtrellis",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "HilbertCurve",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/hilbertcurve",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "InteractiveComplexHeatmap",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/interactivecomplexheatmap",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "pkgndep",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/pkgndep",
-    "available": true
+    "url": "https://github.com/jokergoo/pkgndep"
   },
   {
     "package": "rGREAT",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/rgreat",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "simplifyEnrichment",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/simplifyenrichment",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "spiralize",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/spiralize",
-    "available": true
+    "url": "https://github.com/jokergoo/spiralize"
   }
 ]

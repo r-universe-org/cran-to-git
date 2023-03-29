@@ -2,21 +2,18 @@
   {
     "package": "FAdist",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
-    "url": "https://github.com/tpetzoldt/fadist",
-    "available": true
+    "url": "https://github.com/tpetzoldt/fadist"
   },
   {
     "package": "FAmle",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/tpetzoldt/famle",
-    "subdir": "pkg/FAmle",
-    "available": true
+    "subdir": "pkg/FAmle"
   },
   {
     "package": "growthrates",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
-    "url": "https://github.com/tpetzoldt/growthrates",
-    "available": true
+    "url": "https://github.com/tpetzoldt/growthrates"
   },
   {
     "package": "simecol",

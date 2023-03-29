@@ -2,59 +2,50 @@
   {
     "package": "einsum",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/einsum",
-    "available": true
+    "url": "https://github.com/const-ae/einsum"
   },
   {
     "package": "ggsignif",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/ggsignif",
-    "available": true
+    "url": "https://github.com/const-ae/ggsignif"
   },
   {
     "package": "ggupset",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/ggupset",
-    "available": true
+    "url": "https://github.com/const-ae/ggupset"
   },
   {
     "package": "glmGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/glmgampoi",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "mixdir",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/mixdir",
-    "available": true
+    "url": "https://github.com/const-ae/mixdir"
   },
   {
     "package": "proDA",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/proda",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "sparseMatrixStats",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/sparsematrixstats",
-    "available": true,
     "registry": "bioc"
   },
   {
     "package": "tidygenomics",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
-    "url": "https://github.com/const-ae/tidygenomics",
-    "available": true
+    "url": "https://github.com/const-ae/tidygenomics"
   },
   {
     "package": "transformGamPoi",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/transformgampoi",
-    "available": true,
     "registry": "bioc"
   }
 ]

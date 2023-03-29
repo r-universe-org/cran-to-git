@@ -2,55 +2,46 @@
   {
     "package": "cuda.ml",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/cuda.ml",
-    "available": true
+    "url": "https://github.com/mlverse/cuda.ml"
   },
   {
     "package": "luz",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/luz",
-    "available": true
+    "url": "https://github.com/mlverse/luz"
   },
   {
     "package": "tabnet",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/tabnet",
-    "available": true
+    "url": "https://github.com/mlverse/tabnet"
   },
   {
     "package": "tabulate",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/tabulate",
-    "available": true
+    "url": "https://github.com/mlverse/tabulate"
   },
   {
     "package": "tfevents",
     "maintainer": "Daniel Falbel <daniel@posit.co>",
-    "url": "https://github.com/mlverse/tfevents",
-    "available": true
+    "url": "https://github.com/mlverse/tfevents"
   },
   {
     "package": "torch",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/torch",
-    "available": true
+    "url": "https://github.com/mlverse/torch"
   },
   {
     "package": "torchdatasets",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/torchdatasets",
-    "available": true
+    "url": "https://github.com/mlverse/torchdatasets"
   },
   {
     "package": "torchvision",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/torchvision",
-    "available": true
+    "url": "https://github.com/mlverse/torchvision"
   },
   {
     "package": "wav",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/mlverse/wav",
-    "available": true
+    "url": "https://github.com/mlverse/wav"
   }
 ]
