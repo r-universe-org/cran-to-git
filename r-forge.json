@@ -498,6 +498,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "partykit",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://github.com/r-forge/partykit",
+    "subdir": "pkg/partykit"
+  },
+  {
     "package": "pcalg",
     "maintainer": "Markus Kalisch <kalisch@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/pcalg",

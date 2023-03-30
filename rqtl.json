@@ -1,5 +1,10 @@
 [
   {
+    "package": "mmconvert",
+    "maintainer": "Karl W Broman <broman@wisc.edu>",
+    "url": "https://github.com/rqtl/mmconvert"
+  },
+  {
     "package": "qtl2",
     "maintainer": "Karl W Broman <broman@wisc.edu>",
     "url": "https://github.com/rqtl/qtl2"
