@@ -775,7 +775,8 @@
   {
     "package": "rmangal",
     "maintainer": "Kevin Cazelles <kevin.cazelles@gmail.com>",
-    "url": "https://github.com/ropensci/rmangal"
+    "url": "https://github.com/ropensci/rmangal",
+    "registry": "archived"
   },
   {
     "package": "rnassqs",
@@ -876,6 +877,11 @@
     "package": "smapr",
     "maintainer": "Maxwell Joseph <maxwell.b.joseph@colorado.edu>",
     "url": "https://github.com/ropensci/smapr"
+  },
+  {
+    "package": "sofa",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/sofa"
   },
   {
     "package": "spatsoc",
