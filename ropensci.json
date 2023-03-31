@@ -775,8 +775,7 @@
   {
     "package": "rmangal",
     "maintainer": "Kevin Cazelles <kevin.cazelles@gmail.com>",
-    "url": "https://github.com/ropensci/rmangal",
-    "registry": "archived"
+    "url": "https://github.com/ropensci/rmangal"
   },
   {
     "package": "rnassqs",
@@ -1103,11 +1102,6 @@
     "package": "webmockr",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
     "url": "https://github.com/ropensci/webmockr"
-  },
-  {
-    "package": "wellknown",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/wellknown"
   },
   {
     "package": "wikitaxa",
