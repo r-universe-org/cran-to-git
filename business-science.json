@@ -2,8 +2,7 @@
   {
     "package": "alphavantager",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
-    "url": "https://github.com/business-science/alphavantager",
-    "registry": "archived"
+    "url": "https://github.com/business-science/alphavantager"
   },
   {
     "package": "anomalize",
@@ -19,8 +18,7 @@
   {
     "package": "modeltime",
     "maintainer": "Matt Dancho <mdancho@business-science.io>",
-    "url": "https://github.com/business-science/modeltime",
-    "registry": "archived"
+    "url": "https://github.com/business-science/modeltime"
   },
   {
     "package": "modeltime.ensemble",
@@ -61,6 +59,11 @@
     "package": "tibbletime",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/business-science/tibbletime"
+  },
+  {
+    "package": "tidyquant",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/tidyquant"
   },
   {
     "package": "timetk",

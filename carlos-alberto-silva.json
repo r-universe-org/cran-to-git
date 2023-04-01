@@ -1,5 +1,10 @@
 [
   {
+    "package": "ForestGapR",
+    "maintainer": "Carlos Alberto Silva <carlos_engflorestal@outlook.com>",
+    "url": "https://github.com/carlos-alberto-silva/forestgapr"
+  },
+  {
     "package": "rForest",
     "maintainer": "Carlos Alberto Silva <carlos_engflorestal@outlook.com>",
     "url": "https://github.com/carlos-alberto-silva/rforest",
@@ -9,6 +14,11 @@
     "package": "rLiDAR",
     "maintainer": "Carlos Alberto Silva <carlos_engflorestal@outlook.com>",
     "url": "https://github.com/carlos-alberto-silva/rlidar"
+  },
+  {
+    "package": "rTLsDeep",
+    "maintainer": "Caio Hamamura <caiohamamura@gmail.com>",
+    "url": "https://github.com/carlos-alberto-silva/rtlsdeep"
   },
   {
     "package": "treetop",
