@@ -6,12 +6,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "dcmodifydb",
-    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/dcmodifydb",
-    "registry": "archived"
-  },
-  {
     "package": "deducorrect",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/deducorrect",
@@ -45,12 +39,6 @@
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
     "url": "https://github.com/data-cleaning/validate",
     "subdir": "pkg"
-  },
-  {
-    "package": "validatedb",
-    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
-    "url": "https://github.com/data-cleaning/validatedb",
-    "registry": "archived"
   },
   {
     "package": "validatetools",

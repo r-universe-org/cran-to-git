@@ -10,6 +10,11 @@
     "url": "https://github.com/doi-usgs/egret"
   },
   {
+    "package": "EGRETci",
+    "maintainer": "Laura DeCicco <ldecicco@usgs.gov>",
+    "url": "https://github.com/doi-usgs/egretci"
+  },
+  {
     "package": "geoknife",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
     "url": "https://github.com/doi-usgs/geoknife"
