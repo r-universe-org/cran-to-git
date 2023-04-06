@@ -8,5 +8,15 @@
     "package": "TSANN",
     "maintainer": "Md Yeasin <yeasin.iasri@gmail.com>",
     "url": "https://github.com/cran/TSANN"
+  },
+  {
+    "package": "WaveletETS",
+    "maintainer": "Dr. Md Yeasin <yeasin.iasri@gmail.com>",
+    "url": "https://github.com/cran/WaveletETS"
+  },
+  {
+    "package": "WaveletKNN",
+    "maintainer": "Dr. Md Yeasin <yeasin.iasri@gmail.com>",
+    "url": "https://github.com/cran/WaveletKNN"
   }
 ]
