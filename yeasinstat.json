@@ -18,5 +18,10 @@
     "package": "WaveletKNN",
     "maintainer": "Dr. Md Yeasin <yeasin.iasri@gmail.com>",
     "url": "https://github.com/cran/WaveletKNN"
+  },
+  {
+    "package": "WaveletLSTM",
+    "maintainer": "Dr. Md Yeasin <yeasin.iasri@gmail.com>",
+    "url": "https://github.com/cran/WaveletLSTM"
   }
 ]
