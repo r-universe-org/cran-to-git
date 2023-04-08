@@ -1,5 +1,10 @@
 [
   {
+    "package": "BrokenAdaptiveRidge",
+    "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
+    "url": "https://github.com/cran/BrokenAdaptiveRidge"
+  },
+  {
     "package": "IterativeHardThresholding",
     "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
     "url": "https://github.com/cran/IterativeHardThresholding"
