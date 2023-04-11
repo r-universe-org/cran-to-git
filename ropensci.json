@@ -294,7 +294,8 @@
   {
     "package": "ezknitr",
     "maintainer": "Dean Attali <daattali@gmail.com>",
-    "url": "https://github.com/ropensci/ezknitr"
+    "url": "https://github.com/ropensci/ezknitr",
+    "registry": "archived"
   },
   {
     "package": "FedData",
@@ -399,7 +400,8 @@
   {
     "package": "iheatmapr",
     "maintainer": "Alicia Schep <aschep@gmail.com>",
-    "url": "https://github.com/ropensci/iheatmapr"
+    "url": "https://github.com/ropensci/iheatmapr",
+    "registry": "archived"
   },
   {
     "package": "ijtiff",
