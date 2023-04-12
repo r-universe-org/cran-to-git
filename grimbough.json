@@ -12,6 +12,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Rarr",
+    "maintainer": "Mike Smith <grimbough@gmail.com>",
+    "url": "https://github.com/grimbough/rarr",
+    "registry": "bioc"
+  },
+  {
     "package": "rhdf5",
     "maintainer": "Mike Smith <mike.smith@embl.de>",
     "url": "https://github.com/grimbough/rhdf5",

@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cytoviewer",
+    "maintainer": "Lasse Meyer <lasse.meyer@dqbm.uzh.ch>",
+    "url": "https://github.com/bodenmillergroup/cytoviewer",
+    "registry": "bioc"
+  },
+  {
     "package": "imcRtools",
     "maintainer": "Nils Eling <nils.eling@dqbm.uzh.ch>",
     "url": "https://github.com/bodenmillergroup/imcrtools",

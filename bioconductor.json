@@ -123,6 +123,12 @@
     "branch": "RELEASE_3_16"
   },
   {
+    "package": "BSgenomeForge",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/bsgenomeforge",
+    "registry": "bioc"
+  },
+  {
     "package": "DelayedArray",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/delayedarray",

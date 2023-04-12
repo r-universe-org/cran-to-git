@@ -1,5 +1,11 @@
 [
   {
+    "package": "CTdata",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/ctdata",
+    "registry": "bioc"
+  },
+  {
     "package": "CytoPipeline",
     "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/cytopipeline",
