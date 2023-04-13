@@ -172,11 +172,6 @@
     "url": "https://github.com/ropensci/colocr"
   },
   {
-    "package": "comtradr",
-    "maintainer": "Chris Muir <chrismuirRVA@gmail.com>",
-    "url": "https://github.com/ropensci/comtradr"
-  },
-  {
     "package": "concstats",
     "maintainer": "Andreas Schneider <schneiderconsultingpy@gmail.com>",
     "url": "https://github.com/ropensci/concstats"
@@ -643,6 +638,11 @@
     "package": "postdoc",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/postdoc"
+  },
+  {
+    "package": "predictNMB",
+    "maintainer": "Rex Parsons <rex.parsons94@gmail.com>",
+    "url": "https://github.com/ropensci/predictnmb"
   },
   {
     "package": "prism",
