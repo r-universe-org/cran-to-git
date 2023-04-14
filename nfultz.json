@@ -1,35 +1,5 @@
 [
   {
-    "package": "AWR.Athena",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/awr.athena"
-  },
-  {
-    "package": "c2d4u.tools",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/c2d4u.tools"
-  },
-  {
-    "package": "cns",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/cns"
-  },
-  {
-    "package": "DBIsqldf",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/dbisqldf"
-  },
-  {
-    "package": "ot",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/cran/ot"
-  },
-  {
-    "package": "Rip46",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/rip46"
-  },
-  {
     "package": "stackoverflow",
     "maintainer": "Neal Fultz <nfultz@gmail.com>",
     "url": "https://github.com/nfultz/stackoverflow"
@@ -38,10 +8,5 @@
     "package": "stat.extend",
     "maintainer": "Neal Fultz <nfultz@gmail.com>",
     "url": "https://github.com/cran/stat.extend"
-  },
-  {
-    "package": "static",
-    "maintainer": "Neal Fultz <nfultz@gmail.com>",
-    "url": "https://github.com/nfultz/static"
   }
 ]

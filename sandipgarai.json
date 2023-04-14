@@ -5,6 +5,11 @@
     "url": "https://github.com/cran/AllMetrics"
   },
   {
+    "package": "AriGaMyANNSVR",
+    "maintainer": "Mr. Sandip Garai <sandipnicksandy@gmail.com>",
+    "url": "https://github.com/cran/AriGaMyANNSVR"
+  },
+  {
     "package": "CEEMDANML",
     "maintainer": "Mr. Sandip Garai <sandipnicksandy@gmail.com>",
     "url": "https://github.com/cran/CEEMDANML"
@@ -23,5 +28,10 @@
     "package": "WaveletML",
     "maintainer": "Mr. Sandip Garai <sandipnicksandy@gmail.com>",
     "url": "https://github.com/cran/WaveletML"
+  },
+  {
+    "package": "WaveletMLbestFL",
+    "maintainer": "Mr. Sandip Garai <sandipnicksandy@gmail.com>",
+    "url": "https://github.com/cran/WaveletMLbestFL"
   }
 ]
