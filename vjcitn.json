@@ -125,6 +125,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Rcollectl",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/rcollectl",
+    "registry": "bioc"
+  },
+  {
     "package": "rhdf5client",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/rhdf5client",

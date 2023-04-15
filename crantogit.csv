@@ -894,6 +894,7 @@ bioOED,https://github.com/albgarre/biooed,,
 BioPETsurv,https://github.com/chengs94/biopetsurv,,
 BioQC,https://github.com/accio/bioqc,,bioc
 bioRad,https://github.com/adokter/biorad,,
+bioregion,https://github.com/biorgeo/bioregion,,
 BioRssay,https://github.com/milesilab/biorssay,,
 biosensors.usc,https://github.com/glucodensities/biosensors.usc,,
 bioseq,https://github.com/fkeck/bioseq,,
@@ -1298,6 +1299,7 @@ cbinom,https://github.com/ddalthorp/cbinom,,
 cBioPortalData,https://github.com/waldronlab/cbioportaldata,,bioc
 cbioportalR,https://github.com/karissawhiting/cbioportalr,,
 cbl,https://github.com/dswatson/cbl,,
+CBNplot,https://github.com/noriakis/cbnplot,,bioc
 cbpManager,https://github.com/arsenij-ust/cbpmanager,,bioc
 cbsodataR,https://github.com/edwindj/cbsodatar,,
 CBSr,https://github.com/sangillee/cbsr,,
@@ -1309,6 +1311,7 @@ ccid,https://github.com/anastasiou-andreas/ccid,,
 ccImpute,https://github.com/khazum/ccimpute,,bioc
 CCM,https://github.com/gdancik/ccm,,
 ccmEstimator,https://github.com/xiw021/ccmestimator,,
+CCMMR,https://github.com/djwtouw/ccmmr,,
 ccmReportR,https://github.com/durhamregionharp/ccmreportr,,
 ccostr,https://github.com/larshernandez/ccostr,,
 ccpsyc,https://github.com/jo-karl/ccpsyc,,
@@ -2340,6 +2343,7 @@ DelayedDataFrame,https://github.com/bioconductor/delayeddataframe,,bioc
 DelayedMatrixStats,https://github.com/petehaitch/delayedmatrixstats,,bioc
 DelayedRandomArray,https://github.com/ltla/delayedrandomarray,,bioc
 DelayedTensor,https://github.com/rikenbit/delayedtensor,,bioc
+DELocal,https://github.com/dasroy/delocal,,bioc
 deltaccd,https://github.com/hugheylab/deltaccd,,
 demcon,https://gitlab.com/dante-sttr/demcon,,
 DemoDecomp,https://github.com/timriffe/demodecomp,,
@@ -3512,7 +3516,7 @@ findviews,https://github.com/tsellam/findviews,,
 finetune,https://github.com/tidymodels/finetune,,
 fingraph,https://github.com/convexfi/fingraph,,
 finnishgrid,https://github.com/virmar/finnishgrid,,
-finnts,https://github.com/microsoft/finnts,,archived
+finnts,https://github.com/microsoft/finnts,,
 finreportr,https://github.com/sewardlee337/finreportr,,
 FinTS,https://github.com/r-forge/fints,pkg/FinTS,
 fipio,https://github.com/ufokn/fipio,,
@@ -4321,6 +4325,7 @@ gMCPLite,https://github.com/merck/gmcplite,,
 gmgm,https://github.com/jeremyroos/gmgm,,
 Gmisc,https://github.com/gforge/gmisc,,
 gmm,https://github.com/pchausse/gmm,,
+GMMAT,https://github.com/hanchenphd/gmmat,,
 gmnl,https://github.com/mauricio1986/gmnl,,
 gMOIP,https://github.com/relund/gmoip,,
 gmpoly,https://github.com/stla/gmpoly,,
@@ -4637,7 +4642,7 @@ healthfinance,https://github.com/rrrlw/healthfinance,,
 healthyR,https://github.com/spsanderson/healthyr,,
 healthyR.ai,https://github.com/spsanderson/healthyr.ai,,
 healthyR.data,https://github.com/spsanderson/healthyr.data,,
-healthyR.ts,https://github.com/spsanderson/healthyr.ts,,archived
+healthyR.ts,https://github.com/spsanderson/healthyr.ts,,
 healthyverse,https://github.com/spsanderson/healthyverse,,archived
 heapsofpapers,https://github.com/rohanalexander/heapsofpapers,,
 heatmaply,https://github.com/talgalili/heatmaply,,
@@ -8683,7 +8688,7 @@ rayrender,https://github.com/tylermorganwall/rayrender,,
 rayshader,https://github.com/tylermorganwall/rayshader,,
 raytracing,https://github.com/salvatirehbein/raytracing,,
 rayvertex,https://github.com/tylermorganwall/rayvertex,,
-rb3,https://github.com/ropensci/rb3,,archived
+rb3,https://github.com/ropensci/rb3,,
 rbacon,https://github.com/maarten14c/rbacon,,
 rBahadur,https://github.com/rborder/rbahadur,,
 RBaseX,https://github.com/benengbers/rbasex,,
@@ -8754,6 +8759,7 @@ RcmdrPlugin.NMBU,https://github.com/khliland/rcmdrplugin.nmbu,,
 rCNV,https://github.com/piyalkarum/rcnv,,
 rco,https://github.com/jcrodriguez1989/rco,,
 RColetum,https://github.com/geo-sapiens/rcoletum,,
+Rcollectl,https://github.com/vjcitn/rcollectl,,bioc
 rcolors,https://github.com/rpkgs/rcolors,,
 Rcompadre,https://github.com/jonesor/rcompadre,,
 rcompendium,https://github.com/frbcesab/rcompendium,,
@@ -10056,7 +10062,7 @@ scTenifoldKnk,https://github.com/cailab-tamu/sctenifoldknk,,
 scTenifoldNet,https://github.com/cailab-tamu/sctenifoldnet,,
 scTEP,https://github.com/grygy1215/sctep,,archived
 scTHI,https://github.com/miccec/scthi,,bioc
-SCtools,https://github.com/bcastanho/sctools,,
+SCtools,https://github.com/bcastanho/sctools,,archived
 sctransform,https://github.com/satijalab/sctransform,,
 scUtils,https://github.com/felixthestudent/scutils,,
 scutr,https://github.com/s-kganz/scutr,,
@@ -10172,6 +10178,7 @@ sentometrics,https://github.com/sentometricsresearch/sentometrics,,
 sentopics,https://github.com/odelmarcelle/sentopics,,
 sentryR,https://github.com/ozean12/sentryr,,
 sepkoski,https://github.com/lewisajones/sepkoski,,
+seq.hotSPOT,https://github.com/sydney-grant/seq.hotspot,,bioc
 seqArchR,https://github.com/snikumbh/seqarchr,,bioc
 seqArchRplus,https://github.com/snikumbh/seqarchrplus,,bioc
 SeqArray,https://github.com/zhengxwen/seqarray,,bioc
@@ -10417,7 +10424,6 @@ similaRpeak,https://github.com/adeschen/similarpeak,,bioc
 SimInf,https://github.com/stewid/siminf,,
 simIReff,https://github.com/julian-urbano/simireff,,
 simlandr,https://github.com/sciurus365/simlandr,,
-SIMLR,https://github.com/batzogloulabsu/simlr,,bioc
 simmer,https://github.com/r-simmer/simmer,,
 simmer.bricks,https://github.com/r-simmer/simmer.bricks,,
 simmer.plot,https://github.com/r-simmer/simmer.plot,,
@@ -10593,6 +10599,7 @@ smooth,https://github.com/config-i1/smooth,,
 smoothHR,https://github.com/arturstat/smoothhr,,
 smoothic,https://github.com/meadhbh-oneill/smoothic,,
 smoothr,https://github.com/mstrimas/smoothr,,
+SMOTEWB,https://github.com/fatihsaglam/smotewb,,
 smovie,https://github.com/paulnorthrop/smovie,,
 smpic,https://github.com/mikkelkrogsholm/smpic,,
 SMR,https://github.com/bendeivide/smr,,
@@ -11160,6 +11167,7 @@ sureLDA,https://github.com/celehs/surelda,,
 SurfaceTortoise,https://github.com/kriper0217/surfacetortoise,,
 SurrogateRegression,https://github.com/zrmacc/surrogateregression,,
 SurrogateRsq,https://github.com/xiaoruizhu/surrogatersq,,
+surrosurv,https://github.com/oncostat/surrosurv,,
 survAUC,https://github.com/fbertran/survauc,,
 survBootOutliers,https://github.com/jonydog/survbootoutliers,,
 surveil,https://github.com/connordonegan/surveil,,
