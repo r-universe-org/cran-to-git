@@ -1,5 +1,10 @@
 [
   {
+    "package": "AHPtools",
+    "maintainer": "Amarnath Bose <amarnath.bose@gmail.com>",
+    "url": "https://github.com/cran/AHPtools"
+  },
+  {
     "package": "createLogicalPCM",
     "maintainer": "Amarnath Bose <amarnath.bose@gmail.com>",
     "url": "https://github.com/cran/createLogicalPCM"
