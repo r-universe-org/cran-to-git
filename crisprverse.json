@@ -40,5 +40,11 @@
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprviz",
     "registry": "bioc"
+  },
+  {
+    "package": "screenCounter",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/crisprverse/screencounter",
+    "registry": "bioc"
   }
 ]

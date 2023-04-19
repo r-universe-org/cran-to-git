@@ -12,6 +12,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MoleculeExperiment",
+    "maintainer": "Shila Ghazanfar <shazanfar@gmail.com>",
+    "url": "https://github.com/sydneybiox/moleculeexperiment",
+    "registry": "bioc"
+  },
+  {
     "package": "scClassify",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scclassify",

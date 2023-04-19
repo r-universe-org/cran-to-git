@@ -1,5 +1,11 @@
 [
   {
+    "package": "concordexR",
+    "maintainer": "Kayla Jackson <kaylajac@caltech.edu>",
+    "url": "https://github.com/pachterlab/concordexr",
+    "registry": "bioc"
+  },
+  {
     "package": "SpatialFeatureExperiment",
     "maintainer": "Lambda Moses <dlu2@caltech.edu>",
     "url": "https://github.com/pachterlab/spatialfeatureexperiment",

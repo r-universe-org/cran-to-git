@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "mastR",
+    "maintainer": "Jinjin Chen <chen.j@wehi.edu.au>",
+    "url": "https://github.com/davislaboratory/mastr",
+    "registry": "bioc"
+  },
+  {
     "package": "msImpute",
     "maintainer": "Soroor Hediyeh-zadeh <hediyehzadeh.s@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/msimpute",
