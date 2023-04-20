@@ -24,6 +24,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocHail",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/biochail",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocOncoTK",
     "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/bioconcotk",
