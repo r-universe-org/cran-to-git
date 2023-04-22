@@ -4,5 +4,11 @@
     "maintainer": "Kristoffer Vitting-Seerup <k.vitting.seerup@gmail.com>",
     "url": "https://github.com/kvittingseerup/isoformswitchanalyzer",
     "registry": "bioc"
+  },
+  {
+    "package": "pfamAnalyzeR",
+    "maintainer": "Kristoffer Vitting-Seerup <k.vitting.seerup@gmail.com>",
+    "url": "https://github.com/kvittingseerup/pfamanalyzer",
+    "registry": "bioc"
   }
 ]

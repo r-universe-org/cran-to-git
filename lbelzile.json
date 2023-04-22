@@ -5,6 +5,11 @@
     "url": "https://github.com/lbelzile/bmamevt"
   },
   {
+    "package": "evt0",
+    "maintainer": "Leo Belzile <belzilel@gmail.com>",
+    "url": "https://github.com/lbelzile/evt0"
+  },
+  {
     "package": "hkevp",
     "maintainer": "Leo Belzile <belzilel@gmail.com>",
     "url": "https://github.com/lbelzile/hkevp"
@@ -23,5 +28,10 @@
     "package": "TruncatedNormal",
     "maintainer": "Leo Belzile <belzilel@gmail.com>",
     "url": "https://github.com/lbelzile/truncatednormal"
+  },
+  {
+    "package": "VaRES",
+    "maintainer": "Leo Belzile <belzilel@gmail.com>",
+    "url": "https://github.com/lbelzile/vares"
   }
 ]

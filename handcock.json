@@ -15,6 +15,11 @@
     "url": "https://github.com/handcock/reldist"
   },
   {
+    "package": "rpm",
+    "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
+    "url": "https://github.com/handcock/rpm"
+  },
+  {
     "package": "sspse",
     "maintainer": "Mark S. Handcock <handcock@stat.ucla.edu>",
     "url": "https://github.com/cran/sspse"
