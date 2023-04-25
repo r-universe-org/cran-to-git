@@ -241,6 +241,12 @@
     "branch": "RELEASE_3_16"
   },
   {
+    "package": "S4Arrays",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/s4arrays",
+    "registry": "bioc"
+  },
+  {
     "package": "S4Vectors",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/s4vectors",
@@ -253,6 +259,12 @@
     "url": "https://github.com/bioconductor/shortread",
     "registry": "bioc",
     "branch": "RELEASE_3_16"
+  },
+  {
+    "package": "SparseArray",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/sparsearray",
+    "registry": "bioc"
   },
   {
     "package": "SplicingGraphs",

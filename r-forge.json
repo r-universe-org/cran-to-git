@@ -246,6 +246,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "fAssets",
+    "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fAssets"
+  },
+  {
     "package": "fExtremes",
     "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
     "url": "https://github.com/r-forge/rmetrics",
