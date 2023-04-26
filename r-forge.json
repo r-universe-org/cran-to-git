@@ -288,6 +288,12 @@
     "subdir": "pkg/FME"
   },
   {
+    "package": "fPortfolio",
+    "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/fPortfolio"
+  },
+  {
     "package": "fRegression",
     "maintainer": "Paul J. Northrop <p.northrop@ucl.ac.uk>",
     "url": "https://github.com/r-forge/rmetrics",

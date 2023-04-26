@@ -1,5 +1,10 @@
 [
   {
+    "package": "cemco",
+    "maintainer": "Andre Fujita <andrefujita@usp.br>",
+    "url": "https://github.com/cran/cemco"
+  },
+  {
     "package": "statGraph",
     "maintainer": "Andre Fujita <andrefujita@usp.br>",
     "url": "https://github.com/cran/statGraph"

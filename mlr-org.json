@@ -30,6 +30,11 @@
     "url": "https://github.com/mlr-org/mlr3"
   },
   {
+    "package": "mlr3batchmark",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3batchmark"
+  },
+  {
     "package": "mlr3benchmark",
     "maintainer": "Sebastian Fischer <sebf.fischer@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3benchmark"
