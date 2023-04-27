@@ -17,18 +17,6 @@
     "registry": "bioc"
   },
   {
-    "package": "gcatest",
-    "maintainer": "Wei Hao <whao@princeton.edu>",
-    "url": "https://github.com/storeylab/gcatest",
-    "registry": "bioc"
-  },
-  {
-    "package": "lfa",
-    "maintainer": "Wei Hao <whao@princeton.edu>",
-    "url": "https://github.com/storeylab/lfa",
-    "registry": "bioc"
-  },
-  {
     "package": "popkin",
     "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
     "url": "https://github.com/storeylab/popkin"

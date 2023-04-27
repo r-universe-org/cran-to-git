@@ -849,7 +849,6 @@ bioC.logs,https://github.com/mponce0/bioc.logs,,
 bioCancer,https://github.com/kmezhoud/biocancer,,bioc
 BiocBaseUtils,https://github.com/bioconductor/biocbaseutils,,bioc
 BiocCheck,https://github.com/bioconductor/bioccheck,,bioc
-BiocDockerManager,https://github.com/bioconductor/biocdockermanager,,bioc
 BiocFHIR,https://github.com/vjcitn/biocfhir,,bioc
 BiocFileCache,https://github.com/bioconductor/biocfilecache,,bioc
 BiocGenerics,https://github.com/bioconductor/biocgenerics,,bioc
@@ -1306,7 +1305,6 @@ cbsodataR,https://github.com/edwindj/cbsodatar,,
 CBSr,https://github.com/sangillee/cbsr,,
 CCAMLRGIS,https://github.com/ccamlr/ccamlrgis,,
 ccaPP,https://github.com/aalfons/ccapp,,
-ccdf,https://github.com/mgauth/ccdf,,archived
 cchsflow,https://github.com/big-life-lab/cchsflow,,
 ccid,https://github.com/anastasiou-andreas/ccid,,
 ccImpute,https://github.com/khazum/ccimpute,,bioc
@@ -1455,7 +1453,6 @@ chromote,https://github.com/rstudio/chromote,,
 ChromSCape,https://github.com/vallotlab/chromscape,,bioc
 chromseq,https://github.com/msq-123/chromseq,,
 chromstaR,https://github.com/ataudt/chromstar,,bioc
-chromswitch,https://github.com/sjessa/chromswitch,,bioc
 chronicle,https://github.com/pheymanss/chronicle,,
 chronicler,https://github.com/b-rodrigues/chronicler,,
 chronochrt,https://gitlab.com/archaeothommy/chronochrt,,
@@ -1465,6 +1462,7 @@ chunkhooks,https://github.com/atusy/chunkhooks,,
 chunkR,https://github.com/leandroroser/chunkr,,
 chyper,https://github.com/willnickols/chyper,,
 CICA,https://github.com/jeffreydurieux/cica,,
+ciCalibrate,https://github.com/samch93/cicalibrate,,
 ciccr,https://github.com/sokbae/ciccr,,
 cicerone,https://github.com/johncoene/cicerone,,
 CIDER,https://github.com/zhiyhu/cider,,
@@ -2192,7 +2190,6 @@ dartR,https://github.com/green-striped-gecko/dartr,,
 dartR.data,https://github.com/green-striped-gecko/dartr.data,,
 dashboardthemes,https://github.com/nik01010/dashboardthemes,,
 dashPivottable,https://github.com/plotly/dash-pivottable,,
-dasper,https://github.com/dzhang32/dasper,,bioc
 Dasst,https://github.com/hlozza/dasst,,
 dat,https://github.com/wahani/dat,,
 data.table,https://github.com/rdatatable/data.table,,
@@ -2315,6 +2312,7 @@ decido,https://github.com/hypertidy/decido,,
 deckgl,https://github.com/crazycapivara/deckgl,,
 declared,https://github.com/dusadrian/declared,,
 DeclareDesign,https://github.com/declaredesign/declaredesign,,
+deco,https://github.com/fjcamlab/deco,,bioc
 decompr,https://github.com/bquast/decompr,,
 decompTumor2Sig,https://github.com/rmpiro/decomptumor2sig,,bioc
 deconstructSigs,https://github.com/raerose01/deconstructsigs,,
@@ -3861,7 +3859,6 @@ GBScleanR,https://github.com/tomoyukif/gbscleanr,,bioc
 gbutils,https://github.com/geobosh/gbutils,,
 GCalignR,https://github.com/mottensmann/gcalignr,,
 gcapc,https://github.com/tengmx/gcapc,,bioc
-gcatest,https://github.com/storeylab/gcatest,,bioc
 gcbd,https://github.com/eddelbuettel/gcbd,,
 GCD,https://github.com/oblarquez/gcd,,
 gcdnet,https://github.com/archer-yang-lab/gcdnet,,
@@ -4301,7 +4298,6 @@ gllvm,https://github.com/jenniniku/gllvm,,
 glm.deploy,https://github.com/oscarcastrolopez/glm.deploy,,
 glm.predict,https://github.com/benjaminschlegel/glm.predict,,
 GLMaSPU,https://github.com/chongwu-biostat/glmaspu,,
-glmdisc,https://github.com/adimajo/glmdisc,,archived
 glmGamPoi,https://github.com/const-ae/glmgampoi,,bioc
 glmm.hp,https://github.com/laijiangshan/glmm.hp,,
 GLMMadaptive,https://github.com/drizopoulos/glmmadaptive,,
@@ -4558,6 +4554,7 @@ gtfsio,https://github.com/r-transit/gtfsio,,
 gtfsrouter,https://github.com/atfutures/gtfs-router,,
 gtfstools,https://github.com/ipeagit/gtfstools,,
 gtools,https://github.com/r-gregmisc/gtools,,
+gtranslate,https://github.com/mohamed-180/gtranslate,,
 gtreg,https://github.com/shannonpileggi/gtreg,,
 gtrellis,https://github.com/jokergoo/gtrellis,,bioc
 gtrendsR,https://github.com/pmassicotte/gtrendsr,,
@@ -5482,6 +5479,7 @@ koRpus,https://github.com/undocumeantit/korpus,,
 koRpus.lang.en,https://github.com/undocumeantit/korpus.lang.en,,
 KPC,https://github.com/zh2395/kpc,,
 KraljicMatrix,https://github.com/koalaverse/kraljicmatrix,,
+kronos,https://github.com/thomazbastiaanssen/kronos,,
 KScorrect,https://github.com/pnovack-gottshall/kscorrect,,
 KSD,https://github.com/minhyung-kang/ksd,,
 KSEAapp,https://github.com/casecpb/kseaapp,,
@@ -5643,7 +5641,6 @@ lexiconPT,https://github.com/sillasgonzaga/lexiconpt,,
 LexisNexisTools,https://github.com/jbgruber/lexisnexistools,,
 LexisPlotR,https://github.com/ottlngr/lexisplotr,,
 lexRankr,https://github.com/adamspannbauer/lexrankr,,
-lfa,https://github.com/storeylab/lfa,,bioc
 lfactors,https://github.com/pdbailey0/lfactors,,
 LFApp,https://github.com/fpaskali/lfapp,,
 lfc,https://github.com/erhard-lab/lfc,,
@@ -6122,7 +6119,6 @@ Mcomp,https://github.com/robjhyndman/mcomp,,
 mcompanion,https://github.com/geobosh/mcompanion,,
 mcp,https://github.com/lindeloev/mcp,,
 mcparallelDo,https://github.com/russellpierce/mcparalleldo,,
-MCPModPack,https://github.com/medianainc/mcpmodpack,,archived
 mcprofile,https://github.com/daniel-gerhard/mcprofile,,
 mcreplicate,https://github.com/christophergandrud/mcreplicate,,
 mcStats,https://github.com/mczek/mcstats,,
@@ -6251,6 +6247,7 @@ metarep,https://github.com/ijaljuli/metarep,,
 metaRMST,https://github.com/iweir/metarmst,,
 metaSEM,https://github.com/mikewlcheung/metasem,,
 metasens,https://github.com/guido-s/metasens,,
+metaseqR2,https://github.com/pmoulos/metaseqr2,,bioc
 MetaStan,https://github.com/gunhanb/metastan,,
 metaSurvival,https://github.com/shubhrampandey/metasurvival,,
 metathis,https://github.com/gadenbuie/metathis,,
@@ -6269,7 +6266,6 @@ meteospain,https://github.com/emf-creaf/meteospain,,
 meteR,https://github.com/cmerow/meter,,
 MethComp,https://github.com/ekstroem/methcomp,,
 methcon5,https://github.com/uscbiostats/methcon5,,
-MethCP,https://github.com/boyinggong/methcp,,bioc
 methInheritSim,https://github.com/belleau/methinheritsim,,bioc
 MethReg,https://github.com/transbioinfolab/methreg,,bioc
 methrix,https://github.com/compepigen/methrix,,bioc
@@ -6455,7 +6451,7 @@ mixtools,https://github.com/dsy109/mixtools,,
 mixtox,https://github.com/ichxw/mixtox,,
 mixtur,https://github.com/jimgrange/mixtur,,
 mize,https://github.com/jlmelville/mize,,
-mizer,https://github.com/sizespectrum/mizer,,archived
+mizer,https://github.com/sizespectrum/mizer,,
 MKclass,https://github.com/stamats/mkclass,,
 MKdescr,https://github.com/stamats/mkdescr,,
 mkin,https://github.com/jranke/mkin,,
@@ -6480,6 +6476,7 @@ mlmc,https://github.com/louisaslett/mlmc,,
 MLmetrics,https://github.com/yanyachen/mlmetrics,,
 mlmhelpr,https://github.com/lrocconi/mlmhelpr,,
 MLML2R,https://github.com/samarafk/mlml2r,,
+mlmpower,https://github.com/bkeller2/mlmpower,,
 mlmtools,https://github.com/lkjamison/mlmtools,,
 MLMusingR,https://github.com/flh3/mlmusingr,,
 mlogit,https://github.com/r-forge/mlogit,pkg,
@@ -6652,7 +6649,7 @@ mosaic,https://github.com/projectmosaic/mosaic,,
 mosaicCalc,https://github.com/projectmosaic/mosaiccalc,,
 mosaicCore,https://github.com/projectmosaic/mosaiccore,,
 mosaicData,https://github.com/projectmosaic/mosaicdata,,
-MOSim,https://github.com/neurergus/mosim,,bioc
+MOSim,https://github.com/conesalab/mosim,,bioc
 mosmafs,https://github.com/slds-lmu/mosmafs,,archived
 MOSS,https://github.com/agugonrey/moss,,
 MOTE,https://github.com/doomlab/mote,,
@@ -7212,7 +7209,6 @@ numform,https://github.com/trinker/numform,,
 numGen,https://github.com/aidenloe/numgen,,
 NuPoP,https://github.com/jipingw/nupop,,bioc
 nvctr,https://github.com/euctrl-pru/nvctr,,
-NxtIRFcore,https://github.com/alexchwong/nxtirfcore,,bioc
 nycflights13,https://github.com/tidyverse/nycflights13,,
 nzffdr,https://github.com/flee598/nzffdr,,
 nzilbb.labbcat,https://github.com/nzilbb/labbcat-r,,
@@ -7256,7 +7252,6 @@ oddstream,https://github.com/pridiltal/oddstream,,
 odeGUTS,https://github.com/bgoussen/odeguts,,
 odeintr,https://github.com/thk686/odeintr,,
 ODEnetwork,https://github.com/surmann/odenetwork,,
-ODER,https://github.com/eolagbaju/oder,,bioc
 ODEsensitivity,https://github.com/surmann/odesensitivity,,
 odetector,https://github.com/zcebeci/odetector,,
 odin,https://github.com/mrc-ide/odin,,
@@ -7290,6 +7285,7 @@ OlympicRshiny,https://github.com/amalan-constat/olympicrshiny,,
 OmaDB,https://github.com/dessimozlab/omadb,,bioc
 OmicKriging,https://github.com/hakyimlab/omickriging,,
 OmicNavigator,https://github.com/abbvie-external/omicnavigator,,
+OmicSense,https://github.com/takakoizumi/omicsense,,
 OmicsLonDA,https://github.com/aametwally/omicslonda,,bioc
 omicsViewer,https://github.com/mengchen18/omicsviewer,,bioc
 omicwas,https://github.com/fumi-github/omicwas,,
@@ -8222,7 +8218,6 @@ prisonbrief,https://github.com/danilofreire/prisonbrief,,
 pro,https://github.com/rluo/pro,,
 proActiv,https://github.com/goekelab/proactiv,,bioc
 probably,https://github.com/tidymodels/probably,,
-proBatch,https://github.com/symbioticme/probatch,,bioc
 ProbBayes,https://github.com/bayesball/probbayes,,
 ProbReco,https://github.com/anastasiospanagiotelis/probreco,,archived
 pROC,https://github.com/xrobin/proc,,
@@ -8258,6 +8253,7 @@ proj4,https://github.com/s-u/proj4,,
 ProjectionBasedClustering,https://github.com/mthrun/projectionbasedclustering,,
 projections,https://github.com/reconhub/projections,,
 projectR,https://github.com/genesofeve/projectr,,bioc
+projects,https://github.com/nikkrieger/projects,,
 ProjectTemplate,https://github.com/kentonwhite/projecttemplate,,
 projmgr,https://github.com/emilyriederer/projmgr,,
 projpred,https://github.com/stan-dev/projpred,,
@@ -8458,6 +8454,7 @@ QregBB,https://github.com/gregorkb/qregbb,,
 qrencoder,https://github.com/hrbrmstr/qrencoder,,
 qris,https://github.com/kyuhyun07/qris,,
 QRISK3,https://github.com/yanliuk/qrisk3,,
+qrqc,https://github.com/vsbuffalo/qrqc,,bioc
 qs,https://github.com/traversc/qs,,
 QSARdata,https://github.com/r-forge/qsardata,QSARdata,
 qsimulatR,https://github.com/hiskp-lqcd/qsimulatr,,
@@ -8542,6 +8539,7 @@ R.huge,https://github.com/henrikbengtsson/r.huge,,
 R.matlab,https://github.com/henrikbengtsson/r.matlab,,
 R.methodsS3,https://github.com/henrikbengtsson/r.methodss3,,
 R.oo,https://github.com/henrikbengtsson/r.oo,,
+r.proxy,https://github.com/xiayh17/r.proxy,,
 R.rsp,https://github.com/henrikbengtsson/r.rsp,,
 R.SamBada,https://github.com/solanged/r.sambada,,
 R.temis,https://github.com/nalimilan/r.temis,R.temis,
@@ -9972,7 +9970,6 @@ satin,https://github.com/hvillalo/satin,,
 satuRn,https://github.com/statomics/saturn,,bioc
 SAVER,https://github.com/mohuangx/saver,,
 savonliquide,https://github.com/feddelegrand7/savonliquide,,
-savR,https://github.com/bcalder/savr,,bioc
 SBdecomp,https://github.com/laylaparast/sbdecomp,,
 sbgcop,https://github.com/pdhoff/sbgcop,,
 SBGNview,https://github.com/datapplab/sbgnview,,bioc
@@ -10494,7 +10491,7 @@ SimplifyStats,https://github.com/zcolburn/simplifystats,,
 SimplyAgree,https://github.com/arcaldwell49/simplyagree,,
 SIMplyBee,https://github.com/highlanderlab/simplybee,,
 simPop,https://github.com/statistikat/simpop,,
-simpr,https://github.com/statisfactions/simpr,,archived
+simpr,https://github.com/statisfactions/simpr,,
 simputation,https://github.com/markvanderloo/simputation,pkg,
 simr,https://github.com/pitakakariki/simr,,
 simrec,https://github.com/federicomarini/simrec,,
