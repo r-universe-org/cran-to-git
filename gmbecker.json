@@ -1,17 +1,5 @@
 [
   {
-    "package": "GRANBase",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/gran",
-    "registry": "archived"
-  },
-  {
-    "package": "GRANCore",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/grancore",
-    "registry": "archived"
-  },
-  {
     "package": "histry",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/cran/histry"
@@ -30,11 +18,5 @@
     "package": "switchr",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/gmbecker/switchr"
-  },
-  {
-    "package": "switchrGist",
-    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
-    "url": "https://github.com/gmbecker/switchrgist",
-    "registry": "archived"
   }
 ]
