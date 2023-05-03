@@ -34,5 +34,11 @@
     "package": "RmdConcord",
     "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
     "url": "https://github.com/dmurdoch/rmdconcord"
+  },
+  {
+    "package": "tables",
+    "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
+    "url": "https://github.com/dmurdoch/tables",
+    "subdir": "pkg/tables"
   }
 ]

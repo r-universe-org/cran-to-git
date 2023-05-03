@@ -931,12 +931,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "tables",
-    "maintainer": "Duncan Murdoch <murdoch.duncan@gmail.com>",
-    "url": "https://github.com/r-forge/tables",
-    "subdir": "pkg/tables"
-  },
-  {
     "package": "TailRank",
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
