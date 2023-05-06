@@ -1,5 +1,10 @@
 [
   {
+    "package": "hypothesis",
+    "maintainer": "Krystian Igras <krystian8207@gmail.com>",
+    "url": "https://github.com/cran/hypothesis"
+  },
+  {
     "package": "shinyCohortBuilder",
     "maintainer": "Krystian Igras <krystian8207@gmail.com>",
     "url": "https://github.com/cran/shinyCohortBuilder"

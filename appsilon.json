@@ -48,5 +48,10 @@
     "package": "shiny.semantic",
     "maintainer": "Developers Appsilon <support+opensource@appsilon.com>",
     "url": "https://github.com/appsilon/shiny.semantic"
+  },
+  {
+    "package": "shiny.telemetry",
+    "maintainer": "Kamil Żyła <opensource+kamil@appsilon.com>",
+    "url": "https://github.com/appsilon/shiny.telemetry"
   }
 ]
