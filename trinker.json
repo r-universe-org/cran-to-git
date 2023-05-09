@@ -22,7 +22,8 @@
   {
     "package": "qdap",
     "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
-    "url": "https://github.com/trinker/qdap"
+    "url": "https://github.com/trinker/qdap",
+    "registry": "archived"
   },
   {
     "package": "qdapDictionaries",
@@ -37,7 +38,8 @@
   {
     "package": "qdapTools",
     "maintainer": "Tyler Rinker <tyler.rinker@gmail.com>",
-    "url": "https://github.com/trinker/qdaptools"
+    "url": "https://github.com/trinker/qdaptools",
+    "registry": "archived"
   },
   {
     "package": "sentimentr",

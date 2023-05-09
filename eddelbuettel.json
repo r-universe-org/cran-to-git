@@ -20,6 +20,11 @@
     "url": "https://github.com/eddelbuettel/binb"
   },
   {
+    "package": "crc32c",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/cran/crc32c"
+  },
+  {
     "package": "dang",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/dang"
