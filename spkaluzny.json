@@ -1,25 +1,7 @@
 [
   {
-    "package": "robustarima",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/robustarima",
-    "registry": "archived"
-  },
-  {
     "package": "splus2R",
     "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
     "url": "https://github.com/spkaluzny/splus2r"
-  },
-  {
-    "package": "splusTimeDate",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/splustimedate",
-    "registry": "archived"
-  },
-  {
-    "package": "splusTimeSeries",
-    "maintainer": "Stephen Kaluzny <spkaluzny@gmail.com>",
-    "url": "https://github.com/spkaluzny/splustimeseries",
-    "registry": "archived"
   }
 ]
