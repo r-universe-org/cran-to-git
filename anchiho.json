@@ -2,12 +2,14 @@
   {
     "package": "ClimProjDiags",
     "maintainer": "An-Chi Ho <an.ho@bsc.es>",
-    "url": "https://github.com/cran/ClimProjDiags"
+    "url": "https://github.com/cran/ClimProjDiags",
+    "registry": "archived"
   },
   {
     "package": "easyNCDF",
     "maintainer": "An-Chi Ho <an.ho@bsc.es>",
-    "url": "https://github.com/cran/easyNCDF"
+    "url": "https://github.com/cran/easyNCDF",
+    "registry": "archived"
   },
   {
     "package": "multiApply",
@@ -17,7 +19,8 @@
   {
     "package": "s2dv",
     "maintainer": "An-Chi Ho <an.ho@bsc.es>",
-    "url": "https://github.com/cran/s2dv"
+    "url": "https://github.com/cran/s2dv",
+    "registry": "archived"
   },
   {
     "package": "s2dverification",
@@ -27,6 +30,7 @@
   {
     "package": "startR",
     "maintainer": "An-Chi Ho <an.ho@bsc.es>",
-    "url": "https://github.com/cran/startR"
+    "url": "https://github.com/cran/startR",
+    "registry": "archived"
   }
 ]
