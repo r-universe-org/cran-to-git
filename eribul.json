@@ -1,5 +1,10 @@
 [
   {
+    "package": "commentr",
+    "maintainer": "Erik Bulow <erik.bulow@rccvast.se>",
+    "url": "https://bitbucket.org/cancercentrum/commentr"
+  },
+  {
     "package": "decoder",
     "maintainer": "Erik Bulow <erik.bulow@rccvast.se>",
     "url": "https://github.com/cran/decoder"

@@ -1,5 +1,15 @@
 [
   {
+    "package": "HBV.IANIGLA",
+    "maintainer": "Ezequiel Toum <etoum@mendoza-conicet.gob.ar>",
+    "url": "https://gitlab.com/ezetoum27/hbv.ianigla"
+  },
+  {
+    "package": "hydrotoolbox",
+    "maintainer": "Ezequiel Toum <etoum@mendoza-conicet.gob.ar>",
+    "url": "https://gitlab.com/ezetoum27/hydrotoolbox"
+  },
+  {
     "package": "hydroToolkit",
     "maintainer": "Ezequiel Toum <etoum@mendoza-conicet.gob.ar>",
     "url": "https://github.com/cran/hydroToolkit"

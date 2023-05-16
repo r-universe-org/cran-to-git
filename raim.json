@@ -1,5 +1,10 @@
 [
   {
+    "package": "dpseg",
+    "maintainer": "Rainer Machne <machne@hhu.de>",
+    "url": "https://gitlab.com/raim/dpseg"
+  },
+  {
     "package": "segmenTier",
     "maintainer": "Rainer Machne <raim@tbi.univie.ac.at>",
     "url": "https://github.com/raim/segmentier",

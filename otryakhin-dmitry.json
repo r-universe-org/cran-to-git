@@ -5,9 +5,21 @@
     "url": "https://github.com/cran/deforestable"
   },
   {
+    "package": "EstimDiagnostics",
+    "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
+    "url": "https://gitlab.com/dmitry_otryakhin/diagnostics-and-tests-for-statistical-estimators",
+    "subdir": "EstimDiagnostics"
+  },
+  {
     "package": "HDShOP",
     "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
     "url": "https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio",
     "subdir": "HDShOP"
+  },
+  {
+    "package": "rlfsm",
+    "maintainer": "Dmitry Otryakhin <d.otryakhin.acad@protonmail.ch>",
+    "url": "https://gitlab.com/dmitry_otryakhin/tools-for-parameter-estimation-of-the-linear-fractional-stable-motion",
+    "subdir": "rlfsm"
   }
 ]

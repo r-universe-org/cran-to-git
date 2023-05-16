@@ -1,5 +1,85 @@
 [
   {
+    "package": "assertive",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive"
+  },
+  {
+    "package": "assertive.base",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.base"
+  },
+  {
+    "package": "assertive.code",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.code"
+  },
+  {
+    "package": "assertive.data",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.data"
+  },
+  {
+    "package": "assertive.data.uk",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.data.uk"
+  },
+  {
+    "package": "assertive.data.us",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.data.us"
+  },
+  {
+    "package": "assertive.datetimes",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.datetimes"
+  },
+  {
+    "package": "assertive.files",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.files"
+  },
+  {
+    "package": "assertive.matrices",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.matrices"
+  },
+  {
+    "package": "assertive.models",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.models"
+  },
+  {
+    "package": "assertive.numbers",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.numbers"
+  },
+  {
+    "package": "assertive.properties",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.properties"
+  },
+  {
+    "package": "assertive.reflection",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.reflection"
+  },
+  {
+    "package": "assertive.sets",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.sets"
+  },
+  {
+    "package": "assertive.strings",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.strings"
+  },
+  {
+    "package": "assertive.types",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/assertive.types"
+  },
+  {
     "package": "learningr",
     "maintainer": "Richie Cotton <richierocks@gmail.com>",
     "url": "https://github.com/richierocks/learningr"
@@ -28,5 +108,15 @@
     "package": "rebus.unicode",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://github.com/richierocks/rebus.unicode"
+  },
+  {
+    "package": "setter",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/setter"
+  },
+  {
+    "package": "sig",
+    "maintainer": "Richard Cotton <richierocks@gmail.com>",
+    "url": "https://bitbucket.org/richierocks/sig"
   }
 ]

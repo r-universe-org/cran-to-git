@@ -3,5 +3,11 @@
     "package": "MeTo",
     "maintainer": "Ullrich Dettmann <ullrich.dettmann@thuenen.de>",
     "url": "https://github.com/cran/MeTo"
+  },
+  {
+    "package": "SoilHyP",
+    "maintainer": "Ullrich Dettmann <ullrich.dettmann@thuenen.de>",
+    "url": "https://bitbucket.org/ullid/soilhyp",
+    "subdir": "SoilHyP"
   }
 ]

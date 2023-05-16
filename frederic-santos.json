@@ -1,7 +1,17 @@
 [
   {
+    "package": "AnthropMMD",
+    "maintainer": "Frédéric Santos <frederic.santos@u-bordeaux.fr>",
+    "url": "https://gitlab.com/f-santos/anthropmmd"
+  },
+  {
     "package": "KappaGUI",
     "maintainer": "Frédéric Santos <frederic.santos@u-bordeaux.fr>",
     "url": "https://github.com/cran/KappaGUI"
+  },
+  {
+    "package": "PELVIS",
+    "maintainer": "Frédéric Santos <frederic.santos@u-bordeaux.fr>",
+    "url": "https://gitlab.com/f-santos/pelvis"
   }
 ]

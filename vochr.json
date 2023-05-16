@@ -1,7 +1,17 @@
 [
   {
+    "package": "rBDAT",
+    "maintainer": "Christian Vonderach <christian.vonderach@forst.bwl.de>",
+    "url": "https://gitlab.com/vochr/rbdat"
+  },
+  {
     "package": "TapeR",
     "maintainer": "Christian Vonderach <christian.vonderach@forst.bwl.de>",
     "url": "https://github.com/vochr/taper"
+  },
+  {
+    "package": "TapeS",
+    "maintainer": "Christian Vonderach <christian.vonderach@forst.bwl.de>",
+    "url": "https://gitlab.com/vochr/tapes"
   }
 ]

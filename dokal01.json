@@ -3,5 +3,11 @@
     "package": "smoothAPC",
     "maintainer": "Alexander Dokumentov <alexander.dokumentov@gmail.com>",
     "url": "https://github.com/cran/smoothAPC"
+  },
+  {
+    "package": "stR",
+    "maintainer": "Alexander Dokumentov <alexander.dokumentov@gmail.com>",
+    "url": "https://bitbucket.org/alexanderdokumentov/strpackage",
+    "subdir": "stR"
   }
 ]

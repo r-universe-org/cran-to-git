@@ -20,6 +20,11 @@
     "url": "https://github.com/hrbrmstr/darksky"
   },
   {
+    "package": "docxtractr",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/docxtractr"
+  },
+  {
     "package": "epidata",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/epidata"
@@ -50,6 +55,11 @@
     "url": "https://github.com/hrbrmstr/ndjson"
   },
   {
+    "package": "pluralize",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/pluralize"
+  },
+  {
     "package": "qrencoder",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/qrencoder"
@@ -60,9 +70,19 @@
     "url": "https://github.com/cran/ropendata"
   },
   {
+    "package": "sergeant",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/sergeant"
+  },
+  {
     "package": "spiderbar",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/spiderbar"
+  },
+  {
+    "package": "statebins",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/statebins"
   },
   {
     "package": "swatches",
@@ -73,6 +93,16 @@
     "package": "tdigest",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/tdigest"
+  },
+  {
+    "package": "uaparserjs",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/uaparserjs"
+  },
+  {
+    "package": "ulid",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/ulid"
   },
   {
     "package": "vegalite",
@@ -88,5 +118,10 @@
     "package": "waffle",
     "maintainer": "Bob Rudis <bob@rud.is>",
     "url": "https://github.com/hrbrmstr/waffle"
+  },
+  {
+    "package": "wand",
+    "maintainer": "Bob Rudis <bob@rud.is>",
+    "url": "https://gitlab.com/hrbrmstr/wand"
   }
 ]

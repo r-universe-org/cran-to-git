@@ -1,5 +1,45 @@
 [
   {
+    "package": "ie2misc",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/ie2misc"
+  },
+  {
+    "package": "ie2miscdata",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/ie2miscdata"
+  },
+  {
+    "package": "iemisc",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/iemisc"
+  },
+  {
+    "package": "iemiscdata",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/iemiscdata"
+  },
+  {
+    "package": "iemisctext",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/iemisctext"
+  },
+  {
+    "package": "install.load",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/install.load"
+  },
+  {
+    "package": "jab.adverse.reactions",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/jab.adverse.reactions"
+  },
+  {
+    "package": "USA.state.boundaries",
+    "maintainer": "Irucka Embry <iembry@ecoccs.com>",
+    "url": "https://gitlab.com/iembry/usa.state.boundaries"
+  },
+  {
     "package": "vaersNDvax",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
     "url": "https://github.com/cran/vaersNDvax"
