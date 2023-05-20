@@ -1,10 +1,5 @@
 [
   {
-    "package": "CausalKinetiX",
-    "maintainer": "Niklas Pfister <niklas.pfister@stat.math.ethz.ch>",
-    "url": "https://github.com/cran/CausalKinetiX"
-  },
-  {
     "package": "StabilizedRegression",
     "maintainer": "Niklas Pfister <np@math.ku.dk>",
     "url": "https://github.com/niklaspfister/stabilizedregression-r",

@@ -7,12 +7,14 @@
   {
     "package": "clampSeg",
     "maintainer": "Pein Florian <f.pein@lancaster.ac.uk>",
-    "url": "https://github.com/cran/clampSeg"
+    "url": "https://github.com/cran/clampSeg",
+    "registry": "archived"
   },
   {
     "package": "crossvalidationCP",
     "maintainer": "Pein Florian <f.pein@lancaster.ac.uk>",
-    "url": "https://github.com/cran/crossvalidationCP"
+    "url": "https://github.com/cran/crossvalidationCP",
+    "registry": "archived"
   },
   {
     "package": "lowpassFilter",
@@ -22,6 +24,7 @@
   {
     "package": "stepR",
     "maintainer": "Pein Florian <f.pein@lancaster.ac.uk>",
-    "url": "https://github.com/cran/stepR"
+    "url": "https://github.com/cran/stepR",
+    "registry": "archived"
   }
 ]
