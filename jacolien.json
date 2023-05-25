@@ -1,5 +1,10 @@
 [
   {
+    "package": "edl",
+    "maintainer": "Jacolien van Rij <j.c.van.rij@rug.nl>",
+    "url": "https://github.com/cran/edl"
+  },
+  {
     "package": "itsadug",
     "maintainer": "Jacolien van Rij <vanrij.jacolien@gmail.com>",
     "url": "https://github.com/cran/itsadug"

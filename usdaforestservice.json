@@ -3,5 +3,10 @@
     "package": "FIESTAutils",
     "maintainer": "Grayson White <graysonwhite13@gmail.com>",
     "url": "https://github.com/usdaforestservice/fiestautils"
+  },
+  {
+    "package": "gdalraster",
+    "maintainer": "Chris Toney <chris.toney@usda.gov>",
+    "url": "https://github.com/usdaforestservice/gdalraster"
   }
 ]
