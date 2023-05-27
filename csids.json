@@ -1,5 +1,10 @@
 [
   {
+    "package": "covidnor",
+    "maintainer": "Chi Zhang <andreachizhang@yahoo.com>",
+    "url": "https://github.com/csids/covidnor"
+  },
+  {
     "package": "csdata",
     "maintainer": "Richard Aubrey White <hello@rwhite.no>",
     "url": "https://github.com/csids/csdata"
