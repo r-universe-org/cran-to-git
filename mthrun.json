@@ -28,5 +28,10 @@
     "package": "ProjectionBasedClustering",
     "maintainer": "Michael Thrun <m.thrun@gmx.net>",
     "url": "https://github.com/mthrun/projectionbasedclustering"
+  },
+  {
+    "package": "ScatterDensity",
+    "maintainer": "Michael Thrun <m.thrun@gmx.net>",
+    "url": "https://github.com/mthrun/scatterdensity"
   }
 ]
