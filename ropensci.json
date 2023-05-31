@@ -235,10 +235,14 @@
     "url": "https://github.com/ropensci/drake"
   },
   {
+    "package": "dwctaxon",
+    "maintainer": "Joel H. Nitta <joelnitta@gmail.com>",
+    "url": "https://github.com/ropensci/dwctaxon"
+  },
+  {
     "package": "dynamite",
     "maintainer": "Santtu Tikka <santtuth@gmail.com>",
-    "url": "https://github.com/ropensci/dynamite",
-    "registry": "archived"
+    "url": "https://github.com/ropensci/dynamite"
   },
   {
     "package": "EDIutils",
