@@ -479,7 +479,6 @@ autokeras,https://github.com/r-tensorflow/autokeras,,
 automagic,https://github.com/cole-brokamp/automagic,,
 autoMFA,https://github.com/john-c-davey/automfa,,
 automl,https://github.com/aboulaboul/automl,,
-autoMrP,https://github.com/retowuest/automrp,,archived
 autonewsmd,https://github.com/kapsner/autonewsmd,,
 autonomics,https://bitbucket.org/graumannlabtools/autonomics,,bioc
 autoplotly,https://github.com/terrytangyuan/autoplotly,,
@@ -939,7 +938,6 @@ biwavelet,https://github.com/tgouhier/biwavelet,,
 biwt,https://github.com/hardin47/biwt,,
 bizdays,https://github.com/wilsonfreitas/r-bizdays,,
 bizicount,https://github.com/jmniehaus/bizicount,,
-bjscrapeR,https://github.com/dylanjm/bjscraper,,archived
 bkmr,https://github.com/jenfb/bkmr,,
 bkmrhat,https://github.com/alexpkeil1/bkmrhat,,
 blacksheepr,https://github.com/ruggleslab/blacksheepr,,bioc
@@ -987,7 +985,7 @@ BMRSr,https://github.com/arawles/bmrsr,,
 bmscstan,https://github.com/michelescandola/bmscstan,,
 bmstdr,https://github.com/sujit-sahu/bmstdr,,
 BMTAR,https://github.com/adrincont/bmtar,,
-BMTME,https://github.com/frahik/bmtme,,
+BMTME,https://github.com/frahik/bmtme,,archived
 bnbc,https://github.com/hansenlab/bnbc,,bioc
 bnclassify,https://github.com/bmihaljevic/bnclassify,,
 bndesr,https://github.com/igorlaltuf/bndesr,,
@@ -2061,7 +2059,6 @@ cry,https://github.com/jfoadi/cry,,
 crypto2,https://github.com/sstoeckl/crypto2,,
 cryptoverse,https://github.com/viv-analytics/cryptoverse,,
 cryptowatchR,https://github.com/lorenzbr/cryptowatchr,,
-csa,https://github.com/imarkonis/csa,,archived
 CSCDRNA,https://github.com/empiricalbayes/cscdrna,,
 csdata,https://github.com/csids/csdata,,
 csdR,https://github.com/almaaslab/csdr,,bioc
@@ -2374,6 +2371,7 @@ demogR,https://github.com/hanase/demogr,,
 DemografixeR,https://github.com/matbmeijer/demografixer,,
 demoGraphic,https://github.com/loankimrobinson/demographic,,
 demography,https://github.com/robjhyndman/demography,,
+DemoKin,https://github.com/ivanwilli/demokin,,
 demoShiny,https://github.com/sigbertklinke/demoshiny,,
 demuxmix,https://github.com/huklein/demuxmix,,bioc
 demuxSNP,https://github.com/michaelplynch/demuxsnp,,bioc
@@ -3575,7 +3573,6 @@ FitUltD,https://github.com/jcval94/fitultd,,
 fitur,https://github.com/tomroh/fitur,,
 fitzRoy,https://github.com/jimmyday12/fitzroy,,
 fivethirtyeight,https://github.com/rudeboybert/fivethirtyeight,,
-fixedincome,https://github.com/wilsonfreitas/r-fixedincome,,archived
 fixedTimeEvents,https://github.com/khliland/fixedtimeevents,,
 fixerapi,https://github.com/evanodell/fixerapi,,
 fixest,https://github.com/lrberge/fixest,,
@@ -4448,6 +4445,7 @@ gppm,https://github.com/karchjd/gppm,,archived
 GPRMortality,https://github.com/alighanbari26/gprmortality,,
 gps,https://github.com/zheyuanli/gps,,
 gptstudio,https://github.com/michelnivard/gptstudio,,
+gptzeror,https://github.com/christopherkenny/gptzeror,,
 gpuMagic,https://github.com/jiefei-wang/gpumagic,,bioc
 gpx,https://github.com/bmewing/gpx,,
 gqlr,https://github.com/schloerke/gqlr,,
@@ -6655,7 +6653,6 @@ MoleculeExperiment,https://github.com/sydneybiox/moleculeexperiment,,bioc
 MolgenisArmadillo,https://github.com/molgenis/molgenis-r-armadillo,,
 MolgenisAuth,https://github.com/molgenis/molgenis-r-auth,,
 MOLHD,https://github.com/hrz123/molhd,,
-molic,https://github.com/mlindsk/molic,,archived
 MOMA,https://github.com/califano-lab/moma,,bioc
 mombf,https://github.com/davidrusi/mombf,,
 momentuHMM,https://github.com/bmcclintock/momentuhmm,,
@@ -6968,10 +6965,10 @@ nasapower,https://github.com/ropensci/nasapower,,
 nasaweather,https://github.com/hadley/nasaweather,,
 NasdaqDataLink,https://github.com/nasdaq/data-link-r,,
 naspaclust,https://github.com/bmlmcmc/naspaclust,,
-nat,https://github.com/natverse/nat,,
-nat.nblast,https://github.com/natverse/nat.nblast,,
-nat.templatebrains,https://github.com/natverse/nat.templatebrains,,
-nat.utils,https://github.com/natverse/nat.utils,,
+nat,https://github.com/natverse/nat,,archived
+nat.nblast,https://github.com/natverse/nat.nblast,,archived
+nat.templatebrains,https://github.com/natverse/nat.templatebrains,,archived
+nat.utils,https://github.com/natverse/nat.utils,,archived
 natcpp,https://github.com/natverse/natcpp,,
 natmanager,https://github.com/natverse/natmanager,,
 NatParksPalettes,https://github.com/kevinsblake/natparkspalettes,,
@@ -7678,7 +7675,7 @@ paths,https://github.com/mdtrinh/paths,,
 pathview,https://github.com/datapplab/pathview,,bioc
 pathviewr,https://github.com/ropensci/pathviewr,,
 pathwayPCA,https://github.com/gabrielodom/pathwaypca,,bioc
-PatientProfiles,https://github.com/oxford-pharmacoepi/patientprofiles,,
+PatientProfiles,https://github.com/darwin-eu-dev/patientprofiles,,
 patientProfilesVis,https://github.com/openanalytics/patientprofilesvis,patientProfilesVis,
 patrick,https://github.com/google/patrick,,
 patternize,https://github.com/stevenvb12/patternize,,
@@ -7927,7 +7924,6 @@ pimeta,https://github.com/nshi-stat/pimeta,,
 pinfsc50,https://github.com/knausb/pinfsc50,,
 pingers,https://github.com/jessevent/pingers,,
 pingr,https://github.com/r-lib/pingr,,
-pinnacle.API,https://github.com/marcoblume/pinnacle.api,,archived
 pinnacle.data,https://github.com/marcoblume/pinnacle.data,,
 pinp,https://github.com/eddelbuettel/pinp,,
 pins,https://github.com/rstudio/pins-r,,
@@ -7938,7 +7934,6 @@ pipebind,https://github.com/bwiernik/pipebind,,
 pipeComp,https://github.com/plger/pipecomp,,bioc
 pipeFrame,https://github.com/wzthu/pipeframe,,bioc
 pipeliner,https://github.com/alexioannides/pipeliner,,
-pipenostics,https://github.com/omega1x/pipenostics,,archived
 pipeR,https://github.com/renkun-ken/piper,,
 piratings,https://github.com/larsvancutsem/piratings,,
 piRF,https://github.com/chancejohnstone/pirf,,
@@ -8148,6 +8143,7 @@ portfolio.optimization,https://github.com/rhochreiter/portfolio.optimization,,
 PortfolioAnalytics,https://github.com/braverock/portfolioanalytics,,
 portfolioBacktest,https://github.com/dppalomar/portfoliobacktest,,
 portvine,https://github.com/emanuelsommer/portvine,,
+posologyr,https://github.com/levenc/posologyr,,
 POSSA,https://github.com/gasparl/possa,,
 postcards,https://github.com/seankross/postcards,,
 PostcodesioR,https://github.com/ropensci/postcodesior,,
@@ -8576,7 +8572,6 @@ questionr,https://github.com/juba/questionr,,
 queuecomputer,https://github.com/anthonyebert/queuecomputer,,
 quickblock,https://github.com/fsavje/quickblock,,
 quickcheck,https://github.com/armcn/quickcheck,,
-quickerstats,https://github.com/anderaa/quickerstats,,archived
 QuickJSR,https://github.com/andrjohns/quickjsr,,
 quickmapr,https://github.com/jhollist/quickmapr,,
 quickmatch,https://github.com/fsavje/quickmatch,,
@@ -8990,7 +8985,6 @@ ReactomeGraph4R,https://github.com/reactome/reactomegraph4r,,bioc
 ReactomeGSA,https://github.com/reactome/reactomegsa,,bioc
 ReactomePA,https://github.com/yulab-smu/reactomepa,,bioc
 reactR,https://github.com/react-r/reactr,,
-read.dbc,https://github.com/danicat/read.dbc,,archived
 readABF,https://github.com/zabolekar/readabf,,
 readabs,https://github.com/mattcowgill/readabs,,
 readbitmap,https://github.com/jefferis/readbitmap,,
@@ -10133,7 +10127,6 @@ scone,https://github.com/yoseflab/scone,,bioc
 scOntoMatch,https://github.com/yy-song0718/scontomatch,,
 scoper,https://bitbucket.org/kleinstein/scoper,,
 scopr,https://github.com/rethomics/scopr,,
-SCOR,https://github.com/synx21/scor,,archived
 scorecard,https://github.com/shichenxie/scorecard,,
 ScoreEB,https://github.com/wenlongren/scoreeb,,
 scorepeak,https://github.com/shotaochi/scorepeak,,
@@ -12306,13 +12299,14 @@ viafr,https://github.com/stefanieschneider/viafr,,
 VIC5,https://github.com/cug-hydro/vic5.r,,
 vICC,https://github.com/donaldrwilliams/vicc,,
 vici,https://github.com/sistm/vici,,
-VicmapR,https://github.com/justincally/vicmapr,,
+VicmapR,https://github.com/justincally/vicmapr,,archived
 Vicus,https://github.com/rikenbit/vicus,,
 video,https://github.com/ashbaldry/video,,
 vidger,https://github.com/btmonier/vidger,,bioc
 vietnameseConverter,https://github.com/ecodynizw/vietnameseconverter,,
 ViewPipeSteps,https://github.com/daranzolin/viewpipesteps,,
 viewpoly,https://github.com/mmollina/viewpoly,,
+VIGoR,https://github.com/onogi/vigor,,
 villager,https://github.com/zizroc/villager,,
 VIM,https://github.com/statistikat/vim,,
 vimp,https://github.com/bdwilliamson/vimp,,
@@ -12469,6 +12463,7 @@ websocket,https://github.com/rstudio/websocket,,
 webtrackR,https://github.com/schochastics/webtrackr,,
 webuse,https://github.com/leeper/webuse,,
 webutils,https://github.com/jeroen/webutils,,
+weed,https://github.com/rammkripa/weed,,
 wehoop,https://github.com/sportsdataverse/wehoop,,
 WeibullFit,https://github.com/thiagomini/weibullfit,,
 weibullness,https://github.com/appliedstat/r,weibullness,
