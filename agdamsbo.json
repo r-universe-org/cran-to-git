@@ -1,5 +1,10 @@
 [
   {
+    "package": "REDCapCAST",
+    "maintainer": "Andreas Gammelgaard Damsbo <agdamsbo@clin.au.dk>",
+    "url": "https://github.com/agdamsbo/redcapcast"
+  },
+  {
     "package": "stRoke",
     "maintainer": "Andreas Gammelgaard Damsbo <agdamsbo@clin.au.dk>",
     "url": "https://github.com/agdamsbo/stroke"

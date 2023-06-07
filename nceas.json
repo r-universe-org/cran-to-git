@@ -13,5 +13,10 @@
     "package": "rt",
     "maintainer": "Bryce Mecum <mecum@nceas.ucsb.edu>",
     "url": "https://github.com/nceas/rt"
+  },
+  {
+    "package": "scicomptools",
+    "maintainer": "Angel Chen <anchen@nceas.ucsb.edu>",
+    "url": "https://github.com/nceas/scicomptools"
   }
 ]
