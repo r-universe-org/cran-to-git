@@ -18,7 +18,8 @@
     "package": "RMixtComp",
     "maintainer": "Julien Vandaele <julien.vandaele@inria.fr>",
     "url": "https://github.com/modal-inria/mixtcomp",
-    "subdir": "RMixtComp"
+    "subdir": "RMixtComp",
+    "registry": "archived"
   },
   {
     "package": "RMixtCompIO",
