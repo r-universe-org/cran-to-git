@@ -27,5 +27,11 @@
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/openanalytics/patientprofilesvis",
     "subdir": "patientProfilesVis"
+  },
+  {
+    "package": "tinytest2JUnit",
+    "maintainer": "Anne-Katrin Hess <anne-katrin.hess@openanalytics.eu>",
+    "url": "https://github.com/openanalytics/tinytest2junit",
+    "subdir": "tinytest2JUnit"
   }
 ]

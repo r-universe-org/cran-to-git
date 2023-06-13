@@ -1,5 +1,10 @@
 [
   {
+    "package": "fritools",
+    "maintainer": "Andreas Dominik Cullmann <fvafrcu@mailbox.org>",
+    "url": "https://github.com/cran/fritools"
+  },
+  {
     "package": "fritools2",
     "maintainer": "Andreas Dominik Cullmann <fvafrcu@mailbox.org>",
     "url": "https://gitlab.com/fvafrcu/fritools"
