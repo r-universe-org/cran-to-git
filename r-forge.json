@@ -888,12 +888,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "spgwr",
-    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
-    "url": "https://github.com/r-forge/rspatial",
-    "subdir": "pkg/spgwr"
-  },
-  {
     "package": "sse",
     "maintainer": "Thomas Fabbro <thomas.fabbro@unibas.ch>",
     "url": "https://github.com/r-forge/power",
