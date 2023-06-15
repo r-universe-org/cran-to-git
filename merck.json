@@ -1,5 +1,10 @@
 [
   {
+    "package": "boxly",
+    "maintainer": "Benjamin Wang <benjamin.wang@merck.com>",
+    "url": "https://github.com/merck/boxly"
+  },
+  {
     "package": "gMCPLite",
     "maintainer": "Yalin Zhu <yalin.zhu@merck.com>",
     "url": "https://github.com/merck/gmcplite"

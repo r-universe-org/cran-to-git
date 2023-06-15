@@ -85,6 +85,11 @@
     "url": "https://github.com/tidymodels/modeldata"
   },
   {
+    "package": "modeldatatoo",
+    "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
+    "url": "https://github.com/tidymodels/modeldatatoo"
+  },
+  {
     "package": "modeldb",
     "maintainer": "Max Kuhn <max@rstudio.com>",
     "url": "https://github.com/tidymodels/modeldb"

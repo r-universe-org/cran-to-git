@@ -1,7 +1,17 @@
 [
   {
+    "package": "vvcanvas",
+    "maintainer": "Tomer Iwan <t.iwan@vu.nl>",
+    "url": "https://github.com/vusaverse/vvcanvas"
+  },
+  {
     "package": "vvfiller",
     "maintainer": "Tomer Iwan <t.iwan@vu.nl>",
     "url": "https://github.com/vusaverse/vvfiller"
+  },
+  {
+    "package": "vvtableau",
+    "maintainer": "Tomer Iwan <t.iwan@vu.nl>",
+    "url": "https://github.com/vusaverse/vvtableau"
   }
 ]
