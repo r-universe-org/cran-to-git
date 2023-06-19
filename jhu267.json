@@ -1,5 +1,10 @@
 [
   {
+    "package": "dTBM",
+    "maintainer": "Jiaxin Hu <jhu267@wisc.edu>",
+    "url": "https://github.com/cran/dTBM"
+  },
+  {
     "package": "tensorregress",
     "maintainer": "Jiaxin Hu <jhu267@wisc.edu>",
     "url": "https://github.com/cran/tensorregress"
