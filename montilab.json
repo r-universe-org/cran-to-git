@@ -1,5 +1,11 @@
 [
   {
+    "package": "CaDrA",
+    "maintainer": "Reina Chau <rchau88@bu.edu>",
+    "url": "https://github.com/montilab/cadra",
+    "registry": "bioc"
+  },
+  {
     "package": "hypeR",
     "maintainer": "Anthony Federico <anfed@bu.edu>",
     "url": "https://github.com/montilab/hyper",
