@@ -1,5 +1,10 @@
 [
   {
+    "package": "adbcdrivermanager",
+    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
+    "url": "https://github.com/cran/adbcdrivermanager"
+  },
+  {
     "package": "edwards97",
     "maintainer": "Dewey Dunnington <dewey@fishandwhistle.net>",
     "url": "https://github.com/paleolimbot/edwards97"
