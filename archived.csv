@@ -37,6 +37,7 @@
 "BALCONY","0.2.10","Michal Stolarczyk <stolarczyk.michal93@gmail.com>","https://github.com/michalstolarczyk/balcony",2023-03-02,"requires archived package 'Rpdb'."
 "BARIS","1.1.3","Mohamed El Fodil Ihaddaden <ihaddaden.fodeil@gmail.com>","https://github.com/feddelegrand7/baris",2023-03-28,"issues were not corrected in time."
 "BASIX","1.2","Bastian Pfeifer <bastianxpfeifer@gmail.com>",NA,2022-06-28,"check problems were not corrected in time."
+"BASS","1.2.2","Devin Francom <devinfrancom@gmail.com>",NA,2023-06-23,"policy violation.  On Internet access, to archive.ics.uci.edu in vignette."
 "BBMM","3.0","Ryan Nielson <rnielson@west-inc.com>",NA,2022-05-23,"check issues were not corrected despite reminders."
 "BBMV","2.1","Florian C. Boucher <flofloboucher@gmail.com>",NA,2022-05-21,"check issues were not corrected in time."
 "BBRecapture","0.2","Danilo Alunni Fegatelli
@@ -1799,7 +1800,7 @@
 "rcane","1.0","Akshay Suresh<suresh.aks@husky.neu.edu>",NA,2022-05-09,"check problems were not corrected despite reminders."
 "rccdates","1.0.0","Erik Bulow <erik.bulow@rccvast.se>",NA,2022-04-28,"email to the maintainer was returned.  And requires archived package 'rccmisc'."
 "rccmisc","0.3.7","Erik Bulow <erik.bulow@rccvast.se>",NA,2022-04-28,"email to the maintainer was returned."
-"rcdk","3.8.0","Zachary Charlop-Powers <zach.charlop.powers@gmail.com>",NA,2023-06-20,"issues were not corrected in time.  Incorrect Java specification, including requiring an SDK, then SystemRequirements was removed entirely (does need Java, and Java >= 8).."
+"rcdk","3.8.0","Zachary Charlop-Powers <zach.charlop.powers@gmail.com>",NA,2023-06-20,"issues were not corrected in time.  Incorrect Java specification, including requiring a SDK, then no SystemRequirements (does need Java, and Java >= 8).."
 "rchie","1.0.2","Noam Ross <noam.ross@gmail.com>","https://github.com/noamross/rchie",2022-10-03,"check issues were not corrected despite reminders."
 "rcitoid","0.1.0","Scott Chamberlain <sckott@protonmail.com>","https://github.com/ropenscilabs/rcitoid",2023-03-10,"at the request of the maintainer."
 "rcol","0.2.0","Scott Chamberlain <myrmecocystus@gmail.com>","https://github.com/ropensci/rcol",2022-03-02,"check problems were not corrected in time."
