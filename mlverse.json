@@ -5,6 +5,11 @@
     "url": "https://github.com/mlverse/cuda.ml"
   },
   {
+    "package": "hfhub",
+    "maintainer": "Daniel Falbel <daniel@posit.co>",
+    "url": "https://github.com/mlverse/hfhub"
+  },
+  {
     "package": "luz",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/luz"
