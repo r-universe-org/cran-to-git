@@ -42,6 +42,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Rbwa",
+    "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
+    "url": "https://github.com/crisprverse/rbwa",
+    "registry": "bioc"
+  },
+  {
     "package": "screenCounter",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/crisprverse/screencounter",
