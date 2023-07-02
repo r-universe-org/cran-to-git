@@ -265,8 +265,8 @@ AntAngioCOOL,cran,
 anthroplus,cran,dirkschumacher
 Anthropometry,cran,
 AntibodyTiters,cran,hkatomed
-AnVIL,bioc,mtmorgan
-AnVILPublish,bioc,mtmorgan
+AnVIL,bioc,link-ny
+AnVILPublish,bioc,link-ny
 aod,cran,
 aods3,cran,
 aopdata,cran,rafapereirabr
@@ -282,7 +282,7 @@ apdesign,cran,
 apeglm,bioc,
 APFr,cran,nmargaritella
 APfun,cran,andrew-plowright
-APIS,cran,
+APIS,cran,julienrochemode
 APL,bioc,
 aplpack,cran,
 APML0,cran,leesprite
@@ -3102,7 +3102,7 @@ GenomicOZone,bioc,
 genomicper,cran,
 GenOrd,cran,
 GenoScan,cran,
-GenoTriplo,cran,
+GenoTriplo,cran,julienrochemode
 genpathmox,cran,glamb85
 GenProSeq,bioc,
 genpwr,cran,
@@ -5039,6 +5039,7 @@ MixtureMissing,cran,hungtong
 MixtureRegLTIC,cran,
 MixTwice,cran,zzheng68
 MixviR,cran,mikesovic
+mkde,cran,
 MKLE,cran,
 MKMeans,cran,
 mknapsack,cran,byapparov
@@ -8851,7 +8852,6 @@ turboEM,cran,rvaradhan
 TurboNorm,bioc,
 Tushare,cran,
 TUWmodel,cran,
-tvem,cran,dziakj1
 tvgarch,cran,
 tvgeom,cran,
 tvmComp,cran,maheshpkumar

@@ -1,17 +1,5 @@
 [
   {
-    "package": "AnVIL",
-    "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/AnVIL",
-    "registry": "bioc"
-  },
-  {
-    "package": "AnVILPublish",
-    "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/AnVILPublish",
-    "registry": "bioc"
-  },
-  {
     "package": "cellxgenedp",
     "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
     "url": "https://github.com/mtmorgan/cellxgenedp",

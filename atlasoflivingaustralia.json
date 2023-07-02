@@ -1,5 +1,10 @@
 [
   {
+    "package": "galah",
+    "maintainer": "Martin Westgate <martin.westgate@csiro.au>",
+    "url": "https://github.com/atlasoflivingaustralia/galah-r"
+  },
+  {
     "package": "potions",
     "maintainer": "Martin Westgate <martin.westgate@csiro.au>",
     "url": "https://github.com/atlasoflivingaustralia/potions"

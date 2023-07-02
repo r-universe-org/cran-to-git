@@ -1,0 +1,14 @@
+[
+  {
+    "package": "AnVIL",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://git.bioconductor.org/packages/AnVIL",
+    "registry": "bioc"
+  },
+  {
+    "package": "AnVILPublish",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://git.bioconductor.org/packages/AnVILPublish",
+    "registry": "bioc"
+  }
+]
