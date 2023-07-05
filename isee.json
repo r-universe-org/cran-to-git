@@ -18,6 +18,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iSEEindex",
+    "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
+    "url": "https://github.com/isee/iseeindex",
+    "registry": "bioc"
+  },
+  {
     "package": "iSEEu",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseeu",

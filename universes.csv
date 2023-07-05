@@ -351,6 +351,7 @@ alabama,rvaradhan
 alabaster,bioc
 alabaster.base,bioc
 alabaster.bumpy,bioc
+alabaster.files,bioc
 alabaster.mae,bioc
 alabaster.matrix,bioc
 alabaster.ranges,bioc
@@ -2398,6 +2399,7 @@ cder,mkoohafkan
 cdfquantreg,cran
 CDFt,cran
 cdgd,ang-yu
+CDI,jichunxie
 CDLasso,cran
 cdlei,cran
 cdlTools,jlisic
@@ -4107,7 +4109,7 @@ dclust,shaunpwilkinson
 DCluster,becarioprecario
 DClusterm,becarioprecario
 dcm2,atlas-aai
-dcmle,psolymos
+dcmle,datacloning
 dcmodify,data-cleaning
 DCODE,sophie-lebre
 dcortools,edelmand21
@@ -6984,6 +6986,8 @@ gdistance,agrdatasci
 gdm,fitzlab-al
 gdpc,esmucler
 GDPuc,pik-piam
+gDR,bioc
+gDRcore,bioc
 gDRimport,bioc
 gDRstyle,bioc
 gDRutils,bioc
@@ -9335,6 +9339,7 @@ isdparser,ropensci-archive
 iSEE,isee
 iSEEhex,isee
 iSEEhub,isee
+iSEEindex,isee
 iSEEu,isee
 iSeq,bioc
 ISEtools,cran
@@ -13257,7 +13262,6 @@ oolong,chainsawriot
 oompaBase,r-forge
 oompaData,r-forge
 ooplah,xoopr
-oops,cmann3
 OOR,mbinois
 OOS,tylerjpike
 oosse,sthawinke
@@ -15361,7 +15365,7 @@ quid,lukasklima
 quiddich,luisekuehn
 quietR,thomascjohnson
 quiltr,cjbarrie
-quincunx,maialab
+quincunx,ramiromagno
 quint,elisedus
 quoradsR,pablosanmar
 quotedargs,radfordneal
