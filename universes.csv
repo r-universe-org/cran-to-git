@@ -1189,6 +1189,7 @@ BayesPieceHazSelect,andrewgchapple
 BayesPiecewiseICAR,cran
 bayesplay,bayesplay
 bayesplot,stan-dev
+bayespm,cran
 bayesPO,guidoamoreira
 bayesPop,hanase
 BayesPostEst,shanascogin
@@ -1826,6 +1827,7 @@ boinet,cran
 BOJ,cran
 bolasso,dmolitor
 bold,ropensci
+bolsec,cran
 Bolstad,jmcurran
 Bolstad2,jmcurran
 BoltzMM,andrewthomasjones
@@ -2996,7 +2998,6 @@ cobiclust,julieaubert
 cobs,r-forge
 coca,acabassi
 CoCiteStats,bioc
-cocktailApp,shabbychef
 CoClust,cran
 COCOA,databio
 coconots,manuhuth
@@ -5518,6 +5519,7 @@ epanetReader,bradleyjeck
 epca,fchen365
 epcc,victor-saldana
 ePCR,syksy
+epe4md,epe-gov-br
 EPGMr,swampthingpaul
 eph,holatam
 Epi,bxc147
@@ -5657,6 +5659,7 @@ esDesign,yangzhao98
 eSDM,smwoodman
 eseis,coffeemuggler
 eselect,martabofillroig
+esem,maria-pro
 esemifar,cran
 esetVis,lcougnaud
 ESG,etendard7
@@ -6917,6 +6920,7 @@ gaston,cran
 GateFinder,bioc
 gatepoints,wjawaid
 gateR,lance-waller-lab
+gatoRs,nataliepatten
 GauPro,collinerickson
 gauseR,adamtclark
 gausscov,cran
@@ -8707,6 +8711,7 @@ hypr,mmrabe
 hypsoLoop,fgashakamba
 HyRiM,cran
 hySpc.testthat,cbeleites
+hystar,daandejongen
 hysteresis,aparkhurst
 hystReet,johannesfriedrich
 i18n,rich-iannone
@@ -9278,6 +9283,7 @@ iprior,haziqj
 ips,cran
 ipsecr,murrayefford
 ipsfs,pandaramaranjan
+ipsRdbs,sujit-sahu
 ipumsr,ipums
 IPV,nilspetras
 ipw,cran
@@ -9355,6 +9361,7 @@ ISLR,trevorhastie
 ISLR2,trevorhastie
 ISM,gunjan15
 ismev,ericgilleland
+ismtchile,mrosas47
 isni,cran
 isnullptr,jonasfoe
 Iso,rolfturner
@@ -12556,7 +12563,7 @@ neatmaps,philboileau
 neatR,dswithai
 neatRanges,arg0naut91
 neatStats,gasparl
-nebula,cran
+nebula,lhe17
 Nebulosa,powellgenomicslab
 Necklaces,cran
 needmining,cran
@@ -13152,6 +13159,7 @@ OGRE,svenbioinf
 OHCSpackage,idmorley
 ohenery,shabbychef
 Ohit,cran
+oHMMed,lynettecaitlin
 ohoegdm,tmsalab
 OHPL,nanxstats
 ohsome,giscience
@@ -13845,6 +13853,7 @@ pccc,cud2v
 PCDimension,cran
 pcdpca,cran
 pcds,elvanceyhan
+pcds.ugraph,elvanceyhan
 pcensmix,cran
 pcev,greenwoodlab
 pcFactorStan,jpritikin
@@ -14321,7 +14330,7 @@ pleiotest,feraguate
 pleLMA,carolynanderson
 plethy,bioc
 PLFD,paradoxical-rhapsody
-plfm,cran
+plfm,michelmeulders
 plfMA,cran
 plgem,bioc
 plgp,rbgramacy
@@ -14344,7 +14353,6 @@ PLORN,cran
 plot.matrix,sigbertklinke
 plot3D,karlines
 plot3Drgl,karlines
-plot3logit,f-santi
 plotBart,priism-center
 plotbb,guangchuangyu
 PlotBivInvGaus,bhushan0510
@@ -14918,6 +14926,7 @@ ProteoMM,bioc
 proteus,cran
 protGear,keniajin
 ProtGenerics,rformassspectrometry
+protHMM,semran9
 proto,hadley
 protoclust,jacobbien
 protolite,jeroen
@@ -15097,6 +15106,7 @@ PVplr,vuvlab
 PVR,santostbio
 PWD,cran
 PWEALL,marvels2031
+PWEXP,zjph602xtc
 PWFSLSmoke,mazamascience
 PWIR,rhaunschild
 pwlmm,cran
@@ -17981,7 +17991,6 @@ SEAGLE,jocelynchi
 seagull,jklosa
 SEAHORS,aurelienroyer
 sealasso,cran
-seAMLess,eonurk
 searchConsoleR,markedmondson1234
 searcher,r-assist
 SearchTrees,gmbecker
@@ -20897,7 +20906,6 @@ triangle,bertcarnell
 triangulation,cran
 triangulr,alvindev0
 tribe,paulponcet
-tricolore,jschoeley
 tricycle,hansenlab
 TriDimRegression,alexander-pastukhov
 triebeard,ironholds
@@ -21436,6 +21444,7 @@ vec2dtransf,gacarrillor
 veccompare,jglev
 vecsets,cellocgw
 VecStatGraphs2D,cran
+VectorCodeR,cran
 vectorwavelet,toygur
 VedicDateTime,prajwalkpatil
 vegalite,hrbrmstr
@@ -22104,6 +22113,7 @@ youngSwimmers,nim-ach
 YPBP,fndemarqui
 YPInterimTesting,pakdaewo
 YPmodel,junlongsun
+YPmodelPhreg,daewoopak
 YPPE,fndemarqui
 ypr,poissonconsulting
 ypssc,shashankkumbhare
@@ -22163,6 +22173,7 @@ zonebuilder,zonebuilders
 zonohedra,glenndavis52
 zoo,r-forge
 zooaRch,eo-c
+ZooID,cran
 zooimage,phgrosjean
 zoolog,josempozo
 zoom,cbarbu
