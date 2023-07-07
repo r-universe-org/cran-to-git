@@ -35,6 +35,11 @@
     "url": "https://github.com/mlverse/tfevents"
   },
   {
+    "package": "tok",
+    "maintainer": "Daniel Falbel <daniel@posit.co>",
+    "url": "https://github.com/mlverse/tok"
+  },
+  {
     "package": "torch",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/torch"

@@ -20,6 +20,11 @@
     "url": "https://github.com/predictiveecology/require"
   },
   {
+    "package": "SpaDES.core",
+    "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
+    "url": "https://github.com/predictiveecology/spades.core"
+  },
+  {
     "package": "SpaDES.tools",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@nrcan-rncan.gc.ca>",
     "url": "https://github.com/predictiveecology/spades.tools"

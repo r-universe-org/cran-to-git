@@ -30,6 +30,11 @@
     "url": "https://github.com/business-science/riingo"
   },
   {
+    "package": "sweep",
+    "maintainer": "Matt Dancho <mdancho@business-science.io>",
+    "url": "https://github.com/business-science/sweep"
+  },
+  {
     "package": "tibbletime",
     "maintainer": "Davis Vaughan <davis@rstudio.com>",
     "url": "https://github.com/business-science/tibbletime"
