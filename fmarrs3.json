@@ -1,5 +1,10 @@
 [
   {
+    "package": "cbass",
+    "maintainer": "Frank Marrs <fmarrs3@lanl.gov>",
+    "url": "https://github.com/cran/cbass"
+  },
+  {
     "package": "netregR",
     "maintainer": "Frank W. Marrs <frank.marrs@colostate.edu>",
     "url": "https://github.com/cran/netregR"

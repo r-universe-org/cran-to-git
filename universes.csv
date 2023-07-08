@@ -454,6 +454,7 @@ amerika,pdwaggoner
 AmesHousing,topepo
 ami,briandconnelly
 AmigaFFH,cran
+AMIM,gelotran
 ammiBayes,cran
 ammistability,ajaygpb
 AMModels,cran
@@ -1528,7 +1529,7 @@ BinaryEMVS,john-snyder
 BinaryEPPM,cran
 binaryGP,chihli
 binaryMM,chiaradg
-binaryTimeSeries,bilintoh
+binaryTimeSeries,cran
 binb,eddelbuettel
 BINCOR,jomopo
 binda,cran
@@ -2343,7 +2344,7 @@ CB2,cran
 cba,cran
 cbaf,bioc
 cbanalysis,cran
-cbass,cran
+cbass,fmarrs3
 CBCgrps,cran
 cbcTools,jhelvy
 CBEA,qpmnguyen
@@ -2907,7 +2908,7 @@ clustifyr,rnabioco
 ClustImpute,o1iv3r
 clustMD,cran
 clustMixType,g-rho
-ClustMMDD,tousswil
+ClustMMDD,cran
 ClustOfVar,chavent
 ClusTorus,sungkyujung
 clustra,go-ski
@@ -3006,7 +3007,7 @@ coconots,manuhuth
 COCONUT,cran
 cocor,deboerk
 cocorresp,gavinsimpson
-cocosoR,cran
+cocosoR,sergiofloquet
 cocron,deboerk
 coda,martynplummer
 coda.base,mcomas
@@ -4977,6 +4978,7 @@ dub,egnha
 DUBStepR,cran
 duckdb,duckdb
 duckduckr,dirkschumacher
+duckplyr,krlmlr
 duke,aidangildea
 dumbbell,foocheung
 dummy,ballings
@@ -5131,6 +5133,7 @@ EBSeqHMM,bioc
 ebTobit,barbehenna
 ebvcube,luisequoss
 ec50estimator,alvesks
+ecan,matutosi
 eCAR,gpage2990
 ecb,expersso
 ECctmc,fintzij
@@ -5955,6 +5958,7 @@ factorstochvol,gregorkastner
 factory,jonthegeek
 Factoshiny,husson
 factR,fursham-h
+factReg,bartjanvanrossum
 factset.analyticsapi.engines,cran
 factset.protobuf.stach.v2,charlie430
 factset.protobuf.stachextensions,ramanth
@@ -6047,6 +6051,7 @@ FastKNN,besanson
 fastLaplace,sangwan93
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
+fastLogisticRegressionWrap,kapelner
 fastlogitME,cran
 fastlogranktest,tikacp
 fastM,klauschn
@@ -6309,6 +6314,7 @@ FinTS,r-forge
 fipio,program--
 fipp,cran
 FiRE,princethewinner
+firebase,johncoene
 firebehavioR,ecofire
 FiSh,mlaib
 FISHalyseR,bioc
@@ -10419,6 +10425,7 @@ longitudinal,cran
 longitudinalcascade,noahhaber
 longitudinalData,cran
 LongituRF,sistm
+longke,cran
 longmemo,mmaechler
 LongMemoryTS,funwithr
 longmixr,cellmapslab
@@ -12834,6 +12841,7 @@ nltm,mclements
 nlts,objornstad
 nLTT,thijsjanzen
 nlWaldTest,olehjktu
+NMA,nomahi
 nmadb,cran
 NMADiagT,boyanglu
 nmaINLA,gunhanb
@@ -13346,6 +13354,7 @@ optbdmaeAT,cran
 optbin,cran
 optBiomarker,mkhondoker
 OptCirClust,joemsong
+optDesignSlopeInt,cran
 optedr,kezrael
 optextras,nashjc
 OptGS,cran
@@ -13663,7 +13672,6 @@ PanelCount,cran
 panelhetero,tkhdyanagi
 PanelMatch,insongkim
 panelPomp,cran
-panelr,jacob-long
 panelsummary,michaeltopper1
 panelvar,datarob
 panelView,cran

@@ -10,6 +10,11 @@
     "url": "https://github.com/krlmlr/bindrcpp"
   },
   {
+    "package": "duckplyr",
+    "maintainer": "Kirill Müller <kirill@cynkra.com>",
+    "url": "https://github.com/krlmlr/duckplyr"
+  },
+  {
     "package": "enc",
     "maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
     "url": "https://github.com/krlmlr/enc"
