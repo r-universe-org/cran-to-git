@@ -1,11 +1,5 @@
 [
   {
-    "package": "climdex.pcic",
-    "maintainer": "James Hiebert <hiebert@uvic.ca>",
-    "url": "https://github.com/pacificclimate/climdex.pcic",
-    "registry": "archived"
-  },
-  {
     "package": "ncdf4.helpers",
     "maintainer": "Lee Zeman <lzeman@uvic.ca>",
     "url": "https://github.com/pacificclimate/ncdf4.helpers"

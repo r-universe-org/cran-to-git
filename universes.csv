@@ -242,7 +242,7 @@ AffiXcan,bioc
 affluenceIndex,cran
 affxparser,henrikbengtsson
 affy,bioc
-affycomp,bioc
+affycomp,rafalab
 affyContam,vjcitn
 affycoretools,bioc
 affyILM,bioc
@@ -2804,7 +2804,6 @@ climateStability,hannahlowens
 climatol,jaggh
 climatrends,agrdatasci
 ClimClass,eccele
-climdex.pcic,pacificclimate
 clime,rluo
 climetrics,shirintaheri
 climextRemes,paciorek
@@ -3049,6 +3048,7 @@ cofeatureR,tinyheero
 coffee,maarten14c
 CoFRA,ruma1974
 coga,chaoranhu
+CoGAPS,bioc
 cogena,zhilongjia
 cogeqc,almeidasilvaf
 Cogito,bioc
@@ -7857,7 +7857,6 @@ GPM,cran
 gpmap,argju
 GPoM,cran
 GPP,aitask
-gppm,karchjd
 GPRMortality,alighanbari26
 gProfileR,korogenoest
 gprofiler2,cran
@@ -8025,6 +8024,7 @@ grpCox,xuandt1289
 grPipe,d-gaspar
 grplasso,meierluk
 grplassocat,fdetmer
+grpnet,cran
 grpreg,pbreheny
 grpsel,ryan-thompson
 grpseq,lmaowsic
@@ -8736,6 +8736,7 @@ i2extras,reconverse
 IAcsSPCR,johnjsl7
 iAdapt,cran
 iadf,konradmayer
+IADT,cran
 iai,jackdunnnz
 ialiquor,nikdata
 iapws,jondebove
@@ -9855,7 +9856,7 @@ kStatistics,cran
 kstIO,chockemeyer
 kstMatrix,chockemeyer
 ktaucenters,jdgonzalezwork
-KTensorGraphs,cran
+KTensorGraphs,miguelrosa90
 ktsolve,cellocgw
 ktweedie,ly129
 kuiper.2samp,cran
@@ -11164,6 +11165,7 @@ meshr,rikenbit
 MesKit,bioc
 MESS,ekstroem
 messaging,rich-iannone
+messi,umich-cphds
 messina,bioc
 messy.cats,hkarp1
 messydates,jhollway
@@ -14025,6 +14027,7 @@ PepsNMR,manonmartin
 pepStat,rglab
 peptider,heike
 Peptides,dosorio
+peptoolkit,jrcodina
 pepXMLTab,bioc
 pequod,albertomirisola
 peramo,phamdn
@@ -14146,6 +14149,7 @@ phenocamr,bluegreen-labs
 phenoCDM,bnasr
 phenofit,eco-hydro
 PhenoGeneRanker,bioc
+phenolocrop,cran
 phenology,marc-girondot
 phenomap,jepsonnomad
 phenomis,bioc
@@ -15340,6 +15344,7 @@ qualV,r-forge
 qualvar,joelgombin
 QUALYPSO,guillaumeevin
 Quandl,quandl
+QuantBondCurves,camodays
 quantCurves,nparamestimcurves
 quantdates,quantilma
 quantdr,elianachristou
@@ -15869,7 +15874,7 @@ rconfig,analythium
 RConics,emanuelhuber
 rcontroll,sylvainschmitt
 rcorpora,gaborcsardi
-RCPA,negarmgh
+RCPA,tinnlab
 RCPA3,cran
 Rcpi,nanxstats
 Rcplex,r-forge
@@ -18428,6 +18433,7 @@ shinyPredict,jkhaukka
 ShinyQuickStarter,cran
 shinyr,ijayc
 shinyRadioMatrix,szelepke
+shinyRatings,cran
 shinyrecipes,albertoalmuinha
 shinyreforms,piotrbajger
 shinyRGL,trestletech
@@ -18924,6 +18930,7 @@ snowboot,cran
 snowfall,cran
 snowflakes,svetlanaeden
 snowFT,hanase
+snowquery,mermelstein
 SNPannotator,cran
 SNPassoc,isglobal-brge
 SNPediaR,genometra
@@ -20306,7 +20313,6 @@ tensorBSS,jmvirta
 TensorClustering,cran
 TensorComplete,cran
 tensorflow,rstudio
-tensorFun,zerokgkg201805291
 TensorPreAve,william-chenwl
 tensorr,zamorarr
 tensorregress,jhu267
@@ -21132,6 +21138,7 @@ twang,mattcefalu
 twangContinuous,dcoffman
 twangMediation,danielmc1603
 twangRDC,mattcefalu
+twdtw,vwmaus
 tweeDEseq,isglobal-exposomehub
 tweedie,peterkdunn
 tweenr,thomasp85

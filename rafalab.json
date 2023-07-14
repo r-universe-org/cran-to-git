@@ -1,5 +1,11 @@
 [
   {
+    "package": "affycomp",
+    "maintainer": "Robert D. Shear <rshear@ds.dfci.harvard.edu>",
+    "url": "https://github.com/rafalab/affycomp",
+    "registry": "bioc"
+  },
+  {
     "package": "bumphunter",
     "maintainer": "Tamilselvi Guharaj <selvi@ds.dfci.harvard.edu>",
     "url": "https://github.com/rafalab/bumphunter",
