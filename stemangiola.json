@@ -1,5 +1,11 @@
 [
   {
+    "package": "CuratedAtlasQueryR",
+    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
+    "url": "https://github.com/stemangiola/curatedatlasqueryr",
+    "registry": "bioc"
+  },
+  {
     "package": "ppcseq",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/ppcseq",
