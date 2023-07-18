@@ -125,6 +125,7 @@ afex,https://github.com/singmann/afex,,
 affinity,https://github.com/hypertidy/affinity,,
 affinitymatrix,https://github.com/edoardociscato/affinitymatrix,,
 affxparser,https://github.com/henrikbengtsson/affxparser,,bioc
+affy,https://github.com/rafalab/affy,,bioc
 affycomp,https://github.com/rafalab/affycomp,,bioc
 affyio,https://github.com/bmbolstad/affyio,,bioc
 affyPLM,https://github.com/bmbolstad/affyplm,,bioc
@@ -454,6 +455,7 @@ atakrig,https://github.com/maoguihu/atakrig,,
 ATbounds,https://github.com/atbounds/atbounds-r,,
 atena,https://github.com/functionalgenomics/atena,,bioc
 atime,https://github.com/tdhock/atime,,
+AtlasMaker,https://github.com/rachel-greenlee/atlasmaker,,
 AtmChile,https://github.com/franciscoxaxo/atmchile,,
 atom4R,https://github.com/eblondel/atom4r,,
 atpolR,https://github.com/gsapijaszko/atpolr,,
@@ -906,7 +908,7 @@ BioNetStat,https://github.com/jardimviniciusc/bionetstat,,bioc
 bioOED,https://github.com/albgarre/biooed,,
 BioPETsurv,https://github.com/chengs94/biopetsurv,,
 BioQC,https://github.com/accio/bioqc,,bioc
-bioRad,https://github.com/adokter/biorad,,archived
+bioRad,https://github.com/adokter/biorad,,
 bioregion,https://github.com/biorgeo/bioregion,,
 BioRssay,https://github.com/milesilab/biorssay,,
 biosensors.usc,https://github.com/glucodensities/biosensors.usc,,
@@ -1312,6 +1314,7 @@ causalOT,https://github.com/ericdunipace/causalot,,
 causalPAF,https://github.com/mauriceoconnell/causalpaf,,
 causalsens,https://github.com/mattblackwell/causalsens,,
 CausCor,https://github.com/sugym/causcor,,
+caviarpd,https://github.com/dbdahl/caviarpd,caviarpd,
 cbcTools,https://github.com/jhelvy/cbctools,,
 CBEA,https://github.com/qpmnguyen/cbea,,bioc
 cbinom,https://github.com/ddalthorp/cbinom,,
@@ -1435,6 +1438,7 @@ checkr,https://github.com/poissonconsulting/checkr,,
 cheddar,https://github.com/quicklizard99/cheddar,,
 cheem,https://github.com/nspyrison/cheem,,
 cheese,https://github.com/zajichek/cheese,,
+chem16S,https://github.com/jedick/chem16s,,
 chemCal,https://github.com/jranke/chemcal,,
 chemdeg,https://github.com/migliomatte/chemdeg,,
 ChemmineOB,https://github.com/girke-lab/chemmineob,,bioc
@@ -2116,6 +2120,7 @@ ctsemOMX,https://github.com/cdriveraus/ctsemomx,,
 ctsGE,https://github.com/michalsharabi/ctsge,,bioc
 CTSV,https://github.com/jingeyu/ctsv,,bioc
 CTTShiny,https://github.com/kylehamilton/cttshiny,,
+cubar,https://github.com/mt1022/cubar,,
 cubature,https://github.com/bnaras/cubature,,
 cubble,https://github.com/huizezhang-sherry/cubble,,
 cubelyr,https://github.com/hadley/cubelyr,,
@@ -4705,6 +4710,7 @@ haplo.ccs,https://github.com/vubiostat/haplo.ccs,,
 HaploCatcher,https://github.com/zjwinn/haplocatcher,,
 haplotypes,https://github.com/cnrakt/haplotypes,,
 happign,https://github.com/paul-carteron/happign,,
+harbinger,https://github.com/cefet-rj-dal/harbinger,,
 hardhat,https://github.com/tidymodels/hardhat,,
 HARModel,https://github.com/emilsjoerup/harmodel,,
 harrietr,https://github.com/andersgs/harrietr,,
@@ -5866,7 +5872,6 @@ LncPath,https://github.com/hanjunwei-lab/lncpath,,
 LNPar,https://github.com/marco-bee/lnpar,,
 loa,https://github.com/r-forge/loa,pkg/loa,
 loadeR,https://github.com/promidat/loader,,
-loadflux,https://github.com/atsyplenkov/loadflux,,archived
 loadings,https://github.com/hiroyukiyamamoto/loadings,,
 loadr,https://github.com/databio/loadr,,
 loadshaper,https://github.com/riazakhan94/loadshaper,,
@@ -7939,7 +7944,7 @@ pgTools,https://github.com/tconwell/pgtools,,
 pguIMP,https://github.com/smlms/pguimp,,
 PH1XBAR,https://github.com/bolus123/ph1xbar,,
 ph2bayes,https://github.com/nshi-stat/ph2bayes,,
-phacking,https://github.com/mathurlabstanford/phacking,,archived
+phacking,https://github.com/mathurlabstanford/phacking,,
 phangorn,https://github.com/klausvigo/phangorn,,
 phantasus,https://github.com/ctlab/phantasus,,bioc
 PharmacoGx,https://github.com/bhklab/pharmacogx,,bioc
@@ -8174,6 +8179,7 @@ poissonreg,https://github.com/tidymodels/poissonreg,,
 pokemon,https://github.com/williamorim/pokemon,,
 PolarCAP,https://github.com/imehlhaff/polarcap,,
 polaroid,https://github.com/jhk0530/polaroid,,
+polars,https://github.com/pola-rs/r-polars,,
 poLCA,https://github.com/dlinzer/polca,,
 PolicyPortfolios,https://github.com/xfim/policyportfolios,,
 polished,https://github.com/tychobra/polished,,
@@ -11388,7 +11394,6 @@ sumR,https://github.com/guidoamoreira/sumr,,
 sumSome,https://github.com/annavesely/sumsome,,
 sunburstR,https://github.com/timelyportfolio/sunburstr,,
 suncalc,https://github.com/datastorm-open/suncalc,,
-sundialr,https://github.com/sn248/sundialr,,archived
 SUNGEO,https://github.com/zhukovyuri/sungeo,,
 suntools,https://github.com/adokter/suntools,,
 supc,https://github.com/wush978/supc,,

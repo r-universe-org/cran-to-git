@@ -18,7 +18,8 @@
   {
     "package": "caviarpd",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
-    "url": "https://github.com/cran/caviarpd"
+    "url": "https://github.com/dbdahl/caviarpd",
+    "subdir": "caviarpd"
   },
   {
     "package": "commonsMath",

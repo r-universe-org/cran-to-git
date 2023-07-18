@@ -242,7 +242,7 @@ affinitymatrix,edoardociscato
 AffiXcan,bioc
 affluenceIndex,cran
 affxparser,henrikbengtsson
-affy,bioc
+affy,rafalab
 affycomp,rafalab
 affyContam,vjcitn
 affycoretools,bioc
@@ -838,6 +838,7 @@ ATbounds,atbounds
 atena,functionalgenomics
 atime,tdhock
 atlas,podalv
+AtlasMaker,rachel-greenlee
 AtmChile,franciscoxaxo
 atmopt,simonmak
 ATNr,cran
@@ -2328,7 +2329,6 @@ causaleffect,santikka
 CausalGAM,quinn-kevin
 CausalGPS,nsaph-software
 CausalImpact,google
-CausalKinetiX,niklaspfister
 CausalMBSTS,fmenchetti
 CausalModels,ander428
 causaloptim,sachsmc
@@ -2583,6 +2583,7 @@ checkr,poissonconsulting
 cheddar,quicklizard99
 cheem,nspyrison
 cheese,zajichek
+chem16S,jedick
 chemCal,jranke
 chemdeg,migliomatte
 CHEMIST,anson60214
@@ -2749,7 +2750,6 @@ Claddis,graemetlloyd
 cladoRcpp,nmatzke
 ClaimsProblems,iagolugilde
 clam,maarten14c
-clampSeg,florianpein
 ClamR,jonathanlees
 clarabel,oxfordcontrol
 clarifai,gojiplus
@@ -3544,7 +3544,7 @@ coxphMIC,xgsu
 coxphSGD,marcinkosinski
 coxphw,biometrician
 CoxPlus,jnpeng
-CoxR2,cran
+CoxR2,hyeriu
 coxrobust,shanascogin
 coxrt,bella2001
 coxsei,fchenhku
@@ -3794,6 +3794,7 @@ CTTinShiny,cran
 CTTShiny,kylehamilton
 ctv,zeileis
 CUB,cran
+cubar,mt1022
 cubature,bnaras
 cubble,huizezhang-sherry
 cubelyr,hadley
@@ -6032,7 +6033,6 @@ fastadi,rohelab
 fastAFT,cran
 fastai,eagerai
 FastBandChol,cran
-fastclime,ashipunov
 fastcluster,dmuellner
 fastcmh,cran
 fastcox,archer-yang-lab
@@ -6167,7 +6167,6 @@ fdrci,millstei
 fdrDiscreteNull,xiongzhichen
 FDRestimation,murraymegan
 FDRsampsize,stan-pounds
-FDRSeg,cran
 fdrtool,cran
 fds,cran
 fdth,jcfaria
@@ -8230,6 +8229,7 @@ haplotypes,cnrakt
 happign,paul-carteron
 happytime,cran
 hapsim,cran
+harbinger,cefet-rj-dal
 hardhat,tidymodels
 HardyWeinberg,jangraffelman
 Harman,bioc
@@ -8317,7 +8317,6 @@ HDShOP,otryakhin-dmitry
 HDSpatialScan,cran
 HDStIM,niaid
 HDTD,anestistouloumis
-HDtest,cran
 HDTSA,linc2021
 HDtweedie,cran
 headliner,rjake
@@ -10215,7 +10214,6 @@ LineagePulse,yoseflab
 lineagespot,biodataanalysisgroup
 LinearDetect,cran
 linearModel,cran
-linearQ,cran
 LinearRegressionMDE,cran
 lineartestr,federicogarza
 linelist,epiverse-trace
@@ -10341,7 +10339,6 @@ lnmCluster,cran
 LNPar,marco-bee
 loa,r-forge
 loadeR,promidat
-loadflux,atsyplenkov
 loadings,hiroyukiyamamoto
 loadr,databio
 loadshaper,riazakhan94
@@ -12553,6 +12550,7 @@ NBShiny,kartikeyabolar
 NBShiny2,kartikeyabolar
 NBShiny3,kartikeyabolar
 nbTransmission,sarahleavitt
+NBtsVarSel,mgomtsyan
 nc,tdhock
 NCA,govertbuijs
 ncappc,cran
@@ -14522,6 +14520,7 @@ pokemon,williamorim
 poker,greenspb
 PolarCAP,imehlhaff
 polaroid,jhk0530
+polars,pola-rs
 poLCA,dlinzer
 PolicyPortfolios,xfim
 policytree,grootci
@@ -18850,6 +18849,7 @@ SMCRM,tverbeke
 smcure,cran
 smd,cran
 smdata,ecmerkle
+smdi,cran
 SMDIC,hanjunwei-lab
 smdocker,dyfanjones
 smerc,jfrench
@@ -19675,7 +19675,6 @@ stepp,steppdev
 SteppedPower,pmildenb
 stepPenal,veleni
 stepPlr,cran
-stepR,florianpein
 StepReg,junhuili1017
 steprf,jinli22
 steps,steps-dev
@@ -19874,7 +19873,6 @@ sumSome,annavesely
 sunburstR,timelyportfolio
 suncalc,datastorm-open
 Sunclarco,cran
-sundialr,sn248
 SUNGEO,zhukovyuri
 SunsVoc,cran
 suntools,adokter
@@ -20665,6 +20663,7 @@ TissueEnrich,bioc
 TITAN2,dkahle
 TitanCNA,gavinha
 titanic,paulhendricks
+TITEgBOIN,zhuzhuxiaxia
 titeIR,lsubioscomputing
 titrationCurves,dtharvey
 TKCat,patzaw

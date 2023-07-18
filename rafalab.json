@@ -1,5 +1,11 @@
 [
   {
+    "package": "affy",
+    "maintainer": "Robert D. Shear <rshear@ds.dfci.harvard.edu>",
+    "url": "https://github.com/rafalab/affy",
+    "registry": "bioc"
+  },
+  {
     "package": "affycomp",
     "maintainer": "Robert D. Shear <rshear@ds.dfci.harvard.edu>",
     "url": "https://github.com/rafalab/affycomp",
