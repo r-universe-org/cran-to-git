@@ -3416,7 +3416,6 @@ corpcor,cran
 corpora,r-forge
 corporaexplorer,kgjerde
 CoRpower,mjuraska
-corpus,leslie-huang
 corpustools,kasperwelbers
 corr2D,clacor
 corral,bioc
@@ -4094,6 +4093,7 @@ dbstats,cran
 dbWebForms,tconwell
 dbx,ankane
 dc3net,altayg
+DCA,cran
 dcanr,davislaboratory
 DCATS,bioc
 DCCA,tsprass
@@ -6524,6 +6524,7 @@ fontcm,wch
 fontLiberation,lionel-
 fontquiver,lionel-
 foodingraph,vgasque
+foodwebWrapper,barryzee
 foolbox,mailund
 footballpenaltiesBL,lgstat
 footBayes,leoegidi
@@ -8340,7 +8341,7 @@ HeckmanEM,cran
 HEDA,ninalty
 heddlr,mikemahoney218
 hedgehog,hedgehogqa
-heemod,pierucci
+heemod,aphp
 heims,hughparsonage
 helixvis,rrrlw
 HellCor,lafaye
@@ -8560,6 +8561,7 @@ HoRM,dsy109
 hornpa,flh3
 horseshoe,svdpas
 horseshoenlm,maitya02
+hosm,mubarakfadhlul
 HospitalNetwork,pascalcrepey
 hospitals,nhs-pt
 HostSwitch,berndpanassiti
@@ -8612,6 +8614,7 @@ hspm,gpiras
 HSPOR,florine-greciet
 hsrecombi,wittenburg
 hsstan,mcol
+hstats,mayer79
 htdp,jbuonagurio
 htestClust,cran
 htetree,jiahuixu1
@@ -11698,6 +11701,7 @@ MLGL,modal-inria
 MLID,profrichharris
 mlim,haghish
 MLInterfaces,vjcitn
+mllrnrs,kapsner
 mlma,qingzhaoyu
 mlmc,louisaslett
 MLmetrics,yanyachen
@@ -12017,6 +12021,7 @@ move2,bart1
 movecost,gianmarcoalberti
 moveHMM,theomichelot
 movementsync,tuomaseerola
+moveVis,16eagle
 moveWindSpeed,bart1
 movMF,cran
 mp,fatore
@@ -12202,6 +12207,7 @@ mtb,yh202109
 mtdesign,openpharma
 MTDrh,cran
 MTE,shaobo-li
+MTest,vmoprojs
 mthapower,aurora-mareviv
 mtlgmm,ytstat
 MTLR,haiderstats
@@ -15396,6 +15402,7 @@ queueing,cran
 quhomology,cran
 quickblock,fsavje
 quickcheck,armcn
+quickcode,oobianom
 QuickJSR,andrjohns
 quickmapr,geogugal
 quickmatch,fsavje
@@ -19822,7 +19829,6 @@ studyStrap,gloewing
 STV,jayemerson
 stxplore,sevvandi
 styler,r-lib
-stylest,leslie-huang
 stylo,computationalstylistics
 SubCellBarCode,bioc
 subcopem2D,cran
@@ -20168,6 +20174,7 @@ TADCompare,dozmorovlab
 TAF,ices-tools-prod
 TAG,llin716
 tagcloud,january3
+tagtools,animaltags
 TailClassifier,cran
 tailDepFun,cran
 tailloss,igollini
@@ -22132,7 +22139,7 @@ yaml,vubiostat
 yamlet,bergsmat
 yamlme,kamapu
 yamss,hansenlab
-YAPSA,bioc
+YAPSA,cola-recount2
 yardstick,tidymodels
 yarn,bioc
 yarr,fdavidcl
