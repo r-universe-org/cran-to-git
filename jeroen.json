@@ -1,5 +1,10 @@
 [
   {
+    "package": "badgen",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/jeroen/badgen"
+  },
+  {
     "package": "base64",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/jeroen/base64"
