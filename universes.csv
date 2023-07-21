@@ -3728,7 +3728,7 @@ CSclone,tsungyuwu
 CSCNet,cran
 csdata,csids
 csdR,almaaslab
-cSEM,m-e-rademaker
+cSEM,floschuberth
 CSeqpat,hz6yc3
 CSESA,xia-zhang
 CSFA,ewouddt
@@ -4406,7 +4406,7 @@ dfped,artemis-toumazi
 dfphase1,cran
 dfpk,artemis-toumazi
 dfrr,asgari-fatemeh
-dfsaneacc,johngardenghi
+dfsaneacc,cran
 dfvad,shipei-zeng
 dga,olivierbinette
 dGAselID,cran
@@ -5191,6 +5191,7 @@ econullnetr,ivaughan
 ecopower,cran
 ecoreg,chjackson
 ecorest,skmckay
+ecos,seokhoonj
 ecosim,peterreichert
 ECOSolveR,bnaras
 ecospace,pnovack-gottshall
@@ -6631,6 +6632,7 @@ FPV,cran
 fqacalc,cran
 fqadata,cran
 fqar,equitable-equations
+frab,robinhankin
 fracdiff,mmaechler
 fracdist,leemorinucf
 FracKrigingR,nidagreen
@@ -9303,6 +9305,7 @@ iplots,s-u
 IPMbook,cran
 ipmr,padrinodb
 IPO,rietho
+ipolygrowth,kivanvan
 IPPP,niklashohmann
 ipr,cran
 ipred,thothorn
@@ -9886,6 +9889,7 @@ l1spectral,cran
 l2boost,ehrlinger
 L2DensityGoFtest,cran
 L2E,jocelynchi
+L2hdchange,cran
 LA,cran
 LabApplStat,bomarkussen
 labdsv,dvrbts
@@ -13060,7 +13064,7 @@ nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,grantschneider
 nsm3data,kim3-sudo
-NSO1212,galaamn
+NSO1212,makhgal-ganbold
 nsp,cran
 nspmix,yong3738
 nsprcomp,chrsigg
@@ -13241,7 +13245,7 @@ OmicsLonDA,aametwally
 OMICsPCA,bioc
 OmicsPLS,selbouhaddani-umc
 omicsPrint,bioc
-omicsTools,yaoxiangli
+omicsTools,cheemalab
 omicsViewer,mengchen18
 omicwas,fumi-github
 Omisc,cran
@@ -14015,6 +14019,7 @@ pemultinom,ytstat
 penAFT,cran
 penalized,jellegoeman
 penalizedcdf,cran
+penalizedclr,cran
 penalizedLDA,cran
 penalizedSVM,fbertran
 penaltyLearning,tdhock
@@ -14177,6 +14182,7 @@ PhenStat,hamed-ebi
 phers,hugheylab
 PHeval,cran
 PheVis,thomasferte
+Phi2rho,jkomelj
 phia,heliosdrm
 phiDelta,cran
 philentropy,drostlab
@@ -15481,6 +15487,7 @@ r2r,vgherard
 r2readthedocs,ropensci
 r2redux,mommy003
 r2resize,oobianom
+R2ROC,mommy003
 r2rtf,merck
 R2sample,wolfgangrolke
 r2shortcode,oobianom
@@ -18690,7 +18697,7 @@ simTool,marselscheer
 simtrait,ochoalab
 simts,smac-group
 simuclustfactor,cran
-simukde,galaamn
+simukde,makhgal-ganbold
 simulariatools,simularia
 simulator,jacobbien
 simule,blw921
@@ -18914,6 +18921,7 @@ smoothtail,numbersman77
 SmoothTensor,cran
 SmoothWin,hamed-ebi
 smoots,dschulz13
+smosr,tshestakova
 smotefamily,reddertar
 SMOTEWB,fatihsaglam
 smovie,paulnorthrop
@@ -21324,6 +21332,7 @@ UPCM,schaubert
 updateObject,bioconductor
 updater,ddsjoberg
 updog,dcgerard
+UpDown,tomrohmer
 UPG,cran
 UPMASK,algolkm
 upndown,assaforon
