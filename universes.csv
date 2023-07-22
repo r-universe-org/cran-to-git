@@ -1383,6 +1383,7 @@ bestNormalize,petersonr
 BESTree,cran
 bestridge,yufeng031
 bestSDP,leoly2017
+BET,wan-z
 betaBayes,cran
 BetaBit,betaandbit
 betacal,tmfilho
@@ -1695,6 +1696,7 @@ BISdata,enricoschumann
 bisectr,wch
 BiSEp,mwappett1986
 BiSeq,bioc
+bisg,rpvote
 bisque,jmhewitt
 BisqueRNA,cozygene
 BisRNA,carinelegrand
@@ -3194,6 +3196,7 @@ ComplexUpset,krassowski
 complmrob,dakep
 CompModels,tpourmohamad
 COMPoissonReg,lotze
+CompositeReliability,jmoonen
 Compositional,cran
 compositions,cran
 compound.Cox,cran
@@ -3217,6 +3220,7 @@ conclust,cran
 concom,stla
 ConConPiWiFun,robingirard
 concordance,insongkim
+concordancer,troyjcross
 ConcordanceTest,cran
 concordexR,pachterlab
 concorR,atraxlab
@@ -4406,7 +4410,7 @@ dfped,artemis-toumazi
 dfphase1,cran
 dfpk,artemis-toumazi
 dfrr,asgari-fatemeh
-dfsaneacc,cran
+dfsaneacc,johngardenghi
 dfvad,shipei-zeng
 dga,olivierbinette
 dGAselID,cran
@@ -10853,6 +10857,7 @@ matchbook,xanadunf
 matchBox,bioc
 matchFeat,ddegras
 Matching,jasjeetsekhon
+matchingMarkets,thiloklein
 matchingR,jtilly
 MatchIt,kosukeimai
 MatchLinReg,asmahani
@@ -12269,6 +12274,7 @@ multiCA,anikoszabo
 multicastR,cran
 multichull,cran
 multiclassPairs,nourmarzouka
+MultiClassROC,cran
 multiClust,bioc
 multicmp,diagdavenport
 multiColl,r-forge
@@ -15755,7 +15761,6 @@ rBeta2009,aks43725
 RBF,msalibian
 RBGL,bioc
 rbgm,australianantarcticdivision
-Rbgs,rimjhimsingh1012
 rbi,sbfnk
 rbi.helpers,sbfnk
 rBiasCorrection,kapsner
@@ -16410,7 +16415,7 @@ resumer,jaredlander
 rethinker,cran
 rethnicity,fangzhou-xie
 reticulate,rstudio
-retriever,cran
+retriever,dosorio
 retrodesign,andytimm
 retrofit,qunhualilab
 retroharmonize,ropengov
@@ -16708,7 +16713,6 @@ RJSplot,cran
 rjstat,ajschumacher
 rjtools,rjournal
 rjwsacruncher,aqlt
-rkafka,shrutigupta23
 rkafkajars,shrutigupta23
 RKEA,cran
 RKEAjars,cran
@@ -17834,7 +17838,6 @@ SCArray.sat,bioc
 SCATE,winnie09
 scater,alanocallaghan
 scatr,raviselker
-scatteR,janithwanni
 scatterD3,juba
 ScatterDensity,mthrun
 scatterHatch,fertiglab
@@ -17943,7 +17946,7 @@ scoringRules,fk83
 scoringTools,adimajo
 scoringutils,epiforecasts
 SCORNET,celehs
-SCORPION,cran
+SCORPION,dosorio
 SCORPIUS,rcannood
 ScottKnott,ivanalaman
 ScottKnottESD,klainfo
@@ -19601,7 +19604,6 @@ StanHeaders,cran
 StanMoMo,kabarigou
 stantargets,ropensci
 stapler,muschellij2
-staplr,pridiltal
 staRank,bioc
 StarBioTrek,claudiacava
 staRdom,matthiaspucher

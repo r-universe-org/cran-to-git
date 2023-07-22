@@ -5,8 +5,18 @@
     "url": "https://github.com/dosorio/peptides"
   },
   {
+    "package": "retriever",
+    "maintainer": "Daniel Osorio <daniecos@uio.no>",
+    "url": "https://github.com/cran/retriever"
+  },
+  {
     "package": "rPanglaoDB",
     "maintainer": "Daniel Osorio <daniecos@uio.no>",
     "url": "https://github.com/dosorio/rpanglaodb"
+  },
+  {
+    "package": "SCORPION",
+    "maintainer": "Daniel Osorio <daniecos@uio.no>",
+    "url": "https://github.com/cran/SCORPION"
   }
 ]
