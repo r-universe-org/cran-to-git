@@ -165,6 +165,11 @@
     "url": "https://github.com/rstudio/plumbertableau"
   },
   {
+    "package": "pointblank",
+    "maintainer": "Richard Iannone <riannone@me.com>",
+    "url": "https://github.com/rstudio/pointblank"
+  },
+  {
     "package": "pool",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
     "url": "https://github.com/rstudio/pool"
