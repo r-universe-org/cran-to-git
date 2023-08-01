@@ -5640,7 +5640,7 @@ ergm.count,statnet
 ergm.ego,statnet
 ergm.multi,statnet
 ergm.rank,statnet
-ergMargins,cran
+ergMargins,sduxbury
 ergmgp,statnet
 ergmharris,jenineharris
 ergmito,muriteams
@@ -7567,7 +7567,6 @@ gifski,r-rust
 GIFT,biogeomacro
 gifti,muschellij2
 GIFTr,omarashkar
-giftwrap,chriscardillo
 gigg,umich-cphds
 GIGrvg,jleydold
 GIGSEA,bioc
@@ -10174,7 +10173,6 @@ libr,dbosak01
 Libra,cran
 librarian,desiquintans
 librarysnapshot,petermeissner
-libstableR,javroyva
 LIC,cran
 lidaRtRee,jmmonnet
 lidR,r-lidar
@@ -12437,7 +12435,6 @@ mvord,cran
 mvoutlier,petertuwien
 mvp,robinhankin
 MVPBT,nomahi
-mvpd,swihart
 mvPot,r-fndv
 mvProbit,arne-henningsen
 mvQuad,weiserc
@@ -12501,7 +12498,6 @@ namedCapture,tdhock
 namedropR,nucleic-acid
 NameNeedle,cran
 namer,jumpingrivers
-namespace,warnes
 nametagger,bnosac
 nandb,rorynolan
 naniar,njtierney
@@ -12675,7 +12671,7 @@ NetIndices,karlines
 NetInt,cran
 netjack,daklor
 netmap,artod83
-netmediate,cran
+netmediate,sduxbury
 netmeta,guido-s
 netmhc2pan,richelbilderbeek
 NetMix,solivella
