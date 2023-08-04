@@ -10,11 +10,6 @@
     "url": "https://github.com/stla/alphahull3d"
   },
   {
-    "package": "Boov",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/boov"
-  },
-  {
     "package": "brr",
     "maintainer": "Stéphane Laurent <laurent_step@yahoo.fr>",
     "url": "https://github.com/stla/brr"
@@ -190,16 +185,6 @@
     "url": "https://github.com/stla/matrixsampling"
   },
   {
-    "package": "MeshesTools",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/meshestools"
-  },
-  {
-    "package": "MinkowskiSum",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/minkowskisum"
-  },
-  {
     "package": "monaco",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/monaco"
@@ -228,11 +213,6 @@
     "package": "PlaneGeometry",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/planegeometry"
-  },
-  {
-    "package": "PolygonSoup",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/polygonsoup"
   },
   {
     "package": "prettifyAddins",
