@@ -2376,7 +2376,7 @@ cchs,cran
 cchsflow,big-life-lab
 ccid,anastasiou-andreas
 ccImpute,khazum
-cclust,cran
+cclust,kurthornik
 CCM,gdancik
 ccmap,alexvpickering
 ccmEstimator,xiw021
@@ -2664,7 +2664,7 @@ ChromSCape,vallotlab
 chromseq,msq-123
 chromstaR,ataudt
 chromVAR,bioc
-chron,cran
+chron,kurthornik
 chronicle,pheymanss
 chronicler,b-rodrigues
 chronochrt,archaeothommy
@@ -2858,7 +2858,7 @@ clst,bioc
 clstutils,bioc
 clttools,yesimiao
 clubSandwich,jepusto
-clue,cran
+clue,kurthornik
 ClueR,pyanglab
 clugenr,clugen
 CluMP,9afojtik
@@ -4046,7 +4046,7 @@ DataVisualizations,mthrun
 DataViz,horiayeb
 datawizard,easystats
 datazoom.amazonia,franciscocavalcanti
-date,cran
+date,kurthornik
 datefixR,ropensci
 datelife,phylotastic
 daterangepicker,trafficonese
@@ -4985,6 +4985,7 @@ duawranglr,btskinner
 dub,egnha
 DUBStepR,cran
 duckdb,duckdb
+duckdbfs,cboettig
 duckduckr,dirkschumacher
 duckplyr,krlmlr
 duke,aidangildea
@@ -6779,6 +6780,7 @@ fungible,nwaller
 funGp,djbetancourt-gh
 funique,mkearney
 fUnitRoots,r-forge
+funkycells,jrvanderdoes
 funkyheatmap,funkyheatmap
 funLBM,cran
 funmediation,dziakj1
@@ -8217,6 +8219,7 @@ halfcircle,wherewindstay
 halfmoon,r-causal
 halk,cran
 hamlet,syksy
+handcodeR,liserman
 handlr,ropensci
 HandTill2001,fvafrcu
 handwriter,jamesetay1
@@ -9402,7 +9405,7 @@ isocalcR,justinmathias
 isocat,cjcampbell
 IsoCheck,cran
 isocir,sandra-barragan
-ISOcodes,cran
+ISOcodes,kurthornik
 IsoCor,janlisec
 IsoCorr,jeroen-schreel
 IsoCorrectoR,bioc
@@ -12031,7 +12034,7 @@ moveHMM,theomichelot
 movementsync,tuomaseerola
 moveVis,16eagle
 moveWindSpeed,bart1
-movMF,cran
+movMF,kurthornik
 mp,fatore
 mpath,zhuwang46
 mpathsenser,cran
@@ -12840,11 +12843,11 @@ nlmrt,nashjc
 nlMS,carmefont
 nlnet,cran
 nloptr,astamm
-NLP,cran
+NLP,kurthornik
 NLPclient,fl0sch
 nlpred,benkeser
 nlpsem,veronica0206
-NLPutils,cran
+NLPutils,kurthornik
 nlraa,femiguez
 nlreg,cran
 NLRoot,zhengsengui
@@ -13104,7 +13107,7 @@ o2geosocial,alxsrobert
 o2plsda,guokai8
 oaColors,cran
 oai,ropensci
-OAIHarvester,cran
+OAIHarvester,kurthornik
 oaii,cezarykuran
 oaPlots,cran
 oaqc,cran
@@ -13345,8 +13348,8 @@ openmetrics,atheriel
 OpenML,openml
 openMSE,blue-matter
 OpenMx,openmx
-openNLP,cran
-openNLPdata,cran
+openNLP,kurthornik
+openNLPdata,kurthornik
 openPrimeR,bioc
 openPrimeRui,bioc
 OpenRepGrid,markheckmann
@@ -13466,7 +13469,7 @@ ordinalForest,romanhornung
 ordinalgmifs,kelliejarcher
 ordinalLBM,marcogenni
 ordinalNet,cran
-ordinalpattern,cran
+ordinalpattern,alexanderdurre
 ordinalRR,kjryan13
 OrdMonReg,numbersman77
 OrdNor,bernice0321
@@ -13586,7 +13589,7 @@ ox,gogonzo
 oxcAAR,isaakiel
 OxyBS,eahouseman
 oysteR,sonatype-nexus-community
-oz,cran
+oz,kurthornik
 ozmaps,mdsumner
 p3state.msm,cran
 pa,yl2
@@ -14378,6 +14381,7 @@ pleio,sinnweja
 pleiotest,feraguate
 pleLMA,carolynanderson
 plethy,bioc
+PLEXI,behnam-yousefi
 PLFD,paradoxical-rhapsody
 plfm,michelmeulders
 plfMA,cran
@@ -16261,7 +16265,7 @@ reinsureR,cran
 relaimpo,cran
 relatable,domjarkey
 Relatedness,fabienlaporte
-relations,cran
+relations,kurthornik
 reldist,handcock
 RelDists,ousuga
 Relectoral,miguelro
@@ -16704,8 +16708,8 @@ rjstat,ajschumacher
 rjtools,rjournal
 rjwsacruncher,aqlt
 rkafkajars,shrutigupta23
-RKEA,cran
-RKEAjars,cran
+RKEA,kurthornik
+RKEAjars,kurthornik
 RKEEL,i02momuj
 RKEELdata,i02momuj
 RKEELjars,i02momuj
@@ -17169,7 +17173,7 @@ rpms,cran
 rpnf,cran
 Rpoet,aschleg
 Rpolyhedra,ropensci
-Rpoppler,cran
+Rpoppler,kurthornik
 rportfolio,anuragagrawaal
 rpostgis,mablab
 RPostgres,r-dbi
@@ -17191,6 +17195,7 @@ rprintf,renkun-ken
 RprobitB,loelschlaeger
 RProbSup,cran
 Rprofet,tabrandenburger
+rprofile,cran
 rprojroot,r-lib
 rprojtree,miguel-conde
 RProtoBuf,eddelbuettel
@@ -17561,8 +17566,8 @@ rWCVP,matildabrown
 RWDataPlyr,bouldercodehub
 RweaveExtra,vigou3
 rwebstat,webstat-bdf
-RWeka,cran
-RWekajars,cran
+RWeka,kurthornik
+RWekajars,kurthornik
 rwfec,cran
 rwhatsapp,jbgruber
 Rwhois,bcable
@@ -18787,7 +18792,7 @@ skilljaR,chrisumphlett
 skimr,ropensci
 sklarsomega,drjphughesjr
 skm,gyang274
-skmeans,cran
+skmeans,kurthornik
 SKNN,cran
 skpr,tylermorganwall
 Sky,cran
@@ -18796,7 +18801,7 @@ skynet,ropensci
 skyscapeR,f-silva-archaeo
 slackr,mrkaye97
 slalom,bioc
-slam,cran
+slam,kurthornik
 slanter,tanaylab
 SlaPMEG,mitra-ep
 slasso,unina-sfere
@@ -20233,7 +20238,7 @@ taskscheduleR,bnosac
 tastypie,paolodalena
 tatest,yuande
 tatoo,statistikat
-tau,cran
+tau,kurthornik
 tauProcess,s07308
 TauStar,lucaweihs
 tauturri,jemus42
@@ -20411,7 +20416,7 @@ text2speech,jhudsl
 text2vec,dselivanov
 textab,setzler
 textBoxPlacement,barryzee
-textcat,cran
+textcat,kurthornik
 textclean,trinker
 textdata,emilhvitfeldt
 texteffect,cran
@@ -20714,7 +20719,7 @@ tm.plugin.europresse,r-forge
 tm.plugin.factiva,nalimilan
 tm.plugin.koRpus,undocumeantit
 tm.plugin.lexisnexis,nalimilan
-tm.plugin.mail,cran
+tm.plugin.mail,kurthornik
 tm1r,muhammedalionder
 tmap,r-tmap
 tmaptools,r-tmap
@@ -21058,7 +21063,7 @@ TSEind,joshlmiller1978
 tsensembler,vcerqueira
 tsentiment,hakkisabah
 TSEntropies,jiritomcala
-tseries,cran
+tseries,kurthornik
 tseriesChaos,antoniofabio
 tseriesEntropy,sgiannerini
 TSeriesMMA,vishakhpk
@@ -21278,7 +21283,7 @@ ungroup,mpascariu
 unheadr,luisdva
 uni.survival.tree,cran
 uniah,yunrochung
-Unicode,cran
+Unicode,kurthornik
 unifDAG,cran
 unifed,cran
 UnifiedDoseFinding,cran
@@ -21725,7 +21730,7 @@ vvtermtime,vusaverse
 vwline,pmur002
 VWPre,vincentporretta
 W2CWM2C,jomopo
-W3CMarkupValidator,cran
+W3CMarkupValidator,kurthornik
 W4MRUtils,lain-inrae
 WA,lmaowsic
 wacolors,corymccartan
@@ -21941,6 +21946,7 @@ winch,r-prof
 windAC,cran
 WindCurves,neerajdhanraj
 windex,kevinarbuckle
+windows.pls,egonzato
 windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
@@ -21977,7 +21983,7 @@ word2vec,bnosac
 wordcloud,ifellows
 wordcloud2,lchiffon
 wordler,davidasmith
-wordnet,cran
+wordnet,kurthornik
 WordOfMouth,cran
 wordpiece,macmillancontentscience
 wordpiece.data,macmillancontentscience
