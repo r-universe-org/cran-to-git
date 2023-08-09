@@ -1065,6 +1065,7 @@
   {
     "package": "zoo",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/zoo"
+    "url": "https://github.com/r-forge/zoo",
+    "subdir": "pkg/zoo"
   }
 ]

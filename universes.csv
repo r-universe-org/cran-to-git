@@ -845,6 +845,7 @@ ATNr,cran
 atom4R,eblondel
 atpolR,gsapijaszko
 ATR,thothorn
+atRisk,cran
 aTSA,cran
 atSNP,sunyoungshin
 attachment,thinkr-open
@@ -2103,6 +2104,7 @@ bvarsv,fk83
 bvartools,franzmohr
 BVARverse,nk027
 bvls,cran
+bvpa,biplab44
 bvpSolve,karlines
 BVSNLP,amirnikooie
 bwd,cran
@@ -2695,6 +2697,7 @@ CINdex,bioc
 CINE,musajajorge
 CINID,aursiber
 CINmetrics,vishaloza
+CINNA,minoo-asty
 cinterpolate,mrc-ide
 CIPerm,colbystatsvyrsch
 cipheR,guslipkin
@@ -3130,7 +3133,7 @@ combinIT,haghbinh
 CombinS,mlaib
 combiroc,ingmbioinfo
 combiter,kota7
-COMBO,kimhochstedler
+COMBO,kimberlywebb
 comclim,bblonder
 coMET,bioc
 cometExactTest,mdml
@@ -3590,7 +3593,6 @@ cpt,johanngb
 cptcity,ibarraespinosa
 CptNonPar,euanmcgonigle
 cpvSNP,bioc
-cqcr,evanodell
 cqn,bioc
 cqrReg,cran
 cquad,fravale
@@ -4220,6 +4222,7 @@ defineR,dbosak01
 deFit,cran
 deflateBR,meirelesff
 deflist,bbuchsbaum
+defm,gvegayon
 deforestable,otryakhin-dmitry
 DEFormats,aoles
 deformula,okamumu
@@ -8248,8 +8251,8 @@ Harvest.Tree,cran
 hash,drjphughesjr
 hashids,alshum
 hashr,markvanderloo
-Hassani.SACF,cran
-Hassani.Silva,cran
+Hassani.SACF,leilamarvian
+Hassani.Silva,leilamarvian
 hasseDiagram,kciomek
 haven,tidyverse
 hawkes,riadhzaatour
@@ -8430,7 +8433,6 @@ hiddenf,jasonaosborne
 HiddenMarkov,cran
 hidecan,plantandfoodresearch
 HiDimDA,cran
-hierarchicalDS,pconn
 hierarchicalSets,thomasp85
 hierBipartite,calvintchi
 hierfstat,jgx65
@@ -8997,7 +8999,7 @@ IMIFA,keefe-murphy
 IMIX,ziqiaow
 iml,christophm
 IMmailgun,cran
-IMMAN,bioc
+IMMAN,minoo-asty
 immcp,yuanlonghu
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
@@ -9827,6 +9829,7 @@ KONPsurv,matan-schles
 koRpus,undocumeantit
 koRpus.lang.en,undocumeantit
 kosel,cran
+kosis,seokhoonj
 KoulMde,jwboys26
 Kpart,egolinko
 KPC,zh2395
@@ -9958,6 +9961,7 @@ lassopv,lingfeiwang
 lassoshooting,tabenius
 LassoSIR,zhaozhg81
 latdiag,deweyme
+latenetwork,tkhdyanagi
 latentcor,mingzehuang
 latentFactoR,alexchristensen
 latentgraph,cran
@@ -11983,6 +11987,7 @@ MorphoTools2,marekslenker
 morse,cran
 mortAAR,cran
 MortalityGaps,mpascariu
+MortalityLaws,mpascariu
 MortalityTables,kainhofer
 MortCast,hanase
 mortyr,mikejohnpage
@@ -12247,7 +12252,6 @@ multiAssetOptions,mike4358
 MultiATSM,rubensmoura87
 MultiBaC,bioc
 MultiBD,msuchard
-multibiasmeta,mathurlabstanford
 multibiplotGUI,ananieto
 multiblock,khliland
 multibreakeR,loicym
@@ -12357,6 +12361,7 @@ multiwave,achardso
 multiway,cran
 MultiwayRegression,cran
 multiwayvcov,npgraham1
+multiWGCNA,bioc
 MultNonParam,kolassa-dev
 MultOrdRS,schaubert
 MultSurvTests,lukketotte
@@ -12987,6 +12992,7 @@ nparLD,cran
 nparMD,cran
 nparsurv,cran
 NPBayesImputeCat,cran
+npboottprm,mightymetrika
 npbr,cran
 NPCD,cran
 NPCirc,cran
@@ -14584,6 +14590,7 @@ pompp,guidoamoreira
 POMS,gavinmdouglas
 pooh,cjgeyer
 pool,rstudio
+poolABC,joao-mcarvalho
 PoolDilutionR,cran
 PooledCohort,bcjaeger
 PooledMeanGroup,cran
@@ -15628,6 +15635,7 @@ RankProd,bioc
 rankrate,pearce790
 RankResponse,cran
 RANKS,gvalentini58
+ranktreeEnsemble,transbioinfolab
 rankUncertainty,cran
 RANN,jefferislab
 rapbase,rapporteket
@@ -17035,6 +17043,7 @@ ROI.plugin.quadprog,r-forge
 ROI.plugin.scs,r-forge
 ROI.plugin.symphony,r-forge
 roistats,irisfee
+rolap,josesamos
 RolDE,elolab
 roll,jjf234
 rollbar,ankane
@@ -17597,6 +17606,7 @@ s20x,jmcurran
 s2dv,anchiho
 s2dverification,anchiho
 s2net,jlaria
+s3,geomarker-io
 s3.resourcer,obiba
 s3fs,dyfanjones
 S4Arrays,bioconductor
@@ -18327,7 +18337,7 @@ ShapePattern,cran
 shapeR,lisalibungan
 ShapeRotator,marta-vidalgarcia
 shapes,iandryden
-ShapeSelectForest,francisxl2019
+ShapeSelectForest,cran
 SHAPforxgboost,liuyanguu
 ShapleyOutlier,cran
 ShapleyValue,jingyiliang1009
@@ -19186,6 +19196,7 @@ SpatialPack,faosorios
 SpatialPOP,cran
 SpatialPosition,riatelab
 spatialprobit,stefanwilhelm
+SpatialRDD,axlehner
 spatialreg,r-spatial
 SpatialRegimes,fvidoli
 spatialRF,blasbenito
@@ -19863,6 +19874,7 @@ sudokuAlt,billvenables
 SuessR,cran
 sufficientForecasting,jingfu1224
 sugarbag,srkobakian
+suggests,owenjonesuob
 sugrrants,earowang
 SUITOR,wheelerb
 sumFREGAT,cran
