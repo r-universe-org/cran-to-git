@@ -368,7 +368,8 @@
   {
     "package": "gutenbergr",
     "maintainer": "Myfanwy Johnston <mrowlan1@gmail.com>",
-    "url": "https://github.com/ropensci/gutenbergr"
+    "url": "https://github.com/ropensci/gutenbergr",
+    "registry": "archived"
   },
   {
     "package": "handlr",
@@ -562,7 +563,7 @@
   },
   {
     "package": "osmextract",
-    "maintainer": "Andrea Gilardi <andrea.gilardi@unimib.it>",
+    "maintainer": "Andrea Gilardi <andrea.gilardi@polimi.it>",
     "url": "https://github.com/ropensci/osmextract"
   },
   {

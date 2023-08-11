@@ -6,6 +6,12 @@
     "subdir": "readHAC"
   },
   {
+    "package": "RTMB",
+    "maintainer": "Kasper Kristensen <kaskr@dtu.dk>",
+    "url": "https://github.com/kaskr/rtmb",
+    "subdir": "RTMB"
+  },
+  {
     "package": "TMB",
     "maintainer": "Kasper Kristensen <kaskr@dtu.dk>",
     "url": "https://github.com/kaskr/adcomp",
