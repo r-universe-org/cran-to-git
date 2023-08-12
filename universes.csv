@@ -1557,6 +1557,7 @@ binMto,cran
 BinNonNor,bernice0321
 BinNor,bernice0321
 binom,sdorairaj
+binomCI,cran
 binomialRF,cran
 binomialtrend,cran
 binomSamSize,mhoehle
@@ -2521,6 +2522,7 @@ cfma,zhaoyi1026
 cfmortality,aminadibi
 cforward,muschellij2
 cft,earthlab
+CFtime,pvanlaake
 cfTools,jasminezhoulab
 cg,cran
 cgaim,pierremasselot
@@ -2570,6 +2572,7 @@ Chaos01,nithador
 ChaosGame,cran
 charlatan,ropensci
 chartql,rmsyed
+chatAI4R,kumes
 chatgpt,jcrodriguez1989
 cheatsheet,bradlindblad
 checkarg,ivwalle
@@ -3146,7 +3149,7 @@ comFuncs,tucai
 ComICS,yaelsteu
 COMIX,shgrky
 commafree,t-kalinowski
-CommEcol,a-s-melo
+CommEcol,cran
 commentr,eribul
 CommKern,aljensen89
 common,dbosak01
@@ -4896,6 +4899,7 @@ droptest,chadr
 drord,benkeser
 drought,drought
 drpop,mqnjqrid
+DRquality,mthrun
 DRR,gdkrmr
 drtmle,benkeser
 DrugClust,cran
@@ -5193,6 +5197,7 @@ economiccomplexity,pachadotdev
 econullnetr,ivaughan
 ecopower,cran
 ecoreg,chjackson
+ecoregime,mspinillos
 ecorest,skmckay
 ecos,seokhoonj
 ecosim,peterreichert
@@ -6489,6 +6494,7 @@ flying,bmasinde
 FlyingR,bmasinde
 fma,robjhyndman
 FMAdist,cran
+FMAT,psychbruce
 fmbasics,imanuelcostigan
 FMC,jiyosunny
 FMCCSD,cran
@@ -8331,6 +8337,7 @@ HDTD,anestistouloumis
 HDTSA,linc2021
 HDtweedie,cran
 headliner,rjake
+HealthCal,cran
 healthcare.antitrust,mpanhans
 healthfinance,rrrlw
 healthyR,spsanderson
@@ -8547,6 +8554,7 @@ hnp,cran
 hoa,cran
 hoardeR,fischuu
 hoardr,ropensci
+HOasso,albertoarcagni
 hockeystick,cortinah
 HodgesTools,tyler-hansen
 holdem,rickucla
@@ -9159,6 +9167,7 @@ INSPIRE,cran
 instagramadsR,pablosanmar
 install.load,iembry
 installr,talgalili
+instantiate,wlandau
 instaR,pablobarbera
 insuranceData,cran
 insurancerating,mharinga
@@ -9442,7 +9451,7 @@ ISR,guangbaog
 ISRaD,cran
 ISS,cran
 istacr,cran
-iSTATS,lacidiaufg
+iSTATS,vitor-mendes-iq
 iSubGen,pboutros
 isva,aet21
 ISwR,pdalgd
@@ -12712,6 +12721,7 @@ network,cran
 networkABC,fbertran
 NetworkChange,jongheepark
 NetworkComparisonTest,cvborkulo
+NetworkComparr,cran
 networkD3,christophergandrud
 NetworkDistance,kisungyou
 networkDynamic,skyebend
@@ -13112,7 +13122,7 @@ o2plsda,guokai8
 oaColors,cran
 oai,ropensci
 OAIHarvester,kurthornik
-oaii,cran
+oaii,cezarykuran
 oaPlots,cran
 oaqc,cran
 Oarray,robinhankin
@@ -16246,6 +16256,7 @@ regport,shixiangwang
 regr.easy,cran
 regrap,cran
 regress,kbroman
+regressinator,capnrefsmmat
 RegressionFactory,asmahani
 regressoR,cran
 regrrr,rkzyang
@@ -16692,7 +16703,7 @@ rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
 rJava,s-u
-rjazz,kaalam
+rjazz,cran
 RJcluster,rshudde
 RJDBC,s-u
 RJDemetra,jdemetra
@@ -18211,7 +18222,7 @@ sentimentr,trinker
 SenTinMixt,cran
 sentometrics,sentometricsresearch
 sentopics,odelmarcelle
-sentryR,edusemensati
+sentryR,jcpsantiago
 SEofM,marsdu1989
 sEparaTe,cran
 separationplot,cran
@@ -18922,6 +18933,7 @@ smoothROCtime,cran
 smoothtail,numbersman77
 SmoothTensor,cran
 SmoothWin,hamed-ebi
+smoothy,cran
 smoots,dschulz13
 smosr,tshestakova
 smotefamily,reddertar
@@ -22171,7 +22183,7 @@ yaml,vubiostat
 yamlet,bergsmat
 yamlme,kamapu
 yamss,hansenlab
-YAPSA,bioc
+YAPSA,cola-recount2
 yardstick,tidymodels
 yarn,bioc
 yarr,fdavidcl
