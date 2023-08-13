@@ -559,7 +559,8 @@
   {
     "package": "osmdata",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
-    "url": "https://github.com/ropensci/osmdata"
+    "url": "https://github.com/ropensci/osmdata",
+    "registry": "archived"
   },
   {
     "package": "osmextract",

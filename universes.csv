@@ -1220,7 +1220,6 @@ BayesSampling,pedrosfig
 BayesSenMC,formidify
 BayesSpace,edward130603
 BayesSpec,cran
-BayesSPsurv,nicolas-schmidt
 BayesSUR,zhizuio
 BayesSurvival,svdpas
 bayest,riko-k
@@ -3149,7 +3148,7 @@ comFuncs,tucai
 ComICS,yaelsteu
 COMIX,shgrky
 commafree,t-kalinowski
-CommEcol,cran
+CommEcol,a-s-melo
 commentr,eribul
 CommKern,aljensen89
 common,dbosak01
@@ -3976,6 +3975,7 @@ DarkDiv,carlosp-carmona
 darksky,hrbrmstr
 DART,bioc
 dartR,green-striped-gecko
+dartR.base,green-striped-gecko
 dartR.data,green-striped-gecko
 dashboardthemes,nik01010
 dashCoreComponents,rpkyle
@@ -4668,6 +4668,7 @@ diversitree,richfitz
 diversityForest,romanhornung
 DiversityOccupancy,derek-corcoran-barrios
 divest,jonclayden
+DivInsight,cran
 divo,mpiet11
 divraster,flaviomoc
 divseg,christopherkenny
@@ -5150,6 +5151,7 @@ ec50estimator,alvesks
 ecan,matutosi
 eCAR,gpage2990
 ecb,expersso
+ecce,chuxinyuan
 ECctmc,fintzij
 ecd,slihn
 Ecdat,sbgraves237
@@ -11779,6 +11781,7 @@ mlsbm,carter-allen
 MLSeq,bioc
 mlsjunkgen,scumdogsteev
 mlstrOpalr,maelstrom-research
+mlsurvlrnrs,kapsner
 mlt,r-forge
 mlt.docreg,r-forge
 mltest,cran
@@ -13862,6 +13865,7 @@ paws.management,dyfanjones
 paws.networking,dyfanjones
 paws.security.identity,dyfanjones
 paws.storage,dyfanjones
+pawscore,crtwomey
 paxtoolsr,biopax
 pbANOVA,sarahkatharine
 pbapply,psolymos
@@ -14723,6 +14727,7 @@ ppcor,cran
 ppcseq,stemangiola
 ppcSpatial,myaseen208
 ppdiag,owenward
+ppendemic,paulesantos
 PPforest,natydasilva
 ppgam,byoungman
 ppgmmga,luca-scr
@@ -16703,7 +16708,7 @@ rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
 rJava,s-u
-rjazz,cran
+rjazz,kaalam
 RJcluster,rshudde
 RJDBC,s-u
 RJDemetra,jdemetra
@@ -18177,6 +18182,7 @@ semlbci,sfcheung
 semmcci,jeksterslab
 semmcmc,maitya02
 semnar,ikosmidis
+SemNeT,alexchristensen
 SemNetCleaner,alexchristensen
 SemNetDictionaries,alexchristensen
 semnova,langenberg
@@ -18821,6 +18827,7 @@ SlaPMEG,mitra-ep
 slasso,unina-sfere
 SLBDD,cran
 SLCARE,qyxxx
+slcm,tmsalab
 sld,newystats
 SLDAssay,cran
 sleekts,arefinsheen
@@ -19627,6 +19634,7 @@ starma,fcheysson
 starnet,rauschenberger
 starry,joe-chelladurai
 stars,r-spatial
+starschemar,josesamos
 starsExtra,michaeldorman
 starsTileServer,bart1
 STARTdesign,haoluns
@@ -19795,6 +19803,7 @@ str2str,ddisab01
 StrainRanking,cran
 strand,strand-tech
 strandCheckR,uofabioinformaticshub
+stranslate,sigbertklinke
 strap,graemetlloyd
 strat,xiangzhou09
 strata.MaxCombo,yuwen-l
