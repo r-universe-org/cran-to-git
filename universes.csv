@@ -1834,6 +1834,7 @@ boinet,cran
 BOJ,cran
 bolasso,dmolitor
 bold,ropensci
+bolsec,cran
 Bolstad,jmcurran
 Bolstad2,jmcurran
 BoltzMM,andrewthomasjones
@@ -10191,6 +10192,7 @@ libr,dbosak01
 Libra,cran
 librarian,desiquintans
 librarysnapshot,petermeissner
+libstable4u,swihart
 LIC,guangbaog
 lidaRtRee,jmmonnet
 lidR,r-lidar
@@ -10582,6 +10584,7 @@ LSWPlib,cran
 LSX,koheiw
 ltable,cran
 LTASR,cran
+lterdatasampler,lter
 lterpalettefinder,lter
 ltm,drizopoulos
 ltmix,martinblostein
@@ -10626,6 +10629,7 @@ M2SMF,yinxy1992
 M2SMJF,yinxy1992
 M3C,crj32
 M3Drop,tallulandrews
+M3JF,cran
 m5,krzjoa
 m61r,pv71u98h1
 m6Aboost,zarnackgroup
@@ -12535,7 +12539,6 @@ naptanr,dipad-fran-bryden
 naptime,russellpierce
 nardl,zedtaha
 narray,mschubert
-naryn,tanaylab
 nasadata,eflores89
 nasapower,ropensci
 nasaweather,hadley
@@ -12681,7 +12684,7 @@ NetDA,lchen723
 netdiffuseR,usccana
 netDx,bioc
 NetExplorer,sebastiansosa
-NetFACS,avrincon
+NetFACS,netfacs
 netgen,jakobbossek
 netgsa,mikehellstern
 netgwas,pariya
@@ -13616,6 +13619,7 @@ PAC,hlowl2
 pack,joshuaulrich
 packageDiff,couthcommander
 packagefinder,jsugarelli
+packagepal,lddurbin
 packager,fvafrcu
 packageRank,lindbrook
 packagetrackr,cran
@@ -14311,6 +14315,7 @@ pipeFrame,wzthu
 pipeGS,njheyu
 pipeliner,alexioannides
 pipeR,renkun-ken
+piqp,predict-epfl
 pirate,cran
 piratings,larsvancutsem
 piRF,chancejohnstone
@@ -14662,6 +14667,7 @@ portfolio.optimization,rhochreiter
 PortfolioAnalytics,braverock
 portfolioBacktest,dppalomar
 PortfolioOptim,cran
+portn,ysd2004
 PortRisk,sourish-cmi
 portsort,a-dickerson
 portvine,emanuelsommer
@@ -16572,6 +16578,7 @@ rGroovy,thospfuller
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
+rgTest,cran
 rgtmx,rrmn
 rgudhi,lmjl-alea
 rgugik,kadyb
@@ -17692,6 +17699,7 @@ safetyGraphics,safetygraphics
 SafeVote,cthombor
 sagenhaft,bioc
 sageR,fbertran
+SAGM,cran
 SAGMM,andrewthomasjones
 sahpm,maitya02
 sAIC,cran
@@ -17899,7 +17907,6 @@ scFeatureFilter,bioc
 scFeatures,sydneybiox
 scGate,carmonalab
 SCGLR,scnext
-scGOclust,functional-genomics
 scGPS,imb-computational-genomics-lab
 scgwr,dmuraka
 schemr,stuart-morrison
@@ -17988,6 +17995,7 @@ ScreenClean,karlmzhang
 screenCounter,crisprverse
 ScreeNOT,eladromanov
 ScreenR,emanuelsoda
+screenshot,matutosi
 scRepertoire,bioc
 scribe,jmbarbone
 scrime,holgerschw
@@ -20590,6 +20598,7 @@ tidygeocoder,jessecambon
 tidygeoRSS,robertmyles
 tidygraph,thomasp85
 tidyHeatmap,stemangiola
+tidyhte,ddimmery
 tidyhydat,ropensci
 tidyjson,colearendt
 tidylda,tommyjones

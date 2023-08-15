@@ -2,7 +2,8 @@
   {
     "package": "radiant",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant"
+    "url": "https://github.com/radiant-rstats/radiant",
+    "registry": "archived"
   },
   {
     "package": "radiant.basics",
@@ -22,11 +23,13 @@
   {
     "package": "radiant.model",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.model"
+    "url": "https://github.com/radiant-rstats/radiant.model",
+    "registry": "archived"
   },
   {
     "package": "radiant.multivariate",
     "maintainer": "Vincent Nijs <radiant@rady.ucsd.edu>",
-    "url": "https://github.com/radiant-rstats/radiant.multivariate"
+    "url": "https://github.com/radiant-rstats/radiant.multivariate",
+    "registry": "archived"
   }
 ]
