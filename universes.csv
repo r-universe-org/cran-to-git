@@ -320,6 +320,7 @@ AID,osmandag
 aidar,cran
 aides,enochkang
 aif360,ssaishruthi
+aifeducation,fberding
 aihuman,sooahnshin
 aimPlot,ybkamaleri
 AIMS,bioc
@@ -610,6 +611,7 @@ aplpack,cran
 APML0,leesprite
 apng,cran
 apollo,cran
+Apollonius,stla
 appeears,bluegreen-labs
 APPEstimation,eisuke-inoue
 appleadsR,pablosanmar
@@ -1834,7 +1836,7 @@ boinet,cran
 BOJ,cran
 bolasso,dmolitor
 bold,ropensci
-bolsec,cran
+bolsec,alvaroitapia
 Bolstad,jmcurran
 Bolstad2,jmcurran
 BoltzMM,andrewthomasjones
@@ -2071,6 +2073,7 @@ buildr,netique
 BuildSys,pjumppanen
 bujar,cran
 bulkAnalyseR,core-bioinformatics
+bulkreadr,gbganalyst
 bulletcp,nategarton13
 bulletr,erichare
 bullishTrader,maheshpkumar
@@ -2095,6 +2098,7 @@ BUS,bioc
 BUScorrect,bioc
 busdater,mickmioduszewski
 BusinessDuration,gnaneshwar441
+businessPlanR,c3s
 BUSpaRse,bustools
 BUSseq,songfd2018
 butcher,tidymodels
@@ -3520,6 +3524,7 @@ covid19sf,ramikrispin
 covid19srilanka,thiyangtdata
 covid19swiss,covid19r
 covid19us,aedobbyn
+Covid19Wastewater,marlinrlee
 covidcast,capnrefsmmat
 COVIDIBGE,gabriel-assuncao
 CovidMutations,msq-123
@@ -3824,6 +3829,7 @@ CuratedAtlasQueryR,stemangiola
 cuRe,lassehjort
 CureDepCens,gabrielgrandemagne
 curephEM,cran
+cureplots,gbasulto
 curl,jeroen
 currencyapi,cran
 currentSurvival,cran
@@ -5114,7 +5120,7 @@ easyRNASeq,bioc
 easySdcTable,statisticsnorway
 easystats,easystats
 easySVG,ytdai
-easyVerification,cran
+easyVerification,jonasbhend
 eat,miriamesteve
 eatATA,beckerbenj
 eatDB,cran
@@ -5886,6 +5892,7 @@ expowo,dboslab
 expperm,cran
 ExpRep,cran
 ExpressionAtlas,bioc
+ExprNet,wenbinwu2001
 expSBM,riccardorastelli
 expsmooth,robjhyndman
 expss,gdemin
@@ -6792,7 +6799,6 @@ funkycells,jrvanderdoes
 funkyheatmap,funkyheatmap
 funLBM,cran
 funmediation,dziakj1
-funModeling,pablo14
 funneljoin,robinsones
 FunnelPlotR,nhs-r-community
 funnelR,mattkumar
@@ -9623,6 +9629,7 @@ JPEN,cran
 jpgrid,uchidamizuki
 jpmesh,uribo
 jpstat,uchidamizuki
+jqbr,hfshr
 JQL,anoce-cvae
 jqr,ropensci
 jquerylib,cpsievert
@@ -9727,6 +9734,7 @@ KenSyn,fbrun-acta
 kequate,cran
 keras,rstudio
 kerastuneR,eagerai
+kerDAA,cran
 KERE,cran
 kergp,roustant
 kerndwd,boxiang-wang
@@ -10299,6 +10307,7 @@ LIStest,cran
 listr,cran
 listviewer,timelyportfolio
 listWithDefaults,russellpierce
+lit,ajbass
 lite,paulnorthrop
 liteq,r-lib
 literanger,stephematician
@@ -12464,6 +12473,7 @@ mvQuad,weiserc
 MVQuickGraphs,douglaswhitaker
 MVR,jedazard
 mvrsquared,tommyjones
+mvs,cran
 mvShapiroTest,elizagestrada
 mvSLOUCH,cran
 MVT,faosorios
@@ -13667,6 +13677,7 @@ pairwise,jhhmuc
 pairwiseCI,cran
 pak,r-lib
 PakPC2017,myaseen208
+PakPC2023,myaseen208
 PakPMICS2014Ch,myaseen208
 PakPMICS2014HH,myaseen208
 PakPMICS2014HL,myaseen208
@@ -14016,6 +14027,7 @@ pedbuildr,magnusdv
 pedgene,sinnweja
 pedigree,albartcoster
 pedigreemm,r-forge
+pedigreeTools,rpedigree
 pedmod,boennecd
 pedmut,magnusdv
 pedometrics,laboratorio-de-pedometria
@@ -14130,6 +14142,7 @@ pfamAnalyzeR,kvittingseerup
 pfica,m-vidal
 PFIM,iame-researchcenter
 PFP,aib-group
+pfr,trb5me
 pg,tmsalab
 pgam,wjunger
 pgca,gcohenfr
@@ -16407,6 +16420,7 @@ ResidualMatrix,ltla
 resilience,rvaradhan
 ResIN,pwarncke77
 ResistorArray,robinhankin
+reslife,an-crawford
 reslr,maeveupton
 RESOLVE,danro9685
 resourcer,obiba
@@ -17738,6 +17752,7 @@ samplingEstimates,emiliolopezescobar
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
+SAMprior,pengyang0411
 sampsizeval,mpavlou
 samr,tibshirani
 sams,dbdahl
@@ -19804,6 +19819,7 @@ STPGA,denizakdemir
 stplanr,ropensci
 stpm,cran
 stpp,cran
+stpphawkes,jdtuck
 stppSim,manalytics
 stR,dokal01
 str2str,ddisab01

@@ -6,8 +6,14 @@
   },
   {
     "package": "AlphaHull3D",
+    "maintainer": "St<c3><a9>phane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/alphahull3d",
+    "registry": "archived"
+  },
+  {
+    "package": "Apollonius",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/alphahull3d"
+    "url": "https://github.com/stla/apollonius"
   },
   {
     "package": "boodist",
@@ -31,8 +37,9 @@
   },
   {
     "package": "cgalMeshes",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/cgalmeshes"
+    "maintainer": "St<c3><a9>phane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/cgalmeshes",
+    "registry": "archived"
   },
   {
     "package": "cgalPolygons",
@@ -66,8 +73,9 @@
   },
   {
     "package": "delaunay",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/delaunay"
+    "maintainer": "St<c3><a9>phane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/delaunay",
+    "registry": "archived"
   },
   {
     "package": "EigenR",
