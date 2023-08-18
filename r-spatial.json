@@ -60,6 +60,11 @@
     "url": "https://github.com/r-spatial/plainview"
   },
   {
+    "package": "qgisprocess",
+    "maintainer": "Floris Vanderhaeghe <floris.vanderhaeghe@inbo.be>",
+    "url": "https://github.com/r-spatial/qgisprocess"
+  },
+  {
     "package": "rgee",
     "maintainer": "Cesar Aybar <csaybar@gmail.com>",
     "url": "https://github.com/r-spatial/rgee"

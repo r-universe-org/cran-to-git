@@ -876,6 +876,12 @@
     "subdir": "pkg/Sleuth3"
   },
   {
+    "package": "smacofx",
+    "maintainer": "Thomas Rusch <thomas.rusch@wu.ac.at>",
+    "url": "https://github.com/r-forge/stops",
+    "subdir": "pkg/smacofx"
+  },
+  {
     "package": "softclassval",
     "maintainer": "C. Beleites <claudia.beleites@chemometrix.eu>",
     "url": "https://github.com/r-forge/softclassval",
