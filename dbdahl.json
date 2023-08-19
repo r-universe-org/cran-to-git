@@ -1,15 +1,5 @@
 [
   {
-    "package": "aibd",
-    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
-    "url": "https://github.com/cran/aibd"
-  },
-  {
-    "package": "bamboo",
-    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
-    "url": "https://github.com/cran/bamboo"
-  },
-  {
     "package": "cargo",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/cargo-framework",
@@ -33,11 +23,6 @@
     "subdir": "fangs"
   },
   {
-    "package": "rscala",
-    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
-    "url": "https://github.com/cran/rscala"
-  },
-  {
     "package": "salso",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/salso",
@@ -47,10 +32,5 @@
     "package": "sams",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/cran/sams"
-  },
-  {
-    "package": "shallot",
-    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
-    "url": "https://github.com/cran/shallot"
   }
 ]

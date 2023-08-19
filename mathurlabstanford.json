@@ -1,8 +1,13 @@
 [
   {
     "package": "metabias",
-    "maintainer": "Mika Braginsky <mika.br@gmail.com>",
+    "maintainer": "Peter Solymos <peter@analythium.io>",
     "url": "https://github.com/mathurlabstanford/metabias"
+  },
+  {
+    "package": "multibiasmeta",
+    "maintainer": "Peter Solymos <peter@analythium.io>",
+    "url": "https://github.com/mathurlabstanford/multibiasmeta"
   },
   {
     "package": "phacking",
@@ -11,7 +16,7 @@
   },
   {
     "package": "PublicationBias",
-    "maintainer": "Mika Braginsky <mika.br@gmail.com>",
+    "maintainer": "Peter Solymos <peter@analythium.io>",
     "url": "https://github.com/mathurlabstanford/publicationbias"
   }
 ]

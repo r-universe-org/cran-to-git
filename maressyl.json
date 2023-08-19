@@ -1,5 +1,11 @@
 [
   {
+    "package": "FSAtools",
+    "maintainer": "Sylvain Mareschal <mareschal@ovsa.fr>",
+    "url": "https://github.com/maressyl/r.fsatools",
+    "subdir": "FSAtools"
+  },
+  {
     "package": "LPS",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.lps",
@@ -10,5 +16,11 @@
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.odb",
     "subdir": "ODB"
+  },
+  {
+    "package": "Rgb",
+    "maintainer": "Sylvain Mareschal <mareschal@ovsa.fr>",
+    "url": "https://github.com/maressyl/r.rgb",
+    "subdir": "Rgb"
   }
 ]
