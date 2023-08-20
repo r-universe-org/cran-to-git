@@ -2,7 +2,8 @@
   {
     "package": "RKEEL",
     "maintainer": "Jose M. Moyano <jmoyano@uco.es>",
-    "url": "https://github.com/cran/RKEEL"
+    "url": "https://github.com/cran/RKEEL",
+    "registry": "archived"
   },
   {
     "package": "RKEELdata",
@@ -12,6 +13,7 @@
   {
     "package": "RKEELjars",
     "maintainer": "Jose M. Moyano <jmoyano@uco.es>",
-    "url": "https://github.com/cran/RKEELjars"
+    "url": "https://github.com/cran/RKEELjars",
+    "registry": "archived"
   }
 ]
