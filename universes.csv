@@ -259,6 +259,7 @@ AFR,afrkz
 africamonitor,sebkrantz
 aftgee,stc04003
 afthd,atanubhattacharjee
+aftR2,wangyuyao98
 afttest,woojungbae
 ag5Tools,agrdatasci
 AGD,stefvanbuuren
@@ -1875,6 +1876,7 @@ bootstrapFP,rhobis
 BootstrapQTL,sritchie73
 bootSVD,aaronjfisher
 bootUR,smeekes
+bootwar,mightymetrika
 BootWPTOS,cran
 Boptbd,cran
 bor,davidnsousa
@@ -4224,6 +4226,7 @@ deepNN,bentaylor1
 DeepPINCS,bioc
 deepredeff,ruthkr
 deepregression,druegamer
+deepRstudio,kumes
 deepSNV,bioc
 deeptime,willgearty
 deeptrafo,lucaskook
@@ -4772,7 +4775,7 @@ Dodge,ajrgodfrey
 dodgr,urbananalyst
 DoE.base,cran
 DoE.MIParray,cran
-DoE.wrapper,ugroempi
+DoE.wrapper,cran
 doebioresearch,popatraj
 DOEM,cran
 DoEstRare,cran
@@ -7221,6 +7224,7 @@ geoBayes,cran
 GeoBoxplot,liao-iu
 geobr,rafapereirabr
 geocacheR,alunhewinson
+geocausal,mmukaigawara
 geocmeans,jeremygelb
 geodaData,spatialanalysis
 geodata,rspatial
@@ -8588,6 +8592,7 @@ holdem,rickucla
 holiglm,cran
 holland,jhhmuc
 holodeck,aariq
+Holomics,molinlab
 homals,pmair78
 homeR,cran
 Homeric,quicklizard99
@@ -8715,7 +8720,7 @@ hurricaneexposure,geanders
 hutils,hughparsonage
 hutilscpp,hughparsonage
 huxtable,hughjonesd
-hwde,cran
+hwde,jhmaindonald
 HWEintrinsic,cran
 hwep,dcgerard
 hwig,robitalec
@@ -9340,7 +9345,7 @@ ipkg,chuxinyuan
 IPLGP,py-chung
 iplookupapi,cran
 iplots,s-u
-IPMbook,cran
+IPMbook,kenkellner
 ipmr,padrinodb
 IPO,rietho
 ipolygrowth,kivanvan
@@ -9810,6 +9815,7 @@ KingCountyHouses,cran
 KinMixLite,petergreen5678
 kinship2,mayoverse
 KinSwingR,bioc
+Kira,cran
 kirby21.base,muschellij2
 kirby21.fmri,muschellij2
 kirby21.t1,muschellij2
@@ -10611,6 +10617,7 @@ LSVAR,peiliangbai92
 LSWPlib,cran
 LSX,koheiw
 ltable,cran
+LTAR,kylecaudle
 LTASR,cran
 lterdatasampler,lter
 lterpalettefinder,lter
@@ -13425,7 +13432,7 @@ opera,dralliag
 operator.tools,decisionpatterns
 operators,romainfrancois
 opGMMassessment,cran
-OPI,turpinandrew
+OPI,cran
 opitools,manalytics
 oposSOM,bioc
 oppar,bioc
@@ -14152,6 +14159,7 @@ personr,flujoo
 perspectev,cran
 peRspective,favstats
 perturbR,kgates
+peruflorads43,paulesantos
 peruse,jacgoldsm
 pesel,psobczyk
 PesticideLoadIndicator,cran
@@ -14429,6 +14437,7 @@ plasma,r-forge
 PlasmaMutationDetector,cran
 PlasmaMutationDetector2,yrozen-biostm
 Plasmidprofiler,thezetner
+plasso,stefan-1997
 plater,ropensci
 platetools,swarchal
 PlatformDesign,cran
@@ -16231,6 +16240,7 @@ red,cran
 reda,wenjie2wang
 ReDaMoR,patzaw
 REdaS,maiermarco
+redbookperu,paulesantos
 redcapAPI,vubiostat
 REDCapCAST,agdamsbo
 REDCapDM,ubidi
@@ -16846,6 +16856,7 @@ RMariaDB,r-dbi
 RmarineHeatWaves,ajsmit
 RMark,jlaake
 rmarkdown,rstudio
+rmass2,soumyasahu
 RMassBank,bioc
 RMAT,ataqi23
 rmatio,stewid
@@ -17196,6 +17207,7 @@ routr,thomasp85
 roxut,bryanhanson
 roxygen2,r-lib
 roxygen2md,r-lib
+roxyglobals,anthonynorth
 roxytest,mikldk
 RPA,antagomir
 rPACI,dariorlual
@@ -17680,7 +17692,7 @@ RZigZag,cran
 rzmq,ropensci
 RZooRoH,tdruet
 s2,r-spatial
-s20x,jmcurran
+s20x,stats-uoa
 s2dv,anchiho
 s2dverification,anchiho
 s2net,jlaria
@@ -19884,6 +19896,7 @@ stray,pridiltal
 STREAK,cran
 stream,mhahsler
 streambugs,nschuwirth
+streamDAG,moondog1969
 streamDepletr,foundryspatial
 Streamer,bioc
 StreamMetabolism,ssefick
@@ -20278,6 +20291,7 @@ TADCompare,dozmorovlab
 TAF,ices-tools-prod
 TAG,llin716
 tagcloud,january3
+tagr,jsugarelli
 tagtools,animaltags
 TailClassifier,cran
 tailDepFun,cran
@@ -21009,6 +21023,7 @@ treecm,mbask
 treeDA,jfukuyama
 treedata.table,ropensci
 treedater,emvolz
+treeDbalance,sophiekersting
 TreeDep,garciadejalon
 TreeDiagram,teemteemwang
 treediff,cran
@@ -21110,7 +21125,7 @@ TruncatedNormal,lbelzile
 truncdist,cran
 TruncExpFam,ocbe-uio
 truncnorm,olafmersmann
-truncnormbayes,leonkt
+truncnormbayes,mayamathur
 truncreg,r-forge
 truncSP,cran
 trust,cjgeyer
