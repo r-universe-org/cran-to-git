@@ -71,7 +71,7 @@ ace2fastq,c5sire
 acebayes,amo105
 aceEditor,stla
 ACEP,agusnieto77
-acepack,spgarbet
+acepack,cran
 ACEsearch,podalv
 ACEsimFit,xuanyu-lyu
 ACEt,lhe17
@@ -273,6 +273,7 @@ aggregateBioVar,jasonratcliff
 AggregateR,cran
 aggregation,lynnyi
 aggTrees,riccardo-df
+aggutils,forecastingresearch
 AGHmatrix,rramadeu
 aghq,cran
 agilp,bioc
@@ -2748,7 +2749,7 @@ CJAMP,skonigor
 cjar,benrwoodard
 cjbart,tsrobinson
 CJIVE,rmurden
-cjoint,cran
+cjoint,astrezhnev
 ckanr,ropensci
 CKAT,wpihongzhang
 CKLRT,andrewhaoyu
@@ -3985,6 +3986,7 @@ dartR,green-striped-gecko
 dartR.base,green-striped-gecko
 dartR.data,green-striped-gecko
 dartR.spatial,green-striped-gecko
+dartRverse,green-striped-gecko
 dashboardthemes,nik01010
 dashCoreComponents,rpkyle
 dashHtmlComponents,rpkyle
@@ -7102,6 +7104,7 @@ gender,lmullen
 genderBR,meirelesff
 gendercoder,ropensci
 GenderInfer,cran
+genderstat,mashrur-ayon
 gendist,cran
 GENEAclassify,sweeters
 GENEAread,charlessweetland
@@ -7614,6 +7617,7 @@ GiNA,cran
 Gini,marsdu1989
 GiniDistance,cran
 GiniWegNeg,cran
+ginormal,smonto2
 GInSARCorW,subhadipdatta
 gIPFrm,annaklimovauw
 GIplot,cran
@@ -9381,7 +9385,7 @@ IRexamples,vinhdizzo
 irg,robitalec
 IRISFGM,bioc
 IrishDirectorates,riccardorastelli
-IRISMustangMetrics,cran
+IRISMustangMetrics,gillian-iris
 IRISSeismic,cran
 IRkernel,irkernel
 irlba,bwlewis
@@ -10089,6 +10093,7 @@ ldamatch,kylebgorman
 ldaPrototype,jonasrieger
 LDAShiny,javierdelahoz
 ldat,djvanderlaan
+LDATree,moran79
 LDATS,weecology
 ldatuning,nikita-moor
 LDAvis,cpsievert
@@ -13767,6 +13772,7 @@ PanelCount,cran
 panelhetero,tkhdyanagi
 PanelMatch,insongkim
 panelPomp,cran
+panelr,jacob-long
 panelsummary,michaeltopper1
 panelvar,datarob
 panelView,cran
@@ -13837,6 +13843,7 @@ partCNV,ziyili20
 partDSA,amolinaro
 partialised,uchidamizuki
 Partiallyoverlapping,cran
+PartialNetwork,ahoundetoungan
 particle.swarm.optimisation,brunettheo
 particles,thomasp85
 partition,uscbiostats
@@ -16269,7 +16276,7 @@ redR,coldfir3
 REDseq,bioc
 redux,richfitz
 REEMtree,cran
-ref.ICAR,ericamp
+ref.ICAR,cran
 RefBasedMI,ucl
 refdb,fkeck
 refer,cmann3
@@ -16474,6 +16481,7 @@ restez,ropensci
 restfulr,lawremi
 restfulSE,bioc
 restimizeapi,thospfuller
+RESTK,cran
 restoptr,dimitri-justeau
 RestoreNet,delcore-luca
 restorepoint,skranz
@@ -17631,7 +17639,6 @@ rvkstat,selesnow
 rvmethod,parkerholzer
 rvMF,seungwoo-stat
 Rvmmin,nashjc
-RVowpalWabbit,eddelbuettel
 RVS,bioc
 rwa,martinctc
 rwalkr,earowang
@@ -18198,7 +18205,7 @@ segregatr,magnusdv
 sehrnett,chainsawriot
 SEIRfansy,umich-biostatistics
 seismic,qingyuanzhao
-seismicRoll,cran
+seismicRoll,gillian-iris
 sejmRP,mi2-warsaw
 Sejong,haven-jeon
 SEL,bbnkmp
@@ -19614,6 +19621,7 @@ SSHAARP,cran
 Sshaped,ychen101
 sship,rapporteket
 ssifs,georgiosseitidis
+SSIMmap,hailyee-ha
 ssimparser,sthonnard
 ssize,bioc
 ssize.fdr,cran
@@ -21125,7 +21133,7 @@ TruncatedNormal,lbelzile
 truncdist,cran
 TruncExpFam,ocbe-uio
 truncnorm,olafmersmann
-truncnormbayes,mayamathur
+truncnormbayes,mathurlabstanford
 truncreg,r-forge
 truncSP,cran
 trust,cjgeyer
