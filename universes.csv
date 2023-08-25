@@ -729,6 +729,7 @@ arthistory,saralemus7
 artMS,biodavidjm
 ARTofR,hzhang-ouce
 ARTool,mjskay
+artpack,meghansaha
 aRtsy,koenderks
 arules,mhahsler
 arulesCBA,mhahsler
@@ -771,7 +772,7 @@ aspline,goepp
 aSPU,ikwak2
 asremlPlus,briencj
 ASRgenomics,sgezan
-ASSA,mmbbcarvalho
+ASSA,extremestats
 assert,olivierbinette
 assertable,gnguy
 assertions,selkamand
@@ -818,6 +819,7 @@ astrodatR,cran
 astroFns,cran
 astsa,dsstoffer
 ASURAT,bioc
+asus,trambakbanerjee
 ASV,omori-yasuhiro
 AsyK,jahmadkhan
 asylum,humaniverse
@@ -2004,7 +2006,7 @@ brr,stla
 brranching,ropensci
 brsim,gianmarcoalberti
 bruceR,psychbruce
-BRugs,cran
+BRugs,uligges
 brulee,tidymodels
 Brundle,andrewholding
 brunnermunzel,toshi-ara
@@ -2020,6 +2022,7 @@ BSDA,alanarnholt
 bsearchtools,digemall
 BSgenome,bioconductor
 BSgenomeForge,bioconductor
+bsgof,appliedstat
 BSGW,asmahani
 bshazard,cran
 bsicons,rstudio
@@ -3009,6 +3012,7 @@ coala,statgenlmu
 coalescentMCMC,emmanuelparadis
 coalitions,adibender
 coarseDataTools,nickreich
+CoastlineFD,redworld123
 coat,cran
 cobalt,ngreifer
 cobiclust,julieaubert
@@ -3504,6 +3508,7 @@ Countr,geobosh
 countrycode,vincentarelbundock
 CountsEPPM,cran
 countsimQC,csoneson
+countsplit,anna-neufeld
 countSTAR,bking124
 countToFPKM,aalhendi1707
 countTransformers,zhang-zeyu
@@ -3530,7 +3535,7 @@ covid19sf,ramikrispin
 covid19srilanka,thiyangtdata
 covid19swiss,covid19r
 covid19us,aedobbyn
-Covid19Wastewater,marlinrlee
+Covid19Wastewater,uw-madison-dsi
 covidcast,capnrefsmmat
 COVIDIBGE,gabriel-assuncao
 CovidMutations,msq-123
@@ -4055,7 +4060,7 @@ dataspice,ropensci
 DatAssim,cran
 datastepr,bramtayl
 DatastreamDSWS2R,asrserver
-DATAstudio,mmbbcarvalho
+DATAstudio,extremestats
 dataverifyr,davzim
 dataverse,iqss
 dataversionr,cran
@@ -5937,7 +5942,7 @@ ExtremeRisks,simonepadoan
 extRemes,ericgilleland
 extremeStat,brry
 extremevalues,markvanderloo
-extremis,mmbbcarvalho
+extremis,extremestats
 extremogram,cran
 exuber,kvasilopoulos
 exvatools,enriquefeas
@@ -6261,7 +6266,7 @@ ffscrapr,ffverse
 ffsimulator,ffverse
 ffstream,cran
 FFTrees,ndphillips
-fftw,cran
+fftw,uligges
 fftwtools,krahim
 FGalgorithm,cran
 fGarch,r-forge
@@ -7255,7 +7260,6 @@ geogrid,jbaileyh
 geohashTools,michaelchirico
 geojson,ropensci
 geojsonio,ropensci
-geojsonlint,ropensci-archive
 geojsonR,mlampros
 geojsonsf,symbolixau
 geoknife,doi-usgs
@@ -7638,6 +7642,7 @@ gitcellar,ropensci
 gitcreds,r-lib
 gitdown,thinkr-open
 gitear,ixpantia
+gitgadget,vnijs
 gitGPT,stevecondylios
 githubinstall,hoxo-m
 gitignore,ropensci
@@ -8241,6 +8246,7 @@ h2o4gpu,navdeep-g
 h2otools,haghish
 H2x2Factorial,billytian
 h3jsr,obrl-soil
+h3lib,symbolixau
 h5vc,bioc
 haarfisz,cran
 habCluster,qiangxyz
@@ -9833,7 +9839,7 @@ kitagawa,abarbour
 kiwisR,rywhale
 kknn,klausvigo
 kko,cran
-klaR,cran
+klaR,uligges
 klassR,statisticsnorway
 klausuR,undocumeantit
 kldtools,ashipunov
@@ -9991,7 +9997,7 @@ landest,laylaparast
 Landmarking,isobelbarrott
 landmix,laylaparast
 landpred,laylaparast
-landsat,sarahgoslee-usda
+landsat,phiala
 landsat8,cran
 landscapemetrics,r-spatialecology
 landscapeR,dariomasante
@@ -10243,6 +10249,7 @@ lifecycle,r-lib
 LifeHist,ruben-hernan
 LifeInsuranceContracts,kainhofer
 lifelogr,lisaannyu
+LifemapR,aursiber
 lifeR,jcoliver
 LifeTables,cran
 lift,sghoorna
@@ -13048,7 +13055,7 @@ NormExpression,gaoshant
 NormPsy,cecileproust-lima
 NormqPCR,bioc
 normr,your-highness
-nortest,cran
+nortest,uligges
 nortestARMA,lafaye
 nortsTest,asael697
 nose,cran
@@ -14141,6 +14148,7 @@ periodicDNA,js2264
 peRiodiCS,crtahlin
 PeriodicTable,julienide
 periscope,cb4ds
+periscope2,aggregate-genius
 PERK,jkkishore85
 perm,cran
 PermAlgo,cran
@@ -14438,6 +14446,7 @@ planet,wvictor14
 PlanetNICFI,mlampros
 planets,aljrico
 planningML,vivid225
+planr,nguynic
 plantecophys,remkoduursma
 plantecowrap,jstinzi
 planttfhunter,almeidasilvaf
@@ -14884,6 +14893,7 @@ prepplot,ugroempi
 PreProcess,r-forge
 preprocessCore,bmbolstad
 PreProcessing,cran
+PreProcessRecordLinkage,leilamarvian
 PREPShiny,kartikeyabolar
 preputils,joseffrank
 prereg,crsh
@@ -15580,7 +15590,7 @@ R2SWF,yixuan
 r2symbols,oobianom
 R2ucare,oliviergimenez
 R2wd,cran
-R2WinBUGS,cran
+R2WinBUGS,uligges
 R3CPET,sirusb
 r3Cseq,supatt-lab
 r3dmol,swsoyee
@@ -17712,6 +17722,7 @@ s3fs,dyfanjones
 S4Arrays,bioconductor
 s4vd,mwsill
 S4Vectors,bioconductor
+S7,rconsortium
 saasCNV,zhangzhongyang16
 sabre,nowosad
 sac,cran
@@ -17931,7 +17942,7 @@ ScatterDensity,mthrun
 scatterHatch,fertiglab
 scattermore,exaexa
 scatterpie,guangchuangyu
-scatterplot3d,cran
+scatterplot3d,uligges
 scatterPlotMatrix,cran
 scBFA,bioc
 SCBiclust,cran
@@ -18638,7 +18649,7 @@ sigmoid,bquast
 SIGN,bhaibeka
 Signac,stuart-lab
 SignacX,mathewchamberlain
-signal,cran
+signal,uligges
 signalHsmm,michbur
 signatureSearch,girke-lab
 signatureSurvival,yuande
@@ -19361,7 +19372,7 @@ spduration,andybega
 spdynmod,javimarlop
 speakr,stefanocoretta
 speaq,beirnaert
-spearmanCI,mmbbcarvalho
+spearmanCI,extremestats
 spec,bergsmat
 SpecDetec,lguzai
 SpecHelpers,bryanhanson
@@ -20199,6 +20210,7 @@ SWMPrExtension,noaa-ocm
 SWTools,matt-s-gibbs
 sylcount,wrathematics
 syllabifyr,jofrhwld
+syllogi,cran
 sylly,undocumeantit
 sylly.en,undocumeantit
 sym.arma,cran
@@ -21258,7 +21270,7 @@ TULIP,yuqingxx
 tumgr,wilkersj
 tune,tidymodels
 TunePareto,hkestler
-tuneR,cran
+tuneR,uligges
 tuneRanger,philipppro
 tuple,statlaw
 turboEM,rvaradhan

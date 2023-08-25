@@ -1,5 +1,11 @@
 [
   {
+    "package": "bsgof",
+    "maintainer": "Chanseok Park <statpnu@gmail.com>",
+    "url": "https://github.com/appliedstat/r",
+    "subdir": "bsgof"
+  },
+  {
     "package": "rQCC",
     "maintainer": "Chanseok Park <statpnu@gmail.com>",
     "url": "https://github.com/appliedstat/r",
