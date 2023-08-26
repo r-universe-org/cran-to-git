@@ -1,5 +1,10 @@
 [
   {
+    "package": "chemometrics",
+    "maintainer": "Peter Filzmoser <Peter.Filzmoser@tuwien.ac.at>",
+    "url": "https://github.com/cran/chemometrics"
+  },
+  {
     "package": "rpls",
     "maintainer": "Peter Filzmoser <peter.filzmoser@tuwien.ac.at>",
     "url": "https://github.com/cran/rpls"

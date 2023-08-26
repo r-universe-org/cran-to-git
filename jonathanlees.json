@@ -17,7 +17,8 @@
   {
     "package": "geophys",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/geophys"
+    "url": "https://github.com/cran/geophys",
+    "registry": "archived"
   },
   {
     "package": "PEIP",
@@ -32,7 +33,8 @@
   {
     "package": "RFOC",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/RFOC"
+    "url": "https://github.com/cran/RFOC",
+    "registry": "archived"
   },
   {
     "package": "RPMG",
@@ -42,7 +44,8 @@
   {
     "package": "Rquake",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/Rquake"
+    "url": "https://github.com/cran/Rquake",
+    "registry": "archived"
   },
   {
     "package": "RSEIS",
@@ -52,7 +55,8 @@
   {
     "package": "RTOMO",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/RTOMO"
+    "url": "https://github.com/cran/RTOMO",
+    "registry": "archived"
   },
   {
     "package": "zoeppritz",

@@ -607,6 +607,7 @@ apisensr,dhaine
 APL,bioc
 aplore3,lbraglia
 aplot,yulab-smu
+aplotExtra,yulab-smu
 aplpack,cran
 APML0,leesprite
 apng,cran
@@ -1388,7 +1389,7 @@ bestridge,yufeng031
 bestSDP,leoly2017
 BET,wan-z
 betaBayes,cran
-BetaBit,betaandbit
+BetaBit,pbiecek
 betacal,tmfilho
 betaclust,koyelucd
 betaDelta,jeksterslab
@@ -2037,7 +2038,7 @@ bspec,christianroever
 bspline,mathscell
 bsplinePsd,mcthedwards
 bsplus,ijlyttle
-bspm,enchufa2
+bspm,cran4linux
 bspmma,cran
 bsreg,nk027
 BSS,cran
@@ -2605,7 +2606,7 @@ ChemmineOB,girke-lab
 ChemmineR,girke-lab
 chemmodlab,jrash
 chemodiv,hpetren
-chemometrics,petertuwien
+chemometrics,filzmoserp
 ChemoSpec,bryanhanson
 ChemoSpec2D,bryanhanson
 ChemoSpecUtils,bryanhanson
@@ -6342,6 +6343,7 @@ FindIT2,shangguandong1996
 findPackage,amarnathbose
 findpython,trevorld
 findR,zumbov2
+findSVI,heli-xu
 findviews,tsellam
 FinePop,cran
 FinePop2,cran
@@ -8237,6 +8239,7 @@ gwrpvr,mfjoneill
 gwrr,dcwheels
 GWSDAT,waynegitshell
 GWsignif,changjianggithub
+GxEprs,dovinij
 GxEScanR,jimb3
 gym,paulhendricks
 gyro,stla
@@ -9991,6 +9994,7 @@ lambda.r,cran
 lambdaTS,cran
 lambdr,mdneuzerling
 LambertW,gmgeorg
+lamle,cran
 lamme,qmmmmliu
 lamW,aadler
 landest,laylaparast
@@ -11552,6 +11556,7 @@ migration.indices,daroczig
 migui,cran
 miic,miicteam
 MIIPW,atanubhattacharjee
+MIIVefa,lluo0
 MIIVsem,zackfisher
 mikropml,schlosslab
 mildsvm,skent259
@@ -13042,7 +13047,7 @@ nord,jkaupp
 nordklimdata1,cran
 norgeo,helseprofil
 norm,john-d-fox
-norm2,josephlschafer
+norm2,cran
 NORMA,jesuspradaalonso
 NormalityAssessment,ccasement
 normalize450K,bioc
@@ -13052,6 +13057,7 @@ normalp,cran
 normalr,kcha193
 NormalyzerDE,computationalproteomics
 NormExpression,gaoshant
+normfluodbf,alphaprime7
 NormPsy,cecileproust-lima
 NormqPCR,bioc
 normr,your-highness
@@ -13149,6 +13155,7 @@ NST,cran
 nswgeo,cidm-ph
 nsyllable,quanteda
 ntdr,vgxhc
+ntsDists,dmazarei
 NTSS,jiri-dvorak
 NTW,bioc
 nucim,bioimaginggroup
@@ -14320,6 +14327,7 @@ phylopath,ax3man
 PhyloProfile,bionf
 phyloregion,darunabas
 phylosamp,hopkinsidd
+phylosem,james-thorson-noaa
 phyloseq,joey711
 phyloseqGraphTest,jfukuyama
 phylosignal,fkeck
@@ -15101,7 +15109,6 @@ PRP,artemiszhao
 prqlr,eitsupi
 prrd,eddelbuettel
 PRROC,jgraux
-PRSim,cran
 PRSPGx,cran
 pRSR,cran
 prt,nbenn
@@ -15739,7 +15746,6 @@ RANKS,gvalentini58
 ranktreeEnsemble,transbioinfolab
 rankUncertainty,cran
 RANN,jefferislab
-rapbase,rapporteket
 rapiclient,bergant
 RApiDatetime,eddelbuettel
 rapidjsonr,cran
@@ -16931,6 +16937,7 @@ rmoo,evolutionary-optimization-laboratory
 RMOPI,lingweir
 Rmosek,cran
 rMOST,diversity-paretooptimal
+rmp,cran
 Rmpfr,r-forge
 Rmpi,cran
 RMPSH,cran
@@ -17455,7 +17462,7 @@ RSpectra,yixuan
 rSpectral,cmclean5
 RSpincalc,cran
 rspiro,thlytras
-rspm,enchufa2
+rspm,cran4linux
 Rspotify,tiagomendesdantas
 rsppfp,melvidoni
 rsprite2,lukaswallrich
@@ -17548,6 +17555,7 @@ rtist,tomasokal
 rtk,cran
 rtkore,joblion
 RTL,risktoollib
+RTLknitr,foadesmaeili5
 rtlr,matanhakim
 rTLsDeep,carlos-alberto-silva
 RTMB,kaskr
@@ -21098,6 +21106,7 @@ TRexSelector,jasinmachkour
 Tri.Hierarchical.IBDs,cran
 triact,agrosimi
 TriadSim,cran
+TrialEmulation,causal-lda
 trialr,brockk
 TrialSize,wuqian77
 triangle,bertcarnell
