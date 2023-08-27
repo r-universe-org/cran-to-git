@@ -11,6 +11,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RegionalST",
+    "maintainer": "Ziyi Li <zli16@mdanderson.org>",
+    "url": "https://github.com/ziyili20/regionalst",
+    "registry": "bioc"
+  },
+  {
     "package": "TOAST",
     "maintainer": "Ziyi Li <zli16@mdanderson.org>",
     "url": "https://github.com/ziyili20/toast",

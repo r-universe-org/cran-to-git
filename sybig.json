@@ -1,5 +1,11 @@
 [
   {
+    "package": "pwOmics",
+    "maintainer": "Torsten Schoeps <torsten.schoeps@bioinf.med.uni-goettingen.de>",
+    "url": "https://git.bioconductor.org/packages/pwOmics",
+    "registry": "bioc"
+  },
+  {
     "package": "RPPanalyzer",
     "maintainer": "Torsten Schoeps <torsten.schoeps@bioinf.med.uni-goettingen.de>",
     "url": "https://github.com/cran/RPPanalyzer"

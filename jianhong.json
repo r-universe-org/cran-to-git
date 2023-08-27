@@ -47,6 +47,12 @@
     "registry": "bioc"
   },
   {
+    "package": "hicVennDiagram",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/hicvenndiagram",
+    "registry": "bioc"
+  },
+  {
     "package": "InPAS",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/inpas",
