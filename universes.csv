@@ -1573,7 +1573,7 @@ binseqtest,cran
 binsmooth,djhunter
 binspp,tomasmrkvicka
 binsreg,yingjieum
-binst,charliec443
+binst,chipmunk-pixel
 BINtools,satopaa
 bio.infer,cran
 bio3d,bioboot
@@ -4545,7 +4545,7 @@ digitTests,koenderks
 DIGSS,markhubbe
 DIME,olechnwin
 dimensio,tesselle
-dimensionalAnalysis,cran
+dimensionalAnalysis,vinothkumar194
 dimensionsR,massimoaria
 DImodels,cran
 DIMORA,avios97
@@ -9955,7 +9955,7 @@ l1spectral,cran
 l2boost,ehrlinger
 L2DensityGoFtest,cran
 L2E,jocelynchi
-L2hdchange,cran
+L2hdchange,rl1081
 LA,cran
 LabApplStat,bomarkussen
 labdsv,dvrbts
@@ -11071,7 +11071,7 @@ MChtest,cran
 MCI,cran
 MCID,cran
 MCL,rforaita
-mclcar,shazhe
+mclcar,cran
 mclm,masterclm
 mclogit,melff
 mclust,luca-scr
@@ -15675,7 +15675,7 @@ rakeR,philmikejones
 ralger,feddelegrand7
 RALSA,cran
 RamanMP,veronicanava
-Ramble,charliec443
+Ramble,chipmunk-pixel
 rAmCharts,datastorm-open
 rAmCharts4,stla
 ramchoice,xinweima
@@ -16028,7 +16028,6 @@ RcppDist,duckmayr
 RcppDL,cran
 RcppDynProg,winvector
 RcppEigen,rcppcore
-RcppEigenAD,cran
 RcppEnsmallen,coatless-rpkg
 RcppExamples,eddelbuettel
 RcppFarmHash,eddelbuettel
@@ -17819,7 +17818,7 @@ sampling,alinamateikondylis
 SamplingBigData,jlisic
 samplingbook,jmanitz
 samplingDataCRT,cran
-samplingEstimates,emiliolopezescobar
+samplingEstimates,cran
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
@@ -20990,7 +20989,7 @@ traineR,cran
 trainR,villegar
 traipse,trackage
 traits,ropensci
-TraitStats,niteshgpb
+TraitStats,cran
 traitstrap,plant-functional-trait-course
 traj,tchouangue
 TrajDataMining,inpetrajectories
@@ -22407,3 +22406,4 @@ ZVCV,leahprice
 ZygosityPredictor,bioc
 zyp,corviday
 zzlite,fkoh111
+,cran
