@@ -1,15 +1,5 @@
 [
   {
-    "package": "fitConic",
-    "maintainer": "Carl Witthoft <carl@witthoft.com>",
-    "url": "https://github.com/cran/fitConic"
-  },
-  {
-    "package": "FunWithNumbers",
-    "maintainer": "Carl Witthoft <carl@witthoft.com>",
-    "url": "https://github.com/cran/FunWithNumbers"
-  },
-  {
     "package": "go2bigq",
     "maintainer": "Carl Witthoft <carl@witthoft.com>",
     "url": "https://github.com/cran/go2bigq"
@@ -23,10 +13,5 @@
     "package": "Rfractran",
     "maintainer": "Carl Witthoft <carl@witthoft.com>",
     "url": "https://github.com/cran/Rfractran"
-  },
-  {
-    "package": "vecsets",
-    "maintainer": "Carl Witthoft <carl@witthoft.com>",
-    "url": "https://github.com/cran/vecsets"
   }
 ]

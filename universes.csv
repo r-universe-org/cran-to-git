@@ -121,6 +121,7 @@ ACV,stanek-fi
 ACWR,jorgedelro
 ada,mvculp
 adabag,esteban-alfaro
+adace,zhuangr
 ADaCGH2,rdiaz02
 adagio,hwborchers
 adaHuber,xiaooupan
@@ -222,7 +223,7 @@ AdvBinomApps,cran
 AdvDif4,jaderlugon
 adventr,profandyfield
 adverSCarial,bioc
-ADVICE,cran
+ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
 adwordsR,cran
@@ -592,7 +593,7 @@ apComplex,bioc
 APCtools,bauer-alex
 apdesign,cran
 ape,emmanuelparadis
-aPEAR,ievaker
+aPEAR,kerseviciute
 apeglm,bioc
 apercu,achateigner
 apex,thibautjombart
@@ -5244,6 +5245,7 @@ ecp,zwenyu
 ecpc,mirrelijn
 ecr,jakobbossek
 ectotemp,wouterbeukema
+ECTSVR,cran
 ECTTDNN,cran
 Ecume,hectorrdb
 ed50,mousieur-g
@@ -6073,6 +6075,7 @@ fastadi,rohelab
 fastAFT,cran
 fastai,eagerai
 FastBandChol,cran
+fastbeta,davidearn
 fastcluster,dmuellner
 fastcmh,cran
 fastcox,archer-yang-lab
@@ -6383,7 +6386,7 @@ fit.models,kjellpk
 fitbitr,mrkaye97
 fitbitScraper,corynissen
 fitbitViz,mlampros
-fitConic,cellocgw
+fitConic,cran
 fitdistrplus,aursiber
 FitDynMix,marco-bee
 fitHeavyTail,convexfi
@@ -6836,7 +6839,7 @@ funStatTest,gdurif
 FUNTA,cran
 funtimes,cran
 funtooNorm,bioc
-FunWithNumbers,cellocgw
+FunWithNumbers,cran
 furniture,tysonstanley
 furrr,davisvaughan
 fusedMGM,jaehyunparkbiostat
@@ -7233,7 +7236,7 @@ GenWin,timbeissinger
 GeoAdjust,cran
 geoAr,politicaargentina
 geoBayes,cran
-GeoBoxplot,liao-iu
+GeoBoxplot,cran
 geobr,rafapereirabr
 geocacheR,alunhewinson
 geocausal,mmukaigawara
@@ -7564,7 +7567,7 @@ ggstatsplot,indrajeetpatil
 ggstream,cran
 ggstudent,helske
 ggsurvey,balexanderstats
-ggsurvfit,ddsjoberg
+ggsurvfit,pharmaverse
 ggswissmaps,gibonet
 ggtea,ambitiousbellydancingsquirrel
 ggtern,cran
@@ -8233,6 +8236,7 @@ GWpcor,naru-t
 gwpcormapper,gwpcor
 GWPR.light,michaelchaoli-cpu
 gWQS,renzetti
+GWRLASSO,cran
 GWRM,svilchez
 gwrpvr,mfjoneill
 gwrr,dcwheels
@@ -8950,6 +8954,7 @@ idiogram,bioc
 idiogramFISH,fernandoroa
 idm,amarkos
 idmact,mncube
+idmc,ocha-dap
 IDmeasurer,cran
 IDmining,jeangolay
 idmodelr,seabbs
@@ -9999,6 +10004,7 @@ lamle,cran
 lamme,qmmmmliu
 lamW,aadler
 landest,laylaparast
+landform,gianmarcoalberti
 Landmarking,isobelbarrott
 landmix,laylaparast
 landpred,laylaparast
@@ -10358,7 +10364,7 @@ liteq,r-lib
 literanger,stephematician
 litRiddle,computationalstylistics
 litteR,cran
-litterfitter,cornwell-lab-unsw
+litterfitter,traitecoevo
 littler,eddelbuettel
 liureg,itfeature
 live,modeloriented
@@ -11071,7 +11077,7 @@ MChtest,cran
 MCI,cran
 MCID,cran
 MCL,rforaita
-mclcar,cran
+mclcar,shazhe
 mclm,masterclm
 mclogit,melff
 mclust,luca-scr
@@ -11592,7 +11598,6 @@ minimaxApprox,aadler
 minimaxdesign,simonmak
 miniMeta,thlytras
 MinimumDistance,bioc
-minioclient,cboettig
 Minirand,mj2149
 miniUI,jcheng5
 minMSE,sebastianoschneider
@@ -12154,6 +12159,7 @@ mratios,cran
 mrbayes,okezie94
 mrbin,kleinomicslab
 mrbsizeR,romanflury
+mRc,k-dettloff
 MRCE,cran
 mrct,cran
 mrds,distancedevelopment
@@ -12222,6 +12228,7 @@ msd,cbradl23
 msda,archer-yang-lab
 MsDataHub,rformassspectrometry
 msde,mlysy
+mseapca,hiroyukiyamamoto
 msentropy,yuanyueli
 MSEtool,blue-matter
 MsExperiment,rformassspectrometry
@@ -16028,6 +16035,7 @@ RcppDist,duckmayr
 RcppDL,cran
 RcppDynProg,winvector
 RcppEigen,rcppcore
+RcppEigenAD,cran
 RcppEnsmallen,coatless-rpkg
 RcppExamples,eddelbuettel
 RcppFarmHash,eddelbuettel
@@ -16748,7 +16756,7 @@ rintcal,maarten14c
 rIntervalTree,shuye2009
 rintimg,feddelegrand7
 rintrojs,carlganz
-rio,leeper
+rio,chainsawriot
 rioja,nsj3
 RIPAT,bioinfo16
 ripserr,rrrlw
@@ -16846,6 +16854,7 @@ rlfsm,otryakhin-dmitry
 rLFT,salbeke
 Rlgt,cbergmeir
 Rlibeemd,helske
+Rlibkdv,bojianzhu
 rlibkriging,yannrichet
 rLiDAR,carlos-alberto-silva
 rliger,welch-lab
@@ -17818,7 +17827,7 @@ sampling,alinamateikondylis
 SamplingBigData,jlisic
 samplingbook,jmanitz
 samplingDataCRT,cran
-samplingEstimates,cran
+samplingEstimates,emiliolopezescobar
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
@@ -17972,6 +17981,7 @@ sccr,cran
 SCCS,cran
 scCustomize,samuel-marsh
 scDataviz,kevinblighe
+SCDB,ssi-dk
 scDblFinder,plger
 scDD,kdkorthauer
 scDDboost,wiscstatman
@@ -18703,6 +18713,7 @@ SimCorrMix,afialkowski
 simcross,kbroman
 simctest,agandy
 SIMD,bioc
+simDAG,robindenz1
 simdd,cran
 SimDesign,philchalmers
 SimDissolution,kathrinmoellenhoff
@@ -19094,7 +19105,6 @@ SNPRelate,zhengxwen
 snpsettest,himesgroup
 snpStats,bioc
 sns,asmahani
-SNscan,taichi43
 SNSchart,luisbenavides
 SNSeg,cran
 SNSequate,jagonzalb
@@ -19444,7 +19454,7 @@ spherepc,jongminlee-stat
 sphereplot,asgr
 sphereTessellation,stla
 SphericalCubature,jpnolan
-SphericalK,liao-iu
+SphericalK,cran
 sphet,gpiras
 sphunif,egarpor
 SPIA,bioc
@@ -19950,6 +19960,7 @@ stringdist,markvanderloo
 stringfish,traversc
 stringformattr,cran
 stringi,gagolews
+stringmagic,lrberge
 stringr,tidyverse
 stringstatic,rossellhayes
 stringx,gagolews
@@ -20989,7 +21000,7 @@ traineR,cran
 trainR,villegar
 traipse,trackage
 traits,ropensci
-TraitStats,cran
+TraitStats,niteshgpb
 traitstrap,plant-functional-trait-course
 traj,tchouangue
 TrajDataMining,inpetrajectories
@@ -21655,7 +21666,7 @@ VDSM,cran
 VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
-vecsets,cellocgw
+vecsets,cran
 VecStatGraphs2D,cran
 VectorCodeR,cran
 vectorwavelet,toygur
@@ -22406,4 +22417,3 @@ ZVCV,leahprice
 ZygosityPredictor,bioc
 zyp,corviday
 zzlite,fkoh111
-,cran
