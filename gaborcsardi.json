@@ -1,5 +1,10 @@
 [
   {
+    "package": "cyclocomp",
+    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/gaborcsardi/cyclocomp"
+  },
+  {
     "package": "disposables",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/disposables"
@@ -46,6 +51,16 @@
     "url": "https://github.com/gaborcsardi/rcorpora"
   },
   {
+    "package": "rematch",
+    "maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/gaborcsardi/rematch"
+  },
+  {
+    "package": "rstack",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/gaborcsardi/rstack"
+  },
+  {
     "package": "sankey",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/sankey"
@@ -54,5 +69,10 @@
     "package": "secret",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/gaborcsardi/secret"
+  },
+  {
+    "package": "shinytoastr",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/gaborcsardi/shinytoastr"
   }
 ]

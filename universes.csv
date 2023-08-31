@@ -146,6 +146,7 @@ adaptsmoFMRI,cran
 adaptTest,marcvdmb
 AdaSampling,pyanglab
 adbcdrivermanager,paleolimbot
+adbcsqlite,paleolimbot
 adc,txwri
 ADCT,allenzhuaz
 add2ggplot,jiaxiangbu
@@ -3249,6 +3250,7 @@ concstats,ropensci
 CONCUR,sth1402
 cond,cran
 CondCopulas,alexisderumigny
+condensr,mikelydeamore
 condformat,zeehio
 condGEE,cran
 condiments,hectorrdb
@@ -3381,6 +3383,7 @@ CooRTweet,nicolarighetti
 copa,bioc
 copBasic,wasquith
 copCAR,drjphughesjr
+copcor,youyifong
 CopCTS,fuyuan-li
 cope,cran
 copent,majianthu
@@ -3900,7 +3903,7 @@ cyanoFilter,fomotis
 cycle,bioc
 cycleRtools,jmackie
 cyclestreets,cyclestreets
-cyclocomp,mangothecat
+cyclocomp,gaborcsardi
 cycloids,peterbiber
 cyclomort,eligurarie
 Cyclops,ohdsi
@@ -4443,6 +4446,7 @@ dfvad,shipei-zeng
 dga,olivierbinette
 dGAselID,cran
 DGCA,andymckenzie
+DGEAR,koushikbardhan2000
 DGEobj,cb4ds
 DGEobj.utils,cb4ds
 dggridR,r-barnes
@@ -7038,7 +7042,7 @@ gcite,muschellij2
 gcKrig,hanzifei
 gclm,gherardovarando
 gclus,cbhurley
-gcmr,cran
+gcmr,crisvarin
 gconsensus,cran
 gcookbook,wch
 GCPBayes,tbaghfalaki
@@ -7241,7 +7245,7 @@ GenWin,timbeissinger
 GeoAdjust,cran
 geoAr,politicaargentina
 geoBayes,cran
-GeoBoxplot,cran
+GeoBoxplot,liao-iu
 geobr,rafapereirabr
 geocacheR,alunhewinson
 geocausal,mmukaigawara
@@ -8710,7 +8714,7 @@ hts,earowang
 HTSCluster,andreamrau
 HTSeqGenie,bioc
 HTSFilter,bioc
-htsr,cran
+htsr,p-chevallier
 HTSSIP,seb369
 HTT,jiaqihu2021
 httk,usepa
@@ -9808,6 +9812,7 @@ keyATM,keyatm
 Keyboard,cran
 KeyboardSimulator,chihangchen
 keyholder,echasnovski
+keyperm,thmild
 keyplayer,ugeneliu
 keypress,gaborcsardi
 keyring,r-lib
@@ -9860,6 +9865,7 @@ kldtools,ashipunov
 klexdatr,poissonconsulting
 KLexp,zongrui-dai
 klic,acabassi
+KLINK,magnusdv
 klsh,cleanzr
 klustR,mckaymdavis
 km.ci,tverbeke
@@ -9983,7 +9989,7 @@ labsimplex,crparedes
 labstatR,cran
 labstats,stanlazic
 LACE,bimib-disco
-lacm,cran
+lacm,crisvarin
 lacrmr,ixpantia
 lactater,fmmattioni
 lactcurves,evastrucken
@@ -10168,7 +10174,7 @@ LearnBayes,bayesball
 LearnClust,robertoalcantara9
 LearnGeom,albrizre
 learningr,richierocks
-LearningRlab,cran
+LearningRlab,carloshellin
 LearningStats,maribelborrajo
 learningtower,kevinwang09
 learNN,bquast
@@ -11780,7 +11786,7 @@ mldr.datasets,fcharte
 mldr.resampling,madr0008
 MLDS,cran
 mle.tools,jmazucheli
-mlearning,phgrosjean
+mlearning,sciviews
 MLEce,lumiere1231
 MLEcens,cran
 mlegp,gdancik
@@ -14178,6 +14184,7 @@ permChacko,ocbe-uio
 permGS,mbrueckner
 permimp,ddebeer
 permPATH,cran
+perms,cran
 permubiome,alfbenpa
 permuco,jaromilfrossard
 PermutationR,ohabdalla1
@@ -15408,7 +15415,7 @@ qqvases,robstine
 QR,github-ms
 qra,jhmaindonald
 QRAGadget,paulgovan
-qrage,cran
+qrage,yamamototto
 QRank,cran
 qrcm,cran
 qrcmNP,gianluca-sottile
@@ -15622,6 +15629,7 @@ r3PG,trotsiuk
 R3port,richardhooijmaijers
 R453Plus1Toolbox,bioc
 R4CouchDB,wactbprot
+r4ds.tutorials,ppbds
 r4googleads,banboo-data
 r4lineups,colintredoux
 R4RNA,bioc
@@ -15737,7 +15745,7 @@ randRotation,phettegger
 randtests,f-caeiro
 randtoolbox,r-forge
 RandVar,r-forge
-rang,chainsawriot
+rang,gesis-tsa
 rangeBuilder,ptitle
 rangeMapper,mpio-be
 rangeModelMetadata,cmerow
@@ -16401,7 +16409,7 @@ rem,cran
 rema,bzabriskie
 remaCor,diseaseneurogenomics
 remap,jadonwagstaff
-rematch,mangothecat
+rematch,gaborcsardi
 rematch2,r-lib
 remedy,thinkr-open
 ReMFPCA,haghbinh
@@ -17498,7 +17506,7 @@ RSSOP,rarabzadeh
 RSStest,fikrigokpinar
 RSSthemes,nrennie
 rstac,brazil-data-cube
-rstack,mangothecat
+rstack,gaborcsardi
 rstackdeque,oneilsh
 rstan,cran
 rstanarm,stan-dev
@@ -18616,7 +18624,7 @@ shinythemes,rstudio
 shinyTime,burgerga
 shinytitle,ashbaldry
 shinyToastify,stla
-shinytoastr,mangothecat
+shinytoastr,gaborcsardi
 shinyTree,shinytree
 shinyvalidate,rstudio
 shinyWidgets,dreamrs
@@ -19464,7 +19472,7 @@ spherepc,jongminlee-stat
 sphereplot,asgr
 sphereTessellation,stla
 SphericalCubature,jpnolan
-SphericalK,cran
+SphericalK,liao-iu
 sphet,gpiras
 sphunif,egarpor
 SPIA,bioc
@@ -21507,6 +21515,7 @@ urlchecker,r-lib
 urlshorteneR,dmpe
 urltools,ironholds
 uroot,geobosh
+URooTab,sagirumati
 ursa,nplatonov
 us.census.geoheader,greg-minshall
 usa,kiernann

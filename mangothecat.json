@@ -10,11 +10,6 @@
     "url": "https://github.com/mangothecat/blcop"
   },
   {
-    "package": "cyclocomp",
-    "maintainer": "Gabor Csardi <gcsardi@mango-solutions.com>",
-    "url": "https://github.com/mangothecat/cyclocomp"
-  },
-  {
     "package": "goodpractice",
     "maintainer": "Karina Marks <karina.marks@ascent.io>",
     "url": "https://github.com/mangothecat/goodpractice"
@@ -30,30 +25,15 @@
     "url": "https://github.com/mangothecat/radarchart"
   },
   {
-    "package": "rematch",
-    "maintainer": "Gabor Csardi <gcsardi@mango-solutions.com>",
-    "url": "https://github.com/mangothecat/rematch"
-  },
-  {
     "package": "rmdshower",
     "maintainer": "Doug Ashton <dashton@mango-solutions.com>",
     "url": "https://github.com/mangothecat/rmdshower",
     "registry": "archived"
   },
   {
-    "package": "rstack",
-    "maintainer": "Gábor Csárdi <gcsardi@mango-solutions.com>",
-    "url": "https://github.com/mangothecat/rstack"
-  },
-  {
     "package": "sasMap",
     "maintainer": "Nic Crane <ncrane@mango-solutions.com>",
     "url": "https://github.com/mangothecat/sasmap"
-  },
-  {
-    "package": "shinytoastr",
-    "maintainer": "Gábor Csárdi <gcsardi@mango-solutions.com>",
-    "url": "https://github.com/mangothecat/shinytoastr"
   },
   {
     "package": "simplegraph",
