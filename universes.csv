@@ -1366,6 +1366,7 @@ belg,r-spatialecology
 bellreg,fndemarqui
 bench,r-lib
 benchdamic,mcalgaro93
+benchden,thmild
 Benchmarking,larsot23
 benchmarkme,csgillespie
 benchmarkmeData,csgillespie
@@ -1689,6 +1690,7 @@ bipartiteD3,jcdterry
 BipartiteModularityMaximization,wzhang40
 bipd,mikejseo
 biplotbootGUI,ananieto
+biplotEZ,muvisu
 BiplotGUI,r-forge
 BiplotML,jgbabativam
 BiProbitPartial,cran
@@ -4468,6 +4470,7 @@ DHS.rates,cran
 dHSIC,cran
 di,cran
 diagis,helske
+diagL1,kevin444
 diagmeta,guido-s
 diagonals,bquast
 diagram,karlines
@@ -4926,6 +4929,7 @@ DriverNet,bioc
 droll,cran
 DRomics,aursiber
 DropletUtils,bioc
+dropout,hendr1km
 droptest,chadr
 drord,benkeser
 drought,drought
@@ -6440,7 +6444,6 @@ flare,mlcoding
 flashCard,jienagu
 flashClust,plangfelder
 flashlight,mayer79
-flashlighttext,athospd
 flashr,jeffreyrstevens
 flatr,evilgraham
 flattabler,josesamos
@@ -6965,7 +6968,6 @@ gamreg,takayukikawashima
 gamRR,marsdu1989
 gamsel,trevorhastie
 gamselBayes,mattwand
-ganalytics,jdeboer
 ganDataModel,cran
 ganGenerativeData,cran
 GANPA,celreg
@@ -12957,7 +12959,7 @@ nlrr,zhanyq
 nlrx,ropensci
 nls.multstart,padpadpadpad
 nls2,ggrothendieck
-nlsem,cran
+nlsem,nwickel
 nlshelper,remkoduursma
 nlshrink,pratik-r
 nlsic,mathscell
@@ -15793,7 +15795,7 @@ RAQSAPI,usepa
 Raquifer,susaenergy
 rare,yanxht
 RareComb,vijaymp38
-Rarefy,cran
+Rarefy,elith95
 rareNMtests,luiscayuela
 RAREsim,meganmichelle
 RareVariantVis,bioc
@@ -18791,7 +18793,7 @@ simpleboot,rdpeng
 simpleCache,databio
 simplecolors,rjake
 simpleFDR,cran
-simplegraph,mangothecat
+simplegraph,gaborcsardi
 simplegraphdb,mikeasilva
 simpleMH,bisaloo
 simpleMLP,cullenpu
@@ -20598,6 +20600,7 @@ textstem,trinker
 textTinyR,mlampros
 textTools,tconwell
 textutils,enricoschumann
+TFactSR,afukushima
 tfaddons,eagerai
 tfarima,gallegoj
 TFARM,bioc
@@ -21187,6 +21190,7 @@ truelies,hughjonesd
 TrueSkillThroughTime,glandfried
 truh,natesmith07
 TrumpetPlots,cran
+truncAIPW,wangyuyao98
 TruncatedNormal,lbelzile
 truncdist,cran
 TruncExpFam,ocbe-uio
@@ -21770,6 +21774,7 @@ vioplot,tomkellygenetics
 vip,koalaverse
 viper,bioc
 vipor,cran
+viralmodels,cran
 VIRF,ranjitstat
 viridis,sjmgarnier
 viridisLite,sjmgarnier
@@ -22065,7 +22070,6 @@ WGCNA,plangfelder
 wgeesel,cran
 WGScan,cran
 WgtEff,joshlmiller1978
-WH,guillaumebiessy
 WhatIf,iqss
 WhatsR,cran
 wheatmap,zwdzwd
