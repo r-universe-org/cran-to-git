@@ -3515,6 +3515,7 @@ countHMM,timoadam
 countland,shchurch
 countprop,kevinmcgregor
 Countr,geobosh
+countries,fbellelli
 countrycode,vincentarelbundock
 CountsEPPM,cran
 countsimQC,csoneson
@@ -9351,6 +9352,7 @@ iosmooth,cran
 iotables,ropengov
 iotarelr,fberding
 iotools,s-u
+IP,tsoubiran
 ip2location,ip2location
 ip2proxy,ip2location
 ipa,rossellhayes
@@ -9634,7 +9636,6 @@ jjb,coatless-rpkg
 jlctree,cran
 jlmerclusterperm,yjunechoe
 JLPM,vivianephilipps
-jlsm,selenashuowang
 JM,drizopoulos
 jmatrix,jdmde
 JMbayes,drizopoulos
@@ -10189,7 +10190,7 @@ ledger,trevorld
 LedPred,aitgon
 leem,bendeivide
 leerSIECyL,cran
-lefko3,cran
+lefko3,dormancy1
 lefser,waldronlab
 legion,config-i1
 legislatoR,saschagobel
@@ -10686,7 +10687,6 @@ luz,mlverse
 luzlogr,bpbond
 lvec,djvanderlaan
 LVGP,siyutao2020
-lvm4net,igollini
 lvmcomp,slzhang-fd
 lvmisc,verasls
 lvnet,cran
@@ -12810,7 +12810,7 @@ NetWeaver,mw201608
 network,cran
 networkABC,fbertran
 NetworkChange,jongheepark
-NetworkComparisonTest,cvborkulo
+NetworkComparisonTest,vandenman
 NetworkComparr,cran
 networkD3,christophergandrud
 NetworkDistance,kisungyou
@@ -15067,6 +15067,7 @@ pRolocGUI,lgatto
 prome,cran
 PROMETHEE,fvidoli
 promethee123,miguellellis
+PrometheeTools,ifelipebj
 PROMISE,stan-pounds
 promises,rstudio
 promor,caranathunge
@@ -18394,6 +18395,7 @@ seqsetvis,bioc
 SeqSQC,liubuntu
 seqtest,cran
 seqTools,bioc
+seqtrie,traversc
 sequences,lgatto
 SequenceSpikeSlab,tverven
 Sequential,cran
@@ -21774,7 +21776,7 @@ vioplot,tomkellygenetics
 vip,koalaverse
 viper,bioc
 vipor,cran
-viralmodels,cran
+viralmodels,juanv66x
 VIRF,ranjitstat
 viridis,sjmgarnier
 viridisLite,sjmgarnier
@@ -22012,6 +22014,7 @@ webexercises,psyteachr
 webfakes,r-lib
 WebGestaltR,bzhanglab
 webglobe,r-barnes
+webmap,jfisher-usgs
 webmockr,ropensci
 webmorphR,debruine
 webp,jeroen
