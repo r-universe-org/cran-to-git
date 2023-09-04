@@ -1439,6 +1439,7 @@ BGmisc,cran
 BGmix,bioc
 bgmm,pbiecek
 bgms,maartenmarsman
+BGPhazard,eami91
 bgsmtr,v2south
 bgumbel,pcbrom
 BGVAR,mboeck11
@@ -8686,7 +8687,6 @@ HSAUR,thothorn
 HSAUR2,thothorn
 HSAUR3,thothorn
 hscovar,wittenburg
-hsdar,lwlr
 HSDiC,cran
 hSDM,ghislainv
 hse,rolfturner
@@ -11480,7 +11480,7 @@ MGMM,zrmacc
 MGMS2,cran
 mgpStreamingSDK,nathcarr55
 mgsa,sba1
-MGSDA,irinagain
+MGSDA,cran
 mgss,splinesmoothing
 mgsub,bmewing
 mgwrsar,cran
@@ -12543,6 +12543,7 @@ mvord,cran
 mvoutlier,petertuwien
 mvp,robinhankin
 MVPBT,nomahi
+mvpd,swihart
 mvPot,r-fndv
 mvProbit,arne-henningsen
 mvQuad,weiserc
@@ -12843,6 +12844,7 @@ neuromplex,cran
 neuronorm,cran
 neuRosim,ktabelow
 neutralitytestr,marcjwilliams1
+nevada,astamm
 neverhpfilter,justinmshea
 Newdistns,cran
 newFocus,cran
@@ -15750,7 +15752,7 @@ randRotation,phettegger
 randtests,f-caeiro
 randtoolbox,r-forge
 RandVar,r-forge
-rang,gesis-tsa
+rang,gesistsa
 rangeBuilder,ptitle
 rangeMapper,mpio-be
 rangeModelMetadata,cmerow
@@ -16777,7 +16779,7 @@ rintcal,maarten14c
 rIntervalTree,shuye2009
 rintimg,feddelegrand7
 rintrojs,carlganz
-rio,chainsawriot
+rio,gesistsa
 rioja,nsj3
 RIPAT,bioinfo16
 ripserr,rrrlw
@@ -19910,7 +19912,6 @@ stochvol,gregorkastner
 stochvolTMB,jenswahl
 stockAnalyst,maheshpkumar
 StockDistFit,wagathu
-stockfish,curso-r
 stockR,cran
 stocks,vandomed
 stoichcalc,peterreichert
