@@ -844,6 +844,7 @@ ATACseqTFEA,jianhong
 ATAforecasting,alsabtay
 atakrig,maoguihu
 ATbounds,atbounds
+AteMeVs,lchen723
 atena,functionalgenomics
 atime,tdhock
 atlas,podalv
@@ -1455,7 +1456,7 @@ bhmbasket,cran
 BHMSMAfMRI,nilotpalsanyal
 bhpm,cran
 BHSBVAR,cran
-BHTSpack,cran
+BHTSpack,ishterev33
 BI,marcschwartz
 BiasCorrector,kapsner
 BiasedUrn,agnerf
@@ -1543,7 +1544,6 @@ BinaryEMVS,john-snyder
 BinaryEPPM,cran
 binaryGP,chihli
 binaryMM,chiaradg
-binaryTimeSeries,bilintoh
 binb,eddelbuettel
 BINCOR,jomopo
 binda,cran
@@ -1679,7 +1679,6 @@ biostat3,mclements
 Biostatistics,rjknell
 BioStatR,fbertran
 Biostrings,bioconductor
-biosurvey,claununez
 biotic,robbriers
 BioTIP,xyang2uchicago
 biotmle,nhejazi
@@ -2933,7 +2932,6 @@ clustifyr,rnabioco
 ClustImpute,o1iv3r
 clustMD,cran
 clustMixType,g-rho
-ClustMMDD,tousswil
 ClustOfVar,chavent
 ClusTorus,sungkyujung
 clustra,go-ski
@@ -6491,6 +6489,7 @@ flobr,poissonconsulting
 flock,ivannp
 flood,cran
 FloodFreqPlot,aahani-r
+FLOPART,tdhock
 flora,gustavobio
 FLORAL,vdblab
 flow,moodymudskipper
@@ -7321,7 +7320,6 @@ geotools,antoinelucas64
 geotopbricks,ecor
 geoTS,cran
 geouy,richdeto
-geoviz,neilcharles
 geovol,cran
 GeoWeightedModel,javierdelahoz
 geozoo,schloerke
@@ -7819,6 +7817,7 @@ gnlm,swihart
 gnm,hturner
 gnn,cran
 gnomonicM,ejosymart
+gnonadd,decodegenetics
 gnorm,maryclare
 gnrprod,cran
 GNRS,bmaitner
@@ -8002,6 +8001,7 @@ grates,reconverse
 gratia,gavinsimpson
 graticule,hypertidy
 gratis,ykang
+grattan,hughparsonage
 grattanInflators,hughparsonage
 gRaven,petergreen5678
 gravitas,sayani07
@@ -8076,6 +8076,7 @@ GroupBN,abecker-ml
 GroupComparisons,cran
 groupdata2,ludvigolsen
 groupedSurv,dcibioinformatics
+Grouphmap,cran
 groupICA,cran
 groupr,ngriffiths21
 groupRemMap,cran
@@ -8531,7 +8532,7 @@ highOrderPortfolios,dppalomar
 highr,yihui
 highriskzone,cran
 highs,fl0sch
-highSCREEN,cran
+highSCREEN,ishterev33
 hightR,yongwoo-eg-kim
 highTtest,sth1402
 higlasso,cran
@@ -10140,6 +10141,7 @@ lddmm,cran
 ldhmm,slihn
 LDLcalc,paplomatasp
 LDlinkR,cbiit
+LDM,yijuanhu
 LDNN,vasileioskarapoulios
 LDRTools,klauschn
 ldsep,dcgerard
@@ -10851,7 +10853,6 @@ mapiso,riatelab
 MAPITR,mturchin20
 mAPKL,bioc
 mapme.biodiversity,mapme-initiative
-mapmisc,cran
 mapping,serafinialessio
 mappings,benjaminrich
 mapplots,hgerritsen
@@ -12089,6 +12090,7 @@ morphomap,aprofico
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morse,cran
+mort,rosieluain
 mortAAR,cran
 MortalityGaps,mpascariu
 MortalityLaws,mpascariu
@@ -12835,7 +12837,7 @@ neuralnet,bips-hb
 NeuralNetTools,fawda123
 NeuralSens,jaipizgon
 neurobase,muschellij2
-neuroblastoma,cran
+neuroblastoma,tdhock
 neurocInstall,muschellij2
 NeuroDecodeR,emeyers
 neurohcp,muschellij2
@@ -13776,7 +13778,6 @@ pald,lucymcgowan
 paleobioDB,ropensci
 paleobuddy,brpetrucci
 paleomorph,timcdlucas
-paleopop,globalecologylab
 paleotree,dwbapst
 paleoTS,cran
 paletteer,emilhvitfeldt
@@ -14189,7 +14190,7 @@ PERMANOVA,laura20vg
 permChacko,ocbe-uio
 permGS,mbrueckner
 permimp,ddebeer
-permPATH,cran
+permPATH,ishterev33
 perms,cran
 permubiome,alfbenpa
 permuco,jaromilfrossard
@@ -14628,7 +14629,6 @@ PoDBAY,vavrycuk-zz
 PoDCall,bioc
 podcleaner,cran
 podkat,ubod
-poems,globalecologylab
 POET,zhelcheva
 pogit,cran
 pogos,vjcitn
@@ -15658,6 +15658,7 @@ racademyocean,selesnow
 RaceID,dgrun
 raceland,nowosad
 racir,jstinzi
+Racmacs,acorg
 ractivecampaign,selesnow
 rADA,cran
 RADanalysis,saeedghalati
@@ -16345,6 +16346,7 @@ refuge,evanodell
 refugees,populationstatistics
 refund,cran
 refund.shiny,refunders
+RegAssure,nrubiog
 regclass,profpetrie
 RegCombin,cran
 regDIF,wbelzak
@@ -18486,7 +18488,6 @@ sgsR,tgoodbody
 sgstar,yogasatria30
 sgt,cran
 shades,jonclayden
-shadow,michaeldorman
 shadowr,ricilandolt
 shadowtext,guangchuangyu
 shape,karlines
@@ -21649,6 +21650,7 @@ variosig,cran
 vaRiskScore,65382784943
 varitas,cran
 varjmcm,cran
+varoc,yunrochung
 varrank,cran
 VarRedOpt,onurboyar
 VarReg,kristyrobledo
@@ -22437,7 +22439,6 @@ zoolog,josempozo
 zoom,cbarbu
 zoomGroupStats,cran
 zoomr,chrisumphlett
-zoon,zoonproject
 ZRA,cran
 zscorer,nutriverse
 Zseq,kisungyou

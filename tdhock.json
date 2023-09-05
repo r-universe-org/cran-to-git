@@ -20,6 +20,11 @@
     "url": "https://github.com/tdhock/directlabels"
   },
   {
+    "package": "FLOPART",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/flopart"
+  },
+  {
     "package": "inlinedocs",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/inlinedocs"
@@ -38,6 +43,11 @@
     "package": "nc",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/nc"
+  },
+  {
+    "package": "neuroblastoma",
+    "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/neuroblastoma"
   },
   {
     "package": "PeakError",
