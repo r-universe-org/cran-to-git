@@ -2932,6 +2932,7 @@ clustifyr,rnabioco
 ClustImpute,o1iv3r
 clustMD,cran
 clustMixType,g-rho
+clustNet,fritzbayer
 ClustOfVar,chavent
 ClusTorus,sungkyujung
 clustra,go-ski
@@ -3555,7 +3556,6 @@ covidprobability,eebrown
 covidsymptom,csss-resultat
 covKCD,pdhoff
 covr,r-lib
-CovRegRF,calakus
 covRNA,bioc
 covRobust,hanase
 CovSel,cran
@@ -5287,6 +5287,7 @@ ediblecity,icra
 edina,tmsalab
 EDIRquery,bioc
 EDISON,cran
+editbl,openanalytics
 editData,cardiomoon
 editrules,data-cleaning
 EDIutils,ropensci
@@ -6607,6 +6608,7 @@ forecastML,nredell
 forecastSNSTS,tobiaskley
 ForecastTB,neerajdhanraj
 FoReco,danigiro
+ForeComp,mcmcs
 forecTheta,jafiorucci
 foreign,cran
 forensIT,marsicofl
@@ -6921,6 +6923,7 @@ gadget3,gadget-framework
 gafit,cran
 gaga,davidrusi
 GAGAs,cran
+GAGBLUP,cran
 gage,datapplab
 gaggle,bioc
 gaiah,eriqande
@@ -7068,6 +7071,7 @@ gde,smithsonian
 gDefrag,fmestre1
 gdi,theropod1
 gdiff,pmur002
+gdim,rohelab
 GDINA,wenchao-ma
 gdistance,agrdatasci
 gdm,fitzlab-al
@@ -8317,6 +8321,7 @@ harmonicmeanp,cran
 harmonizer,cran
 HarmonizR,bioc
 harmony,ilyakorsunsky
+harmonydata,omtarful
 harrietr,andersgs
 harrypotter,aljrico
 Harshlight,bioc
@@ -9498,7 +9503,7 @@ isokernel,zhuye88
 ISoLDE,bioc
 isomiRs,lpantano
 isoorbi,isoverse
-isopam,heterocephalus
+isopam,cran
 isopat,cran
 isopleuros,tesselle
 IsoplotR,pvermees
@@ -9725,6 +9730,7 @@ jtdm,giopogg
 jti,mlindsk
 jtools,jacob-long
 jubilee,slihn
+juicedown,kenjisato
 juicr,mjlajeunesse
 juicyjuice,rstudio
 Julia,msuzen
@@ -9900,6 +9906,7 @@ KNNShiny,kartikeyabolar
 kNNvs,eddie0118
 knnwtsim,mtrupiano1
 knockoff,msesia
+KnockoffHybrid,cran
 KnockoffScreen,cran
 KnockoffTrio,cran
 knotR,robinhankin
@@ -11043,7 +11050,7 @@ mbend,nilforooshan
 MBESS,yelleknek
 mbest,patperry
 MBHdesign,cran
-mbir,petersonkdon
+mbir,kdpeterson51
 mbkmeans,drisso
 mblm,luqqe
 MBmca,pcruniversum
@@ -11665,6 +11672,7 @@ miscset,setempler
 miscTools,arne-henningsen
 mise,cran
 miselect,cran
+misha,tanaylab
 mispitools,marsicofl
 mispr,cran
 misPRIME,cran
@@ -11798,7 +11806,7 @@ mlegp,gdancik
 mlergm,cran
 MLeval,crj32
 mlexperiments,kapsner
-mlf,petersonkdon
+mlf,kdpeterson51
 mlfit,mlfit
 mlflow,mateiz
 MLFS,jernejjevsenak
@@ -13415,6 +13423,7 @@ onmaRg,wiiison
 onnx,onnx
 onpoint,r-spatialecology
 onsr,kvasilopoulos
+onsvplot,pabsantos
 ontoFAST,sergeitarasov
 ontologics,luckinet
 ontologyIndex,daniel-jg
@@ -14261,6 +14270,7 @@ phantasus,ctlab
 PharmacoGx,bhklab
 pharmaRTF,atorus-research
 pharmaverse,pharmaverse
+pharmaversesdtm,pharmaverse
 pharmr,pharmpy
 phase,cran
 Phase123,cran
@@ -15026,6 +15036,7 @@ processx,r-lib
 procmaps,r-prof
 ProcMod,cran
 procoil,ubod
+procs,dbosak01
 proDA,const-ae
 ProDenICA,trevorhastie
 prodest,gabrielerovigatti
@@ -15595,6 +15606,7 @@ R2Addhaz,deniserava
 R2admb,bbolker
 R2BayesX,freezenik
 R2BEAT,barcaroli
+r2country,oobianom
 r2d2,arni-magnusson
 r2d3,rstudio
 r2dictionary,oobianom
@@ -16071,6 +16083,7 @@ RcppGSL,eddelbuettel
 RcppHMM,cran
 RcppHNSW,jlmelville
 RcppHungarian,jsilve24
+RcppInt64,eddelbuettel
 RcppJagger,shusei-e
 RcppMeCab,junhewk
 RcppML,zdebruine
@@ -16582,7 +16595,6 @@ rfars,s87jackson
 Rfast,rfastofficial
 Rfast2,rfastofficial
 Rfastp,bioc
-RFCCA,calakus
 RFclust,archakravarthy
 rfema,ropensci
 RfEmpImp,shangzhi-hong

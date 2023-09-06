@@ -190,6 +190,11 @@
     "url": "https://github.com/eddelbuettel/rcppgsl"
   },
   {
+    "package": "RcppInt64",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppint64"
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack"
