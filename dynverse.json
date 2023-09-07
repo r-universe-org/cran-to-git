@@ -15,12 +15,6 @@
     "url": "https://github.com/dynverse/dyndimred"
   },
   {
-    "package": "dynfeature",
-    "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
-    "url": "https://github.com/dynverse/dynfeature",
-    "registry": "archived"
-  },
-  {
     "package": "dyngen",
     "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
     "url": "https://github.com/dynverse/dyngen"
@@ -29,12 +23,6 @@
     "package": "dynparam",
     "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
     "url": "https://github.com/dynverse/dynparam"
-  },
-  {
-    "package": "dynplot",
-    "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
-    "url": "https://github.com/dynverse/dynplot",
-    "registry": "archived"
   },
   {
     "package": "dynutils",

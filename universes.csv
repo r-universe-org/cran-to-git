@@ -236,6 +236,7 @@ AeRobiology,oteros
 AeroSampleR,markhogue
 AF,cran
 afc,cran
+afcolours,ldavies99
 afdx,johnaponte
 afex,singmann
 AFFECT,meintraumus
@@ -2486,6 +2487,7 @@ censCov,cran
 censcyt,retogerber
 CensMFM,franciscoalencar
 censo2017,ropensci
+censobr,ipeagit
 censorcopula,cran
 censored,tidymodels
 censReg,r-forge
@@ -5024,7 +5026,7 @@ dual.spls,alsoukil
 dualtrees,s6sebusc
 duawranglr,btskinner
 dub,egnha
-duckdb,duckdb
+duckdb,hannes
 duckdbfs,cboettig
 duckduckr,dirkschumacher
 duckplyr,krlmlr
@@ -5083,7 +5085,6 @@ dynCorr,joeldubin
 dyndimred,dynverse
 DynDoc,bioc
 dynetNLAResistance,s1107967177
-dynfeature,dynverse
 DynForest,anthonydevaux
 dyngen,dynverse
 dynlm,zeileis
@@ -5091,7 +5092,6 @@ dynmix,kdrachal
 DynNom,cran
 dynpanel,zedtaha
 dynparam,dynverse
-dynplot,dynverse
 dynpred,hputter
 dynprog,mailund
 dynr,mhunter1
@@ -6062,7 +6062,7 @@ fanc,keihirose
 fANCOVA,cran
 fancycut,cran
 fangs,dbdahl
-fanovaGraph,cran
+fanovaGraph,sonjakuhnt
 fanplot,guyabel
 fansi,brodieg
 FAO56,aahani-r
@@ -9090,6 +9090,7 @@ IMMAN,minoo-asty
 immcp,yuanlonghu
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
+ImML,salvatoremangiafico
 immunarch,immunomind
 immuneSIM,greifflab
 ImmuneSpaceR,rglab
@@ -9503,7 +9504,7 @@ isokernel,zhuye88
 ISoLDE,bioc
 isomiRs,lpantano
 isoorbi,isoverse
-isopam,cran
+isopam,heterocephalus
 isopat,cran
 isopleuros,tesselle
 IsoplotR,pvermees
@@ -9923,6 +9924,7 @@ kokudosuuchi,yutannihilation
 komaletter,rnuske
 konfound,konfound-project
 KONPsurv,matan-schles
+konya,ozancanozdemir
 koRpus,undocumeantit
 koRpus.lang.en,undocumeantit
 kosel,cran
@@ -11896,6 +11898,7 @@ mmaqshiny,meenakshi-kushwaha
 mMARCH.AC,weiguonimh
 mmb,mrshoenel
 mmc,cran
+mmcards,mightymetrika
 mmcif,boennecd
 mmcm,nshi-stat
 mmconvert,rqtl
@@ -12151,6 +12154,7 @@ MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
 MPI,9pointeight
+mpindex,yng-me
 MPLikelihoodWB,hasinurkhan
 mplot,garthtarr
 MplusAutomation,michaelhallquist
@@ -14604,6 +14608,7 @@ pm3,cran
 PMA,bnaras
 PMAPscore,hanjunwei-lab
 pmc,cboettig
+pmcalibration,stephenrho
 pmclust,snoweye
 PMCMR,cran
 PMCMRplus,cran
@@ -15178,6 +15183,7 @@ pseval,sachsmc
 PSF,neerajdhanraj
 psfmi,mwheymans
 PSGD,anthonychristidis
+PSGoft,cran
 psgp,cran
 psica,osysoev
 psichomics,nuno-agostinho
@@ -16796,6 +16802,7 @@ rintrojs,carlganz
 rio,gesistsa
 rioja,nsj3
 RIPAT,bioinfo16
+ripc,caldwellst
 ripserr,rrrlw
 rirods,irods
 Rirt,xluo11
@@ -18503,7 +18510,7 @@ shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
 shape,karlines
-ShapeChange,xiyue2011
+ShapeChange,cran
 shapefiles,bstabler
 shapeNA,cran
 ShapePattern,cran
@@ -20120,7 +20127,7 @@ SuRF.vs,tjk23
 surface,tingram
 SurfaceTortoise,ymutua
 surfaltr,bioc
-Surrogate,wimvde001
+Surrogate,florianstijven
 SurrogateOutcome,laylaparast
 SurrogateRegression,zrmacc
 SurrogateRsq,xiaoruizhu
@@ -22126,6 +22133,7 @@ wikilake,jsta
 WikipediaR,cran
 wikipediatrend,petermeissner
 WikipediR,ironholds
+wikiprofiler,guangchuangyu
 wikitaxa,ropensci
 wikiTools,modesto-escobar
 wilcoxmed,dkzk96
