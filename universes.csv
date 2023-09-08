@@ -1332,6 +1332,7 @@ BE,cran
 bea.R,us-bea
 BEACH,danniyugithub
 beachmat,tatami-inc
+beachmat.hdf5,bioc
 beadarray,bioc
 beadarraySNP,bioc
 BeadDataPackR,bioc
@@ -2007,7 +2008,7 @@ broom.helpers,larmarange
 broom.mixed,bbolker
 brotli,jeroen
 BrownDog,cran
-BrowserViz,paul-shannon
+BrowserViz,gladkia
 brpop,rfsaldanha
 Brq,rahim69
 brr,stla
@@ -2256,6 +2257,7 @@ carData,r-forge
 cardelino,single-cell-genetics
 cardidates,r-forge
 Cardinal,bioc
+CardinalIO,kuwisdelu
 care,cran
 caRecall,wraysmith
 careless,ryentes
@@ -2934,7 +2936,7 @@ clustifyr,rnabioco
 ClustImpute,o1iv3r
 clustMD,cran
 clustMixType,g-rho
-clustNet,fritzbayer
+clustNet,cbg-ethz
 ClustOfVar,chavent
 ClusTorus,sungkyujung
 clustra,go-ski
@@ -3971,6 +3973,7 @@ dagwood,cran
 dail,igorlaltuf
 DAIME,niklashohmann
 daiquiri,ropensci
+daiR,hegghammer
 DAISIE,rsetienne
 DAISIEprep,joshwlambert
 DAKS,cran
@@ -9031,7 +9034,7 @@ igraphtosonia,cran
 igrf,bluegreen-labs
 iGSEA,luwt
 IGST,nitzzzzzzz
-igvR,paul-shannon
+igvR,gladkia
 ihclust,elincho
 iheatmapr,ropensci
 iheiddown,iheid-library
@@ -9460,6 +9463,7 @@ isdals,ekstroem
 iSDM,tarekhattab
 isdparser,ropensci-archive
 iSEE,isee
+iSEEde,isee
 iSEEhex,isee
 iSEEhub,isee
 iSEEindex,isee
@@ -9670,6 +9674,7 @@ joineRML,graemeleehickey
 joinet,rauschenberger
 joint.Cox,cran
 JointAI,nerler
+jointCalib,ncn-foreigners
 jointDiag,gouypailler
 jointMeanCov,mdhornstein
 JointModel,cran
@@ -9766,6 +9771,7 @@ karel,mpru
 Karen,delcore-luca
 KarsTS,marinasams
 karyoploteR,bernatgel
+karyotapR,joeymays
 katdetectr,erasmusmc-ccbc
 katex,ropensci
 kayadata,jonathan-g
@@ -10806,6 +10812,7 @@ malan,mikldk
 malani,mehrabgbari
 malariaAtlas,malaria-atlas-project
 malaytextr,zahiernasrudin
+maldipickr,clavellab
 MALDIquant,sgibb
 MALDIquantForeign,sgibb
 MALDIrppa,japal
@@ -10971,7 +10978,6 @@ mateable,stuartwagenius
 materialmodifier,tsuda16k
 mathjaxr,wviechtb
 mathml,mgondan
-mathpix,jonocarroll
 matlab,cran
 matlab2r,ocbe-uio
 matlabr,muschellij2
@@ -12845,6 +12851,7 @@ networktools,paytonjjones
 networktree,paytonjjones
 netZooR,netzoo
 NeuCA,bioc
+neuralGAM,inesortega
 neuralnet,bips-hb
 NeuralNetTools,fawda123
 NeuralSens,jaipizgon
@@ -14271,6 +14278,7 @@ phacking,mathurlabstanford
 PhageCocktail,cran
 phangorn,klausvigo
 phantasus,ctlab
+phantSEM,argeorgeson
 PharmacoGx,bhklab
 pharmaRTF,atorus-research
 pharmaverse,pharmaverse
@@ -16710,7 +16718,6 @@ rgsepd,bioc
 rgsp,myaseen208
 rgTest,cran
 rgtmx,rrmn
-rgudhi,lmjl-alea
 rgugik,kadyb
 rGV,cran
 rgw,abmantz
@@ -16802,7 +16809,7 @@ rintrojs,carlganz
 rio,gesistsa
 rioja,nsj3
 RIPAT,bioinfo16
-ripc,caldwellst
+ripc,ocha-dap
 ripserr,rrrlw
 rirods,irods
 Rirt,xluo11
@@ -17080,6 +17087,7 @@ roadoi,ropensci
 roads,landscitech
 roahd,astamm
 roar,vodkatad
+roastgsa,bioc
 ROAuth,pablobarbera
 RobAStBase,r-forge
 RobAStRDA,r-forge
@@ -18636,6 +18644,7 @@ shinyRatings,shahronak47
 shinyrecipes,albertoalmuinha
 shinyreforms,piotrbajger
 shinyRGL,trestletech
+shinySbm,jo-theo
 shinyscreenshot,daattali
 shinySearchbar,jes-n
 shinySelect,stla
@@ -20591,7 +20600,6 @@ TexExamRandomizer,alexrecuenco
 texmex,harrysouthworth
 texor,abhi-1u
 TExPosition,cran
-texPreview,yonicd
 texreg,leifeld
 text,oscarkjell
 text.alignment,digi-vub
@@ -21803,6 +21811,7 @@ vip,koalaverse
 viper,bioc
 vipor,cran
 viralmodels,juanv66x
+viralx,juanv66x
 VIRF,ranjitstat
 viridis,sjmgarnier
 viridisLite,sjmgarnier

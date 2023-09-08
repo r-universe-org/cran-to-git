@@ -1,5 +1,10 @@
 [
   {
+    "package": "jointCalib",
+    "maintainer": "Maciej Beręsewicz <maciej.beresewicz@ue.poznan.pl>",
+    "url": "https://github.com/ncn-foreigners/jointcalib"
+  },
+  {
     "package": "singleRcapture",
     "maintainer": "Piotr Chlebicki <piochl@st.amu.edu.pl>",
     "url": "https://github.com/ncn-foreigners/singlercapture"
