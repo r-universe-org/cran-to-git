@@ -1,5 +1,10 @@
 [
   {
+    "package": "cookiecutter",
+    "maintainer": "Felix Henninger <mailbox@felixhenninger.com>",
+    "url": "https://github.com/felixhenninger/cookiecutter"
+  },
+  {
     "package": "PCSinR",
     "maintainer": "Felix Henninger <mailbox@felixhenninger.com>",
     "url": "https://github.com/felixhenninger/pcsinr"
