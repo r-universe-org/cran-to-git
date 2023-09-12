@@ -3,5 +3,10 @@
     "package": "DySS",
     "maintainer": "Lu You <Lu.You@epi.usf.edu>",
     "url": "https://github.com/cran/DySS"
+  },
+  {
+    "package": "SurvivalClusteringTree",
+    "maintainer": "Lu You <lu.you@epi.usf.edu>",
+    "url": "https://github.com/luyouepiusf/survivalclusteringtree"
   }
 ]

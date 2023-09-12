@@ -2038,7 +2038,7 @@ bsicons,rstudio
 bSims,psolymos
 BSL,cran
 bslib,rstudio
-BsMD,ejbz
+BsMD,cran
 bsnsing,profyliu
 BSPADATA,cran
 BSPBSS,benwu233
@@ -4471,7 +4471,7 @@ dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
 dhis2r,amanyiraho
-dhlabR,cran
+dhlabR,dh-lab-nb
 DHS.rates,cran
 dHSIC,cran
 di,cran
@@ -5592,6 +5592,7 @@ Epi,bxc147
 epialleleR,bbcg
 epibasix,cran
 epicasting,cran
+epiCleanr,truenomad
 EpiCompare,neurogenomics
 epicontacts,reconhub
 EpiContactTrace,stewid
@@ -8088,7 +8089,7 @@ groupICA,cran
 groupr,ngriffiths21
 groupRemMap,cran
 GroupSeq,rpahl
-groupsubsetselection,yguo-wsu
+groupsubsetselection,cran
 GroupTest,cran
 groupTesting,cran
 groupwalk,freejstone
@@ -9649,6 +9650,7 @@ jlctree,cran
 jlmerclusterperm,yjunechoe
 JLPM,vivianephilipps
 JM,drizopoulos
+jmastats,uribo
 jmatrix,jdmde
 JMbayes,drizopoulos
 JMbayes2,drizopoulos
@@ -13117,6 +13119,7 @@ notebookutils,cran
 notifyme,epijim
 NovelDistns,mutuasam
 novelforestSG,hrlai
+novelqualcodes,desiquintans
 noweb,cran
 Nozzle.R1,parklab
 np,jeffreyracine
@@ -13273,7 +13276,7 @@ oce,dankelley
 oceanexplorer,martinschobben
 oceanic,cran
 oceanis,insee-psar-at
-oceanmap,cran
+oceanmap,rkbauer
 OceanView,karlines
 oceanwaves,millerlp
 oceCens,cran
@@ -14773,7 +14776,7 @@ popPCR,zeroh729
 poppr,grunwaldlab
 popPyramid,musajajorge
 popReconstruct,cran
-popsom,lutzhamel
+popsom,cran
 popstudy,cran
 poptrend,jknape
 population,gchapron
@@ -15821,6 +15824,7 @@ rappsflyer,selesnow
 rapsimng,byzheng
 RAPTOR,the-hull
 raptr,jeffreyhanson
+raqs,himesgroup
 RAQSAPI,usepa
 Raquifer,susaenergy
 rare,yanxht
@@ -17361,7 +17365,7 @@ rprintf,renkun-ken
 RprobitB,loelschlaeger
 RProbSup,cran
 Rprofet,tabrandenburger
-rprofile,cran
+rprofile,klmr
 rprojroot,r-lib
 rprojtree,miguel-conde
 RProtoBuf,eddelbuettel
@@ -17956,6 +17960,7 @@ sawnuti,sirmurphalot
 saws,cran
 sazedR,cran
 SBAGM,rrk4910
+SBCK,yrobink
 SBdecomp,laylaparast
 sbfc,vkrakovna
 sbgcop,pdhoff
@@ -20175,6 +20180,7 @@ survival,therneau
 survival.svb,mkomod
 survival666,cran
 survivalAnalysis,cran
+SurvivalClusteringTree,luyouepiusf
 survivalmodels,raphaels1
 survivalMPL,dlc48
 survivalMPLdc,kenny-jing-xu
@@ -20572,6 +20578,7 @@ tessellation,stla
 tesselle,tesselle
 tesseract,ropensci
 test2norm,au-uscd
+TestAnaAPP,jiangyouxiang
 testarguments,mattsainsburydale
 testassay,sachsmc
 testCompareR,kylewilson01
@@ -20745,7 +20752,6 @@ tidycwl,sbg
 tidydatatutor,seankross
 TidyDensity,spsanderson
 tidydice,rolkra
-tidyDisasters,ccani007
 tidydr,yulab-smu
 tidyEdSurvey,blue-webb
 tidyEmoji,pursuitofdatascience
@@ -22290,7 +22296,7 @@ xadmix,cran
 xaringan,yihui
 xaringanExtra,gadenbuie
 xaringanthemer,gadenbuie
-xbreed,hadigenetic
+xbreed,cran
 XBRL,cran
 xcms,sneumann
 xcore,bioc
