@@ -1769,6 +1769,7 @@ blockCV,rvalavi
 blockForest,bips-hb
 blocklength,alec-stashevsky
 blockmatrix,ecor
+BlockMissingData,cran
 blockmodeling,cran
 BlockmodelingGUI,cran
 blockmodels,jb-leger
@@ -2340,6 +2341,7 @@ CATT,marsdu1989
 CATTexact,edelmand21
 CauchyCP,wpihongzhang
 cauchypca,cran
+cauphy,gilles-didier
 causact,flyaflya
 causal.decomp,syeonkang
 causalCmprsk,bella2001
@@ -2735,6 +2737,7 @@ circletyper,etiennebacher
 circlize,jokergoo
 CircMLE,rfitak
 CircNNTSR,cran
+CircNNTSRmult,cran
 CircOutlier,cran
 circRNAprofiler,aufiero
 CircSeqAlignTk,jsun
@@ -5778,6 +5781,7 @@ etwfe,grantmcdermott
 EuclideanSD,cran
 eudract,cran
 eudysbiome,bioc
+eufmdis.adapt,iankopacka
 EUfootball,cran
 eulerian,alorchhota
 eulerr,jolars
@@ -6889,6 +6893,7 @@ FuzzyM,cran
 FuzzyMCDM,cran
 FuzzyNumbers,gagolews
 FuzzyNumbers.Ext.2,cran
+FuzzyPovertyR,cran
 FuzzyQ,ligophorus
 FuzzyR,cran
 fuzzyRankTests,cjgeyer
@@ -9086,6 +9091,7 @@ iMediate,cran
 imgpalr,leonawicz
 imgrec,cschwem2er
 imguR,cloudyr
+ImHD,cran
 IMIFA,keefe-murphy
 IMIX,ziqiaow
 iml,christophm
@@ -12089,6 +12095,7 @@ monreg,scottkosty
 Monte.Carlo.se,cran
 MonteCarlo,funwithr
 MonteCarloSEM,fatihorcan
+moodlequizR,wolfgangrolke
 moodleR,chi2labs
 moonBook,cardiomoon
 MoonlightR,elelab
@@ -12659,7 +12666,7 @@ nat.utils,natverse
 natcpp,natverse
 natmanager,natverse
 NatParksPalettes,kevinsblake
-natserv,ropensci-archive
+natserv,ropensci
 natstrat,kkbrum
 natural,hugogogo
 naturaList,avrodrigues
@@ -15992,7 +15999,7 @@ rchemo,chemhouse-group
 rcheology,hughjonesd
 rchess,jbkunst
 RChest,azalk
-RchivalTag,cran
+RchivalTag,rkbauer
 Rchoice,mauricio1986
 rChoiceDialogs,alexfoxfox
 RChronoModel,philippe-a
@@ -17414,6 +17421,7 @@ RRedshiftSQL,mtreadwell
 rrefine,vpnagraj
 rreg,ybkamaleri
 rrepast,antonio-pgarcia
+Rrepest,cran
 rres,bowenwang7
 RRF,softwaredeng
 RRHO,bioc
@@ -19839,7 +19847,7 @@ statgenMPP,bartjanvanrossum
 statgenQTLxT,bartjanvanrossum
 statgenSTA,biometris
 statGraph,andrefujita
-Statial,bioc
+Statial,sydneybiox
 stationaRy,rich-iannone
 stationery,pauljohn32
 statip,paulponcet
@@ -20513,6 +20521,7 @@ teachingApps,auburngrads
 TeachingDemos,glsnow
 TeachingSampling,psirusteam
 TeachNet,cran
+teal.code,insightsengineering
 teal.logger,gogonzo
 teal.reporter,insightsengineering
 tealeaves,cdmuir
