@@ -5,6 +5,11 @@
     "url": "https://github.com/ohdsi/andromeda"
   },
   {
+    "package": "CohortExplorer",
+    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
+    "url": "https://github.com/ohdsi/cohortexplorer"
+  },
+  {
     "package": "Cyclops",
     "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
     "url": "https://github.com/ohdsi/cyclops"
