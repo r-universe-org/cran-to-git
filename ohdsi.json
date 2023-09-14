@@ -5,6 +5,11 @@
     "url": "https://github.com/ohdsi/andromeda"
   },
   {
+    "package": "CohortAlgebra",
+    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
+    "url": "https://github.com/ohdsi/cohortalgebra"
+  },
+  {
     "package": "CohortExplorer",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
     "url": "https://github.com/ohdsi/cohortexplorer"

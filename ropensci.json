@@ -101,7 +101,7 @@
   },
   {
     "package": "charlatan",
-    "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
+    "maintainer": "Roel M. Hogervorst <hogervorst.rm@gmail.com>",
     "url": "https://github.com/ropensci/charlatan"
   },
   {
@@ -534,6 +534,11 @@
     "package": "occCite",
     "maintainer": "Hannah L. Owens <hannah.owens@gmail.com>",
     "url": "https://github.com/ropensci/occcite"
+  },
+  {
+    "package": "ohun",
+    "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
+    "url": "https://github.com/ropensci/ohun"
   },
   {
     "package": "openalexR",

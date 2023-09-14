@@ -1,5 +1,11 @@
 [
   {
+    "package": "GenomicPlot",
+    "maintainer": "Shuye Pu <shuye2009@gmail.com>",
+    "url": "https://github.com/shuye2009/genomicplot",
+    "registry": "bioc"
+  },
+  {
     "package": "rIntervalTree",
     "maintainer": "Shuye Pu <shuye2009@gmail.com>",
     "url": "https://github.com/cran/rIntervalTree"

@@ -4,5 +4,11 @@
     "maintainer": "Noriaki Sato <nori@hgc.jp>",
     "url": "https://github.com/noriakis/cbnplot",
     "registry": "bioc"
+  },
+  {
+    "package": "ggkegg",
+    "maintainer": "Noriaki Sato <nori@hgc.jp>",
+    "url": "https://github.com/noriakis/ggkegg",
+    "registry": "bioc"
   }
 ]

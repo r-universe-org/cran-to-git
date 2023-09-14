@@ -294,7 +294,7 @@ agriTutorial,rned
 agriutilities,apariciojohan
 agriwater,cesarofs
 agrmt,r-forge
-AgroR,agronomiar
+AgroR,gabrielshimizu
 AgroReg,agronomiar
 agrostab,cran
 AgroTech,rmarubayashi
@@ -1671,6 +1671,7 @@ bioregion,biorgeo
 BioRssay,milesilab
 Bios2cor,cran
 bios2mds,cran
+biosampleR,csim063
 biosensors.usc,glucodensities
 bioseq,fkeck
 biosignalEMG,cran
@@ -3002,6 +3003,7 @@ cnaOpt,mathiasambuehl
 cnbdistr,cran
 cncaGUI,ananieto
 CNEr,ge11232002
+CNID,chuxinyuan
 CNLTreg,cran
 CNLTtsa,cran
 CNORdt,bioc
@@ -3091,6 +3093,7 @@ cognitoR,chi2labs
 coGPS,bioc
 COHCAP,bioc
 CohensdpLibrary,dcousin3
+CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
 CohortExplorer,ohdsi
 CohortPlat,el-meyer
@@ -3237,6 +3240,7 @@ CompQuadForm,lafaye
 CompR,cran
 ComPrAn,bioc
 comprehenr,gdemin
+compSPOT,sydney-grant
 compute.es,acdelre
 ComRiskModel,imranshakoor
 comsimitv,cran
@@ -3962,7 +3966,7 @@ dabestr,acclab
 dabr,special-uor
 dacc,liyanstat
 DACF,qmmmmliu
-dad,cran
+dad,santagos
 dada2,benjjneb
 dadjoke,cran
 dadjokeapi,jhollist
@@ -4856,7 +4860,7 @@ dotwhisker,fsolt
 doubcens,jamesm1524
 double.truncation,cran
 DoubleCone,cran
-DoubleExpSeq,sruddy17
+DoubleExpSeq,sean-ruddy
 DoubleML,doubleml
 doubletrouble,almeidasilvaf
 doubt,moodymudskipper
@@ -7235,6 +7239,7 @@ GenomicInteractionNodes,jianhong
 GenomicInteractions,computationalregulatorygenomicsicl
 GenomicOZone,bioc
 genomicper,cran
+GenomicPlot,shuye2009
 GenomicRanges,bioconductor
 GenomicScores,rcastelo
 GenomicSuperSignature,shbrief
@@ -7487,6 +7492,7 @@ ggiraphExtra,cardiomoon
 GGIRread,wadpac
 ggisotonic,talegari
 ggjoy,clauswilke
+ggkegg,noriakis
 gglasso,archer-yang-lab
 gglgbtq,turtletopia
 gglm,graysonwhite
@@ -8966,7 +8972,6 @@ idarps,lionelvoirol
 idbr,walkerke
 IDCard,marsdu1989
 idcnrba,cran
-IDConverter,shixiangwang
 IDE,andrewzm
 IDEAFilter,biogen-inc
 ideal,federicomarini
@@ -10880,6 +10885,7 @@ mapiso,riatelab
 MAPITR,mturchin20
 mAPKL,bioc
 mapme.biodiversity,mapme-initiative
+mapmisc,cran
 mapping,serafinialessio
 mappings,benjaminrich
 mapplots,hgerritsen
@@ -11094,7 +11100,7 @@ mBvs,kleest0
 mc.heterogeneity,gabriellajg
 mc2d,cran
 MCARtest,cran
-mcauchyd,cran
+mcauchyd,santagos
 MCAvariants,cran
 mcb,heming0425
 MCBackscattering,cran
@@ -11284,6 +11290,7 @@ Mercator,cran
 merDeriv,nctingwang
 Mergeomics,bioc
 mergeTrees,audreh
+mergingTools,cran
 merlin,cran
 MERO,mohmedsoudy
 merror,rabilon
@@ -11496,7 +11503,7 @@ MGDrivE2,marshalllab
 mgee2,cran
 MGFM,bioc
 MGFR,bioc
-mggd,cran
+mggd,santagos
 MGL,cran
 mglasso,desanou
 MGLM,juhkim111
@@ -12311,6 +12318,7 @@ MSMwRA,hsnbulut
 MSnbase,lgatto
 MSnID,bioc
 msos,coatless-rpkg
+MSoutcomes,cran
 MSPrep,kechrislab
 MSPRT,sandy-pramanik
 msPurity,computational-metabolomics
@@ -12472,6 +12480,7 @@ multipol,robinhankin
 multiRDPG,cran
 multirich,akeyel
 multiridge,cran
+MultiRNAflow,loubator
 MultiRNG,bernice0321
 MultiRobust,praetere
 multiROC,cran
@@ -13351,7 +13360,7 @@ ohoegdm,tmsalab
 OHPL,nanxstats
 ohsome,giscience
 ohtadstats,pfpetrowski
-ohun,marce10
+ohun,ropensci
 oii,computermacgyver
 ojsr,gastonbecerra
 OkNNE,amjadali0313
@@ -15193,6 +15202,7 @@ PScr,diegogallardo87
 psd,abarbour
 psda,wagnerjorge
 psData,ropengov
+PSDistr,cran
 psdr,yhankcheng
 PSEA,bioc
 pseudo,kevin444
@@ -16704,6 +16714,7 @@ rglplus,obreschkow
 rglwidget,dmurdoch
 RGMM,godichon-baggioni
 RGMQL,bioc
+rgnoisefilt,juanmartinsantos
 rgnparser,ropensci
 RgnTX,bioc
 Rgof,wolfgangrolke
@@ -20679,6 +20690,7 @@ tfprobability,rstudio
 tframe,r-forge
 tframePlus,r-forge
 tfrmt,gsk-biostatistics
+tfrmtbuilder,bzkrouse
 tfruns,rstudio
 tfse,mkearney
 TFunHDDC,popescuc71
@@ -21568,6 +21580,7 @@ upstartr,globeandmail
 UPSvarApprox,rhobis
 uptasticsearch,jameslamb
 uptimeRobot,theclue
+ura,bengoehring
 urbin,r-forge
 urca,bpfaff
 urlchecker,r-lib
@@ -22323,6 +22336,7 @@ Xeva,bhklab
 xfun,yihui
 xgb2sql,chengjunhou
 xgboost,trivialfis
+xgrove,g-rho
 xgxr,novartis
 xhaz,cran
 XICOR,spholmes

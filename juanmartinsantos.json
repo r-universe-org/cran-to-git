@@ -4,5 +4,10 @@
     "maintainer": "Juan Martin <juanmartin@usal.es>",
     "url": "https://github.com/juanmartinsantos/regfilter",
     "subdir": "pkg/regfilter"
+  },
+  {
+    "package": "rgnoisefilt",
+    "maintainer": "Juan Martin <juanmartin@usal.es>",
+    "url": "https://github.com/cran/rgnoisefilt"
   }
 ]
