@@ -1,5 +1,10 @@
 [
   {
+    "package": "datasetjson",
+    "maintainer": "Mike Stackhouse <mike.stackhouse@atorusresearch.com>",
+    "url": "https://github.com/atorus-research/datasetjson"
+  },
+  {
     "package": "metacore",
     "maintainer": "Christina Fillmore <christina.e.fillmore@gsk.com>",
     "url": "https://github.com/atorus-research/metacore"
@@ -17,7 +22,6 @@
   {
     "package": "xportr",
     "maintainer": "Eli Miller <Eli.Miller@AtorusResearch.com>",
-    "url": "https://github.com/atorus-research/xportr",
-    "registry": "archived"
+    "url": "https://github.com/atorus-research/xportr"
   }
 ]
