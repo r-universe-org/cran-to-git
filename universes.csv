@@ -691,7 +691,7 @@ argonR,rinterface
 argosfilter,cran
 argparse,trevorld
 argparser,djhshih
-argus,hormannw
+argus,cran
 ARHT,haoranli
 ari,jhudsl
 ARIbrain,cran
@@ -924,6 +924,7 @@ AutoStepwiseGLM,cran
 autostsm,hubbardalex
 autotest,ropensci
 autothresholdr,rorynolan
+AutoTransQF,cran
 autoTS,vivienroussez
 AutoWeatherIndices,cran
 av,ropensci
@@ -1183,7 +1184,6 @@ bayeslincom,josue-rodriguez
 bayeslm,jingyuhe
 BayesLN,agardini
 BayesLogit,jwindle
-bayesloglin,cran
 bayeslongitudinal,cran
 bayesm,cran
 BayesMallows,ocbe-uio
@@ -1354,6 +1354,7 @@ BED,patzaw
 BEDASSLE,gbradburd
 BEDMatrix,quantgen
 bedr,pboutros
+BeeBDC,jbdorey
 BeeGUTS,bgoussen
 beepr,rasmusab
 beer,athchen
@@ -2483,7 +2484,6 @@ cemco,andrefujita
 CEMiTool,bioc
 CenBAR,cran
 cencrne,cran
-CENFA,rinnan
 cenGAM,cran
 cenROC,cran
 censable,christopherkenny
@@ -4647,6 +4647,7 @@ discrtr,paezha
 discSurv,cran
 discursive,pwkraft
 disdat,rvalavi
+diseasemapping,cran
 Disequilibrium,natelatshaw
 DisHet,wtwt5237
 DisimForMixed,cran
@@ -6223,7 +6224,6 @@ fdaACF,gmestrem
 fdacluster,astamm
 fdaconcur,functionaldata
 fdadensity,functionaldata
-fdakma,astamm
 fdaMixed,bomarkussen
 fdaMocca,cran
 fdANOVA,ls-git-17
@@ -6231,6 +6231,7 @@ fdapace,functionaldata
 fdapaceShiny,cpossinger
 fdaPDE,eleonoraarnone
 fdaPOIFD,aefdz
+fdaSP,maurobernardi
 fdasrvf,jdtuck
 fdatest,alessiapini
 FDboost,boost-r
@@ -7581,6 +7582,7 @@ ggridges,wilkelab
 ggrisk,cran
 ggrounded,botan
 ggroups,nilforooshan
+ggRtsy,katelyndiaz
 ggsci,nanxstats
 ggseas,ellisp
 ggsector,yanpd01
@@ -10198,7 +10200,6 @@ leaflet.esri,trafficonese
 leaflet.extras,bhaskarvk
 leaflet.extras2,trafficonese
 leaflet.minicharts,veroniquerte
-leaflet.multiopacity,meantrix
 leaflet.opacity,be-marc
 leaflet.providers,rstudio
 leafletCN,lchiffon
@@ -10762,7 +10763,6 @@ macleish,beanumber
 maclogp,yuanyuanli96
 maCorrPlot,bioc
 MACP,mrbakhsh
-macroBiome,szelepcsenyi
 macrocol,pedrocabraacela
 macrosyntR,samilhll
 MacroZooBenthosWaterA,cran
@@ -10862,6 +10862,7 @@ ManlyMix,xzhu20
 MANOR,pneuvial
 MAnorm2,tushiqi
 MANOVA.RM,smn74
+manta,dgarrimar
 MantaID,cran
 MantelCorr,bioc
 manydata,globalgov
@@ -11520,7 +11521,7 @@ MGMM,zrmacc
 MGMS2,cran
 mgpStreamingSDK,nathcarr55
 mgsa,sba1
-MGSDA,cran
+MGSDA,irinagain
 mgss,splinesmoothing
 mgsub,bmewing
 mgwrsar,cran
@@ -14046,7 +14047,6 @@ PBSmapping,pbs-software
 PBSmodelling,pbs-software
 PBtDesigns,cran
 pbv,alexanderrobitzsch
-PCA4TS,cran
 pcadapt,bcm-uga
 PCADSC,annennenne
 pcaExplorer,federicomarini
@@ -14720,7 +14720,6 @@ pokemon,williamorim
 poker,greenspb
 PolarCAP,imehlhaff
 polaroid,jhk0530
-polars,pola-rs
 poLCA,dlinzer
 PolicyPortfolios,xfim
 policytree,grootci
@@ -16490,6 +16489,7 @@ remiod,xsswang
 rEMM,mhahsler
 remmy,long39ng
 remote,tim-salabim
+remotePARTS,morrowcj
 remotes,r-lib
 REMP,yinanzheng
 rempsyc,rempsyc
@@ -17669,7 +17669,7 @@ Rtnmin,nashjc
 RTNsurvival,bioc
 rtodoist,thinkr-open
 RTOMO,jonathanlees
-rtoot,schochastics
+rtoot,gesistsa
 rtop,jskoien
 RTopper,bioc
 rTorch,f0nzie
