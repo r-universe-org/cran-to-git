@@ -1,4 +1,5 @@
 package,owner
+,cran
 A3,scottfr
 a4,lcougnaud
 a4Base,lcougnaud
@@ -171,7 +172,7 @@ adehabitatHR,clementcalenge
 adehabitatHS,clementcalenge
 adehabitatLT,clementcalenge
 adehabitatMA,clementcalenge
-adephylo,sdray
+adephylo,cran
 adepro,cran
 adept,martakarass
 adeptdata,martakarass
@@ -5602,7 +5603,7 @@ epcc,victor-saldana
 ePCR,syksy
 epe4md,epe-gov-br
 EPGMr,swampthingpaul
-eph,holatam
+eph,ropensci
 Epi,bxc147
 epialleleR,bbcg
 epibasix,cran
@@ -8373,7 +8374,6 @@ HBSTM,cran
 HBV.IANIGLA,ezetoum
 hca,bioc
 hcandersenr,emilhvitfeldt
-hcci,prdm0
 hce,cran
 hchinamap,r-stata
 hcidata,henningpohl
@@ -11903,7 +11903,6 @@ mlrpro,cran
 mlsbm,carter-allen
 MLSeq,bioc
 mlsjunkgen,scumdogsteev
-mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
 mlt,r-forge
 mlt.docreg,r-forge
@@ -13584,7 +13583,7 @@ optimus,mitchest
 optimx,nashjc
 optinterv,eladg9
 optional,antoinechampion
-OptionPricing,hormannw
+OptionPricing,cran
 options,dgkf
 optionstrat,cran
 optiscale,cran
@@ -14536,7 +14535,7 @@ planet,wvictor14
 PlanetNICFI,mlampros
 planets,aljrico
 planningML,vivid225
-planr,nguynic
+planr,nguyennico
 plantecophys,remkoduursma
 plantecowrap,jstinzi
 planttfhunter,almeidasilvaf
@@ -16866,7 +16865,7 @@ riskRegression,tagteam
 risks,stopsack
 RiskScorescvd,dvicencio
 risksetROC,paramita-sc
-riskSimul,hormannw
+riskSimul,cran
 riskyr,hneth
 RISmed,skoval
 Rita,danielamattei
@@ -18530,7 +18529,7 @@ sftrack,mablab
 sgat,matiaspoullain
 SGB,grafmoni
 sGBJ,lauravillain
-SGCP,na396
+SGCP,lotus53836
 sgd,airoldilab
 sgee,gregvaughan
 sgeostat,cran
@@ -20271,7 +20270,7 @@ svines,tnagler
 svKomodo,sciviews
 SVMDO,robogeno
 svMisc,sciviews
-SVMMaj,hoksanyip
+SVMMaj,cran
 svmpath,trevorhastie
 SVN,damienchallet
 svplots,cran
@@ -20519,7 +20518,6 @@ Tcomp,ellisp
 tcpl,usepa
 tcplfit2,brown-jason
 TCseq,bioc
-tcsinvest,arbuzovv
 td,eddelbuettel
 TDA,jisuk1
 TDAkit,kisungyou
