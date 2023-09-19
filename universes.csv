@@ -1,5 +1,4 @@
 package,owner
-,cran
 A3,scottfr
 a4,lcougnaud
 a4Base,lcougnaud
@@ -632,6 +631,7 @@ approximator,robinhankin
 approxmatch,cran
 approxOT,ericdunipace
 appsflyeR,pablosanmar
+appsheet,calderonsamuel
 aprean3,lbraglia
 aprof,marcodvisser
 apsimx,femiguez
@@ -2711,6 +2711,7 @@ ciCalibrate,samch93
 ciccr,sokbae
 cicero,bioc
 cicerone,johncoene
+CICI,cran
 CIDER,zhiyhu
 CIEE,skonigor
 cif,cran
@@ -4914,6 +4915,7 @@ dragracer,svmiller
 dragulaR,zzawadz
 drake,ropensci
 DramaAnalysis,quadrama
+drape,harveyklyne
 drat,eddelbuettel
 draw,rrwen
 drawer,lz100
@@ -8131,7 +8133,7 @@ grplassocat,fdetmer
 grpnet,cran
 grpreg,pbreheny
 grpsel,ryan-thompson
-grpseq,lmaowsic
+grpseq,lmaowisc
 grpSLOPE,agisga
 GrpString,dstgithub
 grr,cvarrichio
@@ -8373,6 +8375,7 @@ HBSTM,cran
 HBV.IANIGLA,ezetoum
 hca,bioc
 hcandersenr,emilhvitfeldt
+hcci,prdm0
 hce,cran
 hchinamap,r-stata
 hcidata,henningpohl
@@ -8965,8 +8968,8 @@ icrf,hunyong
 icRSF,cran
 ICS,cran
 ICSKAT,ryansunwork
-ICSNP,klauschn
-ICSOutlier,klauschn
+ICSNP,cran
+ICSOutlier,cran
 ICSS,skoestlmeier
 ICSShiny,klauschn
 ICSsmoothing,lubomirantoni
@@ -9550,7 +9553,7 @@ ispd,doer0
 ispdata,igorlaltuf
 ISR,guangbaog
 ISRaD,cran
-ISS,cran
+ISS,manuelmmueller
 istacr,cran
 iSTATS,vitor-mendes-iq
 iSubGen,pboutros
@@ -9911,6 +9914,7 @@ KLINK,magnusdv
 klsh,cleanzr
 klustR,mckaymdavis
 km.ci,tverbeke
+kmBlock,cran
 kmc,yfyang86
 KMD,zh2395
 kmed,weksi-budiaji
@@ -12852,7 +12856,7 @@ netSmooth,bimsbbioinfo
 netstat,stevecondylios
 NetSwan,sergelhomme
 nett,aaamini
-nettskjemar,lcbc-uio
+nettskjemar,capro-uio
 netUtils,schochastics
 NetWeaver,mw201608
 network,cran
@@ -17048,7 +17052,7 @@ rmspc,bioc
 RMSS,anthonychristidis
 Rmst,xluo11
 rmstcompsens,kentaro-ueno
-rmt,lmaowsic
+rmt,lmaowisc
 RMT4DS,xcding1212
 RMThreshold,uwemenzel
 RMTL,transbiozi
@@ -19826,6 +19830,7 @@ StanHeaders,cran
 StanMoMo,kabarigou
 stantargets,ropensci
 stapler,muschellij2
+staplr,pridiltal
 staRank,bioc
 StarBioTrek,claudiacava
 staRdom,matthiaspucher
@@ -20079,6 +20084,7 @@ strvalidator,oskarhansson
 stuart,martscht
 studentlife,frycast
 studyStrap,gloewing
+stUPscales,arturotorres
 STV,jayemerson
 stxplore,sevvandi
 styler,r-lib
@@ -21987,7 +21993,7 @@ VWPre,vincentporretta
 W2CWM2C,jomopo
 W3CMarkupValidator,kurthornik
 W4MRUtils,lain-inrae
-WA,lmaowsic
+WA,lmaowisc
 wacolors,corymccartan
 WACS,rtrepos
 wactor,mkearney
@@ -22069,7 +22075,7 @@ WCE,cran
 wcep,sarah-0k
 WCluster,cran
 WCM,ujjwal4culs
-Wcompo,lmaowsic
+Wcompo,lmaowisc
 wCorr,american-institutes-for-research
 wcox,vharntzen
 WDI,vincentarelbundock
@@ -22153,6 +22159,7 @@ WGCNA,plangfelder
 wgeesel,cran
 WGScan,cran
 WgtEff,joshlmiller1978
+WH,guillaumebiessy
 WhatIf,iqss
 WhatsR,cran
 wheatmap,zwdzwd
@@ -22282,7 +22289,7 @@ wql,jsta
 wqs,cran
 wqspt,cran
 wqtrends,fawda123
-WR,lmaowsic
+WR,lmaowisc
 wrangle,bergsmat
 wrappedtools,abusjahn
 wrappr,cran
