@@ -2206,6 +2206,7 @@ calm,k22liang
 calmate,henrikbengtsson
 calpassapi,vinhdizzo
 CalSim,resinj
+CAMAN,doebler
 camcorder,thebioengineer
 CamelUp,mczek
 CAMERA,sneumann
@@ -2879,6 +2880,7 @@ clogitL1,cran
 clogitLasso,mavalosf
 Clomial,bioc
 Clonality,bioc
+cloneRate,bdj34
 CloneSeeker,cran
 CLONETv2,cran
 clordr,cran
@@ -3577,6 +3579,7 @@ covidprobability,eebrown
 covidsymptom,csss-resultat
 covKCD,pdhoff
 covr,r-lib
+CovRegRF,calakus
 covRNA,bioc
 covRobust,hanase
 CovSel,cran
@@ -3951,6 +3954,7 @@ cytometree,sistm
 cytominer,cytomining
 CytoML,rglab
 CytoPipeline,uclouvain-cbio
+CytoPipelineGUI,bioc
 CytOpT,sistm
 cytoviewer,bodenmillergroup
 czechrates,jla-data
@@ -4940,6 +4944,7 @@ DrDimont,kathbaum
 DRDRtest,weng-gw
 dreamer,rich-payne
 dreamerr,lrberge
+dreamlet,diseaseneurogenomics
 DREGAR,hamedhm
 drf,lorismichel
 drgee,drjoze
@@ -5887,7 +5892,7 @@ exactci,cran
 ExactCIdiff,cran
 exactextractr,isciences
 exactLTRE,cran
-ExactMed,cran
+ExactMed,caubm
 ExactMultinom,resinj
 exactRankTests,thothorn
 ExamPAData,sdcastillo
@@ -7111,6 +7116,7 @@ GDINA,wenchao-ma
 gdistance,agrdatasci
 gdldata,globaldatalab
 gdm,fitzlab-al
+gDNAx,functionalgenomics
 gdpc,esmucler
 GDPuc,pik-piam
 gDR,bioc
@@ -7355,6 +7361,7 @@ geospt,cran
 geosptdb,carlosm77
 geostan,connordonegan
 geostats,pvermees
+geostatsp,cran
 GEOsubmission,bioc
 GeoTcgaData,yulab-smu
 geotools,antoinelucas64
@@ -9506,6 +9513,7 @@ iSEEde,isee
 iSEEhex,isee
 iSEEhub,isee
 iSEEindex,isee
+iSEEpathways,isee
 iSEEu,isee
 iSeq,bioc
 ISEtools,cran
@@ -13042,6 +13050,7 @@ nlsmsn,cran
 nlsr,nashjc
 nlstac,cran
 nlstools,aursiber
+NlsyLinks,nlsy-links
 nlt,cran
 nltm,mclements
 nlts,objornstad
@@ -16566,7 +16575,7 @@ reportRmd,cran
 reportROC,marsdu1989
 reporttools,numbersman77
 REPPlab,fischuu
-REPPlabShiny,klauschn
+REPPlabShiny,cran
 repr,irkernel
 representr,cleanzr
 represtools,pirategrunt
@@ -18874,6 +18883,7 @@ similaRpeak,adeschen
 Simile,cran
 SimInf,stewid
 simIReff,julian-urbano
+simitation,srivastavbudugutta
 simITS,lmiratrix
 SimJoint,whateverliu
 simlandr,sciurus365
@@ -19893,6 +19903,7 @@ statcanR,warint
 statcheck,cran
 statcodelists,antaldaniel
 statcomp,cran
+statConfR,manuelrausch
 StatDA,filzmoserp
 StatDataML,cran
 statebins,hrbrmstr
@@ -20588,6 +20599,7 @@ tealeaves,cdmuir
 TEAM,jbp7
 teamcolors,beanumber
 teamr,wwwjk366
+tectonicr,tobiste
 teda,cran
 tehtuner,jackmwolf
 teigen,its-likeli-jeff
@@ -22042,6 +22054,7 @@ WallomicsData,sebdejean
 wally,paulowhite
 walmartAPI,emilhvitfeldt
 walrus,jamovi
+WALS,kevhuy
 WaMaSim,scheidan
 wand,hrbrmstr
 warabandi,harry-maan

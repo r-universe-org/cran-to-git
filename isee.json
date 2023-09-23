@@ -30,6 +30,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iSEEpathways",
+    "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
+    "url": "https://github.com/isee/iseepathways",
+    "registry": "bioc"
+  },
+  {
     "package": "iSEEu",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseeu",

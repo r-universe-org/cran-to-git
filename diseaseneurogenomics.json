@@ -1,5 +1,11 @@
 [
   {
+    "package": "dreamlet",
+    "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
+    "url": "https://github.com/diseaseneurogenomics/dreamlet",
+    "registry": "bioc"
+  },
+  {
     "package": "remaCor",
     "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/remacor"
