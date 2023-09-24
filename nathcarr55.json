@@ -1,5 +1,10 @@
 [
   {
+    "package": "MGPSDK",
+    "maintainer": "Nathan Carr <nathan.carr@maxar.com>",
+    "url": "https://github.com/cran/MGPSDK"
+  },
+  {
     "package": "mgpStreamingSDK",
     "maintainer": "Nathan Carr <nathan.carr@maxar.com>",
     "url": "https://github.com/cran/mgpStreamingSDK"
