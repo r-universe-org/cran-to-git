@@ -7,12 +7,14 @@
   {
     "package": "bvpSolve",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
-    "url": "https://github.com/cran/bvpSolve"
+    "url": "https://github.com/cran/bvpSolve",
+    "registry": "archived"
   },
   {
     "package": "deTestSet",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
-    "url": "https://github.com/cran/deTestSet"
+    "url": "https://github.com/cran/deTestSet",
+    "registry": "archived"
   },
   {
     "package": "diagram",
