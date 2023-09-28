@@ -5,6 +5,11 @@
     "url": "https://github.com/coatless-rpkg/cetcolor"
   },
   {
+    "package": "errorist",
+    "maintainer": "James Balamuta <balamut2@illinois.edu>",
+    "url": "https://github.com/coatless-rpkg/errorist"
+  },
+  {
     "package": "jjb",
     "maintainer": "James Balamuta <balamut2@illinois.edu>",
     "url": "https://github.com/coatless-rpkg/jjb"
@@ -23,6 +28,11 @@
     "package": "rgen",
     "maintainer": "James Balamuta <balamut2@illinois.edu>",
     "url": "https://github.com/coatless-rpkg/rgen"
+  },
+  {
+    "package": "searcher",
+    "maintainer": "James Balamuta <balamut2@illinois.edu>",
+    "url": "https://github.com/coatless-rpkg/searcher"
   },
   {
     "package": "sitmo",

@@ -178,6 +178,7 @@ adeptdata,martakarass
 AdequacyModel,prdm0
 ADER,cran
 adespatial,sdray
+adestr,jan-imbi
 adfExplorer,pepijn-devries
 adformR,pablosanmar
 ADGofTest,cjgb
@@ -1999,7 +2000,6 @@ brio,r-lib
 briqr,davidrubinger
 BRISC,arkajyotisaha
 brisk,rich-payne
-briskaR,cran
 BRL,msadinle
 brlrmr,maitya02
 brm,mclements
@@ -2831,7 +2831,7 @@ ClickClust,cran
 ClickClustCont,cran
 ClickHouseHTTP,patzaw
 clickR,david-hervas
-clickstream,michascholz
+clickstream,cran
 clidamonger,iwugermany
 clidatajp,matutosi
 cliff,randy3k
@@ -4133,7 +4133,7 @@ dbacf,cran
 dbarts,vdorie
 dbcsp,cran
 dbd,rolfturner
-DBERlibR,cran
+DBERlibR,csong747
 DBEST,hristotomov
 DBfit,cran
 dbflobr,poissonconsulting
@@ -4892,7 +4892,7 @@ downloadthis,fmmattioni
 downscale,charliem2003
 downscaledl,lspatial
 downsize,wlandau
-dowser,kbhoehn
+dowser,cran
 dparser,nlmixr2
 DPBBM,laurenie
 dpcc,bingyuan-zhang
@@ -5735,7 +5735,7 @@ erp.easy,mooretm
 ERPeq,emrahaltun
 err,poissonconsulting
 errint,jesuspradaalonso
-errorist,r-assist
+errorist,coatless-rpkg
 errorlocate,data-cleaning
 errors,r-quantities
 errum,tmsalab
@@ -10100,7 +10100,7 @@ landsat8,cran
 landscapemetrics,r-spatialecology
 landscapeR,dariomasante
 landscapetools,ropensci
-landsepi,cran
+landsepi,mechantrouquin
 Langevin,cran
 langevitour,pfh
 languagelayeR,colinfay
@@ -13125,6 +13125,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
+nolock,artllex
 nombre,rossellhayes
 nomclust,zdeneksulc
 nominatimlite,dieghernan
@@ -15679,6 +15680,7 @@ qusage,cbolen1
 qut,cran
 qvalue,storeylab
 qvcalc,davidfirth
+qwalkr,vitormarquesr
 QWDAP,cran
 qwraps2,dewittpe
 QZ,snoweye
@@ -16034,9 +16036,8 @@ Rbwa,crisprverse
 RCA,amirgo
 rcaiman,gastonmaurodiaz
 RCAL,cran
-RCALI,cran
+RCALI,mechantrouquin
 Rcan,timat35
-rcanvec,paleolimbot
 Rcapture,cran
 RCarb,r-lum
 rcarbon,ahb108
@@ -17066,7 +17067,7 @@ rminer,paulocortez4
 rminizinc,acharaakshit
 rminqa,ypan1988
 rmio,privefl
-rMisbeta,cran
+rMisbeta,snotjanu
 Rmisc,ryanhope
 Rmixmod,mixmod
 RMixpanel,ploner
@@ -17405,6 +17406,7 @@ rPBK,cran
 rpca,macieksk
 Rpcop,kmfrick
 rpdo,poissonconsulting
+RPDTest,glazellli
 RpeakChrom,manuelperis
 RPEGLMEN,anthonychristidis
 RPEIF,anthonychristidis
@@ -18288,6 +18290,7 @@ SDAR,cran
 SDAResources,cran
 sdcHierarchies,bernhard-da
 sdcLog,matthiasgomolka
+sdcMicro,sdctools
 SDCNway,dataprotectiontoolkit
 sdcSpatial,edwindj
 sdcTable,bernhard-da
@@ -18321,7 +18324,7 @@ seagull,jklosa
 SEAHORS,aurelienroyer
 sealasso,cran
 searchConsoleR,markedmondson1234
-searcher,r-assist
+searcher,coatless-rpkg
 SearchTrees,gmbecker
 SEARS,cran
 seas,mwtoews
@@ -18486,7 +18489,7 @@ SEPIRA,bioc
 sepkoski,lewisajones
 seq.hotSPOT,sydney-grant
 seq2pathway,bioc
-seq2R,cran
+seq2R,noramvillanueva
 SeqAlloc,cran
 seqArchR,snikumbh
 seqArchRplus,snikumbh
@@ -19168,7 +19171,7 @@ smile,lcgodoy
 smirnov,ashipunov
 SMITE,greallylab
 SMITIDstruct,cran
-SMITIDvisu,cran
+SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
 smlmkalman,cran
 SMLoutliers,siddjain24
@@ -20846,6 +20849,7 @@ tidycomm,joon-e
 TidyConsultant,harrison4192
 tidyCpp,eddelbuettel
 tidycwl,sbg
+tidydann,gmcmacran
 tidydatatutor,seankross
 TidyDensity,spsanderson
 tidydice,rolkra
