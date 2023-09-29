@@ -32,7 +32,8 @@
   {
     "package": "AzureKusto",
     "maintainer": "Alex Kyllo <jekyllo@microsoft.com>",
-    "url": "https://github.com/azure/azurekusto"
+    "url": "https://github.com/azure/azurekusto",
+    "registry": "archived"
   },
   {
     "package": "azuremlsdk",
