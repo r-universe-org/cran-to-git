@@ -368,7 +368,7 @@ alabaster.se,bioc
 alabaster.spatial,bioc
 alabaster.string,bioc
 alabaster.vcf,bioc
-alakazam,javh
+alakazam,ssnn-airr
 ALassoSurvIC,pakdaewo
 albatross,cran
 albopictus,kerguler
@@ -394,7 +394,7 @@ allcontributors,ropensci
 alleHap,cran
 allelematch,noreastermt
 AlleleRetain,elweiser
-AlleleShift,cran
+AlleleShift,roelandkindt
 AllelicImbalance,pappewaio
 AllelicSeries,zmccaw-insitro
 allestimates,uqwang
@@ -1637,7 +1637,7 @@ biodbNci,bioc
 biodbUniprot,ceabiodb
 Biodem,fedster
 bioDist,bioc
-BiodiversityR,cran
+BiodiversityR,roelandkindt
 biodosetools,biodosetools-team
 BIOdry,wilarhen
 biogas,sashahafnerau
@@ -3889,6 +3889,7 @@ curvHDR,mattwand
 cusp,raoelg
 custom.gauss.quad,pvkabaila
 customCMPdb,girke-lab
+CustomDerivative,aim-it4
 CustomerScoringMetrics,koendebock
 customizedTraining,saberpowers
 customProDB,bioc
@@ -8319,6 +8320,7 @@ h2otools,haghish
 H2x2Factorial,billytian
 h3jsr,obrl-soil
 h3lib,symbolixau
+h3r,symbolixau
 h5vc,bioc
 haarfisz,cran
 habCluster,qiangxyz
@@ -8834,6 +8836,7 @@ HydroCode,cran
 hydroEvents,conradwasko
 hydrogeo,cran
 hydroGOF,hzambran
+hydroloom,doi-usgs
 HydroMe,cran
 hydroMOPSO,r-marinao
 hydropeak,cran
@@ -11078,7 +11081,7 @@ MaxentVariableSelection,alj1983
 maximin,minniesun
 MaximinInfer,cran
 maxLik,otoomet
-maxlike,cran
+maxlike,roelandkindt
 maxmatching,baolidakai
 MaxMC,julienneves
 maxnet,mrmaxent
@@ -14471,6 +14474,7 @@ PhysActBedRest,cran
 PhysicalActivity,cran
 physiology,jackwasey
 PhySortR,timothystephens
+phytoclass,cran
 phytools,liamrevell
 Pi,bioc
 piano,varemo
@@ -14612,6 +14616,7 @@ plfm,michelmeulders
 plfMA,cran
 plgem,bioc
 plgp,rbgramacy
+plgraphics,wernerstahel
 plier,bioc
 pliman,tiagoolivoto
 plink,bocaccio
@@ -16125,7 +16130,7 @@ RcmdrPlugin.TeachingDemos,john-d-fox
 RcmdrPlugin.TeachStat,cran
 RcmdrPlugin.temis,nalimilan
 RcmdrPlugin.UCA,mmm-uca
-RcmdrPlugin.WorldFlora,cran
+RcmdrPlugin.WorldFlora,roelandkindt
 RCMinification,cran
 rCNV,piyalkarum
 rco,jcrodriguez1989
@@ -16458,6 +16463,7 @@ refugees,populationstatistics
 refund,julia-wrobel
 refund.shiny,refunders
 RegAssure,nrubiog
+regcensus,cran
 regclass,profpetrie
 RegCombin,cran
 regDIF,wbelzak
@@ -21175,6 +21181,7 @@ TrajectoryUtils,ltla
 trajeR,gitedric
 trajr,jimmcl
 tram,r-forge
+tramicp,lucaskook
 TraMineR,traminer
 TraMineRextras,traminer
 tramME,r-forge
@@ -22323,7 +22330,7 @@ workflowr,workflowr
 workflows,tidymodels
 workflowsets,tidymodels
 workloopR,ropensci
-WorldFlora,cran
+WorldFlora,roelandkindt
 worldfootballR,jaseziv
 worldmet,davidcarslaw
 worldriskpollr,david-hammond
