@@ -6247,6 +6247,7 @@ fdadensity,functionaldata
 fdaMixed,bomarkussen
 fdaMocca,cran
 fdANOVA,ls-git-17
+fdaoutlier,otsegun
 fdapace,functionaldata
 fdapaceShiny,cpossinger
 fdaPDE,eleonoraarnone
@@ -9600,7 +9601,7 @@ IterativeHardThresholding,msuchard
 iteratoR,stevecondylios
 iterators,revolutionanalytics
 iterClust,hd2326
-iterLap,cran
+iterLap,bbnkmp
 iterors,crowding
 iterpc,randy3k
 itertools,steveweston
@@ -10528,7 +10529,6 @@ LOBSTAHS,vanmooylipidomics
 LobsterCatch,pnickchi
 lobstr,r-lib
 LocalControl,cran
-LocalControlStrategy,cran
 localFDA,aefdz
 localgauss,torekleppe
 localICE,viadee
@@ -13280,6 +13280,7 @@ NTS,convfunctimeseries
 ntsDists,dmazarei
 NTSS,jiri-dvorak
 NTW,bioc
+NU.Learning,cran
 nucim,bioimaginggroup
 nucleoSim,arnauddroitlab
 nucleR,bioc
@@ -14010,7 +14011,7 @@ PAsso,xiaoruizhu
 passport,alistaire47
 passt,johannes-titz
 password,enricoschumann
-PAST,igbb
+PAST,bioc
 pastclim,evolecolgroup
 pasteAsComment,stla
 pastecs,phgrosjean
