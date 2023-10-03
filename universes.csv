@@ -1728,6 +1728,7 @@ bit64,truecluster
 bite,theogab
 bitmexr,hfshr
 bitops,mmaechler
+BiTrinA,hkestler
 bittermelon,trevorld
 Bivariate.Pareto,cran
 bivariatemaps,hidasi
@@ -4006,6 +4007,7 @@ DAISIEprep,joshwlambert
 DAKS,cran
 DALEX,modeloriented
 DALEXtra,modeloriented
+DALSM,plambertuliege
 daltoolbox,cefet-rj-dal
 DALY,brechtdv
 dam,slakov
@@ -4359,6 +4361,7 @@ denovolyzeR,jamesware
 denseFLMM,cran
 densEstBayes,mattwand
 densitr,krajnc
+densityarea,jofrhwld
 densityClust,thomasp85
 DensParcorr,johnzonwyk
 densratio,hoxo-m
@@ -9544,7 +9547,7 @@ ismev,ericgilleland
 ismtchile,mrosas47
 isni,cran
 isnullptr,jonasfoe
-Iso,rolfturner
+Iso,cran
 ISO11784Tools,graemediack
 isoband,r-lib
 isobar,fbreitwieser
@@ -11115,7 +11118,7 @@ mbbefd,spedygiorgio
 MBC,alexcannon
 MBCB,bioc
 MBCbook,cran
-mbclusterwise,sbougeard
+mbclusterwise,cran
 MBECS,rmolbrich
 mbend,nilforooshan
 MBESS,yelleknek
@@ -12228,7 +12231,7 @@ MPCI,edgarsantos-fernandez
 MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
-MPI,9pointeight
+MPI,fuhneh
 mpindex,yng-me
 MPLikelihoodWB,hasinurkhan
 mplot,garthtarr
@@ -15266,6 +15269,7 @@ PSAboot,jbryer
 PSAgraphics,jbryer
 PSAWR,schochastics
 psbcGroup,kleest0
+psbcSpeedUp,ocbe-uio
 psborrow,gravesti
 PSCBS,henrikbengtsson
 pscl,atahk
@@ -18166,6 +18170,7 @@ scFeatureFilter,bioc
 scFeatures,sydneybiox
 scGate,carmonalab
 SCGLR,scnext
+scGOclust,functional-genomics
 scGPS,imb-computational-genomics-lab
 scgwr,dmuraka
 schemr,stuart-morrison
@@ -18653,7 +18658,7 @@ sharpr2,cran
 sharpshootR,ncss-tech
 sharx,psolymos
 shattering,mellorf
-shazam,javh
+shazam,ssnn-airr
 SheetReader,fhenz
 SHELF,oakleyj
 ShellChron,nielsjdewinter
@@ -21640,6 +21645,7 @@ UnitStat,ankita8985
 unittest,ravingmantis
 unival,cran
 univariateML,jonasmoss
+UniversalCVI,nwiroonsri
 universalmotif,bjmt
 universals,poissonconsulting
 universe,ropensci
@@ -22242,6 +22248,7 @@ WgtEff,joshlmiller1978
 WH,guillaumebiessy
 WhatIf,iqss
 WhatsR,cran
+whatthreewords,davidasmith
 wheatmap,zwdzwd
 whereami,yonicd
 whereport,gvdr
@@ -22332,6 +22339,7 @@ wordpiece,macmillancontentscience
 wordpiece.data,macmillancontentscience
 WordPools,friendly
 wordpredictor,pakjiddat
+wordPuzzleR,zhuxr11
 WordR,tomashovorka
 words,condwanaland
 wordsalad,emilhvitfeldt
