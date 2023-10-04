@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "hoodscanR",
+    "maintainer": "Ning Liu <liu.n@wehi.edu.au>",
+    "url": "https://github.com/davislaboratory/hoodscanr",
+    "registry": "bioc"
+  },
+  {
     "package": "mastR",
     "maintainer": "Jinjin Chen <chen.j@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/mastr",
