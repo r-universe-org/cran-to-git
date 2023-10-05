@@ -15,6 +15,11 @@
     "url": "https://github.com/mlverse/luz"
   },
   {
+    "package": "pysparklyr",
+    "maintainer": "Edgar Ruiz <edgar@posit.co>",
+    "url": "https://github.com/mlverse/pysparklyr"
+  },
+  {
     "package": "safetensors",
     "maintainer": "Daniel Falbel <daniel@posit.co>",
     "url": "https://github.com/mlverse/safetensors"
