@@ -41,6 +41,11 @@
     "subdir": "pkg"
   },
   {
+    "package": "validatesuggest",
+    "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
+    "url": "https://github.com/data-cleaning/validatesuggest"
+  },
+  {
     "package": "validatetools",
     "maintainer": "Edwin de Jonge <edwindjonge@gmail.com>",
     "url": "https://github.com/data-cleaning/validatetools"

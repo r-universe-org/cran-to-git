@@ -144,7 +144,7 @@ adaptMT,lihualei71
 adaptr,inceptdk
 ADAPTS,sdanzige
 adaptsmoFMRI,cran
-adaptTest,marcvdmb
+adaptTest,cran
 adaR,schochastics
 AdaSampling,pyanglab
 adbcdrivermanager,paleolimbot
@@ -173,7 +173,7 @@ adehabitatHR,clementcalenge
 adehabitatHS,clementcalenge
 adehabitatLT,clementcalenge
 adehabitatMA,clementcalenge
-adephylo,sdray
+adephylo,aursiber
 adepro,cran
 adept,martakarass
 adeptdata,martakarass
@@ -2899,6 +2899,7 @@ clr,apierrot
 clst,bioc
 clstutils,bioc
 clttools,yesimiao
+clubpro,timbeechey
 clubSandwich,jepusto
 clue,kurthornik
 ClueR,pyanglab
@@ -3173,6 +3174,7 @@ comapr,bioc
 comat,nowosad
 comato,cran
 COMBAT,mw201608
+combat.enigma,jrad1
 combi,centerforstatistics-ugent
 combinat,vjcitn
 combinationpvalues,cran
@@ -9193,6 +9195,7 @@ impute,hrpcisd
 imputeFin,dppalomar
 imputeGeneric,torockel
 imputeLCMD,samwieczorek
+ImputeLongiCovs,pmamouris
 imputeMissings,mjmeire
 imputeMulti,alexwhitworth
 imputeR,steffenmoritz
@@ -11852,7 +11855,6 @@ mixtur,jimgrange
 mixture,cran
 MixtureInf,cubranic
 MixtureMissing,hungtong
-MixtureRegLTIC,cran
 MixTwice,zzheng68
 MixviR,mikesovic
 mixvlmc,fabrice-rossi
@@ -14710,6 +14712,7 @@ plumber,rstudio
 plumberDeploy,meztez
 plumbertableau,rstudio
 plumbr,ggobi
+plume,arnaudgallou
 pluralize,hrbrmstr
 pluscode,doylem86
 plusser,cran
@@ -15942,6 +15945,7 @@ RareComb,vijaymp38
 Rarefy,elith95
 rareNMtests,luiscayuela
 RAREsim,meganmichelle
+rarestR,pzhaonet
 RareVariantVis,bioc
 RARfreq,hoyden0329
 Rarity,farewe
@@ -16158,6 +16162,7 @@ RcmdrPlugin.WorldFlora,roelandkindt
 RCMinification,cran
 rCNV,piyalkarum
 rco,jcrodriguez1989
+rcoder,nyuglobalties
 RColetum,geo-sapiens
 Rcollectl,vjcitn
 RColorBrewer,neuwirthe
@@ -18950,7 +18955,7 @@ simMSM,hreulen
 SimMultiCorrData,afialkowski
 simode,ramiyaari
 simodels,robinlovelace
-simPATHy,elizs88
+simPATHy,cran
 simPH,christophergandrud
 simphony,hugheylab
 simplace,gk-crop
@@ -19387,7 +19392,7 @@ SoundexBR,dmarcelinobr
 soundgen,tatters
 SoundShape,p-rocha
 SoupX,constantamateur
-SourceSet,elizs88
+SourceSet,cran
 sourcetools,kevinushey
 sovereign,tylerjpike
 sox,ly129
@@ -20609,6 +20614,7 @@ tcgaViz,ecamenen
 TcGSA,sistm
 tci,jarretrt
 TCIApathfinder,pamelarussell
+TCIU,qjoshua
 tcl,cran
 tcltk2,sciviews
 tclust,valentint
@@ -20961,6 +20967,7 @@ tif,ropensci
 tiff,s-u
 tigerhitteR,aiien61
 TIGERr,han-siyu
+tigers,emmanuelparadis
 tigerstats,homerhanumat
 tigger,ssnn-airr
 tightClust,cran
@@ -21509,6 +21516,7 @@ TurtleGraphics,gagolews
 Tushare,cran
 tutorial.helpers,ppbds
 TUWmodel,cran
+tv,eheinzen
 tvem,dziakj1
 tvgarch,cran
 tvgeom,cran
@@ -21637,6 +21645,7 @@ uni.survival.tree,cran
 uniah,yunrochung
 Unicode,kurthornik
 unicol,hneth
+UniExactFunTest,cran
 unifDAG,cran
 unifed,cran
 UnifiedDoseFinding,cran
@@ -21780,6 +21789,7 @@ validata,harrison4192
 validate,data-cleaning
 validateIt,cran
 validateRS,f-coppens
+validatesuggest,data-cleaning
 validatetools,data-cleaning
 VALIDICLUST,cran
 valmetrics,kriper0217
@@ -22302,6 +22312,7 @@ WikipediR,ironholds
 wikiprofiler,guangchuangyu
 wikitaxa,ropensci
 wikiTools,modesto-escobar
+wikkitidy,wikihistories
 wilcoxmed,dkzk96
 wildcard,wlandau
 wildlifeDI,jedalong
