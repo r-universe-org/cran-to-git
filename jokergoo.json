@@ -77,6 +77,12 @@
     "registry": "bioc"
   },
   {
+    "package": "simona",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/simona",
+    "registry": "bioc"
+  },
+  {
     "package": "simplifyEnrichment",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/simplifyenrichment",
