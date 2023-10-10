@@ -1718,7 +1718,6 @@ BISdata,enricoschumann
 bisectr,wch
 BiSEp,mwappett1986
 BiSeq,bioc
-bisg,rpvote
 bisque,jmhewitt
 BisqueRNA,cozygene
 BisRNA,carinelegrand
@@ -3197,7 +3196,6 @@ ComICS,yaelsteu
 CoMiRe,cran
 COMIX,shgrky
 commafree,t-kalinowski
-CommEcol,a-s-melo
 commentr,eribul
 CommKern,aljensen89
 common,dbosak01
@@ -5170,6 +5168,7 @@ EasyABC,r-forge
 easyAHP,marsdu1989
 easyalluvial,erblast
 easyanova,cran
+easybgm,cran
 EasyCellType,bioc
 easycensus,corymccartan
 easyclimate,verughub
@@ -5510,7 +5509,6 @@ EmissV,atmoschem
 EmiStatR,arturotorres
 EML,ropensci
 emld,ropensci
-eMLEloglin,cran
 EMLI,vy-du
 EMMAgeo,coffeemuggler
 emmeans,rvlenth
@@ -5674,7 +5672,6 @@ EpiSemble,diprosinha
 episensr,dhaine
 EpiSignalDetection,eu-ecdc
 epistack,genepi-genphyse
-epistasis,pariya
 epistasisGA,mnodzenski
 EpiStats,loremerdrignac
 EpistemicGameTheory,bilgeob
@@ -6566,6 +6563,7 @@ flowMap,bioc
 flowMatch,bioc
 flowMeans,bioc
 flowMerge,bioc
+flowml,boehringer-ingelheim
 flowPeaks,bioc
 flowPloidy,plantarum
 flowPlots,bioc
@@ -6986,6 +6984,7 @@ gainML,hhwangbo
 gains,cran
 GAIPE,cran
 galah,atlasoflivingaustralia
+galamm,lcbc-uio
 galigor,selesnow
 GALLO,pablobio
 galts,cran
@@ -7357,6 +7356,7 @@ GeoModels,vmoprojs
 GeoMongo,mlampros
 geomorph,geomorphr
 geomtextpath,allancameron
+geomultistar,josesamos
 GeomxTools,bioc
 geonames,ropensci
 geonapi,eblondel
@@ -7396,6 +7396,7 @@ gert,ropensci
 GeSciLiVis,cran
 GESE,cran
 gesisdata,fsolt
+geslaR,eireextremes
 gespeR,bioc
 gesso,cran
 gestalt,egnha
@@ -8371,6 +8372,7 @@ Haplin,hkgjess
 haplo.ccs,vubiostat
 haplo.stats,sinnweja
 HaploCatcher,zjwinn
+haploR,cran
 HaploSim,albartcoster
 haplotyper,gastonquero
 haplotypes,cnrakt
@@ -10215,6 +10217,7 @@ lcyanalysis,john401528
 lda,slycoder
 LDAandLDAS,cran
 LDABiplots,pilacuan-bonete-luis
+LDAcoop,zytohmgu
 ldamatch,kylebgorman
 ldaPrototype,jonasrieger
 LDAShiny,javierdelahoz
@@ -10288,7 +10291,6 @@ legion,config-i1
 legislatoR,saschagobel
 LEGIT,alexiajm
 legocolors,leonawicz
-lehdr,jamgreen
 leiden,tomkellygenetics
 leidenAlg,kharchenkolab
 leidenbase,cole-trapnell-lab
@@ -11160,7 +11162,6 @@ MCAvariants,cran
 mcb,heming0425
 MCBackscattering,cran
 mcbette,ropensci
-mcBFtest,cran
 MCbiclust,bioc
 mcbiopi,holgerschw
 mcboost,mlr-org
@@ -11691,6 +11692,7 @@ mined,cran
 MinEDfind,cran
 MineICA,bioc
 minerva,filosi
+mineSweepR,zhuxr11
 minet,meyerp-software
 minfi,hansenlab
 miniCRAN,andrie
@@ -12362,7 +12364,6 @@ MSigSeg,cran
 mSigTools,rozen-lab
 mSimCC,dmorinya
 msImpute,davislaboratory
-MSinference,cran
 MSiP,mrbakhsh
 msir,luca-scr
 mskcc.oncotree,maialab
@@ -14244,6 +14245,7 @@ PEkit,amiryousefilab
 pell,curious-joe
 PELVIS,frederic-santos
 pema,cjvanlissa
+pempi,stephaneguerrier
 pems.utils,r-forge
 pemultinom,ytstat
 penAFT,cran
@@ -16968,7 +16970,6 @@ rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
 rJava,s-u
-rjazz,kaalam
 RJcluster,rshudde
 RJDBC,s-u
 RJDemetra,jdemetra
@@ -20276,7 +20277,7 @@ SurrogateRsq,xiaoruizhu
 SurrogateTest,laylaparast
 surrosurv,oncostat
 surrosurvROC,yunrochung
-suRtex,mtnman38
+suRtex,consolecowboy0
 surv2sampleComp,mikihoriguchi
 survAH,mikihoriguchi
 survAUC,fbertran
@@ -21197,7 +21198,7 @@ tradestatistics,ropensci
 Trading,sa-ccr
 TrafficBDE,okgreece
 trafo,akreutzmann
-traineR,cran
+traineR,promidat
 trainR,villegar
 traipse,trackage
 traits,ropensci
@@ -21882,7 +21883,6 @@ VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
 vecsets,cran
-VecStatGraphs2D,cran
 VectorCodeR,cran
 vectorwavelet,toygur
 VedicDateTime,prajwalkpatil

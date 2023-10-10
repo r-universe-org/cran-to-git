@@ -1,5 +1,10 @@
 [
   {
+    "package": "flowml",
+    "maintainer": "Sebastian Malkusch <sebastian.malkusch@boehringer-ingelheim.com>",
+    "url": "https://github.com/boehringer-ingelheim/flowml"
+  },
+  {
     "package": "oncomsm",
     "maintainer": "Kevin Kunzmann <kevin.kunzmann@boehringer-ingelheim.com>",
     "url": "https://github.com/boehringer-ingelheim/oncomsm"
