@@ -4470,6 +4470,7 @@ dfadjust,kolesarm
 dfcomb,jhjourdan
 dfCompare,swaldroff
 dfcrm,jkd2108
+DFD,mohmedsoudy
 dfdr,konrad1991
 dfidx,ycroissant
 DFIT,herulor
@@ -7373,7 +7374,7 @@ geosed,cran
 geosimilarity,cran
 geospark,harryprince
 geosphere,rspatial
-geospt,cran
+geospt,amsantac
 geosptdb,carlosm77
 geostan,connordonegan
 geostats,pvermees
@@ -7686,7 +7687,6 @@ giacR,stla
 gibasa,paithiov909
 gibble,mdsumner
 GIC,buybnb
-giedata,cran
 gif,cran
 Gifi,r-forge
 gifski,r-rust
@@ -8649,6 +8649,7 @@ histoslider,cpsievert
 histry,gmbecker
 hitandrun,gertvv
 HiTC,bioc
+hivdata,imranshakoor
 hive,theussl
 HiveR,bryanhanson
 hJAM,uscbiostats
@@ -17995,6 +17996,7 @@ samplesize,shearer
 SampleSize4ClinicalTrials,qihongchao
 samplesize4surveys,psirusteam
 samplesizeCMH,spectrumhealthresearch
+samplesizeestimator,dr-amala-kumarapandiyan
 samplesizelogisticcasecontrol,wheelerb
 SampleSizeMeans,cran
 SampleSizeProportions,cran
@@ -18030,10 +18032,12 @@ sanityTracker,marselscheer
 sankey,gaborcsardi
 sankeywheel,r-stata
 sanon,cran
+SANple,laura-dangelo
 sansa,cran
 SANTA,alexjcornish
 santaR,adwolfer
 santoku,hughjonesd
+SANvi,fradenti
 sanzo,jmaasch
 saotd,evan-l-munson
 SAP,hsnbulut
@@ -18934,6 +18938,7 @@ simitation,srivastavbudugutta
 simITS,lmiratrix
 SimJoint,whateverliu
 simlandr,sciurus365
+SIMle,xcding1212
 SIMLR,bioc
 simmer,r-simmer
 simmer.bricks,r-simmer
@@ -20648,6 +20653,7 @@ TeachNet,cran
 teal.code,insightsengineering
 teal.logger,gogonzo
 teal.reporter,insightsengineering
+teal.widgets,insightsengineering
 tealeaves,cdmuir
 TEAM,jbp7
 teamcolors,beanumber
