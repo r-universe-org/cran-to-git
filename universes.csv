@@ -591,6 +591,7 @@ APAlyzer,rjwangbioinfo
 apaTables,dstanley4
 apaText,dstanley4
 apc,cran
+APCalign,traitecoevo
 APCanalysis,ardenewan
 apcf,rnuske
 APCI,jiahui1902
@@ -1858,7 +1859,6 @@ boinet,cran
 BOJ,cran
 bolasso,dmolitor
 bold,ropensci
-bolsec,alvaroitapia
 Bolstad,jmcurran
 Bolstad2,jmcurran
 BoltzMM,andrewthomasjones
@@ -5227,6 +5227,7 @@ EBSEA,bioc
 EBSeq,bioc
 EBSeqHMM,bioc
 ebTobit,barbehenna
+ebvcube,luisequoss
 ec50estimator,alvesks
 ecan,matutosi
 eCAR,gpage2990
@@ -7335,6 +7336,7 @@ geofd,pedrodelicado
 geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
+geogenr,josesamos
 geogrid,jbaileyh
 geohashTools,michaelchirico
 geojson,ropensci
@@ -9254,6 +9256,7 @@ iNETgrate,bioc
 iNEXT,johnsonhsieh
 infer,tidymodels
 infercnv,broadinstitute
+inferCSN,mengxu98
 InferenceSMR,detal9
 inferference,bsaul
 inferr,rsquaredacademy
@@ -10626,6 +10629,7 @@ longCatEDA,stueller
 LongDat,ccy-dev
 longit,atanubhattacharjee
 longitudinal,cran
+longitudinalANAL,cran
 longitudinalcascade,noahhaber
 longitudinalData,cran
 LongituRF,sistm
@@ -11221,6 +11225,7 @@ MCPModPack,medianasoft
 mcprofile,daniel-gerhard
 MCPtests,cran
 mcr,cran
+mcradds,kaigu1990
 mcreplicate,christophergandrud
 MCS,cran
 mCSEA,bioc
@@ -11956,6 +11961,7 @@ mlrpro,cran
 mlsbm,carter-allen
 MLSeq,bioc
 mlsjunkgen,scumdogsteev
+mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
 mlt,r-forge
 mlt.docreg,r-forge
@@ -12052,7 +12058,6 @@ mod2rm,cran
 MODA,bioc
 modACDC,uscbiostats
 Modalclust,surajitstat
-modchart,byadu
 ModCon,caggtaagtat
 modeest,paulponcet
 modehunt,numbersman77
@@ -12239,7 +12244,7 @@ MPCI,edgarsantos-fernandez
 MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
-MPI,fuhneh
+MPI,9pointeight
 mpindex,yng-me
 MPLikelihoodWB,hasinurkhan
 mplot,garthtarr
@@ -13894,6 +13899,7 @@ pald,lucymcgowan
 paleobioDB,ropensci
 paleobuddy,brpetrucci
 paleomorph,timcdlucas
+paleopop,globalecologylab
 paleotree,dwbapst
 paleoTS,cran
 paletteer,emilhvitfeldt
@@ -18747,6 +18753,7 @@ shinyKGode,glasgowcompbio
 shinyKnobs,cotepat
 shinylight,cran
 ShinyLink,yaoxiangli
+shinylive,posit-dev
 shinyloadtest,rstudio
 shinylogs,dreamrs
 shinyLP,jasdumas
