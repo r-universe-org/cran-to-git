@@ -1,5 +1,10 @@
 [
   {
+    "package": "scSpatialSIM",
+    "maintainer": "Fridley Lab <fridley.lab@moffitt.org>",
+    "url": "https://github.com/fridleylab/scspatialsim"
+  },
+  {
     "package": "spatialTIME",
     "maintainer": "Fridley Lab <fridley.lab@moffitt.org>",
     "url": "https://github.com/fridleylab/spatialtime"
