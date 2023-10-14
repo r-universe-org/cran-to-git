@@ -416,7 +416,6 @@ AlphaBeta,bioc
 alphabetr,edwardslee
 alphaci,jonasmoss
 alphahull,beatrizpateiro
-AlphaHull3D,stla
 alphaN,jespernwulff
 alphaOutlier,cran
 AlphaPart,cran
@@ -2559,7 +2558,6 @@ cfTools,jasminezhoulab
 cg,cran
 cgaim,pierremasselot
 cgal4h,dickoa
-cgalMeshes,stla
 cgalPolygons,stla
 cgam,cran
 cgAUC,curare7177
@@ -4312,7 +4310,6 @@ degross,plambertuliege
 DEGseq,bioc
 dejaVu,cran
 Delaporte,aadler
-delaunay,stla
 delayed,tlverse
 DelayedArray,bioconductor
 DelayedDataFrame,bioconductor
@@ -5071,7 +5068,7 @@ dual.spls,alsoukil
 dualtrees,s6sebusc
 duawranglr,btskinner
 dub,egnha
-duckdb,hannes
+duckdb,duckdb
 duckdbfs,cboettig
 duckduckr,dirkschumacher
 duckplyr,duckdblabs
@@ -6236,6 +6233,7 @@ fcci,vgherard
 fcfdr,annahutch
 fCI,bioc
 fcirt,naidantu
+fcl,shrektan
 fclust,cran
 fcm,liadd
 FCMapper,shaunturney
@@ -7101,6 +7099,7 @@ gcapc,tengmx
 gCat,cran
 gcatest,storeylab
 gcbd,eddelbuettel
+GCCfactor,rl1081
 GCD,oblarquez
 gcdnet,archer-yang-lab
 gcerisk,cran
@@ -8365,7 +8364,7 @@ hamlet,syksy
 handcodeR,liserman
 handlr,ropensci
 HandTill2001,fvafrcu
-handwriter,jamesetay1
+handwriter,csafe-isu
 handyFunctions,luffylouis
 handyplots,schwartstack
 hans,cran
@@ -12663,6 +12662,7 @@ mvoutlier,petertuwien
 mvp,robinhankin
 MVPBT,nomahi
 mvpd,swihart
+mvPot,r-fndv
 mvProbit,arne-henningsen
 mvQuad,weiserc
 MVQuickGraphs,douglaswhitaker
@@ -15585,6 +15585,7 @@ QRIpkg,abestsg
 qris,kyuhyun07
 QRISK3,yanliuk
 qrjoint,cran
+qrlabelr,awkena
 qrLMM,chedgala
 QRM,bpfaff
 qrmdata,cran
@@ -22376,6 +22377,7 @@ wooldridge,justinmshea
 worcs,cjvanlissa
 word.alignment,cran
 word2vec,bnosac
+wordbankr,langcog
 wordcloud,ifellows
 wordcloud2,lchiffon
 wordler,davidasmith
@@ -22397,7 +22399,6 @@ workloopR,ropensci
 WorldFlora,roelandkindt
 worldfootballR,jaseziv
 worldmet,davidcarslaw
-worldriskpollr,david-hammond
 WormTensor,rikenbit
 worrms,ropensci
 worrrd,anthonypileggi
