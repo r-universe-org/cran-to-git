@@ -887,6 +887,7 @@ biobtreeR,https://github.com/tamerh/biobtreer,,bioc
 bioC.logs,https://github.com/mponce0/bioc.logs,,
 bioCancer,https://github.com/kmezhoud/biocancer,,bioc
 BiocBaseUtils,https://github.com/bioconductor/biocbaseutils,,bioc
+BiocBook,https://github.com/js2264/biocbook,,bioc
 BiocCheck,https://github.com/bioconductor/bioccheck,,bioc
 BiocFHIR,https://github.com/vjcitn/biocfhir,,bioc
 BiocFileCache,https://github.com/bioconductor/biocfilecache,,bioc
@@ -1366,6 +1367,7 @@ ccmEstimator,https://github.com/xiw021/ccmestimator,,
 CCMMR,https://github.com/djwtouw/ccmmr,,
 ccmReportR,https://github.com/durhamregionharp/ccmreportr,,
 ccostr,https://github.com/larshernandez/ccostr,,
+CCPlotR,https://github.com/sarah145/ccplotr,,bioc
 ccpsyc,https://github.com/jo-karl/ccpsyc,,
 ccrtm,https://github.com/marcodvisser/ccrtm,,
 ccTensor,https://github.com/rikenbit/cctensor,,
@@ -1484,6 +1486,7 @@ ChemoSpec2D,https://github.com/bryanhanson/chemospec2d,,
 ChemoSpecUtils,https://github.com/bryanhanson/chemospecutils,,
 cherryblossom,https://github.com/openintrostat/cherryblossom,,
 chess,https://github.com/curso-r/chess,,
+chessboard,https://github.com/frbcesab/chessboard,,
 CHETAH,https://github.com/jdekanter/chetah,,bioc
 chi,https://github.com/dkahle/chi,,
 chihaya,https://github.com/artifactdb/chihaya-r,,bioc
@@ -3628,6 +3631,7 @@ fedstatAPIr,https://github.com/denchpokepon/fedstatapir,,
 fedup,https://github.com/rosscm/fedup,,bioc
 feisr,https://github.com/ruettenauer/feisr,,
 felp,https://github.com/atusy/felp,,
+fenr,https://github.com/bartongroup/fenr,,bioc
 FEprovideR,https://github.com/umich-biostatistics/feprovider,,
 FER,https://github.com/pyfe/fe-r,pkg,
 fergm,https://github.com/benjamin-w-campbell/fergm,,
@@ -4271,6 +4275,7 @@ gfoRmula,https://github.com/causalinference/gformula,,
 gFormulaMI,https://github.com/jwb133/gformulami,,
 gfpop,https://github.com/vrunge/gfpop,,
 gg.gap,https://github.com/chrislou-bioinfo/gg.gap,,
+gg4way,https://github.com/ben-laufer/gg4way,,bioc
 ggaligner,https://github.com/mohmedsoudy/ggaligner,,
 ggalignment,https://github.com/aftonsteps/ggalignment,,
 ggallin,https://github.com/shabbychef/ggallin,,
@@ -4836,7 +4841,7 @@ h2otools,https://github.com/haghish/h2otools,,
 H2x2Factorial,https://github.com/billytian/h2x2factorial,,
 h3jsr,https://github.com/obrl-soil/h3jsr,,
 h3lib,https://github.com/symbolixau/h3lib,,
-h3r,https://github.com/symbolixau/h3r,,
+h3r,https://github.com/symbolixau/h3r,,archived
 habCluster,https://github.com/qiangxyz/habcluster,,
 hablar,https://github.com/davidsjoberg/hablar,,
 hackeRnews,https://github.com/szymanskir/hackernews,,
@@ -6445,6 +6450,7 @@ MDMR,https://github.com/dmcartor/mdmr,,
 mdpeer,https://github.com/martakarass/mdpeer,,
 MDplot,https://github.com/mdplot/mdplot,MDplot,
 mds,https://github.com/gchung05/mds,,
+mdsdt,https://github.com/hawkrobe/mdsdt,,archived
 mdsr,https://github.com/mdsr-book/mdsr,,
 meanr,https://github.com/wrathematics/meanr,,
 meanShiftR,https://github.com/jlisic/meanshiftr,,
@@ -6566,7 +6572,7 @@ MetaUtility,https://github.com/mayamathur/metautility,,
 metavcov,https://github.com/luminwin/metavcov,,
 metaviz,https://github.com/mkossmeier/metaviz,,
 metawho,https://github.com/shixiangwang/metawho,,
-meteo,https://github.com/r-forge/meteo,pkg,
+meteo,https://github.com/aleksandarsekulic/rmeteo,,
 meteoEVT,https://github.com/noctiluc3nt/meteoevt,,
 meteoForecast,https://github.com/oscarperpinan/meteoforecast,,
 meteoland,https://github.com/emf-creaf/meteoland,,
@@ -8401,6 +8407,7 @@ plumbertableau,https://github.com/rstudio/plumbertableau,,
 plumbr,https://github.com/ggobi/plumbr,,
 plume,https://github.com/arnaudgallou/plume,,
 pluralize,https://gitlab.com/hrbrmstr/pluralize,,
+plyinteractions,https://github.com/js2264/plyinteractions,,bioc
 plyr,https://github.com/hadley/plyr,,
 plyranges,https://github.com/sa-lee/plyranges,,bioc
 PMA,https://github.com/bnaras/pma,,
@@ -9782,7 +9789,7 @@ RIVER,https://github.com/ipw012/river,,bioc
 riverconn,https://github.com/damianobaldan/riverconn,,
 riverdist,https://github.com/mbtyers/riverdist,,
 riverplot,https://github.com/january3/riverplot,,
-rivnet,https://github.com/lucarraro/rivnet,,archived
+rivnet,https://github.com/lucarraro/rivnet,,
 rivr,https://github.com/mkoohafkan/rivr,,
 RJafroc,https://github.com/dpc10ster/rjafroc,,
 rJava,https://github.com/s-u/rjava,,

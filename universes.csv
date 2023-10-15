@@ -1068,7 +1068,6 @@ bartMachine,cran
 bartMachineJARs,cran
 BartMixVs,chujiluo
 baRulho,marce10
-Barycenter,marcelklatt
 BAS,merliseclyde
 basad,qingdan
 base.rms,cran
@@ -1602,6 +1601,7 @@ biobtreeR,tamerh
 bioC.logs,mponce0
 bioCancer,kmezhoud
 BiocBaseUtils,bioconductor
+BiocBook,js2264
 BiocCheck,bioconductor
 BiocFHIR,vjcitn
 BiocFileCache,bioconductor
@@ -2419,6 +2419,7 @@ ccmReportR,durhamregionharp
 ccoptimalmatch,cran
 ccostr,larshernandez
 CCP,uwemenzel
+CCPlotR,sarah145
 CCPROMISE,bioc
 ccpsyc,jo-karl
 ccRemover,cran
@@ -2636,6 +2637,7 @@ ChernoffDist,cran
 cherry,jellegoeman
 cherryblossom,openintrostat
 chess,curso-r
+chessboard,frbcesab
 chest,uqwang
 CHETAH,jdekanter
 CHFF,kylecaudle
@@ -4998,6 +5000,7 @@ DSAIRM,ahgroup
 DSAM,lark-max
 dsample,cran
 dsb,niaid
+DSBayes,rvaradhan
 dscore,d-score
 dsdp,tsuchiya-lab
 dse,r-forge
@@ -6313,6 +6316,7 @@ felp,atusy
 feltr,cran
 fence,cran
 FENmlm,cran
+fenr,bartongroup
 FEprovideR,umich-biostatistics
 FER,pyfe
 fergm,benjamin-w-campbell
@@ -7459,6 +7463,7 @@ gfoRmula,causalinference
 gFormulaMI,jwb133
 gfpop,vrunge
 gg.gap,chrislou-bioinfo
+gg4way,ben-laufer
 ggaligner,mohmedsoudy
 ggalignment,aftonsteps
 ggallin,shabbychef
@@ -11485,7 +11490,7 @@ metawho,shixiangwang
 MetBrewer,cran
 MetChem,tkcaccia
 MetCirc,bioc
-meteo,r-forge
+meteo,aleksandarsekulic
 meteoEVT,noctiluc3nt
 meteoForecast,oscarperpinan
 meteoland,emf-creaf
@@ -13809,7 +13814,6 @@ outlierensembles,sevvandi
 outliers,luqqe
 OutliersO3,impaug
 outliertree,david-cortes
-OutrankingTools,cran
 outreg,kota7
 OUTRIDER,gagneurlab
 OutSplice,guolabucsd
@@ -14631,6 +14635,7 @@ plasma,r-forge
 PlasmaMutationDetector,cran
 PlasmaMutationDetector2,yrozen-biostm
 Plasmidprofiler,thezetner
+plasmut,bioc
 plasso,stefan-1997
 plater,ropensci
 platetools,swarchal
@@ -14728,6 +14733,7 @@ plume,arnaudgallou
 pluralize,hrbrmstr
 pluscode,doylem86
 plusser,cran
+plyinteractions,js2264
 plyr,hadley
 plyranges,sa-lee
 pm3,cran
@@ -15478,7 +15484,6 @@ qap,mhahsler
 qape,cran
 Qapprox,wpihongzhang
 Qardl,zedtaha
-qat,cran
 qbld,ayushmclaren
 QBMS,icarda-git
 qboxplot,thomaswpike
