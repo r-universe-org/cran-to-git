@@ -1,7 +1,47 @@
 [
   {
+    "package": "DoE.base",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/DoE.base"
+  },
+  {
+    "package": "DoE.MIParray",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/DoE.MIParray"
+  },
+  {
+    "package": "DoE.wrapper",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/DoE.wrapper"
+  },
+  {
+    "package": "FrF2",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/FrF2"
+  },
+  {
+    "package": "FrF2.catlg128",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/FrF2.catlg128"
+  },
+  {
+    "package": "ic.infer",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/ic.infer"
+  },
+  {
     "package": "prepplot",
     "maintainer": "Ulrike Groemping <groemping@beuth-hochschule.de>",
     "url": "https://github.com/cran/prepplot"
+  },
+  {
+    "package": "RcmdrPlugin.DoE",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/RcmdrPlugin.DoE"
+  },
+  {
+    "package": "relaimpo",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/cran/relaimpo"
   }
 ]

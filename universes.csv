@@ -2615,7 +2615,6 @@ checkhelper,thinkr-open
 checkLuhn,adamjdeacon
 checkmate,mllg
 checkpoint,revolutionanalytics
-checkr,poissonconsulting
 checkthat,iancero
 cheddar,quicklizard99
 cheem,nspyrison
@@ -3299,7 +3298,7 @@ conductor,etiennebacher
 condusco,ras44
 condvis,markajoc
 condvis2,cbhurley
-coneproj,clair2014csu
+coneproj,cran
 conf,cran
 conf.design,billvenables
 CONFESS,bioc
@@ -4840,9 +4839,9 @@ docxtools,graphdr
 docxtractr,hrbrmstr
 Dodge,ajrgodfrey
 dodgr,urbananalyst
-DoE.base,cran
-DoE.MIParray,cran
-DoE.wrapper,cran
+DoE.base,ugroempi
+DoE.MIParray,ugroempi
+DoE.wrapper,ugroempi
 doebioresearch,popatraj
 DOEM,cran
 DoEstRare,cran
@@ -6810,8 +6809,8 @@ FRESA.CAD,josetamezpena
 fresh,dreamrs
 FRESHD,adam-lund
 freshr,shawnlinxl
-FrF2,cran
-FrF2.catlg128,cran
+FrF2,ugroempi
+FrF2.catlg128,ugroempi
 FRGEpistasis,bioc
 FRI,dromarnrc
 frictionless,ropensci
@@ -8953,7 +8952,7 @@ IBrokers,joshuaulrich
 IBRtools,ecologicaltools
 ibs,fchenhku
 iBST,cyprien84
-ic.infer,cran
+ic.infer,ugroempi
 iC10,cran
 iC10TrainingData,cran
 ica,cran
@@ -9583,7 +9582,7 @@ IsoCheck,cran
 isocir,sandra-barragan
 ISOcodes,kurthornik
 IsoCor,janlisec
-IsoCorr,jeroen-schreel
+IsoCorr,cran
 IsoCorrectoR,bioc
 IsoCorrectoRGUI,bioc
 isodistrreg,alexanderhenzi
@@ -13290,6 +13289,7 @@ npsurvSS,godwinyyung
 nptest,cran
 npwbs,cran
 nrba,cran
+nRegression,srivastavbudugutta
 NRejections,mayamathur
 nricens,eisuke-inoue
 NSAE,cran
@@ -16152,7 +16152,7 @@ RcmdrPlugin.cpd,svilchez
 RcmdrPlugin.DCCV,cran
 RcmdrPlugin.DCE,cran
 RcmdrPlugin.depthTools,aurora-torrente
-RcmdrPlugin.DoE,cran
+RcmdrPlugin.DoE,ugroempi
 RcmdrPlugin.EACSPIR,dleivaur79
 RcmdrPlugin.EBM,danny-ldc
 RcmdrPlugin.EcoVirtual,cran
@@ -16560,7 +16560,7 @@ ReinforcementLearning,nproellochs
 ReIns,treynkens
 reinstallr,calligross
 reinsureR,cran
-relaimpo,cran
+relaimpo,ugroempi
 relatable,domjarkey
 Relatedness,fabienlaporte
 relations,kurthornik
@@ -17966,6 +17966,7 @@ saeHB.panel,veliatrimarliana
 saeHB.panel.beta,dianrahmawatisalis
 saeHB.spatial,arinams
 saeHB.twofold,reymath99
+saeHB.unit,alfrzlp
 saeHB.ZIB,rizqinar
 saeHB.zinb,hayunbuto
 saekernel,wicaksh
@@ -19926,7 +19927,6 @@ stabreg,cran
 stabs,hofnerb
 StackImpute,mkleinsa
 stacking,onogi
-stackoverflow,nfultz
 stacks,tidymodels
 stacomiR,cran
 stacomirtools,cran
@@ -21019,6 +21019,7 @@ timelineS,daheelee
 timeOmics,abodein
 timeordered,bblonder
 timeperiodsR,selesnow
+timeplyr,nicchr
 timeR,yusuzech
 timereg,scheike
 timeROC,paulowhite
