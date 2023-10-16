@@ -396,12 +396,6 @@
     "subdir": "pkg/loa"
   },
   {
-    "package": "maptools",
-    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
-    "url": "https://github.com/r-forge/maptools",
-    "subdir": "pkg"
-  },
-  {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
@@ -603,18 +597,6 @@
     "package": "Rcplex",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-project.org>",
     "url": "https://github.com/r-forge/rcplex",
-    "subdir": "pkg"
-  },
-  {
-    "package": "rgdal",
-    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
-    "url": "https://github.com/r-forge/rgdal",
-    "subdir": "pkg"
-  },
-  {
-    "package": "rgeos",
-    "maintainer": "Roger Bivand <Roger.Bivand@nhh.no>",
-    "url": "https://github.com/r-forge/rgeos",
     "subdir": "pkg"
   },
   {
