@@ -69,7 +69,8 @@
     "package": "cffdrs",
     "maintainer": "Alan Cantin <Alan.Cantin@nrcan-rncan.gc.ca>",
     "url": "https://github.com/r-forge/cffdrs",
-    "subdir": "pkg/cffdrs"
+    "subdir": "pkg/cffdrs",
+    "registry": "archived"
   },
   {
     "package": "CHNOSZ",
@@ -393,7 +394,8 @@
     "package": "loa",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/loa",
-    "subdir": "pkg/loa"
+    "subdir": "pkg/loa",
+    "registry": "archived"
   },
   {
     "package": "Matrix",
