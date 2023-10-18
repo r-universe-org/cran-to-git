@@ -231,7 +231,7 @@
   },
   {
     "package": "drake",
-    "maintainer": "William Michael Landau <will.landau@gmail.com>",
+    "maintainer": "William Michael Landau <will.landau.oss@gmail.com>",
     "url": "https://github.com/ropensci/drake"
   },
   {
@@ -578,12 +578,6 @@
     "package": "outcomerate",
     "maintainer": "Rafael Pilliard Hellwig <rafael.taph@gmail.com>",
     "url": "https://github.com/ropensci/outcomerate"
-  },
-  {
-    "package": "paleobioDB",
-    "maintainer": "Sara Varela <svarela@paleobiogeography.org>",
-    "url": "https://github.com/ropensci/paleobiodb",
-    "registry": "archived"
   },
   {
     "package": "pangaear",

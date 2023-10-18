@@ -1,5 +1,11 @@
 [
   {
+    "package": "BioCartaImage",
+    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
+    "url": "https://github.com/jokergoo/biocartaimage",
+    "registry": "bioc"
+  },
+  {
     "package": "bsub",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/bsub"
