@@ -528,7 +528,7 @@ AnnotationForge,bioconductor
 AnnotationHub,bioconductor
 AnnotationHubData,bioc
 annotationTools,bioc
-annotator,cran
+annotator,valcu
 annotatr,rcavalcante
 AnnuityRIR,fabriziomaturo
 anocva,macielcalebe
@@ -2868,6 +2868,7 @@ cloneRate,bdj34
 CloneSeeker,cran
 CLONETv2,cran
 clordr,cran
+cloudfs,g6t
 cloudml,dfalbel
 cloudos,lifebit-ai
 cloudstoR,pdparker
@@ -4164,6 +4165,7 @@ dcmle,datacloning
 dcmodify,data-cleaning
 DCODE,sophie-lebre
 dcortools,edelmand21
+dcorVS,cran
 dcov,cran
 dCovTS,cran
 DCPO,fsolt
@@ -4438,6 +4440,7 @@ dfCompare,swaldroff
 dfcrm,jkd2108
 DFD,mohmedsoudy
 dfdr,konrad1991
+dfexpand,jlpainter
 dfidx,ycroissant
 DFIT,herulor
 dfmeta,artemis-toumazi
@@ -7019,7 +7022,6 @@ gaston,cran
 GateFinder,bioc
 gatepoints,wjawaid
 gateR,lance-waller-lab
-gatoRs,nataliepatten
 GauPro,collinerickson
 gauseR,adamtclark
 gausscov,cran
@@ -7658,6 +7660,7 @@ GillespieSSA,rcannood
 GillespieSSA2,rcannood
 gim,zhangh12
 gimme,gateslab
+GimmeMyPlot,ecamenen
 gimmeTools,cran
 gimms,environmentalinformatics-marburg
 GiNA,cran
@@ -10880,6 +10883,7 @@ Mapinguari,gabrielhoc
 mapiso,riatelab
 MAPITR,mturchin20
 mAPKL,bioc
+maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmisc,cran
 mapping,serafinialessio
@@ -15241,7 +15245,7 @@ psSubpathway,hanjunwei-lab
 PST,r-forge
 Pstat,cran
 pstest,pedrohcgs
-PStrata,cran
+PStrata,laubok
 PSW,lenmade
 PSweight,thuizhou
 psy,cran
@@ -16287,6 +16291,7 @@ readxl,tidyverse
 readxlsb,velofrog
 readysignal,davis-busteed
 realtest,gagolews
+realTimeloads,dlivsey
 RealVAMS,akarl46556
 reappraised,cran
 Rearrangement,ivanfernandezval
@@ -16859,7 +16864,6 @@ RiverBuilder,profpasternack
 riverconn,damianobaldan
 riverdist,mbtyers
 rivernet,peterreichert
-riverplot,january3
 Rivivc,cran
 rivnet,lucarraro
 rivr,mkoohafkan
@@ -18070,7 +18074,7 @@ scFeatureFilter,bioc
 scFeatures,sydneybiox
 scGate,carmonalab
 SCGLR,scnext
-scGOclust,functional-genomics
+scGOclust,papatheodorou-group
 scGPS,imb-computational-genomics-lab
 scgwr,dmuraka
 schemr,stuart-morrison
@@ -20108,7 +20112,7 @@ supc,wush978
 supclust,mmaechler
 supcluster,cran
 superb,dcousin3
-superbiclust,cran
+superbiclust,tkhamiak
 supercells,nowosad
 supercompress,cran
 superdiag,lbaole17
@@ -20689,6 +20693,7 @@ tgstat,tanaylab
 tgver,tgve
 TH.data,thothorn
 thaipdf,lightbridge-ks
+thames,njirons
 thankr,dirkschumacher
 ThankYouStars,ksmzn
 theft,hendersontrent
@@ -22420,6 +22425,7 @@ yhatr,yhat
 YieldCurve,cran
 yll,antoinesoetewey
 ymd,shrektan
+Ymisc,yrhwang90
 ymlthis,r-lib
 ympes,timtaylor
 yorkr,tvganesh
