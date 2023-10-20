@@ -45,6 +45,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ggsc",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/ggsc",
+    "registry": "bioc"
+  },
+  {
     "package": "ggtree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggtree",

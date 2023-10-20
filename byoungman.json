@@ -1,5 +1,10 @@
 [
   {
+    "package": "deform",
+    "maintainer": "Ben Youngman <b.youngman@exeter.ac.uk>",
+    "url": "https://github.com/cran/deform"
+  },
+  {
     "package": "evgam",
     "maintainer": "Ben Youngman <b.youngman@exeter.ac.uk>",
     "url": "https://github.com/cran/evgam"

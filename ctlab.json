@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "gatom",
+    "maintainer": "Alexey Sergushichev <alsergbox@gmail.com>",
+    "url": "https://github.com/ctlab/gatom",
+    "registry": "bioc"
+  },
+  {
     "package": "mwcsr",
     "maintainer": "Alexander Loboda <aleks.loboda@gmail.com>",
     "url": "https://github.com/ctlab/mwcsr"

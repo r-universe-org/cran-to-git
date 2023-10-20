@@ -11,6 +11,12 @@
     "url": "https://github.com/rnabioco/ggtrace"
   },
   {
+    "package": "raer",
+    "maintainer": "Kent Riemondy <kent.riemondy@gmail.com>",
+    "url": "https://github.com/rnabioco/raer",
+    "registry": "bioc"
+  },
+  {
     "package": "valr",
     "maintainer": "Kent Riemondy <kent.riemondy@cuanschutz.edu>",
     "url": "https://github.com/rnabioco/valr"

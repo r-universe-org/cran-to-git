@@ -1721,6 +1721,7 @@ Bivariate.Pareto,cran
 bivariatemaps,hidasi
 BivGeo,ricardopuziol
 bivgeom,cran
+bivpois,cran
 BivRec,sandracastropearson
 BivRegBLS,cran
 bivrp,cran
@@ -3745,6 +3746,7 @@ crunch,crunch-io
 crunchy,crunch-io
 cruts,bentaylor1
 CruzPlot,smwoodman
+crwbmetareg,cran
 CRWRM,cran
 cry,jfoadi
 crypto2,sstoeckl
@@ -4268,6 +4270,7 @@ deflateBR,meirelesff
 deflist,bbuchsbaum
 defm,gvegayon
 deforestable,otryakhin-dmitry
+deform,byoungman
 DEFormats,aoles
 deformula,okamumu
 degday,ucanr-igis
@@ -5360,6 +5363,7 @@ EGAnet,hfgolino
 egcm,matthewclegg
 egg,baptiste
 eggCounts,cran
+eglhmm,cran
 EgoCor,julia-dyck
 egor,tilltnet
 EGRET,doi-usgs
@@ -7022,6 +7026,7 @@ gaston,cran
 GateFinder,bioc
 gatepoints,wjawaid
 gateR,lance-waller-lab
+gatom,ctlab
 GauPro,collinerickson
 gauseR,adamtclark
 gausscov,cran
@@ -7583,6 +7588,7 @@ ggrisk,cran
 ggrounded,botan
 ggroups,nilforooshan
 ggRtsy,katelyndiaz
+ggsc,yulab-smu
 ggsci,nanxstats
 ggseas,ellisp
 ggsector,yanpd01
@@ -7785,7 +7791,7 @@ glogis,zeileis
 GloScope,epurdom
 glossary,debruine
 glossr,montesmariana
-glottospace,sietzen
+glottospace,glottospace
 glow,traversc
 glpkAPI,mihai-sysbio
 gLRTH,cran
@@ -10700,6 +10706,7 @@ ltm,drizopoulos
 ltmix,martinblostein
 ltmle,joshuaschwab
 LTPDvar,cran
+LTRCforests,weichisite
 LTRCtrees,cran
 ltsa,angusian
 ltsk,dliang-cbl
@@ -14990,6 +14997,7 @@ presize,ctu-bern
 presmTP,gsoutinho
 PressPurt,rtxci
 pressuRe,telfer
+pretest,cran
 prettifyAddins,stla
 prettyB,jumpingrivers
 prettycode,r-lib
@@ -15388,6 +15396,7 @@ QCAcluster,ingorohlfing
 qcapower,ingorohlfing
 QCApro,cran
 QCAtools,cran
+qcauchyreg,jsergioco
 qCBA,kliegr
 qcc,luca-scr
 qccrs,myaseen208
@@ -15732,6 +15741,7 @@ radsafer,markhogue
 RADstackshelpR,cran
 Radviz,yannabraham
 RAdwords,jburkhardt
+raer,rnabioco
 rafalib,rairizarry
 RAFS,yoctozepto
 Rage,jonesor
@@ -18018,6 +18028,7 @@ scAnnotatR,grisslab
 scanstatistics,promerpr
 SCANVIS,bioc
 scape,arni-magnusson
+scaper,cran
 scapesClassification,ghtaranto
 scapGNN,xudonghan-bio
 scar,ychen101
@@ -21109,6 +21120,7 @@ transformGamPoi,const-ae
 transformmos,babaknaderi
 transformr,thomasp85
 transfR,cran
+TransGraph,cran
 transite,bioc
 translate.logit,cran
 translated,ttscience
