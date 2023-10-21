@@ -1,17 +1,5 @@
 [
   {
-    "package": "approxOT",
-    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
-    "url": "https://github.com/ericdunipace/approxot",
-    "registry": "archived"
-  },
-  {
-    "package": "causalOT",
-    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
-    "url": "https://github.com/ericdunipace/causalot",
-    "registry": "archived"
-  },
-  {
     "package": "RcppCGAL",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
     "url": "https://github.com/ericdunipace/rcppcgal",

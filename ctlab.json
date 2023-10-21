@@ -21,5 +21,11 @@
     "maintainer": "Alexey Sergushichev <alsergbox@gmail.com>",
     "url": "https://github.com/ctlab/phantasus",
     "registry": "bioc"
+  },
+  {
+    "package": "phantasusLite",
+    "maintainer": "Alexey Sergushichev <alsergbox@gmail.com>",
+    "url": "https://github.com/ctlab/phantasuslite",
+    "registry": "bioc"
   }
 ]

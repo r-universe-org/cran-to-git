@@ -62,6 +62,7 @@ accrualPlot,ctu-bern
 accSDA,gumeo
 accucor,xiaoyangsu
 accumulate,markvanderloo
+acdcquery,slesche
 acdcR,ysd2004
 acde,bioc
 ACDm,cran
@@ -627,7 +628,6 @@ appreci8R,bioc
 appRiori,ugranziol
 approximator,robinhankin
 approxmatch,cran
-approxOT,ericdunipace
 appsflyeR,pablosanmar
 appsheet,calderonsamuel
 aprean3,lbraglia
@@ -1732,6 +1732,7 @@ bizdays,wilsonfreitas
 bizicount,jmniehaus
 bkmr,jenfb
 bkmrhat,alexpkeil1
+BKTR,julien-hec
 blackbox,f-rousset
 BlackCarbon,sanjeev112
 blacksheepr,ruggleslab
@@ -2349,7 +2350,6 @@ CausalImpact,google
 CausalMBSTS,fmenchetti
 CausalModels,ander428
 causaloptim,sachsmc
-causalOT,ericdunipace
 causalPAF,mauriceoconnell
 CausalQueries,till-tietz
 CausalR,bioc
@@ -3970,7 +3970,7 @@ daewr,johnjsl7
 daff,edwindj
 dafishr,cbmc-gcmp
 dafs,jmcurran
-dagHMM,mrprajwalb
+dagHMM,cran
 dagirlite,larshernandez
 dagitty,jtextor
 dagLogo,jianhong
@@ -6031,7 +6031,6 @@ FactorCopula,cran
 factorial2x2,ericsleifer
 factormodel,yujunghwang
 factorplot,davidaarmstrong
-FactorsR,cran
 factorstochvol,gregorkastner
 factory,jonthegeek
 Factoshiny,husson
@@ -7301,6 +7300,7 @@ geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
 geogenr,josesamos
 geogrid,jbaileyh
+geohabnet,garrettlab
 geohashTools,michaelchirico
 geojson,ropensci
 geojsonio,ropensci
@@ -7694,6 +7694,7 @@ gitear,ixpantia
 gitgadget,vnijs
 gitGPT,stevecondylios
 githubinstall,hoxo-m
+githubr,fhdsl
 gitignore,ropensci
 gitlabr,thinkr-open
 gitlink,colearendt
@@ -10571,6 +10572,7 @@ lomb,cran
 long2lstmarray,luisgarcez11
 LongCART,madanstat
 longCatEDA,stueller
+longclust,cran
 LongDat,ccy-dev
 longit,atanubhattacharjee
 longitudinal,cran
@@ -12333,6 +12335,7 @@ mssm,boennecd
 msSPChelpR,marianschmidt
 MSSQL,arni-magnusson
 MSstats,bioc
+MSstatsBig,bioc
 MSstatsConvert,bioc
 MSstatsLiP,vitek-lab
 MSstatsLOBD,vitek-lab
@@ -12562,6 +12565,7 @@ mvgb,swihart
 mvglmmRank,akarl46556
 mvGPS,williazo
 mvhist,jpnolan
+mvhtests,cran
 mvinfluence,friendly
 MVisAGe,vonnwalter23
 MVLM,dmcartor
@@ -13841,6 +13845,7 @@ palinsol,mcrucifix
 palm,b-steve
 palmerpenguins,allisonhorst
 palmid,ababaian
+PaLMr,lygitdata
 palmtree,heidiseibold
 palr,australianantarcticdivision
 pals,kwstat
@@ -14307,6 +14312,7 @@ phacking,mathurlabstanford
 PhageCocktail,cran
 phangorn,klausvigo
 phantasus,ctlab
+phantasusLite,ctlab
 phantSEM,argeorgeson
 PharmacoGx,bhklab
 pharmaRTF,atorus-research
@@ -19290,6 +19296,7 @@ sp,edzer
 SP2000,otoliths
 sp23design,hrpcisd
 spaa,helixcn
+spAbundance,doserjef
 spacefillr,tylermorganwall
 spacejamr,dscolby
 spaceNet,silviadangelo
@@ -20687,7 +20694,7 @@ tfprobability,rstudio
 tframe,r-forge
 tframePlus,r-forge
 tfrmt,gsk-biostatistics
-tfrmtbuilder,bzkrouse
+tfrmtbuilder,gsk-biostatistics
 tfruns,rstudio
 tfse,mkearney
 TFunHDDC,popescuc71
