@@ -1235,6 +1235,7 @@ BayesTreePrior,alexiajm
 BayesTwin,ingaschwabe
 BayesVarSel,comodin19
 bayesvl,sshpa
+bayesWatch,sirmurphalot
 BayesX,freezenik
 BayesXsrc,freezenik
 bayesZIB,dmorinya
@@ -4233,6 +4234,7 @@ decon,cran
 DeconRNASeq,bioc
 deconstructSigs,raerose01
 decontam,benjjneb
+decontX,bioc
 deconvolveR,bnaras
 deconvR,bimsbbioinfo
 decor,r-lib
@@ -4377,6 +4379,7 @@ DescribeDF,sandipgarai
 DescribeDisplay,ggobi
 describer,paulhendricks
 descriptio,nicolas-robette
+DescriptiveRepresentationCalculator,cjerzak
 DescriptiveStats.OBeu,okgreece
 DescriptiveWH,william-hc
 descriptr,rsquaredacademy
@@ -4950,6 +4953,7 @@ drpop,mqnjqrid
 DRquality,mthrun
 DRR,gdkrmr
 drtmle,benkeser
+drugDemand,kaifenglu
 DrugExposureDiagnostics,cran
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
@@ -5419,7 +5423,6 @@ elections.dtree,fleverest
 electionsBR,silvadenisson
 electivity,desiquintans
 electoral,albuja
-elementR,charlottesirot
 elevatr,jhollist
 elexr,ghing
 elfDistr,matheushjs
@@ -5540,6 +5543,7 @@ EnrichmentBrowser,lgeistlinger
 enrichplot,guangchuangyu
 enrichR,cran
 enrichTF,wzthu
+enrichViewNet,adeschen
 enrichwith,ikosmidis
 EnsCat,jlp2duke
 ensembldb,jorainer
@@ -6455,7 +6459,7 @@ flagme,markrobinsonuzh
 flagr,mmatyi
 flam,ajpete
 FLAME,vittorioorlandi
-FLAMES,olivervoogd
+FLAMES,mritchielab
 flametree,djnavarro
 flamingos,fchamroukhi
 flan,adrimaz
@@ -7328,7 +7332,6 @@ GeomxTools,bioc
 geonames,ropensci
 geonapi,eblondel
 geonetwork,famuvie
-geophys,jonathanlees
 GEOquery,seandavi
 geoR,paulojus
 GeoRange,jamestboyle
@@ -7856,6 +7859,7 @@ gnn,cran
 gnomonicM,ejosymart
 gnonadd,decodegenetics
 gnorm,maryclare
+GNOSIS,lydia-king
 gnrprod,cran
 GNRS,bmaitner
 GNSSseg,arq16
@@ -8745,7 +8749,6 @@ htestClust,cran
 htetree,jiahuixu1
 HTLR,longhaisk
 htm2txt,replicable
-htmcglm,lineu96
 html2R,stla
 html5,tconwell
 htmldf,alastairrushworth
@@ -10250,6 +10253,7 @@ leiv,davidsleonard
 LeMaRns,michaelspence
 lemna,nkehrein
 lemon,stefanedwards
+lemur,const-ae
 lenght,cobrbra
 lenses,cfhammill
 leontief,pachamaltese
@@ -11126,7 +11130,6 @@ mcemGLM,acosta-stat
 mcen,cran
 mcga,cran
 mcgibbsit,r-gregmisc
-mcglm,wbonat
 MChtest,cran
 MCI,cran
 MCID,cran
@@ -13047,6 +13050,7 @@ Nmix,petergreen5678
 nmixgof,jknape
 NMMIPW,andrewyyp
 NMOF,enricoschumann
+NMRphasing,ajiangsfu
 nmrrr,kaizadp
 NMsim,philipdelff
 nmslibR,mlampros
@@ -13127,7 +13131,6 @@ nord,jkaupp
 nordklimdata1,cran
 norgeo,helseprofil
 norm,john-d-fox
-norm2,josephlschafer
 NORMA,jesuspradaalonso
 NormalityAssessment,ccasement
 normalize450K,bioc
@@ -13358,6 +13361,7 @@ ODS,yinghao-pan
 odseq,josejimenezluna
 OECD,expersso
 OEFPIL,cran
+oeli,loelschlaeger
 oem,jaredhuling
 oenb,franzmohr
 OenoKPM,angelogava
@@ -16396,7 +16400,6 @@ REDseq,bioc
 redux,richfitz
 REEMtree,cran
 ref.ICAR,cran
-RefBasedMI,ucl
 refdb,fkeck
 refer,cmann3
 referenceIntervals,digital-vet
@@ -16426,6 +16429,7 @@ regexSelect,yonicd
 regfilter,juanmartinsantos
 reghelper,jeff-hughes
 regional,nowosad
+regionalpcs,tyeulalio
 RegionalST,ziyili20
 regioncode,sammo3182
 regioneR,bioc
@@ -17419,7 +17423,6 @@ rqdatatable,winvector
 RQEntangle,stephenhky
 rqPen,bssherwood
 rqt,izhbannikov
-Rquake,jonathanlees
 RQuantLib,eddelbuettel
 rqubic,bioc
 Rquefts,cropmodels
@@ -17663,7 +17666,6 @@ RTNduals,bioc
 Rtnmin,nashjc
 RTNsurvival,bioc
 rtodoist,thinkr-open
-RTOMO,jonathanlees
 rtoot,gesistsa
 rtop,jskoien
 RTopper,bioc
@@ -18076,6 +18078,7 @@ scDD,kdkorthauer
 scDDboost,wiscstatman
 scde,hms-dbmi
 scdensity,cran
+scDesign3,songdongyuan1994
 scDHA,duct317
 scdhlm,jepusto
 scDiffCom,cyrillagger
@@ -18109,6 +18112,7 @@ SCI,lukasgudm
 SCIBER,ravengan
 scico,thomasp85
 scicomptools,nceas
+scider,chenlaboratory
 scidesignR,ntaback
 scientoText,ashrafsau
 scifer,rodrigarc
@@ -18255,6 +18259,7 @@ SDPrism2D,zeddshaver
 sdpt3r,cran
 sdStaf,patauchi
 SDT,cran
+sdtmval,skgithub14
 sdwd,boxiang-wang
 SE.EQ,cran
 SEA,yuanmingzhang
@@ -21246,6 +21251,7 @@ trip,trackage
 tripack,cran
 tripEstimation,trackage
 TripleR,nicebread
+triplesmatch,kkbrum
 triplex,bioc
 triplot,modeloriented
 tripr,biodataanalysisgroup

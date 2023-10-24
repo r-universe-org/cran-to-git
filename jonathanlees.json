@@ -15,12 +15,6 @@
     "url": "https://github.com/cran/geomapdata"
   },
   {
-    "package": "geophys",
-    "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/geophys",
-    "registry": "archived"
-  },
-  {
     "package": "PEIP",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
     "url": "https://github.com/cran/PEIP"
@@ -41,21 +35,9 @@
     "url": "https://github.com/cran/RPMG"
   },
   {
-    "package": "Rquake",
-    "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/Rquake",
-    "registry": "archived"
-  },
-  {
     "package": "RSEIS",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
     "url": "https://github.com/cran/RSEIS"
-  },
-  {
-    "package": "RTOMO",
-    "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
-    "url": "https://github.com/cran/RTOMO",
-    "registry": "archived"
   },
   {
     "package": "zoeppritz",
