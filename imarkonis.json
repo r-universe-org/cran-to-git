@@ -1,5 +1,10 @@
 [
   {
+    "package": "csa",
+    "maintainer": "Yannis Markonis <imarkonis@gmail.com>",
+    "url": "https://github.com/imarkonis/csa"
+  },
+  {
     "package": "somspace",
     "maintainer": "Yannis Markonis <imarkonis@gmail.com>",
     "url": "https://github.com/cran/somspace"
