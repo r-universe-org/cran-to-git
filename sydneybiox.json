@@ -12,6 +12,12 @@
     "registry": "bioc"
   },
   {
+    "package": "lisaClust",
+    "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/lisaclust",
+    "registry": "bioc"
+  },
+  {
     "package": "MoleculeExperiment",
     "maintainer": "Shila Ghazanfar <shazanfar@gmail.com>",
     "url": "https://github.com/sydneybiox/moleculeexperiment",
@@ -45,6 +51,12 @@
     "package": "simpleSeg",
     "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/simpleseg",
+    "registry": "bioc"
+  },
+  {
+    "package": "spicyR",
+    "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/spicyr",
     "registry": "bioc"
   },
   {

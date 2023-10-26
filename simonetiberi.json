@@ -16,5 +16,11 @@
     "maintainer": "Simone Tiberi <simone.tiberi@uzh.ch>",
     "url": "https://github.com/simonetiberi/distinct",
     "registry": "bioc"
+  },
+  {
+    "package": "IsoBayes",
+    "maintainer": "Simone Tiberi <simone.tiberi@unibo.it>",
+    "url": "https://github.com/simonetiberi/isobayes",
+    "registry": "bioc"
   }
 ]

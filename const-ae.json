@@ -21,6 +21,12 @@
     "registry": "bioc"
   },
   {
+    "package": "lemur",
+    "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
+    "url": "https://github.com/const-ae/lemur",
+    "registry": "bioc"
+  },
+  {
     "package": "mixdir",
     "maintainer": "Constantin Ahlmann-Eltze <artjom31415@googlemail.com>",
     "url": "https://github.com/const-ae/mixdir"
