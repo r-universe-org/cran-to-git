@@ -1,11 +1,5 @@
 [
   {
-    "package": "autostats",
-    "maintainer": "Harrison Tietze <harrison4192@gmail.com>",
-    "url": "https://github.com/harrison4192/autostats",
-    "registry": "archived"
-  },
-  {
     "package": "framecleaner",
     "maintainer": "Harrison Tietze <Harrison4192@gmail.com>",
     "url": "https://github.com/harrison4192/framecleaner"
@@ -19,12 +13,6 @@
     "package": "tidybins",
     "maintainer": "Harrison Tietze <Harrison4192@gmail.com>",
     "url": "https://github.com/harrison4192/tidybins"
-  },
-  {
-    "package": "TidyConsultant",
-    "maintainer": "Harrison Tietze <Harrison4192@gmail.com>",
-    "url": "https://github.com/harrison4192/tidyconsultant",
-    "registry": "archived"
   },
   {
     "package": "validata",

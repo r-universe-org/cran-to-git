@@ -6,22 +6,10 @@
     "registry": "bioc"
   },
   {
-    "package": "folderfun",
-    "maintainer": "Nathan C. Sheffield <nathan@code.databio.org>",
-    "url": "https://github.com/databio/folderfun",
-    "registry": "archived"
-  },
-  {
     "package": "GenomicDistributions",
     "maintainer": "Kristyna Kupkova <kristynakupkova@gmail.com>",
     "url": "https://github.com/databio/genomicdistributions",
     "registry": "bioc"
-  },
-  {
-    "package": "loadr",
-    "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
-    "url": "https://github.com/databio/loadr",
-    "registry": "archived"
   },
   {
     "package": "MIRA",
