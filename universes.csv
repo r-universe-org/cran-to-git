@@ -1300,6 +1300,7 @@ BCSub,sunnypig1988
 BCT,valentinian22
 bcv,michbur
 bda,cran
+BDAlgo,karasiewiczstephane
 bdc,brunobrr
 bdchecks,bd-r
 bdclean,bd-r
@@ -2053,7 +2054,7 @@ bsvars,bsvars
 BSW,adam-bec
 BT,giregwillame
 btb,inseefr
-BTdecayLasso,michael262516
+BTdecayLasso,cran
 btergm,leifeld
 BTLLasso,schaubert
 BTM,bnosac
@@ -2903,6 +2904,7 @@ Clustering,laperez
 clustering.sc.dp,cran
 ClusterJudge,bioc
 clustermole,igordot
+clustermq,mschubert
 clusternomics,evelinag
 clusterPower,kenkleinman
 clusterProfiler,yulab-smu
@@ -3137,6 +3139,7 @@ colourpicker,daattali
 colourvalues,symbolixau
 colourvision,cran
 COLP,nystat
+cols,cran
 cols4all,mtennekes
 colt,s-fleck
 comapr,bioc
@@ -4787,6 +4790,7 @@ doc2concrete,myeomans
 doc2vec,bnosac
 dockerfiler,thinkr-open
 DockerParallel,jiefei-wang
+docket,jonathanconrad98
 docknitr,innermatrix
 doconv,ardata-fr
 docopt,docopt
@@ -4846,6 +4850,7 @@ dotenv,gaborcsardi
 dotgen,xiaoran831213
 dotprofile,jeanmathieupotvin
 dots,christopherkenny
+dotsViolin,cran
 dotwhisker,fsolt
 doubcens,jamesm1524
 double.truncation,cran
@@ -5071,7 +5076,6 @@ dynamac,andyphilips
 dynamAedes,mattmar
 dynamic,melissagwolf
 DynamicGP,heavenmarshal
-dynamichazard,boennecd
 dynamicSDM,r-a-dobson
 dynamicTreeCut,plangfelder
 dynamite,ropensci
@@ -6128,6 +6132,7 @@ fastM,klauschn
 fastmap,r-lib
 fastmaRching,cran
 fastmatch,s-u
+fastMatMR,ropensci
 fastmatrix,faosorios
 fastmit,cran
 fastNaiveBayes,mskogholt
@@ -7110,7 +7115,7 @@ gee,cran
 GEEaSPU,junghi
 geeasy,hojsgaard
 geeCRT,hengshiyu
-geecure,cran
+geecure,newligeng
 geeM,lsubioscomputing
 GEEmediate,daniel258
 geepack,hojsgaard
@@ -8595,6 +8600,7 @@ histmdl,joukewitteveen
 histogram,thmild
 HistogramTools,r-forge
 historicalborrow,wlandau
+historicalborrowlong,wlandau
 historydata,ropensci
 histoslider,cpsievert
 histry,gmbecker
@@ -9266,6 +9272,7 @@ insurancerating,mharinga
 INTACT,jokamoto97
 InTAD,bioc
 intamap,jskoien
+intamapInteractive,jskoien
 intansv,bioc
 IntCal,maarten14c
 intccr,cran
@@ -9816,7 +9823,7 @@ KenSyn,fbrun-acta
 kequate,cran
 keras,rstudio
 kerastuneR,eagerai
-kerDAA,cran
+kerDAA,singho2001
 KERE,cran
 kergp,roustant
 kerndwd,boxiang-wang
@@ -10093,7 +10100,7 @@ latexpdf,bergsmat
 latrend,philips-software
 latte,dkahle
 lattice,deepayan
-latticeDensity,ronbarry
+latticeDensity,cran
 LatticeDesign,cran
 latticeExtra,r-forge
 LatticeKrig,dnychka
@@ -10109,6 +10116,7 @@ Lavash,boriking81
 LAWBL,jinsong-chen
 lawstat,vlyubchich
 lax,paulnorthrop
+lay,courtiol
 lazy,theoverhelst
 lazyarray,dipterix
 lazybar,finyang
@@ -10185,7 +10193,6 @@ leaflet.esri,trafficonese
 leaflet.extras,bhaskarvk
 leaflet.extras2,trafficonese
 leaflet.minicharts,veroniquerte
-leaflet.opacity,be-marc
 leaflet.providers,rstudio
 leafletCN,lchiffon
 leafpm,r-spatial
@@ -10435,6 +10442,7 @@ lmf,cran
 LMfilteR,chrisscod
 lmfor,laurimeh
 lmForc,nelson-n
+lmhelprs,sfcheung
 lmls,hriebl
 lmm,jinghuazhao
 LMMELSM,stephensrmmartin
@@ -10486,6 +10494,7 @@ locaR,rhedley
 locateip,judith-bourque
 locatexec,ardata-fr
 locationgamer,maxcal88
+LocaTT,urodelan
 locfdr,hrpcisd
 locfit,andyliaw-mrk
 loci2path,stanleyxu
@@ -13548,7 +13557,6 @@ optimizeR,loelschlaeger
 optimLanduse,forest-economics-goettingen
 optimos.prime,jcochero
 optimParallel,florafauna
-optimr,nashjc
 optimsimplex,cran
 optimStrat,cran
 optimus,mitchest
@@ -13719,6 +13727,7 @@ owd,feakster
 owdbr,kimjoaoun
 OWEA,shuaih0303
 OwenQ,stla
+owidR,piersyork
 owmr,crazycapivara
 ows4R,eblondel
 ox,gogonzo
@@ -15988,7 +15997,6 @@ Rcereal,wush978
 RcextTools,brunomssmelo
 rCGH,fredcommo
 RCGLS,willemijnvroege
-Rcgmin,nashjc
 rchallenge,adrtod
 rchemo,chemhouse-group
 rcheology,hughjonesd
@@ -17505,6 +17513,7 @@ rsnell,pfpetrowski
 RSNNS,cbergmeir
 rsnps,ropensci
 RSocrata,chicago
+rsofun,geco-bern
 rsoi,boshek
 Rsolnp,alexiosg
 rsolr,lawremi
@@ -17717,7 +17726,6 @@ Rvisdiff,bioinfousal
 rvkstat,selesnow
 rvmethod,parkerholzer
 rvMF,seungwoo-stat
-Rvmmin,nashjc
 RVS,bioc
 rwa,martinctc
 rwalkr,earowang
@@ -21003,7 +21011,6 @@ totalcensus,gl-li
 TotalCopheneticIndex,ms609
 TOU,cran
 touch,wenjie2wang
-TouRnament,captaincaracho
 tourr,ggobi
 toweranNA,matloff
 ToxCrit,cran
@@ -21186,6 +21193,7 @@ TriDimRegression,alexander-pastukhov
 triebeard,ironholds
 trigger,bioc
 triggerstrategy,cran
+tRigon,cran
 trigpoints,philmikejones
 TriMatch,jbryer
 trimcluster,valentint
@@ -21705,7 +21713,6 @@ VBLPCM,cran
 vbmp,bioc
 VBsparsePCA,bo-ning
 VBV,dsteuer
-VC2copula,tnagler
 VCA,cran
 vccp,xinxiong0238
 vcd,cran
