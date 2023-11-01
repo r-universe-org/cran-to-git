@@ -2054,7 +2054,7 @@ bsvars,bsvars
 BSW,adam-bec
 BT,giregwillame
 btb,inseefr
-BTdecayLasso,cran
+BTdecayLasso,michael262516
 btergm,leifeld
 BTLLasso,schaubert
 BTM,bnosac
@@ -3128,6 +3128,7 @@ colorplane,bbuchsbaum
 colorr,cdcrabtree
 colorRamp2,jokergoo
 colorRamps,thk686
+colors3d,matthewkling
 colorscience,glenndavis52
 colorsGen,stla
 colorspace,r-forge
@@ -3875,6 +3876,7 @@ CUSUMdesign,boxiang-wang
 cutoff,yikeshu0611
 cutpointr,thie1e
 CutpointsOEHR,chenyimin0226
+cv,gmonette
 cvap,christopherkenny
 cvar,geobosh
 cvAUC,ledell
@@ -7290,7 +7292,6 @@ GEOexplorer,guypwhunt
 geofacet,hafen
 GEOfastq,alexvpickering
 geofd,pedrodelicado
-geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
 geogenr,josesamos
@@ -8205,7 +8206,7 @@ gtable,r-lib
 GTDL,carrascojalmar
 gte,cran
 gTests,cran
-gTestsMulti,cran
+gTestsMulti,singho2002
 gtExtras,jthomasmock
 gtfs2emis,ipeagit
 gtfs2gps,ipeagit
@@ -9840,8 +9841,8 @@ kernscr,borishejblum
 KernSmooth,cran
 KernSmoothIRT,mcguirebc
 kernstadapt,jagm03
-kerSeg,cran
-kerTests,cran
+kerSeg,singho2002
+kerTests,singho2002
 kesernetwork,celehs
 keyATM,keyatm
 Keyboard,cran
@@ -10100,7 +10101,7 @@ latexpdf,bergsmat
 latrend,philips-software
 latte,dkahle
 lattice,deepayan
-latticeDensity,cran
+latticeDensity,ronbarry
 LatticeDesign,cran
 latticeExtra,r-forge
 LatticeKrig,dnychka
@@ -10993,6 +10994,7 @@ matman,cran
 matpow,cran
 matric,cytomining
 matricks,krzjoa
+matRiks,cran
 matrisk,cran
 Matrix,r-forge
 matrixcalc,tomkellygenetics
@@ -11107,6 +11109,7 @@ mccr,cran
 mcemGLM,acosta-stat
 mcen,cran
 mcga,cran
+mcgf,tianxia-jia
 mcgibbsit,r-gregmisc
 MChtest,cran
 MCI,cran
@@ -12070,6 +12073,7 @@ MonetDB.R,cran
 mongolite,jeroen
 mongopipe,cran
 monitoR,cran
+monitOS,tcoroller
 monmlp,alexcannon
 monobin,andrija-djurovic
 monobinShiny,andrija-djurovic
@@ -14804,6 +14808,7 @@ portfolio.optimization,rhochreiter
 PortfolioAnalytics,braverock
 portfolioBacktest,dppalomar
 PortfolioOptim,cran
+portion,loelschlaeger
 portn,ysd2004
 PortRisk,sourish-cmi
 portsort,a-dickerson
@@ -15040,6 +15045,7 @@ probably,tidymodels
 proBAMr,bioc
 ProbBayes,bayesball
 ProbBreed,saulo-chaves
+probe,alexmclain
 ProbeDeveloper,junhuili1017
 ProbitSpatial,cran
 ProbMarg,tfliaoui
@@ -17037,6 +17043,7 @@ RNAmodR,felixernst
 RNAmodR.AlkAnilineSeq,felixernst
 RNAmodR.ML,felixernst
 RNAmodR.RiboMethSeq,felixernst
+Rnanoflann,manospapadakis95
 RNAsense,marcusrosenblatt
 rnaseqcomp,tengmx
 RNAseqCovarImpute,brennanhilton
@@ -17893,7 +17900,7 @@ samurais,fchamroukhi
 sand,kolaczyk
 sandbox,coffeemuggler
 sandwich,r-forge
-sandwichr,linyuehzzz
+sandwichr,cran
 SanFranBeachWater,cran
 sangeranalyseR,bioc
 sangerseqR,bioc
@@ -18380,6 +18387,7 @@ sensobol,arnaldpuy
 SensoMineR,husson
 sensory,cran
 SenSpe,cran
+sensR,aigorahub
 SenSrivastava,kjetil1001
 senstrat,cran
 SensusR,matthewgerber
@@ -18860,6 +18868,7 @@ SimRAD,cran
 simrec,federicomarini
 SimReg,daniel-jg
 simrel,simulatr
+simRestore,thijsjanzen
 SiMRiv,miguel-porto
 SimRVPedigree,simrvprojects
 sims,joethorley
@@ -18928,7 +18937,7 @@ sisVIVE,hyunseungkang
 SIT,chencanyi1997
 sitadela,pmoulos
 sitar,statist7
-SiteAdapt,cfernandezcener
+SiteAdapt,cran
 sitePath,wuaipinglab
 sitepickR,sitepickr
 SitesInterest,cran
@@ -20196,6 +20205,7 @@ survRM2perm,mikihoriguchi
 survSens,rong0707
 survsim,dmorinya
 survSNP,dcibioinformatics
+SurvSparse,cran
 survSpearman,svetlanaeden
 survstan,fndemarqui
 SurvTrunc,cran
