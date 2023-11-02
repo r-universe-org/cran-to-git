@@ -1579,6 +1579,7 @@ bioacoustics,wavx
 bioassayR,girke-lab
 bioassays,anwarbio
 Biobase,bioconductor
+biobricks,tomlue
 biobroom,storeylab
 biobtreeR,tamerh
 bioC.logs,mponce0
@@ -4037,7 +4038,7 @@ DataEditR,dillonhammill
 DataExplorer,boxuancui
 DataFakeR,openpharma
 dataframeexplorer,ashrithssreddy
-dataframes2xls,guidovansteen
+dataframes2xls,cran
 datafsm,jonathan-g
 datagovsgR,clintonwxy
 DataGraph,davidadalsteinsson
@@ -5119,7 +5120,7 @@ DysPIAData,lemonwang2020
 DySS,luyouepiusf
 e1071,cran
 E4tools,ekleiman1
-eadrm,cran
+eadrm,ericbair-sciome
 eaf,mlopez-ibanez
 Eagle,r-forge
 EAinference,seunghyunmin
@@ -5582,6 +5583,7 @@ envstat,sellorm
 EnvStats,alexkowa
 envvar,briandconnelly
 eoa3,ddalthorp
+eodhd,eodhistoricaldata
 eoffice,guokai8
 eoR,rwalke
 epade,cran
@@ -6271,7 +6273,7 @@ FeedbackTS,cran
 feisr,ruettenauer
 FELLA,bioc
 felp,atusy
-feltr,cran
+feltr,christopherkenny
 fence,cran
 FENmlm,cran
 fenr,bartongroup
@@ -7117,7 +7119,7 @@ gee,cran
 GEEaSPU,junghi
 geeasy,hojsgaard
 geeCRT,hengshiyu
-geecure,newligeng
+geecure,yiniu06
 geeM,lsubioscomputing
 GEEmediate,daniel258
 geepack,hojsgaard
@@ -7292,6 +7294,7 @@ GEOexplorer,guypwhunt
 geofacet,hafen
 GEOfastq,alexvpickering
 geofd,pedrodelicado
+geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
 geogenr,josesamos
@@ -10507,6 +10510,7 @@ locpol,cran
 locpolExpectile,16cile
 locStra,ghahn-hsph
 LOCUS,cran
+locuszoomr,myles-lewis
 loder,jonclayden
 lodGWAS,cran
 lodi,umich-cphds
@@ -11506,7 +11510,7 @@ MGSDA,irinagain
 mgss,splinesmoothing
 mgsub,bmewing
 mgwrsar,cran
-mhazard,cran
+mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
 MHCtools,jr-evolecol
 MHD,cran
@@ -13108,6 +13112,7 @@ norgeo,helseprofil
 norm,john-d-fox
 NORMA,jesuspradaalonso
 NormalityAssessment,ccasement
+normalize,loelschlaeger
 normalize450K,bioc
 normalizeH,doer0
 NormalLaplace,dsco036
@@ -17900,7 +17905,7 @@ samurais,fchamroukhi
 sand,kolaczyk
 sandbox,coffeemuggler
 sandwich,r-forge
-sandwichr,cran
+sandwichr,linyuehzzz
 SanFranBeachWater,cran
 sangeranalyseR,bioc
 sangerseqR,bioc
@@ -18937,7 +18942,7 @@ sisVIVE,hyunseungkang
 SIT,chencanyi1997
 sitadela,pmoulos
 sitar,statist7
-SiteAdapt,cran
+SiteAdapt,cfernandezcener
 sitePath,wuaipinglab
 sitepickR,sitepickr
 SitesInterest,cran
