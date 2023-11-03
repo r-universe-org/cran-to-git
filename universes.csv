@@ -1160,6 +1160,7 @@ BayesGPfit,kangjian2016
 BayesGWQS,mmcarli
 bayesian,hsbadr
 bayesianETAS,gordonjamesross
+BayesianFactorZoo,cran
 Bayesiangammareg,cran
 BayesianGLasso,trainorp
 BayesianLaterality,lcbc-uio
@@ -1683,6 +1684,7 @@ bipartite,biometry
 bipartiteD3,jcdterry
 BipartiteModularityMaximization,wzhang40
 bipd,mikejseo
+bipl5,ruanbuys
 biplotbootGUI,ananieto
 biplotEZ,muvisu
 BiplotGUI,r-forge
@@ -2820,6 +2822,7 @@ climatol,jaggh
 climatrends,agrdatasci
 ClimClass,eccele
 clime,rluo
+climenv,jamestsakalos
 climetrics,shirintaheri
 climextRemes,paciorek
 ClimInd,fergusreiggracia
@@ -3231,6 +3234,7 @@ ComPrAn,bioc
 comprehenr,gdemin
 compSPOT,sydney-grant
 compute.es,acdelre
+comradesOO,jlp-bioinf
 ComRiskModel,imranshakoor
 comsimitv,cran
 comtradr,ropensci
@@ -4038,7 +4042,7 @@ DataEditR,dillonhammill
 DataExplorer,boxuancui
 DataFakeR,openpharma
 dataframeexplorer,ashrithssreddy
-dataframes2xls,cran
+dataframes2xls,guidovansteen
 datafsm,jonathan-g
 datagovsgR,clintonwxy
 DataGraph,davidadalsteinsson
@@ -6968,13 +6972,13 @@ gamesGA,bradduthie
 GameTheory,cran
 GameTheoryAllocation,cran
 gamlr,taddylab
-gamlss,mstasinopoulos
+gamlss,gamlss-dev
 gamlss.add,cran
 gamlss.cens,cran
 gamlss.countKinf,cran
 gamlss.data,cran
 gamlss.demo,cran
-gamlss.dist,mstasinopoulos
+gamlss.dist,gamlss-dev
 gamlss.foreach,cran
 gamlss.ggplots,cran
 gamlss.inf,cran
@@ -7640,6 +7644,7 @@ GHap,ytutsunomiya
 ghapps,r-lib
 Ghat,medhat86
 ghclass,rundel
+ghcm,arlundborg
 ghibli,ewenme
 Ghost,siyavashshabani
 GhostKnockoff,cran
@@ -9188,6 +9193,7 @@ IndexNumber,cran
 IndexNumR,grahamjwhite
 IndexWizard,johannesgeibel
 IndGenErrors,cran
+india,faosorios
 indicspecies,emf-creaf
 indiedown,cynkra
 indirect,ghosack
@@ -11561,6 +11567,7 @@ MicrobiomeSurv,n-t-huyen
 MicrobiotaProcess,yulab-smu
 microclass,larssnip
 microcontax,larssnip
+microCRAN,stefanedwards
 MicroDatosEs,ropenspain
 microeco,chiliubio
 microhaplot,ngthomas
@@ -13635,7 +13642,7 @@ ORFhunteR,rfctbio-bsu
 ORFID,hugo-marques
 ORFik,roleren
 org,csids
-Organism.dplyr,bioc
+Organism.dplyr,bioconductor
 OrganismDbi,bioc
 organizr,jobrachem
 OrgMassSpecR,cran
@@ -14596,7 +14603,7 @@ plotpc,stephenmilborrow
 PlotPrjNetworks,jordieres
 plotprotein,cran
 plotRCS,kunhuo
-plotrix,jimlemon
+plotrix,ashipunov
 plotROC,sachsmc
 plotrr,cdcrabtree
 plotscale,bergsmat
@@ -16654,6 +16661,7 @@ rfm,rsquaredacademy
 Rfmtool,cran
 rfoaas,eddelbuettel
 RFOC,jonathanlees
+rfold,feddelegrand7
 Rfolding,cran
 rfordummies,rfordummies
 Rforestry,theo-s
@@ -18688,6 +18696,7 @@ shopifyr,charliebone
 shoredate,isakro
 shortcuts,jcval94
 ShortForm,anthonyraborn
+shortIRT,cran
 ShortRead,bioconductor
 shorts,mladenjovanovic
 shotGroups,cran

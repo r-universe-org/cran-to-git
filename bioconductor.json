@@ -215,6 +215,13 @@
     "branch": "RELEASE_3_18"
   },
   {
+    "package": "Organism.dplyr",
+    "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
+    "url": "https://github.com/bioconductor/organism.dplyr",
+    "registry": "bioc",
+    "branch": "RELEASE_3_18"
+  },
+  {
     "package": "RaggedExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",

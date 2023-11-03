@@ -6,6 +6,11 @@
     "subdir": "pkg"
   },
   {
+    "package": "india",
+    "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
+    "url": "https://github.com/cran/india"
+  },
+  {
     "package": "L1pack",
     "maintainer": "Felipe Osorio <felipe.osorios@usm.cl>",
     "url": "https://github.com/faosorios/l1pack"

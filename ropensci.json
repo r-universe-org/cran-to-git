@@ -53,9 +53,8 @@
   },
   {
     "package": "beautier",
-    "maintainer": "Rich<c3><a8>l J.C. Bilderbeek <richel@richelbilderbeek.nl>",
-    "url": "https://github.com/ropensci/beautier",
-    "registry": "archived"
+    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "url": "https://github.com/ropensci/beautier"
   },
   {
     "package": "bib2df",
@@ -296,6 +295,11 @@
     "package": "ezknitr",
     "maintainer": "Dean Attali <daattali@gmail.com>",
     "url": "https://github.com/ropensci/ezknitr"
+  },
+  {
+    "package": "fastMatMR",
+    "maintainer": "Rohit Goswami <rgoswami@ieee.org>",
+    "url": "https://github.com/ropensci/fastmatmr"
   },
   {
     "package": "FedData",
