@@ -12,7 +12,6 @@ ABACUS,bio-statistics
 ABarray,bioc
 abasequence,cran
 abbreviate,sigbertklinke
-abbyyR,gojiplus
 abc,mblumuga
 abc.data,cran
 ABC.RAP,cran
@@ -2901,6 +2900,7 @@ clusterCons,biomedicalinformaticsgroup
 clusteredinterference,barkleybg
 ClusteredMutations,cran
 clusterExperiment,epurdom
+ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
 clusterhap,gastonquero
 clusterHD,cran
@@ -9537,6 +9537,7 @@ IsoGene,cran
 isogeochem,davidbajnai
 isokernel,zhuye88
 ISoLDE,bioc
+IsoMemo,pandora-isomemo
 isomiRs,lpantano
 isoorbi,isoverse
 isopam,heterocephalus
@@ -10723,6 +10724,7 @@ lumberjack,markvanderloo
 lumi,bioc
 Luminescence,r-lum
 lunar,cran
+lute,metamaden
 lutz,ateucher
 luz,mlverse
 luzlogr,bpbond
@@ -13487,6 +13489,7 @@ OPDOE,cran
 openai,irudnyts
 openair,davidcarslaw
 openairmaps,davidcarslaw
+openaistream,libingfei
 openalexR,ropensci
 openbankeR,nik01010
 openblender,cran
@@ -14295,6 +14298,7 @@ pGRN,gangcai
 pgsc,philipbarrett
 pgTools,tconwell
 pguIMP,smlms
+pgxRpi,progenetix
 PH1XBAR,bolus123
 ph2bayes,nshi-stat
 ph2bye,allenzhuaz
@@ -14385,6 +14389,7 @@ photosynthesis,cdmuir
 phrases,sumanstats
 phreeqc,scharlton2
 phruta,ropensci
+phsmethods,public-health-scotland
 PHSMM,cran
 phuassess,cran
 PhViD,ismail-ahmed
@@ -15257,6 +15262,7 @@ PStrata,laubok
 PSW,lenmade
 PSweight,thuizhou
 psy,cran
+psycCleaning,jasonmoy28
 psych,revelle
 psychmeta,psychmeta
 psycho,neuropsychology
@@ -16532,6 +16538,7 @@ reporttools,numbersman77
 REPPlab,fischuu
 REPPlabShiny,cran
 repr,irkernel
+represent,hdraisma
 representr,cleanzr
 represtools,pirategrunt
 reprex,tidyverse
@@ -16872,6 +16879,7 @@ rivernet,peterreichert
 Rivivc,cran
 rivnet,lucarraro
 rivr,mkoohafkan
+RivRetrieve,ryan-riggs
 rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
@@ -17613,7 +17621,6 @@ RTCGA,rtcga
 RTCGAToolbox,mksamur
 rTCRBCRr,cran
 RTD,treasure-data
-RtD3,epiforecasts
 RTDE,cran
 rtdists,rtdists
 rtematres,cpfaff
@@ -18581,6 +18588,7 @@ shiny.blueprint,cran
 shiny.emptystate,appsilon
 shiny.exe,aodiakite
 shiny.fluent,appsilon
+shiny.gosling,bioc
 shiny.i18n,appsilon
 shiny.info,appsilon
 shiny.pwa,pedrocoutinhosilva

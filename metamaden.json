@@ -1,5 +1,11 @@
 [
   {
+    "package": "lute",
+    "maintainer": "Sean K Maden <maden.sean@gmail.com>",
+    "url": "https://github.com/metamaden/lute",
+    "registry": "bioc"
+  },
+  {
     "package": "recountmethylation",
     "maintainer": "Sean K Maden <maden@ohsu.edu>",
     "url": "https://github.com/metamaden/recountmethylation",

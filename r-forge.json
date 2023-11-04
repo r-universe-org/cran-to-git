@@ -316,7 +316,8 @@
     "package": "fwi.fbp",
     "maintainer": "Alan Cantin <Alan.Cantin@Canada.ca>",
     "url": "https://github.com/r-forge/fwi-fbp",
-    "subdir": "pkg/fwi.fbp"
+    "subdir": "pkg/fwi.fbp",
+    "registry": "archived"
   },
   {
     "package": "GeneralizedHyperbolic",
