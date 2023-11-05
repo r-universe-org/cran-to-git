@@ -8,5 +8,10 @@
     "package": "gamlss.dist",
     "maintainer": "Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>",
     "url": "https://github.com/gamlss-dev/gamlss.dist"
+  },
+  {
+    "package": "gamlss.spatial",
+    "maintainer": "Fernanda De Bastiani <fernandadebastiani@gmail.com>",
+    "url": "https://github.com/gamlss-dev/gamlss.spatial"
   }
 ]

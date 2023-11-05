@@ -4102,7 +4102,6 @@ datetoiso,cran
 dateutils,macroeconomicdata
 datoramar,kxzk
 datos,cienciadedatos
-datplot,lsteinmann
 datr,libscie
 datrProfile,avitaliano
 dauphin,hughparsonage
@@ -4877,6 +4876,7 @@ downscale,charliem2003
 downscaledl,lspatial
 downsize,wlandau
 dowser,kbhoehn
+DOYPAColors,jmestret
 dparser,nlmixr2
 DPBBM,laurenie
 dpcc,bingyuan-zhang
@@ -6984,7 +6984,7 @@ gamlss.ggplots,cran
 gamlss.inf,cran
 gamlss.lasso,flziel
 gamlss.mx,cran
-gamlss.spatial,fdebastiani
+gamlss.spatial,gamlss-dev
 gamlss.tr,cran
 gamlssbssn,cran
 gamm4,cran
@@ -11500,7 +11500,7 @@ mgcv,cran
 mgcViz,mfasiolo
 MGDrivE,marshalllab
 MGDrivE2,marshalllab
-mgee2,cran
+mgee2,yuliangxu
 MGFM,bioc
 MGFR,bioc
 mggd,santagos
