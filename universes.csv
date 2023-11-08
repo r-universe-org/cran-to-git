@@ -214,6 +214,7 @@ adobeanalyticsr,benrwoodard
 ADP,cran
 ADPclust,ethanyxu
 ADPF,samdkruse
+adproclus,henry-heppe
 adpss,ca4wa
 ads,pelissie
 adsDataHubR,pankaj-bhatlawande
@@ -228,6 +229,7 @@ adw,panfengzhang
 adwave,mpcox
 adwordsR,cran
 AEDForecasting,apunatto
+aedseo,ssi-dk
 AEenrich,umich-biostatistics
 AEP,mahditeimouri
 AER,zeileis
@@ -1461,6 +1463,7 @@ biblio,kamapu
 bibliometrix,massimoaria
 bibliometrixData,cran
 biblionetwork,agoutsmedt
+biblioverlap,gavieira
 BibPlots,rhaunschild
 bibs,mahditeimouri
 bibtex,ropensci
@@ -5980,6 +5983,7 @@ extremeStat,brry
 extremevalues,markvanderloo
 extremis,extremestats
 extremogram,cran
+ExtrPatt,svenja12
 exuber,kvasilopoulos
 exvatools,enriquefeas
 eye,tjebo
@@ -9103,11 +9107,13 @@ imbalance,ncordon
 imbalanceDatRel,fatihsaglam
 imbibe,jonclayden
 imcExperiment,arcolombo
+ImCluster,imiqbal
 imcRtools,bodenmillergroup
 IMD,humaniverse
 imdbapi,cran
 IMEC,cran
 iMediate,cran
+imf.data,pedrobtz
 ImFoR,imiqbal
 imgpalr,leonawicz
 imgrec,cschwem2er
@@ -9324,6 +9330,7 @@ InterMineR,intermine
 internetarchive,ropensci
 interp,cran
 interplot,sammo3182
+interpolators,stla
 interpret,interpret-ml
 interpretCI,cardiomoon
 InterpretMSSpectrum,janlisec
@@ -12597,6 +12604,7 @@ mvrsquared,tommyjones
 mvs,cran
 mvShapiroTest,elizagestrada
 mvSLOUCH,cran
+mvSUSY,wtschacher
 MVT,faosorios
 MVTests,hsnbulut
 mvtmeta,hanchenphd
@@ -12695,7 +12703,6 @@ NB.MClust,qianli10000
 NBAloveR,koki25ando
 NBAMSeq,reese3928
 nbapalettes,murrayjw
-nbaR,ropensci
 NBBDesigns,cran
 NBBttest,yuande
 nbc4va,rrwen
@@ -12887,6 +12894,7 @@ neuRosim,ktabelow
 neutralitytestr,marcjwilliams1
 nevada,astamm
 neverhpfilter,justinmshea
+new.dist,akmn35
 Newdistns,cran
 newFocus,cran
 NewmanOmics,cran
@@ -16486,6 +16494,7 @@ rematch,gaborcsardi
 rematch2,r-lib
 remedy,thinkr-open
 ReMFPCA,haghbinh
+remify,tilburgnetworkgroup
 remindR,cran
 remiod,xsswang
 rEMM,mhahsler
@@ -18423,7 +18432,7 @@ SenTinMixt,cran
 sentometrics,sentometricsresearch
 sentopics,odelmarcelle
 SEofM,marsdu1989
-SEPaLS,cran
+SEPaLS,hlorenzo
 sEparaTe,cran
 separationplot,cran
 sepkoski,lewisajones
@@ -18521,7 +18530,7 @@ sftrack,mablab
 sgat,matiaspoullain
 SGB,grafmoni
 sGBJ,lauravillain
-SGCP,lotus53836
+SGCP,na396
 sgd,airoldilab
 sgee,gregvaughan
 sgeostat,cran
@@ -18558,6 +18567,7 @@ ShapeRotator,marta-vidalgarcia
 shapes,iandryden
 ShapeSelectForest,cran
 SHAPforxgboost,liuyanguu
+shapley,haghish
 ShapleyOutlier,cran
 ShapleyValue,jingyiliang1009
 shapper,modeloriented
@@ -20896,6 +20906,7 @@ timeseriesdb,mbannert
 timetk,business-science
 timetools,vald
 TimeVarConcurrentModel,cvandergeugten
+timevarcorr,courtiol
 timevis,daattali
 TimeVTree,cran
 TimiRGeN,krutik6

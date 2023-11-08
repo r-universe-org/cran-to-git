@@ -1,5 +1,10 @@
 [
   {
+    "package": "mvSUSY",
+    "maintainer": "Wolfgang Tschacher <wolfgang.tschacher@unibe.ch>",
+    "url": "https://github.com/wtschacher/mvsusy"
+  },
+  {
     "package": "SUSY",
     "maintainer": "Wolfgang Tschacher <wolfgang.tschacher@upd.unibe.ch>",
     "url": "https://github.com/wtschacher/susy"
