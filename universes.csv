@@ -1392,7 +1392,7 @@ BESTree,cran
 bestridge,yufeng031
 bestSDP,leoly2017
 BET,wan-z
-betaBayes,cran
+betaBayes,wonderzhm
 BetaBit,pbiecek
 betacal,tmfilho
 betaclust,koyelucd
@@ -2118,6 +2118,7 @@ BVAR,nk027
 bvarsv,fk83
 bvartools,franzmohr
 BVARverse,nk027
+bvhar,ygeunkim
 bvls,cran
 bvpa,biplab44
 bvpSolve,karlines
@@ -2467,7 +2468,7 @@ CellTrails,bioc
 cellVolumeDist,cran
 cellWise,jakobraymaekers
 cellxgenedp,mtmorgan
-cem,cran
+cem,siacus
 cemco,andrefujita
 CEMiTool,bioc
 CenBAR,cran
@@ -3617,6 +3618,7 @@ cpop,cran
 CPP,cran
 cpp11,r-lib
 cppcheckR,stla
+cppdoubles,nicchr
 cppRouting,vlarmet
 cpr,dewittpe
 cprobit,nyilin
@@ -4392,6 +4394,7 @@ descstatsr,harryyy213
 desctable,desctable
 DescTools,andrisignorell
 DescToolsAddIns,andrisignorell
+deseats,dschulz13
 DESeq2,thelovelab
 Design.parameters,cran
 DesignCTPB,ubcxzhang
@@ -8315,7 +8318,7 @@ hackeRnews,szymanskir
 hacksaw,daranzolin
 hacksig,acare
 HACSim,jphill01
-HadamardR,cran
+HadamardR,appavoodhandapani
 HaDeX,werpuc
 hagis,openplantpathology
 hahmmr,teng-gao
@@ -9045,7 +9048,7 @@ ifctools,lbraglia
 IFMCDM,a-dudek-ue
 iForecast,cran
 IFP,pgprojects
-ifs,cran
+ifs,siacus
 ig.vancouver.2014.topcolour,rtanglao
 IgAScores,microbialman
 iGasso,cran
@@ -9406,6 +9409,7 @@ ipa,rossellhayes
 iPAC,bioc
 ipaddress,davidchall
 ipADMIXTURE,darkeyes
+ipanema,cran
 iPath,suke18
 ipbase,cran
 ipc,fellstat
@@ -9866,6 +9870,7 @@ Keyboard,cran
 KeyboardSimulator,chihangchen
 keyholder,echasnovski
 keyperm,thmild
+keyplayer,weihuaan
 keypress,gaborcsardi
 keyring,r-lib
 keyringr,cran
@@ -10041,7 +10046,7 @@ LabourMarketAreas,cran
 labourR,eworx-org
 LabRS,agnesevardanega
 labsimplex,crparedes
-labstatR,cran
+labstatR,siacus
 labstats,stanlazic
 LACE,bimib-disco
 lacm,crisvarin
@@ -10527,7 +10532,7 @@ locStra,ghahn-hsph
 LOCUS,cran
 locuszoomr,myles-lewis
 loder,jonclayden
-lodGWAS,cran
+lodGWAS,imnolte73
 lodi,umich-cphds
 lodr,kmdono02
 loe,cran
@@ -10642,7 +10647,7 @@ lpirfs,adaemmerp
 LPKsample,kaijunwang19
 lpl,statapps
 LPM,korry74
-lpme,cran
+lpme,wonderzhm
 LPmerge,jendelman
 lpNet,bioc
 LPower,cran
@@ -10874,6 +10879,7 @@ MantelCorr,bioc
 manydata,globalgov
 manymodelr,nelson-gon
 manymome,sfcheung
+manymome.table,sfcheung
 manynet,snlab-ch
 ManyTests,christianak
 MaOEA,dots26
@@ -11411,7 +11417,7 @@ metaSeq,kokitsuyuzaki
 metaseqR2,pmoulos
 MetaSKAT,leeshawn
 MetaStan,gunhanb
-MetaSubtract,cran
+MetaSubtract,imnolte73
 metaSurvival,shubhrampandey
 metatest,ingmarvisser
 metathis,gadenbuie
@@ -11902,6 +11908,7 @@ mlrCPO,mlr-org
 mlrintermbo,mb706
 mlrMBO,mlr-org
 mlrpro,cran
+mlrv,cran
 mlsbm,carter-allen
 MLSeq,bioc
 mlsjunkgen,scumdogsteev
@@ -11945,6 +11952,7 @@ mme,mestherlv
 mmeln,giguerch
 MMeM,pengluyaoyao
 mmeta,cran
+mmibain,mightymetrika
 MMINP,yulab-smu
 mmirestriktor,mightymetrika
 MMLR,nadezdaspiridovska
@@ -13122,7 +13130,7 @@ Nonpareil,lmrodriguezr
 NonParRolCor,jomopo
 NonProbEst,luiscastro193
 nopaco,cran
-nopp,cran
+nopp,siacus
 nor1mix,mmaechler
 NoRCE,guldenolgun
 nord,jkaupp
@@ -17497,7 +17505,7 @@ RSBJson,tverbeke
 rsbml,lawremi
 rsbp,cran
 RSC,cran
-rSCA,cran
+rSCA,xanderwangcsl
 RSCAT,act-org
 rscc,sigbertklinke
 RScelestial,foroughmand
@@ -17749,6 +17757,7 @@ rvalues,nchenderson
 Rvcg,zarquon42b
 rvcheck,guangchuangyu
 RVCompare,etorarza
+rvec,bayesiandemography
 Rveg,cran
 RVenn,tyakyol
 RVerbalExpressions,verbalexpressions
@@ -17854,6 +17863,7 @@ sae2,cran
 saeBest,sheerinda
 saebnocov,fika-fianda
 saeeb,ikiii
+saeHB,zazaperwira
 saeHB.ME,cran
 saeHB.ME.beta,ratihrodliyah
 saeHB.panel,veliatrimarliana
@@ -18243,7 +18253,7 @@ sdcMicro,sdctools
 SDCNway,dataprotectiontoolkit
 sdcSpatial,edwindj
 sdcTable,bernhard-da
-sde,cran
+sde,siacus
 SDEFSR,agvico
 sdetorus,egarpor
 SDGdetector,yingjie4science
@@ -18282,6 +18292,7 @@ seasonalclumped,nielsjdewinter
 seasonalityPlot,kumes
 seasonalview,christophsax
 seastests,danielollech
+SeaVal,seasonalforecastingengine
 seawaveQ,kryberg-usgs
 SeBR,drkowal
 SecDim,cran
@@ -18793,6 +18804,7 @@ siie,cran
 siland,cran
 SILGGM,cran
 silicate,hypertidy
+SillyPutty,cran
 SILM,zhangxiany-tamu
 SIM,bioc
 Sim.DiffProc,acguidoum
@@ -19466,7 +19478,7 @@ spatzie,bioc
 SPB,cran
 spbabel,mdsumner
 spBayes,finleya
-spBayesSurv,cran
+spBayesSurv,wonderzhm
 spBFA,berchuck
 Spbsampling,francescopantalone
 spc,knoths
@@ -19765,6 +19777,7 @@ ssMRCD,cran
 ssmrob,cran
 ssmsn,lbenitesanchez
 SSN,cran
+SSN2,usepa
 sSNAPPY,wenjun-liu
 SSNbayes,edgarsantos-fernandez
 SSOSVM,andrewthomasjones
@@ -21732,6 +21745,7 @@ VariantExperiment,bioconductor
 VariantFiltering,rcastelo
 variantspark,cran
 VariantTools,lawremi
+variationalDCM,khijikata
 varImp,philipppro
 variosig,cran
 vaRiskScore,65382784943

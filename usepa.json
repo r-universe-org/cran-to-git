@@ -26,6 +26,11 @@
     "url": "https://github.com/usepa/spsurvey"
   },
   {
+    "package": "SSN2",
+    "maintainer": "Michael Dumelle <Dumelle.Michael@epa.gov>",
+    "url": "https://github.com/usepa/ssn2"
+  },
+  {
     "package": "tcpl",
     "maintainer": "Jason Brown <brown.jason@epa.gov>",
     "url": "https://github.com/usepa/comptox-toxcast-tcpl"
