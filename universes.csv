@@ -668,6 +668,7 @@ archivist,pbiecek
 archivist.github,marcinkosinski
 ArCo,gabrielrvsc
 ARCokrig,pulongma
+arcpbf,r-arcgis
 arcpullr,cran
 arctools,martakarass
 ArDec,susanabarbosa
@@ -1379,6 +1380,7 @@ BENMMI,cran
 bennu,sempwn
 bentcableAR,cran
 benthos,cran
+BeQut,cran
 Bergm,acaimo
 Bernadette,bernadette-eu
 berryFunctions,brry
@@ -2164,6 +2166,7 @@ caffsim,asancpt
 CAGEfightR,maltethodberg
 cageminer,almeidasilvaf
 CAGEr,bioc
+CAGR,cran
 cAIC4,druegamer
 CAinterprTools,gianmarcoalberti
 Cairo,s-u
@@ -4983,7 +4986,7 @@ DSBayes,rvaradhan
 dscore,d-score
 dsdp,tsuchiya-lab
 dse,r-forge
-dsfa,cran
+dsfa,rouvenschmidt1337
 DSI,datashield
 DSjobtracker,thiyangtdata
 DSL,theussl
@@ -5046,6 +5049,7 @@ dtwSat,vwmaus
 DTWUMI,cran
 dual,drwolf85
 dual.spls,alsoukil
+dualScale,cran
 dualtrees,s6sebusc
 duawranglr,btskinner
 dub,egnha
@@ -5146,7 +5150,6 @@ easier,bioc
 easy.utils,ycli1995
 EasyABC,r-forge
 easyAHP,marsdu1989
-easyalluvial,erblast
 easyanova,cran
 easybgm,cran
 EasyCellType,bioc
@@ -6028,6 +6031,7 @@ facebookleadsR,pablosanmar
 facebookorganicR,pablosanmar
 facerec,cschwem2er
 facmodCS,robustport
+facmodTS,robustport
 FACT,henrifnk
 factDesign,bioc
 factiv,mattblackwell
@@ -6355,6 +6359,7 @@ figuRes2,gcicc
 file2meco,chiliubio
 filearray,dipterix
 filebin,datawookie
+filecacher,orgadish
 filehash,rdpeng
 filehashSQLite,rdpeng
 filelock,r-lib
@@ -6736,7 +6741,6 @@ Fragman,cran
 frailtyEM,tbalan
 frailtyHL,msnoh1
 frailtyMMpen,heilokchow
-frailtypack,cran
 frailtySurv,vmonaco
 frair,dpritchard
 framecleaner,harrison4192
@@ -7826,7 +7830,6 @@ GMDH,cran
 GMDH2,osmandag
 GMDHreg,mvt-oviedo
 Gmedian,cran
-gmeta,cran
 gmfd,martinoandrea92
 gmGeostats,cran
 gmgm,jeremyroos
@@ -8124,7 +8127,6 @@ Grouphmap,cran
 groupICA,cran
 groupr,ngriffiths21
 GroupSeq,rpahl
-groupsubsetselection,yguo-wsu
 GroupTest,cran
 groupTesting,cran
 groupwalk,freejstone
@@ -9014,6 +9016,7 @@ idmact,mncube
 idmc,ocha-dap
 IDmeasurer,cran
 IDmining,jeangolay
+IDMIR,hanjunwei-lab
 idmodelr,seabbs
 idopNetwork,cxzdsa2332
 iDOVE,sth1402
@@ -11439,7 +11442,6 @@ meteor,cropmodels
 meteorits,fchamroukhi
 meteospain,emf-creaf
 meteR,cmerow
-MEtest,cran
 metevalue,cran
 MetGen,cran
 MethComp,ekstroem
@@ -13927,7 +13929,6 @@ paramsim,sta189332
 paramtest,jeff-hughes
 paran,alexisdinno
 ParBayesianOptimization,anothersamwilson
-parcats,erblast
 ParDNAcopy,gsun2018
 PaRe,darwin-eu-dev
 pareg,cbg-ethz
@@ -14825,7 +14826,6 @@ popPCR,zeroh729
 poppr,grunwaldlab
 popPyramid,musajajorge
 popReconstruct,cran
-popsom,lutzhamel
 popstudy,cran
 poptrend,jknape
 population,gchapron
@@ -15442,6 +15442,7 @@ QDComparison,cran
 QDiabetes,feakster
 qdm,cran
 QDNAseq,ccagc
+qeML,matloff
 Qest,gianluca-sottile
 QF,agardini
 qfa,thl2019
@@ -16681,6 +16682,7 @@ rfishnet2,kdors
 Rfit,cran
 rflashtext,abrja
 rflexscan,tkhrotn
+RFlocalfdr,parsifal9
 RFlocalfdr.data,parsifal9
 RFLPtools,stamats
 rflsgen,dimitri-justeau
@@ -18876,6 +18878,7 @@ simmr,andrewcparnell
 SIMMS,syedhaider5
 simMSM,hreulen
 SimMultiCorrData,afialkowski
+SimNPH,simnph
 simode,ramiyaari
 simodels,robinlovelace
 simona,jokergoo
@@ -19121,7 +19124,7 @@ smdi,cran
 SMDIC,hanjunwei-lab
 smdocker,dyfanjones
 smerc,jfrench
-smetlite,baselr
+smetlite,baseldatascience
 SMFilter,yukai-yang
 smfishHmrf,cran
 smfsb,darrenjw
@@ -19148,7 +19151,6 @@ smooth,config-i1
 smoothAPC,dokal01
 smoothedLasso,ghahn-hsph
 smoother,nicholasehamilton
-SmoothHazard,tagteam
 smoothHR,arturstat
 smoothic,meadhbh-oneill
 smoothie,ericgilleland
@@ -19530,6 +19532,7 @@ spectralGraphTopology,dppalomar
 SpectralMap,terrytwu
 spectralR,olehprylutskyi
 SpectralTAD,dozmorovlab
+Spectran,litgde
 spectre,csim063
 spectrino,cran
 spectrolab,meireles
@@ -21828,6 +21831,7 @@ verbalisr,magnusdv
 verhoeff,condwanaland
 verification,ericgilleland
 vermeulen,ramiromagno
+versioning,cran
 versions,goldingn
 versionsort,turtletopia
 VERSO,bioc
@@ -22360,7 +22364,6 @@ xadmix,cran
 xaringan,yihui
 xaringanExtra,gadenbuie
 xaringanthemer,gadenbuie
-xbreed,hadigenetic
 XBRL,cran
 xcms,sneumann
 xcore,bioc

@@ -1,5 +1,10 @@
 [
   {
+    "package": "RFlocalfdr",
+    "maintainer": "Robert Dunne <rob.dunne@csiro.au>",
+    "url": "https://github.com/cran/RFlocalfdr"
+  },
+  {
     "package": "RFlocalfdr.data",
     "maintainer": "Robert Dunne <rob.dunne@csiro.au>",
     "url": "https://github.com/cran/RFlocalfdr.data"
