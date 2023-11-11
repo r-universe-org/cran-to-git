@@ -1157,6 +1157,7 @@ BayesfMRI,mandymejia
 bayesforecast,cran
 bayesGAM,cran
 bayesGARCH,ardiad
+BayesGmed,belayb
 BayesGOF,cran
 BayesGPfit,kangjian2016
 BayesGWQS,mmcarli
@@ -2032,6 +2033,7 @@ BSGW,asmahani
 bshazard,cran
 bsicons,rstudio
 bSims,psolymos
+bskyr,christopherkenny
 BSL,cran
 bslib,rstudio
 BsMD,ejbz
@@ -2876,6 +2878,7 @@ cloudUtil,cpanse
 clpm,cran
 clptheory,dbasu-umass
 clr,apierrot
+CLSIEP15,cran
 clst,bioc
 clstutils,bioc
 clttools,yesimiao
@@ -5467,6 +5470,7 @@ em,wudongjie
 EM.Fuzzy,cran
 emailjsr,changwoolim
 emailvalidation,cran
+EMAR,cran
 EMAS,nie-xiuquan
 EMAtools,ekleiman1
 emayili,datawookie
@@ -10082,6 +10086,7 @@ landest,laylaparast
 landform,gianmarcoalberti
 Landmarking,isobelbarrott
 landmix,laylaparast
+landmulti,cran
 landpred,laylaparast
 landsat,phiala
 landsat8,cran
@@ -10831,7 +10836,7 @@ mailtoR,feddelegrand7
 MainExistingDatasets,ecamenen
 MAINT.Data,cran
 MAIT,bioc
-MajKMeans,sheikhy1
+MajKMeans,sheikhi-a
 makecdfenv,bioc
 makedummies,toshi-ara
 MakefileR,krlmlr
@@ -10926,6 +10931,7 @@ mapsFinland,jkhaukka
 mapSpain,ropenspain
 mapsPERU,musajajorge
 mapsRinteractive,ymutua
+mapStats,sam-data-guy-iam
 maptiles,riatelab
 maptpx,taddylab
 maptree,rbgramacy
@@ -12119,6 +12125,7 @@ MonoPhy,oschwery
 MonoPoly,berwinturlach
 monoreg,cran
 monotone,busingfmta
+MonotoneHazardRatio,cran
 monotonicity,skoestlmeier
 monreg,scottkosty
 Monte.Carlo.se,cran
@@ -12241,7 +12248,7 @@ mreg,shug0131
 mregions,ropensci
 mrf,quirinms
 mrf2d,freguglia
-MRFA,chihli
+MRFA,cran
 MRFcov,nicholasjclark
 mrfDepth,psegaert
 mrfse,rodrigorsdc
@@ -14627,7 +14634,7 @@ plotpc,stephenmilborrow
 PlotPrjNetworks,jordieres
 plotprotein,cran
 plotRCS,kunhuo
-plotrix,ashipunov
+plotrix,dmurdoch
 plotROC,sachsmc
 plotrr,cdcrabtree
 plotscale,bergsmat
@@ -16963,6 +16970,7 @@ rlibkriging,yannrichet-irsn
 rLiDAR,carlos-alberto-silva
 rliger,welch-lab
 Rlinkedin,mpiccirilli
+rlinkedinads,selesnow
 Rlinsolve,kisungyou
 rlist,renkun-ken
 rlistings,insightsengineering
@@ -17330,6 +17338,7 @@ rosetta,cran
 rosetteApi,seth-mg
 rosm,paleolimbot
 rospca,treynkens
+rosv,al-obrien
 rotasym,egarpor
 rotationForest,ballings
 rotations,stanfill

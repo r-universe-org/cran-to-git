@@ -49,6 +49,7 @@
 "BBMV","2.1","Florian C. Boucher <flofloboucher@gmail.com>",NA,2022-05-21,"check issues were not corrected in time."
 "BBRecapture","0.2","Danilo Alunni Fegatelli
 <danilo.alunnifegatelli@uniroma1.it>",NA,2022-10-23,"requires archived package 'HI'."
+"BBcor","1.0.3","Donald Williams <drwwilliams@ucdavis.edu>",NA,2023-11-10,"requires archived package 'bayeslincom'."
 "BCDAG","1.0.0","Alessandro Mascaro <a.mascaro3@campus.unimib.it>",NA,2023-10-06,"check problems were not corrected in time."
 "BCellMA","0.3.4","Olena Ohlei <olena.ohlei@student.uni-luebeck.de>",NA,2022-05-09,"check problems were not corrected despite reminders."
 "BEST","0.5.4","Mike Meredith <mike@mmeredith.net>","https://github.com/mikemeredith/best",2023-08-27,"email to the maintainer is undeliverable."
@@ -1039,6 +1040,7 @@
 "basicTrendline","2.0.5","Weiping Mei <meiweipingg@163.com>","https://github.com/phdmeiwp/basictrendline",2022-03-20,"requires archived package 'investr'."
 "bastah","1.0.7","Ehsan Ullah <eullah@qf.org.qa>",NA,2023-08-18,"email to the maintainer is undeliverable."
 "bayesSurv","3.6","Arnošt Komárek <arnost.komarek@mff.cuni.cz>",NA,2023-02-25,"requires archived package 'smoothSurv'."
+"bayeslincom","1.3.0","Josue E. Rodriguez <josue.rodriguez594@gmail.com>","https://github.com/josue-rodriguez/bayeslincom",2023-11-10,"issues were not corrected in time.  Still uses suggested package  'BGGM' unconditionally."
 "bayesloglin","1.0.1","Matthew Friedlander <friedla@yorku.ca>",NA,2023-07-18,"email to the maintainer is undeliverable."
 "bayesmodels","0.1.1","Alberto Almuiña <albertogonzalezalmuinha@gmail.com>","https://github.com/albertoalmuinha/bayesmodels",2022-02-17,"check problems were not corrected in time."
 "bayespref","1.0","James A. Fordyce <jfordyce@utk.edu>",NA,2022-06-14,"check problems were not corrected despite reminders."
@@ -1831,7 +1833,6 @@
 "mail","1.0","Lin Himmelmann <Rmail@linhi.com>",NA,2023-08-18,"email to the maintainer is undeliverable."
 "majesticR","0.1.1","Remi Bacha <hello@remibacha.com>",NA,2022-05-09,"check problems were not corrected despite reminders."
 "mapReasy","1.0","Hasinur Rahaman Khan <hasinurkhan@gmail.com>",NA,2023-10-16,"requires archived package 'rgdal'."
-"mapStats","2.4","Samuel Ackerman <ackerman@temple.edu>",NA,2022-06-20,"check problems were not corrected despite reminders."
 "maple","0.99.5","Carter Allen <carter.allen12@gmail.com>",NA,2022-12-05,"requires archived package 'spruce'."
 "mapr","0.5.2","Scott Chamberlain <myrmecocystus@gmail.com>","https://github.com/ropensci/mapr",2023-03-10,"at the request of the maintainer."
 "maptools","1.1-8","Roger Bivand <Roger.Bivand@nhh.no>","https://github.com/r-forge/maptools",2023-10-16,"at the request of the maintainer.  Consider using 'sf' or 'terra' instead."
