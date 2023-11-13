@@ -2,7 +2,8 @@
   {
     "package": "dapr",
     "maintainer": "Michael W. Kearney <kearneymw@missouri.edu>",
-    "url": "https://github.com/mkearney/dapr"
+    "url": "https://github.com/mkearney/dapr",
+    "registry": "archived"
   },
   {
     "package": "funique",
@@ -28,7 +29,8 @@
   {
     "package": "tfse",
     "maintainer": "Michael W. Kearney <kearneymw@missouri.edu>",
-    "url": "https://github.com/mkearney/tfse"
+    "url": "https://github.com/mkearney/tfse",
+    "registry": "archived"
   },
   {
     "package": "wactor",

@@ -4,5 +4,11 @@
     "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
     "url": "https://github.com/paws-r/paws",
     "subdir": "paws"
+  },
+  {
+    "package": "paws.common",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/paws-r/paws",
+    "subdir": "paws.common"
   }
 ]
