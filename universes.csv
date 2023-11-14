@@ -228,6 +228,7 @@ ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
 adwordsR,cran
+aeddo,ssi-dk
 AEDForecasting,apunatto
 aedseo,ssi-dk
 AEenrich,umich-biostatistics
@@ -348,6 +349,7 @@ airr,javh
 airt,sevvandi
 aiRthermo,cran
 aisoph,yunrochung
+AIUQ,uncertaintyquantification
 ajv,jdthorpe
 akc,hope-data-science
 Ake,wanbitching
@@ -2398,7 +2400,7 @@ cclust,kurthornik
 CCM,gdancik
 ccmap,alexvpickering
 ccmEstimator,xiw021
-ccml,chuanxingli
+ccml,pulmonomics-lab
 ccmm,cran
 CCMMR,djwtouw
 ccmReportR,durhamregionharp
@@ -3388,7 +3390,8 @@ convoSPAT,markdrisser
 cooccur,griffithdan
 CooccurrenceAffinity,kpmainali
 cookiecutter,felixhenninger
-cookies,r4ds
+cookiemonster,jbgruber
+cookies,shinyworks
 CoOL,synergisticcauselearning
 cooltools,obreschkow
 coop,wrathematics
@@ -6131,6 +6134,7 @@ fastdigest,cran
 fastDummies,jacobkap
 fasterElasticNet,cufesam
 fasterize,ecohealthalliance
+fastFMM,cran
 FastGaSP,uncertaintyquantification
 fastGHQuad,awblocker
 fastGLCM,mlampros
@@ -7315,6 +7319,7 @@ geofd,pedrodelicado
 geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
+geoGAM,cran
 geogenr,josesamos
 geogrid,jbaileyh
 geohabnet,garrettlab
@@ -8888,6 +8893,7 @@ IATanalytics,danielstorage
 IATScore,dstorage2
 IATscores,giuliocostantini
 ib,smac-group
+iBART,mattsheng
 ibawds,stibu81
 ibb,berkorbay
 iBBiG,bioc
@@ -11507,6 +11513,7 @@ mFilter,mbalcilar
 mFLICA,darkeyes
 MFO,jorgedelro
 mfp,georgheinze
+mfp2,edwinkipruto
 MFPCA,clarahapp
 mfpp,kzst
 MFSIS,cran
@@ -12008,7 +12015,7 @@ mobirep,alowis
 MoBPS,tpook92
 mobr,dmcglinn
 MOCCA,hkestler
-MOCHA,imran-aifi
+MOCHA,cran
 mockery,r-lib
 mockr,krlmlr
 mockthat,nbenn
@@ -12379,6 +12386,7 @@ msu,eliasmacielr
 MSwM,josepasanchez
 mt,wanchanglin
 MTA,riatelab
+MTAFT,cran
 MTAR,lan
 mtb,yh202109
 mtdesign,openpharma
@@ -13031,7 +13039,6 @@ nlrx,ropensci
 nls.multstart,padpadpadpad
 nls2,ggrothendieck
 nlsem,nwickel
-nlshelper,remkoduursma
 nlshrink,pratik-r
 nlsic,mathscell
 nlsMicrobio,aursiber
@@ -13140,7 +13147,7 @@ NonParRolCor,jomopo
 NonProbEst,luiscastro193
 nopaco,cran
 nopp,siacus
-nor1mix,mmaechler
+nor1mix,r-forge
 NoRCE,guldenolgun
 nord,jkaupp
 nordklimdata1,cran
@@ -13227,6 +13234,7 @@ nproc,yangfengstat
 npROCRegression,coterodriguez
 nprotreg,cran
 npsf,cran
+npsm,kloke
 npsp,rubenfcasal
 npsr,fabiansellmann
 npsurv,yong3738
@@ -13268,6 +13276,7 @@ nucleoSim,arnauddroitlab
 nucleR,bioc
 NUCOMBog,jeroenpullens
 nuCpos,hkatomed
+NUETON,cran
 nullabor,dicook
 nullranges,nullranges
 numbat,kharchenkolab
@@ -13768,6 +13777,7 @@ overlapptest,cran
 overture,kurtis-s
 overviewR,cosimameyer
 OVESEG,lululuella
+OVL.CI,cran
 OVtool,burgette
 owd,feakster
 owdbr,kimjoaoun
@@ -13822,6 +13832,7 @@ pageviews,ironholds
 pagoda2,kharchenkolab
 pagoo,iferres
 PAGWAS,mevangelou
+PAICE,paicecode
 painbow,steveharoz
 painter,bsandel
 paintingr,thereallda
@@ -14746,7 +14757,7 @@ PoissonPCA,tjk23
 poissonreg,tidymodels
 poistweedie,cran
 pokemon,williamorim
-poker,greenspb
+poker,cran
 PolarCAP,imehlhaff
 polaroid,jhk0530
 poLCA,dlinzer
@@ -17598,6 +17609,7 @@ rsq,cran
 RSQL,ropenstats
 RSQLite,r-dbi
 RSqlParser,cran
+RsqMed,cran
 rSRD,jhstaudacher
 Rssa,asl
 RSSampling,cran
@@ -18111,7 +18123,7 @@ scDIFtest,ddebeer
 scds,bioc
 scellpam,jdmde
 SCEM,kserkcho
-scenes,r4ds
+scenes,shinyworks
 SCEnt,hwarden162
 SCEPtER,mattdell71
 SCEPtERbinary,mattdell71
@@ -18358,6 +18370,7 @@ segRDA,danilocvieira
 segregation,elbersb
 segregatr,magnusdv
 sehrnett,chainsawriot
+SEI,noeliaof
 SEIRfansy,umich-biostatistics
 seismic,qingyuanzhao
 seismicRoll,gillian-iris
@@ -19470,6 +19483,7 @@ SpatialVS,yili-hong
 SpatialVx,ericgilleland
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
+SpatPCA,egpivo
 spatPomp,kidusasfaw
 SpATS,coterodriguez
 spatsoc,ropensci
@@ -20610,6 +20624,7 @@ tensorBF,suleimank
 tensorBSS,jmvirta
 TensorClustering,cran
 TensorComplete,cran
+tensorEVD,cran
 tensorflow,rstudio
 TensorPreAve,william-chenwl
 tensorr,zamorarr
@@ -20860,6 +20875,7 @@ tidyREDCap,raymondbalise
 tidyrgee,r-tidy-remote-sensing
 tidyRSS,robertmyles
 tidyrules,talegari
+tidysdm,evolecolgroup
 tidyselect,r-lib
 tidySEM,cjvanlissa
 tidyseurat,stemangiola

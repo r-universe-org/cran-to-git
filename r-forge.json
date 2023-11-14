@@ -476,6 +476,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "nor1mix",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/curves-etc",
+    "subdir": "pkg/nor1mix"
+  },
+  {
     "package": "numDeriv",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/optimizer",
