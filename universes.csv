@@ -108,6 +108,7 @@ activity,marcusrowcliffe
 activityGCMM,cran
 ActivityIndex,cran
 activPAL,craig-pal
+actLifer,g-rade
 actogrammr,rcorty
 actuar,vigou3
 actuaRE,bavodc
@@ -143,7 +144,7 @@ adaptr,inceptdk
 ADAPTS,sdanzige
 adaptsmoFMRI,cran
 adaptTest,cran
-adaR,schochastics
+adaR,gesistsa
 AdaSampling,pyanglab
 adbcdrivermanager,paleolimbot
 adbcsqlite,paleolimbot
@@ -2259,6 +2260,7 @@ cardidates,r-forge
 Cardinal,bioc
 CardinalIO,kuwisdelu
 care,cran
+care4cmodel,cran
 caRecall,wraysmith
 careless,ryentes
 caresid,gianmarcoalberti
@@ -2886,6 +2888,7 @@ clttools,yesimiao
 clubpro,timbeechey
 clubSandwich,jepusto
 clue,kurthornik
+ClueR,pyanglab
 clugenr,clugen
 CluMP,9afojtik
 CluMSID,tdepke
@@ -3079,7 +3082,7 @@ coefficientalpha,johnnyzhz
 coefplot,jaredlander
 coenocliner,gavinsimpson
 coenoflex,dvrbts
-cofad,cran
+cofad,burmarkus
 cofeatureR,tinyheero
 coffee,maarten14c
 CoFRA,ruma1974
@@ -4097,7 +4100,6 @@ DatastreamDSWS2R,asrserver
 DATAstudio,extremestats
 dataverifyr,davzim
 dataverse,iqss
-dataversionr,cran
 DataVisualizations,mthrun
 DataViz,horiayeb
 datawizard,easystats
@@ -5148,6 +5150,7 @@ earlygating,el-meyer
 earlyR,reconhub
 earlywarnings,vdakos
 earth,stephenmilborrow
+earthdatalogin,cboettig
 earthtide,jkennel
 earthtones,wcornwell
 Ease,cran
@@ -5156,6 +5159,7 @@ easy.utils,ycli1995
 EasyABC,r-forge
 easyAHP,marsdu1989
 easyanova,cran
+easybgm,cran
 EasyCellType,bioc
 easycensus,corymccartan
 easyclimate,verughub
@@ -5654,6 +5658,7 @@ epinet,cgroendyke
 epinetr,diondetterer
 EpiNow2,epiforecasts
 epiomics,goodrich-lab
+epiphy,chgigot
 epiR,cran
 EpiReport,loremerdrignac
 episcan,cran
@@ -6997,7 +7002,6 @@ gamlss.data,cran
 gamlss.demo,cran
 gamlss.dist,gamlss-dev
 gamlss.foreach,cran
-gamlss.ggplots,cran
 gamlss.inf,cran
 gamlss.lasso,flziel
 gamlss.mx,cran
@@ -7318,7 +7322,7 @@ geofd,pedrodelicado
 geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
-geoGAM,cran
+geoGAM,nussbaummadlene
 geogenr,josesamos
 geogrid,jbaileyh
 geohabnet,garrettlab
@@ -9718,7 +9722,7 @@ jmvReadWrite,sjentsch
 JNplots,kenstoyama
 job,lindeloev
 jocre,philippallmann
-JoF,cran
+JoF,burmarkus
 joineR,graemeleehickey
 joineRML,graemeleehickey
 joinet,rauschenberger
@@ -10358,7 +10362,7 @@ likelihoodExplore,benbarnard
 likelihoodR,cran
 likert,jbryer
 LikertMakeR,winzarh
-lilikoi,cran
+lilikoi,granatumx
 lillies,cran
 LilRhino,cran
 LIM,karlines
@@ -10712,7 +10716,6 @@ lspartition,yingjieum
 LSPFP,cran
 lspline,mbojan
 lspls,bhmevik
-lsplsGlm,cran
 lsr,djnavarro
 LSRS,mehdisarparast
 lss2,asatwani2
@@ -11160,7 +11163,7 @@ mclust,luca-scr
 mclustAddons,luca-scr
 mclustcomp,kisungyou
 MCM,jiahui1902
-mcmc,cjgeyer
+mcmc,cran
 MCMC.OTU,z0on
 MCMC.qpcr,z0on
 MCMC4Extremes,cran
@@ -13274,7 +13277,7 @@ nucleoSim,arnauddroitlab
 nucleR,bioc
 NUCOMBog,jeroenpullens
 nuCpos,hkatomed
-NUETON,cran
+NUETON,probablyshubham
 nullabor,dicook
 nullranges,nullranges
 numbat,kharchenkolab
@@ -13775,7 +13778,7 @@ overlapptest,cran
 overture,kurtis-s
 overviewR,cosimameyer
 OVESEG,lululuella
-OVL.CI,cran
+OVL.CI,albfranc
 OVtool,burgette
 owd,feakster
 owdbr,kimjoaoun
@@ -14013,6 +14016,7 @@ pathdiagram,gastonstat
 pathfindR,egeulgen
 pathfindR.data,egeulgen
 pathifier,bioc
+pathlinkR,hancockinformatics
 pathlit,riasat-pathlit
 pathmapping,stmueller
 pathmodelfit,steveculpepper
@@ -14701,6 +14705,7 @@ pmparser,hugheylab
 pmr,cran
 pmsampsize,cran
 pmultinom,alex-l-m
+pmvalsampsize,cran
 pmwg,newcastlecl
 PMwR,enricoschumann
 pmxcode,cran
@@ -15136,6 +15141,7 @@ profileModel,ikosmidis
 profileplyr,bioc
 profileR,cddesja
 profileScoreDist,bioc
+profiplots,cran
 profmem,henrikbengtsson
 profoc,berrij
 ProFound,asgr
@@ -15631,7 +15637,7 @@ quartets,r-causal
 quartificate,ropensci
 quarto,quarto-dev
 QuartPAC,bioc
-QuasR,bioc
+QuasR,fmicompbio
 QuaternaryProd,bioc
 QUBIC,zy26
 QuClu,landerlucci
@@ -15862,6 +15868,7 @@ RankAggreg,vpihur
 RankAggregator,jburns88
 RankAggSIgFUR,prakashvs613
 Rankcluster,modal-inria
+rankCorr,shengxintu
 rankdifferencetest,cran
 rankdist,cran
 rankFD,cran
@@ -17077,6 +17084,7 @@ rMR,tylermoulton
 rms,harrelfe
 rmsb,harrelfe
 RMSD,kazwd2008
+RMSDp,kazwd2008
 rmsfact,eddelbuettel
 rmsfuns,nicktz
 RMSNumpress,singjc
@@ -17298,7 +17306,6 @@ rollbar,ankane
 rolldown,yihui
 rollinglda,jonasrieger
 rollmatch,rtiinternational
-rollRegres,boennecd
 roloc,pmur002
 rolocISCCNBS,pmur002
 rolog,mgondan
@@ -17606,7 +17613,7 @@ rsq,cran
 RSQL,ropenstats
 RSQLite,r-dbi
 RSqlParser,cran
-RsqMed,cran
+RsqMed,ytzhong
 rSRD,jhstaudacher
 Rssa,asl
 RSSampling,cran
@@ -18565,6 +18572,7 @@ SGB,grafmoni
 sGBJ,lauravillain
 SGCP,na396
 sgd,airoldilab
+SGDinference,sgdinference-lab
 sgee,gregvaughan
 sgeostat,cran
 SGL,nrs02004
@@ -20848,6 +20856,7 @@ tidygraph,thomasp85
 tidyHeatmap,stemangiola
 tidyhte,ddimmery
 tidyhydat,ropensci
+tidyindex,huizezhang-sherry
 tidyjson,colearendt
 tidylda,tommyjones
 tidylo,juliasilge
