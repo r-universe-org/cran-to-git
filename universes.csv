@@ -333,6 +333,7 @@ AIMS,bioc
 aimsir17,jimduggan
 aion,tesselle
 AIPW,yqzhong7
+air,soumyaray
 aire.zmvm,diegovalle
 airGR,cran
 airGRdatasets,cran
@@ -537,6 +538,7 @@ annotator,valcu
 annotatr,rcavalcante
 AnnuityRIR,fabriziomaturo
 anocva,macielcalebe
+ANOFA,dcousin3
 ANOM,philippallmann
 anomalize,business-science
 anomaly,cran
@@ -646,6 +648,7 @@ aqp,ncss-tech
 AquaBEHER,robeltakele
 AQuadtree,raymondlagonigro
 AquaEnv,karlines
+AquaticLifeHistory,jonathansmart
 aquodom,redtent
 AR,cran
 ar.matrix,nmmarquez
@@ -2694,7 +2697,6 @@ chronicler,b-rodrigues
 chronochrt,archaeothommy
 CHRONOS,bioc
 chronosphere,chronosphere-info
-CHsharp,cran
 chunked,edwindj
 chunkhooks,atusy
 chunkR,leandroroser
@@ -5010,6 +5012,7 @@ DSpoty,albertoalmuinha
 dsrTest,mnelsonr
 DSS,bioc
 DSSAT,palderman
+dssd,distancedevelopment
 DSSP,gentrywhite
 dst,rapler
 dstabledist,cran
@@ -5400,7 +5403,6 @@ eHDPrep,overton-group
 ehelp,mponce0
 eHOF,florianjansen
 EHR,cran
-EHRtemporalVariability,hms-dbmi
 ei,cran
 ei.Datasets,cran
 eia,ropensci
@@ -6052,6 +6054,7 @@ FactoInvestigate,husson
 FactoMineR,husson
 factoptd,cran
 factor.switching,mqbssppe
+factor256,hughparsonage
 FactorAssumptions,storopoli
 FactorCopula,cran
 factorial2x2,ericsleifer
@@ -7453,7 +7456,6 @@ ggalt,hrbrmstr
 ggamma,matheushjs
 gganimate,thomasp85
 ggarchery,mdhall272
-ggasym,jhrcook
 ggautomap,cidm-ph
 ggbeeswarm,eclarke
 ggbio,lawremi
@@ -8212,6 +8214,7 @@ GSMX,cran
 GSODR,ropensci
 gson,guangchuangyu
 GSparO,mayhhu
+gspcr,edoardocostantini
 GSReg,bioc
 GSRI,bioc
 gsrs,cran
@@ -11647,6 +11650,7 @@ MIIPW,atanubhattacharjee
 MIIVefa,lluo0
 MIIVsem,zackfisher
 mikropml,schlosslab
+miLAG,cran
 mildsvm,skent259
 miLineage,cran
 miloR,marionilab
@@ -11881,7 +11885,6 @@ mlmhelpr,lrocconi
 mlmi,jwb133
 MLML2R,samarafk
 mlmm.gwas,cran
-mlmmm,cran
 MLModelSelection,kuojunglee
 mlmpower,bkeller2
 mlmRev,stevencarlislewalker
@@ -12047,7 +12050,6 @@ ModelMap,cran
 ModelMatrixModel,xinyongtian
 ModelMetrics,jackstat
 modelObj,sth1402
-modelplotr,jurrr
 modelr,tidyverse
 modelSSE,cran
 modelStudio,modeloriented
@@ -12133,7 +12135,7 @@ MonoPhy,oschwery
 MonoPoly,berwinturlach
 monoreg,cran
 monotone,busingfmta
-MonotoneHazardRatio,cran
+MonotoneHazardRatio,yujian-wu
 monotonicity,skoestlmeier
 monreg,scottkosty
 Monte.Carlo.se,cran
@@ -12378,7 +12380,6 @@ mStats,myominnoo
 mstclustering,kmfrick
 mstDIF,cran
 mSTEM,cran
-MSTest,roga11
 mstherm,jvolkening
 mstknnclust,jorgeklz
 mstR,cran
@@ -13026,6 +13027,7 @@ NLMR,ropensci
 nlmrt,nashjc
 nlMS,carmefont
 nlnet,cran
+nlopt,braisgonzalezusc
 nloptr,astamm
 NLP,kurthornik
 NLPclient,fl0sch
@@ -13236,7 +13238,6 @@ npROCRegression,coterodriguez
 nprotreg,cran
 npsf,cran
 npsm,kloke
-npsp,rubenfcasal
 npsr,fabiansellmann
 npsurv,yong3738
 npsurvSS,godwinyyung
@@ -13915,6 +13916,7 @@ pangaear,ropensci
 PanJen,cran
 PanomiR,pouryany
 panp,bioc
+PANPRSnext,cran
 PANR,bioc
 panstarrs,uskovgs
 PantaRhei,pwbogaart
@@ -14255,6 +14257,7 @@ peptoolkit,jrcodina
 pepXMLTab,bioc
 pequod,albertomirisola
 peramo,phamdn
+perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
 percentiles,cran
@@ -15141,7 +15144,7 @@ profileModel,ikosmidis
 profileplyr,bioc
 profileR,cddesja
 profileScoreDist,bioc
-profiplots,cran
+profiplots,matulad
 profmem,henrikbengtsson
 profoc,berrij
 ProFound,asgr
@@ -16537,6 +16540,7 @@ remotes,r-lib
 REMP,yinanzheng
 rempsyc,rempsyc
 remss,qiuanzhu
+remstats,tilburgnetworkgroup
 rENA,codymarquart
 renderthis,jhelvy
 REndo,mmeierer
@@ -16710,7 +16714,6 @@ RFlocalfdr.data,parsifal9
 RFLPtools,stamats
 rflsgen,dimitri-justeau
 rfm,rsquaredacademy
-Rfmtool,cran
 rfoaas,eddelbuettel
 RFOC,jonathanlees
 rfold,feddelegrand7
@@ -16991,6 +16994,7 @@ rlinkedinads,selesnow
 Rlinsolve,kisungyou
 rlist,renkun-ken
 rlistings,insightsengineering
+rllama,alextwor
 rlmDataDriven,cran
 rlme,cran
 RLMM,bioc
@@ -18238,6 +18242,7 @@ ScriptMapR,peyronlab
 scriptName,mullinslab
 scriptuRs,andrewheiss
 scrm,scrm
+ScRNAIMM,mohmedsoudy
 scRNAseqApp,jianhong
 scRNAstat,xiayh17
 scRNAtools,cran
@@ -18401,6 +18406,7 @@ SELEX,bioc
 SELF,cran
 selfingTree,cran
 sem,john-d-fox
+semantic.assets,appsilon
 semantic.dashboard,appsilon
 Semblance,cran
 SemDist,iangonzalez
@@ -18957,6 +18963,7 @@ SimSeq,sbenidt
 simsl,cran
 SimSST,cran
 simstandard,wjschne
+simStateSpace,jeksterslab
 simstudy,kgoldfeld
 simsurv,sambrilleman
 SimSurvey,paulregular
@@ -21562,6 +21569,7 @@ uklr,kvasilopoulos
 ukpolice,evanodell
 Ularcirc,bioc
 ulid,hrbrmstr
+ulrb,pascoalf
 Ultimixt,cran
 umap,tkonopka
 Umatrix,cran
