@@ -2480,6 +2480,7 @@ DelayedDataFrame,https://github.com/bioconductor/delayeddataframe,,bioc
 DelayedMatrixStats,https://github.com/petehaitch/delayedmatrixstats,,bioc
 DelayedRandomArray,https://github.com/ltla/delayedrandomarray,,bioc
 DelayedTensor,https://github.com/rikenbit/delayedtensor,,bioc
+deldir,https://github.com/rolfturner/deldir,,
 DELocal,https://github.com/dasroy/delocal,,bioc
 deltaccd,https://github.com/hugheylab/deltaccd,,
 demcon,https://gitlab.com/dante-sttr/demcon,,archived
@@ -3728,6 +3729,7 @@ findSVI,https://github.com/heli-xu/findsvi,,
 findviews,https://github.com/tsellam/findviews,,
 finetune,https://github.com/tidymodels/finetune,,
 fingraph,https://github.com/convexfi/fingraph,,
+finity,https://github.com/x0range/finity,,
 FinNet,https://github.com/fatelarico/finnet,,
 finnishgrid,https://github.com/virmar/finnishgrid,,
 finnts,https://github.com/microsoft/finnts,,
@@ -4596,7 +4598,6 @@ gm,https://github.com/flujoo/gm,,
 gmailr,https://github.com/r-lib/gmailr,,
 gmapR,https://github.com/lawremi/gmapr,,bioc
 gmapsdistance,https://github.com/jlacko/gmapsdistance,,
-gmat,https://github.com/gherardovarando/gmat,,archived
 GMCM,https://github.com/aebilgrau/gmcm,,
 gMCP,https://github.com/kornl/gmcp,pkg/gMCP,
 gMCPLite,https://github.com/merck/gmcplite,,
@@ -5135,6 +5136,7 @@ hurricaneexposure,https://github.com/geanders/hurricaneexposure,,
 hutils,https://github.com/hughparsonage/hutils,,
 hutilscpp,https://github.com/hughparsonage/hutilscpp,,
 huxtable,https://github.com/hughjonesd/huxtable,,
+HVT,https://github.com/mu-sigma/hvt,,
 hwde,https://github.com/jhmaindonald/hwde,,
 hwep,https://github.com/dcgerard/hwep,,
 hwig,https://github.com/robitalec/hwig,,
@@ -7701,7 +7703,7 @@ ofGEM,https://github.com/randel/ofgem,,
 ogrdbstats,https://github.com/airr-community/ogrdbstats,,
 OGRE,https://github.com/svenbioinf/ogre,,bioc
 ohenery,https://github.com/shabbychef/ohenery,,
-oHMMed,https://github.com/lynettecaitlin/ohmmed,,archived
+oHMMed,https://github.com/lynettecaitlin/ohmmed,,
 ohoegdm,https://github.com/tmsalab/ohoegdm,,
 OHPL,https://github.com/nanxstats/ohpl,,
 ohsome,https://github.com/giscience/ohsome-r,,
@@ -7938,7 +7940,7 @@ pagedown,https://github.com/rstudio/pagedown,,
 pagemap,https://github.com/swsoyee/pagemapr,,
 pagenum,https://github.com/kwstat/pagenum,,
 pageRank,https://github.com/hd2326/pagerank,,bioc
-pageviews,https://github.com/ironholds/pageviews,,
+pageviews,https://github.com/ironholds/pageviews,,archived
 pagoda2,https://github.com/kharchenkolab/pagoda2,,
 pagoo,https://github.com/iferres/pagoo,,
 PAICE,https://github.com/paicecode/paice,,
@@ -8596,6 +8598,7 @@ powerjoin,https://github.com/moodymudskipper/powerjoin,,
 powerLATE,https://github.com/kbansak/powerlate,,
 poweRlaw,https://github.com/csgillespie/powerlaw,,
 powerly,https://github.com/mihaiconstantin/powerly,,
+PowerSDI,https://github.com/gabrielblain/powersdi,,
 PowerTOST,https://github.com/detlew/powertost,,
 PowerUpR,https://github.com/metinbulus/powerupr,,
 powRICLPM,https://github.com/jeroendmulder/powriclpm,,
@@ -12879,7 +12882,6 @@ vembedr,https://github.com/ijlyttle/vembedr,,
 venn,https://github.com/dusadrian/venn,,
 VennDetail,https://github.com/guokai8/venndetail,,bioc
 venneuler,https://github.com/s-u/venneuler,,
-vennLasso,https://github.com/jaredhuling/vennlasso,,archived
 vennplot,https://github.com/z267xu/vennplot,,
 verbaliseR,https://github.com/cararthompson/verbaliser,,
 verbalisr,https://github.com/magnusdv/verbalisr,,
@@ -13120,7 +13122,7 @@ WikidataQueryServiceR,https://github.com/wikimedia/wikidataqueryservicer,,
 WikidataR,https://github.com/ts404/wikidatar,,
 wikifacts,https://github.com/keithmcnulty/wikifacts,,
 wikilake,https://github.com/jsta/wikilake,,
-wikipediatrend,https://github.com/petermeissner/wikipediatrend,,
+wikipediatrend,https://github.com/petermeissner/wikipediatrend,,archived
 WikipediR,https://github.com/ironholds/wikipedir,,
 wikitaxa,https://github.com/ropensci/wikitaxa,,
 wikiTools,https://github.com/modesto-escobar/wikitools,,
