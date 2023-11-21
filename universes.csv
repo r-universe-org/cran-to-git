@@ -1924,6 +1924,7 @@ bp,johnschwenck
 bpa,bgreenwell
 bpAcc,cran
 bpbounds,remlapmot
+bpca,jcfaria
 bpcp,cran
 bpDir,davidebuttarazzi
 bpgmm,yaoxiangli
@@ -4034,6 +4035,7 @@ DART,bioc
 dartR,green-striped-gecko
 dartR.base,green-striped-gecko
 dartR.data,green-striped-gecko
+dartR.sim,green-striped-gecko
 dartR.spatial,green-striped-gecko
 dartRverse,green-striped-gecko
 dashboardthemes,nik01010
@@ -6520,6 +6522,7 @@ flexsiteboard,cran
 flexsurv,chjackson
 flexsurvcure,jrdnmdhl
 flextable,davidgohel
+FlexVarJM,leoniecourcoul
 FlickrAPI,koki25ando
 flifo,paulponcet
 flightplot,xmc811
@@ -7616,6 +7619,7 @@ ggrounded,botan
 ggroups,nilforooshan
 ggRtsy,katelyndiaz
 ggsc,yulab-smu
+ggScatRidges,matbou85
 ggsci,nanxstats
 ggseas,ellisp
 ggsector,yanpd01
@@ -9486,7 +9490,7 @@ IRexamples,vinhdizzo
 irg,robitalec
 IRISFGM,bioc
 IrishDirectorates,riccardorastelli
-IRISMustangMetrics,gillian-iris
+IRISMustangMetrics,gillian-earthscope
 IRISSeismic,cran
 IRkernel,irkernel
 irlba,bwlewis
@@ -10467,7 +10471,7 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
-lmap,mjderooij
+lmap,cran
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -13367,6 +13371,7 @@ od,itsleeds
 ODataQuery,cran
 ODB,maressyl
 odbc,r-dbi
+odbr,cran
 oddnet,sevvandi
 odds.converter,marcoblume
 odds.n.ends,jenineharris
@@ -18082,7 +18087,7 @@ scan,jazznbass
 SCAN.UPC,bioc
 scanMiR,bioc
 scanMiRApp,bioc
-scAnnotate,ubcxzhang
+scAnnotate,cran
 scAnnotatR,grisslab
 scanstatistics,promerpr
 SCANVIS,bioc
@@ -18386,7 +18391,7 @@ sehrnett,chainsawriot
 SEI,noeliaof
 SEIRfansy,umich-biostatistics
 seismic,qingyuanzhao
-seismicRoll,gillian-iris
+seismicRoll,gillian-earthscope
 sejmRP,mi2-warsaw
 Sejong,haven-jeon
 SEL,bbnkmp
@@ -21598,6 +21603,7 @@ understandBPMN,gertjanssenswillen
 UNDO,bioc
 unglue,moodymudskipper
 ungroup,mpascariu
+unhcrthemes,unhcr-dataviz
 unheadr,luisdva
 uni.survival.tree,cran
 uniah,yunrochung
