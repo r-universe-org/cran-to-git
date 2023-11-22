@@ -1166,6 +1166,7 @@ bayesGARCH,ardiad
 BayesGmed,belayb
 BayesGOF,cran
 BayesGPfit,kangjian2016
+BayesGrowth,jonathansmart
 BayesGWQS,mmcarli
 bayesian,hsbadr
 bayesianETAS,gordonjamesross
@@ -2223,7 +2224,7 @@ canaper,ropensci
 cancensus,mountainmath
 canceR,kmezhoud
 cancerclass,bioc
-CancerEvolutionVisualization,pboutros
+CancerEvolutionVisualization,uclahs-cds
 cancerGI,audreyqyfu
 CancerGram,biogenies
 CancerInSilico,bioc
@@ -2544,6 +2545,7 @@ CFilt,thiagoslima21
 cfma,zhaoyi1026
 cfmortality,aminadibi
 cforward,muschellij2
+cfr,epiverse-trace
 cft,earthlab
 CFtime,pvanlaake
 cfTools,jasminezhoulab
@@ -4035,6 +4037,7 @@ DART,bioc
 dartR,green-striped-gecko
 dartR.base,green-striped-gecko
 dartR.data,green-striped-gecko
+dartR.popgen,green-striped-gecko
 dartR.sim,green-striped-gecko
 dartR.spatial,green-striped-gecko
 dartRverse,green-striped-gecko
@@ -6366,7 +6369,7 @@ FielDHub,didiermurillof
 fields,dnychka
 FieldSimR,crwerner
 fiery,thomasp85
-FIESTA,graysonwhite
+FIESTA,usdaforestservice
 FIESTAutils,usdaforestservice
 fig,tymekdev
 figir,philaris
@@ -7984,6 +7987,7 @@ GpGp,joeguinness
 GPIC,phamdn
 gpindex,marberts
 gpk,prabhanjan-tattar
+gpkg,brownag
 GPL2025,cran
 gplite,jpiironen
 gplm,cran
@@ -10276,6 +10280,7 @@ legion,config-i1
 legislatoR,saschagobel
 LEGIT,alexiajm
 legocolors,leonawicz
+lehdr,jamgreen
 leiden,tomkellygenetics
 leidenAlg,kharchenkolab
 leidenbase,cole-trapnell-lab
@@ -10471,7 +10476,7 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
-lmap,cran
+lmap,mjderooij
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -10988,6 +10993,7 @@ marmap,ericpante
 marp,kanji709
 marqLevAlg,vivianephilipps
 marr,ghoshlab
+marradistrees,cran
 marray,bioc
 MARSANNhybrid,cran
 MARSGWR,cran
@@ -11564,6 +11570,7 @@ MHD,cran
 MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
+Mhorseshoe,cran
 mhsmm,cran
 mhtboot,abhirupkgp
 MHTdiscrete,allenzhuaz
@@ -13189,6 +13196,7 @@ notifyme,epijim
 NovelDistns,mutuasam
 novelforestSG,hrlai
 novelqualcodes,desiquintans
+NoviceDeveloperResources,barryzee
 noweb,cran
 Nozzle.R1,parklab
 np,jeffreyracine
@@ -14255,6 +14263,7 @@ PEPBVS,kcharmpi
 pepe,seymakalay
 peperr,fbertran
 peppm,fndemarqui
+pepr,pepkit
 PepSAVIms,dapritchard
 PepsNMR,manonmartin
 pepStat,rglab
@@ -14723,6 +14732,7 @@ pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
 PNAR,cran
+PNDSIBGE,gabriel-assuncao
 png,s-u
 PNSIBGE,gabriel-assuncao
 PNWColors,jakelawlor
@@ -16660,6 +16670,7 @@ RestoreNet,delcore-luca
 restorepoint,skranz
 restriktor,cran
 RestRserve,rexyai
+result,soumyaray
 resumer,jaredlander
 rethinker,cran
 rethnicity,fangzhou-xie
@@ -17610,6 +17621,7 @@ rsolr,lawremi
 Rsomoclu,xgdgsc
 RSP,aybekec
 rspa,markvanderloo
+rSPARCS,cran
 rsparkling,jakubhava
 rsparse,rexyai
 Rspc,merck
@@ -18087,7 +18099,7 @@ scan,jazznbass
 SCAN.UPC,bioc
 scanMiR,bioc
 scanMiRApp,bioc
-scAnnotate,cran
+scAnnotate,ubcxzhang
 scAnnotatR,grisslab
 scanstatistics,promerpr
 SCANVIS,bioc
@@ -18147,6 +18159,7 @@ SCEPtERbinary,mattdell71
 SCFA,duct317
 scFeatureFilter,bioc
 scFeatures,sydneybiox
+scfetch,showteeth
 scGate,carmonalab
 SCGLR,scnext
 scGOclust,papatheodorou-group
@@ -18430,6 +18443,7 @@ semiArtificial,rmarko
 semicmprskcoxmsm,cran
 SemiCompRisks,kleest0
 SEMID,lucaweihs
+semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,nicholasdanks
@@ -18631,6 +18645,7 @@ shapr,norskregnesentral
 shapviz,modeloriented
 shar,r-spatialecology
 SharedObject,jiefei-wang
+SharkDemography,jonathansmart
 sharp,barbarabodinier
 sharpData,wjbraun
 SharpeR,shabbychef
@@ -19188,6 +19203,7 @@ SMME,adam-lund
 smmR,cran
 SMMT,valvaletl
 SMNCensReg,cran
+smof,cran
 smog,chongma8903
 smoke,quinsun
 smoof,jakobbossek
@@ -19504,6 +19520,7 @@ SpatialVS,yili-hong
 SpatialVx,ericgilleland
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
+SpatMCA,egpivo
 SpatPCA,egpivo
 spatPomp,kidusasfaw
 SpATS,coterodriguez
@@ -21404,6 +21421,7 @@ tsibbletalk,earowang
 tsintermittent,trnnick
 tsiR,adbecker
 TSLSTM,ranjitstat
+TSLSTMplus,jaipizgon
 TSMN,cran
 tsModel,cran
 tsmp,matrix-profile-foundation
