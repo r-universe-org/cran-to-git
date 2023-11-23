@@ -4569,6 +4569,7 @@ diffHic,bioc
 diffIRT,cran
 DiffLogo,mgledi
 diffmatchpatch,rundel
+DiffNet,cran
 diffobj,brodieg
 diffpriv,brubinstein
 diffr,muschellij2
@@ -6745,6 +6746,7 @@ FPV,cran
 fqacalc,cran
 fqadata,cran
 fqar,equitable-equations
+fr,cole-brokamp
 frab,robinhankin
 fracdiff,mmaechler
 fracdist,leemorinucf
@@ -7501,7 +7503,6 @@ ggenealogy,lindsayrutter
 ggESDA,kiangkiangkiang
 ggetho,rethomics
 ggExtra,daattali
-ggfan,jasonhilton
 ggFishPlots,deepwaterimr
 ggfittext,wilkox
 ggflowchart,nrennie
@@ -8109,6 +8110,7 @@ GreyListChIP,bioc
 GreyModel,cran
 Greymodels,havishaj
 grf,jtibshirani
+GrFA,jiaqihu2021
 gridBase,pmur002
 gridBezier,pmur002
 GRIDCOPULA,cran
@@ -8860,6 +8862,7 @@ hydrotoolbox,ezetoum
 hydroToolkit,ezetoum
 hydroTSM,hzambran
 hyfo,yuanchao-xu
+HyMETT,cpenn-usgs
 hypeR,montilab
 hyper.fit,asgr
 hyper2,robinhankin
@@ -12220,7 +12223,7 @@ moveWindSpeed,bart1
 movMF,kurthornik
 mp,fatore
 mpath,zhuwang46
-mpathsenser,cran
+mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
 MPDiR,cran
@@ -14839,6 +14842,7 @@ POMS,gavinmdouglas
 pooh,cjgeyer
 pool,rstudio
 poolABC,joao-mcarvalho
+PoolBal,cran
 PoolDilutionR,cran
 PooledCohort,bcjaeger
 PooledMeanGroup,cran
@@ -15367,6 +15371,7 @@ PTXQC,cbielow
 ptycho,cran
 pubh,josie-athens
 public.ctn0094data,ctn-0094
+public.ctn0094extra,ctn-0094
 PublicationBias,mathurlabstanford
 publipha,jonasmoss
 Publish,tagteam
@@ -19941,6 +19946,7 @@ StatDA,filzmoserp
 StatDataML,cran
 statebins,hrbrmstr
 STATegRa,bioc
+StateLevelForest,gatesdupont
 states,andybega
 statespacer,dylanb95
 statgenGWAS,biometris
