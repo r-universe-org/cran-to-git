@@ -817,6 +817,7 @@ assignR,bumbanian
 assist,cran
 ASSISTant,bnaras
 AssocAFC,kkunji
+AssocBin,cran
 assocInd,cran
 AssocTests,liqgroup
 assortnet,cran
@@ -2916,6 +2917,7 @@ Cluster.OBeu,okgreece
 clusterability,cran
 ClusterBootstrap,mathijsdeen
 clusterCons,biomedicalinformaticsgroup
+clusterCrit,iago-pssjd
 clusteredinterference,barkleybg
 ClusteredMutations,cran
 clusterExperiment,epurdom
@@ -4569,7 +4571,7 @@ diffHic,bioc
 diffIRT,cran
 DiffLogo,mgledi
 diffmatchpatch,rundel
-DiffNet,cran
+DiffNet,faren-f
 diffobj,brodieg
 diffpriv,brubinstein
 diffr,muschellij2
@@ -7183,7 +7185,6 @@ gena,bogdanpotanin
 genalg,ballings
 GenAlgo,cran
 genArise,bioc
-genbankr,ropensci
 genBaRcode,grafxzahl
 GenBinomApps,cran
 gencor,helgem
@@ -8034,6 +8035,7 @@ grandR,erhard-lab
 grangers,matfar88
 GRaNIE,bioc
 granova,fbertran
+granovaGG,briandk
 grantham,maialab
 granulator,xanibas
 GRAPE,michaelklein916
@@ -10305,6 +10307,7 @@ lessR,dgerbing
 lessSEM,jhorzek
 lest,s-fleck
 lestat,pettermostad
+letsR,macroecology
 lettervalue,gilberto-sassi
 levi,bioc
 levitate,lewinfox
@@ -11440,6 +11443,7 @@ metapost,pmur002
 metapower,cran
 metapro,ysora
 metaprotr,aaronmilloro
+metaRange,metarange
 metarep,ijaljuli
 metaRMST,iweir
 metaRNASeq,sblanck
@@ -15369,6 +15373,7 @@ ptwikiwords,dfalbel
 PTwins,lmesteban
 PTXQC,cbielow
 ptycho,cran
+PubChemR,cran
 pubh,josie-athens
 public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
@@ -16322,6 +16327,7 @@ rdwd,brry
 rdwplus,apear9
 re2,girishji
 reactable,glin
+reactable.extras,appsilon
 reactablefmtr,kcuilla
 reactCheckbox,stla
 reactlog,rstudio
@@ -16696,6 +16702,7 @@ RevEcoR,yiluheihei
 reveneraR,chrisumphlett
 revengc,gshs-ornl
 reverseR,cran
+revert,cran
 RevGadgets,revbayes
 revgeo,cran
 ReviewR,thewileylab
@@ -18250,6 +18257,7 @@ scqe,kirstenlandsiedel
 scquantum,alex-l-m
 scraEP,jboelaert
 scran,bioc
+scrapeR,mdubeau20
 scrappy,villegar
 scReClassify,sydneybiox
 scRecover,miaozhun
@@ -18727,6 +18735,7 @@ shinyHeatmaply,yonicd
 shinyhelper,cwthom
 shinyhttr,curso-r
 shinyHugePlot,jtagusari
+shinyInvoice,cran
 shinyIRT,huseyinyildiz35
 ShinyItemAnalysis,patriciamar
 shinyjqui,yang-tang
