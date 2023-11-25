@@ -518,12 +518,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "pedigreemm",
-    "maintainer": "Ana Ines Vazquez <anainesvs@gmail.com>",
-    "url": "https://github.com/r-forge/pedigreemm",
-    "subdir": "pkg/pedigreemm"
-  },
-  {
     "package": "pems.utils",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/pems",

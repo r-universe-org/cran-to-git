@@ -565,7 +565,6 @@ antiProfiles,hcbravolab
 antitrust,luciu5
 antiword,ropensci
 AntMAN,bbodin
-ANTs,sebastiansosa
 AnVIL,link-ny
 AnVILBilling,vjcitn
 AnVILPublish,link-ny
@@ -2133,7 +2132,6 @@ BVARverse,nk027
 bvhar,ygeunkim
 bvls,cran
 bvpa,biplab44
-bvpSolve,karlines
 BVSNLP,amirnikooie
 bwd,cran
 bWGR,alenxav
@@ -2439,7 +2437,6 @@ cdfquantreg,cran
 CDFt,cran
 cdgd,ang-yu
 CDI,jichunxie
-CDLasso,cran
 cdlei,cran
 cdlTools,jlisic
 CDM,alexanderrobitzsch
@@ -3890,6 +3887,7 @@ curtailment,martinlaw
 curvecomp,radon0303
 curveDepth,pavlomozharovskyi
 curvHDR,mattwand
+curvir,trnnick
 cusp,raoelg
 custom.gauss.quad,pvkabaila
 customCMPdb,girke-lab
@@ -4138,7 +4136,6 @@ dbacf,cran
 dbarts,vdorie
 dbcsp,cran
 dbd,rolfturner
-DBERlibR,csong747
 DBEST,hristotomov
 DBfit,cran
 dbflobr,poissonconsulting
@@ -4441,7 +4438,6 @@ detector,paulhendricks
 detectors,simonpcouch
 detectRUNS,bioinformatics-ptp
 detectseparation,ikosmidis
-deTestSet,karlines
 DetLifeInsurance,joaquinauza
 DetMCD,kvak
 detourr,casperhart
@@ -5977,7 +5973,6 @@ expowo,dboslab
 expperm,cran
 ExpRep,cran
 ExpressionAtlas,bioc
-ExprNet,wenbinwu2001
 expSBM,riccardorastelli
 expsmooth,robjhyndman
 expss,gdemin
@@ -6825,6 +6820,7 @@ fromo,shabbychef
 frontier,r-forge
 frontiles,cran
 frostr,imangr
+froth,ahl27
 frscore,vpparkkinen
 fruclimadapt,carm1r
 fs,r-lib
@@ -8259,7 +8255,7 @@ gtfstools,ipeagit
 gtheory,canoemoore
 gto,thebioengineer
 gtools,r-gregmisc
-gtop,cugliari
+gtop,cran
 gtranslate,mohamed-180
 gtreg,shannonpileggi
 gtrellis,jokergoo
@@ -10826,7 +10822,6 @@ madness,shabbychef
 MADPop,mlysy
 madr,mattcefalu
 madrat,pik-piam
-mads,distancedevelopment
 MADSEQ,ykong2
 madshapR,maelstrom-research
 madsim,doulaye
@@ -11169,6 +11164,7 @@ mccf1,kirin666
 mcclust,cran
 mccmeiv,chrismattstat
 mccr,cran
+MCDA,paterijk
 mcemGLM,acosta-stat
 mcen,cran
 mcga,cran
@@ -12129,7 +12125,6 @@ momentfit,pchausse
 moments,luqqe
 momentuHMM,bmcclintock
 Momocs,momx
-momr,eprifti
 MomTrunc,chedgala
 monaco,stla
 monaLisa,fmicompbio
@@ -12527,6 +12522,7 @@ multipanelfigure,cran
 MultiPhen,cran
 MultipleBreakpoints,cran
 MultipleBubbles,pedroharaujo
+multipleDL,cran
 multipleNCC,cran
 MultipleRegression,cran
 multiplestressR,benjburgess
@@ -13666,6 +13662,7 @@ OpVaR,cran
 OPWeight,mshasan
 ora,cran
 OralOpioids,cran
+orbweaver,ixpantia
 orca,janezd
 orclus,g-rho
 ORCME,cran
@@ -14222,7 +14219,7 @@ pedbuildr,magnusdv
 pedFamilias,magnusdv
 pedgene,sinnweja
 pedigree,albartcoster
-pedigreemm,r-forge
+pedigreemm,anainesvs
 pedigreeTools,rpedigree
 pedmod,boennecd
 pedmut,magnusdv
@@ -14633,7 +14630,7 @@ plier,bioc
 pliman,tiagoolivoto
 PLindleyROC,ertansu
 plink,bocaccio
-plinkFile,cran
+plinkFile,xiaoran831213
 plinkQC,meyer-lab-cshl
 PLIS,cran
 plm,ycroissant
@@ -15150,7 +15147,7 @@ processmonitR,bupaverse
 processpredictR,gertjanssenswillen
 processx,r-lib
 procmaps,r-prof
-ProcMod,cran
+ProcMod,coissac
 procoil,ubod
 procs,dbosak01
 proDA,const-ae
@@ -17091,7 +17088,6 @@ rminer,paulocortez4
 rminizinc,acharaakshit
 rminqa,ypan1988
 rmio,privefl
-rMisbeta,snotjanu
 Rmisc,ryanhope
 Rmixmod,mixmod
 RMixpanel,ploner
@@ -17334,7 +17330,6 @@ ROI.plugin.qpoases,r-forge
 ROI.plugin.quadprog,r-forge
 ROI.plugin.scs,r-forge
 ROI.plugin.symphony,r-forge
-roistats,irisfee
 rolap,josesamos
 RolDE,elolab
 roll,jjf234
@@ -18520,7 +18515,6 @@ separationplot,cran
 sepkoski,lewisajones
 seq.hotSPOT,sydney-grant
 seq2pathway,bioc
-seq2R,noramvillanueva
 SeqAlloc,cran
 seqArchR,snikumbh
 seqArchRplus,snikumbh
@@ -19776,13 +19770,14 @@ SPUTNIK,paoloinglese
 SPYvsSPY,shabbychef
 SQI,owaisaliwani30
 SQL,cran
+sqlcaser,cran
 SQLDataFrame,bioconductor
 sqldf,ggrothendieck
 sqlHelpers,tconwell
 sqliter,wilsonfreitas
 sqliteutils,crotman
 SQLove,samkerns
-sqlparseR,agrosimi
+sqlparseR,michaelsimmler
 SqlRender,ohdsi
 sqlscore,wwbrannon
 sqlstrings,dejse
@@ -20081,6 +20076,7 @@ stoppingrule,cran
 stops,r-forge
 stopwords,quanteda
 Storm,allenday
+StormR,umr-amap
 storr,richfitz
 stortingscrape,martigso
 stoRy,theme-ontology
@@ -21261,6 +21257,7 @@ trawl,almutveraart
 TRD,cran
 TreatmentPatterns,darwin-eu-dev
 TreatmentSelection,mdbrown
+treats,tguillerme
 tree,cran
 tree.interpreter,nalzok
 tree3d,tylermorganwall
@@ -21321,7 +21318,7 @@ TRES,jingzzeng
 TRESS,bioc
 TRexSelector,jasinmachkour
 Tri.Hierarchical.IBDs,cran
-triact,agrosimi
+triact,michaelsimmler
 TriadSim,cran
 TrialEmulation,causal-lda
 trialr,brockk
