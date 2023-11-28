@@ -10,6 +10,11 @@
     "url": "https://github.com/cran/dartR.base"
   },
   {
+    "package": "dartR.captive",
+    "maintainer": "Bernd Gruber <bernd.gruber@canberra.edu.au>",
+    "url": "https://github.com/cran/dartR.captive"
+  },
+  {
     "package": "dartR.data",
     "maintainer": "Bernd Gruber <bernd.gruber@canberra.edu.au>",
     "url": "https://github.com/green-striped-gecko/dartr.data"

@@ -482,6 +482,12 @@
     "subdir": "pkg/nor1mix"
   },
   {
+    "package": "NormalLaplace",
+    "maintainer": "David Scott <d.scott@auckland.ac.nz>",
+    "url": "https://github.com/r-forge/rmetrics",
+    "subdir": "pkg/NormalLaplace"
+  },
+  {
     "package": "numDeriv",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/optimizer",
