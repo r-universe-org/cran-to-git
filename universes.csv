@@ -413,6 +413,7 @@ alluvial,mbojan
 almanac,davisvaughan
 alone,doehm
 alookr,choonghyunryu
+aloom,cran
 alpaca,amrei-stammann
 alpha.correction.bh,cran
 AlphaBeta,bioc
@@ -677,6 +678,7 @@ arcpbf,r-arcgis
 arcpullr,cran
 arctools,martakarass
 ArDec,susanabarbosa
+ARDECO,cran
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -1392,6 +1394,7 @@ BeQut,cran
 Bergm,acaimo
 Bernadette,bernadette-eu
 berryFunctions,brry
+BERT,hsu-hpc
 BeSS,cran
 Bessel,r-forge
 bestglm,cliffordlai
@@ -1685,6 +1688,7 @@ biospear,stefanmichielsgr
 biostat3,mclements
 Biostatistics,rjknell
 BioStatR,fbertran
+BiostatsUHNplus,cran
 Biostrings,bioconductor
 biotic,robbriers
 BioTIP,xyang2uchicago
@@ -2360,6 +2364,7 @@ CausalImpact,google
 CausalMBSTS,fmenchetti
 CausalModels,ander428
 causaloptim,sachsmc
+causalOT,ericdunipace
 causalPAF,mauriceoconnell
 CausalQueries,till-tietz
 CausalR,bioc
@@ -3155,7 +3160,6 @@ colorscience,glenndavis52
 colorsGen,stla
 colorspace,r-forge
 colorSpec,glenndavis52
-Colossus,ericgiunta
 colouR,alaninglis
 colourlovers,andrewheiss
 colourpicker,daattali
@@ -3821,6 +3825,7 @@ ctc,antoinelucas64
 CTD,vpetrosyan
 CTdata,uclouvain-cbio
 CTDquerier,bioc
+CTexploreR,uclouvain-cbio
 ctf,fitzgerald-csus
 ctgdist,huseyinyildiz35
 ctgt,cran
@@ -6272,7 +6277,7 @@ fdrame,bioc
 fdrci,millstei
 fdrDiscreteNull,xiongzhichen
 FDRestimation,murraymegan
-FDRsamplesize2,cran
+FDRsamplesize2,yonghui-ni
 FDRsampsize,stan-pounds
 fdrtool,cran
 fds,cran
@@ -10182,7 +10187,7 @@ lazyWeave,nutterb
 lba,ivanalaman
 LBE,bioc
 lbfgs,antoniocoppola
-lbfgsb3c,mattfidler
+lbfgsb3c,nlmixr2
 lbm,zhuchao0228
 lboxcox,ubclxing
 LBPG,cran
@@ -11853,7 +11858,7 @@ MixviR,mikesovic
 mixvlmc,fabrice-rossi
 mize,jlmelville
 mizer,sizespectrum
-MJMbamlss,cran
+MJMbamlss,alexvolkmann
 MKclass,stamats
 mkde,sinkovit
 MKdescr,stamats
@@ -13298,6 +13303,7 @@ nucleR,bioc
 NUCOMBog,jeroenpullens
 nuCpos,hkatomed
 NUETON,probablyshubham
+nuggets,beerda
 nullabor,dicook
 nullranges,nullranges
 numbat,kharchenkolab
@@ -14470,6 +14476,7 @@ phylolm,lamho86
 phylometrics,amsibioinfo
 phylopath,ax3man
 PhyloProfile,bionf
+phyloraster,gabferreira
 phyloregion,darunabas
 phylosamp,hopkinsidd
 phylosem,james-thorson-noaa
@@ -14495,6 +14502,7 @@ piar,marberts
 picante,skembel
 picasso,cran
 PICBayes,cran
+picClip,deppemj
 picker,hms-dbmi
 pickgene,bioc
 picR,javenrflo
@@ -14684,6 +14692,7 @@ plpoisson,drwolf85
 PLreg,ffqueiroz
 PLRModels,cran
 pls,khliland
+PLSDAbatch,evayiwenwang
 plsdepot,fbertran
 plsdof,fbertran
 plsgenomics,gdurif
@@ -17016,6 +17025,7 @@ rLFT,salbeke
 Rlgt,cbergmeir
 Rlibeemd,helske
 Rlibkdv,bojianzhu
+rlibkriging,yannrichet-irsn
 rLiDAR,carlos-alberto-silva
 rliger,welch-lab
 Rlinkedin,mpiccirilli

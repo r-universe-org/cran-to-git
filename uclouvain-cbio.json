@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CTexploreR",
+    "maintainer": "Axelle Loriot <axelle.loriot@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/ctexplorer",
+    "registry": "bioc"
+  },
+  {
     "package": "CytoPipeline",
     "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/cytopipeline",
