@@ -210,6 +210,7 @@ admixr,bodkan
 ADMM,kisungyou
 admmDensestSubmatrix,pbombina
 ADMMsigma,mgallow
+admtools,mindthegap-erc
 ADMUR,ucl
 adnuts,cole-monnahan-noaa
 adobeanalyticsr,benrwoodard
@@ -277,7 +278,7 @@ ageutils,timtaylor
 agfh,martenthompson
 agghoo,cran
 aggregateBioVar,jasonratcliff
-AggregateR,cran
+AggregateR,matthbogaert
 aggregation,lynnyi
 aggTrees,riccardo-df
 aggutils,forecastingresearch
@@ -413,7 +414,7 @@ alluvial,mbojan
 almanac,davisvaughan
 alone,doehm
 alookr,choonghyunryu
-aloom,cran
+aloom,damjankrstajic
 alpaca,amrei-stammann
 alpha.correction.bh,cran
 AlphaBeta,bioc
@@ -678,7 +679,7 @@ arcpbf,r-arcgis
 arcpullr,cran
 arctools,martakarass
 ArDec,susanabarbosa
-ARDECO,cran
+ARDECO,attarco
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -1424,6 +1425,7 @@ BETS,nmecsys
 bets.covid19,qingyuanzhao
 BetterReg,chrisaberson
 BeviMed,daniel-jg
+bexy,cran
 BeyondBenford,cran
 beyondWhittle,cran
 bezier,aaronolsen
@@ -1688,7 +1690,7 @@ biospear,stefanmichielsgr
 biostat3,mclements
 Biostatistics,rjknell
 BioStatR,fbertran
-BiostatsUHNplus,cran
+BiostatsUHNplus,tylerpittman
 Biostrings,bioconductor
 biotic,robbriers
 BioTIP,xyang2uchicago
@@ -3550,6 +3552,7 @@ countsplit,anna-neufeld
 countSTAR,bking124
 countToFPKM,aalhendi1707
 countTransformers,zhang-zeyu
+countts,cran
 coursekata,coursekata
 covafillr,calbertsen
 covatest,sandradeiaco
@@ -4265,7 +4268,7 @@ decontX,bioc
 deconvolveR,bnaras
 deconvR,bimsbbioinfo
 decor,r-lib
-DecorateR,cran
+DecorateR,matthbogaert
 decorators,tidylab
 decoupleR,saezlab
 Deducer,ifellows
@@ -5007,6 +5010,7 @@ dsdp,tsuchiya-lab
 dse,r-forge
 dsfa,rouvenschmidt1337
 DSI,datashield
+dsims,distancedevelopment
 DSjobtracker,thiyangtdata
 DSL,theussl
 dslabs,cran
@@ -5848,6 +5852,7 @@ EvaluateCore,aravind-j
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
 evaluomeR,neobernad
+evapoRe,akbarr1184
 Evapotranspiration,cran
 evclass,cran
 evclust,cran
@@ -6057,7 +6062,7 @@ FACT,henrifnk
 factDesign,bioc
 factiv,mattblackwell
 FACTMLE,cran
-FactoClass,cepardot
+FactoClass,cran
 factoextra,kassambara
 FactoInvestigate,husson
 FactoMineR,husson
@@ -8351,6 +8356,7 @@ hacksig,acare
 HACSim,jphill01
 HadamardR,appavoodhandapani
 HaDeX,werpuc
+HadIBDs,cran
 hagis,openplantpathology
 hahmmr,teng-gao
 hakaiApi,hakaiinstitute
@@ -8459,6 +8465,7 @@ hdiVAR,cran
 HDJM,jjr1234
 HDLSSkST,biplab44
 hdm,martinspindler
+HDMAADMM,psyen0824
 hdme,osorensen
 hdmed,cran
 HDMFA,cran
@@ -9649,6 +9656,7 @@ ivgets,jkurle
 ivitr,cran
 ivmodel,hyunseungkang
 ivmte,jkcshea
+ivo.table,mthulin
 ivprobit,zedtaha
 ivreg,zeileis
 ivregEX,cran
@@ -9937,6 +9945,7 @@ kinematics,pabrod
 KingCountyHouses,cran
 KinMixLite,petergreen5678
 kinship2,mayoverse
+KINSIMU,guanju-ma
 KinSwingR,bioc
 Kira,cran
 kirby21.base,muschellij2
@@ -12025,7 +12034,7 @@ mniw,mlysy
 mnlfa,alexanderrobitzsch
 MNLpred,manuelneumann
 MNLR,kartikeyabolar
-MNM,klauschn
+MNM,cran
 mnmer,aandradebio
 mnonr,cran
 mnorm,bogdanpotanin
@@ -12955,6 +12964,7 @@ newsmd,dschaykib
 newTestSurvRec,cran
 NewWave,fedeago
 nextGenShinyApps,oobianom
+nexus,tesselle
 nFactors,raicheg
 NFCP,tomaspinall
 nfer,cran
@@ -14342,6 +14352,7 @@ PetfindeR,aschleg
 petitr,faune3
 petrinetR,bupaverse
 pewdata,fsolt
+pexm,vdinizm
 pez,willpearse
 pfa,cran
 pfamAnalyzeR,kvittingseerup
@@ -14787,7 +14798,7 @@ poismf,david-cortes
 PoisNonNor,bernice0321
 PoisNor,bernice0321
 poisson.glm.mix,mqbssppe
-PoissonBinomial,disohda
+PoissonBinomial,fj86
 poissonMT,claudioagostinelli
 PoissonMultinomial,yili-hong
 PoissonPCA,tjk23
@@ -15522,7 +15533,7 @@ qgisprocess,r-spatial
 qgraph,sachaepskamp
 qgshiny,neyhartj
 qgtools,jacks306
-qha,cepardot
+qha,cran
 QHOT,cran
 QHScrnomo,clevelandclinicqhs
 QI,bappa10085
@@ -15920,7 +15931,6 @@ rankrate,pearce790
 RankResponse,cran
 RANKS,gvalentini58
 ranktreeEnsemble,transbioinfolab
-rankUncertainty,cran
 RANN,jefferislab
 rapiclient,bergant
 RApiDatetime,eddelbuettel
@@ -17557,7 +17567,7 @@ RRRR,finyang
 rrscale,gjhunt
 rrtable,cardiomoon
 RRTCS,cran
-rrum,coatless
+rrum,tmsalab
 rrvgo,ssayols
 RSA,nicebread
 RSADBE,prabhanjan-tattar
@@ -17990,7 +18000,7 @@ sampleSelection,arne-henningsen
 samplesize,shearer
 SampleSize4ClinicalTrials,qihongchao
 samplesize4surveys,psirusteam
-samplesizeCMH,spectrumhealthresearch
+samplesizeCMH,pegeler
 samplesizeestimator,dr-amala-kumarapandiyan
 samplesizelogisticcasecontrol,wheelerb
 SampleSizeMeans,cran
