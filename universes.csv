@@ -222,6 +222,7 @@ adpss,ca4wa
 ads,pelissie
 adsDataHubR,pankaj-bhatlawande
 adSplit,bioc
+ADTSA,leilamarvian
 AdvancedBasketballStats,cran
 AdvBinomApps,cran
 AdvDif4,jaderlugon
@@ -2196,6 +2197,7 @@ calendR,sidoruvigo
 calendRio,mschilli87
 CALF,jorufo
 CALIBERrfimpute,cran
+calibmsm,alexpate30
 calibrar,roliveros-ramos
 calibrate,jangraffelman
 calibrateBinary,chihli
@@ -6062,7 +6064,7 @@ FACT,henrifnk
 factDesign,bioc
 factiv,mattblackwell
 FACTMLE,cran
-FactoClass,cran
+FactoClass,cepardot
 factoextra,kassambara
 FactoInvestigate,husson
 FactoMineR,husson
@@ -6514,6 +6516,7 @@ flatr,evilgraham
 flattabler,josesamos
 flatxml,jsugarelli
 fledge,cynkra
+flevr,bdwilliamson
 flexclust,cran
 flexCWM,cran
 flexdashboard,rstudio
@@ -7161,7 +7164,7 @@ GE,cran
 gear,jfrench
 GEC,liuaber
 gecko,vascobranco
-GeDS,alattuada
+GeDS,emilioluissaenzguillen
 gee,cran
 GEEaSPU,junghi
 geeasy,hojsgaard
@@ -9465,6 +9468,7 @@ ipeadatar,gomesleduardo
 IPEC,cran
 IPEDS,ajhaller
 IPEDSuploadables,alisonlanski
+iperform,cran
 ipflasso,boulesteix
 ipfp,awblocker
 ipfr,dkyleward
@@ -9861,6 +9865,7 @@ kayadata,jonathan-g
 kazaam,wrathematics
 KbMvtSkew,cran
 KBoost,luisiglm
+kcmeans,thomaswiemann
 Kcop,yvesngounou
 kcpRS,cran
 KCSKNNShiny,chaithanya07
@@ -10463,7 +10468,7 @@ lira,cran
 lisa,tylerlittlefield
 lisaClust,sydneybiox
 lisrelToR,cran
-list,graemeblair
+list,sensitivequestions
 listArray,sigbertklinke
 listarrays,t-kalinowski
 listcomp,dirkschumacher
@@ -11135,7 +11140,6 @@ mbbefd,spedygiorgio
 MBC,alexcannon
 MBCB,bioc
 MBCbook,cran
-mbclusterwise,sbougeard
 MBECS,rmolbrich
 mbend,nilforooshan
 MBESS,yelleknek
@@ -15533,7 +15537,7 @@ qgisprocess,r-spatial
 qgraph,sachaepskamp
 qgshiny,neyhartj
 qgtools,jacks306
-qha,cran
+qha,cepardot
 QHOT,cran
 QHScrnomo,clevelandclinicqhs
 QI,bappa10085
@@ -16447,7 +16451,7 @@ recountmethylation,metamaden
 recoup,pmoulos
 recurrentpseudo,juliekfurberg
 recurse,cbracis
-red,cran
+red,vascobranco
 reda,wenjie2wang
 ReDaMoR,patzaw
 REdaS,maiermarco
@@ -16473,7 +16477,7 @@ redist,alarm-redist
 redistmetrics,alarm-redist
 redland,ropensci
 redlistr,red-list-ecosystem
-rEDM,cran
+rEDM,softwareliteracy
 Redmonder,pmdci
 redoc,meztez
 redR,coldfir3
@@ -20599,6 +20603,7 @@ taxonomizr,sherrillmix
 Taxonstand,luiscayuela
 taxotools,vijaybarve
 taylor,wjakethompson
+TaylorRussell,nwaller
 tayloRswift,asteves
 tbd,killingvectorfield
 TBEST,gsun2018
