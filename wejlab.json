@@ -1,0 +1,20 @@
+[
+  {
+    "package": "animalcules",
+    "maintainer": "Yue Zhao <yuezh@bu.edu>",
+    "url": "https://github.com/wejlab/animalcules",
+    "registry": "bioc"
+  },
+  {
+    "package": "ASSIGN",
+    "maintainer": "Ying Shen <yshen3@bu.edu>",
+    "url": "https://github.com/wejlab/assign",
+    "registry": "bioc"
+  },
+  {
+    "package": "TBSignatureProfiler",
+    "maintainer": "Aubrey R. Odom <aodom@bu.edu>",
+    "url": "https://github.com/wejlab/tbsignatureprofiler",
+    "registry": "bioc"
+  }
+]

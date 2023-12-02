@@ -87,6 +87,7 @@ acnr,mpierrejean
 acopula,cran
 AcousticNDLCodeR,denis-arnold
 acp,cran
+acro,cran
 acroname,vpnagraj
 AcrossTic,buttrey
 acs,eglenn
@@ -511,7 +512,7 @@ AnglerCreelSurveySimulation,stevenranney
 angstroms,australianantarcticdivision
 aniDom,cran
 anim.plots,hughjonesd
-animalcules,compbiomed
+animalcules,wejlab
 animalEKF,sam-data-guy-iam
 AnimalHabitatNetwork,cran
 animaltracker,mathedjoe
@@ -814,7 +815,7 @@ ASSET,bioc
 AssetAllocation,rubetron
 AssetCorr,maximiliannaglur
 AssetPricing,rolfturner
-ASSIGN,compbiomed
+ASSIGN,wejlab
 assignPOP,alexkychen
 assignR,bumbanian
 assist,cran
@@ -4489,7 +4490,7 @@ dfmta,jhjourdan
 dfoliatR,chguiterman
 dfoptim,rvaradhan
 Dforest,lhnctr
-dformula,dataallaround
+dformula,serafinialessio
 DFP,bioc
 dfped,artemis-toumazi
 dfphase1,cran
@@ -5573,6 +5574,7 @@ enhancerHomologSearch,jianhong
 EnMCB,whirlsyu
 ENMeval,jamiemkass
 ENmix,bioc
+enmpa,luisagi
 enmSdmX,adamlilith
 enpls,nanxstats
 EnrichedHeatmap,jokergoo
@@ -11241,6 +11243,7 @@ MCSim,cran
 mcStats,mczek
 mctest,itfeature
 mctq,ropensci
+MCTrend,alobondo
 mcunit,agandy
 mcvis,kevinwang09
 mcwr,dcschneider
@@ -13903,7 +13906,7 @@ PakPMICS2018hh,myaseen208
 PakPMICS2018mm,myaseen208
 PakPMICS2018mn,myaseen208
 palaeoSig,richardjtelford
-palaeoverse,palaeoverse-community
+palaeoverse,palaeoverse
 palasso,rauschenberger
 pald,lucymcgowan
 paleobioDB,ropensci
@@ -17102,6 +17105,7 @@ rMEA,kleinbub
 RmecabKo,junhewk
 RMediation,quantpsych
 rmelting,aravind-j
+rmerec,lucassp
 rmeta,tslumley
 rmetalog,isaacfab
 rmfanova,ls-git-17
@@ -17464,7 +17468,7 @@ RPEXE.RPEXT,hangangtrue
 rpf,jpritikin
 RPhosFate,gisler
 Rphylopars,ericgoolsby
-rphylopic,palaeoverse-community
+rphylopic,palaeoverse
 rpinterest,colinfay
 rpivotTable,smartinsightsfromdata
 rplotengine,cran
@@ -18755,7 +18759,7 @@ shinyHeatmaply,yonicd
 shinyhelper,cwthom
 shinyhttr,curso-r
 shinyHugePlot,jtagusari
-shinyInvoice,cran
+shinyInvoice,fernandoroa
 shinyIRT,huseyinyildiz35
 ShinyItemAnalysis,patriciamar
 shinyjqui,yang-tang
@@ -18834,7 +18838,7 @@ shp2graph,cran
 shrink,biometrician
 ShrinkCovMat,anestistouloumis
 shrinkDSM,cran
-shrinkTVP,cran
+shrinkTVP,neferkareii
 shroomDK,charlieflipside
 SHT,kisungyou
 shuffle,yuvalbenjamini
@@ -20345,6 +20349,7 @@ survminer,kassambara
 survMisc,dardisco
 survmixer,martabofillroig
 survML,cwolock
+survobj,johnaponte
 survout,cran
 survParamSim,yoshidk6
 survPen,fauvernierma
@@ -20614,7 +20619,7 @@ tbma,burakhans
 tboot,njm18
 TBRDist,ms609
 tbrf,mps9506
-TBSignatureProfiler,compbiomed
+TBSignatureProfiler,wejlab
 TCA,cozygene
 TCC,bioc
 tcftt,huaiyuzhang
@@ -21061,7 +21066,7 @@ TissueEnrich,bioc
 TITAN2,dkahle
 TitanCNA,gavinha
 titanic,paulhendricks
-TITEgBOIN,zhuzhuxiaxia
+TITEgBOIN,cran
 titeIR,lsubioscomputing
 titrationCurves,dtharvey
 TKCat,patzaw
