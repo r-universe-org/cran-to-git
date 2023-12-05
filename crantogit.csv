@@ -613,7 +613,7 @@ BAS,https://github.com/merliseclyde/bas,,
 base64,https://github.com/jeroen/base64,,
 base64enc,https://github.com/s-u/base64enc,,
 base64url,https://github.com/mllg/base64url,,
-baseballDBR,https://github.com/keberwein/baseballdbr,,
+baseballDBR,https://github.com/keberwein/baseballdbr,,archived
 baseballr,https://github.com/billpetti/baseballr,,archived
 basecamb,https://github.com/codeblue-team/basecamb,,archived
 basefun,https://github.com/r-forge/ctm,pkg/basefun,
@@ -731,7 +731,6 @@ bbsBayes,https://github.com/bbsbayes/bbsbayes,,archived
 bbw,https://github.com/rapidsurveys/bbw,,
 bcaboot,https://github.com/bnaras/bcaboot,,
 BCClong,https://github.com/zhiwent/bcclong,,
-BCDAG,https://github.com/alesmascaro/bcdag,,archived
 bcdata,https://github.com/bcgov/bcdata,,
 BCEA,https://github.com/n8thangreen/bcea,,
 Bchron,https://github.com/andrewcparnell/bchron,,
@@ -1041,7 +1040,6 @@ bnmonitor,https://github.com/manueleleonelli/bnmonitor,,
 bnnSurvival,https://github.com/mnwright/bnnsurvival,,
 bnpsd,https://github.com/storeylab/bnpsd,,
 BNrich,https://github.com/samaneh-bioinformatics/bnrich,,
-bnspatial,https://github.com/dariomasante/bnspatial,,archived
 bnviewer,https://github.com/robson-fernandes/bnviewer,,
 boa,https://github.com/brian-j-smith/boa,,
 BOBaFIT,https://github.com/bioinformatic-seragnoli/bobafit,,bioc
@@ -5468,7 +5466,7 @@ inTextSummaryTable,https://github.com/openanalytics/intextsummarytable,inTextSum
 inti,https://github.com/flavjack/inti,,
 intkrige,https://github.com/beanb2/intkrige,,
 intmap,https://github.com/stla/intmap,,
-IntOMICS,https://github.com/anna-pacinkova/intomics,,bioc
+IntOMICS,https://github.com/anna-pacinkova/intomics_r,,bioc
 intradayModel,https://github.com/convexfi/intradaymodel,,
 IntramiRExploreR,https://github.com/vilainlab/intramirexplorer,,bioc
 inTrees,https://github.com/softwaredeng/intrees,inTrees,
@@ -5492,7 +5490,7 @@ iNZightRegression,https://github.com/inzightvit/inzightregression,,
 iNZightTools,https://github.com/inzightvit/inzighttools,,
 iNZightTS,https://github.com/inzightvit/inzightts,,
 io,https://bitbucket.org/djhshih/io,,
-IOHanalyzer,https://github.com/iohprofiler/iohanalyzer,,archived
+IOHanalyzer,https://github.com/iohprofiler/iohanalyzer,,
 iopsych,https://github.com/allengoebl/iopsych,,
 iotables,https://github.com/ropengov/iotables,,
 iotarelr,https://github.com/fberding/iotarelr,,
@@ -8308,6 +8306,7 @@ phase1RMD,https://github.com/vivienjyin/phase1rmd,,
 phaseR,https://github.com/mjg211/phaser,,
 PhaseType,https://github.com/louisaslett/phasetype,,
 PhaseTypeR,https://github.com/rivasiker/phasetyper,,
+phdcocktail,https://github.com/dahhamalsoud/phdcocktail,,
 pheatmap,https://github.com/raivokolde/pheatmap,,
 pheble,https://github.com/jaydevine/pheble,,
 PheCAP,https://github.com/celehs/phecap,,
@@ -8784,6 +8783,7 @@ profoc,https://github.com/berrij/profoc,,
 ProFound,https://github.com/asgr/profound,,archived
 ProfoundData,https://github.com/cost-fp1304-profound/profounddata,ProfoundData,
 profr,https://github.com/hadley/profr,,
+profrep,https://github.com/ubeattie/profrep,,
 profvis,https://github.com/rstudio/profvis,,
 progeny,https://github.com/saezlab/progeny,,bioc
 progress,https://github.com/r-lib/progress,,
@@ -9611,6 +9611,7 @@ regionReport,https://github.com/leekgroup/regionreport,,bioc
 regions,https://github.com/ropengov/regions,,
 registr,https://github.com/julia-wrobel/registr,,
 regmedint,https://github.com/kaz-yos/regmedint,,
+regmhmm,https://github.com/henryleongstat/regmhmm,,
 regnet,https://github.com/jrhub/regnet,,
 regport,https://github.com/shixiangwang/regport,,
 regress,https://github.com/kbroman/regress,,
@@ -10013,6 +10014,7 @@ RMTstat,https://github.com/evanbiederstedt/rmtstat,,
 rMultiNet,https://github.com/chenyuzzz73/rmultinet,,
 rmumps,https://github.com/sgsokol/rmumps,,
 rmutil,https://github.com/swihart/rmutil,,
+RMVL,https://github.com/volodya31415/rmvl,,
 rMVP,https://github.com/xiaolei-lab/rmvp,,
 rmweather,https://github.com/skgrange/rmweather,,
 RMySQL,https://github.com/r-dbi/rmysql,,
@@ -10993,6 +10995,7 @@ shinydashboardPlus,https://github.com/rinterface/shinydashboardplus,,
 shinyDatetimePickers,https://github.com/stla/shinydatetimepickers,,
 shinydisconnect,https://github.com/daattali/shinydisconnect,,
 shinydlplot,https://github.com/alexvpickering/shinydlplot,,
+shinyDND,https://github.com/ayayron/shinydnd,,
 shinyEffects,https://github.com/rinterface/shinyeffects,,
 shinyepico,https://github.com/omorante/shinyepico,,bioc
 shinyExprPortal,https://github.com/c4tb/shinyexprportal,,

@@ -1287,7 +1287,6 @@ BCBCSF,cran
 BCC1997,cran
 BCClong,zhiwent
 bccp,mahditeimouri
-BCDAG,alesmascaro
 bcdata,bcgov
 BCDating,einian85
 BcDiag,ewouddt
@@ -1846,7 +1845,6 @@ BNPTSclust,cran
 BNrich,samaneh-bioinformatics
 BNSL,cran
 BNSP,papgeo
-bnspatial,dariomasante
 bnstruct,albertofranzin
 bnviewer,robson-fernandes
 boa,brian-j-smith
@@ -4258,6 +4256,7 @@ declared,dusadrian
 DeclareDesign,declaredesign
 decode,cran
 decoder,eribul
+decompDL,kapiliasri
 decomposedPSF,neerajdhanraj
 DecomposeR,sewouter
 decompr,bquast
@@ -4650,6 +4649,7 @@ disaggregation,timcdlucas
 disbayes,chjackson
 discAUC,ba-code-review
 DIscBIO,ocbe-uio
+discFA,cran
 discfrail,fgaspe04
 discharge,sbshah10
 disclap,mikldk
@@ -4677,6 +4677,7 @@ discrtr,paezha
 discSurv,cran
 discursive,pwkraft
 disdat,rvalavi
+diseasemapping,cran
 Disequilibrium,natelatshaw
 DisHet,wtwt5237
 DisimForMixed,cran
@@ -5227,6 +5228,7 @@ EBImage,aoles
 ebirdst,ebird
 EBMAforecast,fhollenbach
 ebmc,cran
+ebmstate,ruibarrigana
 ebnm,stephenslab
 EBPRS,shuangsong0110
 EBrank,johnfergusonnuig
@@ -9220,6 +9222,7 @@ imputeYn,hasinurkhan
 iMRMC,brandon-gallas
 imsig,ajitjohnson
 IMTest,cran
+ImVol,imiqbal
 in2extRemes,ericgilleland
 inaparc,cran
 inbreedR,mastoffel
@@ -11024,6 +11027,7 @@ MARSS,atsa-es
 MARSSVRhybrid,cran
 martini,hclimente
 MARVEL,cran
+MarZIC,gitlzg
 mas,alenxav
 maSAE,fvafrcu
 mase,mcconvil
@@ -12704,6 +12708,7 @@ N2R,kharchenkolab
 na.tools,decisionpatterns
 naaccr,werthpadoh
 nabor,jefferis
+NAC,cran
 NACHO,mcanouil
 NADA,cran
 NADA2,swampthingpaul
@@ -14412,6 +14417,7 @@ PhaseTypeR,rivasiker
 phateR,scottgigante
 PHclust,cran
 phd,cran
+phdcocktail,dahhamalsoud
 pheatmap,raivokolde
 pheble,jaydevine
 PheCAP,celehs
@@ -15201,6 +15207,7 @@ profoc,berrij
 ProFound,asgr
 ProfoundData,cost-fp1304-profound
 profr,hadley
+profrep,ubeattie
 proftools,ltierney
 profvis,rstudio
 progeny,saezlab
@@ -16530,6 +16537,7 @@ RegKink,cran
 reglogit,rbgramacy
 regmed,sinnweja
 regmedint,kaz-yos
+regmhmm,henryleongstat
 regnet,jrhub
 rego,cran
 regplot,rmar073
@@ -17159,7 +17167,7 @@ RMTstat,evanbiederstedt
 rMultiNet,chenyuzzz73
 rmumps,sgsokol
 rmutil,swihart
-RMVL,cran
+RMVL,volodya31415
 rMVP,xiaolei-lab
 rmweather,skgrange
 RMySQL,r-dbi
@@ -18017,6 +18025,7 @@ sampling,alinamateikondylis
 SamplingBigData,jlisic
 samplingbook,jmanitz
 samplingDataCRT,cran
+samplingin,cran
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
@@ -18977,7 +18986,6 @@ SimNPH,simnph
 simode,ramiyaari
 simodels,robinlovelace
 simona,jokergoo
-simPATHy,elizs88
 simPH,christophergandrud
 simphony,hugheylab
 simplace,gk-crop
@@ -19409,7 +19417,6 @@ SoundexBR,dmarcelinobr
 soundgen,cran
 SoundShape,p-rocha
 SoupX,constantamateur
-SourceSet,elizs88
 sourcetools,kevinushey
 sovereign,tylerjpike
 sox,ly129
