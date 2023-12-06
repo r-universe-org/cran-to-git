@@ -518,6 +518,7 @@ AnimalHabitatNetwork,cran
 animaltracker,mathedjoe
 animate,kcf-jackson
 animation,yihui
+animbook,krisanata
 animint2,animint
 animl,cran
 anipaths,henryrscharf
@@ -1665,6 +1666,7 @@ biometryassist,biometryhub
 biomformat,joey711
 biomod2,biomodhub
 BioMVCClass,bioc
+biomvRCNS,bioc
 BioNAR,lptolik
 BioNERO,almeidasilvaf
 BioNet,bioc
@@ -2454,6 +2456,7 @@ cdom,pmassicotte
 cdparcoord,cran
 cdrcR,aelissa
 cds,schoonees
+CDSE,zivankaraman
 CDSS,chockemeyer
 CDVineCopulaConditional,cran
 CEC,swarm-lab
@@ -4649,7 +4652,7 @@ disaggregation,timcdlucas
 disbayes,chjackson
 discAUC,ba-code-review
 DIscBIO,ocbe-uio
-discFA,cran
+discFA,rezaarabi11
 discfrail,fgaspe04
 discharge,sbshah10
 disclap,mikldk
@@ -4926,7 +4929,7 @@ DPP,lmavila
 DPpack,sgiddens
 dppmix,djhshih
 DPQ,r-forge
-DPQmpfr,mmaechler
+DPQmpfr,r-forge
 dprint,cran
 dprop,imranshakoor
 dpseg,raim
@@ -5878,7 +5881,7 @@ eventstudyr,jmslab
 eventTrack,numbersman77
 EventWinRatios,daewoopak
 evgam,byoungman
-EVI,lefmel
+EVI,kpatera
 evian,struglab
 evidence,rvhulst
 evidenceFactors,cran
@@ -6251,6 +6254,7 @@ fcm,liadd
 FCMapper,shaunturney
 FCO,thomasniemand
 fCopulae,waternumbers
+fcp,xiaoran831213
 FCPS,mthrun
 fcr,andrew-leroux
 fcros,doulaye
@@ -7202,6 +7206,7 @@ genArise,bioc
 genBaRcode,grafxzahl
 GenBinomApps,cran
 gencor,helgem
+genCountR,damoncharlesroberts
 gendata,flh3
 gender,lmullen
 genderBR,meirelesff
@@ -11778,6 +11783,7 @@ misclassGLM,sdlugosz
 miscset,setempler
 miscTools,arne-henningsen
 miselect,cran
+misha,tanaylab
 mispitools,marsicofl
 mispr,cran
 misPRIME,cran
@@ -12673,6 +12679,7 @@ mvrsquared,tommyjones
 mvs,cran
 mvShapiroTest,elizagestrada
 mvSLOUCH,cran
+mvst,cran
 mvSUSY,wtschacher
 MVT,faosorios
 MVTests,hsnbulut
@@ -12718,7 +12725,7 @@ nadiv,matthewwolak
 NAEPirtparams,sunnyjooey
 NAEPprimer,cran
 naflex,dannyparsons
-naijR,brovic
+naijR,ropensci
 NAIR,mlizhangx
 naive,cran
 naivebayes,majkamichal
@@ -15301,7 +15308,7 @@ prqlr,eitsupi
 prrd,eddelbuettel
 PRROC,jgraux
 PRSim,cran
-PRSPGx,cran
+PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
 prWarp,cran
@@ -18025,7 +18032,7 @@ sampling,alinamateikondylis
 SamplingBigData,jlisic
 samplingbook,jmanitz
 samplingDataCRT,cran
-samplingin,cran
+samplingin,choerulafifanto
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
@@ -22272,7 +22279,7 @@ Weighted.Desc.Stat,cran
 weightedCL,cran
 WeightedCluster,matthias-studer
 WeightedEnsemble,yeasinstat
-weightedGCM,cran
+weightedGCM,cyrillsch
 WeightedPortTest,tjfisher19
 weightedRank,cran
 WeightedROC,tdhock
@@ -22641,6 +22648,7 @@ ZIPG,roulan2000
 zipR,leslie-huang
 ZIprop,melinar
 zipsae,dheel
+ZLAvian,cdr-er
 zlib,sgeist-ionos
 zlibbioc,bioconductor
 zlog,ampel-leipzig

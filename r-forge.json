@@ -217,6 +217,12 @@
     "subdir": "pkg/DPQ"
   },
   {
+    "package": "DPQmpfr",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/specfun",
+    "subdir": "pkg/DPQmpfr"
+  },
+  {
     "package": "dse",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
