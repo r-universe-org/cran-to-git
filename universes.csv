@@ -423,6 +423,7 @@ AlphaBeta,bioc
 alphabetr,edwardslee
 alphaci,jonasmoss
 alphahull,beatrizpateiro
+AlphaMissenseR,mtmorgan
 alphaN,jespernwulff
 alphaOutlier,cran
 AlphaPart,cran
@@ -1414,6 +1415,7 @@ betacal,tmfilho
 betaclust,koyelucd
 betaDelta,jeksterslab
 betafunctions,cran
+betaHMM,koyelucd
 betaMC,jeksterslab
 betaNB,jeksterslab
 betapart,cran
@@ -1584,6 +1586,7 @@ binomialRF,cran
 binomialtrend,cran
 BinOrdNonNor,bernice0321
 binovisualfields,virginiapl
+binpackr,lschneiderbauer
 binr,jabiru
 BinSegBstrap,florianpein
 binsegRcpp,tdhock
@@ -3557,6 +3560,7 @@ countToFPKM,aalhendi1707
 countTransformers,zhang-zeyu
 countts,cran
 coursekata,coursekata
+covadap,cran
 covafillr,calbertsen
 covatest,sandradeiaco
 covBM,ostirrup
@@ -8037,6 +8041,7 @@ gpx,bmewing
 gqlr,schloerke
 gquad,ohuajo
 grabsampling,mayooran1987
+GrabSVG,cran
 Grace,sen-zhao
 grade,ltjohnson
 gradeR,trb5me
@@ -9208,7 +9213,7 @@ importar,andreaphsz
 ImportExport,isubirana
 importinegi,crenteriam
 imprecise101,cran
-impressionist.colors,cran
+impressionist.colors,fedecasale
 imprinting,cobeylab
 ImpShrinkage,mnrzrad
 imptree,paul-fink
@@ -10844,6 +10849,7 @@ mactivate,davezes
 maczic,cran
 MAd,acdelre
 mada,doebler
+MadanText,cran
 maddison,expersso
 made4,bioc
 madgrad,dfalbel
@@ -13295,6 +13301,7 @@ npsurv,yong3738
 npsurvSS,godwinyyung
 nptest,cran
 npwbs,cran
+NRAHDLTP,nie23wp8738
 nrba,cran
 nRegression,srivastavbudugutta
 NRejections,mayamathur
@@ -14452,6 +14459,7 @@ phenoTest,bioc
 Phenotype,biozhp
 PhenotypeSimulator,hannahvmeyer
 PhenStat,hamed-ebi
+PHENTHAUproc,bachfisch
 phers,hugheylab
 PHeval,cran
 PheVis,thomasferte
@@ -14751,6 +14759,7 @@ plyranges,sa-lee
 pm3,cran
 PMA,bnaras
 PMAPscore,hanjunwei-lab
+pmartR,pmartr
 pmc,cboettig
 pmcalibration,stephenrho
 pmclust,snoweye
@@ -17183,6 +17192,7 @@ rmzqc,ms-quality-hub
 RNAAgeCalc,reese3928
 rnaEditr,transbioinfolab
 RNAinteract,bioc
+RNAmf,cran
 RNAmodR,felixernst
 RNAmodR.AlkAnilineSeq,felixernst
 RNAmodR.ML,felixernst
@@ -18867,6 +18877,7 @@ SIBERG,cran
 sicegar,wilkelab
 siconvr,meirelesff
 SICtools,bioc
+SID,fkgruber
 SIDES,marie-karelle
 sidier,cran
 sidrar,rpradosiqueira
@@ -19699,6 +19710,7 @@ spikeslab,kogalur
 spikeSlabGAM,fabian-s
 spiky,trichelab
 Spillover,cran
+spillR,bioc
 SPINA,jwdietrich21
 spINAR,mfaymon
 spinBayes,jrhub
@@ -22444,6 +22456,7 @@ wrapr,winvector
 wrassp,ips-lmu
 Wrench,hcbravolab
 WrensBookshelf,buveges
+WRestimates,cran
 wrGraph,wraff
 WRI,cran
 WrightMap,david-ti

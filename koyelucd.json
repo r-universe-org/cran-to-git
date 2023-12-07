@@ -3,5 +3,11 @@
     "package": "betaclust",
     "maintainer": "Koyel Majumdar <koyel.majumdar@ucdconnect.ie>",
     "url": "https://github.com/koyelucd/betaclust"
+  },
+  {
+    "package": "betaHMM",
+    "maintainer": "Koyel Majumdar <koyel.majumdar@ucdconnect.ie>",
+    "url": "https://github.com/koyelucd/betahmm",
+    "registry": "bioc"
   }
 ]

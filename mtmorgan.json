@@ -1,5 +1,11 @@
 [
   {
+    "package": "AlphaMissenseR",
+    "maintainer": "Martin Morgan <mtmorgan.xyz@gmail.com>",
+    "url": "https://github.com/mtmorgan/alphamissenser",
+    "registry": "bioc"
+  },
+  {
     "package": "cellxgenedp",
     "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
     "url": "https://github.com/mtmorgan/cellxgenedp",
