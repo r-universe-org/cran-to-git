@@ -2080,7 +2080,7 @@ bsvars,bsvars
 BSW,adam-bec
 BT,giregwillame
 btb,inseefr
-BTdecayLasso,michael262516
+BTdecayLasso,heilokchow
 btergm,leifeld
 BTLLasso,schaubert
 BTM,bnosac
@@ -3118,6 +3118,7 @@ cohortBuilder,r-world-devs
 CohortExplorer,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
+CohortSurvival,edward-burn
 cohorttools,jkhaukka
 CoImp,cran
 coin,r-forge
@@ -3784,6 +3785,7 @@ CRWRM,cran
 cry,jfoadi
 crypto2,sstoeckl
 cryptography,piarasfahey
+cryptotrackr,cran
 cryptoverse,viv-analytics
 cryptowatchR,lorenzbr
 CryptRndTest,haydarde
@@ -5185,6 +5187,7 @@ easier,bioc
 easy.utils,ycli1995
 EasyABC,r-forge
 easyAHP,marsdu1989
+easyalluvial,erblast
 easyanova,cran
 easybgm,cran
 EasyCellType,bioc
@@ -6989,6 +6992,7 @@ fxregime,zeileis
 fxTWAPLS,special-uor
 fy,hughparsonage
 g.data,cran
+g.ridge,cran
 G2Sd,reg-gallon
 g3viz,g3viz
 GA,luca-scr
@@ -7331,6 +7335,7 @@ genSurv,arturstat
 gensvm,gjjvdburg
 GenTag,biagolini
 genTS,tucai
+GenTwoArmsTrialSize,cran
 GenVisR,griffithlab
 GenWin,timbeissinger
 GeoAdjust,cran
@@ -7679,6 +7684,7 @@ ggtern,cran
 ggtext,wilkelab
 ggThemeAssist,calligross
 ggthemes,jrnold
+ggthemeUL,mrmarjan
 ggtikz,osthomas
 ggTimeSeries,thecomeonman
 ggtrace,rnabioco
@@ -8041,7 +8047,7 @@ gpx,bmewing
 gqlr,schloerke
 gquad,ohuajo
 grabsampling,mayooran1987
-GrabSVG,cran
+GrabSVG,castleli
 Grace,sen-zhao
 grade,ltjohnson
 gradeR,trb5me
@@ -8122,7 +8128,7 @@ gregRy,olekwojcik
 GRelevance,xshi1
 gremlin,matthewwolak
 GREMLINS,grosssbm
-gren,magnusmunch
+gren,cran
 GRENITS,bioc
 greport,harrelfe
 greta,greta-dev
@@ -10640,7 +10646,7 @@ logr,dbosak01
 LogRegEquiv,cran
 logrx,pharmaverse
 logspline,cran
-lokern,mmaechler
+lokern,r-forge
 LOLA,nsheff
 lolliplot,zhangrenl
 lolog,statnet
@@ -10849,7 +10855,7 @@ mactivate,davezes
 maczic,cran
 MAd,acdelre
 mada,doebler
-MadanText,cran
+MadanText,kidoishi
 maddison,expersso
 made4,bioc
 madgrad,dfalbel
@@ -16398,6 +16404,7 @@ readHAC,kaskr
 readit,ryapric
 readJDX,bryanhanson
 readmet,cdruee
+readmission,simonpcouch
 readMLData,cran
 readmnist,coldog2333
 readmoRe,cran
@@ -17192,7 +17199,7 @@ rmzqc,ms-quality-hub
 RNAAgeCalc,reese3928
 rnaEditr,transbioinfolab
 RNAinteract,bioc
-RNAmf,cran
+RNAmf,heojunoh
 RNAmodR,felixernst
 RNAmodR.AlkAnilineSeq,felixernst
 RNAmodR.ML,felixernst
@@ -19249,7 +19256,6 @@ smerc,jfrench
 smetlite,baseldatascience
 SMFilter,yukai-yang
 smfishHmrf,cran
-smfsb,darrenjw
 smicd,chiquadrat
 smidm,cran
 smile,lcgodoy
@@ -22571,6 +22577,7 @@ xtable,r-forge
 xtal,quinsun
 xtranat,fdepaolis
 xts,joshuaulrich
+xtsum,macosso
 xtune,jingxuanh
 xutils,fangzhou-xie
 xVA,xvacode
