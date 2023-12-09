@@ -1755,6 +1755,7 @@ bkmrhat,alexpkeil1
 BKTR,julien-hec
 blackbox,f-rousset
 BlackCarbon,sanjeev112
+blackmarbler,worldbank
 blacksheepr,ruggleslab
 blaise,sophof
 BlakerCI,cran
@@ -2194,7 +2195,6 @@ CALANGO,fcampelo
 Calculator.LR.FNs,cran
 calculus,eguidotti
 calcUnique,stephenbfroehlich
-calcWOI,cran
 calendar,robinlovelace
 calendR,sidoruvigo
 calendRio,mschilli87
@@ -2778,6 +2778,7 @@ ciTools,jthaman
 citrus,datadondom
 ciu,cran
 ciuupi2,pvkabaila
+civ,thomaswiemann
 civis,civisanalytics
 CJAMP,skonigor
 cjar,benrwoodard
@@ -2941,7 +2942,6 @@ ClusterJudge,bioc
 clustermole,igordot
 clustermq,mschubert
 clusternomics,evelinag
-clusterPower,kenkleinman
 clusterProfiler,yulab-smu
 ClusterR,mlampros
 ClusterRankTest,cran
@@ -5020,6 +5020,7 @@ DSBayes,rvaradhan
 dscore,d-score
 dsdp,tsuchiya-lab
 dse,r-forge
+dsem,james-thorson-noaa
 dsfa,rouvenschmidt1337
 DSI,datashield
 dsims,distancedevelopment
@@ -6046,7 +6047,6 @@ ezcox,shixiangwang
 ezCutoffs,bschmalbach
 ezec,grunwaldlab
 ezEDA,kviswana
-ezglm,cran
 EzGP,cran
 ezknitr,ropensci
 ezmmek,ccook
@@ -6470,6 +6470,7 @@ fishMod,scott-foster
 FishPhyloMaker,gabrielnakamura
 fishpond,thelovelab
 FishResp,cran
+fishRman,shyentist
 fishtree,jonchang
 fishualize,nschiett
 FisPro,j-ll
@@ -10409,7 +10410,7 @@ liftLRD,cran
 liftr,nanxstats
 lifx,mabafaba
 liger,jefworks
-lightgbm,cran
+lightgbm,jameslamb
 LightningR,ermlab
 lightr,ropensci
 lightsout,daattali
@@ -10724,7 +10725,7 @@ LPmerge,jendelman
 lpNet,bioc
 LPower,cran
 LPRelevance,kaijunwang19
-lpridge,mmaechler
+lpridge,r-forge
 LPS,maressyl
 LPsmooth,xiangyu2022
 lpSolve,gaborcsardi
@@ -10856,6 +10857,7 @@ maczic,cran
 MAd,acdelre
 mada,doebler
 MadanText,kidoishi
+MadanTextNetwork,kidoishi
 maddison,expersso
 made4,bioc
 madgrad,dfalbel
@@ -11380,6 +11382,7 @@ MendelianRandomization,sb452
 MEPDF,cran
 Mercator,cran
 merDeriv,nctingwang
+mergen,cran
 Mergeomics,bioc
 mergeTrees,audreh
 mergingTools,cran
@@ -16236,6 +16239,7 @@ RcppBDT,eddelbuettel
 RcppBigIntAlgos,jwood000
 RcppCCTZ,eddelbuettel
 RcppCensSpatial,katherineloor
+RcppCGAL,ericdunipace
 RcppClassic,eddelbuettel
 RcppClassicExamples,eddelbuettel
 RcppClock,zdebruine
@@ -16841,6 +16845,7 @@ RGenetics,felixfan
 rgenius,albertoalmuinha
 rGenomeTracks,bioc
 rgenoud,jasjeetsekhon
+rgeoboundaries,wmgeolab
 rgeoda,geodacenter
 RGeode,lorenzorimella
 rgeomstats,lmjl-alea
@@ -18596,7 +18601,7 @@ seqhandbook,nicolas-robette
 seqHMM,helske
 seqICP,cran
 seqimpute,cran
-seqinr,simonpenel
+seqinr,lbbe-software
 SeqKat,pboutros
 seqLogo,ivanek
 SeqMADE,cran
@@ -21055,7 +21060,6 @@ timeROC,paulowhite
 timescape,bioc
 timeSeq,fangaohz
 timeSeries,cran
-TimeSeries.OBeu,okgreece
 timeseriesdb,mbannert
 timetk,business-science
 timetools,vald

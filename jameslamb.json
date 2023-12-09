@@ -1,5 +1,10 @@
 [
   {
+    "package": "lightgbm",
+    "maintainer": "James Lamb <jaylamb20@gmail.com>",
+    "url": "https://github.com/cran/lightgbm"
+  },
+  {
     "package": "uptasticsearch",
     "maintainer": "James Lamb <jaylamb20@gmail.com>",
     "url": "https://github.com/cran/uptasticsearch"

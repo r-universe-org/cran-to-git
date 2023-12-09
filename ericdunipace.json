@@ -3,5 +3,10 @@
     "package": "causalOT",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
     "url": "https://github.com/ericdunipace/causalot"
+  },
+  {
+    "package": "RcppCGAL",
+    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
+    "url": "https://github.com/ericdunipace/rcppcgal"
   }
 ]

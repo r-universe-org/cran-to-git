@@ -410,6 +410,12 @@
     "subdir": "pkg/lokern"
   },
   {
+    "package": "lpridge",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/curves-etc",
+    "subdir": "pkg/lpridge"
+  },
+  {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
