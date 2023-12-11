@@ -1,5 +1,10 @@
 [
   {
+    "package": "grove",
+    "maintainer": "Li Ma <li.ma@duke.edu>",
+    "url": "https://github.com/cran/grove"
+  },
+  {
     "package": "MRS",
     "maintainer": "Li Ma <li.ma@duke.edu>",
     "url": "https://github.com/cran/MRS"

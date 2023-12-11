@@ -53,6 +53,7 @@ acc,cran
 acca,cran
 accelerometry,vandomed
 accelmissing,jungaeleeb
+AccelStab,accelstab
 accept,resplab
 AcceptanceSampling,andreaskiermeier
 accessibility,ipeagit
@@ -2087,6 +2088,7 @@ BTLLasso,schaubert
 BTM,bnosac
 BTSPAS,cschwarz-stat-sfu-ca
 BTSR,tsprass
+BTtest,paul-haimerl
 BTYD,ghuiber
 BTYDplus,mplatzer
 bubbleHeatmap,ruthckb
@@ -3645,7 +3647,7 @@ CPMCGLM,jeremieriou
 CpmERCCutoff,cran
 CPNCoverageAnalysis,smorenoa
 cpop,cran
-CPP,cran
+CPP,gaviao67
 cpp11,r-lib
 cppcheckR,stla
 cppdoubles,nicchr
@@ -6576,6 +6578,7 @@ flood,cran
 FloodFreqPlot,aahani-r
 FLOPART,tdhock
 flora,gustavobio
+florabr,wevertonbio
 FLORAL,vdblab
 flow,moodymudskipper
 flowAI,bioc
@@ -8188,7 +8191,7 @@ GroupTest,cran
 groupTesting,cran
 groupwalk,freejstone
 groupWQS,mmcarli
-grove,cran
+grove,lm186
 growfunctions,tds151
 growR,kuadrat
 growth,swihart
@@ -14020,6 +14023,7 @@ paramsim,sta189332
 paramtest,jeff-hughes
 paran,alexisdinno
 ParBayesianOptimization,anothersamwilson
+parcats,erblast
 ParDNAcopy,gsun2018
 PaRe,darwin-eu-dev
 pareg,cbg-ethz
@@ -14704,6 +14708,7 @@ PLORN,cran
 plot.matrix,sigbertklinke
 plot3D,karlines
 plot3Drgl,karlines
+plot3logit,f-santi
 plotBart,priism-center
 plotbb,guangchuangyu
 PlotBivInvGaus,bhushan0510
@@ -15440,6 +15445,7 @@ Publish,tagteam
 pubmed.mineR,cran
 PubMedMining,cran
 pubmedR,massimoaria
+pubmedtk,bgcarlisle
 PubMedWordcloud,felixfan
 pubtatordb,mamc-dci
 pullword,hetong007
@@ -18779,6 +18785,7 @@ shinyCyJS,jhk0530
 shinydashboard,rstudio
 shinydashboardPlus,rinterface
 shinyDatetimePickers,stla
+shinydbauth,diegoefe
 shinydisconnect,daattali
 shinydlplot,alexvpickering
 shinyDND,ayayron
