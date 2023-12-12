@@ -146,11 +146,12 @@ adaptMT,lihualei71
 adaptr,inceptdk
 ADAPTS,sdanzige
 adaptsmoFMRI,cran
-adaptTest,cran
+adaptTest,marc-vdmb
 adaR,gesistsa
 AdaSampling,pyanglab
 adbcdrivermanager,paleolimbot
 adbcsqlite,paleolimbot
+adbi,r-dbi
 adc,txwri
 ADCT,allenzhuaz
 add2ggplot,jiaxiangbu
@@ -221,7 +222,7 @@ ADPclust,ethanyxu
 ADPF,samdkruse
 adproclus,henry-heppe
 adpss,ca4wa
-ads,pelissie
+ads,cran
 adsDataHubR,pankaj-bhatlawande
 adSplit,bioc
 ADTSA,leilamarvian
@@ -1450,7 +1451,6 @@ bgeva,giampmarra
 BGFD,cran
 bggAnalytics,jakubbujnowicz
 BGGE,italo-granato
-BGGM,donaldrwilliams
 bggum,duckmayr
 BGLR,cran
 bgmfiles,australianantarcticdivision
@@ -5259,7 +5259,6 @@ eCAR,gpage2990
 ecb,expersso
 ecce,chuxinyuan
 ECctmc,fintzij
-ecd,slihn
 Ecdat,sbgraves237
 ecdfHT,jpnolan
 ecespa,cran
@@ -5336,6 +5335,7 @@ EDA,cran
 eda4treeR,myaseen208
 EDASeq,drisso
 edbuildmapr,edbuild
+EDCimport,danchaltiel
 edcpR,cran
 eddington,pegeler
 edeaR,bupaverse
@@ -10186,7 +10186,6 @@ latcontrol,cran
 latdiag,deweyme
 latenetwork,tkhdyanagi
 latentcor,mingzehuang
-latentFactoR,alexchristensen
 latentgraph,cran
 latentnet,statnet
 later,r-lib
@@ -10917,7 +10916,6 @@ makepipe,kinto-b
 makeProject,cran
 maketools,jeroen
 makeunique,selkamand
-MakeYourPalette,musajajorge
 MAKL,begumbektas
 malan,mikldk
 malani,mehrabgbari
@@ -10983,7 +10981,7 @@ MAPITR,mturchin20
 maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmisc,cran
-mapping,serafinialessio
+mapping,mappinguniverse
 mappings,benjaminrich
 mapplots,hgerritsen
 mappoly,mmollina
@@ -16995,7 +16993,7 @@ ripserr,rrrlw
 rirods,irods
 Rirt,xluo11
 Risa,isa-tools
-RISCA,cran
+RISCA,foucher-y
 rise,lumenlearning
 rIsing,pratik-r
 Risk,mbbsssn2
@@ -19080,6 +19078,7 @@ simtimer,ims-fhs
 SimTimeVar,mayamathur
 simTool,marselscheer
 simtrait,ochoalab
+simtrial,merck
 simts,smac-group
 simuclustfactor,cran
 simukde,makhgal-ganbold
@@ -19446,7 +19445,7 @@ sorvi,ropengov
 sos,cran
 sotkanet,ropengov
 sotu,statsmaths
-sound,cran
+sound,langenbergstefan
 soundClass,bmsasilva
 soundcorrs,kamwitsta
 soundecology,ljvillanueva
@@ -19979,6 +19978,7 @@ stampr,jedalong
 stan4bart,vdorie
 STAND,cran
 standardize,cdeager
+standardlastprofile,flrd
 standartox,andschar
 standby,rsquaredacademy
 standR,davislaboratory
@@ -20382,7 +20382,7 @@ survivalMPL,dlc48
 survivalMPLdc,kenny-jing-xu
 survivalREC,gsoutinho
 survivalROC,paramita-sc
-survivalSL,cran
+survivalSL,foucher-y
 survivalsvm,imbs-hl
 survivoR,doehm
 survJamda.data,cran
@@ -22404,7 +22404,7 @@ wktmo,leoly2017
 wkutils,paleolimbot
 WLogit,clavie3009
 WLreg,marvels2031
-wmm,wfrierson
+wmm,ropensci
 wmwpow,cran
 WMWssp,happma
 wnl,cran

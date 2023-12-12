@@ -1,5 +1,10 @@
 [
   {
+    "package": "adbi",
+    "maintainer": "Nicolas Bennett <nicolas@cynkra.com>",
+    "url": "https://github.com/r-dbi/adbi"
+  },
+  {
     "package": "bigrquery",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
     "url": "https://github.com/r-dbi/bigrquery"
