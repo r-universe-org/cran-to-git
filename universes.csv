@@ -150,6 +150,7 @@ adaptTest,marc-vdmb
 adaR,gesistsa
 AdaSampling,pyanglab
 adbcdrivermanager,paleolimbot
+adbcpostgresql,paleolimbot
 adbcsqlite,paleolimbot
 adbi,r-dbi
 adc,txwri
@@ -1718,6 +1719,7 @@ BiProbitPartial,cran
 birankr,brianaronson
 birdring,cran
 birdscanR,birdscancommunity
+birdsize,ropensci
 BiRewire,bioc
 birk,matthewabirk
 birtr,cran
@@ -4131,7 +4133,7 @@ dataverse,iqss
 DataVisualizations,mthrun
 DataViz,horiayeb
 datawizard,easystats
-datazoom.amazonia,franciscocavalcanti
+datazoom.amazonia,igorrigolon
 date,kurthornik
 dateback,r-suzuki
 datefixR,ropensci
@@ -5060,6 +5062,7 @@ DTAplots,ianschiller
 DTAT,dcnorris
 DTAXG,marsdu1989
 dTBM,jhu267
+dtComb,gokmenzararsiz
 DTComPair,chstock
 DtD,boennecd
 DTDA,carlammoreira
@@ -6466,7 +6469,7 @@ FISHalyseR,bioc
 fishbc,poissonconsulting
 fishdata,condwanaland
 FisherEM,cran
-fisheye,rcarto
+fisheye,riatelab
 fishkirkko2015,cran
 fishmethods,gnelson12
 fishMod,scott-foster
@@ -7849,7 +7852,7 @@ glmvsd,archer-yang-lab
 glmx,zeileis
 glmxdiag,reealpeppe
 GlobalAncova,bioc
-globalKinhom,thomasrshaw
+globalKinhom,cran
 GlobalOptions,jokergoo
 globalOptTests,cran
 globals,henrikbengtsson
@@ -8371,7 +8374,6 @@ h2otools,haghish
 H2x2Factorial,billytian
 h3jsr,obrl-soil
 h3lib,symbolixau
-h3r,symbolixau
 h5vc,bioc
 haarfisz,cran
 habCluster,qiangxyz
@@ -10226,6 +10228,7 @@ lba,ivanalaman
 LBE,bioc
 lbfgs,antoniocoppola
 lbfgsb3c,nlmixr2
+LBI,cran
 lbm,zhuchao0228
 lboxcox,ubclxing
 LBPG,cran
@@ -11568,6 +11571,7 @@ MexBrewer,paezha
 mexhaz,cran
 mexicolors,alexplatasl
 mExplorer,reimand0
+MF.beta4,annechao
 mfa,bioc
 mfaces,cli9
 MFAg,cran
@@ -11813,6 +11817,7 @@ MissCP,cran
 missDeaths,cran
 missDiag,sumtxt
 missForest,stekhoven
+missForestPredict,sibipx
 MissingHandle,sandipgarai
 missingHE,angabrio
 MissingPlotLSD,debarghya9394
@@ -13263,6 +13268,7 @@ nparMD,cran
 nparsurv,cran
 NPBayesImputeCat,cran
 npboottprm,mightymetrika
+npboottprmFBar,mightymetrika
 npbr,cran
 NPCD,cran
 NPCirc,cran
@@ -18834,6 +18840,7 @@ shinypanels,datasketch
 shinypivottabler,bthieurmel
 shinyPredict,jkhaukka
 ShinyQuickStarter,cran
+shinyquiz,priism-center
 shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
@@ -19276,7 +19283,7 @@ SMITE,greallylab
 SMITIDstruct,cran
 SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
-smlmkalman,cran
+smlmkalman,sploopst
 SMLoutliers,siddjain24
 SMM,cran
 SMMA,adam-lund
@@ -19330,6 +19337,7 @@ snapchatadsR,pablosanmar
 snapcount,langmead-lab
 snapKrig,deankoch
 snapshot,asgr
+SNBdata,enricoschumann
 snem,takayukikawa
 snfa,tkmckenzie
 SNFtool,cran
@@ -20643,6 +20651,7 @@ tauturri,jemus42
 taxa,ropensci
 taxadb,ropensci
 taxalight,cboettig
+TaxaNorm,wangziyue57
 TaxicabCA,jacquesallard
 taxize,ropensci
 taxizedb,ropensci
@@ -20767,6 +20776,7 @@ tergmLite,smjenness
 term,poissonconsulting
 terminaldigits,cran
 tern,insightsengineering
+tern.gee,insightsengineering
 Ternary,ms609
 ternarynet,bioc
 ternvis,cran
@@ -21160,6 +21170,7 @@ tmvtnsim,kaifenglu
 TNBC.CMS,bioc
 TNC,cran
 tnet,toreopsahl
+tnl.Test,ihababusaif
 TNRS,bmaitner
 TnT,marlin-na
 TOAST,ziyili20
@@ -21749,6 +21760,7 @@ UnivRNG,bernice0321
 unix,jeroen
 unjoin,hypertidy
 unmarked,rbchan
+unmconf,dkahle
 unnest,vspinu
 UNPaC,cran
 unpivotr,nacnudus
@@ -22254,6 +22266,7 @@ wcep,sarah-0k
 WCluster,cran
 WCM,ujjwal4culs
 Wcompo,lmaowisc
+wconf,cran
 wCorr,american-institutes-for-research
 wcox,vharntzen
 WDI,vincentarelbundock
