@@ -1,5 +1,10 @@
 [
   {
+    "package": "dunlin",
+    "maintainer": "Liming Li <liming.li@roche.com>",
+    "url": "https://github.com/insightsengineering/dunlin"
+  },
+  {
     "package": "formatters",
     "maintainer": "Joe Zhu <joe.zhu@roche.com>",
     "url": "https://github.com/insightsengineering/formatters"

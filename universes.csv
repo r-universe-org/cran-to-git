@@ -460,6 +460,7 @@ AMARETTO,bioc
 amazonadsR,pablosanmar
 amazons3R,pablosanmar
 amazonspR,pablosanmar
+amberr,obiba
 ambhasGW,cran
 ambient,thomasp85
 ambit,almutveraart
@@ -630,6 +631,7 @@ aplpack,cran
 APML0,leesprite
 apng,cran
 apollo,stephanehess
+Apollonius,stla
 appeears,bluegreen-labs
 APPEstimation,eisuke-inoue
 appleadsR,pablosanmar
@@ -1029,7 +1031,7 @@ baizer,william-swl
 bakeoff,apreshill
 bakR,simonlabcode
 BalanceCheck,cran
-BalancedSampling,antongrafstrom
+BalancedSampling,envisim
 baldur,philipberg
 Ball,mamba413
 ballgown,alyssafrazee
@@ -1083,7 +1085,6 @@ base64,jeroen
 base64enc,s-u
 base64url,mllg
 baseballDBR,keberwein
-baseballr,billpetti
 basecallQC,bioc
 basecamb,codeblue-team
 basedosdados,pedrocava
@@ -3699,6 +3700,7 @@ credule,blenezet
 cregg,leeper
 cRegulome,ropensci
 crew,wlandau
+crew.aws.batch,wlandau
 crew.cluster,wlandau
 CRF,wulingyun
 crfsuite,bnosac
@@ -3790,6 +3792,7 @@ CRWRM,cran
 cry,jfoadi
 crypto2,sstoeckl
 cryptography,piarasfahey
+cryptoQuotes,serkor1
 cryptotrackr,cran
 cryptoverse,viv-analytics
 cryptowatchR,lorenzbr
@@ -3983,6 +3986,7 @@ CytoML,rglab
 CytoPipeline,uclouvain-cbio
 CytoPipelineGUI,bioc
 CytOpT,sistm
+CytoSimplex,welch-lab
 cytoviewer,bodenmillergroup
 czechrates,jla-data
 czso,petrbouchal
@@ -4488,6 +4492,7 @@ df2yaml,showteeth
 DFA,victormesquita40
 DFA.CANCOR,bpoconnor
 dfadjust,kolesarm
+DFBA,cran
 dfcomb,jhjourdan
 dfCompare,swaldroff
 dfcrm,jkd2108
@@ -5105,6 +5110,7 @@ dumbbell,foocheung
 dummy,ballings
 dundermifflin,cran
 Dune,hectorrdb
+dunlin,insightsengineering
 dunn.test,alexisdinno
 dupRadar,ssayols
 dupree,russhyde
@@ -7272,6 +7278,7 @@ genero,datasketch
 geneRxCluster,chasberry
 GeneScape,qigao1
 GeneSelectMMD,weiliang
+GeneSelectR,dzhakparov
 geneset,ganglilab
 GENESIS,uw-gac
 geneSLOPE,psobczyk
@@ -9611,7 +9618,6 @@ IsoCheck,cran
 isocir,sandra-barragan
 ISOcodes,kurthornik
 IsoCor,janlisec
-IsoCorr,jeroen-schreel
 IsoCorrectoR,bioc
 IsoCorrectoRGUI,bioc
 isodistrreg,alexanderhenzi
@@ -10130,6 +10136,7 @@ lactater,fmmattioni
 lactcurves,evastrucken
 lacunaritycovariance,kasselhingee
 LAD,fchianucci
+LadderFuelsR,olgaviedma
 laeken,aalfons
 LaF,djvanderlaan
 lagged,geobosh
@@ -13077,7 +13084,6 @@ nixmass,cran
 njgeo,gavinrozzi
 nJira,nikhilchoudhry
 njtr1,gavinrozzi
-nlaR,jsta
 NlcOptim,cran
 nlcv,lcougnaud
 nleqslv,cran
@@ -13723,7 +13729,7 @@ OPWeight,mshasan
 ora,cran
 OralOpioids,cran
 orbweaver,ixpantia
-orca,janezd
+orca,thocevar
 orclus,g-rho
 ORCME,cran
 Orcs,fdetsch
@@ -14098,6 +14104,7 @@ pathdiagram,gastonstat
 pathfindR,egeulgen
 pathfindR.data,egeulgen
 pathifier,bioc
+pathling,cran
 pathlinkR,hancockinformatics
 pathlit,riasat-pathlit
 pathmapping,stmueller
@@ -14150,7 +14157,6 @@ PBIBD,sharmakush
 PBImisc,pbiecek
 PBIR,cran
 pbivnorm,brentonk
-pbixr,cran
 pbkrtest,hojsgaard
 pbm,jonathanrd
 pbmcapply,kvnkuang
@@ -19305,6 +19311,7 @@ smoothie,ericgilleland
 smoothmest,chrhennig
 smoothr,mstrimas
 smoothROCtime,cran
+smoothSurv,cran
 smoothtail,numbersman77
 SmoothTensor,cran
 SmoothWin,hamed-ebi
@@ -19567,6 +19574,7 @@ SpatEntropy,cran
 SPAtest,cran
 spatgeom,maikol-solis
 spatgraphs,antiphon
+SpatGRID,cran
 spathial,cran
 spatial,cran
 SpatialAcc,kalogirous
@@ -21447,7 +21455,6 @@ TRONCO,bimib-disco
 troopdata,meflynn
 tropAlgebra,cran
 TropFishR,tokami
-tRophicPosition,clquezada
 trotter,ram6ler
 trouBBlme4SolveR,iago-pssjd
 TroublemakeR,sustainscapes
@@ -22327,6 +22334,7 @@ WeightedPortTest,tjfisher19
 weightedRank,cran
 WeightedROC,tdhock
 weightedScores,cran
+WeightedTreemaps,m-jahn
 weightedZdiff,fillatim
 WeightIt,ngreifer
 weightQuant,vivianephilipps
