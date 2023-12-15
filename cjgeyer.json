@@ -1,10 +1,5 @@
 [
   {
-    "package": "aster",
-    "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
-    "url": "https://github.com/cran/aster"
-  },
-  {
     "package": "aster2",
     "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
     "url": "https://github.com/cran/aster2"
@@ -23,11 +18,6 @@
     "package": "glmbb",
     "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
     "url": "https://github.com/cran/glmbb"
-  },
-  {
-    "package": "nice",
-    "maintainer": "Charles J. Geyer <charlie@stat.umn.edu>",
-    "url": "https://github.com/cran/nice"
   },
   {
     "package": "pooh",

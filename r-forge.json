@@ -66,13 +66,6 @@
     "subdir": "pkg/censReg"
   },
   {
-    "package": "cffdrs",
-    "maintainer": "Alan Cantin <Alan.Cantin@nrcan-rncan.gc.ca>",
-    "url": "https://github.com/r-forge/cffdrs",
-    "subdir": "pkg/cffdrs",
-    "registry": "archived"
-  },
-  {
     "package": "CHNOSZ",
     "maintainer": "Jeffrey Dick <j3ffdick@gmail.com>",
     "url": "https://github.com/r-forge/chnosz",
