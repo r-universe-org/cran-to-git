@@ -1243,6 +1243,7 @@ BayesSenMC,formidify
 BayesSpace,edward130603
 BayesSpec,cran
 BayesSUR,zhizuio
+bayesSurv,cran
 BayesSurvival,svdpas
 bayest,riko-k
 bayestestR,easystats
@@ -1834,7 +1835,6 @@ bmstdr,sujit-sahu
 BMT,cjtorresj
 BMTAR,adrincont
 bnbc,hansenlab
-bnclassify,bmihaljevic
 bnClustOmics,polinasuter
 bndesr,igorlaltuf
 bndovb,yujunghwang
@@ -3342,6 +3342,7 @@ conmet,cran
 ConNEcT,nabod0815
 connectapi,rstudio
 ConnectednessApproach,gabauerdavid
+connections,rstudio
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -4011,7 +4012,6 @@ daewr,johnjsl7
 daff,edwindj
 dafishr,cbmc-gcmp
 dafs,jmcurran
-dagHMM,mrprajwalb
 dagirlite,larshernandez
 dagitty,jtextor
 dagLogo,jianhong
@@ -4927,7 +4927,6 @@ dpcc,bingyuan-zhang
 dPCP,alfodefalco
 dpeak,dongjunchung
 Dpit,cran
-dplbnDE,alexplatasl
 dplR,andybunn
 dplyr,tidyverse
 dplyrAssist,cardiomoon
@@ -7148,6 +7147,7 @@ GCSM,liuyadong
 gcTensor,rikenbit
 GD,cran
 GDAdata,impaug
+gdalBindings,caiohamamura
 gdalcubes,appelmar
 gdalraster,usdaforestservice
 gdalUtilities,joshobrien
@@ -10084,6 +10084,7 @@ kzs,cran
 l0ara,cran
 L0Learn,hazimehh
 l1ball,cran
+L1centrality,seungwoo-stat
 l1kdeconv,zhaoli2017
 L1pack,faosorios
 l1spectral,cran
@@ -10349,7 +10350,7 @@ LFApp,fpaskali
 lfc,erhard-lab
 lfda,terrytangyuan
 LFDR.MLE,txucrut
-LFDR.MME,cran
+LFDR.MME,empiricalbayes
 LFDREmpiricalBayes,empiricalbayes
 lfe,matthieustigler
 lfl,beerda
@@ -14495,6 +14496,7 @@ phuassess,cran
 PhViD,ismail-ahmed
 phyclust,snoweye
 phyext2,johnrstevens
+PhyInsight,jamesc845
 phylin,ptarroso
 phylobase,fmichonneau
 phylocanvas,zachcp
@@ -15424,6 +15426,7 @@ pubmedR,massimoaria
 pubmedtk,bgcarlisle
 PubMedWordcloud,felixfan
 pubtatordb,mamc-dci
+PUlasso,hsong1
 pullword,hetong007
 puls,vinhtantran
 pulsar,zdk123
@@ -18546,6 +18549,7 @@ sentimentr,trinker
 SenTinMixt,cran
 sentometrics,sentometricsresearch
 sentopics,odelmarcelle
+sentryR,jcpsantiago
 SEofM,marsdu1989
 SEPaLS,hlorenzo
 sEparaTe,cran
@@ -19314,7 +19318,7 @@ snowfall,cran
 snowflakes,svetlanaeden
 snowFT,hanase
 snowquery,mermelstein
-snpAIMeR,cran
+snpAIMeR,kvertacnik
 SNPannotator,cran
 SNPassoc,isglobal-brge
 SNPediaR,genometra
@@ -21066,6 +21070,7 @@ tinyspotifyr,troyhernandez
 tinytest,markvanderloo
 tinytest2JUnit,openanalytics
 tinytex,rstudio
+tinythemes,eddelbuettel
 tinytiger,alarm-redist
 tip,charleswharrison
 tipa,hugheylab
@@ -21336,6 +21341,7 @@ TreeSearch,ms609
 treeshap,modeloriented
 TreeSim,tanja819
 TreeSimGM,ohagen
+treesliceR,araujomat
 treespace,thibautjombart
 treestartr,ropensci
 treestructure,emvolz

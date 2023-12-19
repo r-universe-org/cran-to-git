@@ -50,6 +50,11 @@
     "url": "https://github.com/rstudio/connectapi"
   },
   {
+    "package": "connections",
+    "maintainer": "Edgar Ruiz <edgar@posit.co>",
+    "url": "https://github.com/rstudio/connections"
+  },
+  {
     "package": "connectwidgets",
     "maintainer": "Brian Smith <brian@rstudio.com>",
     "url": "https://github.com/rstudio/connectwidgets"
