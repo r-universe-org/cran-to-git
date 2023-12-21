@@ -8,5 +8,10 @@
     "package": "Seurat",
     "maintainer": "Rahul Satija <seurat@nygenome.org>",
     "url": "https://github.com/satijalab/seurat"
+  },
+  {
+    "package": "SeuratObject",
+    "maintainer": "Paul Hoffman <seurat@nygenome.org>",
+    "url": "https://github.com/satijalab/seurat-object"
   }
 ]

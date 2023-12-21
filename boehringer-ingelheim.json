@@ -1,5 +1,10 @@
 [
   {
+    "package": "BPrinStratTTE",
+    "maintainer": "Christian Stock <christian.stock@boehringer-ingelheim.com>",
+    "url": "https://github.com/boehringer-ingelheim/bprinstrattte"
+  },
+  {
     "package": "flowml",
     "maintainer": "Sebastian Malkusch <sebastian.malkusch@boehringer-ingelheim.com>",
     "url": "https://github.com/boehringer-ingelheim/flowml"

@@ -945,6 +945,7 @@ available,r-lib
 avar,smac-group
 averisk,johnfergusonnuig
 avesperu,paulesantos
+AVGAS,lli289
 avidaR,cran
 AvInertia,charvey23
 aVirtualTwins,prise6
@@ -1947,6 +1948,7 @@ bpmnVisualizationR,process-analytics
 bpnreg,joliencremers
 bpp,numbersman77
 bpr,laura-dangelo
+BPrinStratTTE,boehringer-ingelheim
 BPRMeth,bioc
 bqror,prajual
 bqtl,cran
@@ -1972,6 +1974,7 @@ brandwatchR,phippsy
 brant,benjaminschlegel
 braQCA,cran
 brassica,cran
+bratteli,stla
 bravo,dongjli
 BrazilMet,filgueirasr
 brclimr,rfsaldanha
@@ -2443,6 +2446,7 @@ cdata,winvector
 CDatanet,ahoundetoungan
 cdcatR,miguel-sorrel
 cdcfluview,hrbrmstr
+CDCPLACES,brendensm
 cdcsis,mamba413
 cde,ropensci
 cder,mkoohafkan
@@ -4691,6 +4695,7 @@ discSurv,cran
 discursive,pwkraft
 disdat,rvalavi
 diseasemapping,cran
+diseasystore,ssi-dk
 Disequilibrium,natelatshaw
 DisHet,wtwt5237
 DisimForMixed,cran
@@ -8042,7 +8047,7 @@ gps,zheyuanli
 gps.track,wagnnerms97
 GPSCDF,cran
 GPSeqClus,cran
-gptoolsStan,cran
+gptoolsStan,tillahoffmann
 gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,jiefei-wang
@@ -9004,6 +9009,7 @@ ICEinfer,cran
 iCellR,rezakj
 icenReg,pistacliffcho
 Icens,bioc
+icensBKL,cran
 icensmis,xiangdonggu
 icepalace,ropensci
 icertool,cran
@@ -9395,6 +9401,7 @@ InterMineR,intermine
 internetarchive,ropensci
 interp,cran
 interplot,sammo3182
+interpolation,stla
 interpolators,stla
 interpret,interpret-ml
 interpretCI,cardiomoon
@@ -10415,7 +10422,7 @@ likert,jbryer
 LikertMakeR,winzarh
 lilikoi,granatumx
 lillies,cran
-LilRhino,cran
+LilRhino,travis-barton
 LIM,karlines
 lime,thomasp85
 liminal,sa-lee
@@ -13568,6 +13575,7 @@ ontologics,luckinet
 ontologyIndex,daniel-jg
 ontologyPlot,daniel-jg
 ontologySimilarity,daniel-jg
+ontophylo,diegosasso
 ontoProc,vjcitn
 OOBCurve,philipppro
 OOI,eladg9
@@ -13702,7 +13710,7 @@ opusminer,cbergmeir
 OpVaR,cran
 OPWeight,mshasan
 ora,cran
-OralOpioids,cran
+OralOpioids,ankonahouston
 orbweaver,ixpantia
 orca,thocevar
 orclus,g-rho
@@ -16618,8 +16626,8 @@ REMP,yinanzheng
 rempsyc,rempsyc
 remss,qiuanzhu
 remstats,tilburgnetworkgroup
+remstimate,tilburgnetworkgroup
 rENA,codymarquart
-renderthis,jhelvy
 REndo,mmeierer
 Renext,irsn
 renpow,mfacevedol
@@ -18624,7 +18632,7 @@ setter,richierocks
 SetTest,wpihongzhang
 settings,markvanderloo
 Seurat,satijalab
-SeuratObject,mojaveazure
+SeuratObject,satijalab
 sevenbridges,sbg
 sevenC,ibn-salem
 sever,johncoene

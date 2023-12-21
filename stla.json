@@ -15,6 +15,11 @@
     "url": "https://github.com/stla/boodist"
   },
   {
+    "package": "bratteli",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/brattelir"
+  },
+  {
     "package": "brr",
     "maintainer": "",
     "url": "https://github.com/stla/brr",
@@ -124,6 +129,11 @@
     "package": "HypergeoMat",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/hypergeomat"
+  },
+  {
+    "package": "interpolation",
+    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
+    "url": "https://github.com/stla/interpolation"
   },
   {
     "package": "interpolators",
