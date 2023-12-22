@@ -35,6 +35,11 @@
     "url": "https://github.com/tdhock/lopart"
   },
   {
+    "package": "mlr3resampling",
+    "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/mlr3resampling"
+  },
+  {
     "package": "namedCapture",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/namedcapture"
