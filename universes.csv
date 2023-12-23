@@ -798,22 +798,13 @@ ASSA,extremestats
 assert,olivierbinette
 assertable,gnguy
 assertions,selkamand
-assertive,richierocks
 assertive.base,richierocks
-assertive.code,richierocks
-assertive.data,richierocks
-assertive.data.uk,richierocks
-assertive.data.us,richierocks
-assertive.datetimes,richierocks
 assertive.files,richierocks
 assertive.matrices,richierocks
 assertive.models,richierocks
 assertive.numbers,richierocks
-assertive.properties,richierocks
 assertive.reflection,richierocks
 assertive.sets,richierocks
-assertive.strings,richierocks
-assertive.types,richierocks
 assertr,ropensci
 assertthat,hadley
 AssessORF,bioc
@@ -1087,7 +1078,6 @@ base64enc,s-u
 base64url,mllg
 baseballDBR,keberwein
 basecallQC,bioc
-basecamb,codeblue-team
 basedosdados,pedrocava
 basefun,r-forge
 baseline,khliland
@@ -1767,7 +1757,6 @@ blaise,sophof
 BlakerCI,cran
 BlandAltmanLeh,cran
 blandr,deepankardatta
-BlanketStatsments,p-mq
 blapsr,oswaldogressani
 blaster,tamminenlab
 blastula,rstudio
@@ -6254,7 +6243,7 @@ fBasics,cran
 fbati,cran
 FBCRM,cran
 FBFsearch,davidealtomare
-FBMS,cran
+FBMS,jonlachmann
 FBN,biointf
 fbnet,marsicofl
 fBonds,cran
@@ -6787,7 +6776,6 @@ fptdApprox,jjserra68
 FPV,cran
 fqacalc,cran
 fqadata,cran
-fqar,equitable-equations
 fr,cole-brokamp
 frab,robinhankin
 fracdiff,mmaechler
@@ -8937,7 +8925,6 @@ hystar,daandejongen
 hysteresis,aparkhurst
 hystReet,johannesfriedrich
 i18n,rich-iannone
-i2dash,loosolab
 i2extras,reconverse
 IAcsSPCR,johnjsl7
 iAdapt,cran
@@ -12543,7 +12530,6 @@ multiGSEA,yigbt
 multiHiCcompare,dozmorovlab
 MultiJoin,markusloecher
 MultiKink,chuangwan1994
-multilateral,mjstansfi
 multilaterals,edoardobaldoni
 MultiLCIRT,cran
 multilevel,cran
@@ -14341,7 +14327,6 @@ peramo,phamdn
 perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
-percentiles,cran
 PERFect,cxquy91
 perfectphyloR,cbhagya
 PerFit,jorgetendeiro
@@ -14601,7 +14586,6 @@ pipeR,renkun-ken
 piqp,predict-epfl
 piratings,larsvancutsem
 piRF,chancejohnstone
-pirouette,richelbilderbeek
 pisaRT,cran
 pitchRx,cpsievert
 piton,ironholds
@@ -14832,7 +14816,6 @@ PointedSDMs,philipmostert
 PointFore,schmidtpk
 pointr,jsugarelli
 pointRes,cran
-poio,rl10n
 PoisBinNonNor,bernice0321
 poisbinom,solivella
 PoisBinOrd,bernice0321
@@ -16374,7 +16357,6 @@ Rdpack,geobosh
 rdpower,gvazquezbare
 rdracor,dracor-org
 rdrobust,cran
-rdrop2,karthik
 RDRToolbox,bioc
 Rdrw,hyungsuktak
 rdryad,ropensci
@@ -18117,6 +18099,7 @@ sarsop,boettiger-lab
 sas7bdat,cran
 SAScii,ajdamico
 SASdates,imaheshdivakaran
+saseR,statomics
 sasfunclust,unina-sfere
 sasLM,cran
 sasMap,mangothecat
@@ -20363,7 +20346,7 @@ surveybootstrap,dfeehan
 SurveyCC,cran
 surveyCV,colbystatsvyrsch
 surveydata,andrie
-surveyexplorer,cran
+surveyexplorer,liamhaller
 surveyplanning,csblatvia
 surveysd,statistikat
 surveyvoi,prioritizr
@@ -20751,7 +20734,6 @@ TensorComplete,cran
 tensorEVD,cran
 tensorflow,rstudio
 TensorPreAve,william-chenwl
-tensorr,zamorarr
 tensorregress,jhu267
 tensorsparse,yzeng58
 TensorTest2D,yuting1214
@@ -21559,7 +21541,6 @@ TTS,1802515849
 ttScreening,cran
 ttservice,stemangiola
 ttt,benjaminrich
-ttTensor,rikenbit
 tttplot,amartinunal
 ttutils,cran
 tuber,gojiplus

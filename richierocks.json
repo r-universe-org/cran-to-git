@@ -1,44 +1,8 @@
 [
   {
-    "package": "assertive",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive",
-    "registry": "archived"
-  },
-  {
     "package": "assertive.base",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://bitbucket.org/richierocks/assertive.base"
-  },
-  {
-    "package": "assertive.code",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.code",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.data",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.data",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.data.uk",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.data.uk",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.data.us",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.data.us",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.datetimes",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.datetimes",
-    "registry": "archived"
   },
   {
     "package": "assertive.files",
@@ -61,12 +25,6 @@
     "url": "https://bitbucket.org/richierocks/assertive.numbers"
   },
   {
-    "package": "assertive.properties",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.properties",
-    "registry": "archived"
-  },
-  {
     "package": "assertive.reflection",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://bitbucket.org/richierocks/assertive.reflection"
@@ -75,18 +33,6 @@
     "package": "assertive.sets",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://bitbucket.org/richierocks/assertive.sets"
-  },
-  {
-    "package": "assertive.strings",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.strings",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.types",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.types",
-    "registry": "archived"
   },
   {
     "package": "learningr",

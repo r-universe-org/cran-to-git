@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "saseR",
+    "maintainer": "Alexandre Segers <Alexandre.segers@ugent.be>",
+    "url": "https://github.com/statomics/saser",
+    "registry": "bioc"
+  },
+  {
     "package": "satuRn",
     "maintainer": "Jeroen Gilis <jeroen.gilis@ugent.be>",
     "url": "https://github.com/statomics/saturn",

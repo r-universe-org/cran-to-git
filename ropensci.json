@@ -30,12 +30,6 @@
     "url": "https://github.com/ropensci/av"
   },
   {
-    "package": "babette",
-    "maintainer": "Rich<c3><a8>l J.C. Bilderbeek <richel@richelbilderbeek.nl>",
-    "url": "https://github.com/ropensci/babette",
-    "registry": "archived"
-  },
-  {
     "package": "baRcodeR",
     "maintainer": "Robert Colautti <robert.colautti@queensu.ca>",
     "url": "https://github.com/ropensci/barcoder"
@@ -469,18 +463,6 @@
     "package": "mapscanner",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/mapscanner"
-  },
-  {
-    "package": "mauricer",
-    "maintainer": "Rich<c3><a8>l J.C. Bilderbeek <richel@richelbilderbeek.nl>",
-    "url": "https://github.com/ropensci/mauricer",
-    "registry": "archived"
-  },
-  {
-    "package": "mcbette",
-    "maintainer": "Rich<c3><a8>l J.C. Bilderbeek <richel@richelbilderbeek.nl>",
-    "url": "https://github.com/ropensci/mcbette",
-    "registry": "archived"
   },
   {
     "package": "mctq",
