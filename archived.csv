@@ -2110,6 +2110,7 @@
 "pirate","1.0.0","Zhe Su <Zhe.Su@nyumc.org>",NA,2023-08-18,"email to the maintainer is undeliverable."
 "pirouette","1.6.9","Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>","https://github.com/richelbilderbeek/pirouette",2023-10-24,"requires archived package 'assertive.properties'"
 "pitchRx","1.8.2","Carson Sievert <cpsievert1@gmail.com>","https://github.com/cpsievert/pitchrx",2023-11-21,"issues were not corrected in time.  Should_fix_invalid_numeric_version_inputs."
+"pkgstats","0.1.1","Mark Padgham <mark.padgham@email.com>","https://github.com/ropensci-review-tools/pkgstats",2024-01-03,"policy violation.  Downloading pre-compiled software (and ignoring local installation)."
 "plRasch","1.0","Zhushan Li <zhushan.mandy.li@gmail.com>",NA,2022-06-20,"check problems were not corrected despite reminders."
 "places","0.1.1","Katherine Roehrick <kr.gitcode@gmail.com>",NA,2023-10-16,"requires archived package 'rgdal'."
 "planar","1.6","Baptiste Auguie <baptiste.auguie@gmail.com>","https://github.com/baptiste/planar",2022-05-09,"requires archived package 'dielectric'."
