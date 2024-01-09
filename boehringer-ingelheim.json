@@ -1,5 +1,10 @@
 [
   {
+    "package": "BayesianMCPMod",
+    "maintainer": "Stephan Wojciekowski <stephan.wojciekowski@boehringer-ingelheim.com>",
+    "url": "https://github.com/boehringer-ingelheim/bayesianmcpmod"
+  },
+  {
     "package": "BPrinStratTTE",
     "maintainer": "Christian Stock <christian.stock@boehringer-ingelheim.com>",
     "url": "https://github.com/boehringer-ingelheim/bprinstrattte"

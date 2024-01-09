@@ -1176,6 +1176,7 @@ BayesianFactorZoo,cran
 Bayesiangammareg,cran
 BayesianGLasso,trainorp
 BayesianLaterality,lcbc-uio
+BayesianMCPMod,boehringer-ingelheim
 BayesianMediationA,qingzhaoyu
 BayesianNetwork,paulgovan
 BayesianPlatformDesignTimeTrend,zxw834
@@ -1187,7 +1188,6 @@ bayesImageS,mooresm
 BayesKnockdown,bioc
 BayesLCA,itsarthurwhite
 bayesLife,hanase
-bayeslincom,josue-rodriguez
 bayeslm,jingyuhe
 BayesLN,agardini
 BayesLogit,jwindle
@@ -1264,7 +1264,6 @@ baytrends,tetratech
 bazar,paulponcet
 BB,cran
 BBCAnalyzer,bioc
-BBcor,donaldrwilliams
 bbdetection,cran
 BBEST,antongagin
 BBI,trtcrd
@@ -1811,6 +1810,7 @@ BMAmevt,lbelzile
 bmass,mturchin20
 bmem,johnnyzhz
 bmemLavaan,johnnyzhz
+bmet,tpourmohamad
 bmgarch,ph-rast
 bmggum,naidantu
 BMisc,bcallaway11
@@ -3578,6 +3578,7 @@ covid19italy,ramikrispin
 covid19sf,ramikrispin
 covid19srilanka,thiyangtdata
 covid19swiss,covid19r
+covid19tunisia,mounabelaid
 covid19us,aedobbyn
 Covid19Wastewater,uw-madison-dsi
 covidcast,capnrefsmmat
@@ -5317,6 +5318,7 @@ ectotemp,wouterbeukema
 ECTSVR,cran
 ECTTDNN,cran
 Ecume,hectorrdb
+eCV,eclipsebio
 ed50,mousieur-g
 ed50simulation,raulwangfr
 EDA,cran
@@ -5803,6 +5805,7 @@ estimability,rvlenth
 EstimateGroupNetwork,cran
 estimateW,tkrisztin
 EstimationTools,jaimemosg
+estimators,thechibo
 estimatr,declaredesign
 EstimDiagnostics,otryakhin-dmitry
 estimraw,cran
@@ -7729,6 +7732,7 @@ gimms,environmentalinformatics-marburg
 GiNA,cran
 Gini,marsdu1989
 GiniDistance,cran
+giniVarCI,cran
 GiniWegNeg,cran
 ginormal,smonto2
 GInSARCorW,subhadipdatta
@@ -12891,6 +12895,7 @@ nethet,bioc
 netie,tianshilu
 NetIndices,karlines
 NetInt,cran
+NetLogoR,predictiveecology
 netmap,artod83
 netmediate,sduxbury
 netmeta,guido-s
@@ -13140,6 +13145,7 @@ NO.PING.PONG,bpoconnor
 noaaoceans,warlicks
 noaastormevents,geanders
 noah,teebusch
+NobBS,sarahhbellum
 noctua,dyfanjones
 nodbi,ropensci
 node2vec,tianyang-0523
@@ -19657,6 +19663,7 @@ spgwr,rsbivand
 SphereOptimize,cran
 spherepc,jongminlee-stat
 sphereplot,asgr
+sphereTessellation,stla
 SphericalCubature,jpnolan
 sphet,gpiras
 sphunif,egarpor
@@ -21145,6 +21152,7 @@ topicmodels,cran
 topicmodels.etm,jwijffels
 TopicScore,minzhew
 TopKLists,r-forge
+TopKSignal,cran
 topmodel,ichydro
 topoDistance,ianjwang
 topologyGSA,cran
@@ -21897,6 +21905,7 @@ VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
 vecsets,cran
+vectorbitops,cran
 VectorCodeR,cran
 vectorwavelet,toygur
 VedicDateTime,prajwalkpatil
