@@ -628,6 +628,7 @@ aplot,yulab-smu
 aplotExtra,yulab-smu
 aplpack,cran
 APML0,leesprite
+apmx,stephen-amori
 apng,cran
 apollo,stephanehess
 Apollonius,stla
@@ -1967,6 +1968,7 @@ brassica,cran
 bratteli,stla
 bravo,dongjli
 BrazilMet,filgueirasr
+BRBVS,casua1statistician
 brclimr,rfsaldanha
 BRDT,ericchen12377
 brea,adam-king
@@ -2232,6 +2234,7 @@ CancerEvolutionVisualization,uclahs-cds
 cancerGI,audreyqyfu
 CancerGram,biogenies
 CancerInSilico,bioc
+cancerscreening,damurka
 CancerSubtypes,taoshengxu
 cancerTiming,epurdom
 candisc,friendly
@@ -2592,6 +2595,7 @@ ChangePointTaylor,cran
 ChangepointTesting,sth1402
 changepointTests,cran
 changer,helske
+changeRangeR,meblair
 ChannelAttribution,cran
 ChannelAttributionApp,davidealtomare
 chantrics,maebruck
@@ -6116,6 +6120,7 @@ FAMetA,maialba3
 FamEvent,cran
 familial,ryan-thompson
 familiar,alexzwanenburg
+Familias,thoree
 Families,willekens
 FamilyRank,cran
 FAmle,tpetzoldt
@@ -6129,7 +6134,7 @@ fangs,dbdahl
 fanovaGraph,sonjakuhnt
 fanplot,guyabel
 fansi,brodieg
-fanyi,guangchuangyu
+fanyi,yulab-smu
 FAO56,aahani-r
 FAOSTAT,paulrougieux
 faoutlier,philchalmers
@@ -7732,7 +7737,7 @@ gimms,environmentalinformatics-marburg
 GiNA,cran
 Gini,marsdu1989
 GiniDistance,cran
-giniVarCI,cran
+giniVarCI,jfmunozrosas
 GiniWegNeg,cran
 ginormal,smonto2
 GInSARCorW,subhadipdatta
@@ -7808,6 +7813,7 @@ glmlep,cran
 glmm,knudson1
 glmm.hp,laijiangshan
 GLMMadaptive,drizopoulos
+GLMMcosinor,ropensci
 glmmEP,mattwand
 glmmfields,seananderson
 glmmLasso,hoarzpassey
@@ -8247,7 +8253,7 @@ gsl,robinhankin
 gslnls,jorischau
 gsloid,benmarwick
 GSM,cran
-gsMAMS,axle123
+gsMAMS,tpatni719
 gsmoothr,markrobinsonuzh
 GSMX,cran
 GSODR,ropensci
@@ -9449,6 +9455,7 @@ IOLS,nassimzbalah
 ioncopy,budczies
 IONiseR,bioc
 ionr,ukuvainik
+iopspackage,cran
 iopsych,allengoebl
 iosmooth,cran
 iotables,ropengov
@@ -11697,6 +11704,7 @@ mimager,aaronwolen
 mime,yihui
 mimi,cran
 MiMIR,danielebizzarri
+mimiSBM,cran
 MIMSunit,mhealthgroup
 mimsy,michelleckelly
 mina,guan06
@@ -15307,7 +15315,7 @@ ps,r-lib
 PSAboot,jbryer
 PSAgraphics,jbryer
 PSAWR,schochastics
-psbcGroup,kleest0
+psbcGroup,cran
 psbcSpeedUp,ocbe-uio
 psborrow,gravesti
 PSCBS,henrikbengtsson
@@ -21009,6 +21017,7 @@ timecourse,bioc
 timeDate,cran
 timedelay,hyungsuktak
 timedeppar,peterreichert
+timeDF,niceume
 timeLineGraphics,barryzee
 timelineS,daheelee
 timeOmics,abodein
@@ -21577,6 +21586,7 @@ twosigma,edvanburen
 twostageTE,cran
 TwoStepCLogit,cran
 twoway,friendly
+TwoWayFEWeights,cran
 twowaytests,osmandag
 twoxtwo,vpnagraj
 txcutr,bioc
@@ -22293,6 +22303,7 @@ WhatIf,iqss
 WhatsR,cran
 whatthreewords,davidasmith
 wheatmap,zwdzwd
+when,josesamos
 whereami,yonicd
 whereport,gvdr
 whippr,fmmattioni

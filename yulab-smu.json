@@ -28,6 +28,11 @@
     "registry": "bioc"
   },
   {
+    "package": "fanyi",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/fanyi"
+  },
+  {
     "package": "GeoTcgaData",
     "maintainer": "Erqiang Hu <13766876214@163.com>",
     "url": "https://github.com/yulab-smu/geotcgadata",
