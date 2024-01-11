@@ -1,11 +1,5 @@
 [
   {
-    "package": "dapr",
-    "maintainer": "Michael W. Kearney <kearneymw@missouri.edu>",
-    "url": "https://github.com/mkearney/dapr",
-    "registry": "archived"
-  },
-  {
     "package": "funique",
     "maintainer": "Michael Wayne Kearney <kearneymw@missouri.edu>",
     "url": "https://github.com/mkearney/funique"
@@ -19,12 +13,6 @@
     "package": "pkgverse",
     "maintainer": "Michael Wayne Kearney <kearneymw@missouri.edu>",
     "url": "https://github.com/mkearney/pkgverse"
-  },
-  {
-    "package": "tfse",
-    "maintainer": "Michael W. Kearney <kearneymw@missouri.edu>",
-    "url": "https://github.com/mkearney/tfse",
-    "registry": "archived"
   },
   {
     "package": "wactor",
