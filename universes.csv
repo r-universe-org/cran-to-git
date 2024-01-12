@@ -169,7 +169,7 @@ addScales,cran
 ADDT,yili-hong
 adductomicsR,josielhayes
 ade4,sdray
-ade4TkGUI,aursiber
+ade4TkGUI,adeverse
 adea,mmm-uca
 adegenet,thibautjombart
 adegraphics,sdray
@@ -630,6 +630,7 @@ aplpack,cran
 APML0,leesprite
 apmx,stephen-amori
 apng,cran
+Apoderoides,sa-to-shi-a-o-ki
 apollo,stephanehess
 Apollonius,stla
 appeears,bluegreen-labs
@@ -668,6 +669,7 @@ arakno,cran
 ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
+arcgisutils,r-arcgis
 ArchaeoChron,philippe-a
 ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
@@ -1162,6 +1164,7 @@ BayesDLMfMRI,johnatanlab
 bayesDP,graemeleehickey
 BayesESS,github-js
 BayesFactor,richarddmorey
+BayesFBHborrow,cran
 BayesFluxR,cran
 BayesFM,piatek
 BayesfMRI,mandymejia
@@ -2039,6 +2042,7 @@ bs4Dash,rinterface
 BSagri,cran
 bsam,ianjonsen
 bsamGP,beomjopark
+bscui,patzaw
 BSDA,alanarnholt
 bsearchtools,digemall
 BSgenome,bioconductor
@@ -3122,6 +3126,7 @@ CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,edward-burn
 cohorttools,jkhaukka
+coil,cran
 CoImp,cran
 coin,r-forge
 coinmarketcapr,amrrs
@@ -4354,6 +4359,7 @@ DELTD,jahmadkhan
 DEM,cran
 DeMAND,bioc
 dematel,muhlisoz
+demic,ulthran
 deming,cran
 DeMixT,bioc
 DemoDecomp,timriffe
@@ -4533,7 +4539,7 @@ dhglm,msnoh1
 dhh,cran
 dhis2r,amanyiraho
 dhlabR,dh-lab-nb
-DHS.rates,cran
+DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
 di,cran
@@ -4756,6 +4762,7 @@ distTails,sergivilardell
 disttools,mamc-dci
 dittodb,ropensci
 dittoSeq,dtm2451
+dittoViz,dtm2451
 div,drphilippedb
 divDyn,divdyn
 DivE,dlaydon
@@ -5501,6 +5508,7 @@ ELMER,bioc
 elmNNRcpp,mlampros
 ELMR,sojers92
 ELMSO,cpaulson-suu
+eLNNpairedCov,cran
 elo,eheinzen
 EloChoice,gobbios
 EloRating,gobbios
@@ -5805,6 +5813,7 @@ eshrink,kpkeller
 eSIR,cran
 esmisc,eduardszoecs
 esmprep,mmiche
+esmtools,cran
 espadon,cran
 esquisse,dreamrs
 esreg,bayerse
@@ -6786,6 +6795,7 @@ fptdApprox,jjserra68
 FPV,cran
 fqacalc,cran
 fqadata,cran
+fqar,equitable-equations
 fr,cole-brokamp
 frab,robinhankin
 fracdiff,mmaechler
@@ -12275,6 +12285,7 @@ mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
+MPCR,stsds
 MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
@@ -17005,6 +17016,7 @@ RISmed,skoval
 Rita,danielamattei
 RITAN,bioc
 Ritc,yingyunl
+RITCH,davzim
 ritis,ropensci
 RItools,jwbowers
 riv,gcohenfr
@@ -17556,6 +17568,7 @@ Rqc,labbcb
 rQCC,appliedstat
 rqdatatable,winvector
 RQEntangle,stephenhky
+rqlm,nomahi
 rqPen,bssherwood
 rqt,izhbannikov
 RQuantLib,eddelbuettel
@@ -17683,7 +17696,6 @@ rsnell,pfpetrowski
 RSNNS,cbergmeir
 rsnps,ropensci
 RSocrata,chicago
-rsofun,geco-bern
 rsoi,boshek
 Rsolnp,alexiosg
 rsolr,lawremi
@@ -20723,6 +20735,7 @@ Temporal,zrmacc
 TemporalGSSA,cran
 tempR,jcc9
 TempStable,tmoek
+tempted,pixushi
 Tendril,astrazeneca
 tenispolaR,adelmofilho
 tensor,cran
@@ -20797,7 +20810,7 @@ TExPosition,cran
 texreg,leifeld
 text,oscarkjell
 text.alignment,digi-vub
-text2map,dustinstoltz
+text2map,cran
 text2sdg,dwulff
 text2sdgData,psychobas
 text2speech,jhudsl
@@ -20965,11 +20978,13 @@ tidylda,tommyjones
 tidylo,juliasilge
 tidylog,elbersb
 tidyLPA,data-edu
+tidyMC,stefanlinner
 tidymodels,tidymodels
 TidyMultiqc,multimeric
 tidymv,stefanocoretta
 tidync,ropensci
 tidypaleo,paleolimbot
+tidyplate,shubhamdutta26
 tidyplus,poissonconsulting
 tidypmc,ropensci
 tidyposterior,tidymodels

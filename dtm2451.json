@@ -6,6 +6,11 @@
     "registry": "bioc"
   },
   {
+    "package": "dittoViz",
+    "maintainer": "Daniel Bunis <daniel.bunis@ucsf.edu>",
+    "url": "https://github.com/dtm2451/dittoviz"
+  },
+  {
     "package": "magmaR",
     "maintainer": "Daniel Bunis <daniel.bunis@ucsf.edu>",
     "url": "https://github.com/cran/magmaR"
