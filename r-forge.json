@@ -159,13 +159,15 @@
     "package": "distrDoc",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrDoc"
+    "subdir": "pkg/distrDoc",
+    "registry": "archived"
   },
   {
     "package": "distrEllipse",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrEllipse"
+    "subdir": "pkg/distrEllipse",
+    "registry": "archived"
   },
   {
     "package": "distrEx",
@@ -183,25 +185,29 @@
     "package": "distrRmetrics",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrRmetrics"
+    "subdir": "pkg/distrRmetrics",
+    "registry": "archived"
   },
   {
     "package": "distrSim",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrSim"
+    "subdir": "pkg/distrSim",
+    "registry": "archived"
   },
   {
     "package": "distrTeach",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrTeach"
+    "subdir": "pkg/distrTeach",
+    "registry": "archived"
   },
   {
     "package": "distrTEst",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrTEst"
+    "subdir": "pkg/distrTEst",
+    "registry": "archived"
   },
   {
     "package": "DPQ",
@@ -651,7 +657,8 @@
     "package": "RobExtremes",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobExtremes"
+    "subdir": "pkg/RobExtremes",
+    "registry": "archived"
   },
   {
     "package": "RobLox",
@@ -669,7 +676,8 @@
     "package": "RobRex",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobRex"
+    "subdir": "pkg/RobRex",
+    "registry": "archived"
   },
   {
     "package": "robustbase",
@@ -783,19 +791,22 @@
     "package": "ROptEst",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptEst"
+    "subdir": "pkg/ROptEst",
+    "registry": "archived"
   },
   {
     "package": "ROptEstOld",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptEstOld"
+    "subdir": "pkg/ROptEstOld",
+    "registry": "archived"
   },
   {
     "package": "ROptRegTS",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptRegTS"
+    "subdir": "pkg/ROptRegTS",
+    "registry": "archived"
   },
   {
     "package": "Rsymphony",
