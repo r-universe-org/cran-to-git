@@ -628,7 +628,7 @@ aplore3,lbraglia
 aplot,yulab-smu
 aplotExtra,yulab-smu
 aplpack,cran
-APML0,cran
+APML0,leesprite
 apmx,stephen-amori
 apng,cran
 Apoderoides,sa-to-shi-a-o-ki
@@ -1098,7 +1098,7 @@ basf,mdsumner
 Basic4Cseq,bioc
 basicMCMCplots,danielturek
 BASiCS,catavallejos
-basicspace,cran
+basicspace,jameslo989
 BASiCStan,alanocallaghan
 BasicSTARRseq,bioc
 basictabler,cbailiss
@@ -5544,7 +5544,7 @@ EMDSVRhybrid,cran
 emg,spgarbet
 emhawkes,ksublee
 EmiR,lorenzo125
-emIRT,cran
+emIRT,jameslo989
 EmissV,atmoschem
 EmiStatR,arturotorres
 EML,ropensci
@@ -5900,7 +5900,7 @@ eventglm,sachsmc
 eventInterval,jimlemon
 EventPointer,jpromeror
 eventPred,kaifenglu
-EventPredInCure,cran
+EventPredInCure,bo-wei
 eventstream,sevvandi
 EventStudy,eventstudytools
 eventstudyr,jmslab
@@ -8576,7 +8576,7 @@ hemispheR,fchianucci
 heplots,friendly
 here,r-lib
 hereR,munterfi
-hergm,cran
+hergm,michael-schweinberger
 heritability,wtkr
 HeritSeq,kechrislab
 hermes,insightsengineering
@@ -11865,7 +11865,7 @@ mixdir,const-ae
 mixdist,cran
 mixedBayes,kunfa
 mixedCCA,irinagain
-mixedClust,cran
+mixedClust,mversionpenny
 MixedIndTests,bouchranasri
 MixedLevelRSDs,cran
 mixedLSR,alexanderjwhite
@@ -13395,7 +13395,7 @@ o2plsda,guokai8
 oaColors,cran
 oai,ropensci
 OAIHarvester,kurthornik
-oaii,cran
+oaii,cezarykuran
 oaPlots,cran
 oaqc,cran
 Oarray,robinhankin
@@ -13706,7 +13706,7 @@ optimsimplex,cran
 optimStrat,cran
 optimus,mitchest
 optimx,nashjc
-optinterv,cran
+optinterv,eladg9
 optional,antoinechampion
 OptionPricing,cran
 options,dgkf
@@ -13752,7 +13752,7 @@ ordgam,plambertuliege
 ordiBreadth,battusboy
 ordinal,runehaubo
 ordinalbayes,kelliejarcher
-ordinalClust,cran
+ordinalClust,mversionpenny
 ordinalCont,maurizio-manuguerra-mq
 ordinalForest,romanhornung
 ordinalgmifs,kelliejarcher
@@ -14479,7 +14479,7 @@ phenology,marc-girondot
 phenomap,jepsonnomad
 phenomis,bioc
 phenopath,bioc
-phenopix,cran
+phenopix,gianlucafilippa
 PheNorm,celehs
 phenoTest,bioc
 Phenotype,biozhp
@@ -16296,7 +16296,7 @@ RCreliability,yulu98
 rcrimeanalysis,jsspaulding
 RCriteo,banboo-data
 Rcriticor,faune3
-rCRM,cran
+rCRM,xli256
 RCRnorm,cran
 rcrossref,ropensci
 Rcsdp,hcorrada
@@ -19260,7 +19260,7 @@ smerc,jfrench
 smetlite,baseldatascience
 SMFilter,yukai-yang
 smfishHmrf,cran
-smfsb,cran
+smfsb,darrenjw
 smicd,chiquadrat
 smidm,cran
 smile,lcgodoy
@@ -19677,7 +19677,7 @@ spectrino,cran
 spectrolab,meireles
 Spectrum,crj32
 sped,cjgeyer
-spedecon,cran
+spedecon,dk657
 SPEDInstabR,cran
 speech,nicolas-schmidt
 speechbr,dcardosos
@@ -22139,7 +22139,7 @@ vrtest,jh8080
 vscc,cran
 vsclust,bioc
 vsd,cyanzule
-VSdecomp,cran
+VSdecomp,eladg9
 vsgoftest,testpregnault
 vsn,bioc
 VSOLassoBag,chywang17
@@ -22711,3 +22711,4 @@ ZVCV,leahprice
 ZygosityPredictor,bioc
 zyp,corviday
 zzlite,fkoh111
+,cran
