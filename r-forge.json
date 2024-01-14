@@ -179,7 +179,8 @@
     "package": "distrMod",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrMod"
+    "subdir": "pkg/distrMod",
+    "registry": "archived"
   },
   {
     "package": "distrRmetrics",
@@ -603,7 +604,8 @@
     "package": "RandVar",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RandVar"
+    "subdir": "pkg/RandVar",
+    "registry": "archived"
   },
   {
     "package": "Rcplex",
@@ -645,7 +647,8 @@
     "package": "RobAStBase",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobAStBase"
+    "subdir": "pkg/RobAStBase",
+    "registry": "archived"
   },
   {
     "package": "RobAStRDA",
@@ -664,13 +667,15 @@
     "package": "RobLox",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobLox"
+    "subdir": "pkg/RobLox",
+    "registry": "archived"
   },
   {
     "package": "RobLoxBioC",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobLoxBioC"
+    "subdir": "pkg/RobLoxBioC",
+    "registry": "archived"
   },
   {
     "package": "RobRex",
@@ -916,6 +921,12 @@
     "maintainer": "Sebastian Meyer <seb.meyer@fau.de>",
     "url": "https://github.com/r-forge/surveillance",
     "subdir": "pkg"
+  },
+  {
+    "package": "survey",
+    "maintainer": "\"Thomas Lumley\" <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/r-forge/r-survey",
+    "subdir": "pkg/survey"
   },
   {
     "package": "systemfit",
