@@ -1,5 +1,10 @@
 [
   {
+    "package": "CausalMetaR",
+    "maintainer": "Sean McGrath <sean_mcgrath@g.harvard.edu>",
+    "url": "https://github.com/ly129/causalmetar"
+  },
+  {
     "package": "free",
     "maintainer": "Yi Lian <yi.lian@mail.mcgill.ca>",
     "url": "https://github.com/cran/free"

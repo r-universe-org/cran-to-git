@@ -176,7 +176,7 @@ adehabitatHR,clementcalenge
 adehabitatHS,clementcalenge
 adehabitatLT,clementcalenge
 adehabitatMA,clementcalenge
-adephylo,aursiber
+adephylo,adeverse
 adepro,cran
 adept,martakarass
 adeptdata,martakarass
@@ -669,6 +669,7 @@ arakno,cran
 ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
+arcgeocoder,dieghernan
 arcgisutils,r-arcgis
 ArchaeoChron,philippe-a
 ArchaeoPhases,archaeostat
@@ -987,6 +988,7 @@ AzureTableStor,azure
 AzureVision,azure
 AzureVM,azure
 AzureVMmetadata,azure
+b64,josiahparry
 BaalChIP,bioc
 babel,olshena
 babeldown,ropensci
@@ -1916,6 +1918,7 @@ Boruta,cran
 BOSO,lvalcarcel
 BosonSampling,cran
 BoSSA,lefeup
+bossR,ubcxzhang
 BOSSreg,cran
 botor,daroczig
 BoundaryStats,cran
@@ -2373,11 +2376,12 @@ CausalGAM,quinn-kevin
 CausalGPS,nsaph-software
 CausalImpact,google
 CausalMBSTS,fmenchetti
+CausalMetaR,ly129
 CausalModels,ander428
 causaloptim,sachsmc
 causalOT,ericdunipace
 causalPAF,mauriceoconnell
-CausalQueries,till-tietz
+CausalQueries,integrated-inferences
 CausalR,bioc
 causalsens,mattblackwell
 causalweight,hbodory
@@ -4857,7 +4861,6 @@ doc2concrete,myeomans
 doc2vec,bnosac
 dockerfiler,thinkr-open
 DockerParallel,jiefei-wang
-docket,jonathanconrad98
 docknitr,innermatrix
 doconv,ardata-fr
 docopt,docopt
@@ -7420,6 +7423,7 @@ geonetwork,famuvie
 GEOquery,seandavi
 geoR,paulojus
 GeoRange,jamestboyle
+georefdatar,abuseki
 geos,paleolimbot
 geoSAE,ketutdika
 geosapi,eblondel
@@ -7970,7 +7974,7 @@ goft,elizagestrada
 goftest,baddstats
 GOfuncR,bioc
 gogarch,bpfaff
-goldfish,snlab-ch
+goldfish,stocnet
 goldilocks,graemeleehickey
 golem,thinkr-open
 gomms,cran
@@ -10965,7 +10969,7 @@ manydata,globalgov
 manymodelr,nelson-gon
 manymome,sfcheung
 manymome.table,sfcheung
-manynet,snlab-ch
+manynet,stocnet
 ManyTests,christianak
 MaOEA,dots26
 maotai,kisungyou
@@ -11713,7 +11717,7 @@ midrangeMCP,bendeivide
 miesmuschel,mlr-org
 mifa,teebusch
 migest,guyabel
-migraph,snlab-ch
+migraph,stocnet
 migrate,mthomas-ketchbrook
 migration.indices,daroczig
 MigrationDetectR,cran
@@ -13885,7 +13889,7 @@ ozmaps,mdsumner
 p3state.msm,cran
 pa,yl2
 PAA,bioc
-PAC,hlowl2
+PAC,yhenryli
 pack,joshuaulrich
 packageDiff,couthcommander
 packagefinder,jsugarelli
@@ -15368,6 +15372,7 @@ psgp,cran
 psica,osysoev
 psichomics,nuno-agostinho
 psidR,floswald
+psidread,qcrates
 PSIndependenceTest,cran
 PSinference,ricardomourarpm
 PSLM2015,myaseen208
@@ -18735,6 +18740,7 @@ shelltrace,nielsjdewinter
 sherlock,gaboraszabo
 SherlockHolmes,barryzee
 shidashi,dipterix
+shide,mmollayi
 ShiftConvolvePoibin,cran
 shiftR,andreyshabalin
 ShiftShareSE,kolesarm
@@ -21791,7 +21797,6 @@ usdampr,cbw1243
 usdarnass,rdinter
 usdata,openintrostat
 usdm,babaknaimi
-usdoj,ropengov
 usedist,kylebittinger
 usedthese,cgoo4
 useful,jaredlander
