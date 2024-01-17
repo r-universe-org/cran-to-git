@@ -304,7 +304,7 @@ agriutilities,apariciojohan
 agriwater,cesarofs
 agrmt,r-forge
 AgroR,gabrielshimizu
-AgroReg,agronomiar
+AgroReg,gabrielshimizu
 agrostab,cran
 AgroTech,rmarubayashi
 ags,sumtxt
@@ -645,6 +645,7 @@ appreci8R,bioc
 appRiori,ugranziol
 approximator,robinhankin
 approxmatch,cran
+approxOT,ericdunipace
 appsflyeR,pablosanmar
 appsheet,calderonsamuel
 aprean3,lbraglia
@@ -1084,6 +1085,7 @@ base64,jeroen
 base64enc,s-u
 base64url,mllg
 baseballDBR,keberwein
+baseballr,billpetti
 basecallQC,bioc
 basedosdados,pedrocava
 basefun,r-forge
@@ -4512,6 +4514,7 @@ dfexpand,jlpainter
 dfidx,ycroissant
 DFIT,herulor
 dfmeta,artemis-toumazi
+dfmirroR,jacobpstein
 dfms,sebkrantz
 dfmta,jhjourdan
 dfoliatR,chguiterman
@@ -4637,6 +4640,7 @@ DIME,olechnwin
 dimensio,tesselle
 dimensionsR,massimoaria
 DImodels,cran
+DImodelsMulti,di-laurabyrne
 DIMORA,avios97
 dimRed,gdkrmr
 dina,tmsalab
@@ -4949,6 +4953,7 @@ Dpit,cran
 dplR,andybunn
 dplyr,tidyverse
 dplyrAssist,cardiomoon
+dpm,jacob-long
 dpmr,christophergandrud
 DPP,lmavila
 DPpack,sgiddens
@@ -5608,6 +5613,7 @@ ENMeval,jamiemkass
 ENmix,bioc
 enmpa,luisagi
 enmSdmX,adamlilith
+ENMTools,danlwarren
 enpls,nanxstats
 EnrichedHeatmap,jokergoo
 EnrichIntersect,ocbe-uio
@@ -10864,6 +10870,7 @@ macleish,beanumber
 maclogp,yuanyuanli96
 maCorrPlot,bioc
 MACP,mrbakhsh
+macroBiome,szelepcsenyi
 macrocol,pedrocabraacela
 macrosyntR,samilhll
 MacroZooBenthosWaterA,cran
@@ -11178,7 +11185,6 @@ MBASED,bioc
 mbbefd,spedygiorgio
 MBC,alexcannon
 MBCB,bioc
-MBCbook,cran
 MBECS,rmolbrich
 mbend,nilforooshan
 MBESS,yelleknek
@@ -11716,6 +11722,7 @@ MIDN,cran
 midrangeMCP,bendeivide
 miesmuschel,mlr-org
 mifa,teebusch
+MigConnectivity,smbc-nzp
 migest,guyabel
 migraph,stocnet
 migrate,mthomas-ketchbrook
@@ -12896,6 +12903,7 @@ neo4r,neo4j-rstats
 neojags,madsyair
 NEONiso,lanl
 neonOS,neonscience
+neonPlantEcology,admahood
 neonstore,cboettig
 neonUtilities,neonscience
 neotoma,ropensci
@@ -13033,6 +13041,7 @@ nftbart,rsparapa
 NFWdist,asgr
 ngboostForecast,akai01
 NGBVS,alenazia
+NGCHM,md-anderson-bioinformatics
 NGLVieweR,nvelden
 ngram,wrathematics
 ngramr,seancarmody
@@ -13922,7 +13931,6 @@ pagedown,rstudio
 pagemap,swsoyee
 pagenum,kwstat
 pageRank,hd2326
-pageviews,ironholds
 pagoda2,kharchenkolab
 pagoo,iferres
 PAGWAS,mevangelou
@@ -14041,6 +14049,7 @@ paramtest,jeff-hughes
 paran,alexisdinno
 ParBayesianOptimization,anothersamwilson
 parcats,erblast
+parcr,systemsbioinformatics
 ParDNAcopy,gsun2018
 PaRe,darwin-eu-dev
 pareg,cbg-ethz
@@ -15341,6 +15350,7 @@ PRSim,cran
 PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
+PRTree,cran
 prWarp,cran
 pryr,hadley
 Przewodnik,pbiecek
@@ -15724,6 +15734,7 @@ QuantPsyc,tfletcher05
 quantreg,rkoenker
 quantreg.nonpar,ivanfernandezval
 quantregForest,lorismichel
+QuantRegGLasso,egpivo
 quantregGrowth,vitomuggeo
 quantregRanger,philipppro
 quantro,bioc
@@ -15806,6 +15817,7 @@ r2dii.data,rmi-pacta
 r2dii.match,rmi-pacta
 r2dii.plot,rmi-pacta
 R2DT,robin-vo
+r2fireworks,oobianom
 r2glmm,bcjaeger
 R2HTML,nalimilan
 R2jags,suyusung
@@ -16328,7 +16340,6 @@ rD3plot,modesto-escobar
 rda,valentint
 rdacca.hp,laijiangshan
 rdaisi,cran
-RDataCanvas,datacanvasio
 rdatacite,ropensci
 rDataPipeline,fairdatapipeline
 rdataretriever,ropensci
@@ -16718,7 +16729,7 @@ RESET,cran
 resevol,bradduthie
 reshape,hadley
 reshape2,hadley
-RESI,megantj21
+RESI,statimagcoll
 ResidentialEnergyConsumption,hopfkons
 ResidualMatrix,ltla
 resilience,rvaradhan
@@ -17342,6 +17353,7 @@ RobustIV,zijguo
 RobustLinearReg,cran
 robustlm,mamba413
 robustlmm,kollerma
+robustmatrix,cran
 robustmeta,nomahi
 robustrank,youyifong
 RobustRankAggreg,raivokolde
@@ -18264,6 +18276,7 @@ scico,thomasp85
 scicomptools,nceas
 scider,chenlaboratory
 scidesignR,ntaback
+scientific,oobianom
 scientoText,ashrafsau
 scifer,rodrigarc
 scifigure,prpatil
@@ -20116,7 +20129,7 @@ stilt,cran
 stim,annawysocki
 stima,elisedus
 stinepack,tomasjohannesson
-stJoincount,nina-song
+stJoincount,cohccc
 stlARIMA,ronit10976
 stlELM,cran
 stlnpp,moradii
@@ -20383,6 +20396,7 @@ survivalREC,gsoutinho
 survivalROC,paramita-sc
 survivalSL,foucher-y
 survivalsvm,imbs-hl
+SurvivalTests,osmandag
 survivoR,doehm
 survJamda.data,cran
 SurvLong,sth1402
@@ -20671,6 +20685,7 @@ TCGAretriever,dami82
 TCGAutils,waldronlab
 tcgaViz,ecamenen
 TcGSA,sistm
+TCHazaRds,ausclimateservice
 tci,jarretrt
 TCIApathfinder,pamelarussell
 TCIU,qjoshua
@@ -21931,6 +21946,7 @@ vbmp,bioc
 VBsparsePCA,bo-ning
 VBTree,cubiczebra
 VBV,dsteuer
+VC2copula,tnagler
 VCA,cran
 vccp,xinxiong0238
 vcd,cran
@@ -22064,6 +22080,7 @@ ViSEAGO,bioc
 ViSiElse,re2simlab
 visit,cran
 VisitorCounts,cran
+vismeteor,jankorichter
 visNetwork,datastorm-open
 visR,openpharma
 visreg,pbreheny
@@ -22376,7 +22393,6 @@ WikidataQueryServiceR,wikimedia
 WikidataR,ts404
 wikifacts,keithmcnulty
 wikilake,jsta
-wikipediatrend,petermeissner
 WikipediR,ironholds
 wikiprofiler,guangchuangyu
 wikitaxa,ropensci
