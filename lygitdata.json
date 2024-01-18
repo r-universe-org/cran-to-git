@@ -1,5 +1,10 @@
 [
   {
+    "package": "GenAI",
+    "maintainer": "Li Yuan <lyuan@gd.edu.kg>",
+    "url": "https://github.com/cran/GenAI"
+  },
+  {
     "package": "PaLMr",
     "maintainer": "Li Yuan <lyuan@gd.edu.kg>",
     "url": "https://github.com/lygitdata/palmr"

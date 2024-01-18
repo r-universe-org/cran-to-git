@@ -1,5 +1,10 @@
 [
   {
+    "package": "causalSLSE",
+    "maintainer": "Pierre Chausse Developer <pchausse@uwaterloo.ca>",
+    "url": "https://github.com/cran/causalSLSE"
+  },
+  {
     "package": "gmm",
     "maintainer": "Pierre Chausse <pchausse@uwaterloo.ca>",
     "url": "https://github.com/pchausse/gmm"

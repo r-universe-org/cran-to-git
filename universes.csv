@@ -2386,6 +2386,7 @@ causalPAF,mauriceoconnell
 CausalQueries,integrated-inferences
 CausalR,bioc
 causalsens,mattblackwell
+causalSLSE,pchausse
 causalweight,hbodory
 CausCor,sugym
 CautiousLearning,cran
@@ -3859,7 +3860,7 @@ CTDquerier,bioc
 CTexploreR,uclouvain-cbio
 ctf,fitzgerald-csus
 ctgdist,huseyinyildiz35
-ctgt,cran
+ctgt,nxu312
 cthist,bgcarlisle
 cthreshER,fpzhang2015
 ctl,dannyarends
@@ -4525,6 +4526,7 @@ DFP,bioc
 dfped,artemis-toumazi
 dfphase1,cran
 dfrr,asgari-fatemeh
+dfsaneacc,johngardenghi
 dfvad,shipei-zeng
 dga,olivierbinette
 dGAselID,cran
@@ -4914,6 +4916,7 @@ dosedesignR,t-schm
 DoseFinding,bbnkmp
 doseminer,selbosh
 doseR,bioc
+doseSens,jzhang1937
 doSNOW,beccadaniel
 DOSPortfolio,statistics-in-portfolio-theory
 dosresmeta,alecri
@@ -7177,6 +7180,7 @@ gCrisprTools,bioc
 gcrma,bioc
 GCSM,liuyadong
 gcTensor,rikenbit
+gcxgclab,cran
 GD,cran
 GDAdata,impaug
 gdalBindings,caiohamamura
@@ -7242,6 +7246,7 @@ gen2stage,cran
 gen3sis,project-gen3sis
 gen5helper,ylin00
 gena,bogdanpotanin
+GenAI,lygitdata
 genalg,ballings
 GenAlgo,cran
 genArise,bioc
@@ -7838,7 +7843,7 @@ glm2,mdonoghoe
 GLMaSPU,chongwu-biostat
 glmbb,cjgeyer
 glmc,cran
-GLMcat,cran
+GLMcat,ylleonv
 glme,mcavs
 glmertree,cran
 glmGamPoi,const-ae
@@ -13552,6 +13557,7 @@ Omixer,bioc
 omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,saezlab
+omopgenerics,darwin-eu-dev
 ompBAM,alexchwong
 ompr,dirkschumacher
 ompr.roi,dirkschumacher
@@ -15350,7 +15356,7 @@ PRSim,cran
 PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
-PRTree,cran
+PRTree,neimaier
 prWarp,cran
 pryr,hadley
 Przewodnik,pbiecek
@@ -15498,6 +15504,7 @@ pvca,bioc
 pvclass,cran
 pvclust,r-suzuki
 pvcurveanalysis,annaraesch
+pvda,oskargauffin
 Pviz,bioc
 pvldcurve,annaraesch
 pvLRT,c7rishi
@@ -17516,6 +17523,7 @@ rpartScore,cran
 rPBK,cran
 rpca,macieksk
 Rpdb,discoleo
+rPDBapi,cran
 rpdo,poissonconsulting
 RPDTest,glazellli
 RpeakChrom,manuelperis
@@ -17755,6 +17763,7 @@ rstatix,kassambara
 rstatscn,jiang-hang
 Rstg,runopti
 rstiefel,pdhoff
+RStoolbox,bleutner
 RStorm,mkaptein
 rstpm2,mclements
 rStrava,fawda123
@@ -18594,6 +18603,7 @@ SEofM,marsdu1989
 SEPaLS,hlorenzo
 sEparaTe,cran
 separationplot,cran
+sephora,cran
 sepkoski,lewisajones
 seq.hotSPOT,sydney-grant
 seq2pathway,bioc
@@ -19614,6 +19624,7 @@ SpatialVx,ericgilleland
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
 SpatMCA,egpivo
+SpaTopic,xiyupeng
 SpatPCA,egpivo
 spatPomp,kidusasfaw
 SpATS,coterodriguez
@@ -20424,6 +20435,7 @@ survstan,fndemarqui
 SurvTrunc,cran
 survtype,bioc
 susieR,stephenslab
+susographql,michael-cw
 SUSY,wtschacher
 sva,bioc
 sValues,carloscinelli
@@ -22661,6 +22673,7 @@ yuima,yuimaproject
 yuimaGUI,eguidotti
 yulab.utils,guangchuangyu
 yum,cran
+yyjsonr,coolbutuseless
 Z10,rhlee12
 zalpha,chorscroft
 zCompositions,japal
