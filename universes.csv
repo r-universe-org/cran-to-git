@@ -2734,7 +2734,6 @@ ciccr,sokbae
 cicero,bioc
 cicerone,johncoene
 CICI,cran
-CIDER,zhiyhu
 CIEE,skonigor
 cif,cran
 CIfinder,cran
@@ -3814,7 +3813,6 @@ csalert,csids
 csampling,cran
 CSAR,bioc
 csaw,bioc
-CSCDRNA,empiricalbayes
 CsChange,marsdu1989
 csci,cran
 CSclone,tsungyuwu
@@ -7877,7 +7875,7 @@ GLMsData,peterkdunn
 GlmSimulatoR,gmcmacran
 glmSparseNet,sysbiomed
 glmtlp,yuyangumn
-glmtoolbox,cran
+glmtoolbox,lhvanegasp
 glmtrans,ytstat
 glmtree,adimajo
 glmulti,vincexxc
@@ -8933,6 +8931,7 @@ hydroscoper,ropensci
 hydrostats,nickbond
 hydrotoolbox,ezetoum
 hydroToolkit,ezetoum
+hydroTSM,hzambran
 hyfo,yuanchao-xu
 HyMETT,cpenn-usgs
 hypeR,montilab
@@ -10547,7 +10546,6 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
-lmap,mjderooij
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -12102,6 +12100,7 @@ mnonr,cran
 mnorm,bogdanpotanin
 mnormt,cran
 MNP,kosukeimai
+mnreadR,cran
 MNS,piomonti
 mnt,ebner-kit
 moanin,bioc
@@ -12736,6 +12735,7 @@ mvtsplot,rdpeng
 mwa,schuttes
 MWASTools,bioc
 mwcsr,ctlab
+mwlaxeref,cran
 MWright,cran
 mwshiny,delosh653
 mwTensor,rikenbit
@@ -13399,6 +13399,7 @@ NuPoP,jipingw
 NutrienTrackeR,rafael-ayala
 nutriNetwork,pariya
 nutrition,wleoncio
+NVAR,sciurus365
 NVCSSL,cran
 nvctr,euctrl-pru
 nvmix,cran
@@ -16023,6 +16024,7 @@ raptr,jeffreyhanson
 raqs,himesgroup
 RAQSAPI,usepa
 Raquifer,susaenergy
+rar,jgaeb
 rare,yanxht
 RareComb,vijaymp38
 rareNMtests,luiscayuela
@@ -16419,7 +16421,6 @@ ReactomePA,yulab-smu
 reactR,react-r
 ReacTran,karlines
 ReAD,cran
-read.dbc,danicat
 read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
@@ -16450,7 +16451,6 @@ readsdmx,mdequeljoe
 readsdr,jandraor
 readsparse,david-cortes
 readstata13,sjewo
-readSX,sda030
 readtext,quanteda
 readtextgrid,tjmahr
 readwritesqlite,poissonconsulting
@@ -18203,7 +18203,6 @@ scan,jazznbass
 SCAN.UPC,bioc
 scanMiR,bioc
 scanMiRApp,bioc
-scAnnotate,ubcxzhang
 scAnnotatR,grisslab
 scanstatistics,promerpr
 SCANVIS,bioc
@@ -18562,6 +18561,7 @@ semptools,sfcheung
 SEMsens,leitewl
 semsfa,cran
 semTable,pauljohn32
+semTests,cran
 semTools,simsem
 semtree,brandmaier
 semver,johndharrison
@@ -19710,6 +19710,7 @@ speech,nicolas-schmidt
 speechbr,dcardosos
 speedglm,cran
 speedycode,jacobwharris
+speedytax,jfq3
 spef,stc04003
 speff2trial,mjuraska
 SPEI,sbegueria
@@ -20390,6 +20391,7 @@ surveydata,andrie
 surveyexplorer,liamhaller
 surveyplanning,csblatvia
 surveysd,statistikat
+surveytable,cdcgov
 surveyvoi,prioritizr
 survHE,giabaio
 SurvHiDim,atanubhattacharjee
@@ -20983,6 +20985,7 @@ tidyCpp,eddelbuettel
 tidycwl,sbg
 tidydann,gmcmacran
 tidydatatutor,seankross
+tidyDenovix,alphaprime7
 TidyDensity,spsanderson
 tidydice,rolkra
 tidydr,yulab-smu
