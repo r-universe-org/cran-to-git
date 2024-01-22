@@ -36,12 +36,6 @@
     "subdir": "pkg/Bessel"
   },
   {
-    "package": "BiplotGUI",
-    "maintainer": "Niel le Roux <njlr@sun.ac.za>",
-    "url": "https://github.com/r-forge/biplotgui",
-    "subdir": "pkg"
-  },
-  {
     "package": "car",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/car",

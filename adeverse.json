@@ -1,12 +1,27 @@
 [
   {
+    "package": "ade4",
+    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/adeverse/ade4"
+  },
+  {
     "package": "ade4TkGUI",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/adeverse/ade4tkgui"
   },
   {
+    "package": "adegraphics",
+    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/adeverse/adegraphics"
+  },
+  {
     "package": "adephylo",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/adeverse/adephylo"
+  },
+  {
+    "package": "adespatial",
+    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "url": "https://github.com/adeverse/adespatial"
   }
 ]
