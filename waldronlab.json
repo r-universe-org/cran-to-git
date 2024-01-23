@@ -18,6 +18,11 @@
     "registry": "bioc"
   },
   {
+    "package": "ConconiAnaerobicThresholdTest",
+    "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
+    "url": "https://github.com/waldronlab/conconianaerobicthresholdtest"
+  },
+  {
     "package": "doppelgangR",
     "maintainer": "Levi Waldron <lwaldron.research@gmail.com>",
     "url": "https://github.com/waldronlab/doppelgangr",

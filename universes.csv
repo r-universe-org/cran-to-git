@@ -690,6 +690,7 @@ ArCo,gabrielrvsc
 ARCokrig,pulongma
 arcpbf,r-arcgis
 arcpullr,cran
+arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
 ARDECO,attarco
@@ -2879,6 +2880,7 @@ ClinSigMeasures,mikemalekahmadi
 clinspacy,ml4lhs
 clintools,lilleoel
 clinUtils,openanalytics
+cliot,cran
 clipp,jgdowty
 clippda,bioc
 clipper,bioc
@@ -3288,6 +3290,7 @@ concatipede,tardipede
 concaveman,joelgombin
 conclust,cran
 concom,stla
+ConconiAnaerobicThresholdTest,waldronlab
 ConConPiWiFun,robingirard
 concordance,insongkim
 concordancer,troyjcross
@@ -7146,6 +7149,7 @@ GBJ,ryansunwork
 gbm,gbm-developers
 gbm.auto,simondedman
 gbm2sas,cran
+gbm3,gbm-developers
 gbmt,alessandromagrini
 gbp,gyang274
 gbRd,cran
@@ -7407,7 +7411,6 @@ geojson,ropensci
 geojsonio,ropensci
 geojsonR,mlampros
 geojsonsf,symbolixau
-geoknife,doi-usgs
 geomander,christopherkenny
 GEOmap,jonathanlees
 geomapdata,jonathanlees
@@ -8330,7 +8333,6 @@ gtfstools,ipeagit
 gtheory,canoemoore
 gto,thebioengineer
 gtools,r-gregmisc
-gtop,cugliari
 gtranslate,mohamed-180
 gtreg,shannonpileggi
 gtrellis,jokergoo
@@ -8969,6 +8971,7 @@ iadf,konradmayer
 IADT,cran
 iai,jackdunnnz
 ialiquor,nikdata
+IALS,cran
 iapws,jondebove
 IAPWS95,shivaway
 iAR,felipeelorrieta
@@ -9493,6 +9496,7 @@ IOHanalyzer,iohprofiler
 IOHexperimenter,cran
 IOLS,nassimzbalah
 ioncopy,budczies
+ionet,carol-seven
 IONiseR,bioc
 ionr,ukuvainik
 iopspackage,cran
@@ -10331,7 +10335,6 @@ learningr,richierocks
 LearningRlab,carloshellin
 LearningStats,maribelborrajo
 learningtower,kevinwang09
-learNN,bquast
 LearnPCA,bryanhanson
 learnPopGen,liamrevell
 learnr,rstudio
@@ -15005,6 +15008,7 @@ PottsUtils,daifengstat
 pould,sjmack
 POUMM,venelin
 POV,paulantondeen
+povmap,ssa-statistical-team-projects
 pow.int,jondebove
 powdist,cran
 powdR,benmbutler
@@ -15437,7 +15441,7 @@ PTAk,cran
 PTE,cran
 PTERP,laylaparast
 ptest,angusian
-ptf,yeliuncsu
+ptf,cran
 ptinpoly,maisogjm
 pTITAN2,usepa
 ptm,jcaledo
@@ -16761,6 +16765,7 @@ restriktor,cran
 RestRserve,rexyai
 result,soumyaray
 resumer,jaredlander
+retel,markean
 rethinker,cran
 rethnicity,fangzhou-xie
 reticulate,rstudio
@@ -17441,7 +17446,6 @@ ROOPSD,yrobink
 roots,cran
 RootsExtremaInflections,dchristop
 rootSolve,karlines
-rootWishart,turgeonmaxime
 rope,cran
 ropenblas,prdm0
 ROpenCVLite,swarm-lab
@@ -18451,9 +18455,11 @@ SECP,cran
 secr,murrayefford
 secrdesign,murrayefford
 secret,gaborcsardi
+secretbase,shikokuchuo
 secrettext,daniellequinn
 secrlinear,murrayefford
 secsse,rsetienne
+sectorgap,cran
 secure,cran
 secuTrialR,swissclinicaltrialorganisation
 sedproxy,earthsystemdiagnostics
@@ -20365,6 +20371,7 @@ survAWKMT2,mikihoriguchi
 survBootOutliers,jonydog
 survC1,cran
 survcomp,bhaibeka
+survcompare,cran
 SurvCorr,georgheinze
 survCurve,cran
 SurvDisc,johnlawrence1
@@ -20606,6 +20613,7 @@ tabulator,skhiggins
 tabulizer,ropensci
 tabulog,austinrwarner
 tabuSearch,domijan
+tabxplor,bricenocenti
 tacmagic,ropensci
 tactile,jolars
 tadar,baerlachlan
@@ -21114,6 +21122,7 @@ tinyProject,francoisguillem
 tinyscholar,shixiangwang
 tinysnapshot,vincentarelbundock
 tinyspotifyr,troyhernandez
+tinytable,vincentarelbundock
 tinytest,markvanderloo
 tinytest2JUnit,openanalytics
 tinytex,rstudio
@@ -22489,6 +22498,7 @@ wpp2017,hanase
 wpp2019,hanase
 wppExplorer,hanase
 wppi,agalhoz
+WpProj,ericdunipace
 wql,jsta
 wqs,cran
 wqspt,cran
