@@ -1,0 +1,20 @@
+[
+  {
+    "package": "gDR",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdr",
+    "registry": "bioc"
+  },
+  {
+    "package": "gDRimport",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdrimport",
+    "registry": "bioc"
+  },
+  {
+    "package": "gDRstyle",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdrstyle",
+    "registry": "bioc"
+  }
+]

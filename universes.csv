@@ -473,7 +473,7 @@ amerifluxr,chuhousen
 amerika,pdwaggoner
 AmesHousing,topepo
 ami,briandconnelly
-AmigaFFH,cran
+AmigaFFH,pepijn-devries
 AMIM,gelotran
 ammiBayes,cran
 ammistability,ajaygpb
@@ -926,6 +926,7 @@ autonomics,bioc
 AutoPipe,falafel19
 autoplotly,terrytangyuan
 Autoplotprotein,cran
+AutoPlots,adrianantico
 autoRasch,cran
 autoReg,cardiomoon
 AutoregressionMDE,cran
@@ -4745,6 +4746,7 @@ distillML,forestry-labs
 distinct,simonetiberi
 distinctiveness,iandreafc
 disto,talegari
+distops,lmjl-alea
 distory,emmanuelparadis
 DistPlotter,ccasement
 distr,r-forge
@@ -5940,6 +5942,7 @@ EvoPhylo,tiago-simoes
 evoTS,klvoje
 evprof,mcanigueral
 evreg,cran
+evsim,mcanigueral
 evt0,lbelzile
 evtclass,edovi
 evtree,cran
@@ -7203,10 +7206,10 @@ gdm,fitzlab-al
 gDNAx,functionalgenomics
 gdpc,esmucler
 GDPuc,pik-piam
-gDR,bioc
+gDR,gdrplatform
 gDRcore,bioc
-gDRimport,bioc
-gDRstyle,bioc
+gDRimport,gdrplatform
+gDRstyle,gdrplatform
 gDRutils,bioc
 gds,cran
 GDSARM,agrakhi
@@ -9150,6 +9153,7 @@ ifctools,lbraglia
 IFMCDM,a-dudek-ue
 iForecast,cran
 IFP,pgprojects
+ifpd,mubarakfadhlul
 ifs,siacus
 ig.vancouver.2014.topcolour,rtanglao
 IgAScores,microbialman
@@ -10137,9 +10141,11 @@ LA,cran
 LabApplStat,bomarkussen
 labdsv,dvrbts
 label.switching,mqbssppe
+labeleR,ecologyr
 labeling,nunosempere
 labelled,larmarange
 labelmachine,a-maldet
+labelr,cran
 labelVector,nutterb
 lablaster,alexsb1
 labNorm,aviezerl
@@ -11843,6 +11849,7 @@ missingHE,angabrio
 MissingPlotLSD,debarghya9394
 MissingPlotRBD,arnab7640
 missMDA,husson
+MissMech,indenkun
 missMethods,torockel
 missMethyl,bioc
 missoNet,yixiao-zeng
@@ -12880,6 +12887,7 @@ ndl,dernarr
 NDP,kartikeyabolar
 ndtv,statnet
 nearBynding,bioc
+nearfar,joerigdon
 neat,m-signo
 neatmaps,philboileau
 neatR,dswithai
@@ -13503,6 +13511,7 @@ oews2021,cmann3
 officedown,davidgohel
 officer,davidgohel
 offlineChange,weinijiahuan123
+offsetreg,mattheaphy
 ofGEM,randel
 OGI,cran
 oglmx,cran
@@ -15331,7 +15340,7 @@ proton,pbiecek
 protoshiny,andeek
 prototest,cran
 protr,nanxstats
-ProTrackR,cran
+ProTrackR,pepijn-devries
 protti,jpquast
 protViz,cpanse
 proustr,colinfay
@@ -15441,7 +15450,7 @@ PTAk,cran
 PTE,cran
 PTERP,laylaparast
 ptest,angusian
-ptf,cran
+ptf,yeliuncsu
 ptinpoly,maisogjm
 pTITAN2,usepa
 ptm,jcaledo
@@ -15980,6 +15989,7 @@ rangeMapper,mpio-be
 rangeModelMetadata,cmerow
 ranger,imbs-hl
 RanglaPunjab,cran
+rangr,ropensci
 RankAggreg,vpihur
 RankAggregator,jburns88
 RankAggSIgFUR,prakashvs613
@@ -18459,7 +18469,7 @@ secretbase,shikokuchuo
 secrettext,daniellequinn
 secrlinear,murrayefford
 secsse,rsetienne
-sectorgap,cran
+sectorgap,sinast3000
 secure,cran
 secuTrialR,swissclinicaltrialorganisation
 sedproxy,earthsystemdiagnostics
@@ -21043,7 +21053,6 @@ tidystringdist,colinfay
 tidySummarizedExperiment,stemangiola
 tidysynth,cran
 tidytable,markfairbanks
-tidytags,ropensci
 tidyterra,dieghernan
 tidytext,juliasilge
 tidytidbits,cran
