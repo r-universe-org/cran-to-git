@@ -1,5 +1,10 @@
 [
   {
+    "package": "causalBatch",
+    "maintainer": "Eric W. Bridgeford <ericwb95@gmail.com>",
+    "url": "https://github.com/neurodata/causal_batch"
+  },
+  {
     "package": "lolR",
     "maintainer": "Eric Bridgeford <ericwb95@gmail.com>",
     "url": "https://github.com/neurodata/lol"

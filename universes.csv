@@ -2055,6 +2055,7 @@ BSgenomeForge,bioconductor
 bsgof,appliedstat
 BSGW,asmahani
 bshazard,cran
+bSi,cran
 bsicons,rstudio
 bSims,psolymos
 bsitar,sandhu-ss
@@ -2369,6 +2370,7 @@ cauchypca,cran
 cauphy,gilles-didier
 causact,flyaflya
 causal.decomp,syeonkang
+causalBatch,neurodata
 causalCmprsk,bella2001
 causaldata,nickch-k
 causalDisco,annennenne
@@ -3827,7 +3829,7 @@ CSESA,xia-zhang
 CSGo,adsoncostanzifilho
 cshapes,lucgirardin
 CSHShydRology,cshs-hydrology
-CSIndicators,erifarov
+CSIndicators,cran
 csmaps,csids
 CSMES,koendebock
 csmpv,ajiangsfu
@@ -10013,7 +10015,8 @@ Kira,cran
 kirby21.base,muschellij2
 kirby21.fmri,muschellij2
 kirby21.t1,muschellij2
-kissDE,aursiber
+kisopenapi,seokhoonj
+kissDE,lbbe-software
 kissmig,codelab3
 kit,2005m
 kitagawa,abarbour
@@ -10145,7 +10148,7 @@ labeleR,ecologyr
 labeling,nunosempere
 labelled,larmarange
 labelmachine,a-maldet
-labelr,cran
+labelr,brohartman
 labelVector,nutterb
 lablaster,alexsb1
 labNorm,aviezerl
@@ -10446,6 +10449,7 @@ lifx,mabafaba
 liger,jefworks
 lightgbm,jameslamb
 LightningR,ermlab
+lightparser,thinkr-open
 lightr,ropensci
 lightsout,daattali
 likelihood,lmurphy186232
@@ -13187,6 +13191,7 @@ nmslibR,mlampros
 NMTox,rahmasarina
 NMVANOVA,cran
 nmw,cran
+nn2poly,ibidat
 nna,cristiano-pereira
 NNbenchmark,pkr-pkr
 nncc,bbbruce
@@ -17022,7 +17027,7 @@ ripserr,rrrlw
 rirods,irods
 Rirt,xluo11
 Risa,isa-tools
-RISCA,foucher-y
+RISCA,cran
 rise,lumenlearning
 rIsing,pratik-r
 Risk,mbbsssn2
@@ -20718,7 +20723,7 @@ tcpl,usepa
 tcplfit2,brown-jason
 TCseq,bioc
 td,eddelbuettel
-TDA,jisuk1
+TDA,cran
 TDAkit,kisungyou
 TDApplied,shaelebrown
 TDAstats,rrrlw
@@ -20848,6 +20853,7 @@ TexExamRandomizer,alexrecuenco
 texmex,harrysouthworth
 texor,abhi-1u
 TExPosition,cran
+texPreview,yonicd
 texreg,leifeld
 text,oscarkjell
 text.alignment,digi-vub
