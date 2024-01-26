@@ -28,6 +28,13 @@
     "branch": "RELEASE_3_18"
   },
   {
+    "package": "basilisk",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/bioconductor/basilisk",
+    "registry": "bioc",
+    "branch": "RELEASE_3_18"
+  },
+  {
     "package": "Biobase",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biobase",

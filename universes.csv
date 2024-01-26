@@ -107,7 +107,6 @@ ActiveDriver,reimand0
 activegp,cran
 ActivePathways,reimandlab
 activity,marcusrowcliffe
-activityGCMM,cran
 ActivityIndex,cran
 activPAL,craig-pal
 actLifer,g-rade
@@ -1108,7 +1107,7 @@ BASiCStan,alanocallaghan
 BasicSTARRseq,bioc
 basictabler,cbailiss
 basifoR,wilarhen
-basilisk,ltla
+basilisk,bioconductor
 basilisk.utils,bioc
 BASiNET,fabriciomlopes
 BASiNETEntropy,fabriciomlopes
@@ -1422,7 +1421,7 @@ BetaBit,pbiecek
 betacal,tmfilho
 betaclust,koyelucd
 betaDelta,jeksterslab
-betafunctions,cran
+betafunctions,haakoneidemhaakstad
 betaHMM,koyelucd
 betaMC,jeksterslab
 betaNB,jeksterslab
@@ -3845,7 +3844,7 @@ cstab,jmbh
 CSTE,hwj0828
 cstidy,csids
 cstime,csids
-CSTools,erifarov
+CSTools,cran
 csurvey,cran
 csutil,csids
 csv,bergsmat
@@ -7575,6 +7574,7 @@ ggeffects,strengejacke
 ggESDA,kiangkiangkiang
 ggetho,rethomics
 ggExtra,daattali
+ggfacto,bricenocenti
 ggFishPlots,deepwaterimr
 ggfittext,wilkox
 ggfixest,grantmcdermott
@@ -7702,7 +7702,6 @@ ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
 ggseg3d,ggseg
-ggseqlogo,omarwagih
 ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
@@ -11649,7 +11648,7 @@ mgwrsar,cran
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
 MHCtools,jr-evolecol
-MHD,cran
+MHD,crossd
 MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
@@ -12791,7 +12790,6 @@ naivereg,cran
 nakagami,jonasmoss
 NAM,alenxav
 name,christopherkenny
-namedCapture,tdhock
 namedropR,nucleic-acid
 NameNeedle,cran
 namer,jumpingrivers
@@ -17027,7 +17025,7 @@ ripserr,rrrlw
 rirods,irods
 Rirt,xluo11
 Risa,isa-tools
-RISCA,cran
+RISCA,foucher-y
 rise,lumenlearning
 rIsing,pratik-r
 Risk,mbbsssn2
@@ -17915,7 +17913,6 @@ rutifier,msantelices
 rutledge,ramiromagno
 ruv,johanngb
 RUVcorr,bioc
-RUVIIIC,cran
 RUVnormalize,bioc
 RUVSeq,drisso
 rv,jsta
@@ -19399,6 +19396,7 @@ SNSequate,jagonzalb
 SNSFdatasets,enricoschumann
 snSMART,sidiwang
 snvecR,japhir
+SNVLFDR,empiricalbayes
 SOAR,billvenables
 SOAs,bertcarnell
 sobolnp,maikol-solis
@@ -19453,7 +19451,7 @@ som.nn,andreasdominik
 soma,jonclayden
 SomaDataIO,somalogic
 SomaticSignatures,juliangehring
-SOMbrero,tuxette
+SOMbrero,cran
 someMTP,livioivil
 SOMEnv,somenv
 sommer,covaruber
@@ -19515,7 +19513,6 @@ spaero,e3bo
 spam,reinhardfurrer
 spam64,reinhardfurrer
 spaMM,f-rousset
-spamtree,mkln
 Spaniel,bioc
 spanish,ropenspain
 spant,martin3141
@@ -20723,7 +20720,7 @@ tcpl,usepa
 tcplfit2,brown-jason
 TCseq,bioc
 td,eddelbuettel
-TDA,cran
+TDA,jkim82133
 TDAkit,kisungyou
 TDApplied,shaelebrown
 TDAstats,rrrlw
@@ -21766,6 +21763,7 @@ UnifiedDoseFinding,cran
 unifiedWMWqPCR,jofam
 unifir,ropensci
 uniformly,stla
+unigd,nx10
 UniIsoRegression,xzp1995
 unikn,hneth
 unine,pommedeterresautee

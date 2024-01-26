@@ -1,11 +1,5 @@
 [
   {
-    "package": "basilisk",
-    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
-    "url": "https://github.com/ltla/basilisk",
-    "registry": "bioc"
-  },
-  {
     "package": "BiocSingular",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/biocsingular",
