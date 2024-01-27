@@ -972,7 +972,7 @@ aws.transcribe,cloudyr
 aws.translate,cloudyr
 awsMethods,jpolzehl
 awst,drisso
-AZIAD,niloufardousti
+AZIAD,cran
 azlogr,atalv
 AzureAppInsights,stefanedwards
 AzureAuth,azure
@@ -1287,7 +1287,6 @@ bbmix,evigorito
 bbmle,bbolker
 bbotk,mlr-org
 bbreg,cran
-bbsBayes,bbsbayes
 BBSSL,cran
 bbw,rapidsurveys
 bc3net,bio-complexity
@@ -2867,7 +2866,7 @@ climetrics,shirintaheri
 climextRemes,paciorek
 ClimInd,fergusreiggracia
 ClimMobTools,agrdatasci
-ClimProjDiags,anchiho
+ClimProjDiags,cran
 climwin,liamdbailey
 clinDataReview,openanalytics
 clinDR,snthomas99
@@ -5569,7 +5568,7 @@ EMMIXmfa,suren-rathnayake
 EMMIXSSL,lyu9118
 EMMLi,timcdlucas
 EMMREML,denizakdemir
-emoa,cran
+emoa,olafmersmann
 emoji,emilhvitfeldt
 emojifont,guangchuangyu
 emon,jonbarry145
@@ -6520,7 +6519,7 @@ fitbitr,mrkaye97
 fitbitScraper,corynissen
 fitbitViz,mlampros
 fitConic,cran
-fitdistrplus,aursiber
+fitdistrplus,lbbe-software
 FitDynMix,marco-bee
 fitHeavyTail,convexfi
 FitHiC,bioc
@@ -8142,7 +8141,6 @@ graphql,ropensci
 graphseg,goepp
 graphsim,tomkellygenetics
 graphTweets,johncoene
-graphx,obreschkow
 graposas,cran
 grateful,pakillo
 grates,reconverse
@@ -8942,7 +8940,6 @@ hydroTSM,hzambran
 hyfo,yuanchao-xu
 HyMETT,cpenn-usgs
 hypeR,montilab
-hyper.fit,asgr
 hyper2,robinhankin
 HyperbolicDist,dsco036
 hypercube,cran
@@ -9308,6 +9305,7 @@ index0,selbosh
 IndexConstruction,simontrimborn
 IndexNumber,cran
 IndexNumR,grahamjwhite
+indexthis,cran
 IndexWizard,johannesgeibel
 IndGenErrors,cran
 india,faosorios
@@ -10915,7 +10913,6 @@ MAGeCKFlute,bioc
 MAGEE,hanchenphd
 magi,shihao-yang
 magic,robinhankin
-magicaxis,asgr
 magicfor,hoxo-m
 magick,ropensci
 magickGUI,shotaochi
@@ -12848,7 +12845,6 @@ nberwp,bldavies
 nbfar,amishra-stats
 NBLDA,dncr
 nblR,jaseziv
-nbody,obreschkow
 nbpMatching,couthcommander
 NBPSeq,diystat
 NBR,cran
@@ -13944,7 +13940,6 @@ padma,andreamrau
 PADOG,bioc
 padr,edwinth
 pafdR,msperlin
-PAFit,thongphamthe
 pafr,dwinter
 pagedown,rstudio
 pagemap,swsoyee
@@ -14382,7 +14377,7 @@ perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
 PERFect,cxquy91
-perfectphyloR,cbhagya
+perfectphyloR,cran
 PerFit,jorgetendeiro
 PerfMeas,gvalentini58
 performance,easystats
@@ -15268,7 +15263,6 @@ profileScoreDist,bioc
 profiplots,matulad
 profmem,henrikbengtsson
 profoc,berrij
-ProFound,asgr
 ProfoundData,cost-fp1304-profound
 profr,hadley
 profrep,ubeattie
@@ -17241,6 +17235,7 @@ RMySQL,r-dbi
 rmytarget,selesnow
 rmzqc,ms-quality-hub
 RNAAgeCalc,reese3928
+RNAdecay,bioc
 rnaEditr,transbioinfolab
 RNAinteract,bioc
 RNAmf,heojunoh
@@ -17710,7 +17705,6 @@ RSiena,tomsnijders
 RsimMosaic,algolkm
 rsimsum,ellessenne
 rsinaica,diegovalle
-RSiteCatalyst,randyzwitch
 RSizeBiased,cran
 RSKC,cran
 rskey,brry
@@ -18135,6 +18129,7 @@ sara4r,cran
 SARC,krutik6
 sarima,geobosh
 sarks,denniscwylie
+saros,nifu-no
 SARP.compo,ecuris
 SARP.moodle,ecuris
 sarp.snowprofile,phaegeli
@@ -22000,6 +21995,7 @@ VDSM,cran
 VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
+VeccTMVN,cran
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
@@ -22515,7 +22511,7 @@ WpProj,ericdunipace
 wql,jsta
 wqs,cran
 wqspt,cran
-wqtrends,fawda123
+wqtrends,tbep-tech
 WR,lmaowisc
 wrangle,bergsmat
 wrappedtools,abusjahn
