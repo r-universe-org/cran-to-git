@@ -497,6 +497,7 @@ Anaconda,plstenger
 anacor,r-forge
 analogsea,pachadotdev
 analogue,gavinsimpson
+AnalysisLin,zhiwei2799
 analyzer,apxr
 AnanseSeurat,jgasmits
 anapuce,julieaubert
@@ -972,7 +973,7 @@ aws.transcribe,cloudyr
 aws.translate,cloudyr
 awsMethods,jpolzehl
 awst,drisso
-AZIAD,cran
+AZIAD,niloufardousti
 azlogr,atalv
 AzureAppInsights,stefanedwards
 AzureAuth,azure
@@ -1728,6 +1729,7 @@ BISdata,enricoschumann
 bisectr,wch
 BiSEp,mwappett1986
 BiSeq,bioc
+bispdep,carlosm77
 bisque,jmhewitt
 BisqueRNA,cozygene
 BisRNA,carinelegrand
@@ -4618,7 +4620,6 @@ diffr,muschellij2
 diffudist,gbertagnolli
 diffusion,mamut86
 diffusionMap,rcannood
-diffusr,dirmeier
 diffuStats,bioc
 diffUTR,ethz-ins
 diffval,cran
@@ -6111,7 +6112,6 @@ FACT,henrifnk
 factDesign,bioc
 factiv,mattblackwell
 FACTMLE,cran
-FactoClass,cepardot
 factoextra,kassambara
 FactoInvestigate,husson
 FactoMineR,husson
@@ -10832,6 +10832,7 @@ ltsa,angusian
 ltsk,dliang-cbl
 ltsspca,yixinww
 ltxsparklines,borisveytsman
+luajr,nicholasdavies
 lubridate,tidyverse
 luca,jshinb
 lucas,momut1
@@ -14377,7 +14378,7 @@ perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
 PERFect,cxquy91
-perfectphyloR,cran
+perfectphyloR,cbhagya
 PerFit,jorgetendeiro
 PerfMeas,gvalentini58
 performance,easystats
@@ -15607,7 +15608,6 @@ qgisprocess,r-spatial
 qgraph,sachaepskamp
 qgshiny,neyhartj
 qgtools,jacks306
-qha,cepardot
 QHOT,cran
 QHScrnomo,clevelandclinicqhs
 QI,bappa10085
@@ -15618,7 +15618,6 @@ qiitr,yutannihilation
 Qindex,tingtingzhan
 qkerntool,yusenzhang
 qlcal,qlcal
-qlcMatrix,cysouw
 QLearning,labressler
 qlifetable,cran
 qmap,lukasgudm
@@ -20986,6 +20985,7 @@ tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
 tidycode,lucymcgowan
 tidycomm,joon-e
+tidyCoverage,js2264
 tidyCpp,eddelbuettel
 tidycwl,sbg
 tidydann,gmcmacran
@@ -21044,6 +21044,7 @@ tidySEM,cjvanlissa
 tidyseurat,stemangiola
 tidySingleCellExperiment,stemangiola
 tidysmd,r-causal
+tidySpatialExperiment,william-hutchison
 tidysq,biogenies
 tidystats,willemsleegers
 tidystopwords,computationalstylistics
@@ -21995,7 +21996,7 @@ VDSM,cran
 VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
-VeccTMVN,cran
+VeccTMVN,jcatwood
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
@@ -22103,6 +22104,7 @@ ViSEAGO,bioc
 ViSiElse,re2simlab
 visit,cran
 VisitorCounts,cran
+VisiumIO,waldronlab
 vismeteor,jankorichter
 visNetwork,datastorm-open
 visR,openpharma

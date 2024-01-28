@@ -1,5 +1,10 @@
 [
   {
+    "package": "bispdep",
+    "maintainer": "Carlos Melo <cmelo@udistrital.edu.co>",
+    "url": "https://github.com/cran/bispdep"
+  },
+  {
     "package": "geosptdb",
     "maintainer": "Carlos Melo <cmelo@udistrital.edu.co>",
     "url": "https://github.com/cran/geosptdb"

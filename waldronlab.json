@@ -73,5 +73,11 @@
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/waldronlab/terratcgadata",
     "registry": "bioc"
+  },
+  {
+    "package": "VisiumIO",
+    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "url": "https://github.com/waldronlab/visiumio",
+    "registry": "bioc"
   }
 ]

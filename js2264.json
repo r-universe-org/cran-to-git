@@ -36,6 +36,12 @@
     "registry": "bioc"
   },
   {
+    "package": "tidyCoverage",
+    "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
+    "url": "https://github.com/js2264/tidycoverage",
+    "registry": "bioc"
+  },
+  {
     "package": "VplotR",
     "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
     "url": "https://github.com/js2264/vplotr",
