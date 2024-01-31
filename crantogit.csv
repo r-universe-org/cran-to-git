@@ -627,7 +627,6 @@ BAS,https://github.com/merliseclyde/bas,,
 base64,https://github.com/jeroen/base64,,
 base64enc,https://github.com/s-u/base64enc,,
 base64url,https://github.com/mllg/base64url,,
-baseballDBR,https://github.com/keberwein/baseballdbr,,archived
 baseballr,https://github.com/billpetti/baseballr,,
 basefun,https://github.com/r-forge/ctm,pkg/basefun,
 baseline,https://github.com/khliland/baseline,,
@@ -1433,6 +1432,7 @@ cellmigRation,https://github.com/ocbe-uio/cellmigration,,bioc
 CellMixS,https://github.com/almutlue/cellmixs,,bioc
 cellpypes,https://github.com/felixthestudent/cellpypes,,
 cellranger,https://github.com/rsheets/cellranger,,
+cellscape,https://github.com/shixiangwang/cellscape,,bioc
 cellxgenedp,https://github.com/mtmorgan/cellxgenedp,,bioc
 censable,https://github.com/christopherkenny/censable,,
 censcyt,https://github.com/retogerber/censcyt,,bioc
@@ -1486,6 +1486,7 @@ changepoint,https://github.com/rkillick/changepoint,,
 changepoint.geo,https://github.com/grundy95/changepoint.geo,,
 changepoint.influence,https://github.com/rkillick/changepoint.influence,,
 changepoints,https://github.com/haotianxu/changepoints,,
+ChangePointTaylor,https://github.com/mmarks13/changepointtaylor,,
 changer,https://github.com/helske/changer,,
 chantrics,https://github.com/maebruck/chantrics,,
 charlatan,https://github.com/ropensci/charlatan,,
@@ -2770,8 +2771,8 @@ distrMod,https://github.com/r-forge/distr,pkg/distrMod,archived
 distro,https://github.com/nealrichardson/distro,,
 distrom,https://github.com/taddylab/distrom,,
 distrr,https://github.com/gibonet/distrr,,
-distrRmetrics,https://github.com/r-forge/distr,pkg/distrRmetrics,archived
-distrSim,https://github.com/r-forge/distr,pkg/distrSim,archived
+distrRmetrics,https://github.com/r-forge/distr,pkg/distrRmetrics,
+distrSim,https://github.com/r-forge/distr,pkg/distrSim,
 distrTeach,https://github.com/r-forge/distr,pkg/distrTeach,archived
 distrTEst,https://github.com/r-forge/distr,pkg/distrTEst,archived
 distTails,https://github.com/sergivilardell/disttails,,
@@ -2821,7 +2822,7 @@ DNAcopy,https://github.com/veseshan/dnacopy,,bioc
 DNAfusion,https://github.com/ctriermaansson/dnafusion,,bioc
 DNAtools,https://github.com/mikldk/dnatools,,
 dndR,https://github.com/njlyon0/dndr,,
-dnet,https://github.com/hfang-bristol/dnet,,
+dnet,https://github.com/hfang-bristol/dnet,,archived
 dng,https://github.com/feng-li/dng,,
 DNH4,https://github.com/forkonlp/dnh4,,
 DNMF,https://github.com/zhilongjia/dnmf,,
@@ -2903,7 +2904,6 @@ dqrng,https://github.com/daqana/dqrng,,
 DR.SC,https://github.com/feiyoung/dr.sc,,
 dr4pl,https://bitbucket.org/dittmerlab/dr4pl,,
 dracor,https://github.com/natverse/dracor,,
-dragon,https://github.com/sjspielman/dragon,,
 dragonking,https://github.com/rrrlw/dragonking,,
 dragracer,https://github.com/svmiller/dragracer,,
 dragulaR,https://github.com/zzawadz/dragular,,
@@ -4253,7 +4253,6 @@ genlogis,https://github.com/pinduzera/genlogis,,
 genodds,https://github.com/hannahjohns/genodds,,
 genomation,https://github.com/bimsbbioinfo/genomation,,bioc
 GenomAutomorphism,https://github.com/genomaths/genomautomorphism,,bioc
-GenomeAdapt,https://github.com/xinghuq/genomeadapt,,archived
 GenomeAdmixR,https://github.com/thijsjanzen/genomeadmixr,,
 GenomeInfoDb,https://github.com/bioconductor/genomeinfodb,,bioc
 genomic.autocorr,https://github.com/chr1swallace/genomic.autocorr,,
@@ -9273,7 +9272,7 @@ RandomWalkRestartMH,https://github.com/alberto-valdeolivas/randomwalkrestartmh,,
 randquotes,https://github.com/amrrs/randquotes,,
 randRotation,https://github.com/phettegger/randrotation,,bioc
 randtoolbox,https://github.com/r-forge/rmetrics,pkg/randtoolbox,
-RandVar,https://github.com/r-forge/robast,pkg/RandVar,archived
+RandVar,https://github.com/r-forge/robast,pkg/RandVar,
 rang,https://github.com/gesistsa/rang,,
 rangeBuilder,https://github.com/ptitle/rangebuilder,,
 rangeMapper,https://github.com/mpio-be/rangemapper,,
@@ -11003,7 +11002,7 @@ sftrack,https://github.com/mablab/sftrack,,
 sgat,https://github.com/matiaspoullain/sgat,,
 sGBJ,https://github.com/lauravillain/sgbj,,
 SGCP,https://github.com/na396/sgcp,,bioc
-sgd,https://github.com/airoldilab/sgd,,
+sgd,https://github.com/airoldilab/sgd,,archived
 SGDinference,https://github.com/sgdinference-lab/sgdinference,,
 sglOptim,https://github.com/nielsrhansen/sgloptim,,archived
 sgmodel,https://github.com/thomasvigie/sgmodel-v-0.1.1,,
@@ -13503,6 +13502,7 @@ zoid,https://github.com/noaa-nwfsc/zoid,,
 zoltr,https://github.com/reichlab/zoltr,,
 zonebuilder,https://github.com/zonebuilders/zonebuilder,,
 zoo,https://github.com/r-forge/zoo,pkg/zoo,
+ZooID,https://github.com/arickgrootveld/zooid_rpackage,,
 zoolog,https://github.com/josempozo/zoolog,,
 zoom,https://github.com/cbarbu/r-package-zoom,zoom,
 zoomr,https://github.com/chrisumphlett/zoomr,,

@@ -782,6 +782,7 @@ ASEB,bioc
 ASGS.foyer,hughparsonage
 ASGSCA,bioc
 ash,cran
+ashapesampler,cran
 ashr,stephens999
 asht,cran
 ASICS,bioc
@@ -1087,7 +1088,6 @@ base.rms,cran
 base64,jeroen
 base64enc,s-u
 base64url,mllg
-baseballDBR,keberwein
 baseballr,billpetti
 basecallQC,bioc
 basedosdados,pedrocava
@@ -2500,7 +2500,7 @@ CellNOptR,bioc
 cellOrigins,davidhmolnar
 cellpypes,felixthestudent
 cellranger,rsheets
-cellscape,bioc
+cellscape,shixiangwang
 CellScore,bioc
 celltrackR,jtextor
 CellTrails,bioc
@@ -2608,7 +2608,7 @@ changepoint.influence,rkillick
 changepoint.np,cran
 changepoints,haotianxu
 changepointsVar,gianluca-sottile
-ChangePointTaylor,cran
+ChangePointTaylor,mmarks13
 ChangepointTesting,sth1402
 changepointTests,cran
 changer,helske
@@ -4978,7 +4978,6 @@ dr,sanfordweisberg
 DR.SC,feiyoung
 dr4pl,jtlandis
 dracor,natverse
-dragon,sjspielman
 dragonking,rrrlw
 dragracer,svmiller
 dragulaR,zzawadz
@@ -5659,6 +5658,7 @@ enviPat,blosloos
 envir,t-kalinowski
 envirem,ptitle
 EnviroPRA,cran
+EnviroPRA2,cran
 envnames,mastropi
 EnvNicheR,cran
 EnvNJ,jcaledo
@@ -7341,7 +7341,6 @@ genodds,hannahjohns
 genogeographer,tvedebrink
 genomation,bimsbbioinfo
 GenomAutomorphism,genomaths
-GenomeAdapt,xinghuq
 GenomeAdmixR,thijsjanzen
 GenomeInfoDb,bioconductor
 genomeIntervals,bioc

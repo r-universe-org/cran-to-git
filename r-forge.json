@@ -180,15 +180,13 @@
     "package": "distrRmetrics",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrRmetrics",
-    "registry": "archived"
+    "subdir": "pkg/distrRmetrics"
   },
   {
     "package": "distrSim",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrSim",
-    "registry": "archived"
+    "subdir": "pkg/distrSim"
   },
   {
     "package": "distrTeach",
@@ -598,8 +596,7 @@
     "package": "RandVar",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RandVar",
-    "registry": "archived"
+    "subdir": "pkg/RandVar"
   },
   {
     "package": "Rcplex",
