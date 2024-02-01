@@ -37,8 +37,7 @@
   {
     "package": "censored",
     "maintainer": "Hannah Frick <hannah@posit.co>",
-    "url": "https://github.com/tidymodels/censored",
-    "registry": "archived"
+    "url": "https://github.com/tidymodels/censored"
   },
   {
     "package": "corrr",
@@ -142,7 +141,7 @@
   },
   {
     "package": "shinymodels",
-    "maintainer": "Max Kuhn <max@rstudio.com>",
+    "maintainer": "Simon Couch <simon.couch@posit.co>",
     "url": "https://github.com/tidymodels/shinymodels"
   },
   {

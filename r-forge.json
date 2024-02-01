@@ -160,8 +160,7 @@
     "package": "distrEllipse",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrEllipse",
-    "registry": "archived"
+    "subdir": "pkg/distrEllipse"
   },
   {
     "package": "distrEx",
@@ -192,15 +191,13 @@
     "package": "distrTeach",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrTeach",
-    "registry": "archived"
+    "subdir": "pkg/distrTeach"
   },
   {
     "package": "distrTEst",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrTEst",
-    "registry": "archived"
+    "subdir": "pkg/distrTEst"
   },
   {
     "package": "DPQ",

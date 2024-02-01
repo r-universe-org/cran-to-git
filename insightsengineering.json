@@ -56,6 +56,11 @@
     "url": "https://github.com/insightsengineering/teal.code"
   },
   {
+    "package": "teal.data",
+    "maintainer": "Dawid Kaledkowski <dawid.kaledkowski@roche.com>",
+    "url": "https://github.com/insightsengineering/teal.data"
+  },
+  {
     "package": "teal.reporter",
     "maintainer": "Dawid Kaledkowski <dawid.kaledkowski@roche.com>",
     "url": "https://github.com/insightsengineering/teal.reporter"

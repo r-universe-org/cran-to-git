@@ -615,6 +615,7 @@ ape,emmanuelparadis
 aPEAR,kerseviciute
 apeglm,bioc
 apercu,achateigner
+apex,thibautjombart
 apexcharter,dreamrs
 APFr,nmargaritella
 aphid,shaunpwilkinson
@@ -2278,6 +2279,7 @@ CARBayes,duncanplee
 CARBayesdata,duncanplee
 CARBayesST,duncanplee
 carbonate,yonicd
+carbondate,tjheaton
 carcass,fraenzi
 card,asshah4
 carData,r-forge
@@ -3874,6 +3876,7 @@ ctmle,jucheng1992
 ctmm,ctmm-initiative
 ctmva,biplab44
 CTNote,ctn-0094
+cTOST,yboulag
 ctpm,noonanm
 ctqr,cran
 cTRAP,nuno-agostinho
@@ -3999,7 +4002,7 @@ cytometree,sistm
 cytominer,cytomining
 CytoML,rglab
 CytoPipeline,uclouvain-cbio
-CytoPipelineGUI,bioc
+CytoPipelineGUI,uclouvain-cbio
 CytOpT,sistm
 CytoSimplex,welch-lab
 cytoviewer,bodenmillergroup
@@ -5030,7 +5033,7 @@ DRR,gdkrmr
 drtmle,benkeser
 drugDemand,kaifenglu
 drugdevelopR,sterniii3
-DrugExposureDiagnostics,cran
+DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,girke-lab
@@ -6114,6 +6117,7 @@ FACT,henrifnk
 factDesign,bioc
 factiv,mattblackwell
 FACTMLE,cran
+FactoClass,cepardot
 factoextra,kassambara
 FactoInvestigate,husson
 FactoMineR,husson
@@ -6215,6 +6219,7 @@ FastGaSP,uncertaintyquantification
 fastGHQuad,awblocker
 fastGLCM,mlampros
 fastglm,jaredhuling
+fastglmpca,stephenslab
 FastGP,ggopalan
 fastGraph,cran
 fastICA,cran
@@ -9648,6 +9653,7 @@ ISOcodes,kurthornik
 IsoCor,janlisec
 IsoCorrectoR,bioc
 IsoCorrectoRGUI,bioc
+isocountry,m-muecke
 isodistrreg,alexanderhenzi
 IsoformSwitchAnalyzeR,kvittingseerup
 IsoGene,cran
@@ -10915,6 +10921,7 @@ MAGeCKFlute,bioc
 MAGEE,hanchenphd
 magi,shihao-yang
 magic,robinhankin
+magicaxis,asgr
 magicfor,hoxo-m
 magick,ropensci
 magickGUI,shotaochi
@@ -12145,6 +12152,7 @@ modeldb,tidymodels
 modelDown,modeloriented
 modelenv,tidymodels
 Modeler,cran
+modelfactory,willtirone
 modelfree,kzychaluk
 modelimpact,peerchristensen
 modeLLtest,shanascogin
@@ -13345,7 +13353,7 @@ npregfast,sestelo
 nprobust,cran
 nproc,yangfengstat
 npROCRegression,coterodriguez
-nprotreg,cran
+nprotreg,novacta
 npsf,cran
 npsm,kloke
 npsr,fabiansellmann
@@ -14827,7 +14835,7 @@ pmr,cran
 pmsampsize,cran
 pmultinom,alex-l-m
 pmvalsampsize,cran
-pmwg,newcastlecl
+pmwg,university-of-newcastle-research
 PMwR,enricoschumann
 pmxcode,cran
 pmxpartab,benjaminrich
@@ -16523,7 +16531,7 @@ REdaS,maiermarco
 redbookperu,paulesantos
 redcapAPI,vubiostat
 REDCapCAST,agdamsbo
-REDCapDM,ubidi
+REDCapDM,bruigtp
 REDCapExporter,dewittpe
 REDCapR,ouhscbbmc
 REDCapTidieR,chop-cgtinformatics
@@ -20232,6 +20240,7 @@ streamMOA,mhahsler
 streamR,pablobarbera
 StReg,cran
 stressaddition,farbfetzen
+stressor,cran
 stressr,mrbcuda
 StressStrength,cran
 strex,rorynolan
@@ -20745,6 +20754,7 @@ TeachingDemos,glsnow
 TeachingSampling,psirusteam
 TeachNet,cran
 teal.code,insightsengineering
+teal.data,insightsengineering
 teal.logger,gogonzo
 teal.reporter,insightsengineering
 teal.widgets,insightsengineering
@@ -20903,6 +20913,7 @@ tfplot,r-forge
 tfprobability,rstudio
 tframe,r-forge
 tframePlus,r-forge
+TFRE,yunanwu123
 tfrmt,gsk-biostatistics
 tfrmtbuilder,gsk-biostatistics
 tfruns,rstudio
@@ -22093,6 +22104,7 @@ virtualPollen,blasbenito
 VirtualPop,willekens
 virtualspecies,farewe
 virtuoso,ropensci
+viruslearner,juanv66x
 virustotal,themains
 visa,kang-yu
 visachartR,cran
@@ -22746,6 +22758,7 @@ ZooID,arickgrootveld
 zooimage,phgrosjean
 zoolog,josempozo
 zoom,cbarbu
+zoomerjoin,beniaminogreen
 zoomGroupStats,cran
 zoomr,chrisumphlett
 ZRA,cran

@@ -18,6 +18,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CytoPipelineGUI",
+    "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/cytopipelinegui",
+    "registry": "bioc"
+  },
+  {
     "package": "scp",
     "maintainer": "Christophe Vanderaa <christophe.vanderaa@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/scp",
