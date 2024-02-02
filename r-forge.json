@@ -153,8 +153,7 @@
     "package": "distrDoc",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrDoc",
-    "registry": "archived"
+    "subdir": "pkg/distrDoc"
   },
   {
     "package": "distrEllipse",
@@ -172,8 +171,7 @@
     "package": "distrMod",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
-    "subdir": "pkg/distrMod",
-    "registry": "archived"
+    "subdir": "pkg/distrMod"
   },
   {
     "package": "distrRmetrics",
