@@ -633,8 +633,7 @@
     "package": "RobAStBase",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobAStBase",
-    "registry": "archived"
+    "subdir": "pkg/RobAStBase"
   },
   {
     "package": "RobAStRDA",

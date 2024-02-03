@@ -1,5 +1,10 @@
 [
   {
+    "package": "fastFMM",
+    "maintainer": "Erjia Cui <ecui@umn.edu>",
+    "url": "https://github.com/gloewing/fastfmm"
+  },
+  {
     "package": "sMTL",
     "maintainer": "Gabriel Loewinger <gloewinger@gmail.com>",
     "url": "https://github.com/cran/sMTL"
