@@ -1,5 +1,10 @@
 [
   {
+    "package": "HCD",
+    "maintainer": "Tianxi Li <tianxili@umn.edu>",
+    "url": "https://github.com/cran/HCD"
+  },
+  {
     "package": "randnet",
     "maintainer": "Tianxi Li <tianxili@virginia.edu>",
     "url": "https://github.com/cran/randnet"

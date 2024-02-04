@@ -524,7 +524,7 @@ animation,yihui
 animbook,krisanata
 animint2,animint
 animl,cran
-anipaths,cran
+anipaths,henryrscharf
 aniSNA,prabhleenkaur19
 aniview,lgnbhl
 anMC,dazzimonti
@@ -623,7 +623,7 @@ aphylo,uscbiostats
 api2lm,jfrench
 APIS,julienrochemode
 apisensr,dhaine
-APL,bioc
+APL,vingronlab
 aplore3,lbraglia
 aplot,yulab-smu
 aplotExtra,yulab-smu
@@ -4593,6 +4593,7 @@ DidacticBoost,dashaub
 Diderot,cran
 DiDforBigData,setzler
 didimputation,cran
+DIDmultiplegt,cran
 didrooRFM,didroo55
 diemr,nmartinkova
 dietr,sborstein
@@ -7219,7 +7220,7 @@ gDR,gdrplatform
 gDRcore,bioc
 gDRimport,gdrplatform
 gDRstyle,gdrplatform
-gDRutils,bioc
+gDRutils,gdrplatform
 gds,cran
 GDSARM,agrakhi
 GDSArray,bioconductor
@@ -7298,7 +7299,7 @@ GeneNet,cran
 GeneNetworkBuilder,jianhong
 GeneOverlap,bioc
 genepi,veseshan
-geneplast,bioc
+geneplast,castromaa
 geneplotter,bioc
 genepop,f-rousset
 generalCorr,hdvinod
@@ -7447,6 +7448,7 @@ GEOquery,seandavi
 geoR,paulojus
 GeoRange,jamestboyle
 georefdatar,abuseki
+georob,cran
 geos,paleolimbot
 geoSAE,ketutdika
 geosapi,eblondel
@@ -7873,7 +7875,6 @@ glmmLasso,hoarzpassey
 glmmML,goranbrostrom
 glmmPen,hheiling
 glmmrBase,samuel-watson
-glmmrOptim,samuel-watson
 GLMMRR,cran
 GLMMselect,cran
 glmmSeq,myles-lewis
@@ -8502,7 +8503,7 @@ HBSTM,cran
 HBV.IANIGLA,ezetoum
 hca,bioc
 hcandersenr,emilhvitfeldt
-HCD,cran
+HCD,tianxili
 hce,cran
 hchinamap,r-stata
 hcidata,henningpohl
@@ -11209,6 +11210,7 @@ MBA,finleya
 MBAmethyl,bioc
 MBAnalysis,cran
 MBASED,bioc
+mbbe,certara
 mbbefd,spedygiorgio
 MBC,alexcannon
 MBCB,bioc
@@ -12793,7 +12795,6 @@ NADA,cran
 NADA2,swampthingpaul
 NADfinder,jianhong
 NADIA,jjanborowka
-nadiv,matthewwolak
 NAEPirtparams,sunnyjooey
 NAEPprimer,cran
 naflex,dannyparsons
@@ -13617,6 +13618,7 @@ onelogin,akgold
 onemap,augusto-garcia
 onemapsgapi,cran
 OneR,vonjd
+OneSampleLogRankTest,cran
 OneSampleMR,remlapmot
 oneSENSE,bioc
 ONEST,hangangtrue
@@ -13759,7 +13761,6 @@ OptionPricing,cran
 options,dgkf
 optionstrat,cran
 optiscale,cran
-optiSel,cran
 OptiSembleForecasting,yeasinstat
 optiSolve,cran
 optistock,cran
@@ -16556,7 +16557,7 @@ RedditExtractoR,ivan-rivera
 reddPrec,cran
 REddyProc,bgctw
 REddyProcNCDF,bgctw
-RedeR,bioc
+RedeR,castromaa
 REDI,cran
 ReDirection,cran
 RedisBaseContainer,jiefei-wang
@@ -16940,6 +16941,7 @@ rgplates,adamkocsis
 RGraph2js,bioc
 rgraph6,mbojan
 RGraphics,pmur002
+RGraphSpace,sysbiolab
 Rgraphviz,bioc
 rgrass,rsbivand
 rGREAT,jokergoo
@@ -17862,8 +17864,8 @@ rTLsDeep,carlos-alberto-silva
 RTMB,kaskr
 rtmpt,raphaelhartmann
 rtms,nathanieltwarog
-RTN,bioc
-RTNduals,bioc
+RTN,castromaa
+RTNduals,castromaa
 Rtnmin,nashjc
 RTNsurvival,bioc
 rtodoist,thinkr-open
@@ -18701,6 +18703,7 @@ settings,markvanderloo
 Seurat,satijalab
 SeuratObject,satijalab
 sevenbridges,sbg
+sevenbridges2,sbg
 sevenC,ibn-salem
 sever,johncoene
 sewage,mwhalen18
@@ -20308,6 +20311,7 @@ subcopem2D,cran
 subdetect,sth1402
 subformula,jonasmoss
 subgroup,cran
+SubgrpID,cran
 subgxe,umich-cphds
 submax,cran
 subniche,karasiewiczstephane

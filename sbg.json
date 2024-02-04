@@ -11,6 +11,11 @@
     "registry": "bioc"
   },
   {
+    "package": "sevenbridges2",
+    "maintainer": "Marija Gacic <marija.jovanovic@velsera.com>",
+    "url": "https://github.com/sbg/sevenbridges2"
+  },
+  {
     "package": "tidycwl",
     "maintainer": "Soner Koc <soner.koc@sevenbridges.com>",
     "url": "https://github.com/sbg/tidycwl"

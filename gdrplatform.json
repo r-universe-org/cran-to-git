@@ -16,5 +16,11 @@
     "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
     "url": "https://github.com/gdrplatform/gdrstyle",
     "registry": "bioc"
+  },
+  {
+    "package": "gDRutils",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdrutils",
+    "registry": "bioc"
   }
 ]
