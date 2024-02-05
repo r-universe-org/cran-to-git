@@ -5,6 +5,11 @@
     "url": "https://github.com/eurostat/correspondencetables"
   },
   {
+    "package": "hicp",
+    "maintainer": "Sebastian Weinand <sebastian.weinand@ec.europa.eu>",
+    "url": "https://github.com/eurostat/hicp"
+  },
+  {
     "package": "restatapi",
     "maintainer": "Mátyás Mészáros <matyas.meszaros@ec.europa.eu>",
     "url": "https://github.com/eurostat/restatapi"
