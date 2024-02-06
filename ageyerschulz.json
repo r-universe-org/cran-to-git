@@ -1,5 +1,25 @@
 [
   {
+    "package": "xegaBNF",
+    "maintainer": "Andreas Geyer-Schulz <Andreas.Geyer-Schulz@kit.edu>",
+    "url": "https://github.com/ageyerschulz/xegabnf"
+  },
+  {
+    "package": "xegaDfGene",
+    "maintainer": "Andreas Geyer-Schulz <Andreas.Geyer-Schulz@kit.edu>",
+    "url": "https://github.com/ageyerschulz/xegadfgene"
+  },
+  {
+    "package": "xegaGaGene",
+    "maintainer": "Andreas Geyer-Schulz <Andreas.Geyer-Schulz@kit.edu>",
+    "url": "https://github.com/ageyerschulz/xegagagene"
+  },
+  {
+    "package": "xegaPermGene",
+    "maintainer": "Andreas Geyer-Schulz <Andreas.Geyer-Schulz@kit.edu>",
+    "url": "https://github.com/ageyerschulz/xegapermgene"
+  },
+  {
     "package": "xegaSelectGene",
     "maintainer": "Andreas Geyer-Schulz <Andreas.Geyer-Schulz@kit.edu>",
     "url": "https://github.com/ageyerschulz/xegaselectgene"

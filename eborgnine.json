@@ -2,7 +2,8 @@
   {
     "package": "diseasemapping",
     "maintainer": "Patrick Brown <patrick.brown@utoronto.ca>",
-    "url": "https://github.com/cran/diseasemapping"
+    "url": "https://github.com/cran/diseasemapping",
+    "registry": "archived"
   },
   {
     "package": "geostatsp",
@@ -12,6 +13,7 @@
   {
     "package": "mapmisc",
     "maintainer": "Patrick Brown <patrick.brown@utoronto.ca>",
-    "url": "https://github.com/cran/mapmisc"
+    "url": "https://github.com/cran/mapmisc",
+    "registry": "archived"
   }
 ]

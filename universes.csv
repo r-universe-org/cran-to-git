@@ -4319,7 +4319,7 @@ deep,blmayer
 deepdep,dominikrafacz
 deepdive,rajeshb24
 deepgmm,suren-rathnayake
-deepgp,cran
+deepgp,anniesbooth
 deeplr,zumbov2
 deepMOU,martindip
 deepnet,runxiao
@@ -4899,6 +4899,7 @@ doex,mcavs
 doFuture,henrikbengtsson
 dogesr,jj
 doMC,beccadaniel
+dominanceanalysis,clbustos
 domino,nelprin
 DominoDataR,dominodatalab
 DominoEffect,bioc
@@ -5135,6 +5136,7 @@ dundermifflin,cran
 Dune,hectorrdb
 dunlin,insightsengineering
 dunn.test,alexisdinno
+dupNodes,jj
 dupRadar,ssayols
 dupree,russhyde
 Durga,khankawsar
@@ -6236,6 +6238,7 @@ FastKNN,besanson
 fastLaplace,sangwan93
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
+fastliu,cran
 fastLogisticRegressionWrap,kapelner
 fastlogitME,cran
 fastlogranktest,tikacp
@@ -6619,6 +6622,7 @@ FLLat,cran
 float,wrathematics
 flobr,poissonconsulting
 flock,ivannp
+flocker,jsocolar
 flood,cran
 FloodFreqPlot,aahani-r
 FLOPART,tdhock
@@ -7752,7 +7756,7 @@ ggupset,const-ae
 ggvenn,yanlinlin82
 ggVennDiagram,gaospecial
 ggversa,cran
-ggvis,wch
+ggvis,hadley
 ggwordcloud,lepennec
 ggx,brandmaier
 gh,r-lib
@@ -8285,6 +8289,7 @@ GSCA,bioc
 gscaLCA,hee6904
 gscounts,tobiasmuetze
 gscreend,imkeller
+GSD,dkimstatlab
 GSDA,xueyuancao
 gsdensity,cran
 gsDesign,keaven
@@ -10009,6 +10014,7 @@ KGode,cran
 kgp,stephenturner
 kgrams,vgherard
 kgschart,kota7
+khisr,damurka
 KHQ,augustobrusaca
 khroma,tesselle
 kibior,regisoc
@@ -11323,6 +11329,7 @@ mcvis,kevinwang09
 mcwr,dcschneider
 md,cran
 md.log,haghish
+md4r,rundel
 mda,trevorhastie
 mDAG,wjzhong
 mdatools,svkucheryavski
@@ -12324,6 +12331,7 @@ movecost,gianmarcoalberti
 moveHMM,theomichelot
 movementsync,tuomaseerola
 moveWindSpeed,bart1
+movieROC,cran
 movMF,kurthornik
 mp,fatore
 mpath,zhuwang46
@@ -12527,6 +12535,7 @@ mtscr,jakub-jedrusiak
 mtsdi,wjunger
 mtsta,paulesantos
 MTSYS,okayaa
+mtvc,egonzato
 MUACz,lkmramba
 MuChPoint,lionning
 muckrock,ironholds
@@ -13401,6 +13410,7 @@ NST,cran
 nswgeo,cidm-ph
 nsyllable,quanteda
 ntdr,vgxhc
+NTLKwIEx,otodji
 NTS,convfunctimeseries
 ntsDists,dmazarei
 NTSS,jiri-dvorak
@@ -17923,7 +17933,7 @@ rumidas,cran
 ruminate,john-harrold
 runcharter,johnmackintosh
 runes,tallguyjenks
-runexp,anniees
+runexp,anniesbooth
 runibic,athril
 RUnit,romanzenka
 runjags,ku-awdc
@@ -20766,6 +20776,7 @@ TDbasedUFE,tagtag
 TDbasedUFEadv,tagtag
 TDbook,yulab-smu
 TDboost,archer-yang-lab
+TDCM,cotterell
 tdcmStan,jeffreychoover
 TDCor,lucasmikael
 tdigest,hrbrmstr
@@ -20876,6 +20887,7 @@ TestingSimilarity,kathrinmoellenhoff
 testit,yihui
 TestScorer,manel01
 testthat,r-lib
+testthatmulti,collinerickson
 testthis,s-fleck
 testtwice,cran
 tetraclasse,vincentguyader
@@ -21038,7 +21050,7 @@ tidyDenovix,alphaprime7
 TidyDensity,spsanderson
 tidydice,rolkra
 tidydr,yulab-smu
-tidyedgar,cran
+tidyedgar,adsuargim
 tidyEdSurvey,blue-webb
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
@@ -22111,7 +22123,7 @@ vietnamcode,cran
 vietnameseConverter,ecodynizw
 ViewPipeSteps,daranzolin
 viewpoly,mmollina
-viewscape,cran
+viewscape,billbillbilly
 VIGoR,onogi
 viking,cran
 villager,zizroc
@@ -22261,6 +22273,7 @@ vvtableau,vusaverse
 vvtermtime,vusaverse
 vwline,pmur002
 VWPre,vincentporretta
+vyos,spvyos
 W2CWM2C,jomopo
 W3CMarkupValidator,kurthornik
 W4MRUtils,lain-inrae
@@ -22620,6 +22633,10 @@ xcore,bioc
 xdcclarge,keeeeei0315
 XDE,bioc
 xefun,shichenxie
+xegaBNF,ageyerschulz
+xegaDfGene,ageyerschulz
+xegaGaGene,ageyerschulz
+xegaPermGene,ageyerschulz
 xegaSelectGene,ageyerschulz
 xergm.common,leifeld
 xesreadR,gertjanssenswillen
@@ -22774,6 +22791,7 @@ zipcodeR,gavinrozzi
 ZIPFA,zjph602xtc
 zipfextR,ardlop
 zipfR,r-forge
+ZIPG,roulan2000
 zipR,leslie-huang
 ZIprop,melinar
 zipsae,dheel
