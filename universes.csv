@@ -2067,6 +2067,7 @@ BsMD,ejbz
 bsnsing,profyliu
 BSPADATA,cran
 BSPBSS,benwu233
+bspcov,statjs
 bspec,christianroever
 bspline,mathscell
 bsplinePsd,mcthedwards
@@ -4071,6 +4072,7 @@ danstat,valerivoev
 DAP,irinagain
 DAPAR,prostarproteomics
 daqapo,bupaverse
+dar,microbialgenomics-irsicaixaorg
 DArand,cran
 Dark,emkayoh
 DarkDiv,carlosp-carmona
@@ -6355,6 +6357,7 @@ FDRsampsize,stan-pounds
 fdrtool,cran
 fds,cran
 fdth,jcfaria
+fdWasserstein,cran
 FDX,disohda
 FEA,bhramdath
 FeaLect,cran
@@ -6634,6 +6637,7 @@ flowAI,bioc
 flowBeads,bioc
 flowBin,bioc
 flowcatchR,federicomarini
+flowchart,bruigtp
 flowCHIC,bioc
 flowClean,bioc
 flowClust,bioc
@@ -9192,6 +9196,7 @@ igrf,bluegreen-labs
 iGSEA,luwt
 IGST,nitzzzzzzz
 igvR,gladkia
+igvShiny,bioc
 ihclust,elincho
 iheatmapr,ropensci
 iheiddown,iheid-library
@@ -9381,6 +9386,7 @@ inlabru,inlabru-org
 INLAjoint,denisrustand
 INLAspacetime,eliaskrainski
 inlcolor,jfisher-usgs
+inldata,jfisher-usgs
 inline,eddelbuettel
 inlinedocs,tdhock
 inlpubs,jfisher-usgs
@@ -10207,6 +10213,7 @@ LambertW,gmgeorg
 lamle,cran
 lamme,qmmmmliu
 lamW,aadler
+LandComp,ladylavender
 landest,laylaparast
 landform,gianmarcoalberti
 Landmarking,isobelbarrott
@@ -11092,6 +11099,7 @@ markovmix,zhuxr11
 markovMSM,gsoutinho
 MarkowitzR,shabbychef
 marmap,ericpante
+MARMoT,albertocalore
 marp,kanji709
 marqLevAlg,vivianephilipps
 marr,ghoshlab
@@ -11302,6 +11310,7 @@ MCMCvis,caseyyoungflesh
 mcMST,jakobbossek
 mcmsupply,hannahcomiskey
 mco,olafmersmann
+MCOE,dobrowski
 Mcomp,robjhyndman
 mcompanion,geobosh
 mcount,cran
@@ -11727,7 +11736,7 @@ MicroDatosEs,ropenspain
 microeco,chiliubio
 microhaplot,ngthomas
 MicroMacroMultilevel,cran
-micromap,fawda123
+micromap,usepa
 micromapST,jpearson0525
 MicroMoB,dd-harp
 micromodal,kennedymwavu
@@ -12717,6 +12726,7 @@ MVar,cran
 MVar.pt,cran
 MvBinary,masedki
 mvbutils,markbravington
+mvcauchy,cran
 MVCClass,bioc
 mvctm,denufl
 mvdalab,cran
@@ -15506,6 +15516,7 @@ pubh,josie-athens
 public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
 PublicationBias,mathurlabstanford
+PublicWorksFinanceIT,cran
 publipha,jonasmoss
 Publish,tagteam
 pubmed.mineR,cran
@@ -17965,7 +17976,7 @@ Rveg,cran
 RVenn,tyakyol
 RVerbalExpressions,verbalexpressions
 rversions,r-hub
-rvertnet,ropensci-archive
+rvertnet,ropensci
 rvest,tidyverse
 rvg,davidgohel
 rvHPDT,weiguonimh
@@ -18113,6 +18124,7 @@ SAME,czhong9106
 SAMGEP,celehs
 SAMM,denizakdemir
 samon,amcderm1
+sampbias,azizka
 sampleClassifier,bioc
 sampler,mbaldassaro
 sampleSelection,arne-henningsen
@@ -18948,6 +18960,7 @@ shotGroups,cran
 showimage,r-lib
 showtext,yixuan
 showtextdb,yixuan
+shp2graph,lbb220
 shrink,biometrician
 ShrinkCovMat,anestistouloumis
 shrinkDSM,cran
@@ -19344,7 +19357,7 @@ SMITE,greallylab
 SMITIDstruct,cran
 SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
-smlmkalman,sploopst
+smlmkalman,andrew-buist
 SMLoutliers,siddjain24
 SMM,cran
 SMMA,adam-lund
@@ -20524,6 +20537,7 @@ svTools,phgrosjean
 svUnit,sciviews
 svWidgets,phgrosjean
 svydiags,cran
+svylme,tslumley
 SvyNom,mskcc-epi-bio
 svyVGAM,tslumley
 svyweight,mainwaringb
@@ -20798,6 +20812,7 @@ teal.code,insightsengineering
 teal.data,insightsengineering
 teal.logger,gogonzo
 teal.reporter,insightsengineering
+teal.slice,insightsengineering
 teal.widgets,insightsengineering
 tealeaves,cdmuir
 TEAM,jbp7
@@ -21569,6 +21584,7 @@ TSclust,pmontman
 tscopula,ajmcneil
 tscount,r-forge
 TSCS,cran
+tsdataleaks,thiyangt
 tsdb,enricoschumann
 tsdecomp,cran
 TSdeeplearning,ronit10976
@@ -22167,6 +22183,7 @@ VisitorCounts,cran
 VisiumIO,waldronlab
 vismeteor,jankorichter
 visNetwork,datastorm-open
+visOmopResults,oxford-pharmacoepi
 visR,openpharma
 visreg,pbreheny
 vissE,davislaboratory

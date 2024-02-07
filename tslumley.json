@@ -35,6 +35,11 @@
     "url": "https://github.com/cran/rmeta"
   },
   {
+    "package": "svylme",
+    "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/tslumley/svylme"
+  },
+  {
     "package": "svyVGAM",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
     "url": "https://github.com/tslumley/svyvgam"

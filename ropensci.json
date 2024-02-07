@@ -20,11 +20,6 @@
     "url": "https://github.com/ropensci/arxiv"
   },
   {
-    "package": "assertr",
-    "maintainer": "Tony Fischetti <tony.fischetti@gmail.com>",
-    "url": "https://github.com/ropensci/assertr"
-  },
-  {
     "package": "av",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/av"
@@ -158,6 +153,11 @@
     "package": "colocr",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/ropensci/colocr"
+  },
+  {
+    "package": "comtradr",
+    "maintainer": "Paul Bochtler <paulbochtler.gh@gmail.com>",
+    "url": "https://github.com/ropensci/comtradr"
   },
   {
     "package": "concstats",
@@ -858,6 +858,11 @@
     "package": "rusda",
     "maintainer": "Franz-Sebastian Krah <f.krah@mailbox.org>",
     "url": "https://github.com/ropensci/rusda"
+  },
+  {
+    "package": "rvertnet",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "url": "https://github.com/ropensci/rvertnet"
   },
   {
     "package": "rzmq",

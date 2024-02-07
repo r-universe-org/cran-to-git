@@ -6,6 +6,11 @@
     "subdir": "httk"
   },
   {
+    "package": "micromap",
+    "maintainer": "Marcus W. Beck <mbeck@tbep.org>",
+    "url": "https://github.com/usepa/micromap"
+  },
+  {
     "package": "pTITAN2",
     "maintainer": "Peter DeWitt <peter.dewitt@cuanschutz.edu>",
     "url": "https://github.com/usepa/ptitan2"
