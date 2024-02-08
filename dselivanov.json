@@ -5,6 +5,11 @@
     "url": "https://github.com/cran/mlapi"
   },
   {
+    "package": "rsparse",
+    "maintainer": "Dmitriy Selivanov <ds@rexy.ai>",
+    "url": "https://github.com/dselivanov/rsparse"
+  },
+  {
     "package": "sparsepp",
     "maintainer": "Dmitriy Selivanov <selivanov.dmitriy@gmail.com>",
     "url": "https://github.com/dselivanov/r-sparsepp"

@@ -781,8 +781,7 @@
     "package": "ROptEst",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptEst",
-    "registry": "archived"
+    "subdir": "pkg/ROptEst"
   },
   {
     "package": "ROptEstOld",
