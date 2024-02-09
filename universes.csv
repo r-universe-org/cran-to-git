@@ -4057,7 +4057,7 @@ daltoolbox,cefet-rj-dal
 DALY,brechtdv
 dam,slakov
 daMA,bioc
-damAOI,cran
+damAOI,damaoiblindreview
 DAMEfinder,markrobinsonuzh
 DamiaNN,the-wayvy
 DaMiRseq,bioc
@@ -5072,6 +5072,7 @@ dsm,distancedevelopment
 dsmisc,petermeissner
 dsmmR,mavrogiannis-ioannis
 DSMolgenisArmadillo,molgenis
+dsmSearch,billbillbilly
 DSOpal,datashield
 dsos,vathymut
 DSpoty,albertoalmuinha
@@ -7725,6 +7726,7 @@ ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
 ggseg3d,ggseg
+ggseqlogo,omarwagih
 ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
@@ -9485,7 +9487,6 @@ intervcomp,cran
 inTextSummaryTable,openanalytics
 inti,flavjack
 intkrige,beanb2
-IntLIM,cran
 intmap,stla
 intmed,ncysur
 IntNMF,cran
@@ -13049,6 +13050,7 @@ networkGen,aidenloe
 NetworkInference,desmarais-lab
 networkLite,epimodel
 networkR,ekstroem
+NetworkReg,tianxili
 NetworkRiskMeasures,carloscinelli
 networkscaleup,ilaga
 NetworkToolbox,alexchristensen
@@ -13665,6 +13667,7 @@ onlineretail,allanvc
 onls,anspiess
 onmaRg,wiiison
 onnx,onnx
+OnomasticDiversity,mjginzo
 onpoint,r-spatialecology
 onsr,kvasilopoulos
 onsvplot,pabsantos
@@ -15231,6 +15234,7 @@ prevR,larmarange
 prevtoinc,cran
 pRF,archakravarthy
 PriceIndices,jacekbialek
+pricelevels,sweinand
 priceR,stevecondylios
 pricesensitivitymeter,max-alletsee
 prim,tarnduong
@@ -19844,7 +19848,7 @@ SplicingGraphs,bioconductor
 splines2,wenjie2wang
 splineTimeR,bioc
 splinetree,anna-neufeld
-Splinets,cran
+Splinets,podgorsk
 SPLINTER,dianalow
 SPlit,cran
 splitFeas,echi
@@ -20816,6 +20820,7 @@ teachingApps,auburngrads
 TeachingDemos,glsnow
 TeachingSampling,psirusteam
 TeachNet,cran
+teal,insightsengineering
 teal.code,insightsengineering
 teal.data,insightsengineering
 teal.logger,gogonzo
@@ -22222,6 +22227,7 @@ vlad,wittenberg
 vlda,pnuwon
 VLF,tathey
 VLMC,mmaechler
+VLMCX,cran
 VLTimeCausality,darkeyes
 VMDecomp,mlampros
 VMDML,cran
