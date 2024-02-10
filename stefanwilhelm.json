@@ -1,5 +1,10 @@
 [
   {
+    "package": "spatialprobit",
+    "maintainer": "Stefan Wilhelm <wilhelm@financial.com>",
+    "url": "https://github.com/stefanwilhelm/spatialprobit"
+  },
+  {
     "package": "tmvtnorm",
     "maintainer": "Stefan Wilhelm <wilhelm@financial.com>",
     "url": "https://github.com/stefanwilhelm/tmvtnorm"

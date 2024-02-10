@@ -974,6 +974,7 @@ aws.s3,cloudyr
 aws.signature,cloudyr
 aws.transcribe,cloudyr
 aws.translate,cloudyr
+aws.wrfsmn,cran
 awsMethods,jpolzehl
 awst,drisso
 AZIAD,niloufardousti
@@ -1299,6 +1300,7 @@ BCBCSF,cran
 BCC1997,cran
 BCClong,zhiwent
 bccp,mahditeimouri
+BCDAG,alesmascaro
 bcdata,bcgov
 BCDating,einian85
 BcDiag,ewouddt
@@ -6547,6 +6549,7 @@ FitHiC,bioc
 fitlandr,sciurus365
 fitmix,guven-code
 fitODBOD,amalan-constat
+fitODBODRshiny,amalan-constat
 fitode,parksw3
 fitplc,remkoduursma
 fitPoly,roelandv
@@ -7406,7 +7409,6 @@ GenTwoArmsTrialSize,cran
 GenVisR,griffithlab
 GenWin,timbeissinger
 GeoAdjust,cran
-geoAr,politicaargentina
 geoBayes,cran
 geobr,rafapereirabr
 geocacheR,alunhewinson
@@ -7651,7 +7653,6 @@ ggmix,sahirbhatnagar
 GGMncv,donaldrwilliams
 GGMnonreg,donaldrwilliams
 ggmosaic,haleyjeppson
-ggmotif,cran
 ggmr,hugogasca
 GGMridge,sth1402
 ggmsa,yulab-smu
@@ -9266,7 +9267,6 @@ immcp,yuanlonghu
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
 ImML,salvatoremangiafico
-immunarch,immunomind
 immuneSIM,greifflab
 ImmuneSpaceR,rglab
 immunoClust,bioc
@@ -10955,6 +10955,7 @@ magicfor,hoxo-m
 magick,ropensci
 magickGUI,shotaochi
 magicLamp,swarm-lab
+MAGMA.R,julianurban
 MagmaClustR,arthurleroy
 magmaR,dtm2451
 MAGNAMWAR,johnchaston
@@ -15428,6 +15429,7 @@ ps,r-lib
 PSAboot,jbryer
 PSAgraphics,jbryer
 PSAWR,schochastics
+psBayesborrow,cran
 psbcGroup,cran
 psbcSpeedUp,ocbe-uio
 psborrow,gravesti
@@ -18296,6 +18298,7 @@ SCBiclust,cran
 scBio,amitfrish
 SCBmeanfd,cran
 SCBN,bioc
+scBSP,castleli
 scBubbletree,snaketron
 scbursts,cran
 scCATCH,zjufanlab
@@ -19683,6 +19686,7 @@ SpatialOmicsOverlay,bioc
 SpatialPack,faosorios
 SpatialPOP,cran
 SpatialPosition,riatelab
+spatialprobit,stefanwilhelm
 SpatialRDD,axlehner
 spatialreg,r-spatial
 SpatialRegimes,fvidoli
@@ -21078,7 +21082,7 @@ tidyDenovix,alphaprime7
 TidyDensity,spsanderson
 tidydice,rolkra
 tidydr,yulab-smu
-tidyedgar,adsuargim
+tidyedgar,gerardgimenezadsuar
 tidyEdSurvey,blue-webb
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
@@ -22227,7 +22231,7 @@ vlad,wittenberg
 vlda,pnuwon
 VLF,tathey
 VLMC,mmaechler
-VLMCX,cran
+VLMCX,adrianozambom
 VLTimeCausality,darkeyes
 VMDecomp,mlampros
 VMDML,cran
