@@ -482,7 +482,8 @@
   {
     "package": "mregions",
     "maintainer": "Salvador Fernandez <salvador.fernandez@vliz.be>",
-    "url": "https://github.com/ropensci/mregions"
+    "url": "https://github.com/ropensci/mregions",
+    "registry": "archived"
   },
   {
     "package": "MtreeRing",
@@ -882,7 +883,8 @@
   {
     "package": "smapr",
     "maintainer": "Maxwell Joseph <maxwell.b.joseph@colorado.edu>",
-    "url": "https://github.com/ropensci/smapr"
+    "url": "https://github.com/ropensci/smapr",
+    "registry": "archived"
   },
   {
     "package": "sofa",
