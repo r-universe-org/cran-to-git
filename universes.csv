@@ -2240,7 +2240,6 @@ campfin,irworkshop
 campsis,calvagone
 campsismod,calvagone
 camsRad,ropensci
-camtrapR,jniedballa
 canadamaps,pachadotdev
 canadianmaps,joellecayen
 canaper,ropensci
@@ -6248,7 +6247,7 @@ fastLiquidAssociation,bioc
 fastliu,cran
 fastLogisticRegressionWrap,kapelner
 fastlogitME,cran
-fastlogranktest,tikacp
+fastlogranktest,cran
 fastM,klauschn
 fastmap,r-lib
 fastmatch,s-u
@@ -9204,7 +9203,7 @@ igrf,bluegreen-labs
 iGSEA,luwt
 IGST,nitzzzzzzz
 igvR,gladkia
-igvShiny,bioc
+igvShiny,gladkia
 ihclust,elincho
 iheatmapr,ropensci
 iheiddown,iheid-library
@@ -9354,6 +9353,7 @@ ineqJD,albertoarcagni
 inet,jmbh
 iNETgrate,bioc
 iNEXT,johnsonhsieh
+iNEXT.3D,annechao
 infer,tidymodels
 infercnv,broadinstitute
 inferCSN,mengxu98
@@ -10858,6 +10858,7 @@ LTAR,kylecaudle
 LTASR,cran
 lterdatasampler,lter
 lterpalettefinder,lter
+LTFHPlus,emilmip
 ltm,drizopoulos
 ltmix,martinblostein
 ltmle,joshuaschwab
@@ -12246,7 +12247,7 @@ MoleculeExperiment,sydneybiox
 MolgenisArmadillo,molgenis
 MolgenisAuth,molgenis
 MOLHD,hrz123
-molnet,kathbaum
+molnet,cran
 MOMA,califano-lab
 mombf,davidrusi
 momentchi2,cran
@@ -12285,6 +12286,7 @@ monreg,scottkosty
 Monte.Carlo.se,cran
 MonteCarlo,funwithr
 MonteCarloSEM,fatihorcan
+moodef,josesamos
 moodlequizR,wolfgangrolke
 moodleR,chi2labs
 moonBook,cardiomoon
@@ -13198,11 +13200,11 @@ nls2,ggrothendieck
 nlsem,nwickel
 nlshrink,pratik-r
 nlsic,mathscell
-nlsMicrobio,aursiber
+nlsMicrobio,lbbe-software
 nlsmsn,cran
 nlsr,nashjc
 nlstac,cran
-nlstools,aursiber
+nlstools,lbbe-software
 NlsyLinks,nlsy-links
 nlt,cran
 nltm,mclements
@@ -15414,7 +15416,7 @@ proxy,cran
 proxyC,koheiw
 prozor,protviz
 PRP,artemiszhao
-prqlr,eitsupi
+prqlr,prql
 prrd,eddelbuettel
 PRROC,jgraux
 PRSim,cran
@@ -22124,7 +22126,7 @@ versionsort,turtletopia
 VERSO,bioc
 versus,eutwt
 VertexSimilarity,cran
-VertexSort,diala-ar
+VertexSort,cran
 VeryLargeIntegers,jleivacuadrado
 vesselr,jdwor
 vetiver,rstudio

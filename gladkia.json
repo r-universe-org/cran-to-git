@@ -10,5 +10,11 @@
     "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
     "url": "https://github.com/gladkia/igvr",
     "registry": "bioc"
+  },
+  {
+    "package": "igvShiny",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gladkia/igvshiny",
+    "registry": "bioc"
   }
 ]
