@@ -1,5 +1,10 @@
 [
   {
+    "package": "refund",
+    "maintainer": "Julia Wrobel <julia.wrobel@emory.edu>",
+    "url": "https://github.com/refunders/refund"
+  },
+  {
     "package": "refund.shiny",
     "maintainer": "Julia Wrobel <julia.wrobel@cuanschutz.edu>",
     "url": "https://github.com/refunders/refund.shiny"
