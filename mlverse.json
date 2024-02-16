@@ -60,6 +60,11 @@
     "url": "https://github.com/mlverse/torchvision"
   },
   {
+    "package": "torchvisionlib",
+    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
+    "url": "https://github.com/mlverse/torchvisionlib"
+  },
+  {
     "package": "wav",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/wav"
