@@ -928,6 +928,7 @@ BiocOncoTK,https://github.com/vjcitn/bioconcotk,,bioc
 BioCor,https://github.com/llrs/biocor,,bioc
 BiocParallel,https://github.com/bioconductor/biocparallel,,bioc
 BiocPkgTools,https://github.com/seandavi/biocpkgtools,,bioc
+biocroxytest,https://github.com/xec-cm/biocroxytest,,bioc
 BiocSingular,https://github.com/ltla/biocsingular,,bioc
 BiocSklearn,https://github.com/vjcitn/biocsklearn,,bioc
 BiocStyle,https://github.com/bioconductor/biocstyle,,bioc
@@ -2566,6 +2567,7 @@ DepCens,https://github.com/gabrielgrandemagne/depcens,,
 depigner,https://github.com/corradolanera/depigner,,
 DepInfeR,https://github.com/huber-group-embl/depinfer,,bioc
 DEPONS2R,https://github.com/jacobnabe/depons2r,,
+DeProViR,https://github.com/mrbakhsh/deprovir,,bioc
 deps,https://github.com/analythium/deps,,
 DepthProc,https://github.com/zzawadz/depthproc,,
 DEqMS,https://github.com/yafeng/deqms,,bioc
@@ -3503,6 +3505,7 @@ exCon,https://github.com/bryanhanson/excon,,
 excursions,https://github.com/davidbolin/excursions,,
 exDE,https://github.com/dd-harp/exde,,archived
 exdex,https://github.com/paulnorthrop/exdex,,
+executablePackeR,https://github.com/changwoolim/executablepacker,,
 ExhaustiveSearch,https://github.com/rudolfjagdhuber/exhaustivesearch,,
 exif,https://github.com/ironholds/exif,,
 exifr,https://github.com/paleolimbot/exifr,,
@@ -3813,6 +3816,7 @@ fingraph,https://github.com/convexfi/fingraph,,
 finity,https://github.com/x0range/finity,,
 FinNet,https://github.com/fatelarico/finnet,,
 finnishgrid,https://github.com/virmar/finnishgrid,,
+finnsurveytext,https://github.com/dariah-fi-survey-concept-network/finnsurveytext,,
 finnts,https://github.com/microsoft/finnts,,
 finreportr,https://github.com/sewardlee337/finreportr,,
 fipio,https://github.com/program--/fipio,,
@@ -5005,7 +5009,6 @@ haplotypes,https://github.com/cnrakt/haplotypes,,
 happign,https://github.com/paul-carteron/happign,,
 harbinger,https://github.com/cefet-rj-dal/harbinger,,
 hardhat,https://github.com/tidymodels/hardhat,,
-HARModel,https://github.com/emilsjoerup/harmodel,,archived
 harrietr,https://github.com/andersgs/harrietr,,
 harrypotter,https://github.com/aljrico/harrypotter,,
 hashids,https://github.com/alshum/hashids-r,,
@@ -6893,6 +6896,7 @@ mirai,https://github.com/shikokuchuo/mirai,,
 mirai.promises,https://github.com/shikokuchuo/mirai.promises,,
 miRBaseConverter,https://github.com/taoshengxu/mirbaseconverter,,bioc
 MIRES,https://github.com/stephensrmmartin/mires,,
+MIRit,https://github.com/jacopo-ronchi/mirit,,bioc
 miRLAB,https://github.com/pvvhoang/mirlab,,bioc
 MiRSEA,https://github.com/hanjunwei-lab/mirsea,,
 miRSM,https://github.com/zhangjunpeng411/mirsm,,bioc
@@ -7051,6 +7055,7 @@ MMDCopula,https://github.com/alexisderumigny/mmdcopula,,
 mmeln,https://github.com/giguerch/mmeln,,
 MMeM,https://github.com/pengluyaoyao/mmem,,
 mmibain,https://github.com/mightymetrika/mmibain,,
+mmiCATs,https://github.com/mightymetrika/mmicats,,
 MMINP,https://github.com/yulab-smu/mminp,,
 mmirestriktor,https://github.com/mightymetrika/mmirestriktor,,
 mmod,https://github.com/dwinter/mmod,,
@@ -8097,6 +8102,7 @@ pagedown,https://github.com/rstudio/pagedown,,
 pagemap,https://github.com/swsoyee/pagemapr,,
 pagenum,https://github.com/kwstat/pagenum,,
 pageRank,https://github.com/hd2326/pagerank,,bioc
+PAGFL,https://github.com/paul-haimerl/pagfl,,
 pagoda2,https://github.com/kharchenkolab/pagoda2,,
 pagoo,https://github.com/iferres/pagoo,,
 PAICE,https://github.com/paicecode/paice,,
@@ -8518,6 +8524,7 @@ pipeComp,https://github.com/plger/pipecomp,,bioc
 pipeFrame,https://github.com/wzthu/pipeframe,,bioc
 pipeliner,https://github.com/alexioannides/pipeliner,,
 pipeR,https://github.com/renkun-ken/piper,,
+PIPETS,https://github.com/qfurumo/pipets,,bioc
 piqp,https://github.com/predict-epfl/piqp-r,,
 piratings,https://github.com/larsvancutsem/piratings,,
 piRF,https://github.com/chancejohnstone/pirf,,
@@ -11879,6 +11886,7 @@ Statamarkdown,https://github.com/hemken/statamarkdown,,
 statar,https://github.com/matthieugomez/statar,,
 statBasics,https://github.com/gilberto-sassi/statbasics,,
 statcanR,https://github.com/warint/statcanr,,
+statcheck,https://github.com/michelenuijten/statcheck,,
 statcodelists,https://github.com/antaldaniel/statcodelists,,
 statConfR,https://github.com/manuelrausch/statconfr,,
 statebins,https://gitlab.com/hrbrmstr/statebins,,
@@ -12063,6 +12071,7 @@ surbayes,https://github.com/ethan-alt/surbayes,,
 sure,https://github.com/koalaverse/sure,,
 sureLDA,https://github.com/celehs/surelda,,
 SurfaceTortoise,https://github.com/ymutua/surfacetortoise,,
+SurfR,https://github.com/auroramaurizio/surfr,,bioc
 Surrogate,https://github.com/florianstijven/surrogate-development,,
 SurrogateBMA,https://github.com/yunshandys/surrogatebma,,
 SurrogateRegression,https://github.com/zrmacc/surrogateregression,,
@@ -12311,6 +12320,7 @@ tdr,https://github.com/oscarperpinan/tdr,,
 tdsa,https://github.com/weehaong/tdsa,,
 tdthap,https://github.com/jinghuazhao/r,tdthap,
 teachingApps,https://github.com/auburngrads/teachingapps,,
+TeachingDemos,https://github.com/glsnow/teachingdemos,,
 TeachingSampling,https://github.com/psirusteam/teachingsampling,,
 teal,https://github.com/insightsengineering/teal,,
 teal.code,https://github.com/insightsengineering/teal.code,,

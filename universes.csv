@@ -1104,6 +1104,7 @@ BaseTempSeed,hardikghosh911
 basetheme,karoliskoncevicius
 basf,mdsumner
 Basic4Cseq,bioc
+basicdrm,nathanieltwarog
 basicMCMCplots,danielturek
 BASiCS,catavallejos
 basicspace,jameslo989
@@ -1521,6 +1522,7 @@ bigdatadist,cran
 BIGDAWG,igdawg
 bigdist,talegari
 bigDM,spatialstatisticsupna
+bigergm,corneliusfritz
 bigGP,paciorek
 BiGGR,bioc
 BIGL,openanalytics
@@ -1638,6 +1640,7 @@ BiocOncoTK,vjcitn
 BioCor,llrs
 BiocParallel,bioconductor
 BiocPkgTools,seandavi
+biocroxytest,xec-cm
 BiocSet,bioc
 BiocSingular,ltla
 BiocSklearn,vjcitn
@@ -4432,6 +4435,7 @@ depmix,ingmarvisser
 depmixS4,ingmarvisser
 DEPONS2R,jacobnabe
 deposits,ropensci
+DeProViR,mrbakhsh
 deps,analythium
 depth.plot,cran
 DepthProc,zzawadz
@@ -6002,6 +6006,7 @@ excursions,davidbolin
 exDE,dd-harp
 exdex,paulnorthrop
 exdqlm,rabarata
+executablePackeR,changwoolim
 ExGaussEstim,jdcerca
 ExhaustiveSearch,rudolfjagdhuber
 exif,ironholds
@@ -6304,7 +6309,7 @@ fbnet,marsicofl
 fBonds,cran
 fbRads,daroczig
 fbroc,erikpeter
-fbst,cran
+fbst,rikoke
 fc,swang87
 fca,egrueebler
 fcaR,malaga-fca-group
@@ -6511,6 +6516,7 @@ finiteruinprob,baumgrt
 finity,x0range
 FinNet,fatelarico
 finnishgrid,virmar
+finnsurveytext,dariah-fi-survey-concept-network
 finnts,microsoft
 finreportr,sewardlee337
 FinTS,cran
@@ -6696,6 +6702,7 @@ FMCCSD,cran
 fmcmc,uscbiostats
 fmcsR,girke-lab
 fmdates,imanuelcostigan
+fmdu,busingfmta
 FME,r-forge
 fmeffects,holgstr
 fmerPack,liyanstat
@@ -8490,7 +8497,6 @@ harbinger,cefet-rj-dal
 hardhat,tidymodels
 HardyWeinberg,jangraffelman
 Harman,bioc
-HARModel,emilsjoerup
 harmonicmeanp,cran
 harmonizer,cran
 HarmonizR,bioc
@@ -11853,6 +11859,7 @@ miRecSurv,dmorinya
 MIRES,stephensrmmartin
 miRetrieve,cran
 mirIntegrator,bioc
+MIRit,jacopo-ronchi
 MiRKAT,aplantin
 miRLAB,pvvhoang
 miRmine,bioc
@@ -12120,6 +12127,7 @@ mmeln,giguerch
 MMeM,pengluyaoyao
 mmeta,cran
 mmibain,mightymetrika
+mmiCATs,mightymetrika
 MMINP,yulab-smu
 mmirestriktor,mightymetrika
 MMLR,nadezdaspiridovska
@@ -14008,6 +14016,7 @@ pagedown,rstudio
 pagemap,swsoyee
 pagenum,kwstat
 pageRank,hd2326
+PAGFL,paul-haimerl
 pagoda2,kharchenkolab
 pagoo,iferres
 PAGWAS,mevangelou
@@ -14694,6 +14703,7 @@ pipeFrame,wzthu
 pipeGS,njheyu
 pipeliner,alexioannides
 pipeR,renkun-ken
+PIPETS,qfurumo
 piqp,predict-epfl
 piratings,larsvancutsem
 piRF,chancejohnstone
@@ -18242,6 +18252,7 @@ saws,cran
 sazedR,cran
 SBAGM,rrk4910
 SBCK,yrobink
+sbde,cran
 SBdecomp,laylaparast
 sbfc,vkrakovna
 sbgcop,pdhoff
@@ -20127,7 +20138,7 @@ Statamarkdown,hemken
 statar,matthieugomez
 statBasics,gilberto-sassi
 statcanR,warint
-statcheck,cran
+statcheck,michelenuijten
 statcodelists,antaldaniel
 statcomp,cran
 statConfR,manuelrausch
@@ -20447,6 +20458,7 @@ SuRF.vs,tjk23
 surface,tingram
 SurfaceTortoise,ymutua
 surfaltr,bioc
+SurfR,auroramaurizio
 Surrogate,florianstijven
 SurrogateBMA,yunshandys
 SurrogateOutcome,laylaparast
@@ -20830,7 +20842,7 @@ TE,xdaiisu
 tea,cran
 TeachHist,carstenlange
 teachingApps,auburngrads
-TeachingDemos,ashipunov
+TeachingDemos,glsnow
 TeachingSampling,psirusteam
 TeachNet,cran
 teal,insightsengineering

@@ -1,5 +1,10 @@
 [
   {
+    "package": "basicdrm",
+    "maintainer": "Nathaniel Twarog <nathaniel.twarog@stjude.org>",
+    "url": "https://github.com/cran/basicdrm"
+  },
+  {
     "package": "braidReports",
     "maintainer": "Nathaniel R. Twarog <nathaniel.twarog@stjude.org>",
     "url": "https://github.com/cran/braidReports"
