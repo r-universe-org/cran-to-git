@@ -977,6 +977,7 @@ aws.translate,cloudyr
 aws.wrfsmn,gonzalo1985
 awsMethods,jpolzehl
 awst,drisso
+axisandallies,cran
 AZIAD,niloufardousti
 azlogr,atalv
 AzureAppInsights,stefanedwards
@@ -5481,6 +5482,7 @@ ei,cran
 ei.Datasets,cran
 eia,ropensci
 EIAapi,ramikrispin
+eiCircles,cran
 eicm,miguel-porto
 eiCompare,rpvote
 eiExpand,rachel-carroll
@@ -5902,6 +5904,7 @@ eunis.habitats,ramiromagno
 eurlex,michalovadek
 eurocordexr,mitmat
 eurodata,alekrutkowski
+Euronext,fredysessie
 europeanaR,alekoure
 europepmc,ropensci
 europop,mdlincoln
@@ -5979,6 +5982,7 @@ exact2x2,cran
 exactamente,mightymetrika
 exactci,cran
 ExactCIdiff,cran
+ExactCIone,cran
 exactextractr,isciences
 exactLTRE,cran
 ExactMed,caubm
@@ -9993,6 +9997,7 @@ kendallRandomWalks,cran
 KenSyn,fbrun-acta
 kequate,cran
 keras,t-kalinowski
+keras3,rstudio
 kerastuneR,eagerai
 kerDAA,singho2001
 KERE,cran
@@ -11772,6 +11777,7 @@ microsynth,michaelwrobbins
 MicSim,bieneschwarze
 MICsplines,yili-hong
 MICSQTL,bioc
+micsr,ycroissant
 micss,cran
 MiDA,cran
 midas,shapenaji
@@ -11883,6 +11889,7 @@ miscF,daifengstat
 miscFuncs,bentaylor1
 miscIC,andrewtitman
 misclassGLM,sdlugosz
+MiscMetabar,adrientaudiere
 miscset,setempler
 miscTools,arne-henningsen
 miselect,cran
@@ -12580,6 +12587,7 @@ MullerPlot,cran
 mully,frankkramer-lab
 mulSEM,mikewlcheung
 mulset,login-
+mult.latent.reg,cran
 MultAlloc,jambrito
 MultBiplotR,villardon
 multbxxc,sgsokol
@@ -14054,7 +14062,6 @@ pald,lucymcgowan
 paleobioDB,ropensci
 paleobuddy,brpetrucci
 paleomorph,timcdlucas
-paleopop,globalecologylab
 paleotree,dwbapst
 paleoTS,cran
 paletteer,emilhvitfeldt
@@ -14920,7 +14927,6 @@ PoDBAY,vavrycuk-zz
 PoDCall,bioc
 podcleaner,cran
 podkat,ubod
-poems,globalecologylab
 POET,zhelcheva
 pogit,cran
 pogos,vjcitn
@@ -15402,6 +15408,7 @@ protein8k,simonliles
 proteinProfiles,bioc
 ProteoBayes,mariechion
 ProteoDisco,erasmusmc-ccbc
+proteomicsCV,cran
 ProteoMM,bioc
 proteus,cran
 protGear,keniajin
@@ -16715,6 +16722,7 @@ relevance,wernerstahel
 relevent,cran
 relgam,kjytay
 reliabilitydiag,aijordan
+ReliabilityTheory,louisaslett
 relimp,davidfirth
 RelimpPCR,mhernan88
 relliptical,katherineloor
@@ -17786,7 +17794,7 @@ RSGHB,rsginc
 rSHAPE,jdench
 rshift,alexhroom
 rsi,permian-global-research
-RSiena,tomsnijders
+RSiena,cran
 RsimMosaic,algolkm
 rsimsum,ellessenne
 rsinaica,diegovalle
@@ -20851,6 +20859,7 @@ teal.data,insightsengineering
 teal.logger,gogonzo
 teal.reporter,insightsengineering
 teal.slice,insightsengineering
+teal.transform,insightsengineering
 teal.widgets,insightsengineering
 tealeaves,cdmuir
 TEAM,jbp7
@@ -21982,7 +21991,7 @@ UtilityFrailtyPH12,cran
 utilityFunctionTools,sebastianoschneider
 utilsIPEA,ipea
 utiml,rivolli
-utr.annotation,yating-l
+utr.annotation,cran
 uuid,s-u
 uwedragon,cran
 UWHAM,cran
@@ -22696,6 +22705,7 @@ xegaBNF,ageyerschulz
 xegaDerivationTrees,ageyerschulz
 xegaDfGene,ageyerschulz
 xegaGaGene,ageyerschulz
+xegaGeGene,ageyerschulz
 xegaGpGene,ageyerschulz
 xegaPermGene,ageyerschulz
 xegaSelectGene,ageyerschulz
