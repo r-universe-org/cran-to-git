@@ -17,12 +17,14 @@
   {
     "package": "ravedash",
     "maintainer": "Zhengjia Wang <dipterix.wang@gmail.com>",
-    "url": "https://github.com/dipterix/ravedash"
+    "url": "https://github.com/dipterix/ravedash",
+    "registry": "archived"
   },
   {
     "package": "ravetools",
     "maintainer": "Zhengjia Wang <dipterix.wang@gmail.com>",
-    "url": "https://github.com/dipterix/ravetools"
+    "url": "https://github.com/dipterix/ravetools",
+    "registry": "archived"
   },
   {
     "package": "readNSx",
@@ -52,6 +54,7 @@
   {
     "package": "threeBrain",
     "maintainer": "Zhengjia Wang <dipterix.wang@gmail.com>",
-    "url": "https://github.com/dipterix/threebrain"
+    "url": "https://github.com/dipterix/threebrain",
+    "registry": "archived"
   }
 ]
