@@ -300,6 +300,11 @@
     "url": "https://github.com/ropensci/feddata"
   },
   {
+    "package": "fluidsynth",
+    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "url": "https://github.com/ropensci/fluidsynth"
+  },
+  {
     "package": "gbifdb",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/gbifdb"

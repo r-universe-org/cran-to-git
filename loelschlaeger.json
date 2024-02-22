@@ -1,13 +1,15 @@
 [
   {
     "package": "ao",
-    "maintainer": "Lennart Oelschläger <oelschlaeger.lennart@gmail.com>",
-    "url": "https://github.com/loelschlaeger/ao"
+    "maintainer": "",
+    "url": "https://github.com/loelschlaeger/ao",
+    "registry": "archived"
   },
   {
     "package": "fHMM",
-    "maintainer": "Lennart Oelschläger <oelschlaeger.lennart@gmail.com>",
-    "url": "https://github.com/loelschlaeger/fhmm"
+    "maintainer": "",
+    "url": "https://github.com/loelschlaeger/fhmm",
+    "registry": "archived"
   },
   {
     "package": "normalize",
@@ -16,13 +18,15 @@
   },
   {
     "package": "oeli",
-    "maintainer": "Lennart Oelschläger <oelschlaeger.lennart@gmail.com>",
-    "url": "https://github.com/loelschlaeger/oeli"
+    "maintainer": "",
+    "url": "https://github.com/loelschlaeger/oeli",
+    "registry": "archived"
   },
   {
     "package": "optimizeR",
-    "maintainer": "Lennart Oelschläger <oelschlaeger.lennart@gmail.com>",
-    "url": "https://github.com/loelschlaeger/optimizer"
+    "maintainer": "",
+    "url": "https://github.com/loelschlaeger/optimizer",
+    "registry": "archived"
   },
   {
     "package": "portion",
@@ -31,8 +35,9 @@
   },
   {
     "package": "RprobitB",
-    "maintainer": "Lennart Oelschläger <oelschlaeger.lennart@gmail.com>",
-    "url": "https://github.com/loelschlaeger/rprobitb"
+    "maintainer": "",
+    "url": "https://github.com/loelschlaeger/rprobitb",
+    "registry": "archived"
   },
   {
     "package": "vntrs",
