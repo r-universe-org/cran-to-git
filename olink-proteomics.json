@@ -2,6 +2,7 @@
   {
     "package": "OlinkAnalyze",
     "maintainer": "Kathleen Nevola <biostattools@olink.com>",
-    "url": "https://github.com/cran/OlinkAnalyze"
+    "url": "https://github.com/olink-proteomics/olinkrpackage",
+    "subdir": "OlinkAnalyze"
   }
 ]

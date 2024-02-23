@@ -60,6 +60,12 @@
     "subdir": "pkg/censReg"
   },
   {
+    "package": "cffdrs",
+    "maintainer": "Brett Moore <Brett.Moore@nrcan-rncan.gc.ca>",
+    "url": "https://github.com/r-forge/cffdrs",
+    "subdir": "pkg/cffdrs"
+  },
+  {
     "package": "CHNOSZ",
     "maintainer": "Jeffrey Dick <j3ffdick@gmail.com>",
     "url": "https://github.com/r-forge/chnosz",
