@@ -39,6 +39,7 @@ abodOutlier,josejimenezluna
 ABPS,fredericschutz
 abseil,doccstat
 abseqR,malhamdoosh
+absorber,cran
 ABSSeq,bioc
 abstr,a-b-street
 abstractr,mattkumar
@@ -894,7 +895,7 @@ auditor,modeloriented
 audrex,cran
 audubon,paithiov909
 augmentedRCBD,aravind-j
-AugmenterR,datasets-trainer
+AugmenterR,cran
 augSIMEX,cran
 auk,ropensci
 aum,tdhock
@@ -1462,6 +1463,7 @@ bgeva,giampmarra
 BGFD,cran
 bggAnalytics,jakubbujnowicz
 BGGE,italo-granato
+BGGM,donaldrwilliams
 bggum,duckmayr
 BGLR,cran
 bgmfiles,australianantarcticdivision
@@ -4607,6 +4609,7 @@ Diderot,cran
 DiDforBigData,setzler
 didimputation,cran
 DIDmultiplegt,cran
+DIDmultiplegtDYN,cran
 didrooRFM,didroo55
 diemr,nmartinkova
 dietr,sborstein
@@ -5910,6 +5913,7 @@ eunis.habitats,ramiromagno
 eurlex,michalovadek
 eurocordexr,mitmat
 eurodata,alekrutkowski
+euroleaguer,flavioleccese92
 Euronext,fredysessie
 europeanaR,alekoure
 europepmc,ropensci
@@ -6941,6 +6945,7 @@ FSA,fishr-core-team
 FSAdata,fishr-core-team
 FSAtools,maressyl
 fsbrain,dfsp-spirit
+fscache,cran
 FScanR,seanchen607
 fscaret,jszlek
 FSDAM,youyifong
@@ -8046,6 +8051,7 @@ gompertztrunc,caseybreen
 gontr,kalifa-manjang
 good,dessipat
 GoodFibes,jessica-arbour
+GoodFitSBM,roy-sr-007
 GoodmanKruskal,ronaldkpearson
 goodpractice,mangothecat
 googleadsR,pablosanmar
@@ -9378,6 +9384,7 @@ inet,jmbh
 iNETgrate,bioc
 iNEXT,johnsonhsieh
 iNEXT.3D,annechao
+iNEXT.beta3D,annechao
 infer,tidymodels
 infercnv,broadinstitute
 inferCSN,mengxu98
@@ -9786,6 +9793,7 @@ ivtools,arvsjo
 ivx,kvasilopoulos
 ivygapSE,vjcitn
 IVYplot,tringuyen2023
+iwaqr,cran
 iWeigReg,cran
 IWTomics,bioc
 ixplorer,ixpantia
@@ -10875,6 +10883,7 @@ lsr,djnavarro
 LSRS,mehdisarparast
 lss2,asatwani2
 LST,bappa10085
+LSTbook,dtkaplan
 LSTS,pachadotdev
 LSVAR,peiliangbai92
 LSWPlib,cran
@@ -10884,6 +10893,7 @@ LTAR,kylecaudle
 LTASR,cran
 lterdatasampler,lter
 lterpalettefinder,lter
+ltertools,lter
 LTFHPlus,emilmip
 ltm,drizopoulos
 ltmix,martinblostein
@@ -11713,6 +11723,7 @@ mgsa,sba1
 MGSDA,irinagain
 mgss,splinesmoothing
 mgsub,bmewing
+mgwnbr,cran
 mgwrsar,cran
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
@@ -12387,7 +12398,6 @@ mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
-MPCR,stsds
 MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
@@ -14787,6 +14797,7 @@ PlanetNICFI,mlampros
 planets,aljrico
 planningML,vivid225
 planr,nguyennico
+planscorer,christopherkenny
 plantecophys,remkoduursma
 plantecowrap,jstinzi
 planttfhunter,almeidasilvaf
@@ -15810,6 +15821,7 @@ quadmesh,hypertidy
 quadprog,berwinturlach
 quadprogXT,rharlow86
 quadraticSD,cran
+QuadratiK,gios8492
 QuadRoot,cran
 quadrupen,jchiquet
 quadtree,dfriend21
@@ -17867,6 +17879,7 @@ rstack,gaborcsardi
 rstackdeque,oneilsh
 rstan,cran
 rstanarm,stan-dev
+rstanbdp,cran
 rstanemax,yoshidk6
 rstantools,stan-dev
 RStata,lbraglia
@@ -20276,6 +20289,7 @@ stmgui,dzangri
 stminsights,cschwem2er
 StMoMo,amvillegas
 StMoSim,matthiassalvisberg
+STMotif,heraldoborges
 STMr,mladenjovanovic
 stocc,dsjohnson
 StochBlock,cran
@@ -20875,6 +20889,7 @@ teal,insightsengineering
 teal.code,insightsengineering
 teal.data,insightsengineering
 teal.logger,gogonzo
+teal.modules.clinical,insightsengineering
 teal.reporter,insightsengineering
 teal.slice,insightsengineering
 teal.transform,insightsengineering

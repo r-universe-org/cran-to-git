@@ -1,5 +1,10 @@
 [
   {
+    "package": "LSTbook",
+    "maintainer": "Daniel Kaplan <dtkaplan@gmail.com>",
+    "url": "https://github.com/dtkaplan/lstbook"
+  },
+  {
     "package": "mosaicModel",
     "maintainer": "Daniel Kaplan <kaplan@macalester.edu>",
     "url": "https://github.com/cran/mosaicModel"
