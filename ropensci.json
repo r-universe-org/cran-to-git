@@ -807,8 +807,9 @@
   },
   {
     "package": "rnoaa",
-    "maintainer": "Daniel Hocking <djhocking@gmail.com>",
-    "url": "https://github.com/ropensci/rnoaa"
+    "maintainer": "",
+    "url": "https://github.com/ropensci/rnoaa",
+    "registry": "archived"
   },
   {
     "package": "roadoi",

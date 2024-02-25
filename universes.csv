@@ -895,7 +895,7 @@ auditor,modeloriented
 audrex,cran
 audubon,paithiov909
 augmentedRCBD,aravind-j
-AugmenterR,cran
+AugmenterR,datasets-trainer
 augSIMEX,cran
 auk,ropensci
 aum,tdhock
@@ -1653,12 +1653,12 @@ biocViews,bioconductor
 BiocWorkflowTools,bioc
 biodb,ceabiodb
 biodbChebi,ceabiodb
-biodbExpasy,bioc
+biodbExpasy,pkrog
 biodbHmdb,ceabiodb
 biodbKegg,ceabiodb
 biodbLipidmaps,ceabiodb
 biodbNcbi,ceabiodb
-biodbNci,bioc
+biodbNci,pkrog
 biodbUniprot,ceabiodb
 Biodem,fedster
 bioDist,bioc
@@ -6945,7 +6945,7 @@ FSA,fishr-core-team
 FSAdata,fishr-core-team
 FSAtools,maressyl
 fsbrain,dfsp-spirit
-fscache,cran
+fscache,pkrog
 FScanR,seanchen607
 fscaret,jszlek
 FSDAM,youyifong
@@ -11723,7 +11723,7 @@ mgsa,sba1
 MGSDA,irinagain
 mgss,splinesmoothing
 mgsub,bmewing
-mgwnbr,cran
+mgwnbr,julianamrosa
 mgwrsar,cran
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
@@ -17879,7 +17879,7 @@ rstack,gaborcsardi
 rstackdeque,oneilsh
 rstan,cran
 rstanarm,stan-dev
-rstanbdp,cran
+rstanbdp,piodag
 rstanemax,yoshidk6
 rstantools,stan-dev
 RStata,lbraglia

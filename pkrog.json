@@ -1,0 +1,19 @@
+[
+  {
+    "package": "biodbExpasy",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://git.bioconductor.org/packages/biodbExpasy",
+    "registry": "bioc"
+  },
+  {
+    "package": "biodbNci",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://git.bioconductor.org/packages/biodbNci",
+    "registry": "bioc"
+  },
+  {
+    "package": "fscache",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://gitlab.com/dbapis/r-fscache"
+  }
+]
