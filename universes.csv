@@ -1165,6 +1165,7 @@ bayescount,mdenwood
 BayesCR,cran
 bayesCT,thevaachandereng
 BayesCTDesign,begglest
+BayesCVI,cran
 BayesDA,kjetil1001
 bayesDccGarch,jafiorucci
 BayesDesign,cran
@@ -1546,6 +1547,7 @@ BigQuic,kkunji
 bigreadr,privefl
 bigReg,activeanalytics
 bigrquery,r-dbi
+bigrquerystorage,meztez
 bigsimr,adknudson
 bigsnpr,privefl
 bigsparser,privefl
@@ -2245,6 +2247,7 @@ campfin,irworkshop
 campsis,calvagone
 campsismod,calvagone
 camsRad,ropensci
+camtrapR,jniedballa
 canadamaps,pachadotdev
 canadianmaps,joellecayen
 canaper,ropensci
@@ -2293,6 +2296,7 @@ cardelino,single-cell-genetics
 cardidates,r-forge
 Cardinal,bioc
 CardinalIO,kuwisdelu
+cards,insightsengineering
 care,cran
 care4cmodel,cran
 caRecall,wraysmith
@@ -2578,6 +2582,7 @@ cfid,santikka
 CFilt,thiagoslima21
 cfma,zhaoyi1026
 cfmortality,aminadibi
+CFO,cran
 cforward,muschellij2
 cfr,epiverse-trace
 cft,earthlab
@@ -2604,7 +2609,6 @@ cgmquantify,cran
 CGNM,cran
 CGP,shanbatr
 CGPfunctions,ibecav
-cgrcusum,cran
 cgwtools,cran
 ch,tsiamut
 ChainLadder,mages
@@ -2937,6 +2941,7 @@ CluMP,9afojtik
 CluMSID,tdepke
 ClusBoot,sugnet
 cluscov,cran
+clusEvol,vmoprojs
 ClusPred,cran
 clusrank,wenjie2wang
 ClusROC,toduckhanh
@@ -3229,6 +3234,7 @@ coMET,bioc
 cometExactTest,mdml
 coMethDMR,transbioinfolab
 cometr,comet-ml
+comets,lucaskook
 comf,marcelschweiker
 comFuncs,tucai
 ComICS,yaelsteu
@@ -3376,6 +3382,7 @@ ConNEcT,nabod0815
 connectapi,rstudio
 ConnectednessApproach,gabauerdavid
 connections,rstudio
+connectoModa,cran
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -3388,7 +3395,7 @@ consensus,bioc
 ConsensusClusterPlus,bioc
 consensusDE,bioc
 consensusOV,bhklab
-consensusSeekeR,arnauddroitlab
+consensusSeekeR,adeschen
 conserveR,azizka
 consICA,biomod-lih
 consolechoice,cran
@@ -3749,6 +3756,7 @@ crispRdesignR,dylanbeeber
 crisprScore,crisprverse
 CRISPRseek,bioc
 crisprseekplus,umms-biocore
+crisprShiny,crisprverse
 CrispRVariants,bioc
 crisprVerse,crisprverse
 crisprViz,crisprverse
@@ -6171,6 +6179,7 @@ fad,somakd
 FADA,dcauseur
 FAdist,tpetzoldt
 FADPclust,cran
+faers,yunuuuu
 faersquarterlydata,luisgarcez11
 Fahrmeir,kjetil1001
 fail,mllg
@@ -8460,6 +8469,7 @@ GWsignif,changjianggithub
 GxEprs,dovinij
 GxEScanR,jimb3
 gym,paulhendricks
+gypsum,artifactdb
 gyro,stla
 h0,hyungsuktak
 h2o,tomasfryda
@@ -8602,7 +8612,7 @@ hdrcde,robjhyndman
 HDRFA,cran
 hds,liangcj
 HDShOP,otryakhin-dmitry
-HDSinRdata,joannawalsh88
+HDSinRdata,alicepaul
 HDSpatialScan,cran
 HDStIM,niaid
 HDTD,anestistouloumis
@@ -12199,6 +12209,7 @@ MNS,piomonti
 mnt,ebner-kit
 moanin,bioc
 mob,statcompute
+mobileRNA,kjeynescupper
 MobileTrigger,kenithgrey
 mobilityIndexR,bcmullins
 MobilityTransformR,liesasalzer
@@ -14418,6 +14429,7 @@ pedgene,sinnweja
 pedigree,albartcoster
 pedigreemm,anainesvs
 pedigreeTools,rpedigree
+Pedixplorer,bioc
 pedmod,boennecd
 pedmut,magnusdv
 pedometrics,laboratorio-de-pedometria
@@ -15278,6 +15290,7 @@ prettyR,jimlemon
 prettyunits,r-lib
 prevalence,brechtdv
 prevederer,wkdavis
+preventr,martingmayer
 previsionio,florian-laroumagne
 PrevMap,giorgilancs
 prevR,larmarange
@@ -16117,6 +16130,7 @@ RankResponse,cran
 RANKS,gvalentini58
 ranktreeEnsemble,transbioinfolab
 RANN,jefferislab
+Rapi,datarapi
 rapiclient,bergant
 RApiDatetime,eddelbuettel
 rapidjsonr,cran
@@ -16198,6 +16212,7 @@ RawHummus,yonghuidong
 rawKS,jiaxiangbu
 rawrr,fgcz
 raws.profile,cran
+raybevel,tylermorganwall
 rayimage,tylermorganwall
 raymolecule,tylermorganwall
 rayrender,tylermorganwall
@@ -18233,6 +18248,7 @@ SangerTools,ald0405
 sanic,nk027
 sanitizers,eddelbuettel
 sanityTracker,marselscheer
+sanketphonetictranslator,cran
 sankey,gaborcsardi
 sankeywheel,r-stata
 sanon,cran
@@ -19411,6 +19427,7 @@ smbinning,hjopia
 SmCCNet,kechrislab
 smcfcs,jwb133
 SMCRM,tverbeke
+smcryptoR,zhuobie
 smcure,cran
 smd,cran
 smdata,ecmerkle
@@ -21174,6 +21191,7 @@ tidymodels,tidymodels
 TidyMultiqc,multimeric
 tidymv,stefanocoretta
 tidync,ropensci
+tidyomics,tidyomics
 tidypaleo,paleolimbot
 tidyplate,shubhamdutta26
 tidyplus,poissonconsulting
@@ -21507,6 +21525,7 @@ tRanslatome,bioc
 transmdl,cran
 transmem,crparedes
 TransModel,jierazhou
+transmogR,smped
 transomics2cytoscape,bioc
 TransP,somenath24
 TransPhylo,xavierdidelot
@@ -21906,6 +21925,7 @@ unhcrthemes,unhcr-dataviz
 unheadr,luisdva
 uni.survival.tree,cran
 uniah,yunrochung
+Unico,cozygene
 Unicode,kurthornik
 unicol,hneth
 UniExactFunTest,cran
@@ -22369,7 +22389,7 @@ vvauditor,tin900
 vvcanvas,vusaverse
 vvconverter,tin900
 vvfiller,vusaverse
-vvmover,tin900
+vvmover,vusaverse
 vvsculptor,tin900
 vvshiny,corneeldh
 vvtableau,vusaverse

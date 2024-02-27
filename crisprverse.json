@@ -30,6 +30,12 @@
     "registry": "bioc"
   },
   {
+    "package": "crisprShiny",
+    "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
+    "url": "https://github.com/crisprverse/crisprshiny",
+    "registry": "bioc"
+  },
+  {
     "package": "crisprVerse",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/crisprverse/crisprverse",

@@ -1,5 +1,11 @@
 [
   {
+    "package": "consensusSeekeR",
+    "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
+    "url": "https://github.com/adeschen/consensusseeker",
+    "registry": "bioc"
+  },
+  {
     "package": "enrichViewNet",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
     "url": "https://github.com/adeschen/enrichviewnet",
