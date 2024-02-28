@@ -673,6 +673,7 @@ ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
+arcgislayers,josiahparry
 arcgisutils,r-arcgis
 ArchaeoChron,philippe-a
 ArchaeoPhases,archaeostat
@@ -1165,7 +1166,7 @@ bayescount,mdenwood
 BayesCR,cran
 bayesCT,thevaachandereng
 BayesCTDesign,begglest
-BayesCVI,cran
+BayesCVI,o-preedasawakul
 BayesDA,kjetil1001
 bayesDccGarch,jafiorucci
 BayesDesign,cran
@@ -1311,6 +1312,7 @@ BcDiag,ewouddt
 BCE,cran
 BCEA,n8thangreen
 BCEE,detal9
+bcf,jaredsmurray
 bcfrailph,cran
 bcfrailphdv,cran
 bcgam,cran
@@ -3382,7 +3384,7 @@ ConNEcT,nabod0815
 connectapi,rstudio
 ConnectednessApproach,gabauerdavid
 connections,rstudio
-connectoModa,cran
+connectoModa,idiise
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -6133,6 +6135,7 @@ ezplot,wkostelecki
 ezr,jinkim3
 EZtune,jillbo1000
 f1dataR,scasanova
+FaaSr,faasr
 fabCI,pdhoff
 fabia,bioc
 FABInference,pdhoff
@@ -8604,6 +8607,7 @@ hdmed,cran
 HDMFA,cran
 HDMT,cran
 hdnom,nanxstats
+HDNRA,nie23wp8738
 HDOMDesign,cran
 HDoutliers,cran
 hdpca,cran
@@ -9386,7 +9390,6 @@ InDisc,cran
 IndTestPP,cran
 industRial,j-ramalho
 inegiR,eflores89
-ineptR,c-matos
 ineq,zeileis
 ineq.2d,sklivan
 ineqJD,albertoarcagni
@@ -14368,6 +14371,7 @@ PCSinR,felixhenninger
 pcsstools,jackmwolf
 pcSteiner,krashkov
 pct,itsleeds
+pctax,asa12138
 pcts,geobosh
 pcutils,asa12138
 pcv,svkucheryavski
@@ -16620,6 +16624,7 @@ recipes,tidymodels
 reclin2,djvanderlaan
 recluster,leondap
 recmap,cpanse
+recmetrics,noah-padgett
 Recocrop,cropmodels
 recodeflow,big-life-lab
 recogito,digi-vub
@@ -18248,7 +18253,7 @@ SangerTools,ald0405
 sanic,nk027
 sanitizers,eddelbuettel
 sanityTracker,marselscheer
-sanketphonetictranslator,cran
+sanketphonetictranslator,metalwings-design
 sankey,gaborcsardi
 sankeywheel,r-stata
 sanon,cran
@@ -21443,6 +21448,7 @@ ToxCrit,cran
 toxEval,doi-usgs
 ToxicoGx,bhaibeka
 toxpiR,toxpi
+toxSummary,phuse-org
 TP.idm,cran
 TPAC,cran
 TPACData,cran
@@ -22623,6 +22629,7 @@ windows.pls,egonzato
 windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
+wingen,cran
 WinRatio,cran
 WINS,cuiyingbeicheng
 wiqid,mikemeredith

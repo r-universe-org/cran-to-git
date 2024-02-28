@@ -1,5 +1,10 @@
 [
   {
+    "package": "arcgislayers",
+    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
+    "url": "https://github.com/cran/arcgislayers"
+  },
+  {
     "package": "b64",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/cran/b64"
