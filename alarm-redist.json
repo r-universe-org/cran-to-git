@@ -1,5 +1,10 @@
 [
   {
+    "package": "alarmdata",
+    "maintainer": "Cory McCartan <corymccartan@nyu.edu>",
+    "url": "https://github.com/alarm-redist/alarmdata"
+  },
+  {
     "package": "ggredist",
     "maintainer": "Christopher T. Kenny <christopherkenny@fas.harvard.edu>",
     "url": "https://github.com/alarm-redist/ggredist"

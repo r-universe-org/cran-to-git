@@ -54,7 +54,6 @@ acc,cran
 acca,cran
 accelerometry,vandomed
 accelmissing,jungaeleeb
-AccelStab,accelstab
 accept,resplab
 AcceptanceSampling,andreaskiermeier
 accessibility,ipeagit
@@ -379,6 +378,7 @@ alabaster.spatial,bioc
 alabaster.string,bioc
 alabaster.vcf,bioc
 alakazam,ssnn-airr
+alarmdata,alarm-redist
 ALassoSurvIC,pakdaewo
 albatross,cran
 albopictus,kerguler
@@ -729,6 +729,7 @@ arkdb,ropensci
 arkhe,tesselle
 arm,suyusung
 armada,aurelie-gueudin
+ARMALSTM,cran
 armspp,mbertolacci
 arnie,imanuelcostigan
 AROC,coterodriguez
@@ -3938,6 +3939,7 @@ cumulocityr,softwareag
 cuperdec,jfy133
 CuratedAtlasQueryR,stemangiola
 cuRe,lassehjort
+CureAuxSP,biostat-jieding
 CureDepCens,gabrielgrandemagne
 curephEM,cran
 cureplots,gbasulto
@@ -6375,6 +6377,7 @@ fdapace,functionaldata
 fdapaceShiny,cpossinger
 fdaPDE,eleonoraarnone
 fdaPOIFD,aefdz
+fdarep,functionaldata
 fdaSP,maurobernardi
 fdasrvf,jdtuck
 fdatest,alessiapini
@@ -6616,6 +6619,7 @@ FLAMES,mritchielab
 flametree,djnavarro
 flamingos,fchamroukhi
 flan,adrimaz
+flap,finyang
 flare,mlcoding
 flashCard,jienagu
 flashClust,plangfelder
@@ -7825,6 +7829,7 @@ giacR,stla
 gibasa,paithiov909
 gibble,mdsumner
 GIC,buybnb
+gie,cran
 gif,cran
 Gifi,r-forge
 gifski,r-rust
@@ -8339,6 +8344,7 @@ gsbm,cran
 GSCA,bioc
 gscaLCA,hee6904
 gscounts,tobiasmuetze
+gscramble,eriqande
 gscreend,imkeller
 GSD,dkimstatlab
 GSDA,xueyuancao
@@ -9036,7 +9042,7 @@ hypsoLoop,fgashakamba
 HyRiM,cran
 hySpc.testthat,cbeleites
 hystar,daandejongen
-hysteresis,aparkhurst
+hysteresis,cran
 hystReet,johannesfriedrich
 i18n,rich-iannone
 i2extras,reconverse
@@ -12447,6 +12453,7 @@ MQMF,haddonm
 Mqrcm,cran
 mr.pivw,siqixu
 mr.raps,qingyuanzhao
+MR.RGM,bitansa
 mra,tmcd82070
 mratios,cran
 mrbayes,okezie94
@@ -17026,6 +17033,7 @@ rGhanaCensus,ktemadarko
 rgho,aphp
 RGIFT,becarioprecario
 rgl,dmurdoch
+rgl.cry,saitoutoshihide
 rgl2gltf,dmurdoch
 rglobi,ropensci
 Rglpk,r-forge
@@ -19047,7 +19055,7 @@ shopifyr,charliebone
 shoredate,isakro
 shortcuts,jcval94
 ShortForm,anthonyraborn
-shortIRT,cran
+shortIRT,ottaviaepifania
 ShortRead,bioconductor
 shorts,mladenjovanovic
 shotGroups,cran
@@ -21736,6 +21744,7 @@ tsmp,matrix-profile-foundation
 TSMSN,cran
 tsna,statnet
 tsne,jdonaldson
+tsnet,bsiepe
 tsoutliers,cran
 TSP,mhahsler
 tsPI,helske
@@ -22146,6 +22155,7 @@ vasicekreg,jmazucheli
 VaSP,yuhuihui2011
 vatcheckapi,cran
 vaultr,vimc
+vaxpmx,vavrycuk-zz
 VBJM,jjr1234
 VBLPCM,cran
 vbmp,bioc
@@ -22629,7 +22639,7 @@ windows.pls,egonzato
 windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
-wingen,cran
+wingen,anushapb
 WinRatio,cran
 WINS,cuiyingbeicheng
 wiqid,mikemeredith
