@@ -2,7 +2,8 @@
   {
     "package": "atime",
     "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
-    "url": "https://github.com/tdhock/atime"
+    "url": "https://github.com/tdhock/atime",
+    "registry": "archived"
   },
   {
     "package": "aum",
@@ -37,7 +38,8 @@
   {
     "package": "mlr3resampling",
     "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
-    "url": "https://github.com/tdhock/mlr3resampling"
+    "url": "https://github.com/tdhock/mlr3resampling",
+    "registry": "archived"
   },
   {
     "package": "nc",

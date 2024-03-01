@@ -54,6 +54,7 @@ acc,cran
 acca,cran
 accelerometry,vandomed
 accelmissing,jungaeleeb
+AccelStab,cran
 accept,resplab
 AcceptanceSampling,andreaskiermeier
 accessibility,ipeagit
@@ -273,6 +274,7 @@ afthd,atanubhattacharjee
 aftR2,wangyuyao98
 afttest,woojungbae
 ag5Tools,agrdatasci
+agcounts,cran
 AGD,stefvanbuuren
 AGDEX,bioc
 ageg,nobilisvenator
@@ -2724,6 +2726,7 @@ chords,johnros
 choroplethr,arilamstein
 choroplethrAdmin1,arilamstein
 choroplethrMaps,arilamstein
+chouca,cran
 christmas,jobago
 chromConverter,ethanbass
 chromDraw,bioc
@@ -3083,6 +3086,7 @@ CNVScope,jamesdalg
 coala,statgenlmu
 coalescentMCMC,emmanuelparadis
 coalitions,adibender
+COAP,feiyoung
 coarseDataTools,nickreich
 CoastlineFD,redworld123
 coat,cran
@@ -4841,6 +4845,7 @@ DLASSO,hamedhm
 dlbayes,scarlettshijiazhang
 DLEGFM,guangbaog
 dlib,jwijffels
+dlim,cran
 DLL,zijguo
 dlm,gpetris
 DLMtool,cran
@@ -7352,6 +7357,7 @@ GeneMeta,bioc
 genemodel,greymonroe
 GeneNet,cran
 GeneNetworkBuilder,jianhong
+GeneNMF,carmonalab
 GeneOverlap,bioc
 genepi,veseshan
 geneplast,castromaa
@@ -9042,7 +9048,7 @@ hypsoLoop,fgashakamba
 HyRiM,cran
 hySpc.testthat,cbeleites
 hystar,daandejongen
-hysteresis,cran
+hysteresis,spencerm89
 hystReet,johannesfriedrich
 i18n,rich-iannone
 i2extras,reconverse
@@ -9942,6 +9948,7 @@ js,jeroen
 JSconsole,stla
 jScore,liliulab
 jSDM,ghislainv
+JSDNE,cran
 jshintr,stla
 jskm,jinseob2kim
 JSM,helenxu
@@ -10486,7 +10493,7 @@ lfda,terrytangyuan
 LFDR.MLE,txucrut
 LFDR.MME,empiricalbayes
 LFDREmpiricalBayes,empiricalbayes
-lfe,matthieustigler
+lfe,r-econometrics
 lfl,beerda
 lfmm,bcm-uga
 lfstat,mundl
@@ -10528,6 +10535,7 @@ LifeInsureR,kainhofer
 lifelogr,lisaannyu
 LifemapR,aursiber
 lifeR,jcoliver
+Lifertable,cran
 LifeTables,cran
 liftLRD,cran
 liftr,nanxstats
@@ -11559,6 +11567,7 @@ metacoder,grunwaldlab
 metacom,taddallas
 MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
+metaConvert,cran
 metacore,atorus-research
 MetaculR,josephd000
 MetaCycle,gangwug
@@ -12689,6 +12698,7 @@ multilaterals,edoardobaldoni
 MultiLCIRT,cran
 multilevel,cran
 multilevelcoda,florale
+multilevelmediation,falkcarl
 multilevelmod,tidymodels
 multilevelPSA,jbryer
 multilevelTools,jwiley
@@ -13380,6 +13390,7 @@ nord,jkaupp
 nordklimdata1,cran
 norm,john-d-fox
 NORMA,jesuspradaalonso
+normaliseR,hendersontrent
 NormalityAssessment,ccasement
 normalize,loelschlaeger
 normalize450K,bioc
@@ -13825,6 +13836,7 @@ OptCirClust,joemsong
 optDesignSlopeInt,cran
 optedr,kezrael
 optextras,nashjc
+OptGS,cran
 OptHedging,cran
 OptHoldoutSize,jamesliley
 optic,randcorporation
@@ -15801,7 +15813,7 @@ qrmix,cran
 qrmtools,cran
 qrng,cran
 qrNLMM,chedgala
-qrnn,alexcannon
+qrnn,cran
 qs,traversc
 QSARdata,r-forge
 qsea,bioc
@@ -16379,7 +16391,7 @@ RcmdrPlugin.TeachStat,cran
 RcmdrPlugin.temis,nalimilan
 RcmdrPlugin.UCA,mmm-uca
 RcmdrPlugin.WorldFlora,roelandkindt
-RCMinification,cran
+RCMinification,spectrumhan
 rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
@@ -17381,6 +17393,7 @@ RMySQL,r-dbi
 rmytarget,selesnow
 rmzqc,ms-quality-hub
 RNAAgeCalc,reese3928
+rnaCrosslinkOO,jlp-bioinf
 RNAdecay,bioc
 rnaEditr,transbioinfolab
 RNAinteract,bioc
@@ -17657,6 +17670,7 @@ roxygen2md,r-lib
 roxyglobals,anthonynorth
 roxylint,openpharma
 roxytest,mikldk
+roxytypes,openpharma
 RPA,antagomir
 rPACI,dariorlual
 rPackedBar,adamspannbauer
@@ -18706,6 +18720,7 @@ SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,nicholasdanks
 SemiPar,cran
+SemiPar.depCens,nago2020
 semisup,rauschenberger
 semlbci,sfcheung
 semmcci,jeksterslab
@@ -19288,6 +19303,7 @@ singleRcapture,ncn-foreigners
 singR,laowang-123
 singscore,davislaboratory
 sinib,boxiangliu
+SINRELEF.LD,cran
 SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
 SiPhyNetwork,cran
@@ -19388,6 +19404,7 @@ slfm,cran
 SLFPCA,cran
 slgf,metzger181osu
 SLHD,shanbatr
+SlicedLHD,doer0
 slickR,yonicd
 SLIDE,cran
 slider,r-lib
@@ -19849,6 +19866,7 @@ specklestar,drastega
 specL,fgcz
 SpeCond,bioc
 specr,masurp
+specs,cran
 SpecsVerification,sieste
 spectacles,pierreroudier
 spectator,zivankaraman
@@ -21191,6 +21209,7 @@ tidygeocoder,jessecambon
 tidygeoRSS,robertmyles
 tidygraph,thomasp85
 tidyHeatmap,stemangiola
+tidyheatmaps,jbengler
 tidyhte,ddimmery
 tidyhydat,ropensci
 tidyindex,huizezhang-sherry

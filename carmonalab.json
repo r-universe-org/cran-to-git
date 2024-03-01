@@ -1,5 +1,10 @@
 [
   {
+    "package": "GeneNMF",
+    "maintainer": "Massimo Andreatta <massimo.andreatta@unil.ch>",
+    "url": "https://github.com/carmonalab/genenmf"
+  },
+  {
     "package": "scGate",
     "maintainer": "Massimo Andreatta <massimo.andreatta@unil.ch>",
     "url": "https://github.com/carmonalab/scgate"
