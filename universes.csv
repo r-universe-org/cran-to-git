@@ -274,7 +274,7 @@ afthd,atanubhattacharjee
 aftR2,wangyuyao98
 afttest,woojungbae
 ag5Tools,agrdatasci
-agcounts,cran
+agcounts,bhelsel
 AGD,stefvanbuuren
 AGDEX,bioc
 ageg,nobilisvenator
@@ -3663,7 +3663,7 @@ coxerr,cran
 CoxICPen,cran
 coxme,cran
 coxphf,georgheinze
-coxphMIC,xgsu
+coxphMIC,cran
 coxphSGD,marcinkosinski
 coxphw,biometrician
 CoxPlus,jnpeng
@@ -4845,7 +4845,7 @@ DLASSO,hamedhm
 dlbayes,scarlettshijiazhang
 DLEGFM,guangbaog
 dlib,jwijffels
-dlim,cran
+dlim,ddemateis
 DLL,zijguo
 dlm,gpetris
 DLMtool,cran
@@ -7277,7 +7277,7 @@ gDNAx,functionalgenomics
 gdpc,esmucler
 GDPuc,pik-piam
 gDR,gdrplatform
-gDRcore,bioc
+gDRcore,gdrplatform
 gDRimport,gdrplatform
 gDRstyle,gdrplatform
 gDRutils,gdrplatform
@@ -7768,6 +7768,7 @@ ggrisk,cran
 ggrounded,botan
 ggroups,nilforooshan
 ggRtsy,katelyndiaz
+ggsankeyfier,pepijn-devries
 ggsc,yulab-smu
 ggScatRidges,matbou85
 ggsci,nanxstats
@@ -8497,6 +8498,7 @@ h5vc,bioc
 haarfisz,cran
 habCluster,qiangxyz
 hablar,davidsjoberg
+habtools,jmadinlab
 HAC,cran
 hackeRnews,szymanskir
 hacksaw,daranzolin
@@ -9948,7 +9950,7 @@ js,jeroen
 JSconsole,stla
 jScore,liliulab
 jSDM,ghislainv
-JSDNE,cran
+JSDNE,jisunjang19
 jshintr,stla
 jskm,jinseob2kim
 JSM,helenxu
@@ -10991,7 +10993,7 @@ MacroZooBenthosWaterA,cran
 MACSQuantifyR,bioc
 MACSr,bioc
 mactivate,davezes
-maczic,cran
+maczic,nancyfcheng
 MAd,acdelre
 mada,doebler
 MadanText,kidoishi
@@ -11567,7 +11569,7 @@ metacoder,grunwaldlab
 metacom,taddallas
 MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
-metaConvert,cran
+metaConvert,corentinjgosling
 metacore,atorus-research
 MetaculR,josephd000
 MetaCycle,gangwug
@@ -13687,6 +13689,7 @@ OmicSense,takakoizumi
 OMICsPCA,bioc
 OmicsPLS,selbouhaddani-umc
 omicsPrint,bioc
+OmicsQC,pboutros
 omicsTools,cheemalab
 omicsViewer,mengchen18
 omicwas,fumi-github
@@ -13836,7 +13839,7 @@ OptCirClust,joemsong
 optDesignSlopeInt,cran
 optedr,kezrael
 optextras,nashjc
-OptGS,cran
+OptGS,jmswason
 OptHedging,cran
 OptHoldoutSize,jamesliley
 optic,randcorporation
@@ -18404,6 +18407,7 @@ scBubbletree,snaketron
 scbursts,cran
 scCATCH,zjufanlab
 scCB2,zijianni
+sccca,mohmedsoudy
 SCCI,cran
 scClassify,sydneybiox
 scclust,fsavje
@@ -21028,6 +21032,7 @@ TestGenerator,darwin-eu-dev
 TestingSimilarity,kathrinmoellenhoff
 testit,yihui
 TestScorer,manel01
+TestsSymmetry,cran
 testthat,r-lib
 testthatmulti,collinerickson
 testthis,s-fleck

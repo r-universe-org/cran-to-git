@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "gDRcore",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdrcore",
+    "registry": "bioc"
+  },
+  {
     "package": "gDRimport",
     "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
     "url": "https://github.com/gdrplatform/gdrimport",

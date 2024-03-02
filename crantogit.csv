@@ -143,6 +143,7 @@ afpt,https://github.com/marcoklh/afpt-r,,
 aftgee,https://github.com/stc04003/aftgee,,
 afttest,https://github.com/woojungbae/afttest,,
 ag5Tools,https://github.com/agrdatasci/ag5tools,,
+agcounts,https://github.com/bhelsel/agcounts,,
 AGD,https://github.com/stefvanbuuren/agd,,
 ageutils,https://github.com/timtaylor/ageutils,,
 aggregateBioVar,https://github.com/jasonratcliff/aggregatebiovar,,bioc
@@ -465,7 +466,7 @@ assertive.files,https://bitbucket.org/richierocks/assertive.files,,
 assertive.matrices,https://bitbucket.org/richierocks/assertive.matrices,,
 assertive.models,https://bitbucket.org/richierocks/assertive.models,,
 assertive.numbers,https://bitbucket.org/richierocks/assertive.numbers,,
-assertive.reflection,https://bitbucket.org/richierocks/assertive.reflection,,
+assertive.reflection,https://bitbucket.org/richierocks/assertive.reflection,,archived
 assertive.sets,https://bitbucket.org/richierocks/assertive.sets,,
 assertr,https://github.com/tonyfischetti/assertr,,
 assertthat,https://github.com/hadley/assertthat,,
@@ -2824,6 +2825,7 @@ diyar,https://github.com/olisansonwu/diyar,,
 DIZtools,https://github.com/miracum/misc-diztools,,
 DIZutils,https://github.com/miracum/misc-dizutils,,
 dkDNA,https://github.com/morota/dkdna,,
+dlim,https://github.com/ddemateis/dlim,,
 DLL,https://github.com/zijguo/highdim-additive-inference,,
 dlnm,https://github.com/gasparrini/dlnm,,
 dlookr,https://github.com/choonghyunryu/dlookr,,
@@ -4244,6 +4246,7 @@ gDNAx,https://github.com/functionalgenomics/gdnax,,bioc
 gdpc,https://github.com/esmucler/gdpc,,
 GDPuc,https://github.com/pik-piam/gdpuc,,
 gDR,https://github.com/gdrplatform/gdr,,bioc
+gDRcore,https://github.com/gdrplatform/gdrcore,,bioc
 gDRimport,https://github.com/gdrplatform/gdrimport,,bioc
 gDRstyle,https://github.com/gdrplatform/gdrstyle,,bioc
 gDRutils,https://github.com/gdrplatform/gdrutils,,bioc
@@ -4275,7 +4278,7 @@ genderBR,https://github.com/meirelesff/genderbr,,
 GeneBreak,https://github.com/stefvanlieshout/genebreak,,bioc
 geneClassifiers,https://github.com/rkuiper/geneclassifiers,,bioc
 GeneExpressionSignature,https://github.com/yiluheihei/geneexpressionsignature,,bioc
-geneHapR,https://github.com/zhangrenl/genehapr,,archived
+geneHapR,https://github.com/zhangrenl/genehapr,,
 geneHummus,https://github.com/ncbi-hackathons/genehummus,,
 genekitr,https://github.com/ganglilab/genekitr,,
 genemodel,https://github.com/greymonroe/genemodel,,
@@ -4584,6 +4587,7 @@ ggridges,https://github.com/wilkelab/ggridges,,
 ggrounded,https://github.com/botan/ggrounded,,
 ggroups,https://github.com/nilforooshan/ggroups,,
 ggRtsy,https://github.com/katelyndiaz/ggrtsy,,
+ggsankeyfier,https://github.com/pepijn-devries/ggsankeyfier,,
 ggsc,https://github.com/yulab-smu/ggsc,,bioc
 ggScatRidges,https://github.com/matbou85/ggscatridges,,
 ggsci,https://github.com/nanxstats/ggsci,,
@@ -5017,6 +5021,7 @@ h3jsr,https://github.com/obrl-soil/h3jsr,,
 h3lib,https://github.com/symbolixau/h3lib,,
 habCluster,https://github.com/qiangxyz/habcluster,,
 hablar,https://github.com/davidsjoberg/hablar,,
+habtools,https://github.com/jmadinlab/habtools,,
 hackeRnews,https://github.com/szymanskir/hackernews,,
 hacksaw,https://github.com/daranzolin/hacksaw,,
 hacksig,https://github.com/acare/hacksig,,
@@ -5821,6 +5826,7 @@ js,https://github.com/jeroen/js,,
 JSconsole,https://github.com/stla/jsconsole,,
 jScore,https://github.com/liliulab/jscore,,
 jSDM,https://github.com/ghislainv/jsdm,,
+JSDNE,https://github.com/jisunjang19/jsdne,,
 jshintr,https://github.com/stla/jshintr,,
 JSmediation,https://github.com/cedricbatailler/jsmediation,,
 jsmodule,https://github.com/jinseob2kim/jsmodule,,
@@ -10154,7 +10160,7 @@ RLumShiny,https://github.com/tzerk/rlumshiny,,
 rly,https://github.com/systemincloud/rly,,
 RM2006,https://github.com/ctruciosm/rm2006,,
 rmake,https://github.com/beerda/rmake,,
-rmangal,https://github.com/ropensci/rmangal,,
+rmangal,https://github.com/ropensci/rmangal,,archived
 rmapshaper,https://github.com/ateucher/rmapshaper,,
 rmapzen,https://github.com/tarakc02/rmapzen,,
 rmarchingcubes,https://github.com/shwilks/rmarchingcubes,,
@@ -12906,7 +12912,7 @@ tRNAdbImport,https://github.com/felixernst/trnadbimport,,bioc
 tRNAscanImport,https://github.com/felixernst/trnascanimport,,bioc
 TRONCO,https://github.com/bimib-disco/tronco,,bioc
 troopdata,https://github.com/meflynn/troopdata,,
-TropFishR,https://github.com/tokami/tropfishr,,archived
+TropFishR,https://github.com/tokami/tropfishr,,
 trouBBlme4SolveR,https://gitlab.com/iagogv/troubblme4solver,,
 TroublemakeR,https://github.com/sustainscapes/troublemaker,,
 TrtCombo.FactorialExp.SR,https://github.com/roy-sr-007/trtcombo.factorialexp.sr,,
@@ -13511,7 +13517,7 @@ woodValuationDE,https://github.com/forest-economics-goettingen/woodvaluationde,,
 wooldridge,https://github.com/justinmshea/wooldridge,,
 worcs,https://github.com/cjvanlissa/worcs,,
 word2vec,https://github.com/bnosac/word2vec,,
-wordbankr,https://github.com/langcog/wordbankr,,archived
+wordbankr,https://github.com/langcog/wordbankr,,
 wordcloud,https://github.com/ifellows/wordcloud,,
 wordcloud2,https://github.com/lchiffon/wordcloud2,,
 wordler,https://github.com/davidasmith/wordler,,
