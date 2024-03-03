@@ -219,7 +219,8 @@
     "package": "dse",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/dse"
+    "subdir": "pkg/dse",
+    "registry": "archived"
   },
   {
     "package": "Eagle",
@@ -237,7 +238,8 @@
     "package": "EvalEst",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/EvalEst"
+    "subdir": "pkg/EvalEst",
+    "registry": "archived"
   },
   {
     "package": "expm",
