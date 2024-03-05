@@ -1,5 +1,10 @@
 [
   {
+    "package": "GFDrmst",
+    "maintainer": "Merle Munko <merle.munko@ovgu.de>",
+    "url": "https://github.com/cran/GFDrmst"
+  },
+  {
     "package": "GFDsurv",
     "maintainer": "Merle Munko <merle.munko@ovgu.de>",
     "url": "https://github.com/merlemunko/gfdsurv"

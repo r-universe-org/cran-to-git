@@ -1152,7 +1152,7 @@ Bayenet,xilustat
 bayes4psy,bstatcomp
 bayesAB,frankportman
 bayesammi,myaseen208
-bayesanova,riko-k
+bayesanova,rikoke
 BayesARIMAX,cran
 bayesassurance,jpan928
 BayesBEKK,cran
@@ -3204,7 +3204,7 @@ colorpatch,andremueller
 colorplane,bbuchsbaum
 colorr,cdcrabtree
 colorRamp2,jokergoo
-colorRamps,thk686
+colorRamps,ashipunov
 colors3d,matthewkling
 colorscience,glenndavis52
 colorsGen,stla
@@ -5599,6 +5599,7 @@ EMDomics,bioc
 EMDSVRhybrid,cran
 emery,cran
 emg,spgarbet
+EMgaussian,falkcarl
 emhawkes,ksublee
 EmiR,lorenzo125
 emIRT,jameslo989
@@ -5703,7 +5704,6 @@ enviGCMS,yufree
 enviPat,blosloos
 envir,t-kalinowski
 envirem,ptitle
-EnviroPRA,cran
 EnviroPRA2,cran
 envnames,mastropi
 EnvNicheR,cran
@@ -7584,6 +7584,7 @@ gfboost,cran
 gfcanalysis,azvoleff
 GFD,cran
 GFDmcv,ls-git-17
+GFDrmst,merlemunko
 GFDsurv,merlemunko
 GFE,cran
 gfer,yuanchao-xu
@@ -7773,6 +7774,7 @@ ggsankeyfier,pepijn-devries
 ggsc,yulab-smu
 ggScatRidges,matbou85
 ggsci,nanxstats
+ggscidca,cran
 ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
@@ -8307,6 +8309,7 @@ groupedSurv,dcibioinformatics
 Grouphmap,cran
 groupICA,cran
 groupr,ngriffiths21
+grouprar,neptune555
 GroupSeq,rpahl
 GroupTest,cran
 groupTesting,cran
@@ -8909,7 +8912,6 @@ hpfilter,cran
 HPiP,mrbakhsh
 hpiR,andykrause
 HPLB,lorismichel
-hpoPlot,daniel-jg
 HQM,cran
 hqmisc,hugoquene
 hqreg,cran
@@ -14083,6 +14085,7 @@ pagedown,rstudio
 pagemap,swsoyee
 pagenum,kwstat
 pageRank,hd2326
+pageviews,ironholds
 PAGFL,paul-haimerl
 pagoda2,kharchenkolab
 pagoo,iferres
@@ -14958,6 +14961,7 @@ PMCMR,cran
 PMCMRplus,cran
 pmd,yufree
 pmetar,prcwiek
+PMEvapotranspiration,himadriiasri
 pmhtutorial,cran
 pmlbr,epistasislab
 pmledecon,cran
@@ -15454,6 +15458,7 @@ PropClust,plangfelder
 PROPER,bioc
 properties,dseynaev
 prophet,cran
+proporz,polettif
 propOverlap,cran
 PROPS,bioc
 PropScrRand,cran
@@ -16963,6 +16968,7 @@ revtools,mjwestgate
 revulyticsR,chrisumphlett
 rewie,sduxbury
 rex,r-lib
+rexer,josesamos
 Rexperigen,aquincum
 rexpokit,nmatzke
 rexposome,bioc
@@ -18676,6 +18682,7 @@ segMGarch,kakoko1984
 segRDA,danilocvieira
 segregation,elbersb
 segregatr,magnusdv
+seguid,seguid
 sehrnett,chainsawriot
 SEI,noeliaof
 SEIRfansy,umich-biostatistics
@@ -20769,6 +20776,7 @@ systemPipeShiny,systempiper
 systemPipeTools,bioc
 syt,stla
 syuzhet,mjockers
+T2DFitTailor,supercheng971264
 T2EQ,cran
 T2Qv,wilsonrp
 T4cluster,kisungyou
@@ -21302,6 +21310,7 @@ timeDate,cran
 timedelay,hyungsuktak
 timedeppar,peterreichert
 timeDF,niceume
+timeless,schochastics
 timeLineGraphics,barryzee
 timelineS,daheelee
 timeOmics,abodein
@@ -22110,7 +22119,6 @@ validann,gbhumphrey1
 validata,harrison4192
 validate,data-cleaning
 validateIt,cran
-validateRS,f-coppens
 validatesuggest,data-cleaning
 validatetools,data-cleaning
 VALIDICLUST,cran
@@ -22805,6 +22813,7 @@ xegaGaGene,ageyerschulz
 xegaGeGene,ageyerschulz
 xegaGpGene,ageyerschulz
 xegaPermGene,ageyerschulz
+xegaPopulation,ageyerschulz
 xegaSelectGene,ageyerschulz
 xergm.common,leifeld
 xesreadR,gertjanssenswillen
