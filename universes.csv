@@ -675,6 +675,7 @@ ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
+arcgis,r-arcgis
 arcgislayers,josiahparry
 arcgisutils,r-arcgis
 ArchaeoChron,philippe-a
@@ -1398,6 +1399,7 @@ behavr,rethomics
 BEKKs,cran
 belex,milosvil
 belg,r-spatialecology
+BElikelihood,cran
 bellreg,fndemarqui
 bench,r-lib
 benchdamic,mcalgaro93
@@ -1902,6 +1904,7 @@ BoomSpikeSlab,steve-the-bayesian
 boostingDEA,mariaguilleng
 BoostMLR,amoljpande
 boostmtree,kogalur
+boostrq,stefanlinner
 boot,cran
 boot.heterogeneity,gabriellajg
 boot.pval,mthulin
@@ -2640,6 +2643,7 @@ charlatan,ropensci
 chartql,rmsyed
 chatAI4R,kumes
 chatgpt,jcrodriguez1989
+cheapr,cran
 cheatsheet,bradlindblad
 checkarg,ivwalle
 CheckDigit,fascinatingfingers
@@ -3399,6 +3403,7 @@ conquer,xiaooupan
 conquestr,dan-cloney
 conrad,fhdsl
 consensus,bioc
+ConsensusClustering,behnam-yousefi
 ConsensusClusterPlus,bioc
 consensusDE,bioc
 consensusOV,bhklab
@@ -4738,6 +4743,7 @@ discourseGT,q1cui
 discoveR,cran
 discoverableresearch,cran
 discretecdAlgorithm,gujyjean
+DiscreteDatasets,disohda
 DiscreteFDR,disohda
 discretefit,josh-mc
 DiscreteInverseWeibull,cran
@@ -5514,7 +5520,7 @@ eiExpand,rachel-carroll
 eigenmodel,pdhoff
 EigenR,stla
 eikosograms,rwoldford
-eimpute,cran
+eimpute,gaozhe33
 einet,travisbyrum
 einsum,const-ae
 eiopaR,mehdichelh
@@ -8694,6 +8700,7 @@ hesim,hesim-dev
 HeterFunctionalData,cran
 heterogen,patauchi
 HeteroGGM,cran
+heterometa,deweyme
 heteromixgm,cran
 hetGP,mbinois
 HEtools,bquast
@@ -10177,6 +10184,7 @@ komaletter,rnuske
 konfound,konfound-project
 KONPsurv,matan-schles
 konya,ozancanozdemir
+KOR.addrlink,cran
 koRpus,undocumeantit
 koRpus.lang.en,undocumeantit
 kosel,cran
@@ -12384,7 +12392,7 @@ Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morse,cran
 mort,rosieluain
-mortAAR,cran
+mortAAR,isaakiel
 MortalityGaps,mpascariu
 MortalityLaws,mpascariu
 MortalityTables,kainhofer
@@ -13827,6 +13835,7 @@ operator.tools,decisionpatterns
 operators,romainfrancois
 opGMMassessment,cran
 OPI,cran
+opinAr,politicaargentina
 opitools,manalytics
 oposSOM,bioc
 oppar,bioc
@@ -14858,6 +14867,7 @@ plattice,cran
 Platypus,alexyermanos
 play,joe-chelladurai
 PlayerRatings,cran
+pldamixture,bpriy
 plde,cran
 pleio,sinnweja
 pleiotest,feraguate
@@ -15944,6 +15954,7 @@ quietR,thomascjohnson
 quiltr,cjbarrie
 quincunx,ramiromagno
 quint,elisedus
+quollr,jayanilakshika
 quoradsR,pablosanmar
 quotedargs,radfordneal
 quRan,andrewheiss
@@ -16471,6 +16482,7 @@ RcppSMC,rcppsmc
 RcppSpdlog,eddelbuettel
 RcppStreams,eddelbuettel
 RcppThread,tnagler
+rcpptimer,berrij
 RcppTN,olmjo
 RcppTOML,eddelbuettel
 RcppUUID,artemklevtsov
@@ -17769,6 +17781,7 @@ RQEntangle,stephenhky
 rqlm,nomahi
 rqPen,bssherwood
 rqt,izhbannikov
+Rquake,jonathanlees
 RQuantLib,eddelbuettel
 rqubic,bioc
 Rquefts,cropmodels
@@ -20950,6 +20963,7 @@ teal.code,insightsengineering
 teal.data,insightsengineering
 teal.logger,gogonzo
 teal.modules.clinical,insightsengineering
+teal.modules.general,insightsengineering
 teal.reporter,insightsengineering
 teal.slice,insightsengineering
 teal.transform,insightsengineering
@@ -21211,6 +21225,7 @@ tidyEdSurvey,blue-webb
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
 tidyfast,tysonstanley
+tidyfinance,tidy-finance
 tidyfit,jpfitzinger
 tidyformula,damian-t-p
 tidyfst,hope-data-science
