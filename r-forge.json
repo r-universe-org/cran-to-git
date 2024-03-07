@@ -960,12 +960,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "tm.plugin.alceste",
-    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
-    "url": "https://github.com/r-forge/r-temis",
-    "subdir": "pkg/tm.plugin.alceste"
-  },
-  {
     "package": "tm.plugin.europresse",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/r-forge/r-temis",

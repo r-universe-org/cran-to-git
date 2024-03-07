@@ -10,6 +10,12 @@
     "url": "https://github.com/cpanse/protviz"
   },
   {
+    "package": "rawDiag",
+    "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
+    "url": "https://github.com/cpanse/rawdiag",
+    "registry": "bioc"
+  },
+  {
     "package": "recmap",
     "maintainer": "Christian Panse <Christian.Panse@gmail.com>",
     "url": "https://github.com/cpanse/recmap"

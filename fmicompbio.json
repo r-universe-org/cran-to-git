@@ -28,5 +28,11 @@
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/fmicompbio/rhisat2",
     "registry": "bioc"
+  },
+  {
+    "package": "sketchR",
+    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
+    "url": "https://github.com/fmicompbio/sketchr",
+    "registry": "bioc"
   }
 ]
