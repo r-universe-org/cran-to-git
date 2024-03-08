@@ -2427,6 +2427,7 @@ cbinom,ddalthorp
 cBioPortalData,waldronlab
 cbioportalR,karissawhiting
 cbl,dswatson
+CBnetworkMA,cran
 CBNplot,noriakis
 cbpManager,arsenij-ust
 CBPS,christianfong
@@ -2730,7 +2731,7 @@ chords,johnros
 choroplethr,arilamstein
 choroplethrAdmin1,arilamstein
 choroplethrMaps,arilamstein
-chouca,cran
+chouca,alexgenin
 christmas,jobago
 chromConverter,ethanbass
 chromDraw,bioc
@@ -9279,6 +9280,7 @@ iheiddown,iheid-library
 ihpdr,kvasilopoulos
 IHSEP,fchenhku
 IHW,bioc
+iimi,cran
 iIneq,tfliaoui
 IIProductionUnknown,cran
 IIVpredictor,cran
@@ -12431,6 +12433,7 @@ mousetrap,pascalkieslich
 move,bart1
 move2,bart1
 movecost,gianmarcoalberti
+movegroup,simondedman
 moveHMM,theomichelot
 movementsync,tuomaseerola
 moveWindSpeed,bart1
@@ -12685,6 +12688,7 @@ multiclassPairs,nourmarzouka
 MultiClassROC,cran
 multiClust,bioc
 multicmp,diagdavenport
+MultiCOAP,feiyoung
 multiColl,r-forge
 multicool,jmcurran
 multicrispr,loosolab
@@ -13365,6 +13369,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
+noisysbmGGM,cran
 nolock,artllex
 nombre,rossellhayes
 nomclust,zdeneksulc
@@ -14133,6 +14138,7 @@ palasso,rauschenberger
 pald,lucymcgowan
 paleobioDB,ropensci
 paleobuddy,brpetrucci
+paleoDiv,theropod1
 paleomorph,timcdlucas
 paleotree,dwbapst
 paleoTS,cran
@@ -15237,6 +15243,7 @@ PQLseq,cran
 pqrBayes,cenwu
 pqrfe,iandanilevicz
 pqsfinder,bioc
+praatpicture,rpuggaardrode
 prabclus,chrhennig
 pracma,hwborchers
 pracpac,signaturescience
@@ -16351,6 +16358,7 @@ rcdklibs,cdk-r
 RCDT,stla
 RCEIM,algolkm
 rcellminer,bioc
+rcens,dlsaavedra
 Rcereal,wush978
 RcextTools,brunomssmelo
 rCGH,fredcommo
@@ -17074,7 +17082,6 @@ rgl2gltf,dmurdoch
 rglobi,ropensci
 Rglpk,r-forge
 rglplus,obreschkow
-rglwidget,dmurdoch
 rgm,franciscorichter
 RGMM,godichon-baggioni
 RGMQL,bioc
