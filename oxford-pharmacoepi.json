@@ -1,5 +1,10 @@
 [
   {
+    "package": "omock",
+    "maintainer": "Mike Du <mike.du@ndorms.ox.ac.uk>",
+    "url": "https://github.com/oxford-pharmacoepi/omock"
+  },
+  {
     "package": "visOmopResults",
     "maintainer": "Marti Catala <marti.catalasabate@ndorms.ox.ac.uk>",
     "url": "https://github.com/oxford-pharmacoepi/visomopresults"

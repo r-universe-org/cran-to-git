@@ -1504,6 +1504,7 @@ biblio,kamapu
 bibliometrix,massimoaria
 bibliometrixData,cran
 biblionetwork,agoutsmedt
+bibliorefer,cran
 biblioverlap,gavieira
 BibPlots,rhaunschild
 bibs,mahditeimouri
@@ -3560,6 +3561,7 @@ correspondenceTables,eurostat
 corrfuns,cran
 corrgram,kwstat
 corrgrapher,modeloriented
+corrmeta,cran
 CorrMixed,wimvde001
 corrplot,taiyun
 corrr,tidymodels
@@ -4520,6 +4522,7 @@ detect,psolymos
 detectnorm,irissun
 detector,paulhendricks
 detectors,simonpcouch
+detectR,crbaek
 detectRUNS,bioinformatics-ptp
 detectseparation,ikosmidis
 DetLifeInsurance,joaquinauza
@@ -5304,6 +5307,7 @@ eatTools,weirichs
 eba,cran
 ebal,jankee2022
 EBarrays,bioc
+EBASE,fawda123
 EbayesThresh,stephenslab
 EBCHS,dulilun
 ebci,kolesarm
@@ -6522,6 +6526,7 @@ filesstrings,rorynolan
 FILEST,cran
 filibustr,feinleib
 filling,kisungyou
+fillpattern,cmmr
 fillr,jelger12
 FilterFFPE,bioc
 filteRjsats,tspaulding-esa
@@ -9280,7 +9285,7 @@ iheiddown,iheid-library
 ihpdr,kvasilopoulos
 IHSEP,fchenhku
 IHW,bioc
-iimi,cran
+iimi,ubcxzhang
 iIneq,tfliaoui
 IIProductionUnknown,cran
 IIVpredictor,cran
@@ -10668,6 +10673,7 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
+lmap,mjderooij
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -12749,6 +12755,7 @@ MultipleBreakpoints,cran
 MultipleBubbles,pedroharaujo
 multipleDL,yuqitian35
 multipleNCC,cran
+multipleOutcomes,zhangh12
 MultipleRegression,cran
 multiplestressR,benjburgess
 multiplex,mplex
@@ -13369,7 +13376,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
-noisysbmGGM,cran
+noisysbmGGM,valentinkil
 nolock,artllex
 nombre,rossellhayes
 nomclust,zdeneksulc
@@ -13559,6 +13566,7 @@ NVCSSL,cran
 nvctr,euctrl-pru
 nvmix,cran
 nycflights13,tidyverse
+nycflights23,moderndive
 nzelect,ellisp
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
@@ -13715,6 +13723,7 @@ Omixer,bioc
 omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,saezlab
+omock,oxford-pharmacoepi
 omopgenerics,darwin-eu-dev
 ompBAM,alexchwong
 ompr,dirkschumacher
@@ -14181,6 +14190,7 @@ PanelMatch,insongkim
 panelPomp,cran
 panelr,jacob-long
 panelsummary,michaeltopper1
+panelSUR,cran
 panelvar,datarob
 panelView,cran
 panelWranglR,jszitas
@@ -16763,7 +16773,6 @@ RegEnrich,bioc
 REGENT,djmcrouch
 regexPipes,cran
 regexSelect,yonicd
-regfilter,juanmartinsantos
 reghelper,jeff-hughes
 regional,nowosad
 regionalpcs,tyeulalio
@@ -17166,6 +17175,7 @@ riceware,fmichonneau
 rich,cran
 Ricrt,flankado
 ricu,eth-mds
+rid,cran
 RIdeogram,tickingclock1992
 ridge,steffenmoritz
 ridgetorus,egarpor
@@ -19193,6 +19203,7 @@ SimBIID,tjmckinley
 SimBindProfiles,bioc
 simboot,shearer
 SimBu,omnideconv
+simCAT,alexandrejaloto
 simcausal,osofr
 simcdm,tmsalab
 SimComp,cran
@@ -21536,6 +21547,7 @@ tpn,cran
 TPP,bioc
 TPP2D,bioc
 tpr,jun-yan
+tpSVG,boyiguo1
 tqk,mrchypark
 tr.iatgen,iatgen
 TR8,giobo
@@ -21922,6 +21934,7 @@ TwoWayFEWeights,cran
 twowaytests,osmandag
 twoxtwo,vpnagraj
 txcutr,bioc
+txdbmaker,bioconductor
 tximeta,thelovelab
 tximport,thelovelab
 txshift,nhejazi
@@ -21959,6 +21972,7 @@ ufs,cran
 ugatsdb,sebkrantz
 uGMAR,saviviro
 ugomquantreg,jmazucheli
+UHM,tbaghfalaki
 uHMM,cran
 ui,minnage
 uiucthemes,illinois-r
