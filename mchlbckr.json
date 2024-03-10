@@ -3,5 +3,10 @@
     "package": "lcda",
     "maintainer": "Michael Buecker <michael.buecker@fh-muenster.de>",
     "url": "https://github.com/cran/lcda"
+  },
+  {
+    "package": "MSBStatsData",
+    "maintainer": "Michael Bücker <michael.buecker@fh-muenster.de>",
+    "url": "https://github.com/mchlbckr/msbstatsdata"
   }
 ]

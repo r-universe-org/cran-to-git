@@ -1060,6 +1060,7 @@ bamm,luismurao
 BAMMtools,cran
 bamp,volkerschmid
 bamsignals,lamortenera
+bandicoot,tengmcing
 bandit,markusloecher
 banditpam,bnaras
 BANDITS,simonetiberi
@@ -3561,7 +3562,7 @@ correspondenceTables,eurostat
 corrfuns,cran
 corrgram,kwstat
 corrgrapher,modeloriented
-corrmeta,cran
+corrmeta,wsjung
 CorrMixed,wimvde001
 corrplot,taiyun
 corrr,tidymodels
@@ -6464,7 +6465,7 @@ fExtremes,r-forge
 ff,truecluster
 FFD,r-forge
 FFdownload,sstoeckl
-fflr,kiernann
+fflr,k5cents
 ffmanova,olangsrud
 ffp,reckziegel
 ffpe,lwaldron
@@ -7552,7 +7553,6 @@ gerbil,michaelwrobbins
 GerminaR,flavjack
 germinationmetrics,aravind-j
 gert,ropensci
-GeSciLiVis,cran
 GESE,cran
 gesisdata,fsolt
 geslaR,eireextremes
@@ -8001,7 +8001,7 @@ glpkAPI,mihai-sysbio
 gLRTH,cran
 GLSME,cran
 glue,tidyverse
-gluedown,kiernann
+gluedown,k5cents
 gluvarpro,scontador
 glvmfit,cran
 glycanr,iugrina
@@ -8847,6 +8847,7 @@ HLMdiag,aloy
 HLSM,tmsweet
 hlt,mkleinsa
 HMB,cran
+HMC,cran
 hmcdm,tmsalab
 hmclearn,sthomas522
 hmdbQuery,vjcitn
@@ -10007,7 +10008,7 @@ JustifyAlpha,cran
 jvcoords,seehuhn
 jvnVaR,cran
 JWileymisc,jwiley
-k5,kiernann
+k5,k5cents
 kableExtra,haozhu233
 kader,gerriteichner
 kaigiroku,amatsuo
@@ -11436,7 +11437,7 @@ mda,trevorhastie
 mDAG,wjzhong
 mdatools,svkucheryavski
 MDBED,lfduquey
-mdbr,kiernann
+mdbr,k5cents
 mde,nelson-gon
 mded,cran
 MDEI,ratkovic
@@ -11715,7 +11716,7 @@ Metrics,mfrasco
 metricsgraphics,hrbrmstr
 MetricsWeighted,mayer79
 metrix,juanmac17
-metro,kiernann
+metro,k5cents
 metRology,cran
 metropolis,alexpkeil1
 mets,kkholst
@@ -12390,6 +12391,7 @@ mop,marlonecobos
 mopac,sccmckenzie
 MOQA,cran
 moreparty,cran
+morepls,cran
 morestopwords,fatelarico
 morph,cran
 morphemepiece,macmillancontentscience
@@ -12542,6 +12544,7 @@ MsBackendRawFileReader,fgcz
 MsBackendSql,rformassspectrometry
 MSbox,yonghuidong
 msBP,cran
+MSBStatsData,mchlbckr
 msce,cristoforosimonetto
 mschart,ardata-fr
 MSclassifR,cran
@@ -13227,6 +13230,7 @@ NHSRdatasets,nhs-r-community
 NHSRplotthedots,nhs-r-community
 nhstplot,nilsmy
 niaidMI,nmorris-lilly
+niarules,firefly-cpp
 nic,thiyangt
 nice,cran
 NicheBarcoding,yangcq-ivy
@@ -13834,7 +13838,6 @@ openPrimeRui,bioc
 OpenRepGrid,markheckmann
 OpenRepGrid.ic,markheckmann
 openscoring,jakub-jedrusiak
-opensensmapr,sensebox
 openSkies,rafael-ayala
 OpenSpecy,wincowgerdev
 openssl,jeroen
@@ -14190,7 +14193,7 @@ PanelMatch,insongkim
 panelPomp,cran
 panelr,jacob-long
 panelsummary,michaeltopper1
-panelSUR,cran
+panelSUR,laurabarbieri
 panelvar,datarob
 panelView,cran
 panelWranglR,jszitas
@@ -19706,6 +19709,7 @@ soundgen,cran
 SoundShape,p-rocha
 SoupX,constantamateur
 sourcetools,kevinushey
+SouthParkRshiny,amalan-constat
 sovereign,tylerjpike
 sox,ly129
 SoyNAM,alenxav
@@ -20138,7 +20142,7 @@ sRNAGenetic,w123yu
 srp,cran
 srr,ropensci
 SRS,lukasbeule
-srt,kiernann
+srt,k5cents
 SRTsim,cran
 SRTtools,chihangchen
 srvyr,gergness
@@ -21811,6 +21815,7 @@ tsiR,adbecker
 TSLSTM,ranjitstat
 TSLSTMplus,jaipizgon
 tsLSTMx,sandipgarai
+tsmethods,tsmodels
 TSMN,cran
 tsModel,cran
 tsmp,matrix-profile-foundation
@@ -22092,7 +22097,7 @@ uroot,geobosh
 URooTab,sagirumati
 ursa,nplatonov
 us.census.geoheader,greg-minshall
-usa,kiernann
+usa,k5cents
 USA.state.boundaries,iembry
 USAboundaries,ropensci
 USAboundariesData,ropensci
@@ -22904,7 +22909,6 @@ xportr,atorus-research
 xpose,uupharmacometrics
 xpose.nlmixr2,kestrel99
 xpose4,uupharmacometrics
-xQTLbiolinks,dingruofan
 XR,cran
 xray,sicarul
 xrf,holub008
