@@ -668,13 +668,6 @@
     "subdir": "pkg/RobLoxBioC"
   },
   {
-    "package": "RobRex",
-    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
-    "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobRex",
-    "registry": "archived"
-  },
-  {
     "package": "robustbase",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/robustbase",
@@ -787,20 +780,6 @@
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
     "subdir": "pkg/ROptEst"
-  },
-  {
-    "package": "ROptEstOld",
-    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
-    "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptEstOld",
-    "registry": "archived"
-  },
-  {
-    "package": "ROptRegTS",
-    "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
-    "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/ROptRegTS",
-    "registry": "archived"
   },
   {
     "package": "Rsymphony",

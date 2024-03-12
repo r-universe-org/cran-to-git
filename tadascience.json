@@ -1,5 +1,10 @@
 [
   {
+    "package": "link",
+    "maintainer": "Romain François <romain@tada.science>",
+    "url": "https://github.com/tadascience/link"
+  },
+  {
     "package": "react",
     "maintainer": "Romain François <romain@tada.science>",
     "url": "https://github.com/tadascience/react"
