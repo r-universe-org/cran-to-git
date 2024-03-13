@@ -1,5 +1,10 @@
 [
   {
+    "package": "Fluidigm",
+    "maintainer": "Daniel Fischer <Daniel.Fischer@luke.fi>",
+    "url": "https://github.com/fischuu/fluidigm"
+  },
+  {
     "package": "GenomicTools.fileHandler",
     "maintainer": "Daniel Fischer <daniel.fischer@luke.fi>",
     "url": "https://github.com/fischuu/genomictools.filehandler"

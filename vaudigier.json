@@ -1,5 +1,10 @@
 [
   {
+    "package": "clusterMI",
+    "maintainer": "Vincent Audigier <vincent.audigier@cnam.fr>",
+    "url": "https://github.com/cran/clusterMI"
+  },
+  {
     "package": "micemd",
     "maintainer": "Vincent Audigier <vincent.audigier@cnam.fr>",
     "url": "https://github.com/cran/micemd"

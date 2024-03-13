@@ -2978,6 +2978,7 @@ clusterHD,cran
 Clustering,laperez
 clustering.sc.dp,cran
 ClusterJudge,bioc
+clusterMI,vaudigier
 clustermole,igordot
 clustermq,mschubert
 clusternomics,evelinag
@@ -3034,7 +3035,7 @@ cmhc,mountainmath
 CMHNPA,cran
 cml,cran
 CMLS,cran
-cmm,cran
+cmm,avdrark
 cmmr,yaoxiangli
 CMMs,buybnb
 cmna,k3jph
@@ -3283,6 +3284,7 @@ compEpiTools,bioc
 comperank,echasnovski
 comperes,echasnovski
 competitiontoolbox,luciu5
+CompGR,9437951970
 compHclust,cran
 Compind,fvidoli
 compindexR,olgnaydn
@@ -3610,7 +3612,6 @@ countSTAR,bking124
 countToFPKM,aalhendi1707
 countTransformers,zhang-zeyu
 countts,cran
-coursekata,coursekata
 covadap,cran
 covafillr,calbertsen
 covatest,sandradeiaco
@@ -3664,6 +3665,7 @@ coxed,jkropko
 coxerr,cran
 CoxICPen,cran
 coxme,cran
+Coxmos,biostatomics
 coxphf,georgheinze
 coxphMIC,xgsu
 coxphSGD,marcinkosinski
@@ -6721,6 +6723,7 @@ flps,sooyongl
 FLR,consmavr
 flsa,hhoeflin
 FLSSS,whateverliu
+Fluidigm,fischuu
 fluidsynth,ropensci
 FluMoDL,thlytras
 fluoSurv,jferdy
@@ -7943,6 +7946,7 @@ glmmLasso,hoarzpassey
 glmmML,goranbrostrom
 glmmPen,hheiling
 glmmrBase,samuel-watson
+glmmrOptim,samuel-watson
 GLMMRR,cran
 GLMMselect,cran
 glmmSeq,myles-lewis
@@ -7956,6 +7960,7 @@ GLMpack,smtorres
 glmpath,cran
 glmpathcr,kelliejarcher
 glmpca,willtownes
+glmpermu,ubcxzhang
 GLMsData,peterkdunn
 GlmSimulatoR,gmcmacran
 glmSparseNet,sysbiomed
@@ -8457,7 +8462,7 @@ gwaRs,lindonkambule
 GWAS.BAYES,bioc
 GWASbyCluster,ubclxing
 gwascat,vjcitn
-GWASExactHW,cran
+GWASExactHW,smgogarten
 gwasforest,yilixu
 GWASinlps,nilotpalsanyal
 GWASinspector,cran
@@ -8497,6 +8502,7 @@ h2otools,haghish
 H2x2Factorial,billytian
 h3jsr,obrl-soil
 h3lib,symbolixau
+h3r,symbolixau
 h5vc,bioc
 haarfisz,cran
 habCluster,qiangxyz
@@ -9051,6 +9057,7 @@ hypothesisr,mdlincoln
 hypr,mmrabe
 hypsoLoop,fgashakamba
 HyRiM,cran
+hySAINT,lli289
 hySpc.testthat,cbeleites
 hystar,daandejongen
 hysteresis,spencerm89
@@ -9468,6 +9475,7 @@ inplace,privefl
 InPosition,cran
 INPower,wheelerb
 INQC,indecis-project
+Inquilab,cran
 insane,mcanouil
 insect,shaunpwilkinson
 insectDisease,viralemergence
@@ -10624,7 +10632,7 @@ lipidmapsR,mingzhuotina
 LipidMS,maialba3
 lipidomeR,cran
 lipidr,ahmohamed
-LipinskiFilters,cran
+LipinskiFilters,ocheab
 liqueueR,datawookie
 LiquidAssociation,bioc
 lira,cran
@@ -11611,6 +11619,7 @@ metalite,merck
 metalite.ae,merck
 metalite.table1,elong0527
 MetaLonDA,aametwally
+MetAlyzer,nilsmechtel
 metaMA,sblanck
 metamedian,stmcg
 metamer,eliocamp
@@ -12319,7 +12328,7 @@ MOGAMUN,elvanov
 mogavs,cran
 mogsa,bioc
 mojson,chriswweibo
-mokken,cran
+mokken,avdrark
 moko,coldfir3
 molaR,cran
 MoLE,samlestrade2
@@ -13876,6 +13885,7 @@ optimg,vthorrf
 optimization,kaihusmann
 optimizeR,loelschlaeger
 optimLanduse,forest-economics-goettingen
+OptimModel,cran
 optimos.prime,jcochero
 optimParallel,florafauna
 optimsimplex,cran
@@ -14675,6 +14685,7 @@ PHInfiniteEstimates,kolassa-dev
 PhIPData,athchen
 PhitestR,cran
 phm,cran
+phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
 phonfieldwork,ropensci
 phonics,k3jph
@@ -18876,6 +18887,7 @@ sfadv,ydesjeux
 sfaR,hdakpo
 sfarrow,wcjochem
 sfc,ctfysh
+sfcentral,cran
 sfcr,joaomacalos
 sfd,topepo
 sfdct,hypertidy
@@ -22896,6 +22908,7 @@ xutils,fangzhou-xie
 xVA,xvacode
 XVector,bioconductor
 xwf,willemvandenboom
+xxhashlite,coolbutuseless
 xxIRT,xluo11
 yacca,cran
 yaConsensus,stefanomp
