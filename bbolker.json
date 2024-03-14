@@ -18,5 +18,10 @@
     "package": "R2admb",
     "maintainer": "Ben Bolker <bolker@mcmaster.ca>",
     "url": "https://github.com/cran/R2admb"
+  },
+  {
+    "package": "reformulas",
+    "maintainer": "Ben Bolker <bolker@mcmaster.ca>",
+    "url": "https://github.com/bbolker/reformulas"
   }
 ]

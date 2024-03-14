@@ -1851,6 +1851,7 @@ bmstdr,sujit-sahu
 BMT,cjtorresj
 BMTAR,adrincont
 bnbc,hansenlab
+bnclassify,bmihaljevic
 bnClustOmics,polinasuter
 bndesr,igorlaltuf
 bndovb,yujunghwang
@@ -2816,6 +2817,7 @@ ciu,cran
 ciuupi2,pvkabaila
 civ,thomaswiemann
 civis,civisanalytics
+ciw,eddelbuettel
 CJAMP,skonigor
 cjar,benrwoodard
 cjbart,tsrobinson
@@ -3335,7 +3337,7 @@ concorR,atraxlab
 concrete,imbroglio-dc
 concstats,ropensci
 CONCUR,sth1402
-cond,cran
+cond,arbrazzale
 CondCopulas,alexisderumigny
 condensr,mikelydeamore
 condformat,zeehio
@@ -3848,7 +3850,7 @@ CryptRndTest,haydarde
 cryst,claudiopozo
 csa,imarkonis
 csalert,csids
-csampling,cran
+csampling,arbrazzale
 CSAR,bioc
 csaw,bioc
 CsChange,marsdu1989
@@ -3997,7 +3999,7 @@ CVrisk,vcastro
 cvsem,annawysocki
 CVST,cran
 CVThresh,dkimstatlab
-cvTools,cran
+cvTools,aalfons
 cvwrapr,kjytay
 CVXR,cvxgrp
 cwbtools,polmine
@@ -5264,7 +5266,7 @@ EasyABC,r-forge
 easyAHP,marsdu1989
 easyalluvial,erblast
 easyanova,cran
-easybgm,cran
+easybgm,karolinehuth
 EasyCellType,bioc
 easycensus,corymccartan
 easyclimate,verughub
@@ -7306,6 +7308,7 @@ GEEmediate,daniel258
 geepack,hojsgaard
 geesmv,cran
 geessbin,rtishii
+geeVerse,zzz1990771
 geex,bsaul
 geigen,cran
 geiger,lukejharmon
@@ -10776,6 +10779,7 @@ loggit,ryapric
 logib,cran
 logiBin,snehatody1
 logicDT,michlau
+LogicForest,cran
 logicFS,holgerschw
 LogicReg,cran
 logihist,cran
@@ -11165,7 +11169,7 @@ march,cran
 marcher,eligurarie
 marelac,karlines
 MareyMap,lbbe-software
-marg,cran
+marg,arbrazzale
 margaret,coreofscience
 MargCond,cran
 marginaleffects,vincentarelbundock
@@ -11289,7 +11293,7 @@ mauricer,ropensci
 MAVE,cran
 maxcombo,tprior1
 MaxentVariableSelection,alj1983
-maximin,minniesun
+maximin,cran
 MaximinInfer,cran
 maxLik,otoomet
 maxlike,roelandkindt
@@ -13288,7 +13292,7 @@ nlpred,benkeser
 nlpsem,veronica0206
 NLPutils,kurthornik
 nlraa,femiguez
-nlreg,cran
+nlreg,arbrazzale
 NLRoot,zhengsengui
 nlrr,zhanyq
 nlrx,ropensci
@@ -16026,6 +16030,7 @@ R2sample,wolfgangrolke
 r2shortcode,oobianom
 r2social,oobianom
 r2spss,aalfons
+r2stl,paulnorthrop
 r2sundials,sgsokol
 R2SWF,yixuan
 r2symbols,oobianom
@@ -16744,6 +16749,7 @@ refinr,chrismuir
 refitME,cran
 reflimR,reflim
 RefManageR,ropensci
+reformulas,bbolker
 RefPlus,bioc
 refreg,cran
 refreshr,jsugarelli
@@ -18402,6 +18408,7 @@ scan,jazznbass
 SCAN.UPC,bioc
 scanMiR,bioc
 scanMiRApp,bioc
+scAnnotate,ubcxzhang
 scAnnotatR,grisslab
 scanstatistics,promerpr
 SCANVIS,bioc
@@ -18887,7 +18894,7 @@ sfadv,ydesjeux
 sfaR,hdakpo
 sfarrow,wcjochem
 sfc,ctfysh
-sfcentral,cran
+sfcentral,gabrielvgaona
 sfcr,joaomacalos
 sfd,topepo
 sfdct,hypertidy

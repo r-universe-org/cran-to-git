@@ -20,6 +20,11 @@
     "url": "https://github.com/eddelbuettel/binb"
   },
   {
+    "package": "ciw",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ciw"
+  },
+  {
     "package": "crc32c",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/crc32c"
