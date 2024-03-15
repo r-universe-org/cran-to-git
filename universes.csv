@@ -1463,6 +1463,7 @@ BG2,bioc
 BGData,quantgen
 BgeeCall,bgeedb
 BgeeDB,bgeedb
+bgev,cran
 bgeva,giampmarra
 BGFD,cran
 bggAnalytics,jakubbujnowicz
@@ -2240,6 +2241,7 @@ callr,r-lib
 callsync,simeonqs
 calm,k22liang
 calmate,henrikbengtsson
+calmr,victor-navarro
 calpassapi,vinhdizzo
 CalSim,resinj
 CAMAN,doebler
@@ -2474,7 +2476,6 @@ cd,cleanzr
 cdata,winvector
 CDatanet,ahoundetoungan
 cdcatR,miguel-sorrel
-cdcfluview,hrbrmstr
 CDCPLACES,brendensm
 cdcsis,mamba413
 cde,ropensci
@@ -3303,6 +3304,7 @@ CompModels,tpourmohamad
 COMPoissonReg,lotze
 CompositeReliability,jmoonen
 Compositional,cran
+CompositionalML,cran
 compositions,cran
 compound.Cox,cran
 CompoundDb,rformassspectrometry
@@ -3697,6 +3699,7 @@ cpm,gordonjamesross
 cpmBigData,cran
 CPMCGLM,jeremieriou
 CpmERCCutoff,cran
+cpmr,psychelzh
 CPNCoverageAnalysis,smorenoa
 cpop,cran
 CPP,gaviao67
@@ -3937,6 +3940,7 @@ cubfits,snoweye
 cubicBsplines,plambertuliege
 cubing,cran
 Cubist,topepo
+cucumber,jakubsob
 cuda.ml,mlverse
 CUFF,giguerch
 cultevo,kevinstadler
@@ -4742,6 +4746,7 @@ discnorm,cran
 discord,r-computing-lab
 discordant,siskac
 DiscoRhythm,matthewcarlucci
+DiSCos,davidvandijcke
 discourseGT,q1cui
 discoveR,cran
 discoverableresearch,cran
@@ -4906,6 +4911,7 @@ dng,feng-li
 DNH4,forkonlp
 DNLC,yushengding
 DNMF,zhilongjia
+dnn,statapps
 dnr,abhirupkgp
 do,yikeshu0611
 DOBAD,cran
@@ -7135,6 +7141,7 @@ GALLO,pablobio
 galts,cran
 galvanizer,jonlinca
 gam,trevorhastie
+gam.hp,laijiangshan
 GaMaBioMD,sandipgarai
 gamair,cran
 gambin,txm676
@@ -7625,6 +7632,7 @@ ggborderline,wurli
 ggbrace,nicolash2
 ggbrain,michaelhallquist
 ggbreak,yulab-smu
+ggbrick,doehm
 ggBubbles,cran
 ggbuildr,jongbinjung
 ggbump,davidsjoberg
@@ -10634,6 +10642,7 @@ lionessR,mararie
 lipidmapsR,mingzhuotina
 LipidMS,maialba3
 lipidomeR,cran
+LipidomicsR,zhuhengyudashuaibi
 lipidr,ahmohamed
 LipinskiFilters,ocheab
 liqueueR,datawookie
@@ -10890,7 +10899,7 @@ lpsymphony,bioc
 LPWC,gitter-lab
 LqG,lirong95
 lqmix,mfrancesca-marino
-lqmm,cran
+lqmm,marco-geraci
 lqr,chedgala
 LRBaseDbi,kokitsuyuzaki
 LRcell,marvinquiet
@@ -11293,7 +11302,7 @@ mauricer,ropensci
 MAVE,cran
 maxcombo,tprior1
 MaxentVariableSelection,alj1983
-maximin,cran
+maximin,sunf16
 MaximinInfer,cran
 maxLik,otoomet
 maxlike,roelandkindt
@@ -13279,7 +13288,7 @@ nlmixr2extra,nlmixr2
 nlmixr2lib,nlmixr2
 nlmixr2plot,nlmixr2
 nlmixr2rpt,nlmixr2
-nlmm,cran
+nlmm,marco-geraci
 NLMR,ropensci
 nlmrt,nashjc
 nlMS,carmefont
@@ -13562,6 +13571,7 @@ NuPoP,jipingw
 NutrienTrackeR,rafael-ayala
 nutriNetwork,pariya
 nutrition,wleoncio
+nuts,ropensci
 NVAR,sciurus365
 NVCSSL,cran
 nvctr,euctrl-pru
@@ -14317,7 +14327,7 @@ patternize,stevenvb12
 patternplot,chunqiaoluo
 Patterns,fbertran
 pavo,rmaia
-pawacc,cran
+pawacc,marco-geraci
 paws,paws-r
 paws.analytics,dyfanjones
 paws.application.integration,dyfanjones
@@ -15881,7 +15891,7 @@ qtlnet,cran
 qtlpoly,gabrielgesteira
 QTLRel,cran
 QTOCen,yuzhou-isabella
-Qtools,cran
+Qtools,marco-geraci
 qtwAcademic,andreaczhang
 quadcleanR,dominiquemaucieri
 quadmatrix,kasakh
@@ -21161,6 +21171,7 @@ thames,njirons
 thankr,dirkschumacher
 ThankYouStars,ksmzn
 theft,hendersontrent
+theftdlc,hendersontrent
 theiaR,norival
 thematic,rstudio
 themis,tidymodels
@@ -22058,6 +22069,7 @@ unusualprofile,wjschne
 unvotes,dgrtwo
 uotm,heming0425
 UPCM,schaubert
+updateme,wurli
 updateObject,bioconductor
 updater,ddsjoberg
 updog,dcgerard
