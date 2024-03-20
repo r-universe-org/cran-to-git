@@ -6,9 +6,13 @@
     "registry": "archived"
   },
   {
+    "package": "survivalmodels",
+    "maintainer": "Yohann Foucher <yohann.foucher@univ-poitiers.fr>",
+    "url": "https://github.com/foucher-y/survivalmodels"
+  },
+  {
     "package": "survivalSL",
     "maintainer": "Yohann Foucher <yohann.foucher@univ-poitiers.fr>",
-    "url": "https://github.com/foucher-y/survivalsl",
-    "registry": "archived"
+    "url": "https://github.com/foucher-y/survivalsl"
   }
 ]
