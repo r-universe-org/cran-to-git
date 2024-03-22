@@ -1089,7 +1089,6 @@ bartCause,vdorie
 bartcs,yooyh
 bartMachine,cran
 bartMachineJARs,cran
-BartMixVs,chujiluo
 baRulho,marce10
 BAS,merliseclyde
 basad,qingdan
@@ -2401,6 +2400,7 @@ causaldrf,cran
 causaleffect,santikka
 CausalGAM,quinn-kevin
 CausalGPS,nsaph-software
+causalHyperGraph,mathiasambuehl
 CausalImpact,google
 CausalMBSTS,fmenchetti
 CausalMetaR,ly129
@@ -4507,6 +4507,7 @@ DESeq2,thelovelab
 Design.parameters,cran
 DesignCTPB,ubcxzhang
 designer,ashbaldry
+designit,bedapub
 DesignLibrary,declaredesign
 designmatch,cran
 designr,mmrabe
@@ -5187,6 +5188,7 @@ dundermifflin,cran
 Dune,hectorrdb
 dunlin,insightsengineering
 dunn.test,alexisdinno
+dupiR,federicocomoglio
 dupNodes,jj
 dupRadar,ssayols
 dupree,russhyde
@@ -5879,6 +5881,7 @@ esc,strengejacke
 escalation,brockk
 escape,bioc
 escheR,boyiguo1
+esci,rcalinjageman
 EScvtmle,lauren-eylerdang
 esDesign,yangzhao98
 eSDM,smwoodman
@@ -7524,6 +7527,7 @@ GeomxTools,bioc
 geonames,ropensci
 geonapi,eblondel
 geonetwork,famuvie
+geoperu,paulesantos
 GEOquery,seandavi
 geoR,paulojus
 GeoRange,jamestboyle
@@ -10607,7 +10611,6 @@ LindenmayeR,bryanhanson
 lindia,yeukyul
 LindleyPowerSeries,tragedybmc127
 lineagespot,biodataanalysisgroup
-LinearDetect,cran
 linearModel,cran
 LinearRegressionMDE,cran
 lineartestr,azulgarza
@@ -10747,6 +10750,7 @@ LobsterCatch,pnickchi
 lobstr,r-lib
 localboot,zzz1990771
 LocalControl,cran
+LocalCop,mlysy
 localFDA,aefdz
 localgauss,torekleppe
 localICE,viadee
@@ -12462,6 +12466,7 @@ moveWindSpeed,bart1
 movieROC,cran
 movMF,kurthornik
 mp,fatore
+mpae,rubenfcasal
 mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
@@ -12604,6 +12609,7 @@ msltrend,cran
 msm,chjackson
 msma,cran
 msme,cran
+MSmix,cmollica
 MSML,mommy003
 msmsEDA,bioc
 msmsTests,bioc
@@ -13933,7 +13939,6 @@ OptSig,jh8080
 OPTtesting,cran
 optweight,ngreifer
 opusminer,cbergmeir
-OpVaR,cran
 OPWeight,mshasan
 ora,cran
 OralOpioids,ankonahouston
@@ -14097,7 +14102,6 @@ packagefinder,jsugarelli
 packagepal,lddurbin
 packager,fvafrcu
 packageRank,lindbrook
-packagetrackr,cran
 packcircles,mbedward
 packDAMipd,sheejamk
 packer,johncoene
@@ -15225,6 +15229,7 @@ powerly,mihaiconstantin
 powerMediation,weiliang
 PowerNormal,gsagamezm
 powerpkg,danieleweeks
+powerPLS,angeella
 PowerSDI,gabrielblain
 powerSurvEpi,weiliang
 powerTCR,bioc
@@ -15646,7 +15651,6 @@ PTAk,cran
 PTE,cran
 PTERP,laylaparast
 ptest,angusian
-ptf,yeliuncsu
 ptinpoly,maisogjm
 pTITAN2,usepa
 ptm,jcaledo
@@ -18504,6 +18508,7 @@ schemr,stuart-morrison
 schex,saskiafreytag
 schoenberg,jadahlke
 scholar,yulab-smu
+SchoolDataIT,cran
 schoolmath,cran
 schoRsch,cran
 scHOT,bioc
@@ -18927,6 +18932,7 @@ sFFLHD,collinerickson
 sfheaders,dcooley
 sfhotspot,mpjashby
 sfinx,cran
+sfislands,horankev
 sfnetworks,luukvdmeer
 sfo,covidr
 SFS,cran
@@ -19321,7 +19327,6 @@ SimReg,daniel-jg
 simrel,simulatr
 simRestore,thijsjanzen
 SiMRiv,miguel-porto
-SimRVPedigree,simrvprojects
 sims,joethorley
 simsalapar,cran
 simsem,tdjorgensen
@@ -19393,7 +19398,6 @@ sitadela,pmoulos
 sitar,statist7
 sitePath,wuaipinglab
 sitepickR,sitepickr
-SitesInterest,cran
 siteymlgen,acribbs
 SITH,phillipnicol
 sitmo,coatless-rpkg
@@ -19752,6 +19756,7 @@ spam64,reinhardfurrer
 spaMM,f-rousset
 Spaniel,bioc
 spanish,ropenspain
+spANOVA,cran
 spant,martin3141
 sparcl,cran
 spark.sas7bdat,bnosac
@@ -21478,6 +21483,7 @@ tnet,toreopsahl
 tnl.Test,ihababusaif
 TNRS,bmaitner
 TnT,marlin-na
+tntpr,tntp
 TOAST,ziyili20
 toastui,dreamrs
 TOC,amsantac
@@ -22555,7 +22561,7 @@ waterYearType,cran
 Wats,ouhscbbmc
 watson,cran
 wav,mlverse
-wavClusteR,bioc
+wavClusteR,federicocomoglio
 waveband,cran
 waved,michaelstats
 WaveletANN,ranjitstat

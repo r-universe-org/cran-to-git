@@ -1,5 +1,10 @@
 [
   {
+    "package": "causalHyperGraph",
+    "maintainer": "Mathias Ambuehl <mathias.ambuehl@consultag.ch>",
+    "url": "https://github.com/cran/causalHyperGraph"
+  },
+  {
     "package": "cna",
     "maintainer": "Mathias Ambuehl <mathias.ambuehl@consultag.ch>",
     "url": "https://github.com/cran/cna"
