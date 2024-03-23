@@ -34,6 +34,7 @@ abjData,abjur
 abjutils,abjur
 ABM,junlingm
 abmR,workshop-brg
+abn,furrer-lab
 abnormality,mmarks13
 abodOutlier,josejimenezluna
 ABPS,fredericschutz
@@ -554,6 +555,7 @@ ANOFA,dcousin3
 ANOM,philippallmann
 anomalize,business-science
 anomaly,cran
+ANOPA,dcousin3
 anota,bioc
 anota2seq,bioc
 ANOVAIREVA,kartikeyabolar
@@ -3645,7 +3647,6 @@ covid19srilanka,thiyangtdata
 covid19swiss,covid19r
 covid19tunisia,mounabelaid
 covid19us,aedobbyn
-Covid19Wastewater,uw-madison-dsi
 covidcast,capnrefsmmat
 COVIDIBGE,gabriel-assuncao
 CovidMutations,msq-123
@@ -4169,7 +4170,7 @@ DataPackageR,ropensci
 datapasta,milesmcbain
 dataprep,cran
 dataPreparation,eltoulemonde
-dataquieR,cran
+dataquieR,struckma
 datardis,kittjonathan
 dataReporter,ekstroem
 dataresqc,ybrugnara
@@ -4382,7 +4383,6 @@ defineR,dbosak01
 deFit,cran
 deflateBR,meirelesff
 deflist,bbuchsbaum
-defm,gvegayon
 deforestable,otryakhin-dmitry
 deform,byoungman
 DEFormats,aoles
@@ -6669,7 +6669,7 @@ flexpolyline,munterfi
 FlexReg,cran
 flexrsurv,grzebyk
 FlexScan,marsdu1989
-flexsiteboard,cran
+flexsiteboard,struckma
 flexsurv,chjackson
 flexsurvcure,jrdnmdhl
 flextable,davidgohel
@@ -10548,7 +10548,6 @@ lgtdl,aallignol
 LHD,cran
 lhmixr,mintoc
 lhs,bertcarnell
-liayson,noemiandor
 libbib,tonyfischetti
 libcoin,thothorn
 libgeos,paleolimbot
@@ -11274,7 +11273,6 @@ matlib,friendly
 matman,cran
 matpow,cran
 matrans,cran
-matric,cytomining
 matricks,krzjoa
 matRiks,cran
 matrisk,cran
@@ -12196,7 +12194,6 @@ MLVSBM,chabert-liddell
 mlxR,marclavielle
 MLZ,quang-huynh
 MM,robinhankin
-MM2S,bhaibeka
 MM2Sdata,bhaibeka
 MM4LMM,laportefab
 mma,qingzhaoyu
@@ -12275,6 +12272,7 @@ MobilityTransformR,liesasalzer
 mobirep,alowis
 MoBPS,tpook92
 mobr,dmcglinn
+mobsim,mobiodiv
 MOCCA,hkestler
 MOCHA,cran
 mockery,r-lib
@@ -12648,6 +12646,7 @@ mstherm,jvolkening
 mstknnclust,jorgeklz
 mstR,cran
 mstrio,p-kowal
+mstudentd,santagos
 msu,eliasmacielr
 MSwM,josepasanchez
 mt,wanchanglin
@@ -12842,7 +12841,6 @@ music,egenn
 musica,hanel
 musicatk,campbio
 musicNMR,tkcaccia
-mustashe,jhrcook
 MutationalPatterns,bioc
 mutationtypes,selkamand
 mutoss,kornl
@@ -13457,6 +13455,7 @@ normr,your-highness
 nortest,uligges
 nortestARMA,lafaye
 nortsTest,asael697
+nos,txm676
 nose,cran
 nosoi,slequime
 NostalgiR,cran
@@ -13766,6 +13765,7 @@ oncoPredict,maese005
 oncoscanR,yannchristinat
 OncoScore,danro9685
 OncoSimulR,rdiaz02
+OncoSubtype,dadongz
 Oncotree,anikoszabo
 oncrawlR,cran
 ondisc,timothy-barry
@@ -16583,6 +16583,7 @@ rdeps,frbcesab
 rdflib,ropensci
 rdfp,stevenmmortimer
 rDGIdb,lbosshard
+RDHonest,kolesarm
 rdhs,ropensci
 rdi,cbolen1
 Rdiagnosislist,cran
@@ -18364,8 +18365,8 @@ saros,nifu-no
 SARP.compo,ecuris
 SARP.moodle,ecuris
 sarp.snowprofile,phaegeli
-sarp.snowprofile.alignment,csap9871
-sarp.snowprofile.pyface,csap9871
+sarp.snowprofile.alignment,fherla
+sarp.snowprofile.pyface,fherla
 sars,txm676
 sarsop,boettiger-lab
 sas7bdat,cran
@@ -18482,6 +18483,7 @@ scDblFinder,plger
 scDD,kdkorthauer
 scDDboost,wiscstatman
 scde,hms-dbmi
+SCdeconR,liuy12
 scdensity,cran
 scDesign3,songdongyuan1994
 scDHA,duct317
@@ -19756,7 +19758,7 @@ spam64,reinhardfurrer
 spaMM,f-rousset
 Spaniel,bioc
 spanish,ropenspain
-spANOVA,cran
+spANOVA,lrcastro
 spant,martin3141
 sparcl,cran
 spark.sas7bdat,bnosac
@@ -21656,6 +21658,7 @@ traveltimeR,traveltime-dev
 traviz,bioc
 trawl,almutveraart
 TRD,cran
+treasury,m-muecke
 TreatmentPatterns,darwin-eu-dev
 TreatmentSelection,mdbrown
 treats,tguillerme
@@ -21683,6 +21686,7 @@ treeio,ropensci
 treekoR,bioc
 treemap,mtennekes
 treemapify,wilkox
+TreeMineR,entjos
 treemisc,bgreenwell
 treenomial,gouldmatt
 treePlotArea,fvafrcu
