@@ -28,5 +28,11 @@
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/icobra",
     "registry": "bioc"
+  },
+  {
+    "package": "treeclimbR",
+    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
+    "url": "https://github.com/csoneson/treeclimbr",
+    "registry": "bioc"
   }
 ]

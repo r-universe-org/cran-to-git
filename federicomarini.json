@@ -1,5 +1,11 @@
 [
   {
+    "package": "bettr",
+    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
+    "url": "https://github.com/federicomarini/bettr",
+    "registry": "bioc"
+  },
+  {
     "package": "flowcatchR",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/flowcatchr",

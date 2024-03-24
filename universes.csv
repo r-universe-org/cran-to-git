@@ -1405,6 +1405,7 @@ Benchmarking,larsot23
 benchmarkme,csgillespie
 benchmarkmeData,csgillespie
 benchr,artemklevtsov
+BEND,crohlo
 bender,cran
 benford,cran
 benford.analysis,carloscinelli
@@ -1447,6 +1448,7 @@ bethel,micheledemeo
 BETS,nmecsys
 bets.covid19,qingyuanzhao
 BetterReg,chrisaberson
+bettr,federicomarini
 BeviMed,daniel-jg
 bexy,cran
 BeyondBenford,cran
@@ -3120,6 +3122,7 @@ coda,martynplummer
 coda.base,mcomas
 coda4microbiome,tonisusin
 codacore,egr95
+CoDaImpact,lukece
 codalm,jfiksel
 codaredistlm,tystan
 CodataGS,larsronn
@@ -4387,6 +4390,7 @@ deforestable,otryakhin-dmitry
 deform,byoungman
 DEFormats,aoles
 deformula,okamumu
+DegCre,briansroberts
 degday,ucanr-igis
 DegNorm,jipingw
 DEGraph,bioc
@@ -5170,6 +5174,7 @@ dtw,tonigi
 DTWBI,cran
 dtwclust,asardaes
 DTwrappers,mb4511
+DTwrappers2,srivastavbudugutta
 DTWUMI,cran
 dual,drwolf85
 dual.spls,alsoukil
@@ -7122,7 +7127,6 @@ fy,hughparsonage
 g.data,cran
 g.ridge,cran
 G2Sd,reg-gallon
-g3viz,g3viz
 GA,luca-scr
 GA4GHclient,labbcb
 GA4GHshiny,labbcb
@@ -7884,6 +7888,7 @@ GiniDecompLY,a-a-mbarek
 GiniDistance,cran
 giniVarCI,jfmunozrosas
 GiniWegNeg,cran
+ginmappeR,bioc
 ginormal,smonto2
 GInSARCorW,subhadipdatta
 gIPFrm,annaklimovauw
@@ -11712,6 +11717,7 @@ MethylAid,bioc
 methylCC,stephaniehicks
 methylclock,isglobal-brge
 methylGSA,reese3928
+methyLImp2,annaplaksienko
 methylInheritance,adeschen
 methylKit,al2na
 MethylMix,bioc
@@ -12334,6 +12340,7 @@ modMax,cran
 modnets,tswanson222
 modopt.matlab,rhochreiter
 modQR,cran
+modsem,kss2k
 ModStatR,fbertran
 Modstrings,felixernst
 ModTools,andrisignorell
@@ -19294,6 +19301,7 @@ simodels,robinlovelace
 simona,jokergoo
 simPH,christophergandrud
 simphony,hugheylab
+simPIC,sagrikachugh
 simplace,gk-crop
 simplanonym,dkgaraujo
 SIMPLE.REGRESSION,bpoconnor
@@ -20526,6 +20534,7 @@ studyStrap,gloewing
 STV,jayemerson
 stxplore,sevvandi
 styler,r-lib
+stylest2,cran
 stylo,computationalstylistics
 SubCellBarCode,bioc
 subcopem2D,cran
@@ -21051,6 +21060,7 @@ TensorClustering,cran
 TensorComplete,cran
 tensorEVD,cran
 tensorflow,rstudio
+tensorMiss,cran
 TensorPreAve,william-chenwl
 tensorregress,jhu267
 tensorsparse,yzeng58
@@ -21594,6 +21604,7 @@ tracktables,bioc
 trackViewer,jianhong
 tractor.base,tractor
 trade,luciu5
+tradepolicy,pachadotdev
 TRADER,pavel-fibich
 tradeSeq,statomics
 tradestatistics,ropensci
@@ -21670,6 +21681,7 @@ treebalance,cran
 treebase,ropensci
 TreeBUGS,danheck
 treeclim,cszang
+treeclimbR,csoneson
 treeClust,buttrey
 treeDA,jfukuyama
 treedata.table,ropensci
@@ -22254,6 +22266,7 @@ VarSelLCM,r-forge
 varSelRF,rdiaz02
 varsExplore,vladtarko
 VARshrink,namgillee
+vartest,osmandag
 varTestnlme,baeyc
 varycoef,cran
 vasicek,statcompute
