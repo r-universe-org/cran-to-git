@@ -3,5 +3,10 @@
     "package": "abc",
     "maintainer": "Blum Michael <michael.blum.temp@gmail.com>",
     "url": "https://github.com/cran/abc"
+  },
+  {
+    "package": "abc.data",
+    "maintainer": "Blum Michael <michael.blum.temp@gmail.com>",
+    "url": "https://github.com/cran/abc.data"
   }
 ]

@@ -13,7 +13,7 @@ ABarray,bioc
 abasequence,cran
 abbreviate,sigbertklinke
 abc,mblumuga
-abc.data,cran
+abc.data,mblumuga
 ABC.RAP,cran
 ABCanalysis,cran
 abclass,wenjie2wang
@@ -1339,8 +1339,6 @@ bcv,michbur
 bda,cran
 BDAlgo,karasiewiczstephane
 bdc,brunobrr
-bdchecks,bd-r
-bdclean,bd-r
 bdDwC,pogibas
 bde,gsantafe
 BDEsize,cran
@@ -5935,7 +5933,7 @@ EthSEQ,cibiobcg
 etl,beanumber
 ETLUtils,jwijffels
 etm,mclements
-etma,xup6fup
+etma,cran
 etrader,exploringfinance
 etree,ricgbl
 etrm,sleire
@@ -8212,7 +8210,7 @@ gradeR,trb5me
 graDiEnt,bmgaldo
 gradientPickerD3,peikert
 grafify,ashenoy-cmbi
-grafzahl,chainsawriot
+grafzahl,gesistsa
 gRain,hojsgaard
 grainchanger,ropensci
 grainscape,achubaty
@@ -8778,7 +8776,7 @@ HiClimR,hsbadr
 HiContacts,js2264
 HiCool,js2264
 hicp,eurostat
-HiCseg,levyleduc
+HiCseg,cran
 hicVennDiagram,jianhong
 hiddenf,jasonaosborne
 HiddenMarkov,cran
@@ -12261,7 +12259,7 @@ mnlfa,alexanderrobitzsch
 MNLpred,manuelneumann
 MNLR,kartikeyabolar
 MNM,cran
-mnmer,aandradebio
+mnmer,cran
 mnonr,cran
 mnorm,bogdanpotanin
 mnormt,cran
@@ -20534,7 +20532,7 @@ studyStrap,gloewing
 STV,jayemerson
 stxplore,sevvandi
 styler,r-lib
-stylest2,cran
+stylest2,cbaehr
 stylo,computationalstylistics
 SubCellBarCode,bioc
 subcopem2D,cran
@@ -21016,7 +21014,7 @@ TeachNet,cran
 teal,insightsengineering
 teal.code,insightsengineering
 teal.data,insightsengineering
-teal.logger,gogonzo
+teal.logger,insightsengineering
 teal.modules.clinical,insightsengineering
 teal.modules.general,insightsengineering
 teal.reporter,insightsengineering
@@ -21060,7 +21058,7 @@ TensorClustering,cran
 TensorComplete,cran
 tensorEVD,cran
 tensorflow,rstudio
-tensorMiss,cran
+tensorMiss,zerokgkg1368
 TensorPreAve,william-chenwl
 tensorregress,jhu267
 tensorsparse,yzeng58
@@ -22236,7 +22234,7 @@ vardpoor,csblatvia
 VarED,cran
 VaRES,lbelzile
 varEst,cran
-VarfromPDB,zongfu
+VarfromPDB,cran
 varhandle,mmahmoudian
 variability,popatraj
 variables,r-forge

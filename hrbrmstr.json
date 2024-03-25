@@ -47,7 +47,8 @@
   {
     "package": "pluralize",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://gitlab.com/hrbrmstr/pluralize"
+    "url": "https://gitlab.com/hrbrmstr/pluralize",
+    "registry": "archived"
   },
   {
     "package": "qrencoder",
@@ -92,7 +93,8 @@
   {
     "package": "ulid",
     "maintainer": "Bob Rudis <bob@rud.is>",
-    "url": "https://gitlab.com/hrbrmstr/ulid"
+    "url": "https://gitlab.com/hrbrmstr/ulid",
+    "registry": "archived"
   },
   {
     "package": "vegalite",
