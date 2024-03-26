@@ -985,7 +985,6 @@ aws.wrfsmn,gonzalo1985
 awsMethods,jpolzehl
 awst,drisso
 axisandallies,cran
-AZIAD,niloufardousti
 azlogr,atalv
 AzureAppInsights,stefanedwards
 AzureAuth,azure
@@ -1699,6 +1698,7 @@ bionetdata,gvalentini58
 BioNetStat,jardimviniciusc
 BioPET,cran
 BioPETsurv,chengs94
+biopixR,brauckhoff
 bioPN,cran
 BioProbability,cran
 BioQC,accio
@@ -2639,6 +2639,7 @@ ChangepointTesting,sth1402
 changepointTests,cran
 changer,helske
 changeRangeR,meblair
+changeS,matloff
 ChannelAttribution,cran
 ChannelAttributionApp,davidealtomare
 chantrics,maebruck
@@ -5141,6 +5142,7 @@ dSVA,leeshawn
 DSWE,tamu-aml
 DT,rstudio
 DTA,bioc
+Dtableone,cran
 dtangle,gjhunt
 DTAplots,ianschiller
 DTAT,dcnorris
@@ -5933,7 +5935,7 @@ EthSEQ,cibiobcg
 etl,beanumber
 ETLUtils,jwijffels
 etm,mclements
-etma,cran
+etma,xup6fup
 etrader,exploringfinance
 etree,ricgbl
 etrm,sleire
@@ -6780,6 +6782,7 @@ FMStable,cran
 fmt,cran
 fmtr,dbosak01
 fMultivar,theussl
+fmx,tingtingzhan
 fnets,haeran-cho
 FNN,cran
 fNonlinear,waternumbers
@@ -7174,6 +7177,7 @@ gamlss.data,cran
 gamlss.demo,cran
 gamlss.dist,gamlss-dev
 gamlss.foreach,cran
+gamlss.ggplots,gamlss-dev
 gamlss.inf,cran
 gamlss.lasso,flziel
 gamlss.mx,cran
@@ -8758,7 +8762,6 @@ HGSL,cran
 hgutils,hvdboorn
 hgwrr,hpdell
 HH,rmheiberger
-HHG,barakbri
 hhh4contacts,bastistician
 hhi,cran
 HhP,cran
@@ -8776,7 +8779,7 @@ HiClimR,hsbadr
 HiContacts,js2264
 HiCool,js2264
 hicp,eurostat
-HiCseg,cran
+HiCseg,levyleduc
 hicVennDiagram,jianhong
 hiddenf,jasonaosborne
 HiddenMarkov,cran
@@ -9263,6 +9266,7 @@ iemisc,iembry
 iemiscdata,iembry
 iemisctext,iembry
 IETD,lfduquey
+ieugwasr,mrcieu
 IFAA,quranwu
 ifaTools,jpritikin
 IFC,gitdemont
@@ -12031,7 +12035,6 @@ MittagLeffleR,strakaps
 miWQS,phargarten2
 mix,cran
 mixAK,cran
-MixAll,joblion
 mixAR,geobosh
 mixbox,mahditeimouri
 mixcat,papgeo
@@ -12259,7 +12262,7 @@ mnlfa,alexanderrobitzsch
 MNLpred,manuelneumann
 MNLR,kartikeyabolar
 MNM,cran
-mnmer,cran
+mnmer,aandradebio
 mnonr,cran
 mnorm,bogdanpotanin
 mnormt,cran
@@ -14570,7 +14573,6 @@ perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
 PERFect,cxquy91
-perfectphyloR,cbhagya
 PerFit,jorgetendeiro
 PerfMeas,gvalentini58
 performance,easystats
@@ -15120,6 +15122,7 @@ polyreg,matloff
 polysat,lvclark
 polySegratio,petebaker
 polySegratioMM,petebaker
+PolyTree,cran
 PolyTrend,hristotomov
 polywog,brentonk
 POMA,pcastellanoescuder
@@ -15889,7 +15892,7 @@ qsub,rcannood
 QSutils,bioc
 qsvaR,lieberinstitute
 qte,bcallaway11
-QTE.RD,cran
+QTE.RD,jungmoyoon
 qtl,kbroman
 QTL.gCIMapping,yuanmingzhang
 QTL.gCIMapping.GUI,yuanmingzhang
@@ -20980,6 +20983,7 @@ tclust,valentint
 Tcomp,ellisp
 tcpl,usepa
 tcplfit2,brown-jason
+TCPMOR,shuo-yang-sysu
 TCseq,bioc
 td,eddelbuettel
 TDA,jkim82133
@@ -22234,7 +22238,7 @@ vardpoor,csblatvia
 VarED,cran
 VaRES,lbelzile
 varEst,cran
-VarfromPDB,cran
+VarfromPDB,zongfu
 varhandle,mmahmoudian
 variability,popatraj
 variables,r-forge

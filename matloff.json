@@ -1,5 +1,10 @@
 [
   {
+    "package": "changeS",
+    "maintainer": "Norm Matloff <nsmatloff@ucdavis.edu>",
+    "url": "https://github.com/matloff/changes"
+  },
+  {
     "package": "partools",
     "maintainer": "Norm Matloff <normmatloff@gmail.com>",
     "url": "https://github.com/matloff/partools"
