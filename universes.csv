@@ -55,7 +55,7 @@ acc,cran
 acca,cran
 accelerometry,vandomed
 accelmissing,jungaeleeb
-AccelStab,cran
+AccelStab,accelstab
 accept,resplab
 AcceptanceSampling,andreaskiermeier
 accessibility,ipeagit
@@ -1621,7 +1621,7 @@ bio.infer,cran
 bio3d,bioboot
 bioacoustics,wavx
 bioassayR,girke-lab
-bioassays,anwarbio
+bioassays,cran
 Biobase,bioconductor
 biobricks,tomlue
 biobroom,storeylab
@@ -1936,7 +1936,7 @@ boral,fhui28
 borealis,bioc
 borrowr,cran
 Boruta,cran
-BOSO,lvalcarcel
+BOSO,cran
 BosonSampling,cran
 BoSSA,lefeup
 bossR,ubcxzhang
@@ -6174,6 +6174,7 @@ fable.ata,alsabtay
 fable.prophet,mitchelloharawild
 fabletools,tidyverts
 fabMix,mqbssppe
+fabPrediction,betsybersson
 fabR,guifabre
 fabricatr,declaredesign
 fabricerin,feddelegrand7
@@ -6485,7 +6486,7 @@ FFTrees,ndphillips
 fftw,uligges
 fftwtools,krahim
 FGalgorithm,cran
-fGarch,r-forge
+fGarch,geobosh
 fgdr,uribo
 fgeo,forestgeo
 fgeo.analyze,forestgeo
@@ -6669,6 +6670,7 @@ flexmet,leahfeuerstahler
 flexmix,cran
 flexmixNL,cran
 flexmsm,cran
+flexOR,martaaaa
 FlexParamCurve,cran
 flexpolyline,munterfi
 FlexReg,cran
@@ -7969,6 +7971,7 @@ GLMMadaptive,drizopoulos
 GLMMcosinor,ropensci
 glmmEP,mattwand
 glmmfields,seananderson
+glmMisrep,pleasedontdothat
 glmmLasso,hoarzpassey
 glmmML,goranbrostrom
 glmmPen,hheiling
@@ -10724,7 +10727,7 @@ LMMsolver,biometris
 LMMstar,bozenne
 LMN,mlysy
 lmodel2,jarioksa
-LMoFit,mohanad-zaghloul
+LMoFit,cran
 lmom,cran
 lmomco,wasquith
 Lmoments,juhakarvanen
@@ -10832,7 +10835,7 @@ lolliplot,zhangrenl
 lolog,statnet
 lolR,neurodata
 LOMAR,jkh1
-lomb,cran
+lomb,thomaspruf
 long2lstmarray,luisgarcez11
 LongCART,madanstat
 longCatEDA,stueller
@@ -13602,6 +13605,7 @@ nzelect,ellisp
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
 nzpullover,nacnudus
+o2geosocial,alxsrobert
 o2plsda,guokai8
 oaColors,cran
 oai,ropensci
@@ -15031,6 +15035,7 @@ pmvalsampsize,cran
 pmwg,university-of-newcastle-research
 PMwR,enricoschumann
 pmxcode,cran
+pmxcv,cran
 pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
@@ -16092,7 +16097,7 @@ r6extended,petermeissner
 r6methods,jakubsob
 R6P,tidylab
 ra4bayesmeta,manuelaott
-rabhit,ayeletperes
+rabhit,cran
 rabi,andburch
 RABR,tian-yu-zhan
 RAC,damianobaldan
@@ -16876,6 +16881,7 @@ ReMFPCA,haghbinh
 remify,tilburgnetworkgroup
 remindR,cran
 remiod,xsswang
+REMLA,cran
 rEMM,mhahsler
 remmy,long39ng
 remote,tim-salabim
@@ -18421,6 +18427,7 @@ SBMSplitMerge,ludkinm
 SBN,flee598
 sbo,vgherard
 sboost,jadonwagstaff
+sbrl,hongyuy
 SBSDiff,cran
 sbtools,doi-usgs
 sbw,cran
@@ -20754,6 +20761,7 @@ swagger,rstudio
 swamp,lau-mel
 swaprinc,mncube
 swaRm,swarm-lab
+swaRmverse,marinapapa
 swatches,hrbrmstr
 SWATH2stats,peterblattmann
 SwathXtend,bioc
@@ -22293,6 +22301,7 @@ vcfppR,zilong-li
 vcfR,knausb
 vcmeta,dgbonett
 vcov,michaelchirico
+vcPB,sangkyustat
 vcpen,sinnweja
 vcr,ropensci
 vctrs,r-lib

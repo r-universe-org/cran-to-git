@@ -266,12 +266,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "fGarch",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/r-forge/rmetrics",
-    "subdir": "pkg/fGarch"
-  },
-  {
     "package": "fImport",
     "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
     "url": "https://github.com/r-forge/rmetrics",
