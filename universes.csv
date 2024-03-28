@@ -1621,7 +1621,7 @@ bio.infer,cran
 bio3d,bioboot
 bioacoustics,wavx
 bioassayR,girke-lab
-bioassays,cran
+bioassays,anwarbio
 Biobase,bioconductor
 biobricks,tomlue
 biobroom,storeylab
@@ -4003,6 +4003,7 @@ CVglasso,mgallow
 cvmaPLFAM,cran
 cvmdisc,cran
 cvmgof,romainazais
+CvmortalityMult,davidatance
 cvms,ludvigolsen
 CVR,cran
 CVrisk,vcastro
@@ -4096,6 +4097,7 @@ DALEX,modeloriented
 DALEXtra,modeloriented
 DALSM,plambertuliege
 daltoolbox,cefet-rj-dal
+daltoolboxdp,cefet-rj-dal
 DALY,brechtdv
 dam,slakov
 daMA,bioc
@@ -6486,7 +6488,7 @@ FFTrees,ndphillips
 fftw,uligges
 fftwtools,krahim
 FGalgorithm,cran
-fGarch,geobosh
+fGarch,cran
 fgdr,uribo
 fgeo,forestgeo
 fgeo.analyze,forestgeo
@@ -8255,7 +8257,6 @@ GraphPAC,bioc
 graphPAF,johnfergusonnuig
 GraphPCA,cran
 graphql,ropensci
-graphseg,goepp
 graphsim,tomkellygenetics
 graphTweets,johncoene
 graposas,cran
@@ -8988,6 +8989,7 @@ HTqPCR,bioc
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
+HTSeed,hardikghosh911
 HTSeqGenie,bioc
 HTSFilter,bioc
 htsr,p-chevallier
@@ -9048,6 +9050,7 @@ hydra,mkellerressel
 hydraulics,edm44
 HYDROCAL,cran
 HydroCode,cran
+hydroDCindex,alobondo
 hydroEvents,conradwasko
 hydrogeo,cran
 hydroGOF,hzambran
@@ -9404,7 +9407,6 @@ imputeREE,cicarrascog
 ImputeRobust,dsalfran
 imputeTestbench,neerajdhanraj
 imputeTS,steffenmoritz
-imputeYn,hasinurkhan
 iMRMC,brandon-gallas
 imsig,ajitjohnson
 IMTest,cran
@@ -9875,7 +9877,6 @@ jab.adverse.reactions,iembry
 jaccard,ncchung
 jack,stla
 jackalope,lucasnell
-jackknifeKME,hasinurkhan
 jackknifeR,mohanasundarams
 jackstrap,klebermsousa
 jackstraw,ncchung
@@ -10085,6 +10086,7 @@ kelvin,abarbour
 Kendall,angusian
 kendallRandomWalks,cran
 KenSyn,fbrun-acta
+KEPTED,tyy20
 kequate,cran
 keras,t-kalinowski
 keras3,rstudio
@@ -10727,7 +10729,7 @@ LMMsolver,biometris
 LMMstar,bozenne
 LMN,mlysy
 lmodel2,jarioksa
-LMoFit,cran
+LMoFit,mohanad-zaghloul
 lmom,cran
 lmomco,wasquith
 Lmoments,juhakarvanen
@@ -12486,6 +12488,7 @@ MPFE,cjb105
 MPGE,arunabhacodes
 MPI,faiarte
 mpindex,yng-me
+mpitbR,girelaignacio
 MPLikelihoodWB,hasinurkhan
 mplot,garthtarr
 MplusAutomation,michaelhallquist
@@ -13771,6 +13774,7 @@ onbrand,john-harrold
 onc.api,cran
 once,gdmcdonald
 OncoBayes2,weberse2
+Oncofilterfast,cran
 oncomix,bioc
 oncomsm,boehringer-ingelheim
 oncoPredict,maese005
@@ -14541,7 +14545,6 @@ penAFT,cran
 penalized,jellegoeman
 penalizedcdf,cran
 penalizedclr,veradjordjilovic
-penalizedLDA,cran
 penalizedSVM,fbertran
 penaltyLearning,tdhock
 pencal,m-signo
@@ -14898,6 +14901,7 @@ planr,nguyennico
 planscorer,christopherkenny
 plantecophys,remkoduursma
 plantecowrap,jstinzi
+plantphysioR,rameshram96
 planttfhunter,almeidasilvaf
 plantTracker,aestears
 plaqr,cran
@@ -15035,7 +15039,7 @@ pmvalsampsize,cran
 pmwg,university-of-newcastle-research
 PMwR,enricoschumann
 pmxcode,cran
-pmxcv,cran
+pmxcv,jpryby
 pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
@@ -16097,7 +16101,7 @@ r6extended,petermeissner
 r6methods,jakubsob
 R6P,tidylab
 ra4bayesmeta,manuelaott
-rabhit,cran
+rabhit,ayeletperes
 rabi,andburch
 RABR,tian-yu-zhan
 RAC,damianobaldan
@@ -16176,6 +16180,7 @@ RandMeta,cran
 randnet,tianxili
 rando,myko101
 random,eddelbuettel
+random.cdisc.data,shajoezhu
 random.polychor.pa,cran
 randomcoloR,ronammar
 randomForest,andyliaw-mrk
@@ -16881,7 +16886,7 @@ ReMFPCA,haghbinh
 remify,tilburgnetworkgroup
 remindR,cran
 remiod,xsswang
-REMLA,cran
+REMLA,bryansaul
 rEMM,mhahsler
 remmy,long39ng
 remote,tim-salabim
@@ -17208,7 +17213,6 @@ ribosomeProfilingQC,jianhong
 ricegeneann,cran
 riceidconverter,cran
 riceware,fmichonneau
-rich,cran
 Ricrt,flankado
 ricu,eth-mds
 rid,cran
@@ -18768,7 +18772,7 @@ Select,cran
 selectapref,jcrichardson617
 SelectBoost,fbertran
 selection.index,zankrut20
-SelectionBias,cran
+SelectionBias,stizet
 selectiongain,cran
 selectiveInference,tibshirani
 selectKSigs,bioc
@@ -20246,7 +20250,7 @@ SSVS,sabainter
 ssym,cran
 st,cran
 sta,cran
-stabiliser,cran
+stabiliser,roberthyde
 stability,myaseen208
 StabilizedRegression,niklaspfister
 stabilo,josemaga
