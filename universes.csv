@@ -2258,6 +2258,7 @@ campsis,calvagone
 campsismod,calvagone
 camsRad,ropensci
 camtrapR,jniedballa
+CaMutQC,likelet
 canadamaps,pachadotdev
 canadianmaps,joellecayen
 canaper,ropensci
@@ -3293,6 +3294,7 @@ compEpiTools,bioc
 comperank,echasnovski
 comperes,echasnovski
 competitiontoolbox,luciu5
+CompExpDes,cran
 CompGR,9437951970
 compHclust,cran
 Compind,fvidoli
@@ -4042,6 +4044,7 @@ CytoGLMM,christofseiler
 cytoKernel,ghoshlab
 cytolib,bioc
 cytomapper,bodenmillergroup
+CytoMDS,uclouvain-cbio
 cytoMEM,cytolab
 cytometree,sistm
 cytominer,cytomining
@@ -4711,6 +4714,7 @@ DiNAMIC.Duo,vonnwalter23
 dineq,reneschulenberg
 dineR,ricsalgado
 Dino,jbrownbiostat
+dinoR,xxxmichixxx
 dint,s-fleck
 DiPALM,humanoidtyphoon
 DiPhiSeq,cran
@@ -7174,7 +7178,7 @@ GameTheory,cran
 GameTheoryAllocation,cran
 gamlr,taddylab
 gamlss,gamlss-dev
-gamlss.add,cran
+gamlss.add,gamlss-dev
 gamlss.cens,cran
 gamlss.countKinf,cran
 gamlss.data,cran
@@ -7195,6 +7199,7 @@ gamreg,takayukikawashima
 gamRR,marsdu1989
 gamsel,trevorhastie
 gamselBayes,mattwand
+gamstransfer,gams-dev
 ganDataModel,cran
 ganGenerativeData,cran
 GANPA,celreg
@@ -8218,6 +8223,7 @@ grade,ltjohnson
 gradeR,trb5me
 graDiEnt,bmgaldo
 gradientPickerD3,peikert
+GrafGen,wheelerb
 grafify,ashenoy-cmbi
 grafzahl,gesistsa
 gRain,hojsgaard
@@ -9039,6 +9045,7 @@ hwriter,greg-cotam
 hwsdr,bluegreen-labs
 hwwntest,cran
 HybridDesign,cran
+HybridExpress,almeidasilvaf
 HybridMicrobiomes,bewicklab
 hybridModels,fernandosm
 HybridMTest,bioc
@@ -9319,6 +9326,7 @@ illuminaio,henrikbengtsson
 ILoReg,elolab
 ILS,mflores72000
 ILSE,feiyoung
+ILSM,cran
 imabc,c-rutter
 image.binarization,digi-vub
 image.CannyEdges,bnosac
@@ -9723,7 +9731,7 @@ irrICC,cran
 irrNA,cran
 irt,egonulates
 irtawsi,susantohp
-IRTBEMM,cran
+IRTBEMM,syguo1992
 irtDemo,metinbulus
 IRTest,seewooli
 irtGUI,huseyinyildiz35
@@ -12460,6 +12468,7 @@ MotifDb,bioc
 motifmatchr,bioc
 motifr,marioangst
 motifStack,jianhong
+motifTestR,smped
 motmot,puttickmacroevolution
 motoRneuron,tweedell
 moult,birgiterni
@@ -12822,6 +12831,7 @@ multivar,zackfisher
 multivariance,cran
 MultivariateAnalysis,cran
 MultivariateRandomForest,razrahman
+multivarious,bbuchsbaum
 MultiVarMI,cran
 MultiVarSel,marie-perrotdockes
 multivator,robinhankin
@@ -14137,6 +14147,7 @@ padma,andreamrau
 PADOG,bioc
 padr,edwinth
 pafdR,msperlin
+PAFit,thongphamthe
 pafr,dwinter
 pagedown,rstudio
 pagemap,swsoyee
@@ -18690,6 +18701,7 @@ sdPrior,k-nadja
 sdprisk,baumgrt
 SDPrism2D,zeddshaver
 sdpt3r,cran
+sdrt,tharindupdealwis
 SDT,cran
 sdtmval,skgithub14
 sdwd,boxiang-wang
@@ -18889,7 +18901,7 @@ SeqGSEA,bioc
 seqhandbook,nicolas-robette
 seqHMM,helske
 seqICP,cran
-seqimpute,cran
+seqimpute,emerykevin
 seqinr,lbbe-software
 SeqKat,pboutros
 seqLogo,ivanek
@@ -20680,6 +20692,7 @@ survHE,giabaio
 SurvHiDim,atanubhattacharjee
 survIDINRI,cran
 survidm,sestelo
+SurviMChd,atanubhattacharjee
 survival,therneau
 survival.svb,mkomod
 survival666,cran
@@ -21010,7 +21023,7 @@ TDbasedUFEadv,tagtag
 TDbook,yulab-smu
 TDboost,archer-yang-lab
 TDCM,cotterell
-tdcmStan,jeffreychoover
+tdcmStan,atlas-aai
 TDCor,lucasmikael
 tdigest,hrbrmstr
 TDLM,epivec

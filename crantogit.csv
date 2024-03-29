@@ -14,7 +14,7 @@ ABHgenotypeR,https://github.com/stefanreuscher/abhgenotyper,,
 abjData,https://github.com/abjur/abjdata,,
 abjutils,https://github.com/abjur/abjutils,,
 ABM,https://github.com/junlingm/abm,,
-abn,https://github.com/furrer-lab/abn,,
+abn,https://github.com/furrer-lab/abn,,archived
 abnormality,https://github.com/mmarks13/abnormality,,
 abodOutlier,https://github.com/josejimenezluna/abodoutlier,,
 abseil,https://github.com/doccstat/abseil-r,,
@@ -696,7 +696,7 @@ BayesGPfit,https://github.com/kangjian2016/bayesgpfit,,
 BayesGrowth,https://github.com/jonathansmart/bayesgrowth,,
 bayesian,https://github.com/hsbadr/bayesian,,
 BayesianLaterality,https://github.com/lcbc-uio/bayesianlaterality,,
-BayesianMCPMod,https://github.com/boehringer-ingelheim/bayesianmcpmod,,
+BayesianMCPMod,https://github.com/boehringer-ingelheim/bayesianmcpmod,,archived
 BayesianNetwork,https://github.com/paulgovan/bayesiannetwork,,
 BayesianPlatformDesignTimeTrend,https://github.com/zxw834/bayesianplatformdesigntimetrend,,
 BayesianPower,https://github.com/fayetteklaassen/bayesianpower,,
@@ -1301,6 +1301,7 @@ campsis,https://github.com/calvagone/campsis,,
 campsismod,https://github.com/calvagone/campsismod,,
 camsRad,https://github.com/ropensci/camsrad,,
 camtrapR,https://github.com/jniedballa/camtrapr,,
+CaMutQC,https://github.com/likelet/camutqc,,bioc
 canadamaps,https://github.com/pachadotdev/canadamaps,,
 canadianmaps,https://github.com/joellecayen/canadianmaps,,
 canaper,https://github.com/ropensci/canaper,,
@@ -2330,6 +2331,7 @@ cytofQC,https://github.com/jillbo1000/cytofqc,,bioc
 CytoGLMM,https://github.com/christofseiler/cytoglmm,,bioc
 cytoKernel,https://github.com/ghoshlab/cytokernel,,bioc
 cytomapper,https://github.com/bodenmillergroup/cytomapper,,bioc
+CytoMDS,https://github.com/uclouvain-cbio/cytomds,,bioc
 cytoMEM,https://github.com/cytolab/cytomem,,bioc
 cytometree,https://github.com/sistm/cytometree,,
 cytominer,https://github.com/cytomining/cytominer,,
@@ -2750,6 +2752,7 @@ dina,https://github.com/tmsalab/dina,,
 dineq,https://github.com/reneschulenberg/dineq,,
 dineR,https://github.com/ricsalgado/diner,,
 Dino,https://github.com/jbrownbiostat/dino,,bioc
+dinoR,https://github.com/xxxmichixxx/dinor,,bioc
 dint,https://github.com/s-fleck/dint,,
 diproperm,https://github.com/allmondrew/diproperm,,
 DiPs,https://github.com/ruoqiyu/dips,,
@@ -4204,9 +4207,11 @@ gameR,https://github.com/nathansam/gamer,,
 gamesGA,https://github.com/bradduthie/gamesga,,
 gamlr,https://github.com/taddylab/gamlr,,
 gamlss,https://github.com/gamlss-dev/gamlss,,
+gamlss.add,https://github.com/gamlss-dev/gamlss.add,,
 gamlss.dist,https://github.com/gamlss-dev/gamlss.dist,,
 gamlss.ggplots,https://github.com/gamlss-dev/gamlss.ggplots,,
 gamlss.spatial,https://github.com/gamlss-dev/gamlss.spatial,,
+gamstransfer,https://github.com/gams-dev/transfer-r,gamstransfer,
 gap,https://github.com/jinghuazhao/r,gap,
 gap.datasets,https://github.com/jinghuazhao/r,gap.datasets,
 GAparsimony,https://github.com/jpison/gaparsimony,,
@@ -4871,6 +4876,7 @@ Grace,https://github.com/sen-zhao/grace,,
 grade,https://github.com/ltjohnson/grade,,
 graDiEnt,https://github.com/bmgaldo/gradient,,
 gradientPickerD3,https://github.com/peikert/gradientpickerd3,,
+GrafGen,https://github.com/wheelerb/grafgen,,bioc
 grafify,https://github.com/ashenoy-cmbi/grafify,,
 grafzahl,https://github.com/gesistsa/grafzahl,,
 gRain,https://github.com/hojsgaard/grain,,
@@ -5327,6 +5333,7 @@ hwde,https://github.com/jhmaindonald/hwde,,
 hwep,https://github.com/dcgerard/hwep,,
 hwig,https://github.com/robitalec/hwig,,
 hwsdr,https://github.com/bluegreen-labs/hwsdr,,
+HybridExpress,https://github.com/almeidasilvaf/hybridexpress,,bioc
 hybridModels,https://github.com/fernandosm/hybridmodels,,
 hyd1d,https://github.com/bafg-bund/hyd1d,,
 hydflood,https://github.com/bafg-bund/hydflood,,
@@ -7282,6 +7289,7 @@ Motif2Site,https://github.com/manchesterbioinference/motif2site,,bioc
 motifbreakR,https://github.com/simon-coetzee/motifbreakr,,bioc
 motifr,https://github.com/marioangst/motifr,,
 motifStack,https://github.com/jianhong/motifstack,,bioc
+motifTestR,https://github.com/smped/motiftestr,,bioc
 motmot,https://github.com/puttickmacroevolution/motmot,,
 motoRneuron,https://github.com/tweedell/motorneuron,,
 mountainplot,https://github.com/kwstat/mountainplot,,
@@ -7471,6 +7479,7 @@ multispatialCCM,https://github.com/adamtclark/multispatialccm,,
 multitaper,https://github.com/krahim/multitaper,,
 multitool,https://github.com/ethan-young/multitool,,
 multivar,https://github.com/zackfisher/multivar,,
+multivarious,https://github.com/bbuchsbaum/multivarious,,
 multivator,https://github.com/robinhankin/multivator,,
 multiverse,https://github.com/mucollective/multiverse,,
 MultOrdRS,https://github.com/schaubert/multordrs,,
@@ -8207,6 +8216,7 @@ PACVr,https://github.com/michaelgruenstaeudl/pacvr,,
 Pade,https://github.com/aadler/pade,,
 padma,https://github.com/andreamrau/padma,,bioc
 padr,https://github.com/edwinth/padr,,
+PAFit,https://github.com/thongphamthe/pafit,,
 pafr,https://github.com/dwinter/pafr,,
 pagedown,https://github.com/rstudio/pagedown,,
 pagemap,https://github.com/swsoyee/pagemapr,,
@@ -8736,6 +8746,7 @@ PLreg,https://github.com/ffqueiroz/plreg,,
 pls,https://github.com/khliland/pls,,
 PLSDAbatch,https://github.com/evayiwenwang/plsdabatch,,bioc
 plsdof,https://github.com/fbertran/plsdof,,
+plsgenomics,https://github.com/gdurif/plsgenomics,pkg,
 plsmod,https://github.com/tidymodels/plsmod,,
 plspm,https://github.com/gastonstat/plspm,,
 plsRbeta,https://github.com/fbertran/plsrbeta,,
@@ -11179,6 +11190,7 @@ SeqGate,https://github.com/srialle/seqgate,,bioc
 seqgendiff,https://github.com/dcgerard/seqgendiff,,
 seqhandbook,https://github.com/nicolas-robette/seqhandbook,,
 seqHMM,https://github.com/helske/seqhmm,,
+seqimpute,https://github.com/emerykevin/seqimpute,,
 seqinr,https://github.com/lbbe-software/seqinr,,
 seqLogo,https://github.com/ivanek/seqlogo,,bioc
 seqmagick,https://github.com/yulab-smu/seqmagick,,
@@ -12471,6 +12483,7 @@ TDbasedUFE,https://github.com/tagtag/tdbasedufe,,bioc
 TDbasedUFEadv,https://github.com/tagtag/tdbasedufeadv,,bioc
 TDbook,https://github.com/yulab-smu/tdbook,,
 TDCM,https://github.com/cotterell/tdcm,,
+tdcmStan,https://github.com/atlas-aai/tdcmstan,,
 tdigest,https://github.com/hrbrmstr/tdigest,,
 TDLM,https://github.com/epivec/tdlm,,
 tdr,https://github.com/oscarperpinan/tdr,,

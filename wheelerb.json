@@ -10,6 +10,12 @@
     "url": "https://github.com/cran/DelayedEffect.Design"
   },
   {
+    "package": "GrafGen",
+    "maintainer": "William Wheeler <wheelerb@imsweb.com>",
+    "url": "https://github.com/wheelerb/grafgen",
+    "registry": "bioc"
+  },
+  {
     "package": "iCARE",
     "maintainer": "Bill Wheeler <wheelerb@imsweb.com>",
     "url": "https://github.com/wheelerb/icare",

@@ -12,6 +12,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CytoMDS",
+    "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/cytomds",
+    "registry": "bioc"
+  },
+  {
     "package": "CytoPipeline",
     "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/cytopipeline",
