@@ -1353,6 +1353,7 @@ bdrc,sor16
 bdribs,cran
 bdscale,dvmlls
 bdsmatrix,cran
+bdsvd,cran
 bdvis,vijaybarve
 BDWreg,hamedhm
 BE,cran
@@ -2449,6 +2450,7 @@ cccm,cran
 cccp,bpfaff
 cccrm,jlcarrascoub
 ccda,cran
+ccdR,usepa
 ccfindR,bioc
 cchs,cran
 cchsflow,big-life-lab
@@ -2623,6 +2625,7 @@ cgmquantify,cran
 CGNM,cran
 CGP,shanbatr
 CGPfunctions,ibecav
+CGR,cran
 cgwtools,cran
 ch,tsiamut
 ChainLadder,mages
@@ -4918,7 +4921,6 @@ DNAseqtest,hasinurkhan
 DNAshapeR,bioc
 DNAtools,mikldk
 dndR,njlyon0
-dnet,hfang-bristol
 DNetFinder,cran
 dng,feng-li
 DNH4,forkonlp
@@ -8400,7 +8402,6 @@ gscramble,eriqande
 gscreend,imkeller
 GSD,dkimstatlab
 GSDA,xueyuancao
-gsdensity,cran
 gsDesign,keaven
 gsDesign2,merck
 GSE,claudioagostinelli
@@ -9910,6 +9911,7 @@ JavaGD,s-u
 Jaya,neerajdhanraj
 JBrowseR,gmod
 jcext,noeliaof
+jcolors,jaredhuling
 jcp,cran
 JCRImpactFactor,shahlafaisal
 jdenticon,mattroumaya
@@ -11807,6 +11809,7 @@ mglmn,mattocci27
 mgm,jmbh
 MGMM,zrmacc
 MGMS2,cran
+MGnifyR,ebi-metagenomics
 MGPSDK,nathcarr55
 mgpStreamingSDK,nathcarr55
 mgsa,sba1
@@ -14617,6 +14620,7 @@ PermutationR,ohabdalla1
 permutations,robinhankin
 permute,gavinsimpson
 permutes,cvoeten
+perplexR,gabrielkaiserqfin
 perry,aalfons
 perryExamples,aalfons
 persDx,yunrochung
@@ -19561,7 +19565,7 @@ smcfcs,jwb133
 SMCRM,tverbeke
 smcryptoR,zhuobie
 smcure,cran
-smd,cran
+smd,bsaul
 smdata,ecmerkle
 smdi,cran
 SMDIC,hanjunwei-lab
@@ -20871,7 +20875,7 @@ systemPipeShiny,systempiper
 systemPipeTools,bioc
 syt,stla
 syuzhet,mjockers
-T2DFitTailor,supercheng971264
+T2DFitTailor,cran
 T2EQ,cran
 T2Qv,wilsonrp
 T4cluster,kisungyou
@@ -21617,6 +21621,7 @@ tr.iatgen,iatgen
 TR8,giobo
 TraceAssist,cran
 tracee,philipdelff
+tracenma,loukiaspin
 tracer,mangothecat
 tracerer,ropensci
 tracheideR,filipecampelo
@@ -21640,6 +21645,7 @@ TrafficBDE,okgreece
 trafo,akreutzmann
 traineR,promidat
 trainR,villegar
+trainsplit,eastnile
 traipse,trackage
 traits,ropensci
 traitstrap,plant-functional-trait-course
