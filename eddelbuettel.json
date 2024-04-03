@@ -318,5 +318,10 @@
     "package": "ttdo",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/ttdo"
+  },
+  {
+    "package": "ulid",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ulid"
   }
 ]

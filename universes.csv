@@ -3080,6 +3080,7 @@ CNEr,ge11232002
 CNID,chuxinyuan
 CNLTreg,cran
 CNLTtsa,cran
+cnmap,cran
 CNORdt,bioc
 CNORfeeder,bioc
 CNORfuzzy,bioc
@@ -3382,6 +3383,7 @@ configr,miachol
 configural,bwiernik
 confinterpret,jimvine
 confintr,mayer79
+confintROB,cran
 ConfIntVariance,cran
 conflicted,r-lib
 conflr,yutannihilation
@@ -10209,6 +10211,7 @@ knitrdata,dmkaplan2000
 knitrProgressBar,rmflight
 knitxl,dreanod
 knn.covertree,flying-sheep
+knnmi,cran
 knnp,grasia
 KNNShiny,kartikeyabolar
 kNNvs,eddie0118
@@ -12497,7 +12500,6 @@ mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
-MPCR,stsds
 MPDiR,cran
 MPFE,cjb105
 MPGE,arunabhacodes
@@ -14883,6 +14885,7 @@ pkgdepR,edpeyton
 pkgdown,r-lib
 pkgfilecache,dfsp-spirit
 pkggraph,talegari
+pkgGraphR,cran
 pkgKitten,eddelbuettel
 pkglite,merck
 pkgload,r-lib
@@ -15026,6 +15029,7 @@ plumbr,ggobi
 plume,arnaudgallou
 pluralize,hrbrmstr
 pluscode,doylem86
+plusCode2,armando-d
 plutor,william-swl
 plyinteractions,js2264
 plyr,hadley
@@ -15950,7 +15954,7 @@ quadmesh,hypertidy
 quadprog,berwinturlach
 quadprogXT,rharlow86
 quadraticSD,cran
-QuadratiK,gios8492
+QuadratiK,giovsaraceno
 QuadRoot,cran
 quadrupen,jchiquet
 quadtree,dfriend21
@@ -17854,9 +17858,11 @@ rpymat,dipterix
 Rqc,labbcb
 rQCC,appliedstat
 rqdatatable,winvector
+RQdeltaCT,donadelnal
 RQEntangle,stephenhky
 rqlm,nomahi
 rqPen,bssherwood
+rQSAR,ocheab
 rqt,izhbannikov
 rqti,shevandrin
 Rquake,jonathanlees
@@ -18110,6 +18116,7 @@ RTopper,bioc
 rTorch,f0nzie
 rTPC,padpadpadpad
 Rtpca,bioc
+rtpcr,cran
 Rtrack,rupertoverall
 rtracklayer,lawremi
 RTransferEntropy,bzpaper
@@ -19601,7 +19608,7 @@ smoof,jakobbossek
 smooth,config-i1
 smoothAPC,dokal01
 smoothedLasso,ghahn-hsph
-smoother,nicholasehamilton
+smoother,cran
 smoothHR,arturstat
 smoothic,meadhbh-oneill
 smoothie,ericgilleland
@@ -22065,7 +22072,7 @@ UKgrid,ramikrispin
 uklr,kvasilopoulos
 ukpolice,evanodell
 Ularcirc,bioc
-ulid,hrbrmstr
+ulid,eddelbuettel
 ulrb,pascoalf
 Ultimixt,cran
 umap,tkonopka
@@ -22145,6 +22152,7 @@ untb,robinhankin
 unusualprofile,wjschne
 unvotes,dgrtwo
 uotm,heming0425
+UpAndDownPlots,impaug
 UPCM,schaubert
 updateme,wurli
 updateObject,bioconductor
