@@ -22,5 +22,11 @@
     "maintainer": "Lukas M. Weber <lukas.weber.edu@gmail.com>",
     "url": "https://github.com/lmweber/regsplice",
     "registry": "bioc"
+  },
+  {
+    "package": "smoothclust",
+    "maintainer": "Lukas M. Weber <lmweberedu@gmail.com>",
+    "url": "https://github.com/lmweber/smoothclust",
+    "registry": "bioc"
   }
 ]

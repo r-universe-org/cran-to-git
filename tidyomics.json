@@ -1,5 +1,11 @@
 [
   {
+    "package": "plyranges",
+    "maintainer": "Stuart Lee <stuart.andrew.lee@gmail.com>",
+    "url": "https://github.com/tidyomics/plyranges",
+    "registry": "bioc"
+  },
+  {
     "package": "tidyomics",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/tidyomics/tidyomics",

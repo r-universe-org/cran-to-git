@@ -30,6 +30,12 @@
     "registry": "bioc"
   },
   {
+    "package": "smartid",
+    "maintainer": "Jinjin Chen <chen.j@wehi.edu.au>",
+    "url": "https://github.com/davislaboratory/smartid",
+    "registry": "bioc"
+  },
+  {
     "package": "standR",
     "maintainer": "Ning Liu <liu.n@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/standr",
