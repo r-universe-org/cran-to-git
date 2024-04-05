@@ -1,5 +1,10 @@
 [
   {
+    "package": "CARMS",
+    "maintainer": "Jacob Ormerod <jake@openreliability.org>",
+    "url": "https://github.com/cran/CARMS"
+  },
+  {
     "package": "FaultTree",
     "maintainer": "Jacob Ormerod <jake@openreliability.org>",
     "url": "https://github.com/jto888/faulttree"

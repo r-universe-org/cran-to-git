@@ -1798,7 +1798,7 @@ blindreview,githubwilly
 blink,cleanzr
 bliss,pmgrollemund
 blm,skoval
-BLMA,phibya
+BLMA,bioc
 blme,vdorie
 blmeco,fraenzi
 BLModel,cran
@@ -2327,6 +2327,7 @@ CarletonStats,aloy
 Carlson,stla
 CARM,cran
 CARME,markgrama
+CARMS,jto888
 CARNIVAL,saezlab
 caROC,ziyili20
 caroline,cran
@@ -2504,6 +2505,7 @@ cdrcR,aelissa
 cds,schoonees
 CDSE,zivankaraman
 CDSS,chockemeyer
+CDVI,cran
 CDVineCopulaConditional,cran
 CEC,swarm-lab
 CEDA,cran
@@ -5042,6 +5044,7 @@ DPQmpfr,r-forge
 dprint,cran
 dprop,imranshakoor
 dpseg,raim
+DPTM,hujiebai
 DPtree,cran
 DQAgui,miracum
 DQAstats,miracum
@@ -5692,7 +5695,7 @@ energyr,paulgovan
 enerscape,emilio-berti
 enetLTS,fatmasevinck
 english,billvenables
-EngrEcon,cran
+EngrEcon,liyabera
 engression,cran
 EngrExpt,cran
 EnhancedVolcano,kevinblighe
@@ -7521,7 +7524,7 @@ geoelectrics,kleebaum
 GEOexplorer,guypwhunt
 geofacet,hafen
 GEOfastq,alexvpickering
-geofd,pedrodelicado
+geofd,cran
 geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
@@ -9547,6 +9550,7 @@ instantiate,wlandau
 instaR,pablobarbera
 insuranceData,cran
 insurancerating,mharinga
+InsuSensCalc,sufyansuleman
 INTACT,jokamoto97
 InTAD,bioc
 intamap,jskoien
@@ -10966,6 +10970,7 @@ lsbs,weng-gw
 LSD,birdumbrella
 lsdbc,ulandarisyamsudin
 LSDinterface,santannaks
+LSDirf,santannaks
 LSDsensitivity,santannaks
 LSE,sergio05acm
 lsei,yong3738
@@ -12195,6 +12200,7 @@ mlr3cluster,mlr-org
 mlr3data,mlr-org
 mlr3db,mlr-org
 mlr3fairness,mlr-org
+mlr3fda,mlr-org
 mlr3filters,mlr-org
 mlr3fselect,mlr-org
 mlr3hyperband,mlr-org
@@ -13470,6 +13476,7 @@ nonparametric.bayes,erikseulean
 Nonpareil,lmrodriguezr
 NonParRolCor,jomopo
 NonProbEst,luiscastro193
+nonprobsvy,ncn-foreigners
 nopaco,cran
 nopp,siacus
 nor1mix,r-forge
@@ -14862,6 +14869,7 @@ pipefittr,sahilseth
 pipeFrame,wzthu
 pipeGS,njheyu
 pipeliner,alexioannides
+pipenostics,omega1x
 pipeR,renkun-ken
 PIPETS,qfurumo
 piqp,predict-epfl
@@ -15021,6 +15029,7 @@ plsdepot,fbertran
 plsdof,fbertran
 plsgenomics,gdurif
 PLSiMCpp,bruceqd
+plsmmLasso,sami-leon
 plsmod,tidymodels
 plsmselect,indrayudhghosal
 plspm,gastonstat
@@ -21156,7 +21165,8 @@ TestDesign,choi-phd
 TestDimorph,cran
 testDriveR,chris-prener
 testequavar,dcahoy
-tester,gastonstat
+tester,fbertran
+testex,dgkf
 testforDEP,daviden1013
 TestFunctions,collinerickson
 TestGardener,jamesramsay5
@@ -21980,7 +21990,7 @@ tuple,statlaw
 turboEM,rvaradhan
 TurboNorm,bioc
 turkeyelections,ozancanozdemir
-turner,gastonstat
+turner,fbertran
 TurtleGraphics,gagolews
 Tushare,cran
 tutorial.helpers,ppbds
@@ -23048,6 +23058,7 @@ yarr,fdavidcl
 yarrr,ndphillips
 yasp,t-kalinowski
 yatah,abichat
+YatchewTest,cran
 YatesAlgo.FactorialExp.SR,roy-sr-007
 ycevo,bonsook
 yesno,poissonconsulting
