@@ -2699,6 +2699,7 @@ chicane,syedhaider5
 chihaya,artifactdb
 childdevdata,d-score
 childesr,langcog
+childfree,zpneal
 childsds,mvogel78
 chilemapas,pachadotdev
 ChillModels,rpertille
@@ -2971,6 +2972,7 @@ clusrank,wenjie2wang
 ClusROC,toduckhanh
 ClussCluster,cran
 clust.bin.pair,dgopstein
+ClustAll,bioc
 clustAnalytics,martirm
 ClustAssess,core-bioinformatics
 ClustBlock,fabllob
@@ -6191,6 +6193,7 @@ fabisearch,mondrus96
 fable,tidyverts
 fable.ata,alsabtay
 fable.prophet,mitchelloharawild
+fableCount,cran
 fabletools,tidyverts
 fabMix,mqbssppe
 fabPrediction,betsybersson
@@ -6236,7 +6239,7 @@ faersquarterlydata,luisgarcez11
 Fahrmeir,kjetil1001
 fail,mllg
 fairadapt,dplecko
-FAIRmaterials,vuvlab
+FAIRmaterials,cwru-sdle
 FairMclus,cran
 fairml,cran
 fairmodels,modeloriented
@@ -6303,7 +6306,7 @@ fastcmh,cran
 fastcox,archer-yang-lab
 fastcpd,doccstat
 FastCUB,cran
-fastdigest,cran
+fastdigest,gmbecker
 fastDummies,jacobkap
 fasterElasticNet,cufesam
 fasterize,ecohealthalliance
@@ -7272,7 +7275,6 @@ GBJ,ryansunwork
 gbm,gbm-developers
 gbm.auto,simondedman
 gbm2sas,cran
-gbm3,gbm-developers
 gbmt,alessandromagrini
 gbp,gyang274
 gbRd,cran
@@ -7362,6 +7364,7 @@ GEInter,cran
 gellipsoid,friendly
 gelnet,artemsokolov
 GEM,bioc
+GEmetrics,simonrio
 gemini,sellerslab
 gemlog,ajakef
 gemma.R,pavlidislab
@@ -7524,7 +7527,7 @@ geoelectrics,kleebaum
 GEOexplorer,guypwhunt
 geofacet,hafen
 GEOfastq,alexvpickering
-geofd,cran
+geofd,pedrodelicado
 geofi,ropengov
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
@@ -7910,7 +7913,7 @@ gimmeTools,cran
 gimms,environmentalinformatics-marburg
 GiNA,cran
 Gini,marsdu1989
-GiniDecompLY,a-a-mbarek
+GiniDecompLY,aambarek
 GiniDistance,cran
 giniVarCI,jfmunozrosas
 GiniWegNeg,cran
@@ -8296,7 +8299,7 @@ gRbase,hojsgaard
 gRc,hojsgaard
 GRCdata,cran
 GRCdesigns,cran
-GRCRegression,cran
+GRCRegression,xguo20
 greatR,ruthkr
 grec,luislaum
 greed,comeetie
@@ -9769,6 +9772,7 @@ isdals,ekstroem
 isdparser,ropensci-archive
 iSEE,isee
 iSEEde,isee
+iSEEfier,najlaabassi
 iSEEhex,isee
 iSEEhub,isee
 iSEEindex,isee
@@ -13811,7 +13815,7 @@ OncoBayes2,weberse2
 Oncofilterfast,cran
 oncomix,bioc
 oncomsm,boehringer-ingelheim
-oncoPredict,maese005
+oncoPredict,huanglabumn
 oncoscanR,yannchristinat
 OncoScore,danro9685
 OncoSimulR,rdiaz02
@@ -14858,7 +14862,7 @@ pinnacle.data,marcoblume
 pinochet,danilofreire
 pinp,eddelbuettel
 pins,rstudio
-PINSPlus,phibya
+PINSPlus,cran
 PINstimation,monty-se
 pinterestadsR,pablosanmar
 pinyin,pzhaonet
@@ -15776,7 +15780,7 @@ pvda,oskargauffin
 Pviz,bioc
 pvldcurve,annaraesch
 pvLRT,c7rishi
-PVplr,vuvlab
+PVplr,cwru-sdle
 PVR,santostbio
 PWEALL,marvels2031
 PWEXP,zjph602xtc
@@ -15877,6 +15881,7 @@ qicharts2,anhoej
 qif,umich-biostatistics
 qiitr,yutannihilation
 Qindex,tingtingzhan
+Qindex.data,tingtingzhan
 qkerntool,yusenzhang
 qlcal,qlcal
 QLearning,labressler
@@ -16734,7 +16739,7 @@ readtextgrid,tjmahr
 readwritesqlite,poissonconsulting
 readxl,tidyverse
 readxlsb,velofrog
-readysignal,davis-busteed
+readysignal,cran
 realtest,gagolews
 realTimeloads,dlivsey
 RealVAMS,akarl46556
@@ -19809,6 +19814,7 @@ spaa,helixcn
 spAbundance,doserjef
 spacefillr,tylermorganwall
 spacejamr,dscolby
+SpaceMarkers,atuldeshpande
 spaceNet,silviadangelo
 SpacePAC,bioc
 spacesRGB,glenndavis52
@@ -19819,6 +19825,7 @@ spacyr,quanteda
 SPADAR,algolkm
 spAddins,gegznav
 SpadeR,cran
+SpaDES,predictiveecology
 SpaDES.core,predictiveecology
 SpaDES.tools,predictiveecology
 spaero,e3bo
@@ -21276,6 +21283,7 @@ TheOpenAIR,umatter
 ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
+Thermistor,zuelxy
 thermocouple,cran
 TheSFACE,amitsasson
 thestats,analyticsresearchlab
@@ -22071,6 +22079,7 @@ uclust,cran
 ucminf,hdakpo
 UComp,djpedregal
 UCR.ColumnNames,jacobkap
+UCSC.utils,bioconductor
 UCSCXenaShiny,openbiox
 UCSCXenaTools,ropensci
 UdderQuarterInfectionData,lduchate

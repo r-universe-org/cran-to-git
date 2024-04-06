@@ -25,6 +25,11 @@
     "url": "https://github.com/predictiveecology/require"
   },
   {
+    "package": "SpaDES",
+    "maintainer": "Alex M Chubaty <achubaty@for-cast.ca>",
+    "url": "https://github.com/predictiveecology/spades"
+  },
+  {
     "package": "SpaDES.core",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
     "url": "https://github.com/predictiveecology/spades.core"

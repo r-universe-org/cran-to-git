@@ -1,5 +1,10 @@
 [
   {
+    "package": "fastdigest",
+    "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
+    "url": "https://github.com/cran/fastdigest"
+  },
+  {
     "package": "histry",
     "maintainer": "Gabriel Becker <gabembecker@gmail.com>",
     "url": "https://github.com/cran/histry",

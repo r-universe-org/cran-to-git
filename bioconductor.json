@@ -305,6 +305,12 @@
     "registry": "bioc"
   },
   {
+    "package": "UCSC.utils",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/ucsc.utils",
+    "registry": "bioc"
+  },
+  {
     "package": "UniProt.ws",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/uniprot.ws",

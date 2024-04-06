@@ -696,7 +696,7 @@ BayesGPfit,https://github.com/kangjian2016/bayesgpfit,,
 BayesGrowth,https://github.com/jonathansmart/bayesgrowth,,
 bayesian,https://github.com/hsbadr/bayesian,,
 BayesianLaterality,https://github.com/lcbc-uio/bayesianlaterality,,
-BayesianMCPMod,https://github.com/boehringer-ingelheim/bayesianmcpmod,,archived
+BayesianMCPMod,https://github.com/boehringer-ingelheim/bayesianmcpmod,,
 BayesianNetwork,https://github.com/paulgovan/bayesiannetwork,,
 BayesianPlatformDesignTimeTrend,https://github.com/zxw834/bayesianplatformdesigntimetrend,,
 BayesianPower,https://github.com/fayetteklaassen/bayesianpower,,
@@ -1555,6 +1555,7 @@ chi,https://github.com/dkahle/chi,,
 chihaya,https://github.com/artifactdb/chihaya-r,,bioc
 childdevdata,https://github.com/d-score/childdevdata,,
 childesr,https://github.com/langcog/childesr,,
+childfree,https://github.com/zpneal/childfree,,
 chilemapas,https://github.com/pachadotdev/chilemapas,,
 chimeraviz,https://github.com/stianlagstad/chimeraviz,,bioc
 ChineseNames,https://github.com/psychbruce/chinesenames,,
@@ -4253,7 +4254,6 @@ gbfs,https://github.com/simonpcouch/gbfs,,
 gbifdb,https://github.com/ropensci/gbifdb,,
 gbm,https://github.com/gbm-developers/gbm,,
 gbm.auto,https://github.com/simondedman/gbm.auto,,
-gbm3,https://github.com/gbm-developers/gbm3,,archived
 gbp,https://github.com/gyang274/gbp,,
 GBScleanR,https://github.com/tomoyukif/gbscleanr,,bioc
 gbutils,https://github.com/geobosh/gbutils,,
@@ -4705,7 +4705,7 @@ gim,https://github.com/zhangh12/gim,,
 gimme,https://github.com/gateslab/gimme,gimme,
 GimmeMyPlot,https://github.com/ecamenen/gimmemyplot,,
 gimms,https://github.com/environmentalinformatics-marburg/gimms,,
-GiniDecompLY,https://github.com/a-a-mbarek/ginidecomply,,
+GiniDecompLY,https://github.com/aambarek/ginidecomply,,
 GInSARCorW,https://github.com/subhadipdatta/ginsarcorw,,
 gips,https://github.com/przechoj/gips,,
 giscoR,https://github.com/ropengov/giscor,,
@@ -5740,6 +5740,7 @@ Iscores,https://github.com/missvalteam/iscores,,
 isdparser,https://github.com/ropensci-archive/isdparser,,
 iSEE,https://github.com/isee/isee,,bioc
 iSEEde,https://github.com/isee/iseede,,bioc
+iSEEfier,https://github.com/najlaabassi/iseefier,,bioc
 iSEEhex,https://github.com/isee/iseehex,,bioc
 iSEEhub,https://github.com/isee/iseehub,,bioc
 iSEEindex,https://github.com/isee/iseeindex,,bioc
@@ -6855,7 +6856,7 @@ MetaUtility,https://github.com/mayamathur/metautility,,
 metavcov,https://github.com/luminwin/metavcov,,
 metaviz,https://github.com/mkossmeier/metaviz,,
 metawho,https://github.com/shixiangwang/metawho,,
-meteo,https://github.com/aleksandarsekulic/rmeteo,,
+meteo,https://github.com/aleksandarsekulic/rmeteo,,archived
 meteoEVT,https://github.com/noctiluc3nt/meteoevt,,
 meteoForecast,https://github.com/oscarperpinan/meteoforecast,,
 meteoland,https://github.com/emf-creaf/meteoland,,
@@ -8027,6 +8028,7 @@ onbabynames,https://github.com/desautm/onbabynames,,
 onbrand,https://github.com/john-harrold/onbrand,,
 once,https://github.com/gdmcdonald/once,,
 oncomsm,https://github.com/boehringer-ingelheim/oncomsm,,
+oncoPredict,https://github.com/huanglabumn/oncopredict,,
 oncoscanR,https://github.com/yannchristinat/oncoscanr,,bioc
 OncoScore,https://github.com/danro9685/oncoscore,,bioc
 OncoSimulR,https://github.com/rdiaz02/oncosimul,OncoSimulR,bioc
@@ -8189,7 +8191,7 @@ otuSummary,https://github.com/cam315/otusummary,,
 ouch,https://github.com/kingaa/ouch,,
 outbreaks,https://github.com/reconverse/outbreaks,,
 outcomerate,https://github.com/ropensci/outcomerate,,
-outerbase,https://github.com/mattplumlee/outerbase,,
+outerbase,https://github.com/mattplumlee/outerbase,,archived
 outForest,https://github.com/mayer79/outforest,,
 outlierensembles,https://github.com/sevvandi/outlierensembles,,
 outliertree,https://github.com/david-cortes/outliertree,,
@@ -11769,9 +11771,11 @@ spaa,https://github.com/helixcn/spaa,,
 spAbundance,https://github.com/doserjef/spabundance,,
 spacefillr,https://github.com/tylermorganwall/spacefillr,,
 spacejamr,https://github.com/dscolby/spacejamr,,
+SpaceMarkers,https://github.com/atuldeshpande/spacemarkers,,bioc
 spacetime,https://github.com/edzer/spacetime,,
 spacyr,https://github.com/quanteda/spacyr,,
 spAddins,https://github.com/gegznav/spaddins,,
+SpaDES,https://github.com/predictiveecology/spades,,
 SpaDES.core,https://github.com/predictiveecology/spades.core,,
 SpaDES.tools,https://github.com/predictiveecology/spades.tools,,
 spaero,https://github.com/e3bo/spaero,,
@@ -13184,6 +13188,7 @@ uci,https://github.com/ipeagit/uci,,
 ucie,https://github.com/mikelkou/ucie,,
 ucminf,https://github.com/hdakpo/ucminf,,
 UCR.ColumnNames,https://github.com/jacobkap/ucr.columnnames,,
+UCSC.utils,https://github.com/bioconductor/ucsc.utils,,bioc
 UCSCXenaShiny,https://github.com/openbiox/ucscxenashiny,,
 UCSCXenaTools,https://github.com/ropensci/ucscxenatools,,
 udpipe,https://github.com/bnosac/udpipe,,
