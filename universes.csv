@@ -7211,6 +7211,7 @@ gamlss.spatial,gamlss-dev
 gamlss.tr,cran
 gamlssbssn,cran
 gamm4,cran
+gamma,crp2a
 Gammareg,cran
 gammSlice,mattwand
 gamreg,takayukikawashima
@@ -8471,6 +8472,7 @@ gte,cran
 gTests,cran
 gTestsMulti,singho2002
 gtExtras,jthomasmock
+gtexture,rbarkerclarke
 gtfs2emis,ipeagit
 gtfs2gps,ipeagit
 gtfsio,r-transit
@@ -8650,6 +8652,7 @@ HCTDesign,tpatni123
 HCTR,lethargy608
 hctrial,edelmand21
 hda,g-rho
+hdbayes,ethan-alt
 hdbinseg,haeran-cho
 hdbm,cran
 hdbma,qingzhaoyu
@@ -11295,6 +11298,7 @@ matahari,jhudsl
 match2C,bzhangupenn
 matchBox,bioc
 matchFeat,ddegras
+MatchGATE,cran
 Matching,jasjeetsekhon
 matchingMarkets,thiloklein
 matchingR,jtilly
@@ -12702,6 +12706,7 @@ MSwM,josepasanchez
 mt,wanchanglin
 MTA,riatelab
 MTAFT,cran
+mtanan,cran
 MTAR,lan
 mtb,yh202109
 mtdesign,openpharma
@@ -17594,7 +17599,7 @@ robber,chabert-liddell
 robcbi,cran
 robCompositions,matthias-da
 robcor,paulsmirnov
-robcp,sgoerz
+robcp,cran
 roben,jrhub
 robeth,cran
 RobExtremes,r-forge
@@ -18167,6 +18172,7 @@ RTTWebClient,cran
 Rtumblr,schochastics
 Rtwalk,andreschristen
 rtweet,ropensci
+rTwig,aidanmorales
 rtype,renkun-ken
 rtypeform,csgillespie
 rubias,eriqande
@@ -20419,6 +20425,7 @@ statVisual,gefeizhang
 STB,cran
 stcos,holans
 stcov,bnaul
+stcpR6,shinjaehyeok
 stddiff,marsdu1989
 STdeconvolve,jefworks-lab
 stdmod,sfcheung
@@ -22282,6 +22289,7 @@ validateIt,cran
 validatesuggest,data-cleaning
 validatetools,data-cleaning
 VALIDICLUST,cran
+validmind,cran
 valmetrics,kriper0217
 valorate,vtrevino
 valottery,clayford
