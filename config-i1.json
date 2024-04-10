@@ -1,5 +1,10 @@
 [
   {
+    "package": "complex",
+    "maintainer": "Ivan Svetunkov <ivan@svetunkov.com>",
+    "url": "https://github.com/config-i1/complex"
+  },
+  {
     "package": "greybox",
     "maintainer": "Ivan Svetunkov <ivan@svetunkov.ru>",
     "url": "https://github.com/config-i1/greybox"

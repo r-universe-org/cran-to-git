@@ -491,12 +491,6 @@
     "url": "https://github.com/ropensci/melt"
   },
   {
-    "package": "mregions",
-    "maintainer": "Salvador Fernandez <salvador.fernandez@vliz.be>",
-    "url": "https://github.com/ropensci/mregions",
-    "registry": "archived"
-  },
-  {
     "package": "MtreeRing",
     "maintainer": "Jingning Shi <snow940220@bjfu.edu.cn>",
     "url": "https://github.com/ropensci/mtreering"
@@ -902,12 +896,6 @@
     "package": "skynet",
     "maintainer": "Filipe Teixeira <Filipe.MarquesTeixeira@Ugent.be>",
     "url": "https://github.com/ropensci/skynet"
-  },
-  {
-    "package": "smapr",
-    "maintainer": "Maxwell Joseph <maxwell.b.joseph@colorado.edu>",
-    "url": "https://github.com/ropensci/smapr",
-    "registry": "archived"
   },
   {
     "package": "sofa",

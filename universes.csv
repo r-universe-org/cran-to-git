@@ -3311,6 +3311,7 @@ Compind,fvidoli
 compindexR,olgnaydn
 compindPCA,rrk4910
 completejourney,bradleyboehmke
+complex,config-i1
 ComplexHeatmap,jokergoo
 complexity,cran
 complexlm,quantumofmoose
@@ -4865,7 +4866,6 @@ diverse,mguevara
 DiversificationR,jbhasse
 diversitree,richfitz
 diversityForest,romanhornung
-DiversityOccupancy,derek-corcoran-barrios
 divest,jonclayden
 divo,mpiet11
 divraster,flaviomoc
@@ -8538,7 +8538,6 @@ GWmodel,lbb220
 GWnnegPCA,naru-t
 GWpcor,naru-t
 gwpcormapper,gwpcor
-GWPR.light,michaelchaoli-cpu
 gWQS,renzetti
 GWRLASSO,cran
 GWRM,svilchez
@@ -10197,6 +10196,7 @@ kko,cran
 klaR,uligges
 klassR,statisticsnorway
 klausuR,undocumeantit
+kldest,niklhart
 kldtools,ashipunov
 klexdatr,poissonconsulting
 KLexp,zongrui-dai
@@ -10508,6 +10508,7 @@ leafR,draalmeida
 leafSTAR,aguslespi
 leafsync,r-spatial
 leaftime,timelyportfolio
+leakyIV,dswatson
 leanpubr,muschellij2
 LEANR,cran
 leapp,cran
@@ -10549,7 +10550,6 @@ lenses,cfhammill
 leontief,pachamaltese
 leprechaun,cran
 leptokurticMixture,rpbrowne
-leri,earthlab
 lero.lero,lucasprocessi
 les,bioc
 less,bozercavdar
@@ -11906,6 +11906,7 @@ micromapST,jpearson0525
 MicroMoB,dd-harp
 micromodal,kennedymwavu
 MicroNiche,damienfinn
+micronutr,nutriverse
 micropan,larssnip
 microplot,rmheiberger
 microPop,helenkettle
@@ -13836,7 +13837,6 @@ onehot,gravesee
 onekp,ropensci
 onelogin,akgold
 onemap,augusto-garcia
-onemapsgapi,cran
 OneR,vonjd
 OneSampleLogRankTest,dkangeyan
 OneSampleMR,remlapmot
@@ -14563,6 +14563,7 @@ pedigree,albartcoster
 pedigreemm,anainesvs
 pedigreeTools,rpedigree
 Pedixplorer,bioc
+pedMermaid,nilforooshan
 pedmod,boennecd
 pedmut,magnusdv
 pedometrics,laboratorio-de-pedometria
@@ -17171,7 +17172,6 @@ rgeoda,geodacenter
 RGeode,lorenzorimella
 rgeomstats,lmjl-alea
 rgeopat2,nowosad
-rgeoprofile,jsspaulding
 rgexf,gvegayon
 RGF,mlampros
 Rgff,cran
@@ -17599,7 +17599,7 @@ robber,chabert-liddell
 robcbi,cran
 robCompositions,matthias-da
 robcor,paulsmirnov
-robcp,cran
+robcp,sgoerz
 roben,jrhub
 robeth,cran
 RobExtremes,r-forge
@@ -18734,8 +18734,6 @@ sdetorus,egarpor
 SDGdetector,yingjie4science
 SDLfilter,takahiroshimada
 sdm,babaknaimi
-sdmApp,abson-dev
-SDMPlay,charleneguillaumot
 sdmpredictors,lifewatch
 sdmTMB,pbs-assess
 SDMtune,consbiol-unibern
@@ -19388,7 +19386,6 @@ simpleRCache,cran
 simplermarkdown,djvanderlaan
 simpleSeg,sydneybiox
 simpleSetup,christophergandrud
-simplevis,statisticsnz
 simplexreg,pengyan2000
 simplextree,peekxc
 SimplicialCubature,jpnolan
@@ -19916,6 +19913,7 @@ spatgeom,maikol-solis
 spatgraphs,antiphon
 SpatGRID,cran
 spathial,cran
+spaths,christiandueben
 spatial,cran
 SpatialAcc,cran
 SpatialBSS,cran
@@ -20546,7 +20544,6 @@ stratification,cran
 StratifiedBalancing,cran
 StratifiedMedicine,thomasjemielita
 StratifiedRF,david-cortes
-StratifiedSampling,rjauslin
 stratifyR,cran
 StratigrapheR,sewouter
 StratSel,lleemann
@@ -20618,7 +20615,6 @@ subgroup,cran
 SubgrpID,cran
 subgxe,umich-cphds
 submax,cran
-subniche,karasiewiczstephane
 SubpathwayLNCE,shixinrui
 subplex,kingaa
 subrank,jeromepcollet
@@ -20703,6 +20699,7 @@ SurfR,auroramaurizio
 Surrogate,florianstijven
 SurrogateBMA,yunshandys
 SurrogateOutcome,laylaparast
+SurrogateRank,laylaparast
 SurrogateRegression,zrmacc
 SurrogateRsq,xiaoruizhu
 SurrogateTest,laylaparast
@@ -21111,7 +21108,6 @@ TEKRABber,ferygood
 telefit,jmhewitt
 telegram,lbraglia
 telegram.bot,ebeneditos
-telemac,tpilz
 telemetR,tspaulding-esa
 TELP,cran
 TempCont,burriach
@@ -22289,7 +22285,7 @@ validateIt,cran
 validatesuggest,data-cleaning
 validatetools,data-cleaning
 VALIDICLUST,cran
-validmind,cran
+validmind,cachafla
 valmetrics,kriper0217
 valorate,vtrevino
 valottery,clayford
@@ -22807,7 +22803,6 @@ whoa,eriqande
 whoami,r-lib
 whomds,lindsayevanslee
 whSample,km4ivi
-wiad,bnasr
 widals,davezes
 widgetframe,trafficonese
 widgetTools,bioc
