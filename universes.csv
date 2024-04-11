@@ -1136,7 +1136,7 @@ BatchGetSymbols,msperlin
 BatchJobs,tudo-r
 batchmeans,drjphughesjr
 batchmix,stcolema
-BatchQC,mani2012
+BatchQC,wejlab
 batchscr,sherrisherry
 batchtma,stopsack
 batchtools,mllg
@@ -1282,6 +1282,7 @@ BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,wt215
+baySeq,samgg
 baystability,myaseen208
 BAYSTAR,edmhlin
 baytrends,tetratech
@@ -1938,7 +1939,7 @@ boral,fhui28
 borealis,bioc
 borrowr,cran
 Boruta,cran
-BOSO,cran
+BOSO,lvalcarcel
 BosonSampling,cran
 BoSSA,lefeup
 bossR,ubcxzhang
@@ -2307,7 +2308,7 @@ card,asshah4
 carData,r-forge
 cardelino,single-cell-genetics
 cardidates,r-forge
-Cardinal,bioc
+Cardinal,kuwisdelu
 CardinalIO,kuwisdelu
 cards,insightsengineering
 cardx,insightsengineering
@@ -6469,6 +6470,7 @@ fechner,cran
 fect,lzy318
 FedData,ropensci
 federalregister,ropengov
+FedIRT,cran
 fedmatch,c0webster
 fedregs,noaa-edab
 fedstatAPIr,denchpokepon
@@ -8702,6 +8704,7 @@ HDStIM,niaid
 HDTD,anestistouloumis
 HDTSA,linc2021
 HDtweedie,cran
+HDXBoxeR,cran
 headliner,rjake
 HealthCal,cran
 healthcare.antitrust,mpanhans
@@ -9482,6 +9485,7 @@ inet,jmbh
 iNETgrate,bioc
 iNEXT,johnsonhsieh
 iNEXT.3D,annechao
+iNEXT.4steps,kaihsianghu
 iNEXT.beta3D,annechao
 infer,tidymodels
 infercnv,broadinstitute
@@ -9746,6 +9750,7 @@ irlba,bwlewis
 iRoCoDe,raajash
 IRon,nunompmoniz
 irr,cran
+IRR2FPR,fbartos
 irrCAC,cran
 IrregLong,epullenayegum
 irrICC,cran
@@ -12608,7 +12613,7 @@ msae,cran
 msaeHB,cran
 msaenet,nanxstats
 msaFACE,lwlr
-msamp,cran
+msamp,m-fer1
 msaR,zachcp
 MsBackendMassbank,rformassspectrometry
 MsBackendMgf,rformassspectrometry
@@ -13613,6 +13618,7 @@ nswgeo,cidm-ph
 nsyllable,quanteda
 ntdr,vgxhc
 NTLKwIEx,otodji
+ntranova,cran
 NTS,convfunctimeseries
 ntsDists,dmazarei
 NTSS,jiri-dvorak
@@ -15977,6 +15983,7 @@ QTOCen,yuzhou-isabella
 Qtools,marco-geraci
 qtwAcademic,andreaczhang
 quadcleanR,dominiquemaucieri
+quadform,robinhankin
 quadkeyr,ropensci
 quadmatrix,kasakh
 quadmesh,hypertidy
@@ -19160,7 +19167,7 @@ shinylogs,dreamrs
 shinyLP,jasdumas
 shinymanager,datastorm-open
 shinymaterial,ericrayanderson
-shinyMatrix,aneudecker
+shinyMatrix,inwtlab
 shinyMergely,stla
 shinymeta,rstudio
 shinyMethyl,jfortin1
@@ -19638,6 +19645,7 @@ smoothAPC,dokal01
 smoothclust,lmweber
 smoothedLasso,ghahn-hsph
 smoother,cran
+SmoothHazard,tagteam
 smoothHR,arturstat
 smoothic,meadhbh-oneill
 smoothie,ericgilleland
@@ -19860,6 +19868,7 @@ sparseBC,cran
 SparseBiplots,mitzicubillamontilla
 sparsebnUtils,itsrainingdata
 SparseChol,samuel-watson
+sparseCov,chexjiang
 SparseDC,cran
 sparseDFM,cran
 sparsediscrim,topepo
@@ -20731,6 +20740,7 @@ surveydata,andrie
 surveyexplorer,liamhaller
 surveygraph,surveygraph
 surveyplanning,csblatvia
+surveyPrev,richardli
 surveysd,statistikat
 surveytable,cdcgov
 surveyvoi,prioritizr
@@ -20953,12 +20963,12 @@ taboolaR,pablosanmar
 tabr,leonawicz
 tabshiftr,luckinet
 tabula,tesselle
+tabulapdf,ropensci
 tabularaster,hypertidy
 tabularmaps,uribo
 tabularMLC,caiohamamura
 tabulate,mlverse
 tabulator,skhiggins
-tabulizer,ropensci
 tabulog,austinrwarner
 tabuSearch,domijan
 tabxplor,bricenocenti
@@ -22684,6 +22694,7 @@ waveslim,bjw34032
 wavethresh,cran
 wavScalogram,cran
 waydown,pabrod
+WayFindR,cran
 waywiser,ropensci
 wbacon,tobiasschoch
 wbs,cran

@@ -1,5 +1,11 @@
 [
   {
+    "package": "Cardinal",
+    "maintainer": "Kylie Ariel Bemis <k.bemis@northeastern.edu>",
+    "url": "https://github.com/kuwisdelu/cardinal",
+    "registry": "bioc"
+  },
+  {
     "package": "CardinalIO",
     "maintainer": "Kylie Ariel Bemis <k.bemis@northeastern.edu>",
     "url": "https://github.com/kuwisdelu/cardinalio",

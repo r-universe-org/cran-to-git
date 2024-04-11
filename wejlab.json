@@ -12,6 +12,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BatchQC",
+    "maintainer": "Jessica McClintock <jessica.mcclintock@rutgers.edu>",
+    "url": "https://github.com/wejlab/batchqc",
+    "registry": "bioc"
+  },
+  {
     "package": "TBSignatureProfiler",
     "maintainer": "Aubrey R. Odom <aodom@bu.edu>",
     "url": "https://github.com/wejlab/tbsignatureprofiler",
