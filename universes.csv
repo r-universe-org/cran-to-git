@@ -58,6 +58,7 @@ accelmissing,jungaeleeb
 AccelStab,accelstab
 accept,resplab
 AcceptanceSampling,andreaskiermeier
+AcceptReject,prdm0
 accessibility,ipeagit
 accessrmd,r-leyshon
 accrual,cran
@@ -401,6 +402,7 @@ AlgebraicHaploPackage,cran
 algo,feddelegrand7
 algorithmia,algorithmiaio
 aliases2entrez,peyronlab
+alien,cran
 align,cran
 alkahest,tesselle
 allcontributors,ropensci
@@ -1085,7 +1087,6 @@ bardr,wzbillings
 bark,merliseclyde
 Barnard,kerguler
 BART,rsparapa
-bartBMA,cran
 bartCause,vdorie
 bartcs,yooyh
 bartMachine,cran
@@ -6332,7 +6333,6 @@ fastLiquidAssociation,bioc
 fastliu,cran
 fastLogisticRegressionWrap,kapelner
 fastlogitME,cran
-fastlogranktest,tikacp
 fastM,klauschn
 fastmap,r-lib
 fastmatch,s-u
@@ -6470,7 +6470,7 @@ fechner,cran
 fect,lzy318
 FedData,ropensci
 federalregister,ropengov
-FedIRT,cran
+FedIRT,biyingzhou
 fedmatch,c0webster
 fedregs,noaa-edab
 fedstatAPIr,denchpokepon
@@ -8132,7 +8132,6 @@ goftest,baddstats
 GOfuncR,bioc
 gogarch,bpfaff
 goldfish,stocnet
-goldilocks,graemeleehickey
 golem,thinkr-open
 gomms,cran
 GomoGomonoMi,feddelegrand7
@@ -8704,7 +8703,7 @@ HDStIM,niaid
 HDTD,anestistouloumis
 HDTSA,linc2021
 HDtweedie,cran
-HDXBoxeR,cran
+HDXBoxeR,mkajano
 headliner,rjake
 HealthCal,cran
 healthcare.antitrust,mpanhans
@@ -9391,7 +9390,7 @@ imguR,cloudyr
 ImHD,imiqbal
 IMIFA,keefe-murphy
 IMIX,ziqiaow
-iml,christophm
+iml,giuseppec
 IMmailgun,cran
 IMMAN,minoo-asty
 immcp,yuanlonghu
@@ -11718,7 +11717,6 @@ metapro,ysora
 metaprotr,aaronmilloro
 metaRange,metarange
 metarep,ijaljuli
-metaRMST,iweir
 metaRNASeq,sblanck
 metaSDTreg,cran
 metaSEM,mikewlcheung
@@ -12415,7 +12413,6 @@ MoleculeExperiment,sydneybiox
 MolgenisArmadillo,molgenis
 MolgenisAuth,molgenis
 MOLHD,hrz123
-molnet,cran
 MOMA,califano-lab
 mombf,davidrusi
 momentchi2,cran
@@ -13173,7 +13170,6 @@ netClust,cran
 NetCluster,cran
 netcmc,cran
 netCoin,modesto-escobar
-netcom,langendorfr
 netcontrol,daklor
 NetCoupler,netcoupler
 netcox,ly129
@@ -13729,7 +13725,6 @@ OddsPlotty,statsgary
 oddsratio,pat-s
 oddstream,pridiltal
 odeGUTS,bgoussen
-odeintr,thk686
 ODEnetwork,surmann
 ODEsensitivity,surmann
 odetector,zcebeci
@@ -18482,6 +18477,7 @@ SBdecomp,laylaparast
 sbfc,vkrakovna
 sbgcop,pdhoff
 SBGNview,datapplab
+SBI,davidpetroff
 sBIC,lucaweihs
 SBICgraph,qpmnguyen
 sbl,meiyuecomputbio
@@ -18787,7 +18783,7 @@ secrettext,daniellequinn
 secrlinear,murrayefford
 secsse,rsetienne
 sectorgap,sinast3000
-secure,cran
+secure,amishra-stats
 secuTrialR,swissclinicaltrialorganisation
 sedproxy,earthsystemdiagnostics
 see,easystats
@@ -19028,6 +19024,7 @@ sgapi,defra-data-science-centre-of-excellence
 sgat,matiaspoullain
 SGB,grafmoni
 sGBJ,lauravillain
+sgboost,fabianobster
 SGCP,na396
 sgd,airoldilab
 SGDinference,sgdinference-lab
@@ -20440,7 +20437,6 @@ stdReg,arvsjo
 stdvectors,digemall
 steadyICA,cran
 steepness,dleivaur79
-SteinerNet,krashkov
 SteinIV,cran
 stelfi,cmjt
 stellaR,mattdell71
@@ -22434,7 +22430,6 @@ versionsort,turtletopia
 VERSO,bioc
 versus,eutwt
 VertexSimilarity,cran
-VertexSort,diala-ar
 VeryLargeIntegers,jleivacuadrado
 vesselr,jdwor
 vetiver,rstudio
@@ -22538,7 +22533,6 @@ vivid,alaninglis
 vivo,modeloriented
 vizdraws,ignacio82
 vkR,dementiy
-vlad,wittenberg
 vlda,pnuwon
 VLF,tathey
 VLMC,mmaechler
