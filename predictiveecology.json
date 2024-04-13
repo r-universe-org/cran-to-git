@@ -17,7 +17,8 @@
   {
     "package": "reproducible",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
-    "url": "https://github.com/predictiveecology/reproducible"
+    "url": "https://github.com/predictiveecology/reproducible",
+    "registry": "archived"
   },
   {
     "package": "Require",
@@ -27,16 +28,19 @@
   {
     "package": "SpaDES",
     "maintainer": "Alex M Chubaty <achubaty@for-cast.ca>",
-    "url": "https://github.com/predictiveecology/spades"
+    "url": "https://github.com/predictiveecology/spades",
+    "registry": "archived"
   },
   {
     "package": "SpaDES.core",
     "maintainer": "Eliot J B McIntire <eliot.mcintire@canada.ca>",
-    "url": "https://github.com/predictiveecology/spades.core"
+    "url": "https://github.com/predictiveecology/spades.core",
+    "registry": "archived"
   },
   {
     "package": "SpaDES.tools",
     "maintainer": "Alex M Chubaty <achubaty@for-cast.ca>",
-    "url": "https://github.com/predictiveecology/spades.tools"
+    "url": "https://github.com/predictiveecology/spades.tools",
+    "registry": "archived"
   }
 ]

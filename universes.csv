@@ -402,7 +402,7 @@ AlgebraicHaploPackage,cran
 algo,feddelegrand7
 algorithmia,algorithmiaio
 aliases2entrez,peyronlab
-alien,cran
+alien,hezibu
 align,cran
 alkahest,tesselle
 allcontributors,ropensci
@@ -495,6 +495,7 @@ AMPLE,pacificcommunity
 amplican,valenlab
 AmpliconDuo,anla8000
 AMR,msberends
+amregtest,cran
 amt,jmsigner
 AmyloGram,michbur
 anabel,cran
@@ -963,6 +964,7 @@ avidaR,cran
 AvInertia,charvey23
 aVirtualTwins,prise6
 avocado,nikdata
+avotrex,cran
 awardFindR,ropensci
 aweek,reconhub
 aweSOM,cran
@@ -1127,6 +1129,7 @@ BaSkePro,marco-vidal
 basket,kaneplusplus
 BasketballAnalyzeR,sndmrc
 baskexact,lbau7
+basksim,lbau7
 BASS,dfrancom
 BAT,cran
 batata,feddelegrand7
@@ -3006,7 +3009,7 @@ clusterProfiler,yulab-smu
 ClusterR,mlampros
 ClusterRankTest,cran
 clusterRepro,tibshirani
-clusterSeq,bioc
+clusterSeq,samgg
 clusterSEs,cran
 ClusterSignificance,jasonserviss
 clusterSim,a-dudek-ue
@@ -4702,6 +4705,7 @@ diffval,cran
 diffviewer,r-lib
 DiffXTables,joemsong
 DIFlasso,schaubert
+DIFM,cran
 difNLR,adelahladka
 DIFplus,daiscode
 difR,cran
@@ -5091,7 +5095,7 @@ drhur,sammo3182
 DriftBurstHypothesis,emilsjoerup
 drifter,modeloriented
 DrillR,dragonitemew
-drimmR,cran
+drimmR,nicolasv-dev
 DrImpute,ikwak2
 DRIMSeq,bioc
 DRIP,cran
@@ -5131,7 +5135,7 @@ dscore,d-score
 dsdp,tsuchiya-lab
 dse,r-forge
 dsem,james-thorson-noaa
-dsfa,rouvenschmidt1337
+dsfa,cran
 DSI,datashield
 dsims,distancedevelopment
 DSjobtracker,thiyangt
@@ -8723,6 +8727,7 @@ heatmaply,talgalili
 heatmaps,bioc
 Heatplus,alexploner
 heatwaveR,robwschlegel
+heck,dyfanjones
 HeckmanEM,cran
 HEDA,ninalty
 heddlr,mikemahoney218
@@ -16915,6 +16920,7 @@ relaimpo,ugroempi
 relatable,domjarkey
 Relatedness,fabienlaporte
 relations,kurthornik
+relcircle,cran
 reldist,handcock
 RelDists,ousuga
 Relectoral,miguelro
@@ -17261,7 +17267,7 @@ RiboCrypt,m-swirski
 RiboDiPA,jipingw
 RiboProfiling,bioc
 ribor,bioc
-riboSeqR,bioc
+riboSeqR,samgg
 ribosomeProfilingQC,jianhong
 ricegeneann,cran
 riceidconverter,cran
@@ -18810,7 +18816,7 @@ segmented,vitomuggeo
 segmenter,mahshaaban
 segmenTier,raim
 segmentr,segmentr-package
-segmentSeq,bioc
+segmentSeq,samgg
 segmetric,michellepicoli
 segMGarch,kakoko1984
 segRDA,danilocvieira
@@ -19628,10 +19634,10 @@ SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
 smlmkalman,andrew-buist
 SMLoutliers,siddjain24
-SMM,cran
+SMM,nicolasv-dev
 SMMA,adam-lund
 SMME,adam-lund
-smmR,cran
+smmR,nicolasv-dev
 SMMT,valvaletl
 SMNCensReg,cran
 smof,cran
@@ -19660,6 +19666,7 @@ smotefamily,reddertar
 SMOTEWB,fatihsaglam
 smovie,paulnorthrop
 smpic,mikkelkrogsholm
+smplot2,smin95
 SMPracticals,cran
 SMR,bendeivide
 sms,dimitrisk
@@ -21599,6 +21606,7 @@ ToolsForCoDa,jangraffelman
 toolStability,illustratien
 TooManyCellsR,gregoryschwartz
 toOrdinal,centerforassessment
+Toothnroll,aprofico
 TOP,harry25r
 topChef,celevitz
 topconfects,pfh
@@ -23116,6 +23124,7 @@ zeitgebr,rethomics
 zellkonverter,theislab
 zen4R,eblondel
 zendeskR,tcash21
+zendown,rfsaldanha
 zenith,diseaseneurogenomics
 zenplots,great-northern-diver
 zeroEQpart,djrichar92

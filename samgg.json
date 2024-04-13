@@ -4,5 +4,23 @@
     "maintainer": "Samuel Granjeaud <samuel.granjeaud@inserm.fr>",
     "url": "https://github.com/samgg/bayseq",
     "registry": "bioc"
+  },
+  {
+    "package": "clusterSeq",
+    "maintainer": "Samuel Granjeaud <samuel.granjeaud@inserm.fr>",
+    "url": "https://github.com/samgg/clusterseq",
+    "registry": "bioc"
+  },
+  {
+    "package": "riboSeqR",
+    "maintainer": "Samuel Granjeaud <samuel.granjeaud@inserm.fr>",
+    "url": "https://github.com/samgg/riboseqr",
+    "registry": "bioc"
+  },
+  {
+    "package": "segmentSeq",
+    "maintainer": "Samuel Granjeaud <samuel.granjeaud@inserm.fr>",
+    "url": "https://github.com/samgg/segmentseq",
+    "registry": "bioc"
   }
 ]
