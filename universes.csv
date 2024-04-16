@@ -1093,6 +1093,7 @@ bartCause,vdorie
 bartcs,yooyh
 bartMachine,cran
 bartMachineJARs,cran
+bartMan,cran
 baRulho,ropensci
 BAS,merliseclyde
 basad,qingdan
@@ -5595,6 +5596,7 @@ electionsBR,silvadenisson
 electivity,desiquintans
 electoral,albuja
 elevatr,jhollist
+ElevDistr,liviobaetscher
 elexr,ghing
 elfDistr,matheushjs
 elfgen,harpgroup
@@ -8936,7 +8938,7 @@ HOasso,albertoarcagni
 hockeystick,cortinah
 HodgesTools,tyler-hansen
 holdem,rickucla
-holiglm,cran
+holiglm,ben-schwen
 holland,jhhmuc
 holodeck,aariq
 Holomics,molinlab
@@ -10898,6 +10900,7 @@ longmemo,mmaechler
 LongMemoryTS,funwithr
 longmixr,cellmapslab
 longpower,mcdonohue
+longreadvqs,nakarinp
 longROC,cran
 longRPart2,rjacobucci
 longsurr,laylaparast
@@ -11211,6 +11214,7 @@ mapiso,riatelab
 MAPITR,mturchin20
 maplegend,riatelab
 mapme.biodiversity,mapme-initiative
+mapmisc,eborgnine
 mapping,mappinguniverse
 mappings,benjaminrich
 mapplots,hgerritsen
@@ -11858,7 +11862,7 @@ MHD,crossd
 MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
-Mhorseshoe,cran
+Mhorseshoe,rkdalsrl1511
 mhsmm,cran
 mhtboot,abhirupkgp
 MHTdiscrete,allenzhuaz
@@ -15969,6 +15973,7 @@ qtl2pleio,fboehm
 qtlbook,kbroman
 qtlc,ivanp84
 qtlcharts,kbroman
+qtlDesign,cran
 QTLEMM,py-chung
 QTLExperiment,dunstone-a
 qtlhot,cran
@@ -16770,6 +16775,7 @@ rebus.datetimes,richierocks
 rebus.numbers,richierocks
 rebus.unicode,richierocks
 RECA,nanxstats
+recalibratiNN,cmusso86
 recapr,mbtyers
 RecAssoRules,louisraimbault
 receptiviti,receptiviti
@@ -17377,7 +17383,6 @@ RKEEL,i02momuj
 RKEELdata,i02momuj
 RKelly,hcelion
 rKenyaForex,mutuasam
-rkeops,getkeops
 RKHSMetaMod,cran
 rKIN,salbeke
 RkMetrics,cran
@@ -17711,7 +17716,7 @@ ROI.models.globalOptTests,cran
 ROI.models.miplib,r-forge
 ROI.models.netlib,cran
 ROI.plugin.alabama,r-forge
-ROI.plugin.clarabel,cran
+ROI.plugin.clarabel,ben-schwen
 ROI.plugin.cplex,r-forge
 ROI.plugin.deoptim,r-forge
 ROI.plugin.ecos,r-forge
