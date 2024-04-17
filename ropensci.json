@@ -200,6 +200,11 @@
     "url": "https://github.com/ropensci/datapack"
   },
   {
+    "package": "DataPackageR",
+    "maintainer": "Dave Slager <dslager@scharp.org>",
+    "url": "https://github.com/ropensci/datapackager"
+  },
+  {
     "package": "DataSpaceR",
     "maintainer": "Jason Taylor <jmtaylor@fredhutch.org>",
     "url": "https://github.com/ropensci/dataspacer"

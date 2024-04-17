@@ -1,5 +1,10 @@
 [
   {
+    "package": "filters",
+    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
+    "url": "https://github.com/cran/filters"
+  },
+  {
     "package": "random.cdisc.data",
     "maintainer": "Joe Zhu <joe.zhu@roche.com>",
     "url": "https://github.com/cran/random.cdisc.data"
