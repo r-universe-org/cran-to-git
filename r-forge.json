@@ -806,6 +806,12 @@
     "subdir": "pkg/setRNG"
   },
   {
+    "package": "signal",
+    "maintainer": "Uwe Ligges <ligges@statistik.tu-dortmund.de>",
+    "url": "https://github.com/r-forge/signal",
+    "subdir": "pkg"
+  },
+  {
     "package": "sirad",
     "maintainer": "Jedrzej S. Bojanowski <jedrzej.bojanowski@gmail.com>",
     "url": "https://github.com/r-forge/sirad",
