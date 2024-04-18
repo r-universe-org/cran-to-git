@@ -229,6 +229,12 @@
     "branch": "RELEASE_3_18"
   },
   {
+    "package": "pwalign",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/pwalign",
+    "registry": "bioc"
+  },
+  {
     "package": "RaggedExperiment",
     "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
     "url": "https://github.com/bioconductor/raggedexperiment",

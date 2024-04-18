@@ -735,6 +735,7 @@ bayess,https://github.com/jmm34/bayess,,
 BayesSampling,https://github.com/pedrosfig/bayessampling,,
 BayesSenMC,https://github.com/formidify/bayessenmc,,
 BayesSpace,https://github.com/edward130603/bayesspace,,bioc
+BayesSUR,https://github.com/mbant/bayessur,BayesSUR,
 bayestestR,https://github.com/easystats/bayestestr,,
 BayesTools,https://github.com/fbartos/bayestools,,
 BayesTreePrior,https://github.com/alexiajm/bayestreeprior,,
@@ -1152,6 +1153,7 @@ bReeze,https://github.com/chgrl/breeze,,
 brendaDb,https://github.com/y1zhou/brendadb,,bioc
 BRETIGEA,https://github.com/andymckenzie/bretigea,,
 brew,https://github.com/gregfrog/brew,,
+BREW3R.r,https://github.com/lldelisle/brew3r.r,,bioc
 BRGenomics,https://github.com/mdeber/brgenomics,,bioc
 brglm,https://github.com/ikosmidis/brglm,,
 brglm2,https://github.com/ikosmidis/brglm2,,
@@ -5150,6 +5152,7 @@ HDStIM,https://github.com/niaid/hdstim,,
 HDTD,https://github.com/anestistouloumis/hdtd,,bioc
 HDTSA,https://github.com/linc2021/hdtsa,,
 HDXBoxeR,https://github.com/mkajano/hdxboxer,,
+hdxmsqc,https://github.com/ococrook/hdxmsqc,,bioc
 headliner,https://github.com/rjake/headliner,,
 healthcare.antitrust,https://github.com/mpanhans/healthcare.antitrust,,
 healthfinance,https://github.com/rrrlw/healthfinance,,
@@ -7749,6 +7752,7 @@ neutralitytestr,https://github.com/marcjwilliams1/neutralitytestr,,
 nevada,https://github.com/astamm/nevada,,
 neverhpfilter,https://github.com/justinmshea/neverhpfilter,,
 new.dist,https://github.com/akmn35/new.dist,,
+newIMVC,https://github.com/scottpanhan/newimvc,,
 newsanchor,https://github.com/correlaid/newsanchor,,
 newscatcheR,https://github.com/discindo/newscatcher,,
 newsmap,https://github.com/koheiw/newsmap,,
@@ -8696,6 +8700,7 @@ piqp,https://github.com/predict-epfl/piqp-r,,
 piratings,https://github.com/larsvancutsem/piratings,,
 piRF,https://github.com/chancejohnstone/pirf,,
 piton,https://github.com/ironholds/piton,,
+PIUMA,https://github.com/bioinfomonzino/piuma,,bioc
 pivmet,https://github.com/leoegidi/pivmet,,
 pivotaltrackR,https://github.com/nealrichardson/pivotaltrackr,,
 pivotea,https://github.com/matutosi/pivotea,,
@@ -9240,6 +9245,7 @@ PVAClone,https://github.com/psolymos/pvaclone,,
 pvaluefunctions,https://github.com/dinfanger/pvaluefunctions,,
 pvda,https://github.com/oskargauffin/pvda,,
 pvLRT,https://github.com/c7rishi/pvlrt,,
+pwalign,https://github.com/bioconductor/pwalign,,bioc
 PWEXP,https://github.com/zjph602xtc/pwexp,,
 pwr,https://github.com/heliosdrm/pwr,,
 pwr2ppl,https://github.com/chrisaberson/pwr2ppl,,
@@ -9587,12 +9593,9 @@ RAthena,https://github.com/dyfanjones/rathena,,
 rationalfun,https://github.com/yixuan/rationalfun,,
 RationalMatrix,https://github.com/stla/rationalmatrix,,
 rATTAINS,https://github.com/mps9506/rattains,,
-ravedash,https://github.com/dipterix/ravedash,,archived
-raveio,https://github.com/beauchamplab/raveio,,archived
 ravelRy,https://github.com/walkerkq/ravelry,,
 raven.rdf,https://github.com/raven-computing/rdf,,
 RavenR,https://github.com/rchlumsk/ravenr,,
-ravetools,https://github.com/dipterix/ravetools,,archived
 raw,https://github.com/casact/raw_package,,
 rawDiag,https://github.com/cpanse/rawdiag,,bioc
 RawHummus,https://github.com/yonghuidong/rawhummus,,
@@ -11055,6 +11058,7 @@ scMerge,https://github.com/sydneybiox/scmerge,,bioc
 scMET,https://github.com/andreaskapou/scmet,,bioc
 scmeth,https://github.com/aryeelab/scmeth,,bioc
 scMitoMut,https://github.com/wenjie1991/scmitomut,,bioc
+scMultiSim,https://github.com/zhanglabgt/scmultisim,,bioc
 SCnorm,https://github.com/rhondabacher/scnorm,,bioc
 scone,https://github.com/yoseflab/scone,,bioc
 scOntoMatch,https://github.com/papatheodorou-group/scontomatch,,
@@ -11800,7 +11804,7 @@ SpaceMarkers,https://github.com/atuldeshpande/spacemarkers,,bioc
 spacetime,https://github.com/edzer/spacetime,,
 spacyr,https://github.com/quanteda/spacyr,,
 spAddins,https://github.com/gegznav/spaddins,,
-SpaDES,https://github.com/predictiveecology/spades,,archived
+SpaDES,https://github.com/predictiveecology/spades,,
 SpaDES.core,https://github.com/predictiveecology/spades.core,,
 SpaDES.tools,https://github.com/predictiveecology/spades.tools,,
 spaero,https://github.com/e3bo/spaero,,
@@ -12702,7 +12706,6 @@ thor,https://github.com/richfitz/thor,,
 thorn,https://github.com/stla/thorn,,
 thredds,https://github.com/bigelowlab/thredds,,
 ThreeArmedTrials,https://github.com/tobiasmuetze/threearmedtrials,,
-threeBrain,https://github.com/dipterix/threebrain,,archived
 threejs,https://github.com/bwlewis/rthreejs,,
 threesixtygiving,https://github.com/evanodell/threesixtygiving,,
 ThreeWiseMonkeys,https://github.com/gpilgrim2670/threewisemonkeys,,
@@ -13285,6 +13288,7 @@ unvotes,https://github.com/dgrtwo/unvotes,,
 updateme,https://github.com/wurli/updateme,,
 updateObject,https://github.com/bioconductor/updateobject,,bioc
 updater,https://github.com/ddsjoberg/updater,,
+UPDhmm,https://github.com/martasevilla/updhmm,,bioc
 updog,https://github.com/dcgerard/updog,,
 UpDown,https://github.com/tomrohmer/updown,,
 upndown,https://github.com/assaforon/upndown,,
