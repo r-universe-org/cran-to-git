@@ -202,6 +202,7 @@ adjustedcranlogs,tylermorganwall
 adjustedCurves,robindenz1
 adklakedata,lawinslow
 adlift,cran
+ADLP,cran
 admiral,pharmaverse
 admiral.test,bms63
 admiraldev,pharmaverse
@@ -776,6 +777,7 @@ arulesCBA,mhahsler
 arulesNBMiner,mhahsler
 arulesSequences,cran
 arulesViz,mhahsler
+ARUtools,arutools
 aRxiv,ropensci
 ASAFE,bioc
 asaur,mooredf22
@@ -935,7 +937,7 @@ autoMFA,john-c-davey
 automl,aboulaboul
 autoMrP,retowuest
 autonewsmd,kapsner
-autonomics,bioc
+autonomics,bhagwataditya
 AutoPipe,falafel19
 autoplotly,terrytangyuan
 Autoplotprotein,cran
@@ -1040,6 +1042,7 @@ baggr,wwiecek
 BAGofT,cran
 BAGS,bioc
 baguette,tidymodels
+bagyo,panukatan
 bahc,damienchallet
 bain,cjvanlissa
 baizer,william-swl
@@ -2806,6 +2809,7 @@ cipheR,guslipkin
 CIplot,toshi-ara
 cir,assaforon
 circacompare,rwparsons
+CirceR,ohdsi
 circle,ropensci
 CirclesIntersections,hugosal
 circlesplot,benst099
@@ -3184,7 +3188,6 @@ coglasso,drquestion
 cogmapr,cran
 cognitoR,chi2labs
 coGPS,bioc
-COHCAP,bioc
 CohensdpLibrary,dcousin3
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
@@ -3828,6 +3831,7 @@ cropDemand,filgueirasr
 cropgrowdays,petebaker
 crops,cran
 CropScapeR,cbw1243
+CropWaterBalance,gabrielblain
 cropZoning,filgueirasr
 CrossCarry,cruzalirio
 crossdes,bbnkmp
@@ -5244,6 +5248,7 @@ dyebias,bioc
 dygraphs,rstudio
 Dykstra,cran
 DYM,kos59125
+DyMEP,cran
 dymo,cran
 dyn,markleeds2
 dyn.log,bmoretz
@@ -7127,6 +7132,7 @@ future,henrikbengtsson
 future.apply,henrikbengtsson
 future.batchtools,henrikbengtsson
 future.callr,henrikbengtsson
+future.mirai,henrikbengtsson
 future.tests,henrikbengtsson
 fuzzr,mdlincoln
 Fuzzy.p.value,cran
@@ -7572,6 +7578,7 @@ GeomxTools,bioc
 geonames,ropensci
 geonapi,eblondel
 geonetwork,famuvie
+geonode4R,eblondel
 geoperu,paulesantos
 GEOquery,seandavi
 geoR,paulojus
@@ -9613,6 +9620,7 @@ interleave,cran
 interlineaR,sylvainloiseau
 InterMineR,intermine
 internetarchive,ropensci
+InterNL,yeasinstat
 interp,cran
 interplex,tdaverse
 interplot,sammo3182
@@ -9706,6 +9714,7 @@ IPDFileCheck,sheejamk
 IPDfromKM,naliustat
 ipdw,jsta
 ipeadatar,gomesleduardo
+ipeaplot,ipeadata-lab
 IPEC,cran
 IPEDS,ajhaller
 IPEDSuploadables,alisonlanski
@@ -10414,6 +10423,7 @@ latcontrol,cran
 latdiag,deweyme
 latenetwork,tkhdyanagi
 latentcor,mingzehuang
+latentFactoR,alexchristensen
 latentgraph,cran
 latentnet,statnet
 later,r-lib
@@ -10862,6 +10872,7 @@ LogicForest,cran
 logicFS,holgerschw
 LogicReg,cran
 logihist,cran
+login,jbryer
 logistf,georgheinze
 logistic4p,johnnyzhz
 LogisticCurveFitting,debarghya9394
@@ -11219,7 +11230,7 @@ MAPITR,mturchin20
 maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmisc,eborgnine
-mapmixture,cran
+mapmixture,tom-jenkins
 mapping,mappinguniverse
 mappings,benjaminrich
 mapplots,hgerritsen
@@ -11241,7 +11252,7 @@ maptiles,riatelab
 maptpx,taddylab
 maptree,rbgramacy
 mapview,r-spatial
-maq,grootci
+maq,cran
 mAr,cran
 mar1s,aparamon
 maraca,astrazeneca
@@ -11447,6 +11458,7 @@ mcca,gaoming96
 mccca,cran
 mccf1,kirin666
 mcclust,cran
+MCCM,cran
 mccmeiv,chrismattstat
 mccr,cran
 MCDA,paterijk
@@ -11764,6 +11776,7 @@ metevalue,cran
 MetGen,cran
 MethComp,ekstroem
 methcon5,uscbiostats
+MethEvolSIM,sarisworld
 methimpute,bioc
 methInheritSim,belleau
 MethodCompare,cran
@@ -11935,7 +11948,7 @@ microSTASIS,biotechpedro
 microsynth,michaelwrobbins
 MicSim,bieneschwarze
 MICsplines,yili-hong
-MICSQTL,bioc
+MICSQTL,yuepan027
 micsr,ycroissant
 micss,cran
 MiDA,cran
@@ -12419,7 +12432,6 @@ mogavs,cran
 mogsa,bioc
 mojson,chriswweibo
 mokken,avdrark
-moko,coldfir3
 molaR,cran
 MoLE,samlestrade2
 MoleculeExperiment,sydneybiox
@@ -13191,7 +13203,6 @@ netdiffuseR,usccana
 netDx,bioc
 NetExplorer,sebastiansosa
 NetFACS,netfacs
-netgen,jakobbossek
 netgsa,mikehellstern
 netgwas,pariya
 nethet,bioc
@@ -18467,7 +18478,6 @@ SASdates,imaheshdivakaran
 saseR,statomics
 sasfunclust,unina-sfere
 sasLM,cran
-sasMap,mangothecat
 SASmarkdown,hemken
 SASmixed,stevencarlislewalker
 sasr,insightsengineering
@@ -20091,6 +20101,7 @@ spgwr,rsbivand
 SphereOptimize,cran
 spherepc,jongminlee-stat
 sphereplot,asgr
+spheresmooth,kybak90
 sphereTessellation,stla
 SphericalCubature,jpnolan
 sphet,gpiras
@@ -22900,6 +22911,7 @@ wordbankr,langcog
 wordcloud,ifellows
 wordcloud2,lchiffon
 wordler,davidasmith
+WordListsAnalytics,smorenoa
 wordnet,kurthornik
 WordOfMouth,cran
 wordpiece,macmillancontentscience
@@ -23025,6 +23037,7 @@ XINA,bioc
 xkcd,emiliotorres
 xkcdcolors,tslumley
 XKCDdata,cran
+xlcharts,lgnbhl
 XLConnect,miraisolutions
 xlcutter,bisaloo
 xlink,qiuanzhu

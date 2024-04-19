@@ -5,6 +5,11 @@
     "url": "https://github.com/ohdsi/andromeda"
   },
   {
+    "package": "CirceR",
+    "maintainer": "Chris Knoll <cknoll@ohdsi.org>",
+    "url": "https://github.com/ohdsi/circer"
+  },
+  {
     "package": "CohortAlgebra",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
     "url": "https://github.com/ohdsi/cohortalgebra"
