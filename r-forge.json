@@ -353,7 +353,8 @@
     "package": "HistogramTools",
     "maintainer": "Murray Stokely <murray@stokely.org>",
     "url": "https://github.com/r-forge/histogramtools",
-    "subdir": "pkg"
+    "subdir": "pkg",
+    "registry": "archived"
   },
   {
     "package": "isotone",
