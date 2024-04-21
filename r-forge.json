@@ -994,6 +994,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "tuneR",
+    "maintainer": "Uwe Ligges <ligges@statistik.tu-dortmund.de>",
+    "url": "https://github.com/r-forge/tuner",
+    "subdir": "pkg"
+  },
+  {
     "package": "urbin",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/urbin",
