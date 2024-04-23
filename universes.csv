@@ -906,7 +906,6 @@ auditor,modeloriented
 audrex,cran
 audubon,paithiov909
 augmentedRCBD,aravind-j
-AugmenterR,datasets-trainer
 augSIMEX,cran
 auk,ropensci
 aum,tdhock
@@ -1106,6 +1105,7 @@ base64enc,s-u
 base64url,mllg
 baseballr,billpetti
 basecallQC,bioc
+basecamb,codeblue-team
 basedosdados,pedrocava
 basefun,r-forge
 baseline,khliland
@@ -3398,6 +3398,7 @@ conf.design,billvenables
 confcons,bfakos
 CONFESS,bioc
 confidence,cran
+ConfidenceEllipse,christiangoueguel
 config,rstudio
 ConfigParser,hhoeflin
 configr,miachol
@@ -4994,6 +4995,7 @@ DominoEffect,bioc
 domir,jluchman
 doMPI,steveweston
 donut,paulnorthrop
+donutsk,dkibalnikov
 doolkit,nialsig
 DoOR.data,ropensci
 DoOR.functions,ropensci
@@ -5088,6 +5090,7 @@ DRAYL,cran
 DrBats,bfontez
 drc,cran
 drcarlate,cran
+drclust,cran
 drcSeedGerm,onofriandreapg
 drcte,onofriandreapg
 drda,albertopessia
@@ -8511,6 +8514,7 @@ gtWAS,junhuili1017
 guaguas,rivaquiroga
 guardianapi,evanodell
 Guerry,friendly
+guescini,ramiromagno
 guess,soodoku
 GUIDE,subramanianshub
 guidedPLS,rikenbit
@@ -10724,7 +10728,7 @@ lionessR,mararie
 lipidmapsR,mingzhuotina
 LipidMS,maialba3
 lipidomeR,cran
-LipidomicsR,zhuhengyudashuaibi
+LipidomicsR,mingshi1
 lipidr,ahmohamed
 LipinskiFilters,ocheab
 liqueueR,datawookie
@@ -14297,6 +14301,7 @@ panelPomp,cran
 panelr,jacob-long
 panelsummary,michaeltopper1
 panelSUR,laurabarbieri
+PanelTM,cran
 panelvar,datarob
 panelView,cran
 panelWranglR,jszitas
@@ -18208,6 +18213,7 @@ Rtumblr,schochastics
 Rtwalk,andreschristen
 rtweet,ropensci
 rTwig,aidanmorales
+Rtwobitlib,hpages
 rtype,renkun-ken
 rtypeform,csgillespie
 rubias,eriqande
@@ -19329,6 +19335,7 @@ silicate,hypertidy
 SillyPutty,cran
 SILM,zhangxiany-tamu
 SIM,bioc
+sim.BA,cran
 Sim.DiffProc,acguidoum
 Sim.PLFN,cran
 sim1000G,cran
@@ -19567,6 +19574,7 @@ slanter,tanaylab
 SlaPMEG,mitra-ep
 slasso,unina-sfere
 SLBDD,cran
+slca,kim0sun
 SLCARE,qyxxx
 slcm,tmsalab
 sld,newystats
@@ -21823,6 +21831,7 @@ TreeMineR,entjos
 treemisc,bgreenwell
 treenomial,gouldmatt
 treePlotArea,fvafrcu
+TreeRingShape,ishidamgm
 TreeSearch,ms609
 treeshap,modeloriented
 TreeSim,tanja819
@@ -21846,6 +21855,7 @@ trendchange,patakamuri
 trendeval,reconverse
 trending,reconverse
 TrendInTrend,cran
+TrendLSW,euanmcgonigle
 trendsegmentR,hmaeng
 TrendSLR,cran
 TrendTM,emilielebarbier74
@@ -22540,6 +22550,7 @@ VisCollin,friendly
 viscomp,georgiosseitidis
 viscomplexr,peterbiber
 visdat,ropensci
+ViSe,doomlab
 ViSEAGO,bioc
 ViSiElse,re2simlab
 visit,cran
