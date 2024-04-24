@@ -1227,6 +1227,7 @@ bayeslongitudinal,cran
 bayesm,cran
 BayesMallows,ocbe-uio
 BayesMassBal,skoermer
+bayesMeanScale,dalenbe2
 bayesmeta,christianroever
 BayesMFSurv,nicolas-schmidt
 bayesMig,hanase
@@ -1271,6 +1272,7 @@ BayesSpace,edward130603
 BayesSUR,mbant
 bayesSurv,cran
 BayesSurvival,svdpas
+BayesSurvive,ocbe-uio
 bayest,riko-k
 bayestestR,easystats
 bayesTFR,hanase
@@ -1300,6 +1302,7 @@ BBCAnalyzer,bioc
 bbdetection,cran
 BBEST,antongagin
 BBI,trtcrd
+bbk,m-muecke
 bbknnR,ycli1995
 bbl,hjunwoo
 BBmisc,berndbischl
@@ -5992,6 +5995,7 @@ eulerian,alorchhota
 eulerr,jolars
 eummd,cran
 eunis.habitats,ramiromagno
+Eunomia,ohdsi
 eurlex,michalovadek
 eurocordexr,mitmat
 eurodata,alekrutkowski
@@ -8337,6 +8341,7 @@ greenclust,jeffjetton
 greencrab.toolkit,cran
 GREENeR,calfarog
 Greg,gforge
+GregoryQuadrature,dhetting
 gregRy,olekwojcik
 GRelevance,xshi1
 gremlin,matthewwolak
@@ -13696,7 +13701,6 @@ oaii,cezarykuran
 oaPlots,cran
 oaqc,cran
 Oarray,robinhankin
-OasisR,cran
 oaxaca,cran
 obAnalytics,phil8192
 OBASpatial,joalor93
@@ -14348,6 +14352,7 @@ pareg,cbg-ethz
 Pareto,ulrichriegel
 ParetoPosStable,ajsaez
 parfm,federico-rotolo
+pargasite,jaehyunjoo
 parglm,boennecd
 parglms,vjcitn
 pARI,angeella
@@ -14494,6 +14499,7 @@ pcaone,zilong-li
 pcaPP,valentint
 PCAtools,kevinblighe
 pcatsAPIclientR,michalkouril
+PCBS,katlande
 pccc,cud2v
 PCDimension,cran
 pcdpca,cran
@@ -16965,6 +16971,7 @@ ReliabilityTheory,louisaslett
 relimp,davidfirth
 RelimpPCR,mhernan88
 relliptical,katherineloor
+relMix,gdorum
 relSim,jmcurran
 relsurv,cran
 ReLTER,ropensci
@@ -17666,6 +17673,7 @@ robotstxt,ropensci
 RobPer,cran
 robreg3S,cran
 robregcc,amishra-stats
+RobRegression,godichon-baggioni
 RoBSA,fbartos
 robsel,dddlab
 robservable,juba
@@ -18839,11 +18847,9 @@ seeker,hugheylab
 seer,thiyangt
 SEERaBomb,radivot
 seewave,cran
-seg,syunhong
 segclust2d,rpatin
 SegCorr,cran
 segen,cran
-SegEnvIneq,cran
 segmag,frankpapenmeier
 segmented,vitomuggeo
 segmenter,mahshaaban
@@ -21275,6 +21281,7 @@ TextMiningGUI,c0reyes
 textometry,mdecorde
 textplot,bnosac
 textrank,bnosac
+textrar,matutosi
 textrecipes,tidymodels
 textreg,cran
 textreuse,ropensci
@@ -22882,7 +22889,6 @@ wildlifeDI,jedalong
 wildmeta,meghapsimatrix
 wildpoker,cran
 wildrwolf,s3alfisc
-wildviz,bradraff
 wilson,loosolab
 winch,r-prof
 windAC,cran

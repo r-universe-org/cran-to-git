@@ -40,6 +40,11 @@
     "url": "https://github.com/ohdsi/empiricalcalibration"
   },
   {
+    "package": "Eunomia",
+    "maintainer": "Frank DeFalco <fdefalco@ohdsi.org>",
+    "url": "https://github.com/ohdsi/eunomia"
+  },
+  {
     "package": "EvidenceSynthesis",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/evidencesynthesis"
