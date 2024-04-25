@@ -73,6 +73,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ggtreeSpace",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/ggtreespace",
+    "registry": "bioc"
+  },
+  {
     "package": "GOSemSim",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/gosemsim",

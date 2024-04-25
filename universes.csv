@@ -2237,6 +2237,7 @@ Cairo,s-u
 CAISEr,fcampelo
 calACS,agu-1
 CALANGO,fcampelo
+CalcThemAll.PRM,alexwaterboybezzina
 Calculator.LR.FNs,cran
 calculus,eguidotti
 calcUnique,stephenbfroehlich
@@ -7372,6 +7373,7 @@ gear,jfrench
 geboes.score,billdenney
 GEC,liuaber
 gecko,vascobranco
+GeDi,annekathrinsilvia
 GeDS,emilioluissaenzguillen
 gee,cran
 GEEaSPU,junghi
@@ -7891,12 +7893,12 @@ ggThemeAssist,calligross
 ggthemes,jrnold
 ggthemeUL,mrmarjan
 ggtibble,billdenney
-ggtikz,osthomas
 ggTimeSeries,thecomeonman
 ggtrace,rnabioco
 ggtree,yulab-smu
 ggtreeDendro,guangchuangyu
 ggtreeExtra,yulab-smu
+ggtreeSpace,yulab-smu
 ggtrendline,phdmeiwp
 ggtricks,abdoulma
 GGUM,jorgetendeiro
@@ -11944,7 +11946,7 @@ microhaplot,ngthomas
 MicroMacroMultilevel,cran
 micromap,usepa
 micromapST,jpearson0525
-MicroMoB,dd-harp
+MicroMoB,slwu89
 micromodal,kennedymwavu
 MicroNiche,damienfinn
 micronutr,nutriverse
@@ -12264,6 +12266,7 @@ mlr3resampling,tdhock
 mlr3shiny,lamate
 mlr3spatial,mlr-org
 mlr3spatiotempcv,mlr-org
+mlr3summary,cran
 mlr3tuning,mlr-org
 mlr3tuningspaces,mlr-org
 mlr3verse,mlr-org
@@ -12362,7 +12365,6 @@ mobileRNA,kjeynescupper
 MobileTrigger,kenithgrey
 mobilityIndexR,bcmullins
 MobilityTransformR,liesasalzer
-mobirep,alowis
 MoBPS,tpook92
 mobr,dmcglinn
 mobsim,mobiodiv
@@ -12895,6 +12897,7 @@ MultisiteMediation,xu-qin
 MultiSkew,cran
 multisom,sarra25
 multispatialCCM,adamtclark
+multistateQTL,dunstone-a
 MultiStatM,e-tau
 multitaper,krahim
 multitool,ethan-young
@@ -15044,6 +15047,7 @@ plot4fun,asa12138
 plotBart,priism-center
 plotbb,guangchuangyu
 PlotBivInvGaus,bhushan0510
+plotcli,cheuerde
 PlotContour,cran
 plotdap,rmendels
 plotDK,kristiansn
@@ -17498,7 +17502,6 @@ RMCC,r-lidar
 rmcfs,cran
 rmcorr,lmarusich
 rmda,mdbrown
-rmdcev,plloydsmith
 RmdConcord,dmurdoch
 rmdfiltr,crsh
 rmdformats,juba
@@ -18008,7 +18011,6 @@ rsatscan,cran
 RSauceLabs,johndharrison
 RSBJson,tverbeke
 rsbml,lawremi
-rsbp,cran
 RSC,cran
 rSCA,xanderwangcsl
 RSCAT,act-org
@@ -19283,6 +19285,7 @@ shutterplot,cran
 SI,cran
 SIAMCAT,bioc
 SIAmodules,patriciamar
+SIAtools,cran
 SIBER,andrewljackson
 SIBERG,cran
 sicegar,wilkelab
@@ -19333,7 +19336,7 @@ sigr,winvector
 SigsPack,bihealth
 sigsquared,bioc
 SigTree,johnrstevens
-SIHR,prabrishar1
+SIHR,zywang0701
 siie,cran
 siland,cran
 SILGGM,cran
@@ -19577,6 +19580,7 @@ slackr,mrkaye97
 slalom,bioc
 slam,kurthornik
 slanter,tanaylab
+slap,tadascience
 SlaPMEG,mitra-ep
 slasso,unina-sfere
 SLBDD,cran
@@ -20217,6 +20221,7 @@ SPOTlight,marcelosua
 SPOTMisc,bartzbeielstein
 spotoroo,tengmcing
 SpotSampling,cran
+SpotSweeper,mictott
 SPOUSE,cran
 SPPcomb,cran
 SpPOP,cran
@@ -20269,6 +20274,7 @@ sqlparseR,michaelsimmler
 SqlRender,ohdsi
 sqlscore,wwbrannon
 sqlstrings,dejse
+sqltargets,daranzolin
 SQMtools,cran
 SQN,martinaryee
 SQRL,cran
@@ -21422,7 +21428,6 @@ tidyfst,hope-data-science
 tidyft,hope-data-science
 tidygam,stefanocoretta
 tidygapminder,ebedthan
-tidygate,stemangiola
 tidygenomics,const-ae
 tidygeocoder,jessecambon
 tidygeoRSS,robertmyles
@@ -21979,6 +21984,7 @@ tsfeatures,robjhyndman
 tsfgrnn,franciscomartinezdelrio
 tsfknn,franciscomartinezdelrio
 tsfngm,cran
+tsgarch,tsmodels
 TSGS,sudhirsrivastava
 TSGSIS,cran
 TSHRC,cjgeyer

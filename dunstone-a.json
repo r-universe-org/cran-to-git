@@ -1,5 +1,11 @@
 [
   {
+    "package": "multistateQTL",
+    "maintainer": "Amelia Dunstone <amelia.dunstone@svi.edu.au>",
+    "url": "https://github.com/dunstone-a/multistateqtl",
+    "registry": "bioc"
+  },
+  {
     "package": "QTLExperiment",
     "maintainer": "Amelia Dunstone <amelia.dunstone@svi.edu.au>",
     "url": "https://github.com/dunstone-a/qtlexperiment",

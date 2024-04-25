@@ -24,12 +24,6 @@
     "registry": "bioc"
   },
   {
-    "package": "tidygate",
-    "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
-    "url": "https://github.com/stemangiola/tidygate",
-    "registry": "archived"
-  },
-  {
     "package": "tidyHeatmap",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidyheatmap"
