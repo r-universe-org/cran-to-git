@@ -2490,6 +2490,7 @@
 "renderthis","0.2.0","John Helveston <john.helveston@gmail.com>","https://github.com/jhelvy/renderthis",2023-10-22,"check problems were not corrected in time. , Fails if quarto is installed."
 "replicationInterval","2.0.1","David Stanley <dstanley@uoguelph.ca>",NA,2023-07-08,"at the request of the maintainer."
 "rescue","1.0.3","Sam Tracy <seasamgo@gmail.com>","https://github.com/seasamgo/rescue",2023-06-20,"issues were not corrected in time."
+"respR","2.3.2","Nicholas Carey <nicholascarey@gmail.com>","https://github.com/januarharianto/respr",2024-04-26,"issues were not corrected in time.  Repeatedly fails with timeouts on clang-using platforms."
 "restorepoint","0.2","Roman Zenka <zenka.roman@mayo.edu>","https://github.com/skranz/restorepoint",2024-04-16,"issues were not corrected in time.  Fails unless _R_CHECK_SUGGESTS_ONLY_ is set"
 "restrictedMVN","1.0","Yuval Benjamini <yuval.benjamini@mail.huji.ac.il>",NA,2022-09-30,"issues were not corrected in time.  gcc-SAN check failure."
 "retistruct","0.6.3","David C. Sterratt <david.c.sterratt@ed.ac.uk>","https://github.com/davidcsterratt/retistruct",2022-10-03,"check issues were not corrected despite reminders."

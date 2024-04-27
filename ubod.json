@@ -6,8 +6,14 @@
   },
   {
     "package": "kebabs",
-    "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
+    "maintainer": "Ulrich Bodenhofer <ulrich@bodenhofer.com>",
     "url": "https://github.com/ubod/kebabs",
+    "registry": "bioc"
+  },
+  {
+    "package": "msa",
+    "maintainer": "Ulrich Bodenhofer <ulrich@bodenhofer.com>",
+    "url": "https://github.com/ubod/msa",
     "registry": "bioc"
   },
   {
@@ -18,7 +24,7 @@
   },
   {
     "package": "procoil",
-    "maintainer": "Ulrich Bodenhofer <bodenhofer@bioinf.jku.at>",
+    "maintainer": "Ulrich Bodenhofer <ulrich@bodenhofer.com>",
     "url": "https://github.com/ubod/procoil",
     "registry": "bioc"
   },

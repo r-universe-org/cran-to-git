@@ -1,0 +1,14 @@
+[
+  {
+    "package": "epiregulon",
+    "maintainer": "Xiaosai Yao <xiaosai.yao@gmail.com>",
+    "url": "https://github.com/xiaosaiyao/epiregulon",
+    "registry": "bioc"
+  },
+  {
+    "package": "epiregulon.extra",
+    "maintainer": "Xiaosai Yao <xiaosai.yao@gmail.com>",
+    "url": "https://github.com/xiaosaiyao/epiregulon.extra",
+    "registry": "bioc"
+  }
+]

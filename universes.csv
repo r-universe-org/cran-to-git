@@ -803,7 +803,7 @@ AsioHeaders,eddelbuettel
 askgpt,jbgruber
 askpass,r-lib
 aslib,coseal
-asm,cran
+asm,nineisprime
 ASMap,drj001
 asmbPLS,runzhiz
 asnipe,cran
@@ -1597,7 +1597,7 @@ binaryMM,chiaradg
 binb,eddelbuettel
 BINCOR,jomopo
 binda,cran
-bindata,cran
+bindata,kurthornik
 BindingSiteFinder,zarnackgroup
 bindr,krlmlr
 bindrcpp,krlmlr
@@ -4481,6 +4481,7 @@ dendextend,talgalili
 dendRoAnalyst,cran
 dendroextras,jefferis
 dendrometry,narcisstar
+dendroNetwork,ropensci
 DendroSync,josucham
 dendroTools,jernejjevsenak
 DendSer,cbhurley
@@ -5838,6 +5839,8 @@ EpiNow2,epiforecasts
 epiomics,goodrich-lab
 epiphy,chgigot
 epiR,cran
+epiregulon,xiaosaiyao
+epiregulon.extra,xiaosaiyao
 EpiReport,loremerdrignac
 episcan,cran
 EpiSemble,diprosinha
@@ -6534,7 +6537,6 @@ ffmanova,olangsrud
 ffp,reckziegel
 ffpe,lwaldron
 ffscrapr,ffverse
-ffsimulator,ffverse
 ffstream,cran
 FFTrees,ndphillips
 fftw,uligges
@@ -6611,6 +6613,7 @@ finch,ropensci-archive
 FinCovRegularization,yanyachen
 findInFiles,stla
 findInGit,stla
+findIPs,shuostat
 FindIt,naoki-egami
 FindIT2,shangguandong1996
 findPackage,amarnathbose
@@ -7957,6 +7960,7 @@ GiniWegNeg,cran
 ginmappeR,bioc
 ginormal,smonto2
 GInSARCorW,subhadipdatta
+gINTomics,angelovelle96
 gIPFrm,annaklimovauw
 GIplot,cran
 gips,przechoj
@@ -11241,6 +11245,7 @@ mapdata,adeckmyn
 mapdeck,symbolixau
 mapedit,r-spatial
 mapfit,okamumu
+MAPFX,hsiaochiliao
 MapGAM,smbartell
 mapi,spiry34
 Mapinguari,gabrielhoc
@@ -12531,6 +12536,7 @@ mosaicData,projectmosaic
 mosaicModel,dtkaplan
 mosaics,bioc
 mosbi,bioc
+mosdef,imbeimainz
 MOSim,conesalab
 mosqcontrol,cran
 MOSS,agugonrey
@@ -12649,7 +12655,7 @@ MRTSampleSize,pengliao
 MRTSampleSizeBinary,cran
 MRZero,sb452
 ms.sev,helgawesterlind
-msa,bioc
+msa,ubod
 MSA2dist,bioc
 msae,cran
 msaeHB,cran
@@ -16415,7 +16421,7 @@ raven.rdf,raven-computing
 RavenR,rchlumsk
 rAverage,davidemassidda
 raw,casact
-rawDiag,cpanse
+rawDiag,fgcz
 RawHummus,yonghuidong
 rawKS,jiaxiangbu
 rawrr,fgcz
@@ -16462,6 +16468,7 @@ rbiom,cmmr
 rBiopaxParser,frankkramer-lab
 rbiouml,yevshin
 rbit,cran
+rBLAST,mhahsler
 RblDataLicense,eguidotti
 Rblpapi,rblp
 rblt,sg4r
@@ -19497,6 +19504,7 @@ sinew,yonicd
 singcar,jorittmo
 single,bioc
 SingleCaseES,jepusto
+SingleCellAlleleExperiment,agimkeller
 SingleCellExperiment,bioc
 singleCellHaystack,alexisvdb
 SingleCellSignalR,bioc
@@ -20490,7 +20498,6 @@ Statsomat,reyar
 statsr,statswithr
 statswalesr,jamie-ralph
 statTarget,bioc
-StatTeacherAssistant,ccasement
 statVisual,gefeizhang
 STB,cran
 stcos,holans
@@ -21153,7 +21160,6 @@ tdthap,jinghuazhao
 TE,xdaiisu
 tea,cran
 TeachHist,carstenlange
-teachingApps,auburngrads
 TeachingDemos,glsnow
 TeachingSampling,psirusteam
 TeachNet,cran
@@ -22046,7 +22052,7 @@ TTCA,cran
 ttcg,hckiang
 ttdo,eddelbuettel
 ttgsea,bioc
-tth,cran
+tth,zeileis
 TTMap,bioc
 tTOlr,jhmaindonald
 TTR,joshuaulrich

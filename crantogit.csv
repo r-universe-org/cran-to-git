@@ -3441,6 +3441,8 @@ epinetr,https://github.com/diondetterer/epinetr,,
 EpiNow2,https://github.com/epiforecasts/epinow2,,
 epiomics,https://github.com/goodrich-lab/epiomics,,
 epiphy,https://github.com/chgigot/epiphy,,
+epiregulon,https://github.com/xiaosaiyao/epiregulon,,bioc
+epiregulon.extra,https://github.com/xiaosaiyao/epiregulon.extra,,bioc
 episensr,https://github.com/dhaine/episensr,,
 EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection,,
 epistack,https://github.com/genepi-genphyse/epistack,,bioc
@@ -3846,7 +3848,6 @@ fflr,https://github.com/k5cents/fflr,,
 ffmanova,https://github.com/olangsrud/ffmanova,,
 ffp,https://github.com/reckziegel/ffp,,
 ffscrapr,https://github.com/ffverse/ffscrapr,,
-ffsimulator,https://github.com/ffverse/ffsimulator,,archived
 FFTrees,https://github.com/ndphillips/fftrees,,
 fftwtools,https://github.com/krahim/fftwtools,,
 fgdr,https://github.com/uribo/fgdr,,
@@ -3904,6 +3905,7 @@ finch,https://github.com/ropensci-archive/finch,,
 FinCovRegularization,https://github.com/yanyachen/fincovregularization,,
 findInFiles,https://github.com/stla/findinfiles,,
 findInGit,https://github.com/stla/findingit,,
+findIPs,https://github.com/shuostat/findips,,bioc
 FindIT2,https://github.com/shangguandong1996/findit2,,bioc
 findpython,https://github.com/trevorld/findpython,,
 findR,https://github.com/zumbov2/findr,,
@@ -4749,6 +4751,7 @@ GimmeMyPlot,https://github.com/ecamenen/gimmemyplot,,
 gimms,https://github.com/environmentalinformatics-marburg/gimms,,
 GiniDecompLY,https://github.com/aambarek/ginidecomply,,
 GInSARCorW,https://github.com/subhadipdatta/ginsarcorw,,
+gINTomics,https://github.com/angelovelle96/gintomics,,bioc
 gips,https://github.com/przechoj/gips,,
 giscoR,https://github.com/ropengov/giscor,,
 GISSB,https://github.com/statisticsnorway/gissb,,
@@ -5510,6 +5513,7 @@ ifaTools,https://github.com/jpritikin/ifatools,,
 IFC,https://github.com/gitdemont/ifc,,
 ifCNVR,https://github.com/simcab-chu/ifcnv-r,ifCNVR,
 ifctools,https://github.com/lbraglia/ifctools,,
+IFMCDM,https://github.com/a-dudek-ue/ifmcdm,,
 ifpd,https://github.com/mubarakfadhlul/ifpd,,
 ifs,https://github.com/siacus/ifs,,
 IgAScores,https://github.com/microbialman/igascores,,
@@ -6606,6 +6610,7 @@ mapchina,https://github.com/xmc811/mapchina,,
 mapdeck,https://github.com/symbolixau/mapdeck,,
 mapedit,https://github.com/r-spatial/mapedit,,
 mapfit,https://github.com/okamumu/mapfit,,
+MAPFX,https://github.com/hsiaochiliao/mapfx,,bioc
 Mapinguari,https://github.com/gabrielhoc/mapinguari,,
 mapiso,https://github.com/riatelab/mapiso,,
 MAPITR,https://github.com/mturchin20/mapitr,,
@@ -7354,6 +7359,7 @@ mosaic,https://github.com/projectmosaic/mosaic,,
 mosaicCalc,https://github.com/projectmosaic/mosaiccalc,,
 mosaicCore,https://github.com/projectmosaic/mosaiccore,,
 mosaicData,https://github.com/projectmosaic/mosaicdata,,
+mosdef,https://github.com/imbeimainz/mosdef,,bioc
 MOSim,https://github.com/conesalab/mosim,,bioc
 MOSS,https://github.com/agugonrey/moss,,
 MOTE,https://github.com/doomlab/mote,,
@@ -7420,6 +7426,7 @@ mRMRe,https://github.com/bhklab/mrmre,,
 MRPC,https://github.com/audreyqyfu/mrpc,,
 mRpostman,https://github.com/allanvc/mrpostman,,
 MRReg,https://github.com/darkeyes/mrreg,,
+msa,https://github.com/ubod/msa,,bioc
 msaenet,https://github.com/nanxstats/msaenet,,
 msaR,https://github.com/zachcp/msar,,
 MsBackendMassbank,https://github.com/rformassspectrometry/msbackendmassbank,,bioc
@@ -9631,7 +9638,7 @@ ravelRy,https://github.com/walkerkq/ravelry,,
 raven.rdf,https://github.com/raven-computing/rdf,,
 RavenR,https://github.com/rchlumsk/ravenr,,
 raw,https://github.com/casact/raw_package,,
-rawDiag,https://github.com/cpanse/rawdiag,,bioc
+rawDiag,https://github.com/fgcz/rawdiag,,bioc
 RawHummus,https://github.com/yonghuidong/rawhummus,,
 rawKS,https://github.com/jiaxiangbu/rawks,,
 rawrr,https://github.com/fgcz/rawrr,,bioc
@@ -9665,6 +9672,7 @@ rbioapi,https://github.com/moosa-r/rbioapi,,
 RBioFormats,https://github.com/aoles/rbioformats,,bioc
 rbiom,https://github.com/cmmr/rbiom,,
 rBiopaxParser,https://github.com/frankkramer-lab/rbiopaxparser,,bioc
+rBLAST,https://github.com/mhahsler/rblast,,bioc
 RblDataLicense,https://github.com/eguidotti/rbldatalicense,,
 Rblpapi,https://github.com/rblp/rblpapi,,
 rblt,https://github.com/sg4r/rblt,,
@@ -10081,7 +10089,7 @@ RESOLVE,https://github.com/danro9685/resolve,,bioc
 resourcer,https://github.com/obiba/resourcer,,
 ResourceSelection,https://github.com/psolymos/resourceselection,,
 RespirAnalyzer,https://github.com/dongxinzheng/respiranalyzer,,
-respR,https://github.com/januarharianto/respr,,
+respR,https://github.com/januarharianto/respr,,archived
 restatapi,https://github.com/eurostat/restatapi,,
 restatis,https://github.com/correlaid/restatis,,
 restaurant,https://github.com/cleanzr/restaurant,,
@@ -11611,6 +11619,7 @@ sinar,https://github.com/gilberto-sassi/sinar,,
 sinew,https://github.com/yonicd/sinew,,
 singcar,https://github.com/jorittmo/singcar,,
 SingleCaseES,https://github.com/jepusto/singlecasees,,
+SingleCellAlleleExperiment,https://github.com/agimkeller/singlecellalleleexperiment,,bioc
 singleCellHaystack,https://github.com/alexisvdb/singlecellhaystack,,
 singleCellTK,https://github.com/compbiomed/singlecelltk,,bioc
 SingleMoleculeFootprinting,https://github.com/krebslabrep/singlemoleculefootprinting,,bioc
@@ -12189,7 +12198,6 @@ statsearchanalyticsr,https://github.com/searchdiscovery/statsearchanalyticsr,,
 statsExpressions,https://github.com/indrajeetpatil/statsexpressions,,
 statsr,https://github.com/statswithr/statsr,,
 statswalesr,https://github.com/jamie-ralph/statswalesr,,
-StatTeacherAssistant,https://github.com/ccasement/statteacherassistant,,archived
 statVisual,https://github.com/gefeizhang/statvisual,,
 stcos,https://github.com/holans/st-cos,,
 stcpR6,https://github.com/shinjaehyeok/stcpr6,,
@@ -12596,7 +12604,6 @@ TDLM,https://github.com/epivec/tdlm,,
 tdr,https://github.com/oscarperpinan/tdr,,
 tdsa,https://github.com/weehaong/tdsa,,
 tdthap,https://github.com/jinghuazhao/r,tdthap,
-teachingApps,https://github.com/auburngrads/teachingapps,,archived
 TeachingDemos,https://github.com/glsnow/teachingdemos,,
 TeachingSampling,https://github.com/psirusteam/teachingsampling,,
 teal,https://github.com/insightsengineering/teal,,

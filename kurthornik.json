@@ -1,5 +1,10 @@
 [
   {
+    "package": "bindata",
+    "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+    "url": "https://github.com/cran/bindata"
+  },
+  {
     "package": "cclust",
     "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
     "url": "https://github.com/cran/cclust"

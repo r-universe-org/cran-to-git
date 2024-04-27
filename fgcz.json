@@ -6,6 +6,12 @@
     "registry": "bioc"
   },
   {
+    "package": "rawDiag",
+    "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
+    "url": "https://github.com/fgcz/rawdiag",
+    "registry": "bioc"
+  },
+  {
     "package": "rawrr",
     "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
     "url": "https://github.com/fgcz/rawrr",
