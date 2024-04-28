@@ -1,5 +1,10 @@
 [
   {
+    "package": "chattr",
+    "maintainer": "Edgar Ruiz <edgar@posit.co>",
+    "url": "https://github.com/mlverse/chattr"
+  },
+  {
     "package": "cuda.ml",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/mlverse/cuda.ml"

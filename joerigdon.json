@@ -1,5 +1,10 @@
 [
   {
+    "package": "bulkQC",
+    "maintainer": "Joseph Rigdon <jrigdon@wakehealth.edu>",
+    "url": "https://github.com/cran/bulkQC"
+  },
+  {
     "package": "nearfar",
     "maintainer": "Joseph Rigdon <jrigdon@wakehealth.edu>",
     "url": "https://github.com/cran/nearfar"
