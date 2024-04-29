@@ -1,5 +1,11 @@
 [
   {
+    "package": "limpca",
+    "maintainer": "Manon Martin <manon.martin@uclouvain.be>",
+    "url": "https://github.com/manonmartin/limpca",
+    "registry": "bioc"
+  },
+  {
     "package": "PepsNMR",
     "maintainer": "Manon Martin <manon.martin@uclouvain.be>",
     "url": "https://github.com/manonmartin/pepsnmr",

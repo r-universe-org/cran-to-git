@@ -215,6 +215,13 @@
     "branch": "RELEASE_3_18"
   },
   {
+    "package": "KEGGREST",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/keggrest",
+    "registry": "bioc",
+    "branch": "RELEASE_3_18"
+  },
+  {
     "package": "MatrixGenerics",
     "maintainer": "Peter Hickey <peter.hickey@gmail.com>",
     "url": "https://github.com/bioconductor/matrixgenerics",
