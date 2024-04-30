@@ -825,7 +825,6 @@ assertive.files,richierocks
 assertive.matrices,richierocks
 assertive.models,richierocks
 assertive.numbers,richierocks
-assertive.reflection,richierocks
 assertive.sets,richierocks
 assertr,ropensci
 assertthat,hadley
@@ -1872,7 +1871,6 @@ BMT,cjtorresj
 BMTAR,adrincont
 bnbc,hansenlab
 bnclassify,bmihaljevic
-bnClustOmics,polinasuter
 bndesr,igorlaltuf
 bndovb,yujunghwang
 bnem,martinfxp
@@ -2228,7 +2226,6 @@ cacIRT,quinn-lathrop
 CaDENCE,alexcannon
 CADFtest,cran
 CaDrA,montilab
-CADStat,cran
 CAEN,bioc
 caesar,jacobkap
 CAFE,bioc
@@ -2324,7 +2321,7 @@ CARBayesST,duncanplee
 carbonate,yonicd
 carbondate,tjheaton
 carcass,fraenzi
-card,asshah4
+card,shah-in-boots
 carData,r-forge
 cardelino,single-cell-genetics
 cardidates,r-forge
@@ -3717,7 +3714,6 @@ CoxICPen,cran
 coxme,cran
 Coxmos,biostatomics
 coxphf,georgheinze
-coxphMIC,xgsu
 coxphSGD,marcinkosinski
 coxphw,biometrician
 CoxPlus,jnpeng
@@ -7491,7 +7487,7 @@ genetic.algo.optimizeR,danymukesha
 geneticae,jangelini
 genetics,warnes
 GeneticsPed,bioc
-GeneticSubsetter,runninggraeb
+GeneticSubsetter,ryan-graebner
 GeNetIt,jeffreyevans
 GeneTonic,federicomarini
 geneXtendeR,bohdan-khomtchouk
@@ -12181,7 +12177,6 @@ mixPHM,pmair78
 mixpoissonreg,vpnsctl
 mixR,garybaylor
 mixRaschTools,pamelapsc
-mixreg,rolfturner
 MixRF,randel
 MixSAL,franczakius
 MixSemiRob,syeonkang
@@ -15267,13 +15262,13 @@ pompp,guidoamoreira
 POMS,gavinmdouglas
 pooh,cjgeyer
 pool,rstudio
-poolABC,joao-mcarvalho
+poolABC,vsousa
 PoolBal,cran
 PoolDilutionR,cran
 PooledCohort,bcjaeger
 PooledMeanGroup,cran
 poolfstat,mgautierinra
-poolHelper,joao-mcarvalho
+poolHelper,vsousa
 pooling,vandomed
 poolr,ozancinar
 PoolTestR,angusmclure
