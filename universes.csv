@@ -1664,6 +1664,7 @@ BiocOncoTK,vjcitn
 BioCor,llrs
 BiocParallel,bioconductor
 BiocPkgTools,seandavi
+BioCro,biocro
 biocroxytest,xec-cm
 BiocSet,bioc
 BiocSingular,ltla
@@ -3302,6 +3303,7 @@ CommonMean.Copula,cran
 commonsMath,dbdahl
 communication,christopherlucas
 comorbidity,ellessenne
+comorbidPGS,vp-biostat
 comorosmaps,hhousni
 Comp2ROC,anabraga
 comparator,ngmarchant
@@ -5158,7 +5160,6 @@ dsb,niaid
 DSBayes,rvaradhan
 dscore,d-score
 dsdp,tsuchiya-lab
-dse,r-forge
 dsem,james-thorson-noaa
 dsfa,rouvenschmidt1337
 DSI,datashield
@@ -5584,7 +5585,6 @@ eia,ropensci
 EIAapi,ramikrispin
 eiCircles,cran
 eicm,miguel-porto
-eiCompare,rpvote
 eiExpand,rachel-carroll
 eigenmodel,pdhoff
 EigenR,stla
@@ -6021,7 +6021,6 @@ eurostat,ropengov
 eva,brianbader
 evabic,abichat
 Evacluster,fahimehnm
-EvalEst,r-forge
 evalITR,michaellli
 evalR,cran
 evaluate,r-lib
@@ -7011,6 +7010,7 @@ freegroup,robinhankin
 FreeSortR,cran
 freesurferformats,dfsp-spirit
 FREEtree,adzafirov
+freewall,stla
 fRegression,r-forge
 frenchCurve,billvenables
 frenchdata,nareal
@@ -8155,6 +8155,7 @@ GNSSseg,arq16
 gnumeric,antalk2
 go2bigq,cran
 goalp,cran
+goat,ftwkoopmans
 GOCompare,ccsosa
 goeveg,fvlampe
 GOexpress,kevinrue
@@ -10137,6 +10138,7 @@ KaradaColor,masakifujishima
 karaoke,cran
 karel,mpru
 Karen,delcore-luca
+karlen,ramiromagno
 KarsTS,marinasams
 karyoploteR,bernatgel
 karyotapR,joeymays
@@ -10269,6 +10271,7 @@ kmer,shaunpwilkinson
 kmi,aallignol
 kml,cran
 kml3d,cran
+KMLtoSHAPE,cran
 kmodR,cran
 KMsurv,jun-yan
 KMunicate,ellessenne
@@ -14603,6 +14606,7 @@ peacesciencer,svmiller
 PEACH,cran
 Peacock.test,yml2017xiao
 PeacoQC,saeyslab
+peacots,squidlobster
 PeakError,tdhock
 peakPantheR,phenomecentre
 peakRAM,tpq
@@ -14734,6 +14738,7 @@ pesel,psobczyk
 PesticideLoadIndicator,cran
 pestr,mczyzj
 Petersen,cschwarz-stat-sfu-ca
+petersenlab,devpsylab
 PEtests,cran
 PetfindeR,aschleg
 petitr,faune3
@@ -15369,6 +15374,7 @@ PowerUpR,metinbulus
 powRICLPM,jeroendmulder
 POWSC,bioc
 PP,jansteinfeld
+PPbigdata,cran
 ppcc,cran
 PPCI,davidhofmeyr
 ppclust,cran
@@ -16420,6 +16426,7 @@ RatingScaleReduction,cran
 RationalExp,cran
 rationalfun,yixuan
 RationalMatrix,stla
+ratioOfQsprays,stla
 ratios,solmonta
 rATTAINS,mps9506
 rattle,gjwgit
@@ -18382,6 +18389,7 @@ sabre,nowosad
 sac,cran
 saccadr,alexander-pastukhov
 SACCR,sa-ccr
+sacRebleu,lazerlambda
 sad,s6sebusc
 SADEG,cran
 SADISA,rsetienne
@@ -18638,6 +18646,7 @@ scdhlm,jepusto
 scDiffCom,cyrillagger
 scDIFtest,ddebeer
 scds,bioc
+scdtb,mightymetrika
 scellpam,jdmde
 SCEM,kserkcho
 scenes,shinyworks
@@ -19121,6 +19130,7 @@ sgt,cran
 shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
+ShapDoE,cran
 shape,karlines
 ShapeChange,cran
 shapefiles,bstabler
@@ -19931,7 +19941,7 @@ sparklyr.nested,mitre
 sparktex,leeper
 sparktf,cran
 sparkwarc,r-spark
-sparkxgb,yitao-li
+sparkxgb,edgararuiz
 sparr,tilmandavies
 SPARRAfairness,jamesliley
 sparrow,lianos
@@ -20411,11 +20421,12 @@ stablespec,rahmarid
 stabm,bommert
 stabreg,cran
 stabs,hofnerb
+stackgbm,nanxstats
 StackImpute,mkleinsa
 stacking,onogi
 stacks,tidymodels
-stacomiR,cran
-stacomirtools,cran
+stacomiR,cedricbriandgithub
+stacomirtools,cedricbriandgithub
 stagedtrees,stagedtrees
 stagePop,helenkettle
 stageR,bioc
@@ -21252,7 +21263,7 @@ test2norm,au-uscd
 TestAnaAPP,jiangyouxiang
 testarguments,mattsainsburydale
 testassay,sachsmc
-testCompareR,kylewilson01
+testCompareR,kajlinko
 TestCor,cran
 testcorr,vidalla
 testdat,socialresearchcentre

@@ -216,13 +216,6 @@
     "subdir": "pkg/DPQmpfr"
   },
   {
-    "package": "dse",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/dse",
-    "registry": "archived"
-  },
-  {
     "package": "Eagle",
     "maintainer": "Andrew George  <geo047@gmail.com>",
     "url": "https://github.com/r-forge/eagle",
@@ -233,13 +226,6 @@
     "maintainer": "Nicolas Dumoulin <nicolas.dumoulin@inrae.fr>",
     "url": "https://github.com/r-forge/easyabc",
     "subdir": "pkg"
-  },
-  {
-    "package": "EvalEst",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/EvalEst",
-    "registry": "archived"
   },
   {
     "package": "expm",
