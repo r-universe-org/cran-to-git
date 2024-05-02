@@ -1,11 +1,5 @@
 [
   {
-    "package": "enrichTF",
-    "maintainer": "Zheng Wei <wzwz@stanford.edu>",
-    "url": "https://github.com/wzthu/enrichtf",
-    "registry": "bioc"
-  },
-  {
     "package": "esATAC",
     "maintainer": "Zheng Wei <wzweizheng@qq.com>",
     "url": "https://github.com/wzthu/esatac",

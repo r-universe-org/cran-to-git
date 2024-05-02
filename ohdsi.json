@@ -50,6 +50,11 @@
     "url": "https://github.com/ohdsi/evidencesynthesis"
   },
   {
+    "package": "FeatureExtraction",
+    "maintainer": "Ger Inberg <g.inberg@erasmusmc.nl>",
+    "url": "https://github.com/ohdsi/featureextraction"
+  },
+  {
     "package": "ParallelLogger",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/parallellogger"

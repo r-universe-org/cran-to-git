@@ -24,12 +24,6 @@
     "registry": "bioc"
   },
   {
-    "package": "ImmuneSpaceR",
-    "maintainer": "ImmuneSpace Package Maintainer <immunespace@gmail.com>",
-    "url": "https://github.com/rglab/immunespacer",
-    "registry": "bioc"
-  },
-  {
     "package": "MAST",
     "maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
     "url": "https://github.com/rglab/mast",
