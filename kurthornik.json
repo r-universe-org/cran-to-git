@@ -30,6 +30,11 @@
     "url": "https://github.com/cran/ISOcodes"
   },
   {
+    "package": "mlbench",
+    "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
+    "url": "https://github.com/cran/mlbench"
+  },
+  {
     "package": "movMF",
     "maintainer": "Kurt Hornik <Kurt.Hornik@R-project.org>",
     "url": "https://github.com/cran/movMF"
