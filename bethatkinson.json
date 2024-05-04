@@ -3,5 +3,10 @@
     "package": "rpart",
     "maintainer": "Beth Atkinson <atkinson@mayo.edu>",
     "url": "https://github.com/bethatkinson/rpart"
+  },
+  {
+    "package": "survivalVignettes",
+    "maintainer": "Elizabeth Atkinson <atkinson@mayo.edu>",
+    "url": "https://github.com/bethatkinson/survivalvignettes"
   }
 ]

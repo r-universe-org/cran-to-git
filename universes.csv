@@ -32,6 +32,7 @@ ABHgenotypeR,stefanreuscher
 abind,tplate
 abjData,abjur
 abjutils,abjur
+ablasso,cran
 ABM,junlingm
 abmR,workshop-brg
 abn,furrer-lab
@@ -1988,6 +1989,7 @@ BPrinStratTTE,boehringer-ingelheim
 BPRMeth,bioc
 bqror,prajual
 bqtl,cran
+bRacatus,eduardoarle
 BRACE,cran
 bracer,trevorld
 BRACoD.R,cran
@@ -4283,6 +4285,7 @@ DBR,asmahani
 dbscan,mhahsler
 dbstats,cran
 DBTC,rgyoung6
+DBTCShiny,rgyoung6
 dbWebForms,tconwell
 dbx,ankane
 dc3net,altayg
@@ -5661,6 +5664,7 @@ emhawkes,ksublee
 EmiR,lorenzo125
 EmissV,atmoschem
 EmiStatR,arturotorres
+EMJMCMC,wleoncio
 EML,ropensci
 emld,ropensci
 EMLI,vy-du
@@ -10384,7 +10388,7 @@ LambertW,gmgeorg
 lamle,cran
 lamme,qmmmmliu
 lamW,aadler
-lancor,cran
+lancor,bernhardklar
 LandComp,ladylavender
 landest,laylaparast
 landform,gianmarcoalberti
@@ -10427,6 +10431,7 @@ latentgraph,cran
 latentnet,statnet
 later,r-lib
 Laterality,antonyborel
+LATERmodel,unimelbmdap
 latex2exp,stefano-meschiari
 latexdiffr,hughjonesd
 latexpdf,bergsmat
@@ -10632,6 +10637,7 @@ libstable4u,swihart
 LIC,guangbaog
 lidaRtRee,jmmonnet
 lidR,r-lidar
+lievens,ramiromagno
 lifecontingencies,spedygiorgio
 lifecourse,marmalade-icecream
 lifecycle,r-lib
@@ -10686,6 +10692,7 @@ linearModel,cran
 LinearRegressionMDE,cran
 lineartestr,azulgarza
 linelist,epiverse-trace
+linelistBayes,cmilando
 linemap,riatelab
 linERR,cran
 lineup,kbroman
@@ -10865,6 +10872,7 @@ logcondiscr,numbersman77
 logger,daroczig
 logging,wlogsolutions
 loggit,ryapric
+loggit2,meo265
 logib,cran
 logiBin,snehatody1
 logicDT,michlau
@@ -14918,7 +14926,7 @@ pixelclasser,ropensci
 pixelpuzzle,rolkra
 pixels,javierluraschi
 pixiedust,nutterb
-pixmap,cran
+pixmap,zeileis
 PK,tjaki
 pk4adi,xfz329
 PKconverter,ek-lee
@@ -16873,6 +16881,7 @@ REffectivePred,cran
 refineR,cran
 refinr,chrismuir
 refitME,cran
+reflectR,g-corbelli
 reflimR,reflim
 RefManageR,ropensci
 reformulas,bbolker
@@ -19211,7 +19220,7 @@ shinypivottabler,bthieurmel
 shinyPredict,jkhaukka
 ShinyQuickStarter,cran
 shinyquiz,priism-center
-shinyr,cran
+shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
 shinyrecipes,albertoalmuinha
@@ -19782,6 +19791,7 @@ SOHPIE,cran
 SOIL,archer-yang-lab
 soilassessment,cran
 soilchemistry,bappa10085
+SoilConservation,dionecardoso
 soilDB,ncss-tech
 soilfoodwebs,robertwbuchkowski
 SoilHyP,ullid
@@ -20603,6 +20613,7 @@ Streamer,bioc
 StreamMetabolism,ssefick
 streamMOA,mhahsler
 streamR,pablobarbera
+streetscape,billbillbilly
 StReg,cran
 stressaddition,farbfetzen
 stressor,cran
@@ -20794,6 +20805,7 @@ survivalROC,paramita-sc
 survivalSL,foucher-y
 survivalsvm,imbs-hl
 SurvivalTests,osmandag
+survivalVignettes,bethatkinson
 survivoR,doehm
 survJamda.data,cran
 SurvLong,sth1402
