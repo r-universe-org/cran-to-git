@@ -865,13 +865,6 @@
     "subdir": "pkg/stops"
   },
   {
-    "package": "supraHex",
-    "maintainer": "Hai Fang <hfang@well.ox.ac.uk>",
-    "url": "https://github.com/r-forge/suprahex",
-    "subdir": "pkg",
-    "registry": "bioc"
-  },
-  {
     "package": "surveillance",
     "maintainer": "Sebastian Meyer <seb.meyer@fau.de>",
     "url": "https://github.com/r-forge/surveillance",

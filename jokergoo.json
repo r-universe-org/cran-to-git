@@ -1,11 +1,5 @@
 [
   {
-    "package": "BioCartaImage",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/biocartaimage",
-    "registry": "bioc"
-  },
-  {
     "package": "bsub",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/bsub"
@@ -21,27 +15,9 @@
     "url": "https://github.com/jokergoo/circlize"
   },
   {
-    "package": "cola",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/cola",
-    "registry": "bioc"
-  },
-  {
     "package": "colorRamp2",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/colorramp2"
-  },
-  {
-    "package": "ComplexHeatmap",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/complexheatmap",
-    "registry": "bioc"
-  },
-  {
-    "package": "EnrichedHeatmap",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/enrichedheatmap",
-    "registry": "bioc"
   },
   {
     "package": "GetoptLong",
@@ -54,45 +30,9 @@
     "url": "https://github.com/jokergoo/globaloptions"
   },
   {
-    "package": "gtrellis",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/gtrellis",
-    "registry": "bioc"
-  },
-  {
-    "package": "HilbertCurve",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/hilbertcurve",
-    "registry": "bioc"
-  },
-  {
-    "package": "InteractiveComplexHeatmap",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/interactivecomplexheatmap",
-    "registry": "bioc"
-  },
-  {
     "package": "pkgndep",
     "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
     "url": "https://github.com/jokergoo/pkgndep"
-  },
-  {
-    "package": "rGREAT",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/rgreat",
-    "registry": "bioc"
-  },
-  {
-    "package": "simona",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/simona",
-    "registry": "bioc"
-  },
-  {
-    "package": "simplifyEnrichment",
-    "maintainer": "Zuguang Gu <z.gu@dkfz.de>",
-    "url": "https://github.com/jokergoo/simplifyenrichment",
-    "registry": "bioc"
   },
   {
     "package": "spiralize",

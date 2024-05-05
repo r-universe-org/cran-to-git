@@ -10,12 +10,6 @@
     "url": "https://github.com/rikenbit/dctensor"
   },
   {
-    "package": "DelayedTensor",
-    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/delayedtensor",
-    "registry": "bioc"
-  },
-  {
     "package": "gcTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/gctensor"
@@ -29,12 +23,6 @@
     "package": "iTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/rikenbit/itensor"
-  },
-  {
-    "package": "meshr",
-    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
-    "url": "https://github.com/rikenbit/meshr",
-    "registry": "bioc"
   },
   {
     "package": "mwTensor",

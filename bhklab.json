@@ -1,11 +1,5 @@
 [
   {
-    "package": "consensusOV",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
-    "url": "https://github.com/bhklab/consensusov",
-    "registry": "bioc"
-  },
-  {
     "package": "CREAM",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/cream"
@@ -14,23 +8,5 @@
     "package": "mRMRe",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/mrmre"
-  },
-  {
-    "package": "PDATK",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
-    "url": "https://github.com/bhklab/pdatk",
-    "registry": "bioc"
-  },
-  {
-    "package": "PharmacoGx",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
-    "url": "https://github.com/bhklab/pharmacogx",
-    "registry": "bioc"
-  },
-  {
-    "package": "Xeva",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
-    "url": "https://github.com/bhklab/xeva",
-    "registry": "bioc"
   }
 ]

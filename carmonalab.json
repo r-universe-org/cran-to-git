@@ -8,11 +8,5 @@
     "package": "scGate",
     "maintainer": "Massimo Andreatta <massimo.andreatta@unil.ch>",
     "url": "https://github.com/carmonalab/scgate"
-  },
-  {
-    "package": "UCell",
-    "maintainer": "Massimo Andreatta <massimo.andreatta@unil.ch>",
-    "url": "https://github.com/carmonalab/ucell",
-    "registry": "bioc"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "package": "rDGIdb",
-    "maintainer": "Lars Bosshard <bosshard@nexus.ethz.ch>",
-    "url": "https://git.bioconductor.org/packages/rDGIdb",
-    "registry": "bioc"
-  },
-  {
     "package": "scROSHI",
     "maintainer": "Lars Bosshard <bosshard@nexus.ethz.ch>",
     "url": "https://github.com/cran/scROSHI"

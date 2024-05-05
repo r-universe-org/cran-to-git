@@ -1,19 +1,7 @@
 [
   {
-    "package": "graphite",
-    "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
-    "url": "https://github.com/sales-lab/graphite",
-    "registry": "bioc"
-  },
-  {
     "package": "parmigene",
     "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
     "url": "https://github.com/sales-lab/parmigene"
-  },
-  {
-    "package": "spatialDE",
-    "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
-    "url": "https://github.com/sales-lab/spatialde",
-    "registry": "bioc"
   }
 ]

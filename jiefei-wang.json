@@ -10,12 +10,6 @@
     "url": "https://github.com/jiefei-wang/dockerparallel"
   },
   {
-    "package": "gpuMagic",
-    "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/gpumagic",
-    "registry": "bioc"
-  },
-  {
     "package": "ManagedCloudProvider",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/managedcloudprovider"
@@ -24,11 +18,5 @@
     "package": "RedisBaseContainer",
     "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
     "url": "https://github.com/jiefei-wang/redisbasecontainer"
-  },
-  {
-    "package": "SharedObject",
-    "maintainer": "Jiefei Wang <szwjf08@gmail.com>",
-    "url": "https://github.com/jiefei-wang/sharedobject",
-    "registry": "bioc"
   }
 ]

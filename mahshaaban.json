@@ -3,17 +3,5 @@
     "package": "pcr",
     "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
     "url": "https://github.com/mahshaaban/pcr"
-  },
-  {
-    "package": "segmenter",
-    "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
-    "url": "https://github.com/mahshaaban/segmenter",
-    "registry": "bioc"
-  },
-  {
-    "package": "target",
-    "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
-    "url": "https://github.com/mahshaaban/target",
-    "registry": "bioc"
   }
 ]

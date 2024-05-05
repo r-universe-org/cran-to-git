@@ -3,23 +3,5 @@
     "package": "mully",
     "maintainer": "Zaynab Hammoud <zaynabhassanhammoud@gmail.com>",
     "url": "https://github.com/frankkramer-lab/mully"
-  },
-  {
-    "package": "ndexr",
-    "maintainer": "Florian Auer <florian.auer@informatik.uni-augsburg.de>",
-    "url": "https://github.com/frankkramer-lab/ndexr",
-    "registry": "bioc"
-  },
-  {
-    "package": "rBiopaxParser",
-    "maintainer": "Frank Kramer <frank.kramer@informatik.uni-augsburg.de>",
-    "url": "https://github.com/frankkramer-lab/rbiopaxparser",
-    "registry": "bioc"
-  },
-  {
-    "package": "RCX",
-    "maintainer": "Florian Auer <florian.auer@informatik.uni-augsburg.de>",
-    "url": "https://github.com/frankkramer-lab/rcx",
-    "registry": "bioc"
   }
 ]

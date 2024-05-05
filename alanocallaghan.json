@@ -1,31 +1,7 @@
 [
   {
-    "package": "BASiCStan",
-    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/basicstan",
-    "registry": "bioc"
-  },
-  {
     "package": "contrast",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/contrast"
-  },
-  {
-    "package": "densvis",
-    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/densvis",
-    "registry": "bioc"
-  },
-  {
-    "package": "scater",
-    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/scater",
-    "registry": "bioc"
-  },
-  {
-    "package": "snifter",
-    "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
-    "url": "https://github.com/alanocallaghan/snifter",
-    "registry": "bioc"
   }
 ]

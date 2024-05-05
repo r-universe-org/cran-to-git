@@ -1,23 +1,5 @@
 [
   {
-    "package": "DegNorm",
-    "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
-    "url": "https://github.com/jipingw/degnorm",
-    "registry": "bioc"
-  },
-  {
-    "package": "NuPoP",
-    "maintainer": "Ji-Ping Wang<jzwang@northwestern.edu>",
-    "url": "https://github.com/jipingw/nupop",
-    "registry": "bioc"
-  },
-  {
-    "package": "RiboDiPA",
-    "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
-    "url": "https://git.bioconductor.org/packages/RiboDiPA",
-    "registry": "bioc"
-  },
-  {
     "package": "SPECIES",
     "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
     "url": "https://github.com/cran/SPECIES"

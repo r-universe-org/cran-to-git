@@ -5,12 +5,6 @@
     "url": "https://github.com/rauschenberger/cornet"
   },
   {
-    "package": "globalSeq",
-    "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
-    "url": "https://github.com/rauschenberger/globalseq",
-    "registry": "bioc"
-  },
-  {
     "package": "joinet",
     "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
     "url": "https://github.com/rauschenberger/joinet"
@@ -19,12 +13,6 @@
     "package": "palasso",
     "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
     "url": "https://github.com/rauschenberger/palasso"
-  },
-  {
-    "package": "semisup",
-    "maintainer": "Armin Rauschenberger <armin.rauschenberger@uni.lu>",
-    "url": "https://github.com/rauschenberger/semisup",
-    "registry": "bioc"
   },
   {
     "package": "starnet",

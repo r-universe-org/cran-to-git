@@ -8,11 +8,5 @@
     "package": "HTSCluster",
     "maintainer": "Andrea Rau <andrea.rau@jouy.inra.fr>",
     "url": "https://github.com/andreamrau/htscluster"
-  },
-  {
-    "package": "padma",
-    "maintainer": "Andrea Rau <andrea.rau@inrae.fr>",
-    "url": "https://github.com/andreamrau/padma",
-    "registry": "bioc"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "package": "ccmap",
-    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/ccmap",
-    "registry": "bioc"
-  },
-  {
-    "package": "crossmeta",
-    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
-    "url": "https://github.com/alexvpickering/crossmeta",
-    "registry": "bioc"
-  },
-  {
-    "package": "GEOfastq",
-    "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
-    "url": "https://github.com/alexvpickering/geofastq",
-    "registry": "bioc"
-  },
-  {
     "package": "shinydlplot",
     "maintainer": "Alex Pickering <alexvpickering@gmail.com>",
     "url": "https://github.com/alexvpickering/shinydlplot"

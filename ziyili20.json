@@ -3,23 +3,5 @@
     "package": "caROC",
     "maintainer": "Ziyi Li <zli16@mdanderson.org>",
     "url": "https://github.com/cran/caROC"
-  },
-  {
-    "package": "partCNV",
-    "maintainer": "Ziyi Li <zli16@mdanderson.org>",
-    "url": "https://git.bioconductor.org/packages/partCNV",
-    "registry": "bioc"
-  },
-  {
-    "package": "RegionalST",
-    "maintainer": "Ziyi Li <zli16@mdanderson.org>",
-    "url": "https://github.com/ziyili20/regionalst",
-    "registry": "bioc"
-  },
-  {
-    "package": "TOAST",
-    "maintainer": "Ziyi Li <zli16@mdanderson.org>",
-    "url": "https://github.com/ziyili20/toast",
-    "registry": "bioc"
   }
 ]

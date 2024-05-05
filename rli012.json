@@ -1,11 +1,5 @@
 [
   {
-    "package": "GDCRNATools",
-    "maintainer": "Ruidong Li <rli012@ucr.edu>",
-    "url": "https://github.com/rli012/gdcrnatools",
-    "registry": "bioc"
-  },
-  {
     "package": "Hapi",
     "maintainer": "Ruidong Li <rli012@ucr.edu>",
     "url": "https://github.com/cran/Hapi"

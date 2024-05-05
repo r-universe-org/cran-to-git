@@ -1,11 +1,5 @@
 [
   {
-    "package": "MICSQTL",
-    "maintainer": "Yue Pan <ypan@stjude.org>",
-    "url": "https://github.com/yuepan027/micsqtl",
-    "registry": "bioc"
-  },
-  {
     "package": "scpoisson",
     "maintainer": "Yue Pan <yuep027@gmail.com>",
     "url": "https://github.com/cran/scpoisson"

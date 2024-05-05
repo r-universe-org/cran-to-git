@@ -1,23 +1,5 @@
 [
   {
-    "package": "AlphaMissenseR",
-    "maintainer": "Martin Morgan <mtmorgan.xyz@gmail.com>",
-    "url": "https://github.com/mtmorgan/alphamissenser",
-    "registry": "bioc"
-  },
-  {
-    "package": "cellxgenedp",
-    "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
-    "url": "https://github.com/mtmorgan/cellxgenedp",
-    "registry": "bioc"
-  },
-  {
-    "package": "RedisParam",
-    "maintainer": "Martin Morgan <mtmorgan.bioc@gmail.com>",
-    "url": "https://github.com/mtmorgan/redisparam",
-    "registry": "bioc"
-  },
-  {
     "package": "rjsoncons",
     "maintainer": "Martin Morgan <mtmorgan.xyz@gmail.com>",
     "url": "https://github.com/mtmorgan/rjsoncons"

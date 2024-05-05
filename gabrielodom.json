@@ -3,11 +3,5 @@
     "package": "mvMonitoring",
     "maintainer": "Gabriel Odom <gabriel.odom@fiu.edu>",
     "url": "https://github.com/gabrielodom/mvmonitoring"
-  },
-  {
-    "package": "pathwayPCA",
-    "maintainer": "Gabriel Odom <gabriel.odom@med.miami.edu>",
-    "url": "https://github.com/gabrielodom/pathwaypca",
-    "registry": "bioc"
   }
 ]

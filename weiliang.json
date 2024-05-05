@@ -5,12 +5,6 @@
     "url": "https://github.com/cran/clusterGeneration"
   },
   {
-    "package": "GeneSelectMMD",
-    "maintainer": "Weiliang Qiu <weiliang.qiu@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/GeneSelectMMD",
-    "registry": "bioc"
-  },
-  {
     "package": "MMDvariance",
     "maintainer": "Weiliang Qiu <weiliang.qiu@gmail.com>",
     "url": "https://github.com/cran/MMDvariance"
@@ -29,11 +23,5 @@
     "package": "riskPredictClustData",
     "maintainer": "Weiliang Qiu <Weiliang.Qiu@gmail.com>",
     "url": "https://github.com/cran/riskPredictClustData"
-  },
-  {
-    "package": "sizepower",
-    "maintainer": "Weiliang Qiu <weiliang.qiu@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/sizepower",
-    "registry": "bioc"
   }
 ]

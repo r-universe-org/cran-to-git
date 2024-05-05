@@ -1,11 +1,5 @@
 [
   {
-    "package": "OSAT",
-    "maintainer": "Li Yan <li.yan@roswellpark.org>",
-    "url": "https://git.bioconductor.org/packages/OSAT",
-    "registry": "bioc"
-  },
-  {
     "package": "QuantileNPCI",
     "maintainer": "Li Yan <li.yan@roswellpark.org>",
     "url": "https://github.com/cran/QuantileNPCI"

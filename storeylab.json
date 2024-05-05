@@ -1,48 +1,12 @@
 [
   {
-    "package": "biobroom",
-    "maintainer": "John D. Storey <jstorey@princeton.edu>",
-    "url": "https://github.com/storeylab/biobroom",
-    "registry": "bioc"
-  },
-  {
     "package": "bnpsd",
     "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
     "url": "https://github.com/storeylab/bnpsd"
   },
   {
-    "package": "edge",
-    "maintainer": "John D. Storey <jstorey@princeton.edu>",
-    "url": "https://github.com/storeylab/edge",
-    "registry": "bioc"
-  },
-  {
-    "package": "gcatest",
-    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
-    "url": "https://github.com/storeylab/gcatest",
-    "registry": "bioc"
-  },
-  {
-    "package": "lfa",
-    "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
-    "url": "https://github.com/storeylab/lfa",
-    "registry": "bioc"
-  },
-  {
     "package": "popkin",
     "maintainer": "Alejandro Ochoa <alejandro.ochoa@duke.edu>",
     "url": "https://github.com/storeylab/popkin"
-  },
-  {
-    "package": "qvalue",
-    "maintainer": "John D. Storey <jstorey@princeton.edu>",
-    "url": "https://github.com/storeylab/qvalue",
-    "registry": "bioc"
-  },
-  {
-    "package": "subSeq",
-    "maintainer": "Andrew J. Bass <ajbass@princeton.edu>",
-    "url": "https://github.com/storeylab/subseq",
-    "registry": "bioc"
   }
 ]

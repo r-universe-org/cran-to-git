@@ -4,11 +4,5 @@
     "maintainer": "Henning Redestig <henning.red@gmail.com>",
     "url": "https://github.com/hredestig/crmn",
     "subdir": "pkg"
-  },
-  {
-    "package": "pcaMethods",
-    "maintainer": "Henning Redestig <henning.red@gmail.com>",
-    "url": "https://github.com/hredestig/pcamethods",
-    "registry": "bioc"
   }
 ]

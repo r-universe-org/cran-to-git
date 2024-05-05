@@ -1,23 +1,5 @@
 [
   {
-    "package": "COCOA",
-    "maintainer": "John Lawson <jtl2hk@virginia.edu>",
-    "url": "https://github.com/databio/cocoa",
-    "registry": "bioc"
-  },
-  {
-    "package": "GenomicDistributions",
-    "maintainer": "Kristyna Kupkova <kristynakupkova@gmail.com>",
-    "url": "https://github.com/databio/genomicdistributions",
-    "registry": "bioc"
-  },
-  {
-    "package": "MIRA",
-    "maintainer": "John Lawson <jtl2hk@virginia.edu>",
-    "url": "https://github.com/databio/mira",
-    "registry": "bioc"
-  },
-  {
     "package": "simpleCache",
     "maintainer": "Nathan Sheffield <nathan@code.databio.org>",
     "url": "https://github.com/databio/simplecache"

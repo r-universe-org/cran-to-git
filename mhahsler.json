@@ -40,12 +40,6 @@
     "url": "https://github.com/mhahsler/qap"
   },
   {
-    "package": "rBLAST",
-    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
-    "url": "https://github.com/mhahsler/rblast",
-    "registry": "bioc"
-  },
-  {
     "package": "recommenderlab",
     "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
     "url": "https://github.com/mhahsler/recommenderlab"
@@ -64,12 +58,6 @@
     "package": "rEMM",
     "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
     "url": "https://github.com/mhahsler/remm"
-  },
-  {
-    "package": "rRDP",
-    "maintainer": "Michael Hahsler <mhahsler@lyle.smu.edu>",
-    "url": "https://github.com/mhahsler/rrdp",
-    "registry": "bioc"
   },
   {
     "package": "seriation",

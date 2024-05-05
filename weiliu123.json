@@ -3,11 +3,5 @@
     "package": "PCLassoReg",
     "maintainer": "Wei Liu <freelw@qq.com>",
     "url": "https://github.com/weiliu123/pclassoreg"
-  },
-  {
-    "package": "RLassoCox",
-    "maintainer": "Wei Liu <freelw@qq.com>",
-    "url": "https://github.com/weiliu123/rlassocox",
-    "registry": "bioc"
   }
 ]

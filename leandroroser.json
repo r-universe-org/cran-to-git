@@ -3,11 +3,5 @@
     "package": "chunkR",
     "maintainer": "Leandro Roser <learoser@gmail.com>",
     "url": "https://github.com/leandroroser/chunkr"
-  },
-  {
-    "package": "FastqCleaner",
-    "maintainer": "Leandro Roser <learoser@gmail.com>",
-    "url": "https://github.com/leandroroser/fastqcleaner",
-    "registry": "bioc"
   }
 ]

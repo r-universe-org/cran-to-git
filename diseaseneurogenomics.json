@@ -1,25 +1,7 @@
 [
   {
-    "package": "dreamlet",
-    "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
-    "url": "https://github.com/diseaseneurogenomics/dreamlet",
-    "registry": "bioc"
-  },
-  {
     "package": "remaCor",
     "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/remacor"
-  },
-  {
-    "package": "variancePartition",
-    "maintainer": "Gabriel E. Hoffman <gabriel.hoffman@mssm.edu>",
-    "url": "https://github.com/diseaseneurogenomics/variancepartition",
-    "registry": "bioc"
-  },
-  {
-    "package": "zenith",
-    "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
-    "url": "https://github.com/diseaseneurogenomics/zenith",
-    "registry": "bioc"
   }
 ]

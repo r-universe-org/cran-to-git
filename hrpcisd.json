@@ -1,11 +1,5 @@
 [
   {
-    "package": "impute",
-    "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
-    "url": "https://git.bioconductor.org/packages/impute",
-    "registry": "bioc"
-  },
-  {
     "package": "locfdr",
     "maintainer": "Balasubramanian Narasimhan <naras@stat.Stanford.EDU>",
     "url": "https://github.com/cran/locfdr"

@@ -1,41 +1,5 @@
 [
   {
-    "package": "bettr",
-    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
-    "url": "https://github.com/federicomarini/bettr",
-    "registry": "bioc"
-  },
-  {
-    "package": "flowcatchR",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/flowcatchr",
-    "registry": "bioc"
-  },
-  {
-    "package": "GeneTonic",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/genetonic",
-    "registry": "bioc"
-  },
-  {
-    "package": "ideal",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/ideal",
-    "registry": "bioc"
-  },
-  {
-    "package": "pcaExplorer",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/pcaexplorer",
-    "registry": "bioc"
-  },
-  {
-    "package": "quantiseqr",
-    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
-    "url": "https://github.com/federicomarini/quantiseqr",
-    "registry": "bioc"
-  },
-  {
     "package": "simrec",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/simrec"

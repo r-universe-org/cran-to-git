@@ -10,33 +10,9 @@
     "url": "https://github.com/yulab-smu/aplotextra"
   },
   {
-    "package": "ChIPseeker",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/chipseeker",
-    "registry": "bioc"
-  },
-  {
-    "package": "clusterProfiler",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/clusterprofiler",
-    "registry": "bioc"
-  },
-  {
-    "package": "DOSE",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/dose",
-    "registry": "bioc"
-  },
-  {
     "package": "fanyi",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/fanyi"
-  },
-  {
-    "package": "GeoTcgaData",
-    "maintainer": "Erqiang Hu <13766876214@163.com>",
-    "url": "https://github.com/yulab-smu/geotcgadata",
-    "registry": "bioc"
   },
   {
     "package": "ggbreak",
@@ -49,80 +25,14 @@
     "url": "https://github.com/yulab-smu/ggfun"
   },
   {
-    "package": "ggmsa",
-    "maintainer": "Lang Zhou <nyzhoulang@gmail.com>",
-    "url": "https://github.com/yulab-smu/ggmsa",
-    "registry": "bioc"
-  },
-  {
-    "package": "ggsc",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/ggsc",
-    "registry": "bioc"
-  },
-  {
-    "package": "ggtree",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/ggtree",
-    "registry": "bioc"
-  },
-  {
-    "package": "ggtreeExtra",
-    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
-    "url": "https://github.com/yulab-smu/ggtreeextra",
-    "registry": "bioc"
-  },
-  {
-    "package": "ggtreeSpace",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/ggtreespace",
-    "registry": "bioc"
-  },
-  {
-    "package": "GOSemSim",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/gosemsim",
-    "registry": "bioc"
-  },
-  {
-    "package": "meshes",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/meshes",
-    "registry": "bioc"
-  },
-  {
-    "package": "MicrobiomeProfiler",
-    "maintainer": "Meijun Chen <mjchen1996@outlook.com>",
-    "url": "https://github.com/yulab-smu/microbiomeprofiler",
-    "registry": "bioc"
-  },
-  {
-    "package": "MicrobiotaProcess",
-    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
-    "url": "https://github.com/yulab-smu/microbiotaprocess",
-    "registry": "bioc"
-  },
-  {
     "package": "MMINP",
     "maintainer": "Wenli Tang <1071429394@qq.com>",
     "url": "https://github.com/yulab-smu/mminp"
   },
   {
-    "package": "ReactomePA",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/reactomepa",
-    "registry": "bioc"
-  },
-  {
     "package": "scholar",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/scholar"
-  },
-  {
-    "package": "seqcombo",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/seqcombo",
-    "registry": "bioc"
   },
   {
     "package": "seqmagick",
@@ -148,11 +58,5 @@
     "package": "tidytree",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/tidytree"
-  },
-  {
-    "package": "treeio",
-    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
-    "url": "https://github.com/yulab-smu/treeio",
-    "registry": "bioc"
   }
 ]

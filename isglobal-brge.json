@@ -1,17 +1,5 @@
 [
   {
-    "package": "epimutacions",
-    "maintainer": "Dolors Pelegri-Siso <dolors.pelegri@isglobal.org>",
-    "url": "https://github.com/isglobal-brge/epimutacions",
-    "registry": "bioc"
-  },
-  {
-    "package": "methylclock",
-    "maintainer": "Dolors Pelegri-Siso <dolors.pelegri@isglobal.org>",
-    "url": "https://github.com/isglobal-brge/methylclock",
-    "registry": "bioc"
-  },
-  {
     "package": "SNPassoc",
     "maintainer": "Dolors Pelegri <dolors.pelegri@isglobal.org>",
     "url": "https://github.com/isglobal-brge/snpassoc"

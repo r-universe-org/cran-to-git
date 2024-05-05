@@ -1,25 +1,7 @@
 [
   {
-    "package": "coMethDMR",
-    "maintainer": "Fernanda Veitzman <fveit001@fiu.edu>",
-    "url": "https://github.com/transbioinfolab/comethdmr",
-    "registry": "bioc"
-  },
-  {
-    "package": "MethReg",
-    "maintainer": "Tiago Silva <tiagochst@gmail.com>",
-    "url": "https://github.com/transbioinfolab/methreg",
-    "registry": "bioc"
-  },
-  {
     "package": "ranktreeEnsemble",
     "maintainer": "Min Lu <luminwin@gmail.com>",
     "url": "https://github.com/transbioinfolab/ranktreeensemble"
-  },
-  {
-    "package": "rnaEditr",
-    "maintainer": "Lanyu Zhang <jennyzly2016@gmail.com>",
-    "url": "https://github.com/transbioinfolab/rnaeditr",
-    "registry": "bioc"
   }
 ]

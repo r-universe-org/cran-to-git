@@ -1,11 +1,5 @@
 [
   {
-    "package": "CBEA",
-    "maintainer": "Quang Nguyen <quangpmnguyen@gmail.com>",
-    "url": "https://github.com/qpmnguyen/cbea",
-    "registry": "bioc"
-  },
-  {
     "package": "SBICgraph",
     "maintainer": "Quang Nguyen <Quang.P.Nguyen.GR@dartmouth.edu>",
     "url": "https://github.com/cran/SBICgraph"

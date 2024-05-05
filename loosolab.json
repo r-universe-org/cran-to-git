@@ -1,11 +1,5 @@
 [
   {
-    "package": "multicrispr",
-    "maintainer": "Aditya Bhagwat <aditya.bhagwat@uni-marburg.de>",
-    "url": "https://github.com/loosolab/multicrispr",
-    "registry": "bioc"
-  },
-  {
     "package": "wilson",
     "maintainer": "Hendrik Schultheis <hendrik.schultheis@mpi-bn.mpg.de>",
     "url": "https://github.com/loosolab/wilson"

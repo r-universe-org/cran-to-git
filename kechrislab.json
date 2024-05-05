@@ -5,24 +5,6 @@
     "url": "https://github.com/kechrislab/heritseq"
   },
   {
-    "package": "MAI",
-    "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
-    "url": "https://github.com/kechrislab/mai",
-    "registry": "bioc"
-  },
-  {
-    "package": "MSPrep",
-    "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
-    "url": "https://github.com/kechrislab/msprep",
-    "registry": "bioc"
-  },
-  {
-    "package": "multiMiR",
-    "maintainer": "Matt Mulvahill <matt.mulvahill@gmail.com>",
-    "url": "https://github.com/kechrislab/multimir",
-    "registry": "bioc"
-  },
-  {
     "package": "SmCCNet",
     "maintainer": "Weixuan Liu <weixuan.liu@cuanschutz.edu>",
     "url": "https://github.com/kechrislab/smccnet"

@@ -3,35 +3,5 @@
     "package": "clustNet",
     "maintainer": "Fritz Bayer <frbayer@ethz.ch>",
     "url": "https://github.com/cbg-ethz/clustnet"
-  },
-  {
-    "package": "dce",
-    "maintainer": "Kim Philipp Jablonski <kim.philipp.jablonski@gmail.com>",
-    "url": "https://github.com/cbg-ethz/dce",
-    "registry": "bioc"
-  },
-  {
-    "package": "epiNEM",
-    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
-    "url": "https://github.com/cbg-ethz/epinem",
-    "registry": "bioc"
-  },
-  {
-    "package": "mnem",
-    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
-    "url": "https://github.com/cbg-ethz/mnem",
-    "registry": "bioc"
-  },
-  {
-    "package": "nempi",
-    "maintainer": "Martin Pirkl <martinpirkl@yahoo.de>",
-    "url": "https://github.com/cbg-ethz/nempi",
-    "registry": "bioc"
-  },
-  {
-    "package": "pareg",
-    "maintainer": "Kim Philipp Jablonski <kim.philipp.jablonski@gmail.com>",
-    "url": "https://github.com/cbg-ethz/pareg",
-    "registry": "bioc"
   }
 ]
