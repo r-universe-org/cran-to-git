@@ -1636,6 +1636,7 @@ bioacoustics,wavx
 bioassayR,bioc
 bioassays,anwarbio
 Biobase,bioc
+BiObjClass,cran
 biobricks,tomlue
 biobroom,bioc
 biobtreeR,bioc
@@ -8246,6 +8247,7 @@ gps.track,wagnnerms97
 GPSCDF,cran
 GPSeqClus,cran
 gptoolsStan,tillahoffmann
+gptr,cran
 gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,bioc
@@ -10670,6 +10672,7 @@ lillies,cran
 LilRhino,travis-barton
 LIM,karlines
 lime,thomasp85
+limexhub,limex-com
 liminal,sa-lee
 limma,bioc
 limmaGUI,bioc
@@ -12949,6 +12952,7 @@ mvctm,denufl
 mvdalab,cran
 mvDFA,jpirmer
 mverse,mverseanalysis
+mvgam,nicholasjclark
 mvgb,swihart
 mvglmmRank,akarl46556
 mvGPS,williazo
@@ -21029,7 +21033,7 @@ tagcloud,january3
 tagr,jsugarelli
 tagtools,animaltags
 TailClassifier,cran
-tailDepFun,cran
+tailDepFun,akiriliouk
 tailloss,igollini
 TailRank,r-forge
 tailTransform,cran
@@ -21769,7 +21773,7 @@ transformer,bquast
 transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
-transfR,cran
+transfR,albandelavenne
 TransGraph,cran
 transite,bioc
 translate.logit,cran
