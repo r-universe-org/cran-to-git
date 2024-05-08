@@ -1636,7 +1636,7 @@ bioacoustics,wavx
 bioassayR,bioc
 bioassays,anwarbio
 Biobase,bioc
-BiObjClass,cran
+BiObjClass,tiagocsoares
 biobricks,tomlue
 biobroom,bioc
 biobtreeR,bioc
@@ -2259,6 +2259,7 @@ CalibrationCurves,bavodc
 calibrator,robinhankin
 CalibratR,cran
 calidad,klauslehmann
+callback,cran
 callr,r-lib
 callsync,simeonqs
 calm,bioc
@@ -2524,6 +2525,7 @@ CDSE,zivankaraman
 CDSS,chockemeyer
 CDVI,cran
 CDVineCopulaConditional,cran
+ceas,jamespeapen
 CEC,swarm-lab
 CEDA,cran
 CEEMDANML,sandipgarai
@@ -3089,6 +3091,7 @@ cmsafops,cmsaf
 cmsafvis,cmsaf
 CMShiny,kartikeyabolar
 cmstatr,cmstatr
+cmstatrExt,cmstatr
 cmtest,ycroissant
 cmvnorm,robinhankin
 cn.farms,bioc
@@ -4330,6 +4333,7 @@ ddc,cran
 ddCt,bioc
 DDD,rsetienne
 dde,mrc-ide
+ddecompose,cran
 DDHFm,cran
 ddi,kuriwaki
 ddiv,meganmorbitzer
@@ -6708,6 +6712,7 @@ flexdashboard,rstudio
 FlexDir,nenedibri
 FlexGAM,spiegele
 flexiblas,enchufa2
+flexlsx,pteridin
 flexmet,leahfeuerstahler
 flexmix,cran
 flexmixNL,cran
@@ -7784,6 +7789,7 @@ ggmr,hugogasca
 GGMridge,sth1402
 ggmsa,bioc
 GGMselect,cran
+ggmugs,broccolito
 ggmuller,robjohnnoble
 ggmulti,z267xu
 ggnetwork,briatte
@@ -8247,7 +8253,7 @@ gps.track,wagnnerms97
 GPSCDF,cran
 GPSeqClus,cran
 gptoolsStan,tillahoffmann
-gptr,cran
+gptr,broccolito
 gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,bioc
@@ -10957,6 +10963,7 @@ lori,cran
 LOST,jessica-arbour
 LotkasLaw,kciv
 lotri,nlmixr2
+lotterybr,tomasbp2
 lowmemtkmeans,andrewthomasjones
 lowpassFilter,florianpein
 LowRankQP,johnormerod
@@ -11085,6 +11092,7 @@ lwgeom,r-spatial
 lwqs,cran
 LymphoSeq,bioc
 LZeroSpikeInference,jewellsean
+lzstring,parmsam
 m2b,ldbk
 m2r,coneill-math
 M2SMF,yinxy1992
@@ -12387,6 +12395,7 @@ modelenv,tidymodels
 Modeler,cran
 modelfactory,willtirone
 modelfree,kzychaluk
+modelgrid,smaakage85
 modelimpact,peerchristensen
 modeLLtest,shanascogin
 ModelMap,cran
@@ -12503,6 +12512,7 @@ Morpho,zarquon42b
 morphomap,aprofico
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
+morrowplots,sandical
 morse,cran
 mort,rosieluain
 mortAAR,isaakiel
@@ -15702,6 +15712,7 @@ psidread,qcrates
 PSIndependenceTest,cran
 PSinference,ricardomourarpm
 PSLM2015,myaseen208
+psm3mkv,merck
 PSMatch,bioc
 psmineR,bupaverse
 pso,cran
@@ -20777,6 +20788,7 @@ SurvDisc,johnlawrence1
 surveil,connordonegan
 surveillance,r-forge
 survELtest,news11
+SurvEval,cran
 survex,modeloriented
 survexp.fr,cran
 survey,r-forge
