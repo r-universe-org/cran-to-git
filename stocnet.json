@@ -1,5 +1,10 @@
 [
   {
+    "package": "ERPM",
+    "maintainer": "Marion Hoffman <marion.hoffman.31@gmail.com>",
+    "url": "https://github.com/stocnet/erpm"
+  },
+  {
     "package": "goldfish",
     "maintainer": "Alvaro Uzaheta <ualvaro@ethz.ch>",
     "url": "https://github.com/stocnet/goldfish"

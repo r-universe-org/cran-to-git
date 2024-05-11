@@ -2,17 +2,17 @@
   {
     "package": "CalibrateSSB",
     "maintainer": "Oyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/calibratessb"
+    "url": "https://github.com/statisticsnorway/ssb-calibratessb"
   },
   {
     "package": "easySdcTable",
     "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/easysdctable"
+    "url": "https://github.com/statisticsnorway/ssb-easysdctable"
   },
   {
     "package": "GaussSuppression",
     "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/gausssuppression"
+    "url": "https://github.com/statisticsnorway/ssb-gausssuppression"
   },
   {
     "package": "GISSB",
@@ -27,16 +27,16 @@
   {
     "package": "PxWebApiData",
     "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/pxwebapidata"
+    "url": "https://github.com/statisticsnorway/ssb-pxwebapidata"
   },
   {
     "package": "SmallCountRounding",
     "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/smallcountrounding"
+    "url": "https://github.com/statisticsnorway/ssb-smallcountrounding"
   },
   {
     "package": "SSBtools",
     "maintainer": "Øyvind Langsrud <oyl@ssb.no>",
-    "url": "https://github.com/statisticsnorway/ssbtools"
+    "url": "https://github.com/statisticsnorway/ssb-ssbtools"
   }
 ]
