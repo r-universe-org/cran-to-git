@@ -4233,6 +4233,7 @@ dataspice,ropensci
 DatAssim,cran
 datastepr,bramtayl
 DatastreamDSWS2R,asrserver
+DatastreamR,datastreamapi
 DATAstudio,extremestats
 dataverifyr,davzim
 dataverse,iqss
@@ -5577,6 +5578,7 @@ eia,ropensci
 EIAapi,ramikrispin
 eiCircles,cran
 eicm,miguel-porto
+eider,alan-turing-institute
 eiExpand,rachel-carroll
 eigenmodel,pdhoff
 EigenR,stla
@@ -6351,6 +6353,7 @@ fastJT,dcibioinformatics
 FastKM,sth1402
 fastkmedoids,lixun910
 FastKNN,besanson
+fastkqr,cran
 fastLaplace,sangwan93
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
@@ -7875,6 +7878,7 @@ ggsignif,const-ae
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
 ggsom,oldlipe
+ggspark,marcboschmatas
 ggspatial,paleolimbot
 ggspavis,bioc
 ggspectra,aphalo
@@ -11951,6 +11955,7 @@ microclass,larssnip
 microcontax,larssnip
 microCRAN,stefanedwards
 MicroDatosEs,ropenspain
+microdiluteR,silvia-eckert
 microeco,chiliubio
 microhaplot,ngthomas
 MicroMacroMultilevel,cran
@@ -12087,7 +12092,6 @@ MiscMetabar,adrientaudiere
 miscset,setempler
 miscTools,arne-henningsen
 miselect,cran
-misha,tanaylab
 mispitools,marsicofl
 mispr,cran
 misPRIME,cran
@@ -15945,6 +15949,7 @@ Qindex.data,tingtingzhan
 qkerntool,yusenzhang
 qlcal,qlcal
 qlcMatrix,cysouw
+qlcVisualize,cysouw
 QLearning,labressler
 qlifetable,cran
 qmap,lukasgudm
@@ -17413,7 +17418,7 @@ rjags,martynplummer
 rJava,s-u
 RJcluster,rshudde
 RJDBC,s-u
-RJDemetra,jdemetra
+RJDemetra,rjdverse
 rjdmarkdown,aqlt
 rjdqa,aqlt
 rje,rje42

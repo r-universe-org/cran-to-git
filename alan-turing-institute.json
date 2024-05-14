@@ -1,5 +1,10 @@
 [
   {
+    "package": "eider",
+    "maintainer": "Camila Rangel Smith <crangelsmith@turing.ac.uk>",
+    "url": "https://github.com/alan-turing-institute/eider"
+  },
+  {
     "package": "PosteriorBootstrap",
     "maintainer": "James Robinson <james.em.robinson@gmail.com>",
     "url": "https://github.com/alan-turing-institute/posteriorbootstrap"
