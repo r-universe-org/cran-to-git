@@ -3,5 +3,10 @@
     "package": "RcppBlaze",
     "maintainer": "Ching-Chuan Chen <zw12356@gmail.com>",
     "url": "https://github.com/chingchuan-chen/rcppblaze"
+  },
+  {
+    "package": "RcppLbfgsBlaze",
+    "maintainer": "Ching-Chuan Chen <zw12356@gmail.com>",
+    "url": "https://github.com/chingchuan-chen/rcpplbfgsblaze"
   }
 ]

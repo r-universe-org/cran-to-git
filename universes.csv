@@ -737,7 +737,7 @@ ARIMAANN,cran
 arkdb,ropensci
 arkhe,tesselle
 arm,suyusung
-armada,aurelie-gueudin
+armada,cran
 ARMALSTM,cran
 armspp,mbertolacci
 arnie,imanuelcostigan
@@ -2364,7 +2364,6 @@ casabourse,aodiakite
 Cascade,fbertran
 CascadeData,fbertran
 cascadeSelect,stla
-caschrono,cran
 CASCORE,cran
 cascsim,windwill
 casebase,sahirbhatnagar
@@ -2392,7 +2391,7 @@ catdap,cran
 catdata,schaubert
 CatDataAnalysis,cjgeyer
 CatDyn,ruben-hernan
-cate,qingyuanzhao
+cate,cran
 Category,bioc
 categoryCompare,bioc
 categoryEncodings,jszitas
@@ -2907,6 +2906,7 @@ clevRvis,bioc
 clhs,pierreroudier
 cli,r-lib
 cliapp,r-lib
+clickableImageMap,barryzee
 clickb,cran
 ClickClust,cran
 ClickClustCont,cran
@@ -3742,6 +3742,7 @@ CPNCoverageAnalysis,smorenoa
 cpop,cran
 CPP,gaviao67
 cpp11,r-lib
+cpp11armadillo,pachadotdev
 cppcheckR,stla
 cppdoubles,nicchr
 cppRouting,vlarmet
@@ -3840,6 +3841,7 @@ CropScapeR,cbw1243
 CropWaterBalance,gabrielblain
 cropZoning,filgueirasr
 CrossCarry,cruzalirio
+CrossClustering,corradolanera
 crossdes,bbnkmp
 crosshap,jacobimarsh
 crossmap,rossellhayes
@@ -5005,6 +5007,7 @@ domir,jluchman
 doMPI,steveweston
 donut,paulnorthrop
 donutsk,dkibalnikov
+doofa,doer0
 doolkit,nialsig
 DoOR.data,ropensci
 DoOR.functions,ropensci
@@ -5927,7 +5930,7 @@ ERSA,cbhurley
 ERSSA,bioc
 eRTG3D,munterfi
 es.dif,sa-to-shi-a-o-ki
-esaBcv,jingshuw
+esaBcv,cran
 esaddle,mfasiolo
 esaps,nicolas-schmidt
 esATAC,bioc
@@ -6353,7 +6356,7 @@ fastJT,dcibioinformatics
 FastKM,sth1402
 fastkmedoids,lixun910
 FastKNN,besanson
-fastkqr,cran
+fastkqr,qiantang0326
 fastLaplace,sangwan93
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
@@ -7001,6 +7004,7 @@ freecurrencyapi,cran
 freedom,sva-se
 freegroup,robinhankin
 FreeSortR,cran
+freesurfer,muschellij2
 freesurferformats,dfsp-spirit
 FREEtree,adzafirov
 freewall,stla
@@ -7352,6 +7356,7 @@ gde,smithsonian
 GDELTtools,shaptonstahl
 gdi,theropod1
 gdiff,pmur002
+GDILM.SIR,ruwanirh
 gdim,rohelab
 GDINA,wenchao-ma
 gdistance,agrdatasci
@@ -11558,6 +11563,7 @@ mDAG,wjzhong
 mdatools,svkucheryavski
 MDBED,lfduquey
 mdbr,k5cents
+mddmaps,alrobles
 mde,nelson-gon
 mded,cran
 MDEI,ratkovic
@@ -12843,7 +12849,7 @@ multifwf,prontog
 MultiGlarmaVarSel,cran
 multigraph,mplex
 multigraphr,termehs
-multigroup,eslamia
+multigroup,cran
 MultiGroupO,caromillat
 MultiGroupSequential,marvels2031
 multiGSEA,bioc
@@ -16428,6 +16434,7 @@ RawHummus,yonghuidong
 rawKS,jiaxiangbu
 rawrr,bioc
 raws.profile,cran
+raybevel,tylermorganwall
 rayimage,tylermorganwall
 raymolecule,tylermorganwall
 rayrender,tylermorganwall
@@ -16643,6 +16650,7 @@ RcppHNSW,jlmelville
 RcppHungarian,jsilve24
 RcppInt64,eddelbuettel
 RcppJagger,shusei-e
+RcppLbfgsBlaze,chingchuan-chen
 RcppMeCab,junhewk
 RcppML,zdebruine
 RcppMsgPack,eddelbuettel
@@ -16838,6 +16846,7 @@ RecAssoRules,louisraimbault
 receptiviti,receptiviti
 receptLoss,bioc
 recexcavAAR,isaakiel
+rechaRge,gwrecharge
 rechonest,mukul13
 recipes,tidymodels
 reclin2,djvanderlaan
@@ -17443,6 +17452,7 @@ rKenyaForex,mutuasam
 RKHSMetaMod,cran
 rKIN,salbeke
 RkMetrics,cran
+rKolada,lchansson
 rKOMICS,geertsmanon
 RKorAPClient,korap
 rkt,cran
@@ -17611,7 +17621,7 @@ RNAseqNet,cran
 RNASeqPower,bioc
 RNAseqQC,cran
 RnaSeqSampleSize,bioc
-RNAsmc,abel1992
+RNAsmc,cran
 rnassqs,ropensci
 rnaturalearth,ropensci
 rnaturalearthdata,ropensci
@@ -18300,6 +18310,7 @@ rvif,r-forge
 rvinecopulib,vinecopulib
 RVIpkg,abestsg
 Rvisdiff,bioc
+rvisidata,paulklemm
 rvkstat,selesnow
 rvmethod,parkerholzer
 rvMF,seungwoo-stat
@@ -22230,7 +22241,7 @@ Unico,cozygene
 Unicode,kurthornik
 unicol,hneth
 UniExactFunTest,cran
-unifDAG,cran
+unifDAG,mk314199
 unifed,cran
 UnifiedDoseFinding,cran
 unifiedWMWqPCR,bioc
