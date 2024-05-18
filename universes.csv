@@ -1313,6 +1313,7 @@ bbl,hjunwoo
 BBmisc,berndbischl
 bbmix,evigorito
 bbmle,bbolker
+bbnet,vda1r22
 bbotk,mlr-org
 bbreg,cran
 BBSSL,cran
@@ -1946,6 +1947,7 @@ bootStepAIC,drizopoulos
 bootstrap,scottkosty
 bootstrapFP,rhobis
 BootstrapQTL,sritchie73
+bootsurv,cran
 bootSVD,aaronjfisher
 bootUR,smeekes
 bootwar,mightymetrika
@@ -2899,6 +2901,7 @@ cleancall,r-lib
 cleandata,sherrisherry
 cleaner,msberends
 cleangeo,eblondel
+CleaningValidation,chandlerxiandeyang
 cleanNLP,statsmaths
 cleanr,fvafrcu
 cleanrmd,gadenbuie
@@ -3851,6 +3854,7 @@ CrossCarry,cruzalirio
 CrossClustering,corradolanera
 crossdes,bbnkmp
 crosshap,jacobimarsh
+crosslag,curiousxx
 crossmap,rossellhayes
 crossmeta,bioc
 crossnma,htx-r
@@ -8279,7 +8283,7 @@ gptr,broccolito
 gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,bioc
-GPUmatrix,cran
+GPUmatrix,clobatofern95
 GPvam,akarl46556
 GPvecchia,marcinjurek
 gpx,bmewing
@@ -10259,13 +10263,14 @@ klexdatr,poissonconsulting
 KLexp,zongrui-dai
 klic,acabassi
 KLINK,magnusdv
-klovan,cran
+klovan,frenchrh
 klsh,cleanzr
 klustR,mckaymdavis
 km.ci,tverbeke
 kmBlock,cran
 kmc,yfyang86
 KMD,zh2395
+KMEANS.KNN,lallogo45
 kmed,weksi-budiaji
 Kmedians,godichon-baggioni
 kmer,shaunpwilkinson
@@ -10806,6 +10811,7 @@ lmDiallel,onofriandreapg
 lmdme,bioc
 lmds,dynverse
 lme4,lme4
+lme4breeding,covaruber
 lmeInfo,jepusto
 LMERConvenienceFunctions,cran
 lmeresampler,aloy
@@ -11196,6 +11202,7 @@ MainExistingDatasets,ecamenen
 MAINT.Data,cran
 MAIT,bioc
 MajKMeans,sheikhi-a
+MajMinKmeans,sheikhi-a
 makecdfenv,bioc
 makedummies,toshi-ara
 MakefileR,krlmlr
@@ -11916,6 +11923,7 @@ MGSDA,irinagain
 mgss,splinesmoothing
 mgsub,bmewing
 mgwnbr,julianamrosa
+mgwrhw,cran
 mgwrsar,cran
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
@@ -19134,7 +19142,7 @@ sgolay,zeehio
 SGP,centerforassessment
 SGPdata,centerforassessment
 sgPLS,cran
-SGPR,cran
+SGPR,gregorbuch
 sgpv,weltybiostat
 sgr,cran
 sgs,ff1201
@@ -19675,7 +19683,7 @@ slp,wesleyburr
 SLPresElection,amalan-constat
 SLqPCR,bioc
 slr,doer0
-SLSEdesign,cran
+SLSEdesign,chikuang
 SLTCA,tengfei-emory
 slurmR,uscbiostats
 sm,adrian-bowman
@@ -19727,6 +19735,7 @@ SMITE,bioc
 SMITIDstruct,cran
 SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
+smlePH,taehwa015
 smlmkalman,andrew-buist
 SMLoutliers,siddjain24
 SMM,nicolasv-dev
@@ -20086,6 +20095,7 @@ spatsurv,bentaylor1
 spatzie,bioc
 SPB,cran
 spbabel,mdsumner
+spbal,javalake2023
 spBayes,finleya
 spBayesSurv,wonderzhm
 spBFA,berchuck
@@ -20668,6 +20678,7 @@ stray,pridiltal
 STREAK,cran
 stream,mhahsler
 streambugs,nschuwirth
+streamConnect,mhahsler
 streamDAG,moondog1969
 streamDepletr,foundryspatial
 Streamer,bioc
@@ -21164,7 +21175,7 @@ TcGSA,sistm
 TCHazaRds,ausclimateservice
 tci,jarretrt
 TCIApathfinder,pamelarussell
-TCIU,qjoshua
+TCIU,petersyy1677
 tcl,cran
 tcltk2,sciviews
 tclust,valentint
