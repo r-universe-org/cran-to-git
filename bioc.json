@@ -9130,6 +9130,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Pirat",
+    "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
+    "url": "https://github.com/prostarproteomics/pirat",
+    "registry": "bioc"
+  },
+  {
     "package": "PIUMA",
     "maintainer": "Mattia Chiesa <mattia.chiesa@cardiologicomonzino.it>",
     "url": "https://github.com/bioinfomonzino/piuma",
@@ -12239,6 +12245,12 @@
     "registry": "bioc"
   },
   {
+    "package": "survClust",
+    "maintainer": "Arshi Arora <arshiaurora@gmail.com>",
+    "url": "https://github.com/arorarshi/survclust",
+    "registry": "bioc"
+  },
+  {
     "package": "survcomp",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://git.bioconductor.org/packages/survcomp",
@@ -12530,6 +12542,12 @@
     "package": "tidyCoverage",
     "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
     "url": "https://github.com/js2264/tidycoverage",
+    "registry": "bioc"
+  },
+  {
+    "package": "tidyFlowCore",
+    "maintainer": "Timothy Keyes <tkeyes@stanford.edu>",
+    "url": "https://github.com/keyes-timothy/tidyflowcore",
     "registry": "bioc"
   },
   {

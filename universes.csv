@@ -10,7 +10,7 @@ AalenJohansen,cran
 AATtools,spiritspeak
 ABACUS,bio-statistics
 ABarray,bioc
-abasequence,cran
+abasequence,peerreview269
 abbreviate,sigbertklinke
 abc,mblumuga
 abc.data,mblumuga
@@ -1085,6 +1085,7 @@ banocc,bioc
 BANOVA,banovaapp
 banter,ericarcher
 banxicoR,eflores89
+baorista,ercrema
 bapred,romanhornung
 BAR,cran
 BarBorGradient,alterion
@@ -3006,7 +3007,7 @@ clust.bin.pair,dgopstein
 ClustAll,bioc
 clustAnalytics,martirm
 ClustAssess,core-bioinformatics
-ClustBlock,fabllob
+ClustBlock,cran
 clustComp,bioc
 ClusTCR2,cran
 clustDRM,vahidnassiri
@@ -5652,6 +5653,7 @@ ELMSO,cpaulson-suu
 eLNNpairedCov,yixinzhang-stat
 elo,eheinzen
 EloChoice,gobbios
+EloOptimized,jtfeld
 EloRating,gobbios
 EloSteepness,gobbios
 elrm,cran
@@ -5891,6 +5893,7 @@ epwshiftr,ideas-lab-nus
 EPX,jhtomal
 epxToR,cran
 eq5d,fragla
+eq5dsuite,mathsinhealth
 EQL,cran
 equalCovs,cran
 Equalden.HD,cran
@@ -7280,7 +7283,7 @@ GAprediction,bioc
 GARCHIto,cran
 GARCHSK,keeeeei0315
 garchx,gsucarrat
-GARCOM,sariya
+GARCOM,complexgenome
 garfield,bioc
 gargle,r-lib
 gargoyle,colinfay
@@ -7739,6 +7742,7 @@ ggcorset,kbelisar
 ggcyto,bioc
 ggdag,r-causal
 ggdark,nsgrantham
+ggdaynight,gabrielslpires
 ggdemetra,aqlt
 ggdendro,andrie
 ggdensity,jamesotto852
@@ -8547,6 +8551,7 @@ guardianapi,evanodell
 Guerry,friendly
 guescini,ramiromagno
 guess,soodoku
+GUEST,cran
 GUIDE,subramanianshub
 guidedPLS,rikenbit
 GUIDEseq,bioc
@@ -10345,7 +10350,7 @@ KScorrect,pnovack-gottshall
 KSD,minhyung-kang
 KSEAapp,casecpb
 kselection,drodriguezperez
-KSgeneral,raymondtsr
+KSgeneral,d-dimitrova
 ksharp,tkonopka
 ksNN,keeeeei0315
 KSPM,catherineschramm
@@ -13264,7 +13269,7 @@ netgwas,pariya
 nethet,bioc
 netie,tianshilu
 NetIndices,karlines
-NetInt,cran
+NetInt,jessicagliozzo
 NetLogoR,predictiveecology
 netmap,artod83
 netmediate,sduxbury
@@ -14964,6 +14969,7 @@ pipenostics,omega1x
 pipeR,renkun-ken
 PIPETS,bioc
 piqp,predict-epfl
+Pirat,bioc
 piratings,larsvancutsem
 piRF,chancejohnstone
 pisaRT,cran
@@ -15420,6 +15426,7 @@ PPTcirc,karlampm
 PPtreeregViz,sunsmiling
 PPtreeViz,ek-lee
 pqantimalarials,renschler
+pql,guangbaog
 PQLseq,cran
 pqrBayes,cenwu
 pqrfe,iandanilevicz
@@ -17452,6 +17459,7 @@ RJDBC,s-u
 RJDemetra,rjdverse
 rjdmarkdown,aqlt
 rjdqa,aqlt
+rjdworkspace,inseefrlab
 rje,rje42
 rjmcmc,nickgelling
 RJMCMCNucleosomes,bioc
@@ -17659,6 +17667,7 @@ rNeighborGWAS,cran
 rNeighborQTL,cran
 RNentropy,cran
 rneos,bpfaff
+Rnest,quantmeth
 rnetcarto,stouffer
 RNetCDF,mjwoods
 RNetLogo,r-forge
@@ -18740,6 +18749,7 @@ scorecard,shichenxie
 scorecardModelUtils,aryapoddar
 ScoreEB,wenlongren
 scoreInvHap,bioc
+scorematchingad,cran
 scorepeak,shotaochi
 ScorePlus,shengmil
 scoring,ecmerkle
@@ -20837,6 +20847,7 @@ survAUC,fbertran
 survAWKMT2,mikihoriguchi
 survBootOutliers,jonydog
 survC1,cran
+survClust,bioc
 survcomp,bioc
 survcompare,cran
 SurvCorr,georgheinze
@@ -21487,6 +21498,7 @@ tidyestimate,kaiaragaki
 tidyfast,tysonstanley
 tidyfinance,tidy-finance
 tidyfit,jpfitzinger
+tidyFlowCore,bioc
 tidyformula,damian-t-p
 tidyfst,hope-data-science
 tidyft,hope-data-science
