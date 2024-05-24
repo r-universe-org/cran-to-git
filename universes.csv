@@ -707,7 +707,7 @@ arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
-ARDECO,attarco
+ARDECO,cran
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -5574,6 +5574,7 @@ egcm,matthewclegg
 egg,baptiste
 eggCounts,cran
 eglhmm,cran
+EGM,shah-in-boots
 EgoCor,julia-dyck
 egor,tilltnet
 EGRET,doi-usgs
@@ -6268,6 +6269,7 @@ FactorAssumptions,storopoli
 FactorCopula,cran
 factorial2x2,ericsleifer
 factormodel,yujunghwang
+factorplot,cran
 factorstochvol,gregorkastner
 factory,jonthegeek
 Factoshiny,husson
@@ -8288,6 +8290,7 @@ gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,bioc
 GPUmatrix,clobatofern95
+gpuR,cdeterman
 GPvam,akarl46556
 GPvecchia,marcinjurek
 gpx,bmewing
@@ -10646,6 +10649,7 @@ LFDREmpiricalBayes,empiricalbayes
 lfe,r-econometrics
 lfl,beerda
 lfmm,bcm-uga
+lfproQC,kabilanagri
 lfstat,mundl
 lg,hotneim
 lgarch,cran
@@ -11781,6 +11785,7 @@ metan,tiagoolivoto
 MetaNeighbor,bioc
 MetaNet,asa12138
 metanetwork,marcohlmann
+MetaNLP,imbi-heidelberg
 metansue,cran
 metap,deweyme
 metapack,daeyounglim
@@ -13087,6 +13092,7 @@ NADA,cran
 NADA2,swampthingpaul
 NADfinder,bioc
 NADIA,jjanborowka
+nadiv,matthewwolak
 NAEPirtparams,sunnyjooey
 NAEPprimer,cran
 naflex,dannyparsons
@@ -14884,7 +14890,6 @@ phuassess,cran
 PhViD,cran
 phyclust,snoweye
 phyext2,johnrstevens
-PhyInsight,jamesc845
 phylin,ptarroso
 phylobase,fmichonneau
 phylocanvas,zachcp
@@ -15578,6 +15583,7 @@ ProbMarg,tfliaoui
 probout,cran
 ProbSamplingI,cran
 PROBShiny,kartikeyabolar
+probstats4econ,cran
 ProbYX,cran
 pROC,xrobin
 proccalibrad,prishabh
@@ -15677,7 +15683,7 @@ protein8k,simonliles
 proteinProfiles,bioc
 ProteoBayes,mariechion
 ProteoDisco,bioc
-proteomicsCV,cran
+proteomicsCV,alebremu
 ProteoMM,bioc
 proteus,cran
 protGear,bioc
@@ -19862,6 +19868,7 @@ soilchemistry,bappa10085
 SoilConservation,dionecardoso
 soilDB,ncss-tech
 soilfoodwebs,robertwbuchkowski
+SoilFunctionality,cran
 SoilHyP,ullid
 soilhypfit,cran
 soilphysics,arsilva87
@@ -20545,6 +20552,7 @@ statswalesr,jamie-ralph
 statTarget,bioc
 statVisual,gefeizhang
 STB,cran
+stbl,jonthegeek
 stcos,holans
 stcov,bnaul
 stcpR6,shinjaehyeok
@@ -21307,7 +21315,7 @@ testex,dgkf
 testforDEP,daviden1013
 TestFunctions,collinerickson
 TestGardener,jamesramsay5
-TestGenerator,darwin-eu-dev
+TestGenerator,cran
 TestIndVars,mnrzrad
 TestingSimilarity,kathrinmoellenhoff
 testit,yihui
@@ -22538,6 +22546,7 @@ vegdata,florianjansen
 vegperiod,rnuske
 vegtable,kamapu
 vein,atmoschem
+vek,samsemegne
 velociraptor,bioc
 velociraptr,aazaff
 veloviz,bioc

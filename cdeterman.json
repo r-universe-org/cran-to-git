@@ -1,5 +1,10 @@
 [
   {
+    "package": "gpuR",
+    "maintainer": "Ruoyong Xu <ruoyong.xu@mail.utoronto.ca>",
+    "url": "https://github.com/cdeterman/gpur"
+  },
+  {
     "package": "RViennaCL",
     "maintainer": "Charles Determan Jr <cdetermanjr@gmail.com>",
     "url": "https://github.com/cdeterman/rviennacl"
