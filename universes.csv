@@ -612,7 +612,6 @@ APAlyzer,bioc
 apaTables,dstanley4
 apaText,dstanley4
 apc,cran
-APCalign,traitecoevo
 APCanalysis,ardenewan
 apcf,rnuske
 APCI,jiahui1902
@@ -686,8 +685,6 @@ arcgis,r-arcgis
 arcgislayers,josiahparry
 arcgisplaces,josiahparry
 arcgisutils,r-arcgis
-ArchaeoChron,philippe-a
-ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
 archdata,d-carlson
 archeofrag,sebastien-plutniak
@@ -707,7 +704,7 @@ arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
-ARDECO,cran
+ARDECO,attarco
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -1294,7 +1291,6 @@ BayesXsrc,freezenik
 bayesZIB,dmorinya
 bayfoxr,brews
 baygel,jarod-smithy
-BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
@@ -1641,7 +1637,6 @@ bio.infer,cran
 bio3d,bioboot
 bioacoustics,wavx
 bioassayR,bioc
-bioassays,anwarbio
 Biobase,bioc
 BiObjClass,tiagocsoares
 biobricks,tomlue
@@ -7782,7 +7777,6 @@ gggrid,pmur002
 ggh4x,teunbrand
 gghalfnorm,nathaneastwood
 gghalves,erocoar
-gghdr,sayani07
 gghdx,ocha-dap
 ggheatmap,xiaoluo-boy
 gghighlight,yutannihilation
@@ -8018,7 +8012,6 @@ gKRLS,mgoplerud
 GLAD,bioc
 GladiaTOX,bioc
 glamlasso,adam-lund
-glancedata,gbasulto
 glarma,cran
 Glarmadillo,cran
 GlarmaVarSel,cran
@@ -15321,6 +15314,7 @@ population,gchapron
 PopulationGrowthR,bimanc
 populationPDXdesign,cran
 populR,mbatsaris
+poputils,bayesiandemography
 PopVar,neyhartj
 porridge,wvanwie
 port4me,henrikbengtsson
@@ -15583,7 +15577,7 @@ ProbMarg,tfliaoui
 probout,cran
 ProbSamplingI,cran
 PROBShiny,kartikeyabolar
-probstats4econ,cran
+probstats4econ,nateybear
 ProbYX,cran
 pROC,xrobin
 proccalibrad,prishabh
@@ -16250,7 +16244,6 @@ r6extended,petermeissner
 r6methods,jakubsob
 R6P,tidylab
 ra4bayesmeta,manuelaott
-rabhit,ayeletperes
 rabi,andburch
 RABR,tian-yu-zhan
 RAC,damianobaldan
@@ -20288,12 +20281,10 @@ spotifyr,charlie86
 SPOTlight,bioc
 SPOTMisc,bartzbeielstein
 spotoroo,tengmcing
-SpotSampling,cran
 SpotSweeper,bioc
 SPOUSE,cran
 SPPcomb,cran
 SpPOP,cran
-spqdep,f8l5h9
 spqn,bioc
 spray,robinhankin
 spreadr,csqsiew
@@ -21882,7 +21873,7 @@ traviz,bioc
 trawl,almutveraart
 TRD,cran
 treasury,m-muecke
-TreatmentPatterns,darwin-eu-dev
+TreatmentPatterns,darwin-eu
 TreatmentSelection,mdbrown
 treats,tguillerme
 tree,cran
@@ -22671,7 +22662,6 @@ vivid,alaninglis
 vivo,modeloriented
 vizdraws,ignacio82
 vkR,dementiy
-vlda,pnuwon
 VLF,tathey
 VLMC,mmaechler
 VLMCX,adrianozambom
