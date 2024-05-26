@@ -5,6 +5,11 @@
     "url": "https://github.com/r-arcgis/arcgis"
   },
   {
+    "package": "arcgisgeocode",
+    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
+    "url": "https://github.com/r-arcgis/arcgisgeocode"
+  },
+  {
     "package": "arcgisutils",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/r-arcgis/arcgisutils"

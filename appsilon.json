@@ -1,5 +1,10 @@
 [
   {
+    "package": "box.linters",
+    "maintainer": "Rodrigo Basa <opensource+rodrigo@appsilon.com>",
+    "url": "https://github.com/appsilon/box.linters"
+  },
+  {
     "package": "data.validator",
     "maintainer": "Marcin Dubel <opensource+marcin@appsilon.com>",
     "url": "https://github.com/appsilon/data.validator"

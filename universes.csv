@@ -682,6 +682,7 @@ arc,kliegr
 ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
 arcgis,r-arcgis
+arcgisgeocode,r-arcgis
 arcgislayers,josiahparry
 arcgisplaces,josiahparry
 arcgisutils,r-arcgis
@@ -1970,6 +1971,7 @@ boutliers,nomahi
 BoutrosLab.plotting.general,uclahs-cds
 bowerbird,ropensci
 box,klmr
+box.linters,appsilon
 boxcoxmix,iago-pssjd
 boxfilter,thomaspruf
 boxly,merck
@@ -10162,6 +10164,7 @@ kde1d,tnagler
 kdecopula,tnagler
 kdensity,jonasmoss
 kdevine,tnagler
+kDGLM,silvaneojunior
 kdist,tlamontsmith
 kdpee,cran
 kdry,kapsner
@@ -12815,6 +12818,7 @@ mueRelativeRisk,rickeycarter
 muhaz,dwinsemius
 muir,alforj
 Mulcom,bioc
+mulea,eltebioinformatics
 mulgar,dicook
 MullerPlot,farahpourlab
 mully,frankkramer-lab
@@ -13224,6 +13228,7 @@ neojags,madsyair
 NEONiso,lanl
 neonOS,neonscience
 neonPlantEcology,admahood
+neonSoilFlux,jmzobitz
 neonstore,cboettig
 neonUtilities,neonscience
 neotoma,ropensci
@@ -13812,7 +13817,6 @@ odetector,zcebeci
 odin,mrc-ide
 odk,muntashiralarefin
 ODMeans,smorenoa
-odpc,esmucler
 odr,zuchaoshen
 ODRF,liuyu-star
 ODS,yinghao-pan
@@ -13942,6 +13946,7 @@ OnomasticDiversity,mjginzo
 onpoint,r-spatialecology
 onsr,kvasilopoulos
 onsvplot,pabsantos
+onsvtables,onsv
 ontoFAST,sergeitarasov
 ontologics,luckinet
 ontologyIndex,daniel-jg
@@ -15387,6 +15392,7 @@ POWSC,bioc
 PP,jansteinfeld
 PPbigdata,cran
 ppcc,cran
+PPCDT,guangbaog
 PPCI,davidhofmeyr
 ppclust,cran
 ppcor,cran
@@ -19058,6 +19064,7 @@ seqmon,cran
 SeqNet,tgrimes
 seqPattern,bioc
 seqsetvis,bioc
+seqSHP,traminer
 SeqSQC,bioc
 seqtest,cran
 seqTools,bioc
@@ -22005,6 +22012,7 @@ trust,cjgeyer
 trustedtimestamping,ttspackage
 trustOptim,braunm
 tryCatchLog,aryoda
+tryr,analythium
 TSA,cran
 tsallisqexp,cran
 TSANN,yeasinstat
@@ -22251,6 +22259,7 @@ Umoments,innager
 ump,cjgeyer
 Umpire,cran
 umx,tbates
+UnalR,estadisticaun
 unbalhaar,cran
 UncDecomp,kim-seonghyeon
 uncertainty,hugogasca
@@ -22714,6 +22723,7 @@ vscc,cran
 vsclust,bioc
 vsd,cyanzule
 vsgoftest,testpregnault
+vsmi,cran
 vsn,bioc
 VSOLassoBag,chywang17
 vsp,rohelab
