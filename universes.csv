@@ -388,6 +388,7 @@ alarmdata,alarm-redist
 ALassoSurvIC,pakdaewo
 albatross,ikrylovmsu
 albopictus,kerguler
+alcyon,cran
 ald,chedgala
 ALDEx2,bioc
 ALDqr,lbenitesanchez
@@ -1863,6 +1864,7 @@ bmggum,naidantu
 BMisc,bcallaway11
 bmixture,rezamoammadi
 bmlm,mvuorre
+bmm,venpopov
 bmp,jefferis
 BMRBr,billchenxi
 BMRMM,yutongwu96
@@ -2655,6 +2657,7 @@ CGPfunctions,ibecav
 CGR,cran
 cgwtools,cran
 ch,tsiamut
+chainbinomial,opisthokonta
 ChainLadder,mages
 chameleon,orenbenkiki
 ChAMP,bioc
@@ -6963,6 +6966,7 @@ fPASS,salilkoner
 fpc,chrhennig
 FPCA3D,edmondlinnan
 fpcb,nicolashernandezb
+FPCdpca,guangbaog
 fpCompare,predictiveecology
 FPDclustering,cran
 fpeek,davidgohel
@@ -7502,6 +7506,7 @@ GeneticSubsetter,ryan-graebner
 GeNetIt,jeffreyevans
 GeneTonic,bioc
 geneXtendeR,bioc
+genfrn,atchanut
 genie,gagolews
 GENIE3,bioc
 genieBPC,genie-bpc
@@ -7707,7 +7712,6 @@ GFM,feiyoung
 gfonts,dreamrs
 gfoRmula,causalinference
 gFormulaMI,jwb133
-gfpop,vrunge
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
 gg4way,bioc
@@ -8548,6 +8552,7 @@ gtsummary,ddsjoberg
 gtWAS,junhuili1017
 guaguas,rivaquiroga
 guardianapi,evanodell
+GUD,cran
 Guerry,friendly
 guescini,ramiromagno
 guess,soodoku
@@ -8792,6 +8797,7 @@ HEDA,ninalty
 heddlr,mikemahoney218
 hedgehog,hedgehogqa
 heemod,aphp
+heimdall,cefet-rj-dal
 heims,hughparsonage
 heiscore,vramdas06
 helixvis,rrrlw
@@ -12720,6 +12726,7 @@ msd,cbradl23
 msda,archer-yang-lab
 MsDataHub,bioc
 msde,mlysy
+msdrought,turner-scu
 mseapca,hiroyukiyamamoto
 msentropy,yuanyueli
 MSEtool,blue-matter
@@ -12948,7 +12955,7 @@ multitaper,krahim
 multitool,ethan-young
 multiUS,mrmarjan
 multivar,zackfisher
-multivariance,cran
+multivariance,bb-diesunddas
 MultivariateAnalysis,cran
 MultivariateRandomForest,razrahman
 multivarious,bbuchsbaum
@@ -14523,6 +14530,7 @@ pbm,jonathanrd
 pbmcapply,kvnkuang
 PBNPA,cran
 pbo,mrbcuda
+pbox,athammad
 pbr,cran
 pBrackets,cran
 pbs,cran
@@ -15055,6 +15063,7 @@ platowork,lassehjorthmadsen
 plattice,cran
 Platypus,alexyermanos
 play,joe-chelladurai
+PlayerChart,amalpanwar
 PlayerRatings,cran
 pldamixture,bpriy
 plde,cran
@@ -19156,6 +19165,7 @@ sgPLS,cran
 SGPR,gregorbuch
 sgpv,weltybiostat
 sgr,cran
+sgraph,thomaschln
 sgs,ff1201
 SGSeq,bioc
 sgsR,tgoodbody
@@ -19871,6 +19881,7 @@ soilassessment,cran
 soilchemistry,bappa10085
 SoilConservation,dionecardoso
 soilDB,ncss-tech
+SoilFDA,cran
 soilfoodwebs,robertwbuchkowski
 SoilFunctionality,cran
 SoilHyP,ullid
@@ -19951,6 +19962,7 @@ spacesRGB,glenndavis52
 spacesXYZ,glenndavis52
 spacetime,edzer
 SpaceTimeBSS,cran
+SpaCOAP,feiyoung
 spacyr,quanteda
 SPADAR,algolkm
 spAddins,gegznav
@@ -20438,6 +20450,7 @@ sss,andrie
 sssc,lethargy608
 SSsimple,davezes
 Sstack,klmatlock
+sstvars,saviviro
 ssviz,bioc
 SSVS,sabainter
 ssym,cran
@@ -21249,6 +21262,7 @@ telegram,lbraglia
 telegram.bot,ebeneditos
 telemetR,tspaulding-esa
 TELP,cran
+telraamStats,ketsiaguichard
 TempCont,burriach
 tempdisagg,christophsax
 temperatureresponse,low-decarie
