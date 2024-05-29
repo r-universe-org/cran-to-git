@@ -568,6 +568,7 @@ ANOVAShiny,kartikeyabolar
 ANOVAShiny2,kartikeyabolar
 anovir,philipagnew
 anscombiser,paulnorthrop
+ANSM5,neilhspencer
 AntAngioCOOL,cran
 antanym,ropensci
 antaresEditObject,rte-antares-rpackage
@@ -1791,6 +1792,7 @@ bizicount,jmniehaus
 bkmr,jenfb
 bkmrhat,alexpkeil1
 BKTR,julien-hec
+BLA,chawezimiti
 blackbox,f-rousset
 BlackCarbon,sanjeev112
 blackmarbler,worldbank
@@ -3198,6 +3200,7 @@ coenoflex,dvrbts
 cofad,burmarkus
 cofeatureR,tinyheero
 coffee,maarten14c
+cofid,alrobles
 CoFRA,ruma1974
 coga,chaoranhu
 CoGAPS,bioc
@@ -3629,6 +3632,7 @@ corto,federicogiorgi
 corx,conig
 cosa,metinbulus
 coseq,bioc
+cosimmr,cran
 cosinor,sachsmc
 cosinor2,amutak
 cosmicsig,rozen-lab
@@ -3844,7 +3848,7 @@ Cronbach,cran
 crone,cran
 cronologia,feddelegrand7
 cronR,bnosac
-crop,cran
+crop,mariushofert
 cropcircles,doehm
 cropdatape,omarbenites
 cropDemand,filgueirasr
@@ -4067,6 +4071,7 @@ cvwrapr,kjytay
 CVXR,cvxgrp
 cwbtools,polmine
 cwot,wpihongzhang
+CWT,antguz
 cxhull,stla
 cxr,radicalcommecol
 cxxfunplus,maverickg
@@ -4656,6 +4661,7 @@ dglm,gksmyth
 DGLMExtPois,franciscomartinezdelrio
 DGM,schw4b
 dgof,cran
+DGP4LCF,jcai-1122
 dgpsi,mingdeyu
 dgumbel,blunde1
 DHARMa,florianhartig
@@ -5709,6 +5715,7 @@ emon,jonbarry145
 emov,schw4b
 EMP,banking-analytics-lab
 EMpeaksR,matsumuratarojiro
+emphatic,coolbutuseless
 empichar,gbasulto
 EmpiricalBrownsMethod,bioc
 EmpiricalCalibration,ohdsi
@@ -6475,7 +6482,7 @@ fdANOVA,ls-git-17
 fdaoutlier,otsegun
 fdapace,functionaldata
 fdapaceShiny,cpossinger
-fdaPDE,eleonoraarnone
+fdaPDE,cran
 fdaPOIFD,aefdz
 fdarep,functionaldata
 fdaSP,maurobernardi
@@ -7775,6 +7782,7 @@ ggfocus,freguglia
 ggforce,thomasp85
 ggformula,projectmosaic
 ggfortify,sinhrks
+ggfoundry,cgoo4
 ggfun,yulab-smu
 ggfx,thomasp85
 gggap,cmoralesmx
@@ -8161,7 +8169,7 @@ GNET2,bioc
 gnFit,asaeb1480
 gnlm,swihart
 gnm,hturner
-gnn,cran
+gnn,mariushofert
 gnomonicM,ejosymart
 gnonadd,decodegenetics
 gnorm,maryclare
@@ -8201,7 +8209,7 @@ good,dessipat
 GoodFibes,jessica-arbour
 GoodFitSBM,roy-sr-007
 GoodmanKruskal,ronaldkpearson
-goodpractice,mangothecat
+goodpractice,ropensci
 googleadsR,pablosanmar
 googleAnalyticsR,markedmondson1234
 googleAuthR,markedmondson1234
@@ -8758,6 +8766,7 @@ HDOMDesign,cran
 HDoutliers,cran
 hdpca,cran
 hdpGLM,diogoferrari
+hdqr,qiantang0326
 hdrcde,robjhyndman
 HDRFA,cran
 hds,liangcj
@@ -8765,6 +8774,7 @@ HDShOP,otryakhin-dmitry
 HDSinRdata,alicepaul
 HDSpatialScan,cran
 HDStIM,niaid
+hdsvm,cran
 HDTD,bioc
 HDTSA,linc2021
 HDtweedie,cran
@@ -11348,6 +11358,7 @@ marmap,ericpante
 MARMoT,albertocalore
 marp,kanji709
 marqLevAlg,vivianephilipps
+marquee,r-lib
 marr,bioc
 marradistrees,cran
 marray,bioc
@@ -13645,6 +13656,7 @@ npcs,tctsung
 npcure,iullibarri
 npcurePK,cran
 npde,ecomets
+npDoseResponse,zhangyk8
 npExact,zauster
 NPflow,sistm
 npGSEA,bioc
@@ -13743,7 +13755,7 @@ nuts,ropensci
 NVAR,sciurus365
 NVCSSL,cran
 nvctr,euctrl-pru
-nvmix,cran
+nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
 nzelect,ellisp
@@ -14217,6 +14229,7 @@ outerbase,mattplumlee
 outForest,mayer79
 outlierensembles,sevvandi
 outliers,luqqe
+outliers.ts.oga,cran
 OutliersO3,impaug
 outliertree,david-cortes
 outreg,kota7
@@ -16041,10 +16054,10 @@ qrjoint,cran
 qrlabelr,awkena
 qrLMM,chedgala
 QRM,bpfaff
-qrmdata,cran
+qrmdata,mariushofert
 qrmix,cran
-qrmtools,cran
-qrng,cran
+qrmtools,mariushofert
+qrng,mariushofert
 qrNLMM,chedgala
 qrnn,cran
 qs,traversc
@@ -19532,7 +19545,7 @@ simrel,simulatr
 simRestore,thijsjanzen
 SiMRiv,miguel-porto
 sims,joethorley
-simsalapar,cran
+simsalapar,mariushofert
 simsem,tdjorgensen
 SimSeq,sbenidt
 simsl,cran
@@ -21332,7 +21345,7 @@ testex,dgkf
 testforDEP,daviden1013
 TestFunctions,collinerickson
 TestGardener,jamesramsay5
-TestGenerator,cran
+TestGenerator,darwin-eu
 TestIndVars,mnrzrad
 TestingSimilarity,kathrinmoellenhoff
 testit,yihui
@@ -21785,6 +21798,7 @@ totalcensus,gl-li
 TotalCopheneticIndex,ms609
 TOU,cran
 touch,wenjie2wang
+touRnamentofchampions,celevitz
 tourr,ggobi
 toweranNA,matloff
 ToxCrit,cran
@@ -22513,6 +22527,7 @@ VaSP,bioc
 vatcheckapi,cran
 vaultr,vimc
 vaxpmx,vavrycuk-zz
+VBel,jlimrasc
 VBJM,jjr1234
 VBLPCM,cran
 vbmp,bioc

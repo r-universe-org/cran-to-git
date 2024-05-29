@@ -20,6 +20,11 @@
     "url": "https://github.com/darwin-eu/incidenceprevalence"
   },
   {
+    "package": "TestGenerator",
+    "maintainer": "Cesar Barboza <c.barboza@darwin-eu.org>",
+    "url": "https://github.com/darwin-eu/testgenerator"
+  },
+  {
     "package": "TreatmentPatterns",
     "maintainer": "Maarten van Kessel <m.l.vankessel@erasmusmc.nl>",
     "url": "https://github.com/darwin-eu/treatmentpatterns"
