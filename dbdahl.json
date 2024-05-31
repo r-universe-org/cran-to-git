@@ -23,6 +23,11 @@
     "subdir": "fangs"
   },
   {
+    "package": "qslice",
+    "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
+    "url": "https://github.com/cran/qslice"
+  },
+  {
     "package": "salso",
     "maintainer": "David B. Dahl <dahl@stat.byu.edu>",
     "url": "https://github.com/dbdahl/salso",

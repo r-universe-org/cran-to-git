@@ -14,6 +14,7 @@ ABHgenotypeR,https://github.com/stefanreuscher/abhgenotyper,,
 abjData,https://github.com/abjur/abjdata,,
 abjutils,https://github.com/abjur/abjutils,,
 ABM,https://github.com/junlingm/abm,,
+abn,https://github.com/furrer-lab/abn,,
 abnormality,https://github.com/mmarks13/abnormality,,
 abodOutlier,https://github.com/josejimenezluna/abodoutlier,,
 abseil,https://github.com/doccstat/abseil-r,,
@@ -337,6 +338,7 @@ APackOfTheClones,https://github.com/qile0317/apackoftheclones,,
 APAlyzer,https://github.com/rjwangbioinfo/apalyzer,,bioc
 apaTables,https://github.com/dstanley4/apatables,,
 apaText,https://github.com/dstanley4/apatext,,
+APCalign,https://github.com/traitecoevo/apcalign,,
 apcf,https://github.com/rnuske/apcf,,
 APCI,https://github.com/jiahui1902/apci,,
 apcluster,https://github.com/ubod/apcluster,,
@@ -950,14 +952,12 @@ BiocIO,https://github.com/bioconductor/biocio,,bioc
 BioCircos,https://github.com/lvulliard/biocircos.r,,
 BiocManager,https://github.com/bioconductor/biocmanager,,
 biocompute,https://github.com/sbg/biocompute,,
-BiocOncoTK,https://github.com/vjcitn/bioconcotk,,bioc
 BioCor,https://github.com/llrs/biocor,,bioc
 BiocParallel,https://github.com/bioconductor/biocparallel,,bioc
 BiocPkgTools,https://github.com/seandavi/biocpkgtools,,bioc
 BioCro,https://github.com/biocro/biocro,,
 biocroxytest,https://github.com/xec-cm/biocroxytest,,bioc
 BiocSingular,https://github.com/ltla/biocsingular,,bioc
-BiocSklearn,https://github.com/vjcitn/biocsklearn,,bioc
 BiocStyle,https://github.com/bioconductor/biocstyle,,bioc
 biocthis,https://github.com/lcolladotor/biocthis,,bioc
 biocViews,https://github.com/bioconductor/biocviews,,bioc
@@ -1170,7 +1170,6 @@ brendaDb,https://github.com/y1zhou/brendadb,,bioc
 BRETIGEA,https://github.com/andymckenzie/bretigea,,
 brew,https://github.com/gregfrog/brew,,
 BREW3R.r,https://github.com/lldelisle/brew3r.r,,bioc
-BRGenomics,https://github.com/mdeber/brgenomics,,bioc
 brglm,https://github.com/ikosmidis/brglm,,
 brglm2,https://github.com/ikosmidis/brglm2,,
 brickset,https://github.com/jbryer/brickset,,
@@ -1481,7 +1480,6 @@ CEC,https://github.com/swarm-lab/cec,,
 ceg,https://github.com/ptaranti/ceg,,
 celda,https://github.com/campbio/celda,,bioc
 celestial,https://github.com/asgr/celestial,,
-CellaRepertorium,https://github.com/amcdavid/cellarepertorium,,bioc
 CellBarcode,https://github.com/wenjie1991/cellbarcode,,bioc
 cellbaseR,https://github.com/melsiddieg/cellbaser,,bioc
 CellBench,https://github.com/shians/cellbench,,bioc
@@ -2353,7 +2351,7 @@ cutpointr,https://github.com/thie1e/cutpointr,,
 cv,https://github.com/gmonette/cv,,
 cvap,https://github.com/christopherkenny/cvap,,
 cvar,https://github.com/geobosh/cvar,,
-cvasi,https://github.com/cvasi-tktd/cvasi,,archived
+cvasi,https://github.com/cvasi-tktd/cvasi,,
 cvAUC,https://github.com/ledell/cvauc,,
 cvCovEst,https://github.com/philboileau/cvcovest,,
 cvcrand,https://github.com/hengshiyu/cvcrand,,
@@ -2440,7 +2438,6 @@ DAMOCLES,https://github.com/rsetienne/damocles,,
 dampack,https://github.com/darth-git/dampack,,archived
 damr,https://github.com/rethomics/damr,,
 dams,https://github.com/jsta/dams,,
-Damsel,https://github.com/oshlack/damsel,,bioc
 dang,https://github.com/eddelbuettel/dang,,
 dani,https://github.com/matteo21q/dani,,
 dann,https://github.com/gmcmacran/dann,,
@@ -2670,7 +2667,6 @@ DEPONS2R,https://github.com/jacobnabe/depons2r,,
 DeProViR,https://github.com/mrbakhsh/deprovir,,bioc
 deps,https://github.com/analythium/deps,,
 DepthProc,https://github.com/zzawadz/depthproc,,
-DEqMS,https://github.com/yafeng/deqms,,bioc
 derfinder,https://github.com/lcolladotor/derfinder,,bioc
 derfinderHelper,https://github.com/leekgroup/derfinderhelper,,bioc
 derfinderPlot,https://github.com/leekgroup/derfinderplot,,bioc
@@ -2939,7 +2935,6 @@ DMTL,https://github.com/dhruba018/dmtl,,
 dmtools,https://github.com/konstantinryabov/dmtools,,
 dmutate,https://github.com/kylebaron/dmutate,,
 DMwR2,https://github.com/ltorgo/dmwr2,,
-DNABarcodeCompatibility,https://github.com/comoto-pasteur-fr/dnabarcodecompatibility,,bioc
 DNAcopy,https://github.com/veseshan/dnacopy,,bioc
 DNAfusion,https://github.com/ctriermaansson/dnafusion,,bioc
 DNAtools,https://github.com/mikldk/dnatools,,
@@ -3437,7 +3432,6 @@ epe4md,https://github.com/epe-gov-br/epe4md,,
 eph,https://github.com/ropensci/eph,,
 epialleleR,https://github.com/bbcg/epialleler,,bioc
 epiCleanr,https://github.com/truenomad/epicleanr,,
-EpiCompare,https://github.com/neurogenomics/epicompare,,bioc
 epicontacts,https://github.com/reconhub/epicontacts,,
 EpiContactTrace,https://github.com/stewid/epicontacttrace,,
 EpiCurve,https://github.com/iamkdo/epicurve,,
@@ -4787,7 +4781,6 @@ GimmeMyPlot,https://github.com/ecamenen/gimmemyplot,,
 gimms,https://github.com/environmentalinformatics-marburg/gimms,,
 GiniDecompLY,https://github.com/aambarek/ginidecomply,,
 GInSARCorW,https://github.com/subhadipdatta/ginsarcorw,,
-gINTomics,https://github.com/angelovelle96/gintomics,,bioc
 gips,https://github.com/przechoj/gips,,
 giscoR,https://github.com/ropengov/giscor,,
 GISSB,https://github.com/statisticsnorway/gissb,,
@@ -5202,6 +5195,7 @@ hddplot,https://github.com/jhmaindonald/hddplot,,
 HDF5Array,https://github.com/bioconductor/hdf5array,,bioc
 hdf5r,https://github.com/hhoeflin/hdf5r,,
 hdf5r.Extra,https://github.com/ycli1995/hdf5r.extra,,
+hdflex,https://github.com/lehmasve/hdflex,,
 hdfqlr,https://github.com/mkoohafkan/hdfqlr,,
 hdImpute,https://github.com/pdwaggoner/hdimpute,,
 hdm,https://github.com/martinspindler/hdm,,
@@ -5218,7 +5212,6 @@ HDStIM,https://github.com/niaid/hdstim,,
 HDTD,https://github.com/anestistouloumis/hdtd,,bioc
 HDTSA,https://github.com/linc2021/hdtsa,,
 HDXBoxeR,https://github.com/mkajano/hdxboxer,,
-hdxmsqc,https://github.com/ococrook/hdxmsqc,,bioc
 headliner,https://github.com/rjake/headliner,,
 healthcare.antitrust,https://github.com/mpanhans/healthcare.antitrust,,
 healthdb,https://github.com/kevinhzq/healthdb,,
@@ -5521,7 +5514,6 @@ ICvectorfields,https://github.com/goodsman/icvectorfields,,
 idbr,https://github.com/walkerke/idbr,,
 IDE,https://github.com/andrewzm/ide,,
 IDEAFilter,https://github.com/biogen-inc/ideafilter,,
-ideal,https://github.com/federicomarini/ideal,,bioc
 IDEATools,https://github.com/davidcarayon/ideatools,,
 idefix,https://github.com/traets/idefix,,
 idem,https://github.com/olssol/idem,,
@@ -7413,7 +7405,6 @@ mosaic,https://github.com/projectmosaic/mosaic,,
 mosaicCalc,https://github.com/projectmosaic/mosaiccalc,,
 mosaicCore,https://github.com/projectmosaic/mosaiccore,,
 mosaicData,https://github.com/projectmosaic/mosaicdata,,
-mosdef,https://github.com/imbeimainz/mosdef,,bioc
 MOSim,https://github.com/conesalab/mosim,,bioc
 MOSS,https://github.com/agugonrey/moss,,
 MOTE,https://github.com/doomlab/mote,,
@@ -7701,8 +7692,8 @@ naniar,https://github.com/njtierney/naniar,,
 nanoarrow,https://github.com/apache/arrow-nanoarrow,r,
 NanoMethViz,https://github.com/shians/nanomethviz,,bioc
 nanonext,https://github.com/shikokuchuo/nanonext,,
+nanoparquet,https://github.com/r-lib/nanoparquet,,
 nanostringr,https://github.com/talhouklab/nanostringr,,
-nanotatoR,https://github.com/vilainlab/nanotator,,bioc
 nanotime,https://github.com/eddelbuettel/nanotime,,
 naptime,https://github.com/russellpierce/naptime,,
 nardl,https://github.com/zedtaha/nardl,,
@@ -7804,7 +7795,6 @@ netmap,https://github.com/artod83/netmap,,
 netmeta,https://github.com/guido-s/netmeta,,
 netmhc2pan,https://github.com/richelbilderbeek/netmhc2pan,,
 NetMix,https://github.com/solivella/netmix,,
-netOmics,https://github.com/abodein/netomics,,bioc
 NetOrigin,https://github.com/jmanitz/netorigin,,
 netplot,https://github.com/usccana/netplot,,
 netrankr,https://github.com/schochastics/netrankr,,
@@ -8136,7 +8126,6 @@ omicsTools,https://github.com/cheemalab/omicstools,,
 omicsViewer,https://github.com/mengchen18/omicsviewer,,bioc
 omicwas,https://github.com/fumi-github/omicwas,,
 omnibus,https://github.com/adamlilith/omnibus,,
-OmnipathR,https://github.com/saezlab/omnipathr,,bioc
 omock,https://github.com/oxford-pharmacoepi/omock,,
 omopgenerics,https://github.com/darwin-eu-dev/omopgenerics,,
 ompBAM,https://github.com/alexchwong/ompbam,,bioc
@@ -8506,7 +8495,6 @@ Patterns,https://github.com/fbertran/patterns,,
 pavo,https://github.com/rmaia/pavo,,
 paws,https://github.com/paws-r/paws,paws,
 paws.common,https://github.com/paws-r/paws,paws.common,
-paxtoolsr,https://github.com/biopax/paxtoolsr,,bioc
 pbapply,https://github.com/psolymos/pbapply,,
 pbcc,https://github.com/kzst/pbcc,,
 pbdMPI,https://github.com/snoweye/pbdmpi,,
@@ -9630,7 +9618,6 @@ randomizr,https://github.com/declaredesign/randomizr,,
 randomMachines,https://github.com/mateusmaiads/randommachines,,
 randomNames,https://github.com/centerforassessment/randomnames,,
 Randomuseragent,https://github.com/fangzhou-xie/randomuseragent,,
-RandomWalkRestartMH,https://github.com/alberto-valdeolivas/randomwalkrestartmh,,bioc
 randquotes,https://github.com/amrrs/randquotes,,
 randRotation,https://github.com/phettegger/randrotation,,bioc
 randtoolbox,https://github.com/r-forge/rmetrics,pkg/randtoolbox,
@@ -10339,7 +10326,6 @@ ripc,https://github.com/ocha-dap/ripc,,
 ripserr,https://github.com/rrrlw/ripserr,,
 rirods,https://github.com/irods/irods_client_library_rirods,,
 Rirt,https://github.com/xluo11/rirt,,
-Risa,https://github.com/isa-tools/risa,,bioc
 RISCA,https://github.com/foucher-y/risca,,
 rise,https://github.com/lumenlearning/rise,,
 rIsing,https://github.com/pratik-r/rising,,
@@ -10714,7 +10700,6 @@ rqdatatable,https://github.com/winvector/rqdatatable,,
 RQdeltaCT,https://github.com/donadelnal/rqdeltact,,
 RQEntangle,https://github.com/stephenhky/rqentangle,,
 rqPen,https://github.com/bssherwood/rqpen,,
-rqt,https://github.com/izhbannikov/rqt,,bioc
 rqti,https://github.com/shevandrin/rqti,,
 RQuantLib,https://github.com/eddelbuettel/rquantlib,,
 Rquefts,https://github.com/cropmodels/rquefts,,
@@ -10764,6 +10749,7 @@ rscontract,https://github.com/rstudio/rscontract,,
 rscopus,https://github.com/muschellij2/rscopus,,
 rscorecard,https://github.com/btskinner/rscorecard,,
 rScudo,https://github.com/matteo-ciciani/rscudo,,bioc
+rSDI,https://github.com/ehengirmen/rsdi,,
 RSDK,https://github.com/elkhmissi/rsdk,,
 rsdmx,https://github.com/opensdmx/rsdmx,,
 rSEA,https://github.com/mitra-ep/rsea,,
@@ -11056,7 +11042,6 @@ sanitizers,https://github.com/eddelbuettel/sanitizers,,
 sanityTracker,https://github.com/marselscheer/sanitytracker,,
 sankey,https://github.com/gaborcsardi/sankey,,
 SANple,https://github.com/laura-dangelo/sanple,,
-SANTA,https://github.com/alexjcornish/santa,,bioc
 santaR,https://github.com/adwolfer/santar,,
 santoku,https://github.com/hughjonesd/santoku,,
 SANvi,https://github.com/fradenti/sanvi,,
@@ -11121,7 +11106,6 @@ scBSP,https://github.com/castleli/scbsp,,
 scBubbletree,https://github.com/snaketron/scbubbletree,,bioc
 scCATCH,https://github.com/zjufanlab/sccatch,,
 scCB2,https://github.com/zijianni/sccb2,,bioc
-scClassify,https://github.com/sydneybiox/scclassify,,bioc
 scclust,https://github.com/fsavje/scclust-r,,
 sccomp,https://github.com/mangiolalaboratory/sccomp,,bioc
 sccore,https://github.com/kharchenkolab/sccore,,
@@ -11187,7 +11171,6 @@ scorecard,https://github.com/shichenxie/scorecard,,
 ScoreEB,https://github.com/wenlongren/scoreeb,,
 scorepeak,https://github.com/shotaochi/scorepeak,,
 scoringRules,https://github.com/fk83/scoringrules,,
-scoringTools,https://github.com/adimajo/scoringtools,,archived
 scoringutils,https://github.com/epiforecasts/scoringutils,,
 SCORNET,https://github.com/celehs/scornet,,
 SCORPIUS,https://github.com/rcannood/scorpius,,
@@ -11421,7 +11404,6 @@ sgapi,https://github.com/defra-data-science-centre-of-excellence/sgapi,,
 sgat,https://github.com/matiaspoullain/sgat,,
 sGBJ,https://github.com/lauravillain/sgbj,,
 sgboost,https://github.com/fabianobster/sgboost,,
-SGCP,https://github.com/na396/sgcp,,bioc
 sgd,https://github.com/airoldilab/sgd,,
 SGDinference,https://github.com/sgdinference-lab/sgdinference,,
 sgmodel,https://github.com/thomasvigie/sgmodel-v-0.1.1,,
@@ -11595,7 +11577,6 @@ signal,https://github.com/r-forge/signal,pkg,
 signalHsmm,https://github.com/michbur/signalhsmm,,
 signatureSearch,https://github.com/girke-lab/signaturesearch,,bioc
 signeR,https://github.com/tojallab/signer,,bioc
-signifinder,https://github.com/caluralab/signifinder,,bioc
 signnet,https://github.com/schochastics/signnet,,
 signs,https://github.com/benjaminwolfe/signs,,
 sigora,https://github.com/wolski/sigora,,
@@ -11818,7 +11799,6 @@ SMFilter,https://github.com/yukai-yang/smfilter,,
 smfishHmrf,https://bitbucket.org/qzhudfci/smfishhmrf-r,,
 smicd,https://github.com/chiquadrat/smicd,,
 smile,https://github.com/lcgodoy/smile,,archived
-SMITE,https://github.com/greallylab/smite,,bioc
 SMLE,https://github.com/jasonqxz/smle,,
 smlePH,https://github.com/taehwa015/smleph,,
 SMMT,https://github.com/valvaletl/smmt,,
@@ -11948,7 +11928,6 @@ sparklyr.nested,https://github.com/mitre/sparklyr.nested,,
 sparktex,https://github.com/leeper/sparktex,,
 sparkwarc,https://github.com/r-spark/sparkwarc,,
 sparr,https://github.com/tilmandavies/sparr,,
-sparrow,https://github.com/lianos/sparrow,,bioc
 sparrpowR,https://github.com/machiela-lab/sparrpowr,,
 SparseArray,https://github.com/bioconductor/sparsearray,,bioc
 SparseBiplots,https://github.com/mitzicubillamontilla/sparsebiplots,,
@@ -12409,7 +12388,6 @@ suggests,https://github.com/owenjonesuob/suggests,,
 sugrrants,https://github.com/earowang/sugrrants,,
 SUITOR,https://github.com/wheelerb/suitor,,bioc
 summariser,https://github.com/condwanaland/summariser,,
-SummarizedBenchmark,https://github.com/areyesq89/summarizedbenchmark,,bioc
 SummarizedExperiment,https://github.com/bioconductor/summarizedexperiment,,bioc
 summarytools,https://github.com/dcomtois/summarytools,,
 summclust,https://github.com/s3alfisc/summclust,,
@@ -13325,7 +13303,6 @@ tvm,https://bitbucket.org/juancentro/tvm,,
 tvmediation,https://github.com/dcoffman/tvmediation,,
 tvR,https://github.com/kisungyou/tvr,,
 tvReg,https://github.com/icasas/tvreg,,
-TVTB,https://github.com/kevinrue/tvtb,,bioc
 tvthemes,https://github.com/ryo-n7/tvthemes,,
 twang,https://github.com/mattcefalu/twang,,
 twangContinuous,https://github.com/dcoffman/twangcontinuous,,
@@ -13437,7 +13414,6 @@ untb,https://github.com/robinhankin/untb,,
 unusualprofile,https://github.com/wjschne/unusualprofile,,
 unvotes,https://github.com/dgrtwo/unvotes,,
 updateme,https://github.com/wurli/updateme,,
-updateObject,https://github.com/bioconductor/updateobject,,bioc
 updater,https://github.com/ddsjoberg/updater,,
 UPDhmm,https://github.com/martasevilla/updhmm,,bioc
 updog,https://github.com/dcgerard/updog,,
@@ -13878,7 +13854,6 @@ worrms,https://github.com/ropensci/worrms,,
 worrrd,https://github.com/anthonypileggi/worrrd,,
 wpa,https://github.com/microsoft/wpa,,
 wpm,https://github.com/helbor/wpm,,bioc
-wppi,https://github.com/agalhoz/wppi,,bioc
 WpProj,https://github.com/ericdunipace/wpproj,,
 wql,https://github.com/jsta/wql,,
 wqtrends,https://github.com/tbep-tech/wqtrends,,
@@ -13993,7 +13968,6 @@ yll,https://github.com/antoinesoetewey/yll,,
 ymd,https://github.com/shrektan/ymd,,
 Ymisc,https://github.com/yrhwang90/ymisc,,
 ymlthis,https://github.com/r-lib/ymlthis,,
-ympes,https://github.com/timtaylor/ympes,,
 yodel,https://github.com/rich-payne/yodel,,
 yorkr,https://github.com/tvganesh/yorkr,,
 youngSwimmers,https://github.com/nim-ach/youngswimmers,,
