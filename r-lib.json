@@ -455,6 +455,11 @@
     "url": "https://github.com/r-lib/sodium"
   },
   {
+    "package": "sparsevctrs",
+    "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
+    "url": "https://github.com/r-lib/sparsevctrs"
+  },
+  {
     "package": "styler",
     "maintainer": "Lorenz Walthert <lorenz.walthert@icloud.com>",
     "url": "https://github.com/r-lib/styler"

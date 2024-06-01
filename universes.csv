@@ -3389,7 +3389,6 @@ concordancer,troyjcross
 ConcordanceTest,cran
 concordexR,bioc
 concorR,atraxlab
-concrete,imbroglio-dc
 concstats,ropensci
 CONCUR,sth1402
 cond,arbrazzale
@@ -4935,6 +4934,7 @@ dlim,ddemateis
 DLL,zijguo
 dlm,gpetris
 DLMtool,cran
+dlmtree,danielmork
 dlnm,gasparrini
 dlookr,choonghyunryu
 DLPCA,guangbaog
@@ -7570,6 +7570,7 @@ GenVisR,bioc
 GenWin,timbeissinger
 GeoAdjust,cran
 geoAr,politicaargentina
+geoarrow,geoarrow
 geoBayes,cran
 geobr,rafapereirabr
 geocacheR,alunhewinson
@@ -12785,6 +12786,7 @@ mStats,myominnoo
 mstclustering,kmfrick
 mstDIF,cran
 mSTEM,cran
+MSTest,roga11
 mstherm,jvolkening
 mstknnclust,jorgeklz
 mstR,cran
@@ -13688,6 +13690,7 @@ nsarfima,cran
 nscancor,chrsigg
 NScluster,cran
 nse,keblu
+nseq,rfsaldanha
 nser,nandp1
 nseval,crowding
 nsga2R,alan9956
@@ -14893,6 +14896,7 @@ phuassess,cran
 PhViD,cran
 phyclust,snoweye
 phyext2,johnrstevens
+phylepic,cidm-ph
 phylin,ptarroso
 phylobase,fmichonneau
 phylocanvas,zachcp
@@ -14925,7 +14929,7 @@ physiology,jackwasey
 PhySortR,timothystephens
 phytoclass,andymckenziefromnz
 phytools,liamrevell
-PhytosanitaryCalculator,cran
+PhytosanitaryCalculator,grvisei
 piano,bioc
 piar,marberts
 picante,skembel
@@ -15966,6 +15970,7 @@ qfasar,bromaghin
 QFeatures,bioc
 qfratio,watanabe-j
 QFRM,omelnikov
+QGA,barcaroli
 qgam,mfasiolo
 QGameTheory,indrag49
 qGaussian,wagnerufs
@@ -18903,10 +18908,12 @@ seecolor,lovestat
 SeedCalc,laerciojuniosilva
 seedCCA,cran
 seededlda,koheiw
+SeedImbibition,cran
 SeedMatchR,tacazares
 seedr,efernandezpascual
 seedreg,agronomiar
 seeds,newmi1988
+SeedVigorIndex,cran
 seeker,hugheylab
 seer,thiyangt
 SEERaBomb,radivot
@@ -20024,6 +20031,7 @@ sparseSVM,cy-dev
 SparseTSCGM,cran
 sparsevar,svazzole
 sparsevb,cran
+sparsevctrs,r-lib
 SparseVFC,sciurus365
 sparsio,rexyai
 sparta,mlindsk
@@ -23259,6 +23267,7 @@ zendeskR,tcash21
 zendown,rfsaldanha
 zenith,bioc
 zenplots,great-northern-diver
+zenstats,rfsaldanha
 zeroEQpart,djrichar92
 zerotradeflow,alexandreloures
 zetadiv,cran
