@@ -15,6 +15,11 @@
     "url": "https://github.com/ohdsi/cohortalgebra"
   },
   {
+    "package": "CohortConstructor",
+    "maintainer": "Edward Burn <edward.burn@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/cohortconstructor"
+  },
+  {
     "package": "CohortExplorer",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
     "url": "https://github.com/ohdsi/cohortexplorer"

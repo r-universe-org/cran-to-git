@@ -2,12 +2,14 @@
   {
     "package": "CohortCharacteristics",
     "maintainer": "Marti Catala <marti.catalasabate@ndorms.ox.ac.uk>",
-    "url": "https://github.com/darwin-eu-dev/cohortcharacteristics"
+    "url": "https://github.com/darwin-eu-dev/cohortcharacteristics",
+    "registry": "archived"
   },
   {
     "package": "DrugUtilisation",
     "maintainer": "Marti Catala <marti.catalasabate@ndorms.ox.ac.uk>",
-    "url": "https://github.com/darwin-eu-dev/drugutilisation"
+    "url": "https://github.com/darwin-eu-dev/drugutilisation",
+    "registry": "archived"
   },
   {
     "package": "omopgenerics",
