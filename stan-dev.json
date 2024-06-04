@@ -20,6 +20,12 @@
     "url": "https://github.com/stan-dev/projpred"
   },
   {
+    "package": "rstan",
+    "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
+    "url": "https://github.com/stan-dev/rstan",
+    "subdir": "rstan/rstan"
+  },
+  {
     "package": "rstanarm",
     "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
     "url": "https://github.com/stan-dev/rstanarm"

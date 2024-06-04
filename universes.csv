@@ -952,6 +952,7 @@ AutoScore,nliulab
 autoScorecard,aughunter
 Autoseed,jaredrecords
 autoshiny,alekrutkowski
+autostats,harrison4192
 AutoStepwiseGLM,cran
 autostsm,hubbardalex
 autotest,ropensci
@@ -1040,6 +1041,7 @@ BADER,bioc
 badgen,jeroen
 badger,guangchuangyu
 BadRegionFinder,bioc
+baf,christopherkenny
 baffle,j-moravec
 bagged.outliertrees,rafajpsantos
 baggr,wwiecek
@@ -1195,6 +1197,7 @@ BayesDissolution,tpourmohamad
 bayesdistreg,cran
 BayesDLMfMRI,johnatanlab
 bayesDP,graemeleehickey
+bayesEO,e-sensing
 BayesESS,github-js
 BayesFactor,richarddmorey
 BayesFBHborrow,cran
@@ -1599,6 +1602,7 @@ Binarize,hkestler
 BinarybalancedCut,navinkumarnedunchezhian
 BinaryDosage,jimb3
 BinaryEMVS,john-snyder
+BinaryEPPM,cran
 binaryGP,chihli
 binaryMM,chiaradg
 binb,eddelbuettel
@@ -3188,6 +3192,7 @@ codename,svmiller
 codep,guenardg
 coder,ropensci
 codetools,ltierney
+codewhere,thisisnic
 CODEX,bioc
 codexcopd,aminadibi
 codez,cran
@@ -3217,11 +3222,13 @@ coGPS,bioc
 CohensdpLibrary,dcousin3
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
+CohortCharacteristics,darwin-eu-dev
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,edward-burn
+CohortSymmetry,oxford-pharmacoepi
 cohorttools,jkhaukka
 coil,cnuge
 CoImp,cran
@@ -4979,6 +4986,7 @@ DNABarcodeCompatibility,bioc
 DNAcopy,bioc
 DNAfusion,bioc
 DNAmixturesLite,tgraversen
+DNAmotif,cran
 dnapath,tgrimes
 DNAseqtest,hasinurkhan
 DNAshapeR,bioc
@@ -7649,6 +7657,7 @@ geospark,harryprince
 geosphere,rspatial
 geospt,amsantac
 geosptdb,carlosm77
+geostan,connordonegan
 geostats,pvermees
 geostatsp,eborgnine
 GEOsubmission,bioc
@@ -9204,6 +9213,7 @@ hySpc.testthat,cbeleites
 hystar,daandejongen
 hysteresis,spencerm89
 hystReet,johannesfriedrich
+hytest,cran
 i18n,rich-iannone
 i2extras,reconverse
 IAcsSPCR,johnjsl7
@@ -9426,6 +9436,7 @@ iIneq,tfliaoui
 IIProductionUnknown,cran
 IIVpredictor,cran
 ijtiff,ropensci
+ilabelled,clewerenz
 illuminaio,bioc
 ILoReg,bioc
 ILS,mflores72000
@@ -10425,6 +10436,7 @@ lacrmr,ixpantia
 lactater,fmmattioni
 lactcurves,evastrucken
 lacunaritycovariance,kasselhingee
+lacunr,elliottsmeds
 LAD,fchianucci
 LadderFuelsR,olgaviedma
 laeken,aalfons
@@ -10440,6 +10452,7 @@ LakeMetabolizer,gleon
 lakemorpho,jhollist
 laketemps,gleon
 LAM,alexanderrobitzsch
+LaMa,cran
 lambda.r,cran
 lambdaTS,cran
 lambdr,mdneuzerling
@@ -11587,6 +11600,7 @@ MCPtests,cran
 mcr,cran
 mcradds,kaigu1990
 mcreplicate,christophergandrud
+mcrPioda,piodag
 MCS,cran
 mCSEA,bioc
 MCSim,cran
@@ -13280,6 +13294,7 @@ netClust,cran
 NetCluster,cran
 netcmc,cran
 netCoin,modesto-escobar
+netcom,langendorfr
 netcontrol,daklor
 NetCoupler,netcoupler
 netcox,ly129
@@ -16379,6 +16394,7 @@ randomizr,declaredesign
 randomLCA,kjbeath
 randomMachines,mateusmaiads
 randomNames,centerforassessment
+RandomProjectionTest,cran
 randomUniformForest,cran
 Randomuseragent,fangzhou-xie
 RandomWalkRestartMH,bioc
@@ -16450,6 +16466,7 @@ Rarity,farewe
 rarms,cbw1243
 rARPACK,yixuan
 Rarr,bioc
+RARtrials,yayayaoyaoyao
 RaschSampler,pmair78
 rasciidoc,fvafrcu
 rasclass,cran
@@ -18196,7 +18213,7 @@ RSSthemes,nrennie
 rstac,brazil-data-cube
 rstack,gaborcsardi
 rstackdeque,oneilsh
-rstan,cran
+rstan,stan-dev
 rstanarm,stan-dev
 rstanbdp,piodag
 rstanemax,yoshidk6
@@ -18479,6 +18496,7 @@ saeME,cran
 saemix,ecomets
 saeMSPE,exce1sior1008
 saens,alfrzlp
+saePseudo,darinhuwaidaa
 saeRobust,wahani
 saeSim,wahani
 saeTrafo,norawuerz
@@ -18615,6 +18633,7 @@ saws,cran
 sazedR,cran
 SBAGM,rrk4910
 SBCK,yrobink
+sbd,marcusrowcliffe
 sbde,cran
 SBdecomp,laylaparast
 sbfc,vkrakovna
@@ -18703,6 +18722,7 @@ scDblFinder,bioc
 scDD,bioc
 scDDboost,bioc
 scde,bioc
+scDECO,yenyiho-lab
 SCdeconR,liuy12
 scdensity,cran
 scDesign3,bioc
@@ -21207,6 +21227,7 @@ taylor,wjakethompson
 TaylorRussell,nwaller
 tayloRswift,asteves
 tbd,killingvectorfield
+tbea,gaballench
 TBEST,gsun2018
 TBFmultinomial,rachelhey
 tbl2xts,nicktz
@@ -21668,6 +21689,7 @@ tinkr,ropensci
 tinsel,nteetor
 tint,eddelbuettel
 tinter,sebdalgarno
+tinyarray,xjsun1221
 tinycodet,tony-aw
 tinylabels,mariusbarth
 tinyProject,francoisguillem
@@ -22482,6 +22504,7 @@ valr,rnabioco
 valse,cran
 valueEQ5D,sheejamk
 valuemap,curycu
+valueSetCompare,mathsinhealth
 VAM,cran
 vamc,my-jiang
 vampyr,cran
@@ -22713,6 +22736,7 @@ visvow,heeringa0
 visxhclust,rhenkin
 vita,cran
 vitae,mitchelloharawild
+vital,robjhyndman
 vitality,cran
 vivainsights,microsoft
 vivaldi,greshamlab

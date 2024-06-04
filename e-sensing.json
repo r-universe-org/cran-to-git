@@ -1,5 +1,10 @@
 [
   {
+    "package": "bayesEO",
+    "maintainer": "Gilberto Camara <gilberto.camara.inpe@gmail.com>",
+    "url": "https://github.com/e-sensing/bayeseo"
+  },
+  {
     "package": "Rwtss",
     "maintainer": "Felipe Souza <lipecaso@gmail.com>",
     "url": "https://github.com/e-sensing/rwtss"
