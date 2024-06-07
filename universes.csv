@@ -1179,7 +1179,6 @@ BayesBinMix,mqbssppe
 bayesbio,andymckenzie
 bayesboot,rasmusab
 BayesBP,cran
-bayesbr,pjoao266
 BayesCACE,formidify
 BayesCombo,stanlazic
 BayesComm,goldingn
@@ -1726,6 +1725,7 @@ BioPET,cran
 BioPETsurv,chengs94
 biopixR,brauckhoff
 bioPN,cran
+BioPred,cran
 BioProbability,cran
 BioQC,bioc
 bioRad,adokter
@@ -3055,6 +3055,7 @@ clusterSim,a-dudek-ue
 clusterStab,bioc
 ClusterStability,armadillouqam
 clustertend,kwstat
+ClusterVAR,aniebee
 ClustGeo,chavent
 clustifyr,bioc
 ClustImpute,o1iv3r
@@ -9192,6 +9193,7 @@ hydroTSM,hzambran
 hyfo,yuanchao-xu
 HyMETT,cpenn-usgs
 hypeR,bioc
+hyper.fit,asgr
 hyper2,robinhankin
 hyperbolicDEA,alexanderoe
 HyperbolicDist,dsco036
@@ -9405,6 +9407,7 @@ IFC,gitdemont
 ifCNVR,simcab-chu
 ifctools,lbraglia
 IFMCDM,a-dudek-ue
+ifo,m-muecke
 iForecast,cran
 IFP,pgprojects
 ifpd,mubarakfadhlul
@@ -9567,6 +9570,7 @@ indexthis,lrberge
 IndexWizard,johannesgeibel
 IndGenErrors,cran
 india,faosorios
+Indicator,cran
 indicspecies,emf-creaf
 indiedown,cynkra
 indirect,ghosack
@@ -11702,6 +11706,7 @@ meetupapi,zacdav
 mefa,psolymos
 mefa4,psolymos
 mefdind,eldafani
+MEFM,zerokgkg1368
 Mega2R,danieleweeks
 megadepth,bioc
 MEGENA,songw01
@@ -12285,6 +12290,7 @@ mlbplotR,camdenk
 mlbstats,pdwaggoner
 MLCIRTwithin,cran
 MLCM,cran
+MLCOPULA,cran
 MLDataR,statsgary
 mldr,fcharte
 mldr.datasets,fcharte
@@ -13046,6 +13052,7 @@ mvctm,denufl
 mvdalab,cran
 mvDFA,jpirmer
 mverse,mverseanalysis
+MVET,yeonseok-choi
 mvgam,nicholasjclark
 mvgb,swihart
 mvglmmRank,akarl46556
@@ -14256,7 +14263,7 @@ outForest,mayer79
 outlierensembles,sevvandi
 outliers,luqqe
 outliers.ts.oga,cran
-OutliersLearn,cran
+OutliersLearn,missiegobeats
 OutliersO3,impaug
 outliertree,david-cortes
 outreg,kota7
@@ -14499,7 +14506,7 @@ passport,alistaire47
 passt,johannes-titz
 password,enricoschumann
 PAST,bioc
-pastaPlot,cran
+pastaPlot,janpalnau
 pastclim,evolecolgroup
 pasteAsComment,stla
 pastecs,sciviews
@@ -17766,7 +17773,6 @@ robber,chabert-liddell
 robcbi,cran
 robCompositions,matthias-da
 robcor,paulsmirnov
-robcp,sgoerz
 roben,jrhub
 robeth,cran
 RobExtremes,r-forge
@@ -17932,6 +17938,7 @@ ROptEst,r-forge
 roptim,ypan1988
 ROptimus,sahakyanlab
 roptions,anuragagrawaal
+rOPTRAM,ropensci
 ROptSpace,kisungyou
 ROracle,rajendrapingte
 rorcid,ropensci-archive
@@ -18243,6 +18250,7 @@ rsubgroup,atzmueller
 Rsubread,bioc
 rsurface,cran
 Rsurrogate,laylaparast
+rsurv,fndemarqui
 RSurveillance,rostats
 rsurveycto,agency-fund
 rsvd,erichson
@@ -18491,7 +18499,7 @@ sae.prop,mrijalussholihin
 sae2,cran
 saeBest,sheerinda
 saebnocov,fika-fianda
-saeczi,joshyam-k
+saeczi,harvard-ufds
 saeeb,ikiii
 saeHB,zazaperwira
 saeHB.ME,cran
