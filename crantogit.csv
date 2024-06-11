@@ -439,6 +439,7 @@ arrApply,https://github.com/sgsokol/arrapply,,
 arrayhelpers,https://github.com/r-forge/arrayhelpers,pkg,
 arrayQualityMetrics,https://github.com/grimbough/arrayqualitymetrics,,bioc
 arrow,https://github.com/apache/arrow,r,
+arrowheadr,https://github.com/wjschne/arrowheadr,,
 arse,https://github.com/nr3xe/arse,,
 arsenal,https://github.com/mayoverse/arsenal,,
 arthistory,https://github.com/saralemus7/arthistory,,
@@ -475,12 +476,6 @@ asremlPlus,https://github.com/briencj/asremlplus,,
 assert,https://github.com/olivierbinette/assert,,
 assertable,https://github.com/gnguy/assertable,,
 assertions,https://github.com/selkamand/assertions,,
-assertive.base,https://bitbucket.org/richierocks/assertive.base,,archived
-assertive.files,https://bitbucket.org/richierocks/assertive.files,,archived
-assertive.matrices,https://bitbucket.org/richierocks/assertive.matrices,,archived
-assertive.models,https://bitbucket.org/richierocks/assertive.models,,archived
-assertive.numbers,https://bitbucket.org/richierocks/assertive.numbers,,archived
-assertive.sets,https://bitbucket.org/richierocks/assertive.sets,,archived
 assertr,https://github.com/tonyfischetti/assertr,,
 assertthat,https://github.com/hadley/assertthat,,
 assessor,https://github.com/jhlee1408/assessor,,
@@ -1403,7 +1398,7 @@ CaseBasedReasoning,https://github.com/sipemu/case-based-reasoning,,
 cases,https://github.com/maxwestphal/cases,,
 casino,https://github.com/anthonypileggi/casino,,
 casper,https://github.com/davidrusi/casper,,bioc
-cassandRa,https://github.com/jcdterry/cassandra,,archived
+cassandRa,https://github.com/jcdterry/cassandra,,
 cassowaryr,https://github.com/numbats/cassowaryr,,
 CAST,https://github.com/hannameyer/cast,,
 cat2cat,https://github.com/polkas/cat2cat,,
@@ -2857,7 +2852,6 @@ discordant,https://github.com/siskac/discordant,,bioc
 DiscoRhythm,https://github.com/matthewcarlucci/discorhythm,,bioc
 DiSCos,https://github.com/davidvandijcke/discos,,
 discourseGT,https://github.com/q1cui/discoursegt,,
-discretecdAlgorithm,https://github.com/gujyjean/discretecdalgorithm,,archived
 DiscreteDatasets,https://github.com/disohda/discretedatasets,,
 DiscreteFDR,https://github.com/disohda/discretefdr,,
 discretefit,https://github.com/josh-mc/discretefit,,
@@ -3426,7 +3420,6 @@ ensembldb,https://github.com/jorainer/ensembldb,,bioc
 ensembleR,https://github.com/sauravkaushik8/ensembler,,
 enshuman,https://github.com/totajuliusd/enshuman,,
 ensr,https://github.com/dewittpe/ensr,,
-ensurer,https://github.com/smbache/ensurer,,archived
 entropart,https://github.com/ericmarcon/entropart,,
 entrymodels,https://github.com/gnjardim/entrymodels,,
 envalysis,https://github.com/zsteinmetz/envalysis,,
@@ -4475,7 +4468,7 @@ geocacheR,https://github.com/alunhewinson/geocacher,,
 geocausal,https://github.com/mmukaigawara/geocausal,,
 geocmeans,https://github.com/jeremygelb/geocmeans,,
 geodaData,https://github.com/spatialanalysis/geodadata,,
-geodata,https://github.com/rspatial/geodata,,archived
+geodata,https://github.com/rspatial/geodata,,
 GeoDiff,https://github.com/nanostring-biostats/geodiff,,bioc
 geodimension,https://github.com/josesamos/geodimension,,
 geodist,https://github.com/hypertidy/geodist,,
@@ -5162,6 +5155,7 @@ GWpcor,https://github.com/naru-t/gwpcor,,
 gwpcormapper,https://github.com/gwpcor/gwpcormapper,,
 gwrpvr,https://github.com/mfjoneill/gwrpvr,,
 GWSDAT,https://github.com/waynegitshell/gwsdat,,
+gwzinbr,https://github.com/jessicavasconcelos/gwzinbr,,
 GxEprs,https://github.com/dovinij/gxeprs,,
 gym,https://github.com/paulhendricks/gym-r,gym,
 gypsum,https://github.com/artifactdb/gypsum-r,,bioc
@@ -5589,6 +5583,7 @@ igraph,https://github.com/igraph/rigraph,,
 igraphdata,https://github.com/igraph/igraphdata,,
 igraphinshiny,https://github.com/mingjerli/igraphinshiny,,
 iGraphMatch,https://github.com/dpmcsuss/igraphmatch,,
+igraphwalshdata,https://github.com/benyamindsmith/igraphwalshdata,,
 igrf,https://github.com/bluegreen-labs/igrf,,
 igvR,https://github.com/gladkia/igvr,,bioc
 igvShiny,https://github.com/gladkia/igvshiny,,bioc
@@ -6010,6 +6005,7 @@ jsonNormalize,https://github.com/stla/jsonnormalize,,
 jsonStrings,https://github.com/stla/jsonstrings,,
 jsonvalidate,https://github.com/ropensci/jsonvalidate,,
 jstable,https://github.com/jinseob2kim/jstable,,
+jstager,https://github.com/takeshinishimura/jstager,,
 jstor,https://github.com/ropensci/jstor,,
 jsTree,https://github.com/yonicd/jstree,,
 jsTreeR,https://github.com/stla/jstreer,,
@@ -6184,6 +6180,7 @@ Lahman,https://github.com/cdalzell/lahman,,
 LakeMetabolizer,https://github.com/gleon/lakemetabolizer,,
 lakemorpho,https://github.com/jhollist/lakemorpho,,
 laketemps,https://github.com/gleon/laketemps,,
+lakhesis,https://github.com/scollinselliott/lakhesis,,
 LAM,https://github.com/alexanderrobitzsch/lam,,
 lambdr,https://github.com/mdneuzerling/lambdr,,
 LambertW,https://github.com/gmgeorg/lambertw,,
@@ -6715,7 +6712,6 @@ margaret,https://github.com/coreofscience/margaret,,
 marginaleffects,https://github.com/vincentarelbundock/marginaleffects,,
 marginalizedRisk,https://github.com/youyifong/marginalizedrisk,,
 MarginalMediation,https://github.com/tysonstanley/marginalmediation,,
-margins,https://github.com/leeper/margins,,archived
 mark,https://github.com/jmbarbone/mark,,
 markdown,https://github.com/rstudio/markdown,,
 markdownInput,https://github.com/juliendiot42/markdowninput,,
@@ -7066,7 +7062,6 @@ mHMMbayes,https://github.com/emmekeaarts/mhmmbayes,,
 Mhorseshoe,https://github.com/rkdalsrl1511/mhorseshoe,,
 MHTdiscrete,https://github.com/allenzhuaz/mhtdiscrete,,
 MHTmult,https://github.com/allenzhuaz/mhtmult,,
-mhurdle,https://github.com/ycroissant/mhurdle,,archived
 mi4p,https://github.com/mariechion/mi4p,,
 mia,https://github.com/microbiome/mia,,bioc
 MIAmaxent,https://github.com/julienvollering/miamaxent,,
@@ -7769,6 +7764,7 @@ nbTransmission,https://github.com/sarahleavitt/nbtransmission,,
 nc,https://github.com/tdhock/nc,,
 NCC,https://github.com/pavlakrotka/ncc,,
 ncdf4.helpers,https://github.com/pacificclimate/ncdf4.helpers,,
+ncdfCF,https://github.com/pvanlaake/ncdfcf,,
 ncdfgeom,https://github.com/doi-usgs/ncdfgeom,,
 ncdump,https://github.com/hypertidy/ncdump,,
 ncf,https://github.com/objornstad/ncf,,
@@ -9439,6 +9435,7 @@ qicharts2,https://github.com/anhoej/qicharts2,,
 qif,https://github.com/umich-biostatistics/qif,,
 qiitr,https://github.com/yutannihilation/qiitr,,
 qlcal,https://github.com/qlcal/qlcal-r,,
+qlcData,https://github.com/cysouw/qlcdata,,
 qlcMatrix,https://github.com/cysouw/qlcmatrix,,
 qlcVisualize,https://github.com/cysouw/qlcvisualize,,archived
 QLearning,https://github.com/labressler/qlearning,,
@@ -11434,7 +11431,6 @@ set,https://github.com/yikeshu0611/set,,
 setartree,https://github.com/rakshitha123/setartree,setartree,
 SEtools,https://github.com/plger/setools,,bioc
 setRNG,https://github.com/r-forge/distr,pkg/setRNG,
-setter,https://bitbucket.org/richierocks/setter,,archived
 settings,https://github.com/markvanderloo/settings,pkg,
 Seurat,https://github.com/satijalab/seurat,,
 SeuratObject,https://github.com/satijalab/seurat-object,,
@@ -11995,7 +11991,6 @@ sparrow,https://github.com/lianos/sparrow,,bioc
 sparrpowR,https://github.com/machiela-lab/sparrpowr,,
 SparseArray,https://github.com/bioconductor/sparsearray,,bioc
 SparseBiplots,https://github.com/mitzicubillamontilla/sparsebiplots,,
-sparsebnUtils,https://github.com/itsrainingdata/sparsebnutils,,archived
 SparseChol,https://github.com/samuel-watson/sparsechol,,
 sparseCov,https://github.com/chexjiang/sparsecov,,
 sparsediscrim,https://github.com/topepo/sparsediscrim,,

@@ -1,41 +1,5 @@
 [
   {
-    "package": "assertive.base",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.base",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.files",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.files",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.matrices",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.matrices",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.models",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.models",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.numbers",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.numbers",
-    "registry": "archived"
-  },
-  {
-    "package": "assertive.sets",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/assertive.sets",
-    "registry": "archived"
-  },
-  {
     "package": "learningr",
     "maintainer": "Richie Cotton <richierocks@gmail.com>",
     "url": "https://github.com/richierocks/learningr"
@@ -64,12 +28,6 @@
     "package": "rebus.unicode",
     "maintainer": "Richard Cotton <richierocks@gmail.com>",
     "url": "https://github.com/richierocks/rebus.unicode"
-  },
-  {
-    "package": "setter",
-    "maintainer": "Richard Cotton <richierocks@gmail.com>",
-    "url": "https://bitbucket.org/richierocks/setter",
-    "registry": "archived"
   },
   {
     "package": "sig",

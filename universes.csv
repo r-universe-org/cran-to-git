@@ -767,6 +767,7 @@ arrayQuality,bioc
 arrayQualityMetrics,bioc
 ARRmNormalization,bioc
 arrow,apache
+arrowheadr,wjschne
 ars,cran
 arse,nr3xe
 arsenal,mayoverse
@@ -825,12 +826,6 @@ ASSA,extremestats
 assert,olivierbinette
 assertable,gnguy
 assertions,selkamand
-assertive.base,richierocks
-assertive.files,richierocks
-assertive.matrices,richierocks
-assertive.models,richierocks
-assertive.numbers,richierocks
-assertive.sets,richierocks
 assertr,ropensci
 assertthat,hadley
 assessor,jhlee1408
@@ -1328,6 +1323,7 @@ bc3net,bio-complexity
 BCA1SG,cran
 bcaboot,bnaras
 BCBCSF,cran
+bcc,danielucas28
 BCC1997,cran
 BCClong,zhiwent
 bccp,mahditeimouri
@@ -3023,7 +3019,6 @@ ClustAssess,core-bioinformatics
 ClustBlock,cran
 clustComp,bioc
 ClusTCR2,cran
-clustDRM,vahidnassiri
 clustEff,gianluca-sottile
 cluster,mmaechler
 cluster.datasets,cran
@@ -4844,7 +4839,6 @@ DiSCos,davidvandijcke
 discourseGT,q1cui
 discoveR,cran
 discoverableresearch,cran
-discretecdAlgorithm,gujyjean
 DiscreteDatasets,disohda
 DiscreteFDR,disohda
 discretefit,josh-mc
@@ -5197,7 +5191,6 @@ DSBayes,rvaradhan
 dscore,d-score
 dsdp,tsuchiya-lab
 dsem,james-thorson-noaa
-dsfa,rouvenschmidt1337
 DSI,datashield
 dsims,distancedevelopment
 DSjobtracker,thiyangt
@@ -5590,7 +5583,6 @@ EffectTreat,wimvde001
 EfficientMaxEigenpair,mxjki
 efflog,gloriagheno
 effsize,mtorchiano
-efreadr,cran
 eFRED,cmann3
 EFS,cran
 ega,cran
@@ -5801,7 +5793,6 @@ ensembleR,sauravkaushik8
 ensembleTax,cran
 enshuman,totajuliusd
 ensr,dewittpe
-ensurer,smbache
 entropart,ericmarcon
 EntropicStatistics,cran
 entropy,cran
@@ -8183,6 +8174,7 @@ gms,pik-piam
 GMSE,confoobio
 GMSimpute,qianli10000
 gmt,arni-magnusson
+gmtFD,ls-git-17
 gmvarkit,saviviro
 gmvjoint,jamesmurray7
 gmwmx,lionelvoirol
@@ -8642,6 +8634,7 @@ gwrpvr,mfjoneill
 gwrr,dcwheels
 GWSDAT,waynegitshell
 GWsignif,changjianggithub
+gwzinbr,jessicavasconcelos
 GxEprs,dovinij
 GxEScanR,jimb3
 gym,paulhendricks
@@ -9332,6 +9325,7 @@ icmm,vitara-p
 iCNV,bioc
 iCOBRA,bioc
 ICODS,sth1402
+ICompELM,cran
 icosa,adamkocsis
 icpsrdata,fsolt
 icr,staudtlex
@@ -9432,6 +9426,7 @@ igraphdata,igraph
 igraphinshiny,mingjerli
 iGraphMatch,dpmcsuss
 igraphtosonia,cran
+igraphwalshdata,benyamindsmith
 igrf,bluegreen-labs
 iGSEA,luwt
 IGST,nitzzzzzzz
@@ -9923,7 +9918,6 @@ IsoCorrectoRGUI,bioc
 isocountry,m-muecke
 isodistrreg,alexanderhenzi
 IsoformSwitchAnalyzeR,bioc
-IsoGene,cran
 isogeochem,davidbajnai
 isokernel,zhuye88
 ISoLDE,bioc
@@ -10149,6 +10143,7 @@ jsonStrings,stla
 jsonvalidate,ropensci
 JSparO,cran
 jstable,jinseob2kim
+jstager,takeshinishimura
 jstor,ropensci
 jsTree,yonicd
 jsTreeR,stla
@@ -10464,6 +10459,7 @@ LAIr,fchianucci
 LakeMetabolizer,gleon
 lakemorpho,jhollist
 laketemps,gleon
+lakhesis,scollinselliott
 LAM,alexanderrobitzsch
 LaMa,janoleko
 lambda.r,cran
@@ -11367,7 +11363,6 @@ MargCond,cran
 marginaleffects,vincentarelbundock
 marginalizedRisk,youyifong
 MarginalMediation,tysonstanley
-margins,leeper
 marima,cran
 mariner,bioc
 mark,jmbarbone
@@ -11994,7 +11989,6 @@ mhtboot,abhirupkgp
 MHTdiscrete,allenzhuaz
 MHTmult,allenzhuaz
 MHTrajectoryR,masedki
-mhurdle,ycroissant
 mi,cran
 mi4p,mariechion
 mia,bioc
@@ -13232,6 +13226,7 @@ ncbit,eastman
 NCC,pavlakrotka
 ncdf4,davidwpierce
 ncdf4.helpers,pacificclimate
+ncdfCF,pvanlaake
 ncdfFlow,bioc
 ncdfgeom,doi-usgs
 ncdump,hypertidy
@@ -13617,7 +13612,6 @@ nondetects,bioc
 nonet,gslabdev
 nonLinearDotPlot,sorendoring
 nonlinearICP,christinaheinze
-NonlinearRDD,cran
 NonlinearTSA,cran
 nonlinearTseries,constantino-garcia
 nonmem2R,cran
@@ -15540,6 +15534,7 @@ predictMe,mmiche
 predictmeans,dongwenluo
 predictNMB,ropensci
 predictoR,promidat
+PredictorSelect,cran
 predictrace,jacobkap
 predicts,rspatial
 predieval,esm-ispm-unibe-ch
@@ -16053,6 +16048,7 @@ Qindex,tingtingzhan
 Qindex.data,tingtingzhan
 qkerntool,yusenzhang
 qlcal,qlcal
+qlcData,cysouw
 qlcMatrix,cysouw
 qlcVisualize,cysouw
 QLearning,labressler
@@ -18181,6 +18177,7 @@ RSGHB,rsginc
 rSHAPE,jdench
 rshift,alexhroom
 rsi,permian-global-research
+rsides,cran
 RSiena,stocnet
 RsimMosaic,algolkm
 rsimsum,ellessenne
@@ -19178,7 +19175,6 @@ SetMethods,cran
 SEtools,bioc
 setRNG,r-forge
 sets,cran
-setter,richierocks
 SetTest,wpihongzhang
 settings,markvanderloo
 Seurat,satijalab
@@ -20069,7 +20065,6 @@ sparrpowR,machiela-lab
 SparseArray,bioc
 sparseBC,cran
 SparseBiplots,mitzicubillamontilla
-sparsebnUtils,itsrainingdata
 SparseChol,samuel-watson
 sparseCov,chexjiang
 SparseDC,cran
