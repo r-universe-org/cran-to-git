@@ -1430,6 +1430,12 @@
     "registry": "bioc"
   },
   {
+    "package": "broadSeq",
+    "maintainer": "Rishi Das Roy <rishi.dasroy@gmail.com>",
+    "url": "https://github.com/dasroy/broadseq",
+    "registry": "bioc"
+  },
+  {
     "package": "BrowserViz",
     "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
     "url": "https://github.com/gladkia/browserviz",
@@ -3081,6 +3087,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DeepTarget",
+    "maintainer": "Trinh Nguyen <tinh.nguyen@nih.gov>",
+    "url": "https://git.bioconductor.org/packages/DeepTarget",
+    "registry": "bioc"
+  },
+  {
     "package": "DEFormats",
     "maintainer": "Andrzej Oleś <andrzej.oles@gmail.com>",
     "url": "https://github.com/aoles/deformats",
@@ -4437,6 +4449,12 @@
     "registry": "bioc"
   },
   {
+    "package": "funOmics",
+    "maintainer": "Elisa Gomez de Lope <elisa.gomezdelope@uni.lu>",
+    "url": "https://github.com/elisagdelope/funomics",
+    "registry": "bioc"
+  },
+  {
     "package": "funtooNorm",
     "maintainer": "Kathleen Klein <kathleen.klein@mail.mcgill.ca>",
     "url": "https://git.bioconductor.org/packages/funtooNorm",
@@ -5016,6 +5034,12 @@
     "package": "ggsc",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/ggsc",
+    "registry": "bioc"
+  },
+  {
+    "package": "ggseqalign",
+    "maintainer": "Simeon Lim Rossmann <simeon.rossmann@nmbu.no>",
+    "url": "https://github.com/simeross/ggseqalign",
     "registry": "bioc"
   },
   {
@@ -7746,6 +7770,12 @@
     "package": "MouseFM",
     "maintainer": "Matthias Munz <matthias.munz@gmx.de>",
     "url": "https://github.com/matmu/mousefm",
+    "registry": "bioc"
+  },
+  {
+    "package": "MPAC",
+    "maintainer": "Peng Liu <wrk.smnr+bioconductor@gmail.com>",
+    "url": "https://github.com/pliu55/mpac",
     "registry": "bioc"
   },
   {
@@ -13388,6 +13418,12 @@
     "package": "zinbwave",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
     "url": "https://github.com/drisso/zinbwave",
+    "registry": "bioc"
+  },
+  {
+    "package": "zitools",
+    "maintainer": "Carlotta Meyring <carlotta.meyring@uniklinik-freiburg.de>",
+    "url": "https://github.com/kreutz-lab/zitools",
     "registry": "bioc"
   },
   {

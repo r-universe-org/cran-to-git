@@ -1,5 +1,10 @@
 [
   {
+    "package": "birdie",
+    "maintainer": "Cory McCartan <mccartan@psu.edu>",
+    "url": "https://github.com/corymccartan/birdie"
+  },
+  {
     "package": "conformalbayes",
     "maintainer": "Cory McCartan <cmccartan@g.harvard.edu>",
     "url": "https://github.com/corymccartan/conformalbayes"

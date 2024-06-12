@@ -1758,6 +1758,7 @@ bipl5,ruanbuys
 biplotbootGUI,ananieto
 biplotEZ,muvisu
 birankr,brianaronson
+birdie,corymccartan
 birdring,cran
 birdscanR,birdscancommunity
 birdsize,ropensci
@@ -2075,6 +2076,7 @@ brms,paul-buerkner
 brms.mmrm,openpharma
 brmsmargins,jwiley
 brnn,cran
+broadSeq,bioc
 Brobdingnag,robinhankin
 BrokenAdaptiveRidge,msuchard
 brokenstick,growthcharts
@@ -2422,6 +2424,7 @@ caTools,coffeemuggler
 CatPredi,ibarrioberaza
 catR,huacheng1985
 CatReg,cran
+catregs,dmmelamed
 cats,el-meyer
 catseyes,cran
 catsim,gzt
@@ -3257,6 +3260,7 @@ colmozzie,thiyangt
 coloc,chr1swallace
 colocalization,hughzhangcn
 colocalized,stefangolas
+colocPropTest,cran
 colocr,ropensci
 colorblindcheck,nowosad
 colorBlindness,jianhong
@@ -4451,6 +4455,7 @@ deepredeff,ruthkr
 deepregression,druegamer
 deepRstudio,kumes
 deepSNV,bioc
+DeepTarget,bioc
 deeptime,willgearty
 deeptrafo,lucaskook
 DEET,dustinsokolowski
@@ -7023,7 +7028,6 @@ Fragman,cran
 frailtyEM,tbalan
 frailtyHL,msnoh1
 frailtyMMpen,heilokchow
-frailtypack,cran
 frailtySurv,vmonaco
 frair,dpritchard
 framecleaner,harrison4192
@@ -7161,6 +7165,7 @@ funModeling,pablo14
 funneljoin,robinsones
 FunnelPlotR,nhs-r-community
 funnelR,mattkumar
+funOmics,bioc
 funpca,lfrm
 funprog,py-b
 funr,sahilseth
@@ -7918,6 +7923,7 @@ ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
 ggseg3d,ggseg
+ggseqalign,bioc
 ggseqlogo,omarwagih
 ggseqplot,maraab23
 ggshadow,marcmenem
@@ -9569,7 +9575,7 @@ indexthis,lrberge
 IndexWizard,johannesgeibel
 IndGenErrors,cran
 india,faosorios
-Indicator,cran
+Indicator,gianmarcoborrata
 indicspecies,emf-creaf
 indiedown,cynkra
 indirect,ghosack
@@ -10659,7 +10665,7 @@ lemon,stefanedwards
 lemur,bioc
 lenght,cobrbra
 lenses,cfhammill
-leontief,pachamaltese
+leontief,pachadotdev
 leprechaun,cran
 leptokurticMixture,rpbrowne
 lero.lero,lucasprocessi
@@ -11614,6 +11620,7 @@ MCS,cran
 mCSEA,bioc
 MCSim,cran
 mcStats,mczek
+mcstatsim,ielbadisy
 mctest,itfeature
 mctq,ropensci
 MCTrend,alobondo
@@ -12600,7 +12607,7 @@ morphomap,aprofico
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morrowplots,sandical
-morse,cran
+morse,virgile-baudrot
 mort,rosieluain
 mortAAR,isaakiel
 MortalityGaps,mpascariu
@@ -12649,6 +12656,7 @@ moveWindSpeed,bart1
 movieROC,cran
 movMF,kurthornik
 mp,fatore
+MPAC,bioc
 mpae,rubenfcasal
 mpath,zhuwang46
 mpathsenser,koenniem
@@ -12933,6 +12941,7 @@ MultiKink,chuangwan1994
 multilaterals,edoardobaldoni
 MultiLCIRT,cran
 multilevel,cran
+multilevelcoda,florale
 multilevelmediation,falkcarl
 multilevelmod,tidymodels
 multilevelPSA,jbryer
@@ -13772,6 +13781,7 @@ nuggets,beerda
 nullabor,dicook
 nullranges,bioc
 numbat,kharchenkolab
+numberize,epiverse-trace
 numberofalleles,mkruijver
 numbers,hwborchers
 numbersBR,wilsonfreitas
@@ -14677,7 +14687,6 @@ PDShiny,kartikeyabolar
 pdSpecEst,jorischau
 pdt,janhoutveen
 PDtoolkit,andrija-djurovic
-PDXpower,shanpengli
 pdxTrees,mcconvil
 pdynmc,markusfritsch
 peacesciencer,svmiller
@@ -15464,6 +15473,7 @@ ppdiag,owenward
 ppendemic,paulesantos
 PPforest,natydasilva
 ppgam,byoungman
+ppgm,cran
 ppgmmga,luca-scr
 PPInfer,bioc
 ppitables,katilingban
@@ -15527,7 +15537,7 @@ predhy,yangxu89
 predhy.GUI,cran
 predict3d,cardiomoon
 PredictABEL,suman762
-prediction,leeper
+prediction,bbolker
 predictionInterval,dstanley4
 PredictionR,cran
 predictMe,mmiche
@@ -17391,7 +17401,7 @@ rGroovy,thospfuller
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
-rgTest,cran
+rgTest,luobo9
 rgtmx,rrmn
 rgugik,kadyb
 rGV,cran
@@ -17995,7 +18005,7 @@ rpart,bethatkinson
 rpart.LAD,sdlugosz
 rpart.plot,stephenmilborrow
 rpartScore,cran
-rPBK,cran
+rPBK,virgile-baudrot
 rpca,macieksk
 Rpdb,discoleo
 rPDBapi,cran
@@ -19954,6 +19964,7 @@ SoilHyP,ullid
 soilhypfit,cran
 soilphysics,arsilva87
 SoilR,crlsierra
+SoilSaltIndex,cran
 SoilTaxonomy,ncss-tech
 soiltestcorr,adriancorrendo
 SoilTesting,bappa10085
@@ -22537,6 +22548,7 @@ vannstats,cran
 vanquish,lethargy608
 vapour,hypertidy
 VAR.etp,jh8080
+VAR.spec,cran
 varband,hugogogo
 varbin,safai
 varbvs,pcarbo
@@ -22837,7 +22849,7 @@ VulnToolkit,troyhill
 VUROCS,cran
 vvauditor,tin900
 vvcanvas,vusaverse
-vvconverter,tin900
+vvconverter,vusaverse
 vvdoctor,vusaverse
 vvfiller,vusaverse
 vvmover,vusaverse
@@ -23381,6 +23393,7 @@ ZIPG,roulan2000
 zipR,leslie-huang
 ZIprop,melinar
 zipsae,dheel
+zitools,bioc
 ZLAvian,cdr-er
 zlib,gentleghostcoder
 zlibbioc,bioc
