@@ -1559,7 +1559,7 @@ BiGGR,bioc
 BIGL,openanalytics
 biglasso,pbreheny
 bigleaf,juergenknauer
-biglm,cran
+biglm,tslumley
 biglmm,markpurver
 bigMap,jgarriga65
 bigmatch,ruoqiyu
@@ -7390,7 +7390,6 @@ gcTensor,rikenbit
 gcxgclab,cran
 GD,cran
 GDAdata,impaug
-gdalBindings,caiohamamura
 gdalcubes,appelmar
 gdalraster,usdaforestservice
 gdalUtilities,joshobrien
@@ -14135,6 +14134,7 @@ OptionPricing,cran
 options,dgkf
 optionstrat,cran
 optiscale,cran
+optiSel,cran
 OptiSembleForecasting,yeasinstat
 optiSolve,cran
 optistock,cran
@@ -17043,7 +17043,6 @@ refugees,populationstatistics
 refund,refunders
 refund.shiny,refunders
 RegAssure,nrubiog
-regcensus,quantgov
 regclass,profpetrie
 RegCombin,cran
 regda,cran
@@ -17085,7 +17084,7 @@ regsem,rjacobucci
 regspec,cran
 regsplice,bioc
 regsubseq,diystat
-regtomean,cran
+regtomean,infinitomagico
 regtools,matloff
 regutools,bioc
 rehh,cran

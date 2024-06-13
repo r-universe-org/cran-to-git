@@ -1,5 +1,10 @@
 [
   {
+    "package": "biglm",
+    "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
+    "url": "https://github.com/cran/biglm"
+  },
+  {
     "package": "bigQF",
     "maintainer": "Thomas Lumley <t.lumley@auckland.ac.nz>",
     "url": "https://github.com/tslumley/bigqf"

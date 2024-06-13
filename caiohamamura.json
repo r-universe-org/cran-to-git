@@ -1,11 +1,5 @@
 [
   {
-    "package": "gdalBindings",
-    "maintainer": "Caio Hamamura <caiohamamura@gmail.com>",
-    "url": "https://github.com/caiohamamura/gdalbindings-r",
-    "registry": "archived"
-  },
-  {
     "package": "radarBoxplot",
     "maintainer": "Caio Hamamura <caiohamamura@gmail.com>",
     "url": "https://github.com/caiohamamura/radarboxplot-r"
