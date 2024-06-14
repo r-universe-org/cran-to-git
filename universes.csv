@@ -2364,7 +2364,7 @@ CARlasso,yunyishen
 CarletonStats,aloy
 Carlson,stla
 CARM,cran
-CARME,markgrama
+CARME,marcogramatica
 CARMS,jto888
 CARNIVAL,bioc
 caROC,ziyili20
@@ -4023,6 +4023,7 @@ CUMP,cran
 cumprinc,jcrichardson617
 cumSeg,vitomuggeo
 cumstats,cran
+cumulcalib,resplab
 cumulocityr,softwareag
 cuperdec,jfy133
 CuratedAtlasQueryR,bioc
@@ -4227,6 +4228,7 @@ dataCompareR,capitalone
 datacutr,barnett11
 datadictionary,doctorbjones
 datadogr,yutannihilation
+datadriftR,ugurdar
 DataEditR,dillonhammill
 DataExplorer,boxuancui
 DataFakeR,openpharma
@@ -8757,6 +8759,7 @@ HDCI,xinxuyale
 HDclassif,cran
 HDclust,cran
 HDcpDetect,natasha-stewart
+hdcuremodels,kelliejarcher
 HDCurves,cran
 hdd,cran
 HDDesign,cran
@@ -11368,6 +11371,7 @@ MargCond,cran
 marginaleffects,vincentarelbundock
 marginalizedRisk,youyifong
 MarginalMediation,tysonstanley
+margins,bbolker
 marima,cran
 mariner,bioc
 mark,jmbarbone
@@ -14630,6 +14634,7 @@ PCGII,haowang47
 PCGSE,cran
 pch,cran
 pchc,cran
+pci,samsemegne
 PCICt,jameshiebert
 pcIRT,christinehohensinn
 PCL,andrewyyp
@@ -15298,7 +15303,7 @@ PolarCAP,imehlhaff
 polaroid,jhk0530
 poLCA,dlinzer
 PolicyPortfolios,xfim
-policytree,grootci
+policytree,cran
 polimetrics,cran
 poliscidata,cran
 polished,tychobra
@@ -18282,6 +18287,7 @@ rt.test,statpnu
 rt3,johanjordaan
 rTableICC,haydarde
 rtables,insightsengineering
+Rtapas,mllaberia
 rtape,cran
 Rtauchen,davidzarruk
 RTaxometrics,cran
@@ -18588,6 +18594,7 @@ samplingin,choerulafifanto
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
+samplrData,lucas-castillo
 SAMprior,pengyang0411
 sampsizeval,mpavlou
 samr,tibshirani
@@ -18736,6 +18743,7 @@ SCBN,bioc
 scBSP,castleli
 scBubbletree,bioc
 scbursts,cran
+scCAN,cran
 scCATCH,zjufanlab
 scCB2,bioc
 sccca,mohmedsoudy
@@ -19186,6 +19194,7 @@ setRNG,r-forge
 sets,cran
 SetTest,wpihongzhang
 settings,markvanderloo
+settingsSync,notplancha
 Seurat,satijalab
 SeuratObject,satijalab
 sevenbridges,bioc
@@ -20343,7 +20352,7 @@ SplitSplitPlot,cran
 splitstackshape,mrdwab
 splitTools,mayer79
 splm,cran
-splmm,lyang19
+splmm,cran
 splot,miserman
 splots,bioc
 spls,valentint
@@ -20954,6 +20963,7 @@ surveybootstrap,dfeehan
 SurveyCC,cran
 surveyCV,colbystatsvyrsch
 surveydata,andrie
+SurveyDefense,cran
 surveyexplorer,liamhaller
 surveygraph,surveygraph
 surveyplanning,csblatvia
@@ -21128,6 +21138,7 @@ Synth,jankee2022
 synthACS,alexwhitworth
 synthesis,zejiang-unsw
 synthesisr,mjwestgate
+synthesizer,markvanderloo
 SynthETIC,agi-lab
 synthpop,bnowok
 SynthTools,charlotteloobyrti
@@ -22671,6 +22682,7 @@ versionsort,turtletopia
 VERSO,bioc
 versus,eutwt
 VertexSimilarity,cran
+VertexWiseR,cogbrainhealthlab
 VeryLargeIntegers,jleivacuadrado
 vesselr,jdwor
 vetiver,rstudio
