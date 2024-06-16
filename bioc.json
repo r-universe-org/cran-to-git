@@ -1225,6 +1225,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BioGA",
+    "maintainer": "Dany Mukesha <danymukesha@gmail.com>",
+    "url": "https://github.com/danymukesha/bioga",
+    "registry": "bioc"
+  },
+  {
     "package": "biomaRt",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
     "url": "https://github.com/grimbough/biomart",
@@ -11014,6 +11020,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scDotPlot",
+    "maintainer": "Benjamin I Laufer <blaufer@gmail.com>",
+    "url": "https://github.com/ben-laufer/scdotplot",
+    "registry": "bioc"
+  },
+  {
     "package": "scds",
     "maintainer": "Dennis Kostka <kostka@pitt.edu>",
     "url": "https://git.bioconductor.org/packages/scds",
@@ -12055,6 +12067,12 @@
     "package": "SQLDataFrame",
     "maintainer": "Qian Liu <Qian.Liu@RoswellPark.org>",
     "url": "https://github.com/bioconductor/sqldataframe",
+    "registry": "bioc"
+  },
+  {
+    "package": "squallms",
+    "maintainer": "William Kumler <wkumler@uw.edu>",
+    "url": "https://github.com/wkumler/squallms",
     "registry": "bioc"
   },
   {
