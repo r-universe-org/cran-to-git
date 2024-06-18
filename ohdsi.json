@@ -60,6 +60,11 @@
     "url": "https://github.com/ohdsi/featureextraction"
   },
   {
+    "package": "omock",
+    "maintainer": "Mike Du <mike.du@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/omock"
+  },
+  {
     "package": "ParallelLogger",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/parallellogger"

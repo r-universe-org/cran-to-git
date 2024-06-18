@@ -180,6 +180,7 @@ adehabitatHR,clementcalenge
 adehabitatHS,clementcalenge
 adehabitatLT,clementcalenge
 adehabitatMA,clementcalenge
+adelie,jamesyang007
 adephylo,adeverse
 adepro,bayer-group
 adept,martakarass
@@ -1928,6 +1929,7 @@ BoneProfileR,marc-girondot
 BonEV,dongmeili2017
 bonn,sumtxt
 bonsai,tidymodels
+bonsaiforest,insightsengineering
 boodist,stla
 bookdown,rstudio
 BoolFilter,levimcclenny
@@ -2915,6 +2917,7 @@ clean,msberends
 CleanBSequences,cran
 cleancall,r-lib
 cleandata,sherrisherry
+cleanepi,epiverse-trace
 cleaner,msberends
 cleangeo,eblondel
 CleaningValidation,chandlerxiandeyang
@@ -3000,6 +3003,7 @@ cloudUtil,cpanse
 clpm,cran
 clptheory,dbasu-umass
 clr,apierrot
+clrng,rryong
 CLSIEP15,cran
 clst,bioc
 clstutils,bioc
@@ -6492,6 +6496,7 @@ FCSlib,fcslib
 fctbases,naolsen
 fcuk,thinkr-open
 FCVAR,leemorinucf
+fCWTr,lschneiderbauer
 FD,elaliberte
 fda,jamesramsay5
 fda.usc,moviedo5
@@ -7283,18 +7288,18 @@ GameTheoryAllocation,cran
 gamlr,taddylab
 gamlss,gamlss-dev
 gamlss.add,gamlss-dev
-gamlss.cens,cran
+gamlss.cens,mstasinopoulos
 gamlss.countKinf,cran
-gamlss.data,cran
+gamlss.data,mstasinopoulos
 gamlss.demo,cran
 gamlss.dist,gamlss-dev
 gamlss.foreach,cran
 gamlss.ggplots,gamlss-dev
 gamlss.inf,cran
 gamlss.lasso,flziel
-gamlss.mx,cran
+gamlss.mx,mstasinopoulos
 gamlss.spatial,gamlss-dev
-gamlss.tr,cran
+gamlss.tr,mstasinopoulos
 gamlssbssn,cran
 gamm4,cran
 gamma,crp2a
@@ -7640,6 +7645,7 @@ geometa,eblondel
 GEOmetadb,bioc
 geometries,dcooley
 geometry,davidcsterratt
+geommc,vroys
 geomod,festus001
 GeoModels,vmoprojs
 GeoMongo,mlampros
@@ -11937,7 +11943,7 @@ mets,kkholst
 MetSizeR,kfinucane
 metsyn,paulponcet
 mev,lbelzile
-mevr,cran
+mevr,haraldschellander
 mewAvg,apintar
 MexBrewer,paezha
 mexhaz,cran
@@ -12006,6 +12012,7 @@ mhtboot,abhirupkgp
 MHTdiscrete,allenzhuaz
 MHTmult,allenzhuaz
 MHTrajectoryR,masedki
+mhurdle,ycroissant
 mi,cran
 mi4p,mariechion
 mia,bioc
@@ -12721,6 +12728,7 @@ mrct,cran
 mrds,distancedevelopment
 mreg,shug0131
 mregions,ropensci
+mregions2,ropensci
 mrf,quirinms
 mrf2d,freguglia
 MRFA,chihli
@@ -13965,7 +13973,7 @@ Omixer,bioc
 omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,bioc
-omock,oxford-pharmacoepi
+omock,ohdsi
 omopgenerics,darwin-eu-dev
 ompBAM,bioc
 ompr,dirkschumacher
@@ -19081,7 +19089,7 @@ SEMID,lucaweihs
 semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
-seminr,nicholasdanks
+seminr,sem-in-r
 SemiPar,cran
 SemiPar.depCens,nago2020
 semisup,bioc
@@ -20731,7 +20739,6 @@ stm,bstewart
 stmCorrViz,cran
 stmgp,uekim
 stmgui,dzangri
-stminsights,cschwem2er
 StMoMo,amvillegas
 StMoSim,matthiassalvisberg
 STMotif,heraldoborges
@@ -22374,9 +22381,11 @@ UKgrid,ramikrispin
 uklr,kvasilopoulos
 ukpolice,evanodell
 Ularcirc,bioc
+ulex,dime-worldbank
 ulid,eddelbuettel
 ulrb,pascoalf
 Ultimixt,cran
+ultrapolaRplot,cran
 umap,tkonopka
 Umatrix,cran
 umbridge,linusseelinger
