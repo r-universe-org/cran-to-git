@@ -336,13 +336,6 @@
     "subdir": "pkg/grImport2"
   },
   {
-    "package": "HistogramTools",
-    "maintainer": "Murray Stokely <murray@stokely.org>",
-    "url": "https://github.com/r-forge/histogramtools",
-    "subdir": "pkg",
-    "registry": "archived"
-  },
-  {
     "package": "isotone",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",

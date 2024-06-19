@@ -1,5 +1,10 @@
 [
   {
+    "package": "gmfamm",
+    "maintainer": "Alexander Volkmann <alexandervolkmann8@gmail.com>",
+    "url": "https://github.com/cran/gmfamm"
+  },
+  {
     "package": "MJMbamlss",
     "maintainer": "Alexander Volkmann <alexander.volkmann@hu-berlin.de>",
     "url": "https://github.com/alexvolkmann/mjmbamlss"
