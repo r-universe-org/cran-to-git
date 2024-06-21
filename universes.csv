@@ -3869,6 +3869,7 @@ crossdes,bbnkmp
 crosshap,jacobimarsh
 crosslag,curiousxx
 crossmap,rossellhayes
+crossmatch,cran
 crossmeta,bioc
 crossnma,htx-r
 Crossover,kornl
@@ -5385,8 +5386,10 @@ easyreporting,bioc
 easyRNASeq,bioc
 easySdcTable,statisticsnorway
 easystats,easystats
+easysurv,maple-health-group
 easySVG,ytdai
 easyVerification,jonasbhend
+easyWechat,cran
 eat,miriamesteve
 eatATA,beckerbenj
 eatDB,cran
@@ -8725,6 +8728,7 @@ hce,cran
 hchinamap,r-stata
 hcidata,henningpohl
 hclust1d,szymonnowakowski
+hclusteasy,tsukubai
 HCmodelSets,hhhelfer
 HCR,jie-qiao
 HCT,cran
@@ -10508,7 +10512,7 @@ LatticeDesign,cran
 latticeExtra,r-forge
 LatticeKrig,dnychka
 lava,kkholst
-lavaan,cran
+lavaan,yrosseel
 lavaan.shiny,kylehamilton
 lavaanExtra,rempsyc
 lavaanPlot,alishinski
@@ -12068,6 +12072,7 @@ miLAG,bognasmug
 mildsvm,skent259
 miLineage,cran
 miloR,bioc
+milorGWAS,cran
 milr,pingyangchen
 mimager,bioc
 mime,yihui
@@ -19313,6 +19318,7 @@ ShinyLink,yaoxiangli
 shinylive,posit-dev
 shinyloadtest,rstudio
 shinylogs,dreamrs
+shinyLottie,camhowitt
 shinyLP,jasdumas
 shinymanager,datastorm-open
 shinymaterial,ericrayanderson
@@ -20078,6 +20084,7 @@ spass,cran
 spate,cran
 SpatEntropy,cran
 SPAtest,cran
+SpatFD,cran
 SpatGC,mahsanst
 spatgeom,maikol-solis
 spatgraphs,antiphon
@@ -20514,7 +20521,7 @@ standardlastprofile,flrd
 standartox,andschar
 standby,rsquaredacademy
 standR,bioc
-StanHeaders,cran
+StanHeaders,stan-dev
 StanMoMo,kabarigou
 stantargets,ropensci
 stapler,muschellij2

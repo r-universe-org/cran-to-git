@@ -39,5 +39,11 @@
     "package": "shinystan",
     "maintainer": "Jonah Gabry <jsg2201@columbia.edu>",
     "url": "https://github.com/stan-dev/shinystan"
+  },
+  {
+    "package": "StanHeaders",
+    "maintainer": "Ben Goodrich <benjamin.goodrich@columbia.edu>",
+    "url": "https://github.com/stan-dev/rstan",
+    "subdir": "StanHeaders"
   }
 ]
