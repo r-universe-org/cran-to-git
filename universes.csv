@@ -3946,6 +3946,7 @@ csodata,csoireland
 cspec,cran
 cspp,caleblucas
 csppData,caleblucas
+csquares,pepijn-devries
 csranks,danielwilhelm
 CSSQ,bioc
 cssTools,denizyenigun
@@ -4044,6 +4045,7 @@ custom.gauss.quad,pvkabaila
 customCMPdb,bioc
 CustomDerivative,aim-it4
 CustomerScoringMetrics,koendebock
+customiser,jameslairdsmith
 customizedTraining,saberpowers
 customProDB,bioc
 CustosAscensor,iagomn
@@ -4196,6 +4198,7 @@ dartR.base,green-striped-gecko
 dartR.captive,green-striped-gecko
 dartR.data,green-striped-gecko
 dartR.popgen,green-striped-gecko
+dartR.sexlinked,cran
 dartR.sim,green-striped-gecko
 dartR.spatial,green-striped-gecko
 dartRverse,green-striped-gecko
@@ -7666,6 +7669,7 @@ GeoWeightedModel,javierdelahoz
 geozoo,schloerke
 gep2pep,bioc
 gepaf,mthh
+geppe,cran
 gerbil,michaelwrobbins
 GerminaR,flavjack
 germinationmetrics,aravind-j
@@ -9462,6 +9466,7 @@ imageviewer,yapus
 imaginator,casact
 imagine,luislaum
 IMak,blumworx
+imanr,cran
 IMAS,bioc
 imbalance,ncordon
 imbalanceDatRel,fatihsaglam
@@ -9617,6 +9622,7 @@ injurytools,lzumeta
 INLABMA,becarioprecario
 inlabru,inlabru-org
 INLAjoint,denisrustand
+inlamemi,emmaskarstein
 INLAspacetime,eliaskrainski
 inlcolor,jfisher-usgs
 inldata,jfisher-usgs
@@ -10023,6 +10029,7 @@ JATSdecoder,ingmarboeschen
 JavaGD,s-u
 Jaya,neerajdhanraj
 JBrowseR,gmod
+jcalendaR,indenkun
 jcext,noeliaof
 jcolors,jaredhuling
 jcp,cran
@@ -10150,6 +10157,7 @@ juicyjuice,rstudio
 Julia,msuzen
 JuliaCall,non-contradiction
 JuliaConnectoR,stefan-m-lenz
+JuliaFormulae,yjunechoe
 JUMP,cran
 junctions,thijsjanzen
 just.install,carlosyanez
@@ -10497,6 +10505,7 @@ LassoSIR,zhaozhg81
 latcontrol,cran
 latdiag,deweyme
 latenetwork,tkhdyanagi
+latent2likert,markolalovic
 latentcor,mingzehuang
 latentFactoR,alexchristensen
 latentgraph,cran
@@ -12085,7 +12094,7 @@ mimiSBM,kdesantiago
 MIMSunit,mhealthgroup
 mimsy,michelleckelly
 mina,bioc
-minb,cran
+minb,mingcongwu2024
 mind,andrea-fasulo
 MindOnStats,ajrgodfrey
 mineCitrus,cran
@@ -12096,6 +12105,7 @@ minerva,filosi
 mineSweepR,zhuxr11
 minet,bioc
 minfi,bioc
+minic,bertvanderveen
 miniCRAN,andrie
 minidown,atusy
 miniGUI,cran
@@ -14259,6 +14269,7 @@ overlap,mikemeredith
 overlapping,cran
 overlapptest,cran
 overture,kurtis-s
+overturemapsr,cran
 overviewR,cosimameyer
 OVESEG,bioc
 OVL.CI,albfranc
@@ -16095,6 +16106,7 @@ QSutils,bioc
 qsvaR,bioc
 qte,bcallaway11
 QTE.RD,jungmoyoon
+qtkit,qtalr
 qtl,kbroman
 QTL.gCIMapping,yuanmingzhang
 QTL.gCIMapping.GUI,yuanmingzhang
@@ -16591,6 +16603,7 @@ RCAS,bioc
 RCASPAR,bioc
 Rcatch22,hendersontrent
 RcausalEGM,teddy880
+rcausim,cran
 rCBA,jaroslav-kuchar
 rcbalance,cran
 rcbayes,jessieyeung
@@ -18316,6 +18329,7 @@ rts,babaknaimi
 rts2,samueliwatson
 RTSA,annelyng
 rtsdata,cran
+RtsEva,alowis
 Rtsne,jkrijthe
 rtson,tercen
 rtsplot,cran
@@ -18356,7 +18370,6 @@ ruODK,ropensci
 rusda,ropensci
 rush,mlr-org
 rusk,thinkr-open
-rusquant,arbuzovv
 rust,paulnorthrop
 rutifier,msantelices
 rutledge,ramiromagno
@@ -18512,6 +18525,7 @@ sAIC,cran
 SAIGEgds,bioc
 SailoR,cran
 SAiVE,uo-saive
+salad,cran
 SALES,knightgu
 salesforcer,stevenmmortimer
 salso,dbdahl
@@ -21970,6 +21984,8 @@ TreeSearch,ms609
 treeshap,modeloriented
 TreeSim,tanja819
 TreeSimGM,ohagen
+treesitter,davisvaughan
+treesitter.r,davisvaughan
 treesliceR,araujomat
 treespace,thibautjombart
 treestartr,ropensci
@@ -23247,7 +23263,7 @@ xutils,fangzhou-xie
 xVA,xvacode
 XVector,bioc
 xwf,willemvandenboom
-xxdi,coral-orca
+xxdi,nilabhrardas
 xxhashlite,coolbutuseless
 xxIRT,xluo11
 yacca,cran
