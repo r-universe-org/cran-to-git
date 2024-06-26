@@ -1,5 +1,10 @@
 [
   {
+    "package": "bsynth",
+    "maintainer": "Ignacio Martinez <ignacio@martinez.fyi>",
+    "url": "https://github.com/google/bsynth"
+  },
+  {
     "package": "CausalImpact",
     "maintainer": "Alain Hauser <alhauser@google.com>",
     "url": "https://github.com/google/causalimpact"

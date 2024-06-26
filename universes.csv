@@ -957,6 +957,7 @@ autotest,ropensci
 autothresholdr,rorynolan
 AutoTransQF,cran
 autoTS,vivienroussez
+autovi,tengmcing
 AutoWeatherIndices,cran
 av,ropensci
 available,r-lib
@@ -1200,7 +1201,7 @@ BayesFBHborrow,cran
 BayesFluxR,cran
 BayesFM,piatek
 BayesfMRI,mandymejia
-bayesforecast,cran
+bayesforecast,asael697
 bayesGAM,cran
 bayesGARCH,ardiad
 BayesGmed,belayb
@@ -2032,6 +2033,7 @@ bravo,dongjli
 BrazilCrime,igorlaltuf
 BrazilMet,filgueirasr
 BRBVS,casua1statistician
+BRcal,apguthrie
 brclimr,rfsaldanha
 BRDT,ericchen12377
 brea,adam-king
@@ -2142,6 +2144,7 @@ bsts,steve-the-bayesian
 bsub,jokergoo
 bsvars,bsvars
 BSW,adam-bec
+bsynth,google
 BT,giregwillame
 btb,inseefr
 BTdecayLasso,heilokchow
@@ -3090,6 +3093,7 @@ cmenet,cran
 CMF,cyianor
 cmfrec,david-cortes
 CMFsurrogate,laylaparast
+CMGFM,feiyoung
 cmhc,mountainmath
 CMHNPA,cran
 cml,cran
@@ -6122,6 +6126,7 @@ exactamente,mightymetrika
 exactci,cran
 ExactCIdiff,cran
 ExactCIone,cran
+ExactCox,cran
 exactextractr,isciences
 exactLTRE,cran
 ExactMed,caubm
@@ -6419,6 +6424,7 @@ fastR2,rpruim
 FastRCS,kvak
 fastreeR,bioc
 fastrep,alissonrp
+FastRet,spang-lab
 fastRG,rohelab
 fastRhockey,sportsdataverse
 fastrmodels,nflverse
@@ -11790,6 +11796,7 @@ MetaculR,josephd000
 MetaCycle,gangwug
 MetaCyto,bioc
 metadat,wviechtb
+metadeconfoundR,tillbirkner
 metaDigitise,daniel1noble
 metadynminer,spiwokv
 metadynminer3d,spiwokv
@@ -12809,6 +12816,7 @@ MSQC,edgarsantos-fernandez
 msqrob2,bioc
 MsQuality,bioc
 MSRDT,ericchen12377
+mssearchr,andreysamokhin
 msSPChelpR,marianschmidt
 MSSQL,arni-magnusson
 MSstats,bioc
@@ -14269,7 +14277,7 @@ overlap,mikemeredith
 overlapping,cran
 overlapptest,cran
 overture,kurtis-s
-overturemapsr,cran
+overturemapsr,denironyx
 overviewR,cosimameyer
 OVESEG,bioc
 OVL.CI,albfranc
@@ -14950,6 +14958,7 @@ PHYLOGR,rdiaz02
 phylogram,ropensci
 phylolm,lamho86
 phylometrics,amsibioinfo
+phylopairs,cran
 phylopath,ax3man
 PhyloProfile,bioc
 phyloraster,gabferreira
@@ -17476,6 +17485,7 @@ rIsing,pratik-r
 Risk,mbbsssn2
 riskclustr,zabore
 riskCommunicator,jgrembi
+RiskMap,claudiofronterre
 riskmetric,pharmar
 riskParityPortfolio,dppalomar
 RiskPortfolios,ardiad
@@ -18006,6 +18016,7 @@ rpmodel,stineb
 rpms,cran
 rpnf,cran
 Rpoet,aschleg
+RPointCloud,cran
 Rpolyhedra,ropensci
 Rpoppler,kurthornik
 rportfolio,anuragagrawaal
@@ -19186,6 +19197,7 @@ sfislands,horankev
 sfnetworks,luukvdmeer
 sfo,covidr
 SFS,cran
+SFSI,marcoolopez
 sfsmisc,mmaechler
 sft,cran
 sftime,henningte
@@ -20425,6 +20437,7 @@ srcr,baileych
 SRCS,cran
 sRDA,acsala
 sRdpData,fragmentation-project
+sreg,jutrifonov
 sregsurvey,cran
 srlars,anthonychristidis
 srlTS,petersonr
@@ -20662,6 +20675,7 @@ stevetemplates,svmiller
 stevethemes,svmiller
 stfit,mingsnu
 STFTS,cspun
+stgam,lexcomber
 STGS,budhlakotin
 sticky,decisionpatterns
 stickyr,uchidamizuki
@@ -22803,6 +22817,7 @@ vsp,rohelab
 vstdct,cran
 vstsr,ashbaldry
 VSURF,robingenuer
+VsusP,nilson01
 vtable,nickch-k
 vtpnet,bioc
 vtreat,winvector
