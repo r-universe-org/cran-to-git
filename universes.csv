@@ -222,7 +222,7 @@ ADMMsigma,mgallow
 admtools,mindthegap-erc
 ADMUR,ucl
 adnuts,cole-monnahan-noaa
-adobeanalyticsr,benrwoodard
+adobeanalyticsr,sditools
 adoptr,optad
 ADP,cran
 ADPclust,ethanyxu
@@ -2958,6 +2958,7 @@ climwin,liamdbailey
 clinDataReview,openanalytics
 clinDR,snthomas99
 clinfun,veseshan
+clinicalomicsdbR,bzhanglab
 clinicalsignificance,pedscience
 ClinicalTrialSummary,pakdaewo
 ClinicalUtilityRecal,anumishra
@@ -6116,6 +6117,7 @@ evtree,cran
 EWCE,bioc
 EWGoF,mkrit
 ewoc,dnzmarcio
+ewp,pboesu
 EwR,cran
 EWS,cran
 EWSmethods,duncanobrien
@@ -7071,6 +7073,7 @@ frequency,wilcoxa
 frequencyConnectedness,tomaskrehlik
 frequentdirections,shinichi-takayanagi
 frequentistSSD,cran
+frequentistSSDBinary,cran
 FRESA.CAD,josetamezpena
 fresh,dreamrs
 FRESHD,adam-lund
@@ -7290,6 +7293,7 @@ gamlss.mx,mstasinopoulos
 gamlss.spatial,gamlss-dev
 gamlss.tr,mstasinopoulos
 gamlssbssn,cran
+gamlssx,paulnorthrop
 gamm4,cran
 gamma,crp2a
 Gammareg,cran
@@ -8459,7 +8463,7 @@ GroupBN,abecker-ml
 GroupComparisons,cran
 groupdata2,ludvigolsen
 groupedSurv,dcibioinformatics
-Grouphmap,cran
+Grouphmap,syc2436
 groupICA,cran
 groupr,ngriffiths21
 grouprar,neptune555
@@ -12077,7 +12081,7 @@ mifa,teebusch
 MigConnectivity,smbc-nzp
 migest,guyabel
 migraph,stocnet
-migrate,mthomas-ketchbrook
+migrate,ketchbrookanalytics
 migration.indices,daroczig
 MigrationDetectR,cran
 migui,cran
@@ -13282,6 +13286,7 @@ nemtr,calebgreski
 neo2R,patzaw
 neo4jshell,keithmcnulty
 neo4r,neo4j-rstats
+neodistr,madsyair
 neojags,madsyair
 NEONiso,lanl
 neonOS,neonscience
@@ -16890,6 +16895,7 @@ reader,nicholasjcooper
 readHAC,kaskr
 readit,ryapric
 readJDX,bryanhanson
+readme2vignette,indenkun
 readmet,cdruee
 readmission,simonpcouch
 readMLData,cran
@@ -20621,7 +20627,7 @@ statquotes,friendly
 StatRank,hosseinazari
 stats19,ropensci
 stats4teaching,estebancabello
-statsearchanalyticsr,searchdiscovery
+statsearchanalyticsr,sditools
 statsExpressions,indrajeetpatil
 Statsomat,reyar
 statsr,statswithr
