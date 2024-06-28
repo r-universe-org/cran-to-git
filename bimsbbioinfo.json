@@ -3,5 +3,10 @@
     "package": "guix.install",
     "maintainer": "Ricardo Wurmus <ricardo.wurmus@mdc-berlin.de>",
     "url": "https://github.com/bimsbbioinfo/guix.install"
+  },
+  {
+    "package": "mergen",
+    "maintainer": "Altuna Akalin <aakalin@gmail.com>",
+    "url": "https://github.com/bimsbbioinfo/mergen"
   }
 ]

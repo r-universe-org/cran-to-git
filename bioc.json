@@ -5745,6 +5745,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HoloFoodR",
+    "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
+    "url": "https://github.com/ebi-metagenomics/holofoodr",
+    "registry": "bioc"
+  },
+  {
     "package": "hoodscanR",
     "maintainer": "Ning Liu <liu.n@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/hoodscanr",
