@@ -2378,6 +2378,7 @@ cartograflow,fbahoken
 cartogram,sjewo
 cartogramR,pierre-andre
 cartographer,cidm-ph
+cartographr,da-wi
 cartography,riatelab
 casabourse,aodiakite
 Cascade,fbertran
@@ -2890,6 +2891,7 @@ cladoRcpp,nmatzke
 ClaimsProblems,iagolugilde
 clam,maarten14c
 ClamR,jonathanlees
+clap,pridiltal
 clarabel,oxfordcontrol
 clarifai,gojiplus
 clarify,iqss
@@ -3322,6 +3324,7 @@ ComICS,yaelsteu
 CoMiRe,cran
 COMIX,shgrky
 commafree,t-kalinowski
+CommEcol,a-s-melo
 CommKern,aljensen89
 common,dbosak01
 CommonDataModel,cran
@@ -3526,6 +3529,7 @@ ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
 convergEU,federico-m-stefanini
 convert,bioc
+convertBCD,cran
 convertbonds,aughunter
 convertid,cran
 ConvertPar,eda-akdogdu
@@ -5599,7 +5603,7 @@ EGAnet,hfgolino
 egcm,matthewclegg
 egg,baptiste
 eggCounts,cran
-eglhmm,cran
+eglhmm,rolfturner
 EGM,shah-in-boots
 EgoCor,julia-dyck
 egor,tilltnet
@@ -5842,6 +5846,7 @@ epialleleR,bioc
 epibasix,cran
 epicasting,cran
 epiCleanr,truenomad
+epiCo,epiverse-trace
 EpiCompare,bioc
 epicontacts,reconhub
 EpiContactTrace,stewid
@@ -6099,6 +6104,7 @@ EviewsR,sagirumati
 evilDice,cran
 evinf,doktorandahl
 evir,bpfaff
+evitaicossa,robinhankin
 evmix,cran
 evobiR,coleoguy
 evolMap,modesto-escobar
@@ -7143,6 +7149,7 @@ fueleconomy,hadley
 fugue,cran
 fuj,jmbarbone
 fullfact,ahoude
+fullRankMatrix,pweidemueller
 fullROC,yuerany
 fun,yihui
 func2vis,raghvendra5688
@@ -7813,6 +7820,7 @@ ggfun,yulab-smu
 ggfx,thomasp85
 gggap,cmoralesmx
 gggenes,wilkox
+gggenomes,thackl
 ggghost,jonocarroll
 gggibbous,mnbram
 gggrid,pmur002
@@ -8410,7 +8418,7 @@ greeks,ahudde
 greenclust,jeffjetton
 greencrab.toolkit,abigailkeller
 GREENeR,calfarog
-greenR,cran
+greenR,sachit27
 Greg,gforge
 GregoryQuadrature,dhetting
 gregRy,olekwojcik
@@ -8883,7 +8891,6 @@ heumilkr,lschneiderbauer
 heuristica,jeanimal
 heuristicsmineR,bupaverse
 hexbin,edzer
-hexFinder,pedrocoutinhosilva
 hexfont,trevorld
 hexSticker,guangchuangyu
 HextractoR,cran
@@ -9913,7 +9920,7 @@ ismev,ericgilleland
 ismtchile,mrosas47
 isni,cran
 isnullptr,jonasfoe
-Iso,cran
+Iso,rolfturner
 ISO11784Tools,graemediack
 isoband,r-lib
 isobar,bioc
@@ -10981,6 +10988,7 @@ logihist,cran
 login,jbryer
 logistf,georgheinze
 logistic4p,johnnyzhz
+LogisticCopula,cran
 LogisticCurveFitting,debarghya9394
 logisticPCA,andland
 LogisticRCI,cran
@@ -11974,6 +11982,7 @@ mgee2,yuliangxu
 MGFM,bioc
 MGFR,bioc
 mggd,santagos
+mgi.report.reader,patterninstitute
 MGL,cran
 mglasso,desanou
 MGLM,juhkim111
@@ -12662,7 +12671,7 @@ movegroup,simondedman
 moveHMM,theomichelot
 movementsync,tuomaseerola
 moveWindSpeed,bart1
-movieROC,cran
+movieROC,perezsonia
 movMF,kurthornik
 mp,fatore
 MPAC,bioc
@@ -14237,6 +14246,7 @@ osfr,ropensci
 oshka,brodieg
 oskeyring,r-lib
 OSLdecomposition,dirkmittelstrass
+osmapiR,jmaspons
 osmclass,sebkrantz
 osmdata,ropensci
 osmextract,ropensci
@@ -15309,7 +15319,7 @@ politicsR,silvadenisson
 polle,andreasnordland
 pollen,nowosad
 pollimetry,liamkendall
-pollster,cran
+pollster,jdjohn215
 polmineR,polmine
 polspline,cran
 polyaAeppli,cjb105
@@ -15441,6 +15451,7 @@ pow.int,jondebove
 powdist,cran
 powdR,benmbutler
 Power2Stage,detlew
+poweRbal,sophiekersting
 powerbiR,cvermehren
 powerbydesign,frankpapenmeier
 powerCompRisk,erickawaguchi
@@ -16468,6 +16479,7 @@ RapidoPGS,grealesm
 rapidphylo,arindamroychoudhury
 RapidPolygonLookup,markusloecher
 rapidraker,crew102
+rapidsplithalf,cran
 rapidxmlr,cran
 RApiSerialize,eddelbuettel
 Rapp,t-kalinowski
@@ -16864,7 +16876,6 @@ Rdrw,hyungsuktak
 rdryad,ropensci
 RDS,handcock
 Rdsdp,zhisu
-rdss,graemeblair
 RDSsamplesize,yibboo
 RDStreeboot,cran
 Rdta,hyungsuktak

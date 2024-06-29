@@ -2,22 +2,26 @@
   {
     "package": "antaresEditObject",
     "maintainer": "Tatiana Vargas <tatiana.vargas@rte-france.com>",
-    "url": "https://github.com/rte-antares-rpackage/antareseditobject"
+    "url": "https://github.com/rte-antares-rpackage/antareseditobject",
+    "registry": "archived"
   },
   {
     "package": "antaresProcessing",
-    "maintainer": "Tatiana Vargas <tatiana.vargas@rte-france.com>",
-    "url": "https://github.com/rte-antares-rpackage/antaresprocessing"
+    "maintainer": "",
+    "url": "https://github.com/rte-antares-rpackage/antaresprocessing",
+    "registry": "archived"
   },
   {
     "package": "antaresRead",
-    "maintainer": "Tatiana Vargas <tatiana.vargas@rte-france.com>",
-    "url": "https://github.com/rte-antares-rpackage/antaresread"
+    "maintainer": "",
+    "url": "https://github.com/rte-antares-rpackage/antaresread",
+    "registry": "archived"
   },
   {
     "package": "antaresViz",
     "maintainer": "Tatiana Vargas <tatiana.vargas@rte-france.com>",
-    "url": "https://github.com/rte-antares-rpackage/antaresviz"
+    "url": "https://github.com/rte-antares-rpackage/antaresviz",
+    "registry": "archived"
   },
   {
     "package": "manipulateWidget",
