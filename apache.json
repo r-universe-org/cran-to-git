@@ -6,6 +6,12 @@
     "subdir": "r/adbcdrivermanager"
   },
   {
+    "package": "adbcpostgresql",
+    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcpostgresql"
+  },
+  {
     "package": "adbcsqlite",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
