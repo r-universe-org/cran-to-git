@@ -609,7 +609,7 @@ aos,lgnbhl
 AOV1R,laustep
 AovBay,javierrojasc
 apa,dgromer
-apache.sedona,cran
+apache.sedona,apache
 ApacheLogProcessor,diogosmendonca
 APackOfTheClones,qile0317
 APAlyzer,bioc
@@ -3251,7 +3251,7 @@ collapse,sebkrantz
 CollapseLevels,krishanu1181
 collapsibleTree,adeelk93
 collateral,jimjam-slam
-collatz,cloutkhan
+collatz,skenvy
 collections,randy3k
 collidr,collidrpackage
 collin,jobago
@@ -5627,6 +5627,7 @@ EIAapi,ramikrispin
 eiCircles,cran
 eicm,miguel-porto
 eider,alan-turing-institute
+EIEntropy,cran
 eiExpand,rachel-carroll
 eigenmodel,pdhoff
 EigenR,stla
@@ -6537,7 +6538,7 @@ FEA,bhramdath
 FeaLect,cran
 FEAST,bioc
 feasts,tidyverts
-feather,hadley
+feather,wesm
 FeatSeekR,bioc
 feature,tarnduong
 featureCorMatrix,masem-research
@@ -8739,7 +8740,7 @@ HazardDiff,deniserava
 hazer,bnasr
 hbal,cran
 hbamr,jbolstad
-hBayesDM,youngahn
+hBayesDM,ccs-lab
 hbbr,drsmukherjee
 hbim,cran
 hbmem,prattems
@@ -9726,7 +9727,7 @@ interplex,tdaverse
 interplot,sammo3182
 interpolation,stla
 interpolators,stla
-interpret,interpret-ml
+interpret,interpretml
 interpretCI,cardiomoon
 InterpretMSSpectrum,janlisec
 interpretR,ballings
@@ -11039,7 +11040,7 @@ lookout,sevvandi
 lookup,kwstat
 lookupTable,enzochia
 LoomExperiment,bioc
-loon,rwoldford
+loon,great-northern-diver
 loon.data,great-northern-diver
 loon.ggplot,great-northern-diver
 loon.shiny,z267xu
@@ -11120,6 +11121,7 @@ LSDinterface,santannaks
 LSDirf,santannaks
 LSDsensitivity,santannaks
 LSE,sergio05acm
+LSEbootLS,cran
 lsei,yong3738
 lsirm12pl,jinaparkkk
 lsl,psyphh
@@ -12680,6 +12682,7 @@ mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
+MPCR,stsds
 MPDiR,cran
 MPFE,bioc
 MPGE,arunabhacodes
@@ -14162,6 +14165,7 @@ optweight,ngreifer
 opusminer,cbergmeir
 OPWeight,bioc
 OralOpioids,ankonahouston
+orbital,tidymodels
 orbweaver,ixpantia
 orca,thocevar
 orclus,g-rho
@@ -14411,7 +14415,7 @@ PAMmisc,taikisan21
 pammtools,adibender
 PAMpal,taikisan21
 pampe,ainhoavega
-pamr,ashipunov
+pamr,bnaras
 PAMscapes,taikisan21
 pan,jinghuazhao
 PANACEA,egeulgen
@@ -15631,7 +15635,7 @@ primer,hankstevens
 primerTree,mvesuviusc
 primes,ironholds
 primirTSS,bioc
-PRIMME,eromero-vlc
+PRIMME,primme
 PrInCE,bioc
 princurve,rcannood
 PrInDT,cran
@@ -15753,7 +15757,7 @@ PropCIs,shearer
 PropClust,plangfelder
 PROPER,bioc
 properties,dseynaev
-prophet,cran
+prophet,facebook
 proporz,polettif
 propOverlap,cran
 PROPS,bioc
@@ -16574,7 +16578,7 @@ rbcc,kzst
 rbch,rucknium
 rBDAT,vochr
 RBE3,cran
-Rbeast,dirt
+Rbeast,zhaokg
 Rbec,bioc
 rbedrock,reedacartwright
 rbenchmark,cran
@@ -17323,7 +17327,7 @@ RFOC,jonathanlees
 rfold,feddelegrand7
 Rfolding,cran
 rfordummies,rfordummies
-Rforestry,theo-s
+Rforestry,forestry-labs
 RFormatter,evolutics
 rfPermute,ericarcher
 RFPM,cran
@@ -17734,7 +17738,7 @@ rnaseqcomp,bioc
 RNAseqCovarImpute,bioc
 RNAseqNet,cran
 RNASeqPower,bioc
-RNAseqQC,cran
+RNAseqQC,frederikziebell
 RnaSeqSampleSize,bioc
 RNAsmc,abel1992
 rnassqs,ropensci
@@ -17860,7 +17864,7 @@ robustsur,claudioagostinelli
 robustvarComp,claudioagostinelli
 robustX,mmaechler
 robvis,mcguinlu
-Robyn,laresbernardo
+Robyn,facebookexperimental
 ROC,bioc
 ROCaggregator,cran
 rocbc,cran
@@ -19526,6 +19530,7 @@ simcross,kbroman
 simctest,agandy
 SIMD,bioc
 simDAG,robindenz1
+simdata,matherealize
 simdd,cran
 SimDesign,philchalmers
 SimDissolution,kathrinmoellenhoff
@@ -20780,7 +20785,7 @@ StratSel,lleemann
 STraTUS,mdhall272
 stratvns,jambrito
 straweib,xiangdonggu
-strawr,nchernia
+strawr,aidenlab
 stray,pridiltal
 STREAK,cran
 stream,mhahsler
@@ -22831,6 +22836,7 @@ vrtest,jh8080
 vscc,cran
 vsclust,bioc
 vsd,cyanzule
+vse4ts,z-my-cn
 vsgoftest,testpregnault
 vsmi,cran
 vsn,bioc

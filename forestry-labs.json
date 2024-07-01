@@ -3,5 +3,11 @@
     "package": "distillML",
     "maintainer": "Theo Saarinen <theo_s@berkeley.edu>",
     "url": "https://github.com/forestry-labs/distillml"
+  },
+  {
+    "package": "Rforestry",
+    "maintainer": "Theo Saarinen <theo_s@berkeley.edu>",
+    "url": "https://github.com/forestry-labs/rforestry",
+    "subdir": "R"
   }
 ]

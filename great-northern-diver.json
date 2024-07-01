@@ -10,6 +10,12 @@
     "url": "https://github.com/great-northern-diver/edmcr"
   },
   {
+    "package": "loon",
+    "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
+    "url": "https://github.com/great-northern-diver/loon",
+    "subdir": "R"
+  },
+  {
     "package": "loon.data",
     "maintainer": "R. Wayne Oldford <rwoldford@uwaterloo.ca>",
     "url": "https://github.com/great-northern-diver/loon.data"
