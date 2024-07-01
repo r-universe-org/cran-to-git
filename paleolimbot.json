@@ -1,18 +1,8 @@
 [
   {
-    "package": "adbcdrivermanager",
-    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
-    "url": "https://github.com/cran/adbcdrivermanager"
-  },
-  {
     "package": "adbcpostgresql",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/cran/adbcpostgresql"
-  },
-  {
-    "package": "adbcsqlite",
-    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
-    "url": "https://github.com/cran/adbcsqlite"
   },
   {
     "package": "edwards97",

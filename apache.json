@@ -1,5 +1,17 @@
 [
   {
+    "package": "adbcdrivermanager",
+    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcdrivermanager"
+  },
+  {
+    "package": "adbcsqlite",
+    "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcsqlite"
+  },
+  {
     "package": "apache.sedona",
     "maintainer": "Apache Sedona <private@sedona.apache.org>",
     "url": "https://github.com/apache/sedona",
