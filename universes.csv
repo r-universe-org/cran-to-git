@@ -669,6 +669,7 @@ apt,cran
 APtools,hengruicai
 apyramid,r4epi
 AQEval,karlropkins
+aqfig,jlswall
 AQLSchemes,johnjsl7
 aqp,ncss-tech
 AquaBEHER,robeltakele
@@ -2477,6 +2478,7 @@ cbioportalR,karissawhiting
 cbl,dswatson
 CBnetworkMA,cran
 CBNplot,bioc
+CBPE,mnrzrad
 cbpManager,bioc
 CBPS,christianfong
 cbq,cran
@@ -3756,6 +3758,7 @@ cpa,cran
 CPAT,ntguardian
 CPBayes,arunabhacodes
 CPC,imehlhaff
+CPCAT,lehmannrene
 cPCG,cran
 cpd,svilchez
 CPE,cran
@@ -4675,7 +4678,6 @@ dfsaneacc,johngardenghi
 dfvad,shipei-zeng
 dga,olivierbinette
 dGAselID,cran
-DGCA,andymckenzie
 DGEAR,koushikbardhan2000
 DGEobj,cb4ds
 DGEobj.utils,cb4ds
@@ -5466,6 +5468,7 @@ ecocbo,arturosp
 ecochange,wilarhen
 ecocomDP,ediorg
 ecoCopula,cran
+ecode,haoranpopevo
 EcoDiet,pyhernvann
 ecodist,phiala
 EcoEnsemble,cran
@@ -9341,6 +9344,7 @@ iCOBRA,bioc
 ICODS,sth1402
 ICompELM,saikathd
 icosa,adamkocsis
+icpack,hputter
 icpsrdata,fsolt
 icr,staudtlex
 ICRanks,almohamad
@@ -10076,6 +10080,7 @@ jinjar,davidchall
 jipApprox,rhobis
 jjb,coatless-rpkg
 jlctree,cran
+jlme,yjunechoe
 jlmerclusterperm,yjunechoe
 JLPM,vivianephilipps
 JM,drizopoulos
@@ -11205,14 +11210,13 @@ maat,choi-phd
 mable,cran
 MABOUST,cran
 Macarron,bioc
-MacBehaviour,cran
+MacBehaviour,xufengduan
 macc,cran
 MACER,rgyoung6
 MachineShop,brian-j-smith
 macleish,beanumber
 maclogp,yuanyuanli96
 maCorrPlot,bioc
-MACP,mrbakhsh
 macroBiome,szelepcsenyi
 macrocol,pedrocabraacela
 macrosyntR,samilhll
@@ -11479,6 +11483,7 @@ matrixLaplacian,terrytwu
 MatrixLDA,ajmolstad
 MatrixMixtures,gallaump
 MatrixModels,r-forge
+matrixmodp,rhigginbottom
 matrixNormal,phargarten2
 matrixProfile,ainsuotain
 matrixprofiler,matrix-profile-foundation
@@ -11612,6 +11617,7 @@ MCMCvis,caseyyoungflesh
 mcMST,jakobbossek
 mcmsupply,hannahcomiskey
 mco,olafmersmann
+mcODE,wjbraun
 MCOE,dobrowski
 Mcomp,robjhyndman
 mcompanion,geobosh
@@ -14352,7 +14358,6 @@ pageRank,bioc
 pageviews,ironholds
 PAGFL,paul-haimerl
 pagoda2,kharchenkolab
-pagoo,iferres
 PAGWAS,mevangelou
 PAICE,paicecode
 painbow,steveharoz
@@ -15499,6 +15504,7 @@ ppmlasso,iwrenner
 PPMR,umich-biostatistics
 ppmSuite,cran
 PPQplan,allenzhuaz
+ppRank,tiagocsoares
 ppRep,samch93
 PPRL,germanrecordlinkage
 pps,jack-gambino
@@ -15515,6 +15521,7 @@ PQLseq,cran
 pqrBayes,cenwu
 pqrfe,iandanilevicz
 pqsfinder,bioc
+PRA,paulgovan
 praatpicture,rpuggaardrode
 prabclus,chrhennig
 pracma,hwborchers
@@ -15929,7 +15936,6 @@ PUlasso,hsong1
 pullword,hetong007
 puls,vinhtantran
 pulsar,zdk123
-pulseTD,biowzz
 puma,bioc
 pumilioR,ljvillanueva
 PUMP,mdrcny
@@ -18771,7 +18777,6 @@ scDIFtest,ddebeer
 scDotPlot,bioc
 scds,bioc
 scdtb,mightymetrika
-scellpam,jdmde
 SCEM,kserkcho
 scenes,shinyworks
 SCEnt,hwarden162
@@ -18780,7 +18785,6 @@ SCEPtERbinary,mattdell71
 SCFA,bioc
 scFeatureFilter,bioc
 scFeatures,bioc
-scfetch,showteeth
 scGate,carmonalab
 SCGLR,scnext
 scGOclust,papatheodorou-group
@@ -20884,6 +20888,7 @@ sumSome,annavesely
 sunburstR,timelyportfolio
 suncalc,datastorm-open
 Sunclarco,cran
+sundialr,sn248
 SUNGEO,zhukovyuri
 SunsVoc,cran
 suntools,adokter
@@ -22370,6 +22375,7 @@ UnalR,estadisticaun
 unbalhaar,cran
 UncDecomp,kim-seonghyeon
 uncertainty,hugogasca
+uncertainUCDP,doktorandahl
 uncmbb,joongsup
 uncorbets,reckziegel
 UNCOVER,samuelemerson
@@ -23139,6 +23145,7 @@ workflowr,workflowr
 workflows,tidymodels
 workflowsets,tidymodels
 workloopR,ropensci
+worldbank,m-muecke
 WorldFlora,roelandkindt
 worldfootballR,jaseziv
 WorldMapR,luigi-annic
