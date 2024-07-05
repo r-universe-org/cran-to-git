@@ -99,6 +99,7 @@ AcrossTic,buttrey
 acs,eglenn
 acss,cran
 acss.data,singmann
+ACSSpack,nkyangtzeqian
 ACSWR,prabhanjan-tattar
 act,oliverehmer
 ACTCD,wenchao-ma
@@ -712,7 +713,7 @@ arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
-ARDECO,cran
+ARDECO,attarco
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -2237,7 +2238,7 @@ c3net,cran
 C443,kuleuven-ppw-okpiv
 C50,topepo
 ca,cran
-CA3variants,cran
+CA3variants,rosarialo
 cabinets,nt-williams
 cabootcrs,cran
 cacc,amoneva
@@ -2462,7 +2463,7 @@ causalSLSE,pchausse
 causalweight,hbodory
 CausCor,sugym
 CautiousLearning,cran
-CAvariants,cran
+CAvariants,rosarialo
 caviarpd,dbdahl
 CB2,cran
 cba,cran
@@ -2838,6 +2839,7 @@ CIplot,toshi-ara
 cir,assaforon
 circacompare,rwparsons
 CirceR,ohdsi
+circhelp,achetverikov
 circle,ropensci
 CirclesIntersections,hugosal
 circlesplot,benst099
@@ -4012,6 +4014,7 @@ CTT,cran
 CTTinShiny,cran
 CTTShiny,kylehamilton
 ctv,zeileis
+ctxR,usepa
 CUB,cran
 cubar,mt1022
 cubature,bnaras
@@ -6799,6 +6802,7 @@ FlexVarJM,leoniecourcoul
 FlickrAPI,koki25ando
 flifo,paulponcet
 flightplot,xmc811
+FLightR,eldarrak
 flightsbr,ipeagit
 flimo,cran
 flintyR,alanaw1
@@ -8937,6 +8941,7 @@ hiddenf,jasonaosborne
 HiddenMarkov,cran
 hidecan,plantandfoodresearch
 HiDimDA,cran
+hidradenitis,billdenney
 hierarchicalSets,thomasp85
 hierBipartite,calvintchi
 hierfstat,jgx65
@@ -10763,6 +10768,7 @@ LiftTest,cran
 lifx,mabafaba
 liger,jefworks
 lightgbm,jameslamb
+LightLogR,tscnlab
 LightningR,ermlab
 lightparser,thinkr-open
 lightr,ropensci
@@ -11569,7 +11575,7 @@ mc.heterogeneity,gabriellajg
 mc2d,cran
 MCARtest,cran
 mcauchyd,santagos
-MCAvariants,cran
+MCAvariants,rosarialo
 mcb,heming0425
 MCBackscattering,cran
 mcbette,ropensci
@@ -11864,7 +11870,7 @@ metap,deweyme
 metapack,daeyounglim
 MetaPhOR,bioc
 metaplot,bergsmat
-metaplus,kjbeath
+metaplus,cran
 metapod,bioc
 metapone,bioc
 metapost,pmur002
@@ -14256,7 +14262,7 @@ osfr,ropensci
 oshka,brodieg
 oskeyring,r-lib
 OSLdecomposition,dirkmittelstrass
-osmapiR,jmaspons
+osmapiR,ropensci
 osmclass,sebkrantz
 osmdata,ropensci
 osmextract,ropensci
@@ -14771,7 +14777,7 @@ penalizedSVM,fbertran
 penaltyLearning,tdhock
 pencal,m-signo
 pencopulaCond,cran
-PenCoxFrail,cran
+PenCoxFrail,hoarzpassey
 pendensity,chrschellhase
 penfa,egeminiani
 pengls,bioc
@@ -15249,6 +15255,7 @@ PMCMR,cran
 PMCMRplus,cran
 pmd,yufree
 pmetar,prcwiek
+pmev,david-hammond
 PMEvapotranspiration,himadriiasri
 pmhtutorial,cran
 pmlbr,epistasislab
@@ -17271,6 +17278,7 @@ retrofit,bioc
 retroharmonize,ropengov
 retrosheet,colindouglas
 retry,randy3k
+ReturnCurves,cran
 ReUseData,bioc
 reutils,gschofl
 reval,mkoohafkan
@@ -20011,6 +20019,7 @@ someMTP,livioivil
 SOMEnv,somenv
 sommer,covaruber
 SOMNiBUS,bioc
+SOMnmR,luiscol8
 somspace,imarkonis
 sonar,cran
 SongEvo,raydanner
@@ -23211,6 +23220,7 @@ wsprv,statliang89
 wsrf,simonyansenzhao
 wsyn,reumandc
 wtest,anotherruisun
+wTO,cran
 WtTopsis,zhengyu888
 WufooR,dmpe
 wv,smac-group

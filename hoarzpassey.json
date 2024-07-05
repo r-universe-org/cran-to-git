@@ -3,5 +3,10 @@
     "package": "glmmLasso",
     "maintainer": "Andreas Groll <groll@statistik.tu-dortmund.de>",
     "url": "https://github.com/cran/glmmLasso"
+  },
+  {
+    "package": "PenCoxFrail",
+    "maintainer": "Andreas Groll <groll@statistik.tu-dortmund.de>",
+    "url": "https://github.com/cran/PenCoxFrail"
   }
 ]
