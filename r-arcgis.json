@@ -10,6 +10,11 @@
     "url": "https://github.com/r-arcgis/arcgisgeocode"
   },
   {
+    "package": "arcgislayers",
+    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
+    "url": "https://github.com/r-arcgis/arcgislayers"
+  },
+  {
     "package": "arcgisutils",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/r-arcgis/arcgisutils"

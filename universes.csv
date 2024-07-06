@@ -526,6 +526,7 @@ anesrake,jmping
 AneuFinder,bioc
 ANF,bioc
 AnglerCreelSurveySimulation,stevenranney
+angstromATE,thomasgredig
 angstroms,australianantarcticdivision
 aniDom,cran
 anim.plots,hughjonesd
@@ -690,7 +691,7 @@ ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
 arcgis,r-arcgis
 arcgisgeocode,r-arcgis
-arcgislayers,josiahparry
+arcgislayers,r-arcgis
 arcgisplaces,josiahparry
 arcgisutils,r-arcgis
 ArchaeoPhases,archaeostat
@@ -3215,7 +3216,7 @@ coefficientalpha,johnnyzhz
 coefplot,jaredlander
 coenocliner,gavinsimpson
 coenoflex,dvrbts
-cofad,burmarkus
+cofad,johannes-titz
 cofeatureR,tinyheero
 coffee,maarten14c
 cofid,alrobles
@@ -6196,7 +6197,6 @@ ExperimentHubData,bioc
 experimentr,tuncerkerem
 ExperimentSubset,bioc
 ExpertChoice,jedstephens
-expertsurv,cran
 ExpGenetic,w123yu
 ExpImage,cran
 expint,vigou3
@@ -20977,7 +20977,7 @@ survex,modeloriented
 survexp.fr,cran
 survey,r-forge
 surveybootstrap,dfeehan
-SurveyCC,cran
+SurveyCC,237triangle
 surveyCV,colbystatsvyrsch
 surveydata,andrie
 SurveyDefense,cran
