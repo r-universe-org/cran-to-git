@@ -1,5 +1,10 @@
 [
   {
+    "package": "emIRT",
+    "maintainer": "Kosuke Imai <imai@harvard.edu>",
+    "url": "https://github.com/kosukeimai/emirt"
+  },
+  {
     "package": "experiment",
     "maintainer": "Kosuke Imai <imai@harvard.edu>",
     "url": "https://github.com/kosukeimai/experiment"
