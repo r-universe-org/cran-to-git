@@ -1,5 +1,10 @@
 [
   {
+    "package": "covtracer",
+    "maintainer": "Doug Kelkhoff <doug.kelkhoff@gmail.com>",
+    "url": "https://github.com/genentech/covtracer"
+  },
+  {
     "package": "psborrow2",
     "maintainer": "Matt Secrest <secrestm@gene.com>",
     "url": "https://github.com/genentech/psborrow2"

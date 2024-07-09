@@ -247,6 +247,7 @@ aeddo,ssi-dk
 AEDForecasting,apunatto
 aedseo,ssi-dk
 AEenrich,umich-biostatistics
+aelab,cran
 AEP,mahditeimouri
 AER,zeileis
 AeRobiology,oteros
@@ -1146,6 +1147,7 @@ BasketballAnalyzeR,sndmrc
 baskexact,lbau7
 basksim,lbau7
 BASS,dfrancom
+BaSTA,cran
 BAT,cran
 batata,feddelegrand7
 batch,cran
@@ -2163,7 +2165,6 @@ BTYDplus,mplatzer
 bubbleHeatmap,ruthckb
 BubbleTree,bioc
 bubblyr,feddelegrand7
-bucky,atahk
 BUCSS,yelleknek
 Buddle,jwboys26
 BufferedMatrix,bioc
@@ -3737,6 +3738,7 @@ covsep,stavakol
 covsim,cran
 covTestR,benbarnard
 CovTools,kisungyou
+covtracer,genentech
 cowbell,cran
 cowplot,wilkelab
 cowsay,sckott
@@ -4045,7 +4047,7 @@ CureDepCens,gabrielgrandemagne
 curephEM,cran
 cureplots,gbasulto
 curl,jeroen
-currencyapi,cran
+currencyapi,dominikkukacka
 currentSurvival,cran
 CurricularAnalytics,danyulll
 currr,marcellgranat
@@ -5704,7 +5706,7 @@ ELYP,cran
 em,wudongjie
 EM.Fuzzy,cran
 emailjsr,changwoolim
-emailvalidation,cran
+emailvalidation,dominikkukacka
 EMAR,cran
 EMAS,nie-xiuquan
 EMAtools,ekleiman1
@@ -6065,7 +6067,6 @@ eurlex,michalovadek
 eurocordexr,mitmat
 eurodata,alekrutkowski
 euroleaguer,flavioleccese92
-Euronext,fredysessie
 europeanaR,alekoure
 europepmc,ropensci
 europop,mdlincoln
@@ -6961,7 +6962,7 @@ ForestFit,mahditeimouri
 ForestGapR,carlos-alberto-silva
 forestHES,zongzheng
 forestinventory,cran
-forestly,wangben718
+forestly,merck
 forestmangr,sollano
 forestmodel,cran
 forestplot,gforge
@@ -7065,7 +7066,7 @@ fredr,sboysel
 free,ly129
 freealg,robinhankin
 freebird,laylaparast
-freecurrencyapi,cran
+freecurrencyapi,dominikkukacka
 freedom,sva-se
 freegroup,robinhankin
 FreeSortR,cran
@@ -9812,7 +9813,7 @@ ipaddress,davidchall
 ipADMIXTURE,darkeyes
 ipanema,cran
 iPath,bioc
-ipbase,cran
+ipbase,dominikkukacka
 ipc,fellstat
 IPCAPS,cran
 IPCWK,cran
@@ -9833,7 +9834,7 @@ ipfr,dkyleward
 ipft,esansano
 ipkg,chuxinyuan
 IPLGP,py-chung
-iplookupapi,cran
+iplookupapi,dominikkukacka
 iplots,s-u
 IPMbook,kenkellner
 ipmr,padrinodb
@@ -12395,6 +12396,7 @@ mlr3shiny,lamate
 mlr3spatial,mlr-org
 mlr3spatiotempcv,mlr-org
 mlr3summary,cran
+mlr3torch,sebffischer
 mlr3tuning,mlr-org
 mlr3tuningspaces,mlr-org
 mlr3verse,mlr-org
@@ -14641,6 +14643,7 @@ pcaMethods,bioc
 PCAmixdata,chavent
 PCAN,bioc
 pcaone,zilong-li
+PCAPAM50,rajkumpismb
 pcaPP,valentint
 PCAtools,bioc
 pcatsAPIclientR,michalkouril
@@ -16900,6 +16903,7 @@ Rdta,hyungsuktak
 rdtLite,end-to-end-provenance
 Rduino,pdhoff
 Rduinoiot,flavioleccese92
+Rdune,nvietto
 rdwd,brry
 rdwplus,apear9
 re2,girishji
@@ -17590,6 +17594,7 @@ RkMetrics,cran
 rKolada,lchansson
 rKOMICS,geertsmanon
 RKorAPClient,korap
+rkriging,cran
 rkt,cran
 RKUM,maalam79
 rkvo,vst
@@ -21277,6 +21282,7 @@ TaxicabCA,jacquesallard
 taxize,ropensci
 taxizedb,ropensci
 taxlist,ropensci
+taxnames,kamapu
 taxonbridge,moultdb
 taxonomizr,sherrillmix
 taxotools,vijaybarve
@@ -21654,7 +21660,6 @@ tidypredict,tidymodels
 tidyqpcr,ropensci
 tidyquant,business-science
 tidyquery,ianmcook
-tidyqwi,medewitt
 tidyr,tidyverse
 tidyrates,rfsaldanha
 tidyREDCap,raymondbalise
@@ -21983,6 +21988,7 @@ transite,bioc
 translate.logit,cran
 translated,ttscience
 tRanslatome,bioc
+translit.uk,amice13
 transmdl,cran
 transmem,crparedes
 TransModel,jierazhou
@@ -22622,7 +22628,7 @@ varycoef,cran
 vasicek,statcompute
 vasicekreg,jmazucheli
 VaSP,bioc
-vatcheckapi,cran
+vatcheckapi,dominikkukacka
 vaultr,vimc
 vaxpmx,vavrycuk-zz
 VBel,jlimrasc
@@ -23214,7 +23220,6 @@ WRTDStidal,fawda123
 wrTopDownFrag,wraff
 wru,kosukeimai
 wsbackfit,cran
-WSGeometry,f-heinemann
 wsjplot,slee981
 wskm,cran
 wsprv,statliang89
