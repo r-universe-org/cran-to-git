@@ -385,6 +385,11 @@
     "url": "https://github.com/r-lib/ragg"
   },
   {
+    "package": "Rapp",
+    "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+    "url": "https://github.com/r-lib/rapp"
+  },
+  {
     "package": "rappdirs",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/rappdirs"
