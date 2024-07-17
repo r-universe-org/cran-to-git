@@ -12,12 +12,14 @@
   {
     "package": "icesDatsu",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
-    "url": "https://github.com/ices-tools-prod/icesdatsu"
+    "url": "https://github.com/ices-tools-prod/icesdatsu",
+    "registry": "archived"
   },
   {
     "package": "icesDatsuQC",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
-    "url": "https://github.com/ices-tools-prod/icesdatsuqc"
+    "url": "https://github.com/ices-tools-prod/icesdatsuqc",
+    "registry": "archived"
   },
   {
     "package": "icesSAG",
@@ -32,7 +34,8 @@
   {
     "package": "icesVMS",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
-    "url": "https://github.com/ices-tools-prod/icesvms"
+    "url": "https://github.com/ices-tools-prod/icesvms",
+    "registry": "archived"
   },
   {
     "package": "icesVocab",
