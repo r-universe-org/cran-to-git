@@ -61,6 +61,11 @@
     "url": "https://github.com/statnet/statnet.common"
   },
   {
+    "package": "statnetWeb",
+    "maintainer": "Martina Morris <morrism@uw.edu>",
+    "url": "https://github.com/statnet/statnetweb"
+  },
+  {
     "package": "tergm",
     "maintainer": "Pavel N. Krivitsky <pavel@statnet.org>",
     "url": "https://github.com/statnet/tergm"

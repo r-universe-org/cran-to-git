@@ -2696,6 +2696,7 @@ chantrics,maebruck
 Chaos01,nithador
 ChaosGame,cran
 charlatan,ropensci
+charlesschwabapi,njbultman
 chartql,rmsyed
 chatAI4R,kumes
 chatgpt,jcrodriguez1989
@@ -5984,7 +5985,6 @@ ERP,dcauseur
 erp.easy,mooretm
 ERPeq,emrahaltun
 ERPM,stocnet
-err,poissonconsulting
 errorist,coatless-rpkg
 errorlocate,data-cleaning
 errors,r-quantities
@@ -7329,8 +7329,8 @@ gamselBayes,mattwand
 gamstransfer,gams-dev
 ganDataModel,cran
 ganGenerativeData,cran
-GANPA,celreg
-GANPAdata,celreg
+GANPA,fang-zhaoyuan
+GANPAdata,fang-zhaoyuan
 gap,jinghuazhao
 gap.datasets,jinghuazhao
 GAparsimony,jpison
@@ -9301,7 +9301,7 @@ ibs,fchenhku
 iBST,cyprien84
 ic.infer,ugroempi
 iC10,cran
-iC10TrainingData,cran
+iC10TrainingData,rueda-lab
 ica,cran
 ical,petermeissner
 iCAMP,cran
@@ -10334,7 +10334,7 @@ kirby21.fmri,muschellij2
 kirby21.t1,muschellij2
 kisopenapi,seokhoonj
 kissDE,bioc
-kissmig,codelab3
+kissmig,cran
 kit,2005m
 kitagawa,abarbour
 kiwisR,rywhale
@@ -10360,6 +10360,7 @@ KMEANS.KNN,lallogo45
 kmed,weksi-budiaji
 Kmedians,godichon-baggioni
 kmer,shaunpwilkinson
+kmeRs,urniaz
 kmi,aallignol
 kml,cran
 kml3d,cran
@@ -12040,7 +12041,7 @@ MHTdiscrete,allenzhuaz
 MHTmult,allenzhuaz
 MHTrajectoryR,masedki
 mhurdle,ycroissant
-mi,cran
+mi,bgoodri
 mi4p,mariechion
 mia,bioc
 MIAmaxent,julienvollering
@@ -12125,7 +12126,7 @@ migraph,stocnet
 migrate,ketchbrookanalytics
 migration.indices,daroczig
 MigrationDetectR,cran
-migui,cran
+migui,bgoodri
 miic,miicteam
 MIIPW,atanubhattacharjee
 MIIVefa,lluo0
@@ -18066,6 +18067,7 @@ Rphylopars,ericgoolsby
 rphylopic,palaeoverse
 rpinterest,colinfay
 rpivotTable,smartinsightsfromdata
+rplanes,signaturescience
 rplotengine,cran
 rpls,filzmoserp
 rplum,maarten14c
@@ -20678,7 +20680,7 @@ StatMatch,cran
 statmod,gksmyth
 statnet,statnet
 statnet.common,statnet
-statnetWeb,martinamorris
+statnetWeb,statnet
 statnipokladna,petrbouchal
 StatPerMeCo,ctruciosm
 statprograms,cran
@@ -23419,7 +23421,7 @@ zenstats,rfsaldanha
 zeroEQpart,djrichar92
 zerotradeflow,alexandreloures
 zetadiv,cran
-ZetaSuite,cran
+ZetaSuite,junhuili1017
 zfa,cran
 zfit,torfason
 zFPKM,bioc
