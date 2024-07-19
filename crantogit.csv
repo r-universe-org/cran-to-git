@@ -76,6 +76,7 @@ adaptr,https://github.com/inceptdk/adaptr,,
 ADAPTS,https://github.com/sdanzige/adapts,,
 adaR,https://github.com/gesistsa/adar,,
 AdaSampling,https://github.com/pyanglab/adasampling,,
+adass,https://github.com/unina-sfere/adass,,
 adbcdrivermanager,https://github.com/apache/arrow-adbc,r/adbcdrivermanager,
 adbcpostgresql,https://github.com/apache/arrow-adbc,r/adbcpostgresql,
 adbcsqlite,https://github.com/apache/arrow-adbc,r/adbcsqlite,
@@ -327,7 +328,10 @@ antiProfiles,https://github.com/hcbravolab/antiprofiles,,bioc
 antitrust,https://github.com/luciu5/antitrust,,
 antiword,https://github.com/ropensci/antiword,,
 AntMAN,https://github.com/bbodin/antman,AntMAN,
+AnVILAz,https://github.com/bioconductor/anvilaz,,bioc
+AnVILBase,https://github.com/bioconductor/anvilbase,,bioc
 AnVILBilling,https://github.com/vjcitn/anvilbilling,,bioc
+AnVILGCP,https://github.com/bioconductor/anvilgcp,,bioc
 AnVILWorkflow,https://github.com/shbrief/anvilworkflow,,bioc
 AnxietySleep,https://github.com/nim-ach/anxietysleep,,
 anybadger,https://github.com/lmeninato/anybadger,,
@@ -3974,7 +3978,6 @@ filibustr,https://github.com/feinleib/filibustr,,
 filling,https://github.com/kisungyou/filling,,
 fillpattern,https://github.com/cmmr/fillpattern,,
 fillr,https://github.com/jelger12/fillr,,
-filteRjsats,https://github.com/tspaulding-esa/filterjsats,,archived
 filterNHP,https://github.com/avrincon/filternhp,,
 fImport,https://github.com/r-forge/rmetrics,pkg/fImport,
 finalfit,https://github.com/ewenharrison/finalfit,,
@@ -6519,6 +6522,7 @@ LMMstar,https://github.com/bozenne/lmmstar,,
 LMN,https://github.com/mlysy/lmn,,
 lmomco,https://github.com/wasquith/lmomco,,
 lmomPi,https://github.com/ecor/lmompi,,
+LMPdata,https://github.com/alekrutkowski/lmpdata,,
 lmPerm,https://github.com/mtorchiano/lmperm,,
 lmQCM,https://github.com/huangzhii/lmqcm,,
 lmSubsets,https://github.com/marc-hofmann/lmsubsets.r,pkg,
@@ -8757,6 +8761,7 @@ peperr,https://github.com/fbertran/peperr,,
 peppm,https://github.com/fndemarqui/peppm,,
 pepr,https://github.com/pepkit/pepr,,
 PepSAVIms,https://github.com/dapritchard/pepsavims,,
+PepSetTest,https://github.com/jmwangbio/pepsettest,,bioc
 PepsNMR,https://github.com/manonmartin/pepsnmr,,bioc
 pepStat,https://github.com/rglab/pepstat,,bioc
 Peptides,https://github.com/dosorio/peptides,,
@@ -8904,6 +8909,7 @@ picker,https://github.com/hms-dbmi/picker,,
 picR,https://github.com/javenrflo/picr,,
 PICS,https://github.com/srenan/pics,,bioc
 piecemaker,https://github.com/macmillancontentscience/piecemaker,,
+piecenorms,https://github.com/david-hammond/piecenorms,,
 piecepackr,https://github.com/piecepackr/piecepackr,,
 piecewiseSEM,https://github.com/jslefche/piecewisesem,,
 PieGlyph,https://github.com/rishvish/pieglyph,,
@@ -9113,6 +9119,7 @@ polyreg,https://github.com/matloff/polyreg,,
 polysat,https://github.com/lvclark/polysat,,
 polySegratio,https://github.com/petebaker/polysegratio,,
 polySegratioMM,https://github.com/petebaker/polysegratiomm,,
+PolySTest,https://github.com/computproteomics/polystest,,bioc
 polywog,https://github.com/brentonk/polywog,,
 POMA,https://github.com/pcastellanoescuder/poma,,bioc
 POMADE,https://github.com/mikkelvembye/pomade,,
@@ -13057,6 +13064,7 @@ tidyCpp,https://github.com/eddelbuettel/tidycpp,,
 tidycwl,https://github.com/sbg/tidycwl,,
 tidydann,https://github.com/gmcmacran/tidydann,,
 tidydatatutor,https://github.com/seankross/tidydatatutor,,
+tidydelta,https://github.com/javiermtzrdz/tidydelta,,
 tidyDenovix,https://github.com/alphaprime7/tidydenovix,,
 TidyDensity,https://github.com/spsanderson/tidydensity,,
 tidydice,https://github.com/rolkra/tidydice,,
