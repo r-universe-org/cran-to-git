@@ -17,12 +17,14 @@
   {
     "package": "iemisc",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
-    "url": "https://gitlab.com/iembry/iemisc"
+    "url": "https://gitlab.com/iembry/iemisc",
+    "registry": "archived"
   },
   {
     "package": "iemiscdata",
     "maintainer": "Irucka Embry <iembry@ecoccs.com>",
-    "url": "https://gitlab.com/iembry/iemiscdata"
+    "url": "https://gitlab.com/iembry/iemiscdata",
+    "registry": "archived"
   },
   {
     "package": "iemisctext",
