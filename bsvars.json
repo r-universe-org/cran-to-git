@@ -3,5 +3,10 @@
     "package": "bsvars",
     "maintainer": "Tomasz Woźniak <wozniak.tom@pm.me>",
     "url": "https://github.com/bsvars/bsvars"
+  },
+  {
+    "package": "bsvarSIGNs",
+    "maintainer": "Xiaolei Wang <adamwang15@gmail.com>",
+    "url": "https://github.com/bsvars/bsvarsigns"
   }
 ]
