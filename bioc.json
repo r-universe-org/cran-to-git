@@ -3208,7 +3208,7 @@
   },
   {
     "package": "DeMixT",
-    "maintainer": "Shuai Guo <shuai.guo@uth.tmc.edu>",
+    "maintainer": "Ruonan Li <RLi10@mdanderson.org>",
     "url": "https://git.bioconductor.org/packages/DeMixT",
     "registry": "bioc"
   },
@@ -11202,7 +11202,7 @@
   {
     "package": "scran",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/scran",
+    "url": "https://github.com/marionilab/scran",
     "registry": "bioc"
   },
   {
