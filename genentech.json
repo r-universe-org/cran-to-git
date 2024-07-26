@@ -1,5 +1,10 @@
 [
   {
+    "package": "checked",
+    "maintainer": "Szymon Maksymiuk <sz.maksymiuk@gmail.com>",
+    "url": "https://github.com/genentech/checked"
+  },
+  {
     "package": "covtracer",
     "maintainer": "Doug Kelkhoff <doug.kelkhoff@gmail.com>",
     "url": "https://github.com/genentech/covtracer"
