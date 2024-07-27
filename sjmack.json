@@ -1,5 +1,10 @@
 [
   {
+    "package": "HLAtools",
+    "maintainer": "Steven Mack <Steven.Mack@ucsf.edu>",
+    "url": "https://github.com/sjmack/hlatools"
+  },
+  {
     "package": "pould",
     "maintainer": "Steven Mack <steven.mack@ucsf.edu>",
     "url": "https://github.com/cran/pould"

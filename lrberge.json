@@ -5,9 +5,29 @@
     "url": "https://github.com/lrberge/dreamerr"
   },
   {
+    "package": "FENmlm",
+    "maintainer": "Laurent Berge <laurent.berge@u-bordeaux.fr>",
+    "url": "https://github.com/cran/FENmlm"
+  },
+  {
     "package": "fixest",
     "maintainer": "Laurent Berge <laurent.berge@u-bordeaux.fr>",
     "url": "https://github.com/lrberge/fixest"
+  },
+  {
+    "package": "fplot",
+    "maintainer": "Laurent Berge <laurent.berge@u-bordeaux.fr>",
+    "url": "https://github.com/lrberge/fplot"
+  },
+  {
+    "package": "HDclassif",
+    "maintainer": "Laurent Berge <laurent.berge@u-bordeaux.fr>",
+    "url": "https://github.com/lrberge/hdclassif"
+  },
+  {
+    "package": "hdd",
+    "maintainer": "Laurent Berge <laurent.berge@u-bordeaux.fr>",
+    "url": "https://github.com/lrberge/hdd"
   },
   {
     "package": "indexthis",

@@ -199,6 +199,7 @@ AdhereR,ddediu
 AdhereRViz,ddediu
 adimpro,cran
 ADImpute,bioc
+AdIsMF,cran
 adiv,sandrinepavoine
 adjclust,pneuvial
 adjROC,haghish
@@ -2696,7 +2697,7 @@ ChangePointTaylor,mmarks13
 ChangepointTesting,sth1402
 changepointTests,cran
 changer,helske
-changeRangeR,meblair
+changeRangeR,cran
 changeS,matloff
 ChannelAttribution,cran
 ChannelAttributionApp,davidealtomare
@@ -4714,7 +4715,7 @@ dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
 dhis2r,amanyiraho
-dhlabR,dh-lab-nb
+dhlabR,cran
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
@@ -5680,6 +5681,7 @@ elasticnet,cran
 elec,lmiratrix
 EleChemr,federicoviv
 elect,ardoucl
+ElectDecomp,cran
 elections,cran
 elections.dtree,fleverest
 electionsBR,silvadenisson
@@ -6592,7 +6594,7 @@ fellingdater,ropensci
 felp,atusy
 feltr,christopherkenny
 fence,cran
-FENmlm,cran
+FENmlm,lrberge
 fenr,bioc
 FEprovideR,umich-biostatistics
 FER,pyfe
@@ -7031,7 +7033,7 @@ FPDclustering,cran
 fpeek,davidgohel
 fpest,sampath1959
 FPLdata,andrewl776
-fplot,cran
+fplot,lrberge
 fplyr,fmarotta
 fpop,guillemr
 fpopw,guillemr
@@ -8797,12 +8799,12 @@ HDBRR,castlemon
 hdcate,cran
 HDCD,cran
 HDCI,xinxuyale
-HDclassif,cran
+HDclassif,lrberge
 HDclust,cran
 HDcpDetect,natasha-stewart
 hdcuremodels,kelliejarcher
 HDCurves,cran
-hdd,cran
+hdd,lrberge
 HDDesign,cran
 hddplot,jhmaindonald
 hddtools,ropensci
@@ -9035,6 +9037,7 @@ hkevp,lbelzile
 HKprocess,hristostyr
 HKRbook,sigbertklinke
 hlaR,larsenlab
+HLAtools,sjmack
 hlidacr,skvrnami
 HLMdiag,aloy
 hlt,mkleinsa
@@ -10237,7 +10240,7 @@ kappalab,cran
 kappaSize,cran
 KaradaColor,masakifujishima
 karaoke,cran
-karel,mpru
+karel,ropensci
 Karen,delcore-luca
 karlen,ramiromagno
 KarsTS,marinasams
@@ -12108,6 +12111,7 @@ micropan,larssnip
 microplot,rmheiberger
 microPop,helenkettle
 microRNA,bioc
+MicroSEC,mano-b
 microseq,larssnip
 microsimulation,mclements
 Microsoft365R,azure
@@ -18640,6 +18644,7 @@ samplesize,shearer
 SampleSize4ClinicalTrials,qihongchao
 samplesize4surveys,psirusteam
 samplesizeCMH,pegeler
+SampleSizeDiagnostics,mkhospital
 samplesizeestimator,dr-amala-kumarapandiyan
 samplesizelogisticcasecontrol,wheelerb
 SampleSizeMeans,cran
@@ -19280,6 +19285,7 @@ sfinx,cran
 sfislands,horankev
 sfnetworks,luukvdmeer
 sfo,covidr
+SFPL,cran
 SFS,cran
 SFSI,marcoolopez
 sfsmisc,mmaechler
@@ -22372,7 +22378,7 @@ TwoSampleTest.HD,cran
 twosigma,edvanburen
 TwoStepCLogit,cran
 twoway,friendly
-TwoWayFEWeights,cran
+TwoWayFEWeights,chaisemartinpackages
 twowaytests,osmandag
 twoxtwo,vpnagraj
 txcutr,bioc

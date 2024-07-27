@@ -455,6 +455,11 @@
     "url": "https://github.com/ropensci/jstor"
   },
   {
+    "package": "karel",
+    "maintainer": "Marcos Prunello <marcosprunello@gmail.com>",
+    "url": "https://github.com/ropensci/karel"
+  },
+  {
     "package": "katex",
     "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
     "url": "https://github.com/ropensci/katex"
@@ -557,7 +562,8 @@
   {
     "package": "ohun",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/ohun"
+    "url": "https://github.com/ropensci/ohun",
+    "registry": "archived"
   },
   {
     "package": "openalexR",
@@ -1113,6 +1119,11 @@
     "package": "wdman",
     "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
     "url": "https://github.com/ropensci/wdman"
+  },
+  {
+    "package": "weatherOz",
+    "maintainer": "Rodrigo Pires <rodrigo.pires@dpird.wa.gov.au>",
+    "url": "https://github.com/ropensci/weatheroz"
   },
   {
     "package": "webchem",
