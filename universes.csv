@@ -895,6 +895,7 @@ atmopt,simonmak
 ATNr,cran
 atom4R,eblondel
 atpolR,gsapijaszko
+ATQ,vjoshy
 ATR,thothorn
 atRisk,cran
 atrrr,jbgruber
@@ -1051,6 +1052,7 @@ BadRegionFinder,bioc
 baf,christopherkenny
 baffle,j-moravec
 bagged.outliertrees,rafajpsantos
+baggingbwsel,rubenfcasal
 baggr,wwiecek
 BAGofT,cran
 BAGS,bioc
@@ -1398,6 +1400,7 @@ beadarray,bioc
 BeadDataPackR,bioc
 beadplexr,ustervbo
 beakr,mazamascience
+BEAMR,annaseffernick
 beanplot,cran
 beans,topepo
 beanz,cran
@@ -2294,6 +2297,7 @@ calibrator,robinhankin
 CalibratR,cran
 calidad,klauslehmann
 callback,cran
+callme,coolbutuseless
 callr,r-lib
 callsync,simeonqs
 calm,bioc
@@ -3185,6 +3189,7 @@ cocktailApp,shabbychef
 CoClust,cran
 COCOA,bioc
 coconots,manuhuth
+cocons,blasif
 COCONUT,cran
 cocor,deboerk
 cocorresp,gavinsimpson
@@ -4715,7 +4720,7 @@ dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
 dhis2r,amanyiraho
-dhlabR,cran
+dhlabR,ingerid
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
@@ -7262,7 +7267,6 @@ fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
 fwb,ngreifer
 FWDselect,sestelo
-fwildclusterboot,s3alfisc
 fwlplot,cran
 FWRGB,cran
 fwsim,mikldk
@@ -7969,6 +7973,7 @@ ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
+ggsmc,richardgeveritt
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
 ggsom,oldlipe
@@ -9471,6 +9476,7 @@ IgGeneUsage,bioc
 iglu,irinagain
 igoR,dieghernan
 IGoRRR,cran
+igr,digitalnature-ie
 igraph,igraph
 igraphdata,igraph
 igraphinshiny,mingjerli
@@ -12492,7 +12498,6 @@ mmod,dwinter
 mmodely,dranthropoid
 mMPA,cran
 mmpca,cyianor
-mmpf,zmjones
 mmpp,cran
 mmr,stevecondylios
 MMRcaseselection,ingorohlfing
@@ -13651,6 +13656,7 @@ nnSVG,bioc
 nnt,yangzhao98
 NNTbiomarker,professorbeautiful
 nnTensor,rikenbit
+nntmvn,jcatwood
 NO.PING.PONG,bpoconnor
 noaaoceans,warlicks
 noaastormevents,geanders
@@ -14265,6 +14271,7 @@ orientlib,dmurdoch
 origami,tlverse
 origin,mnist91
 ORION,hkestler
+ORIONZ.G,cran
 ORKM,guangbaog
 orloca,mmm-uca
 orloca.es,mmm-uca
@@ -15585,6 +15592,7 @@ PracTools,cran
 prais,franzmohr
 praise,rladies
 pram,bioc
+PRANA,cran
 praznik,mbq
 prcbench,evalclass
 prclust,chongwu-biostat
@@ -18143,6 +18151,7 @@ rpyANTs,dipterix
 RPyGeo,r-spatial
 rpymat,dipterix
 Rqc,bioc
+rqcanon,cran
 rQCC,appliedstat
 rqdatatable,winvector
 RQdeltaCT,donadelnal
@@ -21918,6 +21927,7 @@ topdownr,bioc
 topdowntimeratio,daniellemccool
 topGO,bioc
 topicdoc,doug-friedman
+topiclabels,petersfritz
 topicmodels,cran
 topicmodels.etm,jwijffels
 TopicScore,minzhew
@@ -22406,6 +22416,7 @@ ubms,kenkellner
 UCell,bioc
 uci,ipeagit
 ucie,mikelkou
+ucimlrepo,coatless-rpkg
 uclust,cran
 ucminf,hdakpo
 UComp,djpedregal
@@ -23162,7 +23173,6 @@ wildcard,wlandau
 wildlifeDI,jedalong
 wildmeta,meghapsimatrix
 wildpoker,cran
-wildrwolf,s3alfisc
 wilson,loosolab
 winch,r-prof
 windAC,cran
@@ -23187,6 +23197,7 @@ wkutils,paleolimbot
 WLogit,clavie3009
 WLreg,marvels2031
 wmm,ropensci
+wmwm,cran
 wmwpow,cran
 WMWssp,happma
 wnl,cran
