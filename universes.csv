@@ -3655,6 +3655,7 @@ correspondenceTables,eurostat
 corrfuns,cran
 corrgram,kwstat
 corrgrapher,modeloriented
+corrMCT,cran
 corrmeta,wsjung
 CorrMixed,wimvde001
 corrplot,taiyun
@@ -9254,6 +9255,7 @@ hyperdraw,bioc
 HyperG,dmarchette
 hypergate,cran
 hypergeo,robinhankin
+HypergeoMat,stla
 hypergraph,bioc
 hyperoverlap,matildabrown
 hypersampleplan,xbjxh
@@ -9445,6 +9447,7 @@ IDSL.NPA,idslme
 IDSL.SUFA,idslme
 IDSL.UFA,idslme
 IDSL.UFAx,idslme
+IDSpatialStats,jlessler
 idx2r,edoffagne
 ie2misc,iembry
 ie2miscdata,iembry
@@ -11878,6 +11881,7 @@ metagenomeSeq,bioc
 metaggR,satopaa
 MetaHD,jayaminicl
 metahdep,bioc
+metaHelper,robertemprechtinger
 metaheuristicOpt,lala-s-riza
 metainc,cran
 MetaIntegration,umich-biostatistics
@@ -12659,6 +12663,7 @@ monreg,scottkosty
 Monte.Carlo.se,cran
 MonteCarlo,funwithr
 MonteCarloSEM,fatihorcan
+moocore,multi-objective
 moodef,josesamos
 moodlequizR,wolfgangrolke
 moodleR,chi2labs
@@ -13930,6 +13935,7 @@ OCplus,bioc
 ocs4R,eblondel
 OCSdata,opencasestudies
 octad,bioc
+octopucs,cran
 octopus,mcodrescu
 octopusR,moohan
 od,itsleeds
@@ -18151,7 +18157,7 @@ rpyANTs,dipterix
 RPyGeo,r-spatial
 rpymat,dipterix
 Rqc,bioc
-rqcanon,cran
+rqcanon,spor2
 rQCC,appliedstat
 rqdatatable,winvector
 RQdeltaCT,donadelnal
@@ -20836,7 +20842,7 @@ stpm,cran
 stpp,cran
 stpphawkes,jdtuck
 stppSim,manalytics
-stR,dokal01
+stR,robjhyndman
 str2str,ddisab01
 StrainRanking,cran
 strand,strand-tech
