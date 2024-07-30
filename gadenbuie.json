@@ -5,6 +5,12 @@
     "url": "https://github.com/gadenbuie/cleanrmd"
   },
   {
+    "package": "collegeScorecard",
+    "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
+    "url": "https://github.com/gadenbuie/scorecard-db",
+    "subdir": "pkg"
+  },
+  {
     "package": "countdown",
     "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
     "url": "https://github.com/gadenbuie/countdown",
