@@ -3510,6 +3510,7 @@ ConsensusOPLS,vanduttran
 consensusOV,bioc
 consensusSeekeR,bioc
 conserveR,azizka
+consibiocloudclient,cran
 consICA,bioc
 consolechoice,cran
 consort,adayim
@@ -4721,7 +4722,6 @@ DHBins,tslumley
 dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
-dhis2r,amanyiraho
 dhlabR,ingerid
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
@@ -7777,7 +7777,7 @@ gfer,yuanchao-xu
 GFGM.copula,cran
 gfiExtremes,stla
 gfilmm,stla
-gfilogisreg,laustep
+gfilogisreg,cran
 GFisher,wpihongzhang
 gfiUltra,stla
 GFM,feiyoung
@@ -8398,7 +8398,7 @@ grangers,matfar88
 GRaNIE,bioc
 granova,fbertran
 granovaGG,briandk
-grantham,maialab
+grantham,patterninstitute
 granulator,bioc
 GRAPE,michaelklein916
 graper,bioc
@@ -9378,6 +9378,7 @@ ichimoku,shikokuchuo
 iChip,bioc
 iClick,cran
 iClusterPlus,bioc
+iClusterVB,abdalkarima
 icmm,vitara-p
 iCNV,bioc
 iCOBRA,bioc
@@ -11861,7 +11862,7 @@ MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
 metaConvert,corentinjgosling
 metacore,atorus-research
-MetaculR,josephd000
+MetaculR,cran
 MetaCycle,gangwug
 MetaCyto,bioc
 metadat,wviechtb
@@ -11956,7 +11957,7 @@ methcon5,uscbiostats
 MethEvolSIM,sarisworld
 methimpute,bioc
 methInheritSim,bioc
-MethodCompare,cran
+MethodCompare,uberlulu
 methodical,bioc
 MethPed,bioc
 MethReg,bioc
@@ -12322,6 +12323,7 @@ mixlm,khliland
 MixMatrix,gzt
 mixmeta,gasparrini
 mixOmics,bioc
+mixOofA,doer0
 mixopt,collinerickson
 MixOptim,cran
 mixPHM,pmair78
@@ -14275,7 +14277,7 @@ orgutils,enricoschumann
 ORIClust,cran
 orientlib,dmurdoch
 origami,tlverse
-OrigamiPlot,cran
+OrigamiPlot,yiwenluiris
 origin,mnist91
 ORION,hkestler
 ORIONZ.G,cran
@@ -14385,6 +14387,7 @@ ozmaps,mdsumner
 p3state.msm,cran
 pa,yl2
 PAA,bioc
+paar,ppaccioretti
 PAC,yhenryli
 pack,joshuaulrich
 packageDiff,couthcommander
@@ -14919,6 +14922,7 @@ pfa,cran
 pfamAnalyzeR,bioc
 pfica,m-vidal
 PFIM,iame-researchcenter
+PFLR,haoluns
 pfr,trb5me
 pg,tmsalab
 pgam,wjunger
