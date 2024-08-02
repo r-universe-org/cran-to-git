@@ -4108,6 +4108,7 @@ CVD,cran
 cvequality,benmarwick
 cvGEE,drizopoulos
 CVglasso,mgallow
+cvLM,phipnye
 cvmaPLFAM,cran
 cvmdisc,cran
 cvmgof,romainazais
@@ -5605,7 +5606,7 @@ EEMDelm,cran
 EEMDlstm,kapiliasri
 EEMDSVR,cran
 eemdTDNN,cran
-EEML,yeasinstat
+EEML,ranjitstat
 eemR,pmassicotte
 eeptools,jknowles
 eesim,sakoehler7
@@ -6683,6 +6684,7 @@ filibustr,feinleib
 filling,kisungyou
 fillpattern,cmmr
 fillr,jelger12
+FilmsGmooG,impaug
 FilterFFPE,bioc
 filterNHP,avrincon
 filters,shajoezhu
@@ -6723,6 +6725,7 @@ finnsurveytext,dariah-fi-survey-concept-network
 finnts,microsoft
 finreportr,sewardlee337
 FinTS,cran
+fio,albersonmiranda
 fipio,program--
 fipp,cran
 FiRE,princethewinner
@@ -9697,7 +9700,6 @@ INLAjoint,denisrustand
 inlamemi,emmaskarstein
 INLAspacetime,eliaskrainski
 inlcolor,jfisher-usgs
-inldata,jfisher-usgs
 inline,eddelbuettel
 inlinedocs,tdhock
 inlpubs,jfisher-usgs
@@ -9763,6 +9765,7 @@ InteRD,chencxxy28
 interep,feizhoustat
 IntEREst,bioc
 InterfaceqPCR,cran
+interfacer,bristol-vaccine-centre
 interflex,lzy318
 interfr,cran
 intergraph,mbojan
@@ -10697,6 +10700,7 @@ leafsync,r-spatial
 leaftime,timelyportfolio
 leakyIV,dswatson
 leanpubr,muschellij2
+leapgp,cran
 leapp,cran
 leaps,tslumley
 LeArEst,cran
@@ -11292,6 +11296,7 @@ madrat,pik-piam
 MADSEQ,bioc
 madshapR,maelstrom-research
 madsim,doulaye
+maestro,whipson
 Maeswrap,remkoduursma
 maftools,bioc
 MAGAR,bioc
@@ -12682,6 +12687,7 @@ moose,cran
 mop,marlonecobos
 mopac,sccmckenzie
 MOQA,cran
+moranajp,matutosi
 moreparty,cran
 morepls,cran
 morestopwords,fatelarico
@@ -13237,6 +13243,7 @@ NAEPirtparams,sunnyjooey
 NAEPprimer,cran
 naflex,dannyparsons
 naijR,ropensci
+NaileR,cran
 NAIR,mlizhangx
 naive,cran
 naivebayes,majkamichal
@@ -14374,6 +14381,7 @@ overlapping,cran
 overlapptest,cran
 overture,kurtis-s
 overturemapsr,denironyx
+overtureR,arthurgailes
 overviewR,cosimameyer
 OVESEG,bioc
 OVL.CI,albfranc
@@ -18689,6 +18697,7 @@ samplingin,choerulafifanto
 samplingR,javeste
 SamplingStrata,barcaroli
 samplingVarEst,cran
+samplr,lucas-castillo
 samplrData,lucas-castillo
 SAMprior,pengyang0411
 sampsizeval,mpavlou
