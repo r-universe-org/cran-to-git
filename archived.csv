@@ -1610,7 +1610,7 @@
 "fieldRS","0.2.3","Ruben Remelgado <remelgado.ruben@gmail.com>","https://github.com/rremelgado/fieldrs",2023-02-27,"issues were not corrected in time.  Does not use 'RStoolbox' conditionally."
 "filibustr","0.2.1","Max Feinleib <mhfeinleib@gmail.com>","https://github.com/feinleib/filibustr",2024-07-19,"repeated policy violation.  On Internet access."
 "filteRjsats","1.0","Taylor Spaulding <tspaulding@esassoc.com>",NA,2024-05-20,"policy violation.  On Internet access."
-"fio","0.1.0","Alberson da Silva Miranda <albersonmiranda@hotmail.com>","https://github.com/albersonmiranda/fio",2024-08-02,"policy violation  Ignoring the requirements for Rust users, including testing on older versions and reporting the version of rustc/cargo in use."
+"fio","0.1.0","Alberson da Silva Miranda <albersonmiranda@hotmail.com>","https://github.com/albersonmiranda/fio",2024-08-02,"policy violation  Ignoring the requirements for Rust users, including testing on older versions and reporting the version of 'rustc'/'cargo' in use."
 "fipe","0.0.1","Italo Cegatta <italocegatta@gmail.com>","https://github.com/italocegatta/fipe",2022-04-24,"check problems were not corrected in time."
 "fisheyeR","0.9","Eduardo San Miguel Martin
 <eduardo.san.miguel.martin@gmail.com>",NA,2022-03-06,"check problems were not corrected in time."
