@@ -2144,6 +2144,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CleanUpRNAseq",
+    "maintainer": "Haibo Liu <haibo.liu@umassmed.edu>",
+    "url": "https://github.com/haibol2016/cleanuprnaseq",
+    "registry": "bioc"
+  },
+  {
     "package": "cleaver",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
     "url": "https://github.com/sgibb/cleaver",
@@ -6039,6 +6045,12 @@
     "registry": "bioc"
   },
   {
+    "package": "immunogenViewer",
+    "maintainer": "Katharina Waury <kathiwaury@gmail.com>",
+    "url": "https://github.com/kathiwaury/immunogenviewer",
+    "registry": "bioc"
+  },
+  {
     "package": "immunotation",
     "maintainer": "Katharina Imkeller <k.imkeller@dkfz.de>",
     "url": "https://github.com/imkeller/immunotation",
@@ -6255,6 +6267,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iSEEtree",
+    "maintainer": "Giulio Benedetti <giulio.benedetti@utu.fi>",
+    "url": "https://github.com/microbiome/iseetree",
+    "registry": "bioc"
+  },
+  {
     "package": "iSEEu",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseeu",
@@ -6414,6 +6432,12 @@
     "package": "kissDE",
     "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/lbbe-software/kissde",
+    "registry": "bioc"
+  },
+  {
+    "package": "kmcut",
+    "maintainer": "Igor Kuznetsov <ibkalb@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/kmcut",
     "registry": "bioc"
   },
   {
@@ -10697,7 +10721,7 @@
   },
   {
     "package": "rSWeeP",
-    "maintainer": "Danrley R. Fernandes <DanrleyRF@gmail.com>",
+    "maintainer": "Camila P Perico <camilapp94@gmail.com>",
     "url": "https://git.bioconductor.org/packages/rSWeeP",
     "registry": "bioc"
   },
@@ -11299,6 +11323,12 @@
     "package": "SDAMS",
     "maintainer": "Yuntong Li <liyuntong0704@gmail.com>",
     "url": "https://git.bioconductor.org/packages/SDAMS",
+    "registry": "bioc"
+  },
+  {
+    "package": "seahtrue",
+    "maintainer": "Vincent de Boer <vincent.deboer@wur.nl>",
+    "url": "https://github.com/vcjdeboer/seahtrue",
     "registry": "bioc"
   },
   {
@@ -12169,6 +12199,12 @@
     "package": "ssviz",
     "maintainer": "Diana Low <lowdiana@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ssviz",
+    "registry": "bioc"
+  },
+  {
+    "package": "StabMap",
+    "maintainer": "Shila Ghazanfar <shazanfar@gmail.com>",
+    "url": "https://github.com/sydneybiox/stabmap",
     "registry": "bioc"
   },
   {
