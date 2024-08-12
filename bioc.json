@@ -2180,6 +2180,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cliqueMS",
+    "maintainer": "Oriol Senan Campos <oriol.senan@praenoscere.com>",
+    "url": "https://github.com/osenan/cliquems",
+    "registry": "bioc"
+  },
+  {
     "package": "Clomial",
     "maintainer": "Habil Zare <zare@u.washington.edu>",
     "url": "https://git.bioconductor.org/packages/Clomial",
@@ -12457,7 +12463,7 @@
   {
     "package": "SynExtend",
     "maintainer": "Nicholas Cooley <npc19@pitt.edu>",
-    "url": "https://git.bioconductor.org/packages/SynExtend",
+    "url": "https://github.com/npcooley/synextend",
     "registry": "bioc"
   },
   {
