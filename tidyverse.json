@@ -20,6 +20,11 @@
     "url": "https://github.com/tidyverse/dtplyr"
   },
   {
+    "package": "duckplyr",
+    "maintainer": "Kirill Müller <kirill@cynkra.com>",
+    "url": "https://github.com/tidyverse/duckplyr"
+  },
+  {
     "package": "forcats",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/tidyverse/forcats"
