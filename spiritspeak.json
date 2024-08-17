@@ -1,7 +1,12 @@
 [
   {
     "package": "AATtools",
-    "maintainer": "Sercan Kahveci <sercan.kahveci@sbg.ac.at>",
+    "maintainer": "Sercan Kahveci <sercan.kahveci@plus.ac.at>",
     "url": "https://github.com/spiritspeak/aattools"
+  },
+  {
+    "package": "rapidsplithalf",
+    "maintainer": "Sercan Kahveci <sercan.kahveci@plus.ac.at>",
+    "url": "https://github.com/spiritspeak/rapidsplit"
   }
 ]
