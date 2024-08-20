@@ -2,7 +2,8 @@
   {
     "package": "arcgis",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
-    "url": "https://github.com/r-arcgis/arcgis"
+    "url": "https://github.com/r-arcgis/arcgis",
+    "registry": "archived"
   },
   {
     "package": "arcgisgeocode",
@@ -12,7 +13,8 @@
   {
     "package": "arcgislayers",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
-    "url": "https://github.com/r-arcgis/arcgislayers"
+    "url": "https://github.com/r-arcgis/arcgislayers",
+    "registry": "archived"
   },
   {
     "package": "arcgisutils",
@@ -22,6 +24,7 @@
   {
     "package": "arcpbf",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
-    "url": "https://github.com/r-arcgis/arcpbf"
+    "url": "https://github.com/r-arcgis/arcpbf",
+    "registry": "archived"
   }
 ]

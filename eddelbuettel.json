@@ -200,6 +200,11 @@
     "url": "https://github.com/eddelbuettel/rcppint64"
   },
   {
+    "package": "RcppMagicEnum",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppmagicenum"
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack"

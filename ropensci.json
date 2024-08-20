@@ -307,12 +307,14 @@
   {
     "package": "fastMatMR",
     "maintainer": "Rohit Goswami <rgoswami@ieee.org>",
-    "url": "https://github.com/ropensci/fastmatmr"
+    "url": "https://github.com/ropensci/fastmatmr",
+    "registry": "archived"
   },
   {
     "package": "FedData",
     "maintainer": "R. Kyle Bocinsky <bocinsky@gmail.com>",
-    "url": "https://github.com/ropensci/feddata"
+    "url": "https://github.com/ropensci/feddata",
+    "registry": "archived"
   },
   {
     "package": "fluidsynth",
@@ -495,6 +497,11 @@
     "url": "https://github.com/ropensci/mauricer"
   },
   {
+    "package": "mcbette",
+    "maintainer": "Richèl J.C. Bilderbeek <rjcbilderbeek@gmail.com>",
+    "url": "https://github.com/ropensci/mcbette"
+  },
+  {
     "package": "mctq",
     "maintainer": "Daniel Vartanian <danvartan@gmail.com>",
     "url": "https://github.com/ropensci/mctq"
@@ -562,8 +569,7 @@
   {
     "package": "ohun",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/ohun",
-    "registry": "archived"
+    "url": "https://github.com/ropensci/ohun"
   },
   {
     "package": "openalexR",
@@ -1068,7 +1074,8 @@
   {
     "package": "treedata.table",
     "maintainer": "Cristian Roman-Palacios <cromanpa94@email.arizona.edu>",
-    "url": "https://github.com/ropensci/treedata.table"
+    "url": "https://github.com/ropensci/treedata.table",
+    "registry": "archived"
   },
   {
     "package": "treestartr",

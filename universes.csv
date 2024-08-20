@@ -93,7 +93,7 @@ acnr,mpierrejean
 acopula,cran
 AcousticNDLCodeR,denis-arnold
 acp,cran
-acro,jim-smith
+acro,ai-sdc
 acroname,vpnagraj
 AcrossTic,buttrey
 acs,eglenn
@@ -245,6 +245,7 @@ ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
 adwordsR,cran
+aebdata,hhmacedo
 aeddo,ssi-dk
 AEDForecasting,apunatto
 aedseo,ssi-dk
@@ -2534,6 +2535,7 @@ ccRemover,cran
 ccrepe,bioc
 ccrs,cran
 ccrtm,marcodvisser
+CCSRfind,cran
 ccss,abhibhavs
 ccTensor,rikenbit
 cctools,cran
@@ -5327,7 +5329,7 @@ dvir,magnusdv
 dvmisc,vandomed
 dvqcc,cran
 dwctaxon,ropensci
-DWDLargeR,kim-chuantoh
+DWDLargeR,cran
 dwdradar,brry
 DWLasso,cran
 dwlm,hugogasca
@@ -5505,7 +5507,7 @@ ecoCopula,cran
 ecode,haoranpopevo
 EcoDiet,pyhernvann
 ecodist,phiala
-EcoEnsemble,cran
+EcoEnsemble,cefasrepres
 Ecohydmod,rodolfomssouza
 EcoIndR,cran
 ECoL,lpfgarcia
@@ -9077,7 +9079,7 @@ HMR,cran
 hms,tidyverse
 Hmsc,hmsc-r
 hmsr,wojtacht
-hmstimer,joethorley
+hmstimer,poissonconsulting
 HMTL,hermitz9
 hNMF,nsauwen
 hnp,cran
@@ -9165,6 +9167,7 @@ htm2txt,replicable
 html2R,stla
 html5,tconwell
 htmldf,alastairrushworth
+htmlreportR,aestebanmar
 htmlTable,gforge
 htmltools,rstudio
 HTMLUtils,cran
@@ -13880,6 +13883,7 @@ numGen,aidenloe
 numKM,marsdu1989
 numOSL,pengjunucas
 NuPoP,bioc
+NUSS,theogrost
 NutrienTrackeR,rafael-ayala
 nutriNetwork,pariya
 nutrition,wleoncio
@@ -13919,6 +13923,7 @@ OBMbpkg,john-snyder
 OBRE,cran
 Observation,paulhibbing
 observer,paulponcet
+OBsMD,cran
 obsSens,glsnow
 oc,wmay
 OCA,cran
@@ -14588,7 +14593,7 @@ Partiallyoverlapping,cran
 PartialNetwork,ahoundetoungan
 particle.swarm.optimisation,brunettheo
 particles,thomasp85
-parTimeROC,cran
+parTimeROC,faizazhar
 partition,uscbiostats
 partitionBEFsp,adamtclark
 partitionComparison,kit-iism-em
@@ -14892,6 +14897,7 @@ PermAlgo,cran
 PERMANOVA,laura20vg
 PerMat,cran
 permChacko,ocbe-uio
+PermCor,cran
 permGS,mbrueckner
 permimp,ddebeer
 permPATH,ishterev33
@@ -15730,6 +15736,7 @@ PrInDT,cran
 printr,yihui
 prinvars,ronho
 prioGene,huerqiang
+priorCON,cadam00
 PriorGen,kpatera
 prioriactions,prioriactions
 prioritizr,prioritizr
@@ -16863,6 +16870,7 @@ RcppHungarian,jsilve24
 RcppInt64,eddelbuettel
 RcppJagger,shusei-e
 RcppLbfgsBlaze,chingchuan-chen
+RcppMagicEnum,eddelbuettel
 RcppMeCab,junhewk
 RcppML,zdebruine
 RcppMsgPack,eddelbuettel
@@ -21147,6 +21155,7 @@ svines,tnagler
 svKomodo,sciviews
 SVMDO,bioc
 svMisc,sciviews
+SVMMaj,hoksanyip
 svmpath,trevorhastie
 SVN,damienchallet
 svplots,cran
@@ -21691,6 +21700,7 @@ tidybulk,bioc
 tidycat,guyabel
 tidyCDISC,biogen-inc
 tidycensus,walkerke
+tidychangepoint,beanumber
 tidycharts,mi2datalab
 tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
@@ -23086,6 +23096,7 @@ weathercan,ropensci
 weatherindices,akstat21
 weathermetrics,geanders
 weatherOz,ropensci
+WeatherSentiment,leilamarvian
 weaver,bioc
 WebAnalytics,gregfrog
 webbioc,bioc
