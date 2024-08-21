@@ -5329,7 +5329,7 @@ dvir,magnusdv
 dvmisc,vandomed
 dvqcc,cran
 dwctaxon,ropensci
-DWDLargeR,cran
+DWDLargeR,xylam
 dwdradar,brry
 DWLasso,cran
 dwlm,hugogasca
@@ -7656,6 +7656,7 @@ GeoDiff,bioc
 geodimension,josesamos
 geodist,hypertidy
 geodiv,bioxgeo
+geodl,maxwell-geospatial
 geodrawr,curycu
 GeodRegr,hayoungshin1
 geoelectrics,kleebaum
@@ -9351,6 +9352,7 @@ ICcforest,weichiyao
 iccTraj,jlcarrascoub
 icd.data,cran
 ICD10gm,edonnachie
+icdcomorbid,cran
 icdGLM,sdlugosz
 icdpicr,ablack3
 ICDS,hanjunwei-lab
@@ -10915,6 +10917,7 @@ listviewer,timelyportfolio
 listWithDefaults,russellpierce
 lit,ajbass
 lite,paulnorthrop
+litedown,yihui
 liteq,r-lib
 literanger,stephematician
 litRiddle,computationalstylistics
@@ -13310,6 +13313,7 @@ nberwp,bldavies
 nbfar,amishra-stats
 NBLDA,dncr
 nblR,jaseziv
+nbody,obreschkow
 nbpMatching,couthcommander
 NBPSeq,diystat
 NBR,cran
@@ -18422,7 +18426,7 @@ Rthingsboard,ddorch
 rticles,rstudio
 rticulate,stefanocoretta
 rtiddlywiki,byzheng
-rtide,poissonconsulting
+rtide,aylapear
 rties,ebmtnprof
 RTIGER,rfael0cm
 rtika,ropensci
@@ -21100,6 +21104,7 @@ SurvivalClusteringTree,luyouepiusf
 survivalmodels,foucher-y
 survivalMPL,dlc48
 survivalMPLdc,kenny-jing-xu
+survivalPLANN,chupverse
 survivalREC,gsoutinho
 survivalROC,paramita-sc
 survivalSL,foucher-y
@@ -21167,6 +21172,7 @@ svSweave,sciviews
 svTools,phgrosjean
 svUnit,sciviews
 svWidgets,phgrosjean
+svycdiff,salernos
 svydiags,cran
 svylme,tslumley
 SvyNom,mskcc-epi-bio
@@ -22614,7 +22620,7 @@ USgas,ramikrispin
 USgrid,ramikrispin
 ushr,sineadmorris
 usincometaxes,shanejorr
-UsingR,cran
+UsingR,jverzani
 uskewFactors,cran
 usl,smoeding
 usmap,pdil
@@ -22884,7 +22890,6 @@ VisiumIO,bioc
 vismeteor,jankorichter
 visNetwork,datastorm-open
 visOmopResults,darwin-eu
-visR,openpharma
 visreg,pbreheny
 vissE,bioc
 visStatistics,shhschilling
@@ -23297,7 +23302,7 @@ wppi,bioc
 WpProj,ericdunipace
 wql,jsta
 wqs,cran
-wqspt,cran
+wqspt,drewdstat
 wqtrends,tbep-tech
 WR,lmaowisc
 wrangle,bergsmat
