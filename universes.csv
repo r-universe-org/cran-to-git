@@ -214,6 +214,7 @@ admiral.test,bms63
 admiraldev,pharmaverse
 admiralonco,pharmaverse
 admiralophtha,pharmaverse
+admiralpeds,pharmaverse
 admiralvaccine,pharmaverse
 admisc,dusadrian
 AdMit,ardiad
@@ -755,6 +756,7 @@ ARIMAANN,cran
 arkdb,ropensci
 arkhe,tesselle
 arm,suyusung
+armadillo,pachadotdev
 ARMALSTM,cran
 armspp,mbertolacci
 arnie,imanuelcostigan
@@ -933,7 +935,6 @@ auth0,curso-r
 auto.pca,navinkumarnedunchezhian
 AutoAds,nemtsevvv
 autoBagging,vcerqueira
-autocart,ethanancell
 autocogs,schloerke
 autoCovariateSelection,technoslerphile
 AutoDeskR,paulgovan
@@ -2380,7 +2381,6 @@ caretForecast,akai01
 carfima,hyungsuktak
 cargo,dbdahl
 caribou,cran
-CARlasso,yunyishen
 CarletonStats,aloy
 Carlson,stla
 CARM,fanglu-chen
@@ -4753,6 +4753,7 @@ dice,cran
 DiceDesign,chelbert
 DiceEval,chelbert
 DiceKriging,roustant
+DICEM,myeomans
 DiceOptim,cran
 diceR,alinetalhouk
 DiceView,irsn
@@ -7070,7 +7071,6 @@ FracKrigingR,nidagreen
 fracprolif,spgarbet
 fractaldim,hanase
 FractalParameterEstimation,cran
-fractalRegression,cran
 fractD,fscopaolomancuso
 FRACTION,cran
 fractional,billvenables
@@ -7709,7 +7709,7 @@ geoSAE,ketutdika
 geosapi,eblondel
 geoscale,markbells
 geosed,cran
-geosimilarity,cran
+geosimilarity,ausgis
 geospark,harryprince
 geosphere,rspatial
 geospt,amsantac
@@ -8988,6 +8988,7 @@ hierNet,jacobbien
 HierPortfolios,ctruciosm
 hierSDR,jaredhuling
 highcharter,jbkunst
+highd2means,cran
 highDmean,huaiyuzhang
 HighestMedianRules,bixiou
 highfrequency,jonathancornelissen
@@ -9352,7 +9353,7 @@ ICcforest,weichiyao
 iccTraj,jlcarrascoub
 icd.data,cran
 ICD10gm,edonnachie
-icdcomorbid,cran
+icdcomorbid,aprilnguyen1
 icdGLM,sdlugosz
 icdpicr,ablack3
 ICDS,hanjunwei-lab
@@ -9813,6 +9814,7 @@ intrinsicFRP,a91quaini
 intrinsicKappa,cran
 intrval,psolymos
 intRvals,cran
+intSDM,philipmostert
 intsurv,wenjie2wang
 intsvy,eldafani
 inum,thothorn
@@ -12700,6 +12702,7 @@ morphemepiece.data,macmillancontentscience
 morpheus,yagu0
 Morpho,zarquon42b
 morphomap,aprofico
+MorphoRegions,aagillet
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morrowplots,sandical
@@ -12888,6 +12891,7 @@ MSigSeg,cran
 mSigTools,rozen-lab
 mSimCC,dmorinya
 msImpute,bioc
+MSinference,cran
 MSiP,mrbakhsh
 msir,luca-scr
 mskcc.oncotree,maialab
@@ -14161,6 +14165,7 @@ openNLPdata,kurthornik
 openPrimeR,bioc
 OpenRepGrid,markheckmann
 OpenRepGrid.ic,markheckmann
+openscoring,jakub-jedrusiak
 openSkies,rafael-ayala
 OpenSpecy,wincowgerdev
 openssl,jeroen
@@ -14274,7 +14279,7 @@ ordinalForest,romanhornung
 ordinalgmifs,kelliejarcher
 ordinalLBM,marcogenni
 ordinalNet,cran
-ordinalpattern,alexanderdurre
+ordinalpattern,cran
 ordinalRR,kjryan13
 OrdMonReg,numbersman77
 OrdNor,bernice0321
@@ -19256,7 +19261,6 @@ seqCAT,bioc
 seqcombo,bioc
 seqDesign,mjuraska
 SeqDetect,cran
-seqest,cran
 SeqExpMatch,kapelner
 SeqFeatR,cran
 SeqGate,bioc
