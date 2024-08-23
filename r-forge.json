@@ -150,6 +150,12 @@
     "subdir": "pkg/cotram"
   },
   {
+    "package": "crch",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/r-forge/topmodels",
+    "subdir": "pkg/crch"
+  },
+  {
     "package": "deSolve",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/r-forge/desolve",
