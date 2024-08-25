@@ -482,13 +482,13 @@
   },
   {
     "package": "AnVILAz",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/anvilaz",
     "registry": "bioc"
   },
   {
     "package": "AnVILBase",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/anvilbase",
     "registry": "bioc"
   },
@@ -506,7 +506,7 @@
   },
   {
     "package": "AnVILPublish",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://git.bioconductor.org/packages/AnVILPublish",
     "registry": "bioc"
   },
@@ -1046,7 +1046,7 @@
   },
   {
     "package": "BiocBaseUtils",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/biocbaseutils",
     "registry": "bioc"
   },
@@ -1058,7 +1058,7 @@
   },
   {
     "package": "BiocCheck",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/bioccheck",
     "registry": "bioc"
   },
@@ -1094,13 +1094,13 @@
   },
   {
     "package": "BiocHubsShiny",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/biochubsshiny",
     "registry": "bioc"
   },
   {
     "package": "BiocIO",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/biocio",
     "registry": "bioc"
   },
@@ -1683,7 +1683,7 @@
   },
   {
     "package": "cBioPortalData",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/cbioportaldata",
     "registry": "bioc"
   },
@@ -7540,7 +7540,7 @@
   },
   {
     "package": "miRBaseConverter",
-    "maintainer": "Taosheng Xu<taosheng.x@gmail.com>",
+    "maintainer": "Taosheng Xu Taosheng Xu <taosheng.x@gmail.com>",
     "url": "https://github.com/taoshengxu/mirbaseconverter",
     "registry": "bioc"
   },
@@ -8068,7 +8068,7 @@
   },
   {
     "package": "MultiAssayExperiment",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/multiassayexperiment",
     "registry": "bioc"
   },
@@ -9785,7 +9785,7 @@
   },
   {
     "package": "RaggedExperiment",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/raggedexperiment",
     "registry": "bioc"
   },
@@ -10745,7 +10745,7 @@
   },
   {
     "package": "RTCGAToolbox",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/mksamur/rtcgatoolbox",
     "registry": "bioc"
   },
@@ -12570,7 +12570,7 @@
   },
   {
     "package": "TCGAutils",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/tcgautils",
     "registry": "bioc"
   },
@@ -12600,7 +12600,7 @@
   },
   {
     "package": "TENxIO",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/tenxio",
     "registry": "bioc"
   },
@@ -12624,7 +12624,7 @@
   },
   {
     "package": "terraTCGAdata",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/terratcgadata",
     "registry": "bioc"
   },
@@ -13158,7 +13158,7 @@
   },
   {
     "package": "UniProt.ws",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/uniprot.ws",
     "registry": "bioc"
   },
@@ -13314,7 +13314,7 @@
   },
   {
     "package": "VisiumIO",
-    "maintainer": "Marcel Ramos <marcel.ramos@roswellpark.org>",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/visiumio",
     "registry": "bioc"
   },
