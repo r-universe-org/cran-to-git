@@ -72,7 +72,8 @@
   {
     "package": "bold",
     "maintainer": "Salix Dubois <salixdubois+bold@gmail.com>",
-    "url": "https://github.com/ropensci/bold"
+    "url": "https://github.com/ropensci/bold",
+    "registry": "archived"
   },
   {
     "package": "camsRad",
@@ -994,7 +995,7 @@
   },
   {
     "package": "taxize",
-    "maintainer": "Zachary Foster <zacharyfoster1989@gmail.com>",
+    "maintainer": "ORPHANED",
     "url": "https://github.com/ropensci/taxize"
   },
   {

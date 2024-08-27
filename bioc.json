@@ -1155,7 +1155,7 @@
   {
     "package": "BiocSklearn",
     "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
-    "url": "https://git.bioconductor.org/packages/BiocSklearn",
+    "url": "https://github.com/vjcitn/biocsklearn",
     "registry": "bioc"
   },
   {
@@ -2265,7 +2265,7 @@
   },
   {
     "package": "clustifyr",
-    "maintainer": "Kent Riemondy <kent.riemondy@cuanschutz.edu>",
+    "maintainer": "Kent Riemondy <kent.riemondy@gmail.com>",
     "url": "https://github.com/rnabioco/clustifyr",
     "registry": "bioc"
   },
@@ -7594,7 +7594,7 @@
   },
   {
     "package": "miRspongeR",
-    "maintainer": "Junpeng Zhang <zhangjunpeng411@gmail.com>",
+    "maintainer": "Junpeng Zhang <zjp@dali.edu.cn>",
     "url": "https://github.com/zhangjunpeng411/mirsponger",
     "registry": "bioc"
   },

@@ -583,10 +583,6 @@ anscombiser,paulnorthrop
 ANSM5,neilhspencer
 AntAngioCOOL,cran
 antanym,ropensci
-antaresEditObject,rte-antares-rpackage
-antaresProcessing,rte-antares-rpackage
-antaresRead,rte-antares-rpackage
-antaresViz,rte-antares-rpackage
 anthro,worldhealthorganization
 anthroplus,dirkschumacher
 AnthropMMD,frederic-santos
@@ -1113,6 +1109,7 @@ BarcodingR,zhangab2008
 bardr,wzbillings
 bark,merliseclyde
 Barnard,kerguler
+barrks,jjentschke
 BART,rsparapa
 bartCause,vdorie
 bartcs,yooyh
@@ -4767,6 +4764,7 @@ dictionaRy,stevecondylios
 did,bcallaway11
 did2s,kylebutts
 DidacticBoost,dashaub
+didec,cran
 Diderot,cran
 DiDforBigData,setzler
 DIDHAD,cran
@@ -6942,6 +6940,7 @@ fnets,haeran-cho
 FNN,cran
 fNonlinear,waternumbers
 FnR,nilforooshan
+fntl,andrewraim
 fobitools,bioc
 FOCI,monaazadkia
 focusedMDS,lea-urpa
@@ -7502,6 +7501,7 @@ gelnet,artemsokolov
 GEM,bioc
 GEmetrics,simonrio
 gemini,bioc
+gemini.R,jhk0530
 gemma.R,bioc
 gemma2,fboehm
 gems,svizcaya
@@ -7653,6 +7653,7 @@ geocausal,mmukaigawara
 geocmeans,jeremygelb
 geodaData,spatialanalysis
 geodata,rspatial
+geodetector,cran
 GeoDiff,bioc
 geodimension,josesamos
 geodist,hypertidy
@@ -9176,6 +9177,7 @@ htmltools,rstudio
 HTMLUtils,cran
 htmlwidgets,ramnathv
 HTqPCR,bioc
+htrSPRanalysis,cran
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
@@ -10602,6 +10604,7 @@ LATERmodel,unimelbmdap
 latex2exp,stefano-meschiari
 latexdiffr,hughjonesd
 latexpdf,bergsmat
+latexSymb,nescoba
 latrend,philips-software
 latte,dkahle
 lattice,deepayan
@@ -14255,7 +14258,6 @@ opusminer,cbergmeir
 OPWeight,bioc
 OralOpioids,ankonahouston
 orbital,tidymodels
-orbweaver,ixpantia
 orca,thocevar
 orclus,g-rho
 ORCME,cran
@@ -14316,6 +14318,7 @@ oro.nifti,bjw34032
 oro.pet,bjw34032
 orsifronts,australianantarcticdivision
 orsk,cran
+ORTH.Ord,mengcan47
 orthoDr,teazrq
 orthogene,bioc
 orthogonalsplinebasis,halpo
@@ -14354,6 +14357,7 @@ OssaNMA,fangshuye
 OSsurvival,laylaparast
 Ostats,neon-biodiversity
 OSTE,cran
+osum,zivankaraman
 otargen,amirfeizi
 OTclust,phoelief
 OTE,cran
@@ -14930,6 +14934,7 @@ personalized2part,jaredhuling
 personalr,mrcaseb
 personr,flujoo
 perspectev,cran
+persval,g-corbelli
 perturbR,kgates
 peruflorads43,paulesantos
 peruse,jacgoldsm
@@ -15526,6 +15531,7 @@ portvine,emanuelsommer
 poset,lmaowisc
 POSetR,albertoarcagni
 PoSI,wan-z
+PoSIAdjRSquared,cran
 posologyr,levenc
 PosRatioDist,tragedybmc127
 POSSA,gasparl
@@ -16369,6 +16375,7 @@ qusage,bioc
 Qval,haijiangq
 qvalue,bioc
 qvcalc,davidfirth
+qvirus,juanv66x
 qwalkr,vitormarquesr
 QWDAP,cran
 qwraps2,dewittpe
@@ -17658,6 +17665,7 @@ rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
 rJava,s-u
+rJavaEnv,e-kotov
 RJcluster,rshudde
 RJDBC,s-u
 RJDemetra,rjdverse
@@ -18042,6 +18050,7 @@ rollbar,ankane
 rolldown,yihui
 rollinglda,jonasrieger
 rollmatch,rtiinternational
+rollup,cran
 roloc,pmur002
 rolocISCCNBS,pmur002
 rolog,mgondan
@@ -19384,6 +19393,7 @@ sgt,cran
 shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
+shannon,imranshakoor
 ShapDoE,lqyang0714
 shape,karlines
 ShapeChange,cran
@@ -21764,6 +21774,7 @@ tidylog,elbersb
 tidyLPA,data-edu
 tidyMC,stefanlinner
 tidymodels,tidymodels
+tidymodlr,david-hammond
 TidyMultiqc,multimeric
 tidymv,stefanocoretta
 tidync,ropensci
@@ -22310,6 +22321,7 @@ tsfgrnn,franciscomartinezdelrio
 tsfknn,franciscomartinezdelrio
 tsfngm,cran
 tsgarch,tsmodels
+tsgc,craig-pt
 TSGS,sudhirsrivastava
 TSGSIS,cran
 TSHRC,cjgeyer
@@ -22467,6 +22479,7 @@ UBCRM,cran
 ubiquity,john-harrold
 UBL,paobranco
 ubms,kenkellner
+UBStats,raffaellapiccarreta
 UCell,bioc
 uci,ipeagit
 ucie,mikelkou
@@ -23217,7 +23230,7 @@ WikidataR,ts404
 wikifacts,keithmcnulty
 wikilake,jsta
 WikipediR,ironholds
-wikiprofiler,guangchuangyu
+wikiprofiler,yulab-smu
 wikitaxa,ropensci
 wikiTools,modesto-escobar
 wikkitidy,wikihistories
@@ -23498,7 +23511,7 @@ YRmisc,peteryinr
 YTAnalytics,davisj95
 yuima,yuimaproject
 yuimaGUI,eguidotti
-yulab.utils,guangchuangyu
+yulab.utils,yulab-smu
 yum,cran
 yyjsonr,coolbutuseless
 Z10,rhlee12
