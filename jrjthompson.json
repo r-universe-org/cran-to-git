@@ -1,5 +1,10 @@
 [
   {
+    "package": "kdml",
+    "maintainer": "John R. J. Thompson <john.thompson@ubc.ca>",
+    "url": "https://github.com/cran/kdml"
+  },
+  {
     "package": "nonsmooth",
     "maintainer": "John R.J. Thompson <john.thompson@ubc.ca>",
     "url": "https://github.com/jrjthompson/r-package-nonsmooth"

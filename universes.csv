@@ -32,7 +32,7 @@ ABHgenotypeR,stefanreuscher
 abind,tplate
 abjData,abjur
 abjutils,abjur
-ablasso,junyuchende
+ablasso,junyu-chen-academic
 ABM,junlingm
 abmR,workshop-brg
 abn,furrer-lab
@@ -468,6 +468,7 @@ altmeta,linlf
 ALTopt,robustsource
 altR2,karchjd
 ALUES,alstat
+amadeus,niehs
 amanida,mariallr
 amanpg,cran
 amap,antoinelucas64
@@ -720,7 +721,6 @@ arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
-ARDECO,attarco
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -752,7 +752,6 @@ ARIMAANN,cran
 arkdb,ropensci
 arkhe,tesselle
 arm,suyusung
-armadillo,pachadotdev
 ARMALSTM,cran
 armspp,mbertolacci
 arnie,imanuelcostigan
@@ -2535,6 +2534,7 @@ ccrtm,marcodvisser
 CCSRfind,cran
 ccss,abhibhavs
 ccTensor,rikenbit
+cctest,cran
 cctools,cran
 CCTpack,cran
 CCWeights,yonghuidong
@@ -2629,7 +2629,7 @@ cepumd,arcenis-r
 cequre,cran
 ceramic,hypertidy
 cereal,r-lib
-CERFIT,cran
+CERFIT,justinthorp
 CerioliOutlierDetection,christopherggreen
 ceRNAnetsim,bioc
 CeRNASeek,cran
@@ -2748,6 +2748,7 @@ cherry,jellegoeman
 cherryblossom,openintrostat
 chess,curso-r
 chessboard,frbcesab
+ChessGmooG,impaug
 chest,uqwang
 CHETAH,bioc
 chevron,insightsengineering
@@ -3087,6 +3088,7 @@ clustifyr,bioc
 ClustImpute,o1iv3r
 ClustIRR,bioc
 clustlearn,ediu3095
+ClustMC,sgs2000
 clustMD,cran
 clustMixType,g-rho
 clustNet,cbg-ethz
@@ -6447,7 +6449,6 @@ FastKM,sth1402
 fastkmedoids,lixun910
 FastKNN,besanson
 fastkqr,qiantang0326
-fastLaplace,sangwan93
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
 fastliu,cran
@@ -6902,6 +6903,7 @@ FluMoDL,thlytras
 fluoSurv,jferdy
 fluspect,ahornero
 flux,cran
+fluxible,plant-functional-trait-course
 fluxweb,cran
 flying,bmasinde
 FlyingR,bmasinde
@@ -7731,6 +7733,7 @@ GeoWeightedModel,javierdelahoz
 geozoo,schloerke
 gep2pep,bioc
 gepaf,mthh
+GephiForR,cran
 geppe,cran
 gerbil,michaelwrobbins
 GerminaR,flavjack
@@ -8291,6 +8294,7 @@ GoodFibes,jessica-arbour
 GoodFitSBM,roy-sr-007
 GoodmanKruskal,ronaldkpearson
 goodpractice,ropensci
+Goodreader,chaoliu-cl
 googleadsR,pablosanmar
 googleAnalyticsR,8-bit-sheep
 googleAuthR,markedmondson1234
@@ -8766,7 +8770,7 @@ Harman,bioc
 harmonicmeanp,cran
 harmonizer,cran
 HarmonizR,bioc
-harmony,ilyakorsunsky
+harmony,immunogenomics
 harmonydata,omtarful
 harrietr,andersgs
 harrypotter,aljrico
@@ -9177,7 +9181,7 @@ htmltools,rstudio
 HTMLUtils,cran
 htmlwidgets,ramnathv
 HTqPCR,bioc
-htrSPRanalysis,cran
+htrSPRanalysis,janice-mccarthy
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
@@ -10291,6 +10295,7 @@ kdensity,jonasmoss
 kdevine,tnagler
 kDGLM,silvaneojunior
 kdist,tlamontsmith
+kdml,jrjthompson
 kdpee,cran
 kdry,kapsner
 kebabs,bioc
@@ -10325,6 +10330,7 @@ kernplus,hhwangbo
 kernscr,borishejblum
 KernSmooth,cran
 KernSmoothIRT,mcguirebc
+kerntools,cran
 kerSeg,singho2002
 kerTests,singho2002
 kesernetwork,celehs
@@ -10762,7 +10768,7 @@ letsR,macroecology
 lettervalue,gilberto-sassi
 levi,bioc
 levitate,lewinfox
-LexFindR,maglab-uconn
+LexFindR,comp-cogneuro-lang
 lexicon,trinker
 lexiconPT,sillasgonzaga
 LexisNexisTools,jbgruber
@@ -11383,7 +11389,7 @@ MANOR,bioc
 MAnorm2,tushiqi
 MANOVA.RM,smn74
 manta,dgarrimar
-MantaID,cran
+MantaID,molaison
 MantelCorr,bioc
 manydata,globalgov
 manymodelr,nelson-gon
@@ -14368,7 +14374,6 @@ OTrecod,cran
 otrimle,cran
 otrKM,xiajunwen1007
 OTRselect,sth1402
-otsad,alaineiturria
 otsfeatures,anloor7
 ottr,chrispyles
 ottrpal,jhudsl
@@ -16305,7 +16310,6 @@ quantdates,quantilma
 quantdr,elianachristou
 quanteda,quanteda
 quanteda.textmodels,quanteda
-quanteda.textplots,quanteda
 quanteda.textstats,quanteda
 quantification,cran
 quantileDA,viroli
@@ -16860,6 +16864,7 @@ RcppAPT,eddelbuettel
 RcppArmadillo,rcppcore
 RcppArray,jonclayden
 RcppBDT,eddelbuettel
+RcppBessel,alexiosg
 RcppBigIntAlgos,jwood000
 RcppBlaze,chingchuan-chen
 RcppCCTZ,eddelbuettel
@@ -18050,7 +18055,7 @@ rollbar,ankane
 rolldown,yihui
 rollinglda,jonasrieger
 rollmatch,rtiinternational
-rollup,cran
+rollup,juyoungahn
 roloc,pmur002
 rolocISCCNBS,pmur002
 rolog,mgondan
@@ -19452,7 +19457,7 @@ shiny.router,appsilon
 shiny.semantic,appsilon
 shiny.tailwind,kylebutts
 shiny.telemetry,appsilon
-shiny.worker,dokato
+shiny.worker,cran
 shinyAce,trestletech
 shinyaframe,cran
 shinyalert,daattali
