@@ -1,5 +1,10 @@
 [
   {
+    "package": "bage",
+    "maintainer": "John Bryant <john@bayesiandemography.com>",
+    "url": "https://github.com/bayesiandemography/bage"
+  },
+  {
     "package": "poputils",
     "maintainer": "John Bryant <john@bayesiandemography.com>",
     "url": "https://github.com/bayesiandemography/poputils"

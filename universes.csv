@@ -721,6 +721,7 @@ arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
 ArDec,susanabarbosa
+ARDECO,attarco
 ARDL,natsiopoulos
 ardl.nardl,eiotoakhia
 ards,dbosak01
@@ -1050,6 +1051,7 @@ badger,guangchuangyu
 BadRegionFinder,bioc
 baf,christopherkenny
 baffle,j-moravec
+bage,bayesiandemography
 bagged.outliertrees,rafajpsantos
 baggingbwsel,rubenfcasal
 baggr,wwiecek
@@ -2192,6 +2194,7 @@ bulkreadr,gbganalyst
 bulletcp,nategarton13
 bulletr,erichare
 bullishTrader,maheshpkumar
+bullseye,cbhurley
 bullwhipgame,msmarchena
 bumbl,aariq
 bumblebee,magosil86
@@ -2339,6 +2342,7 @@ canvasXpress,neuhausi
 canvasXpress.data,neuhausi
 cape,annaltyler
 caper,davidorme
+capesData,cran
 capitalR,cran
 capl,barnzilla
 caplot,gianmarcoalberti
@@ -4314,6 +4318,7 @@ datastepr,bramtayl
 DatastreamDSWS2R,asrserver
 DatastreamR,datastreamapi
 DATAstudio,extremestats
+DataSum,uzairkhan11w
 dataverifyr,davzim
 dataverse,iqss
 DataVisualizations,mthrun
@@ -4372,6 +4377,7 @@ dbscan,mhahsler
 dbstats,cran
 DBTC,rgyoung6
 DBTCShiny,rgyoung6
+dbw,hirotokatsumata
 dbWebForms,tconwell
 dbx,ankane
 dc3net,altayg
@@ -6145,6 +6151,7 @@ evir,bpfaff
 evitaicossa,robinhankin
 evmix,cran
 evobiR,coleoguy
+evola,covaruber
 evolMap,modesto-escobar
 evolqg,lem-usp
 EvolutionaryGames,jhstaudacher
@@ -6745,6 +6752,7 @@ fishmethods,gnelson12
 fishMod,scott-foster
 FishPhyloMaker,gabrielnakamura
 fishpond,bioc
+FishProxCompAnalyzer,cran
 FishResp,cran
 fishRman,shyentist
 fishtree,jonchang
@@ -8931,6 +8939,7 @@ hetGP,mbinois
 HEtools,bquast
 HETOP,jrlockwood
 hetsurr,laylaparast
+hetsurrSurv,laylaparast
 hett,drj001
 hettest,laylaparast
 hettreatreg,tslocz
@@ -9441,6 +9450,7 @@ IDF,cran
 iDINGO,cran
 idiogram,bioc
 idiogramFISH,fernandoroa
+idiolect,andreanini
 idm,amarkos
 idmact,mncube
 idmc,ocha-dap
@@ -9497,6 +9507,7 @@ igcop,vincenzocoia
 IgGeneUsage,bioc
 iglu,irinagain
 igoR,dieghernan
+IgorR,jefferis
 IGoRRR,cran
 igr,digitalnature-ie
 igraph,igraph
@@ -11196,7 +11207,7 @@ LSDsensitivity,santannaks
 LSE,sergio05acm
 LSEbootLS,nicolas-udec
 lsei,yong3738
-lsirm12pl,jinaparkkk
+lsirm12pl,ppjina
 lsl,psyphh
 lslx,psyphh
 lsm,cran
@@ -11554,6 +11565,7 @@ matrixdist,martinbladt
 MatrixEQTL,andreyshabalin
 MatrixExtra,david-cortes
 MatrixGenerics,bioc
+MatrixHMM,cran
 matrixLaplacian,terrytwu
 MatrixLDA,ajmolstad
 MatrixMixtures,gallaump
@@ -13506,6 +13518,7 @@ neuroimaGene,cran
 neuromplex,cran
 neuronorm,cran
 neuRosim,ktabelow
+neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
 nevada,astamm
 neverhpfilter,justinmshea
@@ -13736,7 +13749,7 @@ nonmem2R,cran
 nonmem2rx,nlmixr2
 nonmemica,bergsmat
 nonneg.cg,david-cortes
-nonnest2,ecmerkle
+nonnest2,qpsy
 NonNorMvtDist,cran
 nonpar,cran
 nonparaeff,arecibo
@@ -15038,7 +15051,7 @@ PhenotypeSimulator,hannahvmeyer
 PhenStat,bioc
 PHENTHAUproc,bachfisch
 phers,hugheylab
-PHeval,cran
+PHeval,cecile-ch
 PheVis,thomasferte
 Phi2rho,jkomelj
 phia,heliosdrm
@@ -16310,6 +16323,7 @@ quantdates,quantilma
 quantdr,elianachristou
 quanteda,quanteda
 quanteda.textmodels,quanteda
+quanteda.textplots,quanteda
 quanteda.textstats,quanteda
 quantification,cran
 quantileDA,viroli
@@ -18592,7 +18606,7 @@ RWiener,yeagle
 rWikiPathways,bioc
 RWildbook,sjbonner
 rWishart,benbarnard
-rwisp,dioubernardo
+rwisp,cran
 RWmisc,jayrobwilliams
 Rwofost,cropmodels
 rworkflows,neurogenomics
@@ -18620,6 +18634,7 @@ RYandexTranslate,mukul13
 rym,selesnow
 rYoutheria,biologicalrecordscentre
 rytstat,selesnow
+rYWAASB,cran
 RZabbix,marcinkosinski
 rzentra,eduardszoecs-basf
 RZigZag,cran
@@ -19186,7 +19201,7 @@ seleniumPipes,johndharrison
 SELEX,bioc
 SELF,cran
 selfingTree,cran
-sem,john-d-fox
+sem,cran
 semantic.assets,appsilon
 semantic.dashboard,appsilon
 Semblance,cran
@@ -21716,6 +21731,7 @@ tibble,tidyverse
 tibbletime,business-science
 tibblify,mgirlich
 tic,ropensci
+tican,sjtingle
 tictactoe,kota7
 tictoc,jabiru
 TideCurves,moritzmn
@@ -22589,7 +22605,7 @@ univOutl,cran
 UnivRNG,bernice0321
 unix,jeroen
 unjoin,hypertidy
-unmarked,rbchan
+unmarked,hmecology
 unmconf,dkahle
 unnest,vspinu
 UNPaC,cran
@@ -23275,6 +23291,7 @@ WMWssp,happma
 wnl,cran
 wNNSel,shahlafaisal
 wnominate,jeffreyblewis
+WOAkMedoids,cran
 wodds,alexhallam
 woe,cran
 woeBinning,cran

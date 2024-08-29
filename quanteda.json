@@ -16,6 +16,11 @@
     "registry": "archived"
   },
   {
+    "package": "quanteda.textplots",
+    "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
+    "url": "https://github.com/quanteda/quanteda.textplots"
+  },
+  {
     "package": "quanteda.textstats",
     "maintainer": "Kenneth Benoit <kbenoit@lse.ac.uk>",
     "url": "https://github.com/quanteda/quanteda.textstats"
