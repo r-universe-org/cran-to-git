@@ -1,5 +1,10 @@
 [
   {
+    "package": "timeEL",
+    "maintainer": "Paul Blanche <paulfblanche@gmail.com>",
+    "url": "https://github.com/paulowhite/timeel"
+  },
+  {
     "package": "timeROC",
     "maintainer": "Paul Blanche <paulfblanche@gmail.com>",
     "url": "https://github.com/cran/timeROC"
