@@ -1,5 +1,10 @@
 [
   {
+    "package": "dotty",
+    "maintainer": "Kevin Ushey <kevinushey@gmail.com>",
+    "url": "https://github.com/kevinushey/dotty"
+  },
+  {
     "package": "RcppRoll",
     "maintainer": "Kevin Ushey <kevinushey@gmail.com>",
     "url": "https://github.com/kevinushey/rcpproll"
