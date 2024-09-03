@@ -17,17 +17,20 @@
   {
     "package": "gtfs2emis",
     "maintainer": "Joao Bazzo <joao.bazzo@gmail.com>",
-    "url": "https://github.com/ipeagit/gtfs2emis"
+    "url": "https://github.com/ipeagit/gtfs2emis",
+    "registry": "archived"
   },
   {
     "package": "gtfs2gps",
     "maintainer": "Pedro R. Andrade <pedro.andrade@inpe.br>",
-    "url": "https://github.com/ipeagit/gtfs2gps"
+    "url": "https://github.com/ipeagit/gtfs2gps",
+    "registry": "archived"
   },
   {
     "package": "gtfstools",
     "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/ipeagit/gtfstools"
+    "url": "https://github.com/ipeagit/gtfstools",
+    "registry": "archived"
   },
   {
     "package": "rosmium",
