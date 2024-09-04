@@ -609,6 +609,7 @@ anyflights,simonpcouch
 anyLib,achateigner
 anytime,eddelbuettel
 ao,loelschlaeger
+AOboot,cran
 aod,cran
 aods3,cran
 aoos,wahani
@@ -3001,6 +3002,7 @@ clinsig,jimlemon
 ClinSigMeasures,mikemalekahmadi
 clinspacy,kdpsingh
 clintools,lilleoel
+clintrialx,ineelhere
 clinUtils,openanalytics
 cliot,cran
 clipp,jgdowty
@@ -3495,6 +3497,7 @@ confSAM,cran
 ConfusionTableR,cran
 ConfZIC,cran
 congress,christopherkenny
+CongressData,caleblucas
 CongreveLamsdell2016,ms609
 CoNI,jmanuelmk
 conicfit,cran
@@ -5149,7 +5152,7 @@ downsize,wlandau
 dowser,kbhoehn
 DOYPAColors,jmestret
 dparser,nlmixr2
-dpasurv,cran
+dpasurv,mattiminn
 DPBBM,laurenie
 dpcc,bingyuan-zhang
 dPCP,alfodefalco
@@ -5883,7 +5886,7 @@ envstat,sellorm
 EnvStats,alexkowa
 envvar,briandconnelly
 eoa3,ddalthorp
-eodhd,eodhistoricaldata
+eodhdR2,eodhistoricaldata
 eoffice,guokai8
 eoR,rwalke
 epade,cran
@@ -5995,6 +5998,7 @@ equateMultiple,micbtz
 equatiomatic,datalorax
 equil2,billdenney
 EquiSurv,kathrinmoellenhoff
+EquiTrends,tiesbos
 equivalence,cran
 equivalenceTest,wan9c9
 EQUIVNONINF,cran
@@ -6960,7 +6964,6 @@ fnets,haeran-cho
 FNN,cran
 fNonlinear,waternumbers
 FnR,nilforooshan
-fntl,andrewraim
 fobitools,bioc
 FOCI,monaazadkia
 focusedMDS,lea-urpa
@@ -7686,6 +7689,7 @@ GEOexplorer,bioc
 geofacet,hafen
 GEOfastq,bioc
 geofi,ropengov
+GeoFIS,j-ll
 geoFKF,gilberto-sassi
 geoFourierFDA,gilberto-sassi
 geoGAM,nussbaummadlene
@@ -9264,7 +9268,6 @@ HybridMTest,bioc
 hybridogram,cran
 hybridts,cran
 hyd1d,bafg-bund
-hydflood,bafg-bund
 hydra,mkellerressel
 hydraulics,edm44
 HYDROCAL,cran
@@ -11027,6 +11030,7 @@ LncFinder,han-siyu
 LncPath,hanjunwei-lab
 LNIRT,cran
 lnmCluster,cran
+lnmixsurv,vivianalobo
 LNPar,marco-bee
 loa,r-forge
 loadeR,promidat
@@ -12553,6 +12557,7 @@ MMDvariance,weiliang
 mme,mestherlv
 mmeln,giguerch
 MMeM,pengluyaoyao
+MMGFM,feiyoung
 mmibain,mightymetrika
 mmiCATs,mightymetrika
 MMINP,yulab-smu
@@ -14698,6 +14703,7 @@ paths,mdtrinh
 pathview,bioc
 pathviewr,ropensci
 pathwayPCA,bioc
+PathwaySpace,sysbiolab
 pathwayTMB,hanjunwei-lab
 PatientProfiles,darwin-eu-dev
 patientProfilesVis,openanalytics
@@ -15518,6 +15524,7 @@ PoolBal,cran
 PoolDilutionR,cran
 PooledCohort,bcjaeger
 PooledMeanGroup,cran
+pooledpeaks,kmkuesters
 poolfstat,mgautierinra
 poolHelper,vsousa
 pooling,vandomed
@@ -15923,6 +15930,7 @@ PROsetta,choi-phd
 ProSGPV,zuoyi93
 prospectr,l-ramirez-lopez
 PROSPER,cran
+ProSportsDraftData,ginsburg1
 Prostar,bioc
 protag,yuanbofaith
 protein8k,simonliles
@@ -17063,7 +17071,6 @@ ReactomePA,bioc
 reactR,react-r
 ReacTran,karlines
 ReAD,cran
-read.dbc,danicat
 read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
@@ -18633,6 +18640,7 @@ RWildbook,sjbonner
 rWishart,benbarnard
 rwisp,cran
 RWmisc,jayrobwilliams
+RWNN,svilsen
 Rwofost,cropmodels
 rworkflows,neurogenomics
 rworldmap,andysouth
@@ -19132,6 +19140,7 @@ sdpt3r,cran
 sdrt,tharindupdealwis
 sdsfun,stscl
 SDT,cran
+sdtm.oak,pharmaverse
 sdtmchecks,pharmaverse
 sdtmval,skgithub14
 sdwd,boxiang-wang
@@ -21861,7 +21870,7 @@ tidytlg,pharmaverse
 tidytransit,r-transit
 tidytreatment,bonstats
 tidytree,yulab-smu
-tidytuesdayR,thebioengineer
+tidytuesdayR,dslc-io
 tidyUSDA,bradlindblad
 tidyverse,tidyverse
 tidyvpc,certara
@@ -23196,7 +23205,7 @@ websearchr,fschaffner
 webshot,wch
 webshot2,rstudio
 websocket,rstudio
-webtrackR,schochastics
+webtrackR,gesistsa
 webuse,leeper
 webutils,jeroen
 wec,rensenieuwenhuis
@@ -23242,6 +23251,7 @@ wfindr,idmn
 wflo,cran
 wgaim,drj001
 WGCNA,plangfelder
+wget,yulab-smu
 WGScan,cran
 WgtEff,joshlmiller1978
 WH,guillaumebiessy
@@ -23435,6 +23445,7 @@ xcms,bioc
 xcore,bioc
 xdcclarge,keeeeei0315
 XDE,bioc
+XDNUTS,cran
 xefun,shichenxie
 xega,ageyerschulz
 xegaBNF,ageyerschulz
