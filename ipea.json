@@ -1,5 +1,10 @@
 [
   {
+    "package": "aebdata",
+    "maintainer": "Hugo Macedo <aebdata@hhmace.do>",
+    "url": "https://github.com/ipea/aebdata"
+  },
+  {
     "package": "utilsIPEA",
     "maintainer": "Gustavo Coelho <gustavo.coelho@ipea.gov.br>",
     "url": "https://github.com/ipea/utilsipea"

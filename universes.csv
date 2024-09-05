@@ -246,7 +246,7 @@ ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
 adwordsR,cran
-aebdata,hhmacedo
+aebdata,ipea
 aeddo,ssi-dk
 AEDForecasting,apunatto
 aedseo,ssi-dk
@@ -1760,6 +1760,7 @@ biospear,stefanmichielsgr
 biostat3,mclements
 Biostatistics,rjknell
 BioStatR,fbertran
+biostats101,cran
 BiostatsUHNplus,tylerpittman
 Biostrings,bioc
 biotic,robbriers
@@ -3821,6 +3822,7 @@ CPoptim,colposerickg
 CPP,gaviao67
 cpp11,r-lib
 cpp11armadillo,pachadotdev
+cpp11eigen,pachadotdev
 cppcheckR,stla
 cppdoubles,nicchr
 cppRouting,vlarmet
@@ -6484,6 +6486,7 @@ fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
 FastPCS,kvak
+fastpng,coolbutuseless
 fastpos,johannes-titz
 FastqCleaner,bioc
 fastqcr,kassambara
@@ -6964,6 +6967,7 @@ fnets,haeran-cho
 FNN,cran
 fNonlinear,waternumbers
 FnR,nilforooshan
+fntl,andrewraim
 fobitools,bioc
 FOCI,monaazadkia
 focusedMDS,lea-urpa
@@ -7309,6 +7313,7 @@ fy,hughparsonage
 g.data,cran
 g.ridge,cran
 G2Sd,reg-gallon
+g3viz,g3viz
 GA,luca-scr
 GA4GHclient,bioc
 GA4GHshiny,bioc
@@ -7761,6 +7766,7 @@ geppe,cran
 gerbil,michaelwrobbins
 GerminaR,flavjack
 germinationmetrics,aravind-j
+GeRnika,cran
 gert,ropensci
 GESE,cran
 gesisdata,fsolt
@@ -8377,6 +8383,7 @@ gpboost,fabsig
 gpbStat,nandp1
 GPCERF,nsaph-software
 GPCMlasso,schaubert
+GPEMR,ruqaiya41
 GPFDA,gpfda
 GPfit,cran
 gpg,jeroen
@@ -11041,7 +11048,7 @@ LOBSTAHS,bioc
 LobsterCatch,pnickchi
 lobstr,r-lib
 localboot,zzz1990771
-LocalControl,cran
+LocalControl,ohdsi
 LocalCop,mlysy
 localFDA,aefdz
 localgauss,torekleppe
@@ -12463,6 +12470,7 @@ mlim,haghish
 MLInterfaces,bioc
 mllrnrs,kapsner
 mlma,qingzhaoyu
+mlmc,louisaslett
 MLmetrics,yanyachen
 mlmhelpr,lrocconi
 mlmi,jwb133
@@ -12506,6 +12514,7 @@ mlr3shiny,lamate
 mlr3spatial,mlr-org
 mlr3spatiotempcv,mlr-org
 mlr3summary,cran
+mlr3superlearner,nt-williams
 mlr3torch,sebffischer
 mlr3tuning,mlr-org
 mlr3tuningspaces,mlr-org
@@ -12856,7 +12865,6 @@ MRCE,cran
 mrct,cran
 mrds,distancedevelopment
 mreg,shug0131
-mregions,ropensci
 mregions2,ropensci
 mrf,quirinms
 mrf2d,freguglia
@@ -14563,6 +14571,7 @@ PANACEA,egeulgen
 pAnalysis,cran
 PanCanVarSel,maitya02
 pandaR,bioc
+pandemics,cran
 pander,rapporter
 pandoc,cderv
 pandocfilters,cran
@@ -17445,7 +17454,7 @@ revealjs,rstudio
 RevEcoR,yiluheihei
 reveneraR,chrisumphlett
 revengc,gshs-ornl
-reverseR,cran
+reverseR,anspiess
 revert,cran
 RevGadgets,revbayes
 revgeo,cran

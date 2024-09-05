@@ -60,6 +60,11 @@
     "url": "https://github.com/ohdsi/featureextraction"
   },
   {
+    "package": "LocalControl",
+    "maintainer": "Christophe G. Lambert <cglambert@salud.unm.edu>",
+    "url": "https://github.com/ohdsi/localcontrol"
+  },
+  {
     "package": "omock",
     "maintainer": "Mike Du <mike.du@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/omock"
