@@ -347,6 +347,7 @@ AID,osmandag
 aidar,cran
 aides,enochkang
 aifeducation,fberding
+AIFFtools,cran
 aihuman,sooahnshin
 aimPlot,ybkamaleri
 AIMS,bioc
@@ -857,6 +858,7 @@ AssocAFC,kkunji
 AssocBin,cran
 assocInd,cran
 AssocTests,liqgroup
+assorthead,bioc
 assortnet,cran
 AST,alighanbari26
 ast2ast,konrad1991
@@ -1512,7 +1514,7 @@ BgeeDB,bioc
 bgev,thiagopod17
 bgeva,giampmarra
 BGFD,cran
-bggAnalytics,jakubbujnowicz
+bggAnalytics,cran
 BGGE,italo-granato
 BGGM,donaldrwilliams
 bggum,duckmayr
@@ -5097,6 +5099,7 @@ dominanceanalysis,clbustos
 domino,nelprin
 DominoDataR,dominodatalab
 DominoEffect,bioc
+dominoSignal,bioc
 domir,jluchman
 doMPI,steveweston
 donut,paulnorthrop
@@ -5429,6 +5432,7 @@ easyAHP,marsdu1989
 easyalluvial,erblast
 easyanova,cran
 easybgm,karolinehuth
+easybio,person-c
 EasyCellType,bioc
 easycensus,corymccartan
 easyclimate,verughub
@@ -5565,6 +5569,7 @@ ecoval,nschuwirth
 EcoVirtual,cran
 ecp,zwenyu
 ecpc,mirrelijn
+ecpdist,abreu-uma
 ecr,jakobbossek
 ectotemp,wouterbeukema
 ECTSVR,cran
@@ -6898,6 +6903,7 @@ FlowerMate,cran
 flowFP,bioc
 flowGate,bioc
 flowGraph,bioc
+flowmapblue,flowmapblue
 flowmapper,johmast
 flowMatch,bioc
 flowMeans,bioc
@@ -7702,6 +7708,8 @@ geogenr,josesamos
 geogrid,jbaileyh
 geohabnet,garrettlab
 geohashTools,michaelchirico
+geoheatmap,cran
+geoidep,ambarja
 geojson,ropensci
 geojsonio,ropensci
 geojsonR,mlampros
@@ -8057,6 +8065,7 @@ ggvenn,yanlinlin82
 ggVennDiagram,gaospecial
 ggversa,cran
 ggvis,hadley
+ggvolcano,yaoxiangli
 ggwordcloud,lepennec
 ggx,brandmaier
 gh,r-lib
@@ -8073,6 +8082,7 @@ GHS,ash0204
 ghyp,quantsulting
 ghypernet,gi0na
 giacR,stla
+GiANT,hkestler
 gibasa,paithiov909
 gibble,mdsumner
 GIC,buybnb
@@ -8844,6 +8854,7 @@ HCTDesign,tpatni123
 HCTR,lethargy608
 hctrial,edelmand21
 hda,g-rho
+hdar,eea
 hdbayes,ethan-alt
 hdbinseg,haeran-cho
 hdbm,cran
@@ -9732,6 +9743,7 @@ InformativeCensoring,jwb133
 informativeSCI,lianekluge
 Informeasure,bioc
 informedSen,cran
+INFOSET,cran
 infotheo,meyerp-software
 InfoTrad,murattinic
 infraFDTD.assist,ajakef
@@ -10092,6 +10104,7 @@ itertools2,ramhiser
 ITNr,matt-smith430
 itol.toolkit,tongzhou2017
 iTOP,nanne-aben
+iTOS,cran
 itp,paulnorthrop
 itraxR,tombishop1
 its.analysis,patrick-eng
@@ -12570,6 +12583,7 @@ MMGFM,feiyoung
 mmibain,mightymetrika
 mmiCATs,mightymetrika
 MMINP,yulab-smu
+mmints,mightymetrika
 mmirestriktor,mightymetrika
 MMLR,nadezdaspiridovska
 mmmgee,rmaster1
@@ -14830,6 +14844,7 @@ pctax,asa12138
 pcts,geobosh
 pcutils,asa12138
 pcv,svkucheryavski
+pcvr,danforthcenter
 pda,cran
 PDATK,bioc
 pdc,brandmaier
@@ -17294,7 +17309,7 @@ relgam,kjytay
 reliabilitydiag,aijordan
 ReliabilityTheory,louisaslett
 relimp,davidfirth
-RelimpPCR,mhernan88
+RelimpPCR,michhernand
 relliptical,katherineloor
 relMix,gdorum
 relSim,jmcurran
@@ -20743,6 +20758,7 @@ Sstack,klmatlock
 sstvars,saviviro
 ssviz,bioc
 SSVS,sabainter
+ssw,nanxstats
 ssym,cran
 st,cran
 sta,cran
@@ -21099,6 +21115,7 @@ suntools,adokter
 supclust,mmaechler
 superb,dcousin3
 superbiclust,tkhamiak
+SuperCell,gfellerlab
 supercells,nowosad
 supercompress,cran
 superdiag,lbaole17
@@ -21876,6 +21893,7 @@ tidyterra,dieghernan
 tidytext,juliasilge
 tidytidbits,cran
 tidytlg,pharmaverse
+tidytof,bioc
 tidytransit,r-transit
 tidytreatment,bonstats
 tidytree,yulab-smu
@@ -22518,6 +22536,7 @@ TwoPhaseInd,cran
 twosamples,cdowd
 TwoSampleTest.HD,cran
 twosigma,edvanburen
+twoStageDesignTMLE,cran
 TwoStepCLogit,cran
 twoway,friendly
 TwoWayFEWeights,chaisemartinpackages

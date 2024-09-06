@@ -637,6 +637,12 @@
     "registry": "bioc"
   },
   {
+    "package": "assorthead",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/assorthead",
+    "registry": "bioc"
+  },
+  {
     "package": "ASURAT",
     "maintainer": "Keita Iida <kiida@protein.osaka-u.ac.jp>",
     "url": "https://git.bioconductor.org/packages/ASURAT",
@@ -1803,7 +1809,7 @@
   },
   {
     "package": "CellMixS",
-    "maintainer": "Almut Lütge <almut.luetge@uzh.ch>",
+    "maintainer": "Almut Lütge <almut.lue@gmail.com>",
     "url": "https://github.com/almutlue/cellmixs",
     "registry": "bioc"
   },
@@ -3546,6 +3552,12 @@
     "package": "DominoEffect",
     "maintainer": "Marija Buljan <marija.buljan.2@gmail.com>",
     "url": "https://git.bioconductor.org/packages/DominoEffect",
+    "registry": "bioc"
+  },
+  {
+    "package": "dominoSignal",
+    "maintainer": "Jacob T Mitchell <jmitch81@jhmi.edu>",
+    "url": "https://github.com/fertiglab/dominosignal",
     "registry": "bioc"
   },
   {
@@ -12698,6 +12710,12 @@
     "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/stemangiola/tidysummarizedexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "tidytof",
+    "maintainer": "Timothy Keyes <tkeyes@stanford.edu>",
+    "url": "https://github.com/keyes-timothy/tidytof",
     "registry": "bioc"
   },
   {
