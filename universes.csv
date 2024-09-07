@@ -280,7 +280,7 @@ AFheritability,cran
 AFM,mbeauvai
 afmToolkit,cran
 afpt,marcoklh
-AFR,afrkz
+AFR,cran
 africamonitor,sebkrantz
 aftgee,stc04003
 afthd,atanubhattacharjee
@@ -1514,7 +1514,7 @@ BgeeDB,bioc
 bgev,thiagopod17
 bgeva,giampmarra
 BGFD,cran
-bggAnalytics,cran
+bggAnalytics,jakubbujnowicz
 BGGE,italo-granato
 BGGM,donaldrwilliams
 bggum,duckmayr
@@ -6500,7 +6500,6 @@ fastR2,rpruim
 FastRCS,kvak
 fastreeR,bioc
 fastrep,alissonrp
-FastRet,spang-lab
 fastRG,rohelab
 fastRhockey,sportsdataverse
 fastrmodels,nflverse
@@ -7708,7 +7707,7 @@ geogenr,josesamos
 geogrid,jbaileyh
 geohabnet,garrettlab
 geohashTools,michaelchirico
-geoheatmap,cran
+geoheatmap,sjwwillems
 geoidep,ambarja
 geojson,ropensci
 geojsonio,ropensci
@@ -9353,7 +9352,7 @@ iASeq,bioc
 iasva,bioc
 IAT,dpmartin42
 IATanalytics,danielstorage
-IATScore,dstorage2
+IATScore,danielstorage
 IATscores,giuliocostantini
 ib,smac-group
 iBART,mattsheng
@@ -12624,7 +12623,6 @@ mnt,ebner-kit
 moanin,bioc
 mob,statcompute
 mobileRNA,bioc
-MobileTrigger,kenithgrey
 mobilityIndexR,bcmullins
 MoBPS,tpook92
 mobr,mobiodiv
@@ -17055,7 +17053,6 @@ rdlocrand,gvazquezbare
 RDM,christopherstrothmann
 RDML,pcruniversum
 rdmulti,gvazquezbare
-rDNAse,wind22zhu
 rdnb,chgrl
 RDnp,hsnbulut
 rdomains,soodoku
@@ -19480,7 +19477,6 @@ shapefiles,bstabler
 shapeNA,cran
 ShapePattern,cran
 shapeR,lisalibungan
-ShapeRotator,marta-vidalgarcia
 shapes,iandryden
 ShapeSelectForest,cran
 SHAPforxgboost,liuyanguu
@@ -22536,7 +22532,7 @@ TwoPhaseInd,cran
 twosamples,cdowd
 TwoSampleTest.HD,cran
 twosigma,edvanburen
-twoStageDesignTMLE,cran
+twoStageDesignTMLE,sg-tlr
 TwoStepCLogit,cran
 twoway,friendly
 TwoWayFEWeights,chaisemartinpackages
