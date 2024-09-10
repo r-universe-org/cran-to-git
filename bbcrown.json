@@ -1,5 +1,15 @@
 [
   {
+    "package": "hazer",
+    "maintainer": "Bijan Seyednasrollah <bijan.s.nasr@gmail.com>",
+    "url": "https://github.com/cran/hazer"
+  },
+  {
+    "package": "phenoCDM",
+    "maintainer": "Bijan Seyednasrollah <bijan.s.nasr@gmail.com>",
+    "url": "https://github.com/cran/phenoCDM"
+  },
+  {
     "package": "solrad",
     "maintainer": "Bijan Seyednasrollah <bijan.s.nasr@gmail.com>",
     "url": "https://github.com/bbcrown/solrad"
