@@ -328,7 +328,7 @@ agvgd,maialab
 ahaz,agorstras
 AHM,vtshen
 AHMassBank,bioc
-AHMbook,kenkellner
+AHMbook,hmecology
 ahMLE,cran
 ahnr,jroberayalas
 AhoCorasickTrie,chambm
@@ -686,6 +686,7 @@ AQEval,karlropkins
 aqfig,jlswall
 AQLSchemes,johnjsl7
 aqp,ncss-tech
+AquaAnalytix,cran
 AquaBEHER,robeltakele
 AQuadtree,raymondlagonigro
 AquaEnv,karlines
@@ -757,6 +758,7 @@ arima2,jeswheel
 ARIMAANN,cran
 arkdb,ropensci
 arkhe,tesselle
+arlclustering,assuom44
 arm,suyusung
 ARMALSTM,cran
 armspp,mbertolacci
@@ -892,7 +894,7 @@ ATACseqTFEA,bioc
 ATAforecasting,alsabtay
 atakrig,maoguihu
 ATbounds,atbounds
-ATE.ERROR,cran
+ATE.ERROR,aryanrzn
 AteMeVs,lchen723
 atena,bioc
 atime,tdhock
@@ -3658,6 +3660,7 @@ corona,jvanschalkwyk
 CoronaNetR,coronanetdatascience
 coronavirus,ramikrispin
 corpcor,cran
+corpmetrics,vlospa99
 corpora,r-forge
 corporaexplorer,kgjerde
 CoRpower,mjuraska
@@ -5362,6 +5365,7 @@ DWLS,sistia01
 dwp,ddalthorp
 DWreg,cran
 dyads,cran
+dycdtools,songyanyu
 dydea,cran
 dyebias,bioc
 dygraphs,rstudio
@@ -5430,6 +5434,7 @@ earthtide,jkennel
 earthtones,wcornwell
 Ease,cran
 easier,bioc
+easy.glmnet,jrad1
 easy.utils,ycli1995
 EasyABC,r-forge
 easyAHP,marsdu1989
@@ -5774,7 +5779,7 @@ EMbC,jgarriga65
 embed,tidymodels
 EmbedSOM,exaexa
 embryogrowth,marc-girondot
-EMC2,cran
+EMC2,niekstevenson
 EMCluster,snoweye
 EMD,dkimstatlab
 EMDANNhybrid,cran
@@ -6982,6 +6987,7 @@ fobitools,bioc
 FOCI,monaazadkia
 focusedMDS,lea-urpa
 foghorn,fmichonneau
+folda,moran79
 folders,deohs
 folio,tesselle
 fomantic.plus,ashbaldry
@@ -7660,10 +7666,12 @@ genomicper,cran
 GenomicPlot,bioc
 GenomicRanges,bioc
 GenomicScores,bioc
+GenomicSig,cran
 GenomicSuperSignature,bioc
 GenomicTools.fileHandler,fischuu
 GenomicTuples,bioc
 genoPlotR,r-forge
+GenoPop,cran
 GenOrd,cran
 GenoScan,cran
 GenoTriplo,julienrochemode
@@ -10392,7 +10400,7 @@ kernplus,hhwangbo
 kernscr,borishejblum
 KernSmooth,cran
 KernSmoothIRT,mcguirebc
-kerntools,cran
+kerntools,elies-ramon
 kerSeg,cran
 kerTests,cran
 kesernetwork,celehs
@@ -10849,7 +10857,7 @@ LFDREmpiricalBayes,empiricalbayes
 lfe,r-econometrics
 lfl,beerda
 lfmm,bcm-uga
-lfproQC,kabilanagri
+lfproQC,kabilanbio
 lfstat,mundl
 lg,hotneim
 lgarch,cran
@@ -12696,6 +12704,7 @@ ModEstM,jeromepcollet
 modesto,cran
 modEvA,r-forge
 modgetxl,byadu
+modgo,cran
 modi,martinster
 modifiedmk,patakamuri
 modisfast,ptaconet
@@ -13567,6 +13576,7 @@ networktools,paytonjjones
 networktree,paytonjjones
 netZooR,bioc
 NeuCA,bioc
+NeuralEstimators,mattsainsburydale
 neuralGAM,inesortega
 neuralnet,bips-hb
 NeuralNetTools,fawda123
@@ -17452,6 +17462,7 @@ RespirAnalyzer,dongxinzheng
 respirometry,matthewabirk
 responsePatterns,cran
 respR,januarharianto
+resquin,matroth
 RESS,bwaxer
 restatapi,eurostat
 restatis,correlaid
@@ -17758,6 +17769,7 @@ RivRetrieve,ryan-riggs
 rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
+RJalaliDate,h-rabiee
 rJava,s-u
 rJavaEnv,e-kotov
 RJcluster,rshudde
@@ -17937,6 +17949,7 @@ rmutil,swihart
 RMVL,volodya31415
 rMVP,xiaolei-lab
 rmweather,skgrange
+RMX,cran
 RMySQL,r-dbi
 rmytarget,selesnow
 rmzqc,ms-quality-hub
@@ -19454,7 +19467,7 @@ SFS,cran
 SFSI,marcoolopez
 sfsmisc,mmaechler
 sft,cran
-sftime,henningte
+sftime,r-spatial
 SFtools,mlaib
 sftrack,mablab
 sgapi,defra-data-science-centre-of-excellence
@@ -21248,6 +21261,7 @@ SurvRegCensCov,stanislashubeaux
 survRM2,cran
 survRM2adapt,mikihoriguchi
 survRM2perm,mikihoriguchi
+survSAKK,sakk-statistics
 survSens,rong0707
 survsim,dmorinya
 survSNP,dcibioinformatics
