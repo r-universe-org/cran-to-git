@@ -120,6 +120,11 @@
     "url": "https://github.com/mlr-org/mlr3spatiotempcv"
   },
   {
+    "package": "mlr3torch",
+    "maintainer": "Sebastian Fischer <sebf.fischer@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3torch"
+  },
+  {
     "package": "mlr3tuning",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3tuning"

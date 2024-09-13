@@ -2893,6 +2893,7 @@ CircularDDM,yxlin
 circularEV,cran
 CircularSilhouette,joemsong
 circumplex,jmgirard
+cirls,pierremasselot
 cIRT,tmsalab
 CIS.DGLM,wangyuncw
 cisPath,bioc
@@ -3632,6 +3633,7 @@ coRanking,gdkrmr
 corazon,feddelegrand7
 Corbi,wulingyun
 CorBin,shuangsong0110
+corbouli,cadam00
 corclass,boutyline
 cord,rluo
 cordillera,r-forge
@@ -5735,7 +5737,7 @@ elections.dtree,fleverest
 electionsBR,silvadenisson
 electivity,desiquintans
 electoral,albuja
-elevatr,jhollist
+elevatr,usepa
 ElevDistr,liviobaetscher
 elexr,ghing
 elfDistr,matheushjs
@@ -6501,6 +6503,7 @@ fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
 FastPCS,kvak
+fastplyr,cran
 fastpng,coolbutuseless
 fastpos,johannes-titz
 FastqCleaner,bioc
@@ -7671,7 +7674,7 @@ GenomicSuperSignature,bioc
 GenomicTools.fileHandler,fischuu
 GenomicTuples,bioc
 genoPlotR,r-forge
-GenoPop,cran
+GenoPop,migurke
 GenOrd,cran
 GenoScan,cran
 GenoTriplo,julienrochemode
@@ -9777,6 +9780,7 @@ INLAjoint,denisrustand
 inlamemi,emmaskarstein
 INLAspacetime,eliaskrainski
 inlcolor,jfisher-usgs
+inldata,jfisher-usgs
 inline,eddelbuettel
 inlinedocs,tdhock
 inlpubs,jfisher-usgs
@@ -10693,6 +10697,7 @@ lava,kkholst
 lavaan,yrosseel
 lavaan.shiny,kylehamilton
 lavaanExtra,rempsyc
+lavaangui,karchjd
 lavaanPlot,alishinski
 lavacreg,chkiefer
 LavaCvxr,cran
@@ -11220,6 +11225,7 @@ lpcde,rajitachandak
 LPCM,cran
 lpda,mjnueda
 lpdensity,xinweima
+LPDynR,xavi-rp
 LPE,bioc
 LPGraph,cran
 lphom,cran
@@ -11662,7 +11668,6 @@ maxLik,otoomet
 maxlike,roelandkindt
 maxmatching,baolidakai
 maxnet,mrmaxent
-maxnodf,darthkermit
 MaxPro,shanbatr
 MaxSkew,cran
 maxstablePCA,cran
@@ -12550,7 +12555,7 @@ mlr3spatial,mlr-org
 mlr3spatiotempcv,mlr-org
 mlr3summary,cran
 mlr3superlearner,nt-williams
-mlr3torch,sebffischer
+mlr3torch,mlr-org
 mlr3tuning,mlr-org
 mlr3tuningspaces,mlr-org
 mlr3verse,mlr-org
@@ -12704,7 +12709,7 @@ ModEstM,jeromepcollet
 modesto,cran
 modEvA,r-forge
 modgetxl,byadu
-modgo,cran
+modgo,georgekoliopanos
 modi,martinster
 modifiedmk,patakamuri
 modisfast,ptaconet
@@ -12909,6 +12914,7 @@ MRFA,chihli
 MRFcov,nicholasjclark
 mrfDepth,psegaert
 mrfse,rodrigorsdc
+MRG,jskoien
 mrgsim.parallel,kylebaron
 mrgsim.sa,kylebaron
 mrgsolve,metrumresearchgroup
@@ -13338,7 +13344,6 @@ NACHO,mcanouil
 NADA,cran
 NADA2,swampthingpaul
 NADfinder,bioc
-NADIA,jjanborowka
 nadiv,matthewwolak
 NAEPirtparams,sunnyjooey
 NAEPprimer,cran
@@ -13792,6 +13797,7 @@ nodbi,ropensci
 node2vec,tianyang-0523
 nodeSub,thijsjanzen
 nodiv,mkborregaard
+noegletalR,frlars21
 nofrills,egnha
 noia,lerouzic
 noise,audreyqyfu
@@ -14621,7 +14627,7 @@ panelcn.mops,bioc
 PanelCount,cran
 panelhetero,tkhdyanagi
 PanelMatch,insongkim
-panelPomp,cran
+panelPomp,jeswheel
 panelr,jacob-long
 panelsummary,michaeltopper1
 panelSUR,laurabarbieri
@@ -17766,6 +17772,7 @@ Rivivc,cran
 rivnet,lucarraro
 rivr,mkoohafkan
 RivRetrieve,ryan-riggs
+rix,ropensci
 rjade,jeroen
 RJafroc,dpc10ster
 rjags,martynplummer
@@ -20607,6 +20614,7 @@ splot,miserman
 splots,bioc
 spls,valentint
 splus2R,spkaluzny
+splusTimeDate,spkaluzny
 splutil,sykdomspulsen
 spm,jinli22
 spm2,jinli22
@@ -21182,6 +21190,7 @@ SurfaceTortoise,ymutua
 surfaltr,bioc
 SurfR,bioc
 SurfRough,strevisani
+surreal,coatless-rpkg
 Surrogate,florianstijven
 SurrogateBMA,yunshandys
 SurrogateOutcome,laylaparast
@@ -21847,6 +21856,7 @@ tidycmprsk,mskcc-epi-bio
 tidycode,lucymcgowan
 tidycomm,joon-e
 TidyConsultant,harrison4192
+tidycountries,denironyx
 tidyCoverage,bioc
 tidyCpp,eddelbuettel
 tidycwl,sbg
@@ -22801,7 +22811,6 @@ vaersvax,iembry
 VAExprs,bioc
 vagalumeR,r-music
 vagam,cran
-VAJointSurv,boennecd
 valaddin,egnha
 valection,cran
 valentine,tadascience
@@ -23234,6 +23243,7 @@ wconf,cran
 wCorr,american-institutes-for-research
 wcox,vharntzen
 WDI,vincentarelbundock
+wdi2,tidy-intelligence
 wdm,tnagler
 wdman,ropensci
 wdnet,yelie-yuan
@@ -23379,6 +23389,7 @@ wiqid,mikemeredith
 wISAM,rcorty
 wishmom,cran
 withdots,nikkrieger
+wither,torbjorn
 withr,r-lib
 wk,paleolimbot
 wkb,ianmcook
