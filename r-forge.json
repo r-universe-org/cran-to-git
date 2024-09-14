@@ -36,11 +36,6 @@
     "subdir": "pkg/Bessel"
   },
   {
-    "package": "betareg",
-    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/topmodels"
-  },
-  {
     "package": "car",
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/r-forge/car",

@@ -576,6 +576,7 @@ anoint,rvaradhan
 ANOM,philippallmann
 anomalize,business-science
 anomaly,cran
+anomo,zuchaoshen
 ANOPA,dcousin3
 anota,bioc
 anota2seq,bioc
@@ -1489,7 +1490,7 @@ betaNB,jeksterslab
 betapart,cran
 BetaPASS,cran
 betaper,luiscayuela
-betareg,r-forge
+betareg,zeileis
 betaSandwich,jeksterslab
 betategarch,cran
 bethel,micheledemeo
@@ -4548,6 +4549,7 @@ degreenet,handcock
 DEGreport,bioc
 degross,plambertuliege
 DEGseq,bioc
+DEHOGT,ahshen26
 dejaVu,jwb133
 Delaporte,aadler
 delayed,tlverse
@@ -4916,6 +4918,7 @@ discourseGT,q1cui
 discoveR,cran
 discoverableresearch,cran
 DiscreteDatasets,disohda
+DiscreteDists,fhernanb
 DiscreteFDR,disohda
 discretefit,josh-mc
 DiscreteInverseWeibull,cran
@@ -4957,6 +4960,7 @@ distcomp,bnaras
 distcrete,reconhub
 distdichoR,cran
 distfree.cr,zhiqiuhu
+distfromq,elray1
 distill,rstudio
 distillery,ericgilleland
 distillML,forestry-labs
@@ -5154,6 +5158,7 @@ DoubleML,doubleml
 doubletrouble,bioc
 doublIn,vharntzen
 doubt,moodymudskipper
+douconca,cajoterbraak
 doudpackage,cran
 DOvalidation,cran
 DOVE,sth1402
@@ -5273,6 +5278,7 @@ dsims,distancedevelopment
 DSjobtracker,thiyangt
 DSL,theussl
 dslabs,cran
+dsld,matloff
 dslice,yechao1009
 DSLite,datashield
 dsm,distancedevelopment
@@ -6572,7 +6578,6 @@ FCPS,mthrun
 fcr,andrew-leroux
 fcros,doulaye
 fcScan,bioc
-FCSlib,cran
 fctbases,naolsen
 fcuk,thinkr-open
 FCVAR,leemorinucf
@@ -8529,7 +8534,6 @@ greeks,ahudde
 greenclust,jeffjetton
 greencrab.toolkit,abigailkeller
 GREENeR,calfarog
-greenR,sachit27
 Greg,gforge
 GregoryQuadrature,dhetting
 gregRy,olekwojcik
@@ -8930,6 +8934,7 @@ HDtweedie,cran
 HDXBoxeR,mkajano
 hdxmsqc,bioc
 headliner,rjake
+healthatlas,ryanzomorrodi
 HealthCal,cran
 healthcare.antitrust,mpanhans
 healthdb,kevinhzq
@@ -9307,6 +9312,7 @@ HybridMTest,bioc
 hybridogram,cran
 hybridts,cran
 hyd1d,bafg-bund
+hydflood,bafg-bund
 hydra,mkellerressel
 hydraulics,edm44
 HYDROCAL,cran
@@ -9444,12 +9450,8 @@ icesAdvice,ices-tools-prod
 IceSat2R,mlampros
 icesConnect,colinpmillar
 icesDatras,ices-tools-prod
-icesDatsu,ices-tools-prod
-icesDatsuQC,ices-tools-prod
 icesSAG,ices-tools-prod
-icesSD,colinpmillar
 icesTAF,ices-tools-prod
-icesVMS,ices-tools-prod
 icesVocab,ices-tools-prod
 icetea,bioc
 ICGE,itziari
@@ -10862,7 +10864,7 @@ LFDREmpiricalBayes,empiricalbayes
 lfe,r-econometrics
 lfl,beerda
 lfmm,bcm-uga
-lfproQC,kabilanbio
+lfproQC,kabilansbio
 lfstat,mundl
 lg,hotneim
 lgarch,cran
@@ -12301,6 +12303,7 @@ minic,bertvanderveen
 miniCRAN,andrie
 minidown,atusy
 miniGUI,cran
+miniLNM,krisrs1128
 minimalRSD,jiyosunny
 minimap,seankross
 minimapR,jake-bioinfo
@@ -15664,6 +15667,7 @@ povmap,ssa-statistical-team-projects
 pow.int,jondebove
 powdist,cran
 powdR,benmbutler
+power.transform,oncoray
 Power2Stage,detlew
 poweRbal,sophiekersting
 powerbiR,cvermehren
@@ -19459,6 +19463,7 @@ sfarrow,wcjochem
 sfc,ctfysh
 sfcentral,gabrielvgaona
 sfcr,joaomacalos
+sfcurve,jokergoo
 sfd,topepo
 sfdct,hypertidy
 sfdep,josiahparry
@@ -20921,6 +20926,7 @@ stddiff,marsdu1989
 STdeconvolve,bioc
 stdmod,sfcheung
 stdReg,arvsjo
+stdReg2,sachsmc
 stdvectors,digemall
 steadyICA,cran
 steepness,dleivaur79
@@ -21528,7 +21534,6 @@ taxizedb,ropensci
 taxlist,ropensci
 taxnames,kamapu
 taxonomizr,sherrillmix
-taxotools,vijaybarve
 taylor,wjakethompson
 TaylorRussell,nwaller
 tayloRswift,asteves
@@ -21988,6 +21993,7 @@ timereg,scheike
 timeROC,paulowhite
 timescape,bioc
 timeSeries,cran
+timeSeriesDataSets,lightbluetitan
 timeseriesdb,mbannert
 timetk,business-science
 timetools,vald
@@ -23056,7 +23062,6 @@ visualFields,imarinfr
 visualize,coatless-rpkg
 Visualize.CRAN.Downloads,mponce0
 VisualizeSimon2Stage,tingtingzhan
-visualpred,cran
 visvow,heeringa0
 visxhclust,rhenkin
 vita,cran
@@ -23616,7 +23621,6 @@ yamss,bioc
 YAPSA,bioc
 yardstick,tidymodels
 yarn,bioc
-yarr,fdavidcl
 yarrr,ndphillips
 yasp,t-kalinowski
 yatah,abichat

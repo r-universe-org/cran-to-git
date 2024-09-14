@@ -5,6 +5,11 @@
     "url": "https://github.com/cran/AER"
   },
   {
+    "package": "betareg",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/betareg"
+  },
+  {
     "package": "ctv",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/cran/ctv"
