@@ -1,5 +1,10 @@
 [
   {
+    "package": "emBayes",
+    "maintainer": "Yuwen Liu <yuwenliu9@gmail.com>",
+    "url": "https://github.com/cran/emBayes"
+  },
+  {
     "package": "strata.MaxCombo",
     "maintainer": "Yuwen Liu <yuwenliu9@gmail.com>",
     "url": "https://github.com/cran/strata.MaxCombo"
