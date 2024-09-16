@@ -25,6 +25,11 @@
     "url": "https://github.com/ohdsi/cohortexplorer"
   },
   {
+    "package": "CohortGenerator",
+    "maintainer": "Anthony Sena <sena@ohdsi.org>",
+    "url": "https://github.com/ohdsi/cohortgenerator"
+  },
+  {
     "package": "Cyclops",
     "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
     "url": "https://github.com/ohdsi/cyclops"

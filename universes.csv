@@ -285,6 +285,7 @@ africamonitor,sebkrantz
 aftgee,stc04003
 afthd,atanubhattacharjee
 aftR2,wangyuyao98
+aftsem,benedma2
 afttest,woojungbae
 ag5Tools,agrdatasci
 agcounts,bhelsel
@@ -2342,6 +2343,7 @@ cancerclass,bioc
 CancerEvolutionVisualization,uclahs-cds
 cancerGI,audreyqyfu
 CancerGram,biogenies
+cancerR,giancarlodigi
 cancerscreening,damurka
 candisc,friendly
 Canek,martinloza
@@ -3276,6 +3278,7 @@ cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu-dev
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
+CohortGenerator,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,edward-burn
@@ -6020,6 +6023,7 @@ equate,talbano
 equateIRT,micbtz
 equateMultiple,micbtz
 equatiomatic,datalorax
+equiBSPD,cran
 equil2,billdenney
 EquiSurv,kathrinmoellenhoff
 EquiTrends,tiesbos
@@ -7397,6 +7401,7 @@ gamlssx,paulnorthrop
 gamm4,cran
 gamma,crp2a
 Gammareg,cran
+gammi,cran
 gammSlice,mattwand
 gamreg,takayukikawashima
 gamRR,marsdu1989
@@ -7858,6 +7863,7 @@ gFormulaMI,jwb133
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
 gg4way,bioc
+ggalign,yunuuuu
 ggaligner,mohmedsoudy
 ggalignment,aftonsteps
 ggallin,shabbychef
@@ -10695,6 +10701,7 @@ latticeExtra,r-forge
 LatticeKrig,dnychka
 lava,kkholst
 lavaan,yrosseel
+lavaan.printer,sfcheung
 lavaan.shiny,kylehamilton
 lavaanExtra,rempsyc
 lavaangui,karchjd
@@ -12806,7 +12813,6 @@ MorphoRegions,aagillet
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morrowplots,sandical
-morse,virgile-baudrot
 mort,rosieluain
 mortAAR,isaakiel
 MortalityGaps,mpascariu
@@ -13092,7 +13098,6 @@ MultEq,cran
 multfisher,rmaster1
 multgee,anestistouloumis
 multiActionButton,stla
-Multiaovbay,omarruizec
 multiApply,anchiho
 MultiAssayExperiment,bioc
 multiAssetOptions,mike4358
@@ -13254,6 +13259,7 @@ MvBinary,masedki
 mvbutils,markbravington
 mvcauchy,cran
 MVCClass,bioc
+mvcor,cran
 mvctm,denufl
 mvdalab,cran
 mvDFA,jpirmer
@@ -14339,7 +14345,6 @@ options,dgkf
 optionstrat,cran
 optiscale,cran
 optiSel,cran
-OptiSembleForecasting,yeasinstat
 optiSolve,cran
 optistock,cran
 OptM,rfitak
@@ -16220,6 +16225,7 @@ pyMTurkR,vineetbansal
 pyramid,minatonakazawa
 pysd2r,jimduggan
 pysparklyr,mlverse
+PytrendsLongitudinalR,cran
 pzfx,yue-jiang
 Q2q,cran
 Q7,iqis
@@ -16664,6 +16670,7 @@ randomNames,centerforassessment
 RandomProjectionTest,juanxitas33
 randomUniformForest,cran
 Randomuseragent,fangzhou-xie
+RandomWalker,spsanderson
 RandomWalkRestartMH,bioc
 randPack,bioc
 RandPro,siddhunitpy
@@ -20515,6 +20522,7 @@ spectr,hugheylab
 Spectra,bioc
 spectral,seil85
 spectralAnalysis,ablommaert
+spectralAnomaly,al-obrien
 SpectralClMixed,cran
 spectralGP,cran
 spectralGraphTopology,dppalomar
@@ -22051,6 +22059,7 @@ tlars,jasinmachkour
 Tlasso,cran
 TLCAR,judepower1
 tldr,cran
+TLIC,guangbaog
 tlm,jobago
 TLMoments,jlilienthal
 tLOH,bioc
