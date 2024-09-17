@@ -3,5 +3,10 @@
     "package": "shrinkTVP",
     "maintainer": "Peter Knaus <peter.knaus@wu.ac.at>",
     "url": "https://github.com/cran/shrinkTVP"
+  },
+  {
+    "package": "shrinkTVPVAR",
+    "maintainer": "Peter Knaus <peter.knaus@wu.ac.at>",
+    "url": "https://github.com/cran/shrinkTVPVAR"
   }
 ]

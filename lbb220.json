@@ -1,5 +1,10 @@
 [
   {
+    "package": "GISTools",
+    "maintainer": "Binbin Lu <binbinlu@whu.edu.cn>",
+    "url": "https://github.com/cran/GISTools"
+  },
+  {
     "package": "GWmodel",
     "maintainer": "Binbin Lu <binbinlu@whu.edu.cn>",
     "url": "https://github.com/cran/GWmodel"

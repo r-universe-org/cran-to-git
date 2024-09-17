@@ -2280,6 +2280,7 @@ CADFtest,cran
 CaDrA,bioc
 CAEN,bioc
 caesar,jacobkap
+CAESAR.Suite,xiaozhangryy
 CAFE,bioc
 caffsim,asancpt
 CAGEfightR,bioc
@@ -5043,6 +5044,7 @@ dma,hanase
 dmai,myaseen208
 dmbc,sergioventurini
 DMCFB,bioc
+DMCfun,igmmgi
 DMCHMM,bioc
 dmetatools,nomahi
 dml,terrytangyuan
@@ -5321,11 +5323,13 @@ DTDA.cif,sidoruvigo
 DTDA.ni,sidoruvigo
 dtgiw,atchanut
 dti,ktabelow
+dtmapi,displacement-tracking-matrix
 DTMCPack,wbnicholson
 dtp,zedtaha
 dtpcrm,christinayap
 dtplyr,tidyverse
 dtrackr,terminological
+dtreg,cran
 DTRKernSmooth,yunanwu123
 DTRlearn2,ychen178
 DTRreg,sth1402
@@ -6729,7 +6733,6 @@ filenamer,djhshih
 files,gitronald
 filesstrings,rorynolan
 FILEST,cran
-filibustr,feinleib
 filling,kisungyou
 fillpattern,cmmr
 fillr,jelger12
@@ -6965,7 +6968,6 @@ FMC,jiyosunny
 FMCCSD,cran
 fmcmc,uscbiostats
 fmcsR,bioc
-fmdates,imanuelcostigan
 fmdu,busingfmta
 FME,r-forge
 fmeffects,holgstr
@@ -8149,6 +8151,7 @@ girafe,bioc
 giscoR,ropengov
 GISINTEGRATION,leilamarvian
 GISSB,statisticsnorway
+GISTools,lbb220
 gistr,ropensci
 git2r,ropensci
 git2rdata,ropensci
@@ -8792,7 +8795,7 @@ haarfisz,cran
 habCluster,qiangxyz
 hablar,davidsjoberg
 habtools,jmadinlab
-HAC,cran
+HAC,gggchen
 hackeRnews,szymanskir
 hacksaw,daranzolin
 hacksig,acare
@@ -9543,7 +9546,7 @@ idx2r,edoffagne
 ie2misc,iembry
 ie2miscdata,iembry
 ieeeround,amato-gianluca
-iemisc,iembry
+ieegio,dipterix
 iemiscdata,iembry
 iemisctext,iembry
 IETD,lfduquey
@@ -12217,6 +12220,7 @@ microbiome,bioc
 microbiomeDASim,bioc
 microbiomeExplorer,bioc
 microbiomeMarker,bioc
+microbiomeMQC,cran
 MicrobiomeProfiler,bioc
 MicrobiomeStat,cran
 MicrobiomeSurv,n-t-huyen
@@ -12997,6 +13001,7 @@ MSigSeg,cran
 mSigTools,rozen-lab
 mSimCC,dmorinya
 msImpute,bioc
+MSIMST,rh8liuqy
 MSinference,cran
 MSiP,mrbakhsh
 msir,luca-scr
@@ -13251,6 +13256,7 @@ mutossGUI,r-forge
 mutSignatures,dami82
 mutualinf,rafaelfuentealbac
 MuViCP,dmohit
+MUVR2,metabocomp
 MVA,thothorn
 mvabund,dwarton
 MVar,cran
@@ -15791,6 +15797,7 @@ predkmeans,kpkeller
 PredPsych,ateshkoul
 predReliability,cran
 predRupdate,glenmartin31
+PredTest,rnmontgomery
 predtools,resplab
 predtoolsTS,avm00016
 pref,denismollison
@@ -16353,6 +16360,7 @@ qrng,mariushofert
 qrNLMM,chedgala
 qrnn,cran
 qs,traversc
+qs2,traversc
 QSARdata,r-forge
 qsea,bioc
 qsimulatR,hiskp-lqcd
@@ -16560,6 +16568,7 @@ R453Plus1Toolbox,bioc
 R4CouchDB,wactbprot
 r4ds.tutorials,ppbds
 r4googleads,banboo-data
+R4HCR,cran
 r4lineups,colintredoux
 R4RNA,bioc
 r4ss,r4ss
@@ -17318,6 +17327,7 @@ regplot,rmar073
 regport,shixiangwang
 regr.easy,wagnnerms97
 regrap,cran
+regreplaceR,gwangjinkim
 regress,kbroman
 regressinator,capnrefsmmat
 RegressionFactory,asmahani
@@ -17648,7 +17658,7 @@ rGroovy,thospfuller
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
-rgTest,luobo9
+rgTest,stat-yb
 rgtmx,rrmn
 rgugik,kadyb
 rGV,cran
@@ -18655,6 +18665,7 @@ ruODK,ropensci
 rusda,ropensci
 rush,mlr-org
 rusk,thinkr-open
+rusquant,arbuzovv
 rust,paulnorthrop
 rutifier,msantelices
 rutledge,ramiromagno
@@ -19312,6 +19323,7 @@ sem,zhenghuanie
 semantic.assets,appsilon
 semantic.dashboard,appsilon
 Semblance,cran
+SEMdeep,barbaratarantino
 SemDist,bioc
 semdrw,kartikeyabolar
 semds,pmair78
@@ -19701,6 +19713,7 @@ shrink,biometrician
 ShrinkCovMat,anestistouloumis
 shrinkDSM,cran
 shrinkTVP,neferkareii
+shrinkTVPVAR,neferkareii
 shroomDK,charlieflipside
 SHT,kisungyou
 shuffle,yuvalbenjamini
@@ -20248,6 +20261,7 @@ soilwater,ecor
 Sojourn.Data,paulhibbing
 sokoban,zhaolianghe
 solaR,oscarperpinan
+solaR2,solarization
 solarPos,jvandoninck
 solartime,bgctw
 solitude,talegari
@@ -21313,6 +21327,7 @@ svHttp,sciviews
 svIDE,phgrosjean
 svines,tnagler
 svKomodo,sciviews
+SVMD,himadriiasri
 SVMDO,bioc
 svMisc,sciviews
 SVMMaj,hoksanyip
@@ -22266,7 +22281,7 @@ TransP,somenath24
 TransPhylo,xavierdidelot
 transplantr,johnasher
 transPlotR,junjunlab
-transport,cran
+transport,dschuhmacher
 transreg,lcsb-bds
 TransTGGM,cran
 tranSurv,stc04003
@@ -22620,7 +22635,7 @@ UBayFS,annajenul
 UBCRM,cran
 ubiquity,john-harrold
 UBL,paobranco
-ubms,kenkellner
+ubms,hmecology
 UBStats,raffaellapiccarreta
 UCell,bioc
 uci,ipeagit
@@ -23551,7 +23566,7 @@ xgb2sql,chengjunhou
 xgboost,trivialfis
 xgrove,g-rho
 xgxr,novartis
-xhaz,cran
+xhaz,jgoungounga
 XICOR,spholmes
 XiMpLe,rkward-community
 XINA,bioc
