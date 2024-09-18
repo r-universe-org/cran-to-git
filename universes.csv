@@ -867,7 +867,7 @@ assortnet,cran
 AST,alighanbari26
 ast2ast,konrad1991
 aster,cran
-aster2,cjgeyer
+aster2,cran
 asteRisk,rafael-ayala
 AsthmaNHANES,suntaojj
 astrochron,cran
@@ -2376,6 +2376,7 @@ carbonate,yonicd
 carbondate,tjheaton
 carcass,fraenzi
 card,shah-in-boots
+card.pro,oobianom
 carData,r-forge
 cardelino,bioc
 cardidates,r-forge
@@ -3315,6 +3316,7 @@ colocalization,hughzhangcn
 colocalized,stefangolas
 colocPropTest,cran
 colocr,ropensci
+ColOpenData,epiverse-trace
 colorblindcheck,nowosad
 colorBlindness,jianhong
 colorDF,january3
@@ -3331,6 +3333,7 @@ colorplane,bbuchsbaum
 colorr,cdcrabtree
 colorRamp2,jokergoo
 colorRamps,jefferis
+colorrepel,raysinensis
 colors3d,matthewkling
 colorscience,glenndavis52
 colorsGen,stla
@@ -4100,6 +4103,7 @@ CureAuxSP,biostat-jieding
 CureDepCens,gabrielgrandemagne
 curephEM,cran
 cureplots,gbasulto
+curesurv,jgoungounga
 curl,jeroen
 currencyapi,dominikkukacka
 currentSurvival,cran
@@ -4709,6 +4713,7 @@ devRate,frareb
 devtools,r-lib
 DevTreatRules,cran
 DEWSeq,bioc
+DEXiR,cran
 DExMA,bioc
 DEXSeq,bioc
 dexter,dexter-psychometrics
@@ -5329,7 +5334,7 @@ dtp,zedtaha
 dtpcrm,christinayap
 dtplyr,tidyverse
 dtrackr,terminological
-dtreg,cran
+dtreg,olgalezhnina
 DTRKernSmooth,yunanwu123
 DTRlearn2,ychen178
 DTRreg,sth1402
@@ -10181,6 +10186,7 @@ jackstraw,ncchung
 jacobi,stla
 JacobiEigen,billvenables
 jacpop,cran
+Jacquard,jangraffelman
 JADE,cran
 jadeLizardOptions,maheshpkumar
 jage,cran
@@ -14429,6 +14435,7 @@ oro.pet,bjw34032
 orsifronts,australianantarcticdivision
 orsk,cran
 ORTH.Ord,mengcan47
+orthGS,cran
 orthoDr,teazrq
 orthogene,bioc
 orthogonalsplinebasis,halpo
@@ -14485,6 +14492,7 @@ OTUbase,bioc
 otuSummary,cam315
 OTUtable,amlinz
 ouch,kingaa
+ouladFormat,ehoward1
 outbreaker2,finlaycampbell
 outbreaks,reconverse
 outcomerate,ropensci
@@ -14595,6 +14603,7 @@ palaeoSig,richardjtelford
 palaeoverse,palaeoverse
 palasso,rauschenberger
 pald,lucymcgowan
+paleoAM,dwbapst
 paleobioDB,ropensci
 paleobuddy,brpetrucci
 paleoDiv,theropod1
@@ -14663,6 +14672,7 @@ paperplanes,andreasleha
 parabar,mihaiconstantin
 parade,cran
 paradox,mlr-org
+parafac4microbiome,grvanderploeg
 parallelDist,alexeckert
 ParallelLogger,ohdsi
 parallelly,henrikbengtsson
@@ -15221,7 +15231,7 @@ PhysActBedRest,cran
 PhysicalActivity,cran
 physiology,jackwasey
 PhySortR,timothystephens
-phytoclass,andymckenziefromnz
+phytoclass,alexanderhayward1995
 phytools,liamrevell
 PhytosanitaryCalculator,grvisei
 Pi,bioc
@@ -17158,6 +17168,7 @@ reader,nicholasjcooper
 readHAC,kaskr
 readit,ryapric
 readJDX,bryanhanson
+readMDTable,jrdnbradford
 readme2vignette,indenkun
 readmet,cdruee
 readmission,simonpcouch
@@ -19578,6 +19589,7 @@ shinipsum,thinkr-open
 shiny,rstudio
 shiny.benchmark,appsilon
 shiny.blueprint,cran
+shiny.destroy,ashbaldry
 shiny.emptystate,appsilon
 shiny.exe,aodiakite
 shiny.fluent,appsilon
@@ -21117,6 +21129,7 @@ StructuralDecompose,allen-1242
 StructuralVariantAnnotation,bioc
 StructureMC,yifuliu
 strvalidator,oskarhansson
+sts,cran
 stuart,martscht
 studentlife,frycast
 studyStrap,gloewing
@@ -22632,7 +22645,7 @@ u5mr,myominnoo
 uaparserjs,hrbrmstr
 uavRmp,gisma
 UBayFS,annajenul
-UBCRM,cran
+UBCRM,zemmourc
 ubiquity,john-harrold
 UBL,paobranco
 ubms,hmecology
@@ -23205,6 +23218,7 @@ walrus,jamovi
 WALS,kevhuy
 WaMaSim,scheidan
 wand,hrbrmstr
+WAnova,cran
 warabandi,harry-maan
 warbleR,marce10
 WARN,tsutatsuta
