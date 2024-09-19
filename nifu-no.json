@@ -3,5 +3,10 @@
     "package": "saros",
     "maintainer": "Stephan Daus <stephus.daus@gmail.com>",
     "url": "https://github.com/nifu-no/saros"
+  },
+  {
+    "package": "saros.base",
+    "maintainer": "Stephan Daus <stephus.daus@gmail.com>",
+    "url": "https://github.com/nifu-no/saros.base"
   }
 ]

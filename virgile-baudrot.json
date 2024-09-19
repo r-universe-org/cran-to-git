@@ -1,5 +1,10 @@
 [
   {
+    "package": "morse",
+    "maintainer": "Virgile Baudrot <virgile.baudrot@qonfluens.com>",
+    "url": "https://github.com/cran/morse"
+  },
+  {
     "package": "rPBK",
     "maintainer": "Virgile Baudrot <virgile.baudrot@qonfluens.com>",
     "url": "https://github.com/cran/rPBK"
