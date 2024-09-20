@@ -2491,7 +2491,7 @@ CausalQueries,integrated-inferences
 CausalR,bioc
 causalsens,mattblackwell
 causalSLSE,pchausse
-causalweight,hbodory
+causalweight,hugometric
 CausCor,sugym
 CautiousLearning,cran
 CAvariants,rosarialo
@@ -5881,6 +5881,7 @@ enmpa,luisagi
 enmSdmX,adamlilith
 ENMTools,danlwarren
 enpls,nanxstats
+EnrichDO,cran
 EnrichedHeatmap,bioc
 EnrichIntersect,ocbe-uio
 EnrichmentBrowser,bioc
@@ -6658,7 +6659,7 @@ fedregs,noaa-edab
 fedstatAPIr,denchpokepon
 fedup,bioc
 fedz1,shaf1430
-FeedbackTS,cran
+FeedbackTS,ssoubeyrand
 feisr,ruettenauer
 FELLA,bioc
 fellingdater,ropensci
@@ -8709,6 +8710,7 @@ GTDL,carrascojalmar
 gte,cran
 gTests,cran
 gTestsMulti,cran
+gtexr,rmgpanw
 gtExtras,jthomasmock
 gtexture,rbarkerclarke
 gtfs2emis,ipeagit
@@ -15517,6 +15519,7 @@ PoDBAY,vavrycuk-zz
 PoDCall,bioc
 podcleaner,cran
 podkat,bioc
+poems,globalecologylab
 POET,zhelcheva
 pogit,cran
 pogos,bioc
@@ -16101,6 +16104,7 @@ psica,osysoev
 psichomics,bioc
 psidR,floswald
 psidread,qcrates
+PSIM,luana1909
 PSIndependenceTest,cran
 PSinference,ricardomourarpm
 PSLM2015,myaseen208
@@ -17384,6 +17388,7 @@ relevent,cran
 relgam,kjytay
 reliabilitydiag,aijordan
 ReliabilityTheory,louisaslett
+ReliaGrowR,paulgovan
 relimp,davidfirth
 RelimpPCR,michhernand
 relliptical,katherineloor
@@ -18524,6 +18529,7 @@ RSQL,ropenstats
 RSQLite,r-dbi
 RSqlParser,cran
 RsqMed,ytzhong
+RSquaredMI,karchjd
 rSRD,jhstaudacher
 Rssa,asl
 RSSampling,cran
@@ -19133,6 +19139,7 @@ SCOR,synx21
 score,cran
 scorecard,shichenxie
 scorecardModelUtils,aryapoddar
+scoredec,cadam00
 ScoreEB,wenlongren
 scoreInvHap,bioc
 scorematchingad,kasselhingee
@@ -20665,6 +20672,7 @@ splots,bioc
 spls,valentint
 splus2R,spkaluzny
 splusTimeDate,spkaluzny
+splusTimeSeries,spkaluzny
 splutil,sykdomspulsen
 spm,jinli22
 spm2,jinli22
@@ -20904,7 +20912,7 @@ starsExtra,michaeldorman
 starsTileServer,bart1
 STARTdesign,haoluns
 starter,ddsjoberg
-startR,anchiho
+startR,cran
 STARTS,alexanderrobitzsch
 startup,henrikbengtsson
 startupmsg,peterruckdeschel
@@ -20938,6 +20946,7 @@ statgenQTLxT,bartjanvanrossum
 statgenSTA,biometris
 statGraph,andrefujita
 Statial,bioc
+staticryptR,cran
 stationaRy,rich-iannone
 stationery,pauljohn32
 statip,paulponcet
