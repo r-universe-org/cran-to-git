@@ -20,6 +20,11 @@
     "url": "https://github.com/nlmixr2/lotri"
   },
   {
+    "package": "monolix2rx",
+    "maintainer": "Matthew Fidler <matthew.fidler@gmail.com>",
+    "url": "https://github.com/nlmixr2/monolix2rx"
+  },
+  {
     "package": "n1qn1",
     "maintainer": "Matthew Fidler <matthew.fidler@gmail.com>",
     "url": "https://github.com/nlmixr2/n1qn1c"
@@ -75,11 +80,6 @@
     "url": "https://github.com/nlmixr2/rxode2"
   },
   {
-    "package": "rxode2et",
-    "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
-    "url": "https://github.com/nlmixr2/rxode2et"
-  },
-  {
     "package": "rxode2ll",
     "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
     "url": "https://github.com/nlmixr2/rxode2ll"
@@ -88,10 +88,5 @@
     "package": "rxode2parse",
     "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
     "url": "https://github.com/nlmixr2/rxode2parse"
-  },
-  {
-    "package": "rxode2random",
-    "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
-    "url": "https://github.com/nlmixr2/rxode2random"
   }
 ]

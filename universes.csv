@@ -1921,6 +1921,7 @@ BNPdensity,cran
 BNPmix,rcorradin
 bnpsd,storeylab
 BNPTSclust,cran
+bnRep,manueleleonelli
 BNrich,samaneh-bioinformatics
 BNSL,cran
 BNSP,papgeo
@@ -3584,6 +3585,7 @@ convdistr,johnaponte
 ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
 convergEU,federico-m-stefanini
+conversim,chaoliu-cl
 convert,bioc
 convertBCD,cran
 convertbonds,aughunter
@@ -6046,6 +6048,7 @@ equivUMP,thmild
 ER,khliland
 era,joeroe
 erah,xdomingoal
+eratosthenes,scollinselliott
 erboost,archer-yang-lab
 erccdashboard,bioc
 ercv,iserram
@@ -8602,6 +8605,7 @@ grobblR,calvinmfloyd
 groc,lafaye
 groHMM,bioc
 gromovlab,hvlieb
+groqR,gabrielkaiserqfin
 groundhog,credibilitylab
 GroupBN,abecker-ml
 GroupComparisons,cran
@@ -10454,6 +10458,7 @@ kgen,dm807cam
 KGode,cran
 kgp,stephenturner
 kgrams,vgherard
+kgraph,thomaschln
 kgschart,kota7
 khisr,damurka
 KHQ,augustobrusaca
@@ -10710,7 +10715,7 @@ LATERmodel,unimelbmdap
 latex2exp,stefano-meschiari
 latexdiffr,hughjonesd
 latexpdf,bergsmat
-latexSymb,nescoba
+latexSymb,nicoesve
 latrend,philips-software
 latte,dkahle
 lattice,deepayan
@@ -12798,6 +12803,7 @@ monocle,bioc
 monoClust,vinhtantran
 monographaR,mreginato
 MonoInc,cran
+monolix2rx,nlmixr2
 monomvn,rbgramacy
 MonoPhy,oschwery
 MonoPoly,berwinturlach
@@ -18764,10 +18770,8 @@ rwunderground,alshum
 RXKCD,onertipaday
 RxnSim,varungiri
 rxode2,nlmixr2
-rxode2et,nlmixr2
 rxode2ll,nlmixr2
 rxode2parse,nlmixr2
-rxode2random,nlmixr2
 rxSeq,cran
 RXshrink,rlobenchain
 rxylib,r-lum
@@ -19530,6 +19534,7 @@ sft,cran
 sftime,r-spatial
 SFtools,mlaib
 sftrack,mablab
+sg,botan
 sgapi,defra-data-science-centre-of-excellence
 sgat,matiaspoullain
 SGB,grafmoni
@@ -22627,6 +22632,7 @@ twenty48,rossellhayes
 twfy,conjugateprior
 twilight,bioc
 twilio,seankross
+twingp,cran
 twinning,cran
 Twitmo,abuchmueller
 twitteR,geoffjentry
