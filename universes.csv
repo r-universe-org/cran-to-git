@@ -3432,6 +3432,7 @@ CompMix,haowei72
 CompModels,tpourmohamad
 COMPoissonReg,lotze
 CompositeReliability,jmoonen
+compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
 CompositionalML,cran
 compositions,cran
@@ -13856,7 +13857,7 @@ NonCompart,cran
 noncompliance,cran
 noncomplyR,sscogges
 nondetects,bioc
-nonet,gslabdev
+nonet,aviralvijay-gslab
 nonLinearDotPlot,sorendoring
 nonlinearICP,christinaheinze
 NonlinearTSA,cran
