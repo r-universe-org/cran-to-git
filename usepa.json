@@ -54,5 +54,10 @@
     "package": "tcpl",
     "maintainer": "Jason Brown <brown.jason@epa.gov>",
     "url": "https://github.com/usepa/comptox-toxcast-tcpl"
+  },
+  {
+    "package": "tcplfit2",
+    "maintainer": "Jason Brown <brown.jason@epa.gov>",
+    "url": "https://github.com/usepa/comptox-toxcast-tcplfit2"
   }
 ]

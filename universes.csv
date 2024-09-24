@@ -544,6 +544,7 @@ anim.plots,hughjonesd
 animalcules,bioc
 animalEKF,sam-data-guy-iam
 AnimalHabitatNetwork,cran
+AnimalSequences,cran
 animate,kcf-jackson
 animation,yihui
 animbook,krisanata
@@ -885,7 +886,6 @@ asymmetry,berriez
 asymmetry.measures,cran
 asympTest,lafaye
 asymptor,bisaloo
-async,crowding
 AsynchLong,sth1402
 ata,chajewski
 atable,arminstroebel
@@ -2423,7 +2423,7 @@ CASCORE,cran
 cascsim,windwill
 casebase,sahirbhatnagar
 CaseBasedReasoning,sipemu
-CaseCohortCoxSurvival,wheelerb
+CaseCohortCoxSurvival,etievant
 caseMatch,nielsenrich
 cases,maxwestphal
 casino,anthonypileggi
@@ -2723,7 +2723,6 @@ ChangePointTaylor,mmarks13
 ChangepointTesting,sth1402
 changepointTests,cran
 changer,helske
-changeRangeR,cran
 changeS,matloff
 ChannelAttribution,cran
 ChannelAttributionApp,davidealtomare
@@ -3807,6 +3806,7 @@ CoxICPen,cran
 coxme,cran
 Coxmos,biostatomics
 coxphf,georgheinze
+coxphm,yunrochung
 coxphSGD,marcinkosinski
 coxphw,biometrician
 CoxPlus,jnpeng
@@ -8438,6 +8438,7 @@ gpboost,fabsig
 gpbStat,nandp1
 GPCERF,nsaph-software
 GPCMlasso,schaubert
+GPCsign,morgane-m
 GPEMR,ruqaiya41
 GPFDA,gpfda
 GPfit,cran
@@ -8468,6 +8469,7 @@ GPSCDF,cran
 GPSeqClus,cran
 gptoolsStan,tillahoffmann
 gptr,broccolito
+GPTreeO,cran
 gptstudio,michelnivard
 gptzeror,christopherkenny
 gpuMagic,bioc
@@ -9033,6 +9035,7 @@ heumilkr,lschneiderbauer
 heuristica,jeanimal
 heuristicsmineR,bupaverse
 hexbin,edzer
+hexDensity,chenlaboratory
 hexfont,trevorld
 hexSticker,guangchuangyu
 HextractoR,cran
@@ -11693,6 +11696,7 @@ mau,pedroguarderas
 mauricer,ropensci
 MAVE,cran
 maxcombo,tprior1
+maxent.ot,connormayer
 MaxentVariableSelection,alj1983
 maximin,sunf16
 MaximinInfer,cran
@@ -13928,6 +13932,7 @@ npboottprm,mightymetrika
 npboottprmFBar,mightymetrika
 npbr,cran
 NPCD,cran
+NPCDTools,cran
 NPCirc,cran
 npclust,cran
 npcopTest,cran
@@ -13987,7 +13992,6 @@ NScluster,cran
 nse,keblu
 nseq,rfsaldanha
 nser,nandp1
-nseval,crowding
 nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,grantschneider
@@ -14385,6 +14389,7 @@ optpart,dvrbts
 optR,cran
 optrcdmaeAT,cran
 optrefine,kkbrum
+optRF,cran
 OPTS,cran
 OptSig,jh8080
 OPTtesting,cran
@@ -16705,7 +16710,7 @@ randomizationInference,cran
 randomizeBE,detlew
 randomizeR,cran
 randomizr,declaredesign
-randomLCA,kjbeath
+randomLCA,cran
 randomMachines,mateusmaiads
 randomNames,centerforassessment
 RandomProjectionTest,juanxitas33
@@ -18125,6 +18130,7 @@ robust,valentint
 robust2sls,jkurle
 RobustAFT,cran
 RobustANOVA,cran
+robustarima,spkaluzny
 robustbase,r-forge
 RobustBayesianCopas,cran
 robustbetareg,ffqueiroz
@@ -18586,6 +18592,7 @@ rt.test,statpnu
 rt3,johanjordaan
 rTableICC,haydarde
 rtables,insightsengineering
+rtabulator,eodagmbh
 Rtapas,mllaberia
 rtape,cran
 Rtauchen,davidzarruk
@@ -18772,7 +18779,6 @@ RXKCD,onertipaday
 RxnSim,varungiri
 rxode2,nlmixr2
 rxode2ll,nlmixr2
-rxode2parse,nlmixr2
 rxSeq,cran
 RXshrink,rlobenchain
 rxylib,r-lum
@@ -19644,6 +19650,7 @@ shinyChakraUI,stla
 shinyChatR,julianschmocker
 shinyCohortBuilder,krystian8207
 shinyCox,harryc598
+shinycroneditor,semipublicdlf
 shinycssloaders,daattali
 shinycustomloader,cran
 shinyCyJS,jhk0530
@@ -20828,7 +20835,7 @@ ssimparser,sthonnard
 ssize,bioc
 ssize.fdr,cran
 ssizeRNA,ranbi1990
-SSLASSO,gemoran
+SSLASSO,cran
 SSLR,cran
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
@@ -21323,6 +21330,7 @@ SurvivalTests,osmandag
 survivalVignettes,bethatkinson
 survivoR,doehm
 SurvLong,sth1402
+SurvMA,stat-wangxg
 SurvMetrics,skyee1
 SurvMI,yimingc1208
 survminer,kassambara
@@ -21628,7 +21636,7 @@ tcltk2,sciviews
 tclust,valentint
 Tcomp,ellisp
 tcpl,usepa
-tcplfit2,brown-jason
+tcplfit2,usepa
 TCPMOR,shuo-yang-sysu
 TCseq,bioc
 td,eddelbuettel
