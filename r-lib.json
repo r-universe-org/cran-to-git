@@ -30,6 +30,16 @@
     "url": "https://github.com/r-lib/bench"
   },
   {
+    "package": "bit",
+    "maintainer": "Jens Oehlschlägel <Jens.Oehlschlaegel@truecluster.com>",
+    "url": "https://github.com/r-lib/bit"
+  },
+  {
+    "package": "bit64",
+    "maintainer": "Jens Oehlschlägel <Jens.Oehlschlaegel@truecluster.com>",
+    "url": "https://github.com/r-lib/bit64"
+  },
+  {
     "package": "brio",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/brio"

@@ -44,12 +44,6 @@
     "subdir": "image.CornerDetectionHarris"
   },
   {
-    "package": "image.dlib",
-    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
-    "url": "https://github.com/bnosac/image",
-    "subdir": "image.dlib"
-  },
-  {
     "package": "image.libfacedetection",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/image",
