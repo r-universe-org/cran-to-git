@@ -329,7 +329,7 @@ agvgd,maialab
 ahaz,agorstras
 AHM,vtshen
 AHMassBank,bioc
-AHMbook,hmecology
+AHMbook,biodiverse
 ahMLE,cran
 ahnr,jroberayalas
 AhoCorasickTrie,chambm
@@ -784,6 +784,7 @@ arrayhelpers,r-forge
 arrayMvout,bioc
 arrayQuality,bioc
 arrayQualityMetrics,bioc
+arrg,jonclayden
 ARRmNormalization,bioc
 arrow,apache
 arrowheadr,wjschne
@@ -1051,6 +1052,7 @@ backpipe,decisionpatterns
 backports,r-lib
 backShift,christinaheinze
 backtest,dgerlanc
+baclava,sth1402
 bacon,bioc
 bacondecomp,evanjflack
 BACprior,detal9
@@ -5075,6 +5077,7 @@ dmtools,konstantinryabov
 dmutate,kylebaron
 DMwR2,ltorgo
 DNABarcodeCompatibility,bioc
+DNABarcodes,bioc
 DNAcopy,bioc
 DNAfusion,bioc
 DNAmixturesLite,tgraversen
@@ -5173,7 +5176,7 @@ DoubleML,doubleml
 doubletrouble,bioc
 doublIn,vharntzen
 doubt,moodymudskipper
-douconca,cajoterbraak
+douconca,biometris
 doudpackage,cran
 DOvalidation,cran
 DOVE,sth1402
@@ -5676,6 +5679,7 @@ EESPCA,cran
 ef,colinpmillar
 EFA.dimensions,bpoconnor
 EFA.MRFA,cran
+EFAfactors,haijiangq
 EFAtools,mdsteiner
 EFAutilities,guangjianzhang
 efdm,mikkoku
@@ -7253,6 +7257,7 @@ fTrading,cran
 ftrCOOL,sareameri
 ftsa,cran
 ftsspec,cran
+fucom,mateusvanzetta
 fude,takeshinishimura
 fuel,cran
 fueleconomy,hadley
@@ -9622,6 +9627,7 @@ iimi,ubcxzhang
 iIneq,tfliaoui
 IIProductionUnknown,cran
 IIVpredictor,cran
+IJSE,cran
 ijtiff,ropensci
 ilabelled,clewerenz
 illuminaio,bioc
@@ -10846,6 +10852,7 @@ learnPopGen,liamrevell
 learnr,rstudio
 learnrbook,aphalo
 LearnSL,comiseng
+LearnVizLMM,kzavez
 leastcostpath,josephlewis
 ledger,trevorld
 LedPred,bioc
@@ -11596,6 +11603,7 @@ markovchain,spedygiorgio
 Markovchart,cran
 markovmix,zhuxr11
 markovMSM,gsoutinho
+markowitz,luana1909
 MarkowitzR,shabbychef
 marlod,cran
 marmap,ericpante
@@ -11698,6 +11706,7 @@ matuR,josedv82
 mau,pedroguarderas
 mauricer,ropensci
 MAVE,cran
+maxaltall,cran
 maxcombo,tprior1
 maxent.ot,connormayer
 MaxentVariableSelection,alj1983
@@ -14792,6 +14801,7 @@ patchSynctex,emmanuelcharpentier
 patchwork,thomasp85
 patentr,jyprojs
 patentsview,ropensci
+Path.Analysis,abeyrann
 path.chain,krzjoa
 Path2PPI,bioc
 pathfindR,egeulgen
@@ -16400,8 +16410,8 @@ qrmtools,mariushofert
 qrng,mariushofert
 qrNLMM,chedgala
 qrnn,cran
-qs,traversc
-qs2,traversc
+qs,qsbase
+qs2,qsbase
 QSARdata,r-forge
 qsea,bioc
 qsimulatR,hiskp-lqcd
@@ -16658,6 +16668,7 @@ raem,cneyens
 raer,bioc
 rafalib,rairizarry
 RAFS,yoctozepto
+rafsi,mateusvanzetta
 Rage,jonesor
 ragg,r-lib
 RaggedExperiment,bioc
@@ -18292,6 +18303,7 @@ roughsf,schochastics
 round,mmaechler
 RoundAndRound,shulele
 roundhouse,bgreenwell
+roundwork,lhdjung
 roundyh,duanyh16
 Routliers,mdelacre
 routr,thomasp85
@@ -20369,7 +20381,7 @@ sp,edzer
 SP2000,otoliths
 sp23design,hrpcisd
 spaa,helixcn
-spAbundance,doserjef
+spAbundance,biodiverse
 spacefillr,tylermorganwall
 spacejamr,dscolby
 SpaceMarkers,bioc
@@ -20853,6 +20865,7 @@ ssMutPA,hanjunwei-lab
 SSN2,usepa
 sSNAPPY,bioc
 SSNbayes,edgarsantos-fernandez
+SSNbler,pet221
 SSOSVM,andrewthomasjones
 SSP,edlinguerra
 ssPATHS,bioc
@@ -22168,6 +22181,7 @@ TNC,cran
 tnet,toreopsahl
 tnl.Test,ihababusaif
 TNRS,bmaitner
+TnT,bioc
 tntpr,tntp
 TOAST,bioc
 toastui,dreamrs
@@ -22691,7 +22705,7 @@ UBayFS,annajenul
 UBCRM,zemmourc
 ubiquity,john-harrold
 UBL,paobranco
-ubms,hmecology
+ubms,biodiverse
 UBStats,raffaellapiccarreta
 UCell,bioc
 uci,ipeagit
@@ -22798,7 +22812,7 @@ univOutl,cran
 UnivRNG,bernice0321
 unix,jeroen
 unjoin,hypertidy
-unmarked,hmecology
+unmarked,biodiverse
 unmconf,dkahle
 unnest,vspinu
 UNPaC,cran
@@ -23648,6 +23662,7 @@ xmlconvert,jsugarelli
 xmlparsedata,r-lib
 xmlr,alipsa
 xmlrpc2,cran
+xmlwriter,edwindj
 xmpdf,trevorld
 xmrr,zanidean
 XNAString,bioc

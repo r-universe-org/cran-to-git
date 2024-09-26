@@ -3531,6 +3531,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DNABarcodes",
+    "maintainer": "Tilo Buschmann <tilo.buschmann.ac@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/DNABarcodes",
+    "registry": "bioc"
+  },
+  {
     "package": "DNAcopy",
     "maintainer": "Venkatraman E. Seshan <seshanv@mskcc.org>",
     "url": "https://github.com/veseshan/dnacopy",
@@ -12788,6 +12794,12 @@
     "package": "TMixClust",
     "maintainer": "Monica Golumbeanu <golumbeanu.monica@gmail.com>",
     "url": "https://git.bioconductor.org/packages/TMixClust",
+    "registry": "bioc"
+  },
+  {
+    "package": "TnT",
+    "maintainer": "Jialin Ma <marlin-@gmx.cn>",
+    "url": "https://github.com/marlin-na/tnt",
     "registry": "bioc"
   },
   {
