@@ -2529,6 +2529,7 @@ cccd,dmarchette
 cccm,cran
 cccp,bpfaff
 cccrm,jlcarrascoub
+CCd,cran
 ccda,cran
 ccdR,usepa
 ccfindR,bioc
@@ -2637,6 +2638,7 @@ CensSpatial,joalor93
 Census2016,hughparsonage
 censusapi,hrecht
 censusr,transportfoundry
+centerline,atsyplenkov
 centiserve,cran
 centr,ryanzomorrodi
 centrifugeR,phamdn
@@ -4750,6 +4752,7 @@ dformula,serafinialessio
 DFP,bioc
 dfped,artemis-toumazi
 dfphase1,cran
+dfr,ff1201
 dfrr,asgari-fatemeh
 dfsaneacc,johngardenghi
 dfvad,shipei-zeng
@@ -6060,6 +6063,7 @@ erboost,archer-yang-lab
 erccdashboard,bioc
 ercv,iserram
 ERDbuilder,gbasulto
+erer,cran
 erfe,amadoudiogobarry
 ergm,statnet
 ergm.count,statnet
@@ -7385,6 +7389,7 @@ GAIPE,cran
 galah,atlasoflivingaustralia
 galamm,lcbc-uio
 galigor,selesnow
+gallery,txiao95
 GALLO,pablobio
 galts,jbytecode
 galvanizer,jonlinca
@@ -9250,7 +9255,7 @@ hpiR,andykrause
 HPLB,lorismichel
 HQM,cran
 hqmisc,hugoquene
-hqreg,cran
+hqreg,cy-dev
 hR,dalekube
 hrbrthemes,hrbrmstr
 hrcomprisk,antiportad
@@ -9311,6 +9316,7 @@ httpuv,rstudio
 httr,r-lib
 httr2,r-lib
 hubeau,inrae
+hubEnsembles,hubverse-org
 HubPub,bioc
 hubUtils,hubverse-org
 hudr,cran
@@ -9627,7 +9633,7 @@ iimi,ubcxzhang
 iIneq,tfliaoui
 IIProductionUnknown,cran
 IIVpredictor,cran
-IJSE,cran
+IJSE,trtfj
 ijtiff,ropensci
 ilabelled,clewerenz
 illuminaio,bioc
@@ -10445,6 +10451,7 @@ kernplus,hhwangbo
 kernscr,borishejblum
 KernSmooth,cran
 KernSmoothIRT,mcguirebc
+kernstadapt,jagm03
 kerntools,elies-ramon
 kerSeg,cran
 kerTests,cran
@@ -11438,6 +11445,7 @@ madshapR,maelstrom-research
 madsim,doulaye
 maestro,whipson
 Maeswrap,remkoduursma
+mafR,f-rousset
 maftools,bioc
 MAGAR,bioc
 magclass,pik-piam
@@ -11706,7 +11714,7 @@ matuR,josedv82
 mau,pedroguarderas
 mauricer,ropensci
 MAVE,cran
-maxaltall,cran
+maxaltall,pdkiser
 maxcombo,tprior1
 maxent.ot,connormayer
 MaxentVariableSelection,alj1983
@@ -11836,6 +11844,7 @@ MCPModBC,cran
 MCPModGeneral,ilaga
 MCPModPack,medianasoft
 mcprofile,daniel-gerhard
+mcprogress,myles-lewis
 MCPtests,cran
 mcr,cran
 mcradds,kaigu1990
@@ -14213,6 +14222,7 @@ OmnibusFisher,cran
 OmnipathR,bioc
 omock,ohdsi
 omopgenerics,darwin-eu-dev
+OmopSketch,ohdsi
 ompBAM,bioc
 ompr,dirkschumacher
 ompr.roi,dirkschumacher
@@ -15084,6 +15094,7 @@ PermutationR,ohabdalla1
 permutations,robinhankin
 permute,gavinsimpson
 permutes,cvoeten
+permutest,cran
 perplexR,gabrielkaiserqfin
 perry,aalfons
 perryExamples,aalfons
@@ -18508,7 +18519,6 @@ rsetse,jonnob
 rsf,dchiu911
 rSFA,martinzaefferer
 Rsfar,haghbinh
-rsgeo,josiahparry
 Rsgf,bcable
 RSGHB,rsginc
 rSHAPE,jdench
@@ -19090,6 +19100,7 @@ scdensity,cran
 scDesign3,bioc
 scDHA,duct317
 scdhlm,jepusto
+scDiagnostics,bioc
 scDiffCom,cyrillagger
 scDIFtest,ddebeer
 scDotPlot,bioc
@@ -19726,6 +19737,7 @@ shinypanel,alexvpickering
 shinypanels,datasketch
 shinypivottabler,bthieurmel
 shinyPredict,jkhaukka
+shinyQueryBuilder,krystian8207
 ShinyQuickStarter,cran
 shinyquiz,priism-center
 shinyRadioMatrix,szelepke
@@ -22011,6 +22023,7 @@ tidyREDCap,raymondbalise
 tidyrgee,r-tidy-remote-sensing
 tidyRSS,robertmyles
 tidyrules,talegari
+tidysbml,bioc
 tidysdm,evolecolgroup
 tidyselect,r-lib
 tidySEM,cjvanlissa

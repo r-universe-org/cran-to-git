@@ -11104,6 +11104,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scDiagnostics",
+    "maintainer": "Anthony Christidis <anthony-alexander_christidis@hms.harvard.edu>",
+    "url": "https://github.com/ccb-hms/scdiagnostics",
+    "registry": "bioc"
+  },
+  {
     "package": "scDotPlot",
     "maintainer": "Benjamin I Laufer <blaufer@gmail.com>",
     "url": "https://github.com/ben-laufer/scdotplot",
@@ -12698,6 +12704,12 @@
     "package": "tidyomics",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/tidyomics/tidyomics",
+    "registry": "bioc"
+  },
+  {
+    "package": "tidysbml",
+    "maintainer": "Veronica Paparozzi <veronicapaparozzi1@gmail.com>",
+    "url": "https://github.com/veronicapaparozzi/tidysbml",
     "registry": "bioc"
   },
   {

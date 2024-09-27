@@ -1,5 +1,10 @@
 [
   {
+    "package": "hubEnsembles",
+    "maintainer": "Li Shandross <lshandross@umass.edu>",
+    "url": "https://github.com/hubverse-org/hubensembles"
+  },
+  {
     "package": "hubUtils",
     "maintainer": "Anna Krystalli <annakrystalli@googlemail.com>",
     "url": "https://github.com/hubverse-org/hubutils"

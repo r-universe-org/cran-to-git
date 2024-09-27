@@ -75,6 +75,11 @@
     "url": "https://github.com/ohdsi/omock"
   },
   {
+    "package": "OmopSketch",
+    "maintainer": "Marta Alcalde-Herraiz <marta.alcaldeherraiz@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/omopsketch"
+  },
+  {
     "package": "ParallelLogger",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/parallellogger"
