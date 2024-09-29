@@ -3086,7 +3086,6 @@ clusterability,cran
 ClusterBootstrap,mathijsdeen
 clusterCons,biomedicalinformaticsgroup
 clusterCrit,iago-pssjd
-clusteredinterference,barkleybg
 ClusteredMutations,cran
 clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
@@ -5502,7 +5501,6 @@ easystats,easystats
 easysurv,maple-health-group
 easySVG,ytdai
 easyVerification,jonasbhend
-easyWechat,xleizi
 eat,miriamesteve
 eatATA,beckerbenj
 eatDB,cran
@@ -6463,7 +6461,7 @@ famSKATRC,kkunji
 FAMT,dcauseur
 fanc,keihirose
 fANCOVA,cran
-fancycut,cran
+fancycut,adamleerich
 fangs,dbdahl
 fanovaGraph,sonjakuhnt
 fanplot,guyabel
@@ -7882,8 +7880,6 @@ GFE,cran
 gfer,yuanchao-xu
 GFGM.copula,cran
 gfiExtremes,stla
-gfilmm,stla
-gfilogisreg,cran
 GFisher,wpihongzhang
 gfiUltra,stla
 GFM,feiyoung
@@ -11124,7 +11120,7 @@ lmtp,nt-williams
 lmviz,cran
 lmw,ngreifer
 lncDIFF,qianli10000
-LncFinder,han-siyu
+LncFinder,cran
 LncPath,hanjunwei-lab
 LNIRT,cran
 lnmCluster,cran
@@ -13580,7 +13576,6 @@ netCoin,modesto-escobar
 netcom,langendorfr
 netcontrol,daklor
 NetCoupler,netcoupler
-netcox,ly129
 NetDA,lchen723
 netdiffuseR,usccana
 netDx,bioc
@@ -16491,7 +16486,7 @@ quanteda,quanteda
 quanteda.textmodels,quanteda
 quanteda.textplots,quanteda
 quanteda.textstats,quanteda
-quantification,cran
+quantification,jsugarelli
 quantileDA,viroli
 QuantileGH,cran
 QuantileGradeR,king-county-restaurant-grading
@@ -20131,7 +20126,6 @@ slm,e-caron
 SLModels,raznargimeno
 sloop,r-lib
 SLOPE,jolars
-slopeOP,vrunge
 slopes,ropensci
 slouch,kopperud
 slowraker,crew102
@@ -21218,7 +21212,6 @@ subplex,kingaa
 subrank,jeromepcollet
 subscore,daiscode
 subscreen,bodokirsch
-subselect,cran
 subsemble,ledell
 subSeq,bioc
 subspace,cran
