@@ -55,7 +55,8 @@
   {
     "package": "synthesizer",
     "maintainer": "Mark van der Loo <mark.vanderloo@gmail.com>",
-    "url": "https://github.com/cran/synthesizer"
+    "url": "https://github.com/markvanderloo/synthesizer",
+    "subdir": "pkg"
   },
   {
     "package": "tinytest",
