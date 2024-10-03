@@ -1,5 +1,10 @@
 [
   {
+    "package": "depCensoring",
+    "maintainer": "Negera Wakgari Deresa <negera.deresa@gmail.com>",
+    "url": "https://github.com/cran/depCensoring"
+  },
+  {
     "package": "SemiPar.depCens",
     "maintainer": "Negera Wakgari Deresa <negera.deresa@gmail.com>",
     "url": "https://github.com/nago2020/semipar.depcens"

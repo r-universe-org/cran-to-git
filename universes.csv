@@ -91,6 +91,7 @@ ACME,bioc
 ACNE,henrikbengtsson
 acnr,mpierrejean
 acopula,cran
+acoRn,cran
 AcousticNDLCodeR,denis-arnold
 acp,cran
 acro,ai-sdc
@@ -341,6 +342,7 @@ ahptopsis2n,raqueldourado
 AHPWR,lucianea
 AHSurv,abdisalammuse
 ahw,palryalen
+ai,r3pos
 aIc,ggloor
 AICcmodavg,mamaz7
 AICcPermanova,sustainscapes
@@ -414,7 +416,7 @@ ALFAM2,au-bce-ee
 aLFQ,grosenberger
 alfr,rwetherall
 alfred,onnokleen
-algaeClassify,cran
+algaeClassify,vppatil
 AlgDesign,jvbraun
 AlgebraicHaploPackage,cran
 algo,feddelegrand7
@@ -653,7 +655,7 @@ APFr,nmargaritella
 aphid,shaunpwilkinson
 aphylo,uscbiostats
 api2lm,jfrench
-APIS,julienrochemode
+APIS,julienrocheigepp
 apisensr,dhaine
 APL,bioc
 aplore3,lbraglia
@@ -950,6 +952,7 @@ AutoDeskR,paulgovan
 autoEnsemble,haghish
 autoFC,tspsyched
 autoFRK,h0h1
+autogam,tripartio
 autoGO,mpallocc
 autoharp,cran
 autohrf,demsarjure
@@ -2882,6 +2885,7 @@ cinterpolate,mrc-ide
 CIPerm,colbystatsvyrsch
 cipheR,guslipkin
 CIplot,toshi-ara
+CIpostSelect,cran
 cir,assaforon
 circacompare,rwparsons
 CirceR,ohdsi
@@ -3440,6 +3444,7 @@ CompositeReliability,jmoonen
 compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
 CompositionalML,cran
+CompositionalRF,cran
 compositions,cran
 compound.Cox,cran
 CompoundDb,bioc
@@ -4636,6 +4641,7 @@ DEoptimR,eduardotrincaoconceicao
 DEP,bioc
 depcache,aitap
 DepCens,gabrielgrandemagne
+depCensoring,nago2020
 depcoeff,eliebs
 DepecheR,bioc
 depend.truncation,cran
@@ -6018,6 +6024,7 @@ epivizrServer,bioc
 epivizrStandalone,bioc
 epiworldR,uofuepibio
 epiworldRShiny,uofuepibio
+epizootic,viralemergence
 EPLSIM,yuyanwangsixtwo
 eplusr,hongyuanjia
 eply,wlandau
@@ -7922,6 +7929,7 @@ ggcharts,thomas-neitmann
 ggChernoff,selbosh
 GGClassification,fvcampos
 ggcleveland,mpru
+ggcompare,hmu-wh
 ggcorrplot,kassambara
 ggcorset,kbelisar
 ggcyto,bioc
@@ -8122,6 +8130,7 @@ ggupset,const-ae
 ggvenn,yanlinlin82
 ggVennDiagram,gaospecial
 ggversa,cran
+ggview,idmn
 ggvis,hadley
 ggvolcano,yaoxiangli
 ggwordcloud,lepennec
@@ -8271,7 +8280,7 @@ glmpermu,ubcxzhang
 GLMsData,peterkdunn
 GlmSimulatoR,gmcmacran
 glmSparseNet,bioc
-glmtlp,yuyangumn
+glmtlp,yuyangstat
 glmtoolbox,lhvanegasp
 glmtrans,ytstat
 glmtree,adimajo
@@ -9184,6 +9193,7 @@ Hmisc,harrelfe
 hmix,pigian
 HMM,cran
 hmm.discnp,rolfturner
+HMMcopula,cran
 HMMcopy,bioc
 HMMEsolver,jwboys26
 HMMextra0s,cran
@@ -10074,6 +10084,7 @@ ISAnalytics,bioc
 ISAR,rtelmore
 ISAT,wangminyu
 isatabr,biometris
+ISCA,ldrouhot
 ISCO08ConveRsions,nschwitter
 iscoCrosswalks,eworx-org
 Iscores,missvalteam
@@ -11412,6 +11423,7 @@ m6Aboost,bioc
 MAAPER,vivianstats
 Maaslin2,bioc
 maat,choi-phd
+mabacR,slabaverse
 mable,cran
 MABOUST,cran
 Macarron,bioc
@@ -11725,6 +11737,7 @@ MaximinInfer,cran
 maxLik,otoomet
 maxlike,roelandkindt
 maxmatching,baolidakai
+MaxMC,julienneves
 maxnet,mrmaxent
 MaxPro,shanbatr
 MaxSkew,cran
@@ -12281,6 +12294,7 @@ MicroDatosEs,ropenspain
 microdiluteR,silvia-eckert
 microeco,chiliubio
 microhaplot,ngthomas
+microinverterdata,camembr
 MicroMacroMultilevel,cran
 micromap,usepa
 micromapST,jpearson0525
@@ -12313,6 +12327,7 @@ midastouch,philippgaffert
 midfieldr,midfieldr
 midi,lmjl-alea
 MIDN,cran
+midoc,elliecurnow
 midrangeMCP,bendeivide
 miesmuschel,mlr-org
 mifa,teebusch
@@ -20327,7 +20342,7 @@ soilfoodwebs,robertwbuchkowski
 SoilFunctionality,cran
 SoilHyP,ullid
 soilhypfit,cran
-SoilManageR,cran
+SoilManageR,oli-heller
 soilphysics,arsilva87
 SoilR,crlsierra
 SoilSaltIndex,cran
@@ -20356,6 +20371,7 @@ SomaticSignatures,bioc
 SOMbrero,cran
 someMTP,livioivil
 SOMEnv,somenv
+SOMMD,cran
 sommer,covaruber
 SOMNiBUS,bioc
 SOMnmR,luiscol8
@@ -21042,6 +21058,7 @@ stencilaschema,stencila
 stenR,statismike
 StepBeta,sergiogarofalo
 STEPCAM,thijsjanzen
+stepcount,muschellij2
 stepdownfdp,uni-arya
 stepgbm,jinli22
 StepGWR,cran
@@ -21452,7 +21469,7 @@ SweepDiscovery,abhiksarkar1999
 sweidnumbr,ropengov
 swephR,rstub
 swfdr,bioc
-swfscAirDAS,smwoodman
+swfscAirDAS,swfsc
 swfscDAS,swfsc
 swfscMisc,ericarcher
 swgee,cran
