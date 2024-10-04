@@ -91,7 +91,7 @@ ACME,bioc
 ACNE,henrikbengtsson
 acnr,mpierrejean
 acopula,cran
-acoRn,cran
+acoRn,npechl
 AcousticNDLCodeR,denis-arnold
 acp,cran
 acro,ai-sdc
@@ -2469,6 +2469,7 @@ catR,huacheng1985
 CatReg,cran
 catregs,dmmelamed
 cats,el-meyer
+CatsCradle,bioc
 catseyes,cran
 catsim,gzt
 catSurv,erossiter
@@ -3486,6 +3487,7 @@ condiments,bioc
 CondIndTests,christinaheinze
 condir,angelospsy
 CondiS,yizhuo-wang
+conditionalProbNspades,barryzee
 conditionz,ropensci-archive
 condMVNorm,rvaradhan
 CondMVT,paulkinyanjui01
@@ -4821,7 +4823,7 @@ dictionaRy,stevecondylios
 did,bcallaway11
 did2s,kylebutts
 DidacticBoost,dashaub
-didec,cran
+didec,yupingwang7
 Diderot,cran
 DiDforBigData,setzler
 DIDHAD,cran
@@ -5902,6 +5904,7 @@ enmpa,luisagi
 enmSdmX,adamlilith
 ENMTools,danlwarren
 enpls,nanxstats
+EnrichDO,bioc
 EnrichedHeatmap,bioc
 EnrichIntersect,ocbe-uio
 EnrichmentBrowser,bioc
@@ -6351,6 +6354,7 @@ extrafontdb,wch
 extrafrail,cran
 extraoperators,jwiley
 extras,poissonconsulting
+extrasteps,emilhvitfeldt
 extraterrestrial,cran
 extRatum,patnik
 extRC,francescobartolucci
@@ -7269,6 +7273,7 @@ ftExtra,atusy
 fTrading,cran
 ftrCOOL,sareameri
 ftsa,cran
+FTSgof,veritasmih
 ftsspec,cran
 fucom,mateusvanzetta
 fude,takeshinishimura
@@ -7885,6 +7890,7 @@ gfcanalysis,azvoleff
 GFD,cran
 GFDmcv,ls-git-17
 GFDrmst,merlemunko
+GFDrmtl,merlemunko
 GFDsurv,merlemunko
 GFE,cran
 gfer,yuanchao-xu
@@ -14749,7 +14755,7 @@ paramDemo,fercol
 parameters,easystats
 paramGUI,glotaran
 ParamHelpers,mlr-org
-paramhetero,cran
+paramhetero,tloux
 paramlink,magnusdv
 paramlink2,magnusdv
 params,sahilseth
@@ -16071,7 +16077,7 @@ prophet,facebook
 proporz,polettif
 propOverlap,cran
 PROPS,bioc
-PropScrRand,cran
+PropScrRand,tloux
 proPubBills,nadinesk
 ProPublicaR,dietrichson
 PROreg,cran
@@ -16283,6 +16289,7 @@ pvldcurve,annaraesch
 pvLRT,c7rishi
 PVplr,cwru-sdle
 PVR,santostbio
+PvSTATEM,mini-pw
 pwalign,bioc
 PWEALL,marvels2031
 PWEV,ranjitstat
@@ -16661,6 +16668,7 @@ R6DS,yukai-yang
 r6extended,petermeissner
 r6methods,jakubsob
 R6P,tidylab
+r6qualitytools,fabianenc
 ra4bayesmeta,manuelaott
 rabi,andburch
 RABR,tian-yu-zhan
@@ -17952,6 +17960,7 @@ RLMM,bioc
 Rlof,yingsonghu
 rlog,sellorm
 RLogicalOps,cerebralseeker
+RLoptimal,matsuurakentaro
 RLRsim,fabian-s
 RLT,teazrq
 rLTP,hetong007
@@ -18541,7 +18550,7 @@ Rsgf,bcable
 RSGHB,rsginc
 rSHAPE,jdench
 rshift,alexhroom
-rsi,permian-global-research
+rsi,ropensci
 rsides,cran
 RSiena,stocnet
 RsimMosaic,algolkm
@@ -20371,7 +20380,7 @@ SomaticSignatures,bioc
 SOMbrero,cran
 someMTP,livioivil
 SOMEnv,somenv
-SOMMD,cran
+SOMMD,mottastefano
 sommer,covaruber
 SOMNiBUS,bioc
 SOMnmR,luiscol8
@@ -20639,6 +20648,7 @@ SpectralMap,terrytwu
 spectralR,olehprylutskyi
 SpectralTAD,bioc
 Spectran,litgde
+SpectraQL,bioc
 spectre,csim063
 Spectrum,crj32
 sped,cjgeyer
@@ -20790,6 +20800,7 @@ spsh,tkdweber
 SPsimSeq,bioc
 SPSL,cran
 SPSP,xiaoruizhu
+spStack,span-18
 spsur,rominsal
 spsurv,rvpanaro
 spsurvey,usepa
@@ -20937,6 +20948,7 @@ stabm,bommert
 StabMap,bioc
 stabreg,cran
 stabs,hofnerb
+staccuracy,tripartio
 stackgbm,nanxstats
 StackImpute,mkleinsa
 stacking,onogi
@@ -22176,7 +22188,7 @@ tLagPropOdds,sth1402
 tlars,jasinmachkour
 Tlasso,cran
 TLCAR,judepower1
-tldr,cran
+tldr,tloux
 TLIC,guangbaog
 tlm,jobago
 TLMoments,jlilienthal
@@ -23666,6 +23678,7 @@ xegaGpGene,ageyerschulz
 xegaPermGene,ageyerschulz
 xegaPopulation,ageyerschulz
 xegaSelectGene,ageyerschulz
+xenLite,bioc
 xergm.common,leifeld
 xesreadR,gertjanssenswillen
 Xeva,bioc

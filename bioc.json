@@ -1670,6 +1670,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CatsCradle",
+    "maintainer": "Michael Shapiro <michael.shapiro@crick.ac.uk>",
+    "url": "https://github.com/annaladdach/catscradle",
+    "registry": "bioc"
+  },
+  {
     "package": "CausalR",
     "maintainer": "Glyn Bradley <glyn.x.bradley@gsk.com>",
     "url": "https://git.bioconductor.org/packages/CausalR",
@@ -3840,6 +3846,12 @@
     "package": "ENmix",
     "maintainer": "Zongli Xu <xuz@niehs.nih.gov>",
     "url": "https://git.bioconductor.org/packages/ENmix",
+    "registry": "bioc"
+  },
+  {
+    "package": "EnrichDO",
+    "maintainer": "Hongyu Fu <2287531995@qq.com>",
+    "url": "https://git.bioconductor.org/packages/EnrichDO",
     "registry": "bioc"
   },
   {
@@ -9048,7 +9060,7 @@
   {
     "package": "Pedixplorer",
     "maintainer": "Louis Le Nézet <louislenezet@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/Pedixplorer",
+    "url": "https://github.com/louislenezet/pedixplorer",
     "registry": "bioc"
   },
   {
@@ -12028,6 +12040,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SpectraQL",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/spectraql",
+    "registry": "bioc"
+  },
+  {
     "package": "SPEM",
     "maintainer": "Xinyi YANG <yangxinyi@picb.ac.cn>",
     "url": "https://git.bioconductor.org/packages/SPEM",
@@ -13484,6 +13502,12 @@
     "package": "XDE",
     "maintainer": "Robert Scharpf <rscharpf@jhsph.edu>",
     "url": "https://git.bioconductor.org/packages/XDE",
+    "registry": "bioc"
+  },
+  {
+    "package": "xenLite",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/xenlite",
     "registry": "bioc"
   },
   {
