@@ -234,7 +234,7 @@ ADPclust,ethanyxu
 ADPF,samdkruse
 adproclus,henry-heppe
 adpss,ca4wa
-ads,cran
+ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
 adSplit,bioc
 ADTSA,leilamarvian
@@ -424,6 +424,7 @@ algorithmia,algorithmiaio
 aliases2entrez,peyronlab
 alien,hezibu
 align,cran
+AlignLV,mmansolf
 alkahest,tesselle
 allcontributors,ropensci
 alleHap,cran
@@ -2194,6 +2195,7 @@ BTM,bnosac
 BTSPAS,cschwarz-stat-sfu-ca
 BTSR,tsprass
 BTtest,paul-haimerl
+BTTL,cran
 BTYD,ghuiber
 BTYDplus,mplatzer
 bubbleHeatmap,ruthckb
@@ -2685,7 +2687,7 @@ CFF,hoshmandcomputer
 cffdrs,r-forge
 cffr,ropensci
 cfid,santikka
-CFilt,thiagoslima21
+CFilt,cran
 cfma,zhaoyi1026
 cfmortality,aminadibi
 CFO,cran
@@ -4113,7 +4115,7 @@ cumprinc,jcrichardson617
 cumSeg,vitomuggeo
 cumstats,cran
 cumulcalib,resplab
-cumulocityr,softwareag
+cumulocityr,cumulocity-iot
 cuperdec,jfy133
 CuratedAtlasQueryR,bioc
 cuRe,lassehjort
@@ -5174,7 +5176,7 @@ DOSPortfolio,statistics-in-portfolio-theory
 dosresmeta,alecri
 dostats,halpo
 DOT,haghish
-dotCall64,reinhardfurrer
+dotCall64,cran
 dotenv,gaborcsardi
 dotgen,xiaoran831213
 dotprofile,jeanmathieupotvin
@@ -5408,7 +5410,7 @@ dwp,ddalthorp
 DWreg,cran
 dyads,cran
 dycdtools,songyanyu
-dydea,cran
+dydea,radekhalfar
 dyebias,bioc
 dygraphs,rstudio
 Dykstra,cran
@@ -6362,6 +6364,7 @@ ExtremalDep,simonepadoan
 ExtremeBounds,cran
 extremefit,kevinjaunatre
 extremeIndex,maxtailt
+extrememix,manueleleonelli
 ExtremeRisks,simonepadoan
 extRemes,ericgilleland
 extremeStat,brry
@@ -6550,7 +6553,7 @@ fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
 FastPCS,kvak
-fastplyr,cran
+fastplyr,nicchr
 fastpng,coolbutuseless
 fastpos,johannes-titz
 FastqCleaner,bioc
@@ -8393,6 +8396,7 @@ goffda,egarpor
 gofgamma,ebner-kit
 GoFKernel,cran
 GofKmt,jwboys26
+gofreg,gkremling
 GOFShiny,kartikeyabolar
 goft,elizagestrada
 goftest,baddstats
@@ -11577,6 +11581,7 @@ maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmisc,eborgnine
 mapmixture,tom-jenkins
+mappeR,uiowa-applied-topology
 MapperAlgo,kennywang112
 mapping,mappinguniverse
 mappings,benjaminrich
@@ -11890,6 +11895,7 @@ mDAG,wjzhong
 mdatools,svkucheryavski
 MDBED,lfduquey
 mdbr,k5cents
+MDDC,niuniular
 mddmaps,alrobles
 mde,nelson-gon
 mded,cran
@@ -14326,6 +14332,7 @@ openair,davidcarslaw
 openairmaps,davidcarslaw
 openaistream,libingfei
 openalexR,ropensci
+openappr,lilyclements
 openbankeR,nik01010
 openblender,cran
 opencage,ropensci
@@ -18756,7 +18763,7 @@ runMCMCbtadjust,cran
 runner,gogonzo
 runonce,privefl
 runstats,martakarass
-Runuran,jleydold
+Runuran,unuran
 ruODK,ropensci
 rusda,ropensci
 rush,mlr-org

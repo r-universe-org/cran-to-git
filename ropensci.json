@@ -1,7 +1,7 @@
 [
   {
     "package": "antiword",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/antiword"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "package": "av",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/av"
   },
   {
@@ -137,12 +137,12 @@
   },
   {
     "package": "cld2",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/cld2"
   },
   {
     "package": "cld3",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/cld3"
   },
   {
@@ -324,7 +324,7 @@
   },
   {
     "package": "fluidsynth",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/fluidsynth"
   },
   {
@@ -389,7 +389,7 @@
   },
   {
     "package": "graphql",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/graphql"
   },
   {
@@ -425,7 +425,7 @@
   },
   {
     "package": "hunspell",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/hunspell"
   },
   {
@@ -445,12 +445,12 @@
   },
   {
     "package": "jqr",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/jqr"
   },
   {
     "package": "jsonld",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/jsonld"
   },
   {
@@ -513,6 +513,11 @@
     "package": "mctq",
     "maintainer": "Daniel Vartanian <danvartan@gmail.com>",
     "url": "https://github.com/ropensci/mctq"
+  },
+  {
+    "package": "medrxivr",
+    "maintainer": "Yaoxiang Li <liyaoxiang@outlook.com>",
+    "url": "https://github.com/ropensci/medrxivr"
   },
   {
     "package": "melt",
@@ -596,7 +601,7 @@
   },
   {
     "package": "opencv",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/opencv"
   },
   {
@@ -706,12 +711,12 @@
   },
   {
     "package": "prismjs",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/prismjs"
   },
   {
     "package": "qpdf",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/qpdf"
   },
   {
@@ -917,7 +922,7 @@
   },
   {
     "package": "rzmq",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/rzmq"
   },
   {
@@ -942,7 +947,7 @@
   },
   {
     "package": "spelling",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/spelling"
   },
   {
@@ -1028,7 +1033,7 @@
   },
   {
     "package": "tesseract",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/tesseract"
   },
   {
@@ -1114,7 +1119,7 @@
   },
   {
     "package": "unrtf",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/unrtf"
   },
   {
@@ -1174,12 +1179,12 @@
   },
   {
     "package": "writexl",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/writexl"
   },
   {
     "package": "xslt",
-    "maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/xslt"
   },
   {
