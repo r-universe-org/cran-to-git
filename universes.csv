@@ -2592,6 +2592,7 @@ cdom,pmassicotte
 cdparcoord,cran
 cdrcR,aelissa
 cds,schoonees
+CDsampling,yifei-h
 CDSE,zivankaraman
 CDSS,chockemeyer
 CDVI,cran
@@ -7184,6 +7185,7 @@ franc,gaborcsardi
 FRAPO,bpfaff
 frapplot,guanqiaoding
 FRASER,bioc
+FRB,valentint
 frbinom,leejeo25
 frbs,cran
 FRCC,cran
@@ -8746,6 +8748,7 @@ gsynth,cran
 gt,rstudio
 gt4ireval,julian-urbano
 gtable,r-lib
+GTbasedIM,lauradavilapena
 GTDL,carrascojalmar
 gte,cran
 gTests,cran
@@ -9016,6 +9019,7 @@ Heatplus,bioc
 heatwaveR,robwschlegel
 heck,dyfanjones
 HeckmanEM,cran
+heckmanGE,fsbmat-ufv
 HEDA,ninalty
 heddlr,mikemahoney218
 hedgedrf,cran
@@ -11296,7 +11300,7 @@ lpacf,adunaic
 LPBkg,salgeri
 lpc,danielawitten
 lpcde,rajitachandak
-LPCM,cran
+LPCM,jeinbeck-code
 lpda,mjnueda
 lpdensity,xinweima
 LPDynR,xavi-rp
@@ -14008,7 +14012,7 @@ nplr,fredcommo
 nplyr,markjrieke
 npmlda,npmldabook
 NPMLEcmprsk,cran
-npmlreg,cran
+npmlreg,jeinbeck-code
 npmr,saberpowers
 npmv,amandaellis
 npordtests,cran
@@ -14106,7 +14110,7 @@ oai,ropensci
 OAIHarvester,kurthornik
 oaii,cezarykuran
 oaPlots,cran
-oaqc,cran
+oaqc,schochastics
 Oarray,robinhankin
 oaxaca,cran
 obAnalytics,phil8192
@@ -14195,6 +14199,7 @@ offsetreg,mattheaphy
 ofGEM,randel
 ofpetrial,difm-brain
 OGI,cran
+oglcnac,yaoxiangli
 oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
@@ -14341,6 +14346,7 @@ opencpu,opencpu
 openCR,murrayefford
 opencv,ropensci
 openCyto,bioc
+opendataformat,opendataformat
 opendatatoronto,sharlagelfand
 opendotaR,karigunnarsson
 openEBGM,johnihrie
@@ -17851,7 +17857,7 @@ rio,gesistsa
 rioja,nsj3
 rioplot,dmmelamed
 ripc,ocha-dap
-ripserr,rrrlw
+ripserr,tdaverse
 rirods,irods
 Rirt,xluo11
 Risa,bioc
@@ -19552,6 +19558,7 @@ serial,cran
 seriation,mhahsler
 serieslcb,cran
 serocalculator,ucd-serg
+serosv,oucru-modelling
 serp,ejikeugba
 serpstatr,alex-danilin
 serrsBayes,mooresm
@@ -20003,7 +20010,7 @@ SimReg,daniel-jg
 simrel,simulatr
 simRestore,thijsjanzen
 SiMRiv,miguel-porto
-sims,aylapear
+sims,audrey-b
 simsalapar,mariushofert
 simsem,tdjorgensen
 SimSeq,sbenidt
