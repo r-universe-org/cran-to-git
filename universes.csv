@@ -139,6 +139,7 @@ adamethods,cran
 ADAMgui,bioc
 adana,cran
 AdapSamp,keydom
+ADAPT,bioc
 adapt4pv,cran
 adaptalint,maxconway
 adaptDiag,graemeleehickey
@@ -10596,6 +10597,7 @@ kofdata,kof-ch
 kofnGA,cran
 KOGMWU,z0on
 kohonen,rwehrens
+koinar,bioc
 kokudosuuchi,yutannihilation
 komaletter,rnuske
 konfound,konfound-project
@@ -12954,6 +12956,7 @@ mpath,zhuwang46
 mpathsenser,koenniem
 MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
+MPCR,stsds
 MPDiR,cran
 MPFE,bioc
 MPGE,arunabhacodes
@@ -14261,6 +14264,7 @@ ompr,dirkschumacher
 ompr.roi,dirkschumacher
 omsvg,rich-iannone
 omu,connor-reid-tiffany
+omXplore,bioc
 onadata,keithmcnulty
 OnAge,aursiber
 onbabynames,desautm
@@ -19250,6 +19254,7 @@ scquantum,alex-l-m
 scraEP,jboelaert
 scran,bioc
 scrapeR,mdubeau20
+scrapper,bioc
 scrappy,villegar
 scReClassify,bioc
 scRecover,bioc
@@ -19753,7 +19758,7 @@ shinyjqui,yang-tang
 shinyjs,daattali
 shinyKGode,glasgowcompbio
 shinyKnobs,cotepat
-shinylight,cran
+shinylight,tim-band
 ShinyLink,yaoxiangli
 shinylive,posit-dev
 shinyloadtest,rstudio
@@ -20694,6 +20699,7 @@ spFW,xingcheg
 spGARCH,cran
 spgs,cran
 spgwr,rsbivand
+spheredata,cran
 SphereOptimize,cran
 spherepc,jongminlee-stat
 sphereplot,asgr
@@ -20990,6 +20996,7 @@ stantargets,ropensci
 stapler,muschellij2
 staplr,pridiltal
 staRank,bioc
+starchart,ropensci
 staRdom,matthiaspucher
 STAREG,cran
 stargazer,marekhlavac
@@ -22597,7 +22604,7 @@ tseries,kurthornik
 tseriesChaos,antoniofabio
 tseriesEntropy,sgiannerini
 TSeriesMMA,vishakhpk
-tseriesTARMA,sgiannerini
+tseriesTARMA,cran
 TSEtools,asaeb1480
 TSEwgt,joshlmiller1978
 TSF,ranjitstat
@@ -22709,6 +22716,7 @@ tvR,kisungyou
 tvReg,icasas
 TVTB,bioc
 tvthemes,ryo-n7
+tvtools,srivastavbudugutta
 twang,mattcefalu
 twangContinuous,dcoffman
 twangMediation,danielmc1603
@@ -22923,6 +22931,7 @@ uscoauditlog,pakabuka
 usdampr,cbw1243
 usdarnass,rdinter
 usdata,openintrostat
+usdatasets,lightbluetitan
 usdm,babaknaimi
 usedist,kylebittinger
 usedthese,cgoo4

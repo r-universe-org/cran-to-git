@@ -97,6 +97,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ADAPT",
+    "maintainer": "Mukai Wang <wangmk@umich.edu>",
+    "url": "https://git.bioconductor.org/packages/ADAPT",
+    "registry": "bioc"
+  },
+  {
     "package": "adductomicsR",
     "maintainer": "Josie Hayes <jlhayes1982@gmail.com>",
     "url": "https://github.com/josielhayes/adductomicsr",
@@ -6489,6 +6495,12 @@
     "registry": "bioc"
   },
   {
+    "package": "koinar",
+    "maintainer": "Ludwig Lautenbacher <ludwig.lautenbacher@tum.de>",
+    "url": "https://git.bioconductor.org/packages/koinar",
+    "registry": "bioc"
+  },
+  {
     "package": "LACE",
     "maintainer": "Davide Maspero <d.maspero@campus.unimib.it>",
     "url": "https://github.com/bimib-disco/lace",
@@ -8658,6 +8670,12 @@
     "package": "ompBAM",
     "maintainer": "Alex Chit Hei Wong <alexchwong.github@gmail.com>",
     "url": "https://github.com/alexchwong/ompbam",
+    "registry": "bioc"
+  },
+  {
+    "package": "omXplore",
+    "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
+    "url": "https://github.com/prostarproteomics/omxplore",
     "registry": "bioc"
   },
   {
@@ -11272,6 +11290,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scrapper",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/scrapper",
+    "registry": "bioc"
+  },
+  {
     "package": "scReClassify",
     "maintainer": "Taiyun Kim <taiyun.kim91@gmail.com>",
     "url": "https://github.com/sydneybiox/screclassify",
@@ -11910,7 +11934,7 @@
   {
     "package": "SpaceMarkers",
     "maintainer": "Atul Deshpande <adeshpande@jhu.edu>",
-    "url": "https://github.com/atuldeshpande/spacemarkers",
+    "url": "https://github.com/deshpandelab/spacemarkers",
     "registry": "bioc"
   },
   {
