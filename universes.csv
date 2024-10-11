@@ -962,6 +962,7 @@ autoimage,jfrench
 autokeras,r-tensorflow
 automagic,cole-brokamp
 automap,jskoien
+autometric,wlandau
 autoMFA,john-c-davey
 automl,aboulaboul
 autoMrP,retowuest
@@ -2671,6 +2672,7 @@ CeRNASeek,cran
 ceRtainty,arielsotocaro
 Certara.NLME8,certara-jcraig
 Certara.R,certara
+Certara.VPCResults,certara-jcraig
 ceser,diogoferrari
 cesR,hodgettsp
 cetcolor,coatless-rpkg
@@ -4097,6 +4099,7 @@ CTTinShiny,cran
 CTTShiny,kylehamilton
 ctv,zeileis
 ctxR,usepa
+cuadramelo,mserrano-ine
 CUB,cran
 cubar,mt1022
 cubature,bnaras
@@ -4933,7 +4936,7 @@ DisaggregateTS,mosleyl
 disaggregation,timcdlucas
 disastr.api,chris-dworschak
 disbayes,chjackson
-discAUC,ba-code-review
+discAUC,jefriedel
 DIscBIO,ocbe-uio
 discFA,rezaarabi11
 discfrail,fgaspe04
@@ -7681,6 +7684,7 @@ GenEst,ddalthorp
 GeneStructureTools,bioc
 genesysr,mobreza
 geNetClassifier,bioc
+genetic.algo.optimizeR,danymukesha
 geneticae,jangelini
 genetics,warnes
 GeneticsPed,bioc
@@ -7749,6 +7753,7 @@ gensvm,gjjvdburg
 GenTag,biagolini
 genTS,tucai
 GenTwoArmsTrialSize,cran
+genular,login-
 GenVisR,bioc
 GenWin,timbeissinger
 GeoAdjust,cran
@@ -7847,6 +7852,7 @@ gepaf,mthh
 GephiForR,cran
 geppe,cran
 gerbil,michaelwrobbins
+gerefer,cran
 GerminaR,flavjack
 germinationmetrics,aravind-j
 GeRnika,cran
@@ -9607,7 +9613,7 @@ IDSpatialStats,jlessler
 idx2r,edoffagne
 ie2misc,iembry
 ie2miscdata,iembry
-ieeeround,amato-gianluca
+ieeeround,jandom-devel
 ieegio,dipterix
 iemiscdata,iembry
 iemisctext,iembry
@@ -15406,6 +15412,7 @@ pkgKitten,eddelbuettel
 pkglite,merck
 pkgload,r-lib
 pkgmaker,renozao
+pkgmatch,ropensci
 pkgndep,jokergoo
 pkgnet,uptake
 pkgnews,owenjonesuob
@@ -16767,7 +16774,7 @@ RandMeta,cran
 randnet,tianxili
 rando,myko101
 random,eddelbuettel
-random.cdisc.data,shajoezhu
+random.cdisc.data,insightsengineering
 random.polychor.pa,cran
 randomcoloR,ronammar
 randomForest,andyliaw-mrk
@@ -17229,6 +17236,7 @@ Rdrw,hyungsuktak
 rdryad,ropensci
 RDS,handcock
 Rdsdp,zhisu
+rdss,graemeblair
 RDSsamplesize,yibboo
 RDStreeboot,cran
 Rdta,hyungsuktak
@@ -17500,6 +17508,7 @@ rempsyc,rempsyc
 remss,qiuanzhu
 remstats,tilburgnetworkgroup
 remstimate,tilburgnetworkgroup
+REN,cran
 rENA,codymarquart
 REndo,mmeierer
 Renext,irsn
@@ -22054,6 +22063,7 @@ tidyhydat,ropensci
 tidyindex,huizezhang-sherry
 tidyjson,colearendt
 tidylda,tommyjones
+tidyllm,cran
 tidylo,juliasilge
 tidylog,elbersb
 tidyLPA,data-edu
