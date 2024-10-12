@@ -244,6 +244,7 @@ AdvBinomApps,cran
 AdvDif4,jaderlugon
 adventr,profandyfield
 adverSCarial,bioc
+AdverseEvents,cran
 ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
@@ -2833,6 +2834,7 @@ CHOIRBM,emcramer
 cholera,lindbrook
 CholWishart,gzt
 choosepc,cran
+chopin,ropensci
 choplump,cran
 chopsticks,bioc
 chopthin,agandy
@@ -4311,6 +4313,7 @@ dashboardthemes,nik01010
 Dasst,hlozza
 dat,wahani
 data.table,rdatatable
+data.table.threads,anirban166
 data.tree,gluc
 data.validator,appsilon
 data360r,pechiyappan
@@ -10520,6 +10523,7 @@ khroma,tesselle
 kibior,regisoc
 kidney.epi,borisbikbov
 kidsides,ngiangre
+Kifidi,oswaldomuron
 kim,jinkim3
 kimfilter,hubbardalex
 kimisc,krlmlr
@@ -11261,7 +11265,7 @@ longit,atanubhattacharjee
 longitudinal,cran
 longitudinalANAL,cran
 longitudinalcascade,noahhaber
-longitudinalData,cran
+longitudinalData,christophe314
 LongituRF,sistm
 longke,shixuanwang43
 longmemo,mmaechler
@@ -12888,7 +12892,7 @@ moodleR,chi2labs
 moonBook,cardiomoon
 Moonlight2R,bioc
 MoonlightR,bioc
-moose,cran
+moose,carohlfs
 mop,marlonecobos
 mopac,sccmckenzie
 MOQA,cran
@@ -13427,6 +13431,7 @@ mxmmod,khusmann
 mxnorm,colemanrharris
 mxsem,jhorzek
 My.stepwise,fu-chang
+mycaas,cran
 Mychisq,atchanut
 myClim,ibot-geoecology
 mycobacrvR,cran
@@ -13702,6 +13707,7 @@ neuronorm,cran
 neuRosim,ktabelow
 neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
+neutrostat,kzst
 nevada,astamm
 neverhpfilter,justinmshea
 new.dist,akmn35
@@ -14376,6 +14382,7 @@ openNLPdata,kurthornik
 openPrimeR,bioc
 OpenRepGrid,markheckmann
 OpenRepGrid.ic,markheckmann
+openrouteservice,giscience
 openscoring,jakub-jedrusiak
 openSkies,rafael-ayala
 OpenSpecy,wincowgerdev
@@ -15485,6 +15492,7 @@ PLIS,zweilab
 plm,ycroissant
 PLMIX,cmollica
 PLmixed,njrockwood
+plmmr,pbreheny
 pln,falkcarl
 PLNmodels,pln-team
 plnr,csids
@@ -15813,6 +15821,7 @@ powRICLPM,jeroendmulder
 POWSC,bioc
 PP,jansteinfeld
 PPbigdata,cran
+pPCA,cran
 ppcc,cran
 PPCDT,guangbaog
 PPCI,davidhofmeyr
@@ -16324,6 +16333,7 @@ PWMEnrich,bioc
 pwr,heliosdrm
 pwr2,cran
 pwr2ppl,chrisaberson
+pwr4exp,an-ethz
 pwrAB,chawm
 pwrFDR,izmirlig
 PwrGSD,izmirlig
@@ -16493,8 +16503,8 @@ QTL.gCIMapping.GUI,yuanmingzhang
 qtl2,rqtl
 qtl2convert,rqtl
 qtl2fst,rqtl
-qtl2ggplot,byandell
-qtl2pattern,byandell
+qtl2ggplot,byandell-sysgen
+qtl2pattern,byandell-sysgen
 qtl2pleio,fboehm
 qtlbook,kbroman
 qtlc,ivanp84
@@ -17508,7 +17518,7 @@ rempsyc,rempsyc
 remss,qiuanzhu
 remstats,tilburgnetworkgroup
 remstimate,tilburgnetworkgroup
-REN,cran
+REN,bonsook
 rENA,codymarquart
 REndo,mmeierer
 Renext,irsn
@@ -18347,6 +18357,7 @@ rorqual.morpho,flukeandfeather
 ROSE,nicolalunardon
 Rosenbrock,martin-wiegand
 ROSeq,bioc
+roseRF,cran
 rosetta,cran
 rosetteApi,seth-mg
 rosm,paleolimbot
@@ -19014,6 +19025,7 @@ saotd,evan-l-munson
 SAP,hsnbulut
 sapevom,raqueldourado
 sapfluxnetr,sapfluxnet
+sapo,lcgodoy
 SAPP,cran
 saqgetr,skgrange
 SAR,hongooi73
@@ -23642,6 +23654,7 @@ wppExplorer,hanase
 wppi,bioc
 WpProj,ericdunipace
 wql,jsta
+WQM,cran
 wqs,cran
 wqspt,drewdstat
 wqtrends,tbep-tech
