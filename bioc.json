@@ -3945,6 +3945,12 @@
     "registry": "bioc"
   },
   {
+    "package": "EpipwR",
+    "maintainer": "Jackson Barth <Jackson_Barth@Baylor.edu>",
+    "url": "https://github.com/jbarth216/epipwr",
+    "registry": "bioc"
+  },
+  {
     "package": "epiregulon",
     "maintainer": "Xiaosai Yao <xiaosai.yao@gmail.com>",
     "url": "https://github.com/xiaosaiyao/epiregulon",
@@ -5004,6 +5010,12 @@
     "package": "GEOmetadb",
     "maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
     "url": "https://git.bioconductor.org/packages/GEOmetadb",
+    "registry": "bioc"
+  },
+  {
+    "package": "geomeTriD",
+    "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
+    "url": "https://github.com/jianhong/geometrid",
     "registry": "bioc"
   },
   {
@@ -7678,7 +7690,7 @@
   },
   {
     "package": "mixOmics",
-    "maintainer": "Max Bladen <mbladen19@gmail.com>",
+    "maintainer": "Eva Hamrud <mixomicsdeveloper@gmail.com>",
     "url": "https://github.com/mixomicsteam/mixomics",
     "registry": "bioc"
   },
@@ -10387,6 +10399,12 @@
     "package": "Rhdf5lib",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
     "url": "https://github.com/grimbough/rhdf5lib",
+    "registry": "bioc"
+  },
+  {
+    "package": "rhinotypeR",
+    "maintainer": "Martha Luka <marthaluka20@gmail.com>",
+    "url": "https://github.com/omicscodeathon/rhinotyper",
     "registry": "bioc"
   },
   {
