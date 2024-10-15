@@ -1,5 +1,10 @@
 [
   {
+    "package": "allcontributors",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci/allcontributors"
+  },
+  {
     "package": "antiword",
     "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/antiword"
@@ -1017,8 +1022,9 @@
   },
   {
     "package": "taxize",
-    "maintainer": "ORPHANED",
-    "url": "https://github.com/ropensci/taxize"
+    "maintainer": "",
+    "url": "https://github.com/ropensci/taxize",
+    "registry": "archived"
   },
   {
     "package": "taxizedb",
@@ -1089,7 +1095,8 @@
   {
     "package": "traits",
     "maintainer": "David LeBauer <dlebauer@gmail.com>",
-    "url": "https://github.com/ropensci/traits"
+    "url": "https://github.com/ropensci/traits",
+    "registry": "archived"
   },
   {
     "package": "treebase",

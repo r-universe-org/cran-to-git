@@ -265,6 +265,7 @@ afcolours,ldavies99
 afdx,johnaponte
 afex,singmann
 AFFECT,meintraumus
+affiner,trevorld
 affinity,hypertidy
 affinitymatrix,edoardociscato
 AffiXcan,bioc
@@ -344,7 +345,7 @@ ahptopsis2n,raqueldourado
 AHPWR,lucianea
 AHSurv,abdisalammuse
 ahw,palryalen
-ai,r3pos
+ai,urniaz
 aIc,ggloor
 AICcmodavg,mamaz7
 AICcPermanova,sustainscapes
@@ -1184,6 +1185,7 @@ batchelor,bioc
 BatchExperiments,tudo-r
 BatchGetSymbols,msperlin
 BatchJobs,tudo-r
+batchLLM,dylanpieper
 batchmeans,drjphughesjr
 batchmix,stcolema
 BatchQC,bioc
@@ -3051,7 +3053,7 @@ clock,r-lib
 clockify,datawookie
 clogitboost,haoluns
 clogitL1,cran
-clogitLasso,cran
+clogitLasso,mavalosf
 Clomial,bioc
 cloneRate,bdj34
 CloneSeeker,cran
@@ -3141,6 +3143,7 @@ clustrd,amarkos
 clustree,lazappi
 clustringr,dan-reznik
 CLUSTShiny,kartikeyabolar
+clustTMB,andrea-havron
 ClustVarLV,evigneau
 clustvarsel,luca-scr
 ClusVis,cran
@@ -4626,6 +4629,7 @@ demuxSNP,bioc
 dendextend,talgalili
 dendRoAnalyst,cran
 dendroextras,jefferis
+dendrometeR,smiljanicm
 dendrometry,narcisstar
 dendroNetwork,ropensci
 DendroSync,josucham
@@ -4659,6 +4663,7 @@ depend.truncation,cran
 depigner,corradolanera
 DepInfeR,bioc
 DepLogo,jgraux
+DEploid,deploid-dev
 depmix,ingmarvisser
 depmixS4,ingmarvisser
 DEPONS2R,jacobnabe
@@ -5832,7 +5837,7 @@ EMbC,jgarriga65
 embed,tidymodels
 EmbedSOM,exaexa
 embryogrowth,marc-girondot
-EMC2,niekstevenson
+EMC2,ampl-psych
 EMCluster,snoweye
 EMD,dkimstatlab
 EMDANNhybrid,cran
@@ -5973,6 +5978,7 @@ Epi,bxc147
 epialleleR,bioc
 epibasix,cran
 epicasting,cran
+epichains,epiverse-trace
 epiCleanr,truenomad
 epiCo,epiverse-trace
 EpiCompare,bioc
@@ -7333,7 +7339,7 @@ funspace,carlosp-carmona
 funspotr,brshallo
 funStatTest,gdurif
 FUNTA,cran
-funtimes,cran
+funtimes,vlyubchich
 funtooNorm,bioc
 FunWithNumbers,cran
 furniture,tysonstanley
@@ -8725,6 +8731,7 @@ GseaVis,junjunlab
 GSED,marie-karelle
 gSeg,cran
 GSelection,cran
+GSEMA,cran
 GSgalgoR,bioc
 gsheet,maxconway
 gsignal,gjmvanboxtel
@@ -9619,7 +9626,6 @@ ie2misc,iembry
 ie2miscdata,iembry
 ieeeround,jandom-devel
 ieegio,dipterix
-iemiscdata,iembry
 iemisctext,iembry
 IETD,lfduquey
 ieugwasr,mrcieu
@@ -10580,6 +10586,7 @@ KMsurv,jun-yan
 KMunicate,ellessenne
 KnapsackSampling,chinsoon12
 KneeArrower,cran
+knfi,syoung9836
 knitcitations,cboettig
 knitLatex,coachshea
 knitr,yihui
@@ -11367,7 +11374,7 @@ LSDsensitivity,santannaks
 LSE,sergio05acm
 LSEbootLS,nicolas-udec
 lsei,yong3738
-lsirm12pl,ppjina
+lsirm12pl,jina-stat
 lsl,psyphh
 lslx,psyphh
 lsm,cran
@@ -13657,6 +13664,7 @@ netresponse,bioc
 netropy,termehs
 nets,ctbrownlees
 NetSAM,bioc
+NetSci,deisygysi
 netseer,sevvandi
 netseg,mbojan
 netSEM,laurabruckman
@@ -15326,6 +15334,7 @@ phylotaR,ropensci
 phylotate,dlbeer
 phylotools,helixcn
 phyloTop,michellekendall
+phylotypr,mothur
 phylter,damiendevienne
 phyr,daijiang
 phyreg,cran
@@ -18490,6 +18499,7 @@ RQuantLib,eddelbuettel
 rqubic,bioc
 Rquefts,cropmodels
 rquery,winvector
+rquest,shenal-dkumara
 rr,graemeblair
 rr2,arives
 Rramas,cran
@@ -19155,6 +19165,7 @@ sccore,kharchenkolab
 sccr,cran
 SCCS,cran
 scCustomize,samuel-marsh
+SCDA,paolomaranzano
 scDataviz,bioc
 SCDB,ssi-dk
 scDblFinder,bioc
@@ -20038,7 +20049,7 @@ SimReg,daniel-jg
 simrel,simulatr
 simRestore,thijsjanzen
 SiMRiv,miguel-porto
-sims,audrey-b
+sims,poissonconsulting
 simsalapar,mariushofert
 simsem,tdjorgensen
 SimSeq,sbenidt
@@ -20332,7 +20343,7 @@ snn,sunweisurrey
 snotelr,bluegreen-labs
 snow,ltierney
 SnowballC,nalimilan
-snowboot,cran
+snowboot,vlyubchich
 snowfall,cran
 snowflakes,svetlanaeden
 snowFT,hanase
@@ -21019,7 +21030,6 @@ stantargets,ropensci
 stapler,muschellij2
 staplr,pridiltal
 staRank,bioc
-starchart,ropensci
 staRdom,matthiaspucher
 STAREG,cran
 stargazer,marekhlavac
@@ -21919,6 +21929,7 @@ textmineR,tommyjones
 TextMiningGUI,c0reyes
 textometry,mdecorde
 textplot,bnosac
+textpress,jaytimm
 textrank,bnosac
 textrar,matutosi
 textrecipes,tidymodels
@@ -22990,6 +23001,7 @@ UtilityFrailtyPH12,cran
 utilityFunctionTools,sebastianoschneider
 utilsIPEA,ipea
 utiml,rivolli
+utsf,franciscomartinezdelrio
 uuid,s-u
 uwedragon,cran
 UWHAM,cran

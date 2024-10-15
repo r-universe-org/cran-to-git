@@ -1,7 +1,17 @@
 [
   {
+    "package": "funtimes",
+    "maintainer": "Vyacheslav Lyubchich <lyubchich@umces.edu>",
+    "url": "https://github.com/vlyubchich/funtimes"
+  },
+  {
     "package": "lawstat",
     "maintainer": "Yulia R. Gel <gel.yulia@gmail.com>",
     "url": "https://github.com/vlyubchich/lawstat"
+  },
+  {
+    "package": "snowboot",
+    "maintainer": "Vyacheslav Lyubchich <lyubchich@umces.edu>",
+    "url": "https://github.com/cran/snowboot"
   }
 ]

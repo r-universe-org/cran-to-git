@@ -1,5 +1,10 @@
 [
   {
+    "package": "affiner",
+    "maintainer": "Trevor L. Davis <trevor.l.davis@gmail.com>",
+    "url": "https://github.com/trevorld/affiner"
+  },
+  {
     "package": "argparse",
     "maintainer": "Trevor L Davis <trevor.l.davis@gmail.com>",
     "url": "https://github.com/trevorld/r-argparse"
