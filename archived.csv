@@ -563,6 +563,7 @@
 "MetNorm","0.1","Alysha M De Livera <alyshad@unimelb.edu.au>",NA,2022-06-20,"check problems were not corrected despite reminders."
 "MetaClean","1.0.0","Kelsey Chetnik <kchetnik73@gmail.com>",NA,2022-04-04,"requires non-portable package 'xcms'.  Imports but does not use!"
 "MetaDBparse","2.0.0","Joanna Wolthuis <jcwolthuis93@gmail.com>",NA,2022-05-23,"requires archived package 'SPARQL'."
+"MetaIntegrator","2.1.3","Aditya M. Rao <adityamr@stanford.edu>",NA,2024-10-14,"email to the mainainer is undelieverable.  Also: does not use 'GEOmetadb' conditionally as requested in Oct 2023."
 "MetaPath","1.0","Kui Shen <kuishen@alumni.pitt.edu>",NA,2022-06-30,"check problems were not corrected despite reminders."
 "MetaboList","2.0","Manuel David Peris Diaz <manuel.perisdiaz@uwr.edu.pl>",NA,2022-05-02,"requires archived package 'enviPick'."
 "MetaculR","0.4.1","Joseph de la Torre Dwyer <JosephD@BRdata.com>","https://gitlab.com/ntrlshrp/metaculr",2024-07-30,"issues were not corrected in time."
