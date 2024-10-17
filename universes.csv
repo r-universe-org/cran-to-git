@@ -443,6 +443,7 @@ allodb,ropensci
 allofus,roux-ohdsi
 allomr,ziegenknauff
 Allspice,cran
+ALLSPICER,cran
 alluvial,mbojan
 almanac,davisvaughan
 alone,doehm
@@ -2388,6 +2389,7 @@ CARBayesdata,duncanplee
 CARBayesST,duncanplee
 carbonate,yonicd
 carbondate,tjheaton
+carbonr,lilyclements
 carcass,fraenzi
 card,shah-in-boots
 card.pro,oobianom
@@ -4103,6 +4105,7 @@ CTTinShiny,cran
 CTTShiny,kylehamilton
 ctv,zeileis
 ctxR,usepa
+ctypesio,coolbutuseless
 cuadramelo,mserrano-ine
 CUB,cran
 cubar,mt1022
@@ -4169,6 +4172,7 @@ cvAUC,ledell
 cvCovEst,philboileau
 cvcrand,hengshiyu
 CVD,cran
+cvdprevent,craig-parylo
 cvequality,benmarwick
 cvGEE,drizopoulos
 CVglasso,mgallow
@@ -5522,6 +5526,7 @@ easyreg,cran
 easyreporting,bioc
 easyRNASeq,bioc
 easySdcTable,statisticsnorway
+easySimData,zhangh12
 easystats,easystats
 easysurv,maple-health-group
 easySVG,ytdai
@@ -7588,7 +7593,7 @@ GDSARM,agrakhi
 GDSArray,bioc
 gdsfmt,bioc
 gdtools,davidgohel
-gdverse,ausgis
+gdverse,stscl
 gdxdt,loisel
 GE,cran
 gear,jfrench
@@ -7858,7 +7863,7 @@ geovol,cran
 GeoWeightedModel,javierdelahoz
 geozoo,schloerke
 gep2pep,bioc
-gepaf,mthh
+gepaf,riatelab
 GephiForR,cran
 geppe,cran
 gerbil,michaelwrobbins
@@ -8959,6 +8964,7 @@ HCTDesign,tpatni123
 HCTR,lethargy608
 hctrial,edelmand21
 hda,g-rho
+HDANOVA,khliland
 hdar,eea
 hdbayes,ethan-alt
 hdbinseg,haeran-cho
@@ -9007,7 +9013,7 @@ HDRFA,cran
 hds,liangcj
 HDShOP,otryakhin-dmitry
 HDSinRdata,alicepaul
-HDSpatialScan,cran
+HDSpatialScan,camillef-git
 HDStIM,niaid
 HDTD,bioc
 HDTSA,linc2021
@@ -9254,6 +9260,7 @@ holi,mightymetrika
 holiglm,ben-schwen
 holland,jhhmuc
 hollr,jaytimm
+holobiont,bewicklab
 holodeck,aariq
 HoloFoodR,bioc
 Holomics,molinlab
@@ -9892,6 +9899,7 @@ InSilicoVA,verbal-autopsy-software
 INSPEcT,bioc
 InspectChangepoint,cran
 inspectdf,alastairrushworth
+InspectionPlanner,grvisei
 inspector,ptfonseca
 INSPECTumours,bairuzhang
 INSPIRE,cran
@@ -10448,6 +10456,7 @@ katdetectr,bioc
 katex,ropensci
 kayadata,jonathan-g
 kazaam,wrathematics
+kbal,chadhazlett
 KbMvtSkew,cran
 KBoost,bioc
 kcmeans,thomaswiemann
@@ -13334,6 +13343,7 @@ multiwayvcov,npgraham1
 multiWGCNA,bioc
 MultNonParam,kolassa-dev
 MultOrdRS,schaubert
+multpois,wobbrock
 MultRegCMP,mauroflorez
 MultSurvTests,lukketotte
 multtest,bioc
@@ -14080,6 +14090,7 @@ NSO1212,makhgal-ganbold
 nsp,cran
 nspmix,yong3738
 nsprcomp,chrsigg
+NSR,bmaitner
 nsRFA,cran
 nsROC,cran
 NST,cran
@@ -18709,7 +18720,7 @@ RTCGA,bioc
 RTCGAToolbox,bioc
 rTCRBCRr,cran
 RTD,treasure-data
-RTDE,cran
+RTDE,dutangc
 rtdists,rtdists
 rtematres,cpfaff
 rtemps,bblodfon
@@ -20120,7 +20131,7 @@ sistec,r-ifpe
 sisti,ramiromagno
 sistmr,cran
 sisVIVE,hyunseungkang
-SIT,chencanyi1997
+SIT,canyi-chen
 sitadela,bioc
 sitar,statist7
 sitePath,bioc
@@ -22609,7 +22620,7 @@ trustOptim,braunm
 tryCatchLog,aryoda
 tryr,analythium
 TSA,cran
-tsallisqexp,cran
+tsallisqexp,dutangc
 TSANN,yeasinstat
 tsapp,rainers48
 TSAR,bioc
@@ -23592,6 +23603,7 @@ wINEQ,sebastianwojcik86
 winfapReader,ilapros
 wingen,anushapb
 winputall,pkoutchade
+winr,cran
 WinRatio,cran
 WINS,cuiyingbeicheng
 wintime,cran
