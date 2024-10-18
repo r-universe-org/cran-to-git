@@ -1,5 +1,10 @@
 [
   {
+    "package": "ezECM",
+    "maintainer": "Scott Koermer <skoermer@lanl.gov>",
+    "url": "https://github.com/lanl/ezecm"
+  },
+  {
     "package": "NEONiso",
     "maintainer": "Rich Fiorella <rfiorella@lanl.gov>",
     "url": "https://github.com/lanl/neoniso"

@@ -1,11 +1,5 @@
 [
   {
-    "package": "arcgis",
-    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
-    "url": "https://github.com/r-arcgis/arcgis",
-    "registry": "archived"
-  },
-  {
     "package": "arcgisgeocode",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/r-arcgis/arcgisgeocode"

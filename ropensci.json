@@ -321,18 +321,6 @@
     "url": "https://github.com/ropensci/ezknitr"
   },
   {
-    "package": "fastMatMR",
-    "maintainer": "Rohit Goswami <rgoswami@ieee.org>",
-    "url": "https://github.com/ropensci/fastmatmr",
-    "registry": "archived"
-  },
-  {
-    "package": "FedData",
-    "maintainer": "R. Kyle Bocinsky <bocinsky@gmail.com>",
-    "url": "https://github.com/ropensci/feddata",
-    "registry": "archived"
-  },
-  {
     "package": "fluidsynth",
     "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/fluidsynth"
@@ -1102,12 +1090,6 @@
     "package": "treebase",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/treebase"
-  },
-  {
-    "package": "treedata.table",
-    "maintainer": "Cristian Roman-Palacios <cromanpa94@email.arizona.edu>",
-    "url": "https://github.com/ropensci/treedata.table",
-    "registry": "archived"
   },
   {
     "package": "treestartr",

@@ -1,5 +1,15 @@
 [
   {
+    "package": "gumbel",
+    "maintainer": "Christophe Dutang <dutangc@gmail.com>",
+    "url": "https://github.com/cran/gumbel"
+  },
+  {
+    "package": "OneStep",
+    "maintainer": "Christophe Dutang <dutangc@gmail.com>",
+    "url": "https://github.com/cran/OneStep"
+  },
+  {
     "package": "rngWELL",
     "maintainer": "Christophe Dutang <dutangc@gmail.com>",
     "url": "https://github.com/cran/rngWELL"
