@@ -10,6 +10,11 @@
     "url": "https://github.com/sgsokol/deriv"
   },
   {
+    "package": "gmresls",
+    "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
+    "url": "https://github.com/cran/gmresls"
+  },
+  {
     "package": "kvh",
     "maintainer": "Serguei Sokol <sokol@insa-toulouse.fr>",
     "url": "https://github.com/sgsokol/kvh"
