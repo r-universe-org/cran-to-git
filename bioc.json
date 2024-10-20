@@ -3898,7 +3898,7 @@
   },
   {
     "package": "EpiCompare",
-    "maintainer": "Thomas Roberts <tomroberts.work15@gmail.com>",
+    "maintainer": "Hiranyamaya Dash <hdash.work@gmail.com>",
     "url": "https://github.com/neurogenomics/epicompare",
     "registry": "bioc"
   },
@@ -8400,6 +8400,12 @@
     "package": "netOmics",
     "maintainer": "Antoine Bodein <antoine.bodein.1@ulaval.ca>",
     "url": "https://github.com/abodein/netomics",
+    "registry": "bioc"
+  },
+  {
+    "package": "NetPathMiner",
+    "maintainer": "Ahmed Mohamed <mohamed@kuicr.kyoto-u.ac.jp>",
+    "url": "https://github.com/ahmohamed/netpathminer",
     "registry": "bioc"
   },
   {
