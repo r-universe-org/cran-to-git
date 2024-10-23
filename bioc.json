@@ -1022,7 +1022,7 @@
   },
   {
     "package": "bioassayR",
-    "maintainer": "Daniela Cassol <danicassol@gmail.com>",
+    "maintainer": "Thomas Girke <tgirke@citrus.ucr.edu>",
     "url": "https://github.com/girke-lab/bioassayr",
     "registry": "bioc"
   },
@@ -1172,7 +1172,7 @@
   },
   {
     "package": "BiocStyle",
-    "maintainer": "Bioconductor Package <maintainer@bioconductor.org>",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/biocstyle",
     "registry": "bioc"
   },
@@ -2643,6 +2643,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CoSIA",
+    "maintainer": "Amanda D. Clark <amanda@freshairfamily.org>",
+    "url": "https://github.com/lasseignelab/cosia",
+    "registry": "bioc"
+  },
+  {
     "package": "cosmiq",
     "maintainer": "David Fischer <dajofischer@googlemail.com>",
     "url": "https://git.bioconductor.org/packages/cosmiq",
@@ -3460,8 +3466,8 @@
   },
   {
     "package": "DirichletMultinomial",
-    "maintainer": "Martin Morgan <martin.morgan@roswellpark.org>",
-    "url": "https://git.bioconductor.org/packages/DirichletMultinomial",
+    "maintainer": "Martin Morgan <mtmorgan.xyz@gmail.com>",
+    "url": "https://github.com/mtmorgan/dirichletmultinomial",
     "registry": "bioc"
   },
   {
@@ -3672,6 +3678,12 @@
     "package": "Dune",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://git.bioconductor.org/packages/Dune",
+    "registry": "bioc"
+  },
+  {
+    "package": "DuplexDiscovereR",
+    "maintainer": "Egor Semenchenko <yegor.smb@gmail.com>",
+    "url": "https://github.com/egors01/duplexdiscoverer",
     "registry": "bioc"
   },
   {
@@ -6526,7 +6538,7 @@
   },
   {
     "package": "LBE",
-    "maintainer": "Cyril Dalmasso <dalmasso@vjf.inserm.fr>",
+    "maintainer": "Cyril Dalmasso <cyril.dalmasso@univ-evry.fr>",
     "url": "https://git.bioconductor.org/packages/LBE",
     "registry": "bioc"
   },
@@ -7401,6 +7413,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MetMashR",
+    "maintainer": "ERROR",
+    "url": "https://git.bioconductor.org/packages/MetMashR",
+    "registry": "bioc"
+  },
+  {
     "package": "MetNet",
     "maintainer": "Thomas Naake <thomasnaake@googlemail.com>",
     "url": "https://git.bioconductor.org/packages/MetNet",
@@ -7932,6 +7950,12 @@
     "package": "MsBackendMassbank",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/msbackendmassbank",
+    "registry": "bioc"
+  },
+  {
+    "package": "MsBackendMetaboLights",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msbackendmetabolights",
     "registry": "bioc"
   },
   {
@@ -9559,6 +9583,12 @@
     "package": "PROMISE",
     "maintainer": "Stan Pounds <stanley.pounds@stjude.org>",
     "url": "https://git.bioconductor.org/packages/PROMISE",
+    "registry": "bioc"
+  },
+  {
+    "package": "PRONE",
+    "maintainer": "Lis Arend <lis.arend@tum.de>",
+    "url": "https://github.com/lisiarend/prone",
     "registry": "bioc"
   },
   {
@@ -11290,6 +11320,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scoup",
+    "maintainer": "Hassan Sadiq <hassan.t.sadiq@gmail.com>",
+    "url": "https://github.com/thsadiq/scoup",
+    "registry": "bioc"
+  },
+  {
     "package": "scp",
     "maintainer": "Christophe Vanderaa <christophe.vanderaa@ugent.be>",
     "url": "https://github.com/uclouvain-cbio/scp",
@@ -12049,6 +12085,12 @@
     "package": "SpatialOmicsOverlay",
     "maintainer": "Maddy Griswold <mgriswold@nanostring.com>",
     "url": "https://git.bioconductor.org/packages/SpatialOmicsOverlay",
+    "registry": "bioc"
+  },
+  {
+    "package": "spatialSimGP",
+    "maintainer": "Kinnary Shah <kinnaryshahh@gmail.com>",
+    "url": "https://github.com/kinnaryshah/spatialsimgp",
     "registry": "bioc"
   },
   {
@@ -13434,7 +13476,7 @@
   },
   {
     "package": "Voyager",
-    "maintainer": "Lambda Moses <dl3764@columbia.edu>",
+    "maintainer": "Lambda Moses <dlu2@caltech.edu>",
     "url": "https://github.com/pachterlab/voyager",
     "registry": "bioc"
   },

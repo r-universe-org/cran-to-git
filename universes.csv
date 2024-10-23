@@ -1599,6 +1599,7 @@ BIGL,openanalytics
 biglasso,pbreheny
 bigleaf,juergenknauer
 biglm,tslumley
+biglmm,markpurver
 bigMap,jgarriga65
 bigmatch,ruoqiyu
 bigmds,pachoning
@@ -3733,6 +3734,7 @@ corto,federicogiorgi
 corx,conig
 cosa,metinbulus
 coseq,bioc
+CoSIA,bioc
 cosimmr,emmagovan
 cosinor,sachsmc
 cosinor2,amutak
@@ -3783,7 +3785,7 @@ covdepGE,jacobhelwig
 covEB,bioc
 coveffectsplot,smouksassi
 covequal,turgeonmaxime
-COveR,cran
+COveR,neplex
 coveR2,fchianucci
 CoverageView,bioc
 covfefe,mkirch
@@ -3867,6 +3869,7 @@ CPP,gaviao67
 cpp11,r-lib
 cpp11armadillo,pachadotdev
 cpp11eigen,pachadotdev
+cpp11tesseract,pachadotdev
 cppcheckR,stla
 cppdoubles,nicchr
 cppRouting,vlarmet
@@ -5408,6 +5411,7 @@ Dune,bioc
 dunlin,insightsengineering
 dunn.test,alexisdinno
 dupiR,federicocomoglio
+DuplexDiscovereR,bioc
 dupNodes,jj
 dupRadar,bioc
 dupree,russhyde
@@ -5575,6 +5579,7 @@ ecdfHT,jpnolan
 eCerto,janlisec
 ecespa,cran
 Ecfun,sbgraves237
+ECG,hugogasca
 ECGofTestDx,lafaye
 ech,calcita
 ECharts2Shiny,xd-deng
@@ -6968,6 +6973,7 @@ FLOPART,tdhock
 flora,gustavobio
 florabr,wevertonbio
 FLORAL,vdblab
+flourishcharts,cran
 flow,moodymudskipper
 flowAI,bioc
 flowBeads,bioc
@@ -7016,6 +7022,7 @@ FluMoDL,thlytras
 fluoSurv,jferdy
 fluspect,ahornero
 flux,cran
+fluxfinder,compass-doe
 fluxible,plant-functional-trait-course
 fluxweb,cran
 flying,bmasinde
@@ -7874,6 +7881,7 @@ GerminaR,flavjack
 germinationmetrics,aravind-j
 GeRnika,cran
 gert,ropensci
+gesca,quantmm
 GESE,cran
 gesisdata,fsolt
 geslaR,eireextremes
@@ -8579,7 +8587,7 @@ grapherator,jakobbossek
 graphframes,rstudio
 graphhopper,crazycapivara
 graphicalExtremes,sebastian-engelke
-graphicalMCP,gilead-biostats
+graphicalMCP,jwildfire
 graphicalVAR,cran
 graphite,bioc
 graphkernels,mahito-sugiyama
@@ -9527,6 +9535,7 @@ ICCbin,akhtarh
 iccCounts,jlcarrascoub
 iccde,cran
 ICcforest,weichiyao
+iccmult,ncs14
 iccTraj,jlcarrascoub
 icd.data,cran
 ICD10gm,edonnachie
@@ -10649,6 +10658,7 @@ kpcalg,cran
 kpeaks,cran
 kpmt,map2085
 kpodclustr,jocelynchi
+KrakenR,nathanael-g-durst
 KraljicMatrix,koalaverse
 kriens,cran
 krige,byersjs
@@ -11136,7 +11146,7 @@ LKT,optimal-learning-lab
 llama,larskotthoff
 llbayesireg,rosineide
 LLM,arnoxieseg
-LLMR,cran
+LLMR,asanaei
 llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
@@ -11982,7 +11992,7 @@ measuRing,wilarhen
 MEAT,bioc
 MEB,bioc
 meboot,cran
-MECfda,cran
+MECfda,jihx1015
 MEclustnet,gormleyi
 meconetcomp,chiliubio
 mecor,lindanab
@@ -12216,6 +12226,7 @@ MethylSeekR,bioc
 methylSig,bioc
 methylumi,bioc
 MetID,bioc
+MetMashR,bioc
 MetNet,bioc
 MeTo,ullid
 metools,jvg0mes
@@ -12776,6 +12787,7 @@ MNM,cran
 mnonr,cran
 mnorm,bogdanpotanin
 mnormt,cran
+MNormTest,astringency
 MNP,kosukeimai
 mnreadR,calabrese-a
 MNS,piomonti
@@ -12908,6 +12920,7 @@ MonoPhy,oschwery
 MonoPoly,berwinturlach
 monoreg,cran
 monotone,busingfmta
+MonotoneHazardRatio,yujian-wu
 monotonicity,skoestlmeier
 monreg,scottkosty
 Monte.Carlo.se,cran
@@ -13040,6 +13053,7 @@ mrbsizeR,romanflury
 mRc,k-dettloff
 MRCE,cran
 mrct,cran
+MRCV,cran
 mrds,distancedevelopment
 mreg,shug0131
 mregions2,ropensci
@@ -13082,6 +13096,7 @@ msaFACE,lwlr
 msamp,m-fer1
 msaR,zachcp
 MsBackendMassbank,bioc
+MsBackendMetaboLights,bioc
 MsBackendMgf,bioc
 MsBackendMsp,bioc
 MsBackendRawFileReader,bioc
@@ -13153,7 +13168,7 @@ MsQuality,bioc
 MSRDT,ericchen12377
 mssearchr,andreysamokhin
 msSPChelpR,marianschmidt
-MSSQL,arni-magnusson
+MSSQL,gfcm
 MSstats,bioc
 MSstatsBig,bioc
 MSstatsConvert,bioc
@@ -16136,6 +16151,7 @@ prompt,gaborcsardi
 prompter,etiennebacher
 promptr,joeornstein
 promr,domodwyer
+PRONE,bioc
 prop.comb.RR,cran
 propagate,cran
 PropCIs,shearer
@@ -19296,6 +19312,7 @@ SCORPION,dosorio
 SCORPIUS,rcannood
 ScottKnott,ivanalaman
 ScottKnottESD,klainfo
+scoup,bioc
 scout,danielawitten
 SCOUTer,cran
 scp,bioc
@@ -20641,6 +20658,7 @@ spatialRF,blasbenito
 spatialrisk,mharinga
 SpatialRoMLE,wyilldirim
 spatialsample,tidymodels
+spatialSimGP,bioc
 spatialTIME,fridleylab
 SpatialTools,jfrench
 SpatialVS,yili-hong
@@ -21359,6 +21377,7 @@ summarytools,dcomtois
 summclust,s3alfisc
 SUMMER,richardli
 Summix,bioc
+SUMO,cran
 sumR,guidoamoreira
 sumSome,annavesely
 sunburstR,timelyportfolio
