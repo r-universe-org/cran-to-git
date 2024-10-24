@@ -1,5 +1,15 @@
 [
   {
+    "package": "kml",
+    "maintainer": "Christophe Genolini <christophe.genolini@free.fr>",
+    "url": "https://github.com/cran/kml"
+  },
+  {
+    "package": "kml3d",
+    "maintainer": "Christophe Genolini <christophe.genolini@free.fr>",
+    "url": "https://github.com/cran/kml3d"
+  },
+  {
     "package": "longitudinalData",
     "maintainer": "Christophe Genolini <christophe.genolini@free.fr>",
     "url": "https://github.com/cran/longitudinalData"
