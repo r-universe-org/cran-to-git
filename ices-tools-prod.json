@@ -10,9 +10,19 @@
     "url": "https://github.com/ices-tools-prod/icesdatras"
   },
   {
+    "package": "icesDatsu",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesdatsu"
+  },
+  {
     "package": "icesSAG",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icessag"
+  },
+  {
+    "package": "icesSD",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icessd"
   },
   {
     "package": "icesTAF",

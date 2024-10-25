@@ -20,6 +20,12 @@
     "url": "https://github.com/mlverse/luz"
   },
   {
+    "package": "mall",
+    "maintainer": "Edgar Ruiz <edgar@posit.co>",
+    "url": "https://github.com/mlverse/mall",
+    "subdir": "r"
+  },
+  {
     "package": "pysparklyr",
     "maintainer": "Edgar Ruiz <edgar@posit.co>",
     "url": "https://github.com/mlverse/pysparklyr"
