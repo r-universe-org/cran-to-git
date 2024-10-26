@@ -10,8 +10,23 @@
     "url": "https://github.com/nicolas-robette/gdatools"
   },
   {
+    "package": "moreparty",
+    "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
+    "url": "https://github.com/nicolas-robette/moreparty"
+  },
+  {
+    "package": "morepls",
+    "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
+    "url": "https://github.com/nicolas-robette/morepls"
+  },
+  {
     "package": "seqhandbook",
     "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
     "url": "https://github.com/nicolas-robette/seqhandbook"
+  },
+  {
+    "package": "translate.logit",
+    "maintainer": "Nicolas Robette <nicolas.robette@uvsq.fr>",
+    "url": "https://github.com/cran/translate.logit"
   }
 ]

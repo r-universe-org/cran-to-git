@@ -1,5 +1,10 @@
 [
   {
+    "package": "svyROC",
+    "maintainer": "Amaia Iparragirre <amaia.iparragirre@ehu.eus>",
+    "url": "https://github.com/cran/svyROC"
+  },
+  {
     "package": "svyVarSel",
     "maintainer": "Amaia Iparragirre <amaia.iparragirre@ehu.eus>",
     "url": "https://github.com/aiparragirre/svyvarsel"

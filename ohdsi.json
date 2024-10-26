@@ -30,6 +30,11 @@
     "url": "https://github.com/ohdsi/cohortgenerator"
   },
   {
+    "package": "CohortSymmetry",
+    "maintainer": "Xihang Chen <xihang.chen@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/cohortsymmetry"
+  },
+  {
     "package": "Cyclops",
     "maintainer": "Marc A. Suchard <msuchard@ucla.edu>",
     "url": "https://github.com/ohdsi/cyclops"

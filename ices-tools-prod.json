@@ -15,6 +15,11 @@
     "url": "https://github.com/ices-tools-prod/icesdatsu"
   },
   {
+    "package": "icesDatsuQC",
+    "maintainer": "Colin Millar <colin.millar@ices.dk>",
+    "url": "https://github.com/ices-tools-prod/icesdatsuqc"
+  },
+  {
     "package": "icesSAG",
     "maintainer": "Colin Millar <colin.millar@ices.dk>",
     "url": "https://github.com/ices-tools-prod/icessag"
