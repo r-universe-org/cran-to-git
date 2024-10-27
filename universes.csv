@@ -4761,7 +4761,7 @@ devtools,r-lib
 DevTreatRules,cran
 DEWSeq,bioc
 DEXiR,cran
-dexisensitivity,cran
+dexisensitivity,nicavan
 DExMA,bioc
 DEXSeq,bioc
 dexter,dexter-psychometrics
@@ -4791,6 +4791,7 @@ dformula,serafinialessio
 DFP,bioc
 dfped,artemis-toumazi
 dfphase1,cran
+DFplyr,bioc
 dfr,ff1201
 dfrr,asgari-fatemeh
 dfsaneacc,johngardenghi
@@ -7377,7 +7378,7 @@ futile.logger,cran
 futile.options,cran
 futility,mjuraska
 future,henrikbengtsson
-future.apply,henrikbengtsson
+future.apply,futureverse
 future.batchtools,henrikbengtsson
 future.callr,henrikbengtsson
 future.mirai,futureverse
@@ -9391,6 +9392,7 @@ httr,r-lib
 httr2,r-lib
 hubeau,inrae
 hubEnsembles,hubverse-org
+HuBMAPR,bioc
 HubPub,bioc
 hubUtils,hubverse-org
 hudr,cran
@@ -9762,6 +9764,7 @@ IMIX,ziqiaow
 iml,giuseppec
 IMmailgun,cran
 IMMAN,bioc
+immApex,bioc
 immcp,yuanlonghu
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
@@ -12984,6 +12987,7 @@ mosaicData,projectmosaic
 mosaicModel,dtkaplan
 mosaics,bioc
 mosbi,bioc
+MOSClip,bioc
 mosdef,bioc
 MOSim,bioc
 mosqcontrol,cran
@@ -14321,6 +14325,7 @@ omicplotR,bioc
 omicRexposome,bioc
 omics,gcampanella
 OmicSense,takakoizumi
+OmicsMLRepoR,bioc
 OMICsPCA,bioc
 OmicsPLS,selbouhaddani-umc
 omicsPrint,bioc
@@ -15635,6 +15640,7 @@ plutor,william-swl
 plyinteractions,bioc
 plyr,hadley
 plyranges,bioc
+plyxp,bioc
 pm3,cran
 PMA,bnaras
 PMAPscore,hanjunwei-lab
@@ -17518,7 +17524,7 @@ reglogit,rbgramacy
 regmed,sinnweja
 regmedint,kaz-yos
 regmhmm,henryleongstat
-regMMD,cran
+regMMD,pierrealquier
 regnet,jrhub
 rego,cran
 regplot,rmar073
@@ -18476,7 +18482,7 @@ rpart,bethatkinson
 rpart.LAD,sdlugosz
 rpart.plot,stephenmilborrow
 rpartScore,cran
-RPatternJoin,cran
+RPatternJoin,matveevdaniil
 rPBK,virgile-baudrot
 rpca,macieksk
 Rpdb,discoleo
@@ -20565,6 +20571,7 @@ spam64,reinhardfurrer
 spaMM,f-rousset
 Spaniel,bioc
 spanish,ropenspain
+SpaNorm,bioc
 spANOVA,lrcastro
 spant,martin3141
 sparcl,cran
@@ -20713,7 +20720,7 @@ spbal,javalake2023
 spBayes,finleya
 spBayesSurv,wonderzhm
 spBFA,berchuck
-spBPS,cran
+spBPS,lucapresicce
 Spbsampling,francescopantalone
 spc,knoths
 spc4sts,cran
@@ -22344,6 +22351,7 @@ tmod,january3
 tmplate,cran
 tmpm,cran
 tmsens,dea-hazewinkel
+TMSig,bioc
 tmt,jansteinfeld
 tmvmixnorm,cran
 tmvnsim,cran

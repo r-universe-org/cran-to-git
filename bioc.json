@@ -3375,6 +3375,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DFplyr",
+    "maintainer": "Jonathan Carroll <rpkg@jcarroll.com.au>",
+    "url": "https://github.com/jonocarroll/dfplyr",
+    "registry": "bioc"
+  },
+  {
     "package": "DIAlignR",
     "maintainer": "Shubham Gupta <shubham.1637@gmail.com>",
     "url": "https://github.com/shubham1637/dialignr",
@@ -5889,6 +5895,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HuBMAPR",
+    "maintainer": "Christine Hou <chris2018hou@gmail.com>",
+    "url": "https://github.com/christinehou11/hubmapr",
+    "registry": "bioc"
+  },
+  {
     "package": "HubPub",
     "maintainer": "Kayla Interdonato <kayla.morrell16@gmail.com>",
     "url": "https://github.com/bioconductor/hubpub",
@@ -6102,6 +6114,12 @@
     "package": "IMMAN",
     "maintainer": "Minoo Ashtiani <ashtiani.minoo@gmail.com>",
     "url": "https://git.bioconductor.org/packages/IMMAN",
+    "registry": "bioc"
+  },
+  {
+    "package": "immApex",
+    "maintainer": "Nick Borcherding <ncborch@gmail.com>",
+    "url": "https://github.com/ncborcherding/immapex",
     "registry": "bioc"
   },
   {
@@ -7845,6 +7863,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MOSClip",
+    "maintainer": "Paolo Martini <paolo.martini@unibs.it>",
+    "url": "https://github.com/caluralab/mosclip",
+    "registry": "bioc"
+  },
+  {
     "package": "mosdef",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/imbeimainz/mosdef",
@@ -8679,6 +8703,12 @@
     "registry": "bioc"
   },
   {
+    "package": "OmicsMLRepoR",
+    "maintainer": "Sehyun Oh <shbrief@gmail.com>",
+    "url": "https://github.com/shbrief/omicsmlrepor",
+    "registry": "bioc"
+  },
+  {
     "package": "OMICsPCA",
     "maintainer": "Subhadeep Das <subhadeep1024@gmail.com>",
     "url": "https://git.bioconductor.org/packages/OMICsPCA",
@@ -9391,6 +9421,12 @@
     "package": "plyranges",
     "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
     "url": "https://github.com/tidyomics/plyranges",
+    "registry": "bioc"
+  },
+  {
+    "package": "plyxp",
+    "maintainer": "Justin Landis <jtlandis314@gmail.com>",
+    "url": "https://github.com/jtlandis/plyxp",
     "registry": "bioc"
   },
   {
@@ -12010,6 +12046,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SpaNorm",
+    "maintainer": "Dharmesh D. Bhuva <dharmesh.bhuva@adelaide.edu.au>",
+    "url": "https://github.com/bhuvad/spanorm",
+    "registry": "bioc"
+  },
+  {
     "package": "sparrow",
     "maintainer": "Steve Lianoglou <slianoglou@gmail.com>",
     "url": "https://github.com/lianos/sparrow",
@@ -12914,6 +12956,12 @@
     "package": "TMixClust",
     "maintainer": "Monica Golumbeanu <golumbeanu.monica@gmail.com>",
     "url": "https://git.bioconductor.org/packages/TMixClust",
+    "registry": "bioc"
+  },
+  {
+    "package": "TMSig",
+    "maintainer": "Tyler Sagendorf <tyler.sagendorf@pnnl.gov>",
+    "url": "https://github.com/emsl-computing/tmsig",
     "registry": "bioc"
   },
   {
