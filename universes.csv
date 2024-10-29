@@ -1522,6 +1522,7 @@ BFF,rshudde
 BFI,hassanpazira
 bfp,danielinteractive
 BFpack,jomulder
+bfpwr,samch93
 BFS,lgnbhl
 bfsl,pasturm
 bfsMaps,andrisignorell
@@ -2969,6 +2970,7 @@ class,cran
 ClassComparison,r-forge
 ClassDiscovery,r-forge
 classGraph,mmaechler
+classicaltest,cran
 classifierplots,adefazio
 classifly,hadley
 ClassifyR,bioc
@@ -5913,6 +5915,7 @@ encode,bergsmat
 EncompassTest,cran
 encryptedRmd,dirkschumacher
 encryptr,surgicalinformatics
+enderecobr,ipeagit
 endogeneity,cran
 endogenous,cran
 EndoMineR,ropensci
@@ -6413,6 +6416,7 @@ eyedata,tjebo
 eyelinker,a-hurst
 eyelinkReader,alexander-pastukhov
 eyeRead,sanverhavert
+eyetools,tombeesley
 eyetrackingR,samhforbes
 eyeTrackR,cran
 ez,mike-lawrence
@@ -6553,6 +6557,7 @@ fastcmprsk,erickawaguchi
 fastcox,archer-yang-lab
 fastcpd,doccstat
 FastCUB,cran
+fastdid,tsailintung
 fastdigest,gmbecker
 fastDummies,jacobkap
 fasterElasticNet,cufesam
@@ -8084,6 +8089,7 @@ ggparallel,heike
 ggparty,martin-borkovec
 ggpath,mrcaseb
 ggpattern,trevorld
+ggpca,yaoxiangli
 ggpcp,heike
 ggperiodic,eliocamp
 ggpicrust2,cafferychen777
@@ -9588,6 +9594,7 @@ iClick,cran
 iClusterPlus,bioc
 iClusterVB,abdalkarima
 icmm,vitara-p
+icmstate,cran
 iCNV,bioc
 iCOBRA,bioc
 ICODS,sth1402
@@ -9616,7 +9623,7 @@ idar,cran
 idarps,lionelvoirol
 idbr,walkerke
 IDCard,marsdu1989
-idcnrba,cran
+idcnrba,westat-schneider
 IDE,andrewzm
 IDEAFilter,biogen-inc
 ideal,bioc
@@ -12918,6 +12925,7 @@ momentuHMM,bmcclintock
 Momocs,momx
 MomTrunc,chedgala
 monaco,stla
+monad,mikmart
 monaLisa,bioc
 MoNAn,cran
 monashtipr,jimmyday12
@@ -14118,7 +14126,7 @@ npsurv,yong3738
 npsurvSS,godwinyyung
 nptest,cran
 npwbs,cran
-nrba,cran
+nrba,westat-schneider
 nRegression,srivastavbudugutta
 NRejections,mayamathur
 nricens,eisuke-inoue
@@ -15415,6 +15423,7 @@ PICBayes,cran
 picClip,deppemj
 picker,hms-dbmi
 pickgene,bioc
+picohdr,coolbutuseless
 picR,javenrflo
 PICS,bioc
 pid,kgdunn
@@ -15534,7 +15543,7 @@ PlasmaMutationDetector,cran
 PlasmaMutationDetector2,yrozen-biostm
 Plasmidprofiler,thezetner
 plasmut,bioc
-plasso,stefan-1997
+plasso,rm-1997
 plater,ropensci
 platetools,swarchal
 PlatformDesign,cran
@@ -15659,7 +15668,7 @@ pmhtutorial,cran
 pmlbr,epistasislab
 pmledecon,cran
 pmm,bioc
-pmml,softwareag
+pmml,cumulocity-iot
 pmmlTransformations,cran
 pmp,bioc
 pmparser,hugheylab
@@ -16051,6 +16060,7 @@ priceR,stevecondylios
 pricesensitivitymeter,max-alletsee
 prim,tarnduong
 PRIMAL,zichongli5
+primarycensored,epinowcast
 primate,cran
 primefactr,privefl
 primePCA,cran
@@ -16149,7 +16159,7 @@ progeny,bioc
 progenyClust,huhuhuyeye
 ProgModule,hanjunwei-lab
 progress,r-lib
-progressr,henrikbengtsson
+progressr,futureverse
 PROJ,hypertidy
 proj4,s-u
 ProjectionBasedClustering,mthrun
@@ -16220,6 +16230,7 @@ protoshiny,andeek
 prototest,cran
 protr,nanxstats
 ProTrackR,pepijn-devries
+ProTrackR2,pepijn-devries
 protti,jpquast
 protViz,cpanse
 proustr,colinfay
@@ -19917,6 +19928,7 @@ shinytoastr,gaborcsardi
 shinyTree,shinytree
 shinyvalidate,rstudio
 shinyWidgets,dreamrs
+ShinyWizard,r3pos
 shinyXYpad,stla
 shipunov,ashipunov
 shock,melinagall
@@ -21767,6 +21779,7 @@ tangram.pipe,thomasgstewart
 TapeR,vochr
 TapeS,vochr
 tapkee,ashipunov
+tapLock,ixpantia
 tapnet,biometry
 TAPseq,bioc
 TAQMNGR,cipollinifabrizio-01
