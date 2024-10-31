@@ -1093,6 +1093,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocHail",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/biochail",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocHubsShiny",
     "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/biochubsshiny",
@@ -1195,21 +1201,9 @@
     "registry": "bioc"
   },
   {
-    "package": "biodbExpasy",
-    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
-    "url": "https://git.bioconductor.org/packages/biodbExpasy",
-    "registry": "bioc"
-  },
-  {
     "package": "biodbHmdb",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/ceabiodb/biodbhmdb",
-    "registry": "bioc"
-  },
-  {
-    "package": "biodbKegg",
-    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
-    "url": "https://github.com/ceabiodb/biodbkegg",
     "registry": "bioc"
   },
   {
@@ -1406,12 +1400,6 @@
     "registry": "bioc"
   },
   {
-    "package": "brainflowprobes",
-    "maintainer": "Amanda Price <amanda.joy.price@gmail.com>",
-    "url": "https://github.com/lieberinstitute/brainflowprobes",
-    "registry": "bioc"
-  },
-  {
     "package": "branchpointer",
     "maintainer": "Beth Signal <b.signal@garvan.org.au>",
     "url": "https://git.bioconductor.org/packages/branchpointer",
@@ -1577,6 +1565,12 @@
     "package": "calm",
     "maintainer": "Kun Liang <kun.liang@uwaterloo.ca>",
     "url": "https://github.com/k22liang/calm",
+    "registry": "bioc"
+  },
+  {
+    "package": "CAMERA",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/camera",
     "registry": "bioc"
   },
   {
@@ -2162,6 +2156,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cliqueMS",
+    "maintainer": "Oriol Senan Campos <oriol.senan@praenoscere.com>",
+    "url": "https://github.com/osenan/cliquems",
+    "registry": "bioc"
+  },
+  {
     "package": "Clomial",
     "maintainer": "Habil Zare <zare@u.washington.edu>",
     "url": "https://git.bioconductor.org/packages/Clomial",
@@ -2177,6 +2177,12 @@
     "package": "clstutils",
     "maintainer": "Noah Hoffman <ngh2@uw.edu>",
     "url": "https://git.bioconductor.org/packages/clstutils",
+    "registry": "bioc"
+  },
+  {
+    "package": "CluMSID",
+    "maintainer": "Tobias Depke <depke@mailbox.org>",
+    "url": "https://github.com/tdepke/clumsid",
     "registry": "bioc"
   },
   {
@@ -2518,7 +2524,7 @@
   },
   {
     "package": "consensusOV",
-    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "maintainer": "ERROR",
     "url": "https://github.com/bhklab/consensusov",
     "registry": "bioc"
   },
@@ -2598,6 +2604,12 @@
     "package": "CoSIA",
     "maintainer": "Amanda D. Clark <amanda@freshairfamily.org>",
     "url": "https://github.com/lasseignelab/cosia",
+    "registry": "bioc"
+  },
+  {
+    "package": "cosmiq",
+    "maintainer": "David Fischer <dajofischer@googlemail.com>",
+    "url": "https://git.bioconductor.org/packages/cosmiq",
     "registry": "bioc"
   },
   {
@@ -3324,6 +3336,12 @@
     "package": "DFplyr",
     "maintainer": "Jonathan Carroll <rpkg@jcarroll.com.au>",
     "url": "https://github.com/jonocarroll/dfplyr",
+    "registry": "bioc"
+  },
+  {
+    "package": "DIAlignR",
+    "maintainer": "Shubham Gupta <shubham.1637@gmail.com>",
+    "url": "https://github.com/shubham1637/dialignr",
     "registry": "bioc"
   },
   {
@@ -4257,6 +4275,12 @@
     "registry": "bioc"
   },
   {
+    "package": "flagme",
+    "maintainer": "Mark Robinson <mark.robinson@imls.uzh.ch>",
+    "url": "https://git.bioconductor.org/packages/flagme",
+    "registry": "bioc"
+  },
+  {
     "package": "FLAMES",
     "maintainer": "Changqing Wang <wang.ch@wehi.edu.au>",
     "url": "https://github.com/mritchielab/flames",
@@ -4998,6 +5022,12 @@
     "package": "gep2pep",
     "maintainer": "Francesco Napolitano <franapoli@gmail.com>",
     "url": "https://git.bioconductor.org/packages/gep2pep",
+    "registry": "bioc"
+  },
+  {
+    "package": "gespeR",
+    "maintainer": "Fabian Schmich <fabian.schmich@bsse.ethz.ch>",
+    "url": "https://git.bioconductor.org/packages/gespeR",
     "registry": "bioc"
   },
   {
@@ -5805,6 +5835,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HTSeqGenie",
+    "maintainer": "Jens Reeder <reeder.jens@gene.com>",
+    "url": "https://git.bioconductor.org/packages/HTSeqGenie",
+    "registry": "bioc"
+  },
+  {
     "package": "HTSFilter",
     "maintainer": "Andrea Rau <andrea.rau@inrae.fr>",
     "url": "https://git.bioconductor.org/packages/HTSFilter",
@@ -6207,6 +6243,12 @@
     "registry": "bioc"
   },
   {
+    "package": "IPO",
+    "maintainer": "Thomas Lieb <thomas.r.lieb@gmail.com>",
+    "url": "https://github.com/rietho/ipo",
+    "registry": "bioc"
+  },
+  {
     "package": "IRanges",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/iranges",
@@ -6591,6 +6633,12 @@
     "registry": "bioc"
   },
   {
+    "package": "LOBSTAHS",
+    "maintainer": "Henry Holm <hholm@whoi.edu>",
+    "url": "https://github.com/vanmooylipidomics/lobstahs",
+    "registry": "bioc"
+  },
+  {
     "package": "loci2path",
     "maintainer": "Tianlei Xu <tianlei.xu@emory.edu>",
     "url": "https://github.com/stanleyxu/loci2path",
@@ -6756,6 +6804,12 @@
     "package": "MAI",
     "maintainer": "Jonathan Dekermanjian <Jonathan.Dekermanjian@CUAnschutz.edu>",
     "url": "https://github.com/kechrislab/mai",
+    "registry": "bioc"
+  },
+  {
+    "package": "MAIT",
+    "maintainer": "Pol Sola-Santos <pol.soladelossantos@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/MAIT",
     "registry": "bioc"
   },
   {
@@ -7149,6 +7203,12 @@
     "registry": "bioc"
   },
   {
+    "package": "metaMS",
+    "maintainer": "Yann Guitton <yann.guitton@gmail.com>",
+    "url": "https://github.com/yguitton/metams",
+    "registry": "bioc"
+  },
+  {
     "package": "MetaNeighbor",
     "maintainer": "Stephan Fischer <fischer@cshl.edu>",
     "url": "https://git.bioconductor.org/packages/MetaNeighbor",
@@ -7410,12 +7470,6 @@
     "package": "microbiomeExplorer",
     "maintainer": "Janina Reeder <reederj1@gene.com>",
     "url": "https://git.bioconductor.org/packages/microbiomeExplorer",
-    "registry": "bioc"
-  },
-  {
-    "package": "microbiomeMarker",
-    "maintainer": "Yang Cao <caoyang.name@gmail.com>",
-    "url": "https://github.com/yiluheihei/microbiomemarker",
     "registry": "bioc"
   },
   {
@@ -7953,6 +8007,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MSnID",
+    "maintainer": "Vlad Petyuk <petyuk@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/MSnID",
+    "registry": "bioc"
+  },
+  {
     "package": "MSPrep",
     "maintainer": "Max McGrath <max.mcgrath@ucdenver.edu>",
     "url": "https://github.com/kechrislab/msprep",
@@ -8253,6 +8313,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ncGTW",
+    "maintainer": "Chiung-Ting Wu <ctwu@vt.edu>",
+    "url": "https://github.com/chiungtingwu/ncgtw",
+    "registry": "bioc"
+  },
+  {
     "package": "NCIgraph",
     "maintainer": "Laurent Jacob <laurent.jacob@gmail.com>",
     "url": "https://git.bioconductor.org/packages/NCIgraph",
@@ -8298,6 +8364,12 @@
     "package": "netboost",
     "maintainer": "Pascal Schlosser <pascal.schlosser@uniklinik-freiburg.de>",
     "url": "https://git.bioconductor.org/packages/netboost",
+    "registry": "bioc"
+  },
+  {
+    "package": "netDx",
+    "maintainer": "Shraddha Pai <shraddha.pai@utoronto.ca>",
+    "url": "https://git.bioconductor.org/packages/netDx",
     "registry": "bioc"
   },
   {
@@ -8382,6 +8454,12 @@
     "package": "NOISeq",
     "maintainer": "Sonia Tarazona <sotacam@eio.upv.es>",
     "url": "https://git.bioconductor.org/packages/NOISeq",
+    "registry": "bioc"
+  },
+  {
+    "package": "nondetects",
+    "maintainer": "Valeriia Sherina <valery.sherina@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/nondetects",
     "registry": "bioc"
   },
   {
@@ -8932,6 +9010,12 @@
     "registry": "bioc"
   },
   {
+    "package": "paxtoolsr",
+    "maintainer": "Augustin Luna <lunaa@cbio.mskcc.org>",
+    "url": "https://github.com/biopax/paxtoolsr",
+    "registry": "bioc"
+  },
+  {
     "package": "pcaExplorer",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/pcaexplorer",
@@ -8971,6 +9055,12 @@
     "package": "PeacoQC",
     "maintainer": "Annelies Emmaneel <annelies.emmaneel@hotmail.com>",
     "url": "https://github.com/saeyslab/peacoqc",
+    "registry": "bioc"
+  },
+  {
+    "package": "peakPantheR",
+    "maintainer": "Arnaud Wolfer <adwolfer@gmail.com>",
+    "url": "https://github.com/phenomecentre/peakpanther",
     "registry": "bioc"
   },
   {
@@ -9514,9 +9604,9 @@
     "registry": "bioc"
   },
   {
-    "package": "psygenet2r",
-    "maintainer": "Alba Gutierrez-Sacristan <a.gutierrez.sacristan@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/psygenet2r",
+    "package": "ptairMS",
+    "maintainer": "camille Roquencourt <camille.roquencourt@hotmail.fr>",
+    "url": "https://github.com/camilleroquencourt/ptairms",
     "registry": "bioc"
   },
   {
@@ -9922,6 +10012,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Rcollectl",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/rcollectl",
+    "registry": "bioc"
+  },
+  {
     "package": "Rcpi",
     "maintainer": "Nan Xiao <me@nanx.me>",
     "url": "https://github.com/nanxstats/rcpi",
@@ -9961,12 +10057,6 @@
     "package": "RCyjs",
     "maintainer": "Paul Shannon <paul.thurmond.shannon@gmail.com>",
     "url": "https://git.bioconductor.org/packages/RCyjs",
-    "registry": "bioc"
-  },
-  {
-    "package": "rDGIdb",
-    "maintainer": "Lars Bosshard <bosshard@nexus.ethz.ch>",
-    "url": "https://git.bioconductor.org/packages/rDGIdb",
     "registry": "bioc"
   },
   {
@@ -10055,7 +10145,7 @@
   },
   {
     "package": "recoup",
-    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
+    "maintainer": "ERROR",
     "url": "https://github.com/pmoulos/recoup",
     "registry": "bioc"
   },
@@ -10207,6 +10297,12 @@
     "package": "rGenomeTracks",
     "maintainer": "Omar Elashkar <omar.i.elashkar@gmail.com>",
     "url": "https://git.bioconductor.org/packages/rGenomeTracks",
+    "registry": "bioc"
+  },
+  {
+    "package": "RGMQL",
+    "maintainer": "Simone Pallotta <simonepallotta@hotmail.com>",
+    "url": "https://git.bioconductor.org/packages/RGMQL",
     "registry": "bioc"
   },
   {
@@ -11626,12 +11722,6 @@
     "registry": "bioc"
   },
   {
-    "package": "single",
-    "maintainer": "Rocio Espada <rocio.espada@espci.fr>",
-    "url": "https://git.bioconductor.org/packages/single",
-    "registry": "bioc"
-  },
-  {
     "package": "SingleCellAlleleExperiment",
     "maintainer": "Jonas Schuck <jschuckdev@gmail.com>",
     "url": "https://github.com/agimkeller/singlecellalleleexperiment",
@@ -12106,6 +12196,12 @@
     "registry": "bioc"
   },
   {
+    "package": "squallms",
+    "maintainer": "William Kumler <wkumler@uw.edu>",
+    "url": "https://github.com/wkumler/squallms",
+    "registry": "bioc"
+  },
+  {
     "package": "sRACIPE",
     "maintainer": "Vivek Kohar <vivek.kohar@gmail.com>",
     "url": "https://github.com/vivekkohar/sracipe",
@@ -12181,6 +12277,12 @@
     "package": "standR",
     "maintainer": "Ning Liu <liu.n@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/standr",
+    "registry": "bioc"
+  },
+  {
+    "package": "staRank",
+    "maintainer": "Juliane Siebourg <juliane.siebourg@bsse.ethz.ch>",
+    "url": "https://git.bioconductor.org/packages/staRank",
     "registry": "bioc"
   },
   {
@@ -13296,7 +13398,7 @@
   },
   {
     "package": "Voyager",
-    "maintainer": "Lambda Moses <dlu2@caltech.edu>",
+    "maintainer": "Lambda Moses <dl3764@columbia.edu>",
     "url": "https://github.com/pachterlab/voyager",
     "registry": "bioc"
   },
@@ -13394,6 +13496,12 @@
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
+    "registry": "bioc"
+  },
+  {
+    "package": "xcms",
+    "maintainer": "Steffen Neumann <sneumann@ipb-halle.de>",
+    "url": "https://github.com/sneumann/xcms",
     "registry": "bioc"
   },
   {

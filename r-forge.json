@@ -294,6 +294,12 @@
     "subdir": "pkg/fUnitRoots"
   },
   {
+    "package": "fuzzySim",
+    "maintainer": "A. Marcia Barbosa <ana.marcia.barbosa@gmail.com>",
+    "url": "https://github.com/r-forge/fuzzysim",
+    "subdir": "pkg"
+  },
+  {
     "package": "GeneralizedHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",
@@ -835,7 +841,7 @@
   },
   {
     "package": "softclassval",
-    "maintainer": "C. Beleites <claudia.beleites@chemometrix.eu>",
+    "maintainer": "Claudia Beleites <claudia.beleites@chemometrix.eu>",
     "url": "https://github.com/r-forge/softclassval",
     "subdir": "pkg"
   },
