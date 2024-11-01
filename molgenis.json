@@ -10,6 +10,11 @@
     "url": "https://github.com/molgenis/ds-tidyverse"
   },
   {
+    "package": "dsTidyverseClient",
+    "maintainer": "Tim Cadman <t.j.cadman@umcg.nl>",
+    "url": "https://github.com/molgenis/ds-tidyverse-client"
+  },
+  {
     "package": "MolgenisArmadillo",
     "maintainer": "Mariska Slofstra <m.k.slofstra@umcg.nl>",
     "url": "https://github.com/molgenis/molgenis-r-armadillo"
