@@ -3301,7 +3301,7 @@ coGPS,bioc
 CohensdpLibrary,dcousin3
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
-CohortCharacteristics,darwin-eu-dev
+CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortGenerator,ohdsi
@@ -5317,7 +5317,7 @@ DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
-DrugUtilisation,darwin-eu-dev
+DrugUtilisation,darwin-eu
 DrugVsDisease,bioc
 drumr,jamesmartherus
 DRviaSPCN,hanjunwei-lab
@@ -5658,7 +5658,7 @@ ectotemp,wouterbeukema
 ECTSVR,cran
 ECTTDNN,cran
 Ecume,hectorrdb
-eCV,eclipsebio
+eCV,agugonrey
 ed50,mousieur-g
 ed50simulation,raulwangfr
 eda4treeR,myaseen208
@@ -6625,6 +6625,7 @@ faux,debruine
 fauxnaif,rossellhayes
 fauxpas,sckott
 FAVAR,common2016
+favawesome,shinyworks
 faviconPlease,jdblischak
 favnums,cran
 FAwR,cran
@@ -8445,6 +8446,7 @@ gofCopula,simontrimborn
 gofedf,pnickchi
 goffda,egarpor
 gofgamma,ebner-kit
+gofIG,ebner-kit
 GoFKernel,cran
 GofKmt,jwboys26
 gofreg,gkremling
@@ -10962,6 +10964,7 @@ LedPred,bioc
 leem,bendeivide
 lefko3,dormancy1
 lefser,bioc
+legendry,teunbrand
 legion,config-i1
 legislatoR,saschagobel
 LEGIT,alexiajm
@@ -13753,7 +13756,7 @@ networkGen,aidenloe
 NetworkInference,desmarais-lab
 networkLite,epimodel
 networkR,ekstroem
-NetworkReg,tianxili
+NetworkReg,cran
 NetworkRiskMeasures,carloscinelli
 networkscaleup,ilaga
 NetworkToolbox,alexchristensen
@@ -14340,7 +14343,7 @@ omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,bioc
 omock,ohdsi
-omopgenerics,darwin-eu-dev
+omopgenerics,darwin-eu
 OmopSketch,ohdsi
 OmopViewer,ohdsi
 ompBAM,bioc
@@ -14479,6 +14482,7 @@ oppar,bioc
 Opportunistic,chedgala
 oppr,prioritizr
 oppti,bioc
+OPSR,dheimgartner
 Opt5PL,cran
 optband,seasamgo
 optbdmaeAT,cran
@@ -14647,7 +14651,7 @@ Ostats,neon-biodiversity
 OSTE,cran
 osum,zivankaraman
 otargen,amirfeizi
-OTclust,phoelief
+OTclust,lixiangzhang
 OTE,cran
 otinference,cran
 otp,randy3k
@@ -15860,6 +15864,7 @@ POSTm,sth1402
 postpack,bstaton1
 POT,r-forge
 potential,riatelab
+poth,augustinewigle
 potions,atlasoflivingaustralia
 potools,michaelchirico
 potts,cjgeyer
@@ -17164,6 +17169,7 @@ rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
 RColetum,geo-sapiens
+rcollectadhd,jmnolan9
 Rcollectl,bioc
 RColorBrewer,neuwirthe
 RColorConesa,psalguerog
@@ -19586,6 +19592,7 @@ sendigR,phuse-org
 sendmailR,olafmersmann
 sense,pigian
 sensemakr,carloscinelli
+SensIAT,uofuepibio
 sensibo.sky,theclue
 sensiPhy,paternogbc
 sensitivity,biooss
@@ -20984,6 +20991,7 @@ srm,alexanderrobitzsch
 srnadiff,bioc
 sRNAGenetic,w123yu
 srp,cran
+srppp,agroscope-ch
 srr,ropensci
 SRS,lukasbeule
 srt,k5cents
@@ -21062,6 +21070,7 @@ st,cran
 sta,cran
 stabiliser,roberthyde
 stability,myaseen208
+StabilityApp,myaseen208
 StabilizedRegression,niklaspfister
 stabilo,josemaga
 stable,swihart
@@ -21492,6 +21501,7 @@ SurveyCC,237triangle
 surveyCV,colbystatsvyrsch
 surveydata,andrie
 SurveyDefense,cran
+surveydown,surveydown-dev
 surveyexplorer,liamhaller
 surveygraph,surveygraph
 surveyplanning,csblatvia
@@ -23800,7 +23810,7 @@ x.ent,win-stub
 x12,statistikat
 x13binary,x13org
 x3ptools,heike
-xadmix,cran
+xadmix,spacecowboy-71
 xaringan,yihui
 xaringanExtra,gadenbuie
 xaringanthemer,gadenbuie
