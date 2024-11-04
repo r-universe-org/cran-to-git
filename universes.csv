@@ -1533,7 +1533,6 @@ BgeeDB,bioc
 bgev,thiagopod17
 bgeva,giampmarra
 BGFD,cran
-bggAnalytics,jakubbujnowicz
 BGGE,italo-granato
 BGGM,donaldrwilliams
 bggum,duckmayr
@@ -3528,6 +3527,7 @@ confintROB,masonfg
 ConfIntVariance,cran
 conflicted,r-lib
 conflr,yutannihilation
+ConfMatrix,svilchez
 conformalbayes,corymccartan
 conformalClassification,niha21
 conformalInference.fd,paolo-vergo
@@ -3918,7 +3918,6 @@ CreditRisk,cran
 CREDS,cran
 credsubs,cran
 credule,blenezet
-cregg,leeper
 cRegulome,ropensci
 crew,wlandau
 crew.aws.batch,wlandau
@@ -8925,6 +8924,7 @@ handlr,ropensci
 HandTill2001,fvafrcu
 handwriter,csafe-isu
 handwriterApp,csafe-isu
+handwriterRF,csafe-isu
 handyFunctions,luffylouis
 handyplots,schwartstack
 hans,cran
@@ -12533,7 +12533,7 @@ miscTools,arne-henningsen
 miselect,cran
 mispitools,marsicofl
 mispr,cran
-misPRIME,cran
+misPRIME,treerlikesu
 MiSPU,chongwu-biostat
 MisRepARMA,dmorinya
 missCforest,ielbadisy
@@ -13770,7 +13770,6 @@ NeuralNetTools,fawda123
 NeuralSens,jaipizgon
 neurobase,muschellij2
 neuroblastoma,tdhock
-neurocInstall,muschellij2
 NeuroDecodeR,emeyers
 neurohcp,muschellij2
 neuroim,bbuchsbaum
@@ -15691,6 +15690,7 @@ POD,markusboenn
 PoDBAY,vavrycuk-zz
 PoDCall,bioc
 podcleaner,cran
+PODES,mubarakfadhlul
 podkat,bioc
 poems,globalecologylab
 POET,zhelcheva
@@ -20734,6 +20734,7 @@ SPCALDA,cran
 SPCAvRP,milanagataric
 SPCDAnalyze,cran
 SPCompute,aguerozz
+spconf,kpkeller
 spcosa,cran
 spcov,jacobbien
 spCP,berchuck
@@ -23326,7 +23327,7 @@ virtuoso,ropensci
 virustotal,themains
 visa,kang-yu
 visachartR,cran
-visaOTR,cran
+visaOTR,treerlikesu
 VisCollin,friendly
 viscomp,georgiosseitidis
 viscomplexr,peterbiber
