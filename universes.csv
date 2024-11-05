@@ -1301,7 +1301,7 @@ BayesPPD,cran
 BayesPPDSurv,cran
 BayesProject,ghahn-hsph
 bayesQR,driesbenoit
-bayesRecon,dazzimonti
+bayesRecon,idsia
 bayesreg,cran
 Bayesrel,juliuspfadt
 BayesRep,samch93
@@ -5235,6 +5235,7 @@ DPBBM,laurenie
 dpcc,bingyuan-zhang
 dPCP,alfodefalco
 Dpit,cran
+dpkg,cole-brokamp
 dplR,opendendro
 dplyr,tidyverse
 dplyrAssist,cardiomoon
@@ -6195,6 +6196,7 @@ ETLUtils,jwijffels
 etm,mclements
 etrader,exploringfinance
 etree,ricgbl
+ETRep,mohsentaherishalmani
 etrm,sleire
 etrunct,stephens999
 etwfe,grantmcdermott
@@ -7407,7 +7409,7 @@ FuzzyResampling,mroman-ibs
 fuzzySim,r-forge
 FuzzySimRes,mroman-ibs
 FuzzyStatProb,cran
-FuzzyStatTra,cran
+FuzzyStatTra,asunlubiano
 FuzzyStatTraEOO,uo270115
 FuzzySTs,cran
 fuzzywuzzyR,mlampros
@@ -8604,7 +8606,7 @@ graphframes,rstudio
 graphhopper,crazycapivara
 graphicalEvidence,cran
 graphicalExtremes,sebastian-engelke
-graphicalMCP,xidongdxi
+graphicalMCP,openpharma
 graphicalVAR,cran
 graphite,bioc
 graphkernels,mahito-sugiyama
@@ -10066,6 +10068,7 @@ IP,tsoubiran
 ip2location,ip2location
 ip2locationio,cran
 ip2proxy,ip2location
+ip2whois,cran
 ipa,rossellhayes
 iPAC,bioc
 ipaddress,davidchall
@@ -11916,6 +11919,7 @@ mclust,luca-scr
 mclustAddons,luca-scr
 mclustcomp,kisungyou
 MCM,jiahui1902
+mcmapper,cran
 mcmc,cran
 MCMC.OTU,z0on
 MCMC.qpcr,z0on
@@ -13438,6 +13442,7 @@ mvcor,cran
 mvctm,denufl
 mvdalab,cran
 mvDFA,jpirmer
+mverse,mverseanalysis
 MVET,yeonseok-choi
 mvgam,nicholasjclark
 mvgb,swihart
@@ -13770,6 +13775,7 @@ NeuralNetTools,fawda123
 NeuralSens,jaipizgon
 neurobase,muschellij2
 neuroblastoma,tdhock
+neurocInstall,muschellij2
 NeuroDecodeR,emeyers
 neurohcp,muschellij2
 neuroim,bbuchsbaum
@@ -14083,6 +14089,7 @@ npcurePK,cran
 npde,ecomets
 npDoseResponse,zhangyk8
 npExact,zauster
+NPFD,cran
 NPflow,sistm
 npGSEA,bioc
 nph,rmaster1
@@ -14551,7 +14558,7 @@ orca,thocevar
 orclus,g-rho
 ORCME,cran
 Orcs,fdetsch
-orcutt,stefanospada88
+orcutt,cran
 ordbetareg,saudiwin
 OrdCD,nystat
 ordcrm,cran
@@ -15476,6 +15483,7 @@ pixels,javierluraschi
 pixiedust,nutterb
 pixmap,zeileis
 PK,tjaki
+pk.unit.trans,fuyongchao
 pk4adi,xfz329
 PKbioanalysis,omarashkar
 PKconverter,ek-lee
@@ -18244,6 +18252,7 @@ rnmamod,loukiaspin
 Rnmr1D,inra
 rnn,bquast
 rnndescent,jlmelville
+rnnmf,shabbychef
 rnoaa,ropensci
 rNOMADS,r-forge
 RNOmni,zrmacc
@@ -19018,7 +19027,7 @@ saeSim,wahani
 saeTrafo,norawuerz
 SAEval,andrea-fasulo
 SAFARI,estfernan
-SAFD,cran
+SAFD,asunlubiano
 safe,bioc
 safejoin,samedwardes
 safer,talegari
@@ -19959,6 +19968,7 @@ SIBERG,cran
 sicegar,wilkelab
 siconvr,meirelesff
 SICtools,bioc
+sicure,cran
 SID,fkgruber
 SIDES,marie-karelle
 sidier,cran
@@ -22080,7 +22090,7 @@ TheOpenAIR,umatter
 ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
-Thermistor,zuelxy
+Thermistor,cran
 thermocouple,cran
 TheSFACE,amitsasson
 thestats,analyticsresearchlab
