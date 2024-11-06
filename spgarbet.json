@@ -1,5 +1,10 @@
 [
   {
+    "package": "acepack",
+    "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
+    "url": "https://github.com/cran/acepack"
+  },
+  {
     "package": "emg",
     "maintainer": "Shawn Garbett <Shawn@Garbett.org>",
     "url": "https://github.com/spgarbet/emg"

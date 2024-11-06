@@ -79,7 +79,7 @@ ace2fastq,c5sire
 acebayes,amo105
 aceEditor,stla
 ACEP,agusnieto77
-acepack,cran
+acepack,spgarbet
 ACEsearch,podalv
 ACEsimFit,xuanyu-lyu
 ACEt,lhe17
@@ -3242,6 +3242,7 @@ COCOA,bioc
 coconots,manuhuth
 cocons,blasif
 COCONUT,cran
+cocoon,jeffreyrstevens
 cocor,deboerk
 cocorresp,gavinsimpson
 cocosoR,sergiofloquet
@@ -5425,6 +5426,7 @@ dupNodes,jj
 dupRadar,bioc
 dupree,russhyde
 Durga,khankawsar
+dverse,maurolepore
 DVHmetrics,dwoll
 dvir,magnusdv
 dvmisc,vandomed
@@ -5707,7 +5709,6 @@ EdSurvey,american-institutes-for-research
 educationdata,urbaninstitute
 educineq,jordavuc
 edwards97,paleolimbot
-EEAaq,agostinotassanmazzocco
 eefAnalytics,germaine86
 eegkit,cran
 eegkitdata,cran
@@ -6194,7 +6195,7 @@ EthSEQ,cibiobcg
 etl,beanumber
 ETLUtils,jwijffels
 etm,mclements
-etrader,exploringfinance
+etrader,altanalytics
 etree,ricgbl
 ETRep,mohsentaherishalmani
 etrm,sleire
@@ -7056,7 +7057,7 @@ fmesher,inlabru-org
 fmf,zheng-ww
 FMM,alexarc26
 FMP,nwaller
-fmpcloudr,exploringfinance
+fmpcloudr,altanalytics
 FMradio,cfwp
 fmri,cran
 fmriqa,martin3141
@@ -8144,6 +8145,7 @@ ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
 ggseg3d,ggseg
+ggsem,smin95
 ggseqalign,bioc
 ggseqlogo,omarwagih
 ggseqplot,maraab23
@@ -8998,6 +9000,7 @@ hda,g-rho
 HDANOVA,khliland
 hdar,eea
 hdbayes,ethan-alt
+hdbcp,jaehoonkim98
 hdbinseg,haeran-cho
 hdbm,cran
 hdbma,qingzhaoyu
@@ -10068,7 +10071,7 @@ IP,tsoubiran
 ip2location,ip2location
 ip2locationio,cran
 ip2proxy,ip2location
-ip2whois,cran
+ip2whois,ip2whois
 ipa,rossellhayes
 iPAC,bioc
 ipaddress,davidchall
@@ -11470,6 +11473,7 @@ ltsspca,yixinww
 ltxsparklines,borisveytsman
 luajr,nicholasdavies
 lubridate,tidyverse
+lubrilog,arrismo
 luca,jshinb
 lucas,momut1
 lucid,kwstat
@@ -11983,7 +11987,7 @@ mde,nelson-gon
 mded,cran
 MDEI,ratkovic
 mdendro,albyfs
-MDFS,yoctozepto
+MDFS,cran
 mdftracks,burgerga
 mdgc,boennecd
 mdhglm,msnoh1
@@ -12090,6 +12094,7 @@ MendelianRandomization,sb452
 MEPDF,cran
 Mercator,cran
 merDeriv,nctingwang
+mergedblocks,svdpas
 mergen,bimsbbioinfo
 mergenstudio,jacqueline-98
 Mergeomics,bioc
@@ -12467,6 +12472,7 @@ minerva,filosi
 minesweeper,hrryt
 mineSweepR,zhuxr11
 minet,bioc
+minFactorial,cran
 minfi,bioc
 minic,bertvanderveen
 miniCRAN,andrie
@@ -14558,7 +14564,7 @@ orca,thocevar
 orclus,g-rho
 ORCME,cran
 Orcs,fdetsch
-orcutt,cran
+orcutt,stefanospada88
 ordbetareg,saudiwin
 OrdCD,nystat
 ordcrm,cran
@@ -15617,6 +15623,7 @@ plotROC,sachsmc
 plotscale,bergsmat
 plotscaper,bartonicek
 plotSEMM,philchalmers
+plotthis,pwwang
 PlotTools,ms609
 plotwidgets,january3
 PLPE,bioc
@@ -16829,7 +16836,7 @@ RAdwords,jburkhardt
 raem,cneyens
 raer,bioc
 rafalib,rairizarry
-RAFS,yoctozepto
+RAFS,cran
 rafsi,mateusvanzetta
 Rage,jonesor
 ragg,r-lib
@@ -16858,7 +16865,7 @@ rAmCharts4,stla
 ramchoice,xinweima
 RAMClustR,cbroeckl
 ramcmc,helske
-rameritrade,exploringfinance
+rameritrade,altanalytics
 ramify,bgreenwell
 ramlegacy,ropensci
 RAMP,yangfengstat
@@ -17411,7 +17418,7 @@ REBayes,rudjer
 REBET,bioc
 rebib,abhi-1u
 rebird,ropensci
-rebmix,cran
+rebmix,nagodem
 rebook,bioc
 rebus,richierocks
 rebus.base,richierocks
@@ -20799,6 +20806,7 @@ SPEDInstabR,cran
 speech,nicolas-schmidt
 speechbr,dcardosos
 speedglm,cran
+speedyBBT,cran
 speedycode,jacobwharris
 speedytax,jfq3
 spef,stc04003
@@ -21395,6 +21403,7 @@ submax,cran
 SubpathwayLNCE,shixinrui
 subplex,kingaa
 subrank,jeromepcollet
+subsampling,dqksnow
 subscore,daiscode
 subscreen,bodokirsch
 subsemble,ledell
@@ -22090,7 +22099,7 @@ TheOpenAIR,umatter
 ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
-Thermistor,cran
+Thermistor,zuelxy
 thermocouple,cran
 TheSFACE,amitsasson
 thestats,analyticsresearchlab
@@ -22236,6 +22245,7 @@ tidytuesdayR,dslc-io
 tidyUSDA,bradlindblad
 tidyverse,tidyverse
 tidyvpc,certara
+tidywater,brownandcaldwell-public
 tidywikidatar,edjnet
 tidyxl,nacnudus
 tif,ropensci
@@ -22289,7 +22299,7 @@ TimeVarConcurrentModel,cvandergeugten
 timevarcorr,courtiol
 timevis,daattali
 TimeVizPro,leilamarvian
-TimeVTree,cran
+TimeVTree,e4lee
 TIMP,glotaran
 timsac,cran
 TIN,bioc
