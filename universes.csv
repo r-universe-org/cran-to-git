@@ -40,6 +40,7 @@ abn,furrer-lab
 abnormality,mmarks13
 abodOutlier,josejimenezluna
 ABPS,fredericschutz
+ABRSQOL,cran
 abseil,doccstat
 abseqR,bioc
 absorber,cran
@@ -262,6 +263,7 @@ AeRobiology,oteros
 AeroSampleR,markhogue
 AF,cran
 afc,cran
+afcharts,best-practice-and-impact
 afcolours,ldavies99
 afdx,johnaponte
 afex,singmann
@@ -625,6 +627,7 @@ anytime,eddelbuettel
 ao,loelschlaeger
 AOboot,cran
 aod,cran
+aods3,aursiber
 aoos,wahani
 aopdata,rafapereirabr
 Aoptbdtvc,doer0
@@ -5057,6 +5060,7 @@ div,drphilippedb
 divDyn,divdyn
 DivE,dlaydon
 diveMove,spluque
+divent,ericmarcon
 diveR,great-northern-diver
 diverge,cran
 divergence,bioc
@@ -6219,7 +6223,7 @@ euroleaguer,flavioleccese92
 europeanaR,alekoure
 europepmc,ropensci
 europop,mdlincoln
-EurosarcBayes,finite2
+EurosarcBayes,cran
 eurostat,ropengov
 eva,brianbader
 evabic,abichat
@@ -6308,6 +6312,7 @@ exampletestr,rorynolan
 exams,zeileis
 exams.forge,sigbertklinke
 exams.mylearn,hdarjus
+exams2forms,zeileis
 exams2learnr,zeileis
 exams2sakai,jesusmmp
 ExceedanceTools,jfrench
@@ -8527,6 +8532,7 @@ gpboost,fabsig
 gpbStat,nandp1
 GPCERF,nsaph-software
 GPCMlasso,schaubert
+gpcp,cmn92
 GPCsign,morgane-m
 GPEMR,ruqaiya41
 GPFDA,gpfda
@@ -8833,7 +8839,7 @@ Guerry,friendly
 guescini,ramiromagno
 guess,soodoku
 GUEST,cran
-GUIDE,subramanianshub
+GUIDE,cran
 guidedPLS,rikenbit
 GUIDEseq,bioc
 guildai,guildai
@@ -9113,6 +9119,7 @@ HERON,bioc
 Herper,bioc
 hesim,hesim-dev
 HeterFunctionalData,cran
+heterocop,cran
 heterogen,patauchi
 HeteroGGM,cran
 heterometa,deweyme
@@ -10276,6 +10283,7 @@ itsadug,jacolien
 itscalledsoccer,american-soccer-analysis
 itsdm,lleisong
 itsmr,georgeweigt
+iucnr,paulesantos
 ivaBSS,cran
 IVAS,bioc
 ivdesc,sumtxt
@@ -10727,7 +10735,7 @@ kvh,sgsokol
 kyotil,youyifong
 kza,closebrian
 kzs,cran
-l0ara,cran
+l0ara,wguo1017
 L0Learn,hazimehh
 l1ball,cran
 L1centrality,seungwoo-stat
@@ -14159,6 +14167,7 @@ NST,cran
 nswgeo,cidm-ph
 nsyllable,quanteda
 ntdr,vgxhc
+ntfy,jonocarroll
 NTLKwIEx,otodji
 ntranova,cran
 NTS,convfunctimeseries
@@ -14212,6 +14221,7 @@ oaii,cezarykuran
 oaPlots,cran
 oaqc,schochastics
 Oarray,robinhankin
+OasisR,cran
 oaxaca,cran
 obAnalytics,phil8192
 OBASpatial,joalor93
@@ -15488,6 +15498,7 @@ pixelpuzzle,rolkra
 pixels,javierluraschi
 pixiedust,nutterb
 pixmap,zeileis
+PJFM,jjr1234
 PK,tjaki
 pk.unit.trans,fuyongchao
 pk4adi,xfz329
@@ -15574,7 +15585,7 @@ plgem,bioc
 plgp,rbgramacy
 plgraphics,wernerstahel
 plier,bioc
-pliman,tiagoolivoto
+pliman,nepem-ufsc
 PLindleyROC,ertansu
 plink,bocaccio
 plinkFile,xiaoran831213
@@ -16296,6 +16307,7 @@ PSGoft,cran
 psgp,cran
 psica,osysoev
 psichomics,bioc
+psidR,floswald
 psidread,qcrates
 PSIM,luana1909
 PSIndependenceTest,cran
@@ -17007,6 +17019,7 @@ rationalfun,yixuan
 RationalMatrix,stla
 ratioOfQsprays,stla
 ratios,solmonta
+ratlas,atlas-aai
 rATTAINS,mps9506
 rattle,gjwgit
 Ravages,ozvan
@@ -17034,6 +17047,7 @@ rBahadur,rborder
 RBaseX,benengbers
 rBayesianOptimization,yanyachen
 rbbnp,dxy99999
+rbc,cran
 rbcb,wilsonfreitas
 RbcBook1,bioc
 rbcc,kzst
@@ -18816,6 +18830,7 @@ rtide,poissonconsulting
 rties,ebmtnprof
 RTIGER,rfael0cm
 rtika,ropensci
+rtiktoken,davzim
 rtip,angelberihuete
 rtist,tomasokal
 rtk,cran
@@ -20806,7 +20821,7 @@ SPEDInstabR,cran
 speech,nicolas-schmidt
 speechbr,dcardosos
 speedglm,cran
-speedyBBT,cran
+speedyBBT,rowlandseymour
 speedycode,jacobwharris
 speedytax,jfq3
 spef,stc04003
