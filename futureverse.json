@@ -1,5 +1,10 @@
 [
   {
+    "package": "future",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future"
+  },
+  {
     "package": "future.apply",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/future.apply"

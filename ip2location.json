@@ -5,6 +5,11 @@
     "url": "https://github.com/ip2location/ip2location-r"
   },
   {
+    "package": "ip2locationio",
+    "maintainer": "IP2Location.io <support@ip2location.io>",
+    "url": "https://github.com/cran/ip2locationio"
+  },
+  {
     "package": "ip2proxy",
     "maintainer": "Kai Wen Ooi <support@ip2location.com>",
     "url": "https://github.com/cran/ip2proxy"

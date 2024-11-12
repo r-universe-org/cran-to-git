@@ -604,7 +604,7 @@ antanym,ropensci
 antaresEditObject,rte-antares-rpackage
 antaresRead,rte-antares-rpackage
 anthro,worldhealthorganization
-anthroplus,dirkschumacher
+anthroplus,worldhealthorganization
 AnthropMMD,frederic-santos
 Anthropometry,cran
 AntibodyTiters,hkatomed
@@ -1509,6 +1509,7 @@ BetaPASS,cran
 betaper,luiscayuela
 betareg,zeileis
 betaSandwich,jeksterslab
+betaselectr,sfcheung
 betategarch,cran
 bethel,micheledemeo
 BETS,nmecsys
@@ -5021,6 +5022,7 @@ distcomp,bnaras
 distcrete,reconhub
 distdichoR,cran
 distfree.cr,zhiqiuhu
+distfreereg,cran
 distfromq,elray1
 distill,rstudio
 distillery,ericgilleland
@@ -5459,7 +5461,7 @@ dyn.log,bmoretz
 dynamac,andyphilips
 dynamAedes,mattmar
 dynamic,melissagwolf
-DynamicGP,heavenmarshal
+DynamicGP,cran
 dynamicSDM,r-a-dobson
 dynamicTreeCut,plangfelder
 dynamite,ropensci
@@ -7145,9 +7147,11 @@ forestmangr,sollano
 forestmodel,cran
 forestplot,gforge
 forestploter,adayim
+forestPSD,zongzheng
 forestr,atkinsjeff
 forestRK,h56cho
 forestry,jienagu
+forestSAS,zongzheng
 ForestTools,andrew-plowright
 foretell,sriharitn
 forge,cran
@@ -7391,7 +7395,7 @@ FusionLearn,hermitz9
 futile.logger,cran
 futile.options,cran
 futility,mjuraska
-future,henrikbengtsson
+future,futureverse
 future.apply,futureverse
 future.batchtools,henrikbengtsson
 future.callr,henrikbengtsson
@@ -8827,6 +8831,7 @@ gtfs2gps,ipeagit
 gtfsio,r-transit
 gtfsrouter,urbananalyst
 gtfstools,ipeagit
+GTFSwizard,nelsonquesado
 gtheory,canoemoore
 gto,thebioengineer
 gtools,r-gregmisc
@@ -9698,6 +9703,7 @@ iForecast,cran
 IFP,pgprojects
 ifpd,mubarakfadhlul
 ifs,siacus
+ig.degree.betweenness,benyamindsmith
 ig.vancouver.2014.topcolour,rtanglao
 IgAScores,microbialman
 iGasso,cran
@@ -10083,7 +10089,7 @@ iotarelr,fberding
 iotools,s-u
 IP,tsoubiran
 ip2location,ip2location
-ip2locationio,cran
+ip2locationio,ip2location
 ip2proxy,ip2location
 ip2whois,ip2whois
 ipa,rossellhayes
@@ -10334,6 +10340,7 @@ jage,cran
 jaggR,jmcurran
 jagshelper,mbtyers
 jagstargets,ropensci
+JAGStree,malfly
 jagsUI,kenkellner
 jalcal,jalilian
 JamendoR,maxgreil
@@ -14662,7 +14669,7 @@ osd,xdomingoal
 osdatahub,cran
 osDesign,shaneuse
 OSDR,cran
-OSFD,cran
+OSFD,shangkun-wang
 osfr,ropensci
 oshka,brodieg
 oskeyring,r-lib
@@ -14793,6 +14800,8 @@ PairViz,cbhurley
 pairwise,jhhmuc
 pairwiseCI,cran
 pak,r-lib
+PakNAcc,myaseen208
+PakPC,myaseen208
 PakPC2017,myaseen208
 PakPC2023,myaseen208
 PakPMICS2014Ch,myaseen208
@@ -14866,6 +14875,7 @@ panelView,cran
 panelWranglR,jszitas
 pangaear,ropensci
 PanJen,cran
+pannotator,nunzioknerr
 PanomiR,bioc
 panp,bioc
 PANR,bioc
@@ -15396,6 +15406,7 @@ photobiologyPlants,aphalo
 photobiologySensors,aphalo
 photobiologySun,aphalo
 photobiologyWavebands,aphalo
+photon,jslth
 photosearcher,ropensci
 PhotosynQ,photosynq
 photosynthesis,cdmuir
@@ -16838,6 +16849,7 @@ radar,cran
 radarBoxplot,caiohamamura
 radarchart,mangothecat
 RadData,markhogue
+RadEro,artcatala
 RadialVisGadgets,jmatute
 radiant,radiant-rstats
 radiant.basics,radiant-rstats
@@ -18046,6 +18058,7 @@ rivr,mkoohafkan
 RivRetrieve,ryan-riggs
 rix,ropensci
 rjade,jeroen
+rjaf,cran
 RJafroc,dpc10ster
 rjags,martynplummer
 RJalaliDate,h-rabiee
@@ -19499,6 +19512,7 @@ SEAGLE,jocelynchi
 SEAHORS,aurelienroyer
 seahtrue,bioc
 sealasso,cran
+seAMLess,eonurk
 searcher,coatless-rpkg
 SearchTrees,gmbecker
 SEARS,cran
@@ -19589,6 +19603,7 @@ selfingTree,cran
 sem,zhenghuanie
 semantic.assets,appsilon
 semantic.dashboard,appsilon
+semaphore,cmmr
 Semblance,cran
 SEMdeep,barbaratarantino
 SemDist,bioc
