@@ -1250,6 +1250,7 @@ bayesGAM,cran
 bayesGARCH,ardiad
 BayesGmed,belayb
 BayesGOF,cran
+BayesGP,cran
 BayesGPfit,kangjian2016
 BayesGrowth,jonathansmart
 BayesGWQS,mmcarli
@@ -2040,6 +2041,7 @@ bpca,jcfaria
 bpcp,cran
 bpDir,davidebuttarazzi
 bpgmm,yaoxiangli
+bplsr,cran
 BPM,cran
 bpmnR,gertjanssenswillen
 bpmnVisualizationR,process-analytics
@@ -2886,6 +2888,7 @@ ciftiTools,mandymejia
 CIM,patnik
 CIMICE,bioc
 cimir,mkoohafkan
+CIMPLE,cran
 CIMTx,jiayiji
 cinaR,eonurk
 cinaRgenesets,eonurk
@@ -5022,7 +5025,7 @@ distcomp,bnaras
 distcrete,reconhub
 distdichoR,cran
 distfree.cr,zhiqiuhu
-distfreereg,cran
+distfreereg,jm-umn
 distfromq,elray1
 distill,rstudio
 distillery,ericgilleland
@@ -5461,7 +5464,7 @@ dyn.log,bmoretz
 dynamac,andyphilips
 dynamAedes,mattmar
 dynamic,melissagwolf
-DynamicGP,cran
+DynamicGP,heavenmarshal
 dynamicSDM,r-a-dobson
 dynamicTreeCut,plangfelder
 dynamite,ropensci
@@ -6598,6 +6601,7 @@ fastmatch,s-u
 fastMatMR,ropensci
 fastmatrix,faosorios
 fastmit,cran
+fastml,cran
 fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
@@ -7140,6 +7144,7 @@ forested,simonpcouch
 forestError,benjilu
 ForestFit,mahditeimouri
 ForestGapR,carlos-alberto-silva
+forestGYM,zongzheng
 forestHES,zongzheng
 forestinventory,cran
 forestly,merck
@@ -18392,6 +18397,7 @@ ROCaggregator,cran
 rocbc,cran
 rocc,lau-mel
 roccv,cran
+rOCEAN,mitra-ep
 ROCFTP.MMS,nabipoor
 ROCit,riazakhan94
 rock,cran
@@ -18905,7 +18911,7 @@ Rttf2pt1,wch
 RTTWebClient,cran
 Rtumblr,schochastics
 Rtwalk,andreschristen
-rtweet,ropensci
+rtweet,ropensci-archive
 rTwig,aidanmorales
 Rtwobitlib,hpages
 rtype,renkun-ken
@@ -19773,6 +19779,7 @@ sfheaders,dcooley
 sfhotspot,mpjashby
 sfinx,cran
 sfislands,horankev
+SFM,guangbaog
 sfnetworks,luukvdmeer
 sfo,covidr
 SFPL,cran
@@ -20232,7 +20239,7 @@ sinib,boxiangliu
 SINRELEF.LD,cran
 SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
-SiPhyNetwork,cran
+SiPhyNetwork,jjustison
 siplab,ogarciav
 SIPmg,zielslab
 SiPSiC,bioc
@@ -22063,6 +22070,7 @@ text2sdgData,psychobas
 text2speech,jhudsl
 text2vec,dselivanov
 textab,setzler
+textAnnotatoR,chaoliu-cl
 textBoxPlacement,barryzee
 textcat,kurthornik
 textclean,trinker
@@ -23389,6 +23397,7 @@ virtualPollen,blasbenito
 VirtualPop,willekens
 virtualspecies,farewe
 virtuoso,ropensci
+Virusparies,sergejruff
 virustotal,themains
 visa,kang-yu
 visachartR,cran
