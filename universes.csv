@@ -2102,6 +2102,7 @@ BREW3R.r,bioc
 brglm,ikosmidis
 brglm2,ikosmidis
 brickset,jbryer
+brickster,databrickslabs
 BridgeDbR,bioc
 bridgedist,swihart
 bridger,commoditiesai
@@ -2536,6 +2537,7 @@ CBPE,mnrzrad
 cbpManager,bioc
 CBPS,christianfong
 cbq,cran
+CBRT,etaymaz
 cbsodataR,edwindj
 CBSr,sangillee
 CBT,cran
@@ -2872,6 +2874,7 @@ chunked,edwindj
 chunkhooks,atusy
 chunkR,leandroroser
 chyper,willnickols
+cia,spaceodyssey
 CIAAWconsensus,meijaj
 CIARA,gabrielelubatti
 CICA,jeffreydurieux
@@ -3882,6 +3885,7 @@ cpp11armadillo,pachadotdev
 cpp11eigen,pachadotdev
 cpp11tesseract,pachadotdev
 cppcheckR,stla
+cppcontainers,cdueben
 cppdoubles,nicchr
 cppRouting,vlarmet
 cpr,dewittpe
@@ -8344,7 +8348,7 @@ glmmPen,hheiling
 glmmrBase,samuel-watson
 glmmrOptim,samuel-watson
 GLMMRR,cran
-GLMMselect,cran
+GLMMselect,xss55
 glmmSeq,myles-lewis
 glmmTMB,glmmtmb
 glmnet,trevorhastie
@@ -9301,6 +9305,7 @@ HMPTrees,cran
 HMR,cran
 hms,tidyverse
 Hmsc,hmsc-r
+hmsidwR,fgazzelloni
 hmsr,wojtacht
 hmstimer,poissonconsulting
 HMTL,hermitz9
@@ -11950,7 +11955,7 @@ MCL,rforaita
 mclm,masterclm
 mclogit,melff
 mclust,luca-scr
-mclustAddons,luca-scr
+mclustAddons,cran
 mclustcomp,kisungyou
 MCM,jiahui1902
 mcmapper,cran
@@ -15228,6 +15233,7 @@ pEPA,kdrachal
 PEPBVS,kcharmpi
 pepe,seymakalay
 peperr,fbertran
+PepMapViz,cran
 peppm,fndemarqui
 pepr,pepkit
 PepSAVIms,dapritchard
@@ -15433,6 +15439,7 @@ PhylogeneticEM,pbastide
 PHYLOGR,rdiaz02
 phylogram,ropensci
 phylolm,lamho86
+phylolm.hp,laijiangshan
 phylometrics,amsibioinfo
 phylopairs,cran
 phylopath,ax3man
@@ -15639,6 +15646,7 @@ plotcli,cheuerde
 PlotContour,cran
 plotdap,rmendels
 plotDK,kristiansn
+PlotFTIR,nrcan
 plotfunctions,jacolien
 plotgardener,bioc
 plotGMM,pdwaggoner
@@ -17223,6 +17231,7 @@ RCMinification,spectrumhan
 rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
+RCognito,cran
 RColetum,geo-sapiens
 rcollectadhd,jmnolan9
 Rcollectl,bioc
@@ -17303,6 +17312,7 @@ RcppXPtrUtils,enchufa2
 RcppXsimd,msuchard
 RcppXts,eddelbuettel
 RcppZiggurat,eddelbuettel
+rcprd,alexpate30
 Rcrawler,salimk
 RCreliability,yulu98
 rcrimeanalysis,jsspaulding
@@ -17545,7 +17555,7 @@ REFA,jiaqihu2021
 RefBasedMI,ucl
 refer,cmann3
 referenceIntervals,digital-vet
-REffectivePred,cran
+REffectivePred,rootofunity
 refineR,cran
 refinr,chrismuir
 refitME,cran
@@ -19987,6 +19997,7 @@ shinyToastify,stla
 shinytoastr,gaborcsardi
 shinyTree,shinytree
 shinyvalidate,rstudio
+shinyWGD,cran
 shinyWidgets,dreamrs
 ShinyWizard,r3pos
 shinyXYpad,stla
