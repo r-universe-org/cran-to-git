@@ -1,5 +1,10 @@
 [
   {
+    "package": "clustur",
+    "maintainer": "Patrick Schloss <pschloss@umich.edu>",
+    "url": "https://github.com/schlosslab/clustur"
+  },
+  {
     "package": "mikropml",
     "maintainer": "Kelly Sovacool <sovacool@umich.edu>",
     "url": "https://github.com/schlosslab/mikropml"

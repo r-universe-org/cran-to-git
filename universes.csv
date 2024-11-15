@@ -1773,6 +1773,7 @@ BioQC,bioc
 bioRad,adokter
 bioregion,biorgeo
 BioRssay,milesilab
+Bios2cor,cran
 bios2mds,cran
 biosampleR,csim063
 biosensors.usc,glucodensities
@@ -2712,7 +2713,7 @@ cfTools,bioc
 cg,cran
 cgaim,pierremasselot
 cgal4h,dickoa
-cgam,cran
+cgam,xliaosdsu
 cgAUC,curare7177
 CGE,cran
 CGEN,bioc
@@ -3157,6 +3158,7 @@ clustree,lazappi
 clustringr,dan-reznik
 CLUSTShiny,kartikeyabolar
 clustTMB,andrea-havron
+clustur,schlosslab
 ClustVarLV,evigneau
 clustvarsel,luca-scr
 ClusVis,cran
@@ -3312,7 +3314,7 @@ coGPS,bioc
 CohensdpLibrary,dcousin3
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
-CohortCharacteristics,darwin-eu
+CohortCharacteristics,darwin-eu-dev
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortGenerator,ohdsi
@@ -3522,7 +3524,7 @@ condTruncMVN,phargarten2
 conductor,etiennebacher
 condvis,markajoc
 condvis2,cbhurley
-coneproj,cran
+coneproj,xliaosdsu
 conf,cran
 conf.design,billvenables
 confcons,bfakos
@@ -4073,7 +4075,7 @@ cstab,jmbh
 cstidy,csids
 cstime,csids
 CSTools,cran
-csurvey,cran
+csurvey,xliaosdsu
 csutil,csids
 csv,bergsmat
 csvread,jabiru
@@ -5332,7 +5334,7 @@ DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
-DrugUtilisation,darwin-eu
+DrugUtilisation,darwin-eu-dev
 DrugVsDisease,bioc
 drumr,jamesmartherus
 DRviaSPCN,hanjunwei-lab
@@ -7063,7 +7065,6 @@ FlyingR,bmasinde
 fma,robjhyndman
 FMAdist,cran
 FMAT,psychbruce
-fmbasics,imanuelcostigan
 FMC,jiyosunny
 FMCCSD,cran
 fmcmc,uscbiostats
@@ -9210,6 +9211,7 @@ hierinf,bioc
 hierNet,jacobbien
 HierPortfolios,ctruciosm
 hierSDR,jaredhuling
+HiGarrote,cran
 highcharter,jbkunst
 highd2means,cran
 highDmean,huaiyuzhang
@@ -10354,6 +10356,7 @@ JAGStree,malfly
 jagsUI,kenkellner
 jalcal,jalilian
 JamendoR,maxgreil
+JANE,a1arakkal
 janeaustenr,juliasilge
 janitor,sfirke
 janus,pigian
@@ -11403,6 +11406,7 @@ LorMe,wangnq111
 LOST,jessica-arbour
 lotri,nlmixr2
 lotterybr,tomasbp2
+lovecraftr,sergejruff
 lowmemtkmeans,andrewthomasjones
 lowpassFilter,florianpein
 LowRankQP,johnormerod
@@ -11411,7 +11415,7 @@ LowWAFOMSobol,mersennetwister-lab
 lpacf,adunaic
 LPBkg,salgeri
 lpc,danielawitten
-lpcde,rajitachandak
+lpcde,cran
 LPCM,jeinbeck-code
 lpda,mjnueda
 lpdensity,xinweima
@@ -11693,6 +11697,7 @@ MAPFX,bioc
 MapGAM,smbartell
 mapgl,walkerke
 mapi,spiry34
+mapindia,shubhamdutta26
 mapindiatools,shubhamdutta26
 Mapinguari,gabrielhoc
 mapiso,riatelab
@@ -14392,7 +14397,7 @@ omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,bioc
 omock,ohdsi
-omopgenerics,darwin-eu
+omopgenerics,darwin-eu-dev
 OmopSketch,ohdsi
 OmopViewer,ohdsi
 ompBAM,bioc
@@ -15009,7 +15014,7 @@ pathviewr,ropensci
 pathwayPCA,bioc
 PathwaySpace,sysbiolab
 pathwayTMB,hanjunwei-lab
-PatientProfiles,darwin-eu
+PatientProfiles,darwin-eu-dev
 patientProfilesVis,openanalytics
 patrick,google
 patternator,stathwang
@@ -15276,6 +15281,7 @@ permute,gavinsimpson
 permutes,cvoeten
 permutest,cran
 perplexR,gabrielkaiserqfin
+PerRegMod,slimaneregui
 perry,aalfons
 perryExamples,aalfons
 persDx,yunrochung
@@ -15958,6 +15964,7 @@ powerPLS,angeella
 PowerSDI,gabrielblain
 powerSurvEpi,weiliang
 powerTCR,bioc
+powertools,powerandsamplesize
 PowerTOST,detlew
 PowerUpR,metinbulus
 powRICLPM,jeroendmulder
@@ -17604,6 +17611,7 @@ regplot,rmar073
 regport,shixiangwang
 regr.easy,wagnnerms97
 regrap,cran
+RegrCoeffsExplorer,vadimtyuryaev
 regreplaceR,gwangjinkim
 regress,kbroman
 regressinator,capnrefsmmat
@@ -17784,6 +17792,7 @@ result,soumyaray
 resultant,stla
 ResultModelManager,ohdsi
 resumer,jaredlander
+ReSurv,edhofman
 retel,markean
 rethinker,cran
 rethnicity,fangzhou-xie
@@ -18392,6 +18401,7 @@ robustlm,mamba413
 robustlmm,kollerma
 robustmatrix,cran
 robustmeta,nomahi
+RobustPrediction,yuting-he
 robustrank,youyifong
 RobustRankAggreg,raivokolde
 robustrao,mccalatravamoreno
@@ -19838,13 +19848,13 @@ shadowtext,guangchuangyu
 shannon,imranshakoor
 ShapDoE,lqyang0714
 shape,karlines
-ShapeChange,cran
+ShapeChange,xliaosdsu
 shapefiles,bstabler
 shapeNA,cran
 ShapePattern,cran
 shapeR,lisalibungan
 shapes,iandryden
-ShapeSelectForest,cran
+ShapeSelectForest,xliaosdsu
 SHAPforxgboost,liuyanguu
 shapley,haghish
 ShapleyOutlier,cran
@@ -19956,6 +19966,7 @@ shinyMergely,stla
 shinymeta,rstudio
 shinyMethyl,bioc
 shinymgr,cran
+shinyMixR,richardhooijmaijers
 shinyML,jeanbertinr
 shinyMobile,rinterface
 shinymodels,tidymodels
@@ -19997,7 +20008,7 @@ shinyToastify,stla
 shinytoastr,gaborcsardi
 shinyTree,shinytree
 shinyvalidate,rstudio
-shinyWGD,cran
+shinyWGD,li081766
 shinyWidgets,dreamrs
 ShinyWizard,r3pos
 shinyXYpad,stla
@@ -20282,6 +20293,7 @@ sitools,jonasstein
 sitree,cantonfe
 sitreeE,cantonfe
 sits,e-sensing
+sivirep,epiverse-trace
 sivs,mmahmoudian
 SixSigma,emilopezcano
 SizeEstimation,kwkim89
@@ -20780,7 +20792,7 @@ spatialwidget,symbolixau
 SpatMCA,egpivo
 SpaTopic,xiyupeng
 SpatPCA,egpivo
-spatPomp,kidusasfaw
+spatPomp,spatpomp-org
 SpATS,mxrodriguezuvigo
 spatsoc,ropensci
 spatstat,spatstat
@@ -22126,6 +22138,7 @@ TFHAZ,bioc
 tfhub,rstudio
 tfio,terrytangyuan
 TFisher,wpihongzhang
+TFM,guangbaog
 TFMPvalue,ge11232002
 tfNeuralODE,semran9
 tfplot,r-forge
@@ -23311,6 +23324,7 @@ VDSPCalibration,cran
 vec2dtransf,gacarrillor
 veccompare,jglev
 VeccTMVN,jcatwood
+VecDep,stevendekeyser98
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
@@ -23440,6 +23454,7 @@ visualize,coatless-rpkg
 Visualize.CRAN.Downloads,mponce0
 VisualizeSimon2Stage,tingtingzhan
 visualpred,cran
+visvaR,rameshram96
 visvow,heeringa0
 visxhclust,rhenkin
 vita,cran
