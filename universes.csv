@@ -3314,7 +3314,7 @@ coGPS,bioc
 CohensdpLibrary,dcousin3
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
-CohortCharacteristics,darwin-eu-dev
+CohortCharacteristics,cran
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortGenerator,ohdsi
@@ -5334,7 +5334,7 @@ DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
-DrugUtilisation,darwin-eu-dev
+DrugUtilisation,cran
 DrugVsDisease,bioc
 drumr,jamesmartherus
 DRviaSPCN,hanjunwei-lab
@@ -5682,7 +5682,6 @@ ed50,mousieur-g
 ed50simulation,raulwangfr
 eda4treeR,myaseen208
 EDASeq,bioc
-edbuildmapr,edbuild
 EDCimport,danchaltiel
 edcpR,cran
 eddington,pegeler
@@ -7904,6 +7903,7 @@ GeoThinneR,jmestret
 geotools,antoinelucas64
 geotoolsR,cran
 geotopbricks,ecor
+GeoTox,niehs
 geoTS,cran
 geouy,richdeto
 geovol,cran
@@ -9211,7 +9211,7 @@ hierinf,bioc
 hierNet,jacobbien
 HierPortfolios,ctruciosm
 hierSDR,jaredhuling
-HiGarrote,cran
+HiGarrote,weiyangyu
 highcharter,jbkunst
 highd2means,cran
 highDmean,huaiyuzhang
@@ -9301,6 +9301,7 @@ hmmm,cran
 HMMmlselect,dorminiakao
 HMMpa,rforaita
 hmmr,depmix
+HMMRel,cran
 hmmTMB,theomichelot
 HMP,cran
 HMPTrees,cran
@@ -13700,6 +13701,7 @@ neatStats,gasparl
 nebula,lhe17
 Nebulosa,bioc
 Necklaces,guaseppe
+necountries,ycroissant
 needmining,cran
 needs,joshkatz
 NegativeControlOutcomeAdjustment,wheelerb
@@ -14397,7 +14399,7 @@ omnibus,adamlilith
 OmnibusFisher,cran
 OmnipathR,bioc
 omock,ohdsi
-omopgenerics,darwin-eu-dev
+omopgenerics,cran
 OmopSketch,ohdsi
 OmopViewer,ohdsi
 ompBAM,bioc
@@ -14544,6 +14546,7 @@ optbin,cran
 optBiomarker,mkhondoker
 OptCirClust,joemsong
 optDesignSlopeInt,cran
+OPTeCD,ashutoshdalal97
 optedr,kezrael
 optextras,nashjc
 OptGS,jmswason
@@ -15014,7 +15017,7 @@ pathviewr,ropensci
 pathwayPCA,bioc
 PathwaySpace,sysbiolab
 pathwayTMB,hanjunwei-lab
-PatientProfiles,darwin-eu-dev
+PatientProfiles,cran
 patientProfilesVis,openanalytics
 patrick,google
 patternator,stathwang
@@ -16755,6 +16758,7 @@ quickpsy,danilinares
 quickPWCR,billbillbilly
 quickReg,han-xikun
 quickregression,darshan-maniyar
+quicR,gage1145
 QuICSeedR,cran
 quid,lukasklima
 quiddich,luisekuehn
@@ -17719,6 +17723,7 @@ reportr,jonclayden
 reportReg,marsdu1989
 reportRmd,cran
 reportROC,marsdu1989
+ReportSubtotal,yaboody
 reporttools,numbersman77
 REPPlab,fischuu
 REPPlabShiny,cran
@@ -23629,6 +23634,7 @@ waydown,pabrod
 WayFindR,cran
 waywiser,ropensci
 wbacon,tobiasschoch
+wbids,teal-insights
 wbs,cran
 wbsd,cran
 wbstats,gshs-ornl
