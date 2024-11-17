@@ -515,6 +515,12 @@
     "url": "https://github.com/r-lib/tidyselect"
   },
   {
+    "package": "treesitter.r",
+    "maintainer": "Davis Vaughan <davis@posit.co>",
+    "url": "https://github.com/r-lib/tree-sitter-r",
+    "subdir": "bindings/r"
+  },
+  {
     "package": "tzdb",
     "maintainer": "Davis Vaughan <davis@posit.co>",
     "url": "https://github.com/r-lib/tzdb"
