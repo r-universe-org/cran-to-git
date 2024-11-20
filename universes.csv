@@ -423,7 +423,7 @@ ALFAM2,au-bce-ee
 aLFQ,grosenberger
 alfr,rwetherall
 alfred,onnokleen
-algaeClassify,vppatil
+algaeClassify,cran
 AlgDesign,jvbraun
 AlgebraicHaploPackage,cran
 algo,feddelegrand7
@@ -3895,7 +3895,7 @@ cppRouting,vlarmet
 cpr,dewittpe
 cprobit,nyilin
 cprr,anhoej
-cPseudoMaRg,trb5me
+cPseudoMaRg,tbrown122387
 cpsR,matt-saenz
 cpss,ghwang-nk
 CPsurv,cran
@@ -4074,6 +4074,7 @@ csranks,danielwilhelm
 CSSQ,bioc
 cssTools,denizyenigun
 cstab,jmbh
+CSTE,hwj0828
 cstidy,csids
 cstime,csids
 CSTools,cran
@@ -4354,7 +4355,7 @@ datacleanr,the-hull
 DataCombine,christophergandrud
 dataCompare,seewe
 dataCompareR,capitalone
-datacutr,barnett11
+datacutr,pharmaverse
 datadictionary,doctorbjones
 datadogr,yutannihilation
 datadriftR,ugurdar
@@ -4614,6 +4615,7 @@ DEGreport,bioc
 degross,plambertuliege
 DEGseq,bioc
 DEHOGT,ahshen26
+deident,cran
 dejaVu,jwb133
 Delaporte,aadler
 delayed,tlverse
@@ -5605,6 +5607,7 @@ eCAR,gpage2990
 ecb,expersso
 ecce,chuxinyuan
 Ecdat,sbgraves237
+ecdata,executive-communications-dataset
 ecdfHT,jpnolan
 eCerto,janlisec
 ecespa,cran
@@ -7145,6 +7148,7 @@ forestat,caf-ifrit
 forestControl,aberhrml
 forestdata,cidree
 ForestDisc,hmais
+forestdynR,higuchip
 forestecology,rudeboybert
 forested,simonpcouch
 forestError,benjilu
@@ -8599,7 +8603,7 @@ grabsampling,mayooran1987
 GrabSVG,castleli
 Grace,sen-zhao
 grade,ltjohnson
-gradeR,trb5me
+gradeR,tbrown122387
 graDiEnt,bmgaldo
 gradientPickerD3,peikert
 GrafGen,bioc
@@ -8714,6 +8718,7 @@ gRim,hojsgaard
 grImport,r-forge
 grImport2,r-forge
 GrimR,cran
+GRIN2,abdel-elsayed87
 gripp,jaderlugon
 grizbayr,r-angi
 GRmetrics,bioc
@@ -11056,6 +11061,7 @@ LFDR.MME,empiricalbayes
 LFDREmpiricalBayes,empiricalbayes
 lfe,r-econometrics
 lfl,beerda
+LFM,guangbaog
 lfmm,bcm-uga
 lfproQC,kabilansbio
 lfstat,mundl
@@ -13350,6 +13356,7 @@ multicrispr,bioc
 multid,vjilmari
 MultiDataSet,bioc
 multiDimBio,scarpino
+multiDoE,andreamelloncelli
 multidplyr,tidyverse
 multifamm,alexvolkmann
 multiFANOVA,ls-git-17
@@ -13544,6 +13551,7 @@ MVTests,hsnbulut
 mvtmeta,hanchenphd
 mvtnorm,r-forge
 mvtsplot,rdpeng
+mvvg,cran
 mwa,schuttes
 MWASTools,bioc
 mwcsr,ctlab
@@ -14740,6 +14748,7 @@ outliertree,david-cortes
 outqrf,flystar233
 outreg,kota7
 OUTRIDER,bioc
+OutSeekR,pboutros
 OutSplice,bioc
 OUwie,thej022214
 overdisp,fsrafael25
@@ -15320,7 +15329,7 @@ pfamAnalyzeR,bioc
 pfica,marcvidalbadia
 PFIM,iame-researchcenter
 PFLR,haoluns
-pfr,trb5me
+pfr,tbrown122387
 pg,tmsalab
 pgam,wjunger
 pgca,bioc
@@ -16345,6 +16354,7 @@ psData,ropengov
 PSDistr,cran
 psdr,yhankcheng
 pseudo,kevin444
+pseudobibeR,browndw
 pseudohouseholds,chris31415926535
 pseval,sachsmc
 PSF,neerajdhanraj
@@ -21863,6 +21873,7 @@ TailRank,r-forge
 tailTransform,cran
 taipan,srkobakian
 takos,sere3s
+talkr,mdingemanse
 TAM,alexanderrobitzsch
 tame,laksafoss
 tanaka,riatelab
@@ -23740,6 +23751,7 @@ WhatsR,cran
 whatthreewords,davidasmith
 wheatmap,zwdzwd
 when,josesamos
+where,kiwimateo
 whereami,yonicd
 whereport,gvdr
 whippr,fmmattioni
