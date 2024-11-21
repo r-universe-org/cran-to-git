@@ -246,7 +246,7 @@ AdvBinomApps,cran
 AdvDif4,jaderlugon
 adventr,profandyfield
 adverSCarial,bioc
-AdverseEvents,zacharythompsonmoffitt
+AdverseEvents,dungtsa
 ADVICE,ladantazik
 adw,panfengzhang
 adwave,mpcox
@@ -423,7 +423,7 @@ ALFAM2,au-bce-ee
 aLFQ,grosenberger
 alfr,rwetherall
 alfred,onnokleen
-algaeClassify,cran
+algaeClassify,vppatil
 AlgDesign,jvbraun
 AlgebraicHaploPackage,cran
 algo,feddelegrand7
@@ -1796,6 +1796,7 @@ biotmle,bioc
 biotools,arsilva87
 BioVenn,cran
 biovizBase,bioc
+BioVizSeq,cran
 bipartite,biometry
 bipartiteD3,jcdterry
 BipartiteModularityMaximization,wzhang40
@@ -2638,6 +2639,7 @@ cellscape,bioc
 CellScore,bioc
 celltrackR,jtextor
 CellTrails,bioc
+cellularautomata,cran
 cellVolumeDist,cran
 cellWise,jakobraymaekers
 cellxgenedp,bioc
@@ -2684,6 +2686,7 @@ CeRNASeek,cran
 ceRtainty,arielsotocaro
 Certara.NLME8,certara-jcraig
 Certara.R,certara
+Certara.RsNLME,certara-jcraig
 Certara.VPCResults,certara-jcraig
 ceser,diogoferrari
 cesR,hodgettsp
@@ -7920,6 +7923,7 @@ gepaf,riatelab
 GephiForR,cran
 geppe,cran
 gerbil,michaelwrobbins
+gerda,hhilbig
 gerefer,cran
 GerminaR,flavjack
 germinationmetrics,aravind-j
@@ -8380,7 +8384,7 @@ glmvsd,archer-yang-lab
 glmx,zeileis
 glmxdiag,reealpeppe
 GlobalAncova,bioc
-globalKinhom,cran
+globalKinhom,thomasrshaw
 GlobalOptions,jokergoo
 globalOptTests,cran
 globals,henrikbengtsson
@@ -11543,6 +11547,7 @@ lvmisc,verasls
 lvnet,cran
 lvplot,hadley
 LW1949,jvadams
+lwc2022,c-monaghan
 LWFBrook90R,pschmidtwalter
 lwgeom,r-spatial
 lwqs,cran
@@ -13551,7 +13556,7 @@ MVTests,hsnbulut
 mvtmeta,hanchenphd
 mvtnorm,r-forge
 mvtsplot,rdpeng
-mvvg,cran
+mvvg,samksoon
 mwa,schuttes
 MWASTools,bioc
 mwcsr,ctlab
@@ -14521,6 +14526,7 @@ openMSE,blue-matter
 OpenMx,openmx
 openNLP,kurthornik
 openNLPdata,kurthornik
+OpeNoise,arpapiemonte
 openPrimeR,bioc
 OpenRepGrid,markheckmann
 OpenRepGrid.ic,markheckmann
@@ -16345,6 +16351,7 @@ psbcGroup,cran
 psbcSpeedUp,ocbe-uio
 psborrow,gravesti
 psborrow2,genentech
+psc,richjjackson
 PSCBS,henrikbengtsson
 pscl,atahk
 pscore,jwiley
@@ -16736,6 +16743,7 @@ QuantRegGLasso,egpivo
 quantregGrowth,vitomuggeo
 quantregRanger,philipppro
 quantro,bioc
+quantsig,cran
 quantsmooth,bioc
 quantspec,tobiaskley
 QuantumOps,resc0059
@@ -17765,7 +17773,6 @@ resample,timhesterberg
 resampledata,rudeboybert
 resampledata3,timhesterberg
 resde,ogarciav
-ResearchAssociate,mohmedsoudy
 resemble,l-ramirez-lopez
 reservoir,critical-infrastructure-systems-lab
 reservoirnet,thomasferte
@@ -18893,7 +18900,7 @@ Rthingsboard,ddorch
 rticles,rstudio
 rticulate,stefanocoretta
 rtiddlywiki,byzheng
-rtide,poissonconsulting
+rtide,millerlp
 rties,ebmtnprof
 RTIGER,rfael0cm
 rtika,ropensci
@@ -19152,6 +19159,7 @@ samon,amcderm1
 sampbias,azizka
 sampcompR,bjoernrohr
 sampleClassifier,bioc
+sampledatasets,lightbluetitan
 sampler,mbaldassaro
 sampleSelection,arne-henningsen
 samplesize,shearer
@@ -21676,6 +21684,7 @@ svd,asl
 svDialogs,sciviews
 svDialogstcltk,sciviews
 SVDNF,louiszam
+SVEMnet,akarl46556
 svenssonm,lexizhu
 svglite,r-lib
 svgPanZoom,timelyportfolio
