@@ -1,5 +1,15 @@
 [
   {
+    "package": "bartMachine",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/bartMachine"
+  },
+  {
+    "package": "bartMachineJARs",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/bartMachineJARs"
+  },
+  {
     "package": "fastLogisticRegressionWrap",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/fastlogisticregressionwrap",
@@ -12,10 +22,30 @@
     "subdir": "GreedyExperimentalDesign"
   },
   {
+    "package": "GreedyExperimentalDesignJARs",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/GreedyExperimentalDesignJARs"
+  },
+  {
+    "package": "ICEbox",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/ICEbox"
+  },
+  {
+    "package": "optDesignSlopeInt",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/optDesignSlopeInt"
+  },
+  {
     "package": "OptimalRerandExpDesigns",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/optimalrerandexpdesigns",
     "subdir": "OptimalRerandExpDesigns"
+  },
+  {
+    "package": "PTE",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/PTE"
   },
   {
     "package": "SeqExpMatch",
