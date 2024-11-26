@@ -944,7 +944,7 @@
   },
   {
     "package": "BERT",
-    "maintainer": "Yannis Schumann <schumany@hsu-hh.de>",
+    "maintainer": "Yannis Schumann <yannis.schumann@desy.de>",
     "url": "https://github.com/hsu-hpc/bert",
     "registry": "bioc"
   },
@@ -4157,7 +4157,7 @@
   {
     "package": "fastseg",
     "maintainer": "Alexander Blume <alex.gos90@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/fastseg",
+    "url": "https://github.com/alexg9010/fastseg",
     "registry": "bioc"
   },
   {
@@ -7857,6 +7857,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MotifPeeker",
+    "maintainer": "Hiranyamaya Dash <hdash.work@gmail.com>",
+    "url": "https://github.com/neurogenomics/motifpeeker",
+    "registry": "bioc"
+  },
+  {
     "package": "motifStack",
     "maintainer": "Jianhong Ou <jianhong.ou@duke.edu>",
     "url": "https://github.com/jianhong/motifstack",
@@ -8010,6 +8016,12 @@
     "package": "MSnID",
     "maintainer": "Vlad Petyuk <petyuk@gmail.com>",
     "url": "https://git.bioconductor.org/packages/MSnID",
+    "registry": "bioc"
+  },
+  {
+    "package": "mspms",
+    "maintainer": "Charlie Bayne <baynec2@gmail.com>",
+    "url": "https://github.com/baynec2/mspms",
     "registry": "bioc"
   },
   {
@@ -10145,7 +10157,7 @@
   },
   {
     "package": "recoup",
-    "maintainer": "ERROR",
+    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/recoup",
     "registry": "bioc"
   },
@@ -12130,6 +12142,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SplineDV",
+    "maintainer": "Shreyan Gupta <xenon8778@tamu.edu>",
+    "url": "https://github.com/xenon8778/splinedv",
+    "registry": "bioc"
+  },
+  {
     "package": "splineTimeR",
     "maintainer": "Herbert Braselmann <hbraselmann@online.de>",
     "url": "https://git.bioconductor.org/packages/splineTimeR",
@@ -12173,7 +12191,7 @@
   },
   {
     "package": "SpotSweeper",
-    "maintainer": "Michael Totty <mictott@gmail.com>",
+    "maintainer": "ERROR",
     "url": "https://github.com/mictott/spotsweeper",
     "registry": "bioc"
   },
@@ -13391,6 +13409,12 @@
     "registry": "bioc"
   },
   {
+    "package": "visiumStitched",
+    "maintainer": "Nicholas J. Eagles <nickeagles77@gmail.com>",
+    "url": "https://github.com/lieberinstitute/visiumstitched",
+    "registry": "bioc"
+  },
+  {
     "package": "vissE",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/visse",
@@ -13410,7 +13434,7 @@
   },
   {
     "package": "vsclust",
-    "maintainer": "Veit Schwaemmle <veits@bmb.sdu.dk>",
+    "maintainer": "Veit Schwammle <veits@bmb.sdu.dk>",
     "url": "https://git.bioconductor.org/packages/vsclust",
     "registry": "bioc"
   },
