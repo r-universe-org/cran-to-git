@@ -3323,7 +3323,7 @@ CohensdpLibrary,dcousin3
 cohetsurr,cran
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
-CohortCharacteristics,cran
+CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortGenerator,ohdsi
@@ -4229,6 +4229,7 @@ cxr,radicalcommecol
 cxxfunplus,maverickg
 cyanoFilter,bioc
 cycle,bioc
+cycleRtools,cran
 cyclestreets,cyclestreets
 cyclocomp,gaborcsardi
 cycloids,peterbiber
@@ -4975,6 +4976,7 @@ DirichletMultinomial,bioc
 dirichletprocess,dm13450
 DirichletReg,maiermarco
 dirmcmc,abhirupkgp
+DIRMR,guangbaog
 dirmult,tvedebrink
 DirStats,egarpor
 dirttee,cran
@@ -5727,6 +5729,7 @@ EDIutils,ropensci
 edl,jacolien
 edlibR,evanbiederstedt
 eDMA,cran
+edmcr,great-northern-diver
 edmdata,tmsalab
 EDMeasure,zejin
 eDNAjoint,ropensci
@@ -7863,7 +7866,6 @@ geoFourierFDA,gilberto-sassi
 geoGAM,nussbaummadlene
 geogenr,josesamos
 geogrid,jbaileyh
-geohabnet,garrettlab
 geohashTools,michaelchirico
 geoheatmap,sjwwillems
 geoidep,ambarja
@@ -13455,6 +13457,7 @@ multistateQTL,bioc
 MultiStatM,e-tau
 multitaper,krahim
 multitool,ethan-young
+MultiTraits,cran
 multiUS,mrmarjan
 multivar,zackfisher
 multivariance,bb-diesunddas
@@ -15348,6 +15351,7 @@ PFIM,iame-researchcenter
 PFLR,haoluns
 pfr,tbrown122387
 pg,tmsalab
+PGaGEV,cran
 pgam,wjunger
 pgca,bioc
 pgdraw,cran
@@ -15614,6 +15618,7 @@ placer,cran
 PlackettLuce,hturner
 plainview,r-spatial
 plan,dankelley
+PlaneGeometry,cran
 Planesmuestra,ericksuhel
 planet,bioc
 PlanetNICFI,mlampros
@@ -16486,6 +16491,7 @@ purge,maiermarc
 purgeR,cran
 purging,pdwaggoner
 PurpleAir,cole-brokamp
+PurpleAirAPI,heba-razzak
 purrr,tidyverse
 purrrlyr,hadley
 Pursuit,cran
@@ -16860,7 +16866,6 @@ r2social,oobianom
 r2spss,aalfons
 r2stl,paulnorthrop
 r2sundials,sgsokol
-R2SWF,yixuan
 r2symbols,oobianom
 R2ucare,oliviergimenez
 R2WinBUGS,uligges
@@ -18246,6 +18251,7 @@ rmerec,lucassp
 rmeta,tslumley
 rmetalog,isaacfab
 rmfanova,ls-git-17
+RMFM,feiyoung
 rmgarch,alexiosg
 rmi,cran
 rMIDAS,midasverse
@@ -19564,6 +19570,7 @@ sdpdth,cran
 sdPrior,k-nadja
 sdprisk,baumgrt
 SDPrism2D,zeddshaver
+sdpt3r,cran
 sdrt,tharindupdealwis
 sdsfun,stscl
 SDT,cran
@@ -20488,6 +20495,7 @@ SMME,adam-lund
 smmR,nicolasv-dev
 SMMT,valvaletl
 SMNCensReg,cran
+SMNlmec,kelinzhong
 smof,cran
 smoke,quinsun
 smoof,jakobbossek
@@ -20601,6 +20609,7 @@ softImpute,trevorhastie
 soGGi,bioc
 SOHPIE,cran
 SOIL,archer-yang-lab
+soilassessment,cran
 soilchemistry,bappa10085
 SoilConservation,dionecardoso
 soilDB,ncss-tech
@@ -20824,7 +20833,7 @@ spatialSimGP,bioc
 spatialTIME,fridleylab
 SpatialTools,jfrench
 SpatialVS,yili-hong
-SpatialVx,ericgilleland
+SpatialVx,cran
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
 SpatMCA,egpivo
@@ -21686,6 +21695,7 @@ survSpearman,svetlanaeden
 survstan,fndemarqui
 SurvTrunc,cran
 survtype,bioc
+SUSENAS,mubarakfadhlul
 susieR,stephenslab
 susographql,michael-cw
 SUSY,wtschacher
@@ -22073,6 +22083,7 @@ terminaldigits,cran
 tern,insightsengineering
 tern.gee,insightsengineering
 tern.mmrm,insightsengineering
+tern.rbmi,insightsengineering
 Ternary,ms609
 ternarynet,bioc
 ternvis,cran
