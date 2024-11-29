@@ -2524,7 +2524,7 @@
   },
   {
     "package": "consensusOV",
-    "maintainer": "ERROR",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/consensusov",
     "registry": "bioc"
   },
@@ -8141,7 +8141,7 @@
   {
     "package": "multicrispr",
     "maintainer": "Aditya Bhagwat <aditya.bhagwat@uni-marburg.de>",
-    "url": "https://github.com/loosolab/multicrispr",
+    "url": "https://github.com/bhagwataditya/multicrispr",
     "registry": "bioc"
   },
   {

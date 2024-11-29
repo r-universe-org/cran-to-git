@@ -30,6 +30,11 @@
     "url": "https://github.com/darwin-eu/omopgenerics"
   },
   {
+    "package": "PatientProfiles",
+    "maintainer": "Marti Catala <marti.catalasabate@ndorms.ox.ac.uk>",
+    "url": "https://github.com/darwin-eu/patientprofiles"
+  },
+  {
     "package": "TestGenerator",
     "maintainer": "Cesar Barboza <c.barboza@darwin-eu.org>",
     "url": "https://github.com/darwin-eu/testgenerator"

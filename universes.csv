@@ -1277,6 +1277,7 @@ bayesImageS,mooresm
 BayesKnockdown,bioc
 BayesLCA,itsarthurwhite
 bayesLife,hanase
+bayeslist,cran
 bayeslm,jingyuhe
 BayesLN,agardini
 BayesLogit,jwindle
@@ -5052,7 +5053,7 @@ distfree.cr,zhiqiuhu
 distfreereg,jm-umn
 distfromq,elray1
 distill,rstudio
-distillery,ericgilleland
+distillery,cran
 distillML,forestry-labs
 distinct,bioc
 distinctiveness,iandreafc
@@ -6074,6 +6075,7 @@ epinet,cgroendyke
 epinetr,diondetterer
 EpiNow2,epiforecasts
 epiomics,goodrich-lab
+epiparameterDB,epiverse-trace
 epiphy,chgigot
 EpipwR,bioc
 epiR,cran
@@ -8582,7 +8584,6 @@ GPfit,cran
 gpg,jeroen
 GPGame,vpicheny
 GpGp,joeguinness
-GPIC,phamdn
 gpindex,marberts
 gpk,prabhanjan-tattar
 gpkg,brownag
@@ -9435,6 +9436,7 @@ HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
 HTSeed,hardikghosh911
+HTSeedGLM,hardikghosh911
 HTSeqGenie,bioc
 HTSFilter,bioc
 htsr,p-chevallier
@@ -11240,6 +11242,7 @@ ljr,cran
 LKT,optimal-learning-lab
 llama,larskotthoff
 llbayesireg,rosineide
+LLIC,guangbaog
 LLM,arnoxieseg
 LLMR,asanaei
 llogistic,rosineide
@@ -15053,7 +15056,7 @@ pathviewr,ropensci
 pathwayPCA,bioc
 PathwaySpace,sysbiolab
 pathwayTMB,hanjunwei-lab
-PatientProfiles,cran
+PatientProfiles,darwin-eu
 patientProfilesVis,openanalytics
 patrick,google
 patternator,stathwang
@@ -16815,6 +16818,7 @@ QurvE,nicwir
 qusage,bioc
 Qval,haijiangq
 qvalue,bioc
+qVarSel,stefanobenati
 qvcalc,davidfirth
 qvirus,juanv66x
 qwalkr,vitormarquesr
@@ -18821,6 +18825,7 @@ RSNNS,cbergmeir
 rsnps,ropensci
 rsocialwatcher,worldbank
 RSocrata,chicago
+rsofun,geco-bern
 rsoi,boshek
 Rsolnp,alexiosg
 rsolr,lawremi
@@ -19134,6 +19139,7 @@ saeHB.ME.beta,ratihrodliyah
 saeHB.panel,veliatrimarliana
 saeHB.panel.beta,dianrahmawatisalis
 saeHB.spatial,arinams
+saeHB.twofold,reymath99
 saeHB.unit,alfrzlp
 saeHB.ZIB,rizqinar
 saekernel,wicaksh
@@ -19196,6 +19202,7 @@ samplesizelogisticcasecontrol,wheelerb
 SampleSizeMeans,cran
 SampleSizeProportions,cran
 sampleVADIR,tswanson222
+samplezoo,nvietto
 sampling,alinamateikondylis
 SamplingBigData,jlisic
 samplingbook,jmanitz
@@ -20512,7 +20519,7 @@ smoother,cran
 SmoothHazard,tagteam
 smoothHR,arturstat
 smoothic,meadhbh-oneill
-smoothie,ericgilleland
+smoothie,cran
 smoothmest,chrhennig
 smoothr,mstrimas
 smoothROCtime,cran
@@ -21897,6 +21904,7 @@ tabuSearch,domijan
 tabxplor,bricenocenti
 tacmagic,ropensci
 tactile,jolars
+TAD,lain-inrae
 tada,tadascience
 tadar,bioc
 TADCompare,bioc
@@ -23414,7 +23422,7 @@ vennplot,z267xu
 verbaliseR,cararthompson
 verbalisr,magnusdv
 verhoeff,condwanaland
-verification,ericgilleland
+verification,cran
 vermeulen,ramiromagno
 versioning,cran
 versions,goldingn
@@ -23865,7 +23873,6 @@ WMAP,cran
 wmm,ropensci
 wmwm,yijin-zeng
 wmwpow,cran
-WMWssp,happma
 wnl,cran
 wNNSel,shahlafaisal
 wnominate,jeffreyblewis

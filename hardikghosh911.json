@@ -13,5 +13,10 @@
     "package": "HTSeed",
     "maintainer": "Dr. Himadri Ghosh <hghosh@gmail.com>",
     "url": "https://github.com/cran/HTSeed"
+  },
+  {
+    "package": "HTSeedGLM",
+    "maintainer": "Dr. Himadri Ghosh <hghosh@gmail.com>",
+    "url": "https://github.com/cran/HTSeedGLM"
   }
 ]
