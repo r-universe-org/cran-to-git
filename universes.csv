@@ -1119,6 +1119,7 @@ bandicoot,tengmcing
 bandit,markusloecher
 banditpam,bnaras
 BANDITS,bioc
+banditsCI,uchicago-pol-methods
 bandle,bioc
 bandsfdp,uni-arya
 banffIT,personalizedtransplantcare
@@ -1424,7 +1425,6 @@ bdribs,cran
 bdscale,dvmlls
 bdsmatrix,cran
 bdsvd,cran
-bdvis,vijaybarve
 BDWreg,hamedhm
 BE,cran
 bea.R,us-bea
@@ -6446,7 +6446,7 @@ extremefit,kevinjaunatre
 extremeIndex,maxtailt
 extrememix,manueleleonelli
 ExtremeRisks,simonepadoan
-extRemes,ericgilleland
+extRemes,cran
 extremeStat,brry
 extremevalues,markvanderloo
 extremis,extremestats
@@ -8706,6 +8706,7 @@ GREMLINS,grosssbm
 GRENITS,bioc
 greport,harrelfe
 greta,greta-dev
+greta.censored,mtwesley
 greta.dynamics,greta-dev
 greta.gp,greta-dev
 gretel,davidbuch
@@ -9992,7 +9993,6 @@ INQC,indecis-project
 Inquilab,cran
 insane,mcanouil
 insect,shaunpwilkinson
-insectDisease,viralemergence
 insee,pyr-opendatafr
 insight,easystats
 InSilicoVA,verbal-autopsy-software
@@ -12215,7 +12215,6 @@ metabup,dcahoy
 metacart,github-ms
 metaCCA,bioc
 metaCluster,diprosinha
-metacoder,grunwaldlab
 metacom,taddallas
 MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
@@ -13601,7 +13600,6 @@ mycobacrvR,cran
 mycor,cardiomoon
 myCRAN,barryzee
 mygene,bioc
-myTAI,drostlab
 myvariant,bioc
 mzID,bioc
 mzipmed,ams329
@@ -14282,6 +14280,7 @@ nycflights23,moderndive
 nzelect,ellisp
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
+nzilbb.vowels,nzilbb
 nzpullover,nacnudus
 o2geosocial,alxsrobert
 o2plsda,guokai8
@@ -14558,7 +14557,6 @@ OpenSpecy,wincowgerdev
 openssl,jeroen
 OpenStats,bioc
 OpenStreetMap,ifellows
-OpenTreeChronograms,lunasare
 opentripplanner,ropensci
 openVA,verbal-autopsy-software
 openxlsx,ycphs
@@ -14971,6 +14969,7 @@ ParBayesianOptimization,anothersamwilson
 parcats,erblast
 parcr,systemsbioinformatics
 ParDNAcopy,gsun2018
+PaRe,darwin-eu-dev
 pareg,bioc
 Pareto,ulrichriegel
 ParetoPosStable,ajsaez
@@ -15571,6 +15570,7 @@ pisaRT,cran
 piton,ironholds
 PIUMA,bioc
 pivmet,leoegidi
+PivotalP,karimshehta
 pivotaltrackR,nealrichardson
 pivotea,matutosi
 pivottabler,cbailiss
@@ -15844,6 +15844,7 @@ policytree,cran
 polimetrics,cran
 poliscidata,cran
 polished,tychobra
+PolisheR,cran
 polite,dmi3kno
 politeness,myeomans
 politicsR,silvadenisson
@@ -21291,6 +21292,7 @@ statcheck,michelenuijten
 statcodelists,antaldaniel
 statcomp,cran
 statConfR,manuelrausch
+STATcubeR,statistikat
 StatDA,filzmoserp
 StatDataML,cran
 statebins,hrbrmstr
@@ -23264,6 +23266,7 @@ uwot,jlmelville
 uxr,joe-chelladurai
 V8,jeroen
 vaccine,avi-kenny
+vaccineff,epiverse-trace
 vachette,certara
 vacuum,sielinski
 vader,krgitcode
