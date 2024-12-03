@@ -606,6 +606,7 @@ antanym,ropensci
 antaresEditObject,rte-antares-rpackage
 antaresProcessing,rte-antares-rpackage
 antaresRead,rte-antares-rpackage
+antaresViz,rte-antares-rpackage
 anthro,worldhealthorganization
 anthroplus,worldhealthorganization
 AnthropMMD,frederic-santos
@@ -1690,7 +1691,7 @@ binseqtest,cran
 binsmooth,djhunter
 binspp,tomasmrkvicka
 binsreg,yingjieum
-binst,8bit-pixies
+binst,sourcatlicks
 BINtools,satopaa
 bio.infer,cran
 bio3d,bioboot
@@ -3958,6 +3959,7 @@ cricketr,tvganesh
 CRImage,bioc
 crimCV,cran
 crimedata,mpjashby
+crimedatasets,lightbluetitan
 crimeutils,jacobkap
 crisp,ajpete
 CRISPRball,bioc
@@ -8002,6 +8004,7 @@ gfiUltra,stla
 GFM,feiyoung
 gfonts,dreamrs
 gfoRmula,causalinference
+gfoRmulaICE,cran
 gFormulaMI,jwb133
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
@@ -8863,6 +8866,7 @@ gTestsMulti,cran
 gtexr,rmgpanw
 gtExtras,jthomasmock
 gtexture,rbarkerclarke
+gtfs2emis,ipeagit
 gtfs2gps,ipeagit
 gtfsio,r-transit
 gtfsrouter,urbananalyst
@@ -9698,6 +9702,7 @@ iDINGO,cran
 idiogram,bioc
 idiogramFISH,fernandoroa
 idiolect,andreanini
+IDLFM,skylarliu0529
 idm,amarkos
 idmact,mncube
 idmc,ocha-dap
@@ -9784,6 +9789,7 @@ ijtiff,ropensci
 ilabelled,clewerenz
 illuminaio,bioc
 ILoReg,bioc
+ILRCM,atanubhattacharjee
 ILS,mflores72000
 ILSAmerge,dopatendo
 ILSE,feiyoung
@@ -10982,6 +10988,7 @@ lddmm,cran
 ldhmm,slihn
 LDlinkR,cbiit
 LDM,yijuanhu
+ldmppr,lanedrew
 LDNN,vasileioskarapoulios
 LDRTools,cran
 ldsep,dcgerard
@@ -11711,7 +11718,7 @@ manynet,stocnet
 ManyTests,christianak
 MaOEA,dots26
 maotai,kisungyou
-MAP,jjr1234
+MAP,celehs
 Map2NCBI,lauren-hanna
 MAPA,trnnick
 mapaccuracy,hagc
@@ -12108,6 +12115,7 @@ MED,kcgchan
 MedDataSets,lightbluetitan
 MedDietCalc,miguelmenendezorenga
 mederrRank,cran
+MEDesigns,ashutoshdalal97
 medExtractR,cran
 medfate,emf-creaf
 medfateland,emf-creaf
@@ -15557,6 +15565,7 @@ pipe.design,mikesweeting
 pipebind,bwiernik
 pipeComp,bioc
 pipefittr,sahilseth
+pipeflow,rpahl
 pipeFrame,bioc
 pipeliner,alexioannides
 pipenostics,omega1x
@@ -16961,7 +16970,7 @@ rakeR,philmikejones
 ralger,feddelegrand7
 RALSA,cran
 RamanMP,veronicanava
-Ramble,8bit-pixies
+Ramble,sourcatlicks
 rAmCharts,datastorm-open
 rAmCharts4,stla
 ramchoice,xinweima
@@ -17283,6 +17292,7 @@ RcmdrPlugin.temis,nalimilan
 RcmdrPlugin.UCA,mmm-uca
 RcmdrPlugin.WorldFlora,roelandkindt
 RCMinification,spectrumhan
+RCMsize,marciagraca
 rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
@@ -19172,6 +19182,7 @@ sAIC,cran
 SAIGEgds,bioc
 SailoR,cran
 SAiVE,uo-saive
+SAKERNAS,mubarakfadhlul
 salad,cran
 SALES,knightgu
 salesforcer,stevenmmortimer
@@ -19498,6 +19509,7 @@ scpoisson,yuepan027
 SCpubr,enblacar
 scqe,kirstenlandsiedel
 scquantum,alex-l-m
+scR,cran
 scraEP,jboelaert
 scran,bioc
 scrapeR,mdubeau20
@@ -19853,6 +19865,7 @@ sfcurve,jokergoo
 sfd,topepo
 sfdct,hypertidy
 sfdep,josiahparry
+sffdr,ajbass
 sFFLHD,collinerickson
 sfheaders,dcooley
 sfhotspot,mpjashby
@@ -20541,7 +20554,7 @@ sms,dimitrisk
 sMSROC,cran
 smss,jrnold
 sMTL,gloewing
-smurf,treynkens
+smurf,cran
 SMUT,wjzhong
 SMVar,sblanck
 smvgraph,sigbertklinke
@@ -23012,6 +23025,7 @@ twang,mattcefalu
 twangContinuous,dcoffman
 twangMediation,danielmc1603
 twangRDC,mattcefalu
+twc,imarkonis
 twdtw,vwmaus
 tweeDEseq,bioc
 tweedie,peterkdunn
@@ -23716,6 +23730,7 @@ wconf,cran
 wCorr,american-institutes-for-research
 wcox,vharntzen
 WDI,vincentarelbundock
+wdiEF,cran
 wdm,tnagler
 wdman,ropensci
 wdnet,yelie-yuan
