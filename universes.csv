@@ -1175,6 +1175,7 @@ Basic4Cseq,bioc
 basicdrm,nathanieltwarog
 basicMCMCplots,danielturek
 BASiCS,bioc
+basicspace,christopherdhare
 BASiCStan,bioc
 BasicSTARRseq,bioc
 basictabler,cbailiss
@@ -4077,6 +4078,7 @@ CSHShydRology,cshs-hydrology
 CSIndicators,cran
 csmaps,csids
 CSMES,koendebock
+csmGmm,ryansunwork
 csmpv,ajiangsfu
 csn,cran
 csodata,csoireland
@@ -4607,7 +4609,7 @@ deepSNV,bioc
 DeepTarget,bioc
 deeptime,willgearty
 deeptimedata,willgearty
-deeptrafo,lucaskook
+deeptrafo,neural-structured-additive-learning
 DEET,dustinsokolowski
 DEEVD,jahmadkhan
 default,goldingn
@@ -6275,7 +6277,7 @@ EValue,mayamathur
 evaluomeR,bioc
 evapoRe,akbarr1184
 Evapotranspiration,cran
-EVchargcost,braisgonzalezusc
+EVchargcost,cran
 evclass,cran
 evclust,cran
 EvCombR,cran
@@ -6430,6 +6432,7 @@ exteriorMatch,cran
 extlasso,doer0
 ExtMallows,cran
 extraChIPs,bioc
+extractox,c1au6i0
 ExtractTrainData,subhadipdatta
 extraDistr,twolodzko
 extrafont,wch
@@ -7461,7 +7464,7 @@ fuzzySim,r-forge
 FuzzySimRes,mroman-ibs
 FuzzyStatProb,cran
 FuzzyStatTra,asunlubiano
-FuzzyStatTraEOO,uo270115
+FuzzyStatTraEOO,cran
 FuzzySTs,cran
 fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
@@ -10518,7 +10521,7 @@ jstager,takeshinishimura
 jstor,ropensci
 jsTree,yonicd
 jsTreeR,stla
-JSUparameters,cjclarke98
+JSUparameters,cjclarke258
 jtdm,giopogg
 jti,mlindsk
 jtools,jacob-long
@@ -12194,6 +12197,7 @@ MESS,ekstroem
 messaging,rich-iannone
 messi,umich-cphds
 messina,bioc
+messy,nrennie
 messy.cats,hkarp1
 messydates,globalgov
 Mestim,cran
@@ -13780,7 +13784,7 @@ nestedcv,myles-lewis
 nestedLogit,friendly
 NestedMenu,stla
 nestedmodels,ashbythorpe
-nestedpp,braisgonzalezusc
+nestedpp,cran
 nestfs,mcol
 NestMRMC,didsr
 nestr,emitanaka
@@ -13990,7 +13994,7 @@ NLMR,ropensci
 nlmrt,nashjc
 nlMS,carmefont
 nlnet,cran
-nlopt,braisgonzalezusc
+nlopt,cran
 nloptr,astamm
 NLP,kurthornik
 NLPclient,cran
@@ -17293,6 +17297,7 @@ RcmdrPlugin.UCA,mmm-uca
 RcmdrPlugin.WorldFlora,roelandkindt
 RCMinification,spectrumhan
 RCMsize,marciagraca
+RCNA,cran
 rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
@@ -17827,6 +17832,7 @@ reslife,an-crawford
 reslr,maeveupton
 resmush,dieghernan
 RESOLVE,bioc
+resourcecode,resourcecode-project
 resourcer,obiba
 ResourceSelection,psolymos
 ResPBIBD,cran
@@ -21188,6 +21194,7 @@ ssgraph,rezamoammadi
 ssh,ropensci
 SSHAARP,cran
 Sshaped,ychen101
+sshicm,stscl
 sship,rapporteket
 ssifs,georgiosseitidis
 SSIMmap,hailyee-ha
