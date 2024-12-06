@@ -380,6 +380,7 @@ airportr,dshkol
 airports,openintrostat
 airqualityES,jdieramon
 airr,javh
+airship,el-meyer
 airt,sevvandi
 aiRthermo,cran
 AIscreenR,mikkelvembye
@@ -1265,6 +1266,7 @@ BayesGWQS,mmcarli
 bayesian,hsbadr
 bayesianETAS,gordonjamesross
 BayesianFactorZoo,cran
+BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
 BayesianGLasso,trainorp
 BayesianLaterality,lcbc-uio
@@ -1747,7 +1749,7 @@ BiodiversityR,roelandkindt
 biodosetools,biodosetools-team
 BIOdry,wilarhen
 BioGA,bioc
-biogas,sashahafnerau
+biogas,cran
 biogeom,cran
 biogram,michbur
 biogrowth,albgarre
@@ -5330,6 +5332,7 @@ drgee,drjoze
 drglm,nayemmh
 DRHotNet,albrizre
 drhur,sammo3182
+drhutools,sammo3182
 DriftBurstHypothesis,emilsjoerup
 drifter,modeloriented
 DrillR,dragonitemew
@@ -5619,7 +5622,7 @@ eBsc,lfrm
 EBSEA,bioc
 EBSeq,bioc
 ebTobit,barbehenna
-ebvcube,luisequoss
+ebvcube,ebvcube
 ec50estimator,alvesks
 ecan,matutosi
 eCAR,gpage2990
@@ -5748,6 +5751,7 @@ eds,bioc
 edstan,danielcfurr
 EdSurvey,american-institutes-for-research
 educationdata,urbaninstitute
+educationR,lightbluetitan
 educineq,jordavuc
 edwards97,paleolimbot
 eefAnalytics,germaine86
@@ -6167,6 +6171,7 @@ ergmgp,statnet
 ergmharris,jenineharris
 ergmito,muriteams
 erify,flujoo
+ErlangC,cran
 eRm,pmair78
 erma,bioc
 ern,davidchampredon
@@ -7651,6 +7656,7 @@ GDELTtools,shaptonstahl
 gdi,theropod1
 gdiff,pmur002
 GDILM.ME,ruwanirh
+GDILM.SEIRS,amin-abed
 GDILM.SIR,ruwanirh
 gdim,rohelab
 GDINA,wenchao-ma
@@ -8514,6 +8520,7 @@ goftest,baddstats
 GOfuncR,bioc
 gogarch,bpfaff
 goldfish,stocnet
+GOLDprice,mubarakfadhlul
 golem,thinkr-open
 gomms,cran
 GomoGomonoMi,feddelegrand7
@@ -8914,6 +8921,7 @@ gvc,bquast
 gvcR,myaseen208
 Gviz,bioc
 gvlma,cran
+GVS,bmaitner
 GWalkR,kanaries
 gwaRs,lindonkambule
 GWAS.BAYES,bioc
@@ -9538,7 +9546,7 @@ hypergeo2,zhuxr11
 HypergeoMat,stla
 hypergraph,bioc
 hyperoverlap,matildabrown
-hypersampleplan,cran
+hypersampleplan,xbjxh
 hyperSpec,r-hyperspec
 hypervolume,bblonder
 HYPEtools,rcapell
@@ -9657,6 +9665,7 @@ iCheck,bioc
 ichimoku,shikokuchuo
 iChip,bioc
 iClick,cran
+iclogcondist,cran
 iClusterPlus,bioc
 iClusterVB,abdalkarima
 icmm,vitara-p
@@ -11287,7 +11296,7 @@ lmmpar,fulyagokalp
 LMMsolver,biometris
 LMMstar,bozenne
 LMN,mlysy
-lmodel2,jarioksa
+lmodel2,vegandevs
 LMoFit,mohanad-zaghloul
 lmom,cran
 lmomco,wasquith
@@ -12520,6 +12529,7 @@ miesmuschel,mlr-org
 mifa,teebusch
 mig,lbelzile
 MigConnectivity,smbc-nzp
+MIGEE,atanubhattacharjee
 migest,guyabel
 migraph,stocnet
 migrate,ketchbrookanalytics
@@ -12678,6 +12688,7 @@ mixcure,cran
 mixdir,const-ae
 mixdist,cran
 mixedBayes,kunfa
+mixedbiastest,akarl46556
 mixedCCA,irinagain
 MixedIndTests,bouchranasri
 MixedLevelRSDs,ashutoshdalal97
@@ -17056,6 +17067,7 @@ RANN,jefferislab
 Rapi,datarapi
 rapiclient,bergant
 RApiDatetime,eddelbuettel
+RapidFuzz,strategicprojects
 rapidjsonr,cran
 rapidoc,meztez
 RapidoPGS,grealesm
@@ -17554,6 +17566,7 @@ RecAssoRules,louisraimbault
 receptiviti,receptiviti
 receptLoss,bioc
 recexcavAAR,isaakiel
+recforest,cran
 rechaRge,gwrecharge
 rechonest,mukul13
 recipes,tidymodels
@@ -17583,6 +17596,7 @@ recount,bioc
 recount3,bioc
 recountmethylation,bioc
 recoup,bioc
+rectpacker,coolbutuseless
 recurrentpseudo,juliekfurberg
 recurse,cbracis
 red,vascobranco
@@ -17647,6 +17661,7 @@ RegAssure,nrubiog
 regclass,profpetrie
 RegCombin,cran
 regda,cran
+RegDDM,biorabbit
 regDIF,wbelzak
 RegEnrich,bioc
 REGENT,djmcrouch
@@ -18432,6 +18447,7 @@ robomit,seschaub
 robotoolbox,dickoa
 robotstxt,ropensci
 RobPer,cran
+robqda,cran
 robreg3S,cran
 robregcc,amishra-stats
 RobRegression,godichon-baggioni
