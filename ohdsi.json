@@ -95,6 +95,11 @@
     "url": "https://github.com/ohdsi/parallellogger"
   },
   {
+    "package": "PhenotypeR",
+    "maintainer": "Edward Burn <edward.burn@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/phenotyper"
+  },
+  {
     "package": "ResultModelManager",
     "maintainer": "Jamie Gilbert <gilbert@ohdsi.org>",
     "url": "https://github.com/ohdsi/resultmodelmanager"
