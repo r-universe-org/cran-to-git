@@ -1,5 +1,10 @@
 [
   {
+    "package": "depower",
+    "maintainer": "Brett Klamer <code@brettklamer.com>",
+    "url": "https://bitbucket.org/bklamer/depower"
+  },
+  {
     "package": "rankdifferencetest",
     "maintainer": "Brett Klamer <code@brettklamer.com>",
     "url": "https://github.com/cran/rankdifferencetest"
