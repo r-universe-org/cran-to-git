@@ -1003,6 +1003,7 @@ autoTS,vivienroussez
 autovi,tengmcing
 AutoWeatherIndices,cran
 AutoWMM,malfly
+AuxSurvey,zjg540066169
 av,ropensci
 available,r-lib
 avar,smac-group
@@ -3030,7 +3031,7 @@ ClickClust,cran
 ClickClustCont,cran
 ClickHouseHTTP,patzaw
 clickR,david-hervas
-clickstream,cran
+clickstream,michael-scholz-dev
 clidamonger,iwugermany
 clidatajp,matutosi
 cliff,randy3k
@@ -5362,7 +5363,7 @@ DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
-DrugUtilisation,cran
+DrugUtilisation,darwin-eu
 DrugVsDisease,bioc
 drumr,jamesmartherus
 DRviaSPCN,hanjunwei-lab
@@ -6424,7 +6425,7 @@ export,tomwenseleers
 ExPosition,derekbeaton
 ExposR,expos-model
 expowo,dboslab
-expperm,cran
+expperm,benowell
 ExpRep,cran
 ExpressionAtlas,bioc
 expSBM,riccardorastelli
@@ -7014,6 +7015,7 @@ flexOR,martaaaa
 FlexParamCurve,cran
 flexpolyline,munterfi
 FlexReg,cran
+FlexRL,amscausality
 flexrsurv,grzebyk
 FlexScan,marsdu1989
 flexsiteboard,struckma
@@ -8020,6 +8022,7 @@ gfoRmulaICE,cran
 gFormulaMI,jwb133
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
+gg1d,selkamand
 gg4way,bioc
 ggalign,yunuuuu
 ggaligner,mohmedsoudy
@@ -9539,7 +9542,7 @@ hyper.fit,asgr
 hyper2,robinhankin
 hyperbolicDEA,alexanderoe
 HyperbolicDist,dsco036
-hypercube,cran
+hypercube,michael-scholz-dev
 hyperdraw,bioc
 HyperG,dmarchette
 hypergate,cran
@@ -11270,7 +11273,7 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
-lmap,mjderooij
+lmap,cran
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -13443,6 +13446,7 @@ multiMiR,bioc
 multimix,jmcurran
 MultimodalExperiment,bioc
 multimode,jose-ameijeiras
+multimolang,daedaluslab
 multimorbidity,wyattbensken
 multiness,peterwmacd
 multinet,magnanim
@@ -14984,6 +14988,7 @@ parameters,easystats
 paramGUI,glotaran
 ParamHelpers,mlr-org
 paramhetero,tloux
+paramix,cmmid
 paramlink,magnusdv
 paramlink2,magnusdv
 params,sahilseth
@@ -17704,7 +17709,7 @@ regrrr,rkzyang
 regRSM,cran
 RegSDC,olangsrud
 regsem,rjacobucci
-regspec,cran
+regspec,benowell
 regsplice,bioc
 regsubseq,diystat
 regtomean,infinitomagico
@@ -19157,7 +19162,6 @@ sabre,nowosad
 sac,cran
 saccadr,alexander-pastukhov
 SACCR,sa-ccr
-sacRebleu,lazerlambda
 sad,s6sebusc
 SADEG,cran
 SADISA,rsetienne
@@ -19344,6 +19348,7 @@ SBmedian,kisungyou
 SBMLR,bioc
 sbmSDP,aaamini
 SBMSplitMerge,ludkinm
+SBMTrees,zjg540066169
 SBN,flee598
 sbo,vgherard
 sboost,jadonwagstaff
@@ -20846,7 +20851,6 @@ SpatGC,mahsanst
 spatgeom,maikol-solis
 spatgraphs,antiphon
 SpatGRID,cran
-spathial,cran
 spaths,cdueben
 spatial,cran
 SpatialAcc,cran
@@ -21701,6 +21705,7 @@ SurveyDefense,cran
 surveydown,surveydown-dev
 surveyexplorer,liamhaller
 surveygraph,surveygraph
+surveynnet,237triangle
 surveyplanning,csblatvia
 surveyPrev,richardli
 surveysd,statistikat
@@ -22500,6 +22505,7 @@ tintin,pachadotdev
 tinyarray,xjsun1221
 tinycodet,tony-aw
 tinylabels,mariusbarth
+tinylens,arbelt
 tinyplot,grantmcdermott
 tinyProject,francoisguillem
 tinyscholar,shixiangwang
@@ -22588,7 +22594,6 @@ TOC,amsantac
 todor,dokato
 togglr,thinkr-open
 TOHM,salgeri
-tok,mlverse
 tokenbrowser,kasperwelbers
 tokenizers,ropensci
 tokenizers.bpe,bnosac
@@ -23019,6 +23024,7 @@ tuckerR.mmgg,gusart
 TUFLOWR,matt-s-gibbs
 tufte,rstudio
 tufterhandout,sachsmc
+tugboat,dmolitor
 TukeyC,jcfaria
 TukeyGH77,tingtingzhan
 TukeyRegion,pavlomozharovskyi
@@ -23696,6 +23702,7 @@ wand,hrbrmstr
 WAnova,cran
 warabandi,harry-maan
 warbleR,marce10
+warehouseTools,a-dudek-ue
 WARN,tsutatsuta
 warp,davisvaughan
 warpMix,cran
@@ -23942,7 +23949,7 @@ wordler,davidasmith
 WordListsAnalytics,smorenoa
 wordmap,koheiw
 wordnet,kurthornik
-WordOfMouth,cran
+WordOfMouth,michael-scholz-dev
 wordpiece,macmillancontentscience
 wordpiece.data,macmillancontentscience
 WordPools,friendly
