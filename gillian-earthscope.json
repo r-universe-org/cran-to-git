@@ -6,6 +6,11 @@
     "registry": "archived"
   },
   {
+    "package": "IRISSeismic",
+    "maintainer": "Gillian Sharer <gillian.sharer@earthscope.org>",
+    "url": "https://github.com/cran/IRISSeismic"
+  },
+  {
     "package": "seismicRoll",
     "maintainer": "Gillian Sharer <gillian.sharer@earthscope.org>",
     "url": "https://github.com/cran/seismicRoll"

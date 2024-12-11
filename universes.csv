@@ -2869,7 +2869,7 @@ choroplethr,arilamstein
 choroplethrAdmin1,arilamstein
 choroplethrMaps,arilamstein
 chouca,alexgenin
-christmas,jobago
+christmas,cran
 chromConverter,ethanbass
 chromDraw,bioc
 chromer,ropensci
@@ -3000,6 +3000,7 @@ ClassifyR,bioc
 classInt,r-spatial
 classmap,jakobraymaekers
 CLAST,chrislloyd58
+clc,josesamos
 cld2,ropensci
 cld3,ropensci
 clda,cran
@@ -4465,6 +4466,7 @@ dbglm,cran
 DBHC,gabybudel
 dbhydroR,ropensci-archive
 DBI,r-dbi
+dbi.table,kjellpk
 DBItest,r-dbi
 dblcens,yfyang86
 dBlockmodeling,aleszib
@@ -4854,7 +4856,6 @@ dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
 dhis2r,amanyiraho
-dhlabR,cran
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
@@ -6685,6 +6686,7 @@ FaultTree,jto888
 faux,debruine
 fauxnaif,rossellhayes
 fauxpas,sckott
+FAVA,maikemorrison
 FAVAR,common2016
 favawesome,shinyworks
 faviconPlease,jdblischak
@@ -8290,6 +8292,7 @@ gifti,muschellij2
 GIFTr,omarashkar
 gigg,umich-cphds
 GIGrvg,jleydold
+gigs,ropensci
 GIGSEA,bioc
 GillespieSSA,rcannood
 GillespieSSA2,rcannood
@@ -9456,6 +9459,7 @@ htrSPRanalysis,janice-mccarthy
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
+htsDegenerateR,lsteinmeister
 HTSeed,hardikghosh911
 HTSeedGLM,hardikghosh911
 HTSeqGenie,bioc
@@ -10221,7 +10225,7 @@ IRexamples,vinhdizzo
 irg,robitalec
 IrishDirectorates,riccardorastelli
 IRISMustangMetrics,gillian-earthscope
-IRISSeismic,cran
+IRISSeismic,gillian-earthscope
 IRkernel,irkernel
 irlba,bwlewis
 iRoCoDe,raajash
@@ -11273,7 +11277,7 @@ llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
 lm.br,cran
-lmap,cran
+lmap,mjderooij
 lmboot,meganheyman
 LMD,shubhra-opensource
 lmDiallel,onofriandreapg
@@ -13072,6 +13076,7 @@ moodef,josesamos
 moodlequizR,wolfgangrolke
 moodleR,chi2labs
 moonBook,cardiomoon
+moonboot,cdalitz
 Moonlight2R,bioc
 MoonlightR,bioc
 moose,carohlfs
@@ -13085,7 +13090,6 @@ morestopwords,fatelarico
 morph,cran
 morphemepiece,macmillancontentscience
 morphemepiece.data,macmillancontentscience
-morpheus,yagu0
 Morpho,zarquon42b
 morphomap,aprofico
 MorphoRegions,aagillet
@@ -13352,7 +13356,6 @@ MTLR,haiderstats
 MTPS,ubclxing
 MtreeRing,ropensci
 MTS,rtsay1
-mtscr,jakub-jedrusiak
 mtsdi,wjunger
 mtsta,paulesantos
 MTSYS,okayaa
@@ -14412,6 +14415,7 @@ oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
 OHCSpackage,idmorley
+OhdsiShinyAppBuilder,jreps
 ohenery,shabbychef
 Ohit,cran
 oHMMed,lynettecaitlin
@@ -14480,6 +14484,7 @@ onbrand,john-harrold
 onc.api,cran
 once,gdmcdonald
 OncoBayes2,weberse2
+OncoDataSets,lightbluetitan
 Oncofilterfast,cran
 oncomix,bioc
 oncomsm,boehringer-ingelheim
@@ -14563,6 +14568,7 @@ opendotaR,karigunnarsson
 openEBGM,johnihrie
 openeo,open-eo
 openFDA,simpar1471
+opengraph,christopherkenny
 OpEnHiMR,diprosinha
 OpenImageR,mlampros
 openintro,openintrostat
@@ -22758,6 +22764,7 @@ TransPhylo,xavierdidelot
 transplantr,johnasher
 transPlotR,junjunlab
 transport,dschuhmacher
+TransProR,sssydysss
 transreg,rauschenberger
 TransTGGM,cran
 tranSurv,stc04003
