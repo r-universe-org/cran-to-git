@@ -4521,6 +4521,12 @@
     "registry": "bioc"
   },
   {
+    "package": "G4SNVHunter",
+    "maintainer": "Rongxin Zhang <rongxinzhang@outlook.com>",
+    "url": "https://github.com/rongxinzh/g4snvhunter",
+    "registry": "bioc"
+  },
+  {
     "package": "GA4GHclient",
     "maintainer": "Welliton Souza <well309@gmail.com>",
     "url": "https://github.com/labbcb/ga4ghclient",

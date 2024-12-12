@@ -239,6 +239,7 @@ adproclus,henry-heppe
 adpss,ca4wa
 ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
+ADSIHT,cran
 adSplit,bioc
 ADTSA,leilamarvian
 AdvancedBasketballStats,cran
@@ -3085,7 +3086,6 @@ clock,r-lib
 clockify,datawookie
 clogitboost,haoluns
 clogitL1,cran
-clogitLasso,mavalosf
 Clomial,bioc
 cloneRate,bdj34
 CloneSeeker,cran
@@ -3525,6 +3525,7 @@ concorR,atraxlab
 concstats,ropensci
 CONCUR,sth1402
 cond,arbrazzale
+condathis,luciorq
 CondCopulas,alexisderumigny
 condensr,mikelydeamore
 condformat,zeehio
@@ -3998,6 +3999,7 @@ crone,cran
 cronologia,feddelegrand7
 cronR,bnosac
 crop,mariushofert
+CropBreeding,prity-ai
 cropcircles,doehm
 cropdatape,omarbenites
 cropDemand,filgueirasr
@@ -5210,7 +5212,7 @@ doebioresearch,popatraj
 DOEM,cran
 DoEstRare,cran
 doex,mcavs
-doFuture,henrikbengtsson
+doFuture,futureverse
 dogesr,jj
 doMC,beccadaniel
 dominanceanalysis,clbustos
@@ -6122,7 +6124,6 @@ eply,wlandau
 epm,ptitle
 epmrob,cran
 epo,reckziegel
-epoc,cran
 epocakir,alwinw
 eponge,krzjoa
 epos,bernd-mueller
@@ -6651,6 +6652,7 @@ fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
 FastPCS,kvak
+fastPLS,cran
 fastplyr,nicchr
 fastpng,coolbutuseless
 fastpos,johannes-titz
@@ -7449,10 +7451,10 @@ futile.options,cran
 futility,mjuraska
 future,futureverse
 future.apply,futureverse
-future.batchtools,henrikbengtsson
-future.callr,henrikbengtsson
+future.batchtools,futureverse
+future.callr,futureverse
 future.mirai,futureverse
-future.tests,henrikbengtsson
+future.tests,futureverse
 futureverse,henrikbengtsson
 fuzzr,mdlincoln
 Fuzzy.p.value,cran
@@ -7493,6 +7495,7 @@ g.data,cran
 g.ridge,cran
 G2Sd,reg-gallon
 g3viz,g3viz
+G4SNVHunter,bioc
 GA,luca-scr
 GA4GHclient,bioc
 GA4GHshiny,bioc
@@ -8423,7 +8426,7 @@ GlobalAncova,bioc
 globalKinhom,thomasrshaw
 GlobalOptions,jokergoo
 globalOptTests,cran
-globals,henrikbengtsson
+globals,futureverse
 globalSeq,bioc
 globaltest,bioc
 globaltrends,ha-pu
@@ -10913,7 +10916,6 @@ LassoBacktracking,rajenshah
 LassoGEE,liygcr
 LassoNet,jstriaukas
 lassopv,lingfeiwang
-lassoshooting,cran
 LassoSIR,zhaozhg81
 latcontrol,cran
 latdiag,deweyme
@@ -11249,7 +11251,7 @@ listarrays,t-kalinowski
 listcomp,dirkschumacher
 listcompr,patrickroocks
 listdown,kaneplusplus
-listenv,henrikbengtsson
+listenv,futureverse
 LIStest,cran
 listr,cran
 listviewer,timelyportfolio
@@ -11676,6 +11678,7 @@ MAI,bioc
 maic,heorltd
 maicChecks,l-yau
 maicplus,hta-pharma
+MAICtools,cran
 mailchimpR,pablosanmar
 mailmerge,andrie
 mailR,rpremrajgit
@@ -18756,7 +18759,6 @@ rr,graemeblair
 rr2,arives
 Rramas,cran
 rrandvec,jakobbossek
-rRAP,piomonti
 rrapply,jorischau
 rrat,cran
 RRate,cran
@@ -19329,6 +19331,7 @@ satellite,environmentalinformatics-marburg
 satin,hvillalo
 satres,josesamos
 satuRn,bioc
+SaturnCoefficient,davidechicco
 saturnin,loicschwaller
 SAutomata,cran
 SAVER,mohuangx
@@ -20050,7 +20053,7 @@ shinyfilter,jsugarelli
 shinyfullscreen,etiennebacher
 shinyGizmo,krystian8207
 shinyglide,juba
-shinyGovstyle,moj-analytical-services
+shinyGovstyle,dfe-analytical-services
 shinyHeatmaply,yonicd
 shinyhelper,cwthom
 shinyhttr,curso-r
@@ -21626,6 +21629,7 @@ sumR,guidoamoreira
 sumSome,annavesely
 sunburstR,timelyportfolio
 suncalc,datastorm-open
+SunCalcMeeus,aphalo
 Sunclarco,cran
 sundialr,sn248
 SUNGEO,zhukovyuri
@@ -22588,6 +22592,7 @@ tmvmixnorm,cran
 tmvnsim,cran
 tmvtnorm,stefanwilhelm
 tmvtnsim,kaifenglu
+tna,sonsoleslp
 TNC,cran
 tnet,toreopsahl
 tnl.Test,ihababusaif
@@ -22783,6 +22788,7 @@ treasury,m-muecke
 TreatmentPatterns,darwin-eu
 TreatmentSelection,mdbrown
 treats,tguillerme
+TREDesigns,ashutoshdalal97
 tree,cran
 tree.interpreter,nalzok
 tree3d,tylermorganwall
@@ -23966,6 +23972,7 @@ WordR,tomashovorka
 words,condwanaland
 wordsalad,emilhvitfeldt
 wordspace,r-forge
+wordvector,koheiw
 workflowr,workflowr
 workflows,tidymodels
 workflowsets,tidymodels

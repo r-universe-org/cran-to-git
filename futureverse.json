@@ -1,5 +1,10 @@
 [
   {
+    "package": "doFuture",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/dofuture"
+  },
+  {
     "package": "future",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/future"
@@ -10,9 +15,34 @@
     "url": "https://github.com/futureverse/future.apply"
   },
   {
+    "package": "future.batchtools",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future.batchtools"
+  },
+  {
+    "package": "future.callr",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future.callr"
+  },
+  {
     "package": "future.mirai",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/future.mirai"
+  },
+  {
+    "package": "future.tests",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future.tests"
+  },
+  {
+    "package": "globals",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/globals"
+  },
+  {
+    "package": "listenv",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/listenv"
   },
   {
     "package": "parallelly",

@@ -35,39 +35,9 @@
     "url": "https://github.com/henrikbengtsson/dchipio"
   },
   {
-    "package": "doFuture",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/dofuture"
-  },
-  {
-    "package": "future.batchtools",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.batchtools"
-  },
-  {
-    "package": "future.callr",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.callr"
-  },
-  {
-    "package": "future.tests",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.tests"
-  },
-  {
     "package": "futureverse",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/cran/futureverse"
-  },
-  {
-    "package": "globals",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/globals"
-  },
-  {
-    "package": "listenv",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/listenv"
   },
   {
     "package": "matrixStats",
