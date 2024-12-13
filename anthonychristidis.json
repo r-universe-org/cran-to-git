@@ -12,7 +12,8 @@
   {
     "package": "PSGD",
     "maintainer": "Anthony Christidis <anthony.christidis@stat.ubc.ca>",
-    "url": "https://github.com/anthonychristidis/psgd"
+    "url": "https://github.com/anthonychristidis/psgd",
+    "registry": "archived"
   },
   {
     "package": "RMSS",
@@ -67,6 +68,7 @@
   {
     "package": "stepSplitReg",
     "maintainer": "Anthony Christidis <anthony.christidis@stat.ubc.ca>",
-    "url": "https://github.com/anthonychristidis/stepsplitreg"
+    "url": "https://github.com/anthonychristidis/stepsplitreg",
+    "registry": "archived"
   }
 ]

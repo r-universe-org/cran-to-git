@@ -1,5 +1,10 @@
 [
   {
+    "package": "pprof",
+    "maintainer": "Xiaohan Liu <xhliuu@umich.edu>",
+    "url": "https://github.com/um-kevinhe/pprof"
+  },
+  {
     "package": "surtvep",
     "maintainer": "Lingfeng Luo <lfluo@umich.edu>",
     "url": "https://github.com/um-kevinhe/surtvep"

@@ -726,7 +726,6 @@ ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
 arcgisgeocode,r-arcgis
 arcgislayers,r-arcgis
-arcgisplaces,josiahparry
 arcgisutils,r-arcgis
 ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
@@ -3580,6 +3579,7 @@ CoNI,jmanuelmk
 conicfit,cran
 Conigrave,conig
 conjoint,cran
+ConjointChecks,ben-domingue
 conjurer,sidharthmacherla
 conleyreg,cdueben
 conmet,cran
@@ -7523,7 +7523,6 @@ galts,jbytecode
 galvanizer,jonlinca
 gam,trevorhastie
 gam.hp,laijiangshan
-GaMaBioMD,sandipgarai
 gamair,cran
 gambin,txm676
 gamblers.ruin.gameplay,roy-sr-007
@@ -10970,7 +10969,7 @@ lbfgsb3c,nlmixr2
 LBI,cran
 lbm,zhuchao0228
 lboxcox,ubclxing
-LBPG,cran
+LBPG,kittipong8888
 lbreg,cran
 LBSPR,adrianhordyk
 LCA,edcurry
@@ -12092,7 +12091,7 @@ mde,nelson-gon
 mded,cran
 MDEI,ratkovic
 mdendro,albyfs
-MDFS,cran
+MDFS,yoctozepto
 mdftracks,burgerga
 mdgc,boennecd
 mdhglm,msnoh1
@@ -13095,6 +13094,7 @@ morphemepiece,macmillancontentscience
 morphemepiece.data,macmillancontentscience
 Morpho,zarquon42b
 morphomap,aprofico
+moRphomenses,clancylabuiuc
 MorphoRegions,aagillet
 Morphoscape,blakedickson
 MorphoTools2,marekslenker
@@ -13194,7 +13194,6 @@ Mqrcm,cran
 mr.pivw,siqixu
 mr.raps,qingyuanzhao
 MR.RGM,bitansa
-mra,tmcd82070
 mratios,cran
 mrbayes,okezie94
 mrbin,kleinomicslab
@@ -13359,6 +13358,7 @@ MTLR,haiderstats
 MTPS,ubclxing
 MtreeRing,ropensci
 MTS,rtsay1
+mtscr,jakub-jedrusiak
 mtsdi,wjunger
 mtsta,paulesantos
 MTSYS,okayaa
@@ -14688,6 +14688,7 @@ ordbetareg,saudiwin
 OrdCD,nystat
 ordcrm,cran
 ordDisp,jmober
+orderanalyzer,michael-scholz-dev
 OrderedList,bioc
 ordering,decisionpatterns
 orderly,vimc
@@ -15397,7 +15398,7 @@ PFIM,iame-researchcenter
 PFLR,haoluns
 pfr,tbrown122387
 pg,tmsalab
-PGaGEV,cran
+PGaGEV,kittipong8888
 pgam,wjunger
 pgca,bioc
 pgdraw,cran
@@ -16083,6 +16084,7 @@ PPQplan,allenzhuaz
 ppRank,iagoac
 ppRep,samch93
 PPRL,germanrecordlinkage
+pprof,um-kevinhe
 pps,jack-gambino
 ppsbm,daphnegiorgi
 ppseq,zabore
@@ -22014,6 +22016,7 @@ tatest,yuande
 tatoo,statistikat
 tau,kurthornik
 tauProcess,s07308
+TauStar,karchjd
 tauturri,jemus42
 taxa,ropensci
 taxadb,ropensci

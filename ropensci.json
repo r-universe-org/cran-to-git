@@ -986,12 +986,6 @@
     "url": "https://github.com/ropensci/taxadb"
   },
   {
-    "package": "taxize",
-    "maintainer": "",
-    "url": "https://github.com/ropensci/taxize",
-    "registry": "archived"
-  },
-  {
     "package": "taxlist",
     "maintainer": "Miguel Alvarez <kamapu78@gmail.com>",
     "url": "https://github.com/ropensci/taxlist"
@@ -1050,12 +1044,6 @@
     "package": "tradestatistics",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
     "url": "https://github.com/ropensci/tradestatistics"
-  },
-  {
-    "package": "traits",
-    "maintainer": "David LeBauer <dlebauer@gmail.com>",
-    "url": "https://github.com/ropensci/traits",
-    "registry": "archived"
   },
   {
     "package": "treebase",
