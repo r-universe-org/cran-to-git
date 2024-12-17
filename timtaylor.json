@@ -7,7 +7,8 @@
   {
     "package": "super",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
-    "url": "https://github.com/timtaylor/super"
+    "url": "https://github.com/timtaylor/super",
+    "subdir": "pkg"
   },
   {
     "package": "ympes",
