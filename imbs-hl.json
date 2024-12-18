@@ -1,5 +1,10 @@
 [
   {
+    "package": "fuseMLR",
+    "maintainer": "Cesaire J. K. Fouodo <cesaire.kuetefouodo@uni-luebeck.de>",
+    "url": "https://github.com/imbs-hl/fusemlr"
+  },
+  {
     "package": "ranger",
     "maintainer": "Marvin N. Wright <cran@wrig.de>",
     "url": "https://github.com/imbs-hl/ranger"
