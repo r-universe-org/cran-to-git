@@ -1,5 +1,10 @@
 [
   {
+    "package": "BAREB",
+    "maintainer": "Qingyang Liu <rh8liuqy@gmail.com>",
+    "url": "https://github.com/cran/BAREB"
+  },
+  {
     "package": "GUD",
     "maintainer": "Qingyang Liu <qingyang@email.sc.edu>",
     "url": "https://github.com/rh8liuqy/bayesian_modal_regression"

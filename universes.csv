@@ -156,6 +156,7 @@ ADAPTS,sdanzige
 adaptsmoFMRI,cran
 adaptTest,marc-vdmb
 adaR,gesistsa
+adas.utils,pbosetti
 AdaSampling,pyanglab
 adass,unina-sfere
 adbcdrivermanager,apache
@@ -1145,6 +1146,7 @@ baRcodeR,ropensci
 barcodetrackR,bioc
 BarcodingR,zhangab2008
 bardr,wzbillings
+BAREB,rh8liuqy
 bark,merliseclyde
 Barnard,kerguler
 barrks,jjentschke
@@ -2475,6 +2477,7 @@ cat2cat,polkas
 cata,jcc9
 catalog,nathaneastwood
 CATALYST,bioc
+catalytic,cran
 CatastRo,ropenspain
 catch,yuqingxx
 catcont,decisionpatterns
@@ -7448,7 +7451,7 @@ funtimes,vlyubchich
 funtooNorm,bioc
 FunWithNumbers,cran
 furniture,tysonstanley
-furrr,davisvaughan
+furrr,futureverse
 fusedMGM,jaehyunparkbiostat
 fuseMLR,imbs-hl
 fusen,thinkr-open
@@ -19190,7 +19193,6 @@ saasCNV,zhangzhongyang16
 sabre,nowosad
 sac,cran
 saccadr,alexander-pastukhov
-SACCR,sa-ccr
 sad,s6sebusc
 SADEG,cran
 SADISA,rsetienne
@@ -19740,7 +19742,7 @@ seismicRoll,gillian-earthscope
 sejmRP,mi2-warsaw
 Sejong,haven-jeon
 SEL,bbnkmp
-selcorr,cran
+selcorr,mcunibas
 Select,cran
 selectapref,jcrichardson617
 SelectBoost,fbertran
@@ -20050,6 +20052,7 @@ shinyBS,ebailey78
 shinybusy,dreamrs
 shinyChakraSlider,stla
 shinyChakraUI,stla
+shinychat,jcheng5
 shinyChatR,julianschmocker
 shinyCohortBuilder,r-world-devs
 shinyCox,harryc598
@@ -20803,6 +20806,7 @@ spam64,reinhardfurrer
 spaMM,f-rousset
 Spaniel,bioc
 spanish,ropenspain
+spanishoddata,ropenspain
 SpaNorm,bioc
 spANOVA,lrcastro
 spant,martin3141
@@ -21081,6 +21085,7 @@ SPLICE,agi-lab
 SpliceWiz,bioc
 SplicingFactory,bioc
 SplicingGraphs,bioc
+splineCox,ren1227
 SplineDV,bioc
 splines2,wenjie2wang
 splineTimeR,bioc
@@ -22035,6 +22040,7 @@ tashu,zeee1
 tastypie,paolodalena
 tatest,yuande
 tatoo,statistikat
+tatooheene,stijnbpeeters
 tau,kurthornik
 tauProcess,s07308
 TauStar,karchjd
@@ -22742,7 +22748,6 @@ tradepolicy,pachadotdev
 TRADER,pavel-fibich
 tradeSeq,bioc
 tradestatistics,ropensci
-Trading,sa-ccr
 TrafficBDE,okgreece
 trafo,akreutzmann
 traineR,promidat
@@ -24170,7 +24175,6 @@ xts,joshuaulrich
 xtsum,macosso
 xtune,jingxuanh
 xutils,fangzhou-xie
-xVA,xvacode
 XVector,bioc
 xwf,willemvandenboom
 xxdi,nilabhrardas

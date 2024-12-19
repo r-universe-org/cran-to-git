@@ -5,6 +5,11 @@
     "url": "https://github.com/futureverse/dofuture"
   },
   {
+    "package": "furrr",
+    "maintainer": "Davis Vaughan <davis@rstudio.com>",
+    "url": "https://github.com/futureverse/furrr"
+  },
+  {
     "package": "future",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/future"
