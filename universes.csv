@@ -1843,6 +1843,7 @@ bitops,mmaechler
 BiTrinA,hkestler
 bittermelon,trevorld
 Bivariate.Pareto,cran
+bivariateLeaflet,maduprey
 bivariatemaps,hidasi
 BivGeo,ricardopuziol
 bivgeom,cran
@@ -2393,6 +2394,7 @@ canvasXpress.data,neuhausi
 cape,annaltyler
 caper,davidorme
 capesData,leobiazoli
+capesR,hugoavmedeiros
 capitalR,cran
 capl,barnzilla
 caplot,gianmarcoalberti
@@ -3016,6 +3018,7 @@ cleancall,r-lib
 cleandata,sherrisherry
 cleanepi,epiverse-trace
 cleaner,msberends
+Cleanet,matei-ionita
 cleangeo,eblondel
 CleaningValidation,chandlerxiandeyang
 cleanNLP,statsmaths
@@ -3915,6 +3918,7 @@ CPP,gaviao67
 cpp11,r-lib
 cpp11armadillo,pachadotdev
 cpp11eigen,pachadotdev
+cpp11qpdf,pachadotdev
 cpp11tesseract,pachadotdev
 cppcheckR,stla
 cppcontainers,cdueben
@@ -3959,6 +3963,7 @@ createLogicalPCM,amarnathbose
 credentials,ropensci
 CRediTas,ropensci
 creditmodel,fanhansen
+creditr,yanrong-stacy-song
 CreditRisk,cran
 CREDS,cran
 credsubs,cran
@@ -4727,6 +4732,7 @@ depigner,corradolanera
 DepInfeR,bioc
 DepLogo,jgraux
 DEploid,deploid-dev
+DEploid.utils,shajoezhu
 depmix,ingmarvisser
 depmixS4,ingmarvisser
 DEPONS2R,jacobnabe
@@ -5238,6 +5244,7 @@ doofa,doer0
 doolkit,nialsig
 DoOR.data,ropensci
 DoOR.functions,ropensci
+doParabar,mihaiconstantin
 doParallel,revolutionanalytics
 DOPE,ctn-0094
 doppelgangR,bioc
@@ -7134,6 +7141,7 @@ fmesher,inlabru-org
 fmf,zheng-ww
 FMM,alexarc26
 FMP,nwaller
+fmpapi,tidy-finance
 fmpcloudr,altanalytics
 FMradio,cfwp
 fmri,cran
@@ -11205,6 +11213,7 @@ limonaid,matherion
 limorhyde,hugheylab
 limorhyde2,hugheylab
 limpca,bioc
+LimROTS,bioc
 limSolve,karlines
 lin.eval,vishesh-shrivastav
 linbin,ezwelty
@@ -14433,7 +14442,6 @@ offsetreg,mattheaphy
 ofGEM,randel
 ofpetrial,difm-brain
 OGI,cran
-oglcnac,yaoxiangli
 oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
@@ -16618,7 +16626,7 @@ pysd2r,jimduggan
 pysparklyr,mlverse
 PytrendsLongitudinalR,cran
 pzfx,yue-jiang
-Q2q,cran
+Q2q,farid-flici
 Q7,iqis
 qacBase,rkabacoff
 qad,griefl
@@ -17484,7 +17492,6 @@ rde,kloppen
 rDEA,jaak-s
 rdecision,ajsims1704
 rDecode,cspun
-rdefra,ropensci
 rdeps,frbcesab
 rdflib,ropensci
 rdfp,stevenmmortimer
@@ -18067,6 +18074,7 @@ rGREAT,bioc
 RGreenplum,mwillumz
 RGremlinsConjoint,statuser
 rGroovy,thospfuller
+RGS,shuo-yang-sysu
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
@@ -19199,6 +19207,7 @@ SADISA,rsetienne
 sadists,shabbychef
 sads,pilaboratory
 sae,cran
+sae.projection,alfrzlp
 sae.prop,mrijalussholihin
 sae2,cran
 saeBest,sheerinda
@@ -21616,6 +21625,7 @@ subformula,jonasmoss
 subgroup,cran
 SubgrpID,cran
 subgxe,umich-cphds
+subincomeR,pablogguz
 submax,cran
 SubpathwayLNCE,shixinrui
 subplex,kingaa
@@ -22801,7 +22811,6 @@ transport,dschuhmacher
 TransProR,sssydysss
 transreg,rauschenberger
 TransTGGM,cran
-tranSurv,stc04003
 TransView,bioc
 transx,kvasilopoulos
 trapezoid,jthetzel
@@ -24254,6 +24263,7 @@ ZIBR,pennchopmicrobiomeprogram
 zic,cran
 ZillowR,fascinatingfingers
 ZIM,mingstat
+ZIM4rv,fanx0037
 ZINAR1,cran
 ZINARp,cran
 zinbwave,bioc

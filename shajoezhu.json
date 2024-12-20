@@ -1,5 +1,10 @@
 [
   {
+    "package": "DEploid.utils",
+    "maintainer": "Joe Zhu <sha.joe.zhu@gmail.com>",
+    "url": "https://github.com/cran/DEploid.utils"
+  },
+  {
     "package": "filters",
     "maintainer": "Joe Zhu <joe.zhu@roche.com>",
     "url": "https://github.com/cran/filters"

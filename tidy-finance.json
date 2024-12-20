@@ -1,5 +1,10 @@
 [
   {
+    "package": "fmpapi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/tidy-finance/r-fmpapi"
+  },
+  {
     "package": "tidyfinance",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-finance/r-tidyfinance"
