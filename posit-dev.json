@@ -1,5 +1,10 @@
 [
   {
+    "package": "shinychat",
+    "maintainer": "Joe Cheng <joe@posit.co>",
+    "url": "https://github.com/posit-dev/shinychat"
+  },
+  {
     "package": "shinylive",
     "maintainer": "Barret Schloerke <barret@posit.co>",
     "url": "https://github.com/posit-dev/r-shinylive"

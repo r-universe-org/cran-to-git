@@ -1077,6 +1077,7 @@ backpipe,decisionpatterns
 backports,r-lib
 backShift,christinaheinze
 backtest,dgerlanc
+backtestGraphics,yanrong-stacy-song
 baclava,sth1402
 bacon,bioc
 bacondecomp,evanjflack
@@ -2161,6 +2162,7 @@ brsim,gianmarcoalberti
 bruceR,psychbruce
 BRugs,uligges
 brulee,tidymodels
+bruneimap,bruneiverse
 brunnermunzel,toshi-ara
 BRVM,cran
 brxx,joshuaraytanzer
@@ -2705,6 +2707,7 @@ ceRtainty,arielsotocaro
 Certara.NLME8,certara-jcraig
 Certara.R,certara
 Certara.RsNLME,certara-jcraig
+Certara.RsNLME.ModelBuilder,certara-jcraig
 Certara.VPCResults,certara-jcraig
 ceser,diogoferrari
 cesR,hodgettsp
@@ -2928,6 +2931,7 @@ CINNA,minoo-asty
 cinterpolate,mrc-ide
 CIPerm,colbystatsvyrsch
 cipheR,guslipkin
+ciphertext,luigi-annic
 CIplot,toshi-ara
 CIpostSelect,cran
 cir,assaforon
@@ -4472,7 +4476,6 @@ daySupply,ab-sa
 dbacf,cran
 dbarts,vdorie
 dbcsp,cran
-DBCVindex,cran
 dbd,rolfturner
 DBEST,hristotomov
 DBfit,cran
@@ -8263,6 +8266,7 @@ ggsurvey,balexanderstats
 ggsurvfit,pharmaverse
 ggswissmaps,gibonet
 ggtangle,guangchuangyu
+ggtaxplot,cran
 ggtea,ambitiousbellydancingsquirrel
 ggtern,cran
 ggtext,wilkelab
@@ -11413,7 +11417,7 @@ logger,daroczig
 logging,wlogsolutions
 loggit,ryapric
 loggit2,meo265
-logib,cran
+logib,admin-ebg
 logiBin,snehatody1
 logicDT,michlau
 LogicForest,cran
@@ -13551,6 +13555,7 @@ multpois,wobbrock
 MultRegCMP,mauroflorez
 MultSurvTests,lukketotte
 multtest,bioc
+multvardiv,cran
 multxpert,eric-nantz
 MulvariateRandomForestVarImp,megatvini
 MuMIn,cran
@@ -17200,7 +17205,6 @@ RawHummus,yonghuidong
 rawKS,jiaxiangbu
 rawrr,bioc
 raws.profile,cran
-raybevel,tylermorganwall
 rayimage,tylermorganwall
 raymolecule,tylermorganwall
 rayrender,tylermorganwall
@@ -18336,7 +18340,7 @@ rmdplugr,jolars
 rmdwc,sigbertklinke
 rMEA,kleinbub
 RmecabKo,junhewk
-RMediation,quantpsych
+RMediation,data-wise
 rmelting,bioc
 rmerec,lucassp
 rmeta,tslumley
@@ -20061,7 +20065,7 @@ shinyBS,ebailey78
 shinybusy,dreamrs
 shinyChakraSlider,stla
 shinyChakraUI,stla
-shinychat,jcheng5
+shinychat,posit-dev
 shinyChatR,julianschmocker
 shinyCohortBuilder,r-world-devs
 shinyCox,harryc598
@@ -21056,7 +21060,6 @@ SphereOptimize,cran
 spherepc,jongminlee-stat
 sphereplot,asgr
 spheresmooth,kybak90
-sphereTessellation,stla
 SphericalCubature,jpnolan
 sphet,gpiras
 sphunif,egarpor
@@ -21130,7 +21133,6 @@ SPmlficmcm,molimak77
 spmodel,usepa
 spmoran,dmuraka
 spnaf,cran
-spNetwork,jeremygelb
 SpNMF,cran
 spnn,romin-ebrahimi
 spNNGP,finleya
@@ -21609,6 +21611,7 @@ StructuralVariantAnnotation,bioc
 StructureMC,yifuliu
 strvalidator,oskarhansson
 sts,cran
+sTSD,cran
 stuart,martscht
 studentlife,frycast
 studyStrap,gloewing
@@ -23486,7 +23489,6 @@ vcvComp,cran
 VDAP,cran
 vdar,cran
 vdg,schoonees
-Vdgraph,johnjsl7
 vdiffr,r-lib
 vDiveR,pendy05
 VDJdive,bioc
