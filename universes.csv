@@ -1491,7 +1491,6 @@ bender,cran
 benford,cran
 benford.analysis,carloscinelli
 BenfordTests,cran
-BENMMI,cran
 bennu,sempwn
 bentcableAR,cran
 benthos,cran
@@ -9311,7 +9310,7 @@ highMLR,atanubhattacharjee
 highOrderPortfolios,dppalomar
 highr,yihui
 highriskzone,cran
-highs,cran
+highs,schweflo
 hightR,yongwoo-eg-kim
 highTtest,sth1402
 higlasso,cran
@@ -11534,7 +11533,7 @@ lpridge,r-forge
 LPS,maressyl
 LPsmooth,xiangyu2022
 lpSolve,gaborcsardi
-lpSolveAPI,cran
+lpSolveAPI,schweflo
 lpsymphony,bioc
 LPWC,gitter-lab
 LqG,lirong95
@@ -14061,7 +14060,7 @@ nlnet,cran
 nlopt,cran
 nloptr,astamm
 NLP,kurthornik
-NLPclient,cran
+NLPclient,schweflo
 nlpred,benkeser
 nlpsem,veronica0206
 NLPutils,kurthornik
@@ -14992,7 +14991,7 @@ pandaR,bioc
 pandemics,cran
 pander,rapporter
 pandoc,cderv
-pandocfilters,cran
+pandocfilters,schweflo
 Pandora,pandora-isomemo
 panelaggregation,will-the-wiz
 panelcn.mops,bioc
@@ -15260,7 +15259,7 @@ pder,ycroissant
 pdfCluster,cran
 PDFEstimator,jennyfarmer
 pdfetch,abielr
-pdfminer,cran
+pdfminer,schweflo
 pdfsearch,lebebr01
 pdftables,expersso
 pdftools,ropensci
@@ -18588,16 +18587,16 @@ rofanova,unina-sfere
 roger,vigou3
 Rogue,ms609
 ROI,r-forge
-ROI.models.globalOptTests,cran
+ROI.models.globalOptTests,schweflo
 ROI.models.miplib,r-forge
-ROI.models.netlib,cran
+ROI.models.netlib,schweflo
 ROI.plugin.alabama,r-forge
 ROI.plugin.clarabel,ben-schwen
 ROI.plugin.cplex,r-forge
 ROI.plugin.deoptim,r-forge
 ROI.plugin.ecos,r-forge
 ROI.plugin.glpk,r-forge
-ROI.plugin.highs,cran
+ROI.plugin.highs,schweflo
 ROI.plugin.ipop,r-forge
 ROI.plugin.lpsolve,roigrp
 ROI.plugin.msbinlp,r-forge
@@ -24155,7 +24154,7 @@ xml2relational,jsugarelli
 xmlconvert,jsugarelli
 xmlparsedata,r-lib
 xmlr,alipsa
-xmlrpc2,cran
+xmlrpc2,schweflo
 xmlwriter,edwindj
 xmpdf,trevorld
 xmrr,zanidean
