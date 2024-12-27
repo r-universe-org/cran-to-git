@@ -3,5 +3,10 @@
     "package": "miniUI",
     "maintainer": "Joe Cheng <joe@rstudio.com>",
     "url": "https://github.com/cran/miniUI"
+  },
+  {
+    "package": "shinychat",
+    "maintainer": "Joe Cheng <joe@posit.co>",
+    "url": "https://github.com/jcheng5/shinychat"
   }
 ]
