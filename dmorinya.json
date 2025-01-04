@@ -5,6 +5,16 @@
     "url": "https://github.com/cran/bayesZIB"
   },
   {
+    "package": "hermite",
+    "maintainer": "David Moriña Soler <david.morina@uab.cat>",
+    "url": "https://github.com/cran/hermite"
+  },
+  {
+    "package": "linERR",
+    "maintainer": "David Moriña Soler <david.morina@uab.cat>",
+    "url": "https://github.com/cran/linERR"
+  },
+  {
     "package": "miRecSurv",
     "maintainer": "David Moriña <dmorina@ub.edu>",
     "url": "https://github.com/cran/miRecSurv"
@@ -18,6 +28,11 @@
     "package": "mSimCC",
     "maintainer": "David Moriña Soler <dmorina@ub.edu>",
     "url": "https://github.com/cran/mSimCC"
+  },
+  {
+    "package": "radir",
+    "maintainer": "David Moriña Soler <david.morina@uab.cat>",
+    "url": "https://github.com/cran/radir"
   },
   {
     "package": "survsim",

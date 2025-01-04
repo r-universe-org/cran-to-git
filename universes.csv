@@ -1440,6 +1440,7 @@ bea.R,us-bea
 BEACH,danniyugithub
 beachmat,bioc
 beachmat.hdf5,bioc
+beachmat.tiledb,bioc
 beadarray,bioc
 BeadDataPackR,bioc
 beadplexr,ustervbo
@@ -3712,7 +3713,6 @@ COR,guangbaog
 cora,cleanzr
 coRanking,gdkrmr
 corazon,feddelegrand7
-Corbi,wulingyun
 CorBin,shuangsong0110
 corbouli,cadam00
 corclass,boutyline
@@ -3971,7 +3971,6 @@ cRegulome,ropensci
 crew,wlandau
 crew.aws.batch,wlandau
 crew.cluster,wlandau
-CRF,wulingyun
 crfsuite,bnosac
 cricketdata,robjhyndman
 cricketr,tvganesh
@@ -6702,7 +6701,6 @@ fat2Lpoly,cran
 FateID,dgrun
 FatTailsR,cran
 FaultTree,jto888
-faux,debruine
 fauxnaif,rossellhayes
 fauxpas,sckott
 FAVA,maikemorrison
@@ -9208,7 +9206,7 @@ hereR,munterfi
 heritability,wtkr
 HeritSeq,kechrislab
 hermes,bioc
-hermite,cran
+hermite,dmorinya
 hermiter,mikejareds
 hero,jfrench
 HERON,bioc
@@ -10010,7 +10008,6 @@ influential,asalavaty
 influxdbclient,influxdata
 influxdbr,dleutnant
 infoDecompuTE,kcha193
-infoelectoral,ropenspain
 Information,klarsen1
 InformativeCensoring,jwb133
 informativeSCI,lianekluge
@@ -11230,7 +11227,7 @@ lineartestr,azulgarza
 linelist,epiverse-trace
 linelistBayes,cmilando
 linemap,riatelab
-linERR,cran
+linERR,dmorinya
 lineup,kbroman
 lineup2,kbroman
 lineupjs,lineupjs
@@ -16995,7 +16992,7 @@ radiant.model,radiant-rstats
 radiant.multivariate,radiant-rstats
 RadioGx,bioc
 RadioSonde,dnychka
-radir,cran
+radir,dmorinya
 radlibs,cran
 RadOnc,reidt03
 radous,feddelegrand7
@@ -17006,7 +17003,6 @@ RAdwords,jburkhardt
 raem,cneyens
 raer,bioc
 rafalib,rairizarry
-RAFS,cran
 rafsi,mateusvanzetta
 Rage,jonesor
 ragg,r-lib

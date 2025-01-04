@@ -901,6 +901,12 @@
     "registry": "bioc"
   },
   {
+    "package": "beachmat.tiledb",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/tatami-inc/beachmat.tiledb",
+    "registry": "bioc"
+  },
+  {
     "package": "beadarray",
     "maintainer": "Mark Dunning <m.j.dunning@sheffield.ac.uk>",
     "url": "https://git.bioconductor.org/packages/beadarray",
