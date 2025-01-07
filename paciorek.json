@@ -9,15 +9,5 @@
     "maintainer": "Christopher Paciorek <paciorek@stat.berkeley.edu>",
     "url": "https://bitbucket.org/lbl-cascade/climextremes-dev",
     "subdir": "climextRemes"
-  },
-  {
-    "package": "nimble",
-    "maintainer": "Christopher Paciorek <paciorek@stat.berkeley.edu>",
-    "url": "https://github.com/cran/nimble"
-  },
-  {
-    "package": "nimbleSMC",
-    "maintainer": "Christopher Paciorek <paciorek@stat.berkeley.edu>",
-    "url": "https://github.com/cran/nimbleSMC"
   }
 ]
