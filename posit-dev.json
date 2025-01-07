@@ -1,5 +1,10 @@
 [
   {
+    "package": "connectapi",
+    "maintainer": "Toph Allen <toph@posit.co>",
+    "url": "https://github.com/posit-dev/connectapi"
+  },
+  {
     "package": "shinylive",
     "maintainer": "Barret Schloerke <barret@posit.co>",
     "url": "https://github.com/posit-dev/r-shinylive"
