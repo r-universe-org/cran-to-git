@@ -2628,7 +2628,7 @@ cds,schoonees
 CDsampling,cran
 CDSE,zivankaraman
 CDSS,chockemeyer
-CDVI,cran
+CDVI,vishnumrstat
 CDVineCopulaConditional,cran
 ceas,jamespeapen
 CEC,swarm-lab
@@ -2706,6 +2706,7 @@ Certara.NLME8,certara-jcraig
 Certara.R,certara
 Certara.RsNLME,certara-jcraig
 Certara.RsNLME.ModelBuilder,certara-jcraig
+Certara.RsNLME.ModelExecutor,certara-jcraig
 Certara.VPCResults,certara-jcraig
 ceser,diogoferrari
 cesR,hodgettsp
@@ -2755,7 +2756,7 @@ cgmquantify,cran
 CGNM,cran
 CGP,shanbatr
 CGPfunctions,ibecav
-CGR,cran
+CGR,vishnumrstat
 cgwtools,cran
 ch,tsiamut
 chainbinomial,opisthokonta
@@ -3916,6 +3917,7 @@ CPoptim,colposerickg
 CPP,gaviao67
 cpp11,r-lib
 cpp11armadillo,pachadotdev
+cpp11bigwig,rnabioco
 cpp11eigen,pachadotdev
 cpp11qpdf,pachadotdev
 cppcheckR,stla
@@ -3966,6 +3968,7 @@ CreditRisk,cran
 CREDS,cran
 credsubs,cran
 credule,blenezet
+creepyalien,rolkra
 cRegulome,ropensci
 crew,wlandau
 crew.aws.batch,wlandau
@@ -5193,6 +5196,7 @@ DNH4,forkonlp
 DNLC,yushengding
 DNMF,zhilongjia
 dnn,statapps
+DNNSIM,rh8liuqy
 dnr,abhirupkgp
 do,yikeshu0611
 do3PCA,caetanods
@@ -13551,6 +13555,7 @@ munfold,melff
 MungeSumstats,bioc
 munsell,cwickham
 munsellinterpol,glenndavis52
+MuPETFlow,cran
 muRL,ryantmoore
 murphydiagram,fk83
 muRty,arg0naut91
@@ -18176,6 +18181,7 @@ riskSimul,cran
 riskyr,hneth
 RISmed,skoval
 Rita,danielamattei
+ritalic,plant-data
 RITAN,bioc
 Ritc,yingyunl
 RITCH,davzim
@@ -22627,7 +22633,6 @@ tokenizers,ropensci
 tokenizers.bpe,bnosac
 tolerance,dsy109
 tomba,tomba-io
-TOmicsVis,benben-miao
 tomoda,bioc
 tomoseqr,bioc
 tongfen,mountainmath
@@ -23328,6 +23333,7 @@ ustfd,groditi
 ustyc,mrbcuda
 utc,antojo-segura
 utf8,patperry
+utf8ify,rolkra
 utile.tables,efinite
 utile.tools,efinite
 utile.visuals,efinite
@@ -23940,6 +23946,7 @@ winr,annweideman
 WinRatio,cran
 WINS,cuiyingbeicheng
 wintime,cran
+WIPF,cran
 wiqid,mikemeredith
 wISAM,rcorty
 wishmom,cran
