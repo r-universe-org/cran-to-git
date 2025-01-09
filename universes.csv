@@ -732,6 +732,7 @@ ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
 archdata,d-carlson
 archeofrag,sebastien-plutniak
+archeofrag.gui,sebastien-plutniak
 archeoViz,sebastien-plutniak
 archetypal,dchristop
 archetyper,mkorvink
@@ -2616,6 +2617,7 @@ CDFt,cran
 cdgd,ang-yu
 CDGHMM,mneal4
 CDI,bioc
+cdid,joelcuerrier
 cdlei,cran
 cdlTools,jlisic
 CDM,alexanderrobitzsch
@@ -5357,6 +5359,7 @@ DRHotNet,albrizre
 drhur,sammo3182
 drhutools,sammo3182
 DriftBurstHypothesis,emilsjoerup
+dRiftDM,bucky2177
 drifter,modeloriented
 DrillR,dragonitemew
 drimmR,nicolasv-dev
@@ -5367,6 +5370,7 @@ driveR,egeulgen
 DriverNet,bioc
 droll,cran
 DRomics,lbbe-software
+drone,thiyangtdata
 DropletUtils,bioc
 dropout,hendr1km
 dropR,iscience-kn
@@ -6106,6 +6110,7 @@ epinet,cgroendyke
 epinetr,diondetterer
 EpiNow2,epiforecasts
 epiomics,goodrich-lab
+epiparameter,epiverse-trace
 epiparameterDB,epiverse-trace
 epiphy,chgigot
 EpipwR,bioc
@@ -8551,6 +8556,7 @@ goftest,baddstats
 GOfuncR,bioc
 gogarch,bpfaff
 goldfish,stocnet
+goldilocks,graemeleehickey
 GOLDprice,mubarakfadhlul
 golem,thinkr-open
 gomms,cran
@@ -10783,6 +10789,7 @@ kntnr,yutannihilation
 KoboconnectR,asitav-sen
 KODAMA,tkcaccia
 kofdata,kof-ch
+KOFM,zerokgkg1368
 kofnGA,cran
 KOGMWU,z0on
 kohonen,rwehrens
@@ -11070,6 +11077,7 @@ leaps,tslumley
 LeArEst,cran
 LearnBayes,bayesball
 LearnClust,robertoalcantara9
+learner,stmcg
 LearnGeom,albrizre
 learningr,richierocks
 LearningRlab,carloshellin
@@ -11480,7 +11488,7 @@ LoopDetectR,kathbaum
 LoopRig,cran
 LOPART,tdhock
 lorad,amilkey1
-lordif,cran
+lordif,choi-phd
 lorec,rluo
 lorem,gadenbuie
 lorentz,robinhankin
@@ -11667,6 +11675,7 @@ maddison,expersso
 made4,bioc
 madgrad,dfalbel
 maditr,gdemin
+MADMMplasso,wleoncio
 madness,shabbychef
 MADPop,mlysy
 madr,mattcefalu
@@ -13100,6 +13109,7 @@ Monte.Carlo.se,cran
 MonteCarlo,funwithr
 MonteCarloSEM,fatihorcan
 moocore,multi-objective
+MOODE,vkstats
 moodef,josesamos
 moodlequizR,wolfgangrolke
 moodleR,chi2labs
@@ -14241,6 +14251,7 @@ nphRCT,dominicmagirr
 npi,ropensci
 npIntFactRep,josfeys
 NPIstats,tmaturi
+npiv,cran
 nplplot,danieleweeks
 nplr,fredcommo
 nplyr,markjrieke
@@ -17248,7 +17259,7 @@ rbridge,byuzbasi
 rbscCI,shimenghuang
 rbsurv,bioc
 rbtc,bpfaff
-RBtest,cran
+RBtest,srstat
 rbtt,wannabesmith
 rbw,xiangzhou09
 Rbwa,bioc
@@ -18343,6 +18354,7 @@ RMixtComp,modal-inria
 RMixtCompIO,modal-inria
 RMixtCompUtilities,modal-inria
 RMKdiscrete,rmkirkpatrick
+rmlnomogram,cran
 RMLPCA,renands
 RMM,statkim7578
 Rmmquant,bioc
@@ -20040,6 +20052,7 @@ shinyaframe,cran
 shinyalert,daattali
 shinyanimate,swechhya
 shinyauthr,paulc91
+shinybody,robert-norberg
 shinybrms,fweber144
 shinybrowser,daattali
 shinyBS,ebailey78
@@ -21141,6 +21154,7 @@ SPOUSE,cran
 SPPcomb,cran
 spphpr,cran
 SpPOP,cran
+spqdep,f8l5h9
 spqn,bioc
 spray,robinhankin
 spreadr,csqsiew
@@ -22435,6 +22449,7 @@ tidyplus,poissonconsulting
 tidypmc,ropensci
 tidyposterior,tidymodels
 tidypredict,tidymodels
+tidyprompt,tjarkvandemerwe
 tidyqpcr,ropensci
 tidyquant,business-science
 tidyquery,ianmcook
@@ -22963,7 +22978,7 @@ tsdisagg2,jvieira13
 TSdisaggregation,mosleyl
 TSdist,cran
 tsdistributions,tsmodels
-TSDT,dentonbriandavid
+TSDT,elilillyco
 tsDyn,matthieustigler
 TSE,joshlmiller1978
 TSEAL,vg-lab
@@ -23492,6 +23507,7 @@ vegan3d,vegandevs
 vegawidget,vegawidget
 vegclust,emf-creaf
 vegdata,florianjansen
+vegIndexCalc,cran
 vegperiod,rnuske
 vegtable,kamapu
 vein,atmoschem
@@ -23646,6 +23662,7 @@ volesti,vfisikop
 volker,strohne
 volleystat,bozhinvi
 voluModel,hannahlowens
+voronoifortune,emmanuelparadis
 voronoiTreemap,urosconf
 VorteksExport,lansdon-qualta
 vortexRdata,carlopacioni

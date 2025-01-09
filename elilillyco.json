@@ -3,5 +3,11 @@
     "package": "rfacts",
     "maintainer": "William Michael Landau <will.landau@gmail.com>",
     "url": "https://github.com/elilillyco/rfacts"
+  },
+  {
+    "package": "TSDT",
+    "maintainer": "Brian Denton <denton_brian_david@lilly.com>",
+    "url": "https://github.com/elilillyco/cran_tsdt",
+    "subdir": "TSDT"
   }
 ]
