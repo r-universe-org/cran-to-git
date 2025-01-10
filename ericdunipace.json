@@ -2,8 +2,7 @@
   {
     "package": "approxOT",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
-    "url": "https://github.com/ericdunipace/approxot",
-    "registry": "archived"
+    "url": "https://github.com/ericdunipace/approxot"
   },
   {
     "package": "causalOT",
@@ -14,11 +13,5 @@
     "package": "RcppCGAL",
     "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
     "url": "https://github.com/ericdunipace/rcppcgal"
-  },
-  {
-    "package": "WpProj",
-    "maintainer": "Eric Dunipace <edunipace@mail.harvard.edu>",
-    "url": "https://github.com/ericdunipace/wpproj",
-    "registry": "archived"
   }
 ]

@@ -25,6 +25,11 @@
     "url": "https://github.com/tidyverse/duckplyr"
   },
   {
+    "package": "ellmer",
+    "maintainer": "Hadley Wickham <hadley@posit.co>",
+    "url": "https://github.com/tidyverse/ellmer"
+  },
+  {
     "package": "forcats",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/tidyverse/forcats"
