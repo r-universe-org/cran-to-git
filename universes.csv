@@ -664,7 +664,7 @@ apComplex,bioc
 APCtools,bauer-alex
 apdesign,cran
 ape,emmanuelparadis
-aPEAR,kerseviciute
+aPEAR,cran
 apeglm,bioc
 apercu,achateigner
 apex,thibautjombart
@@ -1497,6 +1497,7 @@ bentcableAR,cran
 benthos,cran
 BeQut,cran
 Bergm,acaimo
+BerkeleyForestsAnalytics,kearutherford
 Bernadette,bernadette-eu
 berryFunctions,brry
 BERT,bioc
@@ -2241,6 +2242,7 @@ bujar,cran
 bulkAnalyseR,core-bioinformatics
 bulkQC,joerigdon
 bulkreadr,gbganalyst
+BulkSignalR,bioc
 bulletcp,nategarton13
 bulletr,erichare
 bullishTrader,maheshpkumar
@@ -3215,6 +3217,7 @@ CMFsurrogate,laylaparast
 CMGFM,feiyoung
 cmhc,mountainmath
 CMHNPA,cran
+CMHSU,cran
 cml,cran
 CMLS,cran
 cmm,avdrark
@@ -3332,7 +3335,7 @@ cofad,johannes-titz
 cofeatureR,tinyheero
 coffee,maarten14c
 cofid,alrobles
-CoFRA,ruma1974
+CoFRA,cran
 coga,chaoranhu
 CoGAPS,bioc
 cogena,bioc
@@ -4539,6 +4542,7 @@ dcov,cran
 dCovTS,cran
 DCPO,fsolt
 DCSmooth,bastian-schaefer
+dcsvm,boxiang-wang
 dcTensor,rikenbit
 dCUR,cran
 dcurver,oguzhanogreden
@@ -4877,6 +4881,7 @@ dhis2r,amanyiraho
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
+DHSr,arnob62
 di,cran
 diagis,helske
 diagL1,kevin444
@@ -6072,7 +6077,6 @@ epicasting,cran
 epichains,epiverse-trace
 epiCleanr,truenomad
 epicmodel,forsterepi
-epiCo,epiverse-trace
 EpiCompare,bioc
 epicontacts,reconhub
 EpiContactTrace,stewid
@@ -6382,6 +6386,7 @@ ExamPAData,sdcastillo
 exampletestr,rorynolan
 exams,zeileis
 exams.forge,sigbertklinke
+exams.forge.data,sigbertklinke
 exams.mylearn,hdarjus
 exams2forms,zeileis
 exams2learnr,zeileis
@@ -6807,7 +6812,7 @@ fect,lzy318
 FedData,ropensci
 federalregister,ropengov
 FedIRT,biyingzhou
-fedmatch,c0webster
+fedmatch,cran
 fedregs,noaa-edab
 fedstatAPIr,denchpokepon
 fedup,bioc
@@ -7816,6 +7821,7 @@ GeneticsPed,bioc
 GeneticSubsetter,ryan-graebner
 GeNetIt,jeffreyevans
 GeneTonic,bioc
+geneviewer,nvelden
 geneXtendeR,bioc
 genfrn,atchanut
 genie,gagolews
@@ -8842,6 +8848,7 @@ GSA.UN,cagarciae
 GSAfisherCombined,cran
 gsalib,broadinstitute
 GSALightning,bioc
+gsaot,pietrocipolla
 GSAQ,sam-dfmd
 GSAR,bioc
 gsarima,obriet
@@ -9212,6 +9219,7 @@ hero,jfrench
 HERON,bioc
 Herper,bioc
 hesim,hesim-dev
+HEssRNA,bmgfiasri
 HeterFunctionalData,cran
 heterocop,cran
 heterogen,patauchi
@@ -10179,7 +10187,7 @@ iosmooth,cran
 iotables,ropengov
 iotarelr,fberding
 iotools,s-u
-IP,tsoubiran
+IP,cran
 ip2location,ip2location
 ip2locationio,ip2location
 ip2proxy,ip2location
@@ -11234,6 +11242,7 @@ linERR,dmorinya
 lineup,kbroman
 lineup2,kbroman
 lineupjs,lineupjs
+linevis,thomaschln
 lingdist,fncokg
 lingglosses,agricolamz
 lingmatch,miserman
@@ -11592,7 +11601,7 @@ ltm,drizopoulos
 ltmix,martinblostein
 ltmle,joshuaschwab
 LTPDvar,cran
-LTRCforests,weichisite
+LTRCforests,cran
 LTRCtrees,cran
 ltsa,angusian
 ltsk,dliang-cbl
@@ -14535,7 +14544,7 @@ oneclust,nanxstats
 onehot,gravesee
 onekp,ropensci
 onelogin,akgold
-onemap,augusto-garcia
+onemap,cristianetaniguti
 OneR,vonjd
 OneSampleLogRankTest,dkangeyan
 OneSampleMR,remlapmot
@@ -14699,7 +14708,7 @@ optpart,dvrbts
 optR,cran
 optrcdmaeAT,cran
 optrefine,kkbrum
-optRF,cran
+optRF,tmlange
 OPTS,cran
 OptSig,jh8080
 OPTtesting,cran
@@ -15949,6 +15958,7 @@ polysat,lvclark
 polySegratio,petebaker
 polySegratioMM,petebaker
 PolySTest,bioc
+Polytect,bioc
 PolyTree,cran
 PolyTrend,hristotomov
 polywog,brentonk
@@ -17172,7 +17182,7 @@ ratematrix,caetanods
 rater,jeffreypullin
 rateratio.test,cran
 raters,danielegiardiello
-ratesci,cran
+ratesci,petelaud
 RATest,ignaciomsarmiento
 RAthena,dyfanjones
 RatingScaleReduction,cran
@@ -18271,7 +18281,7 @@ rLFT,salbeke
 Rlgt,cbergmeir
 Rlibeemd,helske
 Rlibkdv,bojianzhu
-rlibkriging,yannrichet-irsn
+rlibkriging,cran
 rliger,welch-lab
 Rlinkedin,mpiccirilli
 rlinkedinads,selesnow
@@ -19191,6 +19201,7 @@ s3,brokamp-group
 s3.resourcer,obiba
 s3fs,dyfanjones
 S4Arrays,bioc
+S4DM,bmaitner
 s4vd,mwsill
 S4Vectors,bioc
 S7,rconsortium
@@ -20382,6 +20393,7 @@ simukde,makhgal-ganbold
 simulariatools,simularia
 simulator,jacobbien
 simule,blw921
+simulist,epiverse-trace
 simulMGF,mngar
 SimVitD,wyseja
 sinaplot,sidiropoulos
@@ -20597,7 +20609,7 @@ smof,cran
 smoke,quinsun
 smoof,jakobbossek
 smooth,config-i1
-smoothAPC,dokal01
+smoothAPC,cran
 smoothclust,bioc
 smoothedLasso,ghahn-hsph
 smoother,cran
@@ -23955,7 +23967,7 @@ windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
 wingen,anushapb
-winputall,pkoutchade
+winputall,opkoutchade
 winr,annweideman
 WinRatio,cran
 WINS,cuiyingbeicheng

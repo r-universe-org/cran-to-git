@@ -1490,6 +1490,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BulkSignalR",
+    "maintainer": "Jean-Philippe Villemin <jpvillemin@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/BulkSignalR",
+    "registry": "bioc"
+  },
+  {
     "package": "BUMHMM",
     "maintainer": "Alina Selega <alina.selega@gmail.com>",
     "url": "https://git.bioconductor.org/packages/BUMHMM",
@@ -9415,6 +9421,12 @@
     "package": "PolySTest",
     "maintainer": "Veit Schwämmle <veits@bmb.sdu.dk>",
     "url": "https://github.com/computproteomics/polystest",
+    "registry": "bioc"
+  },
+  {
+    "package": "Polytect",
+    "maintainer": "Yao Chen <emmachentar@live.com>",
+    "url": "https://github.com/emmachenlingo/polytect",
     "registry": "bioc"
   },
   {

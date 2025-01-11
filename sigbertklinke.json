@@ -20,6 +20,11 @@
     "url": "https://github.com/cran/exams.forge"
   },
   {
+    "package": "exams.forge.data",
+    "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
+    "url": "https://github.com/sigbertklinke/exams.forge.data"
+  },
+  {
     "package": "HKRbook",
     "maintainer": "Sigbert Klinke <sigbert@hu-berlin.de>",
     "url": "https://github.com/sigbertklinke/hkrbook"
