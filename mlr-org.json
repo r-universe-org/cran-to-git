@@ -80,6 +80,11 @@
     "url": "https://github.com/mlr-org/mlr3hyperband"
   },
   {
+    "package": "mlr3inferr",
+    "maintainer": "Sebastian Fischer <sebf.fischer@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3inferr"
+  },
+  {
     "package": "mlr3learners",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3learners"

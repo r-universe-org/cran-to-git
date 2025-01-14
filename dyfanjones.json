@@ -88,5 +88,10 @@
     "package": "smdocker",
     "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
     "url": "https://github.com/dyfanjones/sm-docker"
+  },
+  {
+    "package": "urlparse",
+    "maintainer": "Dyfan Jones <dyfan.r.jones@gmail.com>",
+    "url": "https://github.com/dyfanjones/urlparse"
   }
 ]

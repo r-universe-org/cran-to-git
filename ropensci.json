@@ -511,8 +511,9 @@
   },
   {
     "package": "mregions2",
-    "maintainer": "Salvador Jesús Fernández Bejarano <salvador.fernandez@vliz.be>",
-    "url": "https://github.com/ropensci/mregions2"
+    "maintainer": "",
+    "url": "https://github.com/ropensci/mregions2",
+    "registry": "archived"
   },
   {
     "package": "MtreeRing",
@@ -947,7 +948,8 @@
   {
     "package": "suppdata",
     "maintainer": "William D. Pearse <will.pearse@gmail.com>",
-    "url": "https://github.com/ropensci/suppdata"
+    "url": "https://github.com/ropensci/suppdata",
+    "registry": "archived"
   },
   {
     "package": "tabulapdf",

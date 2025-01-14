@@ -1,5 +1,10 @@
 [
   {
+    "package": "maraca",
+    "maintainer": "Monika Huhn <monika.huhn@astrazeneca.com>",
+    "url": "https://github.com/astrazeneca/maraca"
+  },
+  {
     "package": "Tendril",
     "maintainer": "Stefano Borini <stefano.borini@astrazeneca.com>",
     "url": "https://github.com/astrazeneca/tendril"

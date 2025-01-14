@@ -1319,7 +1319,7 @@ bayespm,kiagiasdim
 bayesPO,guidoamoreira
 bayesPop,hanase
 BayesPostEst,shanascogin
-BayesPPD,cran
+BayesPPD,angieshen6
 BayesPPDSurv,cran
 BayesProject,ghahn-hsph
 bayesQR,driesbenoit
@@ -1950,6 +1950,7 @@ bnem,bioc
 bnlearn,cran
 bnma,mikejseo
 bnmonitor,manueleleonelli
+bnns,swarnendu-stat
 bnnSurvival,mnwright
 bnpa,eliascarvalho
 BNPdensity,cran
@@ -4839,6 +4840,7 @@ dfCompare,swaldroff
 dfcrm,jkd2108
 DFD,mohmedsoudy
 dfdr,konrad1991
+dfeR,dfe-analytical-services
 dfexpand,jlpainter
 dfidx,ycroissant
 DFIT,herulor
@@ -6551,6 +6553,7 @@ factor.switching,mqbssppe
 factor256,hughparsonage
 FactorAssumptions,storopoli
 FactorCopula,cran
+FactorHet,mgoplerud
 factorial2x2,ericsleifer
 factormodel,yujunghwang
 factorplot,cran
@@ -6688,6 +6691,7 @@ fastR2,rpruim
 FastRCS,kvak
 fastreeR,bioc
 fastrep,alissonrp
+fastrerandomize,cjerzak
 fastRG,rohelab
 fastRhockey,sportsdataverse
 fastrmodels,nflverse
@@ -9755,6 +9759,7 @@ IdeoViz,bioc
 ider,hinohide
 IDetect,cran
 IDF,cran
+idiffomix,koyelucd
 iDINGO,cran
 idiogram,bioc
 idiogramFISH,fernandoroa
@@ -11834,6 +11839,7 @@ mapview,r-spatial
 maq,cran
 mAr,cran
 mar1s,aparamon
+maraca,astrazeneca
 marble,xilustat
 march,cran
 marcher,eligurarie
@@ -12873,6 +12879,7 @@ mlr3fda,mlr-org
 mlr3filters,mlr-org
 mlr3fselect,mlr-org
 mlr3hyperband,mlr-org
+mlr3inferr,mlr-org
 mlr3learners,mlr-org
 mlr3mbo,mlr-org
 mlr3measures,mlr-org
@@ -15821,6 +15828,7 @@ plsRglm,fbertran
 plsVarSel,khliland
 pltesim,christophergandrud
 plu,rossellhayes
+plug,strategicprojects
 plugdensity,r-forge
 plumber,rstudio
 plumberDeploy,meztez
@@ -16270,6 +16278,7 @@ PriorGen,kpatera
 prioriactions,prioriactions
 prioritizr,prioritizr
 prioritizrdata,prioritizr
+priorityelasticnet,statleila
 prioritylasso,romanhornung
 priorsense,n-kall
 prism,ropensci
@@ -19899,6 +19908,7 @@ SeqSQC,bioc
 seqtest,cran
 seqTools,bioc
 seqtrie,traversc
+sequenceR,benrenard
 SequenceSpikeSlab,tverven
 Sequential,cran
 SequentialDesign,cran
@@ -21032,6 +21042,7 @@ SpectralTAD,bioc
 Spectran,litgde
 SpectraQL,bioc
 spectre,csim063
+spectrolab,meireles
 Spectrum,crj32
 sped,cjgeyer
 spedecon,dk657
@@ -21485,7 +21496,7 @@ stevethemes,svmiller
 stfit,mingsnu
 STFTS,cspun
 stgam,lexcomber
-STGS,cran
+STGS,budhlakotin
 sticky,decisionpatterns
 stickyr,uchidamizuki
 STICr,heal-kgs
@@ -23316,6 +23327,7 @@ ura,bengoehring
 urbin,r-forge
 urca,bpfaff
 urlchecker,r-lib
+urlparse,dyfanjones
 urlshorteneR,dmpe
 urltools,ironholds
 uroot,geobosh
@@ -23563,6 +23575,7 @@ vglmer,mgoplerud
 vhcub,aliyoussef96
 vhica,lerouzic
 via,adamkocsis
+viafoundry,viascientific
 viafr,stefanieschneider
 VIC5,cug-hydro
 VICatMix,j-ackierao
