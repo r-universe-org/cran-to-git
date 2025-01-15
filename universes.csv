@@ -1827,6 +1827,7 @@ birdsize,ropensci
 BiRewire,bioc
 birk,matthewabirk
 birtr,cran
+BIS,stefanangrick
 biscale,chris-prener
 biscuiteer,bioc
 BISdata,enricoschumann
@@ -1843,6 +1844,7 @@ bit64,r-lib
 bitmexr,hfshr
 bitops,mmaechler
 BiTrinA,hkestler
+bitstreamio,coolbutuseless
 bittermelon,trevorld
 Bivariate.Pareto,cran
 bivariateLeaflet,maduprey
@@ -3629,8 +3631,8 @@ consolechoice,cran
 consort,adayim
 consortr,dbackenroth
 ConSpline,cran
-ConsRank,cran
-ConsRankClass,cran
+ConsRank,antdambr
+ConsRankClass,antdambr
 ConsReg,puigjos
 consrq,cran
 CONSTANd,bioc
@@ -7026,6 +7028,7 @@ flashCard,jienagu
 flashClust,plangfelder
 flashier,willwerscheid
 flashlight,mayer79
+FLASHMM,baderlab
 flashr,jeffreyrstevens
 flatr,evilgraham
 flattabler,josesamos
@@ -8160,6 +8163,7 @@ gglorenz,jjchern
 ggm,stathin
 ggmanh,bioc
 ggmap,dkahle
+ggmapcn,rimagination
 ggmapinset,cidm-ph
 ggmatplot,xuan-liang
 ggmcmc,xfim
@@ -8261,6 +8265,7 @@ ggspark,marcboschmatas
 ggspatial,paleolimbot
 ggspavis,bioc
 ggspectra,aphalo
+ggstackplot,sebkopf
 ggstance,lionel-
 ggstar,xiangpin
 ggstats,larmarange
@@ -9269,6 +9274,7 @@ hgwrr,hpdell
 HH,rmheiberger
 hhh4contacts,bastistician
 hhi,cran
+hhmR,sgmmahon
 HhP,cran
 hhsmm,mortamini
 hht,dannycbowman
@@ -14633,6 +14639,7 @@ openNLP,kurthornik
 openNLPdata,kurthornik
 OpeNoise,arpapiemonte
 openPrimeR,bioc
+OpenRange,bmaitner
 OpenRepGrid,markheckmann
 OpenRepGrid.ic,markheckmann
 openrouteservice,giscience
@@ -14982,6 +14989,7 @@ PaLMr,lygitdata
 palmtree,heidiseibold
 palr,australianantarcticdivision
 pals,kwstat
+pam,julienboehm
 PamBinaries,taikisan21
 PAmeasures,cran
 PAMhm,cran
@@ -15825,6 +15833,7 @@ plspm,gastonstat
 plsRbeta,fbertran
 plsRcox,fbertran
 plsRglm,fbertran
+PLStests,codingmylife
 plsVarSel,khliland
 pltesim,christophergandrud
 plu,rossellhayes
@@ -16295,6 +16304,7 @@ PRNG,meer-1
 prnsamplr,kirajcg
 pro,rluo
 proActiv,bioc
+ProActive,jlmaier12
 ProAE,blakelanglais
 probably,tidymodels
 proBAMr,bioc
@@ -16568,6 +16578,7 @@ pubmedR,massimoaria
 pubmedtk,bgcarlisle
 PubMedWordcloud,felixfan
 pubtatordb,mamc-dci
+pudu,pachadotdev
 PUGMM,giorgiazaccaria
 PUlasso,hsong1
 pullword,hetong007
@@ -21152,6 +21163,7 @@ SPmlficmcm,molimak77
 spmodel,usepa
 spmoran,dmuraka
 spnaf,cran
+spNetwork,jeremygelb
 SpNMF,cran
 spnn,romin-ebrahimi
 spNNGP,finleya
@@ -22357,6 +22369,7 @@ theiaR,norival
 thematic,rstudio
 themis,tidymodels
 TheOpenAIR,umatter
+theorytools,cjvanlissa
 ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
