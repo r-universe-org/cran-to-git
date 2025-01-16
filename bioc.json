@@ -693,7 +693,7 @@
   {
     "package": "autonomics",
     "maintainer": "Aditya Bhagwat <aditya.bhagwat@uni-marburg.de>",
-    "url": "https://github.com/bhagwataditya/autonomics",
+    "url": "https://git.bioconductor.org/packages/autonomics",
     "registry": "bioc"
   },
   {
@@ -5067,6 +5067,12 @@
     "registry": "bioc"
   },
   {
+    "package": "geyser",
+    "maintainer": "David McGaughey <mcgaughey@gmail.com>",
+    "url": "https://github.com/davemcg/geyser",
+    "registry": "bioc"
+  },
+  {
     "package": "gg4way",
     "maintainer": "Benjamin I Laufer <blaufer@gmail.com>",
     "url": "https://github.com/ben-laufer/gg4way",
@@ -7677,6 +7683,12 @@
     "registry": "bioc"
   },
   {
+    "package": "mist",
+    "maintainer": "Daoyu Duan <dxd429@case.edu>",
+    "url": "https://github.com/dxd429/mist",
+    "registry": "bioc"
+  },
+  {
     "package": "mistyR",
     "maintainer": "Jovan Tanevski <jovan.tanevski@uni-heidelberg.de>",
     "url": "https://github.com/saezlab/mistyr",
@@ -10207,6 +10219,12 @@
     "package": "REDseq",
     "maintainer": "Lihua Julie Zhu <julie.zhu@umassmed.edu>",
     "url": "https://git.bioconductor.org/packages/REDseq",
+    "registry": "bioc"
+  },
+  {
+    "package": "ReducedExperiment",
+    "maintainer": "Jack Gisby <jackgisby@gmail.com>",
+    "url": "https://github.com/jackgisby/reducedexperiment",
     "registry": "bioc"
   },
   {
@@ -13100,6 +13118,12 @@
     "package": "tricycle",
     "maintainer": "Shijie Zheng <shijieczheng@gmail.com>",
     "url": "https://github.com/hansenlab/tricycle",
+    "registry": "bioc"
+  },
+  {
+    "package": "TrIdent",
+    "maintainer": "Jessie Maier <jlmaier@ncsu.edu>",
+    "url": "https://github.com/jlmaier12/trident",
     "registry": "bioc"
   },
   {

@@ -727,6 +727,7 @@ ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
 arcgisgeocode,r-arcgis
 arcgislayers,r-arcgis
+arcgisplaces,josiahparry
 arcgisutils,r-arcgis
 ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
@@ -4900,6 +4901,7 @@ dialr,socialresearchcentre
 dialrjars,socialresearchcentre
 dials,tidymodels
 diaplt,osubera
+diario,strategicprojects
 diathor,limnolab
 dibble,uchidamizuki
 dice,cran
@@ -6081,7 +6083,7 @@ epicasting,cran
 epichains,epiverse-trace
 epiCleanr,truenomad
 epicmodel,forsterepi
-epiCo,cran
+epiCo,epiverse-trace
 EpiCompare,bioc
 epicontacts,reconhub
 EpiContactTrace,stewid
@@ -6716,6 +6718,7 @@ fat2Lpoly,cran
 FateID,dgrun
 FatTailsR,cran
 FaultTree,jto888
+faux,debruine
 fauxnaif,rossellhayes
 fauxpas,sckott
 FAVA,maikemorrison
@@ -6853,6 +6856,7 @@ ffmanova,olangsrud
 ffp,reckziegel
 ffpe,bioc
 ffscrapr,ffverse
+fftab,thk686
 FFTrees,ndphillips
 fftw,uligges
 fftwtools,krahim
@@ -7375,6 +7379,8 @@ FRK,andrewzm
 fRLR,szcf-weiya
 frma,bioc
 frmaTools,bioc
+froggeR,kylegrealis
+fromhere,mitchelloharawild
 fromo,shabbychef
 frontier,r-forge
 frontiles,cran
@@ -8037,6 +8043,7 @@ GEVACO,cran
 GEVcdn,alexcannon
 GEWIST,bioc
 gexp,ivanalaman
+geyser,bioc
 geysertimes,geysertimes
 GFA,eemeii
 gfboost,cran
@@ -12728,6 +12735,7 @@ missRanger,mayer79
 missRows,bioc
 missSBM,grosssbm
 missSOM,rejebsara
+mist,bioc
 mistr,cran
 mistral,biooss
 misty,cran
@@ -15993,6 +16001,7 @@ pomp,kingaa
 pompom,vwendy
 pompp,guidoamoreira
 POMS,gavinmdouglas
+poobly,cadam00
 pooh,cjgeyer
 pool,rstudio
 poolABC,vsousa
@@ -16418,6 +16427,7 @@ PROSPER,cran
 ProSportsDraftData,ginsburg1
 Prostar,bioc
 protag,yuanbofaith
+ProtE,theomargel
 protein8k,simonliles
 proteinProfiles,bioc
 ProteoBayes,mariechion
@@ -16492,6 +16502,7 @@ psfmi,mwheymans
 PSGD,anthonychristidis
 PSGoft,cran
 psgp,cran
+psHarmonize,nudacc
 psica,osysoev
 psichomics,bioc
 psidR,floswald
@@ -16510,6 +16521,7 @@ pspatreg,rominsal
 pspearman,cran
 pspline,cran
 PSPManalysis,amderoos
+PSpower,laubok
 psqn,boennecd
 PSS.Health,cran
 PSSIM,cran
@@ -16736,6 +16748,7 @@ qlifetable,cran
 qmap,lukasgudm
 qmd,cran
 qmethod,aiorazabala
+qmj,anttsou
 qMRI,ktabelow
 qmrparser,cran
 qmtools,bioc
@@ -17488,6 +17501,7 @@ Rcssplot,tkonopka
 RCT,isidorogu
 RCT2,kosukeimai
 rct3,colinpmillar
+RCTRecruit,imalagaris
 RCTrep,duolajiang
 RCTS,eh-in-r
 rcube,rosawojciech
@@ -17709,6 +17723,7 @@ rEDM,softwareliteracy
 Redmonder,pmdci
 redoc,meztez
 REDseq,bioc
+ReducedExperiment,bioc
 redux,richfitz
 REEMtree,cran
 ref.ICAR,cran
@@ -18303,7 +18318,7 @@ rLFT,salbeke
 Rlgt,cbergmeir
 Rlibeemd,helske
 Rlibkdv,bojianzhu
-rlibkriging,cran
+rlibkriging,yannrichet-irsn
 rliger,welch-lab
 Rlinkedin,mpiccirilli
 rlinkedinads,selesnow
@@ -19313,6 +19328,7 @@ samplesizeestimator,dr-amala-kumarapandiyan
 samplesizelogisticcasecontrol,wheelerb
 SampleSizeMeans,cran
 SampleSizeProportions,cran
+SampleSizeSingleArmSurvival,mkhospital
 sampleVADIR,tswanson222
 samplezoo,nvietto
 sampling,alinamateikondylis
@@ -19971,6 +19987,7 @@ sfdep,josiahparry
 sffdr,ajbass
 sFFLHD,collinerickson
 sfheaders,dcooley
+sfhelper,cran
 sfhotspot,mpjashby
 sfinx,cran
 sfislands,horankev
@@ -20165,6 +20182,7 @@ shinyrecipes,albertoalmuinha
 shinyreforms,piotrbajger
 shinyRGL,trestletech
 shinySbm,jo-theo
+shinyscholar,simon-smart88
 shinyscreenshot,daattali
 shinySearchbar,jes-n
 shinySelect,stla
@@ -22931,6 +22949,7 @@ triangulation,cran
 triangulr,alvindev0
 tricolore,jschoeley
 tricycle,bioc
+TrIdent,bioc
 TriDimRegression,alexander-pastukhov
 triebeard,ironholds
 trigger,bioc
@@ -23409,6 +23428,7 @@ vaersvax,iembry
 VAExprs,bioc
 vagalumeR,r-music
 vagam,cran
+VAJointSurv,boennecd
 valaddin,egnha
 valection,cran
 valentine,tadascience
