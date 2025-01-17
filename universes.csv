@@ -1070,6 +1070,7 @@ babelwhale,dynverse
 babette,ropensci
 babynames,hadley
 babynamesIL,aviezerl
+babyTimeR,dannhek
 BACCO,robinhankin
 BACCT,cran
 bacistool,jjacklee116
@@ -5396,6 +5397,7 @@ drugDemand,kaifenglu
 drugdevelopR,sterniii3
 DrugExposureDiagnostics,darwin-eu
 drugprepr,belayb
+drugsens,flalom
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
 DrugUtilisation,darwin-eu
@@ -9516,7 +9518,6 @@ HTSeedGLM,hardikghosh911
 HTSeqGenie,bioc
 HTSFilter,bioc
 htsr,p-chevallier
-HTSSIP,seb369
 HTT,jiaqihu2021
 httk,usepa
 httpcache,nealrichardson
@@ -14252,6 +14253,7 @@ nparLD,cran
 nparMD,cran
 nparsurv,cran
 NPBayesImputeCat,cran
+NPBBBDAefficiency,vinayaka11442
 npboottprm,mightymetrika
 npboottprmFBar,mightymetrika
 npbr,cran
@@ -15114,6 +15116,7 @@ partools,matloff
 partR2,mastoffel
 partsm,matthieustigler
 parttime,dgkf
+parttree,grantmcdermott
 party,r-forge
 partykit,r-forge
 parzer,ropensci
@@ -15269,7 +15272,6 @@ pcse,deliabailey
 PCSinR,felixhenninger
 pcsstools,jackmwolf
 pcSteiner,krashkov
-pct,itsleeds
 pctax,asa12138
 pcts,geobosh
 pcutils,asa12138
@@ -15603,6 +15605,7 @@ phylosem,james-thorson-noaa
 phyloseq,bioc
 phyloseqGraphTest,jfukuyama
 phylosignal,fkeck
+phylosignalDB,anonymous-eco
 phylotaR,ropensci
 phylotate,dlbeer
 phylotools,helixcn
@@ -15874,7 +15877,6 @@ pmetar,prcwiek
 pmev,david-hammond
 PMEvapotranspiration,himadriiasri
 pmhtutorial,cran
-pmlbr,epistasislab
 pmledecon,cran
 pmm,bioc
 pmml,cumulocity-iot
@@ -17288,6 +17290,7 @@ RblDataLicense,eguidotti
 Rblpapi,rblp
 rblt,sg4r
 RBM,bioc
+rbm25,davzim
 rBMF,cran
 rbmi,insightsengineering
 rbmn,cran
@@ -19199,6 +19202,7 @@ rWikiPathways,bioc
 RWildbook,sjbonner
 rWishart,benbarnard
 rwisp,dioubernardo
+rwlifetable,cran
 RWmisc,jayrobwilliams
 RWNN,svilsen
 Rwofost,cropmodels
@@ -20090,6 +20094,7 @@ shiny.fluent,appsilon
 shiny.gosling,bioc
 shiny.i18n,appsilon
 shiny.info,appsilon
+shiny.ollama,ineelhere
 shiny.pwa,pedrocoutinhosilva
 shiny.react,appsilon
 shiny.reglog,statismike
@@ -20253,6 +20258,7 @@ SiER,rruiyan
 Sieve,terrytianyuzhang
 sievePH,mjuraska
 sievetest,cran
+SiFINeT,cran
 sift,sccmckenzie
 sig,richierocks
 SigCheck,bioc
@@ -20397,7 +20403,7 @@ simplexreg,pengyan2000
 simplextree,peekxc
 SimplicialCubature,jpnolan
 simplifyEnrichment,bioc
-simplifyNet,cran
+simplifyNet,ammercier
 SimplyAgree,arcaldwell49
 SIMplyBee,highlanderlab
 simPop,statistikat
@@ -20460,7 +20466,6 @@ SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
 SiPhyNetwork,jjustison
 siplab,ogarciav
-SIPmg,zielslab
 SiPSiC,bioc
 siqr,zzz1990771
 sirad,r-forge
@@ -20621,6 +20626,7 @@ smdata,ecmerkle
 smdi,cran
 SMDIC,hanjunwei-lab
 smdocker,dyfanjones
+smer,lcrawlab
 smerc,jfrench
 smetlite,baseldatascience
 SMFilter,yukai-yang
@@ -21496,6 +21502,7 @@ StemAnalysis,forestscientist
 stemmatology,jean-baptiste-camps
 StempCens,cran
 stencilaschema,stencila
+stenographer,dereckmezquita
 stenR,statismike
 StepBeta,sergiogarofalo
 STEPCAM,thijsjanzen
@@ -22786,6 +22793,7 @@ tpwb,atchanut
 tqk,mrchypark
 tr.iatgen,iatgen
 TR8,giobo
+trace,zachariahmclean
 TraceAssist,cran
 tracee,philipdelff
 tracenma,loukiaspin
@@ -23170,6 +23178,7 @@ tweenr,thomasp85
 tweetcheck,wurli
 twenty48,rossellhayes
 twfy,conjugateprior
+twig,hjalal
 twilight,bioc
 twilio,seankross
 twingp,cran
