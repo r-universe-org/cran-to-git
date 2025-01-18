@@ -2,7 +2,8 @@
   {
     "package": "grates",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
-    "url": "https://github.com/reconverse/grates"
+    "url": "https://github.com/reconverse/grates",
+    "subdir": "pkg"
   },
   {
     "package": "i2extras",
