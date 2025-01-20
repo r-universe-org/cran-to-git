@@ -5571,6 +5571,12 @@
     "registry": "bioc"
   },
   {
+    "package": "h5mread",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/hpages/h5mread",
+    "registry": "bioc"
+  },
+  {
     "package": "h5vc",
     "maintainer": "Paul Theodor Pyl <paul.theodor.pyl@gmail.com>",
     "url": "https://git.bioconductor.org/packages/h5vc",
@@ -6762,6 +6768,12 @@
     "package": "Maaslin2",
     "maintainer": "Lauren McIver <lauren.j.mciver@gmail.com>",
     "url": "https://github.com/biobakery/maaslin2",
+    "registry": "bioc"
+  },
+  {
+    "package": "maaslin3",
+    "maintainer": "William Nickols <willnickols@g.harvard.edu>",
+    "url": "https://github.com/biobakery/maaslin3",
     "registry": "bioc"
   },
   {
@@ -11902,6 +11914,12 @@
     "registry": "bioc"
   },
   {
+    "package": "smoppix",
+    "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
+    "url": "https://github.com/sthawinke/smoppix",
+    "registry": "bioc"
+  },
+  {
     "package": "SNAGEE",
     "maintainer": "David Venet <davenet@ulb.ac.be>",
     "url": "https://git.bioconductor.org/packages/SNAGEE",
@@ -11965,6 +11983,12 @@
     "package": "SOMNiBUS",
     "maintainer": "Kathleen Klein <kathleen.klein@mail.mcgill.ca>",
     "url": "https://github.com/kaiqiong/somnibus",
+    "registry": "bioc"
+  },
+  {
+    "package": "sosta",
+    "maintainer": "Samuel Gunz <samuel.gunz@uzh.ch>",
+    "url": "https://github.com/sgunz/sosta",
     "registry": "bioc"
   },
   {
@@ -13574,6 +13598,12 @@
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
+    "registry": "bioc"
+  },
+  {
+    "package": "xCell2",
+    "maintainer": "Almog Angel <almog.angel@campus.technion.ac.il>",
+    "url": "https://github.com/almogangel/xcell2",
     "registry": "bioc"
   },
   {
