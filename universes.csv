@@ -217,6 +217,7 @@ ADLP,cran
 admiral,pharmaverse
 admiral.test,bms63
 admiraldev,pharmaverse
+admiralmetabolic,pharmaverse
 admiralonco,pharmaverse
 admiralophtha,pharmaverse
 admiralpeds,pharmaverse
@@ -511,6 +512,7 @@ AmesHousing,topepo
 ami,briandconnelly
 AmigaFFH,pepijn-devries
 AMIM,gelotran
+AMISforInfectiousDiseases,drsimonspencer
 ammiBayes,cran
 ammistability,ajaygpb
 AMModels,cran
@@ -1979,7 +1981,6 @@ boilerpipeR,mannau
 BOIN,cran
 boinet,cran
 boiwsa,timginker
-BOJ,stefanangrick
 bolasso,dmolitor
 bold,ropensci
 bolsec,alvaroitapia
@@ -3306,6 +3307,7 @@ coda4microbiome,tonisusin
 codacore,egr95
 CoDaImpact,lukece
 codalm,jfiksel
+CoDaLoMic,cran
 codaredistlm,tystan
 CodataGS,larsronn
 cOde,dkaschek
@@ -3434,6 +3436,7 @@ comat,nowosad
 comato,cran
 COMBAT,mw201608
 combat.enigma,jrad1
+ComBatFamQC,zheng206
 combi,bioc
 combinat,vjcitn
 combinationpvalues,cran
@@ -5852,6 +5855,7 @@ eHDPrep,overton-group
 ehelp,mponce0
 eHOF,florianjansen
 EHR,cran
+EHRmuse,ritoban1
 EHRtemporalVariability,hms-dbmi
 ehymet,bpulidob
 ei,cran
@@ -7045,6 +7049,7 @@ flexclust,cran
 flexCWM,cran
 flexdashboard,rstudio
 FlexDir,nenedibri
+flexFitR,apariciojohan
 FlexGAM,spiegele
 flexiblas,enchufa2
 flexlsx,pteridin
@@ -8581,6 +8586,7 @@ GOLDprice,mubarakfadhlul
 golem,thinkr-open
 gomms,cran
 GomoGomonoMi,feddelegrand7
+gomp,cran
 gompertztrunc,caseybreen
 gontr,kalifa-manjang
 GoodFibes,jessica-arbour
@@ -12263,7 +12269,6 @@ mergenstudio,jacqueline-98
 Mergeomics,bioc
 mergeTrees,audreh
 mergingTools,cran
-merlin,cran
 MERO,mohmedsoudy
 merror,rabilon
 merTools,jknowles
@@ -12535,6 +12540,7 @@ micEconIndex,arne-henningsen
 micEconSNQP,arne-henningsen
 miceFast,polkas
 micemd,vaudigier
+micer,maxwell-geospatial
 miceRanger,farrellday
 michelRodange,b-rodrigues
 MiChip,bioc
@@ -18653,6 +18659,7 @@ rolldown,yihui
 rollinglda,jonasrieger
 rollmatch,rtiinternational
 rollup,juyoungahn
+rollupTree,jsjuni
 roloc,pmur002
 rolocISCCNBS,pmur002
 rolog,mgondan
@@ -20579,6 +20586,7 @@ SLModels,raznargimeno
 sloop,r-lib
 SLOPE,jolars
 slopes,ropensci
+SLOS,jodamatta
 slouch,kopperud
 slowraker,crew102
 slp,wesleyburr
@@ -21999,6 +22007,7 @@ synthpop,bnowok
 SynthTools,charlotteloobyrti
 syrup,simonpcouch
 sys,jeroen
+sysAgNPs,xitingwang-ida
 SyScSelection,cran
 sysfonts,yixuan
 sysid,syerramilli
