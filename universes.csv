@@ -1436,6 +1436,7 @@ bdpv,cran
 bdrc,sor16
 bdribs,cran
 bdscale,dvmlls
+bdsm,mdubel
 bdsmatrix,cran
 bdsvd,cran
 BDWreg,hamedhm
@@ -1981,6 +1982,7 @@ boilerpipeR,mannau
 BOIN,cran
 boinet,cran
 boiwsa,timginker
+BOJ,stefanangrick
 bolasso,dmolitor
 bold,ropensci
 bolsec,alvaroitapia
@@ -4961,7 +4963,6 @@ DiffNet,faren-f
 diffobj,brodieg
 diffpriv,brubinstein
 diffr,muschellij2
-diffudist,gbertagnolli
 diffusion,mamut86
 diffusionMap,rcannood
 diffuStats,bioc
@@ -5190,6 +5191,7 @@ DMRcaller,bioc
 DMRcate,bioc
 dmri.tracking,vic-dragon
 DMRnet,szymonnowakowski
+dMrs,cran
 DMRScan,bioc
 dmrseq,bioc
 DMtest,cran
@@ -7940,7 +7942,6 @@ geogenr,josesamos
 geogrid,jbaileyh
 geohashTools,michaelchirico
 geoheatmap,sjwwillems
-geoidep,ambarja
 geojson,ropensci
 geojsonio,ropensci
 geojsonR,mlampros
@@ -12297,6 +12298,7 @@ metaBMA,danheck
 MetaboAnnotation,bioc
 MetaboCoreUtils,bioc
 metaboData,aberhrml
+metabodecon,spang-lab
 MetabolAnalyze,gormleyi
 metabolic,fmmattioni
 MetabolicSurv,olajumokeevangelina
@@ -12709,6 +12711,7 @@ miscF,daifengstat
 miscFuncs,bentaylor1
 miscIC,andrewtitman
 misclassGLM,sdlugosz
+MiscMath,wjbraun
 MiscMetabar,adrientaudiere
 miscset,setempler
 miscTools,arne-henningsen
@@ -17603,6 +17606,7 @@ read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
 readabs,mattcowgill
+readapra,javanderwal
 readbitmap,jefferis
 readBrukerFlexData,sgibb
 readbulk,pascalkieslich
@@ -19967,6 +19971,7 @@ SEset,ryanoisin
 SESraster,hemingnm
 sessioninfo,r-lib
 set,yikeshu0611
+setariaviridis,nononoexe
 setartree,rakshitha123
 SetMethods,cran
 SEtools,bioc
