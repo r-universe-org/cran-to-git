@@ -561,7 +561,7 @@ anim.plots,hughjonesd
 animalcules,bioc
 animalEKF,sam-data-guy-iam
 AnimalHabitatNetwork,cran
-AnimalSequences,cran
+AnimalSequences,reviewburner
 animate,kcf-jackson
 animation,yihui
 animbook,krisanata
@@ -1907,6 +1907,7 @@ BlockmodelingGUI,cran
 blockmodels,jb-leger
 blockrand,glsnow
 blocksdesign,rned
+blockTools,ryantmoore
 blocs,coletl
 blogdown,rstudio
 BloodGen3Module,bioc
@@ -2023,6 +2024,7 @@ bootnet,sachaepskamp
 bootPLS,fbertran
 BootPR,jh8080
 bootruin,baumgrt
+bootStateSpace,jeksterslab
 bootStepAIC,drizopoulos
 bootstrap,scottkosty
 bootstrapFP,rhobis
@@ -4934,7 +4936,7 @@ DiDforBigData,setzler
 DIDHAD,cran
 didimputation,cran
 DIDmultiplegt,cran
-DIDmultiplegtDYN,cran
+DIDmultiplegtDYN,chaisemartinpackages
 didrooRFM,didroo55
 diemr,nmartinkova
 dietr,sborstein
@@ -6957,6 +6959,7 @@ fingertipsR,ropensci
 fingraph,convexfi
 finiteruinprob,baumgrt
 finity,x0range
+finna,ropengov
 FinNet,fatelarico
 finnishgrid,virmar
 finnsurveytext,dariah-fi-survey-concept-network
@@ -7265,7 +7268,7 @@ FormShare,qlands
 Formula,zeileis
 formula.tools,decisionpatterns
 formulaic,dachosen1
-formulops,billdenney
+formulops,humanpred
 FormulR,ocheab
 forplo,cran
 forrel,magnusdv
@@ -9221,6 +9224,7 @@ heemod,aphp
 heimdall,cefet-rj-dal
 heims,hughparsonage
 heiscore,abhrastat
+heiscore.data,vramdas06
 helixvis,rrrlw
 HellCor,lafaye
 hellno,petermeissner
@@ -16255,6 +16259,7 @@ presentes,diegokoz
 preseqR,cran
 PResiduals,cran
 presize,ctu-bern
+presmoothedTP,gsoutinho
 presmTP,gsoutinho
 PressPurt,rtxci
 pressuRe,telfer
@@ -16663,6 +16668,7 @@ pwt,zeileis
 pwt10,zeileis
 pwt8,zeileis
 pwt9,zeileis
+pxmake,statisticsgreenland
 pxR,cjgb
 pxweb,ropengov
 PxWebApiData,statisticsnorway
@@ -17978,6 +17984,7 @@ retel,markean
 rethinker,cran
 rethnicity,fangzhou-xie
 reticulate,rstudio
+retimer,abeith
 retriever,dosorio
 retrodesign,andytimm
 retrofit,bioc
@@ -19258,6 +19265,7 @@ saasCNV,zhangzhongyang16
 sabre,nowosad
 sac,cran
 saccadr,alexander-pastukhov
+sacRebleu,lazerlambda
 sad,s6sebusc
 SADEG,cran
 SADISA,rsetienne
