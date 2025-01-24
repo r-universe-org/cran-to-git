@@ -617,6 +617,7 @@ anthro,worldhealthorganization
 anthroplus,worldhealthorganization
 AnthropMMD,frederic-santos
 Anthropometry,cran
+AntibodyForests,cran
 AntibodyTiters,hkatomed
 anticlust,m-py
 antiProfiles,bioc
@@ -4274,7 +4275,6 @@ cxr,radicalcommecol
 cxxfunplus,maverickg
 cyanoFilter,bioc
 cycle,bioc
-cycleRtools,cran
 cyclestreets,cyclestreets
 cyclocomp,gaborcsardi
 cycloids,peterbiber
@@ -5787,7 +5787,6 @@ EDIutils,ropensci
 edl,jacolien
 edlibR,evanbiederstedt
 eDMA,cran
-edmcr,great-northern-diver
 edmdata,tmsalab
 eDNAjoint,ropensci
 EDNE.EQ,cran
@@ -8215,7 +8214,6 @@ ggpattern,trevorld
 ggpca,yaoxiangli
 ggpcp,heike
 ggperiodic,eliocamp
-ggpicrust2,cafferychen777
 ggpie,showteeth
 ggplate,jpquast
 ggplot.multistats,flying-sheep
@@ -12352,7 +12350,6 @@ metalite,merck
 metalite.ae,merck
 metalite.sl,wangben718
 metalite.table1,elong0527
-MetaLonDA,aametwally
 MetAlyzer,nilsmechtel
 metaMA,sblanck
 metamedian,stmcg
@@ -13806,6 +13803,7 @@ nbTransmission,sarahleavitt
 NBtsVarSel,mgomtsyan
 nc,tdhock
 NCA,govertbuijs
+ncaavolleyballr,jeffreyrstevens
 ncappc,cran
 ncar,cran
 ncbit,eastman
@@ -15175,6 +15173,7 @@ pathwayTMB,hanjunwei-lab
 PatientProfiles,darwin-eu
 patientProfilesVis,openanalytics
 patrick,google
+pattern.checks,jzl-ck
 patternator,stathwang
 patterncausality,skstavroglou
 patternize,stevenvb12
@@ -15744,7 +15743,6 @@ placer,cran
 PlackettLuce,hturner
 plainview,r-spatial
 plan,dankelley
-PlaneGeometry,cran
 Planesmuestra,ericksuhel
 planet,bioc
 PlanetNICFI,mlampros
@@ -16641,7 +16639,7 @@ pvca,bioc
 pvclass,cran
 pvclust,r-suzuki
 pvcurveanalysis,annaraesch
-pvda,oskargauffin
+pvda,fusarolimichele
 Pviz,bioc
 pvldcurve,annaraesch
 pvLRT,c7rishi
@@ -19733,7 +19731,6 @@ sdpdth,cran
 sdPrior,k-nadja
 sdprisk,baumgrt
 SDPrism2D,zeddshaver
-sdpt3r,cran
 sdrt,tharindupdealwis
 sdsfun,stscl
 SDT,cran
@@ -20587,6 +20584,7 @@ SLHD,shanbatr
 SlicedLHD,doer0
 slickR,yonicd
 SLIDE,cran
+SlideCNA,dzhang777
 slider,r-lib
 slideview,r-spatial
 SlidingWindows,efguedes
@@ -20823,6 +20821,7 @@ SomaticSignatures,bioc
 SOMbrero,cran
 someMTP,livioivil
 SOMEnv,somenv
+somhca,gianluca-pastorelli
 SOMMD,mottastefano
 sommer,covaruber
 SOMNiBUS,bioc
@@ -21953,7 +21952,7 @@ swfdr,bioc
 swfscAirDAS,swfsc
 swfscDAS,swfsc
 swfscMisc,ericarcher
-swgee,cran
+swgee,jxiongszu
 SWIM,spesenti
 SwimmeR,gpilgrim2670
 swimplot,jessicaweiss
@@ -23309,6 +23308,7 @@ uncorbets,reckziegel
 UNCOVER,samuelemerson
 uncoverappLib,bioc
 understandBPMN,gertjanssenswillen
+undidR,ebjamieson97
 UNDO,bioc
 unglue,moodymudskipper
 ungroup,mpascariu
