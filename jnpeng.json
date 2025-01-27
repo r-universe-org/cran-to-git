@@ -3,5 +3,15 @@
     "package": "CoxPlus",
     "maintainer": "Jing Peng <pengjing@live.com>",
     "url": "https://github.com/cran/CoxPlus"
+  },
+  {
+    "package": "endogeneity",
+    "maintainer": "Jing Peng <jing.peng@uconn.edu>",
+    "url": "https://github.com/cran/endogeneity"
+  },
+  {
+    "package": "PanelCount",
+    "maintainer": "Jing Peng <jing.peng@uconn.edu>",
+    "url": "https://github.com/cran/PanelCount"
   }
 ]
