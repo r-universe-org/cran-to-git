@@ -18,7 +18,7 @@ ABC.RAP,cran
 ABCanalysis,cran
 abclass,wenjie2wang
 ABCoptim,gvegayon
-ABCp2,cran
+ABCp2,mcduryea
 abcrf,jmm34
 abcrlda,cran
 abctools,dennisprangle
@@ -2605,7 +2605,7 @@ CCP,uwemenzel
 CCPlotR,bioc
 CCPROMISE,bioc
 ccpsyc,jo-karl
-ccRemover,cran
+ccRemover,jli-stat
 ccrepe,bioc
 ccrs,cran
 ccrtm,marcodvisser
@@ -3143,7 +3143,7 @@ clusEvol,vmoprojs
 ClusPred,cran
 clusrank,wenjie2wang
 ClusROC,toduckhanh
-ClussCluster,cran
+ClussCluster,jli-stat
 clust.bin.pair,dgopstein
 ClustAll,bioc
 clustAnalytics,martirm
@@ -3547,7 +3547,7 @@ concaveman,joelgombin
 conclust,cran
 concom,stla
 ConconiAnaerobicThresholdTest,waldronlab
-ConConPiWiFun,cran
+ConConPiWiFun,robingirard
 concordance,insongkim
 ConcordanceTest,cran
 concordexR,bioc
@@ -5004,7 +5004,7 @@ Dino,bioc
 dinoR,bioc
 dint,s-fleck
 DiPALM,humanoidtyphoon
-DiPhiSeq,cran
+DiPhiSeq,jli-stat
 dipm,cli9
 DiPs,ruoqiyu
 dipsaus,dipterix
@@ -5214,7 +5214,7 @@ dndR,njlyon0
 DNetFinder,cran
 dng,feng-li
 DNH4,forkonlp
-DNLC,cran
+DNLC,yushengding
 DNMF,zhilongjia
 dnn,statapps
 DNNSIM,rh8liuqy
@@ -6302,7 +6302,7 @@ eudract,cran
 eudysbiome,bioc
 eufmdis.adapt,iankopacka
 EUfootball,cran
-eulerian,cran
+eulerian,alorchhota
 eulerr,jolars
 eummd,cran
 eunis.habitats,ramiromagno
@@ -10384,7 +10384,7 @@ IsoSpecR,matteolacki
 isoSurv,yunrochung
 isotone,r-forge
 isotonic.pen,cran
-IsotopeR,cran
+IsotopeR,troutinthemilk
 isotracer,matthieu-bruneaux
 isotree,david-cortes
 isoWater,bumbanian
@@ -11418,6 +11418,7 @@ localIV,xiangzhou09
 localModel,modeloriented
 localScore,cran
 localsolver,cran
+localsp,ausgis
 locaR,rhedley
 locateip,judith-bourque
 locatexec,ardata-fr
@@ -13351,7 +13352,7 @@ MSG,yihui
 MSGARCH,keblu
 MSGARCHelm,rrk4910
 msgbsR,bioc
-msgpackR,cran
+msgpackR,mikiya0417
 msgps,keihirose
 msgr,chadgoymer
 mshap,srmatth
@@ -13557,7 +13558,7 @@ MultiRNAflow,bioc
 MultiRNG,bernice0321
 MultiRobust,praetere
 multiROC,cran
-MultiRR,cran
+MultiRR,yimenaraya-ajoy
 MultIS,wagner-s
 MultiscaleDTM,ailich
 multiscan,bioc
@@ -13934,7 +13935,7 @@ netShiny,pariya
 NetSimR,netsimanalytics
 netSmooth,bioc
 netstat,stevecondylios
-NetSwan,cran
+NetSwan,sergelhomme
 nett,aaamini
 nettskjemar,capro-uio
 netUtils,schochastics
@@ -14099,7 +14100,7 @@ nlpsem,veronica0206
 NLPutils,kurthornik
 nlraa,femiguez
 nlreg,arbrazzale
-NLRoot,cran
+NLRoot,zhengsengui
 nlrr,zhanyq
 nlrx,ropensci
 nls.multstart,padpadpadpad
@@ -14560,6 +14561,7 @@ OnboardClient,cran
 onbrand,john-harrold
 onc.api,cran
 once,gdmcdonald
+oncmap,michalkouril
 OncoBayes2,weberse2
 OncoDataSets,lightbluetitan
 Oncofilterfast,cran
@@ -15646,6 +15648,7 @@ picohdr,coolbutuseless
 picR,javenrflo
 PICS,bioc
 pid,kgdunn
+PIE,misstiny
 PieceExpIntensity,andrewchapple21
 piecemaker,macmillancontentscience
 piecenorms,david-hammond
@@ -17597,6 +17600,7 @@ rdwd,brry
 rdwplus,apear9
 re,pythonicr
 re2,girishji
+Reacnorm,devillemereuil
 react,tadascience
 reactable,glin
 reactable.extras,appsilon
@@ -18197,7 +18201,7 @@ ridge,steffenmoritz
 ridgetorus,egarpor
 ridgregextra,filizkrdg
 ridigbio,idigbio
-ridittools,cran
+ridittools,ebohlman
 riem,ropensci
 Riemann,kisungyou
 RiemBase,kisungyou
@@ -18782,6 +18786,7 @@ rphylopic,palaeoverse
 rpinterest,colinfay
 rpivotTable,smartinsightsfromdata
 rplanes,signaturescience
+rplec,cran
 rplotengine,cran
 rpls,filzmoserp
 rplum,maarten14c
@@ -19689,7 +19694,7 @@ scrypt,bobjansen
 scryr,curso-r
 scs,florianschwendinger
 scShapes,bioc
-scSorter,cran
+scSorter,jli-stat
 scSpatialSIM,fridleylab
 scTenifoldKnk,cailab-tamu
 scTenifoldNet,cailab-tamu
@@ -20921,7 +20926,7 @@ sparseBC,cran
 SparseBiplots,mitzicubillamontilla
 SparseChol,samuel-watson
 sparseCov,chexjiang
-SparseDC,cran
+SparseDC,jli-stat
 sparseDFM,cran
 sparsediscrim,topepo
 sparseEigen,dppalomar
@@ -20939,7 +20944,7 @@ sparseLTSEigen,aalfons
 SparseM,rudjer
 sparseMatEst,cran
 sparseMatrixStats,bioc
-SparseMDC,cran
+SparseMDC,jli-stat
 SPARSEMODr,nau-ccl
 SparseMSE,laxchan
 sparseMVN,braunm
@@ -21774,6 +21779,7 @@ SuperpixelImageSegmentation,mlampros
 Superpower,arcaldwell49
 SuperRanker,ekstroem
 supersigs,bioc
+superspreading,epiverse-trace
 supervisedPRIM,dashaub
 SupMZ,myaseen208
 suppdata,ropensci
@@ -21806,7 +21812,7 @@ SurrogateSeq,laylaparast
 SurrogateTest,laylaparast
 surrosurv,oncostat
 surrosurvROC,yunrochung
-suRtex,cran
+suRtex,consolecowboy0
 surtvep,um-kevinhe
 surv2sampleComp,mikihoriguchi
 survAH,mikihoriguchi
@@ -23248,6 +23254,7 @@ tzupdater,sthonnard
 u5mr,myominnoo
 uaparserjs,hrbrmstr
 uavRmp,gisma
+ubair,cran
 UBayFS,annajenul
 UBCRM,zemmourc
 ubiquity,john-harrold

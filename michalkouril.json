@@ -1,5 +1,10 @@
 [
   {
+    "package": "oncmap",
+    "maintainer": "Michal Kouril <Michal.Kouril@cchmc.org>",
+    "url": "https://github.com/cran/oncmap"
+  },
+  {
     "package": "pcatsAPIclientR",
     "maintainer": "Michal Kouril <michal.kouril@cchmc.org>",
     "url": "https://github.com/cran/pcatsAPIclientR"
