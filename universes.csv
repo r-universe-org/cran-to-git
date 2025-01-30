@@ -1242,6 +1242,7 @@ BayesCombo,stanlazic
 BayesComm,goldingn
 bayescopulareg,ethan-alt
 bayescount,mdenwood
+BayesCPclust,cran
 BayesCR,cran
 bayesCT,thevaachandereng
 BayesCTDesign,begglest
@@ -2041,6 +2042,7 @@ boral,fhui28
 borealis,bioc
 borrowr,cran
 Boruta,cran
+bosfr,yijin-zeng
 BosonSampling,cran
 BoSSA,lefeup
 bossR,ubcxzhang
@@ -3435,7 +3437,7 @@ colourvalues,symbolixau
 colourvision,cran
 COLP,nystat
 cols,cran
-cols4all,mtennekes
+cols4all,cols4all
 colt,s-fleck
 comapr,bioc
 comat,nowosad
@@ -4756,6 +4758,7 @@ depmixS4,ingmarvisser
 DEPONS2R,jacobnabe
 deposits,ropensci
 depower,bklamer
+deprivateR,pfizer-opensource
 DeProViR,bioc
 deps,analythium
 depth.plot,cran
@@ -11022,6 +11025,7 @@ LAWBL,jinsong-chen
 lawstat,vlyubchich
 lax,paulnorthrop
 lay,courtiol
+layer,marcosci
 lazy,theoverhelst
 lazyarray,dipterix
 lazybar,finyang
@@ -11222,6 +11226,7 @@ LifeInsuranceContracts,kainhofer
 LifeInsureR,kainhofer
 lifelogr,lisaannyu
 LifemapR,lifemap-tol
+lifepack,oskarallerslev
 lifeR,jcoliver
 Lifertable,cran
 LifeTables,cran
@@ -11998,6 +12003,7 @@ matsbyname,matthewheun
 matsindf,matthewheun
 MatSkew,cran
 matter,bioc
+MatTransMix,xuwenzhu20
 matuR,josedv82
 mau,pedroguarderas
 mauricer,ropensci
@@ -12244,6 +12250,7 @@ mefdind,eldafani
 MEFM,zerokgkg1368
 Mega2R,danieleweeks
 megadepth,bioc
+MEGB,cran
 MEGENA,songw01
 meifly,hadley
 MEIGOR,bioc
@@ -14787,6 +14794,7 @@ ordinalLBM,marcogenni
 ordinalNet,cran
 ordinalpattern,cran
 ordinalRR,kjryan13
+ordinalsimr,neuroshepherd
 OrdMonReg,numbersman77
 OrdNor,bernice0321
 ordPens,ahoshiyar
@@ -16060,6 +16068,7 @@ popPyramid,musajajorge
 popReconstruct,cran
 popstudy,cran
 poptrend,jknape
+PopulateR,programgirl
 population,gchapron
 PopulationGrowthR,bimanc
 populationPDXdesign,cran
@@ -17079,6 +17088,7 @@ RAdwords,jburkhardt
 raem,cneyens
 raer,bioc
 rafalib,rairizarry
+RAFS,yoctozepto
 rafsi,mateusvanzetta
 Rage,jonesor
 ragg,r-lib
@@ -17573,6 +17583,7 @@ Rdisop,bioc
 rdist,blasern
 Rdistance,tmcd82070
 rdiversity,boydorr
+rdlearn,kkawato
 rdlocrand,gvazquezbare
 RDM,christopherstrothmann
 RDML,pcruniversum
@@ -17926,6 +17937,7 @@ represtools,pirategrunt
 reprex,tidyverse
 reproducer,lechmadeyski
 reproducible,predictiveecology
+reproducibleRchunks,brandmaier
 reproj,hypertidy
 repsd,anthonyraborn
 REPTILE,yupenghe
@@ -20145,6 +20157,7 @@ shinyChakraSlider,stla
 shinyChakraUI,stla
 shinychat,jcheng5
 shinyChatR,julianschmocker
+shinyCLT,ptuc-stats
 shinyCohortBuilder,r-world-devs
 shinyCox,harryc598
 shinycroneditor,semipublicdlf
@@ -20636,6 +20649,7 @@ smapr,ropensci
 SMARTbayesR,wilart
 smartDesign,sinnweja
 SmartEDA,daya6489
+smarter,cran
 SmarterPoland,pbiecek
 smartid,bioc
 smartmap,s-fleck
@@ -20941,6 +20955,7 @@ SparseFunClust,wleoncio
 sparsegl,dajmcdon
 SparseGrid,cran
 sparseHessianFD,braunm
+SparseICA,thebrisklab
 sparseIndexTracking,dppalomar
 sparseinv,andrewzm
 sparseLDA,topepo
@@ -22352,6 +22367,7 @@ text2sdgData,psychobas
 text2speech,jhudsl
 text2vec,dselivanov
 textab,setzler
+textanalyzer,cran
 textAnnotatoR,chaoliu-cl
 textBoxPlacement,barryzee
 textcat,kurthornik
