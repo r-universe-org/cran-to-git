@@ -1,5 +1,10 @@
 [
   {
+    "package": "shrinkGPR",
+    "maintainer": "Peter Knaus <peter.knaus@wu.ac.at>",
+    "url": "https://github.com/neferkareii/shrinkgpr"
+  },
+  {
     "package": "shrinkTVP",
     "maintainer": "Peter Knaus <peter.knaus@wu.ac.at>",
     "url": "https://github.com/cran/shrinkTVP"

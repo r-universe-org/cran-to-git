@@ -7487,7 +7487,7 @@
   {
     "package": "miaViz",
     "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
-    "url": "https://git.bioconductor.org/packages/miaViz",
+    "url": "https://github.com/microbiome/miaviz",
     "registry": "bioc"
   },
   {
@@ -13242,7 +13242,7 @@
   },
   {
     "package": "twilight",
-    "maintainer": "Stefanie Scheid <stefanie.scheid@gmx.de>",
+    "maintainer": "Stefanie Scheid (Stefanie Senger) <stefanie.scheid@gmx.de>",
     "url": "https://git.bioconductor.org/packages/twilight",
     "registry": "bioc"
   },
