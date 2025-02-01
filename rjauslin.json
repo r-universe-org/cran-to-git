@@ -1,5 +1,10 @@
 [
   {
+    "package": "StratifiedSampling",
+    "maintainer": "Raphael Jauslin <raphael.jauslin@bfs.admin.ch>",
+    "url": "https://github.com/rjauslin/stratifiedsampling"
+  },
+  {
     "package": "WaveSampling",
     "maintainer": "Raphaël Jauslin <raphael.jauslin@unine.ch>",
     "url": "https://github.com/rjauslin/wavesampling"

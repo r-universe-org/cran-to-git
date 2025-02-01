@@ -5,6 +5,11 @@
     "url": "https://github.com/posit-dev/connectapi"
   },
   {
+    "package": "connectcreds",
+    "maintainer": "Aaron Jacobs <aaron.jacobs@posit.co>",
+    "url": "https://github.com/posit-dev/connectcreds"
+  },
+  {
     "package": "shinylive",
     "maintainer": "Barret Schloerke <barret@posit.co>",
     "url": "https://github.com/posit-dev/r-shinylive"

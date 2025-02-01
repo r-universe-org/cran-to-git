@@ -2908,7 +2908,7 @@
   },
   {
     "package": "cytolib",
-    "maintainer": "Mike Jiang <mike@ozette.ai>",
+    "maintainer": "Mike Jiang <mike@ozette.com>",
     "url": "https://git.bioconductor.org/packages/cytolib",
     "registry": "bioc"
   },
@@ -11338,6 +11338,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scQTLtools",
+    "maintainer": "Xiaofeng Wu <1427972815@qq.com>",
+    "url": "https://github.com/xfwucn/scqtltools",
+    "registry": "bioc"
+  },
+  {
     "package": "scran",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/marionilab/scran",
@@ -12073,6 +12079,18 @@
     "package": "SpatialExperiment",
     "maintainer": "Dario Righelli <dario.righelli@gmail.com>",
     "url": "https://github.com/drighelli/spatialexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpatialExperimentIO",
+    "maintainer": "Yixing E. Dong <estelladong729@gmail.com>",
+    "url": "https://github.com/estellad/spatialexperimentio",
+    "registry": "bioc"
+  },
+  {
+    "package": "spatialFDA",
+    "maintainer": "Martin Emons <martin.emons@uzh.ch>",
+    "url": "https://github.com/mjemons/spatialfda",
     "registry": "bioc"
   },
   {

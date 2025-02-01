@@ -245,6 +245,11 @@
     "url": "https://github.com/eddelbuettel/rcpptoml"
   },
   {
+    "package": "RcppUUID",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppuuid"
+  },
+  {
     "package": "RcppXts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppxts"
@@ -328,5 +333,10 @@
     "package": "ulid",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/ulid"
+  },
+  {
+    "package": "zigg",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/zigg"
   }
 ]

@@ -33,5 +33,10 @@
     "package": "rqlm",
     "maintainer": "Hisashi Noma <noma@ism.ac.jp>",
     "url": "https://github.com/cran/rqlm"
+  },
+  {
+    "package": "survNMA",
+    "maintainer": "Hisashi Noma <noma@ism.ac.jp>",
+    "url": "https://github.com/cran/survNMA"
   }
 ]
