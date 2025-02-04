@@ -5,6 +5,11 @@
     "url": "https://github.com/r-tmap/tmap"
   },
   {
+    "package": "tmap.cartogram",
+    "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
+    "url": "https://github.com/r-tmap/tmap.cartogram"
+  },
+  {
     "package": "tmaptools",
     "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
     "url": "https://github.com/r-tmap/tmaptools"

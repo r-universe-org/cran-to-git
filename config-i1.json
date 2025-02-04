@@ -1,14 +1,19 @@
 [
   {
+    "package": "complex",
+    "maintainer": "Ivan Svetunkov <ivan@svetunkov.com>",
+    "url": "https://github.com/config-i1/complex",
+    "registry": "archived"
+  },
+  {
     "package": "greybox",
     "maintainer": "Ivan Svetunkov <ivan@svetunkov.com>",
     "url": "https://github.com/config-i1/greybox"
   },
   {
     "package": "legion",
-    "maintainer": "Ivan Svetunkov <ivan@svetunkov.ru>",
-    "url": "https://github.com/config-i1/legion",
-    "registry": "archived"
+    "maintainer": "Ivan Svetunkov <ivan@svetunkov.com>",
+    "url": "https://github.com/config-i1/legion"
   },
   {
     "package": "smooth",
