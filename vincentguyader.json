@@ -1,5 +1,10 @@
 [
   {
+    "package": "shiny2docker",
+    "maintainer": "Vincent Guyader <vincent@thinkr.fr>",
+    "url": "https://github.com/vincentguyader/shiny2docker"
+  },
+  {
     "package": "tetraclasse",
     "maintainer": "vincent guyader <vincent@thinkr.fr>",
     "url": "https://github.com/cran/tetraclasse"

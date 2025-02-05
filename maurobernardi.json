@@ -1,5 +1,10 @@
 [
   {
+    "package": "fastQR",
+    "maintainer": "Mauro Bernardi <mauro.bernardi@unipd.it>",
+    "url": "https://github.com/cran/fastQR"
+  },
+  {
     "package": "fdaSP",
     "maintainer": "Mauro Bernardi <mauro.bernardi@unipd.it>",
     "url": "https://github.com/cran/fdaSP"

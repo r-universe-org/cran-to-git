@@ -8,5 +8,10 @@
     "package": "RefBasedMI",
     "maintainer": "Matteo Quartagno <m.quartagno@ucl.ac.uk>",
     "url": "https://github.com/ucl/refbasedmi"
+  },
+  {
+    "package": "rmcmc",
+    "maintainer": "Matthew M. Graham <m.graham@ucl.ac.uk>",
+    "url": "https://github.com/ucl/rmcmc"
   }
 ]

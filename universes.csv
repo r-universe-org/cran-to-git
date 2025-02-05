@@ -6712,6 +6712,7 @@ fastpos,johannes-titz
 FastqCleaner,bioc
 fastqcr,kassambara
 fastqq,gumeo
+fastQR,maurobernardi
 fastR2,rpruim
 FastRCS,kvak
 fastreeR,bioc
@@ -10858,6 +10859,7 @@ KPC,zh2395
 kpcaIG,cran
 kpcalg,cran
 kpeaks,cran
+kpiwidget,arnold-kakas
 kpmt,map2085
 kpodclustr,jocelynchi
 KrakenR,nathanael-g-durst
@@ -13212,6 +13214,7 @@ mosaics,bioc
 mosbi,bioc
 MOSClip,bioc
 mosdef,bioc
+MOsemiind,cran
 MOSim,bioc
 mosqcontrol,cran
 MOST,dziakj1
@@ -14120,6 +14123,7 @@ nlopt,cran
 nloptr,astamm
 NLP,kurthornik
 NLPclient,schweflo
+nlpembeds,thomaschln
 nlpred,benkeser
 nlpsem,veronica0206
 NLPutils,kurthornik
@@ -16890,7 +16894,6 @@ quadprog,berwinturlach
 quadprogXT,rharlow86
 quadraticSD,cran
 QuadratiK,ropensci
-QuadratiK-package,ropensci
 QuadRoot,cran
 quadrupen,jchiquet
 quadtree,dfriend21
@@ -18095,6 +18098,7 @@ rfordummies,rfordummies
 Rforestry,forestry-labs
 RFormatter,evolutics
 rfPermute,ericarcher
+RFplus,jonnathan-landi
 RFPM,cran
 rfPred,bioc
 RFpredInterval,calakus
@@ -18420,6 +18424,7 @@ rmBayes,zhengxiaouvic
 RMBC,jdgonzalezwork
 RMCC,r-lidar
 rmcfs,cran
+rmcmc,ucl
 rmcorr,lmarusich
 rmda,mdbrown
 RmdConcord,dmurdoch
@@ -20161,6 +20166,7 @@ shiny.router,appsilon
 shiny.semantic,appsilon
 shiny.tailwind,kylebutts
 shiny.telemetry,appsilon
+shiny2docker,vincentguyader
 shinyAce,trestletech
 shinyaframe,cran
 shinyalert,daattali
@@ -20242,7 +20248,7 @@ shinyPredict,jkhaukka
 shinyQueryBuilder,krystian8207
 ShinyQuickStarter,cran
 shinyquiz,priism-center
-shinyr,cran
+shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
 shinyrecipes,albertoalmuinha
@@ -21326,6 +21332,7 @@ SQL,cran
 sqlcaser,cran
 SQLDataFrame,bioc
 sqldf,ggrothendieck
+SQLFormatteR,dataupsurge
 sqlhelper,majerr
 sqlHelpers,tconwell
 sqliter,wilsonfreitas
