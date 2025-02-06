@@ -1235,6 +1235,7 @@ bayesammi,myaseen208
 bayesanova,rikoke
 BayesARIMAX,cran
 bayesassurance,jpan928
+BayesAT,hermitz9
 BayesBEKK,cran
 BayesBinMix,mqbssppe
 bayesbio,andymckenzie
@@ -1736,6 +1737,7 @@ BiocHubsShiny,bioc
 BiocIO,bioc
 BioCircos,lvulliard
 bioclim,cran
+biocmake,bioc
 BiocManager,bioconductor
 BiocNeighbors,bioc
 biocompute,sbg
@@ -2845,6 +2847,9 @@ ChessGmooG,impaug
 chest,uqwang
 ChestVolume,cran
 CHETAH,bioc
+chevreulPlot,bioc
+chevreulProcess,bioc
+chevreulShiny,bioc
 chevron,insightsengineering
 CHFF,kylecaudle
 chi,dkahle
@@ -2967,6 +2972,7 @@ circlus,cran
 CircMLE,rfitak
 CircNNTSR,cran
 CircNNTSRmult,cran
+CircNNTSRSymmetric,cran
 CircOutlier,cran
 circRNAprofiler,bioc
 CircSeqAlignTk,bioc
@@ -9472,6 +9478,7 @@ hopit,maciejdanko
 hopkins,kwstat
 HoRM,dsy109
 hornpa,flh3
+Horsekicks,billvenables
 horseshoe,svdpas
 horseshoenlm,maitya02
 hosm,mubarakfadhlul
@@ -12011,6 +12018,7 @@ matrixset,pascalcroteau
 matrixStats,henrikbengtsson
 matrixStrucTest,bdsegal
 matrixTests,karoliskoncevicius
+matriz,jpmonteagudo28
 matsbyname,matthewheun
 matsindf,matthewheun
 MatSkew,cran
@@ -12327,6 +12335,7 @@ MetaboAnnotation,bioc
 MetaboCoreUtils,bioc
 metaboData,aberhrml
 metabodecon,spang-lab
+MetaboDynamics,bioc
 MetabolAnalyze,gormleyi
 metabolic,fmmattioni
 MetabolicSurv,olajumokeevangelina
@@ -15670,6 +15679,7 @@ piano,bioc
 piar,marberts
 picante,skembel
 picasso,cran
+PICB,bioc
 PICBayes,cran
 picClip,deppemj
 picker,hms-dbmi
@@ -21199,6 +21209,7 @@ sphunif,egarpor
 SPIA,bioc
 SPIAT,bioc
 SpiceFP,giraultg
+SPIChanges,gabrielblain
 spicyR,bioc
 spider,boopsboops
 spiderbar,hrbrmstr
@@ -21924,7 +21935,7 @@ survivalVignettes,bethatkinson
 survivoR,doehm
 SurvLong,sth1402
 SurvMA,stat-wangxg
-SurvMetrics,skyee1
+SurvMetrics,whcsu
 SurvMI,yimingc1208
 survminer,kassambara
 survMisc,dardisco
@@ -22336,6 +22347,7 @@ TEQC,bioc
 TEQR,cran
 tergm,statnet
 tergmLite,smjenness
+tergo,kpagacz
 term,poissonconsulting
 terminaldigits,cran
 tern,insightsengineering
@@ -24199,6 +24211,7 @@ wpp2017,hanase
 wpp2019,hanase
 wppExplorer,hanase
 wppi,bioc
+WpProj,ericdunipace
 wql,jsta
 WQM,cran
 wqs,cran

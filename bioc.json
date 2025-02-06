@@ -1117,6 +1117,12 @@
     "registry": "bioc"
   },
   {
+    "package": "biocmake",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/ltla/biocmake",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocNeighbors",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://git.bioconductor.org/packages/BiocNeighbors",
@@ -1943,6 +1949,24 @@
     "package": "CHETAH",
     "maintainer": "Jurrian de Kanter <jurriandekanter@gmail.com>",
     "url": "https://github.com/jdekanter/chetah",
+    "registry": "bioc"
+  },
+  {
+    "package": "chevreulPlot",
+    "maintainer": "Kevin Stachelek <kevin.stachelek@gmail.com>",
+    "url": "https://github.com/cobriniklab/chevreulplot",
+    "registry": "bioc"
+  },
+  {
+    "package": "chevreulProcess",
+    "maintainer": "Kevin Stachelek <kevin.stachelek@gmail.com>",
+    "url": "https://github.com/cobriniklab/chevreulprocess",
+    "registry": "bioc"
+  },
+  {
+    "package": "chevreulShiny",
+    "maintainer": "Kevin Stachelek <kevin.stachelek@gmail.com>",
+    "url": "https://github.com/cobriniklab/chevreulshiny",
     "registry": "bioc"
   },
   {
@@ -7197,6 +7221,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MetaboDynamics",
+    "maintainer": "Katja Danielzik <katja.danielzik@uni-due.de>",
+    "url": "https://github.com/katjadanielzik/metabodynamics",
+    "registry": "bioc"
+  },
+  {
     "package": "metabolomicsWorkbenchR",
     "maintainer": "Gavin Rhys Lloyd <g.r.lloyd@bham.ac.uk>",
     "url": "https://git.bioconductor.org/packages/metabolomicsWorkbenchR",
@@ -9283,6 +9313,12 @@
     "package": "piano",
     "maintainer": "Leif Varemo Wigge <piano.rpkg@gmail.com>",
     "url": "https://github.com/varemo/piano",
+    "registry": "bioc"
+  },
+  {
+    "package": "PICB",
+    "maintainer": "Franziska Ahrend <haase-lab-bioinfo@nih.gov>",
+    "url": "https://github.com/haaselab/picb",
     "registry": "bioc"
   },
   {

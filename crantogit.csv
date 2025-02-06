@@ -1013,6 +1013,7 @@ BiocHail,https://github.com/vjcitn/biochail,,bioc
 BiocHubsShiny,https://github.com/bioconductor/biochubsshiny,,bioc
 BiocIO,https://github.com/bioconductor/biocio,,bioc
 BioCircos,https://github.com/lvulliard/biocircos.r,,
+biocmake,https://github.com/ltla/biocmake,,bioc
 BiocManager,https://github.com/bioconductor/biocmanager,,
 biocompute,https://github.com/sbg/biocompute,,
 BioCor,https://github.com/llrs/biocor,,bioc
@@ -1691,6 +1692,9 @@ cherryblossom,https://github.com/openintrostat/cherryblossom,,
 chess,https://github.com/curso-r/chess,,
 chessboard,https://github.com/frbcesab/chessboard,,
 CHETAH,https://github.com/jdekanter/chetah,,bioc
+chevreulPlot,https://github.com/cobriniklab/chevreulplot,,bioc
+chevreulProcess,https://github.com/cobriniklab/chevreulprocess,,bioc
+chevreulShiny,https://github.com/cobriniklab/chevreulshiny,,bioc
 chevron,https://github.com/insightsengineering/chevron,,
 chi,https://github.com/dkahle/chi,,
 chihaya,https://github.com/artifactdb/chihaya-r,,bioc
@@ -7244,6 +7248,7 @@ matrixset,https://github.com/pascalcroteau/matrixset,,
 matrixStats,https://github.com/henrikbengtsson/matrixstats,,
 matrixStrucTest,https://github.com/bdsegal/matrixstructest,,
 matrixTests,https://github.com/karoliskoncevicius/matrixtests,,
+matriz,https://github.com/jpmonteagudo28/matriz,,
 matsbyname,https://github.com/matthewheun/matsbyname,,
 matsindf,https://github.com/matthewheun/matsindf,,
 matter,https://github.com/kuwisdelu/matter,,bioc
@@ -7418,6 +7423,7 @@ MetaboAnnotation,https://github.com/rformassspectrometry/metaboannotation,,bioc
 MetaboCoreUtils,https://github.com/rformassspectrometry/metabocoreutils,,bioc
 metaboData,https://github.com/aberhrml/metabodata,,
 metabodecon,https://github.com/spang-lab/metabodecon,,
+MetaboDynamics,https://github.com/katjadanielzik/metabodynamics,,bioc
 metabolic,https://github.com/fmmattioni/metabolic,,
 MetabolicSurv,https://github.com/olajumokeevangelina/metabolicsurv,,
 MetabolicSyndrome,https://github.com/jagadishramasamy/metsynd,,
@@ -9406,6 +9412,7 @@ phytools,https://github.com/liamrevell/phytools,,
 piano,https://github.com/varemo/piano,,bioc
 piar,https://github.com/marberts/piar,,
 picante,https://github.com/skembel/picante,,
+PICB,https://github.com/haaselab/picb,,bioc
 picClip,https://github.com/deppemj/picclip,,
 picker,https://github.com/hms-dbmi/picker,,
 picohdr,https://github.com/coolbutuseless/picohdr,,
@@ -12947,6 +12954,7 @@ sphet,https://github.com/gpiras/sphet,,
 sphunif,https://github.com/egarpor/sphunif,,
 SPIAT,https://github.com/trigosteam/spiat,,bioc
 SpiceFP,https://github.com/giraultg/spicefp,,
+SPIChanges,https://github.com/gabrielblain/spichanges,,
 spicyR,https://github.com/sydneybiox/spicyr,,bioc
 spider,https://github.com/boopsboops/spider,,
 spiderbar,https://github.com/hrbrmstr/spiderbar,,
@@ -13388,7 +13396,7 @@ survivalsvm,https://github.com/imbs-hl/survivalsvm,,
 survivalVignettes,https://github.com/bethatkinson/survivalvignettes,,
 survivoR,https://github.com/doehm/survivor,,
 SurvMA,https://github.com/stat-wangxg/survma,,
-SurvMetrics,https://github.com/skyee1/survmetrics,,archived
+SurvMetrics,https://github.com/whcsu/survmetrics,,
 SurvMI,https://github.com/yimingc1208/survmi,,
 survminer,https://github.com/kassambara/survminer,,
 survMisc,https://github.com/dardisco/survmisc,,
@@ -14879,6 +14887,7 @@ woylier,https://github.com/numbats/woylier,,
 wpa,https://github.com/microsoft/wpa,,
 wpm,https://github.com/helbor/wpm,,bioc
 wppi,https://github.com/agalhoz/wppi,,bioc
+WpProj,https://github.com/ericdunipace/wpproj,,
 wql,https://github.com/jsta/wql,,
 wqspt,https://github.com/drewdstat/wqspt,,
 wqtrends,https://github.com/tbep-tech/wqtrends,,
