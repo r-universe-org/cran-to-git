@@ -5068,6 +5068,7 @@ discoveR,cran
 discoverableresearch,cran
 DiscreteDatasets,disohda
 DiscreteDists,fhernanb
+DiscreteDLM,dandempsey
 DiscreteFDR,disohda
 discretefit,josh-mc
 DiscreteFWER,disohda
@@ -5814,6 +5815,7 @@ educationdata,urbaninstitute
 educationR,lightbluetitan
 educineq,jordavuc
 edwards97,paleolimbot
+EEAaq,paolomaranzano
 eefAnalytics,germaine86
 eegkit,cran
 eegkitdata,cran
@@ -6206,7 +6208,7 @@ equate,talbano
 equateIRT,micbtz
 equateMultiple,micbtz
 equatiomatic,datalorax
-equiBSPD,cran
+equiBSPD,bijoy231997
 equil2,billdenney
 EquiSurv,kathrinmoellenhoff
 EquiTrends,tiesbos
@@ -9512,7 +9514,7 @@ hrcomprisk,antiportad
 hrf,mandymejia
 hrqglas,shaobo-li
 hrt,cran
-hrtlFMC,cran
+hrtlFMC,bijoy231997
 HRW,mattwand
 HSAR,spatlyu
 HSAUR,thothorn
@@ -10521,6 +10523,7 @@ jdenticon,mattroumaya
 Jdmbs,jirotubuyaki
 jds.rmd,wenjie2wang
 jeek,blw921
+jellyfisher,hautaniemilab
 jenga,pigian
 jenkins,ropensci
 jetpack,ankane
@@ -12078,6 +12081,7 @@ mblm,luqqe
 MBmca,pcruniversum
 MBMethPred,sharifrahmanie
 mbmixture,kbroman
+MBNMAdose,hugaped
 MBNMAtime,hugaped
 mboost,boost-r
 mBPCR,bioc
@@ -12681,7 +12685,7 @@ minerva,filosi
 minesweeper,hrryt
 mineSweepR,zhuxr11
 minet,bioc
-minFactorial,cran
+minFactorial,bijoy231997
 minfi,bioc
 minic,bertvanderveen
 miniCRAN,andrie
@@ -14618,6 +14622,7 @@ OneArm2stage,cran
 OneArmTTE,cran
 oneclust,nanxstats
 onehot,gravesee
+oneinfl,rtgodwin
 onekp,ropensci
 onelogin,akgold
 onemap,cristianetaniguti
@@ -15121,6 +15126,7 @@ paramhetero,tloux
 paramix,cmmid
 paramlink,magnusdv
 paramlink2,magnusdv
+params,sahilseth
 paramsim,sta189332
 paramtest,jeff-hughes
 paran,alexisdinno
@@ -16554,6 +16560,7 @@ PSDistr,cran
 psdr,yhankcheng
 pseudo,kevin444
 pseudobibeR,browndw
+pseudoCure,stc04003
 pseudohouseholds,chris31415926535
 pseval,sachsmc
 PSF,neerajdhanraj
@@ -21199,6 +21206,7 @@ spGARCH,cran
 spgs,cran
 spgwr,rsbivand
 spheredata,santosoph
+sphereML,santosoph
 SphereOptimize,cran
 spherepc,jongminlee-stat
 sphereplot,asgr
@@ -22077,6 +22085,7 @@ SyncRNG,gjjvdburg
 SYNCSA,vanderleidebastiani
 SynDI,umich-biostatistics
 synergyfinder,bioc
+SynergyLMM,rafromb
 SynExtend,bioc
 synlet,bioc
 synlik,mfasiolo
@@ -22175,6 +22184,7 @@ tailTransform,cran
 taipan,srkobakian
 takos,sere3s
 talkr,mdingemanse
+tall,massimoaria
 TAM,alexanderrobitzsch
 tame,laksafoss
 tanaka,riatelab
@@ -23677,7 +23687,7 @@ vegan3d,vegandevs
 vegawidget,vegawidget
 vegclust,emf-creaf
 vegdata,florianjansen
-vegIndexCalc,cran
+vegIndexCalc,bijoy231997
 vegperiod,rnuske
 vegtable,kamapu
 vein,atmoschem
@@ -23935,6 +23945,7 @@ washr,openwashdata
 WASP,zejiang-unsw
 waspasR,flavio-barbara
 waspr,joliencremers
+watcher,r-lib
 waterData,kryberg-usgs
 waterfall,k3jph
 waterfalls,hughparsonage
