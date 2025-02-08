@@ -145,11 +145,6 @@
     "url": "https://github.com/ropensci/cld3"
   },
   {
-    "package": "clifro",
-    "maintainer": "Blake Seers <blake.seers@gmail.com>",
-    "url": "https://github.com/ropensci/clifro"
-  },
-  {
     "package": "codemetar",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/codemetar"
@@ -985,6 +980,11 @@
     "package": "taxadb",
     "maintainer": "Carl Boettiger <cboettig@gmail.com>",
     "url": "https://github.com/ropensci/taxadb"
+  },
+  {
+    "package": "taxize",
+    "maintainer": "Zachary Foster <zacharyfoster1989@gmail.com>",
+    "url": "https://github.com/ropensci/taxize"
   },
   {
     "package": "taxlist",
