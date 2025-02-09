@@ -340,6 +340,11 @@
     "url": "https://github.com/ropensci/geonames"
   },
   {
+    "package": "getCRUCLdata",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://github.com/ropensci/getcrucldata"
+  },
+  {
     "package": "ghql",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/ghql"
