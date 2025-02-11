@@ -1,5 +1,10 @@
 [
   {
+    "package": "BayesERtools",
+    "maintainer": "Kenta Yoshida <yoshida.kenta.6@gmail.com>",
+    "url": "https://github.com/genentech/bayesertools"
+  },
+  {
     "package": "checked",
     "maintainer": "Szymon Maksymiuk <sz.maksymiuk@gmail.com>",
     "url": "https://github.com/genentech/checked"
