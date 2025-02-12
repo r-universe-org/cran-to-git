@@ -35,6 +35,11 @@
     "url": "https://github.com/biometris/statgenibd"
   },
   {
+    "package": "statgenMPP",
+    "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
+    "url": "https://github.com/biometris/statgenmpp"
+  },
+  {
     "package": "statgenSTA",
     "maintainer": "Bart-Jan van Rossum <bart-jan.vanrossum@wur.nl>",
     "url": "https://github.com/biometris/statgensta"

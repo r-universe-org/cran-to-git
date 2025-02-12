@@ -95,6 +95,11 @@
     "url": "https://github.com/ohdsi/parallellogger"
   },
   {
+    "package": "PatientLevelPrediction",
+    "maintainer": "Egill Fridgeirsson <e.fridgeirsson@erasmusmc.nl>",
+    "url": "https://github.com/ohdsi/patientlevelprediction"
+  },
+  {
     "package": "PhenotypeR",
     "maintainer": "Edward Burn <edward.burn@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/phenotyper"
