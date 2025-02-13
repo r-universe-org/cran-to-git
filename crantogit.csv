@@ -1043,7 +1043,7 @@ bioinactivation,https://github.com/albgarre/bioinactivation,,
 biolink,https://github.com/aaronwolen/biolink,,
 biomaRt,https://github.com/grimbough/biomart,,bioc
 biomartr,https://github.com/ropensci/biomartr,,
-BIOMASS,https://github.com/umr-amap/biomass,,archived
+BIOMASS,https://github.com/umr-amap/biomass,,
 biometryassist,https://github.com/biometryhub/biometryassist,,
 biomformat,https://github.com/joey711/biomformat,,bioc
 biomod2,https://github.com/biomodhub/biomod2,,
@@ -1722,7 +1722,7 @@ CHOIRBM,https://github.com/emcramer/choirbm,,
 cholera,https://github.com/lindbrook/cholera,,
 CholWishart,https://github.com/gzt/cholwishart,,
 chooseGCM,https://github.com/luizesser/choosegcm,,
-choroplethr,https://github.com/arilamstein/choroplethr,,
+choroplethr,https://github.com/arilamstein/choroplethr,,archived
 choroplethrAdmin1,https://github.com/arilamstein/choroplethradmin1,,
 choroplethrMaps,https://github.com/arilamstein/choroplethrmaps,,
 chouca,https://github.com/alexgenin/chouca,,
@@ -3044,6 +3044,7 @@ discordant,https://github.com/siskac/discordant,,bioc
 DiscoRhythm,https://github.com/matthewcarlucci/discorhythm,,bioc
 DiSCos,https://github.com/davidvandijcke/discos,,
 discourseGT,https://github.com/q1cui/discoursegt,,
+discoveR,https://github.com/promidat/discover,,
 DiscreteDatasets,https://github.com/disohda/discretedatasets,,
 DiscreteDists,https://github.com/fhernanb/discretedists,,
 DiscreteDLM,https://github.com/dandempsey/discretedlm,,
@@ -3873,7 +3874,7 @@ exams.forge.data,https://github.com/sigbertklinke/exams.forge.data,,
 exams.mylearn,https://github.com/hdarjus/exams.mylearn,,
 exams2sakai,https://github.com/jesusmmp/exams2sakai,,
 ExceedanceTools,https://github.com/jfrench/exceedancetools,,
-exceedProb,https://github.com/bdsegal/exceedprob,,
+exceedProb,https://github.com/bdsegal/exceedprob,,archived
 excel2eprime,https://github.com/wujackwill/excel2eprime,,
 excelR,https://github.com/swechhya/excelr,,
 excluder,https://github.com/ropensci/excluder,,
@@ -4161,7 +4162,7 @@ fgeo.x,https://github.com/forestgeo/fgeo.x,,
 fgga,https://github.com/fspetale/fgga,,bioc
 fgitR,https://github.com/fastgitorg/fgitr,,
 fgm,https://github.com/javzapata/fgm,,
-fgsea,https://github.com/ctlab/fgsea,,bioc
+fgsea,https://github.com/alserglab/fgsea,,bioc
 fhircrackr,https://github.com/polar-fhir/fhircrackr,,
 fHMM,https://github.com/loelschlaeger/fhmm,,
 FI,https://github.com/dvdscripter/fi,,
@@ -4380,7 +4381,6 @@ forensicolors,https://github.com/marsicofl/forensicolors,,
 foreSIGHT,https://github.com/climateanalytics/foresight,,
 forestat,https://github.com/caf-ifrit/forestat,forestat,
 forestControl,https://github.com/aberhrml/forestcontrol,,
-forestdata,https://github.com/cidree/forestdata,,archived
 forestdynR,https://github.com/higuchip/forestdynr,,archived
 forestecology,https://github.com/rudeboybert/forestecology,,
 forested,https://github.com/simonpcouch/forested,,
@@ -4764,6 +4764,7 @@ geoarrow,https://github.com/geoarrow/geoarrow-r,,
 geocacheR,https://github.com/alunhewinson/geocacher,,
 geocausal,https://github.com/mmukaigawara/geocausal,,
 geocmeans,https://github.com/jeremygelb/geocmeans,,
+geocodebr,https://github.com/ipeagit/geocodebr,,
 geocomplexity,https://github.com/ausgis/geocomplexity,,
 geodaData,https://github.com/spatialanalysis/geodadata,,
 geodata,https://github.com/rspatial/geodata,,
@@ -8187,6 +8188,7 @@ multispatialCCM,https://github.com/adamtclark/multispatialccm,,
 multistateQTL,https://github.com/dunstone-a/multistateqtl,,bioc
 multitaper,https://github.com/krahim/multitaper,,
 multitool,https://github.com/ethan-young/multitool,,
+MultiTraits,https://github.com/temp20250212/multitraits,,
 multivar,https://github.com/zackfisher/multivar,,
 multivarious,https://github.com/bbuchsbaum/multivarious,,
 multivator,https://github.com/robinhankin/multivator,,
@@ -8551,7 +8553,7 @@ nnSVG,https://github.com/lmweber/nnsvg,,bioc
 NNTbiomarker,https://github.com/professorbeautiful/nntbiomarkerhome,,
 nnTensor,https://github.com/rikenbit/nntensor,,
 nntmvn,https://github.com/jcatwood/nntmvn,,
-noaastormevents,https://github.com/geanders/noaastormevents,,
+noaastormevents,https://github.com/geanders/noaastormevents,,archived
 noah,https://github.com/teebusch/noah,,
 NobBS,https://github.com/sarahhbellum/nobbs,,
 noctua,https://github.com/dyfanjones/noctua,,
@@ -9345,8 +9347,8 @@ PH1XBAR,https://github.com/bolus123/ph1xbar,,
 ph2bayes,https://github.com/nshi-stat/ph2bayes,,
 phacking,https://github.com/mathurlabstanford/phacking,,
 phangorn,https://github.com/klausvigo/phangorn,,
-phantasus,https://github.com/ctlab/phantasus,,bioc
-phantasusLite,https://github.com/ctlab/phantasuslite,,bioc
+phantasus,https://github.com/alserglab/phantasus,,bioc
+phantasusLite,https://github.com/alserglab/phantasuslite,,bioc
 phantSEM,https://github.com/argeorgeson/phantsem,,
 PharmacoGx,https://github.com/bhklab/pharmacogx,,bioc
 pharmaRTF,https://github.com/atorus-research/pharmartf,,
@@ -12258,7 +12260,7 @@ sfhotspot,https://github.com/mpjashby/sfhotspot,,
 sfislands,https://github.com/horankev/sfislands,,
 SFM,https://github.com/guangbaog/sfm,,
 sfnetworks,https://github.com/luukvdmeer/sfnetworks,,
-SFSI,https://github.com/marcoolopez/sfsi,,
+SFSI,https://github.com/marcoolopez/sfsi,,archived
 sfsmisc,https://github.com/mmaechler/sfsmisc,,
 sftime,https://github.com/r-spatial/sftime,,
 SFtools,https://github.com/mlaib/sftools,,
@@ -13115,6 +13117,7 @@ SSNbayes,https://github.com/edgarsantos-fernandez/ssnbayes,,
 SSNbler,https://github.com/pet221/ssnbler,,
 SSOSVM,https://github.com/andrewthomasjones/ssosvm,,
 SSP,https://github.com/edlinguerra/ssp,,
+sspm,https://github.com/pedersen-fisheries-lab/sspm,,
 ssr,https://github.com/enriquegit/ssr,,
 ssrn,https://github.com/uribo/ssrn,,
 SSRTcalc,https://github.com/agleontyev/ssrtcalc,,
@@ -13513,7 +13516,7 @@ synr,https://github.com/datalowe/synr,,
 syntaxr,https://github.com/alixlahuec/syntaxr,,
 syntenet,https://github.com/almeidasilvaf/syntenet,,bioc
 syntenyPlotteR,https://github.com/farre-lab/syntenyplotter,,
-synthACS,https://github.com/alexwhitworth/synthacs,,
+synthACS,https://github.com/alexwhitworth/synthacs,,archived
 synthesis,https://github.com/zejiang-unsw/synthesis,,
 synthesisr,https://github.com/mjwestgate/synthesisr,,
 synthesizer,https://github.com/markvanderloo/synthesizer,pkg,
