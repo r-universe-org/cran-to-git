@@ -99,7 +99,7 @@ acp,cran
 acro,ai-sdc
 acroname,vpnagraj
 AcrossTic,buttrey
-acs,cran
+acs,eglenn
 acss,cran
 acss.data,singmann
 ACSSpack,nkyangtzeqian
@@ -1242,6 +1242,7 @@ bayesbio,andymckenzie
 bayesboot,rasmusab
 BayesBP,cran
 BayesCACE,formidify
+BayesChange,lucadanese
 BayesCombo,stanlazic
 BayesComm,goldingn
 bayescopulareg,ethan-alt
@@ -4509,6 +4510,7 @@ daySupply,ab-sa
 dbacf,cran
 dbarts,vdorie
 dbcsp,cran
+DBCVindex,cran
 dbd,rolfturner
 DBEST,hristotomov
 DBfit,cran
@@ -6372,6 +6374,7 @@ eventstream,sevvandi
 eventstudyr,jmslab
 eventTrack,numbersman77
 EventWinRatios,daewoopak
+evesim,evolandeco
 evgam,byoungman
 EVI,kpatera
 evian,struglab
@@ -7032,7 +7035,7 @@ fitODBOD,amalan-constat
 fitODBODRshiny,amalan-constat
 fitode,parksw3
 fitplc,remkoduursma
-fitPoly,roelandv
+fitPoly,gitumino
 fitPS,jmcurran
 fitscape,rrrlw
 FITSio,cran
@@ -7344,6 +7347,7 @@ fqadata,cran
 fqar,equitable-equations
 fr,cole-brokamp
 frab,robinhankin
+fracARMA,cran
 fracdiff,mmaechler
 fracdist,leemorinucf
 FracKrigingR,nidagreen
@@ -8392,6 +8396,7 @@ gimmeTools,cran
 gimms,environmentalinformatics-marburg
 GiNA,cran
 Gini,marsdu1989
+giniCI,novidu
 GiniDecompLY,aambarek
 GiniDistance,cran
 giniVarCI,jfmunozrosas
@@ -9870,6 +9875,7 @@ iForecast,cran
 IFP,pgprojects
 ifpd,mubarakfadhlul
 ifs,siacus
+IFTPredictor,mudithabo
 ig.degree.betweenness,benyamindsmith
 ig.vancouver.2014.topcolour,rtanglao
 IgAScores,microbialman
@@ -14159,6 +14165,7 @@ nlpembeds,thomaschln
 nlpred,benkeser
 nlpsem,veronica0206
 NLPutils,kurthornik
+NLPwavelet,nilotpalsanyal
 nlraa,femiguez
 nlreg,arbrazzale
 NLRoot,zhengsengui
@@ -15493,6 +15500,7 @@ periscope2,aggregate-genius
 PERK,jkkishore85
 perm,cran
 PermAlgo,cran
+PerMallows,cran
 PERMANOVA,laura20vg
 PerMat,cran
 permChacko,ocbe-uio
@@ -15668,7 +15676,6 @@ phylepic,cidm-ph
 phylin,ptarroso
 phylobase,fmichonneau
 phylocanvas,zachcp
-phyloclim,cran
 phylocomr,ropensci
 PhylogeneticEM,pbastide
 PHYLOGR,rdiaz02
@@ -16650,6 +16657,7 @@ ptairMS,bioc
 PTAk,cran
 PTE,kapelner
 PTERP,laylaparast
+ptetools,bcallaway11
 ptinpoly,maisogjm
 pTITAN2,usepa
 ptm,jcaledo
@@ -17444,6 +17452,7 @@ RChest,azalk
 RchivalTag,rkbauer
 Rchoice,mauricio1986
 rChoiceDialogs,alexfoxfox
+rchroma,cynkra
 RChronoModel,philippe-a
 rciplot,cran
 RCircos,hzhanghenry
@@ -20124,6 +20133,7 @@ sGBJ,lauravillain
 sgboost,fabianobster
 SGCP,bioc
 sgd,airoldilab
+sgdGMF,cristiancastiglione
 SGDinference,sgdinference-lab
 sgee,gregvaughan
 sgeostat,cran
@@ -22055,6 +22065,7 @@ swamp,lau-mel
 swaprinc,mncube
 swaRm,swarm-lab
 swaRmverse,marinapapa
+swash,cran
 swatches,hrbrmstr
 SWATH2stats,bioc
 SwathXtend,bioc
@@ -22851,6 +22862,7 @@ tokenizers,ropensci
 tokenizers.bpe,bnosac
 tolerance,dsy109
 tomba,tomba-io
+tomledit,josiahparry
 tomoda,bioc
 tomoseqr,bioc
 tongfen,mountainmath
