@@ -3179,6 +3179,7 @@ ClusteredMutations,cran
 clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
+ClusterGVis,junjunlab
 clusterhap,gastonquero
 clusterHD,cran
 Clustering,laperez
@@ -3491,6 +3492,7 @@ CommonDataModel,cran
 CommonJavaJars,r-forge
 commonmark,ropensci
 CommonMean.Copula,cran
+commonmetar,ropensci
 commonsMath,dbdahl
 communication,christopherlucas
 comorbidity,ellessenne
@@ -9005,6 +9007,7 @@ guescini,ramiromagno
 guess,soodoku
 GUEST,cran
 guidedPLS,rikenbit
+guideR,larmarange
 GUIDEseq,bioc
 guildai,guildai
 GUILDS,thijsjanzen
@@ -9576,7 +9579,6 @@ HTT,jiaqihu2021
 httk,usepa
 httpcache,nealrichardson
 httpcode,sckott
-httpgd,nx10
 httping,sckott
 httpproblems,atheriel
 httpRequest,aw256
@@ -10627,7 +10629,7 @@ jqr,ropensci
 jquerylib,cpsievert
 jrc,anders-biostat
 jrich,dmirandae
-jrSiCKLSNMF,cran
+jrSiCKLSNMF,ellisdoro
 jrt,nilsmy
 jrvFinance,jrvarma
 js,jeroen
@@ -13572,6 +13574,7 @@ multiGSEA,bioc
 multiHiCcompare,bioc
 MultiJoin,markusloecher
 MultiKink,chuangwan1994
+multilandr,phuais
 multilaterals,edoardobaldoni
 MultiLCIRT,cran
 multilevel,cran
@@ -14521,6 +14524,7 @@ od,itsleeds
 ODataQuery,cran
 ODB,maressyl
 odbc,r-dbi
+odbr,hsvab
 oddnet,sevvandi
 odds.converter,marcoblume
 odds.n.ends,jenineharris
@@ -16196,7 +16200,7 @@ powerEQTL,sterding
 PoweREST,cran
 powerGWASinteraction,cran
 powerHE,cran
-powerindexR,cran
+powerindexR,livinoa1980
 powerjoin,moodymudskipper
 powerLATE,kbansak
 poweRlaw,csgillespie
@@ -16404,6 +16408,7 @@ prismjs,ropensci
 prisonbrief,danilofreire
 prithulib,snapchaturvedi
 PrivateLR,laats
+PRMethods,paubelloperez
 PRNG,meer-1
 prnsamplr,kirajcg
 pro,rluo
