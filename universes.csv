@@ -3801,6 +3801,7 @@ correctedAUC,weiliangqiu
 CorrectedFDR,cran
 CorrectOverloadedPeaks,janlisec
 correctR,hendersontrent
+correlatio,mmiche
 correlation,easystats
 correlationfunnel,business-science
 correlbinom,cran
@@ -4447,6 +4448,7 @@ datafsm,jonathan-g
 DataGraph,davidadalsteinsson
 DataLoader,srivenkatesh7
 dataMaid,ekstroem
+datamedios,exetrujillo
 dataMeta,dmrodz
 DataMetProcess,wagnnerms97
 datamods,dreamrs
@@ -4639,6 +4641,7 @@ DeclareDesign,declaredesign
 decode,cran
 decoder,eribul
 decompDL,kapiliasri
+decompML,kapiliasri
 decomposedPSF,neerajdhanraj
 DecomposeR,sewouter
 decompr,bquast
@@ -5281,6 +5284,7 @@ DoEstRare,cran
 doex,mcavs
 doFuture,futureverse
 dogesr,jj
+Dogoftest,guangbaog
 doMC,beccadaniel
 dominanceanalysis,clbustos
 domino,nelprin
@@ -7013,6 +7017,7 @@ fishbc,poissonconsulting
 fishdata,condwanaland
 FisherEM,cran
 fisheye,riatelab
+fishgrowth,arni-magnusson
 fishkirkko2015,cran
 fishmethods,gnelson12
 fishMod,scott-foster
@@ -11537,6 +11542,7 @@ logmult,nalimilan
 lognorm,bgctw
 logNormReg,vitomuggeo
 logOfGamma,philliplab
+logos,jpmonteagudo28
 logr,dbosak01
 LogRegEquiv,cran
 logrx,pharmaverse
@@ -13691,6 +13697,7 @@ music,egenn
 musica,hanel
 musicatk,bioc
 musicNMR,tkcaccia
+musicXML,benrenard
 MutationalPatterns,bioc
 mutationtypes,selkamand
 mutoss,kornl
@@ -15721,6 +15728,7 @@ phytools,liamrevell
 PhytosanitaryCalculator,grvisei
 piano,bioc
 piar,marberts
+PiC,rupppy
 picante,skembel
 picasso,cran
 PICB,bioc
@@ -20573,6 +20581,7 @@ simTargetCov,anthonychristidis
 simtimer,ims-fhs
 SimTimeVar,mayamathur
 simTool,marselscheer
+SimTOST,smartdata-analysis-and-statistics
 simtrait,ochoalab
 simtrial,merck
 simts,smac-group
@@ -21630,7 +21639,7 @@ stats19,ropensci
 stats4teaching,estebancabello
 statsearchanalyticsr,sditools
 statsExpressions,indrajeetpatil
-Statsomat,cran
+Statsomat,reyar
 statsr,statswithr
 statswalesr,jamie-ralph
 statTarget,bioc
@@ -23392,6 +23401,7 @@ tzdb,r-lib
 tzupdater,sthonnard
 u5mr,myominnoo
 UAHDataScienceSC,andriyprotsak5
+UAHDataScienceSF,andriyprotsak5
 UAHDataScienceUC,andriyprotsak5
 uaparserjs,hrbrmstr
 uavRmp,gisma
@@ -24224,6 +24234,7 @@ WMAP,cran
 wmm,ropensci
 wmwm,yijin-zeng
 wmwpow,cran
+WMWssp,happma
 wnl,cran
 wNNSel,shahlafaisal
 wnominate,jeffreyblewis
