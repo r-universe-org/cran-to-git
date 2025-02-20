@@ -294,6 +294,7 @@ afmToolkit,cran
 afpt,marcoklh
 AFR,cran
 africamonitor,sebkrantz
+aftables,best-practice-and-impact
 aftgee,stc04003
 afthd,atanubhattacharjee
 aftR2,wangyuyao98
@@ -859,6 +860,7 @@ asm,nineisprime
 ASMap,drj001
 ASMbook,kenkellner
 asmbPLS,runzhiz
+ASML,brais-gonzalez
 asnipe,cran
 aspace,cran
 aspect,r-forge
@@ -2975,7 +2977,7 @@ CirclesIntersections,hugosal
 circlesplot,benst099
 circletyper,etiennebacher
 circlize,jokergoo
-circlus,cran
+circlus,lsablica
 CircMLE,rfitak
 CircNNTSR,cran
 CircNNTSRmult,cran
@@ -4165,6 +4167,7 @@ csvread,jabiru
 csvwr,robsteranium
 csvy,leeper
 cta,cran
+ctablerseh,haqqulamin06
 CTAShiny,kartikeyabolar
 ctbi,fritte2
 ctc,bioc
@@ -7656,6 +7659,7 @@ gamsel,trevorhastie
 gamselBayes,mattwand
 gamstransfer,gams-dev
 ganDataModel,cran
+gander,simonpcouch
 ganGenerativeData,cran
 GANPA,fang-zhaoyuan
 GANPAdata,fang-zhaoyuan
@@ -13404,6 +13408,7 @@ MsBackendSql,bioc
 MSbox,yonghuidong
 msBP,cran
 MSBStatsData,mchlbckr
+MSCA,marc-75
 msce,cristoforosimonetto
 mschart,ardata-fr
 MSclassifR,cran
@@ -13990,6 +13995,7 @@ nethet,bioc
 netie,tianshilu
 NetIndices,karlines
 NetInt,jessicagliozzo
+netknitr,ijayc
 NetLogoR,predictiveecology
 netmap,artod83
 netmediate,sduxbury
@@ -14378,7 +14384,7 @@ npIntFactRep,josfeys
 NPIstats,tmaturi
 npiv,cran
 nplplot,danieleweeks
-nplr,fredcommo
+nplr,mini-pw
 nplyr,jibarozzo
 npmlda,npmldabook
 NPMLEcmprsk,cran
@@ -14573,6 +14579,7 @@ offsetreg,mattheaphy
 ofGEM,randel
 ofpetrial,difm-brain
 OGI,cran
+oglcnac,yaoxiangli
 oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
@@ -15984,6 +15991,7 @@ pmetar,prcwiek
 pmev,david-hammond
 PMEvapotranspiration,himadriiasri
 pmhtutorial,cran
+pmlbr,epistasislab
 pmledecon,cran
 pmm,bioc
 pmml,cumulocity-iot
@@ -16147,6 +16155,7 @@ popPCR,zeroh729
 poppr,grunwaldlab
 popPyramid,musajajorge
 popReconstruct,cran
+popsom7,lutzhamel
 popstudy,cran
 poptrend,jknape
 PopulateR,programgirl
@@ -18005,6 +18014,7 @@ repmod,david-hervas
 repo,franapoli
 RepoGenerator,jaredlander
 repolr,astroherring
+repometrics,ropensci
 report,easystats
 reporter,dbosak01
 repoRter.nih,bikeactuary
@@ -19847,6 +19857,7 @@ sdetorus,egarpor
 SDGdetector,yingjie4science
 SDLfilter,takahiroshimada
 sdm,babaknaimi
+SDModels,markusul
 sdmpredictors,lifewatch
 sdmTMB,pbs-assess
 SDMtune,consbiol-unibern
@@ -24026,7 +24037,7 @@ wateRmelon,bioc
 waterquality,rajohansen
 waterYearType,cran
 Wats,ouhscbbmc
-watson,cran
+watson,lsablica
 wav,mlverse
 wavClusteR,bioc
 waveband,cran
