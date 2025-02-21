@@ -3346,6 +3346,7 @@ codeCollection,jkhaukka
 codecountR,cran
 CodeDepends,duncantl
 codelink,bioc
+codelist,cran
 CodelistGenerator,darwin-eu
 codemeta,cboettig
 codemetar,ropensci
@@ -4433,7 +4434,6 @@ DatabaseConnector,ohdsi
 DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
 databraryr,databrary
-dataclass,walkerjameschris
 DataClean,xiaoruizhu
 datacleanr,the-hull
 DataCombine,christophergandrud
@@ -6491,6 +6491,7 @@ ExperimentHubData,bioc
 experimentr,tuncerkerem
 ExperimentSubset,bioc
 ExpertChoice,jedstephens
+expertsurv,cran
 ExpGenetic,w123yu
 ExpImage,cran
 expint,vigou3
@@ -7000,7 +7001,7 @@ fingertipsR,ropensci
 fingraph,convexfi
 finiteruinprob,baumgrt
 finity,x0range
-finna,ropengov
+finna,ake123
 FinNet,fatelarico
 finnishgrid,virmar
 finnsurveytext,dariah-fi-survey-concept-network
@@ -8433,6 +8434,7 @@ gistr,ropensci
 git2r,ropensci
 git2rdata,ropensci
 git4r,johnxhobbs
+GitAI,kalimu
 gitcellar,ropensci
 gitcreds,r-lib
 gitdown,thinkr-open
@@ -9549,6 +9551,7 @@ hrf,mandymejia
 hrqglas,shaobo-li
 hrt,cran
 hrtlFMC,bijoy231997
+HRTnomaly,drwolf85
 HRW,mattwand
 HSAR,spatlyu
 HSAUR,thothorn
@@ -14852,6 +14855,7 @@ OPWeight,bioc
 OralOpioids,ankonahouston
 orbital,tidymodels
 orca,thocevar
+orcamentoBR,cran
 orclus,g-rho
 ORCME,cran
 Orcs,fdetsch
@@ -16621,6 +16625,7 @@ pseudo,kevin444
 pseudobibeR,browndw
 pseudoCure,stc04003
 pseudohouseholds,chris31415926535
+pseudorank,happma
 pseval,sachsmc
 PSF,neerajdhanraj
 psfmi,mwheymans
@@ -18681,6 +18686,7 @@ roboBayes,sth1402
 robomit,seschaub
 robotoolbox,dickoa
 robotstxt,ropensci
+RobPC,hsnbulut
 RobPer,cran
 robqda,cran
 robreg3S,cran
@@ -20687,6 +20693,7 @@ skewMLRM,cran
 skewr,bioc
 skewsamp,jobrachem
 skewt,newystats
+skewunit,cran
 SKFCPD,cran
 Skillings.Mack,cran
 skilljaR,chrisumphlett
@@ -23053,6 +23060,7 @@ TransPhylo,xavierdidelot
 transplantr,johnasher
 transPlotR,junjunlab
 transport,dschuhmacher
+transportr,nt-williams
 TransProR,sssydysss
 transreg,rauschenberger
 TransTGGM,cran
@@ -23411,6 +23419,7 @@ typetracer,mpadge
 tzdb,r-lib
 tzupdater,sthonnard
 u5mr,myominnoo
+UAHDataScienceO,andriyprotsak5
 UAHDataScienceSC,andriyprotsak5
 UAHDataScienceSF,andriyprotsak5
 UAHDataScienceUC,andriyprotsak5
