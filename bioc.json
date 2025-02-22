@@ -937,6 +937,12 @@
     "registry": "bioc"
   },
   {
+    "package": "bedbaser",
+    "maintainer": "Andres Wokaty <jennifer.wokaty@sph.cuny.edu>",
+    "url": "https://github.com/waldronlab/bedbaser",
+    "registry": "bioc"
+  },
+  {
     "package": "beer",
     "maintainer": "Athena Chen <achen70@jhu.edu>",
     "url": "https://github.com/athchen/beer",
@@ -1625,6 +1631,12 @@
     "package": "CardinalIO",
     "maintainer": "Kylie Ariel Bemis <k.bemis@northeastern.edu>",
     "url": "https://github.com/kuwisdelu/cardinalio",
+    "registry": "bioc"
+  },
+  {
+    "package": "CARDspa",
+    "maintainer": "Jing Fu <jing_fu@brown.edu>",
+    "url": "https://github.com/yma-lab/cardspa",
     "registry": "bioc"
   },
   {
@@ -3015,6 +3027,12 @@
     "registry": "bioc"
   },
   {
+    "package": "dandelionR",
+    "maintainer": "Kelvin Tuong <z.tuong@uq.edu.au>",
+    "url": "https://github.com/tuonglab/dandelionr",
+    "registry": "bioc"
+  },
+  {
     "package": "DAPAR",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
     "url": "https://github.com/edyp-lab/dapar",
@@ -3828,6 +3846,12 @@
     "package": "ELMER",
     "maintainer": "Tiago Chedraoui Silva <tiagochst@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ELMER",
+    "registry": "bioc"
+  },
+  {
+    "package": "ELViS",
+    "maintainer": "Jin-Young Lee <jlee307@uthsc.edu>",
+    "url": "https://github.com/hyochoi/elvis",
     "registry": "bioc"
   },
   {
@@ -5766,6 +5790,12 @@
     "package": "HiCool",
     "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
     "url": "https://github.com/js2264/hicool",
+    "registry": "bioc"
+  },
+  {
+    "package": "HiCParser",
+    "maintainer": "Maigné Élise <elise.maigne@inrae.fr>",
+    "url": "https://github.com/emaigne/hicparser",
     "registry": "bioc"
   },
   {
@@ -8139,6 +8169,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MSstatsBioNet",
+    "maintainer": "Anthony Wu <wu.anthon@northeastern.edu>",
+    "url": "https://github.com/vitek-lab/msstatsbionet",
+    "registry": "bioc"
+  },
+  {
     "package": "MSstatsConvert",
     "maintainer": "Mateusz Staniak <mtst@mstaniak.pl>",
     "url": "https://git.bioconductor.org/packages/MSstatsConvert",
@@ -9623,7 +9659,7 @@
   },
   {
     "package": "pRoloc",
-    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "maintainer": "Lisa Breckels <lms79@cam.ac.uk>",
     "url": "https://github.com/lgatto/proloc",
     "registry": "bioc"
   },
@@ -13676,6 +13712,12 @@
     "package": "XDE",
     "maintainer": "Robert Scharpf <rscharpf@jhsph.edu>",
     "url": "https://git.bioconductor.org/packages/XDE",
+    "registry": "bioc"
+  },
+  {
+    "package": "XeniumIO",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
+    "url": "https://github.com/waldronlab/xeniumio",
     "registry": "bioc"
   },
   {
