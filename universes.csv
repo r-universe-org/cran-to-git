@@ -307,6 +307,7 @@ AGD,stefvanbuuren
 AGDEX,bioc
 ageg,nobilisvenator
 agena.ai,cran
+AgePopDenom,truenomad
 ageutils,timtaylor
 agfh,martenthompson
 agghoo,cran
@@ -440,7 +441,7 @@ aliases2entrez,peyronlab
 alien,hezibu
 align,cran
 AlignLV,mmansolf
-alkahest,tesselle
+alkahest,nfrerebeau
 allcontributors,ropensci
 alleHap,cran
 allelematch,noreastermt
@@ -786,7 +787,7 @@ AriGaMyANNSVR,sandipgarai
 arima2,jeswheel
 ARIMAANN,cran
 arkdb,ropensci
-arkhe,tesselle
+arkhe,nfrerebeau
 arlclustering,assuom44
 arm,suyusung
 ARMALSTM,cran
@@ -2004,6 +2005,7 @@ bold,ropensci
 bolsec,alvaroitapia
 Bolstad,jmcurran
 Bolstad2,jmcurran
+bolt4jr,broccolito
 BoltzMM,andrewthomasjones
 bondAnalyst,maheshpkumar
 BondValuation,cran
@@ -2736,6 +2738,7 @@ CeRNASeek,cran
 ceRtainty,arielsotocaro
 Certara.NLME8,certara-jcraig
 Certara.R,certara
+Certara.RDarwin,certara-jcraig
 Certara.RsNLME,certara-jcraig
 Certara.RsNLME.ModelBuilder,certara-jcraig
 Certara.RsNLME.ModelExecutor,certara-jcraig
@@ -5031,7 +5034,7 @@ digitTests,koenderks
 DIGSS,markhubbe
 dilp,mjbutrim
 DIME,olechnwin
-dimensio,tesselle
+dimensio,nfrerebeau
 dimensionsR,massimoaria
 DImodels,cran
 DImodelsMulti,di-laurabyrne
@@ -6193,6 +6196,7 @@ episcan,cran
 EpiSemble,diprosinha
 episensr,dhaine
 EpiSignalDetection,eu-ecdc
+EpiSimR,nassimayad87
 epistack,bioc
 epistasisGA,bioc
 EpiStats,loremerdrignac
@@ -10824,7 +10828,7 @@ kgraph,thomaschln
 kgschart,kota7
 khisr,damurka
 KHQ,augustobrusaca
-khroma,tesselle
+khroma,nfrerebeau
 kibior,regisoc
 kidney.epi,borisbikbov
 kidsides,ngiangre
@@ -15419,6 +15423,7 @@ pcvr,danforthcenter
 pda,cran
 PDATK,bioc
 pdc,brandmaier
+pdcor,cran
 PDE,erikstricker
 pder,ycroissant
 pdfCluster,cran
@@ -15714,6 +15719,7 @@ photon,jslth
 photosearcher,ropensci
 PhotosynQ,photosynq
 photosynthesis,cdmuir
+photosynthesisLRC,heliotropichuman
 phrases,sumanstats
 phreeqc,scharlton2
 phruta,ropensci
@@ -16036,6 +16042,7 @@ pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
 PNAR,cran
+pnd,fifis
 PNDSIBGE,gabriel-assuncao
 png,s-u
 PNSIBGE,gabriel-assuncao
@@ -17289,6 +17296,7 @@ rang,gesistsa
 rangeBuilder,ptitle
 rangeMapper,mpio-be
 rangeModelMetadata,cmerow
+rangemodelR,aniruddhamarathe
 ranger,imbs-hl
 RanglaPunjab,cran
 rangr,ropensci
@@ -19630,6 +19638,7 @@ SC3,bioc
 sca,mmaechler
 scaffolder,terrytangyuan
 scagnostics,s-u
+scalablebayesm,cran
 Scale4C,bioc
 scaleAlign,leahfeuerstahler
 scaleboot,shimosan
@@ -22929,7 +22938,7 @@ tokenizers,ropensci
 tokenizers.bpe,bnosac
 tolerance,dsy109
 tomba,tomba-io
-tomledit,josiahparry
+tomledit,extendr
 tomoda,bioc
 tomoseqr,bioc
 tongfen,mountainmath
@@ -24111,6 +24120,7 @@ wbs,cran
 wbsd,cran
 wbstats,gshs-ornl
 wbsts,kakoko1984
+wbwdi,tidy-intelligence
 wcde,guyabel
 WCE,cran
 wcep,sarah-0k
