@@ -75,6 +75,11 @@
     "url": "https://github.com/ohdsi/localcontrol"
   },
   {
+    "package": "OhdsiReportGenerator",
+    "maintainer": "Jenna Reps <jreps@its.jnj.com>",
+    "url": "https://github.com/ohdsi/ohdsireportgenerator"
+  },
+  {
     "package": "omock",
     "maintainer": "Mike Du <mike.du@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/omock"
