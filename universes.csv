@@ -979,6 +979,7 @@ autoEnsemble,haghish
 autoFC,tspsyched
 autoFRK,h0h1
 autogam,tripartio
+autoGO,mpallocc
 autoharp,singator
 autohrf,demsarjure
 autoimage,jfrench
@@ -1905,6 +1906,7 @@ blindrecalc,imbi-heidelberg
 blindreview,githubwilly
 blink,cleanzr
 bliss,pmgrollemund
+blit,wanglabcsu
 blm,skoval
 BLMA,bioc
 blme,vdorie
@@ -5167,6 +5169,7 @@ distrEx,r-forge
 DISTRIB,cran
 Distributacalcul,alec42
 distributional,mitchelloharawild
+DistributionIV,aholovchak
 DistributionOptimization,cran
 distributions3,alexpghayes
 distributionsrd,ruben0dewitte
@@ -5286,6 +5289,7 @@ doconv,ardata-fr
 docopt,docopt
 docopulae,arappold
 docore,obreschkow
+Docovt,guangbaog
 docstring,dasonk
 doctest,hughjonesd
 document,fvafrcu
@@ -5931,6 +5935,7 @@ eimpute,gaozhe33
 einet,travisbyrum
 einsum,const-ae
 eiopaR,mehdichelh
+eiopt2,cran
 eiPack,mrkellermann
 eiR,bioc
 eirm,okanbulut
@@ -6005,6 +6010,7 @@ embed,tidymodels
 EmbedSOM,exaexa
 embryogrowth,marc-girondot
 EMC2,ampl-psych
+emcAdr,cran
 EMCluster,snoweye
 EMD,dkimstatlab
 EMDANNhybrid,cran
@@ -9018,6 +9024,7 @@ gtable,r-lib
 GTbasedIM,lauradavilapena
 GTDL,carrascojalmar
 gte,cran
+GTEs,yzhou1999
 gTests,cran
 gTestsMulti,cran
 gtexr,rmgpanw
@@ -13078,6 +13085,7 @@ MMDvariance,weiliang
 mme,mestherlv
 mmeln,giguerch
 MMeM,pengluyaoyao
+mmeta,cran
 MMGFM,feiyoung
 mmibain,mightymetrika
 mmiCATs,mightymetrika
@@ -15036,6 +15044,7 @@ owd,feakster
 owdbr,kimjoaoun
 OWEA,shuaih0303
 OwenQ,stla
+owidapi,tidy-intelligence
 owidR,piersyork
 owmr,crazycapivara
 ows4R,eblondel
@@ -16578,7 +16587,7 @@ PROPS,bioc
 PropScrRand,tloux
 proPubBills,nadinesk
 ProPublicaR,dietrichson
-PROreg,cran
+PROreg,najerazuloaga
 PROscorer,raybaser
 PROscorerTools,mskcc-epi-bio
 PROsetta,choi-phd
@@ -17132,6 +17141,7 @@ R2BayesX,freezenik
 R2BEAT,barcaroli
 r2country,oobianom
 r2d2,arni-magnusson
+R2D2ordinal,cran
 r2d3,rstudio
 r2dictionary,oobianom
 r2dii.analysis,rmi-pacta
@@ -19095,7 +19105,7 @@ RSDA,cran
 rsdepth,amessbee
 rSDI,ehengirmen
 RSDK,elkhmissi
-rsdmx,opensdmx
+rsdmx,eblondel
 rsdNE,ashutoshdalal97
 RSE,youhuachen
 rSEA,mitra-ep
@@ -20822,6 +20832,7 @@ smartsheetr,cole-johanson
 smartsizer,wilart
 smartsnp,christianhuber
 SmartSVA,cran
+SMASH,cran
 smatr,remkoduursma
 smbinning,hjopia
 SmCCNet,kechrislab
@@ -22212,7 +22223,7 @@ SynergyLMM,rafromb
 SynExtend,bioc
 synlet,bioc
 synlik,mfasiolo
-synMicrodata,cran
+synMicrodata,hang-kim-stat
 SynMut,bioc
 synr,datalowe
 syntaxr,alixlahuec

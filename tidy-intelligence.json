@@ -1,5 +1,10 @@
 [
   {
+    "package": "owidapi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/tidy-intelligence/r-owidapi"
+  },
+  {
     "package": "wbwdi",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-intelligence/r-wbwdi"
