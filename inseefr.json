@@ -1,8 +1,9 @@
 [
   {
     "package": "btb",
-    "maintainer": "Kim Antunez <antuki.kim+cran@gmail.com>",
-    "url": "https://github.com/inseefr/btb"
+    "maintainer": "",
+    "url": "https://github.com/inseefr/btb",
+    "registry": "archived"
   },
   {
     "package": "disaggR",
@@ -13,6 +14,11 @@
     "package": "gustave",
     "maintainer": "Khaled Larbi <khaled.larbi@insee.fr>",
     "url": "https://github.com/inseefr/gustave"
+  },
+  {
+    "package": "icarus",
+    "maintainer": "Antoine Rebecq <antoine.rebecq@m4x.org>",
+    "url": "https://github.com/inseefr/icarus"
   },
   {
     "package": "JDCruncheR",
