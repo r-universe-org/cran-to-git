@@ -1,5 +1,10 @@
 [
   {
+    "package": "CMIP6VisR",
+    "maintainer": "Kevin Shook <kshook@kshook.ca>",
+    "url": "https://github.com/tychelab/cmip6visr"
+  },
+  {
     "package": "CoSMoS",
     "maintainer": "Kevin Shook <kevin.shook@usask.ca>",
     "url": "https://github.com/tychelab/cosmos"
