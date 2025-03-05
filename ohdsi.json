@@ -5,6 +5,11 @@
     "url": "https://github.com/ohdsi/andromeda"
   },
   {
+    "package": "Characterization",
+    "maintainer": "Jenna Reps <jreps@its.jnj.com>",
+    "url": "https://github.com/ohdsi/characterization"
+  },
+  {
     "package": "CirceR",
     "maintainer": "Chris Knoll <cknoll@ohdsi.org>",
     "url": "https://github.com/ohdsi/circer"
