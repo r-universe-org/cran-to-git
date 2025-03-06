@@ -696,6 +696,7 @@ APPEstimation,eisuke-inoue
 appleadsR,pablosanmar
 applicable,tidymodels
 AppliedPredictiveModeling,topepo
+ApplyPolygenicScore,pboutros
 appnn,carlosfamilia
 apportion,christopherkenny
 appreci8R,bioc
@@ -1685,7 +1686,6 @@ BinaryDosage,jimb3
 BinaryEMVS,john-snyder
 BinaryEPPM,cran
 binaryGP,chihli
-binaryMM,chiaradg
 binb,eddelbuettel
 BINCOR,jomopo
 binda,cran
@@ -1866,6 +1866,7 @@ bitops,mmaechler
 BiTrinA,hkestler
 bitstreamio,coolbutuseless
 bittermelon,trevorld
+BiVariAn,andresfloresg
 Bivariate.Pareto,cran
 bivariateLeaflet,maduprey
 bivariatemaps,hidasi
@@ -3399,7 +3400,7 @@ cogmapr,cran
 cognitoR,chi2labs
 coGPS,bioc
 CohensdpLibrary,dcousin3
-cohetsurr,cran
+cohetsurr,laylaparast
 CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu
@@ -3525,7 +3526,7 @@ comparator,ngmarchant
 compare,cran
 compareC,cran
 CompareCausalNetworks,christinaheinze
-CompAREdesign,cran
+CompAREdesign,martabofillroig
 compareDF,alexsanjoseph
 compareGroups,isubirana
 compareMCMCs,nimble-dev
@@ -3660,6 +3661,7 @@ conmet,cran
 ConNEcT,nabod0815
 connectapi,posit-dev
 connectcreds,posit-dev
+connected,kwstat
 ConnectednessApproach,cran
 connections,rstudio
 connectoModa,idiise
@@ -5720,6 +5722,7 @@ EBEN,cran
 ebGenotyping,hmaoxian
 EBImage,bioc
 ebirdst,ebird
+ebm,bgreenwell
 EBMAforecast,fhollenbach
 ebmc,cran
 ebmstate,ruibarrigana
@@ -5805,6 +5808,7 @@ ecotox,benjaminhlina
 ecotoxicology,cran
 ECOTOXr,pepijn-devries
 ecotraj,emf-creaf
+ecotrends,ambarbosa
 EcoTroph,polehalieutique
 ecoval,nschuwirth
 EcoVirtual,cran
@@ -8446,7 +8450,6 @@ GIMMEgVAR,williamsandra
 GimmeMyPlot,ecamenen
 gimmeTools,cran
 gimms,environmentalinformatics-marburg
-GiNA,cran
 Gini,marsdu1989
 giniCI,novidu
 GiniDecompLY,aambarek
@@ -9195,6 +9198,7 @@ hashr,markvanderloo
 Hassani.SACF,leilamarvian
 Hassani.Silva,leilamarvian
 hasseDiagram,kciomek
+hatchR,bmait101
 haven,tidyverse
 hawkes,riadhzaatour
 hawkesbow,fcheysson
@@ -9736,6 +9740,7 @@ hystar,daandejongen
 hysteresis,spencerm89
 hystReet,johannesfriedrich
 hytest,cran
+I14Y,lgnbhl
 i18n,rich-iannone
 i2extras,reconverse
 IAcsSPCR,johnjsl7
@@ -12437,6 +12442,7 @@ MetabolicSurv,olajumokeevangelina
 MetabolicSyndrome,jagadishramasamy
 MetabolomicsBasics,janlisec
 metabolomicsWorkbenchR,bioc
+MetabolSSMF,wenxuanliu1996
 metabomxtr,bioc
 MetaboQC,monicacalsan
 MetaboSignal,bioc
@@ -12608,7 +12614,6 @@ mfp,georgheinze
 mfp2,edwinkipruto
 MFPCA,clarahapp
 mfpp,kzst
-MFSIS,cran
 MFT,cran
 MfUSampler,asmahani
 Mfuzz,bioc
@@ -12945,6 +12950,7 @@ mixsqp,stephenslab
 mixSSG,mahditeimouri
 mixtools,dsy109
 mixtox,ichxw
+mixtree,cygei
 mixtur,jimgrange
 mixture,cran
 MixtureMissing,hungtong
@@ -13998,6 +14004,7 @@ neighbr,dbolotov
 neldermead,cran
 nemBM,mrmarjan
 nempi,bioc
+nemsqar,bemts-hhs
 nemtr,calebgreski
 neo2R,patzaw
 neo4jshell,keithmcnulty
@@ -14861,7 +14868,6 @@ optim.functions,gabysbrain
 OptimalCutpoints,cran
 OptimalDesign,cran
 optimalFlow,bioc
-OptimalGoldstandardDesigns,jan-imbi
 optimall,yangjasp
 OptimalRerandExpDesigns,kapelner
 OptimalSurrogate,laylaparast
@@ -15441,6 +15447,7 @@ pcse,deliabailey
 PCSinR,felixhenninger
 pcsstools,jackmwolf
 pcSteiner,krashkov
+pct,itsleeds
 pctax,asa12138
 pcts,geobosh
 pcutils,asa12138
@@ -15704,6 +15711,7 @@ phenomis,bioc
 phenopath,bioc
 phenopix,gianlucafilippa
 PheNorm,celehs
+PhenoSpectra,medhat-mahmoud
 phenoTest,bioc
 Phenotype,biozhp
 PhenotypeR,ohdsi
@@ -15834,6 +15842,7 @@ pins,rstudio
 PINSPlus,csieuluoi
 PINstimation,monty-se
 pinterestadsR,pablosanmar
+pintervals,doktorandahl
 pinyin,pzhaonet
 pioneeR,riksrevisjonen
 pipe.design,mikesweeting
@@ -18195,6 +18204,7 @@ revert,cran
 RevGadgets,revbayes
 revgeo,cran
 ReviewR,thewileylab
+revise,conig
 revpref,ksurana21
 RevSD,zeddshaver
 revss,aadler
@@ -18332,6 +18342,7 @@ rgw,abmantz
 RH2,dmkaplan2000
 rhandsontable,jrowen
 RHawkes,fchenunswms
+RHC,zahra-heidari-gh
 RHclust,cran
 rhcoclust,mdbahadur
 rhdf5,bioc
@@ -18978,6 +18989,7 @@ rpivotTable,smartinsightsfromdata
 rplanes,signaturescience
 rplec,cran
 rplotengine,cran
+RplotterPkg,deandevl
 rpls,filzmoserp
 rplum,maarten14c
 rpm,handcock
