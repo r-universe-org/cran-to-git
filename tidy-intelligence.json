@@ -5,6 +5,11 @@
     "url": "https://github.com/tidy-intelligence/r-owidapi"
   },
   {
+    "package": "uisapi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/tidy-intelligence/r-uisapi"
+  },
+  {
     "package": "wbwdi",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-intelligence/r-wbwdi"
