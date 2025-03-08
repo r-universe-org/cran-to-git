@@ -1086,6 +1086,7 @@ babynamesIL,aviezerl
 babyTimeR,dannhek
 BACCO,robinhankin
 BACCT,cran
+BacenAPI,lissandrosousa
 bacistool,jjacklee116
 backbone,zpneal
 backpipe,decisionpatterns
@@ -2741,6 +2742,7 @@ CerioliOutlierDetection,christopherggreen
 ceRNAnetsim,bioc
 CeRNASeek,cran
 ceRtainty,arielsotocaro
+Certara.DarwinReporter,certara-jcraig
 Certara.ModelResults,certara-jcraig
 Certara.NLME8,certara-jcraig
 Certara.R,certara
@@ -3044,7 +3046,7 @@ CKMRpop,eriqande
 CLA,mmaechler
 Claddis,graemetlloyd
 cladoRcpp,nmatzke
-ClaimsProblems,iagolugilde
+ClaimsProblems,cran
 clam,maarten14c
 ClamR,jonathanlees
 clap,pridiltal
@@ -3410,7 +3412,7 @@ CohortExplorer,ohdsi
 CohortGenerator,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
-CohortSurvival,edward-burn
+CohortSurvival,cran
 CohortSymmetry,ohdsi
 cohorttools,jkhaukka
 coil,cnuge
@@ -6630,6 +6632,7 @@ facebookadsR,pablosanmar
 facebookleadsR,pablosanmar
 facebookorganicR,pablosanmar
 facerec,cschwem2er
+facilityepimath,epiforesite
 facmodCS,robustport
 facmodTS,robustport
 FACT,henrifnk
@@ -9328,6 +9331,7 @@ heiscore,abhrastat
 heiscore.data,vramdas06
 helixvis,rrrlw
 HellCor,lafaye
+hellmer,dylanpieper
 hellno,petermeissner
 helloJavaWorld,tverbeke
 HelloRanges,bioc
@@ -13486,7 +13490,7 @@ mscsweblm4r,philferriere
 msd,cbradl23
 MsDataHub,bioc
 msde,mlysy
-msdrought,turner-scu
+msdrought,edm44
 mseapca,hiroyukiyamamoto
 msentropy,yuanyueli
 MSEtool,blue-matter
@@ -15233,6 +15237,7 @@ parallelpam,jdmde
 ParallelPC,thucduyle
 parallelPlot,cran
 param2moment,tingtingzhan
+ParamANOVA,vicbrans
 paramDemo,fercol
 parameters,easystats
 paramGUI,glotaran
@@ -16359,6 +16364,7 @@ PQLseq,cran
 pqrBayes,cenwu
 pqrfe,iandanilevicz
 pqsfinder,bioc
+pQTLdata,jinghuazhao
 PRA,paulgovan
 praatpicture,rpuggaardrode
 prabclus,chrhennig
@@ -16506,6 +16512,7 @@ prisonbrief,danilofreire
 prithulib,snapchaturvedi
 PrivateLR,laats
 PRMethods,paubelloperez
+prmisc,m-py
 PRNG,meer-1
 prnsamplr,kirajcg
 pro,rluo
@@ -18607,7 +18614,6 @@ rmetalog,isaacfab
 rmfanova,ls-git-17
 RMFM,feiyoung
 rmgarch,alexiosg
-rmi,cran
 rMIDAS,midasverse
 rminer,paulocortez4
 rminizinc,acharaakshit
@@ -19861,6 +19867,7 @@ SCperf,msmarchena
 scperturbR,stefanpeidli
 scpi,filippopalomba
 scPipe,bioc
+scPipeline,sridhara-omics
 scPloidy,fumi-github
 scplot,cran
 scpoisson,yuepan027
@@ -20187,6 +20194,7 @@ serial,cran
 seriation,mhahsler
 serieslcb,cran
 serocalculator,ucd-serg
+SerolyzeR,mini-pw
 serosv,oucru-modelling
 serp,ejikeugba
 serpstatr,alex-danilin
@@ -20446,6 +20454,7 @@ shinytest2,rstudio
 ShinyTester,cran
 shinythemes,rstudio
 shinyTime,burgerga
+shinyTimer,maciekbanas
 shinytitle,ashbaldry
 shinyToastify,stla
 shinytoastr,gaborcsardi
@@ -22769,6 +22778,7 @@ tidyhte,ddimmery
 tidyhydat,ropensci
 tidyindex,huizezhang-sherry
 tidyjson,colearendt
+tidyklips,cheongchoi
 tidylda,tommyjones
 tidyllm,edubruell
 tidylo,juliasilge
@@ -23125,6 +23135,7 @@ transforEmotion,atomashevic
 Transform,osmandag
 transform.hazards,palryalen
 transformer,bquast
+transformerForecasting,harish11999
 transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
@@ -23315,7 +23326,7 @@ tscount,r-forge
 TSCS,cran
 tsdataleaks,thiyangt
 tsdb,enricoschumann
-tsdecomp,cran
+tsdecomp,javlacalle
 TSdeeplearning,ronit10976
 tsdf,wgost
 TSDFGS,oumarkme
@@ -23366,7 +23377,7 @@ TSMSN,cran
 tsna,statnet
 tsne,jdonaldson
 tsnet,bsiepe
-tsoutliers,cran
+tsoutliers,javlacalle
 TSP,mhahsler
 tsPI,helske
 tspmeta,berndbischl
@@ -23852,6 +23863,7 @@ vec2dtransf,gacarrillor
 veccompare,jglev
 VeccTMVN,jcatwood
 VecDep,stevendekeyser98
+vecmatch,polymerase3
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
@@ -23958,6 +23970,7 @@ Virusparies,sergejruff
 virustotal,themains
 visa,kang-yu
 visachartR,cran
+visae,dnzmarcio
 visaOTR,treerlikesu
 VisCollin,friendly
 viscomp,georgiosseitidis
@@ -24503,6 +24516,7 @@ XLConnect,miraisolutions
 xlcutter,bisaloo
 xlink,qiuanzhu
 xLLiM,epertham
+xlr,nhilder
 XLS,sametsoekel
 xlsx,colearendt
 xlsx2dfs,gwangjinkim
