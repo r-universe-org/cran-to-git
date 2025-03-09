@@ -10582,6 +10582,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Rigraphlib",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/libscran/rigraphlib",
+    "registry": "bioc"
+  },
+  {
     "package": "RImmPort",
     "maintainer": "Zicheng Hu <Zicheng.Hu@ucsf.edu>",
     "url": "https://git.bioconductor.org/packages/RImmPort",
