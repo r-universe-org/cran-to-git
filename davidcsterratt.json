@@ -6,6 +6,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "retistruct",
+    "maintainer": "David C. Sterratt <david.c.sterratt@ed.ac.uk>",
+    "url": "https://github.com/davidcsterratt/retistruct",
+    "subdir": "pkg/retistruct"
+  },
+  {
     "package": "RImageJROI",
     "maintainer": "David C Sterratt <david.c.sterratt@ed.ac.uk>",
     "url": "https://github.com/davidcsterratt/rimagejroi"

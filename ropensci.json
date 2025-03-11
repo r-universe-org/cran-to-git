@@ -1094,7 +1094,7 @@
   },
   {
     "package": "vcr",
-    "maintainer": "Scott Chamberlain <sckott@protonmail.com>",
+    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/vcr"
   },
   {
@@ -1119,8 +1119,9 @@
   },
   {
     "package": "weatherOz",
-    "maintainer": "Rodrigo Pires <rodrigo.pires@dpird.wa.gov.au>",
-    "url": "https://github.com/ropensci/weatheroz"
+    "maintainer": "",
+    "url": "https://github.com/ropensci/weatheroz",
+    "registry": "archived"
   },
   {
     "package": "webchem",

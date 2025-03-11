@@ -1,5 +1,10 @@
 [
   {
+    "package": "lavaan.mi",
+    "maintainer": "Terrence D. Jorgensen <TJorgensen314@gmail.com>",
+    "url": "https://github.com/tdjorgensen/lavaan.mi"
+  },
+  {
     "package": "simsem",
     "maintainer": "Terrence D. Jorgensen <TJorgensen314@gmail.com>",
     "url": "https://github.com/cran/simsem"
