@@ -1452,7 +1452,7 @@ bdpv,cran
 bdrc,sor16
 bdribs,cran
 bdscale,dvmlls
-bdsm,mdubel
+bdsm,cran
 bdsmatrix,cran
 bdsvd,cran
 BDWreg,hamedhm
@@ -4371,7 +4371,7 @@ d3po,pachadotdev
 d3r,timelyportfolio
 d3Tree,yonicd
 d4storagehub4R,eblondel
-D4TAlink.light,cran
+D4TAlink.light,squ4reanalytics
 DA,xinghuq
 DAAG,wjbraun
 DAAGbio,jhmaindonald
@@ -4566,7 +4566,6 @@ dbnR,dkesada
 dbparser,ropensci
 dbplot,edgararuiz
 dbplyr,tidyverse
-DBpower,ryansunwork
 DBR,asmahani
 dbscan,mhahsler
 dbstats,cran
@@ -7619,7 +7618,7 @@ fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
 fwb,ngreifer
 FWDselect,sestelo
-fwlplot,cran
+fwlplot,kylebutts
 FWRGB,cran
 fwsim,mikldk
 fxl,miyamot0
@@ -8083,6 +8082,7 @@ geostan,connordonegan
 geostats,pvermees
 geostatsp,eborgnine
 GEOsubmission,bioc
+geotargets,ropensci
 GeoTcgaData,bioc
 GeoThinneR,jmestret
 geotools,antoinelucas64
@@ -10546,6 +10546,7 @@ IVAS,bioc
 IVCor,scottpanhan
 ivdesign,cran
 ivDiag,cran
+IVDML,cyrillsch
 ivdoctr,emallickhossain
 ivgets,jkurle
 ivitr,cran
@@ -10640,6 +10641,7 @@ jmastats,uribo
 jmatrix,jdmde
 JMbayes,drizopoulos
 JMbayes2,drizopoulos
+JMbdirect,atanubhattacharjee
 jmBIG,atanubhattacharjee
 jmcm,ypan1988
 jmdem,cran
@@ -14203,6 +14205,7 @@ nimbleAPT,drjp
 nimbleCarbon,ercrema
 nimbleEcology,nimble-dev
 nimbleHMC,danielturek
+nimbleMacros,nimble-dev
 nimbleNoBounds,drjp
 nimbleSCR,danielturek
 nimbleSMC,nimble-dev
@@ -15073,6 +15076,7 @@ owmr,crazycapivara
 ows4R,eblondel
 ox,gogonzo
 oxcAAR,isaakiel
+OxSR,fgu5tav0
 OxyBS,eahouseman
 oysteR,sonatype-nexus-community
 oz,kurthornik
@@ -15444,6 +15448,7 @@ pco,cran
 PCObw,cran
 pCODE,alex-haixuw
 PCovR,cran
+PCpluS,florianpein
 PCPS,vanderleidebastiani
 pcr,mahshaaban
 PCRA,martinrd3d
@@ -16835,7 +16840,6 @@ pvda,fusarolimichele
 Pviz,bioc
 pvldcurve,annaraesch
 pvLRT,c7rishi
-PVplr,cwru-sdle
 PVR,santostbio
 PvSTATEM,mini-pw
 pwalign,bioc
@@ -19404,7 +19408,7 @@ RViennaCL,cdeterman
 rviewgraph,alun-thomas
 rvif,r-forge
 rvinecopulib,vinecopulib
-RVIpkg,abestsg
+RVIpkg,cran
 Rvisdiff,bioc
 rvisidata,paulklemm
 rvkstat,selesnow
@@ -20981,7 +20985,6 @@ snpAIMeR,kvertacnik
 SNPannotator,cran
 SNPassoc,isglobal-brge
 SNPediaR,bioc
-SNPfiltR,cran
 SNPhood,bioc
 SNPknock,msesia
 snplinkage,thomaschln
@@ -21572,7 +21575,7 @@ SSBtools,statisticsnorway
 ssc,mabelc
 sscor,cran
 sscu,bioc
-ssd4mosaic,cran
+ssd4mosaic,aursiber
 ssddata,beckyfisher
 SSDforR,cran
 ssdGSA,thermostats
@@ -21802,7 +21805,6 @@ stevethemes,svmiller
 stfit,mingsnu
 STFTS,cspun
 stgam,lexcomber
-STGS,budhlakotin
 sticky,decisionpatterns
 stickyr,uchidamizuki
 STICr,heal-kgs
@@ -21848,6 +21850,7 @@ stopwords,quanteda
 Storm,allenday
 StormR,umr-amap
 storr,richfitz
+stors,ahmad-alqabandi
 stortingscrape,martigso
 stoRy,theme-ontology
 storywranglr,chris31415926535

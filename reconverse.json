@@ -13,7 +13,8 @@
   {
     "package": "incidence2",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
-    "url": "https://github.com/reconverse/incidence2"
+    "url": "https://github.com/reconverse/incidence2",
+    "subdir": "pkg"
   },
   {
     "package": "outbreaks",

@@ -1,5 +1,10 @@
 [
   {
+    "package": "IVDML",
+    "maintainer": "Cyrill Scheidegger <cyrill.scheidegger@stat.math.ethz.ch>",
+    "url": "https://github.com/cyrillsch/ivdml"
+  },
+  {
     "package": "weightedGCM",
     "maintainer": "Cyrill Scheidegger <cyrill.scheidegger@stat.math.ethz.ch>",
     "url": "https://github.com/cran/weightedGCM"
