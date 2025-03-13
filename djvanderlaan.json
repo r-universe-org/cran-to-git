@@ -1,5 +1,10 @@
 [
   {
+    "package": "datapackage",
+    "maintainer": "Jan van der Laan <r@eoos.dds.nl>",
+    "url": "https://github.com/djvanderlaan/datapackage"
+  },
+  {
     "package": "LaF",
     "maintainer": "Jan van der Laan <r@eoos.dds.nl>",
     "url": "https://github.com/djvanderlaan/laf"

@@ -2703,6 +2703,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CPSM",
+    "maintainer": "Harpreet Kaur <hks04180@gmail.com>",
+    "url": "https://github.com/hks5august/cpsm",
+    "registry": "bioc"
+  },
+  {
     "package": "cpvSNP",
     "maintainer": "Caitlin McHugh <mchughc@uw.edu>",
     "url": "https://git.bioconductor.org/packages/cpvSNP",
@@ -6489,6 +6495,12 @@
     "registry": "bioc"
   },
   {
+    "package": "jazzPanda",
+    "maintainer": "Melody Jin <jin.m@wehi.edu.au>",
+    "url": "https://github.com/phipsonlab/jazzpanda",
+    "registry": "bioc"
+  },
+  {
     "package": "karyoploteR",
     "maintainer": "Bernat Gel <bgel@igtp.cat>",
     "url": "https://github.com/bernatgel/karyoploter",
@@ -8944,6 +8956,12 @@
     "registry": "bioc"
   },
   {
+    "package": "OSTA.data",
+    "maintainer": "Yixing E. Dong <estelladong729@gmail.com>",
+    "url": "https://github.com/estellad/osta.data",
+    "registry": "bioc"
+  },
+  {
     "package": "OTUbase",
     "maintainer": "Daniel Beck <danlbek@gmail.com>",
     "url": "https://git.bioconductor.org/packages/OTUbase",
@@ -9505,6 +9523,12 @@
     "package": "podkat",
     "maintainer": "Ulrich Bodenhofer <ulrich@bodenhofer.com>",
     "url": "https://github.com/ubod/podkat",
+    "registry": "bioc"
+  },
+  {
+    "package": "poem",
+    "maintainer": "Siyuan Luo <roseluosy@gmail.com>",
+    "url": "https://github.com/roseyuan/poem",
     "registry": "bioc"
   },
   {
@@ -12833,6 +12857,12 @@
     "registry": "bioc"
   },
   {
+    "package": "TENET",
+    "maintainer": "Rhie Lab at the University of Southern California <rhielab@gmail.com>",
+    "url": "https://github.com/rhielab/tenet",
+    "registry": "bioc"
+  },
+  {
     "package": "TENxIO",
     "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/tenxio",
@@ -12848,6 +12878,12 @@
     "package": "TEQC",
     "maintainer": "Sarah Bonnin <Sarah.Bonnin@crg.eu>",
     "url": "https://git.bioconductor.org/packages/TEQC",
+    "registry": "bioc"
+  },
+  {
+    "package": "terapadog",
+    "maintainer": "Gionmattia Carancini <gionmattia@gmail.com>",
+    "url": "https://github.com/gionmattia/terapadog",
     "registry": "bioc"
   },
   {

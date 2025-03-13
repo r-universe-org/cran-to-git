@@ -1452,7 +1452,7 @@ bdpv,cran
 bdrc,sor16
 bdribs,cran
 bdscale,dvmlls
-bdsm,cran
+bdsm,mdubel
 bdsmatrix,cran
 bdsvd,cran
 BDWreg,hamedhm
@@ -2570,6 +2570,7 @@ causalPAF,mauriceoconnell
 causalQual,riccardo-df
 CausalQueries,integrated-inferences
 CausalR,bioc
+causalreg,cran
 causalsens,mattblackwell
 causalSLSE,pchausse
 causalweight,hugometric
@@ -3995,6 +3996,7 @@ cpr,dewittpe
 cprobit,nyilin
 cprr,anhoej
 cPseudoMaRg,tbrown122387
+CPSM,bioc
 cpsR,matt-saenz
 cpss,ghwang-nk
 CPsurv,cran
@@ -4483,6 +4485,7 @@ datanugget,cran
 dataonderivatives,imanuelcostigan
 dataone,dataoneorg
 datapack,ropensci
+datapackage,djvanderlaan
 DataPackageR,ropensci
 datapasta,milesmcbain
 dataprep,cran
@@ -5740,7 +5743,6 @@ eCAR,gpage2990
 ecb,expersso
 ecce,chuxinyuan
 Ecdat,sbgraves237
-ecdata,executive-communications-dataset
 ecdfHT,jpnolan
 eCerto,janlisec
 ecespa,cran
@@ -9319,7 +9321,7 @@ HeckmanEM,cran
 heckmanGE,fsbmat-ufv
 HEDA,ninalty
 heddlr,mikemahoney218
-hedgedrf,cran
+hedgedrf,elliotbeck
 hedgehog,hedgehogqa
 heemod,aphp
 heimdall,cefet-rj-dal
@@ -10601,6 +10603,7 @@ JATSdecoder,ingmarboeschen
 JavaGD,s-u
 javateak,ywdistira
 Jaya,neerajdhanraj
+jazzPanda,bioc
 JBrowseR,gmod
 jcalendaR,indenkun
 jcext,noeliaof
@@ -11229,7 +11232,7 @@ leanpubr,muschellij2
 leapgp,knrumsey-lanl
 leapp,cran
 leaps,tslumley
-LeArEst,cran
+LeArEst,ptaler
 LearnBayes,bayesball
 LearnClust,robertoalcantara9
 learner,stmcg
@@ -15017,6 +15020,7 @@ osrm,riatelab
 osrmr,symbolrush
 OssaNMA,fangshuye
 OSsurvival,laylaparast
+OSTA.data,bioc
 Ostats,neon-biodiversity
 OSTE,cran
 osum,zivankaraman
@@ -16104,6 +16108,7 @@ PoDCall,bioc
 podcleaner,cran
 PODES,mubarakfadhlul
 podkat,bioc
+poem,bioc
 poems,globalecologylab
 POET,zhelcheva
 pogit,cran
@@ -16491,6 +16496,7 @@ PRIMME,primme
 PrInCE,bioc
 princurve,rcannood
 PrInDT,cran
+prinsurf,raeesaganey91
 printr,yihui
 prinvars,ronho
 prioGene,huerqiang
@@ -18018,7 +18024,6 @@ regtools,matloff
 regutools,bioc
 rehh,cran
 rehh.data,cran
-rehydratoR,kevincoakley
 ReinforcementLearning,nproellochs
 ReIns,treynkens
 reinstallr,calligross
@@ -18419,6 +18424,7 @@ RIFS,cran
 Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
+RIIM,zoezhu098
 riingo,business-science
 Rilostat,ilostat
 rim,rcst
@@ -22443,6 +22449,7 @@ tcpl,usepa
 tcplfit2,usepa
 TCPMOR,shuo-yang-sysu
 TCseq,bioc
+tcxr,firefly-cpp
 td,eddelbuettel
 TDA,jkim82133
 TDAkit,kisungyou
@@ -22511,6 +22518,7 @@ tempR,jcc9
 TempStable,tmoek
 tempted,pixushi
 Tendril,astrazeneca
+TENET,bioc
 tenispolaR,adelmofilho
 tenm,luismurao
 tensor,cran
@@ -22533,6 +22541,7 @@ TENxIO,bioc
 tenXplore,bioc
 TEQC,bioc
 TEQR,cran
+terapadog,bioc
 tergm,statnet
 tergmLite,smjenness
 tergo,kpagacz
@@ -23430,7 +23439,7 @@ tufterhandout,sachsmc
 tugboat,dmolitor
 TukeyC,jcfaria
 TukeyGH77,tingtingzhan
-TukeyRegion,pavlomozharovskyi
+TukeyRegion,cran
 tukeytrend,cran
 TULIP,yuqingxx
 tumgr,wilkersj
@@ -24010,6 +24019,7 @@ vivaldi,greshamlab
 vivid,alaninglis
 vivo,modeloriented
 vizdraws,ignacio82
+VizTest,cran
 vkR,dementiy
 VLF,tathey
 VLMC,mmaechler
