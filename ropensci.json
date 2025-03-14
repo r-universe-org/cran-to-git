@@ -511,12 +511,6 @@
     "url": "https://github.com/ropensci/melt"
   },
   {
-    "package": "mregions2",
-    "maintainer": "",
-    "url": "https://github.com/ropensci/mregions2",
-    "registry": "archived"
-  },
-  {
     "package": "MtreeRing",
     "maintainer": "Jingning Shi <snow940220@bjfu.edu.cn>",
     "url": "https://github.com/ropensci/mtreering"
@@ -960,12 +954,6 @@
     "package": "stplanr",
     "maintainer": "Robin Lovelace <rob00x@gmail.com>",
     "url": "https://github.com/ropensci/stplanr"
-  },
-  {
-    "package": "suppdata",
-    "maintainer": "William D. Pearse <will.pearse@gmail.com>",
-    "url": "https://github.com/ropensci/suppdata",
-    "registry": "archived"
   },
   {
     "package": "tabulapdf",

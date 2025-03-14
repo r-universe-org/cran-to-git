@@ -36,6 +36,7 @@ abjutils,abjur
 ablasso,junyuchen-econ
 ABM,junlingm
 abmR,workshop-brg
+abms,cran
 abn,furrer-lab
 abnormality,mmarks13
 abodOutlier,josejimenezluna
@@ -2428,6 +2429,7 @@ cansim,mountainmath
 CANSIM2R,cran
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
+CAOP.RAA.2024,patterninstitute
 cape,annaltyler
 caper,davidorme
 capesData,leobiazoli
@@ -2715,6 +2717,7 @@ censo2017,ropensci
 censobr,ipeagit
 censorcopula,cran
 censored,tidymodels
+censoredAIDS,noejn2
 censReg,r-forge
 CensSpatial,joalor93
 Census2016,hughparsonage
@@ -3128,6 +3131,7 @@ clinicalomicsdbR,bzhanglab
 clinicalsignificance,pedscience
 ClinicalTrialSummary,pakdaewo
 ClinicalUtilityRecal,anumishra
+clinify,atorus-research
 clinmon,lilleoel
 clinPK,insightrx
 clinsig,jimlemon
@@ -3254,6 +3258,7 @@ CMA,bioc
 cmaes,cran
 cmaesr,jakobbossek
 cmahalanobis,hflavio12
+cmAnalysis,joshageman
 cmapR,bioc
 CMAPSS,mortamini
 CMapViz,peyronlab
@@ -3862,6 +3867,7 @@ CoSMoS,tychelab
 cosmosR,bioc
 COSNet,bioc
 cosso,cran
+cossonet,cran
 COST,cran
 costat,cran
 costsensitive,david-cortes
@@ -3960,6 +3966,7 @@ coxsei,fchenunswms
 CP,andreasstatsr
 cp4p,jacky11
 cpa,cran
+cpam,l-a-yates
 CPAT,ntguardian
 CPBayes,arunabhacodes
 CPC,imehlhaff
@@ -6475,7 +6482,7 @@ ExactMed,caubm
 ExactMultinom,resinj
 exactRankTests,thothorn
 exametrika,kosugitti
-ExamPAData,sdcastillo
+ExamPAData,gl-li
 exampletestr,rorynolan
 exams,zeileis
 exams.forge,sigbertklinke
@@ -7941,6 +7948,7 @@ GeneTonic,bioc
 geneviewer,nvelden
 geneXtendeR,bioc
 genfrn,atchanut
+GenHMM1d,bouchranasri
 genie,gagolews
 GENIE3,bioc
 genieBPC,genie-bpc
@@ -8595,7 +8603,6 @@ glue,tidyverse
 gluedown,k5cents
 gluvarpro,scontador
 glvmfit,cran
-glycanr,iugrina
 gm,flujoo
 gma,zhaoyi1026
 GMAC,randel
@@ -8708,7 +8715,7 @@ GoogleImage2Array,kumes
 GoogleKnowledgeGraphR,cran
 googleLanguageR,ropensci
 googlenlp,brianweinstein
-googlePolylines,cran
+googlePolylines,symbolixau
 googlePublicData,gvegayon
 googlePubsubR,andodet
 googler,mkearney
@@ -9192,6 +9199,7 @@ harmonizer,cran
 HarmonizR,bioc
 harmony,immunogenomics
 harmonydata,omtarful
+HARplus,bodysbobb
 harrietr,andersgs
 harrypotter,aljrico
 Harshlight,bioc
@@ -11428,6 +11436,7 @@ LinTInd,bioc
 lintools,data-cleaning
 lintr,r-lib
 lionessR,bioc
+lionfish,mmedl94
 lipidmapsR,mingzhuotina
 LipidMS,maialba3
 lipidomeR,cran
@@ -13826,6 +13835,7 @@ mvoutlier,petertuwien
 mvp,robinhankin
 MVPBT,nomahi
 mvpd,swihart
+mvPot,r-fndv
 mvProbit,arne-henningsen
 mvQuad,weiserc
 MVQuickGraphs,douglaswhitaker
@@ -15901,6 +15911,7 @@ pkgcond,rdoctaskforce
 pkgconfig,r-lib
 pkgdepends,r-lib
 pkgdepR,edpeyton
+pkgdiff,dbosak01
 pkgdown,r-lib
 pkgfilecache,dfsp-spirit
 pkggraph,talegari
@@ -17224,6 +17235,7 @@ R3port,richardhooijmaijers
 R453Plus1Toolbox,bioc
 R4CouchDB,wactbprot
 r4ds.tutorials,ppbds
+R4GoodPersonalFinances,r4goodacademy
 r4googleads,banboo-data
 R4HCR,cran
 r4lineups,colintredoux
@@ -17454,6 +17466,7 @@ Ravages,ozvan
 ravelRy,walkerkq
 raven.rdf,raven-computing
 RavenR,rchlumsk
+ravepipeline,dipterix
 rAverage,davidemassidda
 ravetools,dipterix
 raw,casact
@@ -17665,6 +17678,7 @@ RcppClassic,eddelbuettel
 RcppClassicExamples,eddelbuettel
 RcppClock,zdebruine
 RcppCNPy,eddelbuettel
+RcppColMetric,zhuxr11
 RcppColors,stla
 RcppCWB,polmine
 RcppDate,eddelbuettel
@@ -19679,6 +19693,7 @@ SBGNview,bioc
 SBI,davidpetroff
 sBIC,lucaweihs
 SBICgraph,qpmnguyen
+sbim,joonhap
 sbl,meiyuecomputbio
 sbm,grosssbm
 SBmedian,kisungyou
@@ -20225,6 +20240,7 @@ SetTest,wpihongzhang
 settings,markvanderloo
 settingsSync,notplancha
 Seurat,satijalab
+SeuratExplorer,fentouxungui
 SeuratObject,satijalab
 sevenbridges,bioc
 sevenbridges2,sbg
@@ -20810,7 +20826,6 @@ slalom,bioc
 slam,kurthornik
 slanter,tanaylab
 slap,tadascience
-SlaPMEG,mitra-ep
 slasso,unina-sfere
 SLBDD,cran
 slca,kim0sun
@@ -22921,6 +22936,7 @@ tinytest2JUnit,openanalytics
 tinytex,rstudio
 tinythemes,eddelbuettel
 tinytiger,alarm-redist
+tinyVAST,vast-lib
 tip,charleswharrison
 tipa,hugheylab
 TipDatingBeast,ckhatchikian
@@ -23439,7 +23455,7 @@ tufterhandout,sachsmc
 tugboat,dmolitor
 TukeyC,jcfaria
 TukeyGH77,tingtingzhan
-TukeyRegion,cran
+TukeyRegion,pavlomozharovskyi
 tukeytrend,cran
 TULIP,yuqingxx
 tumgr,wilkersj
@@ -24231,6 +24247,7 @@ webmap,jfisher-usgs
 webmockr,ropensci
 webp,jeroen
 WebPower,johnnyzhz
+webqueue,cmmr
 webr,cardiomoon
 webreadr,ironholds
 webSDM,giopogg

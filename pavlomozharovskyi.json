@@ -3,5 +3,11 @@
     "package": "curveDepth",
     "maintainer": "Pavlo Mozharovskyi <pavlo.mozharovskyi@telecom-paristech.fr>",
     "url": "https://github.com/cran/curveDepth"
+  },
+  {
+    "package": "TukeyRegion",
+    "maintainer": "Pavlo Mozharovskyi <pavlo.mozharovskyi@telecom-paris.fr>",
+    "url": "https://github.com/cran/TukeyRegion",
+    "registry": "archived"
   }
 ]
