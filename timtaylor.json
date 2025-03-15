@@ -2,7 +2,8 @@
   {
     "package": "ageutils",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
-    "url": "https://github.com/timtaylor/ageutils"
+    "url": "https://github.com/timtaylor/ageutils",
+    "subdir": "pkg"
   },
   {
     "package": "super",

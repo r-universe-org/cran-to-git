@@ -172,7 +172,7 @@ ag5Tools,https://github.com/agrdatasci/ag5tools,,
 agcounts,https://github.com/bhelsel/agcounts,,
 AGD,https://github.com/stefvanbuuren/agd,,
 AgePopDenom,https://github.com/truenomad/agepopdenom,,
-ageutils,https://github.com/timtaylor/ageutils,,
+ageutils,https://github.com/timtaylor/ageutils,pkg,
 aggregateBioVar,https://github.com/jasonratcliff/aggregatebiovar,,bioc
 AggregateR,https://github.com/matthbogaert/aggregater,,
 aggTrees,https://github.com/riccardo-df/aggtrees,,
@@ -2373,6 +2373,7 @@ cpp11armadillo,https://github.com/pachadotdev/cpp11armadillo,,
 cpp11bigwig,https://github.com/rnabioco/cpp11bigwig,,
 cpp11eigen,https://github.com/pachadotdev/cpp11eigen,,
 cpp11qpdf,https://github.com/pachadotdev/cpp11qpdf,,
+cpp11tesseract,https://github.com/pachadotdev/cpp11tesseract,,
 cppcheckR,https://github.com/stla/cppcheckr,,
 cppcontainers,https://github.com/cdueben/cppcontainers,,archived
 cppdoubles,https://github.com/nicchr/cppdoubles,,
@@ -6512,6 +6513,7 @@ karyotapR,https://github.com/joeymays/karyotapr,,
 katdetectr,https://github.com/erasmusmc-ccbc/katdetectr,,bioc
 katex,https://github.com/ropensci/katex,,
 kayadata,https://github.com/jonathan-g/kayadata,,
+kbal,https://github.com/chadhazlett/kbal,,
 KBoost,https://github.com/luisiglm/kboost,,bioc
 kcmeans,https://github.com/thomaswiemann/kcmeans,,
 KCSNBShiny,https://github.com/chaithanya07/kcsnbshiny,,
@@ -10305,6 +10307,7 @@ QuantRegGLasso,https://github.com/egpivo/quantregglasso,,
 quantregRanger,https://github.com/philipppro/quantregranger,,
 quantspec,https://github.com/tobiaskley/quantspec,,
 quarrint,https://github.com/jojo-/quarrint,quarrint,
+quartabs,https://github.com/sayuks/quartabs,,
 Quartet,https://github.com/ms609/quartet,,
 quartets,https://github.com/r-causal/quartets,,
 quarto,https://github.com/quarto-dev/quarto-r,,
@@ -12062,7 +12065,7 @@ scde,https://github.com/hms-dbmi/scde,,bioc
 scDECO,https://github.com/yenyiho-lab/scdeco,,
 SCdeconR,https://github.com/liuy12/scdeconr,,
 scDesign3,https://github.com/songdongyuan1994/scdesign3,,bioc
-scDHA,https://github.com/duct317/scdha,,
+scDHA,https://github.com/duct317/scdha,,archived
 scdhlm,https://github.com/jepusto/scdhlm,,
 scDiagnostics,https://github.com/ccb-hms/scdiagnostics,,bioc
 scDiffCom,https://github.com/cyrillagger/scdiffcom,,
@@ -12152,7 +12155,7 @@ ScriptMapR,https://github.com/peyronlab/scriptmapr,,
 scriptName,https://github.com/mullinslab/scriptname,,
 scriptuRs,https://github.com/andrewheiss/scripturs,,
 scrm,https://github.com/scrm/scrm-r,,
-ScRNAIMM,https://github.com/mohmedsoudy/scrnaimm,,
+ScRNAIMM,https://github.com/mohmedsoudy/scrnaimm,,archived
 scRNAseqApp,https://github.com/jianhong/scrnaseqapp,,bioc
 scrobbler,https://github.com/condwanaland/scrobbler,,
 scrollrevealR,https://github.com/feddelegrand7/scrollrevealr,,
