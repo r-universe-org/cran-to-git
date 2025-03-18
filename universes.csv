@@ -1456,7 +1456,7 @@ bdribs,cran
 bdscale,dvmlls
 bdsm,mdubel
 bdsmatrix,cran
-bdsvd,cran
+bdsvd,janobauer
 BDWreg,hamedhm
 BE,cran
 bea.R,us-bea
@@ -5247,6 +5247,7 @@ dlookr,choonghyunryu
 DLPCA,guangbaog
 dlr,macmillancontentscience
 dlsem,alessandromagrini
+DLSSM,jiakunj
 dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
@@ -6264,6 +6265,7 @@ epxToR,cran
 eq5d,fragla
 eq5dsuite,mathsinhealth
 EQL,cran
+EQRN,opasche
 equalCovs,cran
 Equalden.HD,cran
 EQUALrepeat,cran
@@ -7578,6 +7580,7 @@ funreg,dziakj1
 funspace,carlosp-carmona
 funspotr,brshallo
 funStatTest,gdurif
+FunSurv,zifangkong
 FUNTA,cran
 funtimes,vlyubchich
 funtooNorm,bioc
@@ -10896,6 +10899,7 @@ kissDE,bioc
 kissmig,codelab3
 kit,2005m
 kitagawa,abarbour
+kitesquare,hugleipzig
 kiwisR,rywhale
 kknn,klausvigo
 kko,cran
@@ -15123,6 +15127,7 @@ pacman,trinker
 paco,matthutchinson1
 pacotest,maltekurz
 pacs,polkas
+pacta.loanbook,rmi-pacta
 pacta.multi.loanbook,rmi-pacta
 pacu,cldossantos
 PACVr,michaelgruenstaeudl
@@ -18412,6 +18417,7 @@ rhype,hwarden162
 ri2,acoppock
 RI2by2,joerigdon
 RIA,cran
+rIACI,nan-z-byte
 riAFTBART,freyrray
 rib,lbilli
 ribd,magnusdv
@@ -18589,6 +18595,7 @@ Rlof,yingsonghu
 rlog,sellorm
 RLogicalOps,cerebralseeker
 RLoptimal,matsuurakentaro
+rlowdb,feddelegrand7
 RLRsim,fabian-s
 RLT,teazrq
 rLTP,hetong007
@@ -20455,6 +20462,7 @@ shinyMobile,rinterface
 shinymodels,tidymodels
 shinyMolBio,pcruniversum
 shinyMonacoEditor,stla
+shinyNextUI,rinterface
 shinyNORRRM,therfrog
 shinyNotes,danielkovtun
 shinyobjects,rjake
@@ -20783,7 +20791,7 @@ siteymlgen,acribbs
 SITH,phillipnicol
 sitmo,coatless-rpkg
 sitools,jonasstein
-sitree,cantonfe
+sitree,inasevmon
 sitreeE,cantonfe
 sits,e-sensing
 sivirep,epiverse-trace
