@@ -295,6 +295,12 @@
     "registry": "bioc"
   },
   {
+    "package": "alabaster.sfe",
+    "maintainer": "Lambda Moses <dl3764@columbia.edu>",
+    "url": "https://github.com/pachterlab/alabaster.sfe",
+    "registry": "bioc"
+  },
+  {
     "package": "alabaster.spatial",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://git.bioconductor.org/packages/alabaster.spatial",
@@ -3582,6 +3588,12 @@
     "package": "DNAcopy",
     "maintainer": "Venkatraman E. Seshan <seshanv@mskcc.org>",
     "url": "https://github.com/veseshan/dnacopy",
+    "registry": "bioc"
+  },
+  {
+    "package": "DNAcycP2",
+    "maintainer": "Ji-Ping Wang <jzwang@northwestern.edu>",
+    "url": "https://github.com/jipingw/dnacycp2",
     "registry": "bioc"
   },
   {
@@ -12671,6 +12683,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SVP",
+    "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
+    "url": "https://github.com/yulab-smu/svp",
+    "registry": "bioc"
+  },
+  {
     "package": "SWATH2stats",
     "maintainer": "Peter Blattmann <peter_blattmann@bluewin.ch>",
     "url": "https://github.com/peterblattmann/swath2stats",
@@ -13730,6 +13748,12 @@
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
+    "registry": "bioc"
+  },
+  {
+    "package": "XAItest",
+    "maintainer": "Ghislain FIEVET <ghislain.fievet@gmail.com>",
+    "url": "https://github.com/ghislainfievet/xaitest",
     "registry": "bioc"
   },
   {

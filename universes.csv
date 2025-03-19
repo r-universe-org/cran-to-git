@@ -414,6 +414,7 @@ alabaster.ranges,bioc
 alabaster.sce,bioc
 alabaster.schemas,bioc
 alabaster.se,bioc
+alabaster.sfe,bioc
 alabaster.spatial,bioc
 alabaster.string,bioc
 alabaster.vcf,bioc
@@ -3936,7 +3937,6 @@ covidprobability,eebrown
 covidsymptom,hugofitipaldi
 covKCD,pdhoff
 covr,r-lib
-CovRegRF,calakus
 covRNA,bioc
 covRobust,hanase
 CovSel,cran
@@ -4515,6 +4515,7 @@ datasetjson,atorus-research
 datasets.load,bquast
 datasetsICR,cran
 DataSetsUni,imranshakoor
+DataSimilarity,cran
 DataSpaceR,ropensci
 dataspice,ropensci
 DatAssim,cran
@@ -5278,6 +5279,7 @@ DMwR2,ltorgo
 DNABarcodeCompatibility,bioc
 DNABarcodes,bioc
 DNAcopy,bioc
+DNAcycP2,bioc
 DNAfusion,bioc
 DNAmixturesLite,tgraversen
 DNAmotif,cran
@@ -5800,6 +5802,7 @@ econet,cran
 EcoNetGen,cboettig
 econetwork,vmielecnrs
 EconGeo,paballand
+econid,teal-insights
 economiccomplexity,pachadotdev
 econullnetr,ivaughan
 ecopower,cran
@@ -6572,6 +6575,7 @@ exteriorMatch,cran
 extlasso,doer0
 ExtMallows,cran
 extraChIPs,bioc
+extractFAERS,cran
 extractox,c1au6i0
 ExtractTrainData,subhadipdatta
 extraDistr,twolodzko
@@ -7113,6 +7117,7 @@ FixedPoint,s-baumann
 fixedpointproperty,cran
 fixedTimeEvents,khliland
 fixerapi,evanodell
+fixes,yo5uke
 fixest,lrberge
 fixr,ambuvjyn
 FixSeqMTP,allenzhuaz
@@ -12641,6 +12646,7 @@ mfp,georgheinze
 mfp2,edwinkipruto
 MFPCA,clarahapp
 mfpp,kzst
+MFSIS,cran
 MFT,cran
 MfUSampler,asmahani
 Mfuzz,bioc
@@ -12821,6 +12827,7 @@ miniCRAN,andrie
 minidown,atusy
 miniGUI,cran
 miniLNM,krisrs1128
+minimalistGODB,barryzee
 minimalRSD,jiyosunny
 minimap,seankross
 minimax,billvenables
@@ -16095,6 +16102,7 @@ pmetar,prcwiek
 pmev,david-hammond
 PMEvapotranspiration,himadriiasri
 pmhtutorial,cran
+pminternal,stephenrho
 pmlbr,epistasislab
 pmledecon,cran
 pmm,bioc
@@ -18187,6 +18195,7 @@ ResidentialEnergyConsumption,hopfkons
 ResidualMatrix,bioc
 resilience,rvaradhan
 ResIN,pwarncke77
+ResIndex,anandorjha
 ResistorArray,robinhankin
 reslife,an-crawford
 reslr,maeveupton
@@ -18671,6 +18680,7 @@ RMOA,jwijffels
 RMOAjars,jwijffels
 Rmodule,drjphughesjr
 Rmolt,martinbozon
+rmon,kennedymwavu
 Rmonize,maelstrom-research
 rmonocypher,coolbutuseless
 rmoo,evolutionary-optimization-laboratory
@@ -20792,7 +20802,7 @@ SITH,phillipnicol
 sitmo,coatless-rpkg
 sitools,jonasstein
 sitree,inasevmon
-sitreeE,cantonfe
+sitreeE,inasevmon
 sits,e-sensing
 sivirep,epiverse-trace
 sivs,mmahmoudian
@@ -20877,6 +20887,7 @@ slimrec,talegari
 slingshot,bioc
 slippymath,milesmcbain
 slm,e-caron
+SLmetrics,serkor1
 SLModels,raznargimeno
 sloop,r-lib
 SLOPE,jolars
@@ -21785,6 +21796,7 @@ statprograms,bklamer
 statpsych,dgbonett
 statquotes,friendly
 StatRank,hosseinazari
+StatRec,cran
 stats19,ropensci
 stats4teaching,estebancabello
 statsearchanalyticsr,sditools
@@ -22006,7 +22018,7 @@ subplex,kingaa
 subrank,jeromepcollet
 subsampling,dqksnow
 subscore,daiscode
-subscreen,bodokirsch
+subscreen,cran
 subsemble,ledell
 subSeq,bioc
 subspace,cran
@@ -22214,6 +22226,7 @@ svMisc,sciviews
 SVMMaj,hoksanyip
 svmpath,trevorhastie
 SVN,damienchallet
+SVP,bioc
 svplots,cran
 svrep,bschneidr
 svrpath,09dohkim
@@ -23124,6 +23137,7 @@ TPP2D,bioc
 tpr,jun-yan
 tpSVG,bioc
 tpwb,atchanut
+TPXG,nikolas-kk
 tqk,mrchypark
 tr.iatgen,iatgen
 TR8,giobo
@@ -24516,6 +24530,7 @@ x12,statistikat
 x13binary,x13org
 x3ptools,heike
 xadmix,spacecowboy-71
+XAItest,bioc
 xaringan,yihui
 xaringanExtra,gadenbuie
 xaringanthemer,gadenbuie
