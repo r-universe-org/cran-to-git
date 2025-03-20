@@ -978,6 +978,7 @@ AutoAds,nemtsevvv
 autoBagging,vcerqueira
 autocogs,schloerke
 autoCovariateSelection,technoslerphile
+autodb,charnelmouse
 AutoDeskR,paulgovan
 autoEnsemble,haghish
 autoFC,tspsyched
@@ -1780,7 +1781,7 @@ BiodiversityR,roelandkindt
 biodosetools,biodosetools-team
 BIOdry,wilarhen
 BioGA,bioc
-biogas,cran
+biogas,sashahafner
 biogeom,cran
 biogram,michbur
 biogrowth,albgarre
@@ -2031,7 +2032,6 @@ boomer,moodymudskipper
 BoomSpikeSlab,steve-the-bayesian
 boostingDEA,mariaguilleng
 BoostMLR,amoljpande
-boostmtree,kogalur
 boostrq,stefanlinner
 boot,cran
 boot.heterogeneity,gabriellajg
@@ -2424,6 +2424,7 @@ CancerGram,biogenies
 cancerR,giancarlodigi
 cancerscreening,damurka
 candisc,friendly
+CANE,vinayaka11442
 Canek,martinloza
 Canopy,yuchaojiang
 canprot,jedick
@@ -3418,6 +3419,7 @@ CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortExplorer,ohdsi
 CohortGenerator,ohdsi
+CohortPathways,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,cran
@@ -6916,7 +6918,6 @@ featureCorMatrix,masem-research
 FeatureExtraction,ohdsi
 featurefinder,richard987
 featureflag,szymanskir
-FeatureHashing,wush978
 FeatureImpCluster,o1iv3r
 features,rvaradhan
 FeatureTerminatoR,cran
@@ -8601,6 +8602,7 @@ globaltest,bioc
 globaltrends,ha-pu
 globe,baddstats
 glober,cran
+globpso,pingyangchen
 glogis,zeileis
 GloScope,bioc
 glossa,imares-group
@@ -10844,6 +10846,7 @@ KernelKnn,mlampros
 kernelshap,modeloriented
 kernhaz,cran
 kernlab,alexkz
+kernopt,thomasfillon
 kernplus,hhwangbo
 kernscr,borishejblum
 KernSmooth,cran
@@ -13710,6 +13713,7 @@ multiness,peterwmacd
 multinet,magnanim
 multinets,neylsoncrepalde
 multinma,dmphillippo
+MultiNMix,niamhmimnagh
 MultinomialCI,cran
 multinomialLogitMix,mqbssppe
 multinomineq,danheck
@@ -23038,6 +23042,7 @@ tmvtnorm,stefanwilhelm
 tmvtnsim,kaifenglu
 tna,sonsoleslp
 TNC,cran
+tndata,aymennasri
 tnet,toreopsahl
 tnl.Test,ihababusaif
 TNRS,bmaitner
@@ -24234,6 +24239,7 @@ wavethresh,cran
 wavScalogram,cran
 waydown,pabrod
 WayFindR,cran
+Waypoint,mark-eis
 waywiser,ropensci
 wbacon,tobiasschoch
 wbids,teal-insights

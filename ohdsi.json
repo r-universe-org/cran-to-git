@@ -35,6 +35,11 @@
     "url": "https://github.com/ohdsi/cohortgenerator"
   },
   {
+    "package": "CohortPathways",
+    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
+    "url": "https://github.com/ohdsi/cohortpathways"
+  },
+  {
     "package": "CohortSymmetry",
     "maintainer": "Xihang Chen <xihang.chen@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/cohortsymmetry"
