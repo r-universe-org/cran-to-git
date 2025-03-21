@@ -2625,7 +2625,7 @@ ccImpute,bioc
 cclust,kurthornik
 CCM,gdancik
 ccmap,bioc
-ccmEstimator,xiw021
+ccmEstimator,wu-xiaohan
 ccml,pulmonomics-lab
 ccmm,cran
 CCMMR,djwtouw
@@ -3849,6 +3849,7 @@ corrmeta,wsjung
 CorrMixed,wimvde001
 corrplot,taiyun
 corrr,tidymodels
+corrRF,cran
 corrsieve,campanam
 corrtable,lauralambert99
 CorrToolBox,bernice0321
@@ -6990,6 +6991,7 @@ fHMM,loelschlaeger
 FHtest,ramonoller
 FI,dvdscripter
 fiberLD,cran
+fibos,hersonhebert
 fic,chjackson
 fICA,klauschn
 fidelius,mattwarkentin
@@ -7067,6 +7069,7 @@ fipio,program--
 fipp,cran
 FiRE,princethewinner
 firebase,johncoene
+firebase.auth.rest,kennedymwavu
 firebehavioR,ecofire
 fireexposuR,ropensci
 first,cran
@@ -10781,6 +10784,7 @@ kalmanfilter,hubbardalex
 kamila,ahfoss
 kangar00,jmanitz
 kanjistat,dschuhmacher
+kanova,rolfturner
 kantorovich,stla
 kaos,hfloechel
 kaphom,cran
@@ -11490,6 +11494,7 @@ littler,eddelbuettel
 liureg,itfeature
 live,modeloriented
 liver,rezamoammadi
+LJmp3converter,decard-5673
 ljr,cran
 LKT,optimal-learning-lab
 llama,larskotthoff
@@ -13710,7 +13715,7 @@ multimode,jose-ameijeiras
 multimolang,daedaluslab
 multimorbidity,wyattbensken
 multiness,peterwmacd
-multinet,magnanim
+multinet,cran
 multinets,neylsoncrepalde
 multinma,dmphillippo
 MultiNMix,niamhmimnagh
@@ -17085,7 +17090,7 @@ qtlpoly,gabrielgesteira
 QTLRel,cran
 QTOCen,yuzhou-isabella
 Qtools,marco-geraci
-qtwAcademic,andreaczhang
+qtwAcademic,chizapoth
 quadcleanR,dominiquemaucieri
 quadform,robinhankin
 quadkeyr,ropensci
@@ -18041,7 +18046,7 @@ regmed,sinnweja
 regmedint,kaz-yos
 regmhmm,henryleongstat
 regMMD,pierrealquier
-regnet,jrhub
+regnet,jrenstat
 regplot,rmar073
 regport,shixiangwang
 regr.easy,wagnnerms97
@@ -18796,7 +18801,7 @@ RobAStRDA,r-forge
 robber,chabert-liddell
 robCompositions,matthias-da
 robcor,paulsmirnov
-roben,jrhub
+roben,jrenstat
 RobExtremes,r-forge
 robfilter,cran
 robflreg,ufukbeyaztas
@@ -21460,7 +21465,7 @@ Spillover,cran
 spillR,bioc
 SPINA,jwdietrich21
 spINAR,mfaymon
-spinBayes,jrhub
+spinBayes,jrenstat
 spind,levisc8
 spinifex,nspyrison
 spinner,pigian
@@ -23095,7 +23100,7 @@ topsis,mahmoudmy
 TopSisWM,wagnnerms97
 tor,maurolepore
 torch,mlverse
-torchaudio,skeydan
+torchaudio,cran
 torchdatasets,mlverse
 torchopt,e-sensing
 torchvision,mlverse
