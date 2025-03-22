@@ -1895,7 +1895,7 @@ blackbox,f-rousset
 blackmarbler,worldbank
 blacksheepr,bioc
 blaise,sophof
-BlakerCI,cran
+BlakerCI,jan-klaschka
 BlandAltmanLeh,cran
 blandr,deepankardatta
 blapsr,oswaldogressani
@@ -7336,7 +7336,6 @@ foreSIGHT,climateanalytics
 forestat,caf-ifrit
 forestControl,aberhrml
 ForestDisc,hmais
-forestdynR,higuchip
 forestecology,rudeboybert
 forested,simonpcouch
 ForestElementsR,cran
@@ -12042,6 +12041,7 @@ MarginalMediation,tysonstanley
 margins,bbolker
 marima,cran
 mariner,bioc
+MariNET,cran
 mark,jmbarbone
 markdown,rstudio
 markdownInput,juliendiot42
@@ -13339,6 +13339,7 @@ moonBook,cardiomoon
 moonboot,cdalitz
 Moonlight2R,bioc
 MoonlightR,bioc
+mooplot,multi-objective
 moose,carohlfs
 mop,marlonecobos
 mopac,sccmckenzie
@@ -13469,6 +13470,7 @@ MRFA,chihli
 MRFcov,nicholasjclark
 mrfDepth,psegaert
 mrfse,rodrigorsdc
+mrgdp,marcoaperezm
 mrgsim.parallel,kylebaron
 mrgsim.sa,kylebaron
 mrgsolve,metrumresearchgroup
@@ -13715,7 +13717,7 @@ multimode,jose-ameijeiras
 multimolang,daedaluslab
 multimorbidity,wyattbensken
 multiness,peterwmacd
-multinet,cran
+multinet,magnanim
 multinets,neylsoncrepalde
 multinma,dmphillippo
 MultiNMix,niamhmimnagh
@@ -14072,7 +14074,6 @@ NestedCategBayesImpute,akandelanre
 nestedcv,myles-lewis
 nestedLogit,friendly
 NestedMenu,stla
-nestedmodels,ashbythorpe
 nestedpp,cran
 nestfs,mcol
 NestMRMC,didsr
@@ -18287,7 +18288,6 @@ rfars,s87jackson
 Rfast,rfastofficial
 Rfast2,rfastofficial
 Rfastp,bioc
-RFCCA,calakus
 RFclust,archakravarthy
 rfema,ropensci
 RfEmpImp,shangzhi-hong
@@ -18869,6 +18869,7 @@ RobustRankAggreg,raivokolde
 robustrao,mccalatravamoreno
 robustreg,cran
 robustsae,cran
+robustSFA,cran
 robustsur,claudioagostinelli
 robustvarComp,claudioagostinelli
 robustX,mmaechler
@@ -23100,7 +23101,7 @@ topsis,mahmoudmy
 TopSisWM,wagnnerms97
 tor,maurolepore
 torch,mlverse
-torchaudio,cran
+torchaudio,skeydan
 torchdatasets,mlverse
 torchopt,e-sensing
 torchvision,mlverse
@@ -23358,6 +23359,7 @@ TropFishR,tokami
 trotter,ram6ler
 trouBBlme4SolveR,iagogv3
 TroublemakeR,sustainscapes
+trps,benjaminhlina
 TrtCombo.FactorialExp.SR,roy-sr-007
 trtf,r-forge
 trtswitch,kaifenglu
