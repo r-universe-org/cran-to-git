@@ -10530,7 +10530,7 @@
   {
     "package": "rhdf5",
     "maintainer": "Mike Smith <mike.smith@embl.de>",
-    "url": "https://github.com/grimbough/rhdf5",
+    "url": "https://github.com/huber-group-embl/rhdf5",
     "registry": "bioc"
   },
   {
@@ -10542,13 +10542,13 @@
   {
     "package": "rhdf5filters",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
-    "url": "https://github.com/grimbough/rhdf5filters",
+    "url": "https://github.com/huber-group-embl/rhdf5filters",
     "registry": "bioc"
   },
   {
     "package": "Rhdf5lib",
     "maintainer": "Mike Smith <grimbough@gmail.com>",
-    "url": "https://github.com/grimbough/rhdf5lib",
+    "url": "https://github.com/huber-group-embl/rhdf5lib",
     "registry": "bioc"
   },
   {

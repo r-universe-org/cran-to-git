@@ -2312,6 +2312,7 @@ businessPlanR,c3s
 BUSpaRse,bioc
 BUSseq,bioc
 butcher,tidymodels
+butterfly,ropensci
 butterflyOptions,maheshpkumar
 BuyseTest,bozenne
 Bvalue,zhaoyi1026
@@ -2446,6 +2447,7 @@ capn,cran
 CaPO4Sim,divadnojnarg
 captr,gojiplus
 capushe,cran
+capybara,pachadotdev
 car,r-forge
 caracas,r-cas
 caRamel,fzao
@@ -2645,7 +2647,7 @@ CCSRfind,cran
 ccss,abhibhavs
 ccTensor,rikenbit
 cctest,cran
-cctools,cran
+cctools,tnagler
 CCTpack,cran
 CCWeights,yonghuidong
 cd,cleanzr
@@ -3804,6 +3806,7 @@ coreCT,troyhill
 CoreGx,bioc
 corehunter,hdbeukel
 CORElearn,rmarko
+corella,atlasoflivingaustralia
 corels,corels
 CoreMicrobiomeR,cran
 coreNLP,taylor-arnold
@@ -4965,7 +4968,6 @@ DHBins,tslumley
 dhga,samarendra88
 dhglm,msnoh1
 dhh,cran
-dhis2r,amanyiraho
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
@@ -5679,7 +5681,7 @@ earlywarnings,vdakos
 earth,stephenmilborrow
 earthdatalogin,boettiger-lab
 earthtide,jkennel
-earthtones,wcornwell
+earthtones,traitecoevo
 Ease,cran
 easier,bioc
 easy.glmnet,jrad1
@@ -8288,7 +8290,6 @@ ggiraph,davidgohel
 ggiraphExtra,cardiomoon
 GGIRread,wadpac
 ggisotonic,talegari
-ggjoy,clauswilke
 ggkegg,bioc
 gglasso,archer-yang-lab
 gglgbtq,turtletopia
@@ -9076,7 +9077,7 @@ gtfsio,r-transit
 gtfsrouter,urbananalyst
 gtfstools,ipeagit
 GTFSwizard,opatp
-gtheory,canoemoore
+gtheory,cran
 gto,thebioengineer
 gtools,r-gregmisc
 gtranslate,mohamed-180
@@ -9798,7 +9799,6 @@ ibb,berkorbay
 iBBiG,bioc
 IBCF.MTME,frahik
 ibd,doer0
-IBDsim,cran
 ibdsim2,magnusdv
 ibelief,cran
 IBFS,cran
@@ -10071,6 +10071,7 @@ immunarch,immunomind
 immunaut,login-
 immuneSIM,greifflab
 immunoClust,bioc
+immunogenetr,k96nb01
 immunogenViewer,bioc
 immunotation,bioc
 Imneuron,imiqbal
@@ -10769,6 +10770,7 @@ JuliaCall,juliainterop
 JuliaConnectoR,stefan-m-lenz
 JuliaFormulae,yjunechoe
 JUMP,cran
+jumps,matteopelagatti
 junctions,thijsjanzen
 just.install,carlosyanez
 justifier,cran
@@ -11495,6 +11497,7 @@ littler,eddelbuettel
 liureg,itfeature
 live,modeloriented
 liver,rezamoammadi
+LJexm,decard-5673
 LJmp3converter,decard-5673
 ljr,cran
 LKT,optimal-learning-lab
@@ -16309,6 +16312,7 @@ poset,lmaowisc
 POSetR,albertoarcagni
 PoSI,wan-z
 PoSIAdjRSquared,cran
+positron.tutorials,ppbds
 posologyr,levenc
 PosRatioDist,tragedybmc127
 POSSA,gasparl
@@ -17995,6 +17999,7 @@ redlistr,red-list-ecosystem
 rEDM,softwareliteracy
 Redmonder,pmdci
 redoc,meztez
+redquack,dylanpieper
 REDseq,bioc
 ReducedExperiment,bioc
 redux,richfitz
@@ -19178,6 +19183,7 @@ rsae,tobiasschoch
 rSAFE,modeloriented
 RSAGA,r-spatial
 Rsagacmd,stevenpawley
+rsahmi,yunuuuu
 rsample,tidymodels
 Rsampling,piklprado
 Rsamtools,bioc
@@ -20492,6 +20498,7 @@ shinypanel,alexvpickering
 shinypanels,datasketch
 shinypivottabler,bthieurmel
 shinyPredict,jkhaukka
+shinyproxyLogs,tsenegas
 shinyQueryBuilder,krystian8207
 ShinyQuickStarter,cran
 shinyquiz,priism-center
@@ -20655,7 +20662,7 @@ simecol,tpetzoldt
 simEd,blawson-bates
 SimEngine,avi-kenny
 simer,xiaolei-lab
-simest,arun-kuchibhotla
+simest,cran
 simET,liumiguo
 SimEUCartelLaw,mabe0033
 simex,wolfganglederer
@@ -20922,6 +20929,7 @@ smacof,pmair78
 smacofx,r-forge
 smacpod,jfrench
 SMAD,bioc
+SMAHP,cran
 smallarea,nandy006
 SmallCountRounding,statisticsnorway
 smallsets,lydialucchesi
@@ -21029,6 +21037,7 @@ snapchatadsR,pablosanmar
 snapcount,bioc
 snapKrig,deankoch
 snapshot,asgr
+snazzieR,jesusbutforgaypeople
 SNBdata,enricoschumann
 snem,takayukikawa
 snfa,tkmckenzie
@@ -21689,7 +21698,7 @@ sspm,pedersen-fisheries-lab
 sspse,handcock
 ssr,enriquegit
 SSRA,cran
-SSrat,hanslandsheer
+SSrat,cran
 ssrch,bioc
 ssrm.logmer,cran
 SSRMST,mikihoriguchi
@@ -22173,7 +22182,7 @@ survival.svb,mkomod
 survivalAnalysis,cran
 SurvivalClusteringTree,luyouepiusf
 survivalmodels,foucher-y
-survivalMPL,dlc48
+survivalMPL,ptuc-stats
 survivalMPLdc,kenny-jing-xu
 survivalPLANN,chupverse
 survivalREC,gsoutinho
@@ -23766,6 +23775,7 @@ usdarnass,rdinter
 usdata,openintrostat
 usdatasets,lightbluetitan
 usdm,babaknaimi
+usdoj,ropengov
 usedist,kylebittinger
 usedthese,cgoo4
 useful,jaredlander
@@ -24619,6 +24629,7 @@ xnet,centerforstatistics-ugent
 XNomial,wrengels
 xoi,kbroman
 xopen,r-lib
+xpect,pigian
 xpectr,ludvigolsen
 xplain,jsugarelli
 xplorerr,rsquaredacademy

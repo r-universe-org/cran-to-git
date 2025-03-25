@@ -1,12 +1,17 @@
 [
   {
+    "package": "cctools",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
+    "url": "https://github.com/tnagler/cctools"
+  },
+  {
     "package": "kde1d",
     "maintainer": "Thomas Nagler <mail@tnagler.com>",
     "url": "https://github.com/tnagler/kde1d"
   },
   {
     "package": "kdecopula",
-    "maintainer": "Thomas Nagler <thomas.nagler@tum.de>",
+    "maintainer": "Thomas Nagler <mail@tnagler.com>",
     "url": "https://github.com/tnagler/kdecopula"
   },
   {
