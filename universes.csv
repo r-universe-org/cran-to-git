@@ -1156,7 +1156,7 @@ Banksy,bioc
 bannerCommenter,billvenables
 banocc,bioc
 BANOVA,banovaapp
-banter,ericarcher
+banter,swfsc
 banxicoR,eflores89
 baorista,ercrema
 bapred,romanhornung
@@ -4453,6 +4453,7 @@ Dark,emkayoh
 DarkDiv,carlosp-carmona
 darksky,hrbrmstr
 DART,bioc
+dartR,green-striped-gecko
 dartR.base,green-striped-gecko
 dartR.captive,green-striped-gecko
 dartR.data,green-striped-gecko
@@ -6057,7 +6058,7 @@ emhawkes,ksublee
 EmiR,lorenzo125
 emIRT,kosukeimai
 EmissV,atmoschem
-EmiStatR,arturotorres
+EmiStatR,cran
 EMJMCMC,wleoncio
 EML,ropensci
 emld,ropensci
@@ -6297,6 +6298,7 @@ ER,khliland
 era,joeroe
 erah,xdomingoal
 eratosthenes,scollinselliott
+erboost,archer-yang-lab
 erccdashboard,bioc
 ercv,iserram
 ERDbuilder,gbasulto
@@ -8280,6 +8282,7 @@ gghighlight,yutannihilation
 gghilbertstrings,sumidu
 gghist,frederikziebell
 ggHoriPlot,rivasiker
+gghourglass,pepijn-devries
 ggimage,guangchuangyu
 ggimg,taylor-arnold
 gginference,okgreece
@@ -8713,6 +8716,7 @@ goldilocks,graemeleehickey
 GOLDprice,mubarakfadhlul
 golem,thinkr-open
 golfr,cran
+GoMiner,barryzee
 gomms,cran
 GomoGomonoMi,feddelegrand7
 gomp,cran
@@ -8959,6 +8963,7 @@ groundhog,credibilitylab
 GroupBN,abecker-ml
 GroupComparisons,cran
 groupdata2,ludvigolsen
+groupedHyperframe,tingtingzhan
 groupedSurv,dcibioinformatics
 Grouphmap,syc2436
 groupICA,cran
@@ -9077,7 +9082,7 @@ gtfsio,r-transit
 gtfsrouter,urbananalyst
 gtfstools,ipeagit
 GTFSwizard,opatp
-gtheory,cran
+gtheory,canoemoore
 gto,thebioengineer
 gtools,r-gregmisc
 gtranslate,mohamed-180
@@ -10361,6 +10366,7 @@ iotables,ropengov
 iotarelr,fberding
 iotools,s-u
 ip2location,ip2location
+ip2location.io,cran
 ip2locationio,ip2location
 ip2proxy,ip2location
 ip2whois,ip2whois
@@ -11411,6 +11417,7 @@ LimnoPalettes,swampthingpaul
 limonaid,matherion
 limorhyde,hugheylab
 limorhyde2,hugheylab
+limpa,bioc
 limpca,bioc
 LimROTS,bioc
 limSolve,karlines
@@ -14693,7 +14700,7 @@ oglcnac,yaoxiangli
 oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
-OHCSpackage,idmorley
+OHCSpackage,cran
 OhdsiReportGenerator,ohdsi
 OhdsiShinyAppBuilder,jreps
 ohenery,shabbychef
@@ -14786,7 +14793,6 @@ onehot,gravesee
 oneinfl,rtgodwin
 onekp,ropensci
 onelogin,akgold
-onemap,cristianetaniguti
 OneR,vonjd
 OneSampleLogRankTest,dkangeyan
 OneSampleMR,remlapmot
@@ -16054,6 +16060,7 @@ plotMCMC,arni-magnusson
 plotMElm,christophergandrud
 plotmm,pdwaggoner
 plotmo,stephenmilborrow
+PlotNormTest,huongtran53
 plotor,craig-parylo
 plotpc,stephenmilborrow
 PlotPrjNetworks,jordieres
@@ -16306,7 +16313,7 @@ PortfolioOptim,cran
 portion,loelschlaeger
 portn,ysd2004
 PortRisk,sourish-cmi
-portsort,a-dickerson
+portsort,cran
 portvine,emanuelsommer
 poset,lmaowisc
 POSetR,albertoarcagni
@@ -17320,7 +17327,7 @@ Radviz,yannabraham
 RAdwords,jburkhardt
 raem,cneyens
 raer,bioc
-rafalib,rairizarry
+rafalib,cran
 RAFS,yoctozepto
 rafsi,mateusvanzetta
 Rage,jonesor
@@ -17655,7 +17662,7 @@ RcmdrPlugin.EZR,yoshikanda
 RcmdrPlugin.FactoMineR,cran
 RcmdrPlugin.GWRM,svilchez
 RcmdrPlugin.HH,rmheiberger
-RcmdrPlugin.KMggplot2,triadsou
+RcmdrPlugin.KMggplot2,nshi-stat
 RcmdrPlugin.MA,acdelre
 RcmdrPlugin.MPAStats,andrewheiss
 RcmdrPlugin.NMBU,khliland
@@ -17744,6 +17751,7 @@ RcppMsgPack,eddelbuettel
 RcppNLoptExample,eddelbuettel
 RcppNumerical,yixuan
 RcppParallel,rcppcore
+RcppPlanc,theaeon
 RcppProgress,kforner
 RcppQuantuccia,eddelbuettel
 RcppRedis,eddelbuettel
@@ -17814,6 +17822,7 @@ rdflib,ropensci
 rdfp,stevenmmortimer
 RDHonest,kolesarm
 rdhs,ropensci
+rdhte,cran
 rdi,cbolen1
 Rdiagnosislist,cran
 rdian,ironholds
@@ -18323,7 +18332,7 @@ Rfolding,cran
 rfordummies,rfordummies
 Rforestry,forestry-labs
 RFormatter,evolutics
-rfPermute,ericarcher
+rfPermute,swfsc
 RFplus,jonnathan-landi
 RFPM,cran
 rfPred,bioc
@@ -18477,6 +18486,7 @@ RIFS,cran
 Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
+rigvf,bioc
 RIIM,zoezhu098
 riingo,business-science
 Rilostat,ilostat
@@ -20409,7 +20419,7 @@ shiny.exe,aodiakite
 shiny.fluent,appsilon
 shiny.gosling,bioc
 shiny.i18n,appsilon
-shiny.info,appsilon
+shiny.info,cran
 shiny.ollama,ineelhere
 shiny.pwa,pedrocoutinhosilva
 shiny.react,appsilon
@@ -20662,7 +20672,7 @@ simecol,tpetzoldt
 simEd,blawson-bates
 SimEngine,avi-kenny
 simer,xiaolei-lab
-simest,cran
+simest,arun-kuchibhotla
 simET,liumiguo
 SimEUCartelLaw,mabe0033
 simex,wolfganglederer
@@ -21557,6 +21567,7 @@ SPOTlight,bioc
 spotoroo,tengmcing
 SpotSweeper,bioc
 SPOUSE,cran
+Spower,philchalmers
 SPPcomb,cran
 spphpr,cran
 SpPOP,cran
@@ -21698,7 +21709,7 @@ sspm,pedersen-fisheries-lab
 sspse,handcock
 ssr,enriquegit
 SSRA,cran
-SSrat,cran
+SSrat,hanslandsheer
 ssrch,bioc
 ssrm.logmer,cran
 SSRMST,mikihoriguchi
@@ -22533,6 +22544,7 @@ TDAvec,uislambekov
 TDbasedUFE,bioc
 TDbasedUFEadv,bioc
 TDbook,yulab-smu
+TDboost,archer-yang-lab
 TDCM,cotterell
 tdcmStan,atlas-aai
 TDCor,lucasmikael

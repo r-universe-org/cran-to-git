@@ -6681,6 +6681,12 @@
     "registry": "bioc"
   },
   {
+    "package": "limpa",
+    "maintainer": "Mengbo Li <li.me@wehi.edu.au>",
+    "url": "https://git.bioconductor.org/packages/limpa",
+    "registry": "bioc"
+  },
+  {
     "package": "limpca",
     "maintainer": "Manon Martin <manon.martin@uclouvain.be>",
     "url": "https://github.com/manonmartin/limpca",
@@ -9864,7 +9870,7 @@
   {
     "package": "qpgraph",
     "maintainer": "Robert Castelo <robert.castelo@upf.edu>",
-    "url": "https://git.bioconductor.org/packages/qpgraph",
+    "url": "https://github.com/rcastelo/qpgraph",
     "registry": "bioc"
   },
   {
@@ -10621,6 +10627,12 @@
     "package": "Rigraphlib",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/libscran/rigraphlib",
+    "registry": "bioc"
+  },
+  {
+    "package": "rigvf",
+    "maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
+    "url": "https://github.com/igvf/rigvf",
     "registry": "bioc"
   },
   {

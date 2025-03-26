@@ -1,5 +1,10 @@
 [
   {
+    "package": "erboost",
+    "maintainer": "Yi Yang <yi.yang6@mcgill.ca>",
+    "url": "https://github.com/cran/erboost"
+  },
+  {
     "package": "fastcox",
     "maintainer": "Yi Yang <yi.yang6@mcgill.ca>",
     "url": "https://github.com/archer-yang-lab/fastcox"
@@ -23,5 +28,10 @@
     "package": "SOIL",
     "maintainer": "Yi Yang <yi.yang6@mcgill.ca>",
     "url": "https://github.com/archer-yang-lab/soil"
+  },
+  {
+    "package": "TDboost",
+    "maintainer": "Yi Yang <yi.yang6@mcgill.ca>",
+    "url": "https://github.com/cran/TDboost"
   }
 ]

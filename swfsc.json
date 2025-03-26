@@ -1,5 +1,10 @@
 [
   {
+    "package": "banter",
+    "maintainer": "Eric Archer <eric.archer@noaa.gov>",
+    "url": "https://github.com/swfsc/banter"
+  },
+  {
     "package": "CruzPlot",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/swfsc/cruzplot"
@@ -8,6 +13,11 @@
     "package": "eSDM",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/swfsc/esdm"
+  },
+  {
+    "package": "rfPermute",
+    "maintainer": "Eric Archer <eric.archer@noaa.gov>",
+    "url": "https://github.com/swfsc/rfpermute"
   },
   {
     "package": "swfscAirDAS",
