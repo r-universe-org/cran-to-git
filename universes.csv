@@ -2235,7 +2235,7 @@ bspm,cran4linux
 bspmma,cran
 bsreg,nk027
 BSS,cran
-BSSasymp,klauschn
+BSSasymp,cran
 bsseq,bioc
 bssm,helske
 bssn,cran
@@ -4469,7 +4469,6 @@ dataaimsr,ropensci
 DatabaseConnector,ohdsi
 DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
-databraryr,databrary
 DataClean,xiaoruizhu
 datacleanr,the-hull
 DataCombine,christophergandrud
@@ -6775,7 +6774,7 @@ fastLiquidAssociation,bioc
 fastliu,cran
 fastLogisticRegressionWrap,kapelner
 fastlogitME,cran
-fastM,klauschn
+fastM,cran
 fastmap,r-lib
 fastmatch,s-u
 fastMatMR,ropensci
@@ -6850,6 +6849,7 @@ fcaR,malaga-fca-group
 fCCAC,bioc
 fcci,vgherard
 fcfdr,annahutch
+fChange,jrvanderdoes
 fCI,bioc
 fcirt,naidantu
 fcl,shrektan
@@ -6989,7 +6989,7 @@ FI,dvdscripter
 fiberLD,cran
 fibos,hersonhebert
 fic,chjackson
-fICA,klauschn
+fICA,cran
 fidelius,mattwarkentin
 fido,jsilve24
 FielDHub,didiermurillof
@@ -7163,6 +7163,7 @@ flexmix,cran
 flexmixNL,cran
 flexmsm,cran
 flexOR,martaaaa
+flexord,dernst
 FlexParamCurve,cran
 flexpolyline,munterfi
 FlexReg,cran
@@ -9528,6 +9529,7 @@ HMB,cran
 HMC,cran
 hmcdm,tmsalab
 hmclearn,sthomas522
+HMDA,haghish
 hmdbQuery,bioc
 HMDHFDplus,timriffe
 hmeasure,cran
@@ -9890,7 +9892,7 @@ ICSKAT,ryansunwork
 ICSNP,cran
 ICSOutlier,cran
 ICSS,skoestlmeier
-ICSShiny,klauschn
+ICSShiny,cran
 ICSsmoothing,lubomirantoni
 ICsurv,cran
 ICtest,klauschn
@@ -12065,6 +12067,7 @@ marquee,r-lib
 marr,bioc
 marradistrees,cran
 marray,bioc
+mars,cran
 MARSANNhybrid,cran
 MARSGWR,cran
 MARSS,atsa-es
@@ -14162,6 +14165,7 @@ neurohcp,muschellij2
 neuroim,bbuchsbaum
 neuroimaGene,cran
 neuromplex,cran
+neuroSCC,iguanamarina
 neuRosim,ktabelow
 neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
@@ -15480,6 +15484,7 @@ PCObw,cran
 pCODE,alex-haixuw
 PCovR,cran
 PCpluS,florianpein
+pcpr,columbia-prime
 PCPS,vanderleidebastiani
 pcr,mahshaaban
 PCRA,martinrd3d
@@ -21303,7 +21308,7 @@ spatialising,nowosad
 SpatialKDE,jancaha
 SpatialKWD,stegua
 SpatialML,cran
-SpatialNP,klauschn
+SpatialNP,cran
 SpatialOmicsOverlay,bioc
 SpatialPack,faosorios
 SpatialPOP,nobinstat
@@ -21819,6 +21824,7 @@ statTarget,bioc
 statVisual,gefeizhang
 STB,cran
 stbl,jonthegeek
+STCCGEV,cran
 stcos,holans
 stcov,bnaul
 stcpR6,shinjaehyeok
@@ -23951,6 +23957,7 @@ vegclust,emf-creaf
 vegdata,florianjansen
 vegIndexCalc,bijoy231997
 vegperiod,rnuske
+VegSpecIndex,cran
 vegtable,kamapu
 vein,atmoschem
 vek,samsemegne
