@@ -33,6 +33,12 @@
     "subdir": "tm.plugin.alceste"
   },
   {
+    "package": "tm.plugin.europresse",
+    "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
+    "url": "https://github.com/nalimilan/r.temis",
+    "subdir": "tm.plugin.europresse"
+  },
+  {
     "package": "tm.plugin.factiva",
     "maintainer": "Milan Bouchet-Valat <nalimilan@club.fr>",
     "url": "https://github.com/nalimilan/r.temis",

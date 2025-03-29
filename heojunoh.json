@@ -1,5 +1,10 @@
 [
   {
+    "package": "dynemu",
+    "maintainer": "Junoh Heo <heojunoh@msu.edu>",
+    "url": "https://github.com/cran/dynemu"
+  },
+  {
     "package": "RNAmf",
     "maintainer": "Junoh Heo <heojunoh@msu.edu>",
     "url": "https://github.com/heojunoh/rnamf"
