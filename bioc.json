@@ -5937,6 +5937,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HTqPCR",
+    "maintainer": "Matthew N. McCall <mccallm@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/HTqPCR",
+    "registry": "bioc"
+  },
+  {
     "package": "HTSeqGenie",
     "maintainer": "Jens Reeder <reeder.jens@gene.com>",
     "url": "https://git.bioconductor.org/packages/HTSeqGenie",
