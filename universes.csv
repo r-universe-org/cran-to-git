@@ -4753,6 +4753,7 @@ DelayedMatrixStats,bioc
 DelayedRandomArray,bioc
 DelayedTensor,bioc
 deldir,rolfturner
+delimtools,legallab
 DELocal,bioc
 Delta,cran
 deltaCaptureC,bioc
@@ -6606,6 +6607,7 @@ eyedata,tjebo
 eyelinker,a-hurst
 eyelinkReader,alexander-pastukhov
 eyeRead,sanverhavert
+eyeris,shawntz
 eyetools,tombeesley
 eyetrackingR,samhforbes
 eyeTrackR,cran
@@ -7015,6 +7017,7 @@ filenamer,djhshih
 files,gitronald
 filesstrings,rorynolan
 FILEST,cran
+filibustr,feinleib
 filling,kisungyou
 fillpattern,cmmr
 fillr,jelger12
@@ -10889,7 +10892,7 @@ khisr,damurka
 KHQ,augustobrusaca
 khroma,nfrerebeau
 kibior,regisoc
-kidney.epi,borisbikbov
+kidney.epi,cran
 kidsides,ngiangre
 Kifidi,oswaldomuron
 kim,jinkim3
@@ -11395,6 +11398,7 @@ likelihoodExplore,benbarnard
 likelihoodR,cran
 likelihoodTools,ajpelu
 likert,jbryer
+LikertEZ,cran
 LikertMakeR,winzarh
 lilikoi,granatumx
 lillies,cran
@@ -12591,7 +12595,7 @@ metevalue,cran
 MetGen,cran
 MethComp,ekstroem
 methcon5,uscbiostats
-MethEvolSIM,sarisworld
+MethEvolSIM,cran
 methimpute,bioc
 methInheritSim,bioc
 MethodCompare,uberlulu
@@ -13859,6 +13863,7 @@ mvnormtest,cran
 mvnpermute,markabney
 mvnTest,cran
 MVNtestchar,githubwilly
+MVOPR,go-home-clubs
 mvord,lauravana
 mvoutlier,petertuwien
 mvp,robinhankin
@@ -17738,7 +17743,7 @@ RcppMsgPack,eddelbuettel
 RcppNLoptExample,eddelbuettel
 RcppNumerical,yixuan
 RcppParallel,rcppcore
-RcppPlanc,cran
+RcppPlanc,theaeon
 RcppProgress,kforner
 RcppQuantuccia,eddelbuettel
 RcppRedis,eddelbuettel
@@ -20257,6 +20262,7 @@ serial,cran
 seriation,mhahsler
 serieslcb,cran
 serocalculator,ucd-serg
+serofoi,epiverse-trace
 SerolyzeR,mini-pw
 serosv,oucru-modelling
 serp,ejikeugba
@@ -20822,6 +20828,7 @@ sits,e-sensing
 sivirep,epiverse-trace
 sivs,mmahmoudian
 SixSigma,emilopezcano
+sixtyfour,getwilds
 SizeEstimation,kwkim89
 sizeMat,ejosymart
 sizepower,bioc
@@ -22038,6 +22045,7 @@ subrank,jeromepcollet
 subsampling,dqksnow
 subscore,daiscode
 subscreen,cran
+subselect,apedrods
 subsemble,ledell
 subSeq,bioc
 subspace,cran
@@ -23395,6 +23403,7 @@ tsallisqexp,dutangc
 TSANN,yeasinstat
 tsapp,rainers48
 TSAR,bioc
+tsaux,tsmodels
 tsbox,ropensci
 tsBSS,cran
 TSCAN,bioc
