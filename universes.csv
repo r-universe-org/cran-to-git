@@ -1796,6 +1796,7 @@ BioMark,rwehrens
 biomaRt,bioc
 biomartr,ropensci
 BIOMASS,umr-amap
+biometrics,cseljatib
 biometryassist,biometryhub
 biomformat,bioc
 biomod2,biomodhub
@@ -2372,6 +2373,7 @@ Cairo,s-u
 CAISEr,fcampelo
 calACS,agu-1
 CALANGO,fcampelo
+calcite,josiahparry
 CalcThemAll.PRM,alexwaterboybezzina
 Calculator.LR.FNs,cran
 calculus,eguidotti
@@ -3065,6 +3067,7 @@ ClassComparison,r-forge
 ClassDiscovery,r-forge
 classGraph,mmaechler
 classicaltest,cran
+ClassificationEnsembles,infinitecuriosity
 classifierplots,adefazio
 classifly,hadley
 ClassifyR,bioc
@@ -6043,6 +6046,7 @@ emdi,soerenpannier
 emdist,s-u
 EMDomics,bioc
 EMDSVRhybrid,cran
+emend,anuopensci
 emery,cran
 emg,spgarbet
 EMgaussian,falkcarl
@@ -7322,6 +7326,7 @@ ForecastComb,ceweiss
 ForecastCombinations,cran
 forecasteR,promidat
 forecastHybrid,ellisp
+ForecastingEnsembles,infinitecuriosity
 forecastLSW,adunaic
 forecastML,nredell
 forecastSNSTS,tobiaskley
@@ -7900,6 +7905,7 @@ GenderInfer,cran
 genderstat,mashrur-ayon
 gendist,cran
 GENEAclassify,ai-jyc
+GENEAcore,ai-jyc
 GENEAread,ai-jyc
 geneAttribution,bioc
 GeneBreak,bioc
@@ -11631,6 +11637,7 @@ logistf,georgheinze
 logistic4p,johnnyzhz
 LogisticCopula,cran
 LogisticCurveFitting,debarghya9394
+LogisticEnsembles,infinitecuriosity
 logisticPCA,andland
 LogisticRCI,cran
 logisticRR,youjin1207
@@ -12595,7 +12602,7 @@ metevalue,cran
 MetGen,cran
 MethComp,ekstroem
 methcon5,uscbiostats
-MethEvolSIM,cran
+MethEvolSIM,sarisworld
 methimpute,bioc
 methInheritSim,bioc
 MethodCompare,uberlulu
@@ -12871,7 +12878,7 @@ mipplot,cran
 miQC,bioc
 MIRA,bioc
 MiRaGE,bioc
-mirai,shikokuchuo
+mirai,r-lib
 miRBaseConverter,bioc
 miRcomp,bioc
 miRecSurv,dmorinya
@@ -13943,7 +13950,7 @@ nandb,rorynolan
 naniar,njtierney
 nanoarrow,apache
 NanoMethViz,bioc
-nanonext,shikokuchuo
+nanonext,r-lib
 nanoparquet,r-lib
 NanoStringDiff,bioc
 NanoStringNCTools,bioc
@@ -14418,6 +14425,7 @@ NonParRolCor,jomopo
 NonProbEst,luiscastro193
 nonprobsvy,ncn-foreigners
 nonsmooth,jrjthompson
+nonstat,martinhecht
 nopaco,cran
 nopp,siacus
 nor1mix,r-forge
@@ -14571,6 +14579,7 @@ numberofalleles,mkruijver
 numbers,hwborchers
 numbersBR,wilsonfreitas
 numDeriv,r-forge
+NumericEnsembles,infinitecuriosity
 Numero,cran
 numform,trinker
 numGen,aidenloe
@@ -19154,6 +19163,7 @@ rrepast,antonio-pgarcia
 Rrepest,cran
 rres,bowenwang7
 RRF,softwaredeng
+RRgeo,cran
 RRHO,bioc
 RRI,cran
 rriskDistributions,cran
@@ -20136,6 +20146,7 @@ semantic.assets,appsilon
 semantic.dashboard,appsilon
 semaphore,cmmr
 Semblance,cran
+semboottools,yangzhen1999
 SEMdeep,barbaratarantino
 SemDist,bioc
 semdrw,kartikeyabolar
@@ -21578,7 +21589,7 @@ sprtt,meikesteinhilber
 sps,marberts
 spsComps,lz100
 spselect,cran
-spsh,tkdweber
+spsh,cran
 SPsimSeq,bioc
 SPSL,cran
 SPSP,xiaoruizhu
@@ -22292,7 +22303,7 @@ swephR,rstub
 swfdr,bioc
 swfscAirDAS,swfsc
 swfscDAS,swfsc
-swfscMisc,ericarcher
+swfscMisc,swfsc
 swgee,jxiongszu
 SWIM,spesenti
 SwimmeR,gpilgrim2670

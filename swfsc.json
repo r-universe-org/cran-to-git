@@ -33,5 +33,10 @@
     "package": "swfscDAS",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/swfsc/swfscdas"
+  },
+  {
+    "package": "swfscMisc",
+    "maintainer": "Eric Archer <eric.archer@noaa.gov>",
+    "url": "https://github.com/swfsc/swfscmisc"
   }
 ]

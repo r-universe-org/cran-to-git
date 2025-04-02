@@ -300,9 +300,19 @@
     "url": "https://github.com/r-lib/memoise"
   },
   {
+    "package": "mirai",
+    "maintainer": "Charlie Gao <charlie.gao@shikokuchuo.net>",
+    "url": "https://github.com/r-lib/mirai"
+  },
+  {
     "package": "mockery",
     "maintainer": "Hadley Wickham <hadley@rstudio.com>",
     "url": "https://github.com/r-lib/mockery"
+  },
+  {
+    "package": "nanonext",
+    "maintainer": "Charlie Gao <charlie.gao@shikokuchuo.net>",
+    "url": "https://github.com/r-lib/nanonext"
   },
   {
     "package": "nanoparquet",
