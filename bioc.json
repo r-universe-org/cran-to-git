@@ -1718,6 +1718,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CCAFE",
+    "maintainer": "Hayley Wolff <hayley.wolff@cuanschutz.edu>",
+    "url": "https://github.com/wolffha/ccafe",
+    "registry": "bioc"
+  },
+  {
     "package": "ccfindR",
     "maintainer": "Jun Woo <jwoo@umn.edu>",
     "url": "https://git.bioconductor.org/packages/ccfindR",
@@ -2811,6 +2817,12 @@
     "registry": "bioc"
   },
   {
+    "package": "crumblr",
+    "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
+    "url": "https://github.com/diseaseneurogenomics/crumblr",
+    "registry": "bioc"
+  },
+  {
     "package": "CSAR",
     "maintainer": "Jose M Muino <jose.muino@live.com>",
     "url": "https://git.bioconductor.org/packages/CSAR",
@@ -3144,6 +3156,12 @@
     "package": "decontX",
     "maintainer": "Joshua Campbell <camp@bu.edu>",
     "url": "https://git.bioconductor.org/packages/decontX",
+    "registry": "bioc"
+  },
+  {
+    "package": "DeconvoBuddies",
+    "maintainer": "Louise Huuki-Myers <lahuuki@gmail.com>",
+    "url": "https://github.com/lieberinstitute/deconvobuddies",
     "registry": "bioc"
   },
   {
@@ -6675,6 +6693,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Lheuristic",
+    "maintainer": "Sanchez Pla Alex <asanchez@ub.edu>",
+    "url": "https://github.com/aspresearch/lheuristic",
+    "registry": "bioc"
+  },
+  {
     "package": "limma",
     "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
     "url": "https://git.bioconductor.org/packages/limma",
@@ -7572,6 +7596,12 @@
     "package": "mia",
     "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
     "url": "https://github.com/microbiome/mia",
+    "registry": "bioc"
+  },
+  {
+    "package": "miaDash",
+    "maintainer": "Giulio Benedetti <giulio.benedetti@utu.fi>",
+    "url": "https://github.com/microbiome/miadash",
     "registry": "bioc"
   },
   {
@@ -10474,6 +10504,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RFLOMICS",
+    "maintainer": "Nadia Bessoltane <nadia.bessoltane@inrae.fr>",
+    "url": "https://github.com/rflomics/rflomics",
+    "registry": "bioc"
+  },
+  {
     "package": "rfPred",
     "maintainer": "Hugo Varet <varethugo@gmail.com>",
     "url": "https://git.bioconductor.org/packages/rfPred",
@@ -11983,6 +12019,12 @@
     "package": "sitadela",
     "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/sitadela",
+    "registry": "bioc"
+  },
+  {
+    "package": "Site2Target",
+    "maintainer": "Peyman Zarrineh <peyman.zarrineh@manchester.ac.uk>",
+    "url": "https://github.com/fls-bioinformatics-core/site2target",
     "registry": "bioc"
   },
   {
