@@ -4371,6 +4371,7 @@ cytominer,cytomining
 CytoML,bioc
 CytoPipeline,bioc
 CytoPipelineGUI,bioc
+CytoProfile,saraswatsh
 CytOpT,sistm
 CytoSimplex,welch-lab
 cytoviewer,bioc
@@ -4425,6 +4426,7 @@ daltoolboxdp,cefet-rj-dal
 DALY,brechtdv
 dam,slakov
 daMA,bioc
+DamageDetective,alicenjoyhenning
 damAOI,chrislittleboy
 DAMEfinder,bioc
 DamiaNN,the-wayvy
@@ -6733,6 +6735,7 @@ FarmSelect,kbose28
 FarmTest,xiaooupan
 farr,iangow
 farrell,feddelegrand7
+FARS,cran
 farver,thomasp85
 FAS,jstriaukas
 fasano.franceschini.test,braunlab-nu
@@ -7340,6 +7343,7 @@ forensIT,marsicofl
 foreSIGHT,climateanalytics
 forestat,caf-ifrit
 forestControl,aberhrml
+forestdata,cidree
 ForestDisc,hmais
 forestecology,rudeboybert
 forested,simonpcouch
@@ -7495,6 +7499,7 @@ FrF2.catlg128,ugroempi
 FRGEpistasis,bioc
 FRI,dromarnrc
 frictionless,ropensci
+friendlynumber,ethansansom
 friends,emilhvitfeldt
 fritools,fvafrcu
 fritools2,fvafrcu
@@ -8336,6 +8341,7 @@ ggpattern,trevorld
 ggpca,yaoxiangli
 ggpcp,heike
 ggperiodic,eliocamp
+ggpicrust2,cafferychen777
 ggpie,showteeth
 ggplate,jpquast
 ggplot.multistats,flying-sheep
@@ -10792,7 +10798,7 @@ k5,k5cents
 kableExtra,haozhu233
 kader,gerriteichner
 kaigiroku,amatsuo
-kairos,tesselle
+kairos,nfrerebeau
 kalmanfilter,hubbardalex
 kamila,ahfoss
 kangar00,jmanitz
@@ -13512,7 +13518,6 @@ mRpostman,allanvc
 MRQoL,cran
 MRReg,darkeyes
 mrregression,lgstat
-MRS,lm186
 MRTAnalysis,cran
 MRTSampleSize,pengliao
 MRTSampleSizeBinary,cran
@@ -14244,6 +14249,7 @@ NHSDataDictionaRy,cran
 nhsnumber,sellorm
 NHSRdatasets,nhs-r-community
 NHSRplotthedots,nhs-r-community
+NHSRwaitinglist,nhs-r-community
 nhstplot,nilsmy
 niaidMI,nmorris-lilly
 niarules,firefly-cpp
@@ -16084,7 +16090,7 @@ plotwidgets,january3
 PLPE,bioc
 plpoisson,drwolf85
 PLreg,ffqueiroz
-PLRModels,cran
+PLRModels,analopezcheda
 pls,khliland
 PLSDAbatch,bioc
 plsdepot,fbertran
@@ -18831,6 +18837,7 @@ robflreg,ufukbeyaztas
 RobGARCHBoot,ctruciosm
 robin,valeriapolicastro
 RobinCar,mbannick
+RobinCar2,openpharma
 RobinHood,jestonblu
 robis,iobis
 RobKF,cran
@@ -19310,6 +19317,7 @@ rstanarm,stan-dev
 rstanbdp,piodag
 rstanemax,yoshidk6
 rstantools,stan-dev
+RStanTVA,mmrabe
 RStata,lbraglia
 rstatix,kassambara
 rstatscn,jiang-hang
@@ -20404,7 +20412,6 @@ SharpeR,shabbychef
 sharpeRratio,damienchallet
 sharpPen,wdy9
 sharpr2,cran
-sharpshootR,ncss-tech
 sharx,psolymos
 shattering,mellorf
 shazam,ssnn-airr
@@ -21308,6 +21315,7 @@ SPAS,cschwarz-stat-sfu-ca
 spaSim,bioc
 spass,cran
 spate,fabsig
+spatemR,cruzalirio
 SpatEntropy,cran
 SPAtest,cran
 SpatFD,mpbohorquezc
@@ -22434,6 +22442,7 @@ tablexlsx,ddotta
 tabnet,mlverse
 taboolaR,pablosanmar
 tabr,leonawicz
+tabs,jedgroev
 tabshiftr,luckinet
 tabtibble,humanpred
 tabula,nfrerebeau
@@ -23208,6 +23217,7 @@ TrackReconstruction,brianbattaile
 tracktables,bioc
 trackViewer,bioc
 tractor.base,tractor
+TractorTsbox,tractortom
 trade,luciu5
 tradepolicy,pachadotdev
 TRADER,pavel-fibich
