@@ -7,7 +7,8 @@
   {
     "package": "EvaluateCore",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/evaluatecore"
+    "url": "https://github.com/aravind-j/evaluatecore",
+    "registry": "archived"
   },
   {
     "package": "germinationmetrics",
@@ -22,6 +23,7 @@
   {
     "package": "rpcss",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/rpcss"
+    "url": "https://github.com/aravind-j/rpcss",
+    "registry": "archived"
   }
 ]
