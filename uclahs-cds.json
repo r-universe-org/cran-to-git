@@ -1,5 +1,10 @@
 [
   {
+    "package": "bedr",
+    "maintainer": "Paul C. Boutros <pboutros@mednet.ucla.edu>",
+    "url": "https://github.com/uclahs-cds/package-bedr"
+  },
+  {
     "package": "BoutrosLab.plotting.general",
     "maintainer": "Paul Boutros <PBoutros@mednet.ucla.edu>",
     "url": "https://github.com/uclahs-cds/package-boutroslab-plotting-general"
