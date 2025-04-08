@@ -119,6 +119,7 @@ ActiveDriver,reimand0
 activegp,cran
 ActivePathways,reimandlab
 activity,marcusrowcliffe
+activityCounts,walkabillylab
 ActivityIndex,cran
 activPAL,craig-pal
 actLifer,g-rade
@@ -2468,6 +2469,7 @@ cardidates,r-forge
 Cardinal,bioc
 CardinalIO,bioc
 cardinalR,jayanilakshika
+CardioCurveR,matcasti
 cards,insightsengineering
 CARDspa,bioc
 cardx,insightsengineering
@@ -3161,6 +3163,7 @@ CLME,jelsema
 clmplus,gpitt71
 clock,r-lib
 clockify,datawookie
+clockSim,yeyuan98
 clogitboost,haoluns
 clogitL1,cran
 Clomial,bioc
@@ -3253,6 +3256,7 @@ clustrd,amarkos
 clustree,lazappi
 clustringr,dan-reznik
 CLUSTShiny,kartikeyabolar
+clustSIGNAL,bioc
 clustTMB,andrea-havron
 clustur,schlosslab
 ClustVarLV,evigneau
@@ -4460,6 +4464,7 @@ dartR.sexlinked,cran
 dartR.sim,green-striped-gecko
 dartR.spatial,green-striped-gecko
 dartRverse,green-striped-gecko
+DasGuptR,josiahpjking
 dashboardthemes,nik01010
 Dasst,hlozza
 dat,wahani
@@ -7418,7 +7423,6 @@ fpop,guillemr
 fpopw,guillemr
 fPortfolio,r-forge
 fpow,baharev
-fpp,robjhyndman
 fpp2,robjhyndman
 fpp3,robjhyndman
 fptdApprox,jjserra68
@@ -8969,6 +8973,7 @@ GroupBN,abecker-ml
 GroupComparisons,cran
 groupdata2,ludvigolsen
 groupedHyperframe,tingtingzhan
+groupedHyperframe.random,tingtingzhan
 groupedSurv,dcibioinformatics
 Grouphmap,syc2436
 groupICA,cran
@@ -9659,6 +9664,7 @@ hstats,modeloriented
 htestClust,cran
 htetree,jiahuixu1
 HTGM,barryzee
+HTGM2D,barryzee
 HTLR,longhaisk
 htm2txt,replicable
 html2R,stla
@@ -14211,7 +14217,7 @@ newsmd,dschaykib
 newTestSurvRec,cran
 NewWave,bioc
 nextGenShinyApps,oobianom
-nexus,tesselle
+nexus,nfrerebeau
 nFactors,raicheg
 NFCP,tomaspinall
 nfer,cran
@@ -16410,6 +16416,7 @@ ppgmmga,luca-scr
 PPInfer,bioc
 ppitables,katilingban
 PPLasso,cran
+pplot,cran
 ppmf,christopherkenny
 ppmHR,shu-d
 PPMiss,tsprass
@@ -17053,6 +17060,7 @@ qqplotr,aloy
 qqtest,rwoldford
 qqvases,robstine
 QR,github-ms
+QR.break,zhongjun-qu
 qra,jhmaindonald
 QRAGadget,paulgovan
 QRank,cran
@@ -17587,6 +17595,7 @@ Rborist,suiji
 rbounds,ljk20
 Rbowtie,bioc
 Rbowtie2,bioc
+RbowtieCuda,bioc
 RBPcurve,giuseppec
 rbridge,byuzbasi
 rbscCI,shimenghuang
@@ -19441,6 +19450,7 @@ rtype,renkun-ken
 rtypeform,csgillespie
 rubias,eriqande
 rucm,kaushikrch
+RUCova,bioc
 rucrdtw,pboesu
 rugarch,alexiosg
 ruijter,ramiromagno
@@ -20058,6 +20068,7 @@ sdrt,tharindupdealwis
 sdsfun,stscl
 SDT,cran
 sdtm.oak,pharmaverse
+sdtm.terminology,patterninstitute
 sdtmchecks,pharmaverse
 sdtmval,skgithub14
 sdwd,boxiang-wang
@@ -20284,6 +20295,7 @@ Sequential,cran
 SequentialDesign,cran
 sequoia,jiscah
 SeqVarTools,bioc
+SEraster,bioc
 sergeant,hrbrmstr
 serial,cran
 seriation,mhahsler
@@ -20475,6 +20487,7 @@ shinydisconnect,daattali
 shinydlplot,alexvpickering
 shinyDND,ayayron
 shinydrive,bthieurmel
+shinyDSP,bioc
 shinyEffects,rinterface
 shinyepico,bioc
 shinyExprPortal,c4tb
@@ -20872,7 +20885,7 @@ SKAT,leelabsg
 skater,signaturescience
 skedastic,tjfarrar
 skeletor,nealrichardson
-skellam,r-forge
+skellam,monty-se
 sketch,kcf-jackson
 sketcher,tsuda16k
 sketching,sokbae
@@ -21226,6 +21239,7 @@ spacesRGB,glenndavis52
 spacesXYZ,glenndavis52
 spacetime,edzer
 SpaceTimeBSS,cran
+spacexr,bioc
 SpaCOAP,feiyoung
 spacyr,quanteda
 SPADAR,algolkm
@@ -21859,6 +21873,7 @@ Statsomat,reyar
 statsr,statswithr
 statswalesr,jamie-ralph
 statTarget,bioc
+StatTools,cran
 statVisual,gefeizhang
 STB,cran
 stbl,jonthegeek
@@ -23569,6 +23584,7 @@ tutorial.helpers,ppbds
 TUvalues,mariaguilleng
 TUWmodel,cran
 tv,eheinzen
+tvcure,plambertuliege
 tvem,dziakj1
 tvgarch,scmartins
 tvgeom,cran
@@ -24106,6 +24122,7 @@ visiumStitched,bioc
 vismeteor,jankorichter
 visNetwork,datastorm-open
 visOmopResults,darwin-eu
+visor,cityriverspaces
 visreg,pbreheny
 vissE,bioc
 visStatistics,shhschilling
@@ -24143,6 +24160,7 @@ vmdTDNN,kapiliasri
 vmeasur,jameshucklesby
 vMF,ahoundetoungan
 vmr,cran
+vmrseq,bioc
 vntrs,loelschlaeger
 vocaldia,cran
 voi,chjackson

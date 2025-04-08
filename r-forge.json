@@ -810,12 +810,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "skellam",
-    "maintainer": "Patrick E. Brown <patrick.brown@utoronto.ca>",
-    "url": "https://github.com/r-forge/healthqueues",
-    "subdir": "pkg/skellam"
-  },
-  {
     "package": "SkewHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",

@@ -2312,6 +2312,12 @@
     "registry": "bioc"
   },
   {
+    "package": "clustSIGNAL",
+    "maintainer": "Pratibha Panwar <pratibhapanwar.4@gmail.com>",
+    "url": "https://github.com/sydneybiox/clustsignal",
+    "registry": "bioc"
+  },
+  {
     "package": "CMA",
     "maintainer": "Roman Hornung <hornung@ibe.med.uni-muenchen.de>",
     "url": "https://git.bioconductor.org/packages/CMA",
@@ -10180,6 +10186,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RbowtieCuda",
+    "maintainer": "Franck RICHARD <franck.richard@winstars.net>",
+    "url": "https://github.com/franckrichard01/rbowtiecuda",
+    "registry": "bioc"
+  },
+  {
     "package": "rbsurv",
     "maintainer": "Soo-heang Eo <hanansh@korea.ac.kr>",
     "url": "https://git.bioconductor.org/packages/rbsurv",
@@ -11068,6 +11080,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RUCova",
+    "maintainer": "Rosario Astaburuaga-García <rosario.astaburuaga@charite.de>",
+    "url": "https://github.com/molsysbio/rucova",
+    "registry": "bioc"
+  },
+  {
     "package": "runibic",
     "maintainer": "Patryk Orzechowski <patryk.orzechowski@gmail.com>",
     "url": "https://github.com/athril/runibic",
@@ -11758,6 +11776,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SEraster",
+    "maintainer": "Gohta Aihara <gohta.aihara@gmail.com>",
+    "url": "https://github.com/jefworks-lab/seraster",
+    "registry": "bioc"
+  },
+  {
     "package": "sesame",
     "maintainer": "Wanding Zhou <zhouwanding@gmail.com>",
     "url": "https://github.com/zwdzwd/sesame",
@@ -11803,6 +11827,12 @@
     "package": "shiny.gosling",
     "maintainer": "Appsilon <opensource@appsilon.com>",
     "url": "https://git.bioconductor.org/packages/shiny.gosling",
+    "registry": "bioc"
+  },
+  {
+    "package": "shinyDSP",
+    "maintainer": "Seung J. Kim <skim823@uwo.ca>",
+    "url": "https://git.bioconductor.org/packages/shinyDSP",
     "registry": "bioc"
   },
   {
@@ -12181,6 +12211,12 @@
     "package": "SpacePAC",
     "maintainer": "Gregory Ryslik <gregory.ryslik@yale.edu>",
     "url": "https://git.bioconductor.org/packages/SpacePAC",
+    "registry": "bioc"
+  },
+  {
+    "package": "spacexr",
+    "maintainer": "Gabriel Grajeda <gabriel.grajeda@gmail.com>",
+    "url": "https://github.com/ggrajeda/spacexr",
     "registry": "bioc"
   },
   {
@@ -13706,6 +13742,12 @@
     "package": "vissE",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/visse",
+    "registry": "bioc"
+  },
+  {
+    "package": "vmrseq",
+    "maintainer": "Ning Shen <ning.shen.wk@gmail.com>",
+    "url": "https://github.com/nshen7/vmrseq",
     "registry": "bioc"
   },
   {
