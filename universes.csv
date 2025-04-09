@@ -904,7 +904,6 @@ aster2,cran
 asteRisk,rafael-ayala
 AsthmaNHANES,suntaojj
 astrochron,cran
-astrodatR,cran
 astroFns,cran
 astsa,dsstoffer
 ASURAT,bioc
@@ -1191,6 +1190,7 @@ basefun,r-forge
 baseline,khliland
 basemaps,16eagle
 basemodels,ying-ju
+basepenguins,ellakaye
 baseq,ambuvjyn
 BaseSet,ropensci
 BaseSpaceR,bioc
@@ -2894,6 +2894,7 @@ chicane,syedhaider5
 chihaya,bioc
 childdevdata,d-score
 childesr,langcog
+childeswordfreq,n-albudoor
 childfree,zpneal
 childsds,mvogel78
 chilemapas,pachadotdev
@@ -3368,6 +3369,7 @@ cocotest,cran
 cocron,deboerk
 coda,martynplummer
 coda.base,mcomas
+coda.plot,bsolidaria
 coda4microbiome,tonisusin
 codacore,egr95
 CoDaImpact,lukece
@@ -4244,6 +4246,7 @@ ctsfeatures,anloor7
 ctsGE,bioc
 CTShiny,kartikeyabolar
 CTShiny2,kartikeyabolar
+ctsmTMB,phillipbvetter
 CTSV,bioc
 CTT,cran
 CTTinShiny,cran
@@ -5251,6 +5254,7 @@ dlib,jwijffels
 dlim,ddemateis
 DLL,zijguo
 dlm,gpetris
+DLMRMV,guangbaog
 DLMtool,adrianhordyk
 dlmtree,danielmork
 dlnm,gasparrini
@@ -10089,6 +10093,7 @@ Immigrate,ruzhangzhao
 ImML,salvatoremangiafico
 immunarch,immunomind
 immunaut,login-
+immundata,cran
 immuneSIM,greifflab
 immunoClust,bioc
 immunogenetr,k96nb01
@@ -11542,6 +11547,7 @@ lmdme,bioc
 lmds,dynverse
 lme4,lme4
 lme4breeding,covaruber
+lme4GS,cran
 lmeInfo,jepusto
 LMERConvenienceFunctions,cran
 lmeresampler,aloy
@@ -15608,7 +15614,7 @@ peermodels,aminadibi
 PeerPerformance,ardiad
 pegas,emmanuelparadis
 PEGroupTesting,cran
-PEIMAN2,cran
+PEIMAN2,pnickchi
 PEIP,jonathanlees
 PEkit,amiryousefilab
 pell,curious-joe
@@ -15832,6 +15838,7 @@ photobiologyPlants,aphalo
 photobiologySensors,aphalo
 photobiologySun,aphalo
 photobiologyWavebands,aphalo
+PhotoGEA,eloch216
 photon,jslth
 photosearcher,ropensci
 PhotosynQ,photosynq
@@ -16342,6 +16349,7 @@ positron.tutorials,ppbds
 posologyr,levenc
 PosRatioDist,tragedybmc127
 POSSA,gasparl
+postcard,novonordisk-opensource
 postcards,seankross
 PostcodesioR,ropensci
 postdoc,ropensci
@@ -20053,6 +20061,7 @@ SDEFSR,agvico
 sdetorus,egarpor
 SDGdetector,yingjie4science
 SDLfilter,takahiroshimada
+sdlrm,rdmatheus
 sdm,babaknaimi
 SDModels,markusul
 sdmpredictors,lifewatch
@@ -21448,6 +21457,7 @@ SpeCond,bioc
 specr,masurp
 specs,wijler
 SpecsVerification,sieste
+spect,dawdawdo
 spectacles,pierreroudier
 spectator,zivankaraman
 spectr,hugheylab
@@ -23374,7 +23384,7 @@ TRES,jingzzeng
 TRESS,bioc
 TRexSelector,jasinmachkour
 Tri.Hierarchical.IBDs,ashutoshdalal97
-triact,michaelsimmler
+triact,agroscope-ch
 TriadSim,cran
 TrialEmulation,causal-lda
 trialr,brockk

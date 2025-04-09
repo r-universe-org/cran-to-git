@@ -1,5 +1,10 @@
 [
   {
+    "package": "postcard",
+    "maintainer": "Mathias Lerbech Jeppesen <mathiasljeppesen@outlook.com>",
+    "url": "https://github.com/novonordisk-opensource/postcard"
+  },
+  {
     "package": "zephyr",
     "maintainer": "Aksel Thomsen <oath@novonordisk.com>",
     "url": "https://github.com/novonordisk-opensource/zephyr"
