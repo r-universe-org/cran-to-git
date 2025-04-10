@@ -3,5 +3,11 @@
     "package": "roll",
     "maintainer": "Jason Foster <jason.j.foster@gmail.com>",
     "url": "https://github.com/jasonjfoster/roll"
+  },
+  {
+    "package": "yfscreen",
+    "maintainer": "Jason Foster <jason.j.foster@gmail.com>",
+    "url": "https://github.com/jasonjfoster/screen",
+    "subdir": "r"
   }
 ]

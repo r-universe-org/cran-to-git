@@ -85,6 +85,11 @@
     "url": "https://github.com/tdhock/plothmm"
   },
   {
+    "package": "slurm",
+    "maintainer": "Toby Hocking <toby.hocking@r-project.org>",
+    "url": "https://github.com/tdhock/slurm"
+  },
+  {
     "package": "WeightedROC",
     "maintainer": "Toby Dylan Hocking <toby.hocking@r-project.org>",
     "url": "https://github.com/tdhock/weightedroc"

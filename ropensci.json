@@ -340,12 +340,6 @@
     "url": "https://github.com/ropensci/geonames"
   },
   {
-    "package": "getCRUCLdata",
-    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
-    "url": "https://github.com/ropensci/getcrucldata",
-    "registry": "archived"
-  },
-  {
     "package": "ghql",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/ghql"
@@ -612,7 +606,7 @@
   },
   {
     "package": "osmextract",
-    "maintainer": "Andrea Gilardi <andrea.gilardi@polimi.it>",
+    "maintainer": "Andrea Gilardi <andrea.gilardi@unimib.it>",
     "url": "https://github.com/ropensci/osmextract"
   },
   {
