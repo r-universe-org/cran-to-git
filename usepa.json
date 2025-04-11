@@ -21,6 +21,11 @@
     "subdir": "httk"
   },
   {
+    "package": "MCSimMod",
+    "maintainer": "Dustin F. Kapraun <kapraun.dustin@epa.gov>",
+    "url": "https://github.com/usepa/mcsimmod"
+  },
+  {
     "package": "micromap",
     "maintainer": "Marcus W. Beck <mbeck@tbep.org>",
     "url": "https://github.com/usepa/micromap"

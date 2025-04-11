@@ -787,6 +787,12 @@
     "registry": "bioc"
   },
   {
+    "package": "barbieQ",
+    "maintainer": "Liyang Fei <liyang.fei@petermac.org>",
+    "url": "https://github.com/oshlack/barbieq",
+    "registry": "bioc"
+  },
+  {
     "package": "barcodetrackR",
     "maintainer": "Diego Alexander Espinoza <diego.espinoza@pennmedicine.upenn.edu>",
     "url": "https://github.com/dunbarlabnih/barcodetrackr",
@@ -850,6 +856,12 @@
     "package": "BatchQC",
     "maintainer": "Jessica Anderson <anderson.jessica@rutgers.edu>",
     "url": "https://github.com/wejlab/batchqc",
+    "registry": "bioc"
+  },
+  {
+    "package": "BatchSVG",
+    "maintainer": "Christine Hou <chris2018hou@gmail.com>",
+    "url": "https://github.com/christinehou11/batchsvg",
     "registry": "bioc"
   },
   {
@@ -1436,6 +1448,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BreastSubtypeR",
+    "maintainer": "Qiao Yang <yq.kiuo@gmail.com>",
+    "url": "https://github.com/yqkiuo/breastsubtyper",
+    "registry": "bioc"
+  },
+  {
     "package": "brendaDb",
     "maintainer": "Yi Zhou <yi.zhou@uga.edu>",
     "url": "https://github.com/y1zhou/brendadb",
@@ -1888,7 +1906,7 @@
   {
     "package": "CexoR",
     "maintainer": "Pedro Madrigal <pmadrigal@ebi.ac.uk>",
-    "url": "https://git.bioconductor.org/packages/CexoR",
+    "url": "https://github.com/pmb59/cexor",
     "registry": "bioc"
   },
   {
@@ -4193,7 +4211,7 @@
   {
     "package": "ExpressionAtlas",
     "maintainer": "Pedro Madrigal <pmadrigal@ebi.ac.uk>",
-    "url": "https://git.bioconductor.org/packages/ExpressionAtlas",
+    "url": "https://github.com/ebi-gene-expression-group/bioconductor-expressionatlas",
     "registry": "bioc"
   },
   {
@@ -4265,7 +4283,7 @@
   {
     "package": "fCCAC",
     "maintainer": "Pedro Madrigal <pmadrigal@ebi.ac.uk>",
-    "url": "https://git.bioconductor.org/packages/fCCAC",
+    "url": "https://github.com/pmb59/fccac",
     "registry": "bioc"
   },
   {
@@ -9184,6 +9202,12 @@
     "registry": "bioc"
   },
   {
+    "package": "pathMED",
+    "maintainer": "Jordi Martorell-Marugán <jmartorellm@gmail.com>",
+    "url": "https://github.com/jordimartorell/pathmed",
+    "registry": "bioc"
+  },
+  {
     "package": "PathNet",
     "maintainer": "Ludwig Geistlinger <ludwig.geistlinger@gmail.com>",
     "url": "https://git.bioconductor.org/packages/PathNet",
@@ -11413,6 +11437,12 @@
     "package": "schex",
     "maintainer": "Saskia Freytag <freytag.s@wehi.edu.au>",
     "url": "https://github.com/saskiafreytag/schex",
+    "registry": "bioc"
+  },
+  {
+    "package": "scHiCcompare",
+    "maintainer": "My Nguyen <hamy.12398@gmail.com>",
+    "url": "https://github.com/dozmorovlab/schiccompare",
     "registry": "bioc"
   },
   {
