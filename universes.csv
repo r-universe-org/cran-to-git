@@ -100,7 +100,6 @@ acp,cran
 acro,ai-sdc
 acroname,vpnagraj
 AcrossTic,buttrey
-acs,eglenn
 acss,cran
 acss.data,singmann
 ACSSpack,nkyangtzeqian
@@ -826,6 +825,7 @@ arsenal,mayoverse
 ART,cran
 artfima,angusian
 arthistory,saralemus7
+artma,petrcala
 artMS,bioc
 ARTofR,hzhang-ouce
 ARTool,mjskay
@@ -4577,7 +4577,7 @@ dbarts,vdorie
 dbcsp,cran
 DBCVindex,cran
 dbd,rolfturner
-DBEST,hristotomov
+DBEST,hdtomov
 DBfit,cran
 dbflobr,poissonconsulting
 dbGaPCheckup,lwheinsberg
@@ -5683,6 +5683,7 @@ DysPIA,lemonwang2020
 DysPIAData,lemonwang2020
 DySS,luyouepiusf
 e1071,cran
+e2tree,massimoaria
 E4tools,ekleiman1
 eadrm,ericbair-sciome
 eaf,mlopez-ibanez
@@ -6121,6 +6122,7 @@ endorse,sensitivequestions
 endoSwitch,cbw1243
 endtoend,chedgala
 energy,mariarizzo
+energymethod,colindecker
 EnergyOnlineCPM,xuyafei2019
 energyr,paulgovan
 enerscape,emilio-berti
@@ -6521,7 +6523,6 @@ exams2forms,zeileis
 exams2learnr,zeileis
 exams2sakai,jesusmmp
 ExceedanceTools,jfrench
-exceedProb,bdsegal
 excel2eprime,wujackwill
 exceldata,cran
 ExcelFunctionsR,anosckin
@@ -7155,6 +7156,7 @@ FKF,waternumbers
 FKF.SP,tomaspinall
 FKSUM,davidhofmeyr
 flacco,kerschke
+FLAG,yanglabhkust
 flagme,bioc
 flagr,mmatyi
 flam,ajpete
@@ -7268,7 +7270,6 @@ flowWorkspace,bioc
 flps,sooyongl
 FLR,consmavr
 flsa,hhoeflin
-FLSSS,whateverliu
 Fluidigm,fischuu
 fluidsynth,ropensci
 FluMoDL,thlytras
@@ -14417,7 +14418,6 @@ NNTbiomarker,professorbeautiful
 nnTensor,rikenbit
 nntmvn,jcatwood
 NO.PING.PONG,bpoconnor
-noaastormevents,geanders
 noah,teebusch
 NobBS,sarahhbellum
 noctua,dyfanjones
@@ -16182,7 +16182,7 @@ pmultinom,alex-l-m
 pmvalsampsize,cran
 pmwg,university-of-newcastle-research
 PMwR,enricoschumann
-pmxcode,cran
+pmxcode,sbihorel
 pmxcv,jpryby
 pmxpartab,benjaminrich
 pmxTools,kestrel99
@@ -16286,7 +16286,7 @@ polySegratioMM,petebaker
 PolySTest,bioc
 Polytect,bioc
 PolyTree,cran
-PolyTrend,hristotomov
+PolyTrend,hdtomov
 polywog,brentonk
 POMA,bioc
 POMADE,mikkelvembye
@@ -16737,6 +16737,7 @@ Prostar,bioc
 protag,yuanbofaith
 ProtE,theomargel
 protein8k,simonliles
+ProteinPCA,cran
 proteinProfiles,bioc
 ProteoBayes,mariechion
 ProteoDisco,bioc
@@ -20386,7 +20387,6 @@ sfnetworks,luukvdmeer
 sfo,covidr
 SFPL,cran
 SFS,cran
-SFSI,marcoolopez
 sfsmisc,mmaechler
 sft,cran
 sftime,r-spatial
@@ -22429,7 +22429,6 @@ syntaxr,alixlahuec
 syntenet,bioc
 syntenyPlotteR,farre-lab
 Synth,j-hai
-synthACS,alexwhitworth
 synthesis,zejiang-unsw
 synthesisr,mjwestgate
 synthesizer,markvanderloo
