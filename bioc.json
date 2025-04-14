@@ -2847,6 +2847,12 @@
     "registry": "bioc"
   },
   {
+    "package": "crupR",
+    "maintainer": "Persia Akbari Omgba <omgba@molgen.mpg.de>",
+    "url": "https://github.com/akbariomgba/crupr",
+    "registry": "bioc"
+  },
+  {
     "package": "CSAR",
     "maintainer": "Jose M Muino <jose.muino@live.com>",
     "url": "https://git.bioconductor.org/packages/CSAR",
@@ -6201,6 +6207,12 @@
     "registry": "bioc"
   },
   {
+    "package": "imageTCGA",
+    "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
+    "url": "https://github.com/billila/imagetcga",
+    "registry": "bioc"
+  },
+  {
     "package": "IMAS",
     "maintainer": "Seonggyun Han <hangost@ssu.ac.kr>",
     "url": "https://git.bioconductor.org/packages/IMAS",
@@ -6474,6 +6486,12 @@
     "package": "ISLET",
     "maintainer": "Hao Feng <hxf155@case.edu>",
     "url": "https://git.bioconductor.org/packages/ISLET",
+    "registry": "bioc"
+  },
+  {
+    "package": "islify",
+    "maintainer": "Jakob Theorell <jakob.theorell@ki.se>",
+    "url": "https://git.bioconductor.org/packages/islify",
     "registry": "bioc"
   },
   {
@@ -7869,6 +7887,12 @@
     "registry": "bioc"
   },
   {
+    "package": "mitology",
+    "maintainer": "Stefania Pirrotta <stefania.pirrotta@unipd.it>",
+    "url": "https://github.com/caluralab/mitology",
+    "registry": "bioc"
+  },
+  {
     "package": "mixOmics",
     "maintainer": "Eva Hamrud <mixomicsdeveloper@gmail.com>",
     "url": "https://github.com/mixomicsteam/mixomics",
@@ -8027,7 +8051,7 @@
   {
     "package": "Motif2Site",
     "maintainer": "Peyman Zarrineh <peyman.zarrineh@manchester.ac.uk>",
-    "url": "https://git.bioconductor.org/packages/Motif2Site",
+    "url": "https://github.com/fls-bioinformatics-core/motif2site",
     "registry": "bioc"
   },
   {
@@ -9943,6 +9967,12 @@
     "package": "qPLEXanalyzer",
     "maintainer": "Ashley Sawle <ads2202cu@gmail.com>",
     "url": "https://github.com/crukci-bioinformatics/qplexanalyzer",
+    "registry": "bioc"
+  },
+  {
+    "package": "QRscore",
+    "maintainer": "Fanding Zhou <zhoufd@berkeley.edu>",
+    "url": "https://github.com/songlab-cal/qrscore",
     "registry": "bioc"
   },
   {
@@ -12950,6 +12980,12 @@
     "package": "TargetSearch",
     "maintainer": "Alvaro Cuadros-Inostroza <acuadros+bioc@gmail.com>",
     "url": "https://github.com/acinostroza/targetsearch",
+    "registry": "bioc"
+  },
+  {
+    "package": "TaxSEA",
+    "maintainer": "Feargal Ryan <feargalr@gmail.com>",
+    "url": "https://github.com/feargalr/taxsea",
     "registry": "bioc"
   },
   {
