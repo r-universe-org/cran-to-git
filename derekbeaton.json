@@ -6,9 +6,21 @@
     "subdir": "ExPosition"
   },
   {
+    "package": "InPosition",
+    "maintainer": "Derek Beaton <exposition.software@gmail.com>",
+    "url": "https://github.com/derekbeaton/exposition1",
+    "subdir": "InPosition"
+  },
+  {
     "package": "prettyGraphs",
     "maintainer": "Derek Beaton <exposition.software@gmail.com>",
     "url": "https://github.com/derekbeaton/exposition1",
     "subdir": "prettyGraphs"
+  },
+  {
+    "package": "TExPosition",
+    "maintainer": "Derek Beaton <exposition.software@gmail.com>",
+    "url": "https://github.com/derekbeaton/exposition1",
+    "subdir": "TExPosition"
   }
 ]
