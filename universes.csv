@@ -4654,7 +4654,6 @@ DDIwR,dusadrian
 DDL,cran
 DDM,cran
 ddml,thomaswiemann
-DDoutlier,jhmadsen
 ddp,weksi-budiaji
 ddpca,cran
 ddpcr,daattali
@@ -5410,6 +5409,7 @@ dparser,nlmixr2
 dpasurv,mattiminn
 DPBBM,laurenie
 dpcc,bingyuan-zhang
+dpcid,cran
 dPCP,alfodefalco
 Dpit,cran
 dpkg,cole-brokamp
@@ -6098,6 +6098,7 @@ EMSNM,denglinsui
 EMSS,sangkyustat
 emstreeR,allanvc
 EMT,uwemenzel
+EMTscore,wenmm
 emulator,robinhankin
 emuR,ips-lmu
 EncDNA,prabinameher
@@ -7020,7 +7021,6 @@ FIESTAutils,usdaforestservice
 fig,tymekdev
 figir,philaris
 figma,pedropark99
-figpatch,bradyajohnston
 figuRes2,gcicc
 file2meco,chiliubio
 filearray,dipterix
@@ -9647,7 +9647,7 @@ hrbrthemes,hrbrmstr
 hrcomprisk,antiportad
 hrf,mandymejia
 hrqglas,shaobo-li
-hrt,cran
+hrt,dprei
 hrtlFMC,bijoy231997
 HRTnomaly,drwolf85
 HRW,mattwand
@@ -11970,7 +11970,6 @@ malan,mikldk
 malani,mehrabgbari
 malariaAtlas,malaria-atlas-project
 malaytextr,zahiernasrudin
-MALDIcellassay,cemos-mannheim
 maldipickr,clavellab
 MALDIquant,sgibb
 MALDIquantForeign,sgibb
@@ -12204,6 +12203,7 @@ mau,pedroguarderas
 mauricer,ropensci
 MAVE,cran
 maxaltall,pdkiser
+maxbootR,torbenstaud
 maxcombo,tprior1
 maxEff,tingtingzhan
 maxent.ot,connormayer
@@ -12891,7 +12891,7 @@ minioclient,cboettig
 miniPCH,simnph
 Minirand,mj2149
 minired,jaimesalvador
-miniUI,jcheng5
+miniUI,rstudio
 minMSE,sebastianoschneider
 minpack.lm,k-m-m
 minqa,r-forge
@@ -13196,6 +13196,7 @@ MMDvariance,weiliang
 mme,mestherlv
 mmeln,giguerch
 MMeM,pengluyaoyao
+mmequiv,kennethataylor
 mmeta,cran
 MMGFM,feiyoung
 mmibain,mightymetrika
@@ -14136,6 +14137,7 @@ netcontrol,daklor
 NetCoupler,netcoupler
 NetDA,lchen723
 netdiffuseR,usccana
+netdose,petropouloumaria
 NetExplorer,sebastiansosa
 NetFACS,netfacs
 netgsa,mikehellstern
@@ -15152,7 +15154,6 @@ OVtool,burgette
 owd,feakster
 owdbr,kimjoaoun
 OWEA,shuaih0303
-OwenQ,stla
 owidapi,tidy-intelligence
 owidR,piersyork
 owmr,crazycapivara
@@ -17241,6 +17242,7 @@ QurvE,nicwir
 qusage,bioc
 Qval,haijiangq
 qvalue,bioc
+qVarSel,stefanobenati
 qvcalc,davidfirth
 qvirus,juanv66x
 qwalkr,vitormarquesr
@@ -20439,6 +20441,7 @@ SharpeR,shabbychef
 sharpeRratio,damienchallet
 sharpPen,wdy9
 sharpr2,cran
+sharpshootR,ncss-tech
 sharx,psolymos
 shattering,mellorf
 shazam,ssnn-airr
@@ -20504,6 +20507,7 @@ shinydlplot,alexvpickering
 shinyDND,ayayron
 shinydrive,bthieurmel
 shinyDSP,bioc
+shinyDTC,sigbertklinke
 shinyEffects,rinterface
 shinyepico,bioc
 shinyExprPortal,c4tb
@@ -21677,7 +21681,6 @@ squallms,bioc
 squant,cran
 SQUAREM,rvaradhan
 squash,aroneklund
-squat,lmjl-alea
 SqueakR,osimon81
 squeezy,mirrelijn
 squid,squidgroup
@@ -21884,7 +21887,6 @@ stats19,ropensci
 stats4teaching,estebancabello
 statsearchanalyticsr,sditools
 statsExpressions,indrajeetpatil
-Statsomat,reyar
 statsr,statswithr
 statswalesr,jamie-ralph
 statTarget,bioc
@@ -22432,7 +22434,7 @@ systemPipeShiny,bioc
 systemPipeTools,bioc
 syt,stla
 syuzhet,mjockers
-T2DFitTailor,cran
+T2DFitTailor,supercheng971264
 T2EQ,cran
 T2Qv,wilsonrp
 T4cluster,kisungyou
@@ -22581,6 +22583,7 @@ Tcomp,ellisp
 tcpl,usepa
 tcplfit2,usepa
 TCPMOR,shuo-yang-sysu
+TCRconvertR,seshadrilab
 TCseq,bioc
 tcxr,firefly-cpp
 td,eddelbuettel
@@ -23628,9 +23631,7 @@ twilio,seankross
 twingp,cran
 twinning,cran
 Twitmo,abuchmueller
-twitteR,geoffjentry
 twitteradsR,pablosanmar
-TwitterAutomatedTrading,lucasgodeiro
 twitterwidget,guivo
 twl,cran
 twn,redtent
@@ -24750,6 +24751,7 @@ YatesAlgo.FactorialExp.SR,roy-sr-007
 ycevo,bonsook
 YEAB,cran
 yesno,poissonconsulting
+yfinancer,gacolitti
 yfR,ropensci
 yfscreen,jasonjfoster
 yhat,cran

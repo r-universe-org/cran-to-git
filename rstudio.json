@@ -135,6 +135,11 @@
     "url": "https://github.com/rstudio/markdown"
   },
   {
+    "package": "miniUI",
+    "maintainer": "Joe Cheng <joe@posit.co>",
+    "url": "https://github.com/rstudio/miniui"
+  },
+  {
     "package": "nomnoml",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/nomnoml"
