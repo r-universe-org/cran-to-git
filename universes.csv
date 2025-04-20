@@ -1801,7 +1801,6 @@ biomaRt,bioc
 biomartr,ropensci
 BIOMASS,umr-amap
 biometrics,cseljatib
-biometryassist,biometryhub
 biomformat,bioc
 biomod2,biomodhub
 BioMVCClass,bioc
@@ -5598,6 +5597,7 @@ duckdb,duckdb
 duckdbfs,cboettig
 duckduckr,dirkschumacher
 duckplyr,tidyverse
+duckspatial,cidree
 duet,themisefth
 duke,aidangildea
 dumbbell,foocheung
@@ -7093,6 +7093,7 @@ first,cran
 FiSh,mlaib
 FISHalyseR,bioc
 fishbc,poissonconsulting
+fishboot,rschwamborn
 fishdata,condwanaland
 FisherEM,cran
 fisheye,riatelab
@@ -7630,7 +7631,7 @@ futile.options,cran
 futility,mjuraska
 future,futureverse
 future.apply,futureverse
-future.batchtools,futureverse
+future.batchtools,henrikbengtsson
 future.callr,futureverse
 future.mirai,futureverse
 future.tests,futureverse
@@ -8887,6 +8888,7 @@ graphkernels,mahito-sugiyama
 graphlayouts,schochastics
 graphon,kisungyou
 graphPAF,johnfergusonnuig
+graphpcor,eliaskrainski
 graphql,ropensci
 graphsim,tomkellygenetics
 graphTweets,johncoene
@@ -9083,6 +9085,7 @@ gsynth,cran
 gt,rstudio
 gt4ireval,julian-urbano
 gtable,r-lib
+GTAPViz,bodysbobb
 GTbasedIM,lauradavilapena
 GTDL,carrascojalmar
 gte,cran
@@ -10478,6 +10481,7 @@ IRTBEMM,syguo1992
 irtDemo,metinbulus
 IRTest,seewooli
 irtGUI,huseyinyildiz35
+IRTM,margaretfoster
 irtoys,irtools
 irtpwr,flxzimmer
 irtQ,hwangq
@@ -15283,7 +15287,6 @@ pandemics,cran
 pander,rapporter
 pandoc,cderv
 pandocfilters,schweflo
-Pandora,pandora-isomemo
 panelaggregation,will-the-wiz
 panelcn.mops,bioc
 PanelCount,jnpeng
@@ -20330,7 +20333,6 @@ serrsBayes,mooresm
 servosphereR,jake-wittman
 servr,yihui
 sesame,bioc
-sesem,eric-lamb
 SEset,ryanoisin
 SESraster,hemingnm
 sessioninfo,r-lib
@@ -23569,6 +23571,7 @@ tth,zeileis
 TTMap,bioc
 tTOlr,jhmaindonald
 TTR,joshuaulrich
+TTR.PGM,steven-higgins
 TTS,1802515849
 ttScreening,cran
 ttservice,stemangiola
