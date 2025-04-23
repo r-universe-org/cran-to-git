@@ -3011,6 +3011,7 @@ CirclesIntersections,hugosal
 circlesplot,benst099
 circletyper,etiennebacher
 circlize,jokergoo
+circlizePlus,tianzelab
 circlus,lsablica
 CircMLE,rfitak
 CircNNTSR,cran
@@ -4929,7 +4930,7 @@ DExMA,bioc
 DEXSeq,bioc
 dexter,dexter-psychometrics
 dextergui,jessekps
-dexterMST,cran
+dexterMST,timobechger
 df2yaml,showteeth
 DFA,victormesquita40
 DFA.CANCOR,bpoconnor
@@ -8579,6 +8580,7 @@ glmc,cran
 GLMcat,ylleonv
 glme,mcavs
 glmertree,marjoleinf
+glmfitmiss,cran
 glmGamPoi,bioc
 glmglrt,cran
 glmlep,cran
@@ -9164,6 +9166,7 @@ gWidgets2tcltk,jverzani
 GWlasso,nibortolum
 GWLelast,kingqwert
 GWmodel,lbb220
+GWmodelVis,lbb220
 GWnnegPCA,naru-t
 GWpcor,naru-t
 gwpcormapper,gwpcor
@@ -9469,6 +9472,7 @@ HiCDCPlus,bioc
 HiCDOC,bioc
 HiCExperiment,bioc
 HiClimR,hsbadr
+HiCocietyExample,ysora
 HiContacts,bioc
 HiCool,bioc
 hicp,eurostat
@@ -11387,6 +11391,7 @@ lgr,s-fleck
 lgrdata,remkoduursma
 lgrExtra,s-fleck
 LGRF,cran
+lgspline,matthewlouisdavisbiostat
 lgtdl,aallignol
 LHD,whzsdhr
 Lheuristic,bioc
@@ -11811,6 +11816,7 @@ lsmeans,rvlenth
 LSMonteCarlo,cran
 LSMRealOptions,tomaspinall
 lsnstat,la-societe-nouvelle
+lsoda,mclements
 lspartition,yingjieum
 LSPFP,cran
 lspline,mbojan
@@ -17006,6 +17012,7 @@ qcoder,ropensci
 qcpm,glamb85
 qcQpcr,alorzadeh
 qcr,mflores72000
+qcrlscR,wanchanglin
 QCSimulator,tvganesh
 QCSIS,xuejunma
 qcv,rmfurr
@@ -18854,6 +18861,7 @@ roahd,astamm
 roar,bioc
 roastgsa,bioc
 ROAuth,pablobarbera
+rob,romariocontol
 RobAStBase,r-forge
 RobAStRDA,r-forge
 robber,chabert-liddell
@@ -19510,7 +19518,7 @@ RUVcorr,bioc
 RUVnormalize,bioc
 RUVSeq,bioc
 RVA,thermostats
-RVAideMemoire,maximeherve
+RVAideMemoire,cran
 rvalues,nchenderson
 Rvcg,zarquon42b
 rvcheck,guangchuangyu
@@ -20702,6 +20710,7 @@ sim2Dpredictr,jmleach-bst
 simaerep,openpharma
 SIMAT,bioc
 SimBIID,tjmckinley
+simBKMRdata,khasa006
 simboot,shearer
 SimBu,bioc
 simCAT,alexandrejaloto
@@ -21585,7 +21594,7 @@ SplitSplitPlot,cran
 splitstackshape,mrdwab
 splitTools,mayer79
 splm,cran
-splmm,cran
+splmm,esunroc
 splot,miserman
 splots,bioc
 spls,valentint
@@ -22680,6 +22689,7 @@ tensorTS,zebang
 tensr,dcgerard
 TENxIO,bioc
 tenXplore,bioc
+tepr,descostesn
 TEQC,bioc
 TEQR,cran
 terapadog,bioc
@@ -23667,6 +23677,7 @@ typed,moodymudskipper
 typehint,jsugarelli
 types,jimhester
 typetracer,mpadge
+typr,christopherkenny
 tzdb,r-lib
 tzupdater,sthonnard
 u5mr,myominnoo
