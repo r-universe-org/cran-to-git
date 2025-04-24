@@ -1029,6 +1029,7 @@ AVGAS,lli289
 avidaR,cran
 AvInertia,charvey23
 aVirtualTwins,prise6
+avlm,michaellindon
 avocado,nikdata
 avotrex,joe-wayman
 awardFindR,ropensci
@@ -1067,7 +1068,7 @@ AzureGraph,azure
 AzureKeyVault,azure
 AzureKusto,azure
 azuremlsdk,azure
-AzureQstor,azure
+AzureQstor,hongooi73
 AzureRMR,azure
 AzureStor,azure
 AzureTableStor,azure
@@ -1364,6 +1365,7 @@ BayesS5,minsuk000
 BayesSampling,pedrosfig
 BayesSenMC,formidify
 BayesSpace,bioc
+bayesSSM,bjarkehautop
 BayesSUR,mbant
 bayesSurv,cran
 BayesSurvival,svdpas
@@ -3015,6 +3017,7 @@ circlizePlus,tianzelab
 circlus,lsablica
 CircMLE,rfitak
 CircNNTSR,cran
+CircNNTSRaxial,cran
 CircNNTSRmult,cran
 CircNNTSRSymmetric,cran
 CircOutlier,cran
@@ -5081,6 +5084,7 @@ DImodels,cran
 DImodelsMulti,di-laurabyrne
 DImodelsVis,rishvish
 DIMORA,avios97
+dimRed,gdkrmr
 dina,tmsalab
 dinamic,vonnwalter23
 DiNAMIC.Duo,vonnwalter23
@@ -5299,7 +5303,7 @@ DNAcycP2,bioc
 DNAfusion,bioc
 DNAmixturesLite,tgraversen
 DNAmotif,cran
-dnapath,t-grimes
+dnapath,cran
 DNAseqtest,hasinurkhan
 DNAshapeR,bioc
 DNAtools,mikldk
@@ -7118,6 +7122,7 @@ fitbitr,mrkaye97
 fitbitScraper,corynissen
 fitbitViz,mlampros
 fitConic,cran
+fitdistcp,stephenjewson
 fitdistrplus,lbbe-software
 FitDynMix,marco-bee
 fitHeavyTail,convexfi
@@ -9634,6 +9639,7 @@ Hotelling,jmcurran
 HotellingEllipse,christiangoueguel
 hotspot,cran
 hotspots,anthonydn
+hours2lessons,vladbazon
 housingData,hafen
 hover,r4fun
 howler,ashbaldry
@@ -12086,6 +12092,7 @@ margaret,coreofscience
 MargCond,cran
 marginaleffects,vincentarelbundock
 marginalizedRisk,youyifong
+MarginalMaxTest,canyi-chen
 MarginalMediation,tysonstanley
 margins,bbolker
 marima,cran
@@ -15068,7 +15075,6 @@ ORIONZ.G,cran
 ORKM,guangbaog
 orloca,mmm-uca
 orloca.es,mmm-uca
-ormBigData,cran
 ormPlot,rix133
 oro.dicom,bjw34032
 oro.nifti,bjw34032
@@ -15928,7 +15934,7 @@ piecewiseSEM,jslefche
 PieGlyph,rishvish
 Pigengene,bioc
 piggyback,ropensci
-piglet,ayeletperes
+piglet,cran
 pii,jacobpstein
 piiR,theotherdrwells
 Pijavski,cran
@@ -16546,7 +16552,6 @@ presens,matthewabirk
 presenter,harrison4192
 presentes,diegokoz
 preseqR,cran
-PResiduals,cran
 presize,ctu-bern
 presmoothedTP,gsoutinho
 presmTP,gsoutinho
@@ -17800,7 +17805,7 @@ RcppMsgPack,eddelbuettel
 RcppNLoptExample,eddelbuettel
 RcppNumerical,yixuan
 RcppParallel,rcppcore
-RcppPlanc,theaeon
+RcppPlanc,welch-lab
 RcppProgress,kforner
 RcppQuantuccia,eddelbuettel
 RcppRedis,eddelbuettel
@@ -18524,6 +18529,7 @@ ridigbio,idigbio
 riem,ropensci
 Riemann,kisungyou
 RiemBase,kisungyou
+riemtan,nicoesve
 Riex,theeliteanalyst
 rifi,bioc
 rifiComparative,bioc
@@ -20313,7 +20319,7 @@ SeqMADE,cran
 seqmagick,yulab-smu
 seqminer,zhanxw
 seqmon,cran
-SeqNet,tgrimes
+SeqNet,cran
 seqPattern,bioc
 seqsetvis,bioc
 seqSHP,traminer
@@ -24303,7 +24309,6 @@ warp,davisvaughan
 warpMix,cran
 washdata,katilingban
 washeR,cran
-washex,rwrandles
 washi,wa-department-of-agriculture
 washr,openwashdata
 WASP,zejiang-unsw
@@ -24743,6 +24748,7 @@ xtsum,macosso
 xtune,jingxuanh
 xutils,fangzhou-xie
 XVector,bioc
+xvm,rightsz
 xwf,willemvandenboom
 xxdi,nilabhrardas
 xxhashlite,coolbutuseless

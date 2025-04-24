@@ -5,6 +5,11 @@
     "url": "https://github.com/welch-lab/cytosimplex"
   },
   {
+    "package": "RcppPlanc",
+    "maintainer": "Andrew Robbins <robbiand@umich.edu>",
+    "url": "https://github.com/welch-lab/rcppplanc"
+  },
+  {
     "package": "rliger",
     "maintainer": "Yichen Wang <wayichen@umich.edu>",
     "url": "https://github.com/welch-lab/liger",
