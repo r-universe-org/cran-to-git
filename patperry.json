@@ -1,9 +1,8 @@
 [
   {
     "package": "mbest",
-    "maintainer": "Patrick O. Perry <patperry@gmail.com>",
-    "url": "https://github.com/patperry/r-mbest",
-    "registry": "archived"
+    "maintainer": "Ben Bolker <bolker@mcmaster.ca>",
+    "url": "https://github.com/patperry/r-mbest"
   },
   {
     "package": "utf8",
