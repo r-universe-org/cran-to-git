@@ -735,6 +735,7 @@ ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
+arcgis,r-arcgis
 arcgisgeocode,r-arcgis
 arcgislayers,r-arcgis
 arcgisplaces,josiahparry
@@ -1799,7 +1800,6 @@ BioInsight,cran
 biolink,aaronwolen
 biologicalActivityIndices,cran
 BioM2,cran
-BioMark,rwehrens
 biomaRt,bioc
 biomartr,ropensci
 BIOMASS,umr-amap
@@ -2133,6 +2133,7 @@ brainKCCA,kangjian2016
 brainR,muschellij2
 BranchGLM,jacobseedorff21
 Branching,cran
+branchingprocess,epiforesite
 branchpointer,bioc
 brandr,danielvartan
 brandwatchR,phippsy
@@ -2621,6 +2622,7 @@ cbq,cran
 CBRT,etaymaz
 cbsodataR,edwindj
 CBSr,sangillee
+cbsREPS,cran
 CBT,cran
 CC,wjbraun
 CCA,sebdejean
@@ -3662,6 +3664,7 @@ ConfidenceEllipse,christiangoueguel
 config,rstudio
 ConfigParser,hhoeflin
 configr,miachol
+configulaR,dataupsurge
 configural,bwiernik
 confinterpret,jimvine
 confintr,mayer79
@@ -3698,6 +3701,7 @@ connected,kwstat
 ConnectednessApproach,cran
 connections,rstudio
 connectoModa,idiise
+connector,novonordisk-opensource
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -6793,6 +6797,7 @@ fastglm,jaredhuling
 fastglmpca,stephenslab
 FastGP,ggopalan
 fastGraph,cran
+FastHamming,rvaradhan
 fastICA,cran
 FastImputation,shaptonstahl
 FastJM,shanpengli
@@ -6849,6 +6854,7 @@ FastUtils,qile0317
 fastverse,fastverse
 fastVoteR,bblodfon
 fastWavelets,johnswyou
+fastymd,timtaylor
 fat2Lpoly,cran
 FateID,dgrun
 FatTailsR,cran
@@ -7295,6 +7301,7 @@ FMC,jiyosunny
 FMCCSD,cran
 fmcmc,uscbiostats
 fmcsR,bioc
+fmds,busingfmta
 fmdu,busingfmta
 FME,r-forge
 fmeffects,holgstr
@@ -10590,6 +10597,7 @@ ispdata,igorlaltuf
 ISR,guangbaog
 ISRaD,cran
 ISS,manuelmmueller
+IssueTrackeR,tanguybarthelemy
 istacr,cran
 istat,elakkkk
 iSTATS,vitor-mendes-iq
@@ -12858,6 +12866,7 @@ midi,lmjl-alea
 MIDN,cran
 midoc,elliecurnow
 midrangeMCP,bendeivide
+miebl,cran
 miesmuschel,mlr-org
 mifa,teebusch
 mig,lbelzile
@@ -14074,7 +14083,7 @@ NBtsVarSel,mgomtsyan
 nc,tdhock
 NCA,govertbuijs
 ncaavolleyballr,jeffreyrstevens
-ncappc,cran
+ncappc,uupharmacometrics
 ncar,cran
 ncbit,eastman
 NCC,pavlakrotka
@@ -14860,6 +14869,7 @@ onehot,gravesee
 oneinfl,rtgodwin
 onekp,ropensci
 onelogin,akgold
+onemap,cristianetaniguti
 OneR,vonjd
 OneSampleLogRankTest,dkangeyan
 OneSampleMR,remlapmot
@@ -16339,6 +16349,7 @@ pop.lion,gchapron
 pop.wolf,gchapron
 popbayes,frbcesab
 popbio,cran
+PopComm,cran
 popdemo,iainmstott
 PoPdesign,cran
 PopED,andrewhooker
@@ -17712,7 +17723,7 @@ RclusTool,cran
 RCM,bioc
 rCMA,wolfgangkonen
 rcmdcheck,r-lib
-Rcmdr,john-d-fox
+Rcmdr,rcmdr-project
 RcmdrMisc,john-d-fox
 RcmdrPlugin.aRnova,atravert
 RcmdrPlugin.BiclustGUI,ewouddt
@@ -18775,6 +18786,7 @@ Rmmquant,bioc
 RMOA,jwijffels
 RMOAjars,jwijffels
 Rmodule,drjphughesjr
+Rmoji,3p1d3m
 Rmolt,martinbozon
 rmon,kennedymwavu
 Rmonize,maelstrom-research
@@ -19692,7 +19704,7 @@ SAIGEgds,bioc
 SailoR,cran
 SAiVE,uo-saive
 SAKERNAS,mubarakfadhlul
-sakura,shikokuchuo
+sakura,rconsortium
 salad,cran
 SALES,knightgu
 salesforcer,stevenmmortimer
@@ -23125,6 +23137,7 @@ tLagPropOdds,sth1402
 tlars,jasinmachkour
 Tlasso,cran
 TLCAR,judepower1
+tlda,lsoenning
 tldr,tloux
 TLIC,guangbaog
 tlm,jobago
@@ -23748,7 +23761,6 @@ uk2us,bldavies
 UKB.COVID19,bahlolab
 ukbabynames,mine-cetinkaya-rundel
 ukbnmr,sritchie73
-ukbtools,kenhanscombe
 UKFE,agqhammond
 ukgasapi,timothywong731
 UKgrid,ramikrispin
@@ -24546,6 +24558,7 @@ wishmom,cran
 withdots,nikkrieger
 wither,torbjorn
 withr,r-lib
+wizaRdry,belieflab
 wk,paleolimbot
 wkb,ianmcook
 wktmo,leoly2017

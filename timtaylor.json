@@ -6,6 +6,11 @@
     "subdir": "pkg"
   },
   {
+    "package": "fastymd",
+    "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
+    "url": "https://github.com/cran/fastymd"
+  },
+  {
     "package": "super",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
     "url": "https://codeberg.org/timtaylor/super",

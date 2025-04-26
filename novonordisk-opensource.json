@@ -1,5 +1,10 @@
 [
   {
+    "package": "connector",
+    "maintainer": "Cervan Girard <cgid@novonordisk.com>",
+    "url": "https://github.com/novonordisk-opensource/connector"
+  },
+  {
     "package": "postcard",
     "maintainer": "Mathias Lerbech Jeppesen <mathiasljeppesen@outlook.com>",
     "url": "https://github.com/novonordisk-opensource/postcard"

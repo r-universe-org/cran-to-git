@@ -3,5 +3,10 @@
     "package": "S7",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
     "url": "https://github.com/rconsortium/s7"
+  },
+  {
+    "package": "sakura",
+    "maintainer": "Charlie Gao <charlie.gao@shikokuchuo.net>",
+    "url": "https://github.com/rconsortium/sakura"
   }
 ]
