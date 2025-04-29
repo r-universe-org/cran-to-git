@@ -402,12 +402,6 @@
     "subdir": "pkg/minqa"
   },
   {
-    "package": "mlogit",
-    "maintainer": "Yves Croissant <yves.croissant@univ-reunion.fr>",
-    "url": "https://github.com/r-forge/mlogit",
-    "subdir": "pkg"
-  },
-  {
     "package": "mlt",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",

@@ -1180,6 +1180,7 @@ bartcs,yooyh
 bartMachine,kapelner
 bartMachineJARs,kapelner
 bartMan,cran
+bartXViz,cran
 baRulho,ropensci
 BAS,merliseclyde
 basad,qingyan16
@@ -4141,7 +4142,6 @@ Crosstabs.Loglinear,bpoconnor
 crosstalk,rstudio
 crosstalkr,cran
 crossurr,cran
-CrossVA,jarathomas
 crossval,cran
 CrossValidate,cran
 crossvalidationCP,florianpein
@@ -7068,7 +7068,6 @@ FinAna,peteryinr
 FinancialInstrument,braverock
 FinancialMath,cran
 finbif,luomus
-finbipartite,convexfi
 FinCal,felixfan
 finch,ropensci-archive
 FinCovRegularization,yanyachen
@@ -7089,7 +7088,6 @@ finetune,tidymodels
 fingerprint,rajarshi
 fingerPro,ivanlizaga
 fingertipsR,ropensci
-fingraph,convexfi
 finiteruinprob,baumgrt
 finity,x0range
 finna,ake123
@@ -7372,6 +7370,7 @@ ForeComp,mcmcs
 forecTheta,jafiorucci
 foreign,cran
 forensicolors,marsicofl
+forensicpopdata,mkruijver
 forensIT,marsicofl
 foreSIGHT,climateanalytics
 forestat,caf-ifrit
@@ -8426,6 +8425,7 @@ ggseas,ellisp
 ggsector,yanpd01
 ggseg,ggseg
 ggseg3d,ggseg
+ggsegmentedtotalbar,ozancanozdemir
 ggsem,smin95
 ggseqalign,bioc
 ggseqlogo,omarwagih
@@ -10771,6 +10771,7 @@ jointPm,lbelzile
 jointseg,mpierrejean
 jointVIP,ldliao
 joinXL,yvonneglanville
+joker,thechibo
 jomo,matteo21q
 JOPS,pauleilers
 jordan,robinhankin
@@ -11062,7 +11063,7 @@ kpcaIG,cran
 kpcalg,cran
 kpeaks,cran
 kpiwidget,arnold-kakas
-kpmt,cran
+kpmt,map2085
 kpodclustr,jocelynchi
 KrakenR,nathanael-g-durst
 KraljicMatrix,koalaverse
@@ -11432,6 +11433,7 @@ librarian,desiquintans
 librarysnapshot,petermeissner
 libstable4u,swihart
 LIC,guangbaog
+licoread,jogaudard
 lidaRtRee,jmmonnet
 lidR,r-lidar
 lievens,ramiromagno
@@ -11574,6 +11576,7 @@ llama,larskotthoff
 llbayesireg,rosineide
 LLIC,guangbaog
 LLM,arnoxieseg
+LLMAgentR,knowusuboaky
 LLMR,asanaei
 llogistic,rosineide
 LLSR,diegofcoelho
@@ -13150,7 +13153,7 @@ mlms,jfisher-usgs
 mlmtools,lkjamison
 mlmts,anloor7
 MLMusingR,flh3
-mlogit,r-forge
+mlogit,ycroissant
 mlogitBMA,hanase
 MLP,bioc
 mlpack,rcurtin
@@ -14068,7 +14071,6 @@ nbconvertR,cran
 NBDdirichlet,feimingchen
 NBDesign,marvels2031
 nberwp,bldavies
-nbfar,amishra-stats
 NBLDA,dncr
 nblR,jaseziv
 nbody,obreschkow
@@ -15043,6 +15045,7 @@ opusminer,cbergmeir
 OPWeight,bioc
 OralOpioids,ankonahouston
 orbital,tidymodels
+orbweaver,ixpantia
 orca,thocevar
 orcamentoBR,cran
 orclus,g-rho
@@ -17382,6 +17385,7 @@ racir,jstinzi
 Racmacs,acorg
 ractivecampaign,selesnow
 rADA,cran
+RADanalysis,saeedghalati
 radar,cran
 radarBoxplot,caiohamamura
 radarchart,mangothecat
@@ -18101,6 +18105,7 @@ referenceIntervals,digital-vet
 REffectivePred,rootofunity
 refineR,cran
 refinr,chrismuir
+refitgaps,vladbazon
 refitME,cran
 reflectR,g-corbelli
 reflimR,reflim
@@ -18800,7 +18805,7 @@ Rmpfr,r-forge
 Rmpi,cran
 RMPSH,cran
 rmpw,cran
-rMR,cran
+rMR,tylermoulton
 rms,harrelfe
 rmsb,harrelfe
 RMSD,kazwd2008
@@ -18957,6 +18962,7 @@ robustDA,cran
 robusTest,obouaziz
 robustETM,chuanhong
 robustfa,fbertran
+robustGarch,echorliu
 RobustGaSP,uncertaintyquantification
 robustHD,aalfons
 RobustIV,zijguo
@@ -21526,7 +21532,6 @@ spectralAnalysis,ablommaert
 spectralAnomaly,al-obrien
 SpectralClMixed,cran
 spectralGP,cran
-spectralGraphTopology,dppalomar
 SpectralMap,terrytwu
 spectralR,olehprylutskyi
 SpectralTAD,bioc
@@ -22748,7 +22753,7 @@ terraTCGAdata,bioc
 TesiproV,konne55
 TESS,hoehna
 tessellation,stla
-tesselle,tesselle
+tesselle,nfrerebeau
 tesseract,ropensci
 test2norm,au-uscd
 TestAnaAPP,jiangyouxiang
@@ -23567,6 +23572,7 @@ tsibbledata,tidyverts
 tsibbletalk,earowang
 tsintermittent,trnnick
 tsiR,adbecker
+tsissm,tsmodels
 TSLA,jianminc
 TSLSTM,ranjitstat
 TSLSTMplus,jaipizgon
@@ -24682,6 +24688,7 @@ x.ent,win-stub
 x12,statistikat
 x13binary,x13org
 x3ptools,heike
+xactonomial,sachsmc
 xadmix,spacecowboy-71
 XAItest,bioc
 xaringan,yihui
@@ -24853,6 +24860,7 @@ zendown,rfsaldanha
 zenith,bioc
 zenplots,great-northern-diver
 zenstats,rfsaldanha
+ZEP,mroman-ibs
 zephyr,novonordisk-opensource
 zeroEQpart,djrichar92
 zetadiv,cran

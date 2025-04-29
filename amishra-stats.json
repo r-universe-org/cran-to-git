@@ -6,13 +6,6 @@
     "subdir": "gofar"
   },
   {
-    "package": "nbfar",
-    "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
-    "url": "https://github.com/amishra-stats/nbfar",
-    "subdir": "nbfar",
-    "registry": "archived"
-  },
-  {
     "package": "robregcc",
     "maintainer": "Aditya Mishra <amishra@flatironinstitute.org>",
     "url": "https://github.com/amishra-stats/robregcc",
