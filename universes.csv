@@ -1876,6 +1876,7 @@ BisRNA,carinelegrand
 bistablehistory,alexander-pastukhov
 bit,r-lib
 bit64,r-lib
+bitfield,bitfloat
 bitmexr,hfshr
 bitops,mmaechler
 BiTrinA,hkestler
@@ -2459,7 +2460,6 @@ capesR,hugoavmedeiros
 capitalR,cran
 capl,barnzilla
 caplot,gianmarcoalberti
-capm,oswaldosantos
 capn,cran
 CaPO4Sim,divadnojnarg
 captr,gojiplus
@@ -4246,7 +4246,7 @@ ctgt,nxu312
 cthist,bgcarlisle
 cthreshER,fpzhang2015
 ctl,dannyarends
-CTM,jimliu741523
+CTM,cran
 ctmcd,cran
 ctmcmove,ehanks
 cTMed,jeksterslab
@@ -6298,6 +6298,7 @@ epoxy,gadenbuie
 epr,cran
 epsiwal,shabbychef
 EPT,dkimstatlab
+epts,mohammad-sayari
 epubr,ropensci
 epwshiftr,ideas-lab-nus
 EPX,jhtomal
@@ -16814,7 +16815,7 @@ PRP,artemiszhao
 prqlr,prql
 prrd,eddelbuettel
 PRROC,jgraux
-PRSim,cran
+PRSim,manuelabrunner
 PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
@@ -17117,6 +17118,7 @@ qPCRtools,lixiang117423
 qpdf,ropensci
 qpgraph,bioc
 qPLEXanalyzer,bioc
+Qploidy,cristianetaniguti
 qpmadr,anderic1
 qpNCA,huismanj
 qPRAentry,mcendoya
@@ -18910,6 +18912,7 @@ rob,romariocontol
 RobAStBase,r-forge
 RobAStRDA,r-forge
 robber,chabert-liddell
+robcat,mwelz
 robCompositions,matthias-da
 robcor,paulsmirnov
 robcp,sgoerz
@@ -21129,7 +21132,7 @@ smoothROCtime,cran
 smoothSurv,cran
 smoothtail,numbersman77
 SmoothTensor,cran
-SmoothWin,cran
+SmoothWin,hamed-ebi
 smoothy,cran
 smoots,dschulz13
 smoppix,bioc
@@ -21916,6 +21919,7 @@ statConfR,manuelrausch
 STATcubeR,statistikat
 StatDA,filzmoserp
 StatDataML,cran
+statdecideR,subhradip25
 statebins,hrbrmstr
 STATegRa,bioc
 StateLevelForest,gatesdupont
@@ -21954,6 +21958,7 @@ statsExpressions,indrajeetpatil
 statsr,statswithr
 statswalesr,jamie-ralph
 statTarget,bioc
+StatTeacherAssistant,ccasement
 StatTools,cran
 statVisual,gefeizhang
 STB,cran
