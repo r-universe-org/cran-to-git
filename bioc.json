@@ -2625,6 +2625,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Coralysis",
+    "maintainer": "António Sousa <aggode@utu.fi>",
+    "url": "https://github.com/elolab/coralysis",
+    "registry": "bioc"
+  },
+  {
     "package": "coRdon",
     "maintainer": "Anamaria Elek <anamariaelek@gmail.com>",
     "url": "https://github.com/bioinfohr/cordon",
@@ -3594,6 +3600,12 @@
     "package": "DNAshapeR",
     "maintainer": "Tsu-Pei Chiu <tsupeich@usc.edu>",
     "url": "https://git.bioconductor.org/packages/DNAshapeR",
+    "registry": "bioc"
+  },
+  {
+    "package": "DNEA",
+    "maintainer": "Christopher Patsalis <chrispatsalis@gmail.com>",
+    "url": "https://github.com/karnovsky-lab/dnea",
     "registry": "bioc"
   },
   {
