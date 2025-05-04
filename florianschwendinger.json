@@ -1,7 +1,52 @@
 [
   {
+    "package": "highs",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/highs"
+  },
+  {
+    "package": "lpSolveAPI",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/florianschwendinger/lpsolveapi"
+  },
+  {
+    "package": "NLPclient",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/NLPclient"
+  },
+  {
+    "package": "pandocfilters",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/pandocfilters"
+  },
+  {
+    "package": "pdfminer",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/pdfminer"
+  },
+  {
+    "package": "ROI.models.globalOptTests",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/ROI.models.globalOptTests"
+  },
+  {
+    "package": "ROI.models.netlib",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/ROI.models.netlib"
+  },
+  {
+    "package": "ROI.plugin.highs",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/cran/ROI.plugin.highs"
+  },
+  {
     "package": "scs",
     "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
     "url": "https://github.com/florianschwendinger/scs"
+  },
+  {
+    "package": "xmlrpc2",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://github.com/florianschwendinger/xmlrpc2"
   }
 ]
