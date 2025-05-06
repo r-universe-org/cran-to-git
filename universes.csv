@@ -385,6 +385,7 @@ aiRly,piotrekjanus
 AirMonitor,mazamascience
 airnow,briandconnelly
 airpart,bioc
+AirportProblems,alexbernardez
 airportr,dshkol
 airports,openintrostat
 airqualityES,jdieramon
@@ -993,6 +994,7 @@ autoimport,danchaltiel
 autokeras,r-tensorflow
 automagic,cole-brokamp
 automap,jskoien
+automatedtests,wouterzeevat
 autometric,wlandau
 autoMFA,john-c-davey
 automl,aboulaboul
@@ -4291,7 +4293,7 @@ cubelyr,hadley
 cubeview,tim-salabim
 cubfits,snoweye
 cubicBsplines,plambertuliege
-cubing,cran
+cubing,ste6an-hub
 Cubist,topepo
 cucumber,jakubsob
 cuda.ml,mlverse
@@ -4817,6 +4819,7 @@ DemoKin,ivanwilli
 demoShiny,sigbertklinke
 DEMOVA,20k-p
 demu,cran
+demulticoder,grunwaldlab
 demuxmix,bioc
 demuxSNP,bioc
 dendextend,talgalili
@@ -5194,6 +5197,7 @@ disprofas,piusdahinden
 disprose,cran
 dissCqN,murphymv
 dissever,pierreroudier
+dissimilarities,edelweiss611428
 DiSSMod,sangkyustat
 Distance,distancedevelopment
 distanceHD,jungaeleeb
@@ -6464,8 +6468,8 @@ EVchargcost,cran
 evclass,cran
 evclust,cran
 EvCombR,cran
-evd,cran
-evdbayes,cran
+evd,ste6an-hub
+evdbayes,ste6an-hub
 evenBreak,barryzee
 event,swihart
 eventdataR,bupaverse
@@ -10432,6 +10436,7 @@ iosmooth,cran
 iotables,ropengov
 iotarelr,fberding
 iotools,s-u
+IP,rucknium
 ip2location,ip2location
 ip2location.io,cran
 ip2locationio,ip2location
@@ -14538,6 +14543,7 @@ norMmix,trn000
 NormPsy,cecileproust-lima
 NormqPCR,bioc
 normr,bioc
+norSTR,magnusdv
 nortest,uligges
 nortestARMA,lafaye
 nortsTest,asael697
@@ -16096,7 +16102,7 @@ plattice,cran
 Platypus,cran
 play,joe-chelladurai
 PlayerChart,amalpanwar
-PlayerRatings,cran
+PlayerRatings,ste6an-hub
 pldamixture,bpriy
 plde,cran
 pleio,sinnweja
@@ -20211,6 +20217,7 @@ seedr,efernandezpascual
 seedreg,agronomiar
 seeds,newmi1988
 SeedVigorIndex,cran
+seekr,smartiing
 seer,thiyangt
 SEERaBomb,radivot
 seewave,jeromeecoac
@@ -21602,6 +21609,7 @@ SPIA,bioc
 SPIAT,bioc
 SpiceFP,giraultg
 SPIChanges,gabrielblain
+spicy,amaltawfik
 spicyR,bioc
 spider,boopsboops
 spiderbar,hrbrmstr
@@ -22142,7 +22150,6 @@ stringx,gagolews
 strip,paulponcet
 stripless,cran
 striprtf,kota7
-STRMPS,svilsen
 stRoke,agdamsbo
 StroupGLMM,myaseen208
 strs,pythonicr
@@ -22949,7 +22956,7 @@ tickr,ben-williams
 tictactoe,kota7
 tictoc,jabiru
 TideCurves,moritzmn
-TideHarmonics,cran
+TideHarmonics,ste6an-hub
 Tides,tomjscox
 TideTables,moritzmn
 tidier,talegari
@@ -23045,6 +23052,7 @@ tidysq,biogenies
 tidystats,willemsleegers
 tidystopwords,computationalstylistics
 tidystringdist,colinfay
+tidySummaries,kleanthisk10
 tidySummarizedExperiment,bioc
 tidysynth,cran
 tidytable,markfairbanks
@@ -23949,7 +23957,7 @@ UStatBookABSC,ansuchatterjee
 ustfd,groditi
 ustyc,mrbcuda
 utc,antojo-segura
-utf8,patperry
+utf8,krlmlr
 utf8ify,rolkra
 utile.tables,efinite
 utile.tools,efinite
