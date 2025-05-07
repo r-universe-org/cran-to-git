@@ -384,6 +384,12 @@
     "subdir": "pkg/lpridge"
   },
   {
+    "package": "mada",
+    "maintainer": "Philipp Doebler <philipp.doebler@googlemail.com>",
+    "url": "https://github.com/r-forge/mada",
+    "subdir": "pkg"
+  },
+  {
     "package": "Matrix",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
