@@ -1,5 +1,10 @@
 [
   {
+    "package": "ggEDA",
+    "maintainer": "Sam El-Kamand <sam.elkamand@gmail.com>",
+    "url": "https://github.com/ccicb/ggeda"
+  },
+  {
     "package": "somaticflags",
     "maintainer": "Sam El-Kamand <selkamand@ccia.org.au>",
     "url": "https://github.com/ccicb/somaticflags"

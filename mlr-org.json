@@ -1,5 +1,10 @@
 [
   {
+    "package": "batchtools",
+    "maintainer": "Michel Lang <michellang@gmail.com>",
+    "url": "https://github.com/mlr-org/batchtools"
+  },
+  {
     "package": "bbotk",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/bbotk"

@@ -1239,7 +1239,7 @@ BatchQC,bioc
 batchscr,sherrisherry
 BatchSVG,bioc
 batchtma,stopsack
-batchtools,mllg
+batchtools,mlr-org
 bate,dbasu-umass
 batman,ironholds
 batsch,ramiromagno
@@ -1845,6 +1845,7 @@ BioTIMEr,biotimehub
 BioTIP,bioc
 biotmle,bioc
 biotools,arsilva87
+BioTrajectory,cran
 BioVenn,cran
 biovizBase,bioc
 BioVizSeq,zhaosq2022
@@ -4879,6 +4880,7 @@ derfinderPlot,bioc
 Deriv,sgsokol
 derivmkts,rmcd1024
 DES,cran
+DESA,vjoshy
 desc,r-lib
 DEScan2,bioc
 DeSciDe,camdouglas
@@ -5320,6 +5322,7 @@ DNABarcodeCompatibility,bioc
 DNABarcodes,bioc
 DNAcopy,bioc
 DNAcycP2,bioc
+dnafractal,cran
 DNAfusion,bioc
 DNAmixturesLite,tgraversen
 DNAmotif,cran
@@ -8173,7 +8176,7 @@ geotopbricks,ecor
 GeoTox,niehs
 geoTS,cran
 geouy,richdeto
-geovol,cran
+geovol,scmartins
 GeoWeightedModel,javierdelahoz
 geozoo,schloerke
 gep2pep,bioc
@@ -8297,6 +8300,7 @@ ggDoubleHeat,pursuitofdatascience
 gge,kwstat
 ggeasy,jonocarroll
 GGEBiplots,sdumble1
+ggEDA,ccicb
 ggedit,yonicd
 ggeffects,strengejacke
 ggenealogy,cran
@@ -9340,7 +9344,6 @@ hdcuremodels,kelliejarcher
 HDCurves,cran
 hdd,lrberge
 HDDesign,cran
-hddplot,jhmaindonald
 hddtools,ropensci
 HDF5Array,bioc
 hdf5r,hhoeflin
@@ -11023,7 +11026,6 @@ KMEANS.KNN,lallogo45
 kmed,weksi-budiaji
 Kmedians,godichon-baggioni
 kmer,shaunpwilkinson
-kmeRs,urniaz
 kmeRtone,sahakyanlab
 kmi,aallignol
 kml,christophe314
@@ -11445,6 +11447,7 @@ lhmixr,mintoc
 lhs,bertcarnell
 libbib,tonyfischetti
 libcoin,thothorn
+libdeflate,tylermorganwall
 libgeos,paleolimbot
 LiblineaR,dnalytics
 LibOPF,rafaeljm
@@ -12099,7 +12102,6 @@ mapmisc,eborgnine
 mapmixture,tom-jenkins
 mappeR,uiowa-applied-topology
 MapperAlgo,kennywang112
-mapping,mappinguniverse
 mappings,benjaminrich
 mapplots,hgerritsen
 mappoly,mmollina
@@ -13558,7 +13560,6 @@ mpt,cran
 MPTinR,singmann
 MPTmultiverse,mpt-network
 MPV,wjbraun
-mpwR,cran
 MQMF,haddonm
 Mqrcm,cran
 mr.pivw,siqixu
@@ -14812,7 +14813,6 @@ oHMMed,lynettecaitlin
 ohoegdm,tmsalab
 OHPL,nanxstats
 ohsome,giscience
-ohtadstats,pfpetrowski
 ohun,ropensci
 oii,computermacgyver
 ojsr,gastonbecerra
@@ -17496,6 +17496,7 @@ RandomForestsGLS,arkajyotisaha
 randomForestSRC,kogalur
 randomForestVIP,kelvynbladen
 randomGLM,plangfelder
+randomGODB,barryzee
 randomizationInference,cran
 randomizeBE,detlew
 randomizeR,cran
@@ -17544,6 +17545,7 @@ RankResponse,cran
 RANKS,gvalentini58
 ranktreeEnsemble,transbioinfolab
 RANN,jefferislab
+RANSAC,jadson-abreuv
 Rapi,datarapi
 rapiclient,bergant
 RApiDatetime,eddelbuettel
@@ -17643,7 +17645,7 @@ rbacon,maarten14c
 rBahadur,rborder
 RBaseX,benengbers
 rBayesianOptimization,yanyachen
-rbbnp,dxy99999
+rbbnp,xinyu-daidai
 rbc,cran
 rbcb,wilsonfreitas
 RbcBook1,bioc
@@ -19021,7 +19023,6 @@ roccv,cran
 rOCEAN,mitra-ep
 ROCFTP.MMS,nabipoor
 ROCit,riazakhan94
-rock,cran
 rockchalk,pauljohn32
 rocker,nikolaus77
 ROCket,da-zar
@@ -22341,6 +22342,7 @@ survivalPLANN,chupverse
 survivalREC,gsoutinho
 survivalROC,paramita-sc
 survivalSL,foucher-y
+survivalsurrogate,laylaparast
 survivalsvm,imbs-hl
 SurvivalTests,osmandag
 survivalVignettes,bethatkinson
@@ -23002,7 +23004,6 @@ tidyfast,tysonstanley
 tidyfinance,tidy-finance
 tidyfit,jpfitzinger
 tidyFlowCore,bioc
-tidyformula,damian-t-p
 tidyfst,hope-data-science
 tidyft,hope-data-science
 tidygam,stefanocoretta

@@ -1,5 +1,10 @@
 [
   {
+    "package": "geovol",
+    "maintainer": "Susana Campos-Martins <scmartins@ucp.pt>",
+    "url": "https://github.com/cran/geovol"
+  },
+  {
     "package": "tvgarch",
     "maintainer": "Susana Campos-Martins <scmartins@ucp.pt>",
     "url": "https://github.com/cran/tvgarch"
