@@ -251,6 +251,7 @@ AdvancedBasketballStats,cran
 AdvBinomApps,cran
 AdvDif4,jaderlugon
 adventr,profandyfield
+adverbial,uchidamizuki
 adverSCarial,bioc
 AdverseEvents,dungtsa
 ADVICE,ladantazik
@@ -1703,6 +1704,7 @@ BinaryDosage,jimb3
 BinaryEMVS,john-snyder
 BinaryEPPM,cran
 binaryGP,chihli
+binaryRL,yuki-961004
 binb,eddelbuettel
 BINCOR,jomopo
 binda,cran
@@ -1974,6 +1976,7 @@ BMAmevt,lbelzile
 bmass,mturchin20
 BMconcor,cran
 bmem,johnnyzhz
+BMEmapping,kinsprideduah
 bmemLavaan,johnnyzhz
 bmet,tpourmohamad
 bmgarch,ph-rast
@@ -2489,6 +2492,7 @@ Cardinal,bioc
 CardinalIO,bioc
 cardinalR,jayanilakshika
 CardioCurveR,matcasti
+CardioDataSets,lightbluetitan
 cards,insightsengineering
 CARDspa,bioc
 cardx,insightsengineering
@@ -2687,6 +2691,7 @@ cdgd,ang-yu
 CDGHMM,mneal4
 CDI,bioc
 cdid,joelcuerrier
+cdiWG2WS,trevorkmday
 cdlei,cran
 cdlTools,jlisic
 CDM,alexanderrobitzsch
@@ -5310,7 +5315,7 @@ dmlalg,corinne-rahel
 dmm,nevillejackson
 DMMF,kwanghun
 dMod,dkaschek
-DMQ,cran
+DMQ,leopoldocatania
 DMRcaller,bioc
 DMRcate,bioc
 dmri.tracking,vic-dragon
@@ -5922,7 +5927,7 @@ editrules,data-cleaning
 EDIutils,ropensci
 edl,jacolien
 edlibR,evanbiederstedt
-eDMA,cran
+eDMA,leopoldocatania
 edmdata,tmsalab
 eDNAjoint,ropensci
 EDNE.EQ,cran
@@ -6923,7 +6928,7 @@ FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
 FCPS,mthrun
-fcr,cran
+fcr,andrew-leroux
 fcros,doulaye
 fcScan,bioc
 fctbases,naolsen
@@ -8340,6 +8345,7 @@ gghalfnorm,nathaneastwood
 gghalves,erocoar
 gghdx,ocha-dap
 ggheatmap,xiaoluo-boy
+gghexsize,hrryt
 gghighlight,yutannihilation
 gghilbertstrings,sumidu
 gghist,frederikziebell
@@ -9519,6 +9525,7 @@ HiCDCPlus,bioc
 HiCDOC,bioc
 HiCExperiment,bioc
 HiClimR,hsbadr
+HiCociety,ysora
 HiCocietyExample,ysora
 HiContacts,bioc
 HiCool,bioc
@@ -10571,7 +10578,7 @@ iSFun,cran
 IsingFit,cvborkulo
 Isinglandr,sciurus365
 isingLenzMC,cran
-IsingSampler,cran
+IsingSampler,sachaepskamp
 island,vjontiveros
 islasso,gianluca-sottile
 ISLET,bioc
@@ -13566,6 +13573,7 @@ mpt,cran
 MPTinR,singmann
 MPTmultiverse,mpt-network
 MPV,wjbraun
+mpwR,cran
 MQMF,haddonm
 Mqrcm,cran
 mr.pivw,siqixu
@@ -19693,6 +19701,7 @@ saasCNV,zhangzhongyang16
 sabre,nowosad
 sac,cran
 saccadr,alexander-pastukhov
+SACCR,sa-ccr
 sacRebleu,lazerlambda
 sad,s6sebusc
 SADEG,cran
@@ -20938,6 +20947,7 @@ SingleCellAlleleExperiment,bioc
 SingleCellExperiment,bioc
 singleCellHaystack,alexisvdb
 SingleCellSignalR,bioc
+SingleCellStat,cran
 singleCellTK,bioc
 SingleMoleculeFootprinting,bioc
 SingleR,bioc
@@ -21471,6 +21481,7 @@ SpatialExtremes,r-forge
 spatialFDA,bioc
 SpatialfdaR,jamesramsay5
 SpatialFeatureExperiment,bioc
+spatialGE,cran
 SpatialGEV,cran
 SpatialGraph,garciapintado
 spatialHeatmap,bioc
@@ -24326,6 +24337,7 @@ Voyager,bioc
 vpc,ronkeizer
 VPdtw,ethanbass
 VplotR,bioc
+vprint,barryzee
 vprr,eogrady21
 vrnmf,kharchenkolab
 vroom,tidyverse
