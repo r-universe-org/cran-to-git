@@ -2,21 +2,25 @@
   {
     "package": "banter",
     "maintainer": "Eric Archer <eric.archer@noaa.gov>",
-    "url": "https://github.com/ericarcher/banter"
+    "url": "https://github.com/ericarcher/banter",
+    "registry": "archived"
   },
   {
     "package": "rfPermute",
     "maintainer": "Eric Archer <eric.archer@noaa.gov>",
-    "url": "https://github.com/ericarcher/rfpermute"
+    "url": "https://github.com/ericarcher/rfpermute",
+    "registry": "archived"
   },
   {
     "package": "sprex",
     "maintainer": "Eric Archer <eric.archer@noaa.gov>",
-    "url": "https://github.com/ericarcher/sprex"
+    "url": "https://github.com/ericarcher/sprex",
+    "registry": "archived"
   },
   {
     "package": "swfscMisc",
     "maintainer": "Eric Archer <eric.archer@noaa.gov>",
-    "url": "https://github.com/ericarcher/swfscmisc"
+    "url": "https://github.com/ericarcher/swfscmisc",
+    "registry": "archived"
   }
 ]

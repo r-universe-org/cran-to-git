@@ -1,8 +1,9 @@
 [
   {
     "package": "rgnoisefilt",
-    "maintainer": "Juan Martin <juanmartin@usal.es>",
+    "maintainer": "",
     "url": "https://github.com/juanmartinsantos/rgnoisefilt",
-    "subdir": "pkg/rgnoisefilt"
+    "subdir": "pkg/rgnoisefilt",
+    "registry": "archived"
   }
 ]
