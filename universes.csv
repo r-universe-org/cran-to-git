@@ -437,6 +437,7 @@ ALFAM2,au-bce-ee
 aLFQ,grosenberger
 alfr,rwetherall
 alfred,onnokleen
+algaeClassify,vijpatil
 AlgDesign,jvbraun
 AlgebraicHaploPackage,cran
 algo,feddelegrand7
@@ -1621,7 +1622,7 @@ bib2df,ropensci
 BiBitR,ewouddt
 biblio,kamapu
 bibliometrix,massimoaria
-bibliometrixData,cran
+bibliometrixData,massimoaria
 biblionetwork,agoutsmedt
 bibliorefer,cran
 biblioverlap,gavieira
@@ -3269,6 +3270,7 @@ clusterSim,a-dudek-ue
 clusterStab,bioc
 ClusterStability,armadillouqam
 clustertend,kwstat
+clusterv,anacletolab
 ClusterVAR,aniebee
 ClustGeo,chavent
 clustifyr,bioc
@@ -4068,6 +4070,7 @@ CR2,flh3
 CRABS,afmagee
 cragg,beniaminogreen
 cramer,cmfranz
+cramR,yanisvdc
 crandep,clement-lee
 crane,insightsengineering
 crank,jimlemon
@@ -4802,6 +4805,7 @@ DelayedRandomArray,bioc
 DelayedTensor,bioc
 deldir,rolfturner
 delimtools,legallab
+delma,atlasoflivingaustralia
 DELocal,bioc
 Delta,cran
 deltaCaptureC,bioc
@@ -5573,6 +5577,7 @@ DSMolgenisArmadillo,molgenis
 dsmSearch,billbillbilly
 DSOpal,datashield
 dsos,vathymut
+dspline,glmgen
 DSpoty,albertoalmuinha
 dsrTest,mnelsonr
 DSS,bioc
@@ -7382,6 +7387,7 @@ forams,godrigos
 forcats,tidyverse
 forceplate,raphaelhartmann
 forceR,peter-t-ruehr
+forcis,ropensci
 foreach,revolutionanalytics
 ForeCA,gmgeorg
 forecast,robjhyndman
@@ -10065,6 +10071,7 @@ ifs,siacus
 IFTPredictor,mudithabo
 ig.degree.betweenness,benyamindsmith
 ig.vancouver.2014.topcolour,rtanglao
+igapfill,cran
 IgAScores,microbialman
 iGasso,cran
 igate,stefan-stein
@@ -14490,6 +14497,7 @@ NNTbiomarker,professorbeautiful
 nnTensor,rikenbit
 nntmvn,jcatwood
 NO.PING.PONG,bpoconnor
+noaa,cran
 noah,teebusch
 NobBS,sarahhbellum
 noctua,dyfanjones
@@ -14831,6 +14839,7 @@ ohsome,giscience
 ohun,ropensci
 oii,computermacgyver
 ojsr,gastonbecerra
+okcolors,nelsonquesado
 OkNNE,amjadali0313
 okxAPI,fanggong
 OLCPM,fduyulong
@@ -17931,6 +17940,7 @@ RCy3,bioc
 RCyjs,bioc
 RCytoGPS,cran
 RCzechia,jlacko
+rd2d,cran
 Rd2md,quantsch
 Rd2roxygen,yihui
 rD3plot,modesto-escobar
@@ -19311,6 +19321,7 @@ RRI,cran
 rriskDistributions,cran
 rrMixture,syeonkang
 RRMLRfMC,wangp33
+RRmorph,cran
 RRNA,jlp-bioinf
 rrnni,biods
 rroad,vsimko
