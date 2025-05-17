@@ -935,6 +935,7 @@ ATbounds,atbounds
 ATE.ERROR,aryanrzn
 AteMeVs,lchen723
 atena,bioc
+Athlytics,hzacode
 atime,tdhock
 atlas,podalv
 atlasapprox,cran
@@ -1868,6 +1869,7 @@ birdscanR,birdscancommunity
 birdsize,ropensci
 BiRewire,bioc
 birk,matthewabirk
+birp,cran
 birtr,cran
 BIS,stefanangrick
 biscale,chris-prener
@@ -4858,6 +4860,7 @@ densityarea,jofrhwld
 densityClust,thomasp85
 DensParcorr,johnzonwyk
 densratio,hoxo-m
+denstest,cran
 denstrip,chjackson
 densvis,bioc
 denvax,pearsonca
@@ -6653,7 +6656,7 @@ extrafrail,cran
 extraoperators,jwiley
 extras,poissonconsulting
 extrasteps,emilhvitfeldt
-extraterrestrial,cran
+extraterrestrial,chesterdeocaris
 extRatum,patnik
 extRC,francescobartolucci
 ExtremalDep,borisberanger
@@ -6822,6 +6825,7 @@ fastcpd,doccstat
 FastCUB,cran
 fastdid,tsailintung
 fastDummies,jacobkap
+fastei,danielhermosilla
 fasterElasticNet,cufesam
 fasterize,hypertidy
 fasterRaster,adamlilith
@@ -8506,6 +8510,7 @@ ggtikz,osthomas
 ggTimeSeries,thecomeonman
 ggtrace,rnabioco
 ggtree,bioc
+ggtreebar,hrryt
 ggtreeDendro,bioc
 ggtreeExtra,bioc
 ggtreeSpace,bioc
@@ -8541,6 +8546,7 @@ GiANT,hkestler
 gibasa,paithiov909
 gibble,mdsumner
 GIC,buybnb
+gicf,luca-cibinel
 gie,cran
 gif,cran
 Gifi,r-forge
@@ -10680,7 +10686,7 @@ its.analysis,patrick-eng
 itsadug,jacolien
 itscalledsoccer,american-soccer-analysis
 itsdm,lleisong
-itsmr,cran
+itsmr,georgeweigt
 iucnr,paulesantos
 ivaBSS,cran
 IVAS,bioc
@@ -12653,7 +12659,7 @@ metainc,cran
 MetaIntegration,umich-biostatistics
 metajam,nceas
 MetaLandSim,fmestre1
-metaLik,cran
+metaLik,crisvarin
 metalite,merck
 metalite.ae,merck
 metalite.sl,wangben718
@@ -15922,7 +15928,7 @@ philr,bioc
 PHInfiniteEstimates,kolassa-dev
 PhIPData,bioc
 PhitestR,cran
-phm,drelliesmall
+phm,elliesmall
 phoenics,cran
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
@@ -17001,11 +17007,11 @@ puma,bioc
 pumilioR,ljvillanueva
 PUMP,mdrcny
 puniform,robbievanaert
-PUPAK,cran
+PUPAK,chesterdeocaris
 PupillometryR,samhforbes
 PupilPre,akkyro
-PUPMCR,cran
-PUPMSI,cran
+PUPMCR,chesterdeocaris
+PUPMSI,chesterdeocaris
 PureCN,bioc
 puremoe,jaytimm
 pureseqtmr,richelbilderbeek
@@ -17617,6 +17623,7 @@ RaschSampler,pmair78
 rasciidoc,fvafrcu
 rasclass,cran
 RaSEn,ytstat
+rashnu,scacola
 rassta,bafuentes
 raster,rspatial
 rasterbc,deankoch
@@ -17757,6 +17764,7 @@ rcdd,cran
 rcDEA,cran
 rcdk,zachcp
 rcdklibs,cdk-r
+rcdo,eliocamp
 RCDT,stla
 RCEIM,algolkm
 rcellminer,bioc
@@ -20607,7 +20615,7 @@ shinyBS,ebailey78
 shinybusy,dreamrs
 shinyChakraSlider,stla
 shinyChakraUI,stla
-shinychat,jcheng5
+shinychat,posit-dev
 shinyChatR,julianschmocker
 shinyCLT,ptuc-stats
 shinyCohortBuilder,r-world-devs
@@ -21117,7 +21125,7 @@ SMAHP,cran
 smallarea,nandy006
 SmallCountRounding,statisticsnorway
 smallsets,lydialucchesi
-smallstuff,drelliesmall
+smallstuff,elliesmall
 smam,chaoranhu
 smapr,ropensci
 SMARTbayesR,wilart
@@ -24124,6 +24132,7 @@ VC2copula,tnagler
 VCA,cran
 vccp,xinxiong0238
 vcd,cran
+vcd2df,vcd2df
 vcdExtra,friendly
 VCFArray,bioc
 vcfppR,zilong-li
