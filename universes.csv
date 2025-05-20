@@ -1675,6 +1675,7 @@ bignum,davidchall
 bigparallelr,privefl
 bigQF,tslumley
 BigQuic,kkunji
+BIGr,breeding-insight
 bigreadr,privefl
 bigReg,activeanalytics
 bigrquery,r-dbi
@@ -2221,7 +2222,6 @@ Brq,rahim69
 brranching,ropensci
 brsim,gianmarcoalberti
 bruceR,psychbruce
-BRugs,uligges
 brulee,tidymodels
 bruneimap,bruneiverse
 brunnermunzel,toshi-ara
@@ -2282,6 +2282,7 @@ BTdecayLasso,heilokchow
 btergm,leifeld
 BTLLasso,schaubert
 BTM,bnosac
+btml,zea23i651096531
 btrm,zea23i651096531
 BTSPAS,cschwarz-stat-sfu-ca
 BTSR,tsprass
@@ -2463,7 +2464,7 @@ CANSIM2R,cran
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
 CAOP.RAA.2024,patterninstitute
-cape,cran
+cape,annaltyler
 caper,davidorme
 capesData,leobiazoli
 capesR,hugoavmedeiros
@@ -4533,7 +4534,6 @@ datadogr,yutannihilation
 datadriftR,ugurdar
 DataEditR,dillonhammill
 DataExplorer,boxuancui
-DataFakeR,openpharma
 dataframeexplorer,ashrithssreddy
 datafsm,jonathan-g
 DataGraph,davidadalsteinsson
@@ -4857,6 +4857,7 @@ densEstBayes,mattwand
 densitr,krajnc
 densityarea,jofrhwld
 densityClust,thomasp85
+densityratio,thomvolker
 DensParcorr,johnzonwyk
 densratio,hoxo-m
 denstest,cran
@@ -5306,7 +5307,7 @@ dlookr,choonghyunryu
 DLPCA,guangbaog
 dlr,macmillancontentscience
 dlsem,alessandromagrini
-DLSSM,cran
+DLSSM,jiakunj
 dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
@@ -5614,6 +5615,7 @@ DTDA.ni,sidoruvigo
 DTEBOP2,zhongheng-biostatistics
 dtgiw,atchanut
 dti,ktabelow
+dtlcor,ashwz
 dtmapi,displacement-tracking-matrix
 DTMCPack,wbnicholson
 dtp,zedtaha
@@ -6756,6 +6758,7 @@ fail,mllg
 fairadapt,dplecko
 FAIRmaterials,cwru-sdle
 FairMclus,cran
+fairmetrics,jianhuig
 fairml,cran
 fairmodels,modeloriented
 fairness,kozodoi
@@ -7236,6 +7239,7 @@ FlexDir,nenedibri
 flexFitR,apariciojohan
 FlexGAM,spiegele
 flexiblas,enchufa2
+flexIC,theotherdrwells
 flexlsx,pteridin
 flexmet,leahfeuerstahler
 flexmix,cran
@@ -9045,6 +9049,7 @@ gromovlab,hvlieb
 groqR,gabrielkaiserqfin
 groundhog,credibilitylab
 GroupBN,abecker-ml
+groupcompare,cran
 GroupComparisons,cran
 groupdata2,ludvigolsen
 groupedHyperframe,tingtingzhan
@@ -10265,6 +10270,7 @@ InDisc,cran
 IndTestPP,anaccebrian
 industRial,j-ramalho
 ineAtlas,pablogguz
+inecolr,roger0268
 inegiR,eflores89
 ineq,zeileis
 ineq.2d,sklivan
@@ -10839,6 +10845,7 @@ JPEN,cran
 jpgrid,uchidamizuki
 jpmesh,uribo
 jpstat,uchidamizuki
+JPSurv,wheelerb
 jqbr,hfshr
 JQL,anoce-cvae
 jqr,ropensci
@@ -11421,6 +11428,7 @@ lemur,bioc
 lenght,cobrbra
 lenses,cfhammill
 leontief,pachadotdev
+lepidochroma,cran
 leprechaun,cran
 leptokurticMixture,rpbrowne
 lero.lero,lucasprocessi
@@ -13077,7 +13085,6 @@ mitology,bioc
 mitools,tslumley
 mitre,motherhack3r
 MittagLeffleR,strakaps
-miWQS,phargarten2
 mix,cran
 mixAK,cran
 MixAll,joblion
@@ -13157,6 +13164,7 @@ mkssd,doer0
 ML.MSBD,bjoelle
 ML2Pvae,converseg
 mlapi,dselivanov
+MLBC,cran
 mlbench,kurthornik
 mlbplotR,camdenk
 mlbstats,pdwaggoner
@@ -13767,6 +13775,7 @@ muckrock,ironholds
 MuData,bioc
 mudfold,spybal
 mueRelativeRisk,rickeycarter
+MUGS,celehs
 muhaz,dwinsemius
 muir,alforj
 Mulcom,bioc
@@ -16644,6 +16653,7 @@ presmTP,gsoutinho
 PressPurt,rtxci
 pressuRe,telfer
 pretest,cran
+pretestcad,jauntyjjs
 prettifyAddins,stla
 prettyB,jumpingrivers
 prettycode,r-lib
@@ -16867,7 +16877,7 @@ prqlr,prql
 prrd,eddelbuettel
 PRROC,jgraux
 PRSim,manuelabrunner
-PRSPGx,cran
+PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
 PRTree,neimaier
@@ -18089,6 +18099,7 @@ RECA,nanxstats
 recalibratiNN,cmusso86
 recapr,mbtyers
 RecAssoRules,louisraimbault
+recastlessons,vladbazon
 receptiviti,receptiviti
 receptLoss,bioc
 recexcavAAR,isaakiel
@@ -20477,6 +20488,7 @@ sfaR,hdakpo
 sfarrow,wcjochem
 sfc,ctfysh
 sfcentral,gabrielvgaona
+sfclust,cran
 sfcr,joaomacalos
 sfcurve,jokergoo
 sfd,topepo
@@ -20588,7 +20600,6 @@ shiny.exe,aodiakite
 shiny.fluent,appsilon
 shiny.gosling,bioc
 shiny.i18n,appsilon
-shiny.info,cran
 shiny.ollama,ineelhere
 shiny.pwa,pedrocoutinhosilva
 shiny.react,appsilon
@@ -21667,7 +21678,7 @@ spikes,cran
 spikeslab,kogalur
 spikeSlabGAM,fabian-s
 spiky,bioc
-Spillover,cran
+Spillover,jilberurbina
 spillR,bioc
 SPINA,jwdietrich21
 spINAR,mfaymon
@@ -24927,6 +24938,7 @@ yulab.utils,yulab-smu
 yum,cran
 yyjsonr,coolbutuseless
 Z10,rhlee12
+z22,jslth
 zalpha,chorscroft
 zCompositions,japal
 zctaCrosswalk,marketbridge
