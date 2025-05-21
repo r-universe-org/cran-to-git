@@ -7,7 +7,13 @@
   {
     "package": "libdeflate",
     "maintainer": "Tyler Morgan-Wall <tylermw@gmail.com>",
-    "url": "https://github.com/tylermorganwall/libdeflate"
+    "url": "https://github.com/tylermorganwall/libdeflate",
+    "registry": "archived"
+  },
+  {
+    "package": "libimath",
+    "maintainer": "Tyler Morgan-Wall <tylermw@gmail.com>",
+    "url": "https://github.com/tylermorganwall/libimath"
   },
   {
     "package": "raybevel",
