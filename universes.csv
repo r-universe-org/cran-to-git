@@ -861,7 +861,7 @@ ASGSCA,bioc
 ash,cran
 ashapesampler,cran
 ashr,stephens999
-asht,cran
+asht,michaelfay-niaid
 ASICS,bioc
 AsioHeaders,eddelbuettel
 askgpt,jbgruber
@@ -1739,7 +1739,7 @@ binpackr,lschneiderbauer
 binr,jabiru
 BinSegBstrap,florianpein
 binsegRcpp,tdhock
-binseqtest,cran
+binseqtest,michaelfay-niaid
 binsmooth,djhunter
 binspp,tomasmrkvicka
 binsreg,yingjieum
@@ -2117,7 +2117,7 @@ bpa,bgreenwell
 bpAcc,cran
 bpbounds,remlapmot
 bpca,jcfaria
-bpcp,cran
+bpcp,michaelfay-niaid
 bpDir,davidebuttarazzi
 bpgmm,yaoxiangli
 bplsr,cran
@@ -2876,8 +2876,9 @@ chartreview,cran
 chatAI4R,kumes
 chatgpt,jcrodriguez1989
 chatLLM,knowusuboaky
-chatRater,cran
+chatRater,shiyang-zheng-phd
 chattr,mlverse
+ChauBoxplot,tiejuntong
 cheapr,nicchr
 cheatsheet,bradlindblad
 checkarg,ivwalle
@@ -2965,7 +2966,7 @@ CholWishart,gzt
 chooseGCM,luizesser
 choosepc,cran
 chopin,ropensci
-choplump,cran
+choplump,michaelfay-niaid
 chopsticks,bioc
 chopthin,agandy
 ChoR,herrmannm
@@ -4215,7 +4216,7 @@ csampling,arbrazzale
 CSAR,bioc
 csaw,bioc
 CsChange,marsdu1989
-csci,cran
+csci,michaelfay-niaid
 CSclone,tsungyuwu
 CSCNet,cran
 csdata,csids
@@ -5359,6 +5360,7 @@ dnr,abhirupkgp
 do,yikeshu0611
 do3PCA,caetanods
 dobin,sevvandi
+doblin,aserohijos
 dobson,agbarnett
 doBy,hojsgaard
 doc2concrete,myeomans
@@ -6552,9 +6554,9 @@ EWS,cran
 EWSmethods,duncanobrien
 Exact,pcalhoun1
 exact.n,chrislloyd58
-exact2x2,cran
+exact2x2,michaelfay-niaid
 exactamente,mightymetrika
-exactci,cran
+exactci,michaelfay-niaid
 ExactCIdiff,cran
 ExactCIone,cran
 ExactCox,cran
@@ -8144,6 +8146,7 @@ geoFourierFDA,gilberto-sassi
 geoGAM,nussbaummadlene
 geogenr,josesamos
 geogrid,jbaileyh
+geohabnet,garrettlab
 geohashTools,michaelchirico
 geoheatmap,sjwwillems
 geojson,ropensci
@@ -9133,7 +9136,7 @@ gslnls,jorischau
 gsloid,benmarwick
 GSM,cran
 gsMAMS,tpatni719
-gsmoothr,markrobinsonuzh
+gsmoothr,cran
 GSMX,cran
 GSODR,ropensci
 gson,guangchuangyu
@@ -9337,7 +9340,7 @@ hbal,cran
 hbamr,jbolstad
 hBayesDM,ccs-lab
 hbbr,drsmukherjee
-hbim,cran
+hbim,michaelfay-niaid
 hbmem,prattems
 hbsae,hjboonstra
 HBSTM,cran
@@ -10418,7 +10421,7 @@ inters,mattblackwell
 InterSIM,cran
 InterVA4,verbal-autopsy-software
 InterVA5,jarathomas
-interval,cran
+interval,michaelfay-niaid
 intervalaverage,myoung3
 IntervalQuestionStat,garciagarjose
 intervals,edzer
@@ -12400,7 +12403,7 @@ mcen,cran
 mcga,jbytecode
 mcgf,tianxia-jia
 mcgibbsit,r-gregmisc
-MChtest,cran
+MChtest,michaelfay-niaid
 MCI,cran
 MCID,cran
 MCL,rforaita
@@ -14241,6 +14244,7 @@ netCoin,modesto-escobar
 netcom,langendorfr
 netcontrol,daklor
 NetCoupler,netcoupler
+netcutter,fmarotta
 NetDA,lchen723
 netdiffuseR,usccana
 netdose,petropouloumaria
@@ -14411,7 +14415,7 @@ NIRStat,johnzonwyk
 NISTnls,cran
 NISTunits,cran
 NitrogenUptake2016,troyhill
-nivm,cran
+nivm,michaelfay-niaid
 nixmass,haraldschellander
 nixtlar,nixtla
 njgeo,gavinrozzi
@@ -14787,7 +14791,7 @@ oceanis,insee-psar-at
 oceanmap,rkbauer
 OceanView,karlines
 oceanwaves,millerlp
-oceCens,cran
+oceCens,michaelfay-niaid
 ocedata,dankelley
 ocf,riccardo-df
 ockc,cran
@@ -15795,7 +15799,7 @@ PeriodicTable,julienide
 periscope,cb4ds
 periscope2,aggregate-genius
 PERK,jkkishore85
-perm,cran
+perm,michaelfay-niaid
 PermAlgo,cran
 PerMallows,cran
 PERMANOVA,laura20vg
@@ -15820,6 +15824,7 @@ perryExamples,aalfons
 persDx,zea23i651096531
 PerseusR,cox-labs
 PersianStemmer,cran
+persistence,aavellone
 PersomicsArray,jsmes123
 personalized,jaredhuling
 personalized2part,jaredhuling
@@ -17290,6 +17295,7 @@ quanteda,quanteda
 quanteda.textmodels,quanteda
 quanteda.textplots,quanteda
 quanteda.textstats,quanteda
+QuAnTeTrack,macrofunuv
 quantification,jsugarelli
 quantileDA,viroli
 QuantileGH,cran
@@ -17653,7 +17659,7 @@ ratdat,ethanwhite
 ratelimitr,tarakc02
 ratematrix,caetanods
 rater,jeffreypullin
-rateratio.test,cran
+rateratio.test,michaelfay-niaid
 raters,danielegiardiello
 ratesci,petelaud
 RATest,ignaciomsarmiento
@@ -18573,7 +18579,7 @@ rGREAT,bioc
 RGreenplum,mwillumz
 RGremlinsConjoint,statuser
 rGroovy,thospfuller
-RGS,shuo-yang-sysu
+RGS,cran
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
@@ -19913,7 +19919,7 @@ SAVER,mohuangx
 savonliquide,feddelegrand7
 savvyr,openpharma
 sawnuti,sirmurphalot
-saws,cran
+saws,michaelfay-niaid
 sazedR,cran
 SBAGM,rrk4910
 SBCK,yrobink
@@ -21855,7 +21861,7 @@ SRTtools,chihangchen
 srvyr,gergness
 ss3sim,ss3sim
 ssaBSS,cran
-ssanv,cran
+ssanv,michaelfay-niaid
 SSBtools,statisticsnorway
 ssc,mabelc
 sscor,cran
@@ -22732,7 +22738,7 @@ tclust,valentint
 Tcomp,ellisp
 tcpl,usepa
 tcplfit2,usepa
-TCPMOR,shuo-yang-sysu
+TCPMOR,cran
 TCRconvertR,seshadrilab
 TCseq,bioc
 tcxr,firefly-cpp
@@ -23420,6 +23426,7 @@ traj,tchouangue
 trajectories,edzer
 TrajectoryGeometry,bioc
 TrajectoryUtils,bioc
+trajeR,gitedric
 trajmsm,awamaeva
 trajr,jimmcl
 tram,r-forge
@@ -24754,7 +24761,6 @@ WRestimates,cran
 wrGraph,wraff
 WRI,cran
 WrightMap,david-ti
-write.snns,mcasl
 writer,talegari
 writexl,ropensci
 WriteXLS,marcschwartz
