@@ -4712,6 +4712,7 @@ debar,cnuge
 DEBBI,bmgaldo
 debCAM,bioc
 debest,wpihongzhang
+debiasedTrialEmulation,cran
 DebiasInfer,zhangyk8
 deBif,amderoos
 deBInfer,pboesu
@@ -6120,7 +6121,6 @@ emhawkes,ksublee
 EmiR,lorenzo125
 emIRT,kosukeimai
 EmissV,atmoschem
-EmiStatR,arturotorres
 EMJMCMC,wleoncio
 EML,ropensci
 emld,ropensci
@@ -6752,7 +6752,7 @@ FAdist,tpetzoldt
 FADPclust,cran
 faers,bioc
 faersquarterlydata,luisgarcez11
-FAfA,cran
+FAfA,afarukkilic
 Fahrmeir,kjetil1001
 fail,mllg
 fairadapt,dplecko
@@ -8418,6 +8418,7 @@ ggpath,mrcaseb
 ggpattern,trevorld
 ggpca,yaoxiangli
 ggpcp,heike
+ggpedigree,r-computing-lab
 ggperiodic,eliocamp
 ggpicrust2,cafferychen777
 ggpie,showteeth
@@ -10231,7 +10232,6 @@ inaparc,cran
 inbreedR,mastoffel
 inca,drwolf85
 incase,rossellhayes
-INCATome,cran
 IncDTW,maxar
 incgraph,rcannood
 incidence,reconhub
@@ -12811,7 +12811,7 @@ mggd,santagos
 mgi.report.reader,patterninstitute
 MGL,cran
 mglasso,desanou
-MGLM,juhkim111
+MGLM,juhyun-kim-ucla
 mglmn,mattocci27
 mgm,jmbh
 MGMM,zrmacc
@@ -13136,6 +13136,7 @@ mixtox,ichxw
 mixtree,cygei
 mixtur,jimgrange
 mixture,cran
+MixtureFitting,merkys
 MixtureMissing,hungtong
 MixTwice,zzheng68
 MixviR,mikesovic
@@ -14835,7 +14836,6 @@ oglcnac,yaoxiangli
 oglmx,cran
 ogrdbstats,airr-community
 OGRE,bioc
-OHCSpackage,idmorley
 OhdsiReportGenerator,ohdsi
 OhdsiShinyAppBuilder,jreps
 ohenery,shabbychef
@@ -15685,7 +15685,6 @@ PDXpower,shanpengli
 pdxTrees,mcconvil
 pdynmc,markusfritsch
 peacesciencer,svmiller
-PEACH,cran
 Peacock.test,yml2017xiao
 PeacoQC,bioc
 peacots,squidlobster
@@ -15873,6 +15872,7 @@ PharmacoGx,bioc
 pharmaRTF,atorus-research
 pharmaverse,pharmaverse
 pharmaverseadam,pharmaverse
+pharmaverseraw,pharmaverse
 pharmaversesdtm,pharmaverse
 pharmr,pharmpy
 phase,cran
@@ -16451,7 +16451,6 @@ PortfolioOptim,cran
 portion,loelschlaeger
 portn,ysd2004
 PortRisk,sourish-cmi
-portsort,a-dickerson
 portvine,emanuelsommer
 poset,lmaowisc
 POSetR,albertoarcagni
@@ -17721,6 +17720,7 @@ RBM,bioc
 rbm25,davzim
 rBMF,cran
 rbmi,insightsengineering
+rbmiUtils,openpharma
 rbmn,cran
 RBNZ,rntq472
 rbooster,cran
@@ -19835,6 +19835,7 @@ SAMtool,blue-matter
 SAMTx,cran
 SAMUR,asmahani
 samurais,fchamroukhi
+sanba,fradenti
 sand,kolaczyk
 sandbox,coffeemuggler
 sandwich,r-forge
@@ -22592,7 +22593,7 @@ tableeasy,xixi-code
 TableHC,cran
 tableHTML,lyzander
 tableMatrix,cran
-TableMonster,cran
+TableMonster,kthj862
 tableone,kaz-yos
 tablerDash,rinterface
 tables,dmurdoch
