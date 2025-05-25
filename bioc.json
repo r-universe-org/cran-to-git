@@ -5931,6 +5931,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HVP",
+    "maintainer": "Wei Xin Chan <cweixin@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/HVP",
+    "registry": "bioc"
+  },
+  {
     "package": "HybridExpress",
     "maintainer": "Fabricio Almeida-Silva <fabricio_almeidasilva@hotmail.com>",
     "url": "https://github.com/almeidasilvaf/hybridexpress",
@@ -6708,6 +6714,12 @@
     "package": "lipidr",
     "maintainer": "Ahmed Mohamed <mohamed@kuicr.kyoto-u.ac.jp>",
     "url": "https://github.com/ahmohamed/lipidr",
+    "registry": "bioc"
+  },
+  {
+    "package": "LipidTrend",
+    "maintainer": "Wei-Chung Cheng <chenglabomics@gmail.com>",
+    "url": "https://github.com/bioinfomics/lipidtrend",
     "registry": "bioc"
   },
   {
