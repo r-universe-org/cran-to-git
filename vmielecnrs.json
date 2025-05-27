@@ -1,5 +1,10 @@
 [
   {
+    "package": "dynsbm",
+    "maintainer": "Vincent Miele <vincent.miele@cnrs.fr>",
+    "url": "https://github.com/cran/dynsbm"
+  },
+  {
     "package": "econetwork",
     "maintainer": "Vincent Miele <vincent.miele@univ-lyon1.fr>",
     "url": "https://github.com/cran/econetwork"
