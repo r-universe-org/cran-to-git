@@ -424,6 +424,7 @@ ALassoSurvIC,pakdaewo
 albatross,ikrylovmsu
 aLBI,ataher76
 albopictus,kerguler
+alcoholSurv,cran
 alcyon,spatialnous
 ald,chedgala
 ALDEx2,bioc
@@ -2965,6 +2966,7 @@ chooseGCM,luizesser
 choosepc,cran
 chopin,ropensci
 choplump,michaelfay-niaid
+chopper,pigian
 chopsticks,bioc
 chopthin,agandy
 ChoR,herrmannm
@@ -5140,6 +5142,7 @@ dipsaus,dipterix
 diptest,mmaechler
 dipw,yuhaow
 dir.expiry,bioc
+dir2json,parmsam
 Dire,american-institutes-for-research
 DIRECT,audreyqyfu
 DirectedClustering,gianpaoloclemente
@@ -5679,6 +5682,7 @@ dwlm,hugogasca
 DWLS,sistia01
 dwp,ddalthorp
 DWreg,cran
+DyadiCarma,slangevar
 dyads,cran
 dycdtools,songyanyu
 dydea,radekhalfar
@@ -5881,6 +5885,7 @@ ecopower,cran
 ecoreg,chjackson
 ecoregime,mspinillos
 ecorest,skmckay
+ecorisk,helenegutte
 ecos,seokhoonj
 ecosim,peterreichert
 ECOSolveR,bnaras
@@ -6087,7 +6092,7 @@ EloChoice,gobbios
 EloOptimized,jtfeld
 EloRating,gobbios
 EloSteepness,gobbios
-elrm,cran
+elrm,kookoot15
 elsa,babaknaimi
 ELT,etendard7
 eltr,randhirbilkhu
@@ -6424,7 +6429,7 @@ esquisse,dreamrs
 esreg,bayerse
 ess,mlindsk
 essentials,cran
-essHist,cran
+essHist,housenli
 essurvey,ropensci
 estadistica,cran
 estatapi,yutannihilation
@@ -6645,6 +6650,7 @@ EXRQ,judywanggwu
 extBatchMarking,olobatuyi
 ExtDist,oleksii-nikolaienko
 extendedFamily,gmcmacran
+ExtendedLaplace,saahdavid
 exteriorMatch,cran
 extlasso,doer0
 ExtMallows,cran
@@ -7817,6 +7823,7 @@ gapclosing,ilundberg
 gapfill,florafauna
 gapmap,evanbiederstedt
 gapminder,jennybc
+GAPR,shuyyu
 GAprediction,bioc
 GARCHIto,cran
 GARCHSK,keeeeei0315
@@ -9023,7 +9030,7 @@ gridExtra,baptiste
 gridGeometry,pmur002
 gridGraphics,pmur002
 gridGraphviz,r-forge
-GridOnClusters,joemsong
+GridOnClusters,cran
 gridOT,cran
 gridpattern,trevorld
 gridsampler,markheckmann
@@ -11535,7 +11542,7 @@ liminal,sa-lee
 limma,bioc
 limmaGUI,bioc
 LimnoPalettes,swampthingpaul
-limonaid,matherion
+limonaid,cran
 limorhyde,hugheylab
 limorhyde2,hugheylab
 limpa,bioc
@@ -13065,6 +13072,7 @@ missMethyl,bioc
 missoNet,yixiao-zeng
 misspi,catstats
 Missplot,shantanunayek
+missr,noahhellen
 missRanger,mayer79
 missRows,bioc
 missSBM,grosssbm
@@ -13517,6 +13525,7 @@ mosaicModel,dtkaplan
 mosaics,bioc
 mosbi,bioc
 MOSClip,bioc
+mosclust,anacletolab
 mosdef,bioc
 MOsemiind,cran
 MOSim,bioc
@@ -13846,6 +13855,7 @@ multilevel,cran
 multilevelcoda,florale
 multilevelmediation,falkcarl
 multilevelmod,tidymodels
+MultiLevelOptimalBayes,dfkthbq01
 multilevelPSA,jbryer
 multilevelTools,jwiley
 multilevLCA,cran
@@ -14306,6 +14316,7 @@ NeuralNetTools,fawda123
 NeuralSens,jaipizgon
 neurobase,muschellij2
 neuroblastoma,tdhock
+NeuroDataSets,lightbluetitan
 NeuroDecodeR,emeyers
 neurohcp,muschellij2
 neuroim,bbuchsbaum
@@ -16810,7 +16821,7 @@ promptr,joeornstein
 promr,domodwyer
 PRONE,bioc
 prop.comb.RR,cran
-propagate,cran
+propagate,anspiess
 PropCIs,shearer
 PropClust,plangfelder
 PROPER,bioc
@@ -18489,6 +18500,7 @@ rfm,rsquaredacademy
 Rfmtool,cran
 rfoaas,eddelbuettel
 RFOC,jonathanlees
+rFocal,cran
 rfold,feddelegrand7
 Rfolding,cran
 rfordummies,rfordummies
@@ -20534,6 +20546,7 @@ sgof,irenecastro
 sgolay,zeehio
 SGP,centerforassessment
 SGPdata,centerforassessment
+sgplot,scotgovanalysis
 sgPLS,cran
 SGPR,gregorbuch
 sgpv,weltybiostat
@@ -22597,7 +22610,7 @@ tableeasy,xixi-code
 TableHC,cran
 tableHTML,lyzander
 tableMatrix,cran
-TableMonster,kthj862
+TableMonster,cran
 tableone,kaz-yos
 tablerDash,rinterface
 tables,dmurdoch
@@ -22689,6 +22702,7 @@ taxizedb,ropensci
 taxlist,ropensci
 taxnames,kamapu
 taxonomizr,sherrillmix
+taxotools,vijaybarve
 TaxSEA,bioc
 taylor,wjakethompson
 TaylorRussell,nwaller
@@ -23455,6 +23469,7 @@ transportr,nt-williams
 TransProR,sssydysss
 transreg,rauschenberger
 TransTGGM,cran
+tranSurv,stc04003
 TransView,bioc
 transx,kvasilopoulos
 trapezoid,jthetzel
@@ -24258,8 +24273,8 @@ vip,koalaverse
 viper,bioc
 vipor,cran
 VIProDesign,cran
-viraldomain,juanv66x
-viralmodels,juanv66x
+viraldomain,juan-acu
+viralmodels,juan-acu
 viralx,juanv66x
 VIRF,ranjitstat
 viridis,sjmgarnier

@@ -325,6 +325,11 @@
     "url": "https://github.com/ropensci/feddata"
   },
   {
+    "package": "fireexposuR",
+    "maintainer": "Air Forbes <heyairf@gmail.com>",
+    "url": "https://github.com/ropensci/fireexposur"
+  },
+  {
     "package": "fluidsynth",
     "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/fluidsynth"
@@ -522,7 +527,8 @@
   {
     "package": "medrxivr",
     "maintainer": "Yaoxiang Li <liyaoxiang@outlook.com>",
-    "url": "https://github.com/ropensci/medrxivr"
+    "url": "https://github.com/ropensci/medrxivr",
+    "registry": "archived"
   },
   {
     "package": "melt",
