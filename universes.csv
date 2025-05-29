@@ -312,6 +312,7 @@ AgePopDenom,truenomad
 ageutils,timtaylor
 agfh,martenthompson
 agghoo,cran
+aggreCAT,doi90
 aggregateBioVar,bioc
 AggregateR,matthbogaert
 aggregation,lynnyi
@@ -1558,7 +1559,7 @@ betafunctions,haakoneidemhaakstad
 betaHMM,bioc
 betaMC,jeksterslab
 betaNB,jeksterslab
-betapart,cran
+betapart,andres-baselga
 BetaPASS,cran
 betaper,luiscayuela
 betareg,zeileis
@@ -1889,6 +1890,7 @@ bitfield,bitfloat
 bitmexr,hfshr
 bitops,mmaechler
 BiTrinA,hkestler
+BiTSLS,jiaqi-min
 bitstreamio,coolbutuseless
 bittermelon,trevorld
 BiVariAn,andresfloresg
@@ -2793,6 +2795,7 @@ Certara.RsNLME.ModelBuilder,certara-jcraig
 Certara.RsNLME.ModelExecutor,certara-jcraig
 Certara.VPCResults,certara-jcraig
 Certara.Xpose.NLME,certara-jcraig
+ces,laurenceomfoisy
 ceser,diogoferrari
 cesR,hodgettsp
 cetcolor,coatless-rpkg
@@ -4327,7 +4330,7 @@ CuratedAtlasQueryR,bioc
 cuRe,lassehjort
 CureAuxSP,biostat-jieding
 CureDepCens,gabrielgrandemagne
-curephEM,cran
+curephEM,hjmarquis
 cureplots,gbasulto
 curesurv,jgoungounga
 curl,jeroen
@@ -5394,6 +5397,7 @@ doex,mcavs
 doFuture,futureverse
 dogesr,jj
 Dogoftest,guangbaog
+DoLa,ppagliosa
 doMC,beccadaniel
 Domean,guangbaog
 dominanceanalysis,clbustos
@@ -10296,6 +10300,7 @@ infinitefactor,cran
 infinityFlow,bioc
 InfiniumPurify,aipao757
 infix,ebeneditos
+infixit,prlitics
 Inflation,fernote7
 inflection,dchristop
 InflectSSP,cran
@@ -10943,7 +10948,7 @@ KCsmart,bioc
 KCSNBShiny,chaithanya07
 kde1d,tnagler
 kdecopula,tnagler
-KDEmcmc,cran
+KDEmcmc,jhlee-projects
 kdensity,jonasmoss
 kdevine,tnagler
 kDGLM,silvaneojunior
@@ -11256,7 +11261,7 @@ lares,laresbernardo
 lareshiny,laresbernardo
 LARF,cran
 Largevars,eszter-kiss
-LARisk,cran
+LARisk,jhlee-projects
 lars,trevorhastie
 LassoBacktracking,rajenshah
 LassoGEE,liygcr
@@ -13793,7 +13798,7 @@ MullerPlot,farahpourlab
 mully,frankkramer-lab
 mulSEM,mikewlcheung
 mulset,login-
-mult.latent.reg,yjzhang7
+mult.latent.reg,cran
 MultBiplotR,villardon
 multbxxc,sgsokol
 multcomp,r-forge
@@ -13999,7 +14004,7 @@ mvmeta,gasparrini
 mvMISE,randel
 mvMonitoring,gabrielodom
 mvMORPH,jclavel
-MVN,cran
+MVN,selcukorkmaz
 mvna,aallignol
 MVNBayesian,cubiczebra
 mvnfast,mfasiolo
@@ -15246,6 +15251,7 @@ outcomerate,ropensci
 OutcomeWeights,mcknaus
 outForest,mayer79
 outlierensembles,sevvandi
+outlierMBC,ultanpdoherty
 outliers,luqqe
 outliers.ts.oga,cran
 OutliersLearn,missiegobeats
@@ -18709,7 +18715,6 @@ Rita,danielamattei
 ritalic,plant-data
 RITAN,bioc
 Ritc,yingyunl
-RITCH,davzim
 ritis,ropensci
 RItools,jwbowers
 riv,gcohenfr
@@ -21728,6 +21733,7 @@ SplitSoftening,jkb-d
 SplitSplitPlot,cran
 splitstackshape,mrdwab
 splitTools,mayer79
+SplitWise,mtkurbucz-ucl
 splm,cran
 splmm,esunroc
 splot,miserman
@@ -21848,6 +21854,7 @@ sreg,jutrifonov
 sregsurvey,cran
 srlars,anthonychristidis
 srm,alexanderrobitzsch
+SRMData,peterkdunn
 srnadiff,bioc
 sRNAGenetic,w123yu
 srp,cran
