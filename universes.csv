@@ -717,6 +717,7 @@ aprean3,lbraglia
 aprof,marcodvisser
 apsimx,femiguez
 apt,cran
+APTIcalc,nobinstat
 APtools,hengruicai
 apyramid,r4epi
 AQEval,karlropkins
@@ -1203,6 +1204,7 @@ basemaps,16eagle
 basemodels,ying-ju
 basepenguins,ellakaye
 baseq,ambuvjyn
+bases,corymccartan
 BaseSet,ropensci
 BaseSpaceR,bioc
 BaseTempSeed,hardikghosh911
@@ -2324,6 +2326,7 @@ bunchr,trilnick
 bundesbank,enricoschumann
 bundesligR,ottlngr
 bundle,rstudio
+bunsen,cran
 bupaR,bupaverse
 bupaverse,bupaverse
 burgle,paulgunsalus
@@ -2821,7 +2824,7 @@ CFO,cran
 cforward,muschellij2
 cfr,epiverse-trace
 cft,earthlab
-CFtime,pvanlaake
+CFtime,r-cf
 cfTools,bioc
 cg,cran
 cgaim,pierremasselot
@@ -3290,6 +3293,7 @@ clustMD,cran
 clustMixType,g-rho
 clustNet,cbg-ethz
 ClustOfVar,chavent
+clustord,vuw-clustering
 ClusTorus,sungkyujung
 clustra,go-ski
 clusTransition,cran
@@ -6001,7 +6005,6 @@ EfficientMaxEigenpair,mxjki
 efflog,gloriagheno
 effsize,mtorchiano
 eFRED,cmann3
-EFS,cran
 ega,cran
 EGAD,bioc
 EGAnet,hfgolino
@@ -6126,6 +6129,7 @@ EMDomics,bioc
 EMDSVRhybrid,cran
 emend,anuopensci
 emery,cran
+emf,temp20250212
 emg,spgarbet
 EMgaussian,falkcarl
 emhawkes,ksublee
@@ -8677,6 +8681,7 @@ glmmPen,hheiling
 glmmrBase,samuel-watson
 glmmrOptim,samuel-watson
 GLMMRR,cran
+glmmsel,ryan-thompson
 GLMMselect,xss55
 glmmSeq,myles-lewis
 glmmTMB,glmmtmb
@@ -9598,7 +9603,6 @@ HilbertVis,bioc
 HilbertVisGUI,bioc
 HiLDA,bioc
 hildareadR,sebakalu
-hilldiv,anttonalberdi
 hillR,daijiang
 hillshader,pierreroudier
 HIMA,yinanzheng
@@ -12925,7 +12929,6 @@ MICsplines,yili-hong
 MICSQTL,bioc
 micsr,ycroissant
 micss,andreusanso
-MiDA,cran
 midas,shapenaji
 midas2,sullivan0147
 midasHLA,bioc
@@ -13516,6 +13519,7 @@ Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morrowplots,sandical
 morse,virgile-baudrot
+morseDR,virgile-baudrot
 mort,rosieluain
 mortAAR,isaakiel
 MortalityGaps,mpascariu
@@ -14164,7 +14168,7 @@ ncbit,eastman
 NCC,pavlakrotka
 ncdf4,davidwpierce
 ncdf4.helpers,pacificclimate
-ncdfCF,pvanlaake
+ncdfCF,r-cf
 ncdfFlow,bioc
 ncdfgeom,doi-usgs
 ncdump,hypertidy
@@ -17860,6 +17864,7 @@ rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
 RCognito,cran
+rcoins,cityriverspaces
 RColetum,geo-sapiens
 rcollectadhd,jmnolan9
 Rcollectl,bioc
@@ -19008,6 +19013,7 @@ RobGARCHBoot,ctruciosm
 robin,valeriapolicastro
 RobinCar,mbannick
 RobinCar2,openpharma
+RobinCID,eureeca
 RobinHood,jestonblu
 robis,iobis
 RobKF,cran
@@ -20838,6 +20844,7 @@ silicate,hypertidy
 SillyPutty,cran
 SILM,zhangxiany-tamu
 silp,tombjjj
+silviculture,cidree
 SIM,bioc
 sim.BA,cran
 Sim.DiffProc,acguidoum
@@ -21758,6 +21765,7 @@ spNNGP,finleya
 spocc,ropensci
 spOccupancy,biodiverse
 spoiler,etiennebacher
+SpoMAG,douglasterra
 SPONGE,bioc
 spongebob,jayqi
 spongecake,thinkr-open
@@ -22389,6 +22397,7 @@ surveynnet,237triangle
 surveyplanning,csblatvia
 surveyPrev,richardli
 surveysd,statistikat
+surveySimR,nobinstat
 surveytable,cdcgov
 surveyvoi,prioritizr
 survHE,giabaio
@@ -22428,6 +22437,7 @@ survParamSim,yoshidk6
 survPen,fauvernierma
 survPresmooth,cran
 SurvRegCensCov,stanislashubeaux
+survregVB,chengqianxian
 survRM2,cran
 survRM2adapt,mikihoriguchi
 survRM2perm,mikihoriguchi
@@ -23778,6 +23788,7 @@ tvm,juancentro
 tvmComp,maheshpkumar
 tvmediation,dcoffman
 TVMM,henriqueest
+TVMVP,erilill
 tvR,kisungyou
 tvReg,icasas
 TVTB,bioc

@@ -1,7 +1,17 @@
 [
   {
+    "package": "APTIcalc",
+    "maintainer": "Nobin Chandra Paul <ncp375@gmail.com>",
+    "url": "https://github.com/cran/APTIcalc"
+  },
+  {
     "package": "SpatialPOP",
     "maintainer": "Nobin Chandra Paul<ncp375@gmail.com>",
     "url": "https://github.com/cran/SpatialPOP"
+  },
+  {
+    "package": "surveySimR",
+    "maintainer": "Nobin Chandra Paul <ncp375@gmail.com>",
+    "url": "https://github.com/cran/surveySimR"
   }
 ]
