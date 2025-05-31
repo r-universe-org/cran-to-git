@@ -10,6 +10,16 @@
     "url": "https://github.com/r-tmap/tmap.cartogram"
   },
   {
+    "package": "tmap.glyphs",
+    "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
+    "url": "https://github.com/r-tmap/tmap.glyphs"
+  },
+  {
+    "package": "tmap.networks",
+    "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
+    "url": "https://github.com/r-tmap/tmap.networks"
+  },
+  {
     "package": "tmaptools",
     "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
     "url": "https://github.com/r-tmap/tmaptools"

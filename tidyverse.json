@@ -95,6 +95,11 @@
     "url": "https://github.com/tidyverse/purrr"
   },
   {
+    "package": "ragnar",
+    "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+    "url": "https://github.com/tidyverse/ragnar"
+  },
+  {
     "package": "readr",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
     "url": "https://github.com/tidyverse/readr"
