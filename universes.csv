@@ -2916,6 +2916,7 @@ ChernoffDist,cran
 cherry,jellegoeman
 cherryblossom,openintrostat
 chess,curso-r
+chess2plyrs,luigi-annic
 chessboard,frbcesab
 ChessGmooG,impaug
 chest,uqwang
@@ -3418,7 +3419,7 @@ coda4microbiome,tonisusin
 codacore,egr95
 CoDaImpact,lukece
 codalm,jfiksel
-CoDaLoMic,cran
+CoDaLoMic,creus-marti
 codaredistlm,tystan
 CodataGS,larsronn
 cOde,dkaschek
@@ -7130,7 +7131,7 @@ findGSEP,sperfu
 findInFiles,stla
 findInGit,stla
 findIPs,bioc
-FindIt,naoki-egami
+FindIt,cran
 FindIT2,bioc
 findPackage,amarnathbose
 findpython,trevorld
@@ -9245,7 +9246,7 @@ GWEX,guillaumeevin
 GWI,bouba444
 gwid,soroushmdg
 gWidgets2,gwidgets3
-gWidgets2tcltk,jverzani
+gWidgets2tcltk,gwidgets3
 GWlasso,nibortolum
 GWLelast,kingqwert
 GWmodel,lbb220
@@ -9281,7 +9282,6 @@ hablar,davidsjoberg
 habtools,jmadinlab
 HAC,gggchen
 hackeRnews,szymanskir
-hacksaw,daranzolin
 hacksig,acare
 HACSim,jphill01
 HadamardR,appavoodhandapani
@@ -10335,6 +10335,7 @@ inlabru,inlabru-org
 INLAjoint,denisrustand
 inlamemi,emmaskarstein
 INLAspacetime,eliaskrainski
+INLAtools,eliaskrainski
 inlcolor,jfisher-usgs
 inldata,jfisher-usgs
 inline,eddelbuettel
@@ -11783,6 +11784,7 @@ logitr,jhelvy
 logKDE,andrewthomasjones
 loglognorm,olafmersmann
 logmult,nalimilan
+lognGPD,marco-bee
 lognorm,bgctw
 logNormReg,vitomuggeo
 logOfGamma,philliplab
@@ -15312,7 +15314,7 @@ packFinder,bioc
 packHV,cran
 packMBPLSDA,cran
 packrat,rstudio
-PACLasso,clpaulso
+PACLasso,cran
 pacman,trinker
 paco,matthutchinson1
 pacotest,maltekurz
@@ -17951,7 +17953,6 @@ RcppXsimd,msuchard
 RcppXts,eddelbuettel
 RcppZiggurat,eddelbuettel
 rcprd,alexpate30
-Rcrawler,salimk
 RCreliability,yulu98
 rcrimeanalysis,jsspaulding
 RCriteo,banboo-data
@@ -19523,6 +19524,7 @@ rswipl,mgondan
 Rsymphony,r-forge
 rsyncrosim,syncrosim
 rsyntax,kasperwelbers
+rsynthbio,synthesizebio
 rsyslog,atheriel
 rt,nceas
 rt.test,statpnu
@@ -20096,7 +20098,7 @@ sclr,khvorov45
 sClust,cran
 SCMA,cran
 scmap,bioc
-scMappR,dsokolo
+scMappR,cran
 scMerge,bioc
 scMET,bioc
 scmeth,bioc
@@ -20120,7 +20122,7 @@ ScoreEB,wenlongren
 scoreInvHap,bioc
 scorematchingad,kasselhingee
 scorepeak,shotaochi
-ScorePlus,shengmil
+ScorePlus,cran
 scoring,ecmerkle
 scoringfunctions,hristostyr
 scoringRules,fk83
@@ -21634,7 +21636,7 @@ spectator,zivankaraman
 spectr,hugheylab
 Spectra,bioc
 spectral,seil85
-spectralAnalysis,ablommaert
+spectralAnalysis,cran
 spectralAnomaly,al-obrien
 SpectralClMixed,cran
 spectralGP,cran
@@ -21736,7 +21738,6 @@ splithalfr,tpronk
 SplitKnockoff,wanghaoxue0
 SplitReg,anthonychristidis
 splitSelect,anthonychristidis
-SplitSoftening,jkb-d
 SplitSplitPlot,cran
 splitstackshape,mrdwab
 splitTools,mayer79
@@ -21982,6 +21983,7 @@ standR,bioc
 StanHeaders,stan-dev
 StanMoMo,kabarigou
 stantargets,ropensci
+stanza,florianschwendinger
 stapler,muschellij2
 staplr,pridiltal
 staRdom,matthiaspucher
@@ -22038,6 +22040,7 @@ staticryptR,cran
 stationaRy,rich-iannone
 statip,paulponcet
 statisfactory,adamlilith
+statlingua,bgreenwell
 StatMatch,cran
 statmod,gksmyth
 statnet,statnet
@@ -22238,6 +22241,7 @@ strs,pythonicr
 strucchange,zeileis
 strucchangeRcpp,bfast2
 struct,bioc
+structenforcement,cran
 structree,jmober
 Structstrings,bioc
 structToolbox,bioc
@@ -22678,6 +22682,7 @@ tanaka,riatelab
 TANDEM,nanne-aben
 tanggle,bioc
 TangledFeatures,allen-1242
+tangles,cran
 TangPoemR,cran
 tangram,spgarbet
 tangram.pipe,thomasgstewart
@@ -24815,7 +24820,7 @@ x12,statistikat
 x13binary,x13org
 x3ptools,heike
 xactonomial,sachsmc
-xadmix,spacecowboy-71
+xadmix,lschoenm
 XAItest,bioc
 xaringan,yihui
 xaringanExtra,gadenbuie

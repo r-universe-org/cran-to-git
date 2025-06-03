@@ -17,12 +17,14 @@
   {
     "package": "LIM",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
-    "url": "https://github.com/cran/LIM"
+    "url": "https://github.com/cran/LIM",
+    "registry": "archived"
   },
   {
     "package": "limSolve",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
-    "url": "https://github.com/cran/limSolve"
+    "url": "https://github.com/cran/limSolve",
+    "registry": "archived"
   },
   {
     "package": "marelac",
