@@ -20,6 +20,11 @@
     "url": "https://github.com/lightbluetitan/datasetsverse"
   },
   {
+    "package": "DigestiveDataSets",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/digestivedatasets"
+  },
+  {
     "package": "educationR",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/educationr"
@@ -38,6 +43,11 @@
     "package": "OncoDataSets",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/oncodatasets"
+  },
+  {
+    "package": "PulmoDataSets",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/pulmodatasets"
   },
   {
     "package": "sampledatasets",

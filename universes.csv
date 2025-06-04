@@ -244,6 +244,7 @@ ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
 ADSIHT,cran
 AdsorpR,cran
+adsoRptionCV,cran
 adsoRptionMCMC,cran
 adSplit,bioc
 ADTSA,leilamarvian
@@ -4886,6 +4887,7 @@ DepInfeR,bioc
 DepLogo,jgraux
 DEploid,deploid-dev
 DEploid.utils,shajoezhu
+DEplotting,jannis-b
 depmixS4,ingmarvisser
 DEPONS2R,jacobnabe
 deposits,ropensci
@@ -5116,6 +5118,7 @@ difR,343babou
 DIFshiny,huseyinyildiz35
 DIFtree,jmober
 digest,eddelbuettel
+DigestiveDataSets,lightbluetitan
 diggit,bioc
 digiRhythm,nasserdr
 digitalPCR,xutaodeng
@@ -6497,7 +6500,6 @@ Evacluster,fahimehnm
 evalITR,michaellli
 evalR,cran
 evaluate,r-lib
-EvaluateCore,aravind-j
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
 evaluomeR,bioc
@@ -7131,7 +7133,7 @@ findGSEP,sperfu
 findInFiles,stla
 findInGit,stla
 findIPs,bioc
-FindIt,cran
+FindIt,naoki-egami
 FindIT2,bioc
 findPackage,amarnathbose
 findpython,trevorld
@@ -10798,7 +10800,6 @@ jinjar,davidchall
 jipApprox,rhobis
 jjb,coatless-rpkg
 jlctree,cran
-jlme,yjunechoe
 jlmerclusterperm,yjunechoe
 JLPM,vivianephilipps
 JM,drizopoulos
@@ -11001,6 +11002,7 @@ kerTests,cran
 kesernetwork,celehs
 keyATM,keyatm
 Keyboard,cran
+keyclust,pchest
 keyholder,echasnovski
 keyperm,thmild
 keyplayer,weihuaan
@@ -14259,7 +14261,7 @@ NetDA,lchen723
 netdiffuseR,usccana
 netdose,petropouloumaria
 NetExplorer,sebastiansosa
-NetFACS,netfacs
+NetGreg,cran
 netgsa,mikehellstern
 netgwas,pariya
 nethet,bioc
@@ -15314,7 +15316,7 @@ packFinder,bioc
 packHV,cran
 packMBPLSDA,cran
 packrat,rstudio
-PACLasso,cran
+PACLasso,clpaulso
 pacman,trinker
 paco,matthutchinson1
 pacotest,maltekurz
@@ -17027,6 +17029,7 @@ puff,hammerling-research-group
 PUGMM,giorgiazaccaria
 PUlasso,hsong1
 pullword,hetong007
+PulmoDataSets,lightbluetitan
 puls,vinhtantran
 pulsar,zdk123
 puma,bioc
@@ -17359,6 +17362,7 @@ quickNmix,mrparker909
 quickPlot,predictiveecology
 quickpsy,danilinares
 quickPWCR,billbillbilly
+quickr,t-kalinowski
 quickReg,han-xikun
 quickregression,darshan-maniyar
 quicR,gage1145
@@ -17530,7 +17534,6 @@ Ramble,noraincheck
 rAmCharts,datastorm-open
 rAmCharts4,stla
 ramchoice,xinweima
-RAMClustR,cbroeckl
 ramcmc,helske
 rameritrade,altanalytics
 ramify,bgreenwell
@@ -18705,6 +18708,7 @@ rIsing,pratik-r
 Risk,mbbsssn2
 riskclustr,zabore
 riskCommunicator,jgrembi
+riskdiff,jackmurphy2351
 RiskMap,claudiofronterre
 riskmetric,pharmar
 riskParityPortfolio,dppalomar
@@ -19244,7 +19248,6 @@ RPatternJoin,matveevdaniil
 rPBK,virgile-baudrot
 rpc,somakd
 rpca,macieksk
-rpcss,aravind-j
 Rpdb,discoleo
 rPDBapi,cran
 RPDTest,glazellli
@@ -20098,7 +20101,7 @@ sclr,khvorov45
 sClust,cran
 SCMA,cran
 scmap,bioc
-scMappR,cran
+scMappR,dsokolo
 scMerge,bioc
 scMET,bioc
 scmeth,bioc
@@ -20122,7 +20125,7 @@ ScoreEB,wenlongren
 scoreInvHap,bioc
 scorematchingad,kasselhingee
 scorepeak,shotaochi
-ScorePlus,cran
+ScorePlus,shengmil
 scoring,ecmerkle
 scoringfunctions,hristostyr
 scoringRules,fk83
@@ -21477,6 +21480,7 @@ SparseICA,thebrisklab
 sparseIndexTracking,dppalomar
 sparseinv,andrewzm
 sparseLDA,topepo
+sparselink,rauschenberger
 SparseLPM,riccardorastelli
 sparseLRMatrix,rohelab
 sparseLTSEigen,aalfons
@@ -21636,7 +21640,7 @@ spectator,zivankaraman
 spectr,hugheylab
 Spectra,bioc
 spectral,seil85
-spectralAnalysis,cran
+spectralAnalysis,ablommaert
 spectralAnomaly,al-obrien
 SpectralClMixed,cran
 spectralGP,cran

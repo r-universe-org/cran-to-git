@@ -5,12 +5,6 @@
     "url": "https://github.com/aravind-j/augmentedrcbd"
   },
   {
-    "package": "EvaluateCore",
-    "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/evaluatecore",
-    "registry": "archived"
-  },
-  {
     "package": "germinationmetrics",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
     "url": "https://github.com/aravind-j/germinationmetrics"
@@ -19,11 +13,5 @@
     "package": "PGRdup",
     "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
     "url": "https://github.com/aravind-j/pgrdup"
-  },
-  {
-    "package": "rpcss",
-    "maintainer": "J. Aravind <j.aravind@icar.gov.in>",
-    "url": "https://github.com/aravind-j/rpcss",
-    "registry": "archived"
   }
 ]
