@@ -911,6 +911,7 @@ ast2ast,konrad1991
 aster,cran
 aster2,cran
 asteRisk,rafael-ayala
+astgrepr,etiennebacher
 AsthmaNHANES,suntaojj
 astrochron,cran
 astroFns,cran
@@ -1747,7 +1748,7 @@ binspp,tomasmrkvicka
 binsreg,yingjieum
 binst,noraincheck
 BINtools,satopaa
-bio.infer,cran
+bio.infer,lesteryuan
 bio3d,bioboot
 bioacoustics,wavx
 bioassayR,bioc
@@ -3179,6 +3180,7 @@ climwin,liamdbailey
 clinDataReview,openanalytics
 clinDR,snthomas99
 clinfun,veseshan
+clinical,tkcaccia
 clinicalomicsdbR,bzhanglab
 clinicalsignificance,pedscience
 ClinicalTrialSummary,pakdaewo
@@ -4930,7 +4932,6 @@ DescToolsAddIns,andrisignorell
 deseats,dschulz13
 DESeq2,bioc
 Design.parameters,cran
-DesignCTPB,ubcxzhang
 designer,ashbaldry
 designit,bedapub
 DesignLibrary,declaredesign
@@ -5782,7 +5783,7 @@ EasyDescribe,nie-xiuquan
 easylabel,myles-lewis
 easylift,bioc
 EasyMx,mhunter1
-easyNCDF,anchiho
+easyNCDF,cran
 easynls,cran
 easyORtables,neilmhta
 easypackages,jakesherman
@@ -7898,6 +7899,7 @@ GCCfactor,rl1081
 GCD,oblarquez
 gcdnet,archer-yang-lab
 gcerisk,cran
+gchartsmap,odeleongt
 gcite,muschellij2
 gcKrig,hanzifei
 gclm,gherardovarando
@@ -8719,6 +8721,7 @@ globe,baddstats
 glober,cran
 globpso,pingyangchen
 glogis,zeileis
+glorenz,cran
 GloScope,bioc
 glossa,imares-group
 glossary,debruine
@@ -9898,6 +9901,7 @@ hytest,cran
 I14Y,lgnbhl
 i18n,rich-iannone
 i2extras,reconverse
+i3pack,solivella
 IAcsSPCR,johnjsl7
 iAdapt,cran
 iadf,konradmayer
@@ -10857,6 +10861,7 @@ jpcity,uchidamizuki
 jpeg,s-u
 JPEN,cran
 jpgrid,uchidamizuki
+jpinfect,tomonorihoshi
 jpmesh,uribo
 jpstat,uchidamizuki
 JPSurv,wheelerb
@@ -11338,7 +11343,6 @@ LCAvarsel,michaelfop
 lcc,prof-thiagooliveira
 LCCR,francescobartolucci
 lcda,mchlbckr
-LCF,cran
 LCFdata,cran
 lchemix,wzhang17
 LCMCR,dmanriqu
@@ -13521,6 +13525,7 @@ MorphoTools2,marekslenker
 morrowplots,sandical
 morse,virgile-baudrot
 morseDR,virgile-baudrot
+morseTKTD,virgile-baudrot
 mort,rosieluain
 mortAAR,isaakiel
 MortalityGaps,mpascariu
@@ -14117,6 +14122,7 @@ naptime,russellpierce
 nardl,zedtaha
 narray,mschubert
 naryn,tanaylab
+nasa,cran
 nasadata,eflores89
 nasapower,ropensci
 nasaweather,hadley
@@ -14425,6 +14431,7 @@ nipnTK,nutriverse
 NipponMap,stanimura
 NIPTeR,ljohansson
 NIRStat,johnzonwyk
+nisrarr,markpaulin
 NISTnls,cran
 NISTunits,cran
 NitrogenUptake2016,troyhill
@@ -16785,6 +16792,7 @@ ProfessR,jonathanlees
 profExtrema,dazzimonti
 proffer,r-prof
 profile,r-prof
+profileCI,paulnorthrop
 ProfileLadder,42463863
 ProfileLikelihood,choileena
 profileModel,ikosmidis
@@ -19110,6 +19118,7 @@ rococo,ubod
 ROCpAI,bioc
 ROCpsych,daiscode
 ROCR,ipa-tys
+ROCS,cran
 ROCSI,cran
 ROCsurf,ertansu
 rocsvm.path,cran
@@ -22699,6 +22708,7 @@ TAPseq,bioc
 TAQMNGR,cipollinifabrizio-01
 TAR,hanwengutierrez
 tarchetypes,ropensci
+tarchives,uchidamizuki
 tardis,chris31415926535
 target,bioc
 TargetDecoy,bioc
@@ -22843,7 +22853,6 @@ tensorA,cran
 tensorBF,suleimank
 tensorBSS,jmvirta
 TensorClustering,cran
-TensorComplete,cran
 tensorEVD,marcoolopez
 tensorflow,rstudio
 tensorMiss,zerokgkg1368
@@ -23821,7 +23830,6 @@ twilight,bioc
 twilio,seankross
 twingp,cran
 twinning,cran
-Twitmo,abuchmueller
 twitteradsR,pablosanmar
 twitterwidget,guivo
 twl,cran
@@ -23990,6 +23998,7 @@ unsystation,haeran-cho
 untb,robinhankin
 unusualprofile,wjschne
 unvotes,dgrtwo
+unvs.med,michaelzhou2000
 uotm,heming0425
 UpAndDownPlots,impaug
 UPCM,schaubert
@@ -24001,6 +24010,7 @@ updog,dcgerard
 UpDown,tomrohmer
 UPG,cran
 upndown,assaforon
+upset.hp,laijiangshan
 upsetjs,upsetjs
 UpSetR,hms-dbmi
 UpSetVP,liuxyh

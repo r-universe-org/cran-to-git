@@ -1,5 +1,10 @@
 [
   {
+    "package": "i3pack",
+    "maintainer": "Santiago Olivella <olivella@unc.edu>",
+    "url": "https://github.com/cran/i3pack"
+  },
+  {
     "package": "lda",
     "maintainer": "Santiago Olivella <olivella@unc.edu>",
     "url": "https://github.com/solivella/lda"

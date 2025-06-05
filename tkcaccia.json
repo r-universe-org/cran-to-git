@@ -1,5 +1,10 @@
 [
   {
+    "package": "clinical",
+    "maintainer": "Stefano Cacciatore <tkcaccia@gmail.com>",
+    "url": "https://github.com/tkcaccia/clinical"
+  },
+  {
     "package": "KODAMA",
     "maintainer": "Stefano Cacciatore <tkcaccia@gmail.com>",
     "url": "https://github.com/tkcaccia/kodama"
@@ -7,7 +12,7 @@
   {
     "package": "MetChem",
     "maintainer": "Stefano Cacciatore <tkcaccia@gmail.com>",
-    "url": "https://github.com/cran/MetChem"
+    "url": "https://github.com/tkcaccia/metchem"
   },
   {
     "package": "musicNMR",
