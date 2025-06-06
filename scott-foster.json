@@ -3,5 +3,15 @@
     "package": "fishMod",
     "maintainer": "Scott D. Foster <scott.foster@csiro.au>",
     "url": "https://github.com/cran/fishMod"
+  },
+  {
+    "package": "MBHdesign",
+    "maintainer": "Scott Foster <scott.foster@data61.csiro.au>",
+    "url": "https://github.com/scott-foster/mbhdesign"
+  },
+  {
+    "package": "stockR",
+    "maintainer": "Scott D. Foster <scott.foster@data61.csiro.au>",
+    "url": "https://github.com/scott-foster/stockr"
   }
 ]

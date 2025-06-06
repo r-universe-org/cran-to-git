@@ -244,6 +244,7 @@ ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
 ADSIHT,cran
 AdsorpR,cran
+adsoRptionCMF,cran
 adsoRptionCV,cran
 adsoRptionMCMC,cran
 adSplit,bioc
@@ -967,6 +968,7 @@ auctestr,jpgard
 auctionr,ajmack
 audio,s-u
 audiometry,cran
+AudioScatter,cran
 audit,cran
 auditor,modeloriented
 audrex,pigian
@@ -1580,6 +1582,7 @@ BeyondBenford,cran
 beyondWhittle,cran
 bezier,aaronolsen
 bfast,bfast2
+bfboin,openpharma
 bfboinet,jingzhuzhuzhu
 BFF,rshudde
 BFI,hassanpazira
@@ -2051,6 +2054,7 @@ BonEV,dongmeili2017
 bonn,sumtxt
 bonsai,tidymodels
 bonsaiforest,insightsengineering
+boodd,klona9
 boodist,stla
 bookdown,rstudio
 booklet,alexym1
@@ -2266,6 +2270,7 @@ bspmma,cran
 bsreg,nk027
 BSS,cran
 BSSasymp,cran
+bssbinom,eliardocosta
 bsseq,bioc
 bssm,helske
 bssn,cran
@@ -2489,7 +2494,6 @@ carat,yexiaoqingruc
 CARBayes,duncanplee
 CARBayesdata,duncanplee
 CARBayesST,duncanplee
-carbonate,yonicd
 carbondate,tjheaton
 carbonr,lilyclements
 carcass,fraenzi
@@ -2619,6 +2623,7 @@ causalsens,mattblackwell
 causalSLSE,pchausse
 causalweight,hugometric
 CausCor,sugym
+causens,kuan-liu-lab
 CautiousLearning,cran
 CAvariants,rosarialo
 caviarpd,dbdahl
@@ -3101,7 +3106,7 @@ CKMRpop,eriqande
 CLA,mmaechler
 Claddis,graemetlloyd
 cladoRcpp,nmatzke
-ClaimsProblems,cran
+ClaimsProblems,esanchez-coder
 clam,maarten14c
 ClamR,jonathanlees
 clap,pridiltal
@@ -5818,6 +5823,7 @@ ebci,kolesarm
 EBcoBART,jeroengoedhart
 EBcoexpress,bioc
 ebdbNet,andreamrau
+ebdm,longwenshang
 EBEN,cran
 ebGenotyping,hmaoxian
 EBImage,bioc
@@ -6326,7 +6332,6 @@ epitab,stulacy
 EpiTest,simonrio
 epitools,cran
 epitrix,reconhub
-epitweetr,eu-ecdc
 EpiTxDb,bioc
 epivizr,bioc
 epivizrChart,bioc
@@ -6574,7 +6579,6 @@ ExactCIdiff,cran
 ExactCIone,cran
 ExactCox,cran
 exactextractr,isciences
-exactLTRE,cran
 ExactMed,caubm
 ExactMultinom,resinj
 exactRankTests,thothorn
@@ -7711,7 +7715,7 @@ futile.options,cran
 futility,mjuraska
 future,futureverse
 future.apply,futureverse
-future.batchtools,henrikbengtsson
+future.batchtools,futureverse
 future.callr,futureverse
 future.mirai,futureverse
 future.tests,futureverse
@@ -9427,7 +9431,7 @@ HDRFA,cran
 hds,liangcj
 HDShOP,otryakhin-dmitry
 HDSinRdata,alicepaul
-HDSpatialScan,cran
+HDSpatialScan,camillef-git
 HDStIM,niaid
 hdsvm,cran
 HDTD,bioc
@@ -12367,7 +12371,7 @@ mbend,nilforooshan
 MBESS,yelleknek
 mbest,patperry
 mbg,henryspatialanalysis
-MBHdesign,cran
+MBHdesign,scott-foster
 mbir,kdpeterson51
 mbkmeans,bioc
 mblm,luqqe
@@ -13844,6 +13848,7 @@ multicool,jmcurran
 multicrispr,bioc
 multid,vjilmari
 MultiDataSet,bioc
+multiDEGGs,elisabettasciacca
 multiDimBio,scarpino
 multiDoE,andreamelloncelli
 multidplyr,tidyverse
@@ -13974,6 +13979,7 @@ musclesyneRgies,alesantuz
 music,egenn
 musica,hanel
 musicatk,bioc
+musicMCT,satbq
 musicNMR,tkcaccia
 musicXML,benrenard
 MutationalPatterns,bioc
@@ -14211,7 +14217,6 @@ nebula,lhe17
 Nebulosa,bioc
 Necklaces,guaseppe
 necountries,ycroissant
-needmining,cran
 needs,joshkatz
 NegativeControlOutcomeAdjustment,wheelerb
 NegBinBetaBinreg,cran
@@ -16317,6 +16322,7 @@ pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
 PNAR,cran
 pnd,fifis
+PND.heter.cluster,xliu12
 PNDSIBGE,gabriel-assuncao
 png,s-u
 PNSIBGE,gabriel-assuncao
@@ -19625,7 +19631,6 @@ Rttf2pt1,wch
 RTTWebClient,cran
 Rtumblr,schochastics
 Rtwalk,andreschristen
-rtweet,ropensci-archive
 rTwig,aidanmorales
 Rtwobitlib,hpages
 rtype,renkun-ken
@@ -19898,7 +19903,6 @@ santaR,adwolfer
 santoku,hughjonesd
 SANvi,fradenti
 sanzo,jmaasch
-saotd,evan-l-munson
 SAP,hsnbulut
 saperlipopette,ropensci
 sapevom,raqueldourado
@@ -20480,6 +20484,7 @@ seqtrie,traversc
 sequenceR,benrenard
 SequenceSpikeSlab,tverven
 Sequential,cran
+sequential.pops,rincondf
 SequentialDesign,cran
 sequoia,jiscah
 SeqVarTools,bioc
@@ -22160,7 +22165,7 @@ stochvol,gregorkastner
 stochvolTMB,jenswahl
 stockAnalyst,maheshpkumar
 StockDistFit,wagathu
-stockR,cran
+stockR,scott-foster
 stocks,vandomed
 stodom,cran
 stoichcalc,peterreichert

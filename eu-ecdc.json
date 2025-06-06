@@ -3,12 +3,5 @@
     "package": "EpiSignalDetection",
     "maintainer": "Lore Merdrignac <l.merdrignac@epiconcept.fr>",
     "url": "https://github.com/eu-ecdc/episignaldetection"
-  },
-  {
-    "package": "epitweetr",
-    "maintainer": "",
-    "url": "https://github.com/eu-ecdc/epitweetr",
-    "subdir": "epitweetr",
-    "registry": "archived"
   }
 ]
