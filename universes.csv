@@ -228,7 +228,6 @@ admix,xaviermilhaud
 admixr,bodkan
 ADMM,kisungyou
 admmDensestSubmatrix,pbombina
-ADMMsigma,mgallow
 admtools,mindthegap-erc
 ADMUR,ucl
 adnuts,cole-monnahan-noaa
@@ -327,6 +326,7 @@ agilp,bioc
 AgiMicroRna,bioc
 aglm,kkondo1981
 agop,gagolews
+agpower,tomriddle89
 AGPRIS,edoardobaldoni
 agRee,daifengstat
 AgreementInterval,jialinx007
@@ -369,6 +369,7 @@ AICcPermanova,sustainscapes
 AID,osmandag
 aidar,cran
 aides,enochkang
+AiES,breezycave
 aifeducation,fberding
 AIFFtools,cran
 aihuman,sooahnshin
@@ -2583,6 +2584,7 @@ catIrt,swnydick
 catlearn,ajwills72
 catmap,tpq
 catmaply,verkehrsbetriebezuerich
+catool,dawit3000
 caTools,coffeemuggler
 CatPredi,ibarrioberaza
 catR,huacheng1985
@@ -2633,6 +2635,7 @@ cbaf,bioc
 CBAModel,cran
 cbanalysis,cran
 cbass,fmarrs3
+CBASSED50,cran
 cbbinom,zhuxr11
 CBCgrps,cran
 cbcTools,jhelvy
@@ -3601,6 +3604,7 @@ comparator,ngmarchant
 compare,cran
 compareC,lkangvcu
 CompareCausalNetworks,christinaheinze
+compareCstat,lemonade0924
 CompAREdesign,martabofillroig
 compareDF,alexsanjoseph
 compareGroups,isubirana
@@ -3975,6 +3979,7 @@ covalchemy,namanlab
 covatest,sandradeiaco
 covBM,ostirrup
 CovCombR,denizakdemir
+CovCorTest,sjedhoff
 covdepGE,jacobhelwig
 covEB,bioc
 coveffectsplot,smouksassi
@@ -5196,6 +5201,7 @@ DiSCos,davidvandijcke
 discourseGT,q1cui
 discoveR,promidat
 discoverableresearch,cran
+discovr,profandyfield
 DiscreteDatasets,disohda
 DiscreteDists,fhernanb
 DiscreteDLM,dandempsey
@@ -6319,7 +6325,6 @@ epiR,cran
 epiregulon,bioc
 epiregulon.extra,bioc
 EpiReport,epiconcept-paris
-episcan,cran
 EpiSemble,diprosinha
 episensr,dhaine
 EpiSignalDetection,eu-ecdc
@@ -11508,6 +11513,7 @@ libdeflate,tylermorganwall
 libgeos,paleolimbot
 libimath,tylermorganwall
 LiblineaR,dnalytics
+libopenexr,tylermorganwall
 LibOPF,rafaeljm
 libr,dbosak01
 Libra,cran
@@ -11749,7 +11755,7 @@ locits,cran
 Lock5Data,statmanrobin
 LocKer,cran
 locpol,cran
-locpolExpectile,16cile
+locpolExpectile,cran
 locStra,ghahn-hsph
 LOCUS,cran
 locuszoomr,myles-lewis
@@ -13625,6 +13631,7 @@ MQMF,haddonm
 Mqrcm,cran
 mr.pivw,siqixu
 MR.RGM,bitansa
+MRAM,cran
 mratios,cran
 mrbayes,okezie94
 mrbin,kleinomicslab
@@ -14774,6 +14781,7 @@ nzilbb.labbcat,nzilbb
 nzilbb.vowels,nzilbb
 nzpullover,nacnudus
 o2geosocial,alxsrobert
+o2ools,cygei
 o2plsda,guokai8
 oaColors,cran
 oai,ropensci
@@ -18007,6 +18015,7 @@ rdaisi,cran
 rdatacite,ropensci
 rDataPipeline,fairdatapipeline
 rdataretriever,ropensci
+Rdatasets,vincentarelbundock
 rdbnomics,s915
 rdd,ddimmery
 rddapp,felixthoemmes
@@ -18686,6 +18695,7 @@ rifiComparative,bioc
 rifle,cran
 rifreg,cran
 RIFS,cran
+rifttable,stopsack
 Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
@@ -18867,6 +18877,7 @@ RMAWGEN,ecor
 rmBayes,zhengxiaouvic
 RMBC,jdgonzalezwork
 RMCC,r-lidar
+RMCDA,annicenajafi
 rmcfs,cran
 rmcmc,ucl
 rmcorr,lmarusich
@@ -20273,6 +20284,7 @@ searcher,coatless-rpkg
 SearchTrees,gmbecker
 SEARS,cran
 seas,mwtoews
+SeasEpi,amin-abed
 season,agbarnett
 seasonal,christophsax
 seasonalityPlot,kumes
@@ -23849,6 +23861,7 @@ twosigma,edvanburen
 twoStageDesignTMLE,sg-tlr
 TwoStepCLogit,cran
 TwoTimeScales,angelacar
+twotrials,samch93
 twoway,friendly
 TwoWayFEWeights,chaisemartinpackages
 twowaytests,osmandag
@@ -24162,7 +24175,6 @@ vaRiskScore,cran
 varitas,cran
 varjmcm,cran
 varoc,zea23i651096531
-varrank,cran
 VarRedOpt,onurboyar
 VarReg,kristyrobledo
 vars,bpfaff
@@ -24399,6 +24411,7 @@ volesti,vfisikop
 volker,strohne
 volleystat,bozhinvi
 voluModel,hannahlowens
+VoronoiBiomedPlot,cran
 voronoifortune,emmanuelparadis
 voronoiTreemap,urosconf
 VorteksExport,lansdon-qualta
