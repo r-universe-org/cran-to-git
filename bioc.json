@@ -3543,6 +3543,12 @@
     "registry": "bioc"
   },
   {
+    "package": "dmGsea",
+    "maintainer": "Zongli Xu <xuz@niehs.nih.gov>",
+    "url": "https://git.bioconductor.org/packages/dmGsea",
+    "registry": "bioc"
+  },
+  {
     "package": "DMRcaller",
     "maintainer": "Nicolae Radu Zabet <n.r.zabet@gen.cam.ac.uk>",
     "url": "https://git.bioconductor.org/packages/DMRcaller",
@@ -6078,6 +6084,12 @@
     "package": "IFAA",
     "maintainer": "Zhigang Li <lzg2151@gmail.com>",
     "url": "https://github.com/quranwu/ifaa",
+    "registry": "bioc"
+  },
+  {
+    "package": "igblastr",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/hyrienlab/igblastr",
     "registry": "bioc"
   },
   {
@@ -11635,6 +11647,12 @@
     "package": "SeqGSEA",
     "maintainer": "Xi Wang <Xi.Wang@dkfz.de>",
     "url": "https://git.bioconductor.org/packages/SeqGSEA",
+    "registry": "bioc"
+  },
+  {
+    "package": "Seqinfo",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/seqinfo",
     "registry": "bioc"
   },
   {
