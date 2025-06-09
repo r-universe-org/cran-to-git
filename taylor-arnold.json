@@ -2,7 +2,8 @@
   {
     "package": "cleanNLP",
     "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
-    "url": "https://github.com/taylor-arnold/cleannlp"
+    "url": "https://github.com/taylor-arnold/rpkg",
+    "subdir": "cleanNLP"
   },
   {
     "package": "coreNLP",
@@ -15,18 +16,8 @@
     "url": "https://github.com/cran/ctrialsgov"
   },
   {
-    "package": "ggimg",
-    "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
-    "url": "https://github.com/taylor-arnold/ggimg"
-  },
-  {
     "package": "leaderCluster",
     "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
     "url": "https://github.com/taylor-arnold/leadercluster"
-  },
-  {
-    "package": "sotu",
-    "maintainer": "Taylor B. Arnold <tarnold2@richmond.edu>",
-    "url": "https://github.com/taylor-arnold/sotu"
   }
 ]
