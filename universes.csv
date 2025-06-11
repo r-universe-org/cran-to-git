@@ -1404,6 +1404,7 @@ BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
+bayou,uyedaj
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
@@ -6884,7 +6885,7 @@ fastmatch,s-u
 fastMatMR,ropensci
 fastmatrix,faosorios
 fastmit,cran
-fastml,cran
+fastml,selcukorkmaz
 fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
@@ -7283,6 +7284,7 @@ flexsiteboard,struckma
 flexsurv,chjackson
 flexsurvcure,jrdnmdhl
 flextable,davidgohel
+flexurba,cvmigero
 FlexVarJM,leoniecourcoul
 FlickrAPI,koki25ando
 flifo,paulponcet
@@ -8538,6 +8540,7 @@ ggthemes,jrnold
 ggthemeUL,mrmarjan
 ggtibble,billdenney
 ggtikz,osthomas
+ggtime,mitchelloharawild
 ggTimeSeries,thecomeonman
 ggtrace,rnabioco
 ggtree,bioc
@@ -9190,7 +9193,7 @@ gtable,r-lib
 GTAPViz,bodysbobb
 GTbasedIM,lauradavilapena
 GTDL,carrascojalmar
-gte,cran
+gte,thierduch
 GTEs,yzhou1999
 gTests,cran
 gTestsMulti,cran
@@ -10306,7 +10309,7 @@ inet,jmbh
 iNETgrate,bioc
 iNEXT,johnsonhsieh
 iNEXT.3D,annechao
-iNEXT.4steps,kaihsianghu
+iNEXT.4steps,cran
 iNEXT.beta3D,annechao
 infer,tidymodels
 infercnv,bioc
@@ -11114,6 +11117,7 @@ knnp,grasia
 KNNShiny,kartikeyabolar
 kNNvs,eddie0118
 knnwtsim,mtrupiano1
+knobi,anxopaz
 knockoff,msesia
 KnockoffHybrid,cran
 KnockoffScreen,cran
@@ -11192,6 +11196,7 @@ kza,closebrian
 kzs,cran
 l0ara,cran
 L0Learn,hazimehh
+L0TFinv,c2s2-hf
 l1ball,cran
 L1centrality,seungwoo-stat
 l1kdeconv,zhaoli2017
@@ -14682,6 +14687,7 @@ NPIstats,tmaturi
 npiv,cran
 nplplot,danieleweeks
 nplr,mini-pw
+NPLStoolbox,grvanderploeg
 nplyr,jibarozzo
 npmlda,npmldabook
 NPMLEcmprsk,cran
@@ -17218,7 +17224,7 @@ qmvs,ycartes
 qoi,johannesfriedrich
 QoLMiss,atanubhattacharjee
 qountstat,cran
-qpcR,cran
+qpcR,anspiess
 qPCRhelper,cran
 qpcrNorm,bioc
 qPCRtools,lixiang117423
@@ -18423,7 +18429,7 @@ resampledata3,timhesterberg
 resde,ogarciav
 resemble,l-ramirez-lopez
 reservoir,critical-infrastructure-systems-lab
-reservoirnet,thomasferte
+reservoirnet,reservoirpy
 reservr,ashesitr
 RESET,cran
 resevol,bradduthie
@@ -18546,7 +18552,7 @@ Rfolding,cran
 rfordummies,rfordummies
 Rforestry,forestry-labs
 RFormatter,evolutics
-rfPermute,ericarcher
+rfPermute,swfsc
 RFplus,jonnathan-landi
 RFPM,cran
 rfPred,bioc
@@ -21828,7 +21834,7 @@ spreadr,csqsiew
 SPREDA,yili-hong
 SPreg,cran
 spreval,glgrabow
-sprex,ericarcher
+sprex,swfsc
 springer,feizhoustat
 springpheno,amwootte
 spRingsteen,obrienjoey
@@ -22419,6 +22425,7 @@ survELtest,news11
 SurvEval,cran
 survex,modeloriented
 survexp.fr,cran
+survextrap,chjackson
 survey,r-forge
 surveybootstrap,dfeehan
 SurveyCC,237triangle
@@ -22499,6 +22506,7 @@ svDialogs,sciviews
 svDialogstcltk,sciviews
 SVDMx,sinafala
 SVDNF,louiszam
+SveltePlots,pascal-schmidt
 SVEMnet,akarl46556
 svenssonm,lexizhu
 svglite,r-lib
@@ -23798,6 +23806,7 @@ TUFLOWR,matt-s-gibbs
 tufte,rstudio
 tufterhandout,sachsmc
 tugboat,dmolitor
+TUGLab,cran
 TukeyC,jcfaria
 TukeyGH77,tingtingzhan
 tukeytrend,cran
@@ -23861,7 +23870,7 @@ twosamples,cdowd
 TwoSampleTest.HD,cran
 twosigma,edvanburen
 twoStageDesignTMLE,sg-tlr
-TwoStepCLogit,cran
+TwoStepCLogit,thierduch
 TwoTimeScales,angelacar
 twotrials,samch93
 twoway,friendly
@@ -24424,7 +24433,7 @@ vosonSML,vosonlab
 Voss,cran
 vote,hanase
 voteogram,hrbrmstr
-voteSim,cran
+voteSim,antoinerollandlyon
 votesmart,decktools
 votesys,cran
 vottrans,cran

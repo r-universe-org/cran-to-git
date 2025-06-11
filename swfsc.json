@@ -11,6 +11,16 @@
     "url": "https://github.com/swfsc/esdm"
   },
   {
+    "package": "rfPermute",
+    "maintainer": "Eric Archer <eric.ivan.archer@gmail.com>",
+    "url": "https://github.com/swfsc/rfpermute"
+  },
+  {
+    "package": "sprex",
+    "maintainer": "Eric Archer <eric.ivan.archer@gmail.com>",
+    "url": "https://github.com/swfsc/sprex"
+  },
+  {
     "package": "swfscAirDAS",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/swfsc/swfscairdas",
@@ -19,7 +29,6 @@
   {
     "package": "swfscDAS",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
-    "url": "https://github.com/swfsc/swfscdas",
-    "registry": "archived"
+    "url": "https://github.com/swfsc/swfscdas"
   }
 ]
