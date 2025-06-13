@@ -293,7 +293,7 @@ affylmGUI,bioc
 affyPLM,bioc
 AffyRNADegradation,bioc
 AFheritability,cran
-AFM,mbeauvai
+AFM,cran
 afmToolkit,cran
 afpt,marcoklh
 AFR,cran
@@ -3185,6 +3185,7 @@ climetrics,shirintaheri
 climextRemes,paciorek
 ClimInd,fergusreiggracia
 ClimMobTools,agrdatasci
+climodr,envima
 ClimProjDiags,cran
 climwin,liamdbailey
 clinDataReview,openanalytics
@@ -3664,7 +3665,7 @@ comstab,jsegrestin
 comtradr,ropensci
 con2aqi,marsdu1989
 con2lki,markbaas
-Conake,wanbitching
+Conake,cran
 concatenate,jamesdunham
 concatipede,tardipede
 concaveman,joelgombin
@@ -7669,7 +7670,7 @@ fullRankMatrix,pweidemueller
 fullROC,yuerany
 fun,yihui
 func2vis,raghvendra5688
-FunCC,agostino-torti
+FunCC,cran
 FuncDiv,gavinmdouglas
 funcharts,unina-sfere
 funchir,michaelchirico
@@ -9028,6 +9029,7 @@ greenclust,jeffjetton
 greencrab.toolkit,abigailkeller
 GREENeR,calfarog
 greenfeedr,gmbog
+greenR,sachit27
 Greg,gforge
 GregoryQuadrature,dhetting
 gregRy,olekwojcik
@@ -10506,7 +10508,7 @@ IOLS,nassimzbalah
 ioncopy,budczies
 ionet,carol-seven
 IONiseR,bioc
-ionr,ukuvainik
+ionr,cran
 iopsych,allengoebl
 iosmooth,cran
 iotables,ropengov
@@ -11330,7 +11332,7 @@ lavaanPlot,alishinski
 lavacreg,chkiefer
 LavaCvxr,cran
 lavaSearch2,bozenne
-Lavash,boriking81
+Lavash,cran
 LAWBL,jinsong-chen
 lawstat,vlyubchich
 lax,paulnorthrop
@@ -13688,7 +13690,7 @@ MSA2dist,bioc
 msae,cran
 msaeHB,cran
 msaenet,nanxstats
-msaFACE,lwlr
+msaFACE,cran
 msamp,m-fer1
 msaR,zachcp
 MsBackendMassbank,bioc
@@ -17165,7 +17167,7 @@ QCEWAS,mostpj
 QCGWAS,mostpj
 qch,tmaryhuard
 qckitfastq,bioc
-qcluster,cran
+qcluster,lcorag
 qcmetrics,bioc
 qcoder,ropensci
 qcpm,glamb85
@@ -18726,6 +18728,7 @@ rinat,ropensci
 rineq,kdevkdev
 ring,mrc-ide
 ringostat,selesnow
+RInno,cran
 RInside,eddelbuettel
 RInSp,nicola-zaccarelli
 rintcal,maarten14c
@@ -19437,7 +19440,7 @@ rsatscan,cran
 RSauceLabs,johndharrison
 RSBJson,tverbeke
 rsbml,bioc
-RSC,cran
+RSC,lcorag
 rSCA,xanderwangcsl
 RSCAT,act-org
 rscc,sigbertklinke
@@ -20319,7 +20322,7 @@ secrettext,daniellequinn
 secrlinear,murrayefford
 secsse,rsetienne
 sectorgap,sinast3000
-secure,amishra-stats
+secure,cran
 secuTrialR,swissclinicaltrialorganisation
 sedproxy,earthsystemdiagnostics
 see,easystats
@@ -21578,6 +21581,7 @@ SpatialExtremes,r-forge
 spatialFDA,bioc
 SpatialfdaR,jamesramsay5
 SpatialFeatureExperiment,bioc
+spatialfusion,cran
 spatialGE,cran
 SpatialGEV,cran
 SpatialGraph,garciapintado
@@ -21983,6 +21987,7 @@ sssc,lethargy608
 SSsimple,davezes
 Sstack,klmatlock
 sstvars,saviviro
+ssutil,johnaponte
 ssviz,bioc
 SSVS,sabainter
 ssw,nanxstats
@@ -23185,6 +23190,7 @@ tidyseurat,stemangiola
 tidySingleCellExperiment,bioc
 tidysmd,r-causal
 tidySpatialExperiment,bioc
+tidyspec,marceelrf
 tidysq,biogenies
 tidystats,willemsleegers
 tidystopwords,computationalstylistics

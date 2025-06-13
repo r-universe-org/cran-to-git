@@ -2,11 +2,13 @@
   {
     "package": "ODEnetwork",
     "maintainer": "Dirk Surmann <surmann@statistik.tu-dortmund.de>",
-    "url": "https://github.com/surmann/odenetwork"
+    "url": "https://github.com/surmann/odenetwork",
+    "registry": "archived"
   },
   {
     "package": "ODEsensitivity",
     "maintainer": "Dirk Surmann <surmann@statistik.tu-dortmund.de>",
-    "url": "https://github.com/surmann/odesensitivity"
+    "url": "https://github.com/surmann/odesensitivity",
+    "registry": "archived"
   }
 ]

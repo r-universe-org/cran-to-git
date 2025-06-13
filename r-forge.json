@@ -622,7 +622,8 @@
     "package": "rNOMADS",
     "maintainer": "Daniel C. Bowman <danny.c.bowman@gmail.com>",
     "url": "https://github.com/r-forge/rnomads",
-    "subdir": "pkg/rNOMADS"
+    "subdir": "pkg/rNOMADS",
+    "registry": "archived"
   },
   {
     "package": "RobAStBase",
