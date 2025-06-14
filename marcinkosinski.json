@@ -2,7 +2,8 @@
   {
     "package": "archivist.github",
     "maintainer": "Marcin Kosinski <m.p.kosinski@gmail.com>",
-    "url": "https://github.com/marcinkosinski/archivist.github"
+    "url": "https://github.com/marcinkosinski/archivist.github",
+    "registry": "archived"
   },
   {
     "package": "coxphSGD",
@@ -12,6 +13,7 @@
   {
     "package": "RZabbix",
     "maintainer": "Marcin Kosinski <m.p.kosinski@gmail.com>",
-    "url": "https://github.com/marcinkosinski/rzabbix"
+    "url": "https://github.com/marcinkosinski/rzabbix",
+    "registry": "archived"
   }
 ]

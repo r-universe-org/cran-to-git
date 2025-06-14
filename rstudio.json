@@ -302,7 +302,8 @@
   {
     "package": "tfestimators",
     "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
-    "url": "https://github.com/rstudio/tfestimators"
+    "url": "https://github.com/rstudio/tfestimators",
+    "registry": "archived"
   },
   {
     "package": "tfhub",

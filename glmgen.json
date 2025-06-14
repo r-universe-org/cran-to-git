@@ -3,5 +3,10 @@
     "package": "dspline",
     "maintainer": "Ryan Tibshirani <ryantibs@gmail.com>",
     "url": "https://github.com/glmgen/dspline"
+  },
+  {
+    "package": "tvdenoising",
+    "maintainer": "Ryan Tibshirani <ryantibs@gmail.com>",
+    "url": "https://github.com/glmgen/tvdenoising"
   }
 ]

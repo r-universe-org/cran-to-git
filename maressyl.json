@@ -3,12 +3,14 @@
     "package": "LPS",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.lps",
-    "subdir": "LPS"
+    "subdir": "LPS",
+    "registry": "archived"
   },
   {
     "package": "ODB",
     "maintainer": "Sylvain Mareschal <maressyl@gmail.com>",
     "url": "https://github.com/maressyl/r.odb",
-    "subdir": "ODB"
+    "subdir": "ODB",
+    "registry": "archived"
   }
 ]

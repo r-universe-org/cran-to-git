@@ -851,7 +851,8 @@
     "package": "sse",
     "maintainer": "Thomas Fabbro <thomas.fabbro@unibas.ch>",
     "url": "https://github.com/r-forge/power",
-    "subdir": "pkg/sse"
+    "subdir": "pkg/sse",
+    "registry": "archived"
   },
   {
     "package": "stabledist",
@@ -899,7 +900,8 @@
     "package": "tfplot",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/tfplot"
+    "subdir": "pkg/tfplot",
+    "registry": "archived"
   },
   {
     "package": "tframe",
