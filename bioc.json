@@ -1215,7 +1215,7 @@
   {
     "package": "biodb",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
-    "url": "https://github.com/ceabiodb/biodb",
+    "url": "https://gitlab.com/rbiodb/biodb",
     "registry": "bioc"
   },
   {
@@ -5098,7 +5098,7 @@
   },
   {
     "package": "getDEE2",
-    "maintainer": "Mark Ziemann <mark.ziemann@gmail.com>",
+    "maintainer": "Mark 0000-0002-7688-6974 Ziemann <mark.ziemann@gmail.com>",
     "url": "https://github.com/markziemann/getdee2",
     "registry": "bioc"
   },
