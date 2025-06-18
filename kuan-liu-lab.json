@@ -1,5 +1,10 @@
 [
   {
+    "package": "bayesmsm",
+    "maintainer": "Kuan Liu <kuan.liu@utoronto.ca>",
+    "url": "https://github.com/kuan-liu-lab/bayesmsm"
+  },
+  {
     "package": "causens",
     "maintainer": "Larry Dong <larry.dong@mail.utoronto.ca>",
     "url": "https://github.com/kuan-liu-lab/causens"
