@@ -1034,6 +1034,11 @@
     "url": "https://github.com/ropensci/taxize"
   },
   {
+    "package": "taxizedb",
+    "maintainer": "Tamás Stirling <stirling.tamas@gmail.com>",
+    "url": "https://github.com/ropensci/taxizedb"
+  },
+  {
     "package": "taxlist",
     "maintainer": "Miguel Alvarez <kamapu78@gmail.com>",
     "url": "https://github.com/ropensci/taxlist"
