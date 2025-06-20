@@ -5003,7 +5003,6 @@ DExMA,bioc
 DEXSeq,bioc
 dexter,dexter-psychometrics
 dextergui,jessekps
-dexterMST,timobechger
 df2yaml,showteeth
 DFA,victormesquita40
 DFA.CANCOR,bpoconnor
@@ -6382,6 +6381,7 @@ eq5d,fragla
 eq5dsuite,mathsinhealth
 EQL,cran
 EQRN,opasche
+eqtesting,jack-fitzgerald
 equalCovs,cran
 Equalden.HD,cran
 EQUALrepeat,cran
@@ -7553,6 +7553,7 @@ fracdist,leemorinucf
 FracKrigingR,nidagreen
 fracprolif,spgarbet
 fractaldim,hanase
+fractalforest,sergiocostafh
 FractalParameterEstimation,cran
 fractD,fscopaolomancuso
 FRACTION,cran
@@ -7691,6 +7692,7 @@ FuncMap,bryanhanson
 FuncNN,b-thi
 FunctanSNP,cran
 functional,klutometis
+FunctionalCalibration,vitorribasp
 functiondepends,jakubsob
 funData,clarahapp
 fundiversity,funecology
@@ -7996,6 +7998,7 @@ geeM,lsubioscomputing
 GEEmediate,daniel258
 geepack,hojsgaard
 geesmv,cran
+geess,rtishii
 geessbin,rtishii
 geeVerse,zzz1990771
 geex,bsaul
@@ -9242,7 +9245,7 @@ guardianapi,evanodell
 GUD,rh8liuqy
 Guerry,friendly
 guescini,ramiromagno
-guess,gojiplus
+guess,finite-sample
 GUEST,cran
 guidedPLS,rikenbit
 guideR,larmarange
@@ -9653,7 +9656,7 @@ hipathia,bioc
 hiphop,cran
 hippie,crew102
 HIPPO,bioc
-hipread,cran
+hipread,ipums
 hiReadsProcessor,bioc
 HIREewas,bioc
 HiResTEC,janlisec
@@ -10331,6 +10334,7 @@ ineq.2d,sklivan
 ineqJD,albertoarcagni
 inet,jmbh
 iNETgrate,bioc
+INetTool,valeriapolicastro
 iNEXT,johnsonhsieh
 iNEXT.3D,annechao
 iNEXT.4steps,cran
@@ -13389,7 +13393,6 @@ MNB,carrascojalmar
 mnda,behnam-yousefi
 mnem,bioc
 mnet,jmbh
-mnis,evanodell
 mniw,mlysy
 mnlfa,alexanderrobitzsch
 MNLpred,manuelneumann
@@ -15658,6 +15661,7 @@ PBImisc,pbiecek
 PBIR,cran
 pbivnorm,brentonk
 pbkrtest,hojsgaard
+pblm,marcoenea
 pbm,jonathanrd
 pbmcapply,kvnkuang
 PBNPA,cran
@@ -17115,6 +17119,7 @@ purrrlyr,hadley
 Pursuit,cran
 pushbar,johncoene
 pushoverr,briandconnelly
+putior,pjt222
 puzzle,syneoshealth
 pvac,bioc
 PVAClone,psolymos
@@ -17374,6 +17379,7 @@ quantileDA,viroli
 QuantileGH,cran
 QuantileGradeR,king-county-restaurant-grading
 QuantileNPCI,yan16
+QuantilePeer,ahoundetoungan
 quantilogram,cran
 quantiseqr,bioc
 quantities,r-quantities
@@ -20644,6 +20650,7 @@ sgt,cran
 shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
+shadowVIMP,oktawiastaburo
 shannon,imranshakoor
 ShapDoE,lqyang0714
 shape,karlines
@@ -21345,6 +21352,7 @@ SnowballC,nalimilan
 snowboot,vlyubchich
 SnowData,niamhmimnagh
 snowfall,cran
+snowflakeauth,posit-dev
 snowflakes,svetlanaeden
 snowFT,hanase
 snowquery,mermelstein
@@ -22702,6 +22710,7 @@ table.glue,bcjaeger
 table1,benjaminrich
 Table1Heatmap,pcscp
 tablecompare,eutwt
+TableContainer,jiefei-wang
 tabledown,masiraji
 tableeasy,xixi-code
 TableHC,cran
@@ -22898,7 +22907,7 @@ telescope,gertraudmalsinerwalli
 TELP,cran
 telraamStats,ketsiaguichard
 TempCont,burriach
-tempdisagg,christophsax
+tempdisagg,cynkra
 temperatureresponse,low-decarie
 templateICAr,mandymejia
 templates,wahani
@@ -24067,6 +24076,7 @@ UnplanSimon,cran
 unrepx,rvlenth
 unrtf,ropensci
 unstruwwel,stefanieschneider
+unsum,lhdjung
 unsystation,haeran-cho
 untb,robinhankin
 unusualprofile,wjschne

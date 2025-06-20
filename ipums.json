@@ -1,5 +1,10 @@
 [
   {
+    "package": "hipread",
+    "maintainer": "Derek Burk <ipums+cran@umn.edu>",
+    "url": "https://github.com/ipums/hipread"
+  },
+  {
     "package": "ipumsr",
     "maintainer": "Derek Burk <ipums+cran@umn.edu>",
     "url": "https://github.com/ipums/ipumsr"
