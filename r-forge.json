@@ -513,8 +513,7 @@
     "package": "pems.utils",
     "maintainer": "Karl Ropkins <karl.ropkins@gmail.com>",
     "url": "https://github.com/r-forge/pems",
-    "subdir": "pkg/pems.utils",
-    "registry": "archived"
+    "subdir": "pkg/pems.utils"
   },
   {
     "package": "plasma",
