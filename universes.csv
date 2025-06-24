@@ -986,7 +986,7 @@ ausplotsR,ternaustralia
 AustralianPoliticians,rohanalexander
 AUtests,cran
 auth0,curso-r
-authoritative,epiverse-connect
+authoritative,bisaloo
 auto.pca,navinkumarnedunchezhian
 AutoAds,nemtsevvv
 autoBagging,vcerqueira
@@ -3207,6 +3207,7 @@ ClinicalUtilityRecal,anumishra
 clinify,atorus-research
 clinmon,lilleoel
 clinPK,insightrx
+clinpubr,yotasama
 clinsig,jimlemon
 ClinSigMeasures,mikemalekahmadi
 clinspacy,kdpsingh
@@ -5373,6 +5374,7 @@ DNAcopy,bioc
 DNAcycP2,bioc
 dnafractal,cran
 DNAfusion,bioc
+DNAmf,heojunoh
 DNAmixturesLite,tgraversen
 DNAmotif,cran
 DNAseqtest,hasinurkhan
@@ -6004,7 +6006,7 @@ EEML,ranjitstat
 eemR,pmassicotte
 eeptools,jknowles
 eesim,sakoehler7
-EESPCA,cran
+EESPCA,hrobertfrost
 ef,colinpmillar
 EFA.dimensions,bpoconnor
 EFA.MRFA,cran
@@ -11025,6 +11027,7 @@ keras,t-kalinowski
 keras3,rstudio
 kerastuneR,eagerai
 kerDAA,cran
+kerdiest,iullibarri
 KERE,cran
 kergp,roustant
 kerndwd,boxiang-wang
@@ -11499,6 +11502,7 @@ lessR,dgerbing
 lessSEM,jhorzek
 lest,s-fleck
 lestat,pettermostad
+letsHerp,joao-svalencar
 letsR,macroecology
 lettervalue,gilberto-sassi
 levi,bioc
@@ -12167,6 +12171,7 @@ MantaID,molaison
 MantelCorr,bioc
 manydata,globalgov
 manydist,amarkos
+ManyIVsNets,avishekb9
 manymodelr,nelson-gon
 manymome,sfcheung
 manymome.table,sfcheung
@@ -12990,6 +12995,7 @@ midfieldr,midfieldr
 midi,lmjl-alea
 MIDN,cran
 midoc,elliecurnow
+midr,ryo-asashi
 midrangeMCP,bendeivide
 miebl,cran
 miesmuschel,mlr-org
@@ -13063,6 +13069,7 @@ minsample1,anik4322
 minsample2,anik4322
 minSNPs,ludwighoon
 MINTplates,cran
+MinTriadic,leksro
 minty,gesistsa
 mintyr,tony2015116
 mipfp,jojo-
@@ -14391,6 +14398,7 @@ neuRosim,ktabelow
 neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
 neutrostat,kzst
+neutroSurvey,pankajdas7
 nevada,permaverse
 neverhpfilter,justinmshea
 new.dist,akmn35
@@ -15703,7 +15711,7 @@ PCFAM,yihuizhou
 pcg,doer0
 pcgen,pariya
 PCGII,haowang47
-PCGSE,cran
+PCGSE,hrobertfrost
 pch,cran
 pchc,cran
 pci,samsemegne
@@ -18465,7 +18473,7 @@ resemble,l-ramirez-lopez
 reservoir,critical-infrastructure-systems-lab
 reservoirnet,reservoirpy
 reservr,ashesitr
-RESET,cran
+RESET,hrobertfrost
 resevol,bradduthie
 reshape,hadley
 reshape2,hadley
@@ -20110,6 +20118,7 @@ scDIFtest,ddebeer
 scDotPlot,bioc
 scds,bioc
 scdtb,mightymetrika
+SCE,loong2020
 scellpam,jdmde
 SCEM,kserkcho
 scenes,shinyworks
@@ -20413,6 +20422,7 @@ selenium,ashbythorpe
 seleniumPipes,johndharrison
 SELEX,bioc
 SELF,cran
+SelfControlledCaseSeries,ohdsi
 selfingTree,cran
 seliNDRIx,venkatesanraja
 sem,zhenghuanie
@@ -21721,6 +21731,7 @@ SpectralTAD,bioc
 Spectran,litgde
 SpectraQL,bioc
 spectre,csim063
+SpectriPy,bioc
 spectrolab,meireles
 Spectrum,crj32
 sped,cjgeyer
@@ -23077,6 +23088,7 @@ tgver,tgve
 TH.data,thothorn
 thaipdf,lightbridge-ks
 thames,njirons
+thamesmix,m-crypto645
 thankr,dirkschumacher
 ThankYouStars,ksmzn
 theft,hendersontrent
@@ -23472,8 +23484,8 @@ ToxicoGx,bioc
 toxpiR,toxpi
 toxSummary,phuse-org
 TP.idm,cran
-TPAC,cran
-TPACData,cran
+TPAC,hrobertfrost
+TPACData,hrobertfrost
 tpAUC,cran
 tpc,bips-hb
 TPCselect,cynyus
@@ -24193,7 +24205,7 @@ valr,rnabioco
 valueEQ5D,sheejamk
 valuemap,curycu
 valueSetCompare,mathsinhealth
-VAM,cran
+VAM,hrobertfrost
 vamc,my-jiang
 VancouvR,mountainmath
 vandalico,ajimenezvalverde

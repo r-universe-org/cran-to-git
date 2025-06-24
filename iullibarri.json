@@ -1,5 +1,10 @@
 [
   {
+    "package": "kerdiest",
+    "maintainer": "Ignacio López-de-Ullibarri <ignacio.lopezdeullibarri@udc.es>",
+    "url": "https://github.com/cran/kerdiest"
+  },
+  {
     "package": "MPBoost",
     "maintainer": "Ignacio López-de-Ullibarri <ignacio.lopezdeullibarri@udc.es>",
     "url": "https://github.com/cran/MPBoost"

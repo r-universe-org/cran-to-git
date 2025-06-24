@@ -12280,6 +12280,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SpectriPy",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/spectripy",
+    "registry": "bioc"
+  },
+  {
     "package": "SPEM",
     "maintainer": "Xinyi YANG <yangxinyi@picb.ac.cn>",
     "url": "https://git.bioconductor.org/packages/SPEM",

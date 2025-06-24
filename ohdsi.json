@@ -125,6 +125,11 @@
     "url": "https://github.com/ohdsi/resultmodelmanager"
   },
   {
+    "package": "SelfControlledCaseSeries",
+    "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
+    "url": "https://github.com/ohdsi/selfcontrolledcaseseries"
+  },
+  {
     "package": "SqlRender",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/sqlrender"
