@@ -141,6 +141,11 @@
     "url": "https://github.com/tidyverse/tidyverse"
   },
   {
+    "package": "vitals",
+    "maintainer": "Simon Couch <simon.couch@posit.co>",
+    "url": "https://github.com/tidyverse/vitals"
+  },
+  {
     "package": "vroom",
     "maintainer": "Jennifer Bryan <jenny@posit.co>",
     "url": "https://github.com/tidyverse/vroom"

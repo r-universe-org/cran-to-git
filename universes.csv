@@ -7,6 +7,7 @@ a4Core,bioc
 a4Preproc,bioc
 a4Reporting,bioc
 AalenJohansen,cran
+aamatch,cran
 AATtools,spiritspeak
 ABACUS,bio-statistics
 ABarray,bioc
@@ -2048,6 +2049,7 @@ bodycomp,gleidsonuern
 bodycompref,p-mq
 boggy,ramiromagno
 boilerpipeR,mannau
+boilerplate,go-bayes
 BOIN,cran
 boinet,cran
 boiwsa,timginker
@@ -4554,7 +4556,6 @@ DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
 DataClean,xiaoruizhu
 datacleanr,the-hull
-DataCombine,christophergandrud
 dataCompare,seewe
 dataCompareR,capitalone
 datacutr,pharmaverse
@@ -5771,7 +5772,6 @@ DysPIAData,lemonwang2020
 DySS,luyouepiusf
 e1071,cran
 e2tree,massimoaria
-E4tools,ekleiman1
 eadrm,ericbair-sciome
 eaf,mlopez-ibanez
 Eagle,r-forge
@@ -6905,6 +6905,7 @@ FastPCS,kvak
 fastPLS,cran
 fastplyr,nicchr
 fastpng,coolbutuseless
+fastpolicytree,jcussens
 fastpos,johannes-titz
 FastqCleaner,bioc
 fastqcr,kassambara
@@ -8276,7 +8277,6 @@ geslaR,eireextremes
 gesso,cran
 gestalt,egnha
 gestate,jamescbell
-gesttools,danieltompsett
 GET,myllym
 getable,liao961120
 GetBCBData,msperlin
@@ -8449,6 +8449,7 @@ GGMnonreg,donaldrwilliams
 ggmosaic,haleyjeppson
 ggmr,hugogasca
 GGMridge,sth1402
+ggmRSCU,cran
 ggmsa,bioc
 GGMselect,cran
 ggmugs,broccolito
@@ -13621,6 +13622,7 @@ mousetrap,pascalkieslich
 move,bart1
 move2,bart1
 movecost,gianmarcoalberti
+movedesign,ecoisilva
 movegroup,simondedman
 moveHMM,theomichelot
 movementsync,tuomaseerola
@@ -14676,6 +14678,7 @@ NostalgiR,cran
 not,ychen101
 notebookutils,cran
 notifyme,epijim
+notionR,eflores89
 NovelDistns,mutuasam
 novelforestSG,hrlai
 novelqualcodes,desiquintans
@@ -15069,6 +15072,7 @@ openaistream,libingfei
 openalexR,ropensci
 openappr,lilyclements
 openbankeR,nik01010
+OpenBARD,cran
 openblender,cran
 opencage,ropensci
 OpenCL,s-u
@@ -15388,6 +15392,7 @@ pacta.loanbook,rmi-pacta
 pacta.multi.loanbook,rmi-pacta
 pacu,cldossantos
 PACVr,michaelgruenstaeudl
+paddleR,arnold-kakas
 Pade,aadler
 padma,bioc
 PADOG,bioc
@@ -16989,7 +16994,6 @@ pscl,atahk
 pscore,jwiley
 PScr,diegogallardo87
 psd,abarbour
-psData,ropengov
 PSDistr,cran
 psdr,yhankcheng
 pseudo,kevin444
@@ -19640,7 +19644,6 @@ rticles,rstudio
 rticulate,stefanocoretta
 rtiddlywiki,byzheng
 rtide,millerlp
-rties,ebmtnprof
 RTIGER,rfael0cm
 rtika,ropensci
 rtiktoken,davzim
@@ -24450,6 +24453,7 @@ vita,endercp
 vitae,mitchelloharawild
 vital,robjhyndman
 vitality,cran
+vitals,tidyverse
 vivainsights,microsoft
 vivaldi,greshamlab
 vivid,alaninglis
