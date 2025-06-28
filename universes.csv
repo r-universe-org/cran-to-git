@@ -1050,6 +1050,7 @@ aVirtualTwins,prise6
 avlm,michaellindon
 avocado,nikdata
 avotrex,joe-wayman
+avseqmc,cran
 awardFindR,ropensci
 awdb,kbvernon
 aweek,reconhub
@@ -1373,6 +1374,7 @@ BayesProject,ghahn-hsph
 bayesQR,driesbenoit
 bayesRecon,idsia
 bayesreg,cran
+BayesRegDTR,jlimrasc
 Bayesrel,juliuspfadt
 BayesRep,samch93
 BayesRepDesign,samch93
@@ -1618,7 +1620,7 @@ BGLR,cran
 bgmfiles,australianantarcticdivision
 BGmisc,r-computing-lab
 bgmm,pbiecek
-bgms,maartenmarsman
+bgms,bayesian-graphical-modelling-lab
 BGPhazard,eami91
 bgsmtr,v2south
 bgumbel,pcbrom
@@ -3123,6 +3125,7 @@ Claddis,graemetlloyd
 cladoRcpp,nmatzke
 ClaimsProblems,esanchez-coder
 clam,maarten14c
+clampSeg,florianpein
 ClamR,jonathanlees
 clap,pridiltal
 clarabel,oxfordcontrol
@@ -3184,6 +3187,7 @@ clifro,ropensci-archive
 CliftLRD,cran
 clikcorr,cran
 climaemet,ropenspain
+ClimaRep,cran
 climate,bczernecki
 climateStability,hannahlowens
 climatol,jaggh
@@ -4980,6 +4984,7 @@ detectors,simonpcouch
 detectR,crbaek
 detectRUNS,bioinformatics-ptp
 detectseparation,ikosmidis
+detectXOR,jornlotsch
 DetLifeInsurance,joaquinauza
 DetMCD,kvak
 detourr,casperhart
@@ -5076,7 +5081,6 @@ DiceDesign,chelbert
 DiceEval,chelbert
 DiceKriging,roustant
 DICEM,myeomans
-DiceOptim,cran
 diceplot,maflot
 diceR,alinetalhouk
 DiceView,irsn
@@ -8016,6 +8020,7 @@ gemini,bioc
 gemini.R,jhk0530
 gemma.R,bioc
 gemma2,fboehm
+gemR,khliland
 gems,svizcaya
 gemtc,gertvv
 gen2stage,cran
@@ -13159,7 +13164,6 @@ mitre,motherhack3r
 MittagLeffleR,strakaps
 mix,cran
 mixAK,cran
-MixAll,joblion
 mixAR,geobosh
 mixbox,mahditeimouri
 mixcat,papgeo
@@ -14767,7 +14771,7 @@ nsga3,shramkoartem
 NSM3,drg-123
 nsm3data,kim3-sudo
 NSO1212,makhgal-ganbold
-nsp,cran
+nsp,pfryz
 nspmix,yong3738
 nsprcomp,chrsigg
 NSR,bmaitner
@@ -16971,7 +16975,6 @@ PRP,artemiszhao
 prqlr,prql
 prrd,eddelbuettel
 PRROC,jgraux
-PRSim,manuelabrunner
 PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
@@ -18386,6 +18389,7 @@ ReMFPCA,haghbinh
 remify,tilburgnetworkgroup
 remindR,cran
 remiod,xsswang
+REMixed,cran
 REMLA,bryansaul
 rEMM,mhahsler
 remmy,long39ng
@@ -19871,6 +19875,7 @@ SAEval,andrea-fasulo
 SAFARI,estfernan
 SAFD,asunlubiano
 safe,bioc
+safeframe,epiverse-trace
 safejoin,samedwardes
 SAFEPG,qiantang0326
 safer,talegari
@@ -20405,7 +20410,7 @@ seismicRoll,gillian-earthscope
 sejmRP,mi2-warsaw
 Sejong,haven-jeon
 SEL,bbnkmp
-selcorr,mcunibas
+selcorr,marcoegv
 Select,cran
 selectapref,jcrichardson617
 SelectBoost,fbertran
@@ -21331,6 +21336,7 @@ smurf,cran
 SMUT,wjzhong
 SMVar,sblanck
 smvgraph,sigbertklinke
+smvr,eitsupi
 sn,cran
 sna,cran
 SNAGEE,bioc
@@ -24016,7 +24022,7 @@ ump,cjgeyer
 Umpire,cran
 umx,tbates
 UnalR,estadisticaun
-unbalhaar,cran
+unbalhaar,pfryz
 UncDecomp,kim-seonghyeon
 uncertainty,hugogasca
 uncertainUCDP,doktorandahl
@@ -24371,7 +24377,6 @@ VIC5,cug-hydro
 VICatMix,j-ackierao
 vICC,donaldrwilliams
 vici,sistm
-VicmapR,justincally
 Vicus,rikenbit
 video,ashbaldry
 vidger,bioc
