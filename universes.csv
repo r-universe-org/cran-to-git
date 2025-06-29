@@ -244,9 +244,9 @@ ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
 ADSIHT,cran
 AdsorpR,cran
-adsoRptionCMF,cran
-adsoRptionCV,cran
-adsoRptionMCMC,cran
+adsoRptionCMF,piey27
+adsoRptionCV,piey27
+adsoRptionMCMC,piey27
 adSplit,bioc
 ADTSA,leilamarvian
 AdvancedBasketballStats,cran
@@ -762,6 +762,7 @@ archetypal,dchristop
 archetyper,mkorvink
 archetypes,mjaeugster
 archiDART,archidart
+ARCHISSUR,morgane-m
 archive,r-lib
 archiveRetriever,liserman
 archivist,pbiecek
@@ -815,7 +816,6 @@ aroma.cn,henrikbengtsson
 aroma.core,henrikbengtsson
 aroma.light,bioc
 Arothron,aprofico
-ARPALData,paolomaranzano
 ARpLMEC,cran
 ARPobservation,jepusto
 arpr,thinkr-open
@@ -1452,7 +1452,6 @@ BCEE,detal9
 bcf,jaredsmurray
 bcfrailph,cran
 bcfrailphdv,cran
-bcgam,cran
 BCgee,nicolalunardon
 BCHM,jjacklee116
 Bchron,andrewcparnell
@@ -1815,7 +1814,6 @@ biodbUniprot,bioc
 Biodem,fedster
 bioDist,bioc
 BiodiversityR,roelandkindt
-biodosetools,biodosetools-team
 BIOdry,wilarhen
 BioGA,bioc
 biogas,sashahafner
@@ -2201,6 +2199,7 @@ BreastSubtypeR,bioc
 breathtestcore,dmenne
 breathteststan,dmenne
 bReeze,chgrl
+bregr,wanglabcsu
 brendaDb,bioc
 BRETIGEA,andymckenzie
 brew,gregfrog
@@ -5442,6 +5441,7 @@ donut,paulnorthrop
 donutsk,dkibalnikov
 doofa,doer0
 doolkit,nialsig
+door,yijiehe
 DoOR.data,ropensci
 DoOR.functions,ropensci
 doParabar,mihaiconstantin
@@ -6601,6 +6601,7 @@ ExactCIdiff,cran
 ExactCIone,cran
 ExactCox,cran
 exactextractr,isciences
+exactLTRE,chrissy3815
 ExactMed,caubm
 ExactMultinom,resinj
 exactRankTests,thothorn
@@ -7318,6 +7319,7 @@ flipdownWidgets,fanggong
 flippant,cran
 flipr,permaverse
 flipscores,cran
+flir,etiennebacher
 float,wrathematics
 flock,ivannp
 flocker,jsocolar
@@ -9156,7 +9158,6 @@ GRTo,cran
 grwat,tsamsonov
 GSA,cran
 GSA.UN,cagarciae
-GSAfisherCombined,cran
 gsalib,broadinstitute
 GSALightning,bioc
 gsaot,pietrocipolla
@@ -13245,7 +13246,7 @@ MLBC,cran
 mlbench,kurthornik
 mlbplotR,camdenk
 mlbstats,pdwaggoner
-MLCIRTwithin,cran
+MLCIRTwithin,francescobartolucci
 MLCM,cran
 MLCOPULA,cran
 MLDataR,statsgary
@@ -13499,7 +13500,6 @@ moexer,x1o
 MOFA2,bioc
 MOFAT,vroshanjoseph
 MOGAMUN,bioc
-mogavs,cran
 mogsa,bioc
 mojson,chriswweibo
 mokken,avdrark
@@ -13535,7 +13535,6 @@ monochromeR,cararthompson
 monocle,bioc
 monoClust,vinhtantran
 monographaR,mreginato
-MonoInc,cran
 monolix2rx,nlmixr2
 monomvn,rbgramacy
 MonoPhy,oschwery
@@ -13923,7 +13922,7 @@ MultiJoin,markusloecher
 MultiKink,chuangwan1994
 multilandr,phuais
 multilaterals,edoardobaldoni
-MultiLCIRT,cran
+MultiLCIRT,francescobartolucci
 multilevel,cran
 multilevelcoda,florale
 multilevelmediation,falkcarl
@@ -14857,7 +14856,6 @@ Observation,paulhibbing
 OBsMD,cran
 obsSens,glsnow
 oc,wmay
-OCA,cran
 occ,jrad1
 occCite,ropensci
 occugene,bioc
@@ -16935,7 +16933,7 @@ ProSportsDraftData,ginsburg1
 Prostar,bioc
 protag,yuanbofaith
 protein8k,simonliles
-ProteinPCA,cran
+ProteinPCA,piey27
 proteinProfiles,bioc
 ProteoBayes,mariechion
 ProteoDisco,bioc
@@ -21087,6 +21085,7 @@ sinew,yonicd
 singcar,jorittmo
 SingleCaseES,jepusto
 SingleCellAlleleExperiment,bioc
+SingleCellComplexHeatMap,fanxurong
 SingleCellExperiment,bioc
 singleCellHaystack,alexisvdb
 SingleCellSignalR,bioc
@@ -21194,7 +21193,6 @@ sld,newystats
 SLDAssay,cran
 sleekts,arefinsheen
 SleepCycles,christineblume
-sleeperapi,njbultman
 sleepr,rethomics
 sleepwalk,anders-biostat
 sleev,dragontaoran
@@ -21316,7 +21314,6 @@ smoothROCtime,cran
 smoothSurv,cran
 smoothtail,numbersman77
 SmoothTensor,cran
-SmoothWin,hamed-ebi
 smoothy,cran
 smoots,dschulz13
 smoppix,bioc

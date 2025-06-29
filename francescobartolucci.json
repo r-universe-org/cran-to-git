@@ -12,7 +12,16 @@
   {
     "package": "LMest",
     "maintainer": "Francesco Bartolucci <francesco.bartolucci@unipg.it>",
-    "url": "https://github.com/cran/LMest",
-    "registry": "archived"
+    "url": "https://github.com/cran/LMest"
+  },
+  {
+    "package": "MLCIRTwithin",
+    "maintainer": "Francesco Bartolucci <francesco.bartolucci@unipg.it>",
+    "url": "https://github.com/cran/MLCIRTwithin"
+  },
+  {
+    "package": "MultiLCIRT",
+    "maintainer": "Francesco Bartolucci <francesco.bartolucci@unipg.it>",
+    "url": "https://github.com/cran/MultiLCIRT"
   }
 ]
