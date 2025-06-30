@@ -2486,7 +2486,6 @@ Canek,martinloza
 Canopy,yuchaojiang
 canprot,jedick
 cansim,mountainmath
-CANSIM2R,cran
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
 CAOP.RAA.2024,patterninstitute
@@ -2962,7 +2961,6 @@ chilemapas,pachadotdev
 ChillModels,rpertille
 chillR,eikeluedeling
 chimeraviz,bioc
-chinese.misc,cran
 ChineseNames,psychbruce
 ChIPanalyser,bioc
 ChIPComp,bioc
@@ -4301,7 +4299,6 @@ ctgt,nxu312
 cthist,bgcarlisle
 cthreshER,fpzhang2015
 ctl,dannyarends
-CTM,jimliu741523
 ctmcd,cran
 ctmcmove,ehanks
 cTMed,jeksterslab
@@ -5931,6 +5928,7 @@ ecospat,ecospat
 ecostate,james-thorson-noaa
 ecostats,dwarton
 ecostatscale,adamtclark
+ecoteach,weharris
 EcotoneFinder,cran
 ecotox,benjaminhlina
 ecotoxicology,cran
@@ -8670,6 +8668,7 @@ givitiR,cran
 gjam,jimclarkatduke
 gJLS2,weiakanedeng
 GJRM,giampmarra
+GJRM.data,giampmarra
 gk,dennisprangle
 GK2011,leeper
 gkgraphR,racorreia
@@ -10345,7 +10344,7 @@ iNETgrate,bioc
 INetTool,valeriapolicastro
 iNEXT,johnsonhsieh
 iNEXT.3D,annechao
-iNEXT.4steps,cran
+iNEXT.4steps,kaihsianghu
 iNEXT.beta3D,annechao
 infectiousR,lightbluetitan
 infer,tidymodels
@@ -10848,8 +10847,6 @@ JGL,cran
 JGR,markush81
 jgsbook,cran
 JICO,peiyaow
-jiebaR,qinwf
-jiebaRD,qinwf
 jinjar,davidchall
 jipApprox,rhobis
 jjb,coatless-rpkg
@@ -19119,7 +19116,7 @@ robotstxt,ropensci
 RobPC,hsnbulut
 RobPer,cran
 robqda,cran
-robreg3S,cran
+robreg3S,claudioagostinelli
 robregcc,amishra-stats
 RobRegression,godichon-baggioni
 RoBSA,fbartos
@@ -20942,6 +20939,7 @@ sim1000G,cran
 sim2Dpredictr,jmleach-bst
 simaerep,openpharma
 SIMAT,bioc
+SimBaRepro,cran
 SimBIID,tjmckinley
 simBKMRdata,khasa006
 simboot,shearer
@@ -22778,7 +22776,6 @@ TANDEM,nanne-aben
 tanggle,bioc
 TangledFeatures,allen-1242
 tangles,cran
-TangPoemR,cran
 tangram,spgarbet
 tangram.pipe,thomasgstewart
 TapeR,vochr
@@ -24313,6 +24310,7 @@ vectorbitops,cran
 VectorCodeR,cran
 vectorsurvR,cran
 vectorwavelet,toygur
+vecvec,mitchelloharawild
 VedicDateTime,prajwalkpatil
 veesa,goodekat
 vegalite,hrbrmstr

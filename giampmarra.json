@@ -8,5 +8,10 @@
     "package": "GJRM",
     "maintainer": "Giampiero Marra <giampiero.marra@ucl.ac.uk>",
     "url": "https://github.com/cran/GJRM"
+  },
+  {
+    "package": "GJRM.data",
+    "maintainer": "Giampiero Marra <giampiero.marra@ucl.ac.uk>",
+    "url": "https://github.com/cran/GJRM.data"
   }
 ]
