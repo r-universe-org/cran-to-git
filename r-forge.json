@@ -912,7 +912,8 @@
     "package": "tframePlus",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/tframePlus"
+    "subdir": "pkg/tframePlus",
+    "registry": "archived"
   },
   {
     "package": "tm",
