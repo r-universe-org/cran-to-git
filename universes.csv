@@ -1411,7 +1411,7 @@ BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
-bayou,cran
+bayou,uyedaj
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
@@ -3196,7 +3196,6 @@ climextRemes,paciorek
 ClimInd,fergusreiggracia
 ClimMobTools,agrdatasci
 climodr,envima
-ClimProjDiags,cran
 climwin,liamdbailey
 clinDataReview,openanalytics
 clinDR,snthomas99
@@ -4258,7 +4257,6 @@ CSESA,xia-zhang
 CSGo,adsoncostanzifilho
 cshapes,lucgirardin
 CSHShydRology,cshs-hydrology
-CSIndicators,cran
 csmaps,csids
 CSMES,koendebock
 csmGmm,ryansunwork
@@ -4276,7 +4274,6 @@ cstab,jmbh
 CSTE,hwj0828
 cstidy,csids
 cstime,csids
-CSTools,cran
 csurvey,xliaosdsu
 csutil,csids
 csv,bergsmat
@@ -6374,7 +6371,6 @@ epsiwal,shabbychef
 EPT,dkimstatlab
 epts,mohammad-sayari
 epubr,ropensci
-epwshiftr,ideas-lab-nus
 EPX,jhtomal
 epxToR,cran
 eq5d,fragla
@@ -6511,7 +6507,6 @@ eummd,cran
 eunis.habitats,ramiromagno
 Eunomia,ohdsi
 eurlex,michalovadek
-eurocordexr,mitmat
 eurodata,alekrutkowski
 euroleaguer,flavioleccese92
 europeanaR,alekoure
@@ -7051,7 +7046,7 @@ fedmatch,c0webster
 fedstatAPIr,denchpokepon
 fedup,bioc
 fedz1,shaf1430
-FeedbackTS,cran
+FeedbackTS,ssoubeyrand
 fEGarch,dschulz13
 feisr,ruettenauer
 FELLA,bioc
@@ -8620,12 +8615,12 @@ gigs,ropensci
 GIGSEA,bioc
 GillespieSSA,rcannood
 GillespieSSA2,rcannood
+gilmour,cran
 gim,zhangh12
 gimap,fredhutch
 gimme,gateslab
 GIMMEgVAR,williamsandra
 GimmeMyPlot,ecamenen
-gimmeTools,cran
 gimms,environmentalinformatics-marburg
 Gini,marsdu1989
 giniCI,novidu
@@ -11089,6 +11084,7 @@ kimisc,krlmlr
 kin.cohort,victor-moreno
 kindisperse,moshejasper
 kinematics,pabrod
+kinesis,nfrerebeau
 KingCountyHouses,cran
 KinMixLite,petergreen5678
 kinship2,mayoverse
@@ -14230,7 +14226,6 @@ ncar,cran
 ncbit,eastman
 NCC,pavlakrotka
 ncdf4,davidwpierce
-ncdf4.helpers,pacificclimate
 ncdfCF,r-cf
 ncdfFlow,bioc
 ncdfgeom,doi-usgs
@@ -15717,7 +15712,6 @@ PCGSE,hrobertfrost
 pch,cran
 pchc,cran
 pci,samsemegne
-PCICt,jameshiebert
 pcIRT,christinehohensinn
 PCL,andrewyyp
 pcLasso,tibshirani
@@ -19816,7 +19810,6 @@ rzmq,ropensci
 RZooRoH,tdruet
 s2,r-spatial
 s20x,stats-uoa
-s2dv,cran
 s2net,jlaria
 s3,brokamp-group
 s3.resourcer,obiba
@@ -22087,7 +22080,6 @@ starsExtra,michaeldorman
 starsTileServer,bart1
 STARTdesign,haoluns
 starter,ddsjoberg
-startR,cran
 STARTS,alexanderrobitzsch
 startup,henrikbengtsson
 startupmsg,peterruckdeschel
@@ -24053,7 +24045,6 @@ uniqtag,sjackman
 Uniquorn,bioc
 uniReg,cran
 unisensR,unisens
-uniset,bpollner
 UnitCircle,berrij
 unitedR,cran
 unitizer,brodieg
