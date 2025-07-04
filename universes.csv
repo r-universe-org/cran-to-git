@@ -1751,7 +1751,7 @@ BinNor,bernice0321
 binom,sdorairaj
 binomCI,cran
 binomialRF,cran
-binomialtrend,cran
+binomialtrend,csmatyi
 BinOrdNonNor,bernice0321
 binovisualfields,virginiapl
 binpackr,lschneiderbauer
@@ -3037,6 +3037,7 @@ CIDER,zhiyuan-hu-lab
 CIEE,skonigor
 cif,cran
 CIfinder,cran
+ciflyr,mwien
 cifti,muschellij2
 ciftiTools,mandymejia
 CIM,patnik
@@ -3793,6 +3794,7 @@ constructive,cynkra
 contactdata,bisaloo
 container,rpahl
 ContaminatedMixt,cran
+contdid,bcallaway11
 contentid,cboettig
 conText,prodriguezsosa
 contfrac,robinhankin
@@ -9883,7 +9885,7 @@ HybridExpress,bioc
 HybridMicrobiomes,bewicklab
 hybridModels,fernandosm
 HybridMTest,bioc
-hybridogram,cran
+hybridogram,csmatyi
 hybridts,cran
 hyd1d,bafg-bund
 hydflood,bafg-bund
@@ -10555,7 +10557,7 @@ ipbase,dominikkukacka
 ipc,fellstat
 IPCAPS,cran
 IPCWK,cran
-ipcwswitch,cran
+ipcwswitch,ntlgrf
 ipd,ipd-tools
 ipdDb,bioc
 IPDfromKM,naliustat
@@ -11858,6 +11860,7 @@ long2lstmarray,luisgarcez11
 LongCART,madanstat
 longclust,cran
 LongDat,ccy-dev
+LongDecompHE,cran
 longevity,lbelzile
 longit,atanubhattacharjee
 longitudinal,cran
@@ -12339,7 +12342,7 @@ matrisk,cran
 Matrix,r-forge
 matrixcalc,tomkellygenetics
 MatrixCorrelation,khliland
-matrixcut,cran
+matrixcut,csmatyi
 matrixdist,martinbladt
 MatrixEQTL,andreyshabalin
 MatrixExtra,david-cortes
@@ -17182,7 +17185,7 @@ qape,cran
 Qapprox,wpihongzhang
 qbinplots,edwindj
 qbld,ayushmclaren
-QBMS,icarda-git
+QBMS,icarda
 qboxplot,thomaswpike
 qbr,bhii-ksc
 QCA,dusadrian
