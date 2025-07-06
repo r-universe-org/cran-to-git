@@ -7336,6 +7336,7 @@ flowchart,bruigtp
 flowCHIC,bioc
 flowClean,bioc
 flowClust,bioc
+flowcluster,hussein-mahfouz
 flowCore,bioc
 flowCut,bioc
 flowCyBar,bioc
@@ -8598,6 +8599,7 @@ ghibli,ewenme
 Ghost,siyavashshabani
 GhostKnockoff,cran
 ghql,ropensci
+GHRexplore,cran
 GHS,ash0204
 ghyp,quantsulting
 ghypernet,gi0na
@@ -10205,7 +10207,6 @@ image.CornerDetectionHarris,bnosac
 image.libfacedetection,bnosac
 image.LineSegmentDetector,bnosac
 image.Otsu,bnosac
-image.textlinedetector,digi-vub
 image2data,quantmeth
 imageData,briencj
 imagefluency,stm
@@ -10313,6 +10314,7 @@ IncomPair,cran
 incR,pablocapilla
 inctools,sacema
 incubate,lenz99
+inDAGO,indagoverse
 INDEED,bioc
 indelmiss,cran
 independenceWeights,jaredhuling
@@ -10397,6 +10399,7 @@ inline,eddelbuettel
 inlinedocs,tdhock
 inlpubs,jfisher-usgs
 innsight,bips-hb
+ino,loelschlaeger
 inops,moodymudskipper
 InPAS,bioc
 inpdfr,frareb
@@ -12993,6 +12996,7 @@ micss,andreusanso
 midas,shapenaji
 midas2,sullivan0147
 midasHLA,bioc
+MIDASim,mengyu-he
 midasml,jstriaukas
 midasr,mpiktas
 midastouch,philippgaffert
@@ -13624,6 +13628,7 @@ move,bart1
 move2,bart1
 movecost,gianmarcoalberti
 movedesign,ecoisilva
+moveEZ,raeesaganey91
 movegroup,simondedman
 moveHMM,theomichelot
 movementsync,tuomaseerola
@@ -15268,6 +15273,7 @@ ORTSC,mohmedsoudy
 oRus,cran
 OryzaProbe,lym-bioinfo
 OSAT,bioc
+osbng,ordnancesurvey
 osc,steffenkriewald
 oscar,syksy
 OscillatorGenerator,arneschoch811
@@ -17650,7 +17656,6 @@ RandomWalker,spsanderson
 randPack,bioc
 randPedPCA,bryo-han
 RandPro,siddhunitpy
-randquotes,amrrs
 randRotation,bioc
 randtests,f-caeiro
 randtoolbox,r-forge
@@ -18459,6 +18464,7 @@ reproducibleRchunks,brandmaier
 reproj,hypertidy
 repsd,anthonyraborn
 REPTILE,yupenghe
+reptiledb.data,paulesantos
 repurrrsive,jennybc
 RepViz,bioc
 reqres,thomasp85
@@ -19544,6 +19550,7 @@ rsolr,lawremi
 Rsomoclu,xgdgsc
 RSP,aybekec
 rspa,markvanderloo
+rspacer,lacdr
 rSPARCS,cran
 rsparkling,jakubhava
 rsparse,dselivanov
@@ -19635,6 +19642,7 @@ rTensor,rikenbit
 rTensor2,kylecaudle
 rTephra,ajakef
 rtern,grddavies
+rtestim,dajmcdon
 RTextTools,lorenc5
 rtf,schaffman5
 RTFA,cran
@@ -20004,6 +20012,7 @@ sate,cran
 satellite,environmentalinformatics-marburg
 satin,hvillalo
 satres,josesamos
+SATS,wheelerb
 satuRn,bioc
 SaturnCoefficient,davidechicco
 saturnin,cran
@@ -24475,6 +24484,7 @@ vocaldia,cran
 voi,chjackson
 voice,filipezabala
 voiceR,voiceanalyticshub
+voigt,cran
 vol2birdR,adokter
 volatilityTrader,maheshpkumar
 volcano3D,katrionagoldmann
