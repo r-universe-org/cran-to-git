@@ -976,12 +976,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "urbin",
-    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
-    "url": "https://github.com/r-forge/urbin",
-    "subdir": "pkg"
-  },
-  {
     "package": "variables",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/r-forge/ctm",
