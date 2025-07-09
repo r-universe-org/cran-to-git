@@ -4677,12 +4677,6 @@
     "registry": "bioc"
   },
   {
-    "package": "GCPtools",
-    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
-    "url": "https://github.com/bioconductor/gcptools",
-    "registry": "bioc"
-  },
-  {
     "package": "gCrisprTools",
     "maintainer": "Russell Bainer <russ.bainer@gmail.com>",
     "url": "https://git.bioconductor.org/packages/gCrisprTools",

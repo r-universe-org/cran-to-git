@@ -665,7 +665,6 @@
   },
   {
     "package": "parzer",
-    "maintainer": "",
     "url": "https://github.com/ropensci/parzer",
     "registry": "archived"
   },
@@ -683,6 +682,11 @@
     "package": "pdftools",
     "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/pdftools"
+  },
+  {
+    "package": "PFW",
+    "maintainer": "Mason W. Maron <mwmaron2@illinois.edu>",
+    "url": "https://github.com/ropensci/pfw"
   },
   {
     "package": "phonfieldwork",
