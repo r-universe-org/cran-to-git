@@ -786,6 +786,7 @@ arena2r,pedroliman
 arenar,modeloriented
 arf,bips-hb
 arfima,jqveenstra
+ArgentinAPI,lightbluetitan
 Argentum,thomasartopoulos
 argo,shihao-yang
 argoFloats,argocanada
@@ -4141,7 +4142,6 @@ cRegulome,ropensci
 crew,wlandau
 crew.aws.batch,wlandau
 crew.cluster,wlandau
-crfsuite,bnosac
 cricketdata,robjhyndman
 cricketr,tvganesh
 CRImage,bioc
@@ -5279,7 +5279,7 @@ distrEx,r-forge
 DISTRIB,cran
 Distributacalcul,alec42
 distributional,mitchelloharawild
-DistributionIV,aholovchak
+DistributionIV,cran
 DistributionOptimization,cran
 distributions3,alexpghayes
 distributionsrd,ruben0dewitte
@@ -6099,7 +6099,7 @@ elections,cran
 electionsBR,silvadenisson
 electivity,desiquintans
 electoral,albuja
-elevatr,jhollist
+elevatr,usepa
 ElevDistr,liviobaetscher
 elexr,ghing
 elfDistr,matheushjs
@@ -6198,7 +6198,7 @@ EMSNM,denglinsui
 EMSS,sangkyustat
 emstreeR,allanvc
 EMT,uwemenzel
-EMTscore,wenmm
+EMTscore,cran
 emulator,robinhankin
 emuR,ips-lmu
 EncDNA,prabinameher
@@ -9634,6 +9634,7 @@ highcharter,jbkunst
 highd2means,cran
 highDmean,huaiyuzhang
 HighestMedianRules,bixiou
+HighFive,theaeon
 highfrequency,jonathancornelissen
 highlight,hadley
 highlighter,federiva
@@ -10493,6 +10494,7 @@ InterVA4,verbal-autopsy-software
 InterVA5,jarathomas
 interval,michaelfay-niaid
 intervalaverage,myoung3
+intervalpsych,matthiaskloft
 IntervalQuestionStat,garciagarjose
 intervals,edzer
 IntervalSurgeon,daniel-jg
@@ -11289,7 +11291,7 @@ LagSequential,bpoconnor
 Lahman,cdalzell
 LAIr,fchianucci
 LakeMetabolizer,gleon
-lakemorpho,jhollist
+lakemorpho,usepa
 laketemps,gleon
 lakhesis,scollinselliott
 LAM,alexanderrobitzsch
@@ -21344,6 +21346,7 @@ smplot2,smin95
 SMPracticals,cran
 SMR,bendeivide
 sms,dimitrisk
+smsets,ganava4
 sMSROC,cran
 smss,jrnold
 sMTL,gloewing
@@ -23591,6 +23594,7 @@ transformr,thomasp85
 transfR,albandelavenne
 TransGraph,cran
 transite,bioc
+Transition,mark-eis
 translate.logit,nicolas-robette
 tRanslatome,bioc
 translit.uk,amice13
