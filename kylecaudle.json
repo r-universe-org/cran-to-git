@@ -2,12 +2,14 @@
   {
     "package": "LTAR",
     "maintainer": "Kyle Caudle <kyle.caudle@sdsmt.edu>",
-    "url": "https://github.com/cran/LTAR"
+    "url": "https://github.com/cran/LTAR",
+    "registry": "archived"
   },
   {
     "package": "rTensor2",
     "maintainer": "Kyle Caudle <kyle.caudle@sdsmt.edu>",
-    "url": "https://github.com/cran/rTensor2"
+    "url": "https://github.com/cran/rTensor2",
+    "registry": "archived"
   },
   {
     "package": "shuffleCI",
@@ -17,6 +19,7 @@
   {
     "package": "TensorTools",
     "maintainer": "Kyle Caudle <kyle.caudle@sdsmt.edu>",
-    "url": "https://github.com/cran/TensorTools"
+    "url": "https://github.com/cran/TensorTools",
+    "registry": "archived"
   }
 ]
