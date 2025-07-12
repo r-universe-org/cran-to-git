@@ -772,6 +772,7 @@ arcpbf,r-arcgis
 arcpullr,cran
 arcpy,mkoohafkan
 arctools,martakarass
+ArctosR,hrhwilliams
 ArDec,susanabarbosa
 ARDECO,attarco
 ARDL,natsiopoulos
@@ -809,6 +810,7 @@ arkhe,nfrerebeau
 arlclustering,assuom44
 arm,suyusung
 ARMALSTM,cran
+armaOptions,brian-afk-code
 armspp,mbertolacci
 aroma.affymetrix,henrikbengtsson
 aroma.apd,henrikbengtsson
@@ -2046,7 +2048,7 @@ boa,brian-j-smith
 BoardGames,halipahaha
 BOBaFIT,bioc
 bodenmiller,yannabraham
-Bodi,cran
+Bodi,yannig29
 bodsr,dipad-fran-bryden
 bodycomp,gleidsonuern
 bodycompref,p-mq
@@ -3663,6 +3665,7 @@ COMPoissonReg,lotze
 CompositeReliability,jmoonen
 compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
+CompositionalHDDA,cran
 CompositionalML,cran
 CompositionalRF,cran
 compositions,cran
@@ -3798,7 +3801,7 @@ constellation,marksendak
 constrainedKriging,cran
 conStruct,gbradburd
 constructive,cynkra
-contactdata,bisaloo
+contactdata,socialcontactdata
 container,rpahl
 ContaminatedMixt,cran
 contdid,bcallaway11
@@ -3992,7 +3995,7 @@ countsimQC,bioc
 countsplit,anna-neufeld
 countSTAR,bking124
 countToFPKM,aalhendi1707
-countTransformers,cran
+countTransformers,zhang-zeyu
 countts,cran
 coursekata,coursekata
 covadap,cran
@@ -4872,7 +4875,6 @@ demoKde,billvenables
 DemoKin,ivanwilli
 demoShiny,sigbertklinke
 DEMOVA,20k-p
-demu,cran
 demulticoder,grunwaldlab
 demuxmix,bioc
 demuxSNP,bioc
@@ -7740,6 +7742,7 @@ FunWithNumbers,cran
 furniture,tysonstanley
 furrr,futureverse
 fusedMGM,jaehyunparkbiostat
+fusedTree,jeroengoedhart
 fuseMLR,imbs-hl
 fusen,thinkr-open
 fuser,cran
@@ -9274,7 +9277,7 @@ GUIDEseq,bioc
 guildai,guildai
 GUILDS,thijsjanzen
 guiplot,s0521
-GUIProfiler,cran
+GUIProfiler,fdevillar
 Guitar,bioc
 guix.install,bimsbbioinfo
 gumbel,dutangc
@@ -10639,6 +10642,7 @@ IRkernel,irkernel
 irlba,bwlewis
 iRoCoDe,raajash
 IRon,nunompmoniz
+ironseed,reedacartwright
 irr,cran
 IRR2FPR,fbartos
 irrCAC,cran
@@ -10978,6 +10982,7 @@ JuliaConnectoR,stefan-m-lenz
 JuliaFormulae,yjunechoe
 JUMP,cran
 jumps,matteopelagatti
+junco,johnsonandjohnson
 junctions,thijsjanzen
 just.install,carlosyanez
 justifier,cran
@@ -11924,6 +11929,7 @@ lori,genevievelrobin
 LorMe,wangnq111
 LOST,jessica-arbour
 lotri,nlmixr2
+LoTTA,cran
 lotterybr,tomasbp2
 lovecraftr,sergejruff
 lowmemtkmeans,andrewthomasjones
@@ -12192,6 +12198,7 @@ MAnorm2,tushiqi
 MANOVA.RM,smn74
 manta,dgarrimar
 MantaID,molaison
+mantar,kai-nehler
 MantelCorr,bioc
 manydata,globalgov
 manydist,amarkos
@@ -12597,6 +12604,7 @@ meanr,wrathematics
 meanShiftR,jlisic
 meantables,mbcann01
 measr,wjakethompson
+MeasurementDiagnostics,nmercadeb
 MeasurementError.cor,bioc
 measurementProtocol,markedmondson1234
 measurements,matthewabirk
@@ -13715,6 +13723,7 @@ MRFA,chihli
 MRFcov,nicholasjclark
 mrfDepth,psegaert
 mrfse,rodrigorsdc
+MRG,jskoien
 mrgdp,marcoaperezm
 mrgsim.parallel,kylebaron
 mrgsim.sa,kylebaron
@@ -14570,7 +14579,7 @@ nlts,objornstad
 nLTT,thijsjanzen
 nlWaldTest,olehjktu
 NMA,nomahi
-NMADiagT,cran
+NMADiagT,boyanglu
 nmaINLA,gunhanb
 NMAoutlier,petropouloumaria
 nmaplateplot,cran
@@ -16794,6 +16803,7 @@ PriceIndices,jacekbialek
 pricelevels,sweinand
 priceR,stevecondylios
 pricesensitivitymeter,max-alletsee
+pridit,rlieberthal
 prim,tarnduong
 PRIMAL,zichongli5
 primarycensored,epinowcast
@@ -18099,7 +18109,7 @@ rDataPipeline,fairdatapipeline
 rdataretriever,ropensci
 Rdatasets,vincentarelbundock
 rdbnomics,s915
-rdd,cran
+rdd,ddimmery
 rddapp,felixthoemmes
 rddensity,xinweima
 rddi,dswoulf
@@ -18864,7 +18874,7 @@ rjdmarkdown,aqlt
 rjdqa,aqlt
 rjdworkspace,inseefrlab
 rje,rje42
-rjmcmc,cran
+rjmcmc,nickgelling
 RJMCMCNucleosomes,bioc
 rjqpd,bobbyingram
 RJSDMX,amattioc
@@ -19573,7 +19583,7 @@ rsoi,boshek
 Rsolnp,alexiosg
 rsolr,lawremi
 Rsomoclu,xgdgsc
-RSP,cran
+RSP,aybekec
 rspa,markvanderloo
 rspacer,lacdr
 rSPARCS,cran
@@ -20084,7 +20094,7 @@ scagnostics,s-u
 scalablebayesm,cran
 Scale4C,bioc
 scaleAlign,leahfeuerstahler
-scaleboot,cran
+scaleboot,shimosan
 ScaledMatrix,bioc
 Scalelink,cmjcharlton
 scales,r-lib
@@ -20401,7 +20411,7 @@ sedproxy,earthsystemdiagnostics
 see,easystats
 seeclickfixr,justindbk
 seecolor,lovestat
-SeedCalc,cran
+SeedCalc,laerciojuniosilva
 seedCCA,cran
 seededlda,koheiw
 SeedImbibition,cran
@@ -21064,7 +21074,7 @@ simplermarkdown,djvanderlaan
 simpleSeg,bioc
 simpleSetup,christophergandrud
 simpletex,chuxinyuan
-simplexreg,cran
+simplexreg,pengyan2000
 simplextree,peekxc
 SimplicialCubature,jpnolan
 simplifyEnrichment,bioc
@@ -21834,6 +21844,7 @@ SPINA,jwdietrich21
 spINAR,mfaymon
 spinBayes,jrenstat
 spind,levisc8
+spinebil,tinarj
 spinifex,nspyrison
 spinner,pigian
 spinyReg,jchiquet
@@ -23284,6 +23295,7 @@ tidytable,markfairbanks
 tidyterra,dieghernan
 tidytext,juliasilge
 tidytidbits,cran
+tidytitanic,evamaerey
 tidytlg,pharmaverse
 tidytof,bioc
 tidytransit,r-transit
@@ -23489,6 +23501,7 @@ TopKLists,r-forge
 TopKSignal,pievos101
 topoDistance,ianjwang
 topologyGSA,cran
+topolow,omid-arhami
 toposort,tzakharko
 topr,totajuliusd
 toprdata,totajuliusd

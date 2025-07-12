@@ -1,5 +1,11 @@
 [
   {
+    "package": "rdd",
+    "maintainer": "Drew Dimmery <drewd@nyu.edu>",
+    "url": "https://github.com/cran/rdd",
+    "registry": "archived"
+  },
+  {
     "package": "tidyhte",
     "maintainer": "Drew Dimmery <drew.dimmery@univie.ac.at>",
     "url": "https://github.com/ddimmery/tidyhte"

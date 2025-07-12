@@ -18,6 +18,11 @@
     "registry": "archived"
   },
   {
+    "package": "MRG",
+    "maintainer": "Jon Olav Skoien <jon.skoien@gmail.com>",
+    "url": "https://github.com/jskoien/mrg"
+  },
+  {
     "package": "rtop",
     "maintainer": "Jon Olav Skøien <jon.skoien@gmail.com>",
     "url": "https://github.com/cran/rtop"
