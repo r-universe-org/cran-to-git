@@ -5,12 +5,6 @@
     "url": "https://github.com/swfsc/banter"
   },
   {
-    "package": "CruzPlot",
-    "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
-    "url": "https://github.com/swfsc/cruzplot",
-    "registry": "archived"
-  },
-  {
     "package": "eSDM",
     "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
     "url": "https://github.com/swfsc/esdm"
@@ -24,12 +18,6 @@
     "package": "sprex",
     "maintainer": "Eric Archer <eric.ivan.archer@gmail.com>",
     "url": "https://github.com/swfsc/sprex"
-  },
-  {
-    "package": "swfscAirDAS",
-    "maintainer": "Sam Woodman <sam.woodman@noaa.gov>",
-    "url": "https://github.com/swfsc/swfscairdas",
-    "registry": "archived"
   },
   {
     "package": "swfscDAS",
