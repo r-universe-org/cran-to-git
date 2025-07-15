@@ -788,6 +788,7 @@ arf,bips-hb
 arfima,jqveenstra
 ArgentinAPI,lightbluetitan
 Argentum,thomasartopoulos
+argminCS,xu3cl4
 argo,shihao-yang
 argoFloats,argocanada
 argonDash,rinterface
@@ -1353,6 +1354,7 @@ bayesMig,hanase
 bayesmix,cran
 BayesMixSurv,asmahani
 bayesmlogit,dewelve
+BayesMoFo,cran
 BayesMortalityPlus,cran
 bayesmove,joshcullen
 bayesMRM,mansukoh
@@ -1450,7 +1452,7 @@ BCDAG,alesmascaro
 bcdata,bcgov
 BCDating,einian85
 BcDiag,ewouddt
-BCEA,n8thangreen
+BCEA,giabaio
 BCEE,detal9
 bcf,jaredsmurray
 bcfrailph,cran
@@ -1632,6 +1634,7 @@ bgx,bioc
 BH,eddelbuettel
 BHAI,cran
 Bhat,mezarafael
+bhetGP,parulvijay
 BHH2,kjetil1001
 bhm,statapps
 bhmbasket,wojcieko
@@ -3315,6 +3318,7 @@ ClusterStability,armadillouqam
 clustertend,kwstat
 clusterv,anacletolab
 ClusterVAR,aniebee
+clusterWebApp,yjzhou16
 ClustGeo,chavent
 clustifyr,bioc
 ClustImpute,o1iv3r
@@ -3760,6 +3764,7 @@ ConjointChecks,ben-domingue
 conjurer,sidharthmacherla
 conleyreg,cdueben
 conmet,cran
+conMItion,gjywang
 ConNEcT,nabod0815
 connectapi,posit-dev
 connectcreds,posit-dev
@@ -8045,6 +8050,7 @@ gencor,helgem
 genCountR,damoncharlesroberts
 gendata,flh3
 gender,lmullen
+genderapi,genderapi
 genderBR,meirelesff
 gendercoder,ropensci
 GenderInfer,cran
@@ -8780,6 +8786,7 @@ glossr,montesmariana
 glow,traversc
 glpkAPI,mihai-sysbio
 gLRTH,cran
+glsm,cran
 GLSME,cran
 glue,tidyverse
 glueDo,hswerdfe
@@ -9957,7 +9964,6 @@ hystReet,johannesfriedrich
 hytest,cran
 I14Y,lgnbhl
 i18n,rich-iannone
-i2extras,reconverse
 i3pack,solivella
 IAcsSPCR,johnjsl7
 iAdapt,cran
@@ -13958,6 +13964,7 @@ multimark,bmcclintock
 multiMarker,silviadangelo
 MultiMed,bioc
 multimedia,krisrs1128
+multimediate,samarafk
 multiMiR,bioc
 multimix,jmcurran
 MultimodalExperiment,bioc
@@ -19887,6 +19894,7 @@ saeHB.ME.beta,ratihrodliyah
 saeHB.panel,veliatrimarliana
 saeHB.panel.beta,dianrahmawatisalis
 saeHB.spatial,arinams
+saeHB.TF.beta,nasyazahira
 saeHB.twofold,reymath99
 saeHB.unit,alfrzlp
 saeHB.ZIB,rizqinar
@@ -21383,6 +21391,7 @@ snapKrig,deankoch
 snapshot,asgr
 snazzieR,detectivefierce
 SNBdata,enricoschumann
+snc,theotherdrwells
 snem,takayukikawa
 snfa,tkmckenzie
 SNFtool,cran
@@ -24150,6 +24159,7 @@ ura,bengoehring
 urbin,arne-henningsen
 urca,bpfaff
 urlchecker,r-lib
+urlexplorer,marekprokop
 urlparse,dyfanjones
 urlshorteneR,dmpe
 urltools,ironholds
@@ -24775,7 +24785,7 @@ WGScan,cran
 WgtEff,joshlmiller1978
 WH,guillaumebiessy
 WhatIf,iqss
-WhatsR,cran
+WhatsR,gesiscss
 whatthreewords,davidasmith
 wheatmap,zwdzwd
 when,josesamos
@@ -24904,6 +24914,7 @@ WOTPLY,gabrielelubatti
 wowa,cran
 woylier,numbats
 wpa,microsoft
+wpeR,gr3602
 wPerm,cran
 WPKDE,xiaotongliu2001
 wpm,bioc
