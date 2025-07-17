@@ -1,5 +1,10 @@
 [
   {
+    "package": "AncReg",
+    "maintainer": "Markus Ulmer <markus.ulmer@stat.math.ethz.ch>",
+    "url": "https://github.com/markusul/ancreg"
+  },
+  {
     "package": "SDModels",
     "maintainer": "Markus Ulmer <markus.ulmer@stat.math.ethz.ch>",
     "url": "https://github.com/markusul/sdmodels"

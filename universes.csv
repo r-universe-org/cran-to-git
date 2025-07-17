@@ -144,6 +144,7 @@ ADAMgui,bioc
 adana,cran
 AdapSamp,keydom
 ADAPT,bioc
+adapt3,dormancy1
 adapt4pv,cran
 adaptalint,maxconway
 adaptDiag,graemeleehickey
@@ -562,6 +563,7 @@ Anaquin,bioc
 AncestryMapper,eoh-gh
 AnchorRegression,simzim96
 ANCOMBC,bioc
+AncReg,markusul
 and,rossellhayes
 andrews,sigbertklinke
 Andromeda,ohdsi
@@ -2498,7 +2500,6 @@ cansim,mountainmath
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
 CAOP.RAA.2024,patterninstitute
-cape,annaltyler
 caper,davidorme
 capesData,leobiazoli
 capesR,hugoavmedeiros
@@ -2967,6 +2968,7 @@ childesr,langcog
 childeswordfreq,n-albudoor
 childfree,zpneal
 childsds,mvogel78
+ChileDataAPI,lightbluetitan
 chilemapas,pachadotdev
 ChillModels,rpertille
 chillR,eikeluedeling
@@ -7554,6 +7556,7 @@ fPortfolio,r-forge
 fpow,baharev
 fpp2,robjhyndman
 fpp3,robjhyndman
+fpROC,luismurao
 fptdApprox,jjserra68
 FPV,cran
 fqacalc,ecomodteam
@@ -7946,6 +7949,7 @@ GCCfactor,rl1081
 GCD,oblarquez
 gcdnet,archer-yang-lab
 gcerisk,cran
+GCEstim,jorgevazcabral
 gchartsmap,odeleongt
 gcite,muschellij2
 gcKrig,hanzifei
@@ -8313,6 +8317,7 @@ GetoptLong,jokergoo
 getPass,wrathematics
 getProxy,selesnow
 GetQuandlData,msperlin
+getRad,aloftdata
 gets,gsucarrat
 getspanel,moritzpschwarz
 getspres,magosil86
@@ -8377,6 +8382,7 @@ ggbump,davidsjoberg
 ggchangepoint,pursuitofdatascience
 ggcharts,thomas-neitmann
 ggChernoff,selbosh
+ggchord,dangjem
 GGClassification,fvcampos
 ggcleveland,mpru
 ggcompare,hmu-wh
@@ -10474,7 +10480,6 @@ interactiveDisplayBase,bioc
 Interatrix,lbbe-software
 interca,intercapackage
 InterCellar,bioc
-InteRD,chencxxy28
 interep,feizhoustat
 IntEREst,bioc
 interface,dereckmezquita
@@ -12642,6 +12647,7 @@ medparser,oortelli
 medrxivr,ropensci
 medScan,umich-cphds
 MEDseq,keefe-murphy
+MedZIsc,cran
 meerva,cran
 meetupapi,zacdav
 mefa,psolymos
@@ -12877,6 +12883,7 @@ mevr,haraldschellander
 mewAvg,apintar
 MexBrewer,paezha
 mexhaz,cran
+MexicoDataAPI,lightbluetitan
 mexicolors,alexplatasl
 mExplorer,reimand0
 MF.beta4,annechao
@@ -14155,6 +14162,7 @@ mycaas,brancaccioandrea
 Mychisq,atchanut
 myClim,ibot-geoecology
 mycobacrvR,cran
+mycolorsTB,cran
 mycor,cardiomoon
 myCRAN,barryzee
 mygene,bioc
@@ -17001,7 +17009,6 @@ PRP,artemiszhao
 prqlr,prql
 prrd,eddelbuettel
 PRROC,jgraux
-PRSPGx,zsviolet
 pRSR,cran
 prt,nbenn
 PRTree,neimaier
@@ -18640,6 +18647,7 @@ RFplus,jonnathan-landi
 RFPM,cran
 rfPred,bioc
 Rfractran,cran
+rfriend,cran
 rFSA,joshuawlambert
 Rfssa,haghbinh
 rfVarImpOOB,markusloecher
@@ -22475,6 +22483,7 @@ supervisedPRIM,dashaub
 SupMZ,myaseen208
 suppdata,ropensci
 SuppDists,cran
+support,cran
 support.BWS,cran
 support.BWS2,cran
 support.BWS3,cran
@@ -23498,6 +23507,7 @@ TopKSignal,pievos101
 topoDistance,ianjwang
 topologyGSA,cran
 topolow,omid-arhami
+toporanga,mbq
 toposort,tzakharko
 topr,totajuliusd
 toprdata,totajuliusd
@@ -24389,6 +24399,7 @@ verbalisr,magnusdv
 verdata,hrdag
 verhoeff,condwanaland
 verification,cran
+verifyr2,ejuhjav
 vermeulen,ramiromagno
 versioning,cran
 versions,goldingn

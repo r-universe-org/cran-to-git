@@ -15,6 +15,11 @@
     "url": "https://github.com/lightbluetitan/cardiodatasets"
   },
   {
+    "package": "ChileDataAPI",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/chiledataapi"
+  },
+  {
     "package": "ColombiAPI",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/colombiapi"
@@ -48,6 +53,11 @@
     "package": "MedDataSets",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/meddatasets"
+  },
+  {
+    "package": "MexicoDataAPI",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/mexicodataapi"
   },
   {
     "package": "NeuroDataSets",
