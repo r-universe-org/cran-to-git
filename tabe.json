@@ -1,5 +1,10 @@
 [
   {
+    "package": "allometry",
+    "maintainer": "Takeshi Abe <tabe@fixedpoint.jp>",
+    "url": "https://github.com/cran/allometry"
+  },
+  {
     "package": "rhosa",
     "maintainer": "Takeshi Abe <tabe@fixedpoint.jp>",
     "url": "https://github.com/tabe/rhosa"

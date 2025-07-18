@@ -1,5 +1,10 @@
 [
   {
+    "package": "monitOS",
+    "maintainer": "Thibaud Coroller <thibaud.coroller@novartis.com>",
+    "url": "https://github.com/novartis/monitos"
+  },
+  {
     "package": "RBesT",
     "maintainer": "Sebastian Weber <sebastian.weber@novartis.com>",
     "url": "https://github.com/novartis/rbest"
