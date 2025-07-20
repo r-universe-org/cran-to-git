@@ -2751,6 +2751,7 @@ CDSS,chockemeyer
 CDVI,vishnumrstat
 CDVineCopulaConditional,cran
 ceas,jamespeapen
+ceblR,awosoga
 CEC,swarm-lab
 CEDA,cran
 CEEMDANML,sandipgarai
@@ -3698,7 +3699,6 @@ Conake,wanbitching
 concatenate,jamesdunham
 concatipede,tardipede
 concaveman,joelgombin
-conclust,cran
 concom,stla
 ConconiAnaerobicThresholdTest,waldronlab
 concordance,insongkim
@@ -4103,7 +4103,6 @@ cpp11armadillo,pachadotdev
 cpp11bigwig,rnabioco
 cpp11eigen,pachadotdev
 cpp11qpdf,pachadotdev
-cpp11tesseract,pachadotdev
 cppcheckR,stla
 cppdoubles,nicchr
 cppRouting,vlarmet
@@ -5563,6 +5562,7 @@ drda,albertopessia
 DRDID,pedrohcgs
 DrDimont,kathbaum
 DRDRtest,weng-gw
+dream,cran
 dreamer,rich-payne
 dreamerr,lrberge
 dreamlet,bioc
@@ -5616,6 +5616,7 @@ DSAIRM,ahgroup
 DSAM,lark-max
 dsample,cran
 dsb,niaid
+dsBase,stuartwheater
 DSBayes,rvaradhan
 dscore,d-score
 dscoreMSM,atanubhattacharjee
@@ -7816,7 +7817,7 @@ GABB,cran
 GACFF,hoshmandcomputer
 GAD,cran
 GADAG,magalichampion
-gadget2,cran
+gadget2,bthe
 gadget3,gadget-framework
 gafit,cran
 gaga,bioc
@@ -8187,6 +8188,7 @@ genstab,jacks306
 genSurv,arturstat
 gensvm,gjjvdburg
 GenTag,biagolini
+gentransmuted,cran
 genTS,tucai
 GenTwoArmsTrialSize,cran
 GenVisR,bioc
@@ -8404,6 +8406,7 @@ ggdensity,jamesotto852
 ggdist,mjskay
 ggdmc,yxlin
 ggdmcHeaders,yxlin
+ggdmcModel,yxlin
 ggDoE,toledo60
 ggDoubleHeat,pursuitofdatascience
 gge,kwstat
@@ -8969,7 +8972,6 @@ GPCsign,morgane-m
 GPEMR,ruqaiya41
 GPFDA,gpfda
 GPfit,cran
-gpg,jeroen
 GPGame,vpicheny
 GpGp,joeguinness
 gpindex,marberts
@@ -9226,7 +9228,6 @@ gslnls,jorischau
 gsloid,benmarwick
 GSM,cran
 gsMAMS,tpatni719
-gsmoothr,cran
 GSMX,cran
 GSODR,ropensci
 gson,guangchuangyu
@@ -14803,7 +14804,6 @@ nRegression,srivastavbudugutta
 NRejections,mayamathur
 nricens,eisuke-inoue
 nrlR,danieltomaro13
-NSAE,cran
 nsarfima,cran
 nscancor,chrsigg
 NScluster,cran
@@ -15141,6 +15141,7 @@ openmeteo,tpisel
 openmetrics,atheriel
 OpenMindat,quexiang
 OpenML,openml
+openmpp,mattwarkentin
 openMSE,blue-matter
 OpenMx,openmx
 openNLP,kurthornik
@@ -17950,7 +17951,6 @@ RCLabels,matthewheun
 RClickhouse,imsmwu
 RClimacell,nikdata
 rclipboard,sbihorel
-RclusTool,cran
 RCM,bioc
 rCMA,wolfgangkonen
 rcmdcheck,r-lib
@@ -18728,7 +18728,6 @@ rGREAT,bioc
 RGreenplum,mwillumz
 RGremlinsConjoint,statuser
 rGroovy,thospfuller
-RGS,shuo-yang-sysu
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
@@ -20511,7 +20510,6 @@ semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,sem-in-r
-SemiPar,cran
 SemiPar.depCens,nago2020
 semisup,bioc
 semlbci,sfcheung
@@ -22061,7 +22059,6 @@ ssimparser,sthonnard
 ssize,bioc
 ssize.fdr,cran
 ssizeRNA,ranbi1990
-SSLR,cran
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
 ssmodels,fsbmat-ufv
@@ -22914,7 +22911,6 @@ tclust,valentint
 Tcomp,ellisp
 tcpl,usepa
 tcplfit2,usepa
-TCPMOR,shuo-yang-sysu
 TCRconvertR,seshadrilab
 TCseq,bioc
 tcxr,firefly-cpp
@@ -24256,6 +24252,7 @@ vagalumeR,r-music
 vagam,cran
 VAJointSurv,boennecd
 valaddin,egnha
+valdr,kh-vald22
 valection,cran
 valentine,tadascience
 VALERIE,cran
