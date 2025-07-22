@@ -3043,6 +3043,7 @@ cia,spaceodyssey
 CIAAWconsensus,meijaj
 CIARA,gabrielelubatti
 CICA,jeffreydurieux
+cicalc,gsk-biostatistics
 ciCalibrate,samch93
 ciccr,sokbae
 cicero,bioc
@@ -5207,6 +5208,7 @@ disagg2,erinmh
 disaggR,inseefr
 DisaggregateTS,cran
 disaggregation,timcdlucas
+DisasterAlert,leilamarvian
 disastr.api,chris-dworschak
 disbayes,chjackson
 discAUC,jefriedel
@@ -7831,6 +7833,7 @@ galah,atlasoflivingaustralia
 galamm,lcbc-uio
 galaxias,atlasoflivingaustralia
 galigor,selesnow
+galisats,lechjaszowski
 gallery,txiao95
 GALLO,pablobio
 galts,jbytecode
@@ -8021,6 +8024,7 @@ GEEaSPU,junghi
 geeasy,hojsgaard
 geeCRT,hengshiyu
 geecure,yiniu06
+geeLite,mtkurbucz-ucl
 geeM,lsubioscomputing
 GEEmediate,daniel258
 geepack,hojsgaard
@@ -9395,6 +9399,7 @@ haploR,cran
 HaploSim,albartcoster
 haplotyper,gastonquero
 haplotypes,cnrakt
+HaploVar,t-macnish
 happign,paul-carteron
 happytime,cran
 hapsim,cran
@@ -10125,7 +10130,7 @@ idendr0,tsieger
 IdeoViz,bioc
 ider,hinohide
 IDetect,cran
-IDF,cran
+IDF,felixfauer
 idiffomix,koyelucd
 iDINGO,cran
 idiogram,bioc
@@ -12818,6 +12823,7 @@ metaSeq,bioc
 metaseqR2,bioc
 MetaSKAT,leeshawn
 metasnf,branchlab
+metasplines,cran
 MetaStan,gunhanb
 MetaSubtract,imnolte73
 metaSurvival,shubhrampandey
@@ -15447,6 +15453,7 @@ padr,edwinth
 pafdR,msperlin
 PAFit,thongphamthe
 pafr,dwinter
+PAGE,jessica306a
 pagedown,rstudio
 pagemap,swsoyee
 pagenum,kwstat
@@ -17996,6 +18003,7 @@ rCNV,piyalkarum
 rco,jcrodriguez1989
 rcoder,nyuglobalties
 RCognito,cran
+rCoinbase,jgquantscripts
 rcoins,cityriverspaces
 RColetum,geo-sapiens
 rcollectadhd,jmnolan9
@@ -20912,6 +20920,7 @@ showtext,yixuan
 showtextdb,yixuan
 shp2graph,lbb220
 shrink,biometrician
+ShrinkageTrees,tijn-jacobs
 ShrinkCovMat,anestistouloumis
 shrinkDSM,cran
 shrinkem,cran
@@ -21188,7 +21197,7 @@ sitmo,coatless-rpkg
 sitools,jonasstein
 sitree,inasevmon
 sitreeE,inasevmon
-sits,e-sensing
+sits,ropensci
 sivirep,epiverse-trace
 sivs,mmahmoudian
 SixSigma,emilopezcano
@@ -23016,6 +23025,7 @@ terminaldigits,cran
 tern,insightsengineering
 tern.gee,insightsengineering
 tern.mmrm,insightsengineering
+tern.rbmi,insightsengineering
 Ternary,ms609
 ternarynet,bioc
 ternvis,cran
@@ -24832,7 +24842,6 @@ widgetframe,trafficonese
 widgetTools,bioc
 widyr,juliasilge
 WienR,raphaelhartmann
-wiesbaden,sumtxt
 wig,ramiromagno
 wiggleplotr,bioc
 wikibooks,cran
