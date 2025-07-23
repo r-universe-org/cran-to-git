@@ -1472,6 +1472,7 @@ BCRA,cran
 BCRANK,bioc
 bcrm,mikesweeting
 bcROCsurface,toduckhanh
+bcRP,juliocollazos64
 bcrypt,jeroen
 bcSeq,bioc
 BCSub,sunnypig1988
@@ -2438,6 +2439,7 @@ Cairo,s-u
 CAISEr,fcampelo
 calACS,agu-1
 CALANGO,fcampelo
+calcal,robjhyndman
 calcite,josiahparry
 CalcThemAll.PRM,alexwaterboybezzina
 Calculator.LR.FNs,cran
@@ -3619,6 +3621,7 @@ COMIX,shgrky
 COMMA,kimberlywebb
 commafree,t-kalinowski
 CommEcol,a-s-melo
+commecometrics,mariahm1995
 CommKern,aljensen89
 common,dbosak01
 CommonDataModel,cran
@@ -3838,6 +3841,7 @@ convdistr,johnaponte
 ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
 convergEU,federico-m-stefanini
+ConversationAlign,reilly-conceptscognitionlab
 conversim,chaoliu-cl
 convert,bioc
 convertBCD,cran
@@ -5842,6 +5846,7 @@ easystats,easystats
 easysurv,maple-health-group
 easySVG,ytdai
 easyVerification,jonasbhend
+easyViz,cran
 eat,miriamesteve
 eatATA,beckerbenj
 eatDB,cran
@@ -7066,6 +7071,7 @@ fedmatch,c0webster
 fedstatAPIr,denchpokepon
 fedup,bioc
 fedz1,shaf1430
+fee,rtgodwin
 FeedbackTS,ssoubeyrand
 fEGarch,dschulz13
 feisr,ruettenauer
@@ -7713,6 +7719,7 @@ funcharts,unina-sfere
 funchir,michaelchirico
 FunChisq,joemsong
 FuncMap,bryanhanson
+funcMapper,antoniof1704
 FuncNN,b-thi
 FunctanSNP,cran
 functional,klutometis
@@ -10801,6 +10808,7 @@ iucnr,paulesantos
 ivaBSS,cran
 IVAS,bioc
 IVCor,scottpanhan
+ivdesc,sumtxt
 ivdesign,cran
 ivDiag,cran
 IVDML,cyrillsch
@@ -11050,6 +11058,7 @@ kdevine,tnagler
 kDGLM,silvaneojunior
 kdist,tlamontsmith
 kdml,jrjthompson
+kdps,ucsd-salem-lab
 kdry,kapsner
 kebabs,bioc
 kedd,iagogv3
@@ -12574,6 +12583,7 @@ mcvis,kevinwang09
 mcwr,dcschneider
 md,cran
 md.log,haghish
+MD2sample,wolfgangrolke
 md4r,rundel
 mda,trevorhastie
 mDAG,wjzhong
@@ -12755,6 +12765,7 @@ metacom,taddallas
 MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
 metaConvert,corentinjgosling
+metacor,ikerugr
 metacore,atorus-research
 MetaCycle,gangwug
 MetaCyto,bioc
@@ -13390,6 +13401,7 @@ mltools,ben519
 mlts,munchfab
 mlVAR,cran
 MLVSBM,chabert-liddell
+MLwrap,jmartinezgarcia
 mlxR,marclavielle
 MLZ,quang-huynh
 MM,robinhankin
@@ -13833,6 +13845,7 @@ MSmix,cmollica
 MSML,mommy003
 msmsEDA,bioc
 msmsTests,bioc
+MSMU,cran
 MSMwRA,hsnbulut
 MSnbase,bioc
 MSnID,bioc
@@ -14692,6 +14705,7 @@ nonparaeff,arecibo
 nonparametric.bayes,erikseulean
 Nonpareil,lmrodriguezr
 NonParRolCor,jomopo
+nonparTrendR,dariasur
 NonProbEst,luiscastro193
 nonprobsvy,ncn-foreigners
 nonsmooth,jrjthompson
@@ -15396,6 +15410,7 @@ overdisp,fsrafael25
 overlap,mikemeredith
 overlapping,cran
 overlapptest,cran
+overshiny,nicholasdavies
 overture,kurtis-s
 overturemapsr,denironyx
 overtureR,arthurgailes
@@ -15556,6 +15571,7 @@ PanJen,cran
 pannotator,nunzioknerr
 PanomiR,bioc
 panp,bioc
+PANPRSnext,cran
 PANR,bioc
 panstarrs,uskovgs
 PantaRhei,pwbogaart
@@ -16642,6 +16658,7 @@ povmap,ssa-statistical-team-projects
 pow.int,jondebove
 powdist,cran
 powdR,benmbutler
+PoweR,lafaye
 power.transform,oncoray
 Power2Stage,detlew
 poweRbal,sophiekersting
@@ -16690,6 +16707,7 @@ PPInfer,bioc
 ppitables,katilingban
 PPLasso,cran
 pplot,cran
+ppls,vguillemot
 ppmf,christopherkenny
 ppmHR,shu-d
 PPMiss,tsprass
@@ -18276,6 +18294,7 @@ recmap,cpanse
 recmetrics,noah-padgett
 Recocrop,cropmodels
 recodeflow,big-life-lab
+recoder,asanaei
 recogito,digi-vub
 recolorize,hiweller
 recombinator,peterhurford
@@ -20517,6 +20536,7 @@ semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,sem-in-r
+seminrExtras,nicholasdanks
 SemiPar.depCens,nago2020
 semisup,bioc
 semlbci,sfcheung
@@ -20904,6 +20924,7 @@ ShinyWizard,r3pos
 shinyXYpad,stla
 SHIP,vguillemot
 shipunov,ashipunov
+ShiVa,wenshaz
 shock,melinagall
 shopifyadsR,pablosanmar
 shopifyr,charliebone
@@ -20914,6 +20935,7 @@ shortIRT,ottaviaepifania
 shortr,lfourni2
 ShortRead,bioc
 shorts,mladenjovanovic
+shortuuid,schochastics
 shotGroups,cran
 showimage,r-lib
 showtext,yixuan
@@ -21368,6 +21390,7 @@ smoof,jakobbossek
 smooth,config-i1
 smoothclust,bioc
 smoothedLasso,ghahn-hsph
+smoothemplik,fifis
 smoother,cran
 SmoothHazard,tagteam
 smoothHR,arturstat
@@ -22542,6 +22565,7 @@ survcompare,cran
 SurvCorr,georgheinze
 survCurve,cran
 SurvDisc,johnlawrence1
+survdnn,ielbadisy
 surveil,connordonegan
 surveillance,r-forge
 survELtest,news11
@@ -23424,6 +23448,7 @@ titanic,paulhendricks
 TITEgBOIN,jingzhuzhuzhu
 titeIR,lsubioscomputing
 titrationCurves,dtharvey
+Tivy,hansttito
 TKCat,patzaw
 tkImgR,filipecampelo
 tkrplot,ltierney
@@ -24790,6 +24815,7 @@ WeightedROC,tdhock
 weightedScores,cran
 WeightedTreemaps,m-jahn
 WeightIt,ngreifer
+WeightMyItems,afarukkilic
 weightQuant,vivianephilipps
 weightr,cran
 weights,jmping
