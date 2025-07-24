@@ -2,7 +2,8 @@
   {
     "package": "clusEvol",
     "maintainer": "Víctor Morales-Oñate <victor.morales@uv.cl>",
-    "url": "https://github.com/vmoprojs/clusevol"
+    "url": "https://github.com/vmoprojs/clusevol",
+    "registry": "archived"
   },
   {
     "package": "GeoModels",
@@ -12,6 +13,7 @@
   {
     "package": "MTest",
     "maintainer": "Víctor Morales-Oñate <victor.morales@uv.cl>",
-    "url": "https://github.com/vmoprojs/mtest"
+    "url": "https://github.com/vmoprojs/mtest",
+    "registry": "archived"
   }
 ]

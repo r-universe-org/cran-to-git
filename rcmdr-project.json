@@ -4,5 +4,10 @@
     "maintainer": "John Fox <jfox@mcmaster.ca>",
     "url": "https://github.com/rcmdr-project/rcmdr",
     "subdir": "pkg"
+  },
+  {
+    "package": "RcmdrMisc",
+    "maintainer": "John Fox <jfox@mcmaster.ca>",
+    "url": "https://github.com/rcmdr-project/rcmdrmisc"
   }
 ]

@@ -1938,6 +1938,7 @@ bizdays,wilsonfreitas
 bizicount,jmniehaus
 bkmr,jenfb
 bkmrhat,alexpkeil1
+BKP,jiangyan-zhao
 BKT,cran
 BKTR,julien-hec
 BLA,chawezimiti
@@ -2130,7 +2131,7 @@ BoSSA,lefeup
 bossR,ubcxzhang
 BOSSreg,cran
 botor,daroczig
-BoundaryStats,cran
+BoundaryStats,aluo734
 BoundEdgeworth,alexisderumigny
 boundingbox,stomperusa
 boussinesq,ecor
@@ -4925,6 +4926,7 @@ depCensoring,nago2020
 depcoeff,eliebs
 DepecheR,bioc
 depend.truncation,cran
+dependentsimr,tgbrooks
 depigner,corradolanera
 DepInfeR,bioc
 DepLogo,jgraux
@@ -6224,6 +6226,7 @@ EMT,uwemenzel
 EMTscore,wenmm
 emulator,robinhankin
 emuR,ips-lmu
+enaho,dopatendo
 EncDNA,prabinameher
 eNchange,kakoko1984
 encode,bergsmat
@@ -9402,7 +9405,6 @@ Haplin,hkgjess
 haplo.ccs,vubiostat
 haplo.stats,sinnweja
 HaploCatcher,zjwinn
-haploR,cran
 HaploSim,albartcoster
 haplotyper,gastonquero
 haplotypes,cnrakt
@@ -9725,6 +9727,7 @@ HiTC,bioc
 hivdata,imranshakoor
 hive,theussl
 HiveR,bryanhanson
+HIViz,atefehrashidi
 hJAM,uscbiostats
 HK80,helixcn
 hkdatasets,hong-kong-districts-info
@@ -12590,6 +12593,7 @@ mDAG,wjzhong
 mdatools,svkucheryavski
 MDBED,lfduquey
 mdbr,k5cents
+MDCcure,castlemon
 MDDC,niuniular
 mddmaps,alrobles
 mde,nelson-gon
@@ -13263,7 +13267,7 @@ mixR,garybaylor
 mixRaschTools,pamelapsc
 MixRF,randel
 MixSAL,franczakius
-MixSemiRob,syeonkang
+MixSemiRob,cran
 MixSIAR,brianstock
 MixSim,snoweye
 mixsmsn,cran
@@ -17523,6 +17527,7 @@ quietR,thomascjohnson
 quiltr,cjbarrie
 quincunx,ramiromagno
 quint,elisedus
+quitefastmst,gagolews
 quollr,jayanilakshika
 quoradsR,pablosanmar
 quotedargs,radfordneal
@@ -17979,7 +17984,7 @@ RCM,bioc
 rCMA,wolfgangkonen
 rcmdcheck,r-lib
 Rcmdr,rcmdr-project
-RcmdrMisc,john-d-fox
+RcmdrMisc,rcmdr-project
 RcmdrPlugin.aRnova,atravert
 RcmdrPlugin.BiclustGUI,ewouddt
 RcmdrPlugin.BWS1,cran
@@ -20928,6 +20933,7 @@ ShiVa,wenshaz
 shock,melinagall
 shopifyadsR,pablosanmar
 shopifyr,charliebone
+shoppingwords,bkanx
 shoredate,isakro
 shortcuts,jcval94
 ShortForm,anthonyraborn
@@ -23799,6 +23805,7 @@ TrioSGL,cran
 trip,trackage
 tripack,cran
 tripEstimation,trackage
+triplediff,cran
 TripleR,nicebread
 triplesmatch,kkbrum
 triplex,bioc
