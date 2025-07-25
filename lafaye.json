@@ -1,5 +1,10 @@
 [
   {
+    "package": "AnalyzeFMRI",
+    "maintainer": "Pierre Lafaye De Micheaux <lafaye@unsw.edu.au>",
+    "url": "https://github.com/cran/AnalyzeFMRI"
+  },
+  {
     "package": "asympTest",
     "maintainer": "Pierre Lafaye de Micheaux <lafaye@unsw.edu.au>",
     "url": "https://github.com/cran/asympTest"
