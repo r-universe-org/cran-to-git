@@ -841,6 +841,12 @@
     "registry": "bioc"
   },
   {
+    "package": "batchCorr",
+    "maintainer": "Anton Ribbenstedt <parasitetwin@gmail.com>",
+    "url": "https://github.com/metabocomp/batchcorr",
+    "registry": "bioc"
+  },
+  {
     "package": "batchelor",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://git.bioconductor.org/packages/batchelor",
@@ -8572,7 +8578,7 @@
   },
   {
     "package": "netZooR",
-    "maintainer": "Tara Eicher <teicher@hsph.harvard.edu>",
+    "maintainer": "Marouen Ben Guebila <marouen.b.guebila@gmail.com>",
     "url": "https://github.com/netzoo/netzoor",
     "registry": "bioc"
   },
@@ -11137,6 +11143,12 @@
     "package": "SC3",
     "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/sc3",
+    "registry": "bioc"
+  },
+  {
+    "package": "scafari",
+    "maintainer": "Sophie Wind <sophie.wind@uni-muenster.de>",
+    "url": "https://github.com/sophiewind/scafari",
     "registry": "bioc"
   },
   {
