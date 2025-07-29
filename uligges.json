@@ -15,6 +15,11 @@
     "url": "https://github.com/cran/nortest"
   },
   {
+    "package": "R2OpenBUGS",
+    "maintainer": "Uwe Ligges <ligges@statistik.tu-dortmund.de>",
+    "url": "https://github.com/cran/R2OpenBUGS"
+  },
+  {
     "package": "R2WinBUGS",
     "maintainer": "Uwe Ligges <ligges@statistik.tu-dortmund.de>",
     "url": "https://github.com/cran/R2WinBUGS"

@@ -308,6 +308,7 @@ ag5Tools,agrdatasci
 agcounts,bhelsel
 AGD,stefvanbuuren
 AGDEX,bioc
+AgeBandDecomposition,cran
 ageg,nobilisvenator
 agena.ai,cran
 AgePopDenom,truenomad
@@ -1332,6 +1333,7 @@ BayesianFactorZoo,cran
 BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
 BayesianGLasso,trainorp
+BayesianLasso,garthtarr
 BayesianLaterality,lcbc-uio
 BayesianMCPMod,boehringer-ingelheim
 BayesianMediationA,qingzhaoyu
@@ -4218,6 +4220,7 @@ cropZoning,filgueirasr
 CrossCarry,cruzalirio
 CrossClustering,corradolanera
 crossdes,bbnkmp
+CrossExpression,cran
 crosshap,jacobimarsh
 crosslag,curiousxx
 crossmap,rossellhayes
@@ -8414,6 +8417,7 @@ ggchord,dangjem
 GGClassification,fvcampos
 ggcleveland,mpru
 ggcompare,hmu-wh
+ggcorrheatmap,leod123
 ggcorrplot,kassambara
 ggcorset,kbelisar
 ggcyto,bioc
@@ -8531,6 +8535,7 @@ ggperiodic,eliocamp
 ggpicrust2,cafferychen777
 ggpie,showteeth
 ggplate,jpquast
+ggplayfair,derekstevens99
 ggplot.multistats,flying-sheep
 ggplot2,tidyverse
 ggplot2.utils,insightsengineering
@@ -11410,6 +11415,7 @@ latexSymb,nicoesve
 latrend,niekdt
 latte,dkahle
 lattice,deepayan
+latticeDensity,ronbarry
 LatticeDesign,cran
 latticeExtra,r-forge
 LatticeKrig,dnychka
@@ -12237,6 +12243,7 @@ manta,dgarrimar
 MantaID,molaison
 mantar,kai-nehler
 MantelCorr,bioc
+mantis,phuongquan
 manydata,globalgov
 manydist,amarkos
 ManyIVsNets,avishekb9
@@ -12313,6 +12320,7 @@ marginaleffects,vincentarelbundock
 marginalizedRisk,youyifong
 MarginalMaxTest,canyi-chen
 MarginalMediation,tysonstanley
+marginme,samuel-watson
 margins,bbolker
 marima,cran
 mariner,bioc
@@ -12740,6 +12748,7 @@ meshed,mkln
 meshes,bioc
 meshr,bioc
 MesKit,bioc
+mesonet,palderman
 MESS,ekstroem
 messaging,rich-iannone
 messi,umich-cphds
@@ -13776,6 +13785,7 @@ mrgsim.sa,kylebaron
 mrgsolve,metrumresearchgroup
 MRHawkes,tomstindl
 mri,mrmarjan
+mrIML,nickfountainjones
 mritc,jonclayden
 MRMCaov,brian-j-smith
 MRMCbinary,seungjae2525
@@ -17594,7 +17604,7 @@ R2HTML,nalimilan
 R2jags,suyusung
 r2mlm,mkshaw
 R2MLwiN,r-forge
-R2OpenBUGS,snthomas99
+R2OpenBUGS,uligges
 r2pmml,jpmml
 r2pptx,mattle24
 r2r,vgherard
@@ -19034,6 +19044,7 @@ RMBC,jdgonzalezwork
 RMCC,r-lidar
 RMCDA,annicenajafi
 rmcfs,cran
+RMCLab,aalfons
 rmcmc,ucl
 rmcorr,lmarusich
 rmda,mdbrown
@@ -24490,6 +24501,7 @@ vfinputs,rhenkin
 VFP,cran
 vfprogression,cran
 VFS,sarahgoslee-usda
+vfunc,robinhankin
 VGAM,tyee001
 VGAMdata,tyee001
 VGAMextra,cran

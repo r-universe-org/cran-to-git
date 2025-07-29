@@ -1,5 +1,10 @@
 [
   {
+    "package": "BayesianLasso",
+    "maintainer": "Mohammad Javad Davoudabadi <mohammad.davoudabadi@sydney.edu.au>",
+    "url": "https://github.com/garthtarr/bayesianlasso"
+  },
+  {
     "package": "edgebundleR",
     "maintainer": "Garth Tarr <garth.tarr@gmail.com>",
     "url": "https://github.com/garthtarr/edgebundler"
