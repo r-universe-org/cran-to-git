@@ -775,12 +775,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "rvif",
-    "maintainer": "R. Salmerón <romansg@ugr.es>",
-    "url": "https://github.com/r-forge/colldetreat",
-    "subdir": "pkg/rvif"
-  },
-  {
     "package": "Rwave",
     "maintainer": "Jonathan M. Lees <jonathan.lees@unc.edu>",
     "url": "https://github.com/r-forge/rwave",
