@@ -745,7 +745,7 @@ AR,cran
 ar.matrix,nmmarquez
 arabic2kansuji,indenkun
 arabicStemR,nielsenrich
-arakno,cran
+arakno,cardosopmb
 ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
@@ -8432,6 +8432,7 @@ ggdensity,jamesotto852
 ggdist,mjskay
 ggdmc,yxlin
 ggdmcHeaders,yxlin
+ggdmcLikelihood,yxlin
 ggdmcModel,yxlin
 ggdmcPrior,yxlin
 ggDoE,toledo60
@@ -10260,7 +10261,7 @@ ILS,mflores72000
 ILSAmerge,dopatendo
 ILSAstats,cran
 ILSE,feiyoung
-ILSM,cran
+ILSM,weichengsun
 imabc,c-rutter
 image.binarization,digi-vub
 image.CannyEdges,bnosac
@@ -10407,7 +10408,7 @@ ineqJD,albertoarcagni
 inet,jmbh
 iNETgrate,bioc
 INetTool,valeriapolicastro
-iNEXT,johnsonhsieh
+iNEXT,annechao
 iNEXT.3D,annechao
 iNEXT.4steps,kaihsianghu
 iNEXT.beta3D,annechao
@@ -18568,6 +18569,7 @@ reproducer,lechmadeyski
 reproducible,predictiveecology
 reproducibleRchunks,brandmaier
 reproj,hypertidy
+REPS,vivekag7
 repsd,anthonyraborn
 REPTILE,yupenghe
 reptiledb.data,paulesantos
@@ -21050,6 +21052,7 @@ siie,cran
 siland,cran
 SILFS,cran
 SILGGM,cran
+Silhouette,kskbhat
 silicate,hypertidy
 SillyPutty,cran
 SILM,zhangxiany-tamu
@@ -22202,6 +22205,7 @@ standartox,andschar
 standby,rsquaredacademy
 standR,bioc
 StanHeaders,stan-dev
+staninside,medewitt
 StanMoMo,kabarigou
 stantargets,ropensci
 stanza,florianschwendinger
@@ -22258,6 +22262,7 @@ statGraph,andrefujita
 Statial,bioc
 staticryptR,cran
 stationaRy,rich-iannone
+statioVAR,cran
 statip,paulponcet
 statisfactory,adamlilith
 statlingua,bgreenwell
