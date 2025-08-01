@@ -395,6 +395,7 @@ airportr,dshkol
 airports,openintrostat
 airqualityES,jdieramon
 airr,javh
+AirScreen,cran
 airship,el-meyer
 airt,sevvandi
 aiRthermo,cran
@@ -1430,7 +1431,6 @@ baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
 baytrends,tetratech
-bazar,paulponcet
 BB,cran
 BBCAnalyzer,bioc
 bbdetection,cran
@@ -1914,7 +1914,6 @@ BiSEp,cran
 BiSeq,bioc
 bispdep,carlosm77
 bisque,jmhewitt
-BisqueRNA,cozygene
 BisRNA,carinelegrand
 bistablehistory,alexander-pastukhov
 bit,r-lib
@@ -2721,7 +2720,6 @@ CCPROMISE,bioc
 ccpsyc,jo-karl
 ccRemover,jli-stat
 ccrepe,bioc
-ccrs,cran
 ccrtm,marcodvisser
 CCSRfind,cran
 ccss,abhibhavs
@@ -2753,7 +2751,6 @@ cdmTools,pablo-najera
 cdom,pmassicotte
 cdparcoord,cran
 cdrcR,aelissa
-cds,schoonees
 CDsampling,cran
 CDSE,zivankaraman
 CDSS,chockemeyer
@@ -4315,7 +4312,6 @@ csv,bergsmat
 csvread,jabiru
 csvwr,robsteranium
 csvy,leeper
-cta,cran
 ctablerseh,haqqulamin06
 CTAShiny,kartikeyabolar
 ctbi,fritte2
@@ -5813,7 +5809,6 @@ e2tree,massimoaria
 eadrm,ericbair-sciome
 eaf,mlopez-ibanez
 Eagle,r-forge
-EAinference,seunghyunmin
 eAnalytics,paulgovan
 earlygating,el-meyer
 earlyR,reconhub
@@ -6566,7 +6561,6 @@ evapoRe,akbarr1184
 Evapotranspiration,cran
 EVchargcost,cran
 evclass,cran
-evclust,cran
 EvCombR,cran
 evd,ste6an-hub
 evdbayes,ste6an-hub
@@ -6610,7 +6604,6 @@ evoper,antonio-pgarcia
 EvoPhylo,tiago-simoes
 evoTS,klvoje
 evprof,resourcefully-dev
-evreg,cran
 evsim,resourcefully-dev
 evt0,lbelzile
 evtclass,edovi
@@ -6959,7 +6952,6 @@ fastRhockey,sportsdataverse
 fastrmodels,nflverse
 FastRWeb,s-u
 fastseg,bioc
-FastSF,cran
 fastshap,bgreenwell
 fastSOM,cran
 FastStepGraph,juancolonna
@@ -7196,7 +7188,6 @@ findGSEP,sperfu
 findInFiles,stla
 findInGit,stla
 findIPs,bioc
-FindIt,naoki-egami
 FindIT2,bioc
 findPackage,amarnathbose
 findpython,trevorld
@@ -7339,7 +7330,6 @@ flextable,davidgohel
 flexurba,cvmigero
 FlexVarJM,leoniecourcoul
 FlickrAPI,koki25ando
-flifo,paulponcet
 flightplot,xmc811
 FLightR,eldarrak
 flightsbr,ipeagit
@@ -7809,7 +7799,6 @@ FuzzyPovertyR,airdede
 FuzzyQ,ligophorus
 FuzzyR,cran
 fuzzyRankTests,cjgeyer
-fuzzyreg,nmartinkova
 FuzzyResampling,mroman-ibs
 fuzzySim,r-forge
 FuzzySimRes,mroman-ibs
@@ -8429,6 +8418,7 @@ ggdaynight,gabrielslpires
 ggdemetra,aqlt
 ggdendro,andrie
 ggdensity,jamesotto852
+ggdibbler,harriet-mason
 ggdist,mjskay
 ggdmc,yxlin
 ggdmcHeaders,yxlin
@@ -8966,7 +8956,6 @@ goProfiles,bioc
 gor,cran
 GORCure,jierazhou
 goric,daniel-gerhard
-gorica,cjvanlissa
 GOSemSim,bioc
 goseq,bioc
 goSorensen,bioc
@@ -9142,7 +9131,6 @@ grf,cran
 GrFA,jiaqihu2021
 gridBase,pmur002
 gridBezier,pmur002
-GRIDCOPULA,cran
 gridDebug,cran
 gridExtra,baptiste
 gridGeometry,pmur002
@@ -10504,7 +10492,6 @@ integIRTy,cran
 integr,peleplay
 IntegrateBs,cran
 IntegratedJM,cran
-IntegratedMRF,razrahman
 intendo,rich-iannone
 intensegRid,kkulma
 intensitynet,ai4pork
@@ -11672,7 +11659,6 @@ LikertMakeR,winzarh
 lilikoi,granatumx
 lillies,cran
 LilRhino,travis-barton
-LIM,karlines
 lime,thomasp85
 limexhub,limex-com
 liminal,sa-lee
@@ -12121,7 +12107,6 @@ M3,jlswall
 M3C,bioc
 M3Drop,bioc
 M3JF,cran
-m5,krzjoa
 m61r,pv71u98h1
 m6Aboost,bioc
 MAAPER,vivianstats
@@ -13334,7 +13319,6 @@ mlbplotR,camdenk
 mlbstats,pdwaggoner
 MLCIRTwithin,francescobartolucci
 MLCM,cran
-MLCOPULA,cran
 MLDataR,statsgary
 mldr,fcharte
 mldr.datasets,fcharte
@@ -13757,7 +13741,6 @@ mpspline2,obrl-soil
 MPsychoR,pmair78
 mpt,cran
 MPTinR,singmann
-MPTmultiverse,mpt-network
 MPV,wjbraun
 mpwR,cran
 MQMF,haddonm
@@ -13776,7 +13759,6 @@ MRCV,cran
 mrds,distancedevelopment
 mreg,shug0131
 mregions2,ropensci
-mrf,quirinms
 mrf2d,freguglia
 MRFA,chihli
 MRFcov,nicholasjclark
@@ -15402,6 +15384,7 @@ otargen,amirfeizi
 OTBsegm,cidree
 OTclust,lixiangzhang
 OTE,cran
+otel,r-lib
 otinference,cran
 otp,randy3k
 otpr,marcusyoung
@@ -15483,7 +15466,6 @@ packFinder,bioc
 packHV,cran
 packMBPLSDA,cran
 packrat,rstudio
-PACLasso,clpaulso
 pacman,trinker
 paco,matthutchinson1
 pacotest,maltekurz
@@ -16689,7 +16671,6 @@ POV,paulantondeen
 povmap,ssa-statistical-team-projects
 pow.int,jondebove
 powdist,cran
-powdR,benmbutler
 PoweR,lafaye
 power.transform,oncoray
 Power2Stage,detlew
@@ -17233,6 +17214,7 @@ pushbar,johncoene
 pushoverr,briandconnelly
 putior,pjt222
 puzzle,syneoshealth
+Pv3Rs,aimeertaylor
 pvac,bioc
 PVAClone,psolymos
 pvaluefunctions,dinfanger
@@ -20323,7 +20305,6 @@ ScoreEB,wenlongren
 scoreInvHap,bioc
 scorematchingad,kasselhingee
 scorepeak,shotaochi
-ScorePlus,shengmil
 scoring,ecmerkle
 scoringfunctions,hristostyr
 scoringRules,fk83
@@ -21107,6 +21088,7 @@ simglm,lebebr01
 simgof,wolfgangrolke
 SimHaz,rabbeelab
 simhelpers,meghapsimatrix
+simIC,jayarasan
 SIMICO,cran
 simIDM,insightsengineering
 SimilarityMeasures,awesometothemax
@@ -21851,13 +21833,11 @@ specr,masurp
 specs,wijler
 SpecsVerification,sieste
 spect,dawdawdo
-spectacles,pierreroudier
 spectator,zivankaraman
 spectr,hugheylab
 Spectra,bioc
 spectrakit,gianluca-pastorelli
 spectral,seil85
-spectralAnalysis,ablommaert
 spectralAnomaly,al-obrien
 SpectralClMixed,cran
 spectralGP,cran
@@ -22580,6 +22560,7 @@ sure,koalaverse
 sureLDA,celehs
 SuRF.vs,tjk23
 surface,tingram
+suRface.analytics,piey27
 SurfaceTortoise,ymutua
 surfaltr,bioc
 SurfR,bioc
@@ -22902,7 +22883,6 @@ tailplots,bernhardklar
 TailRank,r-forge
 tailTransform,cran
 taipan,srkobakian
-takos,sere3s
 talkr,mdingemanse
 tall,massimoaria
 TAM,alexanderrobitzsch
@@ -23765,7 +23745,6 @@ treeclimbR,bioc
 treeClust,buttrey
 treeDA,jfukuyama
 treedata.table,ropensci
-treedater,emvolz
 treeDbalance,sophiekersting
 TreeDep,garciadejalon
 TreeDiagram,teemteemwang
@@ -23854,7 +23833,6 @@ tripr,bioc
 tripsAndDipR,delomast
 triptych,aijordan
 triversity,lamarche-perrin
-TRMF,cran
 tRNA,bioc
 tRNAdbImport,bioc
 tRNAscanImport,bioc
@@ -24313,7 +24291,6 @@ utility,peterreichert
 UtilityFrailtyPH12,cran
 utilityFunctionTools,sebastianoschneider
 utilsIPEA,ipea
-utiml,rivolli
 utsf,franciscomartinezdelrio
 uuid,s-u
 uwedragon,cran
@@ -24777,7 +24754,6 @@ wavemulcor,cran
 waver,pmarchand1
 WaverideR,stratigraphy
 WaverR,cran
-waves,gorelab
 WaveSampling,rjauslin
 waveslim,bjw34032
 wavethresh,cran

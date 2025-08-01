@@ -2,7 +2,8 @@
   {
     "package": "dynaSpec",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/marce10/dynaspec"
+    "url": "https://github.com/marce10/dynaspec",
+    "registry": "archived"
   },
   {
     "package": "NatureSounds",
@@ -12,7 +13,8 @@
   {
     "package": "Rraven",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/marce10/rraven"
+    "url": "https://github.com/marce10/rraven",
+    "registry": "archived"
   },
   {
     "package": "sketchy",
@@ -22,6 +24,7 @@
   {
     "package": "warbleR",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/marce10/warbler"
+    "url": "https://github.com/marce10/warbler",
+    "registry": "archived"
   }
 ]

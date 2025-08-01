@@ -42,7 +42,8 @@
   {
     "package": "baRulho",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/barulho"
+    "url": "https://github.com/ropensci/barulho",
+    "registry": "archived"
   },
   {
     "package": "BaseSet",
@@ -575,7 +576,8 @@
   {
     "package": "nomisr",
     "maintainer": "Evan Odell <evanodell91@gmail.com>",
-    "url": "https://github.com/ropensci/nomisr"
+    "url": "https://github.com/ropensci/nomisr",
+    "registry": "archived"
   },
   {
     "package": "npi",
@@ -600,7 +602,8 @@
   {
     "package": "ohun",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/ohun"
+    "url": "https://github.com/ropensci/ohun",
+    "registry": "archived"
   },
   {
     "package": "openalexR",
