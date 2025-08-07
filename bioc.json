@@ -2349,7 +2349,7 @@
   },
   {
     "package": "CNEr",
-    "maintainer": "Ge Tan <ge_tan@live.com>",
+    "maintainer": "Boris Lenhard <b.lenhard@imperial.ac.uk> Damir Baranasic <damir.baranasic@lms.mrc.ac.uk>",
     "url": "https://github.com/ge11232002/cner",
     "registry": "bioc"
   },
@@ -8837,7 +8837,7 @@
   {
     "package": "omXplore",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
-    "url": "https://github.com/prostarproteomics/omxplore",
+    "url": "https://github.com/edyp-lab/omxplore",
     "registry": "bioc"
   },
   {
@@ -11098,6 +11098,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SanityR",
+    "maintainer": "Teo Sakel <teo@intelligentbiodata.com>",
+    "url": "https://github.com/teosakel/sanityr",
+    "registry": "bioc"
+  },
+  {
     "package": "SANTA",
     "maintainer": "Alex Cornish <alexcornish88@gmail.com>",
     "url": "https://github.com/alexjcornish/santa",
@@ -12139,6 +12145,12 @@
     "package": "SpaceMarkers",
     "maintainer": "Atul Deshpande <adeshpande@jhu.edu>",
     "url": "https://github.com/deshpandelab/spacemarkers",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpaceTrooper",
+    "maintainer": "Dario Righelli <dario.righelli@gmail.com>",
+    "url": "https://github.com/drighelli/spacetrooper",
     "registry": "bioc"
   },
   {
