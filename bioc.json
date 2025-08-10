@@ -5799,6 +5799,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HiCPotts",
+    "maintainer": "Itunu. Godwin Osuntoki <hitunes4@gmail.com>",
+    "url": "https://github.com/igosungithub/hicpotts",
+    "registry": "bioc"
+  },
+  {
     "package": "hicVennDiagram",
     "maintainer": "Jianhong Ou <jou@morgridge.org>",
     "url": "https://github.com/jianhong/hicvenndiagram",
@@ -6714,6 +6720,12 @@
     "package": "LinkHD",
     "maintainer": "\"Laura M Zingaretti\" <m.lau.zingaretti@gmail.com>",
     "url": "https://git.bioconductor.org/packages/LinkHD",
+    "registry": "bioc"
+  },
+  {
+    "package": "linkSet",
+    "maintainer": "Gilbert Han <GilbertHan1011@gmail.com>",
+    "url": "https://github.com/gilberthan1011/linkset",
     "registry": "bioc"
   },
   {
