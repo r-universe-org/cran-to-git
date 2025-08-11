@@ -1,11 +1,5 @@
 [
   {
-    "package": "crossword.r",
-    "maintainer": "Peter Meissner <retep.meissner@gmail.com>",
-    "url": "https://github.com/petermeissner/crossword.r",
-    "registry": "archived"
-  },
-  {
     "package": "dsmisc",
     "maintainer": "Peter Meissner <retep.meissner@gmail.com>",
     "url": "https://github.com/petermeissner/dsmisc"
@@ -24,12 +18,6 @@
     "package": "librarysnapshot",
     "maintainer": "Peter Meissner <retep.meissner@gmail.com>",
     "url": "https://github.com/petermeissner/librarysnapshot"
-  },
-  {
-    "package": "r6extended",
-    "maintainer": "Peter Meissner <retep.meissner@gmail.com>",
-    "url": "https://github.com/petermeissner/r6extended",
-    "registry": "archived"
   },
   {
     "package": "tabit",
