@@ -6,13 +6,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "ggseas",
-    "maintainer": "Peter Ellis <peter.ellis2013nz@gmail.com>",
-    "url": "https://github.com/ellisp/ggseas",
-    "subdir": "pkg",
-    "registry": "archived"
-  },
-  {
     "package": "nzelect",
     "maintainer": "Peter Ellis <peter.ellis2013nz@gmail.com>",
     "url": "https://github.com/cran/nzelect"

@@ -171,12 +171,6 @@
     "url": "https://github.com/ropensci/coder"
   },
   {
-    "package": "colocr",
-    "maintainer": "Mahmoud Ahmed <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
-    "url": "https://github.com/ropensci/colocr",
-    "registry": "archived"
-  },
-  {
     "package": "comtradr",
     "maintainer": "Paul Bochtler <paulbochtler.gh@gmail.com>",
     "url": "https://github.com/ropensci/comtradr"
@@ -541,12 +535,6 @@
     "package": "mregions2",
     "maintainer": "Salvador Jesús Fernández Bejarano <salvador.fernandez@vliz.be>",
     "url": "https://github.com/ropensci/mregions2"
-  },
-  {
-    "package": "MtreeRing",
-    "maintainer": "Jingning Shi <snow940220@bjfu.edu.cn>",
-    "url": "https://github.com/ropensci/mtreering",
-    "registry": "archived"
   },
   {
     "package": "naijR",

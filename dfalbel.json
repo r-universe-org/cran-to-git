@@ -1,11 +1,5 @@
 [
   {
-    "package": "cloudml",
-    "maintainer": "Daniel Falbel <daniel@rstudio.com>",
-    "url": "https://github.com/cran/cloudml",
-    "registry": "archived"
-  },
-  {
     "package": "madgrad",
     "maintainer": "Daniel Falbel <daniel@rstudio.com>",
     "url": "https://github.com/cran/madgrad"
