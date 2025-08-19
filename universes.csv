@@ -910,7 +910,7 @@ AssocBin,cran
 assocInd,cran
 assorthead,bioc
 assortnet,cran
-AssumpSure,cran
+AssumpSure,ahmedbargheet
 AST,alighanbari26
 ast2ast,konrad1991
 aster,cran
@@ -1470,7 +1470,6 @@ bcROCsurface,toduckhanh
 bcRP,juliocollazos64
 bcrypt,jeroen
 bcSeq,bioc
-BCSub,sunnypig1988
 BCT,valentinian22
 bcv,michbur
 bda,cran
@@ -3247,6 +3246,7 @@ clootl,eliotmiller
 clordr,cran
 closeloop,heorlytics
 cloudfs,g6t
+cloudml,rstudio
 cloudos,lifebit-ai
 cloudstoR,pdparker
 cloudUtil,cpanse
@@ -4009,6 +4009,7 @@ covfefe,mkirch
 covglasso,michaelfop
 COVID19,covid19datahub
 covid19.analytics,mponce0
+covid19br,fndemarqui
 covid19dbcand,interstellar-consultation-services
 covid19france,aedobbyn
 covid19india,maxsal
@@ -4251,6 +4252,7 @@ csci,michaelfay-niaid
 CSclone,tsungyuwu
 CSCNet,cran
 csdata,csids
+csdb,csids
 csdR,bioc
 cSEM,floschuberth
 CSeqpat,hz6yc3
@@ -7509,6 +7511,7 @@ fpow,baharev
 fpp2,robjhyndman
 fpp3,robjhyndman
 fpROC,luismurao
+fpsim,cran
 fptdApprox,jjserra68
 FPV,cran
 fqacalc,ecomodteam
@@ -9209,6 +9212,7 @@ gto,thebioengineer
 gtools,r-gregmisc
 gtranslate,mohamed-180
 gtreg,shannonpileggi
+gtregression,thinkdenominator
 gtrellis,bioc
 gtrendshealth,cdcgov
 gtrendsR,pmassicotte
@@ -9942,6 +9946,7 @@ iBBiG,bioc
 IBCF.MTME,frahik
 IBclust,amarkos
 ibd,doer0
+ibdfindr,magnusdv
 IBDInfer,taehyeonkoo
 ibdsegments,mkruijver
 ibdsim2,magnusdv
@@ -11172,6 +11177,7 @@ KSEAapp,casecpb
 kselection,drodriguezperez
 KSgeneral,d-dimitrova
 ksharp,tkonopka
+KSIC,urbanjj
 ksNN,keeeeei0315
 KSPM,catherineschramm
 ksrlive,cran
@@ -12335,6 +12341,7 @@ maxmatching,baolidakai
 MaxMC,julienneves
 maxnet,mrmaxent
 MaxPro,shanbatr
+maxRgain,soniasurgy
 MaxSkew,cran
 maxstablePCA,cran
 maxstat,thothorn
@@ -19904,6 +19911,7 @@ sasfunclust,unina-sfere
 sasLM,cran
 SASmarkdown,hemken
 SASmixed,stevencarlislewalker
+sasquatch,ropensci
 sasr,insightsengineering
 sass,rstudio
 sassy,dbosak01
@@ -22950,6 +22958,7 @@ tfdatasets,rstudio
 tfdeploy,dfalbel
 TFEA.ChIP,bioc
 tfer,jmcurran
+tfestimators,rstudio
 tfevents,mlverse
 TFHAZ,bioc
 tfhub,rstudio
@@ -24544,6 +24553,7 @@ Wcompo,lmaowisc
 wconf,cran
 wCorr,american-institutes-for-research
 wcox,vharntzen
+WData,noeliasanchmrt
 WDI,vincentarelbundock
 wdiEF,cran
 wdm,tnagler

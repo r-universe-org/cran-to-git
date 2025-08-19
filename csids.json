@@ -15,6 +15,11 @@
     "url": "https://github.com/csids/csdata"
   },
   {
+    "package": "csdb",
+    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
+    "url": "https://github.com/csids/csdb"
+  },
+  {
     "package": "csmaps",
     "maintainer": "Richard Aubrey White <hello@rwhite.no>",
     "url": "https://github.com/csids/csmaps"

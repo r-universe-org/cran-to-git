@@ -40,6 +40,11 @@
     "url": "https://github.com/rstudio/chromote"
   },
   {
+    "package": "cloudml",
+    "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+    "url": "https://github.com/rstudio/cloudml"
+  },
+  {
     "package": "config",
     "maintainer": "Andrie de Vries <apdevries@gmail.com>",
     "url": "https://github.com/rstudio/config"
@@ -298,6 +303,11 @@
     "package": "tfdatasets",
     "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
     "url": "https://github.com/rstudio/tfdatasets"
+  },
+  {
+    "package": "tfestimators",
+    "maintainer": "Tomasz Kalinowski <tomasz.kalinowski@rstudio.com>",
+    "url": "https://github.com/rstudio/tfestimators"
   },
   {
     "package": "tfhub",
