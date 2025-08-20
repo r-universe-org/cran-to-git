@@ -693,6 +693,7 @@ api2lm,jfrench
 APIS,julienrocheigepp
 apisensr,dhaine
 APL,bioc
+apLCMS,cran
 aplore3,lbraglia
 aplot,yulab-smu
 aplotExtra,yulab-smu
@@ -2671,6 +2672,7 @@ cbsodataR,edwindj
 CBSr,sangillee
 cbsREPS,cran
 CBT,cran
+CBTF,mcol
 CC,wjbraun
 CCA,sebdejean
 CCAFE,bioc
@@ -2686,6 +2688,7 @@ ccdR,usepa
 ccfindR,bioc
 cchs,cran
 cchsflow,big-life-lab
+CCI,khliland
 ccid,anastasiou-andreas
 ccImpute,bioc
 cclust,kurthornik
@@ -3719,6 +3722,7 @@ conf.design,billvenables
 confcons,bfakos
 CONFESS,bioc
 confidence,cran
+confidenceCurves,cran
 ConfidenceEllipse,christiangoueguel
 config,rstudio
 ConfigParser,hhoeflin
@@ -5139,7 +5143,7 @@ dilp,mjbutrim
 DIME,olechnwin
 dimensio,nfrerebeau
 dimensionsR,massimoaria
-DImodels,cran
+DImodels,rafamoral
 DImodelsMulti,di-laurabyrne
 DImodelsVis,rishvish
 DIMORA,avios97
@@ -5605,6 +5609,7 @@ DSMolgenisArmadillo,molgenis
 dsmSearch,billbillbilly
 DSOpal,datashield
 dsos,vathymut
+dsp,schafert
 dspline,glmgen
 DSpoty,albertoalmuinha
 dsrTest,mnelsonr
@@ -8351,6 +8356,7 @@ ggdaynight,gabrielslpires
 ggdemetra,aqlt
 ggdendro,andrie
 ggdensity,jamesotto852
+ggdiagram,wjschne
 ggdibbler,harriet-mason
 ggdist,mjskay
 ggdmc,yxlin
@@ -10493,6 +10499,8 @@ investr,bgreenwell
 invgamma,dkahle
 invgamstochvol,cran
 invGauss,hkgjess
+invitroTKdata,usepa
+invitroTKstats,usepa
 invivoPKfit,jfwambaugh
 InvStablePrior,dcahoy
 iNZightMR,inzightvit
@@ -12737,6 +12745,7 @@ metasplines,cran
 MetaStan,gunhanb
 MetaSubtract,imnolte73
 metaSurvival,shubhrampandey
+metaSVR,rechtianaputri
 metatest,ingmarvisser
 metathis,gadenbuie
 metatools,pharmaverse
@@ -13459,6 +13468,7 @@ MoleculeExperiment,bioc
 MolgenisArmadillo,molgenis
 MolgenisAuth,molgenis
 MOLHD,hrz123
+MOM,pgmstat04
 MOMA,bioc
 mombf,davidrusi
 momentchi2,cran
@@ -14585,6 +14595,7 @@ nonmem2rx,nlmixr2
 nonmemica,bergsmat
 nonneg.cg,david-cortes
 nonnest2,qpsy
+NonNorMvtDist,cran
 nonpar,cran
 nonparaeff,arecibo
 nonparametric.bayes,erikseulean
@@ -15297,6 +15308,7 @@ OVtool,burgette
 owd,feakster
 owdbr,kimjoaoun
 OWEA,shuaih0303
+OwenQ,stla
 owidapi,tidy-intelligence
 owidR,piersyork
 owmr,crazycapivara
@@ -15309,7 +15321,7 @@ oysteR,sonatype-nexus-community
 oz,kurthornik
 ozbabynames,robjhyndman
 ozmaps,mdsumner
-p3state.msm,cran
+p3state.msm,gsoutinho
 pa,yl2
 PAA,bioc
 paar,ppaccioretti
@@ -20267,7 +20279,7 @@ secr,murrayefford
 secrdesign,murrayefford
 secret,gaborcsardi
 secretbase,shikokuchuo
-SecretsProvider,cran
+SecretsProvider,naavre
 secrettext,daniellequinn
 secrlinear,murrayefford
 secsse,rsetienne

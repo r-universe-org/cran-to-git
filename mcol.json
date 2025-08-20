@@ -1,5 +1,10 @@
 [
   {
+    "package": "CBTF",
+    "maintainer": "Marco Colombo <mar.colombo13@gmail.com>",
+    "url": "https://github.com/mcol/caught-by-the-fuzz"
+  },
+  {
     "package": "hsstan",
     "maintainer": "Marco Colombo <mar.colombo13@gmail.com>",
     "url": "https://github.com/mcol/hsstan"

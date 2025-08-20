@@ -21,6 +21,16 @@
     "subdir": "httk"
   },
   {
+    "package": "invitroTKdata",
+    "maintainer": "Sarah E. Davidson-Fritz <davidsonfritz.sarah@epa.gov>",
+    "url": "https://github.com/usepa/invitrotkdata"
+  },
+  {
+    "package": "invitroTKstats",
+    "maintainer": "Sarah E. Davidson-Fritz <davidsonfritz.sarah@epa.gov>",
+    "url": "https://github.com/usepa/invitrotkstats"
+  },
+  {
     "package": "lakemorpho",
     "maintainer": "Jeffrey W. Hollister <hollister.jeff@epa.gov>",
     "url": "https://github.com/usepa/lakemorpho2"
