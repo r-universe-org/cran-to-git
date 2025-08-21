@@ -1252,7 +1252,6 @@ batchelor,bioc
 BatchExperiments,tudo-r
 BatchGetSymbols,msperlin
 BatchJobs,tudo-r
-batchLLM,dylanpieper
 batchmeans,drjphughesjr
 batchmix,stcolema
 BatchQC,bioc
@@ -4694,6 +4693,7 @@ dclust,shaunpwilkinson
 DCluster,becarioprecario
 DClusterm,becarioprecario
 dcm2,atlas-aai
+dcmdata,r-dcm
 dcmle,datacloning
 dcmodify,data-cleaning
 dcortools,edelmand21
@@ -6292,7 +6292,7 @@ EpiDynamics,oswaldosantos
 EpiEstim,mrc-ide
 epifitter,alvesks
 epiflows,reconhub
-EpiForsk,kjakobse
+EpiForsk,laksafoss
 epigenomix,bioc
 epigraHMM,bioc
 epigraphdb,mrcieu
@@ -9496,7 +9496,6 @@ heiscore,abhrastat
 heiscore.data,vramdas06
 helixvis,rrrlw
 HellCor,lafaye
-hellmer,dylanpieper
 hellno,petermeissner
 helloJavaWorld,tverbeke
 HelloRanges,bioc
@@ -10249,6 +10248,7 @@ implied,opisthokonta
 implyr,ianmcook
 import,rticulate
 ImportanceIndice,cran
+important,tidymodels
 importar,andreaphsz
 ImportExport,isubirana
 importinegi,crenteriam
@@ -10649,7 +10649,7 @@ islify,bioc
 ISLR,trevorhastie
 ISLR2,trevorhastie
 ISM,gunjan15
-ismev,ericgilleland
+ismev,cran
 ismtchile,mrosas47
 isni,cran
 isnullptr,jonasfoe
@@ -14236,6 +14236,7 @@ Neighboot,cran
 neighbours,enricoschumann
 neighbr,dbolotov
 neldermead,cran
+Nematode,cran
 nemBM,mrmarjan
 nempi,bioc
 nemsqar,bemts-hhs
@@ -16467,6 +16468,7 @@ popkin,storeylab
 popler,ropensci
 popPCR,zeroh729
 poppr,grunwaldlab
+PopPsiSeqR,csoeder
 popPyramid,musajajorge
 popReconstruct,cran
 popsom7,lutzhamel
@@ -18112,6 +18114,7 @@ readtext,quanteda
 readtextgrid,tjmahr
 readxl,tidyverse
 ready4,ready4-dev
+readyomics,lmartinezgili
 realtest,gagolews
 realTimeloads,dlivsey
 RealVAMS,akarl46556
@@ -18203,6 +18206,7 @@ redist,alarm-redist
 redistmetrics,alarm-redist
 redistverse,alarm-redist
 redland,ropensci
+redlist,stangandaho
 redlistr,red-list-ecosystem
 rEDM,softwareliteracy
 Redmonder,pmdci
@@ -19831,7 +19835,6 @@ SAMBA,cran
 sambia,nkathh
 samc,andrewmarx
 SAME,czhong9106
-samesies,dylanpieper
 SAMGEP,celehs
 samon,amcderm1
 sampbias,azizka
@@ -19960,7 +19963,6 @@ SBmedian,kisungyou
 SBMLR,bioc
 sbmSDP,aaamini
 SBMSplitMerge,ludkinm
-SBMTrees,zjg540066169
 SBN,flee598
 sbo,vgherard
 sboost,jadonwagstaff
@@ -20758,7 +20760,7 @@ shinyXYpad,stla
 SHIP,vguillemot
 shipunov,ashipunov
 ShiVa,wenshaz
-shock,melinagall
+shock,cran
 shopifyadsR,pablosanmar
 shoppingwords,bkanx
 shoredate,isakro
@@ -21203,7 +21205,7 @@ smile,lcgodoy
 smirnov,ashipunov
 SMITE,bioc
 SmithWilsonYieldCurve,philjoubert
-SMITIDstruct,cran
+SMITIDstruct,mechantrouquin
 SMITIDvisu,mechantrouquin
 SMLE,jasonqxz
 smlePH,taehwa015

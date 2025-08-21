@@ -80,6 +80,11 @@
     "url": "https://github.com/tidymodels/hardhat"
   },
   {
+    "package": "important",
+    "maintainer": "Max Kuhn <max@posit.co>",
+    "url": "https://github.com/tidymodels/important"
+  },
+  {
     "package": "infer",
     "maintainer": "Simon Couch <simon.couch@posit.co>",
     "url": "https://github.com/tidymodels/infer"
