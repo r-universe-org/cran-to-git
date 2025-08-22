@@ -7599,6 +7599,12 @@
     "registry": "bioc"
   },
   {
+    "package": "miaTime",
+    "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
+    "url": "https://github.com/microbiome/miatime",
+    "registry": "bioc"
+  },
+  {
     "package": "miaViz",
     "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
     "url": "https://github.com/microbiome/miaviz",
