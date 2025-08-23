@@ -697,6 +697,12 @@
     "registry": "bioc"
   },
   {
+    "package": "AWAggregator",
+    "maintainer": "Jiahua Tan <jiahuatan@chem.ubc.ca>",
+    "url": "https://github.com/tan-jiahua/awaggregator",
+    "registry": "bioc"
+  },
+  {
     "package": "AWFisher",
     "maintainer": "Zhiguang Huo <zhuo@ufl.edu>",
     "url": "https://github.com/caleb-huo/awfisher",
