@@ -347,7 +347,7 @@ agvgd,maialab
 ahaz,agorstras
 AHM,vtshen
 AHMassBank,bioc
-AHMbook,biodiverse
+AHMbook,ecoverser
 ahMLE,cran
 ahnr,jroberayalas
 AhoCorasickTrie,chambm
@@ -4011,6 +4011,7 @@ covequal,turgeonmaxime
 COveR,neplex
 coveR2,fchianucci
 CoverageView,bioc
+covercorr,cran
 covfefe,mkirch
 covglasso,michaelfop
 COVID19,covid19datahub
@@ -4821,6 +4822,7 @@ deformula,okamumu
 DegCre,bioc
 degday,ucanr-igis
 DegNorm,bioc
+degradr,abraham1011
 DEGraph,bioc
 DEGRE,douglasterra
 degreenet,handcock
@@ -7022,7 +7024,7 @@ FeatureTerminatoR,cran
 featurizer,cran
 fec16,baumer-lab
 fechner,cran
-fect,lzy318
+fect,cran
 FedData,ropensci
 federalregister,ropengov
 FedIRT,biyingzhou
@@ -7056,6 +7058,7 @@ fetchSalesforceR,pablosanmar
 fetwfe,gregfaletto
 fExtremes,r-forge
 ff,truecluster
+ffaframework,rileywheadon
 FFD,r-forge
 FFdownload,sstoeckl
 ffmanova,olangsrud
@@ -8942,6 +8945,7 @@ GPM,cran
 gpmap,argju
 GPoM,cran
 GPP,aitask
+gppm,karchjd
 GPRMortality,alighanbari26
 gProfileR,korogenoest
 gprofiler2,cran
@@ -9064,7 +9068,7 @@ GreyListChIP,bioc
 GreyModel,cran
 Greymodels,havishaj
 GreyZones,haydarde
-grf,cran
+grf,anumbat
 GrFA,jiaqihu2021
 gridBase,pmur002
 gridBezier,pmur002
@@ -12203,7 +12207,7 @@ maptiles,riatelab
 maptpx,taddylab
 maptree,rbgramacy
 mapview,r-spatial
-maq,cran
+maq,anumbat
 mAr,cran
 mar1s,aparamon
 maraca,astrazeneca
@@ -14736,6 +14740,7 @@ nscancor,chrsigg
 NScluster,cran
 nse,keblu
 nseq,rfsaldanha
+nser,nandp1
 nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,drg-123
@@ -14967,7 +14972,7 @@ once,gdmcdonald
 oncmap,michalkouril
 OncoBayes2,weberse2
 OncoDataSets,lightbluetitan
-Oncofilterfast,cran
+Oncofilterfast,phoenix-chen-git
 oncomix,bioc
 oncomsm,boehringer-ingelheim
 oncoPredict,huanglabumn
@@ -16332,7 +16337,7 @@ pmvalsampsize,cran
 pmwg,university-of-newcastle-research
 PMwR,enricoschumann
 pmxcode,sbihorel
-pmxcv,jpryby
+pmxcv,jprybylski
 pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
@@ -16393,7 +16398,7 @@ polarzonoid,glenndavis52
 poLCA,dlinzer
 poldis,henriquesposito
 PolicyPortfolios,xfim
-policytree,cran
+policytree,anumbat
 polimetrics,cran
 poliscidata,cran
 polished,tychobra
@@ -17430,6 +17435,7 @@ R.methodsS3,henrikbengtsson
 R.oo,henrikbengtsson
 r.proxy,xiayh17
 R.rsp,henrikbengtsson
+R.temis,nalimilan
 R.utils,henrikbengtsson
 R0,tobadia
 r02pro,yangfengstat
@@ -20390,7 +20396,7 @@ semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,sem-in-r
-seminrExtras,nicholasdanks
+seminrExtras,cran
 SemiPar.depCens,nago2020
 semisup,bioc
 semlbci,sfcheung
@@ -21331,6 +21337,7 @@ SOAR,billvenables
 SOAs,bertcarnell
 sobolnp,maikol-solis
 SobolSequence,cran
+soc.ca,rsoc
 socceR,ekstroem
 social,thomaswpike
 socialh,cran
@@ -21438,7 +21445,7 @@ sp,edzer
 SP2000,otoliths
 sp23design,hrpcisd
 spaa,helixcn
-spAbundance,biodiverse
+spAbundance,ecoverser
 SpaCCI,cran
 spacefillr,tylermorganwall
 spacejamr,dscolby
@@ -21793,7 +21800,7 @@ SpNMF,cran
 spnn,romin-ebrahimi
 spNNGP,finleya
 spocc,ropensci
-spOccupancy,biodiverse
+spOccupancy,ecoverser
 spoiler,etiennebacher
 SpoMAG,douglasterra
 SPONGE,bioc
@@ -22698,6 +22705,7 @@ tAI,mariodosreis
 TailClassifier,cran
 tailDepFun,akiriliouk
 tailloss,igollini
+tailor,tidymodels
 tailplots,bernhardklar
 TailRank,r-forge
 tailTransform,cran
@@ -23316,6 +23324,7 @@ tm.plugin.koRpus,undocumeantit
 tm.plugin.lexisnexis,nalimilan
 tm.plugin.mail,kurthornik
 tm1r,muhammedalionder
+tma,codymarquart
 tmap,r-tmap
 tmap.cartogram,r-tmap
 tmap.glyphs,r-tmap
@@ -23901,7 +23910,7 @@ UBayFS,annajenul
 UBCRM,zemmourc
 ubiquity,john-harrold
 UBL,paobranco
-ubms,biodiverse
+ubms,ecoverser
 UBStats,raffaellapiccarreta
 UCell,bioc
 uci,ipeagit
@@ -24012,7 +24021,7 @@ univOutl,cran
 UnivRNG,bernice0321
 unix,jeroen
 unjoin,hypertidy
-unmarked,biodiverse
+unmarked,ecoverser
 unmconf,dkahle
 unnest,vspinu
 UNPaC,cran

@@ -170,6 +170,11 @@
     "url": "https://github.com/tidymodels/stacks"
   },
   {
+    "package": "tailor",
+    "maintainer": "Max Kuhn <max@posit.co>",
+    "url": "https://github.com/tidymodels/tailor"
+  },
+  {
     "package": "textrecipes",
     "maintainer": "Emil Hvitfeldt <emil.hvitfeldt@posit.co>",
     "url": "https://github.com/tidymodels/textrecipes"
