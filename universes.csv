@@ -1090,6 +1090,7 @@ AzureCosmosR,azure
 AzureGraph,azure
 AzureKeyVault,azure
 AzureKusto,azure
+azuremapsr,juanfonsecals1
 azuremlsdk,azure
 AzureQstor,hongooi73
 AzureRMR,azure
@@ -1658,7 +1659,6 @@ BicARE,bioc
 BiCausality,darkeyes
 biClassify,aflapan
 biclust,cran
-biclustermd,jreisner
 BICORN,cran
 BiDAG,polinasuter
 bidask,eguidotti
@@ -2583,6 +2583,7 @@ castor,squidlobster
 cat,fernandotusell
 cat2cat,polkas
 cata,jcc9
+CATAcode,knickodem
 catalog,nathaneastwood
 CATALYST,bioc
 catalytic,cran
@@ -2970,6 +2971,7 @@ chilemapas,pachadotdev
 ChillModels,rpertille
 chillR,eikeluedeling
 chimeraviz,bioc
+ChinAPIs,lightbluetitan
 ChineseNames,psychbruce
 ChIPanalyser,bioc
 ChIPComp,bioc
@@ -5769,6 +5771,7 @@ DysPIA,lemonwang2020
 DysPIAData,lemonwang2020
 DySS,luyouepiusf
 e1071,cran
+E2E,xiaojie0519
 e2tree,massimoaria
 eadrm,ericbair-sciome
 eaf,mlopez-ibanez
@@ -5952,6 +5955,7 @@ eddington,pegeler
 edeaR,bupaverse
 edecob,manzhch
 edf,bwrc
+edfinr,bellwetherorg
 edfReader,cran
 EDFtest,liyao-sfu
 edfun,talgalili
@@ -6370,6 +6374,7 @@ EQRN,opasche
 eqtesting,jack-fitzgerald
 equalCovs,cran
 Equalden.HD,cran
+EQUALencrypt,cran
 EQUALrepeat,cran
 EQUALSTATS,cran
 equaltestMI,gabriellajg
@@ -10318,6 +10323,7 @@ indexthis,lrberge
 IndexWizard,johannesgeibel
 IndGenErrors,cran
 india,faosorios
+IndiAPIs,lightbluetitan
 Indicator,gianmarcoborrata
 indicspecies,emf-creaf
 indiedown,cynkra
@@ -10802,6 +10808,7 @@ JANE,a1arakkal
 janeaustenr,juliasilge
 janitor,sfirke
 janus,pigian
+JapanAPIs,lightbluetitan
 japanstat,uchidamizuki
 jarbes,bayesstats
 JATSdecoder,ingmarboeschen
@@ -12318,6 +12325,7 @@ matRiks,cran
 matrisk,cran
 Matrix,r-forge
 matrixcalc,tomkellygenetics
+matrixCorr,prof-thiagooliveira
 MatrixCorrelation,khliland
 matrixcut,csmatyi
 matrixdist,martinbladt
@@ -13310,6 +13318,7 @@ mlrv,cran
 mlsbm,carter-allen
 MLSeq,bioc
 mlsjunkgen,scumdogsteev
+mlspatial,azizadeboye
 mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
 mlt,r-forge
@@ -20396,7 +20405,7 @@ semidist,wzhong41
 SemiEstimate,jinhuasu
 SemiMarkov,cran
 seminr,sem-in-r
-seminrExtras,cran
+seminrExtras,nicholasdanks
 SemiPar.depCens,nago2020
 semisup,bioc
 semlbci,sfcheung
@@ -21556,6 +21565,7 @@ spaths,cdueben
 spatial,cran
 SpatialAcc,cran
 SpatialBSS,cran
+spatialCatalogueViewer,sebastien-plutniak
 spatialCovariance,cran
 SpatialCPie,bioc
 SpatialDDLS,diegommcc
@@ -23975,6 +23985,7 @@ uncoverappLib,bioc
 understandBPMN,gertjanssenswillen
 undidR,ebjamieson97
 UNDO,bioc
+unfold,pigian
 unglue,moodymudskipper
 ungroup,mpascariu
 unhcrdown,unhcr-dataviz
@@ -24104,6 +24115,7 @@ UStatBookABSC,ansuchatterjee
 ustfd,groditi
 ustyc,mrbcuda
 utc,antojo-segura
+utest,jotlind
 utf8,krlmlr
 utf8ify,rolkra
 utile.tables,efinite
@@ -24533,6 +24545,7 @@ warbleR,marce10
 WARDEN,jsanchezalv
 warehouseTools,a-dudek-ue
 WARN,tsutatsuta
+WarnEpi,pan-mingyue
 warp,davisvaughan
 warpMix,cran
 washdata,katilingban

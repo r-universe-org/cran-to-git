@@ -20,6 +20,11 @@
     "url": "https://github.com/lightbluetitan/chiledataapi"
   },
   {
+    "package": "ChinAPIs",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/chinapis"
+  },
+  {
     "package": "ColombiAPI",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/colombiapi"
@@ -45,9 +50,19 @@
     "url": "https://github.com/lightbluetitan/educationr"
   },
   {
+    "package": "IndiAPIs",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/indiapis"
+  },
+  {
     "package": "infectiousR",
     "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
     "url": "https://github.com/lightbluetitan/infectiousr"
+  },
+  {
+    "package": "JapanAPIs",
+    "maintainer": "Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>",
+    "url": "https://github.com/lightbluetitan/japanapis"
   },
   {
     "package": "MedDataSets",
