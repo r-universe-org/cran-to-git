@@ -216,6 +216,11 @@
     "url": "https://github.com/ropensci/datapackager"
   },
   {
+    "package": "dataset",
+    "maintainer": "Daniel Antal <daniel.antal@dataobservatory.eu>",
+    "url": "https://github.com/ropensci/dataset"
+  },
+  {
     "package": "DataSpaceR",
     "maintainer": "Jason Taylor <jmtaylor@fredhutch.org>",
     "url": "https://github.com/ropensci/dataspacer"

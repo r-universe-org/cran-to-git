@@ -140,6 +140,7 @@ ADAM,bioc
 adamethods,cran
 ADAMgui,bioc
 adana,cran
+AdapDiscom,aodiakite
 AdapSamp,keydom
 ADAPT,bioc
 adapt3,dormancy1
@@ -458,6 +459,7 @@ AllelicSeries,insitro
 allestimates,uqwang
 AllMetrics,sandipgarai
 allMT,tmungle
+allocation,andrewraim
 allodb,ropensci
 allofus,roux-ohdsi
 allometry,tabe
@@ -1265,7 +1267,7 @@ batchtools,mlr-org
 bate,dbasu-umass
 batman,ironholds
 batsch,ramiromagno
-BATSS,batss-dev
+BATSS,batss-stable
 batteryreduction,chunqiaoluo
 BAwiR,cran
 bayclumpr,tripati-lab
@@ -2899,7 +2901,7 @@ ChannelAttribution,cran
 ChannelAttributionApp,davidealtomare
 chantrics,maebruck
 Chaos01,nithador
-ChaosGame,cran
+ChaosGame,leamais1
 chapensk,langenbergstefan
 Characterization,ohdsi
 charcuterie,jonocarroll
@@ -3181,6 +3183,7 @@ clevRvis,bioc
 clhs,pierreroudier
 cli,r-lib
 cliapp,r-lib
+CLIC,guangbaog
 clickableImageMap,barryzee
 clickb,cran
 ClickClust,cran
@@ -4599,7 +4602,7 @@ datarobot,cran
 datasauRus,jumpingrivers
 dataSDA,hanmingwu1103
 dataseries,christophsax
-dataset,dataobservatory-eu
+dataset,ropensci
 datasetjson,atorus-research
 datasets.load,bquast
 datasetsICR,cran
@@ -5758,7 +5761,7 @@ dynparam,dynverse
 dynpred,hputter
 dynprog,mailund
 dynr,mhunter1
-dynRB,cran
+dynRB,leamais1
 dynsbm,vmielecnrs
 dynsim,christophergandrud
 dynsurv,wenjie2wang
@@ -7158,7 +7161,7 @@ FinePop,nakamichireiichiro
 FinePop2,cran
 finetune,tidymodels
 fingerprint,rajarshi
-fingerPro,ivanlizaga
+fingerPro,eead-csic-eesa
 fingertipsR,ropensci
 finiteruinprob,baumgrt
 finity,x0range
@@ -7176,6 +7179,7 @@ firebase,johncoene
 firebase.auth.rest,kennedymwavu
 firebehavioR,ecofire
 fireexposuR,ropensci
+firesale,thomasp85
 first,cran
 FiSh,mlaib
 FISHalyseR,bioc
@@ -7248,6 +7252,7 @@ FLAMES,bioc
 flametree,djnavarro
 flamingos,fchamroukhi
 flan,adrimaz
+flankr,jimgrange
 flap,finyang
 flare,mlcoding
 flashCard,jienagu
@@ -9372,6 +9377,7 @@ HarmonizR,bioc
 harmony,immunogenomics
 harmonydata,omtarful
 HARplus,bodysbobb
+HARr,mivanic
 harrietr,andersgs
 harrypotter,aljrico
 Harshlight,bioc
@@ -11385,6 +11391,7 @@ LCA,edcurry
 LCAextend,cran
 lcars,leonawicz
 lcc,prof-thiagooliveira
+LCCkNN,gabrielforest
 LCCR,francescobartolucci
 lcda,mchlbckr
 LCFdata,cran
@@ -13887,6 +13894,7 @@ multicrispr,bioc
 multid,vjilmari
 MultiDataSet,bioc
 multiDEGGs,elisabettasciacca
+multideploy,coatless-rpkg
 multiDimBio,scarpino
 multiDoE,andreamelloncelli
 multidplyr,tidyverse
@@ -14536,6 +14544,7 @@ nLTT,thijsjanzen
 nlWaldTest,olehjktu
 NMA,nomahi
 NMADiagT,boyanglu
+NMAforest,cran
 nmaINLA,gunhanb
 NMAoutlier,petropouloumaria
 nmaplateplot,cran
@@ -17226,7 +17235,7 @@ qlcVisualize,cysouw
 QLearning,labressler
 qlifetable,cran
 qmap,lukasgudm
-qmd,cran
+qmd,leamais1
 qmethod,aiorazabala
 qmj,anttsou
 qMRI,ktabelow
@@ -17670,6 +17679,7 @@ RApiSerialize,eddelbuettel
 Rapp,r-lib
 RAppArmor,jeroen
 rappdirs,r-lib
+rappleads,selesnow
 rapport,rapporter
 rapportools,rapporter
 rappsflyer,selesnow
@@ -17824,6 +17834,7 @@ rcartocolor,nowosad
 RCAS,bioc
 RCASPAR,bioc
 Rcatch22,hendersontrent
+RCaucTile,agricolamz
 RcausalEGM,teddy880
 rcausim,cran
 rCBA,jaroslav-kuchar
@@ -19877,6 +19888,7 @@ sampleSelection,arne-henningsen
 samplesize,shearer
 SampleSize4ClinicalTrials,qihongchao
 samplesize4surveys,psirusteam
+SampleSizeCalculator,nobinstat
 samplesizeCMH,pegeler
 SampleSizeDiagnostics,mkhospital
 samplesizeestimator,dr-amala-kumarapandiyan
@@ -20537,6 +20549,7 @@ sets,cran
 SetTest,wpihongzhang
 settings,markvanderloo
 settingsSync,notplancha
+setwidth,ptuc-stats
 Seurat,satijalab
 SeuratExplorer,fentouxungui
 SeuratObject,satijalab
@@ -20833,6 +20846,7 @@ sicure,cran
 SID,fkgruber
 SIDES,marie-karelle
 sidier,cran
+sidra,rodrigoesborges
 sidrar,rpradosiqueira
 Sie2nts,xcding1212
 siebanxicor,cran
@@ -21542,7 +21556,7 @@ SparseSignatures,bioc
 sparsestep,gjjvdburg
 sparsesvd,schtepf
 sparseSVM,cy-dev
-sparsevb,cran
+sparsevb,gabriel-clara
 sparsevctrs,r-lib
 SparseVFC,sciurus365
 sparsio,rexyai
@@ -21596,6 +21610,7 @@ SpatialPosition,riatelab
 spatialprobit,stefanwilhelm
 SpatialRDD,axlehner
 spatialreg,r-spatial
+spatialreg.hp,cran
 SpatialRegimes,fvidoli
 spatialRF,blasbenito
 spatialrisk,mharinga
@@ -23165,6 +23180,7 @@ tidyplate,shubhamdutta26
 tidyplots,jbengler
 tidyplus,poissonconsulting
 tidypmc,ropensci
+tidypopgen,evolecolgroup
 tidyposterior,tidymodels
 tidypredict,tidymodels
 tidyprompt,kennispunttwente
@@ -23374,6 +23390,7 @@ TOC,amsantac
 todor,dokato
 togglr,thinkr-open
 TOHM,salgeri
+tok,mlverse
 tokenbrowser,kasperwelbers
 tokenizers,ropensci
 tokenizers.bpe,bnosac

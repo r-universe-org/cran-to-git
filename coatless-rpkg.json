@@ -20,6 +20,11 @@
     "url": "https://github.com/coatless-rpkg/msos"
   },
   {
+    "package": "multideploy",
+    "maintainer": "James Joseph Balamuta <james.balamuta@gmail.com>",
+    "url": "https://github.com/coatless-rpkg/multideploy"
+  },
+  {
     "package": "RcppEnsmallen",
     "maintainer": "James Joseph Balamuta <balamut2@illinois.edu>",
     "url": "https://github.com/coatless-rpkg/rcppensmallen"
