@@ -516,6 +516,12 @@
     "subdir": "pkg/plasma"
   },
   {
+    "package": "plgraphics",
+    "maintainer": "Werner A. Stahel <stahel@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/regdevelop",
+    "subdir": "pkg/plgraphics"
+  },
+  {
     "package": "plugdensity",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",
@@ -874,13 +880,6 @@
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
     "subdir": "pkg/tframe"
-  },
-  {
-    "package": "tframePlus",
-    "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
-    "url": "https://github.com/r-forge/tsanalysis",
-    "subdir": "pkg/tframePlus",
-    "registry": "archived"
   },
   {
     "package": "tm",

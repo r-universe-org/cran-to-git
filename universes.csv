@@ -1042,6 +1042,7 @@ autovi,tengmcing
 AutoWeatherIndices,cran
 AutoWMM,malfly
 AuxSurvey,zjg540066169
+auxvecLASSO,gustafanderssons
 av,ropensci
 available,r-lib
 avar,smac-group
@@ -1421,7 +1422,6 @@ BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
-bayou,uyedaj
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
@@ -2300,6 +2300,7 @@ bssm,helske
 BSSoverSpace,cran
 BSSprep,cran
 bst,cran
+BSTFA,cberrettstat
 bsTools,tconwell
 bstrl,ianmtaylor1
 bsts,steve-the-bayesian
@@ -2461,6 +2462,7 @@ callsync,simeonqs
 calm,bioc
 calmate,henrikbengtsson
 calmr,victor-navarro
+calms,cran
 calpassapi,vinhdizzo
 CalSim,resinj
 camcorder,thebioengineer
@@ -2510,6 +2512,7 @@ capushe,cran
 capybara,pachadotdev
 car,r-forge
 caracas,r-cas
+caradpt,jerryluorj
 caRamel,fzao
 carat,yexiaoqingruc
 CARBayes,duncanplee
@@ -4564,6 +4567,7 @@ DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
 DataClean,xiaoruizhu
 datacleanr,the-hull
+datacommons,tidy-intelligence
 dataCompare,seewe
 dataCompareR,capitalone
 datacutr,pharmaverse
@@ -4977,6 +4981,7 @@ despair,jpmonteagudo28
 desplot,kwstat
 destiny,bioc
 DEsubs,bioc
+DET,jmcurran
 details,yonicd
 detect,psolymos
 detectnorm,irissun
@@ -6493,7 +6498,6 @@ etree,ricgbl
 ETRep,mohsentaherishalmani
 etrm,sleire
 etrunct,stephens999
-etwfe,grantmcdermott
 EuclideanSD,cran
 Euclimatch,justinhubbard
 eudata,prokaj
@@ -7041,7 +7045,6 @@ fedstatAPIr,denchpokepon
 fedup,bioc
 fedz1,shaf1430
 fee,rtgodwin
-FeedbackTS,ssoubeyrand
 fEGarch,dschulz13
 feisr,ruettenauer
 FELLA,bioc
@@ -7953,7 +7956,6 @@ gdata,r-gregmisc
 GDAtools,nicolas-robette
 GDCRNATools,bioc
 gde,smithsonian
-GDELTtools,shaptonstahl
 gdi,theropod1
 gdiff,pmur002
 GDILM.ME,ruwanirh
@@ -8146,6 +8148,7 @@ GenoPop,migurke
 GenOrd,alessandro-barbiero
 GenoScan,cran
 GenoTriplo,julienrocheigepp
+GenOU,cran
 genpathmox,glamb85
 GenProSeq,bioc
 genpwr,cran
@@ -9087,6 +9090,7 @@ gridExtra,baptiste
 gridGeometry,pmur002
 gridGraphics,pmur002
 gridGraphviz,r-forge
+gridify,pharmaverse
 GridOnClusters,cran
 gridOT,cran
 gridpattern,trevorld
@@ -9342,6 +9346,7 @@ haldensify,nhejazi
 halfcircle,wherewindstay
 halfmoon,r-causal
 halk,cran
+ham,szuniga07
 hamlet,syksy
 handcodeR,liserman
 handlr,ropensci
@@ -9543,7 +9548,7 @@ HERON,bioc
 Herper,bioc
 hesim,hesim-dev
 HEssRNA,bmgfiasri
-HeterFunctionalData,cran
+HeterFunctionalData,hwanggit
 heterocop,cran
 heterogen,patauchi
 HeteroGGM,cran
@@ -11072,6 +11077,7 @@ kfigr,mkoohafkan
 kfino,sanchezi
 KFPCA,cran
 KFPLS,cran
+kfre,lshpaner
 kgc,clb117
 kgen,dm807cam
 KGode,cran
@@ -12876,7 +12882,6 @@ MGBT,cran
 mgc,neurodata
 mgcv,cran
 mgcViz,mfasiolo
-MGDrivE2,marshalllab
 mgee2,yuliangxu
 MGFM,bioc
 MGFR,bioc
@@ -13565,7 +13570,6 @@ Morpho,zarquon42b
 morphomap,aprofico
 moRphomenses,clancylabuiuc
 MorphoRegions,aagillet
-Morphoscape,blakedickson
 MorphoTools2,marekslenker
 morrowplots,sandical
 morse,virgile-baudrot
@@ -14489,7 +14493,6 @@ NitrogenUptake2016,troyhill
 nivm,michaelfay-niaid
 nixmass,haraldschellander
 nixtlar,nixtla
-njgeo,gavinrozzi
 nJira,nikhilchoudhry
 NlcOptim,cran
 nlcv,lcougnaud
@@ -15786,6 +15789,7 @@ pec,tagteam
 PECA,bioc
 peco,bioc
 pecora,cran
+pECV,wzjwangzhijing
 pedalfast.data,dewittpe
 pedbp,dewittpe
 pedbuildr,magnusdv
@@ -16234,7 +16238,7 @@ plfm,michelmeulders
 plfMA,cran
 plgem,bioc
 plgp,rbgramacy
-plgraphics,wernerstahel
+plgraphics,r-forge
 plier,bioc
 pliman,nepem-ufsc
 PLindleyROC,ertansu
@@ -17004,7 +17008,7 @@ PSPManalysis,amderoos
 PSpower,laubok
 psqn,boennecd
 PSS.Health,cran
-PSSIM,cran
+PSSIM,hwanggit
 PSSMCOOL,biocool-lab
 pssmooth,mjuraska
 psSubpathway,hanjunwei-lab
@@ -17057,6 +17061,7 @@ ptwikiwords,dfalbel
 PTwins,lmesteban
 PTXQC,cbielow
 ptycho,cran
+pubchem.bio,cran
 PubChemR,selcukorkmaz
 pubh,josie-athens
 public.ctn0094data,ctn-0094
@@ -17231,7 +17236,6 @@ qkerntool,yusenzhang
 qlcal,qlcal
 qlcData,cysouw
 qlcMatrix,cysouw
-qlcVisualize,cysouw
 QLearning,labressler
 qlifetable,cran
 qmap,lukasgudm
@@ -17848,6 +17852,7 @@ rccola,spgarbet
 RCCPCA,aboaziz1
 rcdd,cran
 rcDEA,cran
+rcdf,yng-me
 rcdk,zachcp
 rcdklibs,cdk-r
 rcdo,eliocamp
@@ -20194,6 +20199,7 @@ scPipe,bioc
 scPipeline,sridhara-omics
 scPloidy,fumi-github
 scplot,cran
+scPOEM,houyt23
 scpoisson,yuepan027
 SCpubr,enblacar
 scqe,kirstenlandsiedel
@@ -20303,6 +20309,7 @@ SEAHORS,aurelienroyer
 seahtrue,bioc
 sealasso,cran
 seAMLess,eonurk
+searchAnalyzeR,chaoliu-cl
 searcher,coatless-rpkg
 SearchTrees,gmbecker
 SEARS,cran
@@ -20315,7 +20322,6 @@ seasonalview,christophsax
 SeaSondeR,gofuvi
 seastests,danielollech
 SeaVal,cran
-seawaveQ,kryberg-usgs
 SeBR,drkowal
 SECFISH,isabella84
 sechm,bioc
@@ -20889,7 +20895,6 @@ sigQC,andrewdhawan
 sigr,winvector
 SigsPack,bioc
 sigsquared,bioc
-SigTree,johnrstevens
 sigugr,josesamos
 SIHR,zywang0701
 siie,cran
@@ -21259,6 +21264,7 @@ smlmkalman,andrew-buist
 SMLoutliers,siddjain24
 SMM,nicolasv-dev
 SMMA,adam-lund
+SMMAL,hjmarquis
 SMME,adam-lund
 smmR,nicolasv-dev
 SMMT,valvaletl
@@ -21593,7 +21599,6 @@ SpatialExtremes,r-forge
 spatialFDA,bioc
 SpatialfdaR,jamesramsay5
 SpatialFeatureExperiment,bioc
-spatialfusion,cran
 spatialGE,cran
 SpatialGEV,cran
 SpatialGraph,garciapintado
@@ -22247,6 +22252,7 @@ stratallo,wwojciech
 stratamatch,raikens1
 stratastats,gianmarcoalberti
 stratbr,jambrito
+stratcols,mindthegap-erc
 strategicplayers,milesott
 Strategy,quantsch
 stratEst,fdvorak
@@ -22373,7 +22379,6 @@ sunburstR,timelyportfolio
 suncalc,datastorm-open
 SunCalcMeeus,aphalo
 Sunclarco,cran
-SUNGEO,zhukovyuri
 SunsVoc,cran
 suntools,adokter
 supclust,mmaechler
@@ -22921,6 +22926,7 @@ tergmLite,smjenness
 tergo,kpagacz
 term,poissonconsulting
 terminaldigits,cran
+terminalgraphics,cran
 tern,insightsengineering
 tern.gee,insightsengineering
 tern.mmrm,insightsengineering
@@ -23034,7 +23040,6 @@ TFMPvalue,ge11232002
 tfNeuralODE,semran9
 tfprobability,rstudio
 tframe,r-forge
-tframePlus,r-forge
 TFRE,yunanwu123
 tfrmt,gsk-biostatistics
 tfrmtbuilder,gsk-biostatistics
@@ -23069,6 +23074,7 @@ ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
 thermocouple,cran
+TheseusPlot,hoxo-m
 TheSFACE,amitsasson
 thestats,analyticsresearchlab
 thgenetics,cran
@@ -23936,7 +23942,6 @@ ubair,cran
 UBayFS,annajenul
 UBCRM,zemmourc
 ubiquity,john-harrold
-UBL,paobranco
 ubms,ecoverser
 UBStats,raffaellapiccarreta
 UCell,bioc
