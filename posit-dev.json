@@ -15,6 +15,12 @@
     "url": "https://github.com/posit-dev/mcptools"
   },
   {
+    "package": "shinychat",
+    "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
+    "url": "https://github.com/posit-dev/shinychat",
+    "subdir": "pkg-r"
+  },
+  {
     "package": "shinylive",
     "maintainer": "Barret Schloerke <barret@posit.co>",
     "url": "https://github.com/posit-dev/r-shinylive"
