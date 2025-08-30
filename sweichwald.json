@@ -4,5 +4,10 @@
     "maintainer": "Niklas Pfister <np@math.ku.dk>",
     "url": "https://github.com/sweichwald/coroica-r",
     "subdir": "coroICA"
+  },
+  {
+    "package": "gadjid",
+    "maintainer": "Sebastian Weichwald <sweichwald@math.ku.dk>",
+    "url": "https://github.com/cran/gadjid"
   }
 ]
