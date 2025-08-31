@@ -3183,6 +3183,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DeeDeeExperiment",
+    "maintainer": "Najla Abassi <abassi.nejla96@gmail.com>",
+    "url": "https://github.com/imbeimainz/deedeeexperiment",
+    "registry": "bioc"
+  },
+  {
     "package": "DeepPINCS",
     "maintainer": "Dongmin Jung <dmdmjung@gmail.com>",
     "url": "https://git.bioconductor.org/packages/DeepPINCS",
