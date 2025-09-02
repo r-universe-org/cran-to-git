@@ -1985,6 +1985,7 @@ blogdown,rstudio
 BloodGen3Module,bioc
 BLOQ,vahidnassiri
 blorr,rsquaredacademy
+blosc,pepijn-devries
 BLPestimatoR,danielbr2
 BLR,cran
 blrm,minniesun
@@ -3214,6 +3215,7 @@ climextRemes,paciorek
 ClimInd,fergusreiggracia
 ClimMobTools,agrdatasci
 climodr,envima
+ClimProjDiags,cran
 climwin,liamdbailey
 clinDataReview,openanalytics
 clinDR,snthomas99
@@ -3441,6 +3443,7 @@ coat,cran
 cobalt,ngreifer
 cobenrich,cran
 cobiclust,julieaubert
+cobin,changwoo-lee
 cobs,r-forge
 coca,acabassi
 CoCiteStats,bioc
@@ -5859,6 +5862,7 @@ ebmc,cran
 ebmstate,ruibarrigana
 ebnm,stephenslab
 EBPRS,shuangsong0110
+ebrahim.gof,ebrahimkhaled
 EBrank,johnfergusonnuig
 ebreg,cran
 eBsc,lfrm
@@ -7184,6 +7188,7 @@ firebase.auth.rest,kennedymwavu
 firebehavioR,ecofire
 fireexposuR,ropensci
 firesale,thomasp85
+firestorm,thomasp85
 first,cran
 FiSh,mlaib
 FISHalyseR,bioc
@@ -9422,6 +9427,7 @@ hclust1d,szymonnowakowski
 hclusteasy,tsukubai
 HCmodelSets,hhhelfer
 HCR,jie-qiao
+hcruR,mumbarkar
 HCT,cran
 HCTDesign,tpatni719
 HCTR,lethargy608
@@ -9911,7 +9917,7 @@ hydrogeo,cran
 hydroGOF,hzambran
 hydroloom,doi-usgs
 HydroMe,cran
-hydroMOPSO,r-marinao
+hydroMOPSO,rmarinao
 hydropeak,cran
 HydroPortailStats,benrenard
 hydroroute,cran
@@ -10411,6 +10417,7 @@ ino,loelschlaeger
 inops,moodymudskipper
 InPAS,bioc
 inpdfr,frareb
+inphr,tdaverse
 inplace,privefl
 InPosition,derekbeaton
 INPower,bioc
@@ -11913,6 +11920,7 @@ LowRankQP,johnormerod
 LowWAFOMNX,mersennetwister-lab
 LowWAFOMSobol,mersennetwister-lab
 lpacf,adunaic
+lpanda,localpolitics
 LPBkg,salgeri
 lpc,danielawitten
 lpcde,cran
@@ -12748,6 +12756,7 @@ metamedian,stmcg
 metamer,eliocamp
 metamicrobiomeR,nhanhocu
 metamisc,smartdata-analysis-and-statistics
+metamorphr,yasche
 metaMS,bioc
 metan,nepem-ufsc
 MetaNeighbor,bioc
@@ -13057,6 +13066,7 @@ minimalRSD,jiyosunny
 minimap,seankross
 minimapR,jake-bioinfo
 minimax,billvenables
+minimaxALT,hoanglinh171
 minimaxApprox,aadler
 miniMeta,thlytras
 MinimumDistance,bioc
@@ -13852,6 +13862,7 @@ muckrock,ironholds
 MuData,bioc
 mudfold,spybal
 mueRelativeRisk,rickeycarter
+MuFiMeshGP,cran
 MUGS,celehs
 muhaz,dwinsemius
 muir,alforj
@@ -13863,6 +13874,7 @@ mully,frankkramer-lab
 mulSEM,mikewlcheung
 mulset,login-
 mult.latent.reg,cran
+MultANOVA,bmahieuoniris
 MultBiplotR,villardon
 multbxxc,sgsokol
 multcomp,r-forge
@@ -14955,6 +14967,7 @@ OmaDB,bioc
 OmegaG,yujiaomai
 omicade4,bioc
 OmicCircos,bioc
+OmicFlow,agusinac
 OmicKriging,hakyimlab
 OmicNavigator,abbvie-external
 omicplotR,bioc
@@ -16046,6 +16059,7 @@ phrases,sumanstats
 phruta,ropensci
 phsmethods,public-health-scotland
 PHSMM,cran
+phsopendata,public-health-scotland
 phuassess,cran
 phutil,tdaverse
 phyclust,snoweye
@@ -16575,6 +16589,7 @@ power.transform,oncoray
 Power2Stage,detlew
 poweRbal,sophiekersting
 powerbiR,cvermehren
+powerbrmsINLA,tony-myers
 powerbydesign,frankpapenmeier
 powerCompRisk,erickawaguchi
 powerEQTL,sterding
@@ -17264,6 +17279,7 @@ qqboxplot,jrodu
 qqconf,eweine
 qqman,stephenturner
 qqplotr,aloy
+QQreflimits,jjkraker
 qqtest,rwoldford
 qqvases,robstine
 QR,github-ms
@@ -18484,6 +18500,7 @@ reslr,maeveupton
 resmush,dieghernan
 RESOLVE,bioc
 resourcecode,resourcecode-project
+resourcecodedata,resourcecode-project
 resourcer,obiba
 ResourceSelection,psolymos
 ResPBIBD,cran
@@ -20401,6 +20418,7 @@ seliNDRIx,venkatesanraja
 sem,zhenghuanie
 semantic.assets,appsilon
 semantic.dashboard,appsilon
+SemanticDistance,reilly-conceptscognitionlab
 semaphore,cmmr
 Semblance,cran
 semboottools,yangzhen1999
@@ -20797,6 +20815,7 @@ shinyTempSignal,yulab-smu
 shinytest,rstudio
 shinytest2,rstudio
 ShinyTester,cran
+shinytesters,ashbaldry
 shinythemes,rstudio
 shinyTime,burgerga
 shinyTimer,maciekbanas
@@ -21465,6 +21484,7 @@ SoundShape,p-rocha
 SoupX,constantamateur
 sourcetools,kevinushey
 sourcoise,xtimbeau
+SouthKoreAPIs,lightbluetitan
 SouthParkRshiny,amalan-constat
 sovereign,tylerjpike
 sox,ly129
