@@ -372,13 +372,8 @@
   },
   {
     "package": "ghql",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/ghql"
-  },
-  {
-    "package": "gistr",
-    "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
-    "url": "https://github.com/ropensci/gistr"
   },
   {
     "package": "git2r",
@@ -484,12 +479,6 @@
     "package": "jstor",
     "maintainer": "Thomas Klebel <t.klebel@hotmail.com>",
     "url": "https://github.com/ropensci/jstor"
-  },
-  {
-    "package": "karel",
-    "maintainer": "Marcos Prunello <marcosprunello@gmail.com>",
-    "url": "https://github.com/ropensci/karel",
-    "registry": "archived"
   },
   {
     "package": "katex",

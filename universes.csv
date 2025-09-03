@@ -2777,7 +2777,6 @@ cellscape,bioc
 CellScore,bioc
 celltrackR,jtextor
 CellTrails,bioc
-cellularautomata,vladtarko
 cellVolumeDist,cran
 cellWise,jakobraymaekers
 cellxgenedp,bioc
@@ -4737,6 +4736,7 @@ DDIwR,dusadrian
 DDL,cran
 DDM,cran
 ddml,thomaswiemann
+ddModel,yxlin
 ddp,weksi-budiaji
 ddpca,cran
 ddpcr,daattali
@@ -7275,6 +7275,7 @@ flattabler,josesamos
 flatxml,jsugarelli
 fledge,cynkra
 flevr,bdwilliamson
+flex,cran
 flexclust,cran
 flexCWM,cran
 flexdashboard,rstudio
@@ -7940,6 +7941,7 @@ GCEstim,jorgevazcabral
 gchartsmap,odeleongt
 gcite,muschellij2
 gcKrig,hanzifei
+gclink,liuyanglee
 gclm,gherardovarando
 gclus,cbhurley
 gcmr,crisvarin
@@ -8549,7 +8551,6 @@ ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
-ggsmc,richardgeveritt
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
 ggsom,oldlipe
@@ -8658,7 +8659,7 @@ giscoR,ropengov
 GISINTEGRATION,leilamarvian
 GISSB,statisticsnorway
 GISTools,lbb220
-gistr,ropensci
+gistr,ropensci-archive
 git2r,ropensci
 git2rdata,ropensci
 git4r,johnxhobbs
@@ -8948,6 +8949,7 @@ GPCsign,morgane-m
 GPEMR,ruqaiya41
 GPFDA,gpfda
 GPfit,cran
+gpg,ropensci
 GPGame,vpicheny
 GpGp,joeguinness
 gpindex,marberts
@@ -9253,6 +9255,7 @@ gtregression,thinkdenominator
 gtrellis,bioc
 gtrendshealth,cdcgov
 gtrendsR,pmassicotte
+GTRT,cran
 gtsummary,ddsjoberg
 gtWAS,junhuili1017
 guaguas,rivaquiroga
@@ -9622,7 +9625,7 @@ HiCool,bioc
 hicp,eurostat
 HiCParser,bioc
 HiCPotts,bioc
-hicream,cran
+hicream,eoojj
 hicVennDiagram,bioc
 hiddenf,jasonaosborne
 HiddenMarkov,cran
@@ -11899,7 +11902,7 @@ loon.tourr,z267xu
 LoopAnalyst,alexisdinno
 LoopDetectR,kathbaum
 loopevd,julianog
-LoopRig,cran
+LoopRig,hmaan5
 LOPART,tdhock
 lorad,amilkey1
 lordif,choi-phd
@@ -13163,6 +13166,7 @@ misty,cran
 mistyR,bioc
 misuvi,brendensm
 mitch,bioc
+mitey,kylieainslie
 mitml,simongrund1
 mitoClone2,bioc
 MitoHEAR,gabrielelubatti
@@ -13279,6 +13283,7 @@ MLGL,modal-inria
 MLID,profrichharris
 mlim,haghish
 MLInterfaces,bioc
+mLLMCelltype,cafferychen777
 mllrnrs,kapsner
 mlma,qingzhaoyu
 mlmc,louisaslett
@@ -13289,6 +13294,7 @@ MLML2R,samarafk
 mlmm.gwas,cran
 MLModelSelection,kuojunglee
 MLMOI,mhashemihsmw
+MLmorph,theogrost
 mlmpower,bkeller2
 mlmRev,stevencarlislewalker
 mlms,jfisher-usgs
@@ -13988,6 +13994,7 @@ MultiRobust,praetere
 multiROC,cran
 MultIS,wagner-s
 MultiscaleDTM,ailich
+multiScaleR,wpeterman
 multiscan,bioc
 multiselect,meisnera
 multisensi,cran
@@ -14691,6 +14698,7 @@ NostalgiR,cran
 not,ychen101
 notebookutils,cran
 notifyme,epijim
+notionapi,brenwin1
 notionR,eflores89
 NovelDistns,mutuasam
 novelforestSG,hrlai
@@ -15389,7 +15397,7 @@ packcircles,mbedward
 packer,johncoene
 PacketLLM,antoniczolgowski
 packFinder,bioc
-packHV,cran
+packHV,hvaret
 packMBPLSDA,cran
 packrat,rstudio
 pacman,trinker
@@ -15980,6 +15988,7 @@ pharmr,pharmpy
 phase,cran
 Phase123,cran
 Phase12Compare,cran
+phase12designs,angela-cao
 phase1PRMD,luzhangstat
 phase1RMD,vivienjyin
 phaseR,mjg211
@@ -16327,7 +16336,6 @@ plspm,gastonstat
 plsRbeta,fbertran
 plsRcox,fbertran
 plsRglm,fbertran
-PLStests,codingmylife
 plsVarSel,khliland
 plu,rossellhayes
 plug,strategicprojects
@@ -18337,6 +18345,7 @@ regrap,cran
 RegrCoeffsExplorer,vadimtyuryaev
 regreplaceR,gwangjinkim
 regress,kbroman
+regress3d,ellafostermolina
 regressinator,capnrefsmmat
 RegressionFactory,asmahani
 regressoR,cran
@@ -18752,6 +18761,7 @@ rifreg,cran
 RIFS,cran
 rifttable,stopsack
 Rigma,alekoure
+rigr,statdivlab
 Rigraphlib,bioc
 rigvf,bioc
 RIIM,zoezhu098
@@ -19036,6 +19046,7 @@ rnassqs,ropensci
 rnaturalearth,ropensci
 rnaturalearthdata,ropensci
 rnaturalearthhires,ropensci
+Rnaught,mi2yorku
 RnavGraphImageData,waddella
 RnBeads,bioc
 rnbp,szymanskir
@@ -19151,6 +19162,7 @@ robustlm,mamba413
 robustlmm,kollerma
 robustmatrix,marcusmayrhofer
 robustmeta,nomahi
+RobustMetrics,bernhardklar
 RobustPrediction,yuting-he
 robustrank,youyifong
 RobustRankAggreg,raivokolde
@@ -19757,6 +19769,7 @@ rvisidata,paulklemm
 rvkstat,selesnow
 rvmethod,parkerholzer
 rvMF,seungwoo-stat
+rvolleydata,awosoga
 RVS,bioc
 rwa,martinctc
 rwalkr,earowang
@@ -22293,6 +22306,7 @@ stray,pridiltal
 STREAK,cran
 stream,mhahsler
 streambugs,nschuwirth
+StreamCatTools,usepa
 streamDAG,moondog1969
 streamDepletr,foundryspatial
 Streamer,bioc
@@ -22474,7 +22488,7 @@ surveillance,r-forge
 survELtest,news11
 SurvEval,cran
 survex,modeloriented
-survexp.fr,cran
+survexp.fr,hvaret
 survextrap,chjackson
 survey,r-forge
 surveybootstrap,dfeehan
@@ -23666,6 +23680,7 @@ trending,reconverse
 TrendInTrend,cran
 TrendLSW,euanmcgonigle
 trendsegmentR,hmaeng
+trendtestR,grahnh
 TrendTM,emilielebarbier74
 Trendtwosub,wangyuncw
 Trendy,bioc
@@ -23993,7 +24008,7 @@ ui,minnage
 uisapi,tidy-intelligence
 uiucthemes,illinois-r
 uk2us,bldavies
-UKB.COVID19,bahlolab
+UKB.COVID19,longfei-stat
 ukbabynames,mine-cetinkaya-rundel
 ukbnmr,sritchie73
 UKFE,agqhammond

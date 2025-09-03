@@ -71,6 +71,11 @@
     "url": "https://github.com/usepa/ssn2"
   },
   {
+    "package": "StreamCatTools",
+    "maintainer": "Marc Weber <weber.marc@epa.gov>",
+    "url": "https://github.com/usepa/streamcattools"
+  },
+  {
     "package": "tcpl",
     "maintainer": "Madison Feshuk <feshuk.madison@epa.gov>",
     "url": "https://github.com/usepa/comptox-toxcast-tcpl"
