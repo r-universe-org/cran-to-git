@@ -12202,6 +12202,12 @@
     "registry": "bioc"
   },
   {
+    "package": "spARI",
+    "maintainer": "Yinqiao Yan <yinqiaoyan@bjut.edu.cn>",
+    "url": "https://git.bioconductor.org/packages/spARI",
+    "registry": "bioc"
+  },
+  {
     "package": "sparrow",
     "maintainer": "Steve Lianoglou <slianoglou@gmail.com>",
     "url": "https://github.com/lianos/sparrow",

@@ -1952,6 +1952,7 @@ blatent,jonathantemplin
 blavaan,ecmerkle
 BLCOP,mangothecat
 Blend,kunfa
+blendR,statisticshealtheconomics
 Blendstat,cran
 blima,bioc
 blindrecalc,imbi-heidelberg
@@ -2632,6 +2633,7 @@ causalCmprsk,bella2001
 causaldata,nickch-k
 causalDisco,annennenne
 causaldrf,cran
+causalDT,tiffanymtang
 causaleffect,santikka
 CausalGAM,quinn-kevin
 CausalGPS,nsaph-software
@@ -3649,6 +3651,7 @@ comparison,jmcurran
 ComparisonSurv,chenzgz
 compas,wongswk
 COMPASS,bioc
+CompClassMetrics,cran
 compcodeR,bioc
 compdb,cyianor
 CompDist,cran
@@ -4062,6 +4065,7 @@ coxed,jkropko
 coxerr,cran
 CoxICPen,cran
 coxme,cran
+CoxMK,xiaoxiandadada
 Coxmos,biostatomics
 coxphf,georgheinze
 coxphm,zea23i651096531
@@ -4108,6 +4112,7 @@ cpp11qpdf,pachadotdev
 cppcheckR,stla
 cppdoubles,nicchr
 cppRouting,vlarmet
+cppSim,ischlo
 cpr,dewittpe
 cprobit,nyilin
 cprr,anhoej
@@ -6080,6 +6085,7 @@ EigenR,stla
 eikosograms,rwoldford
 eimpute,gaozhe33
 einet,travisbyrum
+einops,qile0317
 einsum,const-ae
 eiopaR,mehdichelh
 eiopt2,cran
@@ -6370,6 +6376,7 @@ epm,ptitle
 epmrob,cran
 epo,reckziegel
 epocakir,alwinw
+Epoch,jiefei-wang
 eponge,krzjoa
 epos,bernd-mueller
 epoxy,gadenbuie
@@ -6503,6 +6510,7 @@ etree,ricgbl
 ETRep,mohsentaherishalmani
 etrm,sleire
 etrunct,stephens999
+etwfe,grantmcdermott
 EuclideanSD,cran
 Euclimatch,justinhubbard
 eudata,prokaj
@@ -11047,6 +11055,7 @@ KEPTED,tyy20
 kequate,cran
 keras,t-kalinowski
 keras3,rstudio
+kerasnip,davidrsch
 kerastuneR,eagerai
 kerDAA,cran
 kerdiest,iullibarri
@@ -13521,7 +13530,7 @@ MoLE,samlestrade2
 MoleculeExperiment,bioc
 MolgenisArmadillo,molgenis
 MolgenisAuth,molgenis
-MOLHD,hrz123
+MOLHD,ruizhehou
 MOM,pgmstat04
 MOMA,bioc
 mombf,davidrusi
@@ -13727,9 +13736,9 @@ mRpostman,allanvc
 MRQoL,cran
 MRReg,darkeyes
 mrregression,lgstat
-MRTAnalysis,cran
+MRTAnalysis,tqian
 MRTSampleSize,pengliao
-MRTSampleSizeBinary,cran
+MRTSampleSizeBinary,tqian
 MRZero,sb452
 msa,bioc
 MSA2dist,bioc
@@ -13959,6 +13968,7 @@ multiMiR,bioc
 multimix,jmcurran
 MultimodalExperiment,bioc
 multimode,jose-ameijeiras
+multiModTest,cran
 multimolang,daedaluslab
 multimorbidity,wyattbensken
 multiness,peterwmacd
@@ -14013,6 +14023,7 @@ multivar,zackfisher
 multivariance,bb-diesunddas
 MultivariateAnalysis,cran
 MultivariateRandomForest,razrahman
+MultivariateTrendAnalysis,cran
 multivarious,bbuchsbaum
 MultiVarMI,cran
 multivator,robinhankin
@@ -15902,6 +15913,7 @@ permChacko,ocbe-uio
 PermCor,cran
 permimp,ddebeer
 permPATH,ishterev33
+permRand,m-mellers
 perms,cran
 permubiome,alfbenpa
 permuco,jaromilfrossard
@@ -18873,7 +18885,6 @@ rkvo,vst
 Rlab,cran
 Rlabkey,cnathe
 rLakeAnalyzer,gleon
-rLakeHabitat,tristanblechinger
 rlandfire,bcknr
 rlang,r-lib
 rlas,r-lidar
@@ -19501,6 +19512,7 @@ rscorecard,btskinner
 rScudo,bioc
 RSD,shayantohidi
 RSDA,cran
+RSDC,ardiad
 rsdepth,amessbee
 rSDI,ehengirmen
 RSDK,elkhmissi
@@ -19656,6 +19668,7 @@ rtiddlywiki,byzheng
 rtide,millerlp
 RTIGER,rfael0cm
 rtika,ropensci
+rtiktokads,selesnow
 rtiktoken,davzim
 rtip,angelberihuete
 rtist,tomasokal
@@ -21036,6 +21049,7 @@ simpleSetup,christophergandrud
 simpletex,chuxinyuan
 simplexreg,pengyan2000
 simplextree,peekxc
+SIMPLICA,joshageman
 SimplicialCubature,jpnolan
 simplifyEnrichment,bioc
 simplifyNet,ammercier
@@ -21540,6 +21554,7 @@ spANOVA,lrcastro
 spant,martin3141
 sparcl,cran
 spareg,lauravana
+spARI,bioc
 spark.sas7bdat,bnosac
 sparkavro,chezou
 sparkbq,miraisolutions
@@ -21760,6 +21775,7 @@ speedytax,jfq3
 spef,stc04003
 speff2trial,mjuraska
 SPEI,sbegueria
+spell.replacer,browndw
 spellcheckr,selva86
 spelling,ropensci
 SPEM,bioc
@@ -23637,6 +23653,7 @@ treeclimbR,bioc
 treeClust,buttrey
 treeDA,jfukuyama
 treedata.table,ropensci
+treedater,emvolz
 treeDbalance,sophiekersting
 TreeDep,garciadejalon
 TreeDiagram,teemteemwang
@@ -23693,6 +23710,7 @@ triact,agroscope-ch
 TriadSim,cran
 TrialEmulation,causal-lda
 trialr,brockk
+TrialSimulator,zhangh12
 TrialSize,wuqian77
 triangle,bertcarnell
 triangulation,cran
@@ -23871,6 +23889,7 @@ TTS,1802515849
 ttScreening,cran
 ttservice,stemangiola
 ttt,benjaminrich
+ttTensor,rikenbit
 tttplot,amartinunal
 ttutils,cran
 tuber,gojiplus
