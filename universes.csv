@@ -2077,6 +2077,7 @@ BonEV,dongmeili2017
 bonn,sumtxt
 bonsai,tidymodels
 bonsaiforest,insightsengineering
+booami,robertkuchen
 boodd,klona9
 boodist,stla
 bookdown,rstudio
@@ -3155,7 +3156,6 @@ classGraph,mmaechler
 classicaltest,cran
 ClassificationEnsembles,infinitecuriosity
 classifierplots,adefazio
-classifly,hadley
 ClassifyR,bioc
 classInt,r-spatial
 classmap,jakobraymaekers
@@ -3223,7 +3223,7 @@ clinDR,snthomas99
 clinfun,veseshan
 clinical,tkcaccia
 clinicalomicsdbR,bzhanglab
-clinicalsignificance,pedscience
+clinicalsignificance,benediktclaus
 ClinicalTrialSummary,pakdaewo
 ClinicalUtilityRecal,anumishra
 clinify,atorus-research
@@ -4110,6 +4110,7 @@ cpp11bigwig,rnabioco
 cpp11eigen,pachadotdev
 cpp11qpdf,pachadotdev
 cppcheckR,stla
+cppcontainers,cdueben
 cppdoubles,nicchr
 cppRouting,vlarmet
 cppSim,ischlo
@@ -4431,7 +4432,6 @@ cvsem,annawysocki
 CVST,cran
 CVThresh,dkimstatlab
 cvTools,aalfons
-cvwrapr,kjytay
 CVXR,cvxgrp
 cwot,wpihongzhang
 CWT,antguz
@@ -5205,7 +5205,6 @@ DIRMR,guangbaog
 dirmult,tvedebrink
 DirStats,egarpor
 disagg2,erinmh
-disaggR,inseefr
 DisaggregateTS,cran
 disaggregation,timcdlucas
 DisasterAlert,leilamarvian
@@ -6120,6 +6119,7 @@ elexr,ghing
 elfDistr,matheushjs
 elgbd,markean
 elhmc,cran
+ELIC,guangbaog
 ELISAtools,cran
 elisr,sbissantz
 eList,cmann3
@@ -7817,7 +7817,7 @@ gage,bioc
 gaiah,eriqande
 gainML,hhwangbo
 gains,cran
-GAIPE,cran
+GAIPE,zaiyaolin
 galah,atlasoflivingaustralia
 galamm,lcbc-uio
 galaxias,atlasoflivingaustralia
@@ -7844,7 +7844,7 @@ gamlr,taddylab
 gamlss,gamlss-dev
 gamlss.add,gamlss-dev
 gamlss.cens,mstasinopoulos
-gamlss.data,mstasinopoulos
+gamlss.data,gamlss-dev
 gamlss.demo,cran
 gamlss.dist,gamlss-dev
 gamlss.foreach,cran
@@ -10274,7 +10274,7 @@ Immigrate,ruzhangzhao
 ImML,salvatoremangiafico
 immunarch,immunomind
 immunaut,login-
-immundata,cran
+immundata,immunomind
 immunoClust,bioc
 immunogenetr,k96nb01
 immunogenViewer,bioc
@@ -16607,6 +16607,7 @@ powdist,cran
 PoweR,lafaye
 power.transform,oncoray
 Power2Stage,detlew
+power4mome,sfcheung
 poweRbal,sophiekersting
 powerbiR,cvermehren
 powerbrmsINLA,tony-myers
@@ -18749,6 +18750,7 @@ RiboProfiling,bioc
 ribor,bioc
 riboSeqR,bioc
 ribosomeProfilingQC,bioc
+ricci,lschneiderbauer
 rice,maarten14c
 ricegeneann,cran
 riceidconverter,cran
@@ -21391,6 +21393,7 @@ snpAIMeR,kvertacnik
 SNPannotator,cran
 SNPassoc,isglobal-brge
 SNPediaR,bioc
+SNPfiltR,cran
 SNPhood,bioc
 SNPknock,msesia
 snplinkage,thomaschln
@@ -22695,7 +22698,7 @@ synergyfinder,bioc
 SynergyLMM,rafromb
 SynExtend,bioc
 synlet,bioc
-synMicrodata,hang-kim-stat
+synMicrodata,jhlee-projects
 SynMut,bioc
 synr,datalowe
 syntaxr,alixlahuec
@@ -24027,7 +24030,6 @@ ui,minnage
 uisapi,tidy-intelligence
 uiucthemes,illinois-r
 uk2us,bldavies
-UKB.COVID19,longfei-stat
 ukbabynames,mine-cetinkaya-rundel
 ukbnmr,sritchie73
 UKFE,agqhammond
@@ -24455,7 +24457,7 @@ virtuoso,ropensci
 Virusparies,sergejruff
 virustotal,themains
 visa,kang-yu
-visachartR,cran
+visachartR,chris-demartini
 visae,dnzmarcio
 visaOTR,treerlikesu
 VisCollin,friendly
