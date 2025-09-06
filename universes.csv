@@ -2643,6 +2643,7 @@ CausalImpact,google
 CausalMBSTS,fmenchetti
 CausalMetaR,ly129
 CausalModels,ander428
+causalnet,kyurip
 causaloptim,sachsmc
 causalOT,ericdunipace
 causalPAF,mauriceoconnell
@@ -3783,6 +3784,7 @@ Connection,cran
 connections,rstudio
 connectoModa,idiise
 connector,novonordisk-opensource
+connector.databricks,novonordisk-opensource
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -5294,7 +5296,6 @@ distrEx,r-forge
 DISTRIB,cran
 Distributacalcul,alec42
 distributional,mitchelloharawild
-DistributionIV,aholovchak
 DistributionOptimization,cran
 distributions3,alexpghayes
 distributionsrd,ruben0dewitte
@@ -5930,6 +5931,7 @@ econetwork,vmielecnrs
 EconGeo,paballand
 econid,teal-insights
 economiccomplexity,pachadotdev
+econtools,tidy-intelligence
 econullnetr,ivaughan
 ecopower,cran
 ecoreg,chjackson
@@ -6213,7 +6215,6 @@ EMSNM,denglinsui
 EMSS,sangkyustat
 emstreeR,allanvc
 EMT,uwemenzel
-EMTscore,wenmm
 emulator,robinhankin
 emuR,ips-lmu
 enaho,dopatendo
@@ -9620,6 +9621,7 @@ hiAnnotator,bioc
 HIBAG,bioc
 hibayes,yinlilin
 HicAggR,bioc
+HiCaptuRe,bioc
 HiCBricks,bioc
 HiCcompare,bioc
 HiCDCPlus,bioc
@@ -11728,6 +11730,7 @@ LLIC,guangbaog
 LLM,arnoxieseg
 LLMAgentR,knowusuboaky
 LLMR,asanaei
+LLMTranslate,bieducation
 llogistic,rosineide
 LLSR,diegofcoelho
 lm.beta,cran
@@ -12904,6 +12907,7 @@ MGBT,cran
 mgc,neurodata
 mgcv,cran
 mgcViz,mfasiolo
+MGDrivE,marshalllab
 mgee2,yuliangxu
 MGFM,bioc
 MGFR,bioc
@@ -13068,6 +13072,7 @@ mineSweepR,zhuxr11
 minet,bioc
 minFactorial,bijoy231997
 minfi,bioc
+mini007,feddelegrand7
 minic,bertvanderveen
 miniCRAN,andrie
 minidown,atusy
@@ -13084,6 +13089,7 @@ miniMeta,thlytras
 MinimumDistance,bioc
 minioclient,cboettig
 miniPCH,simnph
+minipdf,coolbutuseless
 Minirand,mj2149
 minired,jaimesalvador
 miniUI,rstudio
@@ -14935,6 +14941,7 @@ odseq,bioc
 ODT,katynasada
 OECD,expersso
 oecdoda,tidy-intelligence
+OEFPIL,cran
 oeli,loelschlaeger
 oem,jaredhuling
 oenb,franzmohr
@@ -15206,6 +15213,7 @@ optiSolve,cran
 optistock,cran
 OptM,rfitak
 optmatch,markmfredrickson
+OptOTrials,cran
 optparse,trevorld
 optR,cran
 optrcdmaeAT,cran
@@ -18050,7 +18058,6 @@ RcppXsimd,msuchard
 RcppXts,eddelbuettel
 RcppZiggurat,eddelbuettel
 rcprd,alexpate30
-RCreliability,yulu98
 rcrimeanalysis,jsspaulding
 rcrisp,cityriverspaces
 RCriteo,banboo-data
@@ -19767,7 +19774,6 @@ rvcheck,guangchuangyu
 RVCompare,etorarza
 rvec,bayesiandemography
 Rveg,cran
-RVenn,tyakyol
 RVerbalExpressions,verbalexpressions
 rversions,r-hub
 rvertnet,ropensci
@@ -21224,6 +21230,7 @@ Sleuth3,r-forge
 slfm,cran
 SLFPCA,cran
 slgf,metzger181osu
+SLGP,cran
 SLHD,shanbatr
 SLIC,guangbaog
 SlicedLHD,doer0
@@ -22028,7 +22035,7 @@ ssizeRNA,ranbi1990
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
 ssmodels,fsbmat-ufv
-ssMousetrack,antcalcagni
+ssMousetrack,antonio-calcagni
 ssMRCD,patriciapuch
 ssmrob,cran
 ssmsn,lbenitesanchez

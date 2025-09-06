@@ -5,6 +5,11 @@
     "url": "https://github.com/novonordisk-opensource/connector"
   },
   {
+    "package": "connector.databricks",
+    "maintainer": "Vladimir Obucina <vlob@novonordisk.com>",
+    "url": "https://github.com/novonordisk-opensource/connector.databricks"
+  },
+  {
     "package": "postcard",
     "maintainer": "Mathias Lerbech Jeppesen <mathiasljeppesen@outlook.com>",
     "url": "https://github.com/novonordisk-opensource/postcard"

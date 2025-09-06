@@ -5,6 +5,11 @@
     "url": "https://github.com/tidy-intelligence/r-datacommons"
   },
   {
+    "package": "econtools",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/tidy-intelligence/r-econtools"
+  },
+  {
     "package": "oecdoda",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-intelligence/r-oecdoda"

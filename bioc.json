@@ -5763,6 +5763,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HiCaptuRe",
+    "maintainer": "Laureano Tomas-Daza <lauretomas@gmail.com>",
+    "url": "https://github.com/lauretomas/hicapture",
+    "registry": "bioc"
+  },
+  {
     "package": "HiCBricks",
     "maintainer": "Koustav Pal <koustav.pal@ifom.eu>",
     "url": "https://git.bioconductor.org/packages/HiCBricks",
