@@ -3529,6 +3529,7 @@ coin,r-forge
 coinmarketcapr,amrrs
 Coinprofile,wilmermartinezr
 COINr,bluefoxr
+COINT,cran
 cointmonitoR,aschersleben
 cointReg,aschersleben
 cola,bioc
@@ -3552,7 +3553,7 @@ coloc,chr1swallace
 colocalization,hughzhangcn
 colocalized,stefangolas
 colocboost,statfungen
-colocPropTest,cran
+colocPropTest,chr1swallace
 colocr,ropensci
 ColombiAPI,lightbluetitan
 ColOpenData,epiverse-trace
@@ -3953,6 +3954,7 @@ CorrMixed,wimvde001
 corrplot,taiyun
 corrr,tidymodels
 corrRF,cran
+corrselect,gcol33
 corrsieve,campanam
 corrtable,lauralambert99
 CorrToolBox,bernice0321
@@ -4667,6 +4669,7 @@ DBItest,r-dbi
 dblcens,yfyang86
 dBlockmodeling,aleszib
 dblr,rnorm
+DBmaps,akshat09867
 dbMC,tienmt
 DBModelSelect,shkoeneman
 dbmss,ericmarcon
@@ -5288,6 +5291,7 @@ distrEx,r-forge
 DISTRIB,cran
 Distributacalcul,alec42
 distributional,mitchelloharawild
+DistributionIV,aholovchak
 DistributionOptimization,cran
 distributions3,alexpghayes
 distributionsrd,ruben0dewitte
@@ -6753,6 +6757,7 @@ fabPrediction,betsybersson
 fabR,guifabre
 fabricatr,declaredesign
 fabricerin,feddelegrand7
+fabricQueryR,kennispunttwente
 face,cli9
 facebookadsR,pablosanmar
 facebookleadsR,pablosanmar
@@ -6857,6 +6862,7 @@ fastai,eagerai
 fastbackward,jacobseedorff21
 FastBandChol,cran
 fastbeta,davidearn
+fastbioclim,gepinillab
 fastcluster,dmuellner
 fastcmh,cran
 fastcmprsk,erickawaguchi
@@ -8399,7 +8405,6 @@ gge,kwstat
 ggeasy,jonocarroll
 GGEBiplots,sdumble1
 ggEDA,ccicb
-ggedit,yonicd
 ggeffects,strengejacke
 ggenealogy,cran
 ggetho,rethomics
@@ -10033,6 +10038,7 @@ ICD10gm,edonnachie
 icdcomorbid,aprilnguyen1
 icdGLM,sdlugosz
 icdpicr,ablack3
+icdpicr2,clark-david
 ICDS,hanjunwei-lab
 ICEbox,kapelner
 icecream,lewinfox
@@ -10275,6 +10281,7 @@ ImpactEffectsize,ime-tmp-ffm
 impactflu,khvorov45
 impactr,verasls
 IMPCdata,bioc
+impectR,cran
 impimp,paul-fink
 implicitExpansion,manuelhentschel
 implicitMeasures,ottaviae
@@ -14410,6 +14417,7 @@ neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
 neutrostat,kzst
 neutroSurvey,pankajdas7
+nev,wilburtownsend
 nevada,permaverse
 neverhpfilter,justinmshea
 new.dist,akmn35
@@ -16028,6 +16036,7 @@ phoenics,cran
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
 phonetisr,stefanocoretta
+PhoneValidator,genderapi
 phonfieldwork,ropensci
 phonics,k3jph
 phonR,drammock
@@ -22666,6 +22675,7 @@ synthesisr,mjwestgate
 synthesizer,markvanderloo
 SynthETIC,agi-lab
 synthpop,bnowok
+synthReturn,davidkreitmeir
 SynthTools,charlotteloobyrti
 syrup,simonpcouch
 sys,jeroen
@@ -25017,6 +25027,7 @@ xslt,ropensci
 xsp,cran
 xSub,zhukovyuri
 xtable,r-forge
+xtdml,cran
 xtranat,fdepaolis
 xts,joshuaulrich
 xtsum,macosso
