@@ -1035,6 +1035,7 @@ autostats,harrison4192
 AutoStepwiseGLM,cran
 autostsm,hubbardalex
 autotest,ropensci
+autotesteR,cran
 autothresholdr,rorynolan
 AutoTransQF,cran
 autoTS,vivienroussez
@@ -2844,6 +2845,7 @@ CexoR,bioc
 cfa,pmair78
 CFAcoop,zytohmgu
 CFAssay,bioc
+cfbfastR,sportsdataverse
 CFC,asmahani
 cfda,modal-inria
 cfdecomp,maartenbijlsma
@@ -3248,6 +3250,7 @@ CLME,jelsema
 clmplus,gpitt71
 clock,r-lib
 clockify,datawookie
+clockplot,mahmudstat
 clockSim,yeyuan98
 clogitboost,haoluns
 clogitL1,cran
@@ -6027,6 +6030,7 @@ EFA.MRFA,cran
 EFAfactors,haijiangq
 EFAtools,mdsteiner
 EFAutilities,guangjianzhang
+eFCM,cran
 efdm,mikkoku
 EFDR,andrewzm
 eff2,richardkwo
@@ -6386,6 +6390,7 @@ eq5dsuite,mathsinhealth
 EQL,cran
 EQRN,opasche
 eqtesting,jack-fitzgerald
+EQUALCompareImages,cran
 equalCovs,cran
 Equalden.HD,cran
 EQUALencrypt,cran
@@ -6493,6 +6498,7 @@ ETAS,jalilian
 ETASbootstrap,rjpeng98
 etasFLP,marcellochiodi
 ETC,cran
+ETDQualitizer,dcnieho
 ethiodate,guturago
 ethnobotanyR,cwwhitney
 EthSEQ,cibiobcg
@@ -10351,6 +10357,7 @@ Indicator,gianmarcoborrata
 indicspecies,emf-creaf
 indiedown,cynkra
 indirect,ghosack
+IndonesiAPIs,lightbluetitan
 IndTestPP,anaccebrian
 industRial,j-ramalho
 ineAtlas,pablogguz
@@ -10430,6 +10437,7 @@ Inquilab,cran
 insane,mcanouil
 insect,shaunpwilkinson
 insee,pyr-opendatafr
+inshiny,nicholasdavies
 insight,easystats
 InSilicoVA,verbal-autopsy-software
 INSPEcT,bioc
@@ -12652,6 +12660,7 @@ memoiR,ericmarcon
 memoise,r-lib
 memor,hebrewseniorlife
 memoria,blasbenito
+memshare,mthrun
 MEMSS,stevencarlislewalker
 memuse,shinra-dev
 MendelianRandomization,sb452
@@ -12911,7 +12920,7 @@ mgss,splinesmoothing
 mgsub,bmewing
 mgwnbr,julianamrosa
 mgwrhw,haqqulamin06
-mgwrsar,cran
+mgwrsar,ggeniaux
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
 MHCtools,jr-evolecol
@@ -13132,6 +13141,7 @@ mispr,cran
 misPRIME,treerlikesu
 MiSPU,chongwu-biostat
 MisRepARMA,dmorinya
+missalpha,cran
 missCforest,ielbadisy
 missCompare,tirgit
 MissCP,cran
@@ -13509,6 +13519,7 @@ moexer,x1o
 MOFA2,bioc
 MOFAT,vroshanjoseph
 MOGAMUN,bioc
+mogiw,atchanut
 mogsa,bioc
 mojson,chriswweibo
 mokken,avdrark
@@ -13887,7 +13898,7 @@ MultEq,cran
 multfisher,rmaster1
 multgee,anestistouloumis
 multiActionButton,stla
-multiApply,anchiho
+multiApply,cran
 MultiAssayExperiment,bioc
 multiAssetOptions,mike4358
 MultiATSM,rubensmoura87
@@ -15145,6 +15156,7 @@ optbdmaeAT,cran
 optbin,cran
 optBiomarker,mkhondoker
 OptCirClust,joemsong
+optconerrf,morten-dreher
 optDesignSlopeInt,kapelner
 OPTeCD,ashutoshdalal97
 optedr,kezrael
@@ -15762,6 +15774,7 @@ pdcor,cran
 PDE,erikstricker
 pder,ycroissant
 pdfCluster,cran
+pdfcombiner,stevechoy
 PDFEstimator,jennyfarmer
 pdfetch,abielr
 pdfminer,florianschwendinger
@@ -16372,6 +16385,7 @@ pmp,bioc
 pmparser,hugheylab
 pmr,cran
 pmsampsize,cran
+pmsesampling,chenaters
 pmultinom,alex-l-m
 pmvalsampsize,cran
 pmwg,university-of-newcastle-research
@@ -16656,6 +16670,7 @@ PPSFS,paradoxical-rhapsody
 ppsr,paulvanderlaken
 PPTcirc,karlampm
 PPtreeViz,ek-lee
+ppwdeming,jjkraker
 pql,guangbaog
 PQLseq,cran
 pqrBayes,cenwu
@@ -18574,6 +18589,7 @@ Rfast,rfastofficial
 Rfast2,rfastofficial
 Rfastp,bioc
 RFclust,archakravarthy
+rFDP,cran
 rfema,ropensci
 RfEmpImp,shangzhi-hong
 rFerns,cran
@@ -18841,6 +18857,7 @@ RJSONIO,yaoxiangli
 RJSplot,cran
 rjstat,ajschumacher
 rjtools,rjournal
+rjuliabugs,mateusmaiads
 rjwsacruncher,aqlt
 rkafkajars,shrutigupta23
 RKaggle,benyamindsmith
@@ -19128,6 +19145,7 @@ RoBTT,fbartos
 robumeta,zackfisher
 robust,valentint
 robust2sls,jkurle
+RobustAdaptiveDecomposition,laibasultandar1
 RobustAFT,cran
 RobustANOVA,cran
 robustarima,spkaluzny
@@ -21521,6 +21539,7 @@ spanishoddata,ropenspain
 SpaNorm,bioc
 spANOVA,lrcastro
 spant,martin3141
+spantest,ardiad
 sparcl,cran
 spareg,lauravana
 spARI,bioc
@@ -21577,6 +21596,7 @@ sparsereg,ratkovic
 sparseSEM,cran
 SparseSignatures,bioc
 sparsestep,gjjvdburg
+sparsesurv,alexangelakis-ang
 sparsesvd,schtepf
 sparseSVM,cy-dev
 sparsevb,gabriel-clara
@@ -22154,6 +22174,7 @@ stCEG,holliecalley
 stcos,holans
 stcov,bnaul
 stcpR6,shinjaehyeok
+STCYP,cran
 stddiff,marsdu1989
 STDistance,princewang2018
 stdmod,sfcheung
@@ -24973,7 +24994,7 @@ xhaz,jgoungounga
 XICOR,spholmes
 XiMpLe,rkward-community
 XINA,bioc
-xkcd,emiliotorres
+xkcd,cran
 xkcdcolors,tslumley
 XKCDdata,cran
 xlcharts,lgnbhl

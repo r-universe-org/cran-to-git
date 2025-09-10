@@ -7,7 +7,8 @@
   {
     "package": "extrafont",
     "maintainer": "Winston Chang <winston@stdout.org>",
-    "url": "https://github.com/wch/extrafont"
+    "url": "https://github.com/wch/extrafont",
+    "registry": "archived"
   },
   {
     "package": "extrafontdb",
@@ -27,7 +28,8 @@
   {
     "package": "Rttf2pt1",
     "maintainer": "Winston Chang <winston@stdout.org>",
-    "url": "https://github.com/wch/rttf2pt1"
+    "url": "https://github.com/wch/rttf2pt1",
+    "registry": "archived"
   },
   {
     "package": "webshot",
