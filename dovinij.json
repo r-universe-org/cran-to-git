@@ -1,7 +1,17 @@
 [
   {
+    "package": "GPflexViz",
+    "maintainer": "Dovini Jayasinghe <dovini.jayasinghe@mymail.unisa.edu.au>",
+    "url": "https://github.com/dovinij/gpflexviz"
+  },
+  {
     "package": "GxEprs",
     "maintainer": "Dovini Jayasinghe <dovini.jayasinghe@mymail.unisa.edu.au>",
     "url": "https://github.com/dovinij/gxeprs"
+  },
+  {
+    "package": "iPRSue",
+    "maintainer": "Dovini Jayasinghe <dovini.jayasinghe@mymail.unisa.edu.au>",
+    "url": "https://github.com/dovinij/iprsue"
   }
 ]

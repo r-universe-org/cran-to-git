@@ -330,6 +330,11 @@
     "url": "https://github.com/r-lib/otel"
   },
   {
+    "package": "otelsdk",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/otelsdk"
+  },
+  {
     "package": "pak",
     "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
     "url": "https://github.com/r-lib/pak"

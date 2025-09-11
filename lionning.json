@@ -1,5 +1,10 @@
 [
   {
+    "package": "capushe",
+    "maintainer": "Vincent Brault <vincent.brault@univ-grenoble-alpes.fr>",
+    "url": "https://github.com/cran/capushe"
+  },
+  {
     "package": "MuChPoint",
     "maintainer": "Vincent Brault <vincent.brault@univ-grenoble-alpes.fr>",
     "url": "https://github.com/lionning/muchpoint"

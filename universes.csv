@@ -668,6 +668,7 @@ AOUSDOHtools,zhd52
 AOV1R,laustep
 AovBay,javierrojasc
 apa,dgromer
+apa7,wjschne
 apache.sedona,apache
 ApacheLogProcessor,diogosmendonca
 APackOfTheClones,qile0317
@@ -2467,6 +2468,7 @@ calms,cran
 calpassapi,vinhdizzo
 CalSim,resinj
 camcorder,thebioengineer
+camelsCL,hgarcesf
 CamelUp,mczek
 CAMERA,bioc
 camerondata,juvlac
@@ -2509,7 +2511,7 @@ caplot,gianmarcoalberti
 capn,cran
 CaPO4Sim,divadnojnarg
 captr,gojiplus
-capushe,cran
+capushe,lionning
 capybara,pachadotdev
 car,r-forge
 caracas,r-cas
@@ -2815,6 +2817,7 @@ Cepo,bioc
 cepp,dmohit
 cepR,robertmyles
 cepreader,vegandevs
+CepReg,qiqi70
 cepumd,arcenis-r
 cequre,cran
 ceramic,hypertidy
@@ -3792,6 +3795,7 @@ conover.test,alexisdinno
 conquer,xiaooupan
 conquestr,dan-cloney
 conrad,fhdsl
+ConSciR,bhavshah01
 consensus,bioc
 ConsensusClustering,behnam-yousefi
 ConsensusClusterPlus,bioc
@@ -4025,6 +4029,7 @@ COveR,neplex
 coveR2,fchianucci
 CoverageView,bioc
 covercorr,cran
+CovEsts,adambilchouris
 covfefe,mkirch
 covglasso,michaelfop
 COVID19,covid19datahub
@@ -5921,6 +5926,7 @@ ecolRxC,cran
 ecolTest,hugosal
 EcoMetrics,mutuasam
 EconAndProdEfficiency,cran
+econdataverse,tidy-intelligence
 EconDemand,terrytwu
 econet,cran
 EcoNetGen,cboettig
@@ -7197,6 +7203,7 @@ firebase,johncoene
 firebase.auth.rest,kennedymwavu
 firebehavioR,ecofire
 fireexposuR,ropensci
+firesafety,thomasp85
 firesale,thomasp85
 firestorm,thomasp85
 first,cran
@@ -8958,6 +8965,7 @@ GPCsign,morgane-m
 GPEMR,ruqaiya41
 GPFDA,gpfda
 GPfit,cran
+GPflexViz,dovinij
 gpg,ropensci
 GPGame,vpicheny
 GpGp,joeguinness
@@ -9416,7 +9424,7 @@ hawkes,riadhzaatour
 hawkesbow,fcheysson
 HazardDiff,deniserava
 hazer,bbcrown
-hbal,cran
+hbal,xuyiqing
 hbamr,jbolstad
 hBayesDM,ccs-lab
 hbbr,drsmukherjee
@@ -10612,6 +10620,7 @@ ipr,cran
 ipred,thothorn
 iprior,haziqj
 iPRISM,hanjunwei-lab
+iPRSue,dovinij
 ips,cran
 ipsecr,murrayefford
 ipsfs,pandaramaranjan
@@ -11374,7 +11383,7 @@ latte,dkahle
 lattice,deepayan
 latticeDensity,ronbarry
 LatticeDesign,cran
-latticeExtra,r-forge
+latticeExtra,deepayan
 LatticeKrig,dnychka
 lava,kkholst
 lavaan,yrosseel
@@ -12744,6 +12753,7 @@ metagear,mjlajeunesse
 metagene2,bioc
 metagenomeSeq,bioc
 metaggR,satopaa
+metagroup,asmpro7
 MetaHD,jayaminicl
 metahdep,bioc
 metaHelper,robertemprechtinger
@@ -14237,6 +14247,7 @@ nbc4va,rrwen
 NbClust,cran
 nbconv,gbedwell
 nbconvertR,cran
+NBDCtools,dairc-service
 NBDdirichlet,feimingchen
 NBDesign,marvels2031
 nberwp,bldavies
@@ -15327,6 +15338,7 @@ OTBsegm,cidree
 OTclust,lixiangzhang
 OTE,cran
 otel,r-lib
+otelsdk,r-lib
 otinference,cran
 otp,randy3k
 otpr,marcusyoung
@@ -18968,6 +18980,7 @@ rmeta,tslumley
 rmetalog,isaacfab
 rmfanova,ls-git-17
 RMFM,feiyoung
+Rmfrac,nemini-s
 rmgarch,alexiosg
 rMIDAS,midasverse
 rminer,paulocortez4
@@ -19177,6 +19190,7 @@ robustrao,mccalatravamoreno
 robustreg,cran
 robustSFA,cran
 robustsur,claudioagostinelli
+robustT2,sergiodanielfg
 robustvarComp,claudioagostinelli
 robustX,mmaechler
 robvis,mcguinlu
@@ -20660,7 +20674,7 @@ sgt,cran
 shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
-shadowVIMP,oktawiastaburo
+shadowVIMP,staburo
 shannon,imranshakoor
 ShapDoE,lqyang0714
 shape,karlines
@@ -21569,6 +21583,7 @@ sparsediscrim,topepo
 sparseEigen,dppalomar
 sparseFLMM,jonacrc
 SparseFunClust,wleoncio
+sparseGFM,zjwang1013
 sparsegl,dajmcdon
 SparseGrid,cran
 sparseHessianFD,braunm
@@ -22463,6 +22478,7 @@ SurfaceTortoise,ymutua
 surfaltr,bioc
 SurfR,bioc
 SurfRough,strevisani
+SurprisalAnalysis,annicenajafi
 surreal,coatless-rpkg
 Surrogate,florianstijven
 SurrogateBMA,yunshandys
@@ -22715,6 +22731,7 @@ systemPipeShiny,bioc
 systemPipeTools,bioc
 syt,stla
 syuzhet,mjockers
+T2DFitTailor,supercheng971264
 T2EQ,cran
 T2Qv,wilsonrp
 T4cluster,kisungyou
@@ -24834,7 +24851,6 @@ wizaRdry,belieflab
 wk,paleolimbot
 wkb,ianmcook
 wktmo,leoly2017
-wkutils,paleolimbot
 WLogit,clavie3009
 WLreg,marvels2031
 WMAP,cran
@@ -24994,7 +25010,7 @@ xhaz,jgoungounga
 XICOR,spholmes
 XiMpLe,rkward-community
 XINA,bioc
-xkcd,cran
+xkcd,emiliotorres
 xkcdcolors,tslumley
 XKCDdata,cran
 xlcharts,lgnbhl

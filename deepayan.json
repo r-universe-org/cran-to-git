@@ -3,5 +3,10 @@
     "package": "lattice",
     "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
     "url": "https://github.com/deepayan/lattice"
+  },
+  {
+    "package": "latticeExtra",
+    "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
+    "url": "https://github.com/deepayan/latticeextra"
   }
 ]

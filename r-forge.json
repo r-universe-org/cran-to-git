@@ -348,12 +348,6 @@
     "subdir": "pkg/isotone"
   },
   {
-    "package": "latticeExtra",
-    "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
-    "url": "https://github.com/r-forge/latticeextra",
-    "subdir": "pkg"
-  },
-  {
     "package": "linprog",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/r-forge/linprog",
