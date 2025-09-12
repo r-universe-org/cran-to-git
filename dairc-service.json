@@ -1,7 +1,13 @@
 [
   {
+    "package": "ABCDscores",
+    "maintainer": "Janosch Linkersdoerfer <dairc.service@gmail.com>",
+    "url": "https://github.com/cran/ABCDscores"
+  },
+  {
     "package": "NBDCtools",
     "maintainer": "Janosch Linkersdoerfer <dairc.service@gmail.com>",
-    "url": "https://github.com/cran/NBDCtools"
+    "url": "https://github.com/cran/NBDCtools",
+    "registry": "archived"
   }
 ]

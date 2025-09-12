@@ -16,6 +16,7 @@ abc,mblumuga
 abc.data,mblumuga
 ABC.RAP,cran
 ABCanalysis,cran
+ABCDscores,dairc-service
 abclass,wenjie2wang
 ABCoptim,gvegayon
 abcrf,jmm34
@@ -6791,6 +6792,7 @@ factor.switching,mqbssppe
 factor256,hughparsonage
 FactorAssumptions,storopoli
 FactorCopula,cran
+factorH,cran
 FactorHet,mgoplerud
 factorial2x2,ericsleifer
 factormodel,yujunghwang
@@ -10805,6 +10807,7 @@ ivitr,cran
 ivmodel,hyunseungkang
 ivmte,jkcshea
 ivo.table,mthulin
+ivolcano,guangchuangyu
 IVPP,xinkaidupsy
 ivreg,zeileis
 ivs,davisvaughan
@@ -18019,6 +18022,7 @@ RcppDist,duckmayr
 RcppDPR,cran
 RcppDynProg,winvector
 RcppEigen,rcppcore
+RcppEigenAD,cran
 RcppEnsmallen,coatless-rpkg
 RcppExamples,eddelbuettel
 RcppFarmHash,eddelbuettel
@@ -18588,6 +18592,7 @@ revulyticsR,chrisumphlett
 rewie,sduxbury
 rex,r-lib
 rexer,josesamos
+REXoplanets,jkolomanski
 Rexperigen,aquincum
 rexpokit,nmatzke
 rexposome,bioc
@@ -19502,6 +19507,7 @@ Rsagacmd,stevenpawley
 rsahmi,yunuuuu
 rsample,tidymodels
 Rsampling,piklprado
+rsamplr,wpmg
 Rsamtools,bioc
 rsat,ropensci
 RSAtools,fernrgithub
@@ -21225,6 +21231,7 @@ SLGP,cran
 SLHD,shanbatr
 SLIC,guangbaog
 SlicedLHD,doer0
+Slick,blue-matter
 SLIDE,cran
 SlideCNA,dzhang777
 slider,r-lib
@@ -23777,7 +23784,7 @@ TruncExpFam,ocbe-uio
 truncnorm,olafmersmann
 truncnormbayes,mathurlabstanford
 truncreg,r-forge
-truncSP,cran
+truncSP,anitalindmark
 trust,cjgeyer
 trustedtimestamping,ttspackage
 trustmebro,kuuuwe
@@ -24894,6 +24901,7 @@ workflowr,workflowr
 workflows,tidymodels
 workflowsets,tidymodels
 workloopR,ropensci
+workspace,ardata-fr
 worldbank,m-muecke
 WorldFlora,roelandkindt
 worldfootballR,jaseziv
