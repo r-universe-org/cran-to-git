@@ -454,7 +454,7 @@ ARCokrig,https://github.com/pulongma/arcokrig,,
 arcpbf,https://github.com/r-arcgis/arcpbf,,
 arcpy,https://github.com/mkoohafkan/arcpy,,
 arctools,https://github.com/martakarass/arctools,,
-ArctosR,https://github.com/hrhwilliams/arctosr,,
+ArctosR,https://github.com/hrhwilliams/arctosr,,archived
 aRD,https://github.com/uds-mf-imbei/ard,,
 ARDL,https://github.com/natsiopoulos/ardl,,
 ards,https://github.com/dbosak01/ards,,
@@ -1064,6 +1064,7 @@ bioassayR,https://github.com/girke-lab/bioassayr,,bioc
 Biobase,https://github.com/bioconductor/biobase,,bioc
 biobroom,https://github.com/storeylab/biobroom,,bioc
 biobtreeR,https://github.com/tamerh/biobtreer,,bioc
+Bioc.gff,https://github.com/bioconductor/bioc.gff,,bioc
 bioC.logs,https://github.com/mponce0/bioc.logs,,
 bioCancer,https://github.com/kmezhoud/biocancer,,bioc
 BioCartaImage,https://github.com/jokergoo/biocartaimage,,bioc
@@ -1694,6 +1695,7 @@ celestial,https://github.com/asgr/celestial,,
 CellBarcode,https://github.com/wenjie1991/cellbarcode,,bioc
 cellbaseR,https://github.com/melsiddieg/cellbaser,,bioc
 CellBench,https://github.com/shians/cellbench,,bioc
+cellmig,https://github.com/snaketron/cellmig,,bioc
 cellmigRation,https://github.com/ocbe-uio/cellmigration,,bioc
 CellMixS,https://github.com/almutlue/cellmixs,,bioc
 cellpypes,https://github.com/felixthestudent/cellpypes,,
@@ -1844,6 +1846,7 @@ choroplethr,https://github.com/eastnile/choroplethr,,
 choroplethrAdmin1,https://github.com/arilamstein/choroplethradmin1,,
 choroplethrMaps,https://github.com/arilamstein/choroplethrmaps,,
 chouca,https://github.com/alexgenin/chouca,,
+Chromatograms,https://github.com/rformassspectrometry/chromatograms,,bioc
 chromConverter,https://github.com/ethanbass/chromconverter,,
 chromer,https://github.com/ropensci/chromer,,
 chromote,https://github.com/rstudio/chromote,,
@@ -7391,7 +7394,6 @@ LSEbootLS,https://github.com/nicolas-udec/lsebootls,,
 lslx,https://github.com/psyphh/lslx,,
 lsmeans,https://github.com/rvlenth/lsmeans,,
 LSMRealOptions,https://github.com/tomaspinall/lsmrealoptions,,
-lsnstat,https://github.com/la-societe-nouvelle/lsnstat,,archived
 lsoda,https://github.com/mclements/lsoda,,
 lspline,https://github.com/mbojan/lspline,,
 lspls,https://github.com/bhmevik/lspls,,
@@ -8638,6 +8640,7 @@ musicXML,https://github.com/benrenard/musicxml,,
 mutationtypes,https://github.com/selkamand/mutationtypes,,
 mutoss,https://github.com/kornl/mutoss,pkg/mutoss,
 mutossGUI,https://github.com/r-forge/mutoss,pkg/mutossGUI,
+mutscan,https://github.com/fmicompbio/mutscan,,bioc
 mutSignatures,https://github.com/dami82/mutsignatures,,
 muttest,https://github.com/jakubsob/muttest,,
 mutualinf,https://github.com/rafaelfuentealbac/mutualinf,,
@@ -9228,6 +9231,7 @@ OneR,https://github.com/vonjd/oner,,
 OneSampleMR,https://github.com/remlapmot/onesamplemr,,
 ONEST,https://github.com/hangangtrue/onest,,
 onetime,https://github.com/hughjonesd/onetime,,
+OneTwoSamples,https://github.com/fbertran/onetwosamples,,
 onion,https://github.com/robinhankin/onion,,
 onlineFDR,https://github.com/dsrobertson/onlinefdr,,bioc
 onlineretail,https://github.com/allanvc/onlineretail,,
@@ -9457,7 +9461,6 @@ pagedown,https://github.com/rstudio/pagedown,,
 pagemap,https://github.com/swsoyee/pagemapr,,
 pagenum,https://github.com/kwstat/pagenum,,
 pageRank,https://github.com/hd2326/pagerank,,bioc
-pageviews,https://github.com/ironholds/pageviews,,archived
 PAGFL,https://github.com/paul-haimerl/pagfl,,
 pagoda2,https://github.com/kharchenkolab/pagoda2,,
 PAICE,https://github.com/paicecode/paice,,
@@ -13911,6 +13914,7 @@ stortingscrape,https://github.com/martigso/stortingscrape,,
 stoRy,https://github.com/theme-ontology/story,,
 storywranglr,https://github.com/chris31415926535/storywranglr,,
 STPGA,https://github.com/denizakdemir/stpga,,
+stPipe,https://github.com/mritchielab/stpipe,,bioc
 stplanr,https://github.com/ropensci/stplanr,,
 stpphawkes,https://github.com/sandialabs/stpphawkes,,
 stppSim,https://github.com/manalytics/stppsim,,

@@ -1069,6 +1069,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Bioc.gff",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/bioc.gff",
+    "registry": "bioc"
+  },
+  {
     "package": "bioCancer",
     "maintainer": "Karim Mezhoud <kmezhoud@gmail.com>",
     "url": "https://github.com/kmezhoud/biocancer",
@@ -1826,6 +1832,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cellmig",
+    "maintainer": "Simo Kitanovski <simokitanovski@gmail.com>",
+    "url": "https://github.com/snaketron/cellmig",
+    "registry": "bioc"
+  },
+  {
     "package": "cellmigRation",
     "maintainer": "Waldir Leoncio <w.l.netto@medisin.uio.no>",
     "url": "https://github.com/ocbe-uio/cellmigration",
@@ -2093,6 +2105,12 @@
     "package": "chopsticks",
     "maintainer": "Hin-Tak Leung <htl10@users.sourceforge.net>",
     "url": "https://git.bioconductor.org/packages/chopsticks",
+    "registry": "bioc"
+  },
+  {
+    "package": "Chromatograms",
+    "maintainer": "Philippine Louail <philippine.louail@outlook.com>",
+    "url": "https://github.com/rformassspectrometry/chromatograms",
     "registry": "bioc"
   },
   {
@@ -8445,6 +8463,12 @@
     "registry": "bioc"
   },
   {
+    "package": "mutscan",
+    "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
+    "url": "https://github.com/fmicompbio/mutscan",
+    "registry": "bioc"
+  },
+  {
     "package": "MVCClass",
     "maintainer": "Elizabeth Whalen <ewhalen@hsph.harvard.edu>",
     "url": "https://git.bioconductor.org/packages/MVCClass",
@@ -12613,6 +12637,12 @@
     "package": "stJoincount",
     "maintainer": "Jiarong Song <songjiar@usc.edu>",
     "url": "https://github.com/cohccc/stjoincount",
+    "registry": "bioc"
+  },
+  {
+    "package": "stPipe",
+    "maintainer": "Yang Xu <xu.ya@wehi.edu.au>",
+    "url": "https://github.com/mritchielab/stpipe",
     "registry": "bioc"
   },
   {
