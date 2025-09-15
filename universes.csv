@@ -219,6 +219,7 @@ admiral,pharmaverse
 admiral.test,bms63
 admiraldev,pharmaverse
 admiralmetabolic,pharmaverse
+admiralneuro,pharmaverse
 admiralonco,pharmaverse
 admiralophtha,pharmaverse
 admiralpeds,pharmaverse
@@ -1482,9 +1483,11 @@ bcv,michbur
 bda,cran
 BDAlgo,karasiewiczstephane
 bdc,brunobrr
+bddkR,ozancanozdemir
 bdDwC,pogibas
 bde,gsantafe
 BDEsize,cran
+bdf3,cran
 BDgraph,rezamoammadi
 bdl,statisticspoland
 bdlim,anderwilson
@@ -5723,6 +5726,7 @@ dupNodes,jj
 dupRadar,bioc
 dupree,russhyde
 Durga,khankawsar
+DUToolkit,mwiggins-ihe
 dverse,maurolepore
 DVHmetrics,dwoll
 dvir,magnusdv
@@ -6366,6 +6370,7 @@ EpistemicGameTheory,bilgeob
 epitab,stulacy
 EpiTest,simonrio
 epitools,cran
+epitraxr,epiforesite
 epitrix,reconhub
 EpiTxDb,bioc
 epivizr,bioc
@@ -6544,6 +6549,7 @@ evabic,abichat
 Evacluster,fahimehnm
 evalITR,michaellli
 evalR,cran
+EvalTest,nassimayad87
 evaluate,r-lib
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
@@ -7117,7 +7123,6 @@ fgga,bioc
 fgitR,fastgitorg
 FGLMtrunc,cran
 fglsnet,weihuaan
-fgm,javzapata
 Fgmutils,cran
 FGNet,bioc
 FGRepo,cran
@@ -10882,7 +10887,6 @@ jewel,annaplaksienko
 jfa,koenderks
 JFE,cran
 JFM,riccarl
-JGL,cran
 JGR,markush81
 jgsbook,cran
 JICO,peiyaow
@@ -12117,6 +12121,7 @@ madshapR,maelstrom-research
 madsim,doulaye
 maestro,whipson
 Maeswrap,remkoduursma
+MAFLD,jagadishramasamy
 mafR,f-rousset
 maftools,bioc
 MAGAR,bioc
@@ -12914,6 +12919,7 @@ mgc,neurodata
 mgcv,cran
 mgcViz,mfasiolo
 MGDrivE,marshalllab
+MGDrivE2,marshalllab
 mgee2,yuliangxu
 MGFM,bioc
 MGFR,bioc
@@ -16418,6 +16424,7 @@ PND.heter.cluster,xliu12
 PNDSIBGE,gabriel-assuncao
 png,s-u
 PNSIBGE,gabriel-assuncao
+PnT,peter962
 PNWColors,jakelawlor
 PoA,cran
 pocketapi,correlaid
@@ -16753,6 +16760,7 @@ pref,denismollison
 prefeR,jlepird
 preference,kaneplusplus
 prefmod,maiermarco
+pregnancy,ellakaye
 PreKnitPostHTMLRender,chinsoon12
 PReMiuM,silvialiverani
 prenoms,desautm
@@ -20329,6 +20337,7 @@ SDCNway,dataprotectiontoolkit
 sdcSpatial,edwindj
 sdcTable,bernhard-da
 sde,siacus
+SdeaR,cran
 SDEFSR,agvico
 sdetorus,egarpor
 SDGdetector,yingjie4science
@@ -22537,6 +22546,7 @@ surveysd,statistikat
 surveySimR,nobinstat
 surveytable,cdcgov
 surveyvoi,prioritizr
+SurvGME,lchen723
 survHE,giabaio
 SurvHiDim,atanubhattacharjee
 survIDINRI,cran
@@ -22802,6 +22812,7 @@ tagtools,animaltags
 tAI,mariodosreis
 TailClassifier,cran
 tailDepFun,akiriliouk
+TailID,cran
 tailloss,igollini
 tailor,tidymodels
 tailplots,bernhardklar
@@ -24686,7 +24697,7 @@ wbacon,tobiasschoch
 wbids,teal-insights
 wbs,cran
 wbsd,cran
-wbstats,gshs-ornl
+wbstats,pachadotdev
 wbsts,kakoko1984
 wbwdi,tidy-intelligence
 wcde,guyabel
