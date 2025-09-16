@@ -3,5 +3,11 @@
     "package": "gfoRmula",
     "maintainer": "Sean McGrath <sean.mcgrath514@gmail.com>",
     "url": "https://github.com/causalinference/gformula"
+  },
+  {
+    "package": "SEQTaRget",
+    "maintainer": "Ryan O'Dea <ryanodea@hsph.harvard.edu>",
+    "url": "https://github.com/causalinference/sequential",
+    "subdir": "SEQTaRget"
   }
 ]

@@ -1970,6 +1970,7 @@ blm,skoval
 BLMA,bioc
 blme,vdorie
 blmeco,fraenzi
+BLMEngineInR,windwardenv
 BLModel,cran
 blob,tidyverse
 blockcluster,joblion
@@ -2246,6 +2247,7 @@ brms,paul-buerkner
 brms.mmrm,openpharma
 brmsmargins,jwiley
 brnn,cran
+broadcast,tony-aw
 broadSeq,bioc
 Brobdingnag,robinhankin
 BrokenAdaptiveRidge,msuchard
@@ -2772,6 +2774,7 @@ celestial,asgr
 CellBarcode,bioc
 cellbaseR,bioc
 CellBench,bioc
+cellGeometry,myles-lewis
 CelliD,bioc
 cellity,bioc
 cellKey,bernhard-da
@@ -7824,7 +7827,6 @@ GABB,cran
 GACFF,hoshmandcomputer
 GAD,cran
 GADAG,magalichampion
-gadget2,bthe
 gadget3,gadget-framework
 gadjid,sweichwald
 gafit,cran
@@ -9516,7 +9518,7 @@ HDSpatialScan,camillef-git
 HDStIM,niaid
 hdsvm,cran
 HDTD,bioc
-hdtg,zhenyu028
+hdtg,cran
 hdthreshold,cran
 HDTSA,linc2021
 HDtweedie,cran
@@ -10378,6 +10380,7 @@ indirect,ghosack
 IndonesiAPIs,lightbluetitan
 IndTestPP,anaccebrian
 industRial,j-ramalho
+ineapir,es-ine
 ineAtlas,pablogguz
 inecolr,roger0268
 inegiR,eflores89
@@ -10761,6 +10764,7 @@ isoWater,bumbanian
 ISOweek,cran
 ispd,doer0
 ispdata,igorlaltuf
+ISPYARDSWinProbabilityGSDesign,cran
 ISR,guangbaog
 ISRaD,cran
 ISS,manuelmmueller
@@ -11420,6 +11424,7 @@ lazysql,uweblock
 lazytrade,vzhomeexperiments
 lazyWeave,nutterb
 lba,ivanalaman
+lbaModel,yxlin
 LBDiscover,chaoliu-cl
 LBE,bioc
 lbfgs,antoniocoppola
@@ -15955,6 +15960,7 @@ personr,flujoo
 perspectev,cran
 persval,g-corbelli
 perturbR,kgates
+PeruAPIs,lightbluetitan
 peruflorads43,paulesantos
 peruse,jacgoldsm
 perutimber,paulesantos
@@ -16471,6 +16477,7 @@ poissonreg,tidymodels
 poistweedie,cran
 pokemon,williamorim
 PolarCAP,imehlhaff
+polarisR,divendra2006
 polaroid,jhk0530
 polarzonoid,glenndavis52
 poLCA,dlinzer
@@ -18112,6 +18119,7 @@ rDataPipeline,fairdatapipeline
 rdataretriever,ropensci
 Rdatasets,vincentarelbundock
 rdbnomics,s915
+rdcmchecks,r-dcm
 rddapp,felixthoemmes
 rddensity,xinweima
 rddi,dswoulf
@@ -18473,6 +18481,7 @@ Repliscope,dzmitrygb
 repmis,christophergandrud
 repmod,david-hervas
 repo,franapoli
+repo.data,llrs
 RepoGenerator,jaredlander
 repolr,astroherring
 repometrics,ropensci
@@ -19291,6 +19300,7 @@ RolWinWavCor,jomopo
 ROMDB,albertoalmuinha
 romic,shackett
 RonFHIR,cran
+ronfig,timtaylor
 ROntoTools,bioc
 Rook,evanbiederstedt
 ROOPSD,yrobink
@@ -20578,6 +20588,7 @@ seqPattern,bioc
 seqsetvis,bioc
 seqSHP,traminer
 SeqSQC,bioc
+SEQTaRget,causalinference
 seqtest,cran
 seqTools,bioc
 seqtrie,traversc
@@ -21938,6 +21949,7 @@ springer,feizhoustat
 springpheno,amwootte
 spRingsteen,obrienjoey
 sprintr,hugogogo
+SPRT,cran
 sprtt,meikesteinhilber
 sps,marberts
 spsComps,lz100
@@ -22201,7 +22213,7 @@ statTarget,bioc
 StatTeacherAssistant,ccasement
 StatTools,cran
 STB,cran
-stbl,jonthegeek
+stbl,api2r
 STCCGEV,cran
 stCEG,holliecalley
 stcos,holans
@@ -22217,6 +22229,7 @@ stdvectors,digemall
 steadyICA,cran
 steepness,dleivaur79
 SteinIV,cran
+stelfi,cmjt
 stellaR,mattdell71
 StemAnalysis,forestscientist
 stemmatology,jean-baptiste-camps
@@ -22927,6 +22940,7 @@ TDIagree,annafelip-badia
 tdigest,hrbrmstr
 TDLM,rtdlm
 TDPanalysis,mxdurand
+tdPRC,kmbeyene
 tdr,oscarperpinan
 tdROC,cran
 tdsa,weehaong
@@ -23985,6 +23999,7 @@ twl,cran
 twn,redtent
 TwoArmSurvSim,cran
 twoddpcr,bioc
+twomodeclusteringGA,joshageman
 twopartm,yajie1020
 twopexp,atchanut
 TwoPhaseCorR,cran
@@ -24195,6 +24210,7 @@ usdata,openintrostat
 usdatasets,lightbluetitan
 usdm,babaknaimi
 usdoj,ropengov
+USE,danddr
 usedist,kylebittinger
 usedthese,cgoo4
 useful,jaredlander
@@ -24328,12 +24344,14 @@ vasicekreg,jmazucheli
 VaSP,bioc
 vatcheckapi,dominikkukacka
 vaultr,vimc
+vaxineR,peiyuliu-biostats
 vaxpmx,vavrycuk-zz
 vayr,acoppock
 VBel,jlimrasc
 VBJM,jjr1234
 VBLPCM,cran
 vbmp,bioc
+VBphenoR,buckleybrian
 VBsparsePCA,yc-ning
 VBTree,cubiczebra
 VBV,dsteuer
@@ -24641,6 +24659,7 @@ WALS,kevhuy
 WaMaSim,scheidan
 wand,hrbrmstr
 WAnova,cran
+waou,cran
 warabandi,harry-maan
 warbleR,marce10
 WARDEN,jsanchezalv

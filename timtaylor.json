@@ -12,6 +12,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "ronfig",
+    "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
+    "url": "https://codeberg.org/timtaylor/ronfig",
+    "subdir": "pkg"
+  },
+  {
     "package": "super",
     "maintainer": "Tim Taylor <tim.taylor@hiddenelephants.co.uk>",
     "url": "https://codeberg.org/timtaylor/super",
