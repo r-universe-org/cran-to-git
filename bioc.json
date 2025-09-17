@@ -2871,6 +2871,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CSOA",
+    "maintainer": "Andrei-Florian Stoica <andreistoica@foxmail.com>",
+    "url": "https://github.com/andrei-stoica26/csoa",
+    "registry": "bioc"
+  },
+  {
     "package": "CSSQ",
     "maintainer": "Fan Lab at Georgia Institute of Technology <yuhong.fan@biology.gatech.edu>",
     "url": "https://git.bioconductor.org/packages/CSSQ",
@@ -4368,6 +4374,12 @@
     "package": "FindIT2",
     "maintainer": "Guandong Shang <shangguandong1996@163.com>",
     "url": "https://github.com/shangguandong1996/findit2",
+    "registry": "bioc"
+  },
+  {
+    "package": "FinfoMDS",
+    "maintainer": "Soobin Kim <soob.kim00@gmail.com>",
+    "url": "https://github.com/soob-kim/finfomds",
     "registry": "bioc"
   },
   {
@@ -7368,6 +7380,12 @@
     "package": "MetaCyto",
     "maintainer": "Zicheng Hu <zicheng.hu@ucsf.edu>",
     "url": "https://git.bioconductor.org/packages/MetaCyto",
+    "registry": "bioc"
+  },
+  {
+    "package": "MetaDICT",
+    "maintainer": "Bo Yuan <boyuan5@illinois.edu>",
+    "url": "https://github.com/boyuan07/metadict",
     "registry": "bioc"
   },
   {

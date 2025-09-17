@@ -8,5 +8,10 @@
     "package": "sched",
     "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
     "url": "https://github.com/cran/sched"
+  },
+  {
+    "package": "sqlq",
+    "maintainer": "Pierrick Roger <pierrick.roger@cea.fr>",
+    "url": "https://github.com/cran/sqlq"
   }
 ]

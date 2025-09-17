@@ -877,6 +877,7 @@ ash,cran
 ashapesampler,cran
 ashr,stephens999
 asht,michaelfay-niaid
+Asiaverse,lightbluetitan
 ASICS,bioc
 AsioHeaders,eddelbuettel
 askgpt,jbgruber
@@ -2697,6 +2698,7 @@ CCA,sebdejean
 CCAFE,bioc
 CCAMLRGIS,ccamlr
 ccaPP,aalfons
+ccar3,donnate
 cccd,dmarchette
 cccm,cran
 cccp,bpfaff
@@ -2818,7 +2820,6 @@ centerline,atsyplenkov
 centiserve,cran
 centr,ryanzomorrodi
 centrifugeR,phamdn
-CEOdata,ceopinio
 CEoptim,cran
 CePa,jokergoo
 cepiigeodist,pachadotdev
@@ -4303,6 +4304,7 @@ CSMES,koendebock
 csmGmm,ryansunwork
 csmpv,ajiangsfu
 csn,cran
+CSOA,bioc
 csodata,csoireland
 cspec,cran
 cspp,caleblucas
@@ -5961,6 +5963,7 @@ ecostats,dwarton
 ecostatscale,adamtclark
 ecoteach,weharris
 EcotoneFinder,cran
+ecotourism,vahdatjavad
 ecotox,benjaminhlina
 ecotoxicology,cran
 ECOTOXr,pepijn-devries
@@ -6764,6 +6767,7 @@ ezknitr,ropensci
 ezmmek,ccook
 ezplot,wkostelecki
 ezr,jinkim3
+ezTrack,taylorbcraft
 EZtune,jillbo1000
 f1dataR,scasanova
 FaaSr,faasr
@@ -7196,6 +7200,7 @@ findviews,tsellam
 FinePop,nakamichireiichiro
 FinePop2,cran
 finetune,tidymodels
+FinfoMDS,bioc
 fingerprint,rajarshi
 fingerPro,eead-csic-eesa
 fingertipsR,ropensci
@@ -7430,6 +7435,7 @@ fmpapi,tidy-finance
 fmpcloudr,altanalytics
 FMradio,cfwp
 fmri,cran
+fmrihrf,bbuchsbaum
 fmriqa,martin3141
 fMRIscrub,mandymejia
 fMRItools,mandymejia
@@ -8104,6 +8110,7 @@ genepi,veseshan
 geneplast,bioc
 geneplotter,bioc
 genepop,f-rousset
+GenePopStats,cran
 generalCorr,hdvinod
 generalhoslem,matthewjay15
 GeneralisedCovarianceMeasure,jonaspet
@@ -8279,6 +8286,7 @@ geoscale,markbells
 geosed,cran
 geosimilarity,ausgis
 geospark,harryprince
+geospatialsuite,cran
 geosphere,rspatial
 geospt,amsantac
 geosptdb,carlosm77
@@ -9002,6 +9010,7 @@ gps,zheyuanli
 gps.track,wagnnerms97
 GPSCDF,cran
 GPSeqClus,cran
+GPTCM,ocbe-uio
 gptoolsStan,tillahoffmann
 gptr,broccolito
 GPTreeO,timo-braun
@@ -9518,7 +9527,7 @@ HDSpatialScan,camillef-git
 HDStIM,niaid
 hdsvm,cran
 HDTD,bioc
-hdtg,cran
+hdtg,zhenyu028
 hdthreshold,cran
 HDTSA,linc2021
 HDtweedie,cran
@@ -12754,6 +12763,7 @@ MetaCycle,gangwug
 MetaCyto,bioc
 metadat,wviechtb
 metadeconfoundR,tillbirkner
+MetaDICT,bioc
 metaDigitise,daniel1noble
 metadynminer,spiwokv
 metadynminer3d,spiwokv
@@ -18687,6 +18697,7 @@ rGenomeTracks,bioc
 rgenoud,jasjeetsekhon
 rgeoda,geodacenter
 RGeode,lorenzorimella
+rgeomorphon,brownag
 rgeomstats,lmjl-alea
 rgeopat2,nowosad
 rgexf,gvegayon
@@ -18871,6 +18882,7 @@ rivnet,lucarraro
 rivr,mkoohafkan
 RivRetrieve,ryan-riggs
 rix,ropensci
+rixpress,ropensci
 rjade,jeroen
 rjaf,cran
 RJafroc,dpc10ster
@@ -19375,6 +19387,7 @@ rpaleoclim,joeroe
 RPANDA,hmorlon
 rpanel,adrian-bowman
 rPanglaoDB,dosorio
+Rparadox,celebithil
 rpart,bethatkinson
 rpart.LAD,sdlugosz
 rpart.plot,stephenmilborrow
@@ -21983,6 +21996,7 @@ sqliter,wilsonfreitas
 sqliteutils,crotman
 SQLove,samkerns
 sqlparseR,michaelsimmler
+sqlq,pkrog
 SqlRender,ohdsi
 sqlscore,wwbrannon
 sqlstrings,dejse
@@ -22085,6 +22099,7 @@ sss,andrie
 sssc,lethargy608
 SSsimple,davezes
 Sstack,klmatlock
+sstn,cran
 sstvars,saviviro
 ssutil,johnaponte
 ssviz,bioc
@@ -22244,6 +22259,7 @@ stepdownfdp,uni-arya
 stepgbm,jinli22
 StepGWR,cran
 stepjglm,lealvespe
+stepmetrics,jhmigueles
 stepmixr,labo-lacourse
 stepNorm,bioc
 stepp,steppdev
