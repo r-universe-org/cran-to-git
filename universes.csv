@@ -2071,6 +2071,7 @@ boiwsa,timginker
 BOJ,stefanangrick
 bolasso,dmolitor
 bold,ropensci
+BOLDconnectR,sameerpadhye
 bolsec,alvaroitapia
 Bolstad,jmcurran
 Bolstad2,jmcurran
@@ -2476,7 +2477,6 @@ calms,cran
 calpassapi,vinhdizzo
 CalSim,resinj
 camcorder,thebioengineer
-camelsCL,hgarcesf
 CamelUp,mczek
 CAMERA,bioc
 camerondata,juvlac
@@ -4452,6 +4452,7 @@ CVXR,cvxgrp
 cwot,wpihongzhang
 CWT,antguz
 cxr,radicalcommecol
+cxreg,yk748
 cxxfunplus,maverickg
 cyanoFilter,bioc
 cycle,bioc
@@ -4737,7 +4738,7 @@ dcorVS,cran
 dcov,cran
 dCovTS,cran
 DCPO,fsolt
-DCSmooth,bastian-schaefer
+DCSmooth,cran
 dcsvm,boxiang-wang
 dcTensor,rikenbit
 dCUR,cgamboasanabria
@@ -4985,6 +4986,7 @@ descstatsr,harryyy213
 desctable,desctable
 DescTools,andrisignorell
 DescToolsAddIns,andrisignorell
+descutils,fkueck
 deseats,dschulz13
 DESeq2,bioc
 Design.parameters,cran
@@ -10236,7 +10238,7 @@ IHW,bioc
 iimi,ubcxzhang
 iIneq,tfliaoui
 IIProductionUnknown,cran
-IIS,drg-123
+IIS,grantschneider
 IIVpredictor,cran
 IJSE,trtfj
 ijtiff,ropensci
@@ -10749,6 +10751,7 @@ IsoCor,janlisec
 IsoCorrectoR,bioc
 IsoCorrectoRGUI,bioc
 isocountry,m-muecke
+isocubes,coolbutuseless
 isodistrreg,alexanderhenzi
 IsoformSwitchAnalyzeR,bioc
 isogeochem,davidbajnai
@@ -11852,7 +11855,7 @@ locuszoomr,myles-lewis
 loder,jonclayden
 lodGWAS,imnolte73
 lodi,umich-cphds
-lodr,kmdono02
+lodr,cran
 loedata,cran
 loewesadditivity,skgallagher
 lofifonts,coolbutuseless
@@ -14830,7 +14833,7 @@ nseq,rfsaldanha
 nser,nandp1
 nsga2R,alan9956
 nsga3,shramkoartem
-NSM3,drg-123
+NSM3,grantschneider
 nsm3data,kim3-sudo
 NSO1212,makhgal-ganbold
 nsp,pfryz
@@ -19180,6 +19183,7 @@ robotstxt,ropensci
 RobPC,hsnbulut
 RobPer,cran
 robqda,cran
+robRatio,kazwd2008
 robreg3S,claudioagostinelli
 robregcc,amishra-stats
 RobRegression,godichon-baggioni
@@ -20430,7 +20434,7 @@ seededlda,koheiw
 SeedImbibition,cran
 SeedMaker,hdhshowalter
 seedr,efernandezpascual
-seedreg,agronomiar
+seedreg,cran
 SeedVigorIndex,cran
 seekr,smartiing
 seer,thiyangt
@@ -21869,7 +21873,7 @@ SPINA,jwdietrich21
 spINAR,mfaymon
 spinBayes,jrenstat
 spind,levisc8
-spinebil,tinarj
+spinebil,uschilaa
 spinifex,nspyrison
 spinner,pigian
 spinyReg,jchiquet
