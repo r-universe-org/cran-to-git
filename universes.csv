@@ -1903,7 +1903,6 @@ birdscanR,birdscancommunity
 birdsize,ropensci
 BiRewire,bioc
 birk,matthewabirk
-birp,cran
 birtr,cran
 BIS,stefanangrick
 biscale,chris-prener
@@ -3694,6 +3693,7 @@ COMPoissonReg,lotze
 CompositeReliability,jmoonen
 compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
+CompositionalClust,cran
 CompositionalHDDA,cran
 CompositionalML,cran
 CompositionalRF,cran
@@ -4738,7 +4738,7 @@ dcorVS,cran
 dcov,cran
 dCovTS,cran
 DCPO,fsolt
-DCSmooth,cran
+DCSmooth,bastian-schaefer
 dcsvm,boxiang-wang
 dcTensor,rikenbit
 dCUR,cgamboasanabria
@@ -8112,7 +8112,7 @@ genepi,veseshan
 geneplast,bioc
 geneplotter,bioc
 genepop,f-rousset
-GenePopStats,cran
+GenePopStats,abhiksarkariasri
 generalCorr,hdvinod
 generalhoslem,matthewjay15
 GeneralisedCovarianceMeasure,jonaspet
@@ -8772,6 +8772,7 @@ glmmML,goranbrostrom
 glmmPen,hheiling
 glmmrBase,samuel-watson
 glmmrOptim,samuel-watson
+GLMMRR,jpfox00
 glmmsel,ryan-thompson
 GLMMselect,xss55
 glmmSeq,myles-lewis
@@ -9549,6 +9550,7 @@ healthyR.data,spsanderson
 healthyR.ts,spsanderson
 healthyverse,spsanderson
 heapsofpapers,rohanalexander
+heartbeatr,ruiseabra
 heatex,atkinsjay
 heatindex,davidromps
 heatmap3,slzhao
@@ -9584,6 +9586,7 @@ helsinki,ropengov
 HEM,bioc
 HEMDAG,marconotaro
 hemispheR,fchianucci
+henna,andrei-stoica26
 heplots,friendly
 hera,jupyter-xeus
 here,r-lib
@@ -11855,7 +11858,7 @@ locuszoomr,myles-lewis
 loder,jonclayden
 lodGWAS,imnolte73
 lodi,umich-cphds
-lodr,cran
+lodr,kmdono02
 loedata,cran
 loewesadditivity,skgallagher
 lofifonts,coolbutuseless
@@ -13402,7 +13405,7 @@ mltools,ben519
 mlts,munchfab
 mlVAR,cran
 MLVSBM,chabert-liddell
-MLwrap,jmartinezgarcia
+MLwrap,albertsesepsy
 mlxR,marclavielle
 MLZ,quang-huynh
 MM,robinhankin
@@ -14784,7 +14787,7 @@ NPflow,sistm
 npGSEA,bioc
 nph,rmaster1
 NPHazardRate,cran
-NPHMC,cran
+NPHMC,rxpharmstat
 nphPower,hcheng99
 nphRCT,dominicmagirr
 npi,ropensci
@@ -15288,6 +15291,7 @@ ordinalNet,cran
 ordinalpattern,cran
 ordinalRR,kjryan13
 ordinalsimr,neuroshepherd
+ordinalTables,cran
 OrdMonReg,numbersman77
 OrdNor,bernice0321
 ordPens,ahoshiyar
@@ -15765,6 +15769,7 @@ PCAtools,bioc
 pcatsAPIclientR,michalkouril
 PCBS,katlande
 pccc,cud2v
+pcdid,adamwang15
 PCDimension,cran
 pcds,elvanceyhan
 pcds.ugraph,elvanceyhan
@@ -20881,6 +20886,7 @@ shinyservicebot,capiaas
 shinyShortcut,ewan-keith
 shinySIR,cran
 shinystan,stan-dev
+shinystate,rpodcast
 shinyStorePlus,oobianom
 shinyTempSignal,yulab-smu
 shinytest,rstudio
@@ -22684,6 +22690,7 @@ svyweight,mainwaringb
 swa,cran
 swag,smac-group
 swagger,rstudio
+swaglm,lionelvoirol
 swamp,lau-mel
 swaprinc,mncube
 swaRm,swarm-lab
@@ -24796,7 +24803,7 @@ WEGE,harithmorgadinho
 wehoop,sportsdataverse
 WeibullFit,thiagomini
 weibullness,appliedstat
-WeibullR,jto888
+WeibullR,weibull-r
 WeibullR.ALT,jto888
 WeibullR.learnr,paulgovan
 WeibullR.plotly,paulgovan
