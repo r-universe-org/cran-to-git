@@ -2,21 +2,25 @@
   {
     "package": "greta",
     "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
-    "url": "https://github.com/greta-dev/greta"
+    "url": "https://github.com/greta-dev/greta",
+    "registry": "archived"
   },
   {
     "package": "greta.dynamics",
     "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
-    "url": "https://github.com/greta-dev/greta.dynamics"
+    "url": "https://github.com/greta-dev/greta.dynamics",
+    "registry": "archived"
   },
   {
     "package": "greta.gam",
     "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
-    "url": "https://github.com/greta-dev/greta.gam"
+    "url": "https://github.com/greta-dev/greta.gam",
+    "registry": "archived"
   },
   {
     "package": "greta.gp",
     "maintainer": "Nicholas Tierney <nicholas.tierney@gmail.com>",
-    "url": "https://github.com/greta-dev/greta.gp"
+    "url": "https://github.com/greta-dev/greta.gp",
+    "registry": "archived"
   }
 ]

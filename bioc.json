@@ -5367,6 +5367,12 @@
     "registry": "bioc"
   },
   {
+    "package": "goatea",
+    "maintainer": "Maurits Unkel <mauritsunkel@gmail.com>",
+    "url": "https://github.com/mauritsunkel/goatea",
+    "registry": "bioc"
+  },
+  {
     "package": "GOexpress",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/kevinrue/goexpress",
@@ -6244,7 +6250,7 @@
   },
   {
     "package": "immunotation",
-    "maintainer": "Katharina Imkeller <k.imkeller@dkfz.de>",
+    "maintainer": "Katharina Imkeller <ag.imkeller@gmail.com>",
     "url": "https://github.com/imkeller/immunotation",
     "registry": "bioc"
   },
@@ -11848,6 +11854,12 @@
     "registry": "bioc"
   },
   {
+    "package": "shinybiocloader",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
+    "url": "https://github.com/bioconductor/shinybiocloader",
+    "registry": "bioc"
+  },
+  {
     "package": "shinyDSP",
     "maintainer": "Seung J. Kim <skim823@uwo.ca>",
     "url": "https://github.com/kimsjune/shinydsp",
@@ -12415,6 +12427,12 @@
     "package": "SPIAT",
     "maintainer": "Yuzhou Feng <yuzhou0610@gmail.com>",
     "url": "https://github.com/trigosteam/spiat",
+    "registry": "bioc"
+  },
+  {
+    "package": "SPICEY",
+    "maintainer": "Georgina Fuentes-Páez <georgina.fuentes@upf.edu>",
+    "url": "https://github.com/georginafp/spicey",
     "registry": "bioc"
   },
   {
