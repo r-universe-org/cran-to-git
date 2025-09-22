@@ -205,6 +205,11 @@
     "url": "https://github.com/eddelbuettel/rcppmagicenum"
   },
   {
+    "package": "rcppmlpackexamples",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppmlpack-examples"
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack"
