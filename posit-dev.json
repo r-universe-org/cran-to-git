@@ -15,6 +15,11 @@
     "url": "https://github.com/posit-dev/mcptools"
   },
   {
+    "package": "plumber2",
+    "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
+    "url": "https://github.com/posit-dev/plumber2"
+  },
+  {
     "package": "shinychat",
     "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
     "url": "https://github.com/posit-dev/shinychat",

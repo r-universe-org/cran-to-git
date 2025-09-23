@@ -4070,6 +4070,7 @@ covTestR,benbarnard
 CovTools,kisungyou
 covtracer,genentech
 cowbell,cran
+cowfootR,juanmarcosmoreno-arch
 cowplot,wilkelab
 cowsay,sckott
 CoxAIPW,charlesluo1002
@@ -4698,6 +4699,7 @@ dbparser,ropensci
 dbplot,edgararuiz
 dbplyr,tidyverse
 DBR,asmahani
+dbrobust,cran
 dbscan,mhahsler
 dbstats,cran
 DBTC,rgyoung6
@@ -5999,6 +6001,7 @@ edgebundle,schochastics
 edgebundleR,garthtarr
 edgeCorr,marmalade-icecream
 edgedata,eeethb
+edgemodelr,pawanramamali
 edgeR,bioc
 edibble,emitanaka
 ediblecity,icra
@@ -6919,6 +6922,7 @@ FastKM,sth1402
 fastkmedoids,lixun910
 FastKNN,besanson
 fastkqr,qiantang0326
+FastKRR,kybak90
 fastLink,kosukeimai
 fastLiquidAssociation,bioc
 fastliu,cran
@@ -9963,6 +9967,7 @@ hydropeak,cran
 HydroPortailStats,benrenard
 hydroroute,cran
 hydroscoper,ropensci
+hydroState,peterson-tim-j
 hydrostats,nickbond
 hydrotoolbox,ezetoum
 hydroToolkit,ezetoum
@@ -13016,6 +13021,7 @@ MicrobiomeProfiler,bioc
 MicrobiomeStat,cran
 MicrobiomeSurv,n-t-huyen
 MicrobiotaProcess,bioc
+MicrobTiSDA,lishijiagg
 microCRAN,stefanedwards
 MicroDatosEs,ropenspain
 microdiluteR,silvia-eckert
@@ -14428,6 +14434,7 @@ netstat,stevecondylios
 nett,aaamini
 nettskjemar,capro-uio
 netUtils,schochastics
+NetVAR,simontrimborn
 NetWeaver,mw201608
 network,cran
 networkABC,fbertran
@@ -15304,6 +15311,7 @@ org,csids
 Organism.dplyr,bioc
 OrganismDbi,bioc
 organizr,jobrachem
+OrgHeatmap,qiruishen439
 OrgMassSpecR,cran
 orgR,yitang
 orgutils,enricoschumann
@@ -16177,6 +16185,7 @@ pid,kgdunn
 PIE,misstiny
 PieceExpIntensity,andrewchapple21
 piecemaker,macmillancontentscience
+piecemeal,krivit
 piecenorms,david-hammond
 piecepackr,piecepackr
 piecewiseSEM,jslefche
@@ -16302,6 +16311,7 @@ platowork,lassehjorthmadsen
 plattice,cran
 Platypus,cran
 play,joe-chelladurai
+player,rossellhayes
 PlayerChart,amalpanwar
 PlayerRatings,ste6an-hub
 pldamixture,bpriy
@@ -16394,6 +16404,7 @@ plu,rossellhayes
 plug,strategicprojects
 plugdensity,r-forge
 plumber,rstudio
+plumber2,posit-dev
 plumberDeploy,meztez
 plumbertableau,rstudio
 plumbr,ggobi
@@ -16610,6 +16621,7 @@ portfolio.optimization,rhochreiter
 PortfolioAnalytics,braverock
 portfolioBacktest,dppalomar
 PortfolioOptim,cran
+PortfolioTesteR,alb3rtazzo
 portion,loelschlaeger
 portn,ysd2004
 portvine,emanuelsommer
@@ -17912,6 +17924,7 @@ RCA,amirgo
 rcaiman,gastonmaurodiaz
 RCAL,cran
 RCALI,mechantrouquin
+RcamelsCL,hgarcesf
 Rcan,timat35
 Rcapture,cran
 RCarb,r-lum
@@ -18021,6 +18034,7 @@ rconf,yaoxiangli
 rconfig,analythium
 RConics,emanuelhuber
 rcontroll,sylvainschmitt
+rconvertu,econcz
 rcorpora,gaborcsardi
 RCPA,tinnlab
 RCPA3,cran
@@ -18425,6 +18439,7 @@ relaimpo,ugroempi
 relatable,domjarkey
 Relatedness,fabienlaporte
 relations,kurthornik
+RelativeDistClust,creus-marti
 relcircle,lin429
 reldist,handcock
 RelDists,ousuga
@@ -20308,6 +20323,7 @@ screenCounter,bioc
 ScreeNOT,eladromanov
 ScreenR,bioc
 screenshot,matutosi
+screenshotbase,dominikkukacka
 scregclust,scmethods
 scRepertoire,bioc
 scribe,jmbarbone
@@ -22047,6 +22063,7 @@ SRTtools,chihangchen
 srvyr,gergness
 ss3sim,ss3sim
 ssaBSS,cran
+SSAforecast,rrk4910
 ssanv,michaelfay-niaid
 SSBtools,statisticsnorway
 ssc,mabelc
@@ -23364,6 +23381,7 @@ tightenBlock,cran
 tigre,bioc
 tigreBrowserWriter,probic
 tigris,walkerke
+tikatuwq,tikatuwq
 tiktokadsR,pablosanmar
 tikzDevice,daqana
 tiledb,tiledb-inc
@@ -23477,6 +23495,7 @@ tma,codymarquart
 tmap,r-tmap
 tmap.cartogram,r-tmap
 tmap.glyphs,r-tmap
+tmap.mapgl,r-tmap
 tmap.networks,r-tmap
 tmaptools,r-tmap
 TMB,kaskr
@@ -24011,6 +24030,7 @@ tweedie,peterkdunn
 tweenr,thomasp85
 tweetcheck,wurli
 twenty48,rossellhayes
+twfeivdecomp,shomiyaji
 twfy,conjugateprior
 twig,hjalal
 twilight,bioc
