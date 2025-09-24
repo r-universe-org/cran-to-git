@@ -2,6 +2,7 @@
   {
     "package": "influxdbclient",
     "maintainer": "Ales Pour <ales.pour@bonitoo.io>",
-    "url": "https://github.com/influxdata/influxdb-client-r"
+    "url": "https://github.com/influxdata/influxdb-client-r",
+    "registry": "archived"
   }
 ]

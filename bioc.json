@@ -4241,7 +4241,7 @@
   {
     "package": "faers",
     "maintainer": "Yun Peng <yunyunp96@163.com>",
-    "url": "https://github.com/yunuuuu/faers",
+    "url": "https://github.com/wanglabcsu/faers",
     "registry": "bioc"
   },
   {
@@ -5622,6 +5622,12 @@
     "package": "Guitar",
     "maintainer": "Jia Meng <jia.meng@xjtlu.edu.cn>",
     "url": "https://git.bioconductor.org/packages/Guitar",
+    "registry": "bioc"
+  },
+  {
+    "package": "gVenn",
+    "maintainer": "Christophe Tav <christophe.tav@gmail.com>",
+    "url": "https://github.com/ckntav/gvenn",
     "registry": "bioc"
   },
   {
