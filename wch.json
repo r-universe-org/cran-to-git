@@ -5,12 +5,6 @@
     "url": "https://github.com/wch/downloader"
   },
   {
-    "package": "extrafont",
-    "maintainer": "Winston Chang <winston@stdout.org>",
-    "url": "https://github.com/wch/extrafont",
-    "registry": "archived"
-  },
-  {
     "package": "extrafontdb",
     "maintainer": "Winston Chang <winston@stdout.org>",
     "url": "https://github.com/wch/extrafontdb"
@@ -24,12 +18,6 @@
     "package": "gcookbook",
     "maintainer": "Winston Chang <winston@stdout.org>",
     "url": "https://github.com/wch/gcookbook"
-  },
-  {
-    "package": "Rttf2pt1",
-    "maintainer": "Winston Chang <winston@stdout.org>",
-    "url": "https://github.com/wch/rttf2pt1",
-    "registry": "archived"
   },
   {
     "package": "webshot",
