@@ -6352,6 +6352,7 @@ epigenomix,bioc
 epigraHMM,bioc
 epigraphdb,mrcieu
 epigrowthfit,davidearn
+EpiILM,waleedalmutiry
 EpiILMCT,waleedalmutiry
 EpiInvert,lalvarezmat
 epikit,r4epi
@@ -7340,7 +7341,7 @@ flexord,dernst
 FlexParamCurve,cran
 flexpolyline,munterfi
 FlexReg,cran
-FlexRL,amscausality
+FlexRL,robachowyk
 flexrsurv,grzebyk
 FlexScan,marsdu1989
 flexsiteboard,struckma
@@ -11452,7 +11453,6 @@ lazyeval,hadley
 lazysf,hypertidy
 lazysql,uweblock
 lazytrade,vzhomeexperiments
-lazyWeave,nutterb
 lba,ivanalaman
 lbaModel,yxlin
 LBDiscover,chaoliu-cl
@@ -14828,7 +14828,6 @@ npordtests,cran
 NPP,hanzifei
 nppbib,dalling1
 npphen,labgrs
-nprcgenekeepr,rmsharp
 NPRED,zejiang-unsw
 npreg,cran
 npregderiv,osavchuk
@@ -16404,7 +16403,7 @@ PLreg,ffqueiroz
 PLRModels,analopezcheda
 pls,khliland
 PLSDAbatch,bioc
-plsdepot,fbertran
+plsdepot,gastonstat
 plsdof,fbertran
 plsgenomics,gdurif
 PLSiMCpp,bruceqd
