@@ -1888,6 +1888,7 @@ BioTrajectory,cran
 BioVenn,cran
 biovizBase,bioc
 BioVizSeq,zhaosq2022
+BioWorldR,monroy31039
 bipartite,biometry
 bipartiteD3,jcdterry
 BipartiteModularityMaximization,wzhang40
@@ -2270,7 +2271,6 @@ bruceR,psychbruce
 brulee,tidymodels
 bruneimap,bruneiverse
 brunnermunzel,toshi-ara
-BRVM,cran
 brxx,joshuaraytanzer
 bs4cards,djnavarro
 bs4Dash,rinterface
@@ -4894,6 +4894,7 @@ DEM,cran
 DeMAND,bioc
 dematel,muhlisoz
 deming,cran
+DEmixR,fhabibzadeh
 DeMixT,bioc
 DemoDecomp,timriffe
 demodelr,jmzobitz
@@ -7856,7 +7857,7 @@ gage,bioc
 gaiah,eriqande
 gainML,hhwangbo
 gains,cran
-GAIPE,zaiyaolin
+GAIPE,yao5566
 galah,atlasoflivingaustralia
 galamm,lcbc-uio
 galaxias,atlasoflivingaustralia
@@ -13361,7 +13362,6 @@ MLMOI,mhashemihsmw
 MLmorph,theogrost
 mlmpower,bkeller2
 mlmRev,stevencarlislewalker
-mlms,jfisher-usgs
 mlmtools,lkjamison
 mlmts,anloor7
 MLMusingR,flh3
@@ -16723,6 +16723,7 @@ ppgm,cran
 ppgmmga,luca-scr
 PPInfer,bioc
 ppitables,katilingban
+ppks,cran
 PPLasso,cran
 pplot,cran
 ppls,vguillemot
@@ -22025,8 +22026,8 @@ spThin,mlammens
 spTimer,ksbakar
 sptotal,highamm
 spup,ksawicka
+spuriouscorrelations,cran
 spuRs,cran
-SPUTNIK,piplus2
 SPYvsSPY,shabbychef
 SQI,owaisaliwani30
 SQL,cran
@@ -22459,6 +22460,7 @@ strucchangeRcpp,bfast2
 struct,bioc
 structenforcement,cran
 structree,jmober
+structSSI,krisrs1128
 Structstrings,bioc
 structToolbox,bioc
 StructuralDecompose,allen-1242
@@ -23788,7 +23790,7 @@ treesliceR,araujomat
 treespace,thibautjombart
 treestartr,ropensci
 treestats,thijsjanzen
-treestructure,emvolz
+treestructure,emvolz-phylodynamics
 TreeSummarizedExperiment,bioc
 TreeTools,ms609
 TREG,bioc
