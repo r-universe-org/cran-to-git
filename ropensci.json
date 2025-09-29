@@ -40,12 +40,6 @@
     "url": "https://github.com/ropensci/barcoder"
   },
   {
-    "package": "baRulho",
-    "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/barulho",
-    "registry": "archived"
-  },
-  {
     "package": "BaseSet",
     "maintainer": "Lluís Revilla Sancho <lluis.revilla@gmail.com>",
     "url": "https://github.com/ropensci/baseset"
@@ -484,7 +478,8 @@
   {
     "package": "jstor",
     "maintainer": "Thomas Klebel <t.klebel@hotmail.com>",
-    "url": "https://github.com/ropensci/jstor"
+    "url": "https://github.com/ropensci/jstor",
+    "registry": "archived"
   },
   {
     "package": "katex",
@@ -562,12 +557,6 @@
     "url": "https://github.com/ropensci/nodbi"
   },
   {
-    "package": "nomisr",
-    "maintainer": "Evan Odell <evanodell91@gmail.com>",
-    "url": "https://github.com/ropensci/nomisr",
-    "registry": "archived"
-  },
-  {
     "package": "npi",
     "maintainer": "Frank Farach <frank.farach@gmail.com>",
     "url": "https://github.com/ropensci/npi"
@@ -586,12 +575,6 @@
     "package": "occCite",
     "maintainer": "Hannah L. Owens <hannah.owens@gmail.com>",
     "url": "https://github.com/ropensci/occcite",
-    "registry": "archived"
-  },
-  {
-    "package": "ohun",
-    "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/ohun",
     "registry": "archived"
   },
   {
