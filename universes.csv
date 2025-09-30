@@ -1648,6 +1648,7 @@ BHH2,kjetil1001
 bhm,statapps
 bhmbasket,wojcieko
 BHMSMAfMRI,nilotpalsanyal
+bhpm,rcarragh
 BHSBVAR,cran
 BI,marcschwartz
 BiasCorrector,kapsner
@@ -2127,6 +2128,7 @@ bootSVD,aaronjfisher
 bootUR,smeekes
 bootwar,mightymetrika
 BootWPTOS,cran
+BOP2FE,belayb
 Boptbd,cran
 bor,davidnsousa
 boral,fhui28
@@ -3311,6 +3313,7 @@ clustEff,gianluca-sottile
 cluster,mmaechler
 cluster.datasets,cran
 Cluster.OBeu,okgreece
+clusterability,zachneville
 ClusterBootstrap,mathijsdeen
 clusterCrit,iagogv3
 clusterExperiment,bioc
@@ -4726,7 +4729,7 @@ DChaos,jsandube
 dChipIO,henrikbengtsson
 dci,aarkilanian
 dcifer,eppicenter
-DCL,cran
+DCL,mmiranda-ugr
 DCLEAR,ikwak2
 dclone,datacloning
 dclust,shaunpwilkinson
@@ -5516,7 +5519,7 @@ doublIn,vharntzen
 doubt,moodymudskipper
 douconca,biometris
 doudpackage,cran
-DOvalidation,cran
+DOvalidation,mmiranda-ugr
 DOVE,sth1402
 Dowd,d-acharya
 downlit,r-lib
@@ -10656,6 +10659,7 @@ iplookupapi,dominikkukacka
 iplots,s-u
 IPMbook,kenkellner
 ipmr,padrinodb
+IPMRF,cran
 IPO,bioc
 ipolygrowth,kivanvan
 IPPP,niklashohmann
@@ -14195,7 +14199,7 @@ mvtmeta,hanchenphd
 mvtnorm,r-forge
 mvtsplot,rdpeng
 mvvg,samksoon
-mwa,schuttes
+mwa,kdonnay
 MWASTools,bioc
 mwcsr,ctlab
 mwlaxeref,cran
@@ -14954,6 +14958,7 @@ oce,dankelley
 oceanexplorer,martinschobben
 oceanic,cran
 oceanis,insee-psar-at
+oceanmap,cran
 OceanView,karlines
 oceanwaves,millerlp
 oceCens,michaelfay-niaid
@@ -15102,7 +15107,7 @@ oneclust,nanxstats
 onehot,gravesee
 oneinfl,rtgodwin
 onekp,ropensci
-onelogin,akgold
+onelogin,alexkgold
 onemap,cristianetaniguti
 onemapsgapi,jolene-lim
 OneR,vonjd
@@ -15565,7 +15570,7 @@ PANACEA,egeulgen
 pAnalysis,cran
 PanCanVarSel,maitya02
 pandaR,bioc
-pandemics,cran
+pandemics,mmiranda-ugr
 pander,rapporter
 pandoc,cderv
 pandocfilters,florianschwendinger
@@ -18499,6 +18504,7 @@ remstats,tilburgnetworkgroup
 remstimate,tilburgnetworkgroup
 remulate,tilburgnetworkgroup
 REN,bonsook
+rENA,codymarquart
 rencher,atefehrashidi
 REndo,mmeierer
 Renext,irsn
@@ -18954,7 +18960,7 @@ RKelly,hcelion
 rKenyaForex,mutuasam
 RKHSMetaMod,cran
 rKIN,salbeke
-RkMetrics,cran
+RkMetrics,titus-rotich
 rKolada,lchansson
 rKOMICS,geertsmanon
 RKorAPClient,korap
@@ -20757,6 +20763,7 @@ shadowr,ricilandolt
 shadowtext,guangchuangyu
 shadowVIMP,staburo
 shannon,imranshakoor
+SHAPBoost,o-t-o-z
 ShapDoE,lqyang0714
 shape,karlines
 ShapeChange,xliaosdsu
@@ -24634,7 +24641,7 @@ vol2birdR,adokter
 volatilityTrader,maheshpkumar
 volcano3D,katrionagoldmann
 volcanoPlot,jwildfire
-volesti,vfisikop
+volesti,vissarion
 volker,strohne
 volrisk,taku1094
 voluModel,hannahlowens
@@ -24885,6 +24892,7 @@ wget,yulab-smu
 WGScan,cran
 WgtEff,joshlmiller1978
 WH,guillaumebiessy
+whapi,strategicprojects
 WhatIf,iqss
 WhatsR,gesiscss
 whatthreewords,davidasmith
