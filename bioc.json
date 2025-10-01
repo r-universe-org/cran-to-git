@@ -397,6 +397,12 @@
     "registry": "bioc"
   },
   {
+    "package": "anglemania",
+    "maintainer": "Aaron Kollotzek <aaron.kollotzek@mdc-berlin.de>",
+    "url": "https://github.com/bimsbbioinfo/anglemania",
+    "registry": "bioc"
+  },
+  {
     "package": "animalcules",
     "maintainer": "Jessica McClintock <jessica.mcclintock@rutgers.edu>",
     "url": "https://github.com/wejlab/animalcules",
@@ -764,7 +770,7 @@
   },
   {
     "package": "BANDITS",
-    "maintainer": "Simone Tiberi <simone.tiberi@uzh.ch>",
+    "maintainer": "Simone Tiberi <simone.tiberi@unibo.it>",
     "url": "https://github.com/simonetiberi/bandits",
     "registry": "bioc"
   },
@@ -7059,6 +7065,12 @@
     "registry": "bioc"
   },
   {
+    "package": "markeR",
+    "maintainer": "Rita Martins-Silva <rita.silva@medicina.ulisboa.pt>",
+    "url": "https://github.com/diseasetranscriptomicslab/marker",
+    "registry": "bioc"
+  },
+  {
     "package": "marr",
     "maintainer": "Tusharkanti Ghosh <tusharkantighosh30@gmail.com>",
     "url": "https://github.com/ghoshlab/marr",
@@ -10601,7 +10613,7 @@
   },
   {
     "package": "rhdf5",
-    "maintainer": "Mike Smith <mike.smith@embl.de>",
+    "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
     "url": "https://github.com/huber-group-embl/rhdf5",
     "registry": "bioc"
   },
@@ -12757,6 +12769,12 @@
     "package": "Summix",
     "maintainer": "Audrey Hendricks <audrey.hendricks@cuanschutz.edu>",
     "url": "https://git.bioconductor.org/packages/Summix",
+    "registry": "bioc"
+  },
+  {
+    "package": "SuperCellCyto",
+    "maintainer": "Givanna Putri <givanna.h@gmail.com>",
+    "url": "https://github.com/phipsonlab/supercellcyto",
     "registry": "bioc"
   },
   {

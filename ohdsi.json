@@ -100,6 +100,11 @@
     "url": "https://github.com/ohdsi/omock"
   },
   {
+    "package": "OmopConstructor",
+    "maintainer": "Martí Català <marti.catalasabate@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/omopconstructor"
+  },
+  {
     "package": "OmopSketch",
     "maintainer": "Cecilia Campanile <cecilia.campanile@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/omopsketch"
