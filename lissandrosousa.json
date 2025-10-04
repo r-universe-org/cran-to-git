@@ -1,5 +1,10 @@
 [
   {
+    "package": "adcontabil",
+    "maintainer": "Lissandro Costa de Sousa <lisandrosousa54@gmail.com>",
+    "url": "https://github.com/cran/adcontabil"
+  },
+  {
     "package": "BacenAPI",
     "maintainer": "Lissandro Sousa <lisandrosousa54@gmail.com>",
     "url": "https://github.com/lissandrosousa/bacenapi.r"
