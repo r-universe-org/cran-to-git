@@ -1958,6 +1958,7 @@ BlakerCI,jan-klaschka
 BlandAltmanLeh,cran
 blandr,deepankardatta
 blapsr,oswaldogressani
+blase,bioc
 blaster,tamminenlab
 blastula,rstudio
 blatent,jonathantemplin
@@ -3709,7 +3710,7 @@ CompositionalHDDA,cran
 CompositionalML,cran
 CompositionalRF,cran
 compositions,cran
-compound.Cox,cran
+compound.Cox,takeshiemura1
 CompoundDb,bioc
 CompoundEvents,drought
 CompPareto,liuaber
@@ -3908,9 +3909,9 @@ copre,blakemoya
 cops,r-forge
 CopSens,jiajingz
 copula,r-forge
-Copula.Markov,cran
+Copula.Markov,takeshiemura1
 Copula.Markov.survival,xinweihuang-stat
-Copula.surv,cran
+Copula.surv,takeshiemura1
 copulaboost,cran
 CopulaCenR,suntaojj
 copulaData,r-forge
@@ -4955,7 +4956,7 @@ DepCens,gabrielgrandemagne
 depCensoring,nago2020
 depcoeff,eliebs
 DepecheR,bioc
-depend.truncation,cran
+depend.truncation,takeshiemura1
 dependentsimr,tgbrooks
 depigner,corradolanera
 DepInfeR,bioc
@@ -5521,7 +5522,7 @@ dotsViolin,cran
 dotty,kevinushey
 dotwhisker,fsolt
 doubcens,jamesm1524
-double.truncation,cran
+double.truncation,takeshiemura1
 DoubleCone,cran
 DoubleExpSeq,sean-ruddy
 DoubleML,doubleml
@@ -7852,7 +7853,7 @@ fxregime,zeileis
 fxTWAPLS,special-uor
 fy,hughparsonage
 g.data,cran
-g.ridge,cran
+g.ridge,takeshiemura1
 G2Sd,reg-gallon
 g3viz,g3viz
 G4SNVHunter,bioc
@@ -10978,7 +10979,7 @@ JoF,burmarkus
 joineR,graemeleehickey
 joineRML,graemeleehickey
 joinet,rauschenberger
-joint.Cox,cran
+joint.Cox,takeshiemura1
 JointAI,nerler
 jointCalib,ncn-foreigners
 jointDiag,gouypailler
@@ -11972,6 +11973,7 @@ longRPart2,rjacobucci
 longsurr,laylaparast
 longurl,hrbrmstr
 loo,stan-dev
+looking4clusters,bioc
 lookout,sevvandi
 lookup,kwstat
 lookupTable,enzochia
@@ -15819,7 +15821,7 @@ pcdid,adamwang15
 PCDimension,cran
 pcds,elvanceyhan
 pcds.ugraph,elvanceyhan
-pcensmix,cran
+pcensmix,lida-fallah
 pcev,greenwoodlab
 pcFactorStan,jpritikin
 PCFAM,yihuizhou
@@ -16484,6 +16486,7 @@ pmp,bioc
 pmparser,hugheylab
 pmr,cran
 pmsampsize,cran
+PMScanR,bioc
 pmsesampling,chenaters
 pmultinom,alex-l-m
 pmvalsampsize,cran
@@ -20706,6 +20709,7 @@ SEset,ryanoisin
 SESraster,hemingnm
 sessioninfo,r-lib
 set,yikeshu0611
+SETA,bioc
 setariaviridis,nononoexe
 setartree,rakshitha123
 SetMethods,cran
@@ -24224,7 +24228,7 @@ unhcrdown,unhcr-dataviz
 unhcrthemes,unhcr-dataviz
 unheadr,luisdva
 uni.shrinkage,cran
-uni.survival.tree,cran
+uni.survival.tree,takeshiemura1
 uniah,zea23i651096531
 Unico,cozygene
 Unicode,kurthornik

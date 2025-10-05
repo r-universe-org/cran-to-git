@@ -1387,6 +1387,12 @@
     "registry": "bioc"
   },
   {
+    "package": "blase",
+    "maintainer": "Andrew McCluskey <2117532m@student.gla.ac.uk>",
+    "url": "https://github.com/andrewmccluskey-uog/blase",
+    "registry": "bioc"
+  },
+  {
     "package": "blima",
     "maintainer": "Vojtěch Kulvait <kulvait@gmail.com>",
     "url": "https://bitbucket.org/kulvait/blima",
@@ -6867,6 +6873,12 @@
     "registry": "bioc"
   },
   {
+    "package": "looking4clusters",
+    "maintainer": "David Barrios <metal@usal.es>",
+    "url": "https://github.com/bioinfousal/looking4clusters",
+    "registry": "bioc"
+  },
+  {
     "package": "LoomExperiment",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://git.bioconductor.org/packages/LoomExperiment",
@@ -9616,6 +9628,12 @@
     "registry": "bioc"
   },
   {
+    "package": "PMScanR",
+    "maintainer": "Jan Pawel Jastrzebski <bioinformatyka@gmail.com>",
+    "url": "https://github.com/prodakt/pmscanr",
+    "registry": "bioc"
+  },
+  {
     "package": "PoDCall",
     "maintainer": "Hans Petter Brodal <h.p.brodal@ous-research.no>",
     "url": "https://git.bioconductor.org/packages/PoDCall",
@@ -11827,6 +11845,12 @@
     "package": "sesame",
     "maintainer": "Wanding Zhou <zhouwanding@gmail.com>",
     "url": "https://github.com/zwdzwd/sesame",
+    "registry": "bioc"
+  },
+  {
+    "package": "SETA",
+    "maintainer": "Kyle Kimler <kkimler@broadinstitute.org>",
+    "url": "https://git.bioconductor.org/packages/SETA",
     "registry": "bioc"
   },
   {
