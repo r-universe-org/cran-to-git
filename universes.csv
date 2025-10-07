@@ -143,6 +143,7 @@ adamethods,cran
 ADAMgui,bioc
 adana,cran
 AdapDiscom,aodiakite
+adaplots,cran
 AdapSamp,keydom
 ADAPT,bioc
 adapt3,dormancy1
@@ -446,6 +447,7 @@ alfred,onnokleen
 algaeClassify,vijpatil
 AlgDesign,jvbraun
 AlgebraicHaploPackage,cran
+AlgeriAPIs,lightbluetitan
 algo,feddelegrand7
 algorithmia,algorithmiaio
 aliases2entrez,peyronlab
@@ -3781,6 +3783,7 @@ ConFluxPro,valentingar
 ConfMatrix,svilchez
 conformalbayes,corymccartan
 conformalClassification,niha21
+conformalForecast,xqnwang
 conformalInference.fd,paolo-vergo
 conformalInference.multi,paolo-vergo
 conformalpvalue,chhavi-tyagi
@@ -6492,6 +6495,7 @@ errum,tmsalab
 ERSA,cbhurley
 ERSSA,bioc
 eRTG3D,munterfi
+ES,cran
 es.dif,sa-to-shi-a-o-ki
 esaddle,mfasiolo
 esaps,nicolas-schmidt
@@ -6867,6 +6871,7 @@ fairmodels,modeloriented
 fairness,kozodoi
 fairsubset,cran
 fake,barbarabodinier
+FakeDataR,zobaer09
 fakemake,fvafrcu
 fakir,thinkr-open
 fakmct,alfinurrahmah
@@ -7873,6 +7878,7 @@ gaga,bioc
 GAGAs,cran
 GAGBLUP,cran
 gage,bioc
+gageRR,warrenjonahb
 gaiah,eriqande
 gainML,hhwangbo
 gains,cran
@@ -9579,6 +9585,7 @@ healthcare.antitrust,mpanhans
 healthdb,kevinhzq
 healthequal,whoequity
 healthfinance,rrrlw
+healthmotionR,alejandrosialer
 healthyAddress,hughparsonage
 healthyR,spsanderson
 healthyR.ai,spsanderson
@@ -10032,6 +10039,7 @@ hypothesis,krystian8207
 hypothesisr,mdlincoln
 hypr,mmrabe
 hypsoLoop,fgashakamba
+hyreg2,selk19
 HyRiM,cran
 hySAINT,lli289
 hySpc.testthat,cbeleites
@@ -13173,6 +13181,7 @@ minque,jacks306
 minsample1,anik4322
 minsample2,anik4322
 minSNPs,ludwighoon
+minter,fdecunta
 MINTplates,cran
 MinTriadic,leksro
 minty,gesistsa
@@ -14586,6 +14595,7 @@ nifti.pbcor,jrad1
 NightDay,cran
 nilde,cran
 NiLeDAM,cran
+nilsier,envisim
 nima,nhejazi
 NIMAA,jafarilab
 nimble,nimble-dev
@@ -14764,7 +14774,6 @@ nonprobsvy,ncn-foreigners
 nonsmooth,jrjthompson
 nonstat,martinhecht
 nopaco,cran
-nopp,siacus
 nor1mix,r-forge
 NoRCE,bioc
 nord,jkaupp
@@ -14786,11 +14795,13 @@ norMmix,trn000
 NormPsy,cecileproust-lima
 NormqPCR,bioc
 normr,bioc
+normref,metimmerman
 norSTR,magnusdv
 nortest,uligges
 nortestARMA,lafaye
 nortsTest,asael697
 nos,txm676
+nose,rudth
 nosoi,slequime
 NostalgiR,cran
 not,ychen101
@@ -15302,6 +15313,7 @@ optrefine,kkbrum
 optRF,tmlange
 OPTS,cran
 OptSig,jh8080
+optsize,cran
 OPTtesting,cran
 optweight,ngreifer
 opusminer,cbergmeir
@@ -16243,6 +16255,7 @@ pikchr,strategicprojects
 pillar,r-lib
 pim,centerforstatistics-ugent
 pimeta,nshi-stat
+Pinference,pglpm
 pinfsc50,knausb
 pingers,jessevent
 pingr,r-lib
@@ -18434,6 +18447,7 @@ refugees,populationstatistics
 refund,refunders
 refund.shiny,refunders
 RegAssure,nrubiog
+RegCalReliab,lbw080526
 regclass,profpetrie
 RegCombin,cran
 regda,cran
@@ -21171,6 +21185,7 @@ simplermarkdown,djvanderlaan
 simpleSeg,bioc
 simpleSetup,christophergandrud
 simpletex,chuxinyuan
+SimpleUpset,smped
 simplextree,peekxc
 SIMPLICA,joshageman
 SimplicialCubature,jpnolan
@@ -22555,11 +22570,13 @@ sugarglider,maliny12
 suggests,owenjonesuob
 sugrrants,earowang
 SUITOR,bioc
+sulcimap,cran
 SumcaVer1,torabi-uofm
 sumFREGAT,cran
 summariser,condwanaland
 SummarizedExperiment,bioc
 SummaryLasso,thstat22
+summarytabl,anyamemensah
 summarytools,dcomtois
 summclust,s3alfisc
 SUMMER,richardli
@@ -24364,6 +24381,7 @@ utilityFunctionTools,sebastianoschneider
 utilsIPEA,ipea
 utsf,franciscomartinezdelrio
 uuid,s-u
+UVdose,rshraim
 uwedragon,cran
 UWHAM,cran
 uwot,jlmelville
