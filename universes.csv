@@ -116,6 +116,7 @@ activAnalyzer,pydemull
 activatr,dschafer
 ActiveDriver,reimand0
 activegp,cran
+ActiveLearning4SPM,capezza
 ActivePathways,reimandlab
 activity,marcusrowcliffe
 activityCounts,walkabillylab
@@ -2337,6 +2338,7 @@ BT,giregwillame
 btb,inseefr
 BTdecayLasso,heilokchow
 btergm,leifeld
+BTIME,cran
 BTLLasso,schaubert
 BTM,bnosac
 btml,zea23i651096531
@@ -9046,6 +9048,7 @@ GPM,cran
 gpmap,argju
 GPoM,cran
 GPP,aitask
+GPpenalty,cran
 gppm,karchjd
 GPRMortality,alighanbari26
 gProfileR,korogenoest
@@ -9644,7 +9647,7 @@ Herper,bioc
 hesim,hesim-dev
 HEssRNA,bmgfiasri
 HeterFunctionalData,hwanggit
-heterocop,cran
+heterocop,ekaterinatomilina
 heterogen,patauchi
 HeteroGGM,cran
 heterometa,deweyme
@@ -11436,6 +11439,7 @@ LassoGEE,liygcr
 LassoNet,jstriaukas
 lassopv,lingfeiwang
 LassoSIR,zhaozhg81
+Latamverse,lightbluetitan
 latcontrol,cran
 latdiag,deweyme
 latenetwork,tkhdyanagi
@@ -12635,6 +12639,7 @@ md.log,haghish
 MD2sample,wolfgangrolke
 md4r,rundel
 mda,trevorhastie
+mda.biber,browndw
 mDAG,wjzhong
 mdatools,svkucheryavski
 mdbr,k5cents
@@ -15692,6 +15697,7 @@ PartCensReg,mnunez5
 partCNV,bioc
 partDSA,amolinaro
 partialised,uchidamizuki
+partialling.out,ropensci
 Partiallyoverlapping,cran
 PartialNetwork,ahoundetoungan
 particle.swarm.optimisation,brunettheo
@@ -17292,6 +17298,7 @@ pwr2,cran
 pwr2ppl,chrisaberson
 pwr4exp,an-ethz
 pwrAB,chawm
+pwranova,mutopsy
 pwrFDR,izmirlig
 PwrGSD,izmirlig
 pwrRasch,cran
@@ -19815,6 +19822,7 @@ RTLknitr,foadesmaeili5
 rtlr,matanhakim
 rTLsDeep,carlos-alberto-silva
 RTMB,kaskr
+RTMBdist,janoleko
 rtmpt,raphaelhartmann
 rtms,nathanieltwarog
 RTN,bioc
