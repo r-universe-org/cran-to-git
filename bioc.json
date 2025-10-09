@@ -1358,7 +1358,7 @@
   },
   {
     "package": "biovizBase",
-    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "maintainer": "Michael Lawrence <lawremi@gmail.com>",
     "url": "https://git.bioconductor.org/packages/biovizBase",
     "registry": "bioc"
   },
@@ -3604,7 +3604,7 @@
   },
   {
     "package": "DMRcaller",
-    "maintainer": "Nicolae Radu Zabet <n.r.zabet@gen.cam.ac.uk>",
+    "maintainer": "Nicolae Radu Zabet <r.zabet@qmul.ac.uk>",
     "url": "https://git.bioconductor.org/packages/DMRcaller",
     "registry": "bioc"
   },
@@ -5194,7 +5194,7 @@
   },
   {
     "package": "ggbio",
-    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "maintainer": "Michael Lawrence <lawremi@gmail.com>",
     "url": "https://github.com/lawremi/ggbio",
     "registry": "bioc"
   },
@@ -7073,7 +7073,7 @@
   {
     "package": "mariner",
     "maintainer": "Eric Davis <ericscottdavis@outlook.com>",
-    "url": "https://git.bioconductor.org/packages/mariner",
+    "url": "https://github.com/ericsdavis/mariner",
     "registry": "bioc"
   },
   {
@@ -7738,7 +7738,7 @@
   },
   {
     "package": "microRNA",
-    "maintainer": "\"Michael Lawrence\" <michafla@gene.com>",
+    "maintainer": "\"Michael Lawrence\" <lawremi@gmail.com>",
     "url": "https://git.bioconductor.org/packages/microRNA",
     "registry": "bioc"
   },
@@ -9533,8 +9533,8 @@
   },
   {
     "package": "Pirat",
-    "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
-    "url": "https://git.bioconductor.org/packages/Pirat",
+    "maintainer": "Lucas Etourneau <lucas.etourneau@gmail.com>",
+    "url": "https://github.com/edyp-lab/pirat",
     "registry": "bioc"
   },
   {
@@ -11099,7 +11099,7 @@
   },
   {
     "package": "rtracklayer",
-    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "maintainer": "Michael Lawrence <lawremi@gmail.com>",
     "url": "https://github.com/lawremi/rtracklayer",
     "registry": "bioc"
   },
@@ -13301,8 +13301,8 @@
   },
   {
     "package": "topGO",
-    "maintainer": "Adrian Alexa <adrian.alexa@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/topGO",
+    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
+    "url": "https://github.com/federicomarini/topgo",
     "registry": "bioc"
   },
   {
@@ -13721,7 +13721,7 @@
   },
   {
     "package": "VariantTools",
-    "maintainer": "Michael Lawrence <michafla@gene.com>",
+    "maintainer": "Michael Lawrence <lawremi@gmail.com>",
     "url": "https://github.com/lawremi/varianttools",
     "registry": "bioc"
   },

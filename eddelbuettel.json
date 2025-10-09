@@ -340,6 +340,11 @@
     "url": "https://github.com/eddelbuettel/ulid"
   },
   {
+    "package": "xptr",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/xptr"
+  },
+  {
     "package": "zigg",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/zigg"
