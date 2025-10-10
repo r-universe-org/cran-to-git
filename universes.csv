@@ -1856,6 +1856,7 @@ biometrics,cseljatib
 biometryassist,biometryhub
 biomformat,bioc
 biomod2,biomodhub
+BioMonTools,leppott
 BioMoR,sulkysubject37
 BioMVCClass,bioc
 biomvRCNS,bioc
@@ -2491,6 +2492,7 @@ calms,cran
 calpassapi,vinhdizzo
 CalSim,resinj
 camcorder,thebioengineer
+CaMeA,cran
 CamelUp,mczek
 CAMERA,bioc
 camerondata,juvlac
@@ -3030,6 +3032,7 @@ CHMM,julieaubert
 CHNCapitalStock,common2016
 chngpt,youyifong
 CHNOSZ,r-forge
+choicedata,loelschlaeger
 choiceDes,jackhorne
 ChoiceModelR,jvcolias
 CHOIRBM,emcramer
@@ -3906,6 +3909,7 @@ copcor,youyifong
 CopCTS,fuyuan-li
 cope,cran
 copent,majianthu
+CopernicusClimate,pepijn-devries
 CopernicusDEM,mlampros
 CopernicusMarine,pepijn-devries
 copernicusR,hansttito
@@ -8282,6 +8286,7 @@ GEOfastq,bioc
 geofi,ropengov
 GeoFIS,j-ll
 geoFKF,gilberto-sassi
+geoflow,r-geoflow
 geoFourierFDA,gilberto-sassi
 geoGAM,nussbaummadlene
 geogenr,josesamos
@@ -9119,6 +9124,7 @@ graphite,bioc
 graphkernels,mahito-sugiyama
 graphlayouts,schochastics
 graphon,kisungyou
+graphonmix,sevvandi
 graphPAF,johnfergusonnuig
 graphpcor,eliaskrainski
 graphql,ropensci
@@ -10846,6 +10852,7 @@ itan,arielarmijo
 itcSegment,micheledalponte
 itdr,tharindupdealwis
 itemanalysis,czopluoglu
+ItemRest,ahmetcaliskan1987
 iTensor,rikenbit
 iterativeBMA,bioc
 iterativeBMAsurv,bioc
@@ -11095,6 +11102,7 @@ KappaGUI,frederic-santos
 kappalab,cran
 kappaSize,cran
 karaoke,cran
+kardl,karamelikli
 karel,ropensci
 Karen,delcore-luca
 karlen,ramiromagno
@@ -11952,6 +11960,7 @@ lognGPD,marco-bee
 lognorm,bgctw
 logNormReg,vitomuggeo
 logOfGamma,philliplab
+logolink,danielvartan
 logos,jpmonteagudo28
 logr,dbosak01
 LogRegEquiv,cran
@@ -15342,7 +15351,7 @@ ordDisp,jmober
 orderanalyzer,michael-scholz-dev
 OrderedList,bioc
 ordering,decisionpatterns
-orderly,vimc
+orderly,mrc-ide
 orders,cran
 orderstats,programmersims
 OrdFacReg,numbersman77
@@ -16045,6 +16054,7 @@ personalized2part,jaredhuling
 personalr,mrcaseb
 personr,flujoo
 perspectev,cran
+PERSUADE,bram-r
 persval,g-corbelli
 perturbR,kgates
 PeruAPIs,lightbluetitan
@@ -16344,6 +16354,7 @@ PKI,s-u
 PKLMtest,spohnm
 pkmon,cran
 PKNCA,humanpred
+PKPDindex,najla-alabdulkarim
 PKPDsim,insightrx
 pkr,cran
 pks,cran
@@ -17118,7 +17129,7 @@ prrd,eddelbuettel
 PRROC,jgraux
 pRSR,cran
 prt,nbenn
-PRTree,neimaier
+PRTree,tsprass
 prWarp,cran
 pryr,hadley
 Przewodnik,pbiecek
@@ -17161,6 +17172,7 @@ PSinference,ricardomourarpm
 PSLM2015,myaseen208
 psm3mkv,merck
 PSMatch,bioc
+psme,zheyuanli
 psmineR,bupaverse
 pso,cran
 psoptim,cran
@@ -20629,6 +20641,7 @@ semPower,moshagen
 semptools,sfcheung
 SEMsens,leitewl
 semsfa,cran
+semTests,jonasmoss
 semTools,simsem
 semtree,brandmaier
 semver,johndharrison
@@ -20958,6 +20971,7 @@ shinyML,jeanbertinr
 shinyMobile,rinterface
 shinymodels,tidymodels
 shinyMonacoEditor,stla
+shinymrp,mrp-interface
 shinyNextUI,rinterface
 shinyNORRRM,therfrog
 shinyNotes,danielkovtun
@@ -23995,6 +24009,7 @@ TSDT,elilillyco
 tsDyn,matthieustigler
 TSE,joshlmiller1978
 TSEAL,vg-lab
+tseffects,sorenjordan
 TSEind,joshlmiller1978
 tsensembler,vcerqueira
 tsentiment,hakkisabah
