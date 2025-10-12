@@ -6081,6 +6081,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Ibex",
+    "maintainer": "Nick Borcherding <ncborch@gmail.com>",
+    "url": "https://github.com/borchlab/ibex",
+    "registry": "bioc"
+  },
+  {
     "package": "ibh",
     "maintainer": "Kircicegi Korkmaz <e102771@ceng.metu.edu.tr>",
     "url": "https://git.bioconductor.org/packages/ibh",
@@ -8769,6 +8775,24 @@
     "registry": "bioc"
   },
   {
+    "package": "notame",
+    "maintainer": "Vilhelm Suksi <vksuks@utu.fi>",
+    "url": "https://github.com/hanhineva-lab/notame",
+    "registry": "bioc"
+  },
+  {
+    "package": "notameStats",
+    "maintainer": "Vilhelm Suksi <vksuks@utu.fi>",
+    "url": "https://github.com/hanhineva-lab/notamestats",
+    "registry": "bioc"
+  },
+  {
+    "package": "notameViz",
+    "maintainer": "Vilhelm Suksi <vksuks@utu.fi>",
+    "url": "https://github.com/hanhineva-lab/notameviz",
+    "registry": "bioc"
+  },
+  {
     "package": "NPARC",
     "maintainer": "Nils Kurzawa <nilskurzawa@gmail.com>",
     "url": "https://git.bioconductor.org/packages/NPARC",
@@ -9325,6 +9349,12 @@
     "package": "PeacoQC",
     "maintainer": "Annelies Emmaneel <annelies.emmaneel@hotmail.com>",
     "url": "https://github.com/saeyslab/peacoqc",
+    "registry": "bioc"
+  },
+  {
+    "package": "peakCombiner",
+    "maintainer": "Markus Muckenhuber <markusmuckenhuber@gmx.at>",
+    "url": "https://github.com/novartis/peakcombiner",
     "registry": "bioc"
   },
   {
