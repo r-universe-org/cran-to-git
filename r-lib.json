@@ -535,6 +535,11 @@
     "url": "https://github.com/r-lib/tidyselect"
   },
   {
+    "package": "toml",
+    "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "url": "https://github.com/r-lib/toml"
+  },
+  {
     "package": "treesitter.r",
     "maintainer": "Davis Vaughan <davis@posit.co>",
     "url": "https://github.com/r-lib/tree-sitter-r",

@@ -1338,6 +1338,7 @@ BayesGPfit,kangjian2016
 BayesGrowth,jonathansmart
 BayesGWQS,mmcarli
 bayesian,hsbadr
+BayesianDisaggregation,isadorenabi
 bayesianETAS,gordonjamesross
 BayesianFactorZoo,cran
 BayesianFitForecast,gchowell
@@ -2125,6 +2126,7 @@ bootES,dgerlanc
 bootf2,zhengguoxu
 bootGOF,marselscheer
 bootImpute,jwb133
+bootkmeans,ghashti-j
 bootLR,gsk3
 bootLRTpairwise,sagaranalytics
 BootMRMR,samarendra88
@@ -2242,6 +2244,7 @@ brendaDb,bioc
 BRETIGEA,andymckenzie
 brew,gregfrog
 BREW3R.r,bioc
+brfinance,efram2
 brglm,ikosmidis
 brglm2,ikosmidis
 brickset,jbryer
@@ -3661,6 +3664,7 @@ CoMiRe,cran
 COMIX,shgrky
 COMMA,kimberlywebb
 commafree,t-kalinowski
+command,bayesiandemography
 CommEcol,a-s-melo
 commecometrics,mariahm1995
 CommKern,aljensen89
@@ -4155,6 +4159,7 @@ cpp11armadillo,pachadotdev
 cpp11bigwig,rnabioco
 cpp11eigen,pachadotdev
 cpp11qpdf,pachadotdev
+cpp4r,pachadotdev
 cppcheckR,stla
 cppcontainers,cdueben
 cppdoubles,nicchr
@@ -5017,6 +5022,7 @@ DescrTab2,imbi-heidelberg
 descstat,ycroissant
 descstatsr,harryyy213
 descsuppR,fkueck
+descsuppRplots,fkueck
 desctable,desctable
 DescTools,andrisignorell
 DescToolsAddIns,andrisignorell
@@ -5310,6 +5316,7 @@ dismo,rspatial
 disordR,robinhankin
 disparityfilter,alessandrobessi
 dispeRse,jgregoriods
+dispersionIndicators,cran
 displease,coolbutuseless
 dispmod,luca-scr
 disposables,gaborcsardi
@@ -6345,6 +6352,7 @@ envnames,mastropi
 EnvNicheR,cran
 EnvNJ,jcaledo
 envoutliers,cran
+envsetup,pharmaverse
 envstat,sellorm
 EnvStats,alexkowa
 envvar,briandconnelly
@@ -6624,6 +6632,7 @@ eventInterval,jimlemon
 EventPointer,bioc
 eventPred,kaifenglu
 EventPredInCure,bo-wei
+eventreport,sebastianvanbaalen
 eventstream,sevvandi
 eventstudyr,jmslab
 eventTrack,numbersman77
@@ -14849,6 +14858,7 @@ notebookutils,cran
 notifyme,epijim
 notionapi,brenwin1
 notionR,eflores89
+NOVA,atudoras
 NovelDistns,mutuasam
 novelforestSG,hrlai
 novelqualcodes,desiquintans
@@ -16348,7 +16358,7 @@ PJFM,jjr1234
 PK,tjaki
 pk.unit.trans,fuyongchao
 pk4adi,xfz329
-PKbioanalysis,omarashkar
+PKbioanalysis,cran
 PKconverter,ek-lee
 pkdata,couthcommander
 pkgbuild,r-lib
@@ -17373,6 +17383,7 @@ QAIG,shubh-b
 qap,mhahsler
 qape,cran
 Qapprox,wpihongzhang
+qatarcars,profmusgrave
 qbinplots,edwindj
 qbld,ayushmclaren
 QBMS,icarda
@@ -17552,6 +17563,7 @@ quadrupen,jchiquet
 quadtree,dfriend21
 quadVAR,sciurus365
 qualitycontrol,luisgarcez11
+QualityMeasure,cran
 qualmap,chris-prener
 qualpalr,jolars
 qualR,ropensci
@@ -20689,6 +20701,7 @@ sensitivity2x2xk,cran
 sensitivityCalibration,cran
 SensitivityCaseControl,dsmall19
 sensitivityfull,cran
+sensitivityIxJ,cran
 sensitivitymult,cran
 sensitivitymv,cran
 sensitivitymw,cran
@@ -21382,6 +21395,7 @@ skewsamp,jobrachem
 skewt,newystats
 skewunit,cran
 SKFCPD,cran
+skiftiTools,haanme
 Skillings.Mack,spatchanok
 skilljaR,chrisumphlett
 skimr,ropensci
@@ -23645,6 +23659,7 @@ tmap.glyphs,r-tmap
 tmap.mapgl,r-tmap
 tmap.networks,r-tmap
 tmaptools,r-tmap
+tmapverse,mtennekes
 TMB,kaskr
 tmbstan,kaskr
 TmCalculator,junhuili1017
@@ -23685,6 +23700,7 @@ tokenizers,ropensci
 tokenizers.bpe,bnosac
 tolerance,dsy109
 tomba,tomba-io
+toml,r-lib
 tomledit,extendr
 tomoda,bioc
 tomoseqr,bioc
