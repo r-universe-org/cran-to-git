@@ -884,7 +884,6 @@
   },
   {
     "package": "BayesSpace",
-    "maintainer": "Senbai Kang <senbai.kang@chuv.ch>",
     "url": "https://github.com/edward130603/bayesspace",
     "registry": "bioc"
   },
@@ -2224,7 +2223,7 @@
   {
     "package": "cleaver",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://github.com/sgibb/cleaver",
+    "url": "https://codeberg.org/sgibb/cleaver",
     "registry": "bioc"
   },
   {
@@ -7949,7 +7948,7 @@
   {
     "package": "MLInterfaces",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
-    "url": "https://git.bioconductor.org/packages/MLInterfaces",
+    "url": "https://github.com/vjcitn/mlinterfaces",
     "registry": "bioc"
   },
   {
@@ -10667,19 +10666,19 @@
   },
   {
     "package": "rhdf5client",
-    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "maintainer": "Alexey Sergushichev <alsergbox@gmail.com>",
     "url": "https://github.com/vjcitn/rhdf5client",
     "registry": "bioc"
   },
   {
     "package": "rhdf5filters",
-    "maintainer": "Mike Smith <grimbough@gmail.com>",
+    "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
     "url": "https://github.com/huber-group-embl/rhdf5filters",
     "registry": "bioc"
   },
   {
     "package": "Rhdf5lib",
-    "maintainer": "Mike Smith <grimbough@gmail.com>",
+    "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
     "url": "https://github.com/huber-group-embl/rhdf5lib",
     "registry": "bioc"
   },

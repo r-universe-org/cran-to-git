@@ -1,5 +1,10 @@
 [
   {
+    "package": "summarySCI",
+    "maintainer": "Charlotte Micheloud <Charlotte.Micheloud@swisscancerinstitute.ch>",
+    "url": "https://github.com/sakk-statistics/summarysci"
+  },
+  {
     "package": "survSAKK",
     "maintainer": "Charlotte Micheloud <Charlotte.Micheloud@sakk.ch>",
     "url": "https://github.com/sakk-statistics/survsakk"

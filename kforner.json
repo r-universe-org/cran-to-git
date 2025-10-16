@@ -1,5 +1,10 @@
 [
   {
+    "package": "clitable",
+    "maintainer": "Karl Forner <karl.forner@gmail.com>",
+    "url": "https://github.com/kforner/clitable"
+  },
+  {
     "package": "RcppProgress",
     "maintainer": "Karl Forner <karl.forner@gmail.com>",
     "url": "https://github.com/kforner/rcpp_progress"
