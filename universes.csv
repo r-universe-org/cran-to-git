@@ -567,6 +567,7 @@ AnalyzeFMRI,lafaye
 analyzer,apxr
 ananke,nfrerebeau
 AnanseSeurat,jgasmits
+anansi,bioc
 Anaquin,bioc
 AncestryMapper,eoh-gh
 AnchorRegression,simzim96
@@ -2478,6 +2479,7 @@ calendRio,mschilli87
 CALF,jorufo
 CALIBERrfimpute,cran
 calibmsm,alexpate30
+CalibraCurve,bioc
 calibrar,roliveros-ramos
 calibrate,jangraffelman
 calibrateBinary,chihli
@@ -3344,6 +3346,7 @@ clusterCrit,iagogv3
 clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
+clusterGGM,aalfons
 ClusterGVis,junjunlab
 clusterhap,gastonquero
 clusterHD,cran
@@ -5540,6 +5543,7 @@ DOT,haghish
 dotCall64,cran
 dotenv,gaborcsardi
 dotgen,xiaoran831213
+DOtools,bioc
 dotprofile,jeanmathieupotvin
 dots,christopherkenny
 dotsViolin,cran
@@ -13983,6 +13987,7 @@ mstR,cran
 mstrio,p-kowal
 mstudentd,santagos
 msu,eliasmacielr
+MSUthemes,emilioxavier
 MSwM,josepasanchez
 mt,wanchanglin
 MTA,riatelab
@@ -14211,6 +14216,7 @@ MuViCP,dmohit
 MUVR2,metabocomp
 MVA,thothorn
 mvabund,dwarton
+mvalpha,therealcfdrake
 MVar,cran
 MVar.pt,cran
 MvBinary,masedki
@@ -14387,6 +14393,7 @@ nberwp,bldavies
 NBLDA,dncr
 nblR,jaseziv
 nbody,obreschkow
+nbpInference,anthonyfraziercsu
 nbpMatching,couthcommander
 NBPSeq,diystat
 NBR,cran
@@ -20356,6 +20363,7 @@ scGate,carmonalab
 SCGLR,scnext
 scGOclust,papatheodorou-group
 scGPS,bioc
+scGraphVerse,bioc
 scgwr,dmuraka
 sched,pkrog
 schematic,whipson
@@ -20393,6 +20401,7 @@ scistreer,kharchenkolab
 scitb,cran
 scITD,j-mitchel
 SciViews,sciviews
+scLANE,bioc
 scLink,cran
 sClust,cran
 SCMA,cran
@@ -21491,6 +21500,7 @@ smartid,bioc
 smartmap,s-fleck
 SmartMeterAnalytics,hopfkons
 SMARTp,bandyopd
+SmartPhos,bioc
 smartsheetr,cole-johanson
 smartsizer,wilart
 smartsnp,christianhuber
@@ -22308,6 +22318,7 @@ stacking,onogi
 stacks,tidymodels
 stacomiR,cedricbriandgithub
 stacomirtools,cedricbriandgithub
+STADyUM,bioc
 stagedtrees,stagedtrees
 stagePop,helenkettle
 stageR,bioc
@@ -22407,7 +22418,7 @@ statTarget,bioc
 StatTeacherAssistant,ccasement
 StatTools,cran
 STB,cran
-stbl,api2r
+stbl,wranglezone
 STCCGEV,cran
 stCEG,holliecalley
 stcos,holans

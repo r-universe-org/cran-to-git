@@ -379,6 +379,12 @@
     "registry": "bioc"
   },
   {
+    "package": "anansi",
+    "maintainer": "Thomaz Bastiaanssen <thomazbastiaanssen@gmail.com>",
+    "url": "https://github.com/thomazbastiaanssen/anansi",
+    "registry": "bioc"
+  },
+  {
     "package": "Anaquin",
     "maintainer": "Ted Wong <t.wong@garvan.org.au>",
     "url": "https://git.bioconductor.org/packages/Anaquin",
@@ -1624,6 +1630,12 @@
     "package": "CAGEr",
     "maintainer": "Charles Plessy <charles.plessy@oist.jp>",
     "url": "https://git.bioconductor.org/packages/CAGEr",
+    "registry": "bioc"
+  },
+  {
+    "package": "CalibraCurve",
+    "maintainer": "Karin Schork <karin.schork@rub.de>",
+    "url": "https://github.com/mpc-bioinformatics/calibracurve",
     "registry": "bioc"
   },
   {
@@ -3701,6 +3713,12 @@
     "package": "doseR",
     "maintainer": "ake.vastermark <ake.vastermark@gmail.com>",
     "url": "https://git.bioconductor.org/packages/doseR",
+    "registry": "bioc"
+  },
+  {
+    "package": "DOtools",
+    "maintainer": "Mariano Ruz Jurado <ruzjurado@med.uni-frankfurt.de>",
+    "url": "https://github.com/marianoruzjurado/dotools",
     "registry": "bioc"
   },
   {
@@ -7143,7 +7161,7 @@
   },
   {
     "package": "MAST",
-    "maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
+    "maintainer": "Andrew McDavid <andrew.n.mcdavid@gmail.com>",
     "url": "https://github.com/rglab/mast",
     "registry": "bioc"
   },
@@ -11487,6 +11505,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scGraphVerse",
+    "maintainer": "Francesco Cecere <francesco.cecerengs@gmail.com>",
+    "url": "https://github.com/ngsfc/scgraphverse",
+    "registry": "bioc"
+  },
+  {
     "package": "schex",
     "maintainer": "Saskia Freytag <freytag.s@wehi.edu.au>",
     "url": "https://github.com/saskiafreytag/schex",
@@ -11514,6 +11538,12 @@
     "package": "scifer",
     "maintainer": "Rodrigo Arcoverde Cerveira <rodrigo.arcoverdi@gmail.com>",
     "url": "https://github.com/rodrigarc/scifer",
+    "registry": "bioc"
+  },
+  {
+    "package": "scLANE",
+    "maintainer": "Jack R. Leary <j.leary@ufl.edu>",
+    "url": "https://github.com/jr-leary7/sclane",
     "registry": "bioc"
   },
   {
@@ -12213,6 +12243,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SmartPhos",
+    "maintainer": "Shubham Agrawal <shubhamagrawal2706@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/SmartPhos",
+    "registry": "bioc"
+  },
+  {
     "package": "SMITE",
     "maintainer": "Neil Ari Wijetunga <nawijet@gmail.com>",
     "url": "https://github.com/greallylab/smite",
@@ -12702,6 +12738,12 @@
     "package": "StabMap",
     "maintainer": "Shila Ghazanfar <shazanfar@gmail.com>",
     "url": "https://github.com/sydneybiox/stabmap",
+    "registry": "bioc"
+  },
+  {
+    "package": "STADyUM",
+    "maintainer": "Rebecca Hassett <hassett@cshl.edu>",
+    "url": "https://github.com/rhassett-cshl/stadyum",
     "registry": "bioc"
   },
   {
@@ -13325,7 +13367,7 @@
   {
     "package": "topdownr",
     "maintainer": "Sebastian Gibb <mail@sebastiangibb.de>",
-    "url": "https://git.bioconductor.org/packages/topdownr",
+    "url": "https://codeberg.org/sgibb/topdownr",
     "registry": "bioc"
   },
   {
