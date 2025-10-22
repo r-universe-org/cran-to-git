@@ -315,6 +315,7 @@ AgeBandDecomposition,cran
 ageg,nobilisvenator
 agena.ai,cran
 AgePopDenom,truenomad
+AgeTopicModels,xilin-jiang
 ageutils,timtaylor
 agfh,martenthompson
 agghoo,cran
@@ -1744,7 +1745,6 @@ bikm1,cran
 bild,cran
 billboard,mikkelkrogsholm
 billboarder,dreamrs
-bimets,andrea-luciani
 BimodalIndex,cran
 binancer,daroczig
 Binarize,hkestler
@@ -5213,7 +5213,7 @@ diffusion,mamut86
 diffusionMap,rcannood
 diffuStats,bioc
 diffUTR,bioc
-diffval,cran
+diffval,tiagomonteirohenriques
 diffviewer,r-lib
 DiffXTables,joemsong
 DIFlasso,schaubert
@@ -5975,6 +5975,7 @@ ECLRMC,cran
 eclust,sahirbhatnagar
 ecm,gaurbans
 ecmwfr,bluegreen-labs
+eco,kosukeimai
 ecocbo,arturosp
 ecochange,wilarhen
 ecocomDP,ediorg
@@ -6122,6 +6123,7 @@ EffectStars2,schaubert
 EffectTreat,wimvde001
 EfficientMaxEigenpair,mxjki
 effsize,mtorchiano
+EFM,guangbaog
 eFRED,cmann3
 ega,cran
 EGAD,bioc
@@ -6624,6 +6626,7 @@ evaluate,r-lib
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
 evaluomeR,bioc
+evanverse,evanbio
 evapoRe,akbarr1184
 Evapotranspiration,cran
 EVchargcost,cran
@@ -7664,6 +7667,7 @@ frab,robinhankin
 fracARMA,cran
 fracdiff,mmaechler
 fracdist,leemorinucf
+FracFixR,cran
 FracKrigingR,nidagreen
 fracprolif,spgarbet
 fractaldim,hanase
@@ -8727,6 +8731,7 @@ Ghost,siyavashshabani
 GhostKnockoff,cran
 ghql,ropensci
 GHRexplore,cran
+GHRmodel,cran
 GHS,ash0204
 ghyp,quantsulting
 ghypernet,gi0na
@@ -11857,6 +11862,7 @@ llbayesireg,rosineide
 LLIC,guangbaog
 LLM,arnoxieseg
 LLMAgentR,knowusuboaky
+LLMing,sliplr19
 LLMR,asanaei
 LLMTranslate,bieducation
 llogistic,rosineide
@@ -12276,7 +12282,7 @@ MajKMeans,sheikhi-a
 MajMinKmeans,sheikhi-a
 makecdfenv,bioc
 makedummies,toshi-ara
-MakefileR,krlmlr
+MakefileR,fvafrcu
 makeFlow,cran
 makeit,arni-magnusson
 makemyprior,ingebogh
@@ -15616,6 +15622,7 @@ pairsD3,garthtarr
 PairViz,cbhurley
 pairwise,jhhmuc
 pairwiseCI,cran
+paisaje,manuelspinola
 pak,r-lib
 PakNAcc,myaseen208
 PakPC,myaseen208
@@ -17294,7 +17301,6 @@ pubh,josie-athens
 public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
 PublicationBias,mathurlabstanford
-PublicWorksFinanceIT,lorenaricciotti
 publipha,jonasmoss
 Publish,tagteam
 pubmed.mineR,ramuigibnew
@@ -18842,6 +18848,7 @@ Rfractran,cran
 rfriend,cran
 rFSA,joshuawlambert
 Rfssa,haghbinh
+Rfuzzycoco,lonza-rnd-data-science
 rfVarImpOOB,markusloecher
 rfvimptest,romanhornung
 rfviz,chriskuchar
@@ -23284,6 +23291,7 @@ testit,yihui
 TestScorer,manel01
 TestsSymmetry,jzhou54
 testthat,r-lib
+testthatdocs,r3pos
 testthatmulti,collinerickson
 testthis,s-fleck
 testtwice,cran
