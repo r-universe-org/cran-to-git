@@ -1747,6 +1747,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CBN2Path",
+    "maintainer": "William Choi-Kim <william@williamck.com>",
+    "url": "https://github.com/rockwillck/cbn2path",
+    "registry": "bioc"
+  },
+  {
     "package": "CBNplot",
     "maintainer": "Noriaki Sato <nori@hgc.jp>",
     "url": "https://github.com/noriakis/cbnplot",
@@ -4197,7 +4203,7 @@
   },
   {
     "package": "EWCE",
-    "maintainer": "Alan Murphy <alanmurph94@hotmail.com>",
+    "maintainer": "Hiranyamaya Dash <hdash.work@gmail.com>",
     "url": "https://github.com/nathanskene/ewce",
     "registry": "bioc"
   },
@@ -6293,6 +6299,12 @@
     "package": "immunotation",
     "maintainer": "Katharina Imkeller <ag.imkeller@gmail.com>",
     "url": "https://github.com/imkeller/immunotation",
+    "registry": "bioc"
+  },
+  {
+    "package": "iModMix",
+    "maintainer": "Isis Narvaez-Bandera <isis.narvaez@upr.edu>",
+    "url": "https://github.com/biodatalab/imodmix",
     "registry": "bioc"
   },
   {

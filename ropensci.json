@@ -396,7 +396,7 @@
   },
   {
     "package": "googleLanguageR",
-    "maintainer": "Cheryl Isabella <cheryl.academic@gmail.com>",
+    "maintainer": "Cheryl Isabella Lim <cheryl.academic@gmail.com>",
     "url": "https://github.com/ropensci/googlelanguager"
   },
   {
@@ -574,6 +574,11 @@
     "package": "occCite",
     "maintainer": "Hannah L. Owens <hannah.owens@gmail.com>",
     "url": "https://github.com/ropensci/occcite"
+  },
+  {
+    "package": "ohun",
+    "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
+    "url": "https://github.com/ropensci/ohun"
   },
   {
     "package": "openalexR",
