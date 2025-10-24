@@ -639,7 +639,8 @@
     "package": "RobLoxBioC",
     "maintainer": "Matthias Kohl <Matthias.Kohl@stamats.de>",
     "url": "https://github.com/r-forge/robast",
-    "subdir": "pkg/RobLoxBioC"
+    "subdir": "pkg/RobLoxBioC",
+    "registry": "archived"
   },
   {
     "package": "robustbase",
