@@ -344,6 +344,7 @@ aniview,https://github.com/lgnbhl/aniview,,
 anMC,https://github.com/dazzimonti/anmc,,
 ANN2,https://github.com/bflammers/ann2,,
 anndata,https://github.com/dynverse/anndata,,
+anndataR,https://github.com/scverse/anndatar,,bioc
 annmap,https://github.com/cruk-mi/annmap,,bioc
 annmatrix,https://github.com/karoliskoncevicius/annmatrix,,
 AnnoProbe,https://github.com/jmzeng1314/annoprobe,,
@@ -1900,6 +1901,7 @@ cicerone,https://github.com/johncoene/cicerone,,
 ciflyr,https://github.com/mwien/cifly,ciflyr,
 cifti,https://github.com/muschellij2/cifti,,
 ciftiTools,https://github.com/mandymejia/ciftitools,,
+cigarillo,https://github.com/bioconductor/cigarillo,,bioc
 CIMICE,https://github.com/redsnic/cimice,,bioc
 cimir,https://github.com/mkoohafkan/cimir,,
 cinaR,https://github.com/eonurk/cinar,,
@@ -3533,6 +3535,7 @@ dsmSearch,https://github.com/billbillbilly/dsmsearch,,
 DSOpal,https://github.com/datashield/dsopal,,
 dsos,https://github.com/vathymut/dsos,,
 dsp,https://github.com/schafert/dsp,,
+DspikeIn,https://github.com/mghotbi/dspikein,,bioc
 dspline,https://github.com/glmgen/dspline,,
 DSpoty,https://github.com/albertoalmuinha/dspoty,,
 dsrTest,https://github.com/mnelsonr/dsrtest,,
@@ -4438,6 +4441,7 @@ ff,https://github.com/truecluster/ff,,
 ffaframework,https://github.com/rileywheadon/ffa-framework,,
 FFD,https://github.com/r-forge/ffd,pkg,
 FFdownload,https://github.com/sstoeckl/ffdownload,,
+ffiec,https://github.com/ketchbrookanalytics/ffiec,,
 ffmanova,https://github.com/olangsrud/ffmanova,,
 ffp,https://github.com/reckziegel/ffp,,
 ffscrapr,https://github.com/ffverse/ffscrapr,,
@@ -4673,6 +4677,7 @@ footprint,https://github.com/acircleda/footprint,,
 foqat,https://github.com/tianshu129/foqat,,
 forams,https://github.com/godrigos/forams,,
 forcats,https://github.com/tidyverse/forcats,,
+ForCausality,https://github.com/toby-codigos/forcausality,,
 forceplate,https://github.com/raphaelhartmann/forceplate,,
 forceR,https://github.com/pete-s-lab/forcer,,
 forcis,https://github.com/ropensci/forcis,,
@@ -6428,6 +6433,7 @@ imcExperiment,https://github.com/arcolombo/imcexperiment,,
 imcRtools,https://github.com/bodenmillergroup/imcrtools,,bioc
 IMD,https://github.com/humaniverse/imd,,
 imf.data,https://github.com/pedrobtz/imf.data,,
+imfapi,https://github.com/teal-insights/r-imfapi,,
 imfweo,https://github.com/teal-insights/r-imfweo,,
 imgpalr,https://github.com/leonawicz/imgpalr,,
 imgrec,https://github.com/cschwem2er/imgrec,,
@@ -6687,6 +6693,7 @@ ISAR,https://github.com/rtelmore/isar,,
 isatabr,https://github.com/biometris/isatabr,,
 ISCA,https://github.com/ldrouhot/isca,,
 Iscores,https://github.com/missvalteam/iscores,,
+iscream,https://github.com/huishenlab/iscream,,bioc
 isdparser,https://github.com/ropensci-archive/isdparser,,
 iSEE,https://github.com/isee/isee,,bioc
 iSEEde,https://github.com/isee/iseede,,bioc
@@ -6724,7 +6731,6 @@ isopleuros,https://codeberg.org/tesselle/isopleuros,,
 IsoplotR,https://github.com/pvermees/isoplotr,,
 IsoplotRgui,https://github.com/pvermees/isoplotrgui,,
 IsoriX,https://github.com/courtiol/isorix,IsoriX,
-IsoSpecR,https://github.com/matteolacki/isospec,IsoSpecR,
 isotone,https://github.com/r-forge/psychor,pkg/isotone,
 isotracer,https://gitlab.com/matthieu-bruneaux/isotracer,,
 isotree,https://github.com/david-cortes/isotree,,
@@ -7089,6 +7095,7 @@ Largevars,https://github.com/eszter-kiss/largevars,,
 LassoGEE,https://github.com/liygcr/lassogee,LassoGEE,
 lassopv,https://github.com/lingfeiwang/lassopv,lassopv,
 Latamverse,https://github.com/lightbluetitan/latamverse,,
+latbias,https://github.com/pierredenelle/latbias,,
 latenetwork,https://github.com/tkhdyanagi/latenetwork,,
 latent2likert,https://github.com/markolalovic/latent2likert,,
 latentcor,https://github.com/mingzehuang/latentcor,,
@@ -8476,7 +8483,7 @@ MoonlightR,https://github.com/elelab/moonlightr,,bioc
 mooplot,https://github.com/multi-objective/mooplot,r,
 mop,https://github.com/marlonecobos/mop,,
 mopac,https://github.com/sccmckenzie/mopac,,
-moranajp,https://github.com/matutosi/moranajp,,
+moranajp,https://github.com/matutosi/moranajp,,archived
 morestopwords,https://github.com/fatelarico/morestopwords,,
 morphemepiece,https://github.com/macmillancontentscience/morphemepiece,,
 morphemepiece.data,https://github.com/macmillancontentscience/morphemepiece.data,,
@@ -8623,6 +8630,7 @@ MSstatsBioNet,https://github.com/vitek-lab/msstatsbionet,,bioc
 MSstatsLiP,https://github.com/vitek-lab/msstatslip,,bioc
 MSstatsLOBD,https://github.com/vitek-lab/msstatslobd,,bioc
 MSstatsPTM,https://github.com/vitek-lab/msstatsptm,,bioc
+MSstatsResponse,https://github.com/vitek-lab/msstatsresponse,,bioc
 MSstatsShiny,https://github.com/vitek-lab/msstatsshiny,,bioc
 mstate,https://github.com/hputter/mstate,,
 mStats,https://github.com/myominnoo/mstats,,
@@ -9312,6 +9320,7 @@ OmicFlow,https://github.com/agusinac/omicflow,,
 OmicKriging,https://github.com/hakyimlab/omickriging,,
 OmicNavigator,https://github.com/abbvie-external/omicnavigator,,
 OmicSense,https://github.com/takakoizumi/omicsense,,
+omicsGMF,https://github.com/statomics/omicsgmf,,bioc
 OmicsMLRepoR,https://github.com/shbrief/omicsmlrepor,,bioc
 omicsTools,https://github.com/cheemalab/omicstools,,
 omicsViewer,https://github.com/mengchen18/omicsviewer,,bioc
@@ -12774,6 +12783,7 @@ SCORPIUS,https://github.com/rcannood/scorpius,,
 ScottKnott,https://github.com/ivanalaman/scottknott,,
 ScottKnottESD,https://github.com/klainfo/scottknottesd,,
 scoup,https://github.com/thsadiq/scoup,,bioc
+scov,https://github.com/m-metodiev/scov,,
 scp,https://github.com/uclouvain-cbio/scp,,bioc
 scPCA,https://github.com/philboileau/scpca,,bioc
 SCperf,https://github.com/msmarchena/scperf,,
@@ -13465,6 +13475,7 @@ SLModels,https://github.com/raznargimeno/slmodels,,
 sloop,https://github.com/r-lib/sloop,,
 SLOPE,https://github.com/jolars/slope,,
 slopes,https://github.com/ropensci/slopes,,
+SlotLim,https://github.com/slotlim/slotlim,,
 slouch,https://github.com/kopperud/slouch,,
 slowraker,https://github.com/crew102/slowraker,,
 SLPresElection,https://github.com/amalan-constat/slpreselection,,
@@ -13532,6 +13543,7 @@ snc,https://github.com/theotherdrwells/snc,,
 snfa,https://github.com/tkmckenzie/snfa,,
 snha,https://github.com/mittelmark/snha,,
 snifter,https://github.com/alanocallaghan/snifter,,bioc
+snirh.lab,https://github.com/lpereira-ue/snirh.lab,,
 snotelr,https://github.com/bluegreen-labs/snotelr,,
 SnowballC,https://github.com/nalimilan/r.temis,SnowballC,
 snowflakeauth,https://github.com/posit-dev/snowflakeauth,,

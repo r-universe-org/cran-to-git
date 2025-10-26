@@ -421,6 +421,12 @@
     "registry": "bioc"
   },
   {
+    "package": "anndataR",
+    "maintainer": "Robrecht Cannoodt <robrecht@data-intuitive.com>",
+    "url": "https://github.com/scverse/anndatar",
+    "registry": "bioc"
+  },
+  {
     "package": "annmap",
     "maintainer": "Chris Wirth <Christopher.Wirth@cruk.manchester.ac.uk>",
     "url": "https://github.com/cruk-mi/annmap",
@@ -2186,6 +2192,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cigarillo",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/cigarillo",
+    "registry": "bioc"
+  },
+  {
     "package": "CIMICE",
     "maintainer": "Nicolò Rossi <olocin.issor@gmail.com>",
     "url": "https://github.com/redsnic/cimice",
@@ -3774,6 +3786,12 @@
     "package": "DrugVsDisease",
     "maintainer": "j. Saez-Rodriguez <saezrodriguez@ebi.ac.uk>",
     "url": "https://git.bioconductor.org/packages/DrugVsDisease",
+    "registry": "bioc"
+  },
+  {
+    "package": "DspikeIn",
+    "maintainer": "Mitra Ghotbi <mitra.ghotbi@gmail.com>",
+    "url": "https://github.com/mghotbi/dspikein",
     "registry": "bioc"
   },
   {
@@ -6471,6 +6489,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iscream",
+    "maintainer": "James Eapen <james.eapen@vai.org>",
+    "url": "https://github.com/huishenlab/iscream",
+    "registry": "bioc"
+  },
+  {
     "package": "iSEE",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/isee",
@@ -8403,6 +8427,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MSstatsResponse",
+    "maintainer": "Sarah Szvetecz <szvetecz.s@northeastern.edu>",
+    "url": "https://github.com/vitek-lab/msstatsresponse",
+    "registry": "bioc"
+  },
+  {
     "package": "MSstatsShiny",
     "maintainer": "Anthony Wu <wu.anthon@northeastern.edu>",
     "url": "https://github.com/vitek-lab/msstatsshiny",
@@ -8958,6 +8988,12 @@
     "package": "omicRexposome",
     "maintainer": "Xavier Escribà Montagut <xavier.escriba@isglobal.org>",
     "url": "https://git.bioconductor.org/packages/omicRexposome",
+    "registry": "bioc"
+  },
+  {
+    "package": "omicsGMF",
+    "maintainer": "Alexandre Segers <alexandresegers@outlook.com>",
+    "url": "https://github.com/statomics/omicsgmf",
     "registry": "bioc"
   },
   {
@@ -13733,7 +13769,7 @@
   },
   {
     "package": "Uniquorn",
-    "maintainer": "'Raik Otto' <raik.otto@hu-berlin.de>",
+    "maintainer": "Raik Otto <raik.otto@hu-berlin.de>",
     "url": "https://git.bioconductor.org/packages/Uniquorn",
     "registry": "bioc"
   },

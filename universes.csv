@@ -604,6 +604,7 @@ anMC,dazzimonti
 ANN2,bflammers
 annaffy,bioc
 anndata,dynverse
+anndataR,bioc
 annmap,bioc
 annmatrix,karoliskoncevicius
 AnnoProbe,jmzeng1314
@@ -3107,6 +3108,7 @@ CIfinder,cran
 ciflyr,mwien
 cifti,muschellij2
 ciftiTools,mandymejia
+cigarillo,bioc
 CIM,patnik
 CIMICE,bioc
 cimir,mkoohafkan
@@ -3795,6 +3797,7 @@ CONFESS,bioc
 confidence,cran
 confidenceCurves,cran
 ConfidenceEllipse,christiangoueguel
+confidenceSim,cran
 config,rstudio
 ConfigParser,hhoeflin
 configr,miachol
@@ -5708,6 +5711,7 @@ dsmSearch,billbillbilly
 DSOpal,datashield
 dsos,vathymut
 dsp,schafert
+DspikeIn,bioc
 dspline,glmgen
 DSpoty,albertoalmuinha
 dsrTest,mnelsonr
@@ -7187,6 +7191,7 @@ ff,truecluster
 ffaframework,rileywheadon
 FFD,r-forge
 FFdownload,sstoeckl
+ffiec,ketchbrookanalytics
 ffmanova,olangsrud
 ffp,reckziegel
 ffpe,bioc
@@ -7554,6 +7559,7 @@ foqat,tianshu129
 ForagingOrg,marcuspirx
 forams,godrigos
 forcats,tidyverse
+ForCausality,toby-codigos
 forceplate,raphaelhartmann
 forceR,pete-s-lab
 forcis,ropensci
@@ -10383,6 +10389,7 @@ imdbapi,cran
 IMEC,cran
 iMediate,cran
 imf.data,pedrobtz
+imfapi,teal-insights
 ImFoR,imiqbal
 imfweo,teal-insights
 imgpalr,leonawicz
@@ -10595,6 +10602,7 @@ integIRTy,cran
 integr,peleplay
 IntegrateBs,cran
 IntegratedJM,cran
+inteli,minqk-acr
 intendo,rich-iannone
 intensegRid,kkulma
 intensitynet,ai4pork
@@ -10804,6 +10812,7 @@ isatabr,biometris
 ISCA,ldrouhot
 ISCO08ConveRsions,nschwitter
 Iscores,missvalteam
+iscream,bioc
 isdals,ekstroem
 isdparser,ropensci-archive
 iSEE,bioc
@@ -11491,6 +11500,7 @@ LassoNet,jstriaukas
 lassopv,lingfeiwang
 LassoSIR,zhaozhg81
 Latamverse,lightbluetitan
+latbias,pierredenelle
 latcontrol,cran
 latdiag,deweyme
 latenetwork,tkhdyanagi
@@ -12111,6 +12121,7 @@ LREP,jiqiaingwu
 lrequire,rickwargo
 lrgs,abmantz
 LRMF3,rohelab
+LRQVB,luluo1999
 lrstat,kaifenglu
 LRTesteR,gmcmacran
 LS2W,eckleyi
@@ -13988,6 +13999,7 @@ MSstatsLOBD,bioc
 MSstatsPTM,bioc
 MSstatsQC,bioc
 MSstatsQCgui,bioc
+MSstatsResponse,bioc
 MSstatsShiny,bioc
 MSstatsTMT,bioc
 MST,pcalhoun1
@@ -15166,6 +15178,7 @@ OmicNavigator,abbvie-external
 omicplotR,bioc
 omicRexposome,bioc
 OmicSense,takakoizumi
+omicsGMF,bioc
 OmicsMLRepoR,bioc
 OMICsPCA,bioc
 OmicsPLS,selbouhaddani-umc
@@ -15695,6 +15708,7 @@ panelhetero,tkhdyanagi
 PanelMatch,insongkim
 panelPomp,jeswheel
 panelr,jacob-long
+PanelSelect,jnpeng
 panelsummary,michaeltopper1
 panelSUR,laurabarbieri
 PanelTM,cran
@@ -16433,7 +16447,7 @@ Planesmuestra,ericksuhel
 planet,bioc
 PlanetNICFI,mlampros
 planets,aljrico
-planningML,vivid225
+planningML,cran
 planr,nguyennico
 planscorer,christopherkenny
 plantecophys,remkoduursma
@@ -20467,6 +20481,7 @@ scoup,bioc
 scout,danielawitten
 scoutbaR,divadnojnarg
 SCOUTer,cran
+scov,m-metodiev
 scp,bioc
 scPCA,bioc
 SCperf,msmarchena
@@ -21490,6 +21505,7 @@ sloop,r-lib
 SLOPE,jolars
 slopes,ropensci
 SLOS,jodamatta
+SlotLim,slotlim
 slouch,kopperud
 slowraker,crew102
 slp,wesleyburr
@@ -21624,6 +21640,7 @@ snfa,tkmckenzie
 SNFtool,cran
 snha,mittelmark
 snifter,bioc
+snirh.lab,lpereira-ue
 snm,bioc
 snn,sunweisurrey
 snotelr,bluegreen-labs
@@ -24300,7 +24317,7 @@ ucie,mikelkou
 ucimlrepo,coatless-rpkg
 uclust,cran
 ucminf,hdakpo
-UComp,cran
+UComp,djpedregal
 UCR.ColumnNames,jacobkap
 UCSC.utils,bioc
 UCSCXenaShiny,openbiox
