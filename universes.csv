@@ -297,6 +297,7 @@ affylmGUI,bioc
 affyPLM,bioc
 AffyRNADegradation,bioc
 AFheritability,cran
+afmpar,philaris
 afmToolkit,cran
 afpt,marcoklh
 AFR,cran
@@ -4361,6 +4362,7 @@ csodata,csoireland
 cspec,cran
 cspp,caleblucas
 csppData,caleblucas
+CspStandSegmentation,julfrey
 csquares,pepijn-devries
 csranks,danielwilhelm
 CSSQ,bioc
@@ -5432,7 +5434,7 @@ dlookr,choonghyunryu
 DLPCA,guangbaog
 dlr,macmillancontentscience
 dlsem,alessandromagrini
-DLSSM,jiakunj
+DLSSM,cran
 dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
@@ -5834,6 +5836,7 @@ dynamicTreeCut,plangfelder
 dynamite,ropensci
 DynaRankR,straussed
 DynareR,sagirumati
+dynaSpec,marce10
 DYNATE,xuechan-li
 dynatop,waternumbers
 dynatopGIS,waternumbers
@@ -5902,6 +5905,7 @@ easylabel,myles-lewis
 easylift,bioc
 EasyMx,mhunter1
 easyNCDF,cran
+easynem,whkygl
 easynls,cran
 easyORtables,neilmhta
 easypackages,jakesherman
@@ -7990,6 +7994,7 @@ gander,simonpcouch
 ganGenerativeData,cran
 GANPA,fang-zhaoyuan
 GANPAdata,fang-zhaoyuan
+ganttify,ahmedaredah
 gap,jinghuazhao
 gap.datasets,jinghuazhao
 GAparsimony,jpison
@@ -9411,6 +9416,7 @@ GUILDS,thijsjanzen
 guiplot,s0521
 Guitar,bioc
 guix.install,bimsbbioinfo
+GulFM,guangbaog
 gumbel,dutangc
 gumboot,kevinshook
 GUniFrac,cran
@@ -9700,6 +9706,7 @@ HERON,bioc
 Herper,bioc
 hesim,hesim-dev
 HEssRNA,bmgfiasri
+hetcorFS,cran
 HeterFunctionalData,hwanggit
 heterocop,ekaterinatomilina
 heterogen,patauchi
@@ -9944,6 +9951,7 @@ hpfilter,cran
 HPiP,bioc
 hpiR,andykrause
 HPLB,lorismichel
+HPZoneAPI,ggdatascience
 HQM,cran
 hqmisc,hugoquene
 hqreg,cy-dev
@@ -10893,6 +10901,7 @@ IssueTrackeR,tanguybarthelemy
 istacr,cran
 istat,elakkkk
 iSTATS,vitor-mendes-iq
+iSTAY,cran
 iSubGen,pboutros
 isva,aet21
 ISwR,pdalgd
@@ -11385,6 +11394,7 @@ kselection,drodriguezperez
 KSgeneral,d-dimitrova
 ksharp,tkonopka
 KSIC,urbanjj
+ksm,lbelzile
 ksNN,keeeeei0315
 KSPM,catherineschramm
 ksrlive,cran
@@ -13657,6 +13667,7 @@ modeltime,business-science
 modeltime.ensemble,business-science
 modeltime.resample,business-science
 modeltools,thothorn
+modeltuning,dmolitor
 modelwordcloud,cran
 moder,lhdjung
 moderate.mediation,cran
@@ -16167,7 +16178,7 @@ PGEE,cran
 pgee.mixed,kaos42
 pgenlibr,chrchang
 pgirmess,pgiraudoux
-pgKDEsphere,cran
+pgKDEsphere,maria-alonsopena
 pglm,ycroissant
 PGM2,mlaib
 pgmm,cran
@@ -16475,6 +16486,7 @@ PlayerRatings,ste6an-hub
 pldamixture,bpriy
 plde,cran
 pleio,sinnweja
+pleioh2g,cran
 pleiotest,feraguate
 pleLMA,carolynanderson
 PLEXI,behnam-yousefi
@@ -19449,6 +19461,7 @@ ROCket,da-zar
 RockFab,cran
 rockr,ymarcon
 rockx,cran
+roclab,gimunbae
 roclang,zhuxr11
 ROCnGO,pablopnc
 rocNIT,marsdu1989
@@ -19771,6 +19784,7 @@ rSDI,ehengirmen
 RSDK,elkhmissi
 rsdmx,eblondel
 rsdNE,ashutoshdalal97
+rSDR,scchen2
 RSE,youhuachen
 rSEA,mitra-ep
 Rsearch,cassandrahjo
@@ -21996,6 +22010,7 @@ spData,nowosad
 spDates,jgregoriods
 spdep,r-spatial
 spdesign,edsandorf
+spdgp,josiahparry
 spdl,eddelbuettel
 spdownscale,cran
 spduration,andybega
@@ -23431,6 +23446,7 @@ thermocouple,cran
 TheseusPlot,hoxo-m
 TheSFACE,amitsasson
 thestats,analyticsresearchlab
+THETASVM,cran
 thgenetics,cran
 thief,robjhyndman
 thinkr,thinkr-open
