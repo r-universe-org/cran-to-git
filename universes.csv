@@ -1397,6 +1397,7 @@ bayespm,kiagiasdim
 bayesPO,guidoamoreira
 bayesPop,hanase
 BayesPostEst,shanascogin
+BayesPower,tkwong3004
 BayesPPD,angieshen6
 BayesPPDSurv,cran
 BayesProject,ghahn-hsph
@@ -5376,7 +5377,7 @@ Distributacalcul,alec42
 distributional,mitchelloharawild
 DistributionIV,aholovchak
 DistributionOptimization,cran
-distributions3,alexpghayes
+distributions3,zeileis
 distributionsrd,ruben0dewitte
 DistributionTest,cuining1
 DistributionUtils,dsco036
@@ -5434,7 +5435,7 @@ dlookr,choonghyunryu
 DLPCA,guangbaog
 dlr,macmillancontentscience
 dlsem,alessandromagrini
-DLSSM,cran
+DLSSM,jiakunj
 dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
@@ -6054,6 +6055,7 @@ eCV,agugonrey
 ed50,mousieur-g
 ed50simulation,raulwangfr
 eda4treeR,myaseen208
+edar,soutomas
 EDASeq,bioc
 EDCimport,danchaltiel
 edcpR,cran
@@ -6889,6 +6891,7 @@ factor.switching,mqbssppe
 factor256,hughparsonage
 FactorAssumptions,storopoli
 FactorCopula,cran
+FactorCopulaModel,cran
 factorH,cran
 FactorHet,mgoplerud
 factorial2x2,ericsleifer
@@ -11623,7 +11626,7 @@ leaflegend,tomroh
 leaflet,rstudio
 leaflet.extras,trafficonese
 leaflet.extras2,trafficonese
-leaflet.minicharts,veroniquerte
+leaflet.minicharts,vargastat
 leaflet.providers,rstudio
 leafletZH,damonsoul
 leafpm,r-spatial
@@ -13264,6 +13267,7 @@ Minirand,mj2149
 minired,jaimesalvador
 miniUI,rstudio
 minMSE,sebastianoschneider
+minorparties,gerckentheodore
 minpack.lm,k-m-m
 minqa,r-forge
 minque,jacks306
@@ -15312,6 +15316,7 @@ opendatatoronto,sharlagelfand
 opendotaR,karigunnarsson
 openEBGM,johnihrie
 openeo,open-eo
+openesm,openesm-project
 openFDA,simpar1471
 opengraph,christopherkenny
 OpEnHiMR,diprosinha
@@ -17134,6 +17139,7 @@ projectR,bioc
 projects,clevelandclinicqhs
 ProjectTemplate,kentonwhite
 projmgr,emilyriederer
+projoint,yhoriuchi
 projpred,stan-dev
 ProliferativeIndex,blasseigne
 prolific.api,simon-lenau
@@ -18341,6 +18347,7 @@ rdcmchecks,r-dcm
 rddapp,felixthoemmes
 rddensity,xinweima
 rddi,dswoulf
+rddtools,bquast
 rde,kloppen
 rDEA,jaak-s
 rdecision,ajsims1704
@@ -20209,6 +20216,7 @@ SampleSizeMeans,cran
 SampleSizeProportions,cran
 SampleSizeSingleArmSurvival,mkhospital
 sampleVADIR,tswanson222
+samplex,cran
 samplezoo,nvietto
 sampling,alinamateikondylis
 SamplingBigData,jlisic
@@ -20579,6 +20587,7 @@ sdamr,mspeekenbrink
 SDAMS,bioc
 SDAR,cran
 SDAResources,cran
+sdbuildR,kcevers
 sdcHierarchies,bernhard-da
 sdcLog,matthiasgomolka
 sdcMicro,sdctools
@@ -22800,6 +22809,7 @@ survAH,mikihoriguchi
 survAUC,fbertran
 survAWKMT2,mikihoriguchi
 survBootOutliers,jonydog
+survC,newjoseph
 survC1,cran
 survClust,bioc
 survcomp,bioc

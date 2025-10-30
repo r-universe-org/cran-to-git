@@ -15,6 +15,11 @@
     "url": "https://github.com/cran/ctv"
   },
   {
+    "package": "distributions3",
+    "maintainer": "Alex Hayes <alexpghayes@gmail.com>",
+    "url": "https://github.com/zeileis/distributions3"
+  },
+  {
     "package": "dynlm",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/cran/dynlm"
