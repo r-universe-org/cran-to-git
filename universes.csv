@@ -555,6 +555,7 @@ AmpliconDuo,anla8000
 AMR,msberends
 amregtest,torstax
 amscorer,amadou-khsow
+amsSim,riccardogozzo
 amt,jmsigner
 amVennDiagram5,stla
 AmyloGram,michbur
@@ -711,7 +712,6 @@ api2lm,jfrench
 APIS,julienrocheigepp
 apisensr,dhaine
 APL,bioc
-apLCMS,cran
 aplore3,lbraglia
 aplot,yulab-smu
 aplotExtra,yulab-smu
@@ -5328,7 +5328,7 @@ dismo,rspatial
 disordR,robinhankin
 disparityfilter,alessandrobessi
 dispeRse,jgregoriods
-dispersionIndicators,cran
+dispersionIndicators,etiennejls
 displease,coolbutuseless
 dispmod,luca-scr
 disposables,gaborcsardi
@@ -9826,6 +9826,7 @@ HIPPO,bioc
 hipread,ipums
 HIREewas,bioc
 HiResTEC,janlisec
+hirisplexr,adhikari-statgen-lab
 hIRT,xiangzhou09
 hisse,thej022214
 HistDat,multimeric
@@ -12650,7 +12651,7 @@ MCL,rforaita
 mclink,liuyanglee
 mclm,masterclm
 mclogit,melff
-mclust,luca-scr
+mclust,cran
 mclustAddons,cran
 mclustcomp,kisungyou
 MCM,jiahui1902
@@ -13413,6 +13414,7 @@ mixvlmc,fabrice-rossi
 mize,jlmelville
 mizer,sizespectrum
 MJMbamlss,alexvolkmann
+mKBO,rensenieuwenhuis
 MKclass,stamats
 mkde,sinkovit
 MKdescr,stamats
@@ -16067,6 +16069,7 @@ pendensity,chrschellhase
 penetrance,bayesmendel
 penfa,egeminiani
 pengls,bioc
+PenguinR,jpablovargas340
 PenIC,yanliu5
 penMSM,hreulen
 penPHcure,a-beretta
@@ -16461,6 +16464,7 @@ plasma,r-forge
 PlasmaMutationDetector,cran
 Plasmidprofiler,thezetner
 plasmut,bioc
+plasso,mcknaus
 plater,ropensci
 platetools,swarchal
 PlatformDesign,cran
@@ -17088,6 +17092,7 @@ ProDenICA,trevorhastie
 prodest,gabrielerovigatti
 prodigenr,rostools
 prodlim,tagteam
+ProduceR,cran
 productivity,ydesjeux
 productplots,hadley
 ProFAST,feiyoung
@@ -20735,6 +20740,7 @@ semPlot,sachaepskamp
 semPower,moshagen
 semptools,sfcheung
 SEMsens,leitewl
+SEMsensitivity,cran
 semsfa,cran
 semTests,jonasmoss
 semTools,simsem
@@ -23048,6 +23054,7 @@ tableHTML,lyzander
 tableMatrix,cran
 TableMonster,cran
 tableone,kaz-yos
+tabler,pachadotdev
 tablerDash,rinterface
 tables,dmurdoch
 tablesgg,rrprf
