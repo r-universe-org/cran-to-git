@@ -1,5 +1,10 @@
 [
   {
+    "package": "btw",
+    "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
+    "url": "https://github.com/posit-dev/btw"
+  },
+  {
     "package": "connectapi",
     "maintainer": "Toph Allen <toph@posit.co>",
     "url": "https://github.com/posit-dev/connectapi"
