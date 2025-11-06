@@ -3632,6 +3632,12 @@
     "registry": "bioc"
   },
   {
+    "package": "dominatR",
+    "maintainer": "Simon Lizarazo <silizarazoch@gmail.com>",
+    "url": "https://github.com/vanbortlelab/dominatr",
+    "registry": "bioc"
+  },
+  {
     "package": "DominoEffect",
     "maintainer": "Marija Buljan <marija.buljan.2@gmail.com>",
     "url": "https://git.bioconductor.org/packages/DominoEffect",
@@ -6777,7 +6783,7 @@
   },
   {
     "package": "lisaClust",
-    "maintainer": "ERROR",
+    "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/lisaclust",
     "registry": "bioc"
   },
@@ -9538,7 +9544,7 @@
   },
   {
     "package": "PLSDAbatch",
-    "maintainer": "ERROR",
+    "maintainer": "Yiwen (Eva) Wang <anjiwangyiwen@gmail.com>",
     "url": "https://github.com/evayiwenwang/plsdabatch",
     "registry": "bioc"
   },
@@ -11170,7 +11176,7 @@
   },
   {
     "package": "SC3",
-    "maintainer": "ERROR",
+    "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/sc3",
     "registry": "bioc"
   },
@@ -11404,7 +11410,7 @@
   },
   {
     "package": "scmap",
-    "maintainer": "ERROR",
+    "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/scmap",
     "registry": "bioc"
   },
@@ -12384,6 +12390,12 @@
     "package": "spicyR",
     "maintainer": "Ellis Patrick <ellis.patrick@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/spicyr",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpiecEasi",
+    "maintainer": "Zachary Kurtz <zdkurtz@gmail.com>",
+    "url": "https://github.com/zdk123/spieceasi",
     "registry": "bioc"
   },
   {

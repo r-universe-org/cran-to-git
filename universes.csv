@@ -92,6 +92,7 @@ Achilles,fdefalco
 acid,cran
 acled.api,chris-dworschak
 acledR,dtacled
+aclhs,vargaslab
 ACME,bioc
 acmgscaler,badonyi
 ACNE,henrikbengtsson
@@ -2929,6 +2930,7 @@ cglasso,luigiaugugliaro
 cglm,arvsjo
 cgmanalysis,timothyvigers
 CGManalyzer,dongxinzheng
+cgmguru,shstat1729
 cgmquantify,cran
 CGNM,cran
 CGP,shanbatr
@@ -5523,6 +5525,7 @@ DoLa,ppagliosa
 doMC,beccadaniel
 Domean,guangbaog
 dominanceanalysis,clbustos
+dominatR,bioc
 domino,nelprin
 DominoDataR,dominodatalab
 DominoEffect,bioc
@@ -6411,6 +6414,7 @@ EpiCurve,iamkdo
 epidata,hrbrmstr
 epidatr,cmu-delphi
 epidecodeR,bioc
+EpidigiR,cran
 EpiDISH,bioc
 epiDisplay,cran
 epidm,alexbhatt
@@ -8481,7 +8485,7 @@ gfiUltra,stla
 GFM,feiyoung
 gfonts,dreamrs
 gfoRmula,causalinference
-gfoRmulaICE,cran
+gfoRmulaICE,liljing
 gFormulaMI,jwb133
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
@@ -10445,7 +10449,6 @@ IMPCdata,bioc
 impectR,cran
 impimp,paul-fink
 implicitExpansion,manuelhentschel
-implicitMeasures,ottaviae
 implied,opisthokonta
 implyr,ianmcook
 import,rticulate
@@ -10608,6 +10611,7 @@ install.load,iembry
 installr,talgalili
 instantiate,wlandau
 instaR,pablobarbera
+insulin.secretion,kstier
 insuranceData,cran
 insurancerating,mharinga
 InsuSensCalc,sufyansuleman
@@ -15124,6 +15128,7 @@ octopusR,moohan
 od,itsleeds
 ODataQuery,cran
 odbc,r-dbi
+odbc.resourcer,obiba
 odbr,hsvab
 oddnet,sevvandi
 odds.converter,marcoblume
@@ -17351,6 +17356,7 @@ pubh,josie-athens
 public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
 PublicationBias,mathurlabstanford
+PublicationBiasBenchmark,fbartos
 publipha,jonasmoss
 Publish,tagteam
 pubmed.mineR,ramuigibnew
@@ -22114,6 +22120,7 @@ spicyR,bioc
 spider,boopsboops
 spiderbar,hrbrmstr
 spidR,cran
+SpiecEasi,bioc
 SPIGA,cran
 spikeLI,bioc
 spikes,cran
@@ -23707,7 +23714,7 @@ tipitaka,dangerzig
 tipmap,boehringer-ingelheim
 tippy,johncoene
 tipr,r-causal
-TiPS,cran
+TiPS,gonchedanesh
 tipsae,cran
 tis,cran
 TissueEnrich,bioc
