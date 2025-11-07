@@ -764,7 +764,7 @@
   },
   {
     "package": "ballgown",
-    "maintainer": "ERROR",
+    "maintainer": "Jack Fu <jmfu@jhsph.edu>",
     "url": "https://github.com/alyssafrazee/ballgown",
     "registry": "bioc"
   },
@@ -2042,7 +2042,7 @@
   },
   {
     "package": "ChIPexoQual",
-    "maintainer": "ERROR",
+    "maintainer": "Rene Welch <welch@stat.wisc.edu>",
     "url": "https://github.com/welch16/chipexoqual",
     "registry": "bioc"
   },
@@ -2589,7 +2589,7 @@
   },
   {
     "package": "consensusOV",
-    "maintainer": "ERROR",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/consensusov",
     "registry": "bioc"
   },
@@ -3201,7 +3201,7 @@
   },
   {
     "package": "deepSNV",
-    "maintainer": "ERROR",
+    "maintainer": "Moritz Gerstung <moritz.gerstung@ebi.ac.uk>",
     "url": "https://git.bioconductor.org/packages/deepSNV",
     "registry": "bioc"
   },
@@ -8355,7 +8355,7 @@
   },
   {
     "package": "MultiDataSet",
-    "maintainer": "Xavier Escribà Montagut <xavier.escriba@isglobal.org>",
+    "maintainer": "Xavier Escrib<c3><a0> Montagut <xavier.escriba@isglobal.org>",
     "url": "https://git.bioconductor.org/packages/MultiDataSet",
     "registry": "bioc"
   },
@@ -10360,7 +10360,7 @@
   },
   {
     "package": "recoup",
-    "maintainer": "ERROR",
+    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/recoup",
     "registry": "bioc"
   },
@@ -10636,7 +10636,7 @@
   },
   {
     "package": "rifiComparative",
-    "maintainer": "ERROR",
+    "maintainer": "Loubna Youssar <lyoussar@gmail.com>",
     "url": "https://github.com/cyanolabfreiburg/rificomparative",
     "registry": "bioc"
   },
