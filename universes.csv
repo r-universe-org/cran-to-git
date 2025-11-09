@@ -1208,7 +1208,7 @@ bangladesh,cran
 Banksy,bioc
 bannerCommenter,billvenables
 banocc,bioc
-BANOVA,cran
+BANOVA,banovaapp
 banter,swfsc
 banxicoR,eflores89
 baorista,ercrema
@@ -1580,7 +1580,7 @@ benchden,thmild
 Benchmarking,larsot23
 benchmarkme,csgillespie
 benchmarkmeData,csgillespie
-benchr,cran
+benchr,artemklevtsov
 BEND,crohlo
 bender,cran
 benford,cran
@@ -4822,6 +4822,7 @@ ddml,thomaswiemann
 ddModel,yxlin
 ddp,weksi-budiaji
 ddpca,cran
+ddpcr,daattali
 ddPCRclust,bioc
 ddplot,feddelegrand7
 DDPM,imranshakoor
@@ -5642,7 +5643,7 @@ drcSeedGerm,onofriandreapg
 drcte,onofriandreapg
 drda,albertopessia
 DRDID,pedrohcgs
-DrDimont,kathbaum
+DrDimont,cran
 DRDRtest,weng-gw
 dream,cran
 dreamer,rich-payne
@@ -7748,6 +7749,7 @@ freqdistributionNogives,harshit-budakoti
 freqdom,cran
 freqdom.fda,cran
 freqparcoord,cran
+freqpcr,sudoms
 FreqProf,aibrt
 freqtables,brad-cannell
 frequency,wilcoxa
@@ -9369,6 +9371,7 @@ GSMX,cran
 GSODR,ropensci
 gson,guangchuangyu
 GSparO,mayhhu
+gspcr,cran
 GSReg,bioc
 GSRI,bioc
 gsrs,cran
@@ -9751,7 +9754,7 @@ hflights,hadley
 hfr,jpfitzinger
 HGC,bioc
 HGDMr,centreforhydrology
-hglasso,cran
+hglasso,keanmingtan
 hglm,cran
 hglm.data,cran
 hgm,nobuki-takayama
@@ -12212,6 +12215,7 @@ LUCIDus,uscbiostats
 ludic,borishejblum
 lue,manidhill0n
 lulab.utils,leslie-lu
+lulcc,simonmoulds
 lumberjack,markvanderloo
 lumi,bioc
 Luminescence,r-lum
@@ -12677,6 +12681,7 @@ mclustcomp,kisungyou
 MCM,jiahui1902
 mcmapper,cran
 mcmc,cran
+MCMC.qpcr,z0on
 MCMC4Extremes,cran
 mcmcderive,poissonconsulting
 mcmcensemble,bisaloo
@@ -17130,7 +17135,7 @@ profileModel,ikosmidis
 profileplyr,bioc
 profileR,cddesja
 profileScoreDist,bioc
-profiplots,cran
+profiplots,matulad
 profmem,henrikbengtsson
 profoc,berrij
 profr,hadley
@@ -17476,6 +17481,7 @@ qcluster,lcorag
 qcmetrics,bioc
 qcoder,ropensci
 qcpm,glamb85
+qcQpcr,alorzadeh
 qcr,mflores72000
 qcrlscR,wanchanglin
 QCSimulator,tvganesh
@@ -17707,7 +17713,7 @@ quickPlot,predictiveecology
 quickpsy,danilinares
 quickPWCR,billbillbilly
 quickr,t-kalinowski
-quickReg,cran
+quickReg,han-xikun
 quickregression,darshan-maniyar
 quicR,gage1145
 QuICSeedR,cran
@@ -19973,6 +19979,7 @@ rtop,jskoien
 RTopper,bioc
 rTPC,padpadpadpad
 Rtpca,bioc
+rtpcr,mirzaghaderi
 Rtrack,rupertoverall
 rtracklayer,bioc
 RTransferEntropy,bzpaper
@@ -20945,7 +20952,7 @@ sgolay,zeehio
 SGP,centerforassessment
 SGPdata,centerforassessment
 sgplot,scotgovanalysis
-sgPLS,cran
+sgPLS,benoit-liquet
 SGPR,gregorbuch
 sgpv,weltybiostat
 sgr,masspastore
@@ -22019,6 +22026,7 @@ spconf,kpkeller
 spcosa,cran
 spcov,jacobbien
 spCP,berchuck
+spcr,cran
 spd,alexiosg
 spData,nowosad
 spDates,jgregoriods
@@ -23534,7 +23542,7 @@ tidydfidx,ycroissant
 tidydice,rolkra
 tidydr,yulab-smu
 tidyedgar,gerardgimenezadsuar
-tidyEdSurvey,cran
+tidyEdSurvey,blue-webb
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
 tidyfast,tysonstanley
@@ -24359,7 +24367,7 @@ UCR.ColumnNames,jacobkap
 UCSC.utils,bioc
 UCSCXenaShiny,openbiox
 UCSCXenaTools,ropensci
-ucsfindustrydocs,cran
+ucsfindustrydocs,rolrodr
 UdderQuarterInfectionData,lduchate
 udpipe,bnosac
 udunits2,pacificclimate

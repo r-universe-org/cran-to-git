@@ -1,7 +1,12 @@
 [
   {
     "package": "MBSGS",
-    "maintainer": "Benoit Liquet <benoit.liquet@qut.edu.au>",
+    "maintainer": "Benoit Liquet <benoit.liquet@univ-pau.fr>",
     "url": "https://github.com/cran/MBSGS"
+  },
+  {
+    "package": "sgPLS",
+    "maintainer": "Benoit Liquet <benoit.liquet@univ-pau.fr>",
+    "url": "https://github.com/cran/sgPLS"
   }
 ]
