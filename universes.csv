@@ -5056,7 +5056,6 @@ Design.parameters,cran
 designer,ashbaldry
 designit,bedapub
 DesignLibrary,declaredesign
-designmatch,cran
 designr,mmrabe
 designsize,atanubhattacharjee
 DEsingle,bioc
@@ -7213,6 +7212,7 @@ ffaframework,rileywheadon
 FFD,r-forge
 FFdownload,sstoeckl
 ffiec,ketchbrookanalytics
+ffm,jslth
 ffmanova,olangsrud
 ffp,reckziegel
 ffpe,bioc
@@ -7873,6 +7873,7 @@ FunSurv,zifangkong
 FUNTA,cran
 funtimes,vlyubchich
 funtooNorm,bioc
+funviewR,deamonpog
 FunWithNumbers,cran
 furniture,tysonstanley
 furrr,futureverse
@@ -7911,7 +7912,7 @@ FuzzyNumbers.Ext.2,cran
 FuzzyPovertyR,airdede
 FuzzyQ,ligophorus
 FuzzyR,cran
-fuzzyRankTests,cjgeyer
+fuzzyRankTests,cran
 FuzzyResampling,mroman-ibs
 fuzzySim,r-forge
 FuzzySimRes,mroman-ibs
@@ -11893,8 +11894,8 @@ littler,eddelbuettel
 liureg,itfeature
 live,modeloriented
 liver,rezamoammadi
-LJexm,decard-5673
-LJmp3converter,decard-5673
+LJexm,lijin-5673
+LJmp3converter,lijin-5673
 ljr,cran
 LKT,optimal-learning-lab
 llama,larskotthoff
@@ -14496,6 +14497,7 @@ nearBynding,bioc
 nearfar,joerigdon
 neat,m-signo
 neatmaps,philboileau
+neatR,dswithai
 neatRanges,arg0naut91
 neatStats,gasparl
 nebula,lhe17
@@ -14934,6 +14936,7 @@ NoviceDeveloperResources,barryzee
 NoviceDeveloperResources2,barryzee
 noweb,cran
 np,jeffreyracine
+npANCOVA,mina7jahangiri7
 nparACT,christineblume
 NPARC,bioc
 nparcomp,kerstinrubarth
@@ -16309,6 +16312,7 @@ photosynthesis,cdmuir
 photosynthesisLRC,heliotropichuman
 phrases,sumanstats
 phruta,ropensci
+phscs,yng-me
 phsmethods,public-health-scotland
 PHSMM,cran
 phsopendata,public-health-scotland
@@ -17659,7 +17663,7 @@ quanteda.textstats,quanteda
 QuAnTeTrack,macrofunuv
 quantification,jsugarelli
 quantileDA,viroli
-QuantileGH,cran
+QuantileGH,tingtingzhan
 QuantileGradeR,king-county-restaurant-grading
 QuantileNPCI,yan16
 QuantilePeer,ahoundetoungan
@@ -21063,6 +21067,7 @@ shinyDTC,sigbertklinke
 shinyEffects,rinterface
 shinyepico,bioc
 shinyExprPortal,c4tb
+shinyfa,dalyanalytics
 shinyFeedback,merlinoa
 shinyFiles,thomasp85
 shinyfilter,jsugarelli
@@ -21105,6 +21110,7 @@ shinymrp,mrp-interface
 shinyNextUI,rinterface
 shinyNORRRM,therfrog
 shinyNotes,danielkovtun
+shinyOAuth,lukakoning
 shinyobjects,rjake
 shinypanel,alexvpickering
 shinypanels,datasketch
@@ -24173,6 +24179,7 @@ tsfeatures,robjhyndman
 tsfgrnn,franciscomartinezdelrio
 tsfknn,franciscomartinezdelrio
 tsfngm,cran
+tsg,yng-me
 tsgarch,tsmodels
 tsgc,craig-pt
 TSGS,sudhirsrivastava
