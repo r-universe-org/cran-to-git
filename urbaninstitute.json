@@ -3,5 +3,10 @@
     "package": "educationdata",
     "maintainer": "Erika Tyagi <etyagi@urban.org>",
     "url": "https://github.com/urbaninstitute/education-data-package-r"
+  },
+  {
+    "package": "tidysynthesis",
+    "maintainer": "Aaron R. Williams <awilliams@urban.org>",
+    "url": "https://github.com/urbaninstitute/tidysynthesis"
   }
 ]

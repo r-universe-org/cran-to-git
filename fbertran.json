@@ -10,6 +10,11 @@
     "url": "https://github.com/fbertran/bigpcacpp"
   },
   {
+    "package": "bigPLScox",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
+    "url": "https://github.com/fbertran/bigplscox"
+  },
+  {
     "package": "BioStatR",
     "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
     "url": "https://github.com/fbertran/biostatr"
@@ -123,6 +128,11 @@
     "package": "SelectBoost",
     "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
     "url": "https://github.com/fbertran/selectboost"
+  },
+  {
+    "package": "SelectBoost.beta",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
+    "url": "https://github.com/fbertran/selectboost.beta"
   },
   {
     "package": "survAUC",

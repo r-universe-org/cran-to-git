@@ -1,5 +1,10 @@
 [
   {
+    "package": "eve",
+    "maintainer": "Doulaye Dembele <doulaye@igbmc.fr>",
+    "url": "https://github.com/cran/eve"
+  },
+  {
     "package": "fcros",
     "maintainer": "Doulaye Dembele <doulaye@igbmc.fr>",
     "url": "https://github.com/cran/fcros"
