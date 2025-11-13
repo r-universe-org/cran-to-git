@@ -6644,6 +6644,12 @@
     "registry": "bioc"
   },
   {
+    "package": "LACHESIS",
+    "maintainer": "Verena Körber <verena.korber@ndcls.ox.ac.uk>",
+    "url": "https://github.com/verenak90/lachesis",
+    "registry": "bioc"
+  },
+  {
     "package": "LBE",
     "maintainer": "Cyril Dalmasso <cyril.dalmasso@univ-evry.fr>",
     "url": "https://git.bioconductor.org/packages/LBE",
@@ -6659,6 +6665,12 @@
     "package": "LEA",
     "maintainer": "Olivier Francois <olivier.francois@grenoble-inp.fr>",
     "url": "https://git.bioconductor.org/packages/LEA",
+    "registry": "bioc"
+  },
+  {
+    "package": "leapR",
+    "maintainer": "Sara Gosline <sara.gosline@pnnl.gov>",
+    "url": "https://git.bioconductor.org/packages/leapR",
     "registry": "bioc"
   },
   {

@@ -1,5 +1,10 @@
 [
   {
+    "package": "DiceOptim",
+    "maintainer": "Mickael Binois <mickael.binois@inria.fr>",
+    "url": "https://github.com/cran/DiceOptim"
+  },
+  {
     "package": "GPareto",
     "maintainer": "Mickael Binois <mickael.binois@inria.fr>",
     "url": "https://github.com/mbinois/gpareto"
