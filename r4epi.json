@@ -5,8 +5,18 @@
     "url": "https://github.com/r4epi/apyramid"
   },
   {
+    "package": "epidict",
+    "maintainer": "Alexander Spina <aspina@appliedepi.org>",
+    "url": "https://github.com/r4epi/epidict"
+  },
+  {
     "package": "epikit",
     "maintainer": "Alexander Spina <aspina@appliedepi.org>",
     "url": "https://github.com/r4epi/epikit"
+  },
+  {
+    "package": "epitabulate",
+    "maintainer": "Alexander Spina <aspina@appliedepi.org>",
+    "url": "https://github.com/r4epi/epitabulate"
   }
 ]

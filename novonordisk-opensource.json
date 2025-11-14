@@ -1,5 +1,10 @@
 [
   {
+    "package": "carts",
+    "maintainer": "Benedikt Sommer <benediktsommer92@gmail.com>",
+    "url": "https://github.com/novonordisk-opensource/carts"
+  },
+  {
     "package": "connector",
     "maintainer": "Cervan Girard <cgid@novonordisk.com>",
     "url": "https://github.com/novonordisk-opensource/connector"

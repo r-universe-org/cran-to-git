@@ -1902,6 +1902,7 @@ biospear,stefanmichielsgr
 biostat3,mclements
 Biostatistics,rjknell
 BioStatR,fbertran
+biostats,sebasquirarte
 biostats101,cran
 BiostatsUHNplus,tylerpittman
 Biostrings,bioc
@@ -2616,6 +2617,7 @@ cartogramR,pierre-andre
 cartographer,cidm-ph
 cartographr,da-wi
 cartography,riatelab
+carts,novonordisk-opensource
 Cascade,fbertran
 CascadeData,fbertran
 cascadeSelect,stla
@@ -2662,7 +2664,7 @@ catmap,tpq
 catmaply,verkehrsbetriebezuerich
 catool,dawit3000
 caTools,coffeemuggler
-CatPredi,ibarrioberaza
+CatPredi,cran
 catR,huacheng1985
 CatReg,cran
 catregs,dmmelamed
@@ -3219,6 +3221,7 @@ classmap,jakobraymaekers
 CLAST,chrislloyd58
 clayringsmiletus,lsteinmann
 clc,josesamos
+cld,gegznav
 cld2,ropensci
 cld3,ropensci
 clda,groverusp
@@ -6425,6 +6428,7 @@ EpiCurve,iamkdo
 epidata,hrbrmstr
 epidatr,cmu-delphi
 epidecodeR,bioc
+epidict,r4epi
 EpidigiR,cran
 EpiDISH,bioc
 epiDisplay,cran
@@ -6471,6 +6475,7 @@ epistasisGA,bioc
 EpiStats,loremerdrignac
 EpistemicGameTheory,bilgeob
 epitab,stulacy
+epitabulate,r4epi
 EpiTest,simonrio
 epitools,cran
 epitraxr,epiforesite
@@ -8718,6 +8723,7 @@ ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
+ggsmc,richardgeveritt
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
 ggsom,oldlipe
@@ -8856,6 +8862,7 @@ GK2011,leeper
 gkgraphR,racorreia
 gkmSVM,mbeer3
 gKRLS,mgoplerud
+gkwdist,evandeilton
 gkwreg,evandeilton
 GLAD,bioc
 GladiaTOX,bioc
@@ -9417,6 +9424,7 @@ gte,thierduch
 GTEs,yzhou1999
 gTests,cran
 gTestsMulti,cran
+gTestsPair,cran
 gtexr,ropensci
 gtExtras,jthomasmock
 gtexture,rbarkerclarke
@@ -12687,6 +12695,7 @@ mccf1,kirin666
 mcclust,cran
 MCCM,encoreus
 mccmeiv,chrismattstat
+mccount,kennethataylor
 mccr,cran
 MCDA,paterijk
 mcemGLM,acosta-stat
@@ -14775,6 +14784,7 @@ nlme,cran
 nlmeU,agalecki
 nlmeVPC,ek-lee
 nlmixr2,nlmixr2
+nlmixr2autoinit,ucl-pharmacometrics
 nlmixr2data,nlmixr2
 nlmixr2est,nlmixr2
 nlmixr2extra,nlmixr2
@@ -17292,6 +17302,7 @@ psbcGroup,cran
 psbcSpeedUp,ocbe-uio
 psborrow,gravesti
 psborrow2,genentech
+psc,richjjackson
 PSCBS,henrikbengtsson
 pscl,atahk
 pscore,jwiley
@@ -17332,6 +17343,7 @@ pspline,cran
 PSPManalysis,amderoos
 PSpower,laubok
 psqn,boennecd
+PSRICalc,rfeissiv
 PSS.Health,cran
 PSSIM,hwanggit
 PSSMCOOL,biocool-lab
@@ -18939,7 +18951,7 @@ RFplus,jonnathan-landi
 RFPM,cran
 rfPred,bioc
 Rfractran,cran
-rfriend,cran
+rfriend,delde001
 rFSA,joshuawlambert
 Rfssa,haghbinh
 Rfuzzycoco,lonza-rnd-data-science
@@ -22348,6 +22360,7 @@ ss3sim,ss3sim
 ssaBSS,cran
 SSAforecast,rrk4910
 ssanv,michaelfay-niaid
+Ssarkartrim,cran
 ssarp,ropensci
 SSBtools,statisticsnorway
 ssc,mabelc
@@ -23903,7 +23916,7 @@ TOU,cran
 touch,wenjie2wang
 touRnamentofchampions,celevitz
 tourr,ggobi
-tout,dtwilson
+tout,lictr
 tower,ixpantia
 toweranNA,matloff
 ToxCrit,cran
@@ -23996,6 +24009,7 @@ transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
 transfR,albandelavenne
+transGFM,wzjwangzhijing
 TransGraph,cran
 transite,bioc
 Transition,mark-eis
@@ -24481,6 +24495,7 @@ UniExactFunTest,cran
 unifDAG,mk314199
 unifed,cran
 UnifiedDoseFinding,cran
+unifiedml,techtonique
 unifiedWMWqPCR,bioc
 unifir,ropensci
 uniformly,stla
@@ -25487,6 +25502,7 @@ xwf,willemvandenboom
 xxdi,nilabhrardas
 xxhashlite,coolbutuseless
 xxIRT,xluo11
+XYomics,eglaab
 yacca,cran
 yaConsensus,stefanomp
 yager,statcompute
