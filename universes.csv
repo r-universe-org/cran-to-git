@@ -658,7 +658,6 @@ anticlust,m-py
 antiProfiles,bioc
 antitrust,luciu5
 antiword,ropensci
-AntMAN,bbodin
 AnVIL,bioc
 AnVILAz,bioc
 AnVILBase,bioc
@@ -1417,7 +1416,6 @@ BayesRegDTR,jlimrasc
 Bayesrel,juliuspfadt
 BayesRep,samch93
 BayesRepDesign,samch93
-BayesReversePLLH,cran
 BayesRGMM,cran
 bayesROE,waidschrat
 BayesRS,mirkoth
@@ -1541,7 +1539,6 @@ BeadDataPackR,bioc
 beadplexr,ustervbo
 beakr,mazamascience
 beam,gleday
-BEAMR,annaseffernick
 beanplot,cran
 beans,topepo
 beanz,cran
@@ -1939,7 +1936,6 @@ BISdata,enricoschumann
 BiSEp,cran
 BiSeq,bioc
 bispdep,carlosm77
-bisque,jmhewitt
 BisRNA,carinelegrand
 bistablehistory,alexander-pastukhov
 bit,r-lib
@@ -4013,7 +4009,6 @@ corpustools,kasperwelbers
 corr2D,clacor
 corral,bioc
 CorrBin,anikoszabo
-corrcoverage,annahutch
 corrDNA,prabinameher
 correctedAUC,weiliangqiu
 CorrectedFDR,cran
@@ -4809,7 +4804,6 @@ dcorVS,cran
 dcov,cran
 dCovTS,cran
 DCPO,fsolt
-DCSmooth,bastian-schaefer
 dcsvm,boxiang-wang
 dcTensor,rikenbit
 dCUR,cgamboasanabria
@@ -5101,7 +5095,7 @@ deTS,guangshengpei
 detzrcr,magnuskristoffersen
 devEMF,plfjohnson
 devFunc,robin-vo
-devianLM,gsauli42
+devianLM,cran
 devoid,r-lib
 Devore7,jverzani
 devRate,frareb
@@ -6965,7 +6959,6 @@ familial,ryan-thompson
 familiar,alexzwanenburg
 Familias,thoree
 Families,willekens
-FamilyRank,cran
 FAmle,tpetzoldt
 FAMoS,gabelhub
 famSKATRC,kkunji
@@ -7132,7 +7125,6 @@ fcp,xiaoran831213
 FCPS,mthrun
 fcros,doulaye
 fcScan,bioc
-fctbases,naolsen
 fctutils,guokai8
 fcuk,thinkr-open
 FCUSUM,zedtaha
@@ -7543,7 +7535,6 @@ fma,robjhyndman
 FMAdist,cran
 FMAT,psychbruce
 FMC,jiyosunny
-FMCCSD,cran
 fmcmc,uscbiostats
 fmcsR,bioc
 fmds,busingfmta
@@ -9629,7 +9620,6 @@ hdar,eea
 hdbayes,ethan-alt
 hdbcp,jaehoonkim98
 hdbinseg,haeran-cho
-hdbm,cran
 hdbma,qingzhaoyu
 HDBRR,castlemon
 hdcate,cran
@@ -9905,7 +9895,6 @@ hlidacr,skvrnami
 HLMdiag,aloy
 HLSM,tmsweet
 hlt,mkleinsa
-HMB,cran
 HMC,cran
 hmcdm,tmsalab
 hmclearn,sthomas522
@@ -10406,7 +10395,6 @@ ILRCM,atanubhattacharjee
 ILS,mflores72000
 ILSAmerge,dopatendo
 ILSAstats,cran
-ILSE,feiyoung
 ILSM,weichengsun
 imabc,c-rutter
 image.binarization,digi-vub
@@ -11849,7 +11837,6 @@ lin.eval,vishesh-shrivastav
 linbin,ezwelty
 LinCal,cran
 lincom,cran
-linconGaussR,yunyishen
 LindenmayeR,bryanhanson
 lindia,yeukyul
 LindleyPowerSeries,tragedybmc127
@@ -12035,7 +12022,6 @@ locuszoomr,myles-lewis
 loder,jonclayden
 lodGWAS,imnolte73
 lodi,umich-cphds
-lodr,kmdono02
 loedata,cran
 loewesadditivity,skgallagher
 lofifonts,coolbutuseless
@@ -12436,7 +12422,6 @@ mapindia,shubhamdutta26
 mapindiatools,shubhamdutta26
 Mapinguari,gabrielhoc
 mapiso,riatelab
-MAPITR,mturchin20
 maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmetadata,ropensci
@@ -12904,7 +12889,6 @@ MERO,mohmedsoudy
 merror,rabilon
 merTools,jknowles
 MeSHDbi,bioc
-meshed,mkln
 meshes,bioc
 meshr,bioc
 MesKit,bioc
@@ -14588,7 +14572,6 @@ netassoc,bblonder
 netboost,bioc
 netClust,cran
 NetCluster,cran
-netcmc,cran
 netCoin,modesto-escobar
 netcom,langendorfr
 netcontrol,daklor
@@ -19489,7 +19472,6 @@ robustbetareg,ffqueiroz
 RobustBF,cran
 robustBLME,erlisr
 RobustCalibration,uncertaintyquantification
-robustcov,yunyishen
 robustDA,cran
 robusTest,obouaziz
 robustETM,chuanhong
@@ -19546,7 +19528,6 @@ ROCS,cran
 ROCSI,cran
 ROCsurf,ertansu
 rocsvm.path,cran
-rocTree,stc04003
 RODBC,cran
 RODBCDBI,teramonagi
 rodd,romanguchenko
@@ -20729,7 +20710,6 @@ seededlda,koheiw
 SeedImbibition,cran
 SeedMaker,hdhshowalter
 seedr,efernandezpascual
-seedreg,cran
 SeedVigorIndex,cran
 seekr,smartiing
 seer,thiyangt
@@ -21238,7 +21218,7 @@ SIAmodules,patriciamar
 SIAtools,cran
 SIBER,andrewljackson
 SIBERG,cran
-sicegar,wilkelab
+sicegar,hardin47
 siconvr,meirelesff
 SICtools,bioc
 sicure,cran
@@ -22421,7 +22401,6 @@ SSRMST,mikihoriguchi
 ssrn,uribo
 SSRTcalc,agleontyev
 sss,andrie
-sssc,lethargy608
 SSsimple,davezes
 Sstack,klmatlock
 sstn,cran
@@ -23326,7 +23305,6 @@ tehtuner,jackmwolf
 teigen,its-likeli-jeff
 Tejapi,tejapi
 TEKRABber,bioc
-telefit,jmhewitt
 telegram,lbraglia
 telegram.bot,ebeneditos
 telemetR,tspaulding-esa
@@ -24075,7 +24053,6 @@ treekoR,bioc
 treemap,mtennekes
 treemapify,wilkox
 TreeMineR,entjos
-treenomial,gouldmatt
 TreeOrderTests,subhahalder-spec
 treePlotArea,fvafrcu
 TreeRingShape,ishidamgm
@@ -24618,7 +24595,6 @@ utile.tables,efinite
 utile.tools,efinite
 utile.visuals,efinite
 utility,peterreichert
-UtilityFrailtyPH12,cran
 utilityFunctionTools,sebastianoschneider
 utilsIPEA,ipea
 utsf,franciscomartinezdelrio
@@ -24671,7 +24647,6 @@ vandalico,ajimenezvalverde
 vangogh,cherylisabella
 VanillaICE,bioc
 vannstats,cran
-vanquish,lethargy608
 vapour,hypertidy
 VAR.etp,jh8080
 VAR.spec,cran

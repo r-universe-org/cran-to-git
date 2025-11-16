@@ -381,7 +381,6 @@ anticlust,https://github.com/m-py/anticlust,,
 antiProfiles,https://github.com/hcbravolab/antiprofiles,,bioc
 antitrust,https://github.com/luciu5/antitrust,,
 antiword,https://github.com/ropensci/antiword,,
-AntMAN,https://github.com/bbodin/antman,AntMAN,archived
 AnVILAz,https://github.com/bioconductor/anvilaz,,bioc
 AnVILBase,https://github.com/bioconductor/anvilbase,,bioc
 AnVILBilling,https://github.com/vjcitn/anvilbilling,,bioc
@@ -934,7 +933,6 @@ beachmat.tiledb,https://github.com/tatami-inc/beachmat.tiledb,,bioc
 beadplexr,https://gitlab.com/ustervbo/beadplexr,,
 beakr,https://github.com/mazamascience/beakr,,
 beam,https://github.com/gleday/beam,,
-BEAMR,https://github.com/annaseffernick/beamr,,archived
 beans,https://github.com/topepo/beans,,
 beastier,https://github.com/ropensci/beastier,,
 BeastJar,https://github.com/beast-dev/beastjar,,
@@ -1175,7 +1173,6 @@ biscale,https://github.com/chris-prener/biscale,,
 biscuiteer,https://github.com/trichelab/biscuiteer,,bioc
 BISdata,https://github.com/enricoschumann/bisdata,,
 bispdep,https://github.com/carlosm77/bispdep,,
-bisque,https://github.com/jmhewitt/bisque,,archived
 bistablehistory,https://github.com/alexander-pastukhov/bistablehistory,,
 bit,https://github.com/r-lib/bit,,
 bit64,https://github.com/r-lib/bit64,,
@@ -2462,7 +2459,6 @@ CoRpower,https://github.com/mjuraska/corpower,,
 corpustools,https://github.com/kasperwelbers/corpustools,,
 corr2D,https://github.com/clacor/corr2d,,
 CorrBin,https://github.com/anikoszabo/corrbin,,
-corrcoverage,https://github.com/annahutch/corrcoverage,,archived
 CorrectOverloadedPeaks,https://github.com/janlisec/correctoverloadedpeaks,,
 correctR,https://github.com/hendersontrent/correctr,,
 correlatio,https://github.com/mmiche/correlatio,,
@@ -4422,7 +4418,6 @@ fcl,https://github.com/shrektan/fcl,,
 FCO,https://github.com/thomasniemand/fco,FCO,
 fcp,https://github.com/xiaoran831213/r_fun_comp,,
 FCPS,https://github.com/mthrun/fcps,,
-fctbases,https://github.com/naolsen/fctbases,,archived
 fctutils,https://github.com/guokai8/fctutils,,
 fcuk,https://github.com/thinkr-open/fcuk,,
 FCUSUM,https://github.com/zedtaha/fcusum,,
@@ -4443,7 +4438,7 @@ fdasrvf,https://github.com/jdtuck/fdasrvf_r,,
 FDboost,https://github.com/boost-r/fdboost,,
 fddm,https://github.com/rtdists/fddm,,
 fdicdata,https://github.com/visbanking/fdicdata,,archived
-fDMA,https://github.com/kdrachal/fdma,,archived
+fDMA,https://github.com/kdrachal/fdma,,
 fdp,https://github.com/louisaslett/fdp,,
 FDRestimation,https://github.com/murraymegan/fdrestimation,,
 fdth,https://github.com/jcfaria/fdth,,
@@ -6027,7 +6022,7 @@ HDNRA,https://github.com/nie23wp8738/hdnra,,
 hdpGLM,https://github.com/diogoferrari/hdpglm,,
 hdrcde,https://github.com/robjhyndman/hdrcde,,
 hds,https://github.com/liangcj/hds,,
-HDShOP,https://github.com/otryakhin-dmitry/global-minimum-variance-portfolio,,
+HDShOP,https://github.com/otryakhin-dmitry/high-dimensional-shrinkage-optimal-portfolios,,
 HDSinRdata,https://github.com/alicepaul/hdsinrdata,,
 HDStIM,https://github.com/niaid/hdstim,,
 HDTD,https://github.com/anestistouloumis/hdtd,,bioc
@@ -6456,7 +6451,6 @@ illuminaio,https://github.com/henrikbengtsson/illuminaio,,bioc
 ILoReg,https://github.com/elolab/iloreg,,bioc
 ILS,https://github.com/mflores72000/ils,,
 ILSAmerge,https://github.com/dopatendo/ilsamerge,,
-ILSE,https://github.com/feiyoung/ilse,,archived
 ILSM,https://github.com/weichengsun/ilsm,,
 imabc,https://github.com/c-rutter/imabc,,
 image.binarization,https://github.com/digi-vub/image.binarization,,
@@ -7348,7 +7342,6 @@ LimROTS,https://github.com/aliyoussef96/limrots,,bioc
 limSolve,https://github.com/karlines/limsolve,,
 lin.eval,https://github.com/vishesh-shrivastav/lin.eval,,
 linbin,https://github.com/ezwelty/linbin,,
-linconGaussR,https://github.com/yunyishen/lincongaussr,,archived
 LindenmayeR,https://github.com/bryanhanson/lindenmayer,,
 lindia,https://github.com/yeukyul/lindia,,
 lineagespot,https://github.com/biodataanalysisgroup/lineagespot,,bioc
@@ -7712,7 +7705,6 @@ mapindia,https://github.com/shubhamdutta26/mapindia,,
 mapindiatools,https://github.com/shubhamdutta26/mapindiatools,,
 Mapinguari,https://github.com/gabrielhoc/mapinguari,,
 mapiso,https://github.com/riatelab/mapiso,,
-MAPITR,https://github.com/mturchin20/mapitr,,archived
 maplegend,https://github.com/riatelab/maplegend,,
 mapme.biodiversity,https://github.com/mapme-initiative/mapme.biodiversity,,
 mapmixture,https://github.com/tom-jenkins/mapmixture,,
@@ -7800,7 +7792,7 @@ matlib,https://github.com/friendly/matlib,,
 matricks,https://github.com/krzjoa/matricks,,
 Matrix,https://github.com/r-forge/matrix,pkg/Matrix,
 matrixcalc,https://github.com/tomkellygenetics/matrixcalc,,
-matrixCorr,https://github.com/prof-thiagooliveira/matrixcorr,,archived
+matrixCorr,https://github.com/prof-thiagooliveira/matrixcorr,,
 MatrixCorrelation,https://github.com/khliland/matrixcorrelation,,
 matrixdist,https://github.com/martinbladt/matrixdist_1.0,,
 MatrixEQTL,https://github.com/andreyshabalin/matrixeqtl,,
@@ -7983,7 +7975,6 @@ merDeriv,https://github.com/nctingwang/merderiv,,
 mergen,https://github.com/bimsbbioinfo/mergen,,
 mergeTrees,https://github.com/audreh/mergetrees,,
 merTools,https://github.com/jknowles/mertools,,
-meshed,https://github.com/mkln/meshed,,archived
 meshes,https://github.com/yulab-smu/meshes,,bioc
 meshr,https://github.com/rikenbit/meshr,,bioc
 mesonet,https://github.com/palderman/mesonet,,
@@ -10737,6 +10728,7 @@ psp,https://github.com/lenarddome/psp,,
 pspatreg,https://github.com/rominsal/pspatreg,,
 PSpower,https://github.com/laubok/pspower,,
 psqn,https://github.com/boennecd/psqn,,
+PSRICalc,https://github.com/rfeissiv/psricalc,,
 PSSMCOOL,https://github.com/biocool-lab/pssmcool,,
 pssmooth,https://github.com/mjuraska/pssmooth,,
 psSubpathway,https://github.com/hanjunwei-lab/pssubpathway,,
@@ -12173,7 +12165,6 @@ robust2sls,https://github.com/jkurle/robust2sls,,
 robustarima,https://github.com/spkaluzny/robustarima,,
 robustbase,https://github.com/r-forge/robustbase,pkg/robustbase,
 robustBLME,https://github.com/erlisr/robustblme,,
-robustcov,https://github.com/yunyishen/robustcov,,archived
 robusTest,https://github.com/obouaziz/robustest,,
 robustfa,https://github.com/fbertran/robustfa,,
 robustGarch,https://github.com/echorliu/robustgarch,,
@@ -12200,7 +12191,6 @@ ROCpAI,https://github.com/juanpegarcia/rocpai,,bioc
 ROCR,https://github.com/ipa-tys/rocr,,
 rocrateR,https://github.com/researchobject/ro-crate-r,,
 ROCsurf,https://github.com/ertansu/rocsurf,,
-rocTree,https://github.com/stc04003/roctree,,archived
 RODBCDBI,https://github.com/teramonagi/rodbcdbi,,
 rODE,https://github.com/f0nzie/rode,,
 rodeo,https://github.com/dkneis/rodeo,,
@@ -13323,7 +13313,7 @@ ShrinkCovMat,https://github.com/anestistouloumis/shrinkcovmat,,
 shrinkGPR,https://github.com/neferkareii/shrinkgpr,,
 SHT,https://github.com/kisungyou/sht,,
 SIBER,https://github.com/andrewljackson/siber,,
-sicegar,https://github.com/wilkelab/sicegar,,
+sicegar,https://github.com/hardin47/sicegar,,
 siconvr,https://github.com/meirelesff/siconvr,,
 SID,https://github.com/fkgruber/sid_cran,,
 sidra,https://github.com/rodrigoesborges/sidra,,archived
@@ -14649,7 +14639,6 @@ tectonicr,https://github.com/tobiste/tectonicr,,
 tEDM,https://github.com/stscl/tedm,,
 tehtuner,https://github.com/jackmwolf/tehtuner,,
 TEKRABber,https://github.com/ferygood/tekrabber,,bioc
-telefit,https://github.com/jmhewitt/telefit,,archived
 telegram,https://github.com/lbraglia/telegram,,
 telegram.bot,https://github.com/ebeneditos/telegram.bot,,
 telemetR,https://github.com/tspaulding-esa/telemetr,,
@@ -15191,7 +15180,6 @@ treeheatr,https://github.com/trangdata/treeheatr,,
 treeio,https://github.com/yulab-smu/treeio,,bioc
 treemapify,https://github.com/wilkox/treemapify,,
 TreeMineR,https://github.com/entjos/treeminer,,
-treenomial,https://github.com/gouldmatt/treenomial,,archived
 TreeOrderTests,https://github.com/subhahalder-spec/treeordertests,,
 treePlotArea,https://gitlab.com/fvafrcu/treeplotarea,,
 TreeRingShape,https://github.com/ishidamgm/treeringshape,,
