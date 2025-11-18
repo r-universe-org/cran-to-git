@@ -3,5 +3,10 @@
     "package": "BIDistances",
     "maintainer": "Quirin Stier <Quirin_Stier@gmx.de>",
     "url": "https://github.com/cran/BIDistances"
+  },
+  {
+    "package": "GeneralizedUmatrixGPU",
+    "maintainer": "Quirin Stier <Quirin_Stier@gmx.de>",
+    "url": "https://github.com/quirinms/generalizedumatrixgpu"
   }
 ]

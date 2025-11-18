@@ -1757,6 +1757,7 @@ billboard,mikkelkrogsholm
 billboarder,dreamrs
 bimets,andrea-luciani
 BimodalIndex,cran
+bin2norm,cran
 binancer,daroczig
 Binarize,hkestler
 BinarybalancedCut,navinkumarnedunchezhian
@@ -2624,6 +2625,7 @@ CaseBasedReasoning,sipemu
 CaseCohortCoxSurvival,etievant
 caseMatch,nielsenrich
 cases,maxwestphal
+casimir,deutsche-nationalbibliothek
 casino,anthonypileggi
 CASMAP,cran
 CASMI,cran
@@ -3559,6 +3561,7 @@ coefplot,jaredlander
 coenocliner,gavinsimpson
 coenoflex,dvrbts
 cofad,johannes-titz
+coFAST,feiyoung
 cofeatureR,tinyheero
 coffee,maarten14c
 cofid,alrobles
@@ -6241,6 +6244,7 @@ elliptic,robinhankin
 ellipticalsymmetry,cran
 ellmer,tidyverse
 ELMER,bioc
+ELmethodVar,jingru-zhang
 elmNNRcpp,mlampros
 ELMR,sojers92
 ELMSO,cpaulson-suu
@@ -6346,6 +6350,7 @@ EngrEcon,liyabera
 engression,cran
 EngrExpt,cran
 EnhancedVolcano,bioc
+enhancer,covaruber
 enhancerHomologSearch,bioc
 EnMCB,bioc
 ENMeval,jamiemkass
@@ -7544,6 +7549,7 @@ fmeffects,holgstr
 fmerPack,liyanstat
 fmesher,inlabru-org
 fmf,zheng-ww
+fmi,cran
 FMM,fmmgroupva
 FMP,nwaller
 fmpapi,tidy-finance
@@ -8242,6 +8248,7 @@ generalhoslem,matthewjay15
 GeneralisedCovarianceMeasure,jonaspet
 GeneralizedHyperbolic,r-forge
 GeneralizedUmatrix,mthrun
+GeneralizedUmatrixGPU,quirinms
 GeneralizedWendland,thomas-caspar-fischer
 GeneralOaxaca,aureliennicosia
 generalRSS,shahn63
@@ -10982,7 +10989,7 @@ ivitr,cran
 ivmodel,hyunseungkang
 ivmte,jkcshea
 ivo.table,mthulin
-ivolcano,guangchuangyu
+ivolcano,yulab-smu
 IVPP,xinkaidupsy
 ivreg,zeileis
 ivs,davisvaughan
@@ -15089,6 +15096,7 @@ nvctr,euctrl-pru
 nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
+nycOpenData,martinezc1
 nzelect,ellisp
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
@@ -15978,6 +15986,7 @@ PCAPAM50,rajkumpismb
 pcaPP,valentint
 PCAtools,bioc
 pcatsAPIclientR,michalkouril
+PCBN,alexisderumigny
 PCBS,katlande
 pccc,cud2v
 pcdid,adamwang15
@@ -16023,11 +16032,12 @@ pcts,geobosh
 pcutils,asa12138
 pcv,svkucheryavski
 pcvr,danforthcenter
-pda,yiwenluiris
+pda,chongliang-luo
 PDATK,bioc
 pdc,brandmaier
 pdcor,cran
 PDE,erikstricker
+PDEnaiveBayes,mthrun
 pder,ycroissant
 pdfCluster,cran
 pdfcombiner,stevechoy
@@ -17106,6 +17116,7 @@ prismatic,emilhvitfeldt
 prismjs,ropensci
 prisonbrief,danilofreire
 prithulib,snapchaturvedi
+privacyR,vikrant31
 PrivateLR,laats
 PRMethods,paubelloperez
 prmisc,m-py
@@ -18216,6 +18227,7 @@ rcldf,simongreenhill
 RClickhouse,imsmwu
 RClimacell,nikdata
 rclipboard,sbihorel
+rclsp,econcz
 RCM,bioc
 rCMA,wolfgangkonen
 rcmdcheck,r-lib
@@ -19072,6 +19084,7 @@ ridigbio,idigbio
 riem,ropensci
 Riemann,kisungyou
 RiemBase,kisungyou
+riemstats,nicoesve
 riemtan,nicoesve
 Riex,theeliteanalyst
 rifi,bioc
@@ -19578,6 +19591,7 @@ rols,bioc
 RolWinMulCor,jomopo
 RolWinWavCor,jomopo
 ROMDB,albertoalmuinha
+Romeb,dandantang0
 romic,shackett
 RonFHIR,cran
 ronfig,timtaylor
@@ -20538,6 +20552,7 @@ ScoreEB,wenlongren
 scoreInvHap,bioc
 scorematchingad,kasselhingee
 scorepeak,shotaochi
+SCoRES,angelayustat
 scoring,ecmerkle
 scoringfunctions,hristostyr
 scoringRules,fk83
@@ -20962,6 +20977,7 @@ sftime,r-spatial
 SFtools,mlaib
 sftrack,mablab
 sg,botan
+sgapi,defra-data-science-centre-of-excellence
 SGB,grafmoni
 sGBJ,lauravillain
 sgboost,fabianobster

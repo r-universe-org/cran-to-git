@@ -17,7 +17,8 @@
   {
     "package": "CohortAlgebra",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortalgebra"
+    "url": "https://github.com/ohdsi/cohortalgebra",
+    "registry": "archived"
   },
   {
     "package": "CohortConstructor",
@@ -27,7 +28,8 @@
   {
     "package": "CohortExplorer",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortexplorer"
+    "url": "https://github.com/ohdsi/cohortexplorer",
+    "registry": "archived"
   },
   {
     "package": "CohortGenerator",
@@ -37,7 +39,8 @@
   {
     "package": "CohortPathways",
     "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortpathways"
+    "url": "https://github.com/ohdsi/cohortpathways",
+    "registry": "archived"
   },
   {
     "package": "CohortSymmetry",
