@@ -763,6 +763,7 @@ ar.matrix,nmmarquez
 arabic2kansuji,indenkun
 arabicStemR,nielsenrich
 arakno,cardosopmb
+aramappings,manuelrubio
 ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
@@ -1034,6 +1035,7 @@ autoimport,danchaltiel
 autokeras,r-tensorflow
 automagic,cole-brokamp
 automap,jskoien
+automatedRecLin,ncn-foreigners
 automatedtests,wouterzeevat
 autometric,wlandau
 autoMFA,john-c-davey
@@ -6224,7 +6226,6 @@ electionsBR,silvadenisson
 electivity,desiquintans
 electoral,albuja
 elevatr,usepa
-ElevDistr,liviobaetscher
 elexr,ghing
 elfDistr,matheushjs
 elgbd,markean
@@ -6287,6 +6288,7 @@ emery,therealcfdrake
 emf,temp20250212
 emg,spgarbet
 EMgaussian,falkcarl
+EMGCR,cran
 emhawkes,ksublee
 EmiR,lorenzo125
 emIRT,kosukeimai
@@ -9260,11 +9262,6 @@ gremlin,matthewwolak
 GREMLINS,grosssbm
 GRENITS,bioc
 greport,harrelfe
-greta,greta-dev
-greta.censored,mtwesley
-greta.dynamics,greta-dev
-greta.gam,greta-dev
-greta.gp,greta-dev
 gretel,davidbuch
 gretlR,sagirumati
 grex,nanxstats
@@ -12195,7 +12192,7 @@ LSDsensitivity,santannaks
 LSE,sergio05acm
 LSEbootLS,nicolas-udec
 lsei,yong3738
-lsirm12pl,cran
+lsirm12pl,gwangheekim
 lsl,psyphh
 lslx,psyphh
 lsm,cran
@@ -15909,7 +15906,6 @@ pathview,bioc
 pathviewr,ropensci
 pathwayPCA,bioc
 PathwaySpace,sysbiolab
-pathwayTMB,hanjunwei-lab
 PathwayVote,yinanzheng
 PatientLevelPrediction,ohdsi
 PatientProfiles,darwin-eu
@@ -17183,7 +17179,6 @@ profrep,ubeattie
 proftools,ltierney
 profvis,r-lib
 progeny,bioc
-ProgModule,hanjunwei-lab
 progress,r-lib
 progressr,futureverse
 PROJ,hypertidy
@@ -17732,6 +17727,7 @@ quartets,r-causal
 quartificate,ropensci
 quarto,quarto-dev
 quartose,djnavarro
+quasar,angeella
 QuasR,bioc
 QuaternaryProd,bioc
 quaxnat,maximilianaxer

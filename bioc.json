@@ -1719,6 +1719,7 @@
   },
   {
     "package": "CBN2Path",
+    "maintainer": "William Choi-Kim <william@williamck.com>",
     "url": "https://github.com/rockwillck/cbn2path",
     "registry": "bioc"
   },
@@ -6730,7 +6731,7 @@
   {
     "package": "limpa",
     "maintainer": "Gordon Smyth <smyth@wehi.edu.au>",
-    "url": "https://git.bioconductor.org/packages/limpa",
+    "url": "https://github.com/smythlab/limpa",
     "registry": "bioc"
   },
   {
