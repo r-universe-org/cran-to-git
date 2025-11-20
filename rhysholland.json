@@ -1,5 +1,10 @@
 [
   {
+    "package": "fairGATE",
+    "maintainer": "Rhys Holland <rhys.holland@icloud.com>",
+    "url": "https://github.com/rhysholland/fairgate"
+  },
+  {
     "package": "fairGNN",
     "maintainer": "Rhys Holland <rhys.holland@icloud.com>",
     "url": "https://github.com/cran/fairGNN"
