@@ -5,6 +5,11 @@
     "url": "https://github.com/tidy-intelligence/r-datacommons"
   },
   {
+    "package": "econdatasets",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/tidy-intelligence/r-econdatasets"
+  },
+  {
     "package": "econdataverse",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-intelligence/r-econdataverse"
