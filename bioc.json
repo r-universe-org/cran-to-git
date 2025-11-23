@@ -673,6 +673,12 @@
     "registry": "bioc"
   },
   {
+    "package": "asuri",
+    "maintainer": "Alberto Berral-Gonzalez <aberralgonzalez@gmail.com>",
+    "url": "https://github.com/jdelasrivas-lab/asuri",
+    "registry": "bioc"
+  },
+  {
     "package": "ATACseqQC",
     "maintainer": "Jianhong Ou <jou@morgridge.org>",
     "url": "https://github.com/jianhong/atacseqqc",
