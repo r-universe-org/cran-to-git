@@ -5,6 +5,11 @@
     "url": "https://github.com/r-dcm/dcmdata"
   },
   {
+    "package": "dcmstan",
+    "maintainer": "W. Jake Thompson <wjakethompson@gmail.com>",
+    "url": "https://github.com/r-dcm/dcmstan"
+  },
+  {
     "package": "rdcmchecks",
     "maintainer": "W. Jake Thompson <wjakethompson@gmail.com>",
     "url": "https://github.com/r-dcm/rdcmchecks"
