@@ -377,7 +377,6 @@ aIc,ggloor
 AICcmodavg,mamaz7
 AICcPermanova,sustainscapes
 AID,osmandag
-aidar,cran
 AiES,breezycave
 aifeducation,fberding
 AIFFtools,cran
@@ -7260,7 +7259,6 @@ fftw,uligges
 fftwtools,krahim
 FGalgorithm,cran
 fGarch,cran
-fgdr,uribo
 fgeo,forestgeo
 fgeo.analyze,forestgeo
 fgeo.plot,forestgeo
@@ -7447,6 +7445,7 @@ flashier,willwerscheid
 flashlight,mayer79
 FLASHMM,baderlab
 flashr,jeffreyrstevens
+flassomsm,atanubhattacharjee
 flatr,evilgraham
 flattabler,josesamos
 flatxml,jsugarelli
@@ -7947,7 +7946,7 @@ FuzzyImputationTest,mroman-ibs
 fuzzyjoin,dgrtwo
 fuzzylink,joeornstein
 FuzzyLP,olbapjose
-FuzzyM,cran
+FuzzyM,petukhovaalina-tech
 FuzzyNumbers,gagolews
 FuzzyNumbers.Ext.2,cran
 FuzzyPovertyR,airdede
@@ -8767,7 +8766,7 @@ ggswissmaps,gibonet
 ggtangle,guangchuangyu
 ggtaxplot,cran
 ggtea,ambitiousbellydancingsquirrel
-ggtern,cran
+ggtern,nicholasehamilton
 ggtext,wilkelab
 ggThemeAssist,calligross
 ggthemes,jrnold
@@ -10477,6 +10476,7 @@ immcp,yuanlonghu
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
 ImML,salvatoremangiafico
+immReferent,bioc
 immunarch,immunomind
 immunaut,login-
 immundata,immunomind
@@ -11473,8 +11473,10 @@ ktweedie,ly129
 kuiper.2samp,cran
 Kurt,cran
 kutils,pauljohn32
+kuzuR,wickm
 kvh,sgsokol
 kvkapiR,coeneisma
+KWCChangepoint,adeeb99
 kyotil,youyifong
 kza,closebrian
 kzs,cran
@@ -11616,7 +11618,7 @@ lawstat,vlyubchich
 lax,paulnorthrop
 lay,courtiol
 layer,marcosci
-lazy,theoverhelst
+lazy,cran
 lazyarray,dipterix
 lazybar,finyang
 lazyData,billvenables
@@ -11850,7 +11852,7 @@ LikertMakeR,winzarh
 lilikoi,granatumx
 lillies,cran
 LilRhino,travis-barton
-lime,thomasp85
+lime,emilhvitfeldt
 limexhub,limex-com
 limma,bioc
 limmaGUI,bioc
@@ -12309,6 +12311,7 @@ MachineShop,brian-j-smith
 macleish,beanumber
 maclogp,yuanyuanli96
 maCorrPlot,bioc
+macro,dbosak01
 macroBiome,szelepcsenyi
 macrocol,pedrocabraacela
 macrosyntR,samilhll
@@ -15384,6 +15387,7 @@ opencpu,opencpu
 openCR,murrayefford
 opencv,ropensci
 openCyto,bioc
+opendataformat,opendataformat
 opendatatoronto,sharlagelfand
 opendotaR,karigunnarsson
 openEBGM,johnihrie
@@ -16705,6 +16709,7 @@ pmwg,university-of-newcastle-research
 PMwR,enricoschumann
 pmxcode,sbihorel
 pmxcv,jprybylski
+pmxNODE,braemd
 pmxpartab,benjaminrich
 pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
@@ -18746,6 +18751,7 @@ ReliabilityTheory,louisaslett
 ReliaGrowR,paulgovan
 ReliaPlotR,paulgovan
 reliaR,vkumar123vkumar
+ReliaShiny,paulgovan
 relimp,davidfirth
 RelimpPCR,michhernand
 relliptical,katherineloor
@@ -19725,6 +19731,7 @@ RPEIF,anthonychristidis
 RPEnsemble,tc325
 rperseus,ropensci
 RPESE,anthonychristidis
+RPesto,kopperud
 RPEXE.RPEXT,hangangtrue
 rpf,jpritikin
 rpgconn,r-data-science
@@ -25195,6 +25202,8 @@ WeibullModiAMR,drajaykumarmr1008
 weibullness,appliedstat
 WeibullR,weibull-r
 WeibullR.ALT,jto888
+WeibullR.learnr,paulgovan
+WeibullR.plotly,paulgovan
 WeibullR.shiny,paulgovan
 weibulltools,tim-tu
 Weighted.Desc.Stat,cran
@@ -25529,6 +25538,7 @@ xtranat,fdepaolis
 xts,joshuaulrich
 xtsum,macosso
 xtune,jingxuanh
+xtvfreg,tfliaoui
 xutils,fangzhou-xie
 xVA,sa-ccr
 XVector,bioc
@@ -25544,7 +25554,7 @@ yager,statcompute
 yahoofinancer,rsquaredacademy
 yaImpute,jeffreyevans
 YaleToolkit,jayemerson
-yaml,vubiostat
+yaml,r-lib
 yamlet,bergsmat
 yamlme,kamapu
 yamss,bioc

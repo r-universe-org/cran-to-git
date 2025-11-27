@@ -611,6 +611,11 @@
     "url": "https://github.com/r-lib/xopen"
   },
   {
+    "package": "yaml",
+    "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
+    "url": "https://github.com/r-lib/r-yaml"
+  },
+  {
     "package": "ymlthis",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
     "url": "https://github.com/r-lib/ymlthis"
