@@ -3644,6 +3644,7 @@ colorfindr,zumbov2
 colorhcplot,dami82
 colorify,mauritsunkel
 colorist,mstrimas
+colorize,friendly
 colorizer,zumbov2
 colormap,bhaskarvk
 ColorNameR,msanchez-beeckman
@@ -6925,6 +6926,7 @@ facmodCS,robustport
 facmodTS,robustport
 FACT,henrifnk
 factDesign,bioc
+FactEff,doer0
 factiv,mattblackwell
 FACTMLE,cran
 FactoClass,cepardot
@@ -7143,7 +7145,7 @@ fcirt,naidantu
 fcl,shrektan
 fclust,cran
 fcm,liadd
-FCMapper,shaunturney
+FCMapper,cran
 FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
@@ -7570,7 +7572,7 @@ FME,r-forge
 fmeffects,holgstr
 fmerPack,liyanstat
 fmesher,inlabru-org
-fmf,zheng-ww
+fmf,cran
 fmi,cran
 FMM,fmmgroupva
 FMP,nwaller
@@ -8980,6 +8982,7 @@ glossr,montesmariana
 glow,traversc
 glpkAPI,mihai-sysbio
 gLRTH,cran
+glscalibrator,fabbiologia
 glsm,cran
 GLSME,cran
 glue,tidyverse
@@ -9245,6 +9248,7 @@ graphql,ropensci
 GraphRankTest,cran
 graphsim,tomkellygenetics
 graposas,cran
+grasps,carol-seven
 grateful,pakillo
 grates,reconverse
 gratia,gavinsimpson
@@ -11618,7 +11622,7 @@ lawstat,vlyubchich
 lax,paulnorthrop
 lay,courtiol
 layer,marcosci
-lazy,cran
+lazy,theoverhelst
 lazyarray,dipterix
 lazybar,finyang
 lazyData,billvenables
@@ -12533,6 +12537,7 @@ marray,bioc
 mars,cran
 MARSANNhybrid,cran
 MARSGWR,cran
+marsrad,georgeslabreche
 MARSS,atsa-es
 MARSSVRhybrid,cran
 martini,bioc
@@ -13173,7 +13178,7 @@ mgwrsar,ggeniaux
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
 MHCtools,jr-evolecol
-MHD,crossd
+MHD,cran
 MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
@@ -14013,7 +14018,7 @@ MSbox,yonghuidong
 MSBStatsData,mchlbckr
 MSCA,marc-75
 MSCCT,hminp
-msce,cristoforosimonetto
+msce,cran
 mschart,ardata-fr
 MSclassifR,cran
 MSclust,cran
@@ -14610,7 +14615,7 @@ netClust,cran
 NetCluster,cran
 netCoin,modesto-escobar
 netcom,langendorfr
-netcontrol,daklor
+netcontrol,cran
 NetCoupler,netcoupler
 netcutter,fmarotta
 NetDA,lchen723
@@ -18018,7 +18023,7 @@ randtoolbox,r-forge
 RandVar,r-forge
 rang,gesistsa
 rangeBuilder,ptitle
-rangeMapper,mpio-be
+rangeMapper,ornitho-logics
 rangeModelMetadata,cmerow
 rangemodelR,aniruddhamarathe
 ranger,imbs-hl
@@ -23636,6 +23641,7 @@ tidyDenovix,alphaprime7
 TidyDensity,spsanderson
 tidydfidx,ycroissant
 tidydice,rolkra
+tidydp,ttarler
 tidydr,yulab-smu
 tidyedgar,gerardgimenezadsuar
 tidyEdSurvey,blue-webb
@@ -23922,7 +23928,7 @@ topGO,bioc
 topicdoc,doug-friedman
 topiclabels,petersfritz
 topicmodels,cran
-topicmodels.etm,jwijffels
+topicmodels.etm,bnosac
 topics,theharmonylab
 TopicScore,minzhew
 TopKLists,r-forge

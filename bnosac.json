@@ -87,6 +87,11 @@
     "url": "https://github.com/bnosac/tokenizers.bpe"
   },
   {
+    "package": "topicmodels.etm",
+    "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
+    "url": "https://github.com/bnosac/etm"
+  },
+  {
     "package": "udpipe",
     "maintainer": "Jan Wijffels <jwijffels@bnosac.be>",
     "url": "https://github.com/bnosac/udpipe"

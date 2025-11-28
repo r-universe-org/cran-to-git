@@ -549,7 +549,8 @@
     "package": "PST",
     "maintainer": "Alexis Gabadinho <alexis.gabadinho@wanadoo.fr>",
     "url": "https://github.com/r-forge/pst",
-    "subdir": "pkg"
+    "subdir": "pkg",
+    "registry": "archived"
   },
   {
     "package": "QSARdata",

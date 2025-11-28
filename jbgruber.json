@@ -12,7 +12,8 @@
   {
     "package": "cookiemonster",
     "maintainer": "Johannes B. Gruber <JohannesB.Gruber@gmail.com>",
-    "url": "https://github.com/jbgruber/cookiemonster"
+    "url": "https://github.com/jbgruber/cookiemonster",
+    "registry": "archived"
   },
   {
     "package": "LexisNexisTools",
@@ -32,6 +33,7 @@
   {
     "package": "traktok",
     "maintainer": "Johannes B. Gruber <JohannesB.Gruber@gmail.com>",
-    "url": "https://github.com/jbgruber/traktok"
+    "url": "https://github.com/jbgruber/traktok",
+    "registry": "archived"
   }
 ]
