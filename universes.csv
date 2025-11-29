@@ -219,7 +219,7 @@ adjROC,haghish
 adjSURVCI,mkhanal12
 adjustedcranlogs,tylermorganwall
 adjustedCurves,robindenz1
-adklakedata,lawinslow
+adklakedata,jeremylfarrell
 adlift,cran
 ADLP,cran
 admiral,pharmaverse
@@ -249,6 +249,7 @@ adproclus,henry-heppe
 adpss,ca4wa
 ads,lamonica-d
 adsDataHubR,pankaj-bhatlawande
+ADSIHT,cran
 AdsorpR,cran
 adsoRptionCMF,piey27
 adsoRptionCV,piey27
@@ -2523,7 +2524,7 @@ CaMeA,cran
 CamelUp,mczek
 CAMERA,bioc
 camerondata,juvlac
-CAMML,schiebout
+CAMML,cran
 campaignmanageR,pablosanmar
 campfin,irworkshop
 campsis,calvagone
@@ -3337,7 +3338,7 @@ cloudstoR,pdparker
 cloudUtil,cpanse
 clptheory,dbasu-umass
 clr,apierrot
-clrng,rryong
+clrng,cran
 CLSIEP15,cran
 clst,bioc
 clstutils,bioc
@@ -6243,6 +6244,7 @@ electoral,albuja
 elevatr,usepa
 elexr,ghing
 elfDistr,matheushjs
+elfgen,harpgroup
 elgbd,markean
 elhmc,cran
 ELIC,guangbaog
@@ -6633,7 +6635,7 @@ estimatr,declaredesign
 EstimDiagnostics,otryakhin-dmitry
 estimraw,cran
 estmeansd,stmcg
-EstMix,sparquary
+EstMix,cran
 estprod,rrremedio
 esvis,datalorax
 et.nwfva,rnuske
@@ -6939,6 +6941,7 @@ factor256,hughparsonage
 FactorAssumptions,storopoli
 FactorCopula,cran
 FactorCopulaModel,cran
+factorEx,naoki-egami
 factorH,cran
 FactorHet,mgoplerud
 factorial2x2,ericsleifer
@@ -7145,7 +7148,7 @@ fcirt,naidantu
 fcl,shrektan
 fclust,cran
 fcm,liadd
-FCMapper,cran
+FCMapper,shaunturney
 FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
@@ -7572,7 +7575,7 @@ FME,r-forge
 fmeffects,holgstr
 fmerPack,liyanstat
 fmesher,inlabru-org
-fmf,cran
+fmf,zheng-ww
 fmi,cran
 FMM,fmmgroupva
 FMP,nwaller
@@ -10546,7 +10549,7 @@ incidental,cran
 incidentally,zpneal
 IncomPair,cran
 incR,pablocapilla
-inctools,sacema
+inctools,eduardgrebe
 incubate,lenz99
 inDAGO,indagoverse
 INDEED,bioc
@@ -13178,7 +13181,7 @@ mgwrsar,ggeniaux
 mhazard,ericbair-sciome
 mhcnuggetsr,richelbilderbeek
 MHCtools,jr-evolecol
-MHD,cran
+MHD,crossd
 MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
@@ -14018,7 +14021,7 @@ MSbox,yonghuidong
 MSBStatsData,mchlbckr
 MSCA,marc-75
 MSCCT,hminp
-msce,cran
+msce,cristoforosimonetto
 mschart,ardata-fr
 MSclassifR,cran
 MSclust,cran
@@ -14615,7 +14618,7 @@ netClust,cran
 NetCluster,cran
 netCoin,modesto-escobar
 netcom,langendorfr
-netcontrol,cran
+netcontrol,daklor
 NetCoupler,netcoupler
 netcutter,fmarotta
 NetDA,lchen723
@@ -18519,6 +18522,7 @@ reactR,react-r
 ReacTran,karlines
 reactRouter,lgnbhl
 ReAD,cran
+read.dbc,danicat
 read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
@@ -18975,6 +18979,7 @@ RFishBC,fishr-core-team
 rfisheries,ropensci
 rfishnet2,kdors
 Rfit,cran
+rflexscan,tkhrotn
 RFlocalfdr,parsifal9
 RFlocalfdr.data,parsifal9
 RFLOMICS,bioc
@@ -21247,7 +21252,6 @@ shinyWidgets,dreamrs
 ShinyWizard,r3pos
 shinyXYpad,stla
 SHIP,vguillemot
-shipunov,ashipunov
 ShiVa,wenshaz
 shopifyadsR,pablosanmar
 shoppingwords,bkanx
@@ -24803,7 +24807,7 @@ vctsfr,franciscomartinezdelrio
 vcvComp,cran
 VDAP,cran
 vdar,cran
-vdg,schoonees
+vdg,cran
 vdiffr,r-lib
 vDiveR,pendy05
 VDJdive,bioc
