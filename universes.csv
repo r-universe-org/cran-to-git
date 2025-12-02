@@ -940,7 +940,6 @@ assorthead,bioc
 assortnet,cran
 AssumpSure,ahmedbargheet
 AST,alighanbari26
-ast2ast,konrad1991
 aster,cran
 aster2,cran
 asteRisk,rafael-ayala
@@ -1230,6 +1229,7 @@ bark,merliseclyde
 Barnard,kerguler
 barrel,barrancoelena
 barrks,jjentschke
+barry,uscbiostats
 BART,rsparapa
 bartCause,vdorie
 bartcs,yooyh
@@ -1518,7 +1518,7 @@ bddkR,ozancanozdemir
 bdDwC,pogibas
 bde,gsantafe
 BDEsize,cran
-bdf3,cran
+bdf3,sukantaiasri
 BDgraph,rezamoammadi
 bdl,statisticspoland
 bdlim,anderwilson
@@ -1738,6 +1738,7 @@ bignum,davidchall
 bigparallelr,privefl
 bigPCAcpp,fbertran
 bigPLScox,fbertran
+bigPLSR,fbertran
 bigQF,tslumley
 BigQuic,kkunji
 BIGr,breeding-insight
@@ -2901,7 +2902,6 @@ Certara.VPCResults,certara-jcraig
 Certara.Xpose.NLME,certara-jcraig
 ces,laurenceomfoisy
 ceser,diogoferrari
-cesR,hodgettsp
 cetcolor,coatless-rpkg
 ceterisParibus,pbiecek
 CeTF,bioc
@@ -3929,6 +3929,7 @@ conumee,bioc
 convdistr,johnaponte
 ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
+convergenceDFM,cran
 convergEU,federico-m-stefanini
 ConversationAlign,reilly-conceptscognitionlab
 conversim,chaoliu-cl
@@ -5133,7 +5134,6 @@ dfcomb,jhjourdan
 dfCompare,swaldroff
 dfcrm,jkd2108
 DFD,mohmedsoudy
-dfdr,konrad1991
 dfeR,dfe-analytical-services
 dfexpand,jlpainter
 dfidx,ycroissant
@@ -5729,6 +5729,7 @@ dscore,d-score
 dscoreMSM,atanubhattacharjee
 dsdp,tsuchiya-lab
 dsem,james-thorson-noaa
+DSFM,guangbaog
 DSI,datashield
 dsims,distancedevelopment
 DSjobtracker,thiyangt
@@ -5795,7 +5796,7 @@ DTRKernSmooth,yunanwu123
 DTRlearn2,ychen178
 DTRreg,sth1402
 dtrSurv,sth1402
-DTS,cran
+DTS,sabasina22
 DTSEA,hanjunwei-lab
 DTSg,gisler
 dtt,luqqe
@@ -6356,6 +6357,7 @@ EndoMineR,ropensci
 endorse,sensitivequestions
 endtoend,chedgala
 energy,mariarizzo
+energyGOF,jthaman
 energymethod,colindecker
 EnergyOnlineCPM,xuyafei2019
 energyr,paulgovan
@@ -6801,6 +6803,7 @@ ExPanDaR,trr266
 expandFunctions,cran
 EXPAR,saikathd
 EXPARMA,cran
+ExpBites,nmoiroux
 expDB,byzheng
 ExpDE,fcampelo
 ExpDes,ericbarba
@@ -8954,7 +8957,6 @@ glmSparseNet,bioc
 glmtlp,yuyangstat
 glmtoolbox,lhvanegasp
 glmtrans,ytstat
-glmtree,adimajo
 glmulti,vincexxc
 glmvsd,archer-yang-lab
 glmx,zeileis
@@ -9548,7 +9550,7 @@ h5vc,bioc
 haarfisz,cran
 hablar,davidsjoberg
 habtools,jmadinlab
-HAC,gggchen
+HAC,ankitiitm
 hackeRnews,szymanskir
 HACSim,jphill01
 HadamardR,appavoodhandapani
@@ -9729,6 +9731,7 @@ heatmaply,talgalili
 heatmaps,bioc
 Heatplus,bioc
 heatwaveR,robwschlegel
+heavytails,0diraf
 heck,dyfanjones
 HeckmanEM,cran
 heckmanGE,fsbmat-ufv
@@ -11630,6 +11633,7 @@ lazysql,uweblock
 lazytrade,vzhomeexperiments
 lba,ivanalaman
 lbaModel,yxlin
+LBBNN,larselund
 LBDiscover,chaoliu-cl
 LBE,bioc
 lbfgs,antoniocoppola
@@ -12411,7 +12415,7 @@ mangoro,sounkou-bioinfo
 Mangrove,lowk
 manhplot,cgrace1978
 manifestoR,manifestoproject
-manifold,cran
+manifold,crossd
 ManifoldOptim,cran
 manipulate,jjallaire
 manipulateWidget,rte-antares-rpackage
@@ -13538,6 +13542,7 @@ mlergm,cran
 MLeval,crj32
 mlexperiments,kapsner
 mlf,kdpeterson51
+MLFDR,asmita112358
 mlfit,mlfit
 mlflow,benwilson2
 MLFS,jernejjevsenak
@@ -15118,7 +15123,7 @@ numKM,marsdu1989
 numOSL,pengjunucas
 NuPoP,bioc
 NUSS,theogrost
-NutrienTrackeR,rafael-ayala
+NutrienTrackeR,cran
 nutriNetwork,pariya
 nutrition,wleoncio
 nuts,ropensci
@@ -15205,6 +15210,7 @@ oddsratio,pat-s
 oddstream,pridiltal
 odeGUTS,bgoussen
 odetector,zcebeci
+odiffr,benwolst
 odin,mrc-ide
 odk,muntashiralarefin
 ODMeans,smorenoa
@@ -17367,6 +17373,7 @@ psoptim,cran
 psp,lenarddome
 pspatreg,rominsal
 pspearman,cran
+PSPI,zjg540066169
 pspline,cran
 PSPManalysis,amderoos
 PSpower,laubok
@@ -18235,7 +18242,7 @@ rcc,jean997
 rcccd,fatihsaglam
 rccola,spgarbet
 RCCPCA,aboaziz1
-rcd3,cran
+rcd3,sukantaiasri
 rcdd,cran
 rcDEA,cran
 rcdf,yng-me
@@ -20758,6 +20765,7 @@ secret,gaborcsardi
 secretbase,shikokuchuo
 SecretsProvider,naavre
 secrettext,daniellequinn
+secrfunc,murrayefford
 secrlinear,murrayefford
 secsse,rsetienne
 sectorgap,sinast3000
@@ -22166,7 +22174,7 @@ spectralR,olehprylutskyi
 SpectralTAD,bioc
 Spectran,litgde
 SpectraQL,bioc
-spectre,csim063
+spectre,r-spatialecology
 SpectriPy,bioc
 spectrolab,meireles
 Spectrum,crj32
@@ -22346,6 +22354,7 @@ spTimer,ksbakar
 sptotal,highamm
 spup,ksawicka
 spuriouscorrelations,cran
+SpuriousMemory,zhongjun-qu
 spuRs,cran
 SPYvsSPY,shabbychef
 SQI,owaisaliwani30
@@ -22690,6 +22699,7 @@ stockR,scott-foster
 stocks,vandomed
 stodom,cran
 stoichcalc,peterreichert
+stoichUtilities,stoich-project
 stokes,robinhankin
 STOPES,capanum
 stopp,nicolettadangelo
@@ -23927,6 +23937,7 @@ topicmodels,cran
 topicmodels.etm,bnosac
 topics,theharmonylab
 TopicScore,minzhew
+TopicTestlet,cran
 TopKLists,r-forge
 TopKSignal,pievos101
 topoDistance,ianjwang
@@ -24225,6 +24236,7 @@ truncnorm,olafmersmann
 truncnormbayes,mathurlabstanford
 truncreg,r-forge
 truncSP,anitalindmark
+trunmnt,cran
 trust,cjgeyer
 trustedtimestamping,ttspackage
 trustmebro,kuuuwe
