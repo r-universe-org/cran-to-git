@@ -1,5 +1,10 @@
 [
   {
+    "package": "osrm.backend",
+    "maintainer": "Egor Kotov <kotov.egor@gmail.com>",
+    "url": "https://github.com/e-kotov/osrm.backend"
+  },
+  {
     "package": "r5rgui",
     "maintainer": "Egor Kotov <kotov.egor@gmail.com>",
     "url": "https://github.com/e-kotov/r5rgui"

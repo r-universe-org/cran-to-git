@@ -788,6 +788,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "simest",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/curves-etc",
+    "subdir": "pkg/simest"
+  },
+  {
     "package": "sirad",
     "maintainer": "Jedrzej S. Bojanowski <jedrzej.bojanowski@gmail.com>",
     "url": "https://github.com/r-forge/sirad",

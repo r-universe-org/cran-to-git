@@ -3132,6 +3132,7 @@ CIM,patnik
 CIMICE,bioc
 cimir,mkoohafkan
 CIMPLE,cran
+CimpleG,costalab
 CIMTx,jiayiji
 cinaR,eonurk
 cinaRgenesets,eonurk
@@ -7629,6 +7630,7 @@ forceplate,raphaelhartmann
 forceR,pete-s-lab
 forcis,ropensci
 FORD,pouyaroudaki
+FoRDM,mdjahan
 foreach,revolutionanalytics
 ForeCA,gmgeorg
 forecast,robjhyndman
@@ -7968,7 +7970,6 @@ fwb,ngreifer
 FWDselect,sestelo
 fwlplot,kylebutts
 FWRGB,cran
-fwsim,mikldk
 fwtraits,anthonybasooma
 fxl,miyamot0
 fxregime,zeileis
@@ -8434,6 +8435,7 @@ geonetwork,famuvie
 geonode4R,eblondel
 geoperu,paulesantos
 geoprofiler,tobiste
+geopsych,zhangsui921
 GEOquery,bioc
 geoR,paulojus
 GeoRange,jamestboyle
@@ -10965,7 +10967,7 @@ ISRaD,cran
 ISS,manuelmmueller
 IssueTrackeR,tanguybarthelemy
 istacr,cran
-istat,elakkkk
+istat,cran
 iSTATS,vitor-mendes-iq
 iSTAY,cran
 iSubGen,pboutros
@@ -14261,6 +14263,7 @@ multiplex,mplex
 MultiplierDEA,cran
 multipol,robinhankin
 multiRDPG,cran
+MultiRFM,feiyoung
 multirich,akeyel
 multiridge,cran
 MultiRNAflow,bioc
@@ -15617,6 +15620,7 @@ OSMscale,brry
 OSNMTF,yinxy1992
 osqp,osqp
 osrm,riatelab
+osrm.backend,e-kotov
 osrmr,symbolrush
 OssaNMA,fangshuye
 OSsurvival,laylaparast
@@ -19297,6 +19301,7 @@ rlog,sellorm
 RLogicalOps,cerebralseeker
 RLoptimal,matsuurakentaro
 rlowdb,feddelegrand7
+rlppinv,econcz
 RLRsim,fabian-s
 RLT,teazrq
 rLTP,hetong007
@@ -20066,6 +20071,7 @@ rtlr,matanhakim
 rTLsDeep,carlos-alberto-silva
 RTMB,kaskr
 RTMBdist,janoleko
+rtmpinv,econcz
 rtmpt,raphaelhartmann
 rtms,nathanieltwarog
 RTN,bioc
@@ -21070,6 +21076,7 @@ shades,jonclayden
 shadowr,ricilandolt
 shadowtext,guangchuangyu
 shadowVIMP,staburo
+SHAKTI,cran
 shannon,imranshakoor
 SHAPBoost,o-t-o-z
 ShapDoE,lqyang0714
@@ -21385,6 +21392,7 @@ simecol,tpetzoldt
 simEd,blawson-bates
 SimEngine,avi-kenny
 simer,xiaolei-lab
+simest,r-forge
 simET,liumiguo
 SimEUCartelLaw,mabe0033
 simex,wolfganglederer
@@ -21783,6 +21791,7 @@ snem,takayukikawa
 snfa,tkmckenzie
 SNFtool,cran
 snha,mittelmark
+snic,rolfsimoes
 snifter,bioc
 snirh.lab,lpereira-ue
 snm,bioc
@@ -22588,6 +22597,7 @@ stationaRy,rich-iannone
 statioVAR,cran
 statip,paulponcet
 statisfactory,adamlilith
+statisR,cran
 statlingua,bgreenwell
 StatMatch,cran
 statmod,gksmyth
@@ -23275,6 +23285,7 @@ TargetSearch,bioc
 Tariff,richardli
 TAShiny,kartikeyabolar
 tashu,zeee1
+taskqueue,byzheng
 tastypie,paolodalena
 tastyR,1001oreos
 tatest,yuande
@@ -23655,7 +23666,7 @@ tidydice,rolkra
 tidydp,ttarler
 tidydr,yulab-smu
 tidyedgar,gerardgimenezadsuar
-tidyEdSurvey,blue-webb
+tidyEdSurvey,pdbailey0
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
 tidyfast,tysonstanley
