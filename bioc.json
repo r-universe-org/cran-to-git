@@ -127,6 +127,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Aerith",
+    "maintainer": "Yi Xiong <yixiong@ou.edu>",
+    "url": "https://github.com/xyz1396/aerith",
+    "registry": "bioc"
+  },
+  {
     "package": "AffiXcan",
     "maintainer": "Alessandro Lussana <alessandro.lussana@protonmail.com>",
     "url": "https://git.bioconductor.org/packages/AffiXcan",
@@ -6006,6 +6012,12 @@
     "package": "HybridMTest",
     "maintainer": "Demba Fofana <demba.fofana@stjude.org>",
     "url": "https://git.bioconductor.org/packages/HybridMTest",
+    "registry": "bioc"
+  },
+  {
+    "package": "hypeR",
+    "maintainer": "Andrew Chen <andrewdr@bu.edu>",
+    "url": "https://github.com/montilab/hyper",
     "registry": "bioc"
   },
   {
@@ -12637,6 +12649,12 @@
     "package": "STATegRa",
     "maintainer": "David Gomez-Cabrero <david.gomezcabrero@ki.se>",
     "url": "https://git.bioconductor.org/packages/STATegRa",
+    "registry": "bioc"
+  },
+  {
+    "package": "StatescopeR",
+    "maintainer": "Mischa Stetketee <m.f.b.steketee@amsterdamumc.nl>",
+    "url": "https://github.com/tgac-vumc/statescoper",
     "registry": "bioc"
   },
   {
