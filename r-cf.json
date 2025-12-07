@@ -8,5 +8,10 @@
     "package": "ncdfCF",
     "maintainer": "Patrick Van Laake <patrick@vanlaake.net>",
     "url": "https://github.com/r-cf/ncdfcf"
+  },
+  {
+    "package": "zarr",
+    "maintainer": "Patrick Van Laake <patrick@vanlaake.net>",
+    "url": "https://github.com/r-cf/zarr"
   }
 ]
