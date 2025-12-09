@@ -1353,7 +1353,7 @@ bayesforecast,asael697
 bayesGARCH,ardiad
 BayesGmed,belayb
 BayesGOF,cran
-BayesGP,cran
+BayesGP,bayes-gp
 BayesGPfit,kangjian2016
 BayesGrowth,jonathansmart
 BayesGWQS,mmcarli
@@ -2980,6 +2980,7 @@ ChaosGame,leamais1
 chapensk,langenbergstefan
 Characterization,ohdsi
 charcuterie,jonocarroll
+charisma,shawntz
 charlatan,ropensci
 charlesschwabapi,njbultman
 chartql,rmsyed
@@ -3617,7 +3618,7 @@ cointReg,aschersleben
 cola,bioc
 cold,cran
 colf,lyzander
-collapse,sebkrantz
+collapse,fastverse
 CollapseLevels,krishanu1181
 collapsibleTree,adeelk93
 collateral,jimjam-slam
@@ -5400,6 +5401,7 @@ disto,talegari
 distops,lmjl-alea
 distory,emmanuelparadis
 DistPlotter,ccasement
+distplyr,probaverse
 distr,r-forge
 distrDoc,r-forge
 distreg.vis,stan125
@@ -5682,7 +5684,7 @@ dreamer,rich-payne
 dreamerr,lrberge
 dreamlet,bioc
 DREGAR,hamedhm
-drf,lorismichel
+drf,jeffnaef
 drgee,drjoze
 drglm,nayemmh
 DRHotNet,albrizre
@@ -6996,6 +6998,7 @@ familial,ryan-thompson
 familiar,alexzwanenburg
 Familias,thoree
 Families,willekens
+famish,probaverse
 FAmle,tpetzoldt
 FAMoS,gabelhub
 famSKATRC,kkunji
@@ -9998,7 +10001,6 @@ hopkins,kwstat
 HoRM,dsy109
 hornpa,flh3
 Horsekicks,billvenables
-horseshoe,svdpas
 horseshoenlm,maitya02
 hosm,mubarakfadhlul
 HospitalNetwork,pascalcrepey
@@ -10842,7 +10844,7 @@ ipsfs,pandaramaranjan
 ipsRdbs,sujit-sahu
 ipumsr,ipums
 IPV,nilspetras
-ipw,cran
+ipw,tranhung93
 IPWboxplot,anaperezgonzalez
 ipwCoxCSV,shu-d
 ipwErrorY,shu-d
@@ -11868,7 +11870,7 @@ LikertMakeR,winzarh
 lilikoi,granatumx
 lillies,cran
 LilRhino,travis-barton
-lime,emilhvitfeldt
+lime,tidymodels
 limexhub,limex-com
 limma,bioc
 limmaGUI,bioc
@@ -12388,6 +12390,7 @@ mailtoR,feddelegrand7
 MainExistingDatasets,ecamenen
 MAINT.Data,apedrods
 MAIT,bioc
+MAIVE,meta-analysis-es
 MajKMeans,sheikhi-a
 MajMinKmeans,sheikhi-a
 makecdfenv,bioc
@@ -12851,7 +12854,7 @@ MEAL,bioc
 meanr,wrathematics
 meanShiftR,jlisic
 meantables,mbcann01
-measr,wjakethompson
+measr,r-dcm
 MeasurementDiagnostics,ohdsi
 MeasurementError.cor,bioc
 measurementProtocol,markedmondson1234
@@ -13272,6 +13275,7 @@ MICsplines,yili-hong
 MICSQTL,bioc
 micsr,ycroissant
 micss,andreusanso
+micvar,mikehellstern
 midas,shapenaji
 midas2,sullivan0147
 midasHLA,bioc
@@ -13973,7 +13977,7 @@ Mqrcm,cran
 mr.pivw,siqixu
 MR.RGM,bitansa
 MRAM,cran
-mrap,olgalezhnina
+mrap,cran
 mratios,cran
 mrbayes,okezie94
 mrbin,kleinomicslab
@@ -18470,6 +18474,7 @@ Rdatasets,vincentarelbundock
 rdav,gk-crop
 rdbnomics,s915
 rdcmchecks,r-dcm
+rdcor,cran
 rddapp,felixthoemmes
 rddensity,xinweima
 rddi,dswoulf
@@ -19113,7 +19118,6 @@ rhnerm,cran
 rhoneycomb,plantbreedingbiometryaua2
 rhoR,codymarquart
 rhosa,tabe
-rhosp,cran
 RHPCBenchmark,jrmccombs
 RhpcBLASctl,e-nakama
 RHRT,vblesius
@@ -19126,7 +19130,7 @@ rhymer,landesbergn
 rhype,hwarden162
 ri2,acoppock
 RI2by2,joerigdon
-RIA,cran
+RIA,martonkolossvary
 rIACI,nan-z-byte
 riAFTBART,freyrray
 rib,lbilli
@@ -21543,7 +21547,6 @@ SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
 SiPhyNetwork,jjustison
 siplab,ogarciav
-SIPmg,zielslab
 SiPSiC,bioc
 siqr,zzz1990771
 sirad,r-forge

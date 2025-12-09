@@ -90,6 +90,11 @@
     "url": "https://github.com/tidymodels/infer"
   },
   {
+    "package": "lime",
+    "maintainer": "Emil Hvitfeldt <emilhhvitfeldt@gmail.com>",
+    "url": "https://github.com/tidymodels/lime"
+  },
+  {
     "package": "modeldata",
     "maintainer": "Max Kuhn <max@posit.co>",
     "url": "https://github.com/tidymodels/modeldata"
