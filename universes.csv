@@ -155,6 +155,7 @@ adapt4pv,cran
 adaptalint,maxconway
 adaptDiag,graemeleehickey
 AdaptGauss,mthrun
+AdaptiveBoxplot,cran
 adaptiveGPCA,jfukuyama
 adaptivetau,plfjohnson
 adaptIVPT,daeyounglim
@@ -577,6 +578,7 @@ ananke,nfrerebeau
 AnanseSeurat,jgasmits
 anansi,bioc
 Anaquin,bioc
+aNCA,pharmaverse
 AncestryMapper,eoh-gh
 AnchorRegression,simzim96
 ANCOMBC,bioc
@@ -3377,6 +3379,7 @@ Cluster.OBeu,okgreece
 clusterability,zachneville
 ClusterBootstrap,mathijsdeen
 clusterCrit,iagogv3
+ClusteredMutations,cran
 clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
@@ -4330,6 +4333,7 @@ CrossValidate,cran
 crossvalidationCP,florianpein
 crosswalkr,btskinner
 crov,cran
+crownsegmentr,lenostatos
 crqa,morenococo
 crrcbcv,cran
 crrSC,cran
@@ -4892,6 +4896,7 @@ decompDL,kapiliasri
 decompML,kapiliasri
 decomposedPSF,neerajdhanraj
 DecomposeR,sewouter
+decompositionLE,herts-phei
 decompr,bquast
 decompTumor2Sig,bioc
 DeconRNASeq,bioc
@@ -9503,6 +9508,7 @@ gutenbergr,ropensci
 GUTS,ojakoby
 GVARX,cran
 gvc,bquast
+gvcAnalyzer,ballavbabu
 gvcR,myaseen208
 gVenn,bioc
 Gviz,bioc
@@ -10965,7 +10971,7 @@ IsoSpecR,matteolacki
 isoSurv,zea23i651096531
 isotone,r-forge
 isotonic.pen,cran
-isotracer,matthieu-bruneaux
+isotracer,cran
 isotree,david-cortes
 isoWater,bumbanian
 ISOweek,cran
@@ -13099,6 +13105,7 @@ MethodOpt,cran
 MethPed,bioc
 MethReg,bioc
 methrix,bioc
+MethScope,hongxiang2023
 MethTargetedNGS,bioc
 MethylAid,bioc
 methylCC,bioc
@@ -13649,7 +13656,7 @@ MM4LMM,laportefab
 mma,qingzhaoyu
 mmabig,qingzhaoyu
 MMAC,joelkilty
-MMAD,cran
+MMAD,gujq5
 mmand,jonclayden
 mmap,jaryan
 mmapcharr,privefl
@@ -14093,6 +14100,7 @@ MSnbase,bioc
 MSnID,bioc
 msos,coatless-rpkg
 MSoutcomes,cran
+msPCA,jeanpauphilet
 mspms,bioc
 MSPrep,bioc
 MSPRT,sandy-pramanik
@@ -17407,6 +17415,7 @@ PSSIM,hwanggit
 PSSMCOOL,biocool-lab
 pssmooth,mjuraska
 psSubpathway,hanjunwei-lab
+PSsurvival,cxinyang
 PST,r-forge
 Pstat,cran
 pstest,pedrohcgs
@@ -18583,6 +18592,7 @@ readtextgrid,tjmahr
 readxl,tidyverse
 ready4,ready4-dev
 readyomics,lmartinezgili
+RealSurvSim,mariathurow
 realtest,gagolews
 realTimeloads,dlivsey
 RealVAMS,akarl46556
@@ -18908,6 +18918,7 @@ resilience,rvaradhan
 ResIN,pwarncke77
 ResIndex,anandorjha
 ResistorArray,robinhankin
+resizableSplitLayout,schaffman5
 reslife,an-crawford
 reslr,maeveupton
 resmush,dieghernan
@@ -19704,7 +19715,7 @@ Rosenbrock,martin-wiegand
 ROSeq,bioc
 roseRF,cran
 rosetta,cran
-rosetteApi,seth-mg
+rosetteApi,cran
 rosm,paleolimbot
 rosmium,ipeagit
 rospca,treynkens
@@ -21113,6 +21124,7 @@ shapr,norskregnesentral
 shapviz,modeloriented
 shar,r-spatialecology
 SharedObject,bioc
+SHARK4R,sharksmhi
 SharkDemography,jonathansmart
 sharp,barbarabodinier
 sharpData,wjbraun
@@ -21543,6 +21555,7 @@ singR,laowang-123
 singscore,bioc
 sinib,boxiangliu
 SINRELEF.LD,cran
+SIP,acannis
 SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
 SiPhyNetwork,jjustison
@@ -22476,6 +22489,7 @@ ssize,bioc
 ssize.fdr,cran
 ssizeRNA,ranbi1990
 SSLASSO,gemoran
+SSLfmm,cran
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
 ssmodels,fsbmat-ufv
@@ -24753,6 +24767,7 @@ valottery,clayford
 valr,rnabioco
 valueEQ5D,sheejamk
 valuemap,curycu
+valueprhr,isadorenabi
 VAM,hrobertfrost
 vamc,my-jiang
 VancouvR,mountainmath
@@ -24824,6 +24839,7 @@ VBTree,cubiczebra
 VBV,dsteuer
 VC2copula,tnagler
 VCA,cran
+VCBART,skdeshpande91
 vccp,xinxiong0238
 vcd,cran
 vcd2df,vcd2df

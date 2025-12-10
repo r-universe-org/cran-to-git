@@ -3,5 +3,10 @@
     "package": "goodpractice",
     "maintainer": "Mark Padgham <mark@ropensci.org>",
     "url": "https://github.com/ropensci-review-tools/goodpractice"
+  },
+  {
+    "package": "pkgstats",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci-review-tools/pkgstats"
   }
 ]
