@@ -6904,6 +6904,7 @@ eyetrackingR,samhforbes
 eyeTrackR,cran
 ez,mike-lawrence
 ez.combat,cran
+EZbakR,isaacvock
 ezcox,shixiangwang
 ezCutoffs,bschmalbach
 ezec,grunwaldlab
@@ -6966,6 +6967,7 @@ factorstochvol,gregorkastner
 factory,jonthegeek
 Factoshiny,husson
 factR,bioc
+factree,jiaqihu2021
 factReg,bartjanvanrossum
 factset.protobuf.stach.v2,charlie430
 fad,somakd
@@ -9661,6 +9663,7 @@ HCT,cran
 HCTDesign,tpatni719
 HCTR,lethargy608
 hctrial,edelmand21
+HCUPtools,vikrant31
 hda,g-rho
 HDANOVA,khliland
 hdar,eea
@@ -10086,6 +10089,7 @@ HTSFilter,bioc
 htsr,p-chevallier
 HTT,jiaqihu2021
 httk,usepa
+httkexamples,wambaughul
 httpcache,nealrichardson
 httpcode,sckott
 httping,sckott
@@ -10971,7 +10975,7 @@ IsoSpecR,matteolacki
 isoSurv,zea23i651096531
 isotone,r-forge
 isotonic.pen,cran
-isotracer,cran
+isotracer,matthieu-bruneaux
 isotree,david-cortes
 isoWater,bumbanian
 ISOweek,cran
@@ -11024,6 +11028,7 @@ iucnr,paulesantos
 ivaBSS,cran
 IVAS,bioc
 IVCor,scottpanhan
+ivd,consistentlybetter
 ivdesc,sumtxt
 ivdesign,cran
 ivDiag,cran
@@ -13474,6 +13479,7 @@ mixdist,cran
 mixedBayes,kunfa
 mixedbiastest,akarl46556
 mixedCCA,irinagain
+mixedfact,sukantaiasri
 MixedIndTests,bouchranasri
 MixedLevelRSDs,ashutoshdalal97
 mixedLSR,alexanderjwhite
@@ -15626,6 +15632,7 @@ Oscope,bioc
 OSCV,osavchuk
 osd,xdomingoal
 osdatahub,cran
+osdc,steno-aarhus
 osDesign,shaneuse
 OSDR,cran
 OSFD,shangkun-wang
@@ -17259,6 +17266,7 @@ PROJ,hypertidy
 proj4,s-u
 ProjectionBasedClustering,mthrun
 projections,reconhub
+projectLSA,hasandjidu
 ProjectManagement,juan-goncalves-dosantos
 projectR,bioc
 projects,clevelandclinicqhs
@@ -17582,6 +17590,7 @@ qbld,ayushmclaren
 QBMS,icarda
 qboxplot,thomaswpike
 qbr,bhii-ksc
+qbrms,tony-myers
 QCA,dusadrian
 qcapower,ingorohlfing
 QCApro,cran
@@ -19715,7 +19724,7 @@ Rosenbrock,martin-wiegand
 ROSeq,bioc
 roseRF,cran
 rosetta,cran
-rosetteApi,cran
+rosetteApi,seth-mg
 rosm,paleolimbot
 rosmium,ipeagit
 rospca,treynkens
@@ -22086,6 +22095,7 @@ SpatGRID,cran
 spaths,cdueben
 spatial,cran
 SpatialAcc,cran
+spatialAtomizeR,bellayqian
 SpatialBSS,cran
 spatialCatalogueViewer,sebastien-plutniak
 spatialCovariance,cran
@@ -23818,6 +23828,7 @@ TimeDepFrail,alessandragni
 timedeppar,peterreichert
 timeDF,niceume
 timeEL,paulowhite
+timefully,resourcefully-dev
 timeLineGraphics,barryzee
 timelineS,daheelee
 timeOmics,bioc
@@ -24185,6 +24196,7 @@ treeshap,modeloriented
 TreeSim,tanja819
 TreeSimGM,ohagen
 treesitter,davisvaughan
+treesitter.c,sounkou-bioinfo
 treesitter.r,r-lib
 treesliceR,araujomat
 treespace,thibautjombart
