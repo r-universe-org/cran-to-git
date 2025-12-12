@@ -1,5 +1,10 @@
 [
   {
+    "package": "CoxBoost",
+    "maintainer": "John Zobolas <bblodfon@gmail.com>",
+    "url": "https://github.com/cran/CoxBoost"
+  },
+  {
     "package": "fastVoteR",
     "maintainer": "John Zobolas <bblodfon@gmail.com>",
     "url": "https://github.com/bblodfon/fastvoter"

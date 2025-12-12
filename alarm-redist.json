@@ -2,7 +2,8 @@
   {
     "package": "alarmdata",
     "maintainer": "Cory McCartan <corymccartan@nyu.edu>",
-    "url": "https://github.com/alarm-redist/alarmdata"
+    "url": "https://github.com/alarm-redist/alarmdata",
+    "registry": "archived"
   },
   {
     "package": "ggredist",
@@ -22,7 +23,8 @@
   {
     "package": "redistverse",
     "maintainer": "Christopher T. Kenny <ctkenny@proton.me>",
-    "url": "https://github.com/alarm-redist/redistverse"
+    "url": "https://github.com/alarm-redist/redistverse",
+    "registry": "archived"
   },
   {
     "package": "tinytiger",

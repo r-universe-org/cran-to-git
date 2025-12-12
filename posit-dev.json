@@ -39,5 +39,10 @@
     "package": "snowflakeauth",
     "maintainer": "E. David Aja <david@posit.co>",
     "url": "https://github.com/posit-dev/snowflakeauth"
+  },
+  {
+    "package": "yaml12",
+    "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+    "url": "https://github.com/posit-dev/r-yaml12"
   }
 ]
