@@ -3069,6 +3069,12 @@
     "registry": "bioc"
   },
   {
+    "package": "damidBind",
+    "maintainer": "Owen Marshall <owen.marshall@utas.edu.au>",
+    "url": "https://github.com/marshall-lab/damidbind",
+    "registry": "bioc"
+  },
+  {
     "package": "DaMiRseq",
     "maintainer": "Mattia Chiesa <mattia.chiesa@cardiologicomonzino.it>",
     "url": "https://git.bioconductor.org/packages/DaMiRseq",

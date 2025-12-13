@@ -1,5 +1,10 @@
 [
   {
+    "package": "bayestransmission",
+    "maintainer": "Andrew Redd <andrew.redd@hsc.utah.edu>",
+    "url": "https://github.com/epiforesite/bayestransmission"
+  },
+  {
     "package": "branchingprocess",
     "maintainer": "Damon Toth <damon.toth@hsc.utah.edu>",
     "url": "https://github.com/epiforesite/branchingprocess"
