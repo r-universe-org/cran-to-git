@@ -323,7 +323,6 @@ Anaconda,https://github.com/plstenger/anaconda,,
 anacor,https://github.com/r-forge/psychor,pkg/anacor,
 analogsea,https://github.com/pachadotdev/analogsea,,
 analogue,https://github.com/gavinsimpson/analogue,,
-AnalysisLin,https://github.com/zhiweilin27/analysislin,,archived
 ananke,https://codeberg.org/tesselle/ananke,,
 AnanseSeurat,https://github.com/jgasmits/ananseseurat,,
 anansi,https://github.com/thomazbastiaanssen/anansi,,bioc
@@ -383,6 +382,7 @@ anticlust,https://github.com/m-py/anticlust,,
 antiProfiles,https://github.com/hcbravolab/antiprofiles,,bioc
 antitrust,https://github.com/luciu5/antitrust,,
 antiword,https://github.com/ropensci/antiword,,
+AnVIL,https://github.com/bioconductor/anvil,,bioc
 AnVILAz,https://github.com/bioconductor/anvilaz,,bioc
 AnVILBase,https://github.com/bioconductor/anvilbase,,bioc
 AnVILBilling,https://github.com/vjcitn/anvilbilling,,bioc
@@ -1638,7 +1638,7 @@ casebase,https://github.com/sahirbhatnagar/casebase,,
 CaseBasedReasoning,https://github.com/sipemu/case-based-reasoning,,
 cases,https://github.com/maxwestphal/cases,,
 casimir,https://github.com/deutsche-nationalbibliothek/casimir,,
-casino,https://github.com/anthonypileggi/casino,,
+casino,https://github.com/anthonypileggi/casino,,archived
 casper,https://github.com/davidrusi/casper,,bioc
 cassandRa,https://github.com/jcdterry/cassandra,,
 cassowaryr,https://github.com/numbats/cassowaryr,,
@@ -2539,7 +2539,7 @@ covfefe,https://github.com/mkirch/covfefe,,
 COVID19,https://github.com/covid19datahub/covid19,,
 covid19.analytics,https://github.com/mponce0/covid19.analytics,,
 covid19br,https://github.com/fndemarqui/covid19br,,
-covid19dbcand,https://github.com/interstellar-consultation-services/covid19dbcand,,
+covid19dbcand,https://github.com/interstellar-egypt/covid19dbcand,,
 covid19india,https://github.com/maxsal/covid19india,,
 covid19italy,https://github.com/ramikrispin/covid19italy,,
 covid19sf,https://github.com/ramikrispin/covid19sf,,
@@ -2571,7 +2571,7 @@ coxrobust,https://github.com/shanascogin/coxrobust,,
 coxrt,https://github.com/bella2001/coxrt,,
 CP,https://github.com/andreasstatsr/cp,,
 cpam,https://github.com/l-a-yates/cpam,,
-CPAT,https://github.com/ntguardian/cpat,,
+CPAT,https://github.com/ntguardian/cpat,,archived
 CPBayes,https://github.com/arunabhacodes/cpbayes,,
 CPC,https://github.com/imehlhaff/cpc,,
 cpgfR,https://github.com/datafobia/cpgf,,
@@ -4245,7 +4245,6 @@ expm,https://github.com/r-forge/expm,pkg,
 export,https://github.com/tomwenseleers/export,,
 ExPosition,https://github.com/derekbeaton/exposition1,ExPosition,
 ExposR,https://github.com/expos-model/exposr,,
-expowo,https://github.com/dboslab/expowo,,archived
 ExpressionAtlas,https://github.com/ebi-gene-expression-group/bioconductor-expressionatlas,,bioc
 expsmooth,https://github.com/robjhyndman/expsmooth,,
 expss,https://github.com/gdemin/expss,,
@@ -7031,7 +7030,7 @@ Keng,https://github.com/qyaozh/keng,,
 KEPTED,https://github.com/tyy20/kepted,,
 keras3,https://github.com/rstudio/keras3,,
 kerasnip,https://github.com/davidrsch/kerasnip,,
-kerastuneR,https://github.com/eagerai/kerastuner,,
+kerastuneR,https://github.com/eagerai/kerastuner,,archived
 kernelboot,https://github.com/twolodzko/kernelboot,,
 KernelKnn,https://github.com/mlampros/kernelknn,,
 kernelshap,https://github.com/modeloriented/kernelshap,,
@@ -8735,7 +8734,7 @@ mSigTools,https://github.com/rozen-lab/msigtools,,
 msImpute,https://github.com/davislaboratory/msimpute,,bioc
 MSIMST,https://github.com/rh8liuqy/msimst,,
 MSiP,https://github.com/mrbakhsh/msip,,
-mskcc.oncotree,https://github.com/maialab/mskcc.oncotree,,
+mskcc.oncotree,https://github.com/maialab/mskcc.oncotree,,archived
 msm,https://github.com/chjackson/msm,,
 MSML,https://github.com/mommy003/msml,,
 MSnbase,https://github.com/lgatto/msnbase,,bioc
@@ -10126,7 +10125,7 @@ phecodemap,https://github.com/celehs/phecodemap,,
 PHEindicatormethods,https://github.com/dhsc-govuk/pheindicatormethods,,
 phenesse,https://github.com/mbelitz/phenesse,,
 phenocamr,https://github.com/bluegreen-labs/phenocamr,,
-phenofit,https://github.com/eco-hydro/phenofit,,
+phenofit,https://github.com/eco-hydro/phenofit,,archived
 phenomap,https://github.com/jepsonnomad/phenomap,,
 PheNorm,https://github.com/celehs/phenorm,,
 Phenotype,https://github.com/biozhp/phenotype,,
@@ -11074,11 +11073,10 @@ quickPlot,https://github.com/predictiveecology/quickplot,,
 quickpsy,https://github.com/danilinares/quickpsy,,
 quickPWCR,https://github.com/billbillbilly/quickpwcr,,
 quickr,https://github.com/t-kalinowski/quickr,,
-quicR,https://github.com/gage1145/quicr,,archived
 quid,https://github.com/lukasklima/quid,,
 quietR,https://github.com/thomascjohnson/quietr,,
 quiltr,https://github.com/cjbarrie/quiltr,,
-quincunx,https://github.com/ramiromagno/quincunx,,
+quincunx,https://github.com/ramiromagno/quincunx,,archived
 quitefastmst,https://github.com/gagolews/quitefastmst,,
 quollr,https://github.com/jayanilakshika/quollr,,
 quotedargs,https://github.com/radfordneal/quotedargs,,
@@ -14322,7 +14320,7 @@ StormR,https://github.com/umr-amap/stormr,,
 storr,https://github.com/richfitz/storr,,
 stors,https://github.com/ahmad-alqabandi/stors,,
 stortingscrape,https://github.com/martigso/stortingscrape,,
-stoRy,https://github.com/theme-ontology/story,,
+stoRy,https://github.com/theme-ontology/story,,archived
 storywranglr,https://github.com/chris31415926535/storywranglr,,
 STPGA,https://github.com/denizakdemir/stpga,,
 stPipe,https://github.com/mritchielab/stpipe,,bioc
@@ -14934,7 +14932,7 @@ tidier,https://github.com/talegari/tidier,,
 tidyAML,https://github.com/spsanderson/tidyaml,,
 tidybayes,https://github.com/mjskay/tidybayes,,
 tidyBdE,https://github.com/ropenspain/tidybde,,
-tidybins,https://github.com/harrison4192/tidybins,,
+tidybins,https://github.com/harrison4192/tidybins,,archived
 tidyboot,https://github.com/langcog/tidyboot,,
 tidybulk,https://github.com/tidyomics/tidybulk,,bioc
 tidycat,https://github.com/guyabel/tidycat,,
@@ -16311,7 +16309,7 @@ ZIM,https://github.com/mingstat/zim,,
 ZIM4rv,https://github.com/fanx0037/zim4rv,,
 zinbwave,https://github.com/drisso/zinbwave,,bioc
 zip,https://github.com/r-lib/zip,,
-zipangu,https://github.com/uribo/zipangu,,
+zipangu,https://github.com/uribo/zipangu,,archived
 zipcodeR,https://github.com/gavinrozzi/zipcoder,,
 zipfextR,https://github.com/ardlop/zipfextr,,
 zipfR,https://github.com/r-forge/zipfr,pkg/zipfR,
