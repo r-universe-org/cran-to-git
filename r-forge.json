@@ -528,12 +528,6 @@
     "subdir": "pkg/Polychrome"
   },
   {
-    "package": "polycor",
-    "maintainer": "John Fox <jfox@mcmaster.ca>",
-    "url": "https://github.com/r-forge/polycor",
-    "subdir": "pkg"
-  },
-  {
     "package": "POT",
     "maintainer": "Christophe Dutang <dutangc@gmail.com>",
     "url": "https://github.com/r-forge/pot",

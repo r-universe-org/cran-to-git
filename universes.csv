@@ -4337,6 +4337,7 @@ CrossValidate,cran
 crossvalidationCP,florianpein
 crosswalkr,btskinner
 crov,cran
+CrownScorchTLS,jbcannon
 crownsegmentr,lenostatos
 crqa,morenococo
 crrcbcv,cran
@@ -11184,6 +11185,7 @@ josaplay,mrchypark
 jose,r-lib
 jot,christopherkenny
 journalabbr,zoushucai
+journalR,epi-sam
 JOUSBoost,molson2
 joyn,randrescastaneda
 jpcity,uchidamizuki
@@ -12468,7 +12470,7 @@ manta,dgarrimar
 MantaID,molaison
 mantar,kai-nehler
 MantelCorr,bioc
-mantis,phuongquan
+mantis,ropensci
 manydata,globalgov
 manydist,amarkos
 ManyIVsNets,avishekb9
@@ -15127,7 +15129,6 @@ nscancor,chrsigg
 NScluster,cran
 nse,keblu
 nseq,rfsaldanha
-nser,nandp1
 nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,grantschneider
@@ -16854,7 +16855,7 @@ polyaAeppli,cjb105
 polyapost,cran
 Polychrome,r-forge
 polyclip,baddstats
-polycor,r-forge
+polycor,dmurdoch
 PolycrossDesigns,ashutoshdalal97
 polyCub,bastistician
 polyglotr,tomeriko96
@@ -17017,6 +17018,7 @@ powertools,powerandsamplesize
 PowerTOST,detlew
 PowerUpR,metinbulus
 powRICLPM,jeroendmulder
+PowRPriori,mirgll
 POWSC,bioc
 PP,jansteinfeld
 PPbigdata,yajie1020
@@ -17223,6 +17225,7 @@ ProActive,jlmaier12
 ProAE,blakelanglais
 probably,tidymodels
 proBAMr,bioc
+probaverse,probaverse
 ProbBayes,bayesball
 ProbBreed,saulo-chaves
 probe,alexmclain
@@ -17505,6 +17508,7 @@ PubMedMining,cran
 pubmedR,massimoaria
 pubmedtk,bgcarlisle
 PubMedWordcloud,felixfan
+pubrplot,umarhussain-git
 pubtatordb,mamc-dci
 pudu,pachadotdev
 puff,hammerling-research-group
@@ -19980,7 +19984,7 @@ rSFA,martinzaefferer
 Rsfar,haghbinh
 Rsgf,bcable
 RSGHB,rsginc
-rSHAPE,jdench
+rSHAPE,cran
 rshift,alexhroom
 rsi,ropensci
 rsides,cran
