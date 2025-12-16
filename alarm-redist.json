@@ -16,14 +16,13 @@
   },
   {
     "package": "redistmetrics",
-    "maintainer": "Christopher T. Kenny <christopherkenny@fas.harvard.edu>",
+    "maintainer": "Christopher T. Kenny <ctkenny@proton.me>",
     "url": "https://github.com/alarm-redist/redistmetrics"
   },
   {
     "package": "redistverse",
     "maintainer": "Christopher T. Kenny <ctkenny@proton.me>",
-    "url": "https://github.com/alarm-redist/redistverse",
-    "registry": "archived"
+    "url": "https://github.com/alarm-redist/redistverse"
   },
   {
     "package": "tinytiger",

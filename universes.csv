@@ -937,6 +937,7 @@ assignR,bumbanian
 assist,cran
 ASSISTant,bnaras
 AssocBin,cran
+AssociationExplorer2,antoinesoetewey
 assocInd,cran
 assorthead,bioc
 assortnet,cran
@@ -2818,6 +2819,7 @@ cdparcoord,cran
 cdrcR,aelissa
 CDsampling,cran
 CDSE,zivankaraman
+CDSim,ikemillar
 CDSS,chockemeyer
 CDVI,vishnumrstat
 CDVineCopulaConditional,cran
@@ -3699,7 +3701,7 @@ combiroc,ingmbioinfo
 combiter,kota7
 COMBO,kimberlywebb
 comclim,bblonder
-cometExactTest,mdml
+cometExactTest,cran
 coMethDMR,bioc
 cometr,comet-ml
 comets,lucaskook
@@ -4069,6 +4071,7 @@ corto,federicogiorgi
 CortSineScore,simone-anza
 corx,conig
 cosa,metinbulus
+cosCorr,githubmehmetcankaya
 coseq,bioc
 CoSIA,bioc
 cosimmr,emmagovan
@@ -7146,6 +7149,7 @@ FAVAR,common2016
 favawesome,shinyworks
 faviconPlease,jdblischak
 favnums,cran
+favr,lj-jenkins
 FAwR,cran
 fbar,maxconway
 fBasics,cran
@@ -7354,6 +7358,7 @@ finbif,luomus
 FinCal,felixfan
 finch,ropensci-archive
 FinCovRegularization,yanyachen
+FIND,cran
 findGSEP,sperfu
 findInFiles,stla
 findInGit,stla
@@ -11946,6 +11951,7 @@ LinkHD,bioc
 linkprediction,recon-icm
 linkSet,bioc
 linkspotter,orange-opensource
+linktree,cygei
 linl,eddelbuettel
 linne,johncoene
 Linnorm,bioc
@@ -12570,6 +12576,7 @@ markovmix,zhuxr11
 markovMSM,gsoutinho
 markowitz,luana1909
 MarkowitzR,shabbychef
+markstat,moradii
 marlod,cran
 marmap,ericpante
 MARMoT,albertocalore
@@ -15129,6 +15136,7 @@ nscancor,chrsigg
 NScluster,cran
 nse,keblu
 nseq,rfsaldanha
+nser,nandp1
 nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,grantschneider
@@ -15735,7 +15743,6 @@ owidapi,tidy-intelligence
 owidR,piersyork
 owmr,crazycapivara
 ows4R,eblondel
-ox,gogonzo
 oxcAAR,isaakiel
 OxSR,fgu5tav0
 OxyBS,eahouseman
@@ -17148,6 +17155,7 @@ presens,matthewabirk
 presenter,harrison4192
 presentes,diegokoz
 preseqR,cran
+PResiduals,cran
 presize,ctu-bern
 presmoothedTP,gsoutinho
 presmTP,gsoutinho
@@ -17874,7 +17882,6 @@ quint,elisedus
 quitefastmst,gagolews
 quollr,jayanilakshika
 quoradsR,pablosanmar
-quotedargs,radfordneal
 quRan,andrewheiss
 QurvE,nicwir
 qusage,bioc
@@ -18674,6 +18681,7 @@ Recon,pedrocava
 reconsi,bioc
 reconstructKM,ryansunwork
 reconstructr,ironholds
+recor,byaxb
 recorder,smaakage85
 RecordLinkage,sym33
 Records,cran
@@ -19285,6 +19293,7 @@ rjags,martynplummer
 RJalaliDate,h-rabiee
 rJava,s-u
 rJavaEnv,e-kotov
+rjd3jars,tanguybarthelemy
 RJDBC,s-u
 RJDemetra,rjdverse
 rjdmarkdown,aqlt
@@ -19984,7 +19993,7 @@ rSFA,martinzaefferer
 Rsfar,haghbinh
 Rsgf,bcable
 RSGHB,rsginc
-rSHAPE,cran
+rSHAPE,jdench
 rshift,alexhroom
 rsi,ropensci
 rsides,cran
@@ -21757,6 +21766,7 @@ smartsizer,wilart
 smartsnp,christianhuber
 SmartSVA,cran
 SMASH,cran
+smashr,stephenslab
 smatr,remkoduursma
 smbinning,hjopia
 smcfcs,jwb133
