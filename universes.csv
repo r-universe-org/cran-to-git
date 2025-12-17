@@ -5085,7 +5085,6 @@ DescriptiveRepresentationCalculator,cjerzak
 DescriptiveStats.OBeu,okgreece
 DescriptiveWH,william-hc
 descriptr,rsquaredacademy
-DescrTab2,imbi-heidelberg
 descstat,ycroissant
 descstatsr,harryyy213
 descsuppR,fkueck
@@ -7293,6 +7292,7 @@ fftw,uligges
 fftwtools,krahim
 FGalgorithm,cran
 fGarch,cran
+fgdiR,mcareyucd
 fgeo,forestgeo
 fgeo.analyze,forestgeo
 fgeo.plot,forestgeo
@@ -10281,6 +10281,7 @@ ICC.Sample.Size,cran
 ICcalib,daniel258
 iccbeta,tmsalab
 ICCbin,akhtarh
+iccCompare,jlcarrascoub
 iccCounts,jlcarrascoub
 iccde,cran
 ICcforest,weichiyao
@@ -12214,7 +12215,6 @@ lowmemtkmeans,andrewthomasjones
 lowpassFilter,florianpein
 LowRankQP,johnormerod
 LowWAFOMNX,mersennetwister-lab
-LowWAFOMSobol,mersennetwister-lab
 lpacf,adunaic
 lpanda,localpolitics
 LPBkg,salgeri
@@ -13021,7 +13021,6 @@ metabup,dcahoy
 metacart,github-ms
 metaCCA,bioc
 metaCluster,diprosinha
-metacoder,grunwaldlab
 metacom,taddallas
 MetaComp,seninp-bioinfo
 metaconfoundr,malcolmbarrett
@@ -14076,7 +14075,7 @@ MSbox,yonghuidong
 MSBStatsData,mchlbckr
 MSCA,marc-75
 MSCCT,hminp
-msce,cristoforosimonetto
+msce,cran
 mschart,ardata-fr
 MSclassifR,cran
 MSclust,cran
@@ -14862,6 +14861,7 @@ nJira,nikhilchoudhry
 NlcOptim,cran
 nlcv,lcougnaud
 nleqslv,cran
+nlgeocoder,urosconf
 nlgm,cran
 NlinTS,hmamouche
 nlist,poissonconsulting
@@ -16419,7 +16419,7 @@ PHInfiniteEstimates,kolassa-dev
 PhIPData,bioc
 PhitestR,cran
 phm,elliesmall
-phoenics,cran
+phoenics,r-serv
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
 phonetisr,stefanocoretta
@@ -20284,7 +20284,6 @@ rxSeq,cran
 RXshrink,rlobenchain
 rxylib,r-lum
 Ryacas,r-cas
-Ryacas0,r-cas
 ryandexdirect,selesnow
 RYandexTranslate,mukul13
 rym,selesnow
@@ -20828,6 +20827,7 @@ season,agbarnett
 seasonal,christophsax
 seasonalityPlot,kumes
 seasonalview,christophsax
+seasonalytics,cran
 SeaSondeR,gofuvi
 seastests,danielollech
 SeaVal,cran
@@ -21264,7 +21264,7 @@ shinykanban,ugurdar
 shinyKGode,glasgowcompbio
 shinyKnobs,cotepat
 shinylight,tim-band
-ShinyLink,yaoxiangli
+ShinyLink,cdc-addm
 shinylive,posit-dev
 shinyloadtest,rstudio
 shinylogs,dreamrs
@@ -21356,7 +21356,7 @@ shrinkem,cran
 shrinkGPR,neferkareii
 shrinkTVP,neferkareii
 shrinkTVPVAR,neferkareii
-shroomDK,charlieflipside
+shroomDK,charliemarketplace
 SHT,kisungyou
 shuffle,yuvalbenjamini
 shuffleCI,kylecaudle
@@ -23806,7 +23806,6 @@ tidysmd,r-causal
 tidySpatialExperiment,bioc
 tidyspec,marceelrf
 tidysq,biogenies
-tidystats,willemsleegers
 tidystopwords,computationalstylistics
 tidystringdist,colinfay
 tidySummaries,kleanthisk10
@@ -25246,6 +25245,7 @@ wavScalogram,cran
 waydown,pabrod
 WayFindR,cran
 Waypoint,mark-eis
+waysign,thomasp85
 waywiser,ropensci
 wbacon,tobiasschoch
 wbids,teal-insights
