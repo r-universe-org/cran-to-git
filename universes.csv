@@ -454,6 +454,7 @@ alfr,rwetherall
 alfred,onnokleen
 algaeClassify,vijpatil
 AlgDesign,jvbraun
+algebraic.dist,queelius
 AlgebraicHaploPackage,cran
 AlgeriAPIs,lightbluetitan
 algo,feddelegrand7
@@ -4386,6 +4387,7 @@ CSclone,tsungyuwu
 CSCNet,cran
 csdata,csids
 csdb,csids
+CSDownscale,cran
 csdR,bioc
 cSEM,floschuberth
 CSeqpat,hz6yc3
@@ -4513,6 +4515,7 @@ CustomDerivative,aim-it4
 CustomerScoringMetrics,koendebock
 customiser,jameslairdsmith
 customizedTraining,saberpowers
+customknitrender,cran
 customProDB,bioc
 CustosAscensor,iagomn
 cusum,cran
@@ -5233,7 +5236,7 @@ didec,yupingwang7
 Diderot,cran
 DiDforBigData,setzler
 DIDHAD,cran
-didimputation,cran
+didimputation,kylebutts
 DIDmultiplegt,cran
 DIDmultiplegtDYN,chaisemartinpackages
 didrooRFM,didroo55
@@ -6359,6 +6362,7 @@ EmpiricalCalibration,ohdsi
 emplik,maizhou
 emplik2,maizhou
 emplikAUC,maizhou
+emreliability,liuhuan90123
 ems,epimedplotly
 EMSaov,ek-lee
 EMSC,khliland
@@ -7395,6 +7399,7 @@ firebase,johncoene
 firebase.auth.rest,kennedymwavu
 firebehavioR,ecofire
 fireexposuR,ropensci
+fireproof,thomasp85
 firesafety,thomasp85
 firesale,thomasp85
 firestorm,thomasp85
@@ -8179,6 +8184,7 @@ gCrisprTools,bioc
 gcrma,bioc
 GCSM,liuyadong
 gcTensor,rikenbit
+gctsc,qnnhu
 gcxgclab,cran
 GD,ausgis
 GDAdata,impaug
@@ -9149,6 +9155,7 @@ googleTagManageR,cran
 googletraffic,dime-worldbank
 googleVis,mages
 googleway,symbolixau
+gooseR,blockbtheriault
 GOplot,wencke
 GOpro,bioc
 goProfiles,bioc
@@ -10742,7 +10749,7 @@ IntEREst,bioc
 interface,dereckmezquita
 InterfaceqPCR,cran
 interfacer,ai4ci
-interflex,lzy318
+interflex,cran
 intergraph,mbojan
 interim,bbecker-bayer
 interimApp,bbecker-bayer
@@ -12215,6 +12222,7 @@ lowmemtkmeans,andrewthomasjones
 lowpassFilter,florianpein
 LowRankQP,johnormerod
 LowWAFOMNX,mersennetwister-lab
+LowWAFOMSobol,mersennetwister-lab
 lpacf,adunaic
 lpanda,localpolitics
 LPBkg,salgeri
@@ -15357,6 +15365,7 @@ OmnipathR,bioc
 omock,ohdsi
 OmopConstructor,ohdsi
 omopgenerics,darwin-eu
+omophub,omophub
 OmopOnSpark,ohdsi
 OmopSketch,ohdsi
 OmopViewer,ohdsi
@@ -15904,7 +15913,7 @@ parallelly,futureverse
 parallelMap,mlr-org
 parallelMCMCcombine,stat108ds
 parallelpam,jdmde
-ParallelPC,thucduyle
+ParallelPC,cran
 parallelPlot,cran
 param2moment,tingtingzhan
 ParamANOVA,vicbrans
@@ -17812,6 +17821,7 @@ quanteda,quanteda
 quanteda.textmodels,quanteda
 quanteda.textplots,quanteda
 quanteda.textstats,quanteda
+quanteda.tidy,kbenoit
 QuAnTeTrack,macrofunuv
 quantification,jsugarelli
 quantileDA,viroli
@@ -18717,7 +18727,7 @@ RedeR,bioc
 REDI,cran
 ReDirection,cran
 RedisBaseContainer,jiefei-wang
-Rediscover,jferrer-b
+Rediscover,cran
 RedisParam,bioc
 redist,alarm-redist
 redistmetrics,alarm-redist
@@ -21217,7 +21227,7 @@ shinybiocloader,bioc
 shinybody,robert-norberg
 shinybrms,fweber144
 shinybrowser,daattali
-shinyBS,ebailey78
+shinyBS,federicomarini
 shinybusy,dreamrs
 shinyChakraSlider,stla
 shinyChakraUI,stla
@@ -21247,6 +21257,7 @@ shinyfa,dalyanalytics
 shinyFeedback,merlinoa
 shinyFiles,thomasp85
 shinyfilter,jsugarelli
+shinyfilters,joshwlivingston
 shinyfullscreen,etiennebacher
 shinyGizmo,krystian8207
 shinyglide,juba
@@ -21468,6 +21479,7 @@ simex,wolfganglederer
 simExam,wleoncio
 SIMEXBoost,cran
 simfam,ochoalab
+simFastBOIN,gosukehommaex
 SimFFPE,bioc
 simfinapi,matthiasgomolka
 simfit,limegreen
@@ -23674,6 +23686,7 @@ thgenetics,cran
 thief,robjhyndman
 thinkr,thinkr-open
 this.path,arcadeantics
+thisplot,mengxu98
 thisutils,mengxu98
 ThomasJeffersonUniv,tingtingzhan
 thor,richfitz
