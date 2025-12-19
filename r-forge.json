@@ -252,12 +252,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "fImport",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/r-forge/rmetrics",
-    "subdir": "pkg/fImport"
-  },
-  {
     "package": "FME",
     "maintainer": "Karline Soetaert <karline.soetaert@nioz.nl>",
     "url": "https://github.com/r-forge/fme",

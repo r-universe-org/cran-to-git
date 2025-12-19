@@ -2026,7 +2026,10 @@ blockmodeling,cran
 BlockmodelingGUI,cran
 blockmodels,grosssbm
 blockr.core,bristolmyerssquibb
+blockr.dag,bristolmyerssquibb
 blockr.dock,bristolmyerssquibb
+blockr.dplyr,bristolmyerssquibb
+blockr.ggplot,bristolmyerssquibb
 blockrand,glsnow
 blocksdesign,rned
 blockTools,ryantmoore
@@ -2495,6 +2498,7 @@ Cairo,s-u
 CAISEr,fcampelo
 calACS,agu-1
 CALANGO,fcampelo
+calba,mattocci27
 calcal,robjhyndman
 calcite,josiahparry
 CalcThemAll.PRM,alexwaterboybezzina
@@ -3129,7 +3133,6 @@ CIARA,gabrielelubatti
 CICA,jeffreydurieux
 cicalc,gsk-biostatistics
 ciCalibrate,samch93
-ciccr,sokbae
 cicero,bioc
 cicerone,johncoene
 CICI,cran
@@ -5295,6 +5298,7 @@ dilp,mjbutrim
 DIME,olechnwin
 dimensio,nfrerebeau
 dimensionsR,massimoaria
+Dimodal,cran
 DImodels,rafamoral
 DImodelsMulti,di-laurabyrne
 DImodelsVis,rishvish
@@ -5664,6 +5668,7 @@ dprop,imranshakoor
 dpseg,raim
 DPTM,hujiebai
 DPtree,cran
+DQA,elhamhsnzadeh
 DQAgui,miracum
 DQAstats,miracum
 dqrng,daqana
@@ -5694,7 +5699,7 @@ drcSeedGerm,onofriandreapg
 drcte,onofriandreapg
 drda,albertopessia
 DRDID,pedrohcgs
-DrDimont,cran
+DrDimont,kathbaum
 DRDRtest,weng-gw
 dream,cran
 dreamer,rich-payne
@@ -6710,6 +6715,7 @@ evalITR,michaellli
 evalR,cran
 EvalTest,nassimayad87
 evaluate,r-lib
+EvaluateCore,aravind-j
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
 evaluomeR,bioc
@@ -7353,7 +7359,7 @@ FilterFFPE,bioc
 filterNHP,avrincon
 filters,shajoezhu
 filtro,tidymodels
-fImport,r-forge
+fImport,geobosh
 finalfit,ewenharrison
 finalsize,epiverse-trace
 FinAna,peteryinr
@@ -7686,7 +7692,6 @@ forensim,mkruijver
 foreSIGHT,climateanalytics
 forestat,caf-ifrit
 forestControl,aberhrml
-forestdata,cidree
 ForestDisc,hmais
 forestecology,rudeboybert
 forested,simonpcouch
@@ -8761,6 +8766,7 @@ ggraptR,cargomoose
 ggrasp,idpcc
 ggrastr,vpetukhov
 ggrcs,cran
+ggrecipes,ignophi
 ggredist,alarm-redist
 ggrepel,slowkow
 ggResidpanel,goodekat
@@ -9654,6 +9660,7 @@ Hassani.SACF,leilamarvian
 Hassani.Silva,leilamarvian
 hassediagrams,gsk-biostatistics
 hatchR,bmait101
+havel,andrewghazi
 haven,tidyverse
 hawkes,riadhzaatour
 hawkesbow,fcheysson
@@ -9985,6 +9992,7 @@ HMMcopula,cran
 HMMcopy,bioc
 HMMEsolver,jwboys26
 HMMextra0s,cran
+HMMHSMM,cran
 hmmm,cran
 HMMmlselect,dorminiakao
 HMMpa,bips-hb
@@ -10698,6 +10706,7 @@ Inquilab,cran
 insane,mcanouil
 insect,shaunpwilkinson
 insee,pyr-opendatafr
+insetplot,fncokg
 inshiny,nicholasdavies
 insight,easystats
 InSilicoVA,verbal-autopsy-software
@@ -15176,6 +15185,7 @@ nuCpos,bioc
 NUETON,probablyshubham
 nuggets,beerda
 nullabor,dicook
+nullcat,matthewkling
 nullranges,bioc
 numbat,kharchenkolab
 numberize,epiverse-trace
@@ -15384,7 +15394,7 @@ onbrand,john-harrold
 onc.api,cran
 once,gdmcdonald
 oncmap,michalkouril
-OncoBayes2,weberse2
+OncoBayes2,novartis
 OncoDataSets,lightbluetitan
 Oncofilterfast,phoenix-chen-git
 oncomix,bioc
@@ -15913,7 +15923,7 @@ parallelly,futureverse
 parallelMap,mlr-org
 parallelMCMCcombine,stat108ds
 parallelpam,jdmde
-ParallelPC,cran
+ParallelPC,thucduyle
 parallelPlot,cran
 param2moment,tingtingzhan
 ParamANOVA,vicbrans
@@ -17284,6 +17294,7 @@ profExtrema,dazzimonti
 proffer,r-prof
 profile,r-prof
 profileCI,paulnorthrop
+ProfileGLMM,matteoamestoy
 ProfileLadder,42463863
 ProfileLikelihood,choileena
 profileModel,ikosmidis
@@ -17813,6 +17824,7 @@ qualvar,joelgombin
 QUALYPSO,guillaumeevin
 QuanDA,cran
 Quandl,quandl
+quantbayes,cran
 QuantBondCurves,camodays1
 quantCurves,nparamestimcurves
 quantdates,quantilma
@@ -18727,7 +18739,7 @@ RedeR,bioc
 REDI,cran
 ReDirection,cran
 RedisBaseContainer,jiefei-wang
-Rediscover,cran
+Rediscover,jferrer-b
 RedisParam,bioc
 redist,alarm-redist
 redistmetrics,alarm-redist
@@ -19207,6 +19219,7 @@ rice,maarten14c
 ricegeneann,cran
 riceidconverter,cran
 riceware,fmichonneau
+richCluster,hurlab
 Ricrt,flankado
 ricu,eth-mds
 rid,cran
@@ -21914,7 +21927,7 @@ SOAR,billvenables
 SOAs,bertcarnell
 Sobol4R,fbertran
 sobolnp,maikol-solis
-SobolSequence,cran
+SobolSequence,ashipunov
 soc.ca,rsoc
 socceR,ekstroem
 social,thomaswpike
@@ -22026,6 +22039,7 @@ sp,edzer
 SP2000,otoliths
 sp23design,hrpcisd
 spaa,helixcn
+spaAlign,omodolor
 spAbundance,ecoverser
 SpaCCI,cran
 spacefillr,tylermorganwall
@@ -22359,6 +22373,7 @@ splineplot,jinseob2kim
 splines2,wenjie2wang
 splineTimeR,bioc
 splinetree,anna-neufeld
+splinetrials,nikkrieger
 Splinets,ranibasna
 SPLINTER,bioc
 SPlit,cran
@@ -23958,6 +23973,7 @@ TLMoments,jlilienthal
 tLOH,bioc
 tlrmvnmvt,cran
 tls,liyanstat
+tlsR,cran
 tm,r-forge
 tm.plugin.alceste,nalimilan
 tm.plugin.dc,theussl

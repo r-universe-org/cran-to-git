@@ -5,8 +5,23 @@
     "url": "https://github.com/bristolmyerssquibb/blockr.core"
   },
   {
+    "package": "blockr.dag",
+    "maintainer": "David Granjon <david@cynkra.com>",
+    "url": "https://github.com/bristolmyerssquibb/blockr.dag"
+  },
+  {
     "package": "blockr.dock",
     "maintainer": "Nicolas Bennett <nicolas@cynkra.com>",
     "url": "https://github.com/bristolmyerssquibb/blockr.dock"
+  },
+  {
+    "package": "blockr.dplyr",
+    "maintainer": "Christoph Sax <christoph@cynkra.com>",
+    "url": "https://github.com/bristolmyerssquibb/blockr.dplyr"
+  },
+  {
+    "package": "blockr.ggplot",
+    "maintainer": "Christoph Sax <christoph@cynkra.com>",
+    "url": "https://github.com/bristolmyerssquibb/blockr.ggplot"
   }
 ]
