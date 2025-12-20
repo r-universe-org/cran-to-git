@@ -276,12 +276,6 @@
     "subdir": "pkg/frontier"
   },
   {
-    "package": "fUnitRoots",
-    "maintainer": "Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>",
-    "url": "https://github.com/r-forge/rmetrics",
-    "subdir": "pkg/fUnitRoots"
-  },
-  {
     "package": "fuzzySim",
     "maintainer": "A. Marcia Barbosa <ana.marcia.barbosa@gmail.com>",
     "url": "https://github.com/r-forge/fuzzysim",

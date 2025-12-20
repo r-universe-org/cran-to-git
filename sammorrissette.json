@@ -1,5 +1,10 @@
 [
   {
+    "package": "DPCD",
+    "maintainer": "Sam Morrissette <samuel.morrissette01@gmail.com>",
+    "url": "https://github.com/sammorrissette/dpcd"
+  },
+  {
     "package": "SC2API",
     "maintainer": "Samuel Morrissette <samuel.morrissette01@gmail.com>",
     "url": "https://github.com/sammorrissette/sc2api"

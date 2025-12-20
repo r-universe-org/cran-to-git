@@ -2,7 +2,8 @@
   {
     "package": "ari",
     "maintainer": "Sean Kross <sean@seankross.com>",
-    "url": "https://github.com/jhudsl/ari"
+    "url": "https://github.com/jhudsl/ari",
+    "registry": "archived"
   },
   {
     "package": "matahari",
@@ -22,6 +23,7 @@
   {
     "package": "text2speech",
     "maintainer": "Howard Baek <howardbaek.fh@gmail.com>",
-    "url": "https://github.com/jhudsl/text2speech"
+    "url": "https://github.com/jhudsl/text2speech",
+    "registry": "archived"
   }
 ]
