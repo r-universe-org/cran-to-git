@@ -902,6 +902,7 @@ ash,cran
 ashapesampler,cran
 ashr,stephens999
 asht,michaelfay-niaid
+AsianOption,plato-12
 ASICS,bioc
 AsioHeaders,eddelbuettel
 askgpt,jbgruber
@@ -1516,7 +1517,7 @@ bcROCsurface,toduckhanh
 bcRP,juliocollazos64
 bcrypt,jeroen
 bcSeq,bioc
-BCT,cran
+BCT,valentinian22
 bcv,michbur
 bda,cran
 BDAlgo,karasiewiczstephane
@@ -2173,6 +2174,7 @@ bootStepAIC,drizopoulos
 bootstrap,scottkosty
 bootstrapFP,rhobis
 BootstrapQTL,sritchie73
+BootstrapTests,alexisderumigny
 bootsurv,zmashreghi
 bootSVD,aaronjfisher
 bootUR,smeekes
@@ -3209,6 +3211,7 @@ citmre,davrodecon
 cito,citoverse
 ciTools,jthaman
 citrus,datadondom
+citsr,hmgu-urban
 ciu,cran
 ciuupi,pvkabaila
 ciuupi2,pvkabaila
@@ -3935,6 +3938,7 @@ contingency,rje42
 contingencytables,ocbe-uio
 contoso,usrbinr
 contoureR,cran
+contourforest,umarhussain-git
 ContourFunctions,collinerickson
 contourPlot,tonymurphy55
 contrast,alanocallaghan
@@ -5511,7 +5515,7 @@ DMCHMM,bioc
 dmetatools,nomahi
 dmGsea,bioc
 dml,terrytangyuan
-dmlalg,corinne-rahel
+dmlalg,cran
 dmm,nevillejackson
 DMMF,kwanghun
 dMod,dkaschek
@@ -6314,7 +6318,7 @@ elsa,babaknaimi
 ELT,etendard7
 eltr,randhirbilkhu
 ELViS,bioc
-ELYP,cran
+ELYP,maizhou
 em,wudongjie
 EM.Fuzzy,cran
 emailjsr,changwoolim
@@ -6420,6 +6424,7 @@ enpls,nanxstats
 EnrichDO,bioc
 EnrichedHeatmap,bioc
 EnrichIntersect,ocbe-uio
+enrichit,guangchuangyu
 EnrichmentBrowser,bioc
 enrichplot,bioc
 enrichR,wjawaid
@@ -7618,6 +7623,7 @@ fma,robjhyndman
 FMAdist,cran
 FMAT,psychbruce
 FMC,jiyosunny
+FMCensSkewReg,jiwonpark41
 fmcmc,uscbiostats
 fmcsR,bioc
 fmds,busingfmta
@@ -8325,7 +8331,7 @@ genepop,f-rousset
 GenePopStats,abhiksarkariasri
 generalCorr,hdvinod
 generalhoslem,matthewjay15
-GeneralisedCovarianceMeasure,jonaspet
+GeneralisedCovarianceMeasure,cran
 GeneralizedHyperbolic,r-forge
 GeneralizedUmatrix,mthrun
 GeneralizedUmatrixGPU,quirinms
@@ -11780,7 +11786,6 @@ leafsync,r-spatial
 leaftime,timelyportfolio
 leakr,cherylisabella
 leakyIV,dswatson
-leanpubr,muschellij2
 leapgp,knrumsey-lanl
 leapp,cran
 leapR,bioc
@@ -12506,6 +12511,7 @@ MantaID,molaison
 mantar,kai-nehler
 MantelCorr,bioc
 mantis,ropensci
+manureshed,cran
 manydata,globalgov
 manydist,amarkos
 ManyIVsNets,avishekb9
@@ -12622,7 +12628,6 @@ marsrad,georgeslabreche
 MARSS,atsa-es
 MARSSVRhybrid,cran
 martini,bioc
-MARVEL,cran
 MarZIC,gitlzg
 mas,alenxav
 maSAE,fvafrcu
@@ -12779,6 +12784,7 @@ mbrdr,cran
 mbreaks,rodivinity
 mbRes,phamdn
 mbrglm,eulogepagui
+MBRM,cran
 MBSGS,benoit-liquet
 MBSP,cran
 mbsts,patning
@@ -12966,6 +12972,7 @@ MedxR,lightbluetitan
 MedZIsc,cran
 meerva,cran
 meetupapi,zacdav
+meetupr,rladies
 mefa,psolymos
 mefa4,psolymos
 MEFM,zerokgkg1368
@@ -13597,7 +13604,7 @@ MKinfer,stamats
 MKLE,cran
 MKMeans,cran
 MKmisc,stamats
-mknapsack,byapparov
+mknapsack,cran
 MKomics,stamats
 MKpower,stamats
 mkssd,doer0
@@ -15277,6 +15284,7 @@ OceanView,karlines
 oceanwaves,millerlp
 oceCens,michaelfay-niaid
 ocedata,dankelley
+oCELLoc,afeefa-zainab
 ocf,riccardo-df
 ockc,cran
 oclust,clarkkm2
@@ -15839,6 +15847,7 @@ pairsD3,garthtarr
 PairViz,cbhurley
 pairwise,jhhmuc
 pairwiseCI,cran
+pairwiseLLM,shmercer
 paisaje,manuelspinola
 pak,r-lib
 PakNAcc,myaseen208
@@ -16039,7 +16048,7 @@ pathmodelfit,steveculpepper
 PathNet,bioc
 PathoStat,bioc
 pathRender,bioc
-paths,mdtrinh
+paths,xiangzhou09
 pathview,bioc
 pathviewr,ropensci
 pathwayPCA,bioc
@@ -16583,6 +16592,7 @@ pipenostics,omega1x
 pipeR,renkun-ken
 pipetime,cygei
 PIPETS,bioc
+pipr,worldbank
 piqp,predict-epfl
 Pirat,bioc
 piratings,larsvancutsem
@@ -16668,6 +16678,7 @@ plasmut,bioc
 plasso,mcknaus
 plater,ropensci
 platetools,swarchal
+PlateVision,probablyshubham
 PlatformDesign,cran
 platowork,lassehjorthmadsen
 plattice,cran
@@ -18804,6 +18815,7 @@ RegCombin,cran
 regda,cran
 RegDDM,biorabbit
 regDIF,wbelzak
+RegEnRF,umbe1987
 RegEnrich,bioc
 REGENT,djmcrouch
 regexPipes,cran
@@ -21674,6 +21686,7 @@ sitmo,coatless-rpkg
 sitools,jonasstein
 sitree,inasevmon
 sitreeE,inasevmon
+sitrep,r4epi
 sits,ropensci
 sivirep,epiverse-trace
 sivs,mmahmoudian
@@ -21721,7 +21734,6 @@ SKNN,cran
 skpr,tylermorganwall
 skylight,bluegreen-labs
 skynet,ropensci
-skyscapeR,f-silva-archaeo
 skytrackr,bluegreen-labs
 slackr,mrkaye97
 slalom,bioc
@@ -22986,7 +22998,7 @@ SumcaVer1,torabi-uofm
 sumFREGAT,cran
 summariser,condwanaland
 SummarizedExperiment,bioc
-SummaryLasso,thstat22
+SummaryLasso,cran
 summarySCI,sakk-statistics
 summarytabl,anyamemensah
 summarytools,dcomtois
@@ -23529,6 +23541,7 @@ templateICAr,mandymejia
 templates,wahani
 templr,mascotnum
 Temporal,zrmacc
+TemporalForest,sisishao
 TemporalGSSA,cran
 tempR,jcc9
 TempStable,tmoek
@@ -23945,7 +23958,7 @@ tinycodet,tony-aw
 tinylabels,mariusbarth
 tinylens,arbelt
 tinyplot,grantmcdermott
-tinyProject,francoisguillem
+tinyProject,cran
 tinyscholar,shixiangwang
 tinysnapshot,vincentarelbundock
 tinyspotifyr,troyhernandez
@@ -25378,6 +25391,7 @@ WeightedPortTest,tjfisher19
 weightedRank,cran
 WeightedROC,tdhock
 weightedScores,cran
+weightedsurv,larry-leon
 WeightedTreemaps,m-jahn
 WeightIt,ngreifer
 WeightMyItems,afarukkilic

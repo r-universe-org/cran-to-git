@@ -7,7 +7,8 @@
   {
     "package": "graphhopper",
     "maintainer": "Stefan Kuethe <crazycapivara@gmail.com>",
-    "url": "https://github.com/crazycapivara/graphhopper-r"
+    "url": "https://github.com/crazycapivara/graphhopper-r",
+    "registry": "archived"
   },
   {
     "package": "mapboxer",
@@ -17,6 +18,7 @@
   {
     "package": "owmr",
     "maintainer": "Stefan Kuethe <crazycapivara@gmail.com>",
-    "url": "https://github.com/crazycapivara/owmr"
+    "url": "https://github.com/crazycapivara/owmr",
+    "registry": "archived"
   }
 ]

@@ -2,7 +2,8 @@
   {
     "package": "aws.comprehend",
     "maintainer": "Antoine Sachet <antoine.sac@gmail.com>",
-    "url": "https://github.com/cloudyr/aws.comprehend"
+    "url": "https://github.com/cloudyr/aws.comprehend",
+    "registry": "archived"
   },
   {
     "package": "aws.ec2metadata",
