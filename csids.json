@@ -3,40 +3,5 @@
     "package": "covidnor",
     "maintainer": "Chi Zhang <andreachizhang@yahoo.com>",
     "url": "https://github.com/csids/covidnor"
-  },
-  {
-    "package": "csalert",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/csalert"
-  },
-  {
-    "package": "csdata",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/csdata"
-  },
-  {
-    "package": "csdb",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/csdb"
-  },
-  {
-    "package": "csmaps",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/csmaps"
-  },
-  {
-    "package": "cstidy",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/cstidy"
-  },
-  {
-    "package": "cstime",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/cstime"
-  },
-  {
-    "package": "csutil",
-    "maintainer": "Richard Aubrey White <hello@rwhite.no>",
-    "url": "https://github.com/csids/csutil"
   }
 ]
