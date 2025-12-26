@@ -1,12 +1,8 @@
 [
   {
-    "package": "agtboost",
-    "maintainer": "Berent Ånund Strømnes Lunde <lundeberent@gmail.com>",
-    "url": "https://github.com/cran/agtboost"
-  },
-  {
     "package": "dgumbel",
     "maintainer": "Berent Ånund Strømnes Lunde <lundeberent@gmail.com>",
-    "url": "https://github.com/blunde1/dgumbel"
+    "url": "https://github.com/blunde1/dgumbel",
+    "registry": "archived"
   }
 ]
