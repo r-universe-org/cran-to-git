@@ -3,5 +3,10 @@
     "package": "dsBase",
     "maintainer": "Stuart Wheater <stuart.wheater@arjuna.com>",
     "url": "https://github.com/stuartwheater/dsbase"
+  },
+  {
+    "package": "dsBaseClient",
+    "maintainer": "Stuart Wheater <stuart.wheater@arjuna.com>",
+    "url": "https://github.com/stuartwheater/dsbaseclient"
   }
 ]

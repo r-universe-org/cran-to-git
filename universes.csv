@@ -2025,6 +2025,7 @@ blockr.dag,bristolmyerssquibb
 blockr.dock,bristolmyerssquibb
 blockr.dplyr,bristolmyerssquibb
 blockr.ggplot,bristolmyerssquibb
+blockr.io,bristolmyerssquibb
 blockrand,glsnow
 blocksdesign,rned
 blockTools,ryantmoore
@@ -3181,6 +3182,7 @@ CircStats,claudioagostinelli
 circular,cran
 CircularDDM,yxlin
 circularEV,cran
+circularKDE,stazam
 CircularSilhouette,joemsong
 circumplex,jmgirard
 cirls,pierremasselot
@@ -4915,6 +4917,7 @@ decorators,tidylab
 decorrelate,gabrielhoffman
 decoupleR,bioc
 decp,cran
+DedooseR,abiraahmi
 Deducer,ifellows
 deducorrect,data-cleaning
 deductive,data-cleaning
@@ -5746,6 +5749,7 @@ DSAM,lark-max
 dsample,cran
 dsb,niaid
 dsBase,stuartwheater
+dsBaseClient,stuartwheater
 DSBayes,rvaradhan
 dscore,d-score
 dscoreMSM,atanubhattacharjee
@@ -6161,7 +6165,6 @@ eegkitdata,cran
 EEM,chengvt
 eemdARIMA,rrk4910
 EEMDelm,cran
-EEMDlstm,kapiliasri
 EEMDSVR,cran
 eemdTDNN,cran
 EEML,ranjitstat
@@ -6308,6 +6311,7 @@ EMbC,jgarriga65
 embed,tidymodels
 EmbedSOM,exaexa
 embryogrowth,marc-girondot
+emburden,ericscheier
 EMC2,ampl-psych
 emcAdr,cran
 EMCluster,snoweye
@@ -8319,7 +8323,6 @@ geneRxCluster,bioc
 GeneScape,qigao1
 GeneScoreR,arissyntakas
 GeneSelectMMD,bioc
-GeneSelectR,dzhakparov
 geneset,ganglilab
 GENESIS,bioc
 GenEst,ddalthorp
@@ -14005,6 +14008,7 @@ MPV,wjbraun
 mpwR,cran
 MQMF,haddonm
 Mqrcm,cran
+mr.mashr,stephenslab
 mr.pivw,siqixu
 MR.RGM,bitansa
 MRAM,cran
@@ -14453,6 +14457,7 @@ MVTests,hsnbulut
 mvtmeta,hanchenphd
 mvtnorm,r-forge
 mvtsplot,rdpeng
+mvtweedie,james-thorson-noaa
 mvvg,samksoon
 mwa,kdonnay
 MWASTools,bioc
@@ -18065,6 +18070,7 @@ randomForestExplainer,modeloriented
 RandomForestsGLS,arkajyotisaha
 randomForestSRC,kogalur
 randomForestVIP,kelvynbladen
+RandomGaussianNB,patchanok-tu
 randomGLM,plangfelder
 randomGODB,barryzee
 randomizationInference,cran
@@ -21706,6 +21712,7 @@ SlicedLHD,doer0
 Slick,blue-matter
 SLIDE,cran
 SlideCNA,dzhang777
+slideimp,hhp94
 slider,r-lib
 slideview,r-spatial
 SlidingWindows,efguedes
@@ -24404,6 +24411,7 @@ tsPI,helske
 tspmeta,berndbischl
 TSPred,rebeccasalles
 tspredit,cefet-rj-dal
+TSQCA,im-research-yt
 tsqn,rogih
 TSrepr,petolau
 tsriadditive,andrewyyp
@@ -24874,6 +24882,7 @@ VBLPCM,cran
 vbmp,bioc
 VBMS,luluo1999
 VBphenoR,buckleybrian
+vbracket,h20gg702
 VBsparsePCA,yc-ning
 VBTree,cubiczebra
 VBV,dsteuer
