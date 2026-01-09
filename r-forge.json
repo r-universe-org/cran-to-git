@@ -276,12 +276,6 @@
     "subdir": "pkg/frontier"
   },
   {
-    "package": "fuzzySim",
-    "maintainer": "A. Marcia Barbosa <ana.marcia.barbosa@gmail.com>",
-    "url": "https://github.com/r-forge/fuzzysim",
-    "subdir": "pkg"
-  },
-  {
     "package": "GeneralizedHyperbolic",
     "maintainer": "David Scott <d.scott@auckland.ac.nz>",
     "url": "https://github.com/r-forge/rmetrics",

@@ -279,6 +279,7 @@ AEP,mahditeimouri
 AER,zeileis
 Aerith,bioc
 AeRobiology,oteros
+AeroEvapR,a-fitts
 AeroSampleR,markhogue
 AF,cran
 afc,jonasbhend
@@ -1493,7 +1494,6 @@ BcDiag,ewouddt
 BCEA,giabaio
 BCEE,detal9
 bcf,jaredsmurray
-bcfrailph,cran
 BCgee,nicolalunardon
 BCHM,jjacklee116
 Bchron,andrewcparnell
@@ -2853,7 +2853,7 @@ cellscape,bioc
 celltrackR,jtextor
 CellTrails,bioc
 cellVolumeDist,cran
-cellWise,jakobraymaekers
+cellWise,cran
 cellxgenedp,bioc
 cem,siacus
 cemco,andrefujita
@@ -3506,6 +3506,7 @@ cNORM,wlenhard
 CNORode,bioc
 CNprep,gsun2018
 CNPS,zhangmaotai
+CNSigs,cran
 CNTools,bioc
 cnum,elgarteo
 CNVfilteR,bioc
@@ -4379,7 +4380,7 @@ csaw,bioc
 CsChange,marsdu1989
 csci,michaelfay-niaid
 CSclone,tsungyuwu
-CSCNet,cran
+CSCNet,shahin-roshani
 csdata,raubreywhite
 csdb,raubreywhite
 CSDownscale,tkariyat
@@ -6174,7 +6175,7 @@ eesim,sakoehler7
 EESPCA,hrobertfrost
 ef,colinpmillar
 EFA.dimensions,bpoconnor
-EFA.MRFA,cran
+EFA.MRFA,dnavarro991
 EFAfactors,haijiangq
 EFAtools,mdsteiner
 EFAutilities,guangjianzhang
@@ -6663,6 +6664,7 @@ estmeansd,stmcg
 EstMix,sparquary
 estprod,rrremedio
 esvis,datalorax
+esviz,cran
 et.nwfva,rnuske
 etable,cran
 ETAS,jalilian
@@ -6750,6 +6752,7 @@ evilDice,cran
 evinf,doktorandahl
 evir,bpfaff
 evitaicossa,robinhankin
+evmissing,paulnorthrop
 evmix,cran
 evobiR,coleoguy
 evola,covaruber
@@ -7993,7 +7996,7 @@ FuzzyQ,ligophorus
 FuzzyR,cran
 fuzzyRankTests,cran
 FuzzyResampling,mroman-ibs
-fuzzySim,r-forge
+fuzzySim,ambarbosa
 FuzzySimRes,mroman-ibs
 FuzzySpec,ghashti-j
 FuzzyStatTra,asunlubiano
@@ -8695,7 +8698,6 @@ ggmatplot,xuan-liang
 ggmcmc,xfim
 ggmice,amices
 ggmix,sahirbhatnagar
-ggmosaic,haleyjeppson
 ggmr,hugogasca
 GGMridge,sth1402
 ggmRSCU,cran
@@ -9233,6 +9235,7 @@ Grace,sen-zhao
 grade,ltjohnson
 gradeR,tbrown122387
 graDiEnt,bmgaldo
+gradLasso,ddefranza
 GrafGen,bioc
 grafify,ashenoy-cmbi
 grafzahl,gesistsa
@@ -12777,6 +12780,7 @@ mcen,cran
 mcga,jbytecode
 mcgf,tianxia-jia
 mcgibbsit,r-gregmisc
+mcglm,bonatwagner
 MChtest,michaelfay-niaid
 MCI,cran
 MCID,cran
@@ -15278,6 +15282,7 @@ ODRF,liuyu-star
 ODS,yinghao-pan
 odseq,bioc
 ODT,katynasada
+odyssey,nfrerebeau
 OECD,expersso
 oecdoda,tidy-intelligence
 OEFPIL,cran
@@ -15334,6 +15339,7 @@ OmicCircos,bioc
 OmicFlow,agusinac
 OmicKriging,hakyimlab
 OmicNavigator,abbvie-external
+OmicNetR,cran
 omicplotR,bioc
 omicRexposome,bioc
 OmicSense,takakoizumi
@@ -15448,6 +15454,7 @@ openbankeR,nik01010
 OpenBARD,cran
 openblender,cran
 opencage,ropensci
+OpEnCAST,abhiksarkariasri
 OpenCL,s-u
 opencpu,opencpu
 openCR,murrayefford
@@ -15716,6 +15723,7 @@ outliers,luqqe
 outliers.ts.oga,cran
 OutliersLearn,missiegobeats
 OutliersO3,impaug
+outlierspinner,peconom
 outliertree,david-cortes
 outreg,kota7
 OUTRIDER,bioc
@@ -16060,6 +16068,7 @@ pbm,jonathanrd
 pbmcapply,kvnkuang
 PBNPA,cran
 pbo,mrbcuda
+pboost,paradoxical-rhapsody
 pbox,athammad
 pbr,cran
 pBrackets,cran
@@ -17229,7 +17238,7 @@ prnsamplr,kirajcg
 pro,rluo
 proActiv,bioc
 ProActive,jlmaier12
-ProAE,blakelanglais
+ProAE,bnnoble
 probably,tidymodels
 proBAMr,bioc
 probaverse,probaverse
@@ -20669,7 +20678,7 @@ scone,bioc
 Sconify,bioc
 scOntoMatch,papatheodorou-group
 SCOPE,bioc
-scoper,ssnn-airr
+scoper,immcantation
 scopr,rethomics
 SCOPRO,gabrielelubatti
 SCOR,synx21
@@ -22489,6 +22498,7 @@ srp,cran
 srppp,agroscope-ch
 srr,ropensci
 SRS,lukasbeule
+SRscore,fusk-kpu
 srt,k5cents
 SRTsim,cran
 SRTtools,chihangchen
@@ -23770,6 +23780,7 @@ tidyMC,stefanlinner
 tidymodels,tidymodels
 tidymodlr,david-hammond
 TidyMultiqc,multimeric
+tidyna,statzhero
 tidync,ropensci
 tidynorm,jofrhwld
 tidyomics,bioc
@@ -24156,7 +24167,7 @@ transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
 transfR,albandelavenne
-transGFM,wzjwangzhijing
+transGFM,zjwangatsu
 TransGraph,cran
 transite,bioc
 Transition,mark-eis
@@ -24489,7 +24500,6 @@ tvGarchKF,tomas-udec
 tvgeom,cran
 tvm,juancentro
 tvmComp,maheshpkumar
-tvmediation,dcoffman
 TVMM,henriqueest
 TVMVP,erilill
 tvR,kisungyou
@@ -24669,7 +24679,7 @@ unitquantreg,andrmenezes
 units,r-quantities
 UnitStat,ankita8985
 unittest,ravingmantis
-unival,cran
+unival,dnavarro991
 univariateML,jonasmoss
 UniversalCVI,nwiroonsri
 universalmotif,bioc
