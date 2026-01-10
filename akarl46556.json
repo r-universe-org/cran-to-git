@@ -1,5 +1,10 @@
 [
   {
+    "package": "glmmFEL",
+    "maintainer": "Andrew T. Karl <akarl@asu.edu>",
+    "url": "https://github.com/cran/glmmFEL"
+  },
+  {
     "package": "GPvam",
     "maintainer": "Andrew Karl <akarl@asu.edu>",
     "url": "https://github.com/cran/GPvam"

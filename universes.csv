@@ -455,6 +455,7 @@ alfred,onnokleen
 algaeClassify,vijpatil
 AlgDesign,jvbraun
 algebraic.dist,queelius
+algebraic.mle,queelius
 AlgebraicHaploPackage,cran
 AlgeriAPIs,lightbluetitan
 algo,feddelegrand7
@@ -1332,6 +1333,7 @@ bayesCureRateModel,mqbssppe
 BayesCVI,o-preedasawakul
 BayesDA,kjetil1001
 bayesDccGarch,jafiorucci
+BayesDecon,cran
 BayesDesign,cran
 bayesdfa,fate-ewi
 BayesDIP,chenw10
@@ -2572,7 +2574,6 @@ capn,cran
 CaPO4Sim,divadnojnarg
 Capsule,saadat-abu
 captain,alexym1
-captr,gojiplus
 capushe,lionning
 capybara,pachadotdev
 car,r-forge
@@ -2779,7 +2780,7 @@ ccmm,cran
 CCMMR,djwtouw
 ccmReportR,durhamregionharp
 ccoptimalmatch,cran
-ccostr,larshernandez
+ccostr,clinda-aau
 CCP,uwemenzel
 CCPlotR,bioc
 CCPROMISE,bioc
@@ -6839,6 +6840,7 @@ expDB,byzheng
 ExpDE,fcampelo
 ExpDes,ericbarba
 ExpDes.pt,ericbarba
+expectreg,cran
 experDesign,llrs
 experiences,joe-chelladurai
 experiment,kosukeimai
@@ -7216,7 +7218,6 @@ fdatest,alessiapini
 FDboost,boost-r
 fddm,rtdists
 fdesigns,cran
-fdicdata,visbanking
 fdm2id,blansche
 fDMA,kdrachal
 FDOTT,cran
@@ -7932,6 +7933,7 @@ fundiversity,funecology
 funFEM,cran
 fungible,nwaller
 funGp,djbetancourt-gh
+funIHC,cran
 funique,mkearney
 fUnitRoots,cran
 funkycells,jrvanderdoes
@@ -8468,6 +8470,7 @@ geonames,ropensci
 geonapi,eblondel
 geonetwork,famuvie
 geonode4R,eblondel
+geonuts,aikatona
 geoperu,paulesantos
 geoprofiler,tobiste
 geopsych,zhangsui921
@@ -8659,6 +8662,7 @@ gggenomes,thackl
 ggghost,jonocarroll
 gggibbous,mnbram
 gggrid,pmur002
+ggguides,gcol33
 ggh4x,teunbrand
 gghalfnorm,nathaneastwood
 gghalves,erocoar
@@ -8961,6 +8965,7 @@ glmm.hp,laijiangshan
 GLMMadaptive,drizopoulos
 GLMMcosinor,ropensci
 glmmEP,mattwand
+glmmFEL,akarl46556
 glmmfields,seananderson
 glmMisrep,pleasedontdothat
 glmmLasso,hoarzpassey
@@ -9748,7 +9753,7 @@ healthcare.antitrust,mpanhans
 healthdb,kevinhzq
 healthequal,whoequity
 healthfinance,rrrlw
-healthiar,cran
+healthiar,swisstph
 healthmotionR,alejandrosialer
 healthyAddress,hughparsonage
 healthyR,spsanderson
@@ -9800,6 +9805,7 @@ hera,jupyter-xeus
 here,r-lib
 hereR,munterfi
 heritability,wtkr
+heritable,anu-aagi
 hermes,bioc
 hermite,dmorinya
 hermiter,mikejareds
@@ -13811,7 +13817,7 @@ modernVA,cran
 modest,philippallmann
 ModEstM,jeromepcollet
 modesto,cran
-modEvA,r-forge
+modEvA,ambarbosa
 modgetxl,byadu
 modgo,georgekoliopanos
 modi,martinster
@@ -14951,6 +14957,7 @@ nngeo,michaeldorman
 nnlasso,doer0
 nnlib2Rcpp,vnnikolaidis
 nnls,k-m-m
+nnmf,cran
 NNMIS,cran
 nnNorm,bioc
 nnR,2shakilrafi
@@ -16635,6 +16642,7 @@ planscorer,christopherkenny
 plantecophys,remkoduursma
 plantphysioR,rameshram96
 planttfhunter,bioc
+plantTracker,aestears
 plaqr,cran
 plasma,r-forge
 PlasmaMutationDetector,cran
@@ -20672,6 +20680,7 @@ scMET,bioc
 scmeth,bioc
 scMitoMut,bioc
 scModels,lisaamrhein
+scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
 scone,bioc
@@ -21819,6 +21828,7 @@ smoke,quinsun
 smoof,jakobbossek
 smooth,config-i1
 smoothclust,bioc
+smoothedIPW,stmcg
 smoothedLasso,ghahn-hsph
 smoothemplik,fifis
 smoother,cran
@@ -22114,6 +22124,7 @@ sparsestep,gjjvdburg
 sparsesurv,alexangelakis-ang
 sparsesvd,schtepf
 sparseSVM,cy-dev
+SparseTSCGM,fentaw-r
 sparsevb,gabriel-clara
 sparsevctrs,r-lib
 SparseVFC,sciurus365
@@ -24551,6 +24562,7 @@ twoxtwo,vpnagraj
 TWW,cran
 txcutr,bioc
 txdbmaker,bioc
+TxEffectsSurvival,daewoopak
 tximeta,bioc
 tximport,bioc
 txshift,nhejazi
