@@ -986,7 +986,7 @@
   },
   {
     "package": "bedbaser",
-    "maintainer": "Andres Wokaty <jennifer.wokaty@sph.cuny.edu>",
+    "maintainer": "Andres Wokaty <andres.wokaty@sph.cuny.edu>",
     "url": "https://github.com/waldronlab/bedbaser",
     "registry": "bioc"
   },
@@ -12966,7 +12966,7 @@
   {
     "package": "TaxSEA",
     "maintainer": "Feargal Ryan <feargalr@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/TaxSEA",
+    "url": "https://github.com/feargalr/taxsea",
     "registry": "bioc"
   },
   {
@@ -13788,7 +13788,7 @@
   {
     "package": "vsn",
     "maintainer": "Wolfgang Huber <wolfgang.huber@embl.org>",
-    "url": "https://git.bioconductor.org/packages/vsn",
+    "url": "https://github.com/huber-group-embl/vsn",
     "registry": "bioc"
   },
   {

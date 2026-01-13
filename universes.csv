@@ -1497,6 +1497,7 @@ BCEA,giabaio
 BCEE,detal9
 bcf,jaredsmurray
 bcfrailph,mesfin-haileyesus
+bcfrailphdv,mesfin-haileyesus
 BCgee,nicolalunardon
 BCHM,jjacklee116
 Bchron,andrewcparnell
@@ -1512,6 +1513,7 @@ bcROCsurface,toduckhanh
 bcRP,juliocollazos64
 bcrypt,jeroen
 bcSeq,bioc
+BCSreg,ffqueiroz
 BCT,valentinian22
 bcv,michbur
 bda,cran
@@ -2023,6 +2025,7 @@ BlockMissingData,cran
 blockmodeling,cran
 BlockmodelingGUI,cran
 blockmodels,grosssbm
+blockr,bristolmyerssquibb
 blockr.core,bristolmyerssquibb
 blockr.dag,bristolmyerssquibb
 blockr.dock,bristolmyerssquibb
@@ -4042,6 +4045,7 @@ correctedAUC,weiliangqiu
 CorrectedFDR,cran
 CorrectOverloadedPeaks,janlisec
 correctR,hendersontrent
+correctref,umarhussain-git
 correlatio,mmiche
 correlation,easystats
 correlationfunnel,business-science
@@ -4256,6 +4260,7 @@ crc32c,eddelbuettel
 crch,r-forge
 crctStepdown,samueliwatson
 CRE,nsaph-software
+cre.dcf,kpoigeo
 CREAM,bhklab
 createLogicalPCM,amarnathbose
 credentials,ropensci
@@ -4331,7 +4336,6 @@ crossrun,torewentzel-larsen
 crosstable,danchaltiel
 Crosstabs.Loglinear,bpoconnor
 crosstalk,rstudio
-crosstalkr,cran
 crossurr,cran
 crossval,cran
 CrossValidate,cran
@@ -8785,6 +8789,7 @@ ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
+ggskewboxplots,mcavs
 ggsmc,richardgeveritt
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
@@ -9253,6 +9258,7 @@ grand,zpneal
 GRANDpriv,lsq0000
 grandR,erhard-lab
 grangers,matfar88
+grangersearch,nkorf
 GRaNIE,bioc
 granova,fbertran
 granovaGG,briandk
@@ -10704,7 +10710,7 @@ InspectChangepoint,cran
 inspectdf,alastairrushworth
 InspectionPlanner,grvisei
 inspector,ptfonseca
-INSPECTumours,cran
+INSPECTumours,bairuzhang
 instagramadsR,pablosanmar
 install.load,iembry
 installr,talgalili
@@ -12600,6 +12606,7 @@ martini,bioc
 MarZIC,gitlzg
 mas,alenxav
 maSAE,fvafrcu
+mascarade,alserglab
 mase,mcconvil
 maser,bioc
 mashr,stephenslab
@@ -13040,6 +13047,7 @@ metadat,wviechtb
 metadeconfoundR,tillbirkner
 MetaDICT,bioc
 metaDigitise,daniel1noble
+MetaDose,asmpro7
 metadynminer,spiwokv
 metadynminer3d,spiwokv
 metaEnsembleR,ajayarunachalam
@@ -13918,6 +13926,7 @@ morphomap,aprofico
 moRphomenses,clancylabuiuc
 MorphoRegions,aagillet
 MorphoTools2,marekslenker
+MorphSim,laumul
 morrowplots,sandical
 morse,virgile-baudrot
 morseDR,virgile-baudrot
@@ -14660,7 +14669,7 @@ neonstore,cboettig
 neonUtilities,neonscience
 neotoma,ropensci
 neotoma2,neotomadb
-nephro,pattaroc
+nephro,cran
 NEpiC,cran
 neptune,neptune-ai
 nesRdata,jsta
@@ -16947,6 +16956,7 @@ popkin,storeylab
 popler,ropensci
 popPCR,zeroh729
 poppr,grunwaldlab
+PopPsiSeqR,csoeder
 popPyramid,musajajorge
 popReconstruct,cran
 popsom7,lutzhamel
@@ -17868,6 +17878,7 @@ quaxnat,maximilianaxer
 QUBIC,bioc
 QuClu,landerlucci
 queryBuilder,krystian8207
+querychat,gadenbuie
 queryparser,ianmcook
 queryup,voisinneg
 quest,ddisab01
@@ -19018,7 +19029,7 @@ retmort,cran
 retriever,dosorio
 retrodesign,andytimm
 retrofit,bioc
-retroharmonize,ropengov
+retroharmonize,dataobservatory-eu
 retrosheet,colindouglas
 retry,randy3k
 ReturnCurves,lidiamandre
@@ -19242,7 +19253,7 @@ Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
 rigvf,bioc
-RIIM,zoezhu098
+RIIM,cran
 riingo,business-science
 Rilostat,ilostat
 rim,rcst
@@ -22772,6 +22783,7 @@ sticky,decisionpatterns
 stickyr,uchidamizuki
 STICr,heal-kgs
 SticsRFiles,sticsrpacks
+stIHC,cran
 stilt,cran
 stim,annawysocki
 stima,elisedus
@@ -22918,6 +22930,7 @@ styler,r-lib
 stylest2,cbaehr
 stylo,computationalstylistics
 Stype.est,filizkrdg
+Styperidge.reg,filizkrdg
 SubCellBarCode,bioc
 subdetect,sth1402
 subformula,jonasmoss
@@ -23514,6 +23527,7 @@ tensorBSS,jmvirta
 TensorClustering,cran
 tensorEVD,marcoolopez
 tensorflow,rstudio
+TensorMCMC,cran
 tensorMiss,zerokgkg1368
 TensorPreAve,william-chenwl
 tensorregress,jhu267
@@ -25024,6 +25038,7 @@ viking,cran
 villager,zizroc
 VIM,statistikat
 VIMean,marsdu1989
+vimixr,annesh07
 vimp,bdwilliamson
 vimpclust,cran
 VIMPS,cran
@@ -25126,7 +25141,7 @@ VoronoiBiomedPlot,cran
 voronoifortune,emmanuelparadis
 voronoiTreemap,urosconf
 VorteksExport,lansdon-qualta
-vortexRdata,cran
+vortexRdata,carlopacioni
 voson.tcn,vosonlab
 VOSONDash,vosonlab
 vosonSML,vosonlab

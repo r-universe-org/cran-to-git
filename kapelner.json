@@ -29,7 +29,8 @@
   {
     "package": "ICEbox",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
-    "url": "https://github.com/cran/ICEbox"
+    "url": "https://github.com/kapelner/icebox",
+    "subdir": "ICEbox"
   },
   {
     "package": "optDesignSlopeInt",
