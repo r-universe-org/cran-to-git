@@ -184,6 +184,7 @@ addinslist,daattali
 addinsOutline,calote
 additive,hsbadr
 additivityTests,simecek
+AddiVortes,johnpaulgosling
 addreg,mdonoghoe
 ADDT,yili-hong
 adductomicsR,bioc
@@ -1365,6 +1366,7 @@ BayesianFactorZoo,cran
 BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
 BayesianGLasso,trainorp
+BayesianInference,cran
 BayesianLasso,garthtarr
 BayesianLaterality,lcbc-uio
 BayesianMCPMod,boehringer-ingelheim
@@ -3788,7 +3790,7 @@ CompR,cran
 ComPrAn,bioc
 comprehenr,gdemin
 compSPOT,bioc
-compute.es,acdelre
+compute.es,cran
 ComradesM,impaug
 ComRiskModel,imranshakoor
 comsimitv,cran
@@ -9567,7 +9569,7 @@ GWLelast,kingqwert
 GWmodel,lbb220
 GWmodelVis,lbb220
 GWnnegPCA,naru-t
-GWpcor,naru-t
+GWpcor,gwpcor
 gwpcormapper,gwpcor
 gWQS,renzetti
 GWRLASSO,cran
@@ -12080,6 +12082,7 @@ loa,r-forge
 loadeR,promidat
 loadings,hiroyukiyamamoto
 loadshaper,riazakhan94
+lobbyR,chriscioffi
 LoBrA,ac-hauschild
 LOBSTAHS,bioc
 LobsterCatch,pnickchi
@@ -15684,7 +15687,6 @@ osDesign,shaneuse
 OSDR,cran
 OSFD,shangkun-wang
 osfr,ropensci
-oshka,brodieg
 oskeyring,r-lib
 OSLdecomposition,dirkmittelstrass
 osmapiR,ropensci
@@ -18290,7 +18292,7 @@ rblt,sg4r
 RBM,bioc
 rbm25,davzim
 rBMF,cran
-rbmi,insightsengineering
+rbmi,openpharma
 rbmiUtils,openpharma
 rbmn,cran
 RBNZ,rntq472
@@ -18616,6 +18618,7 @@ reactR,react-r
 ReacTran,karlines
 reactRouter,lgnbhl
 ReAD,cran
+read.abares,ropensci
 read.dbc,danicat
 read.gb,largon-denayah
 read.gt3x,tuomonieminen
@@ -19253,7 +19256,7 @@ Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
 rigvf,bioc
-RIIM,cran
+RIIM,zoezhu098
 riingo,business-science
 Rilostat,ilostat
 rim,rcst
@@ -19326,6 +19329,7 @@ RJalaliDate,h-rabiee
 rJava,s-u
 rJavaEnv,e-kotov
 rjd3jars,tanguybarthelemy
+rjd3toolkit,rjdverse
 RJDBC,s-u
 RJDemetra,rjdverse
 rjdmarkdown,aqlt
@@ -19735,6 +19739,7 @@ rollbar,ankane
 rolldown,yihui
 rollinglda,jonasrieger
 rollmatch,rtiinternational
+rollout,iancero
 rollup,juyoungahn
 rollupTree,jsjuni
 roloc,pmur002
@@ -20328,6 +20333,7 @@ s2net,jlaria
 s3,brokamp-group
 s3.resourcer,obiba
 s3fs,dyfanjones
+S3VS,cran
 S4Arrays,bioc
 S4DM,bmaitner
 S4Vectors,bioc
@@ -22512,6 +22518,7 @@ sregsurvey,cran
 srlars,anthonychristidis
 srm,alexanderrobitzsch
 SRMData,peterkdunn
+SRMERS,qy2166
 srnadiff,bioc
 sRNAGenetic,w123yu
 srp,cran
