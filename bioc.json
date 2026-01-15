@@ -1838,6 +1838,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CellMentor",
+    "maintainer": "Ekaterina Petrenko <petrenko.kate@icloud.com>",
+    "url": "https://github.com/petrenkokate/cellmentor",
+    "registry": "bioc"
+  },
+  {
     "package": "cellmig",
     "maintainer": "Simo Kitanovski <simokitanovski@gmail.com>",
     "url": "https://github.com/snaketron/cellmig",
@@ -3159,6 +3165,12 @@
     "registry": "bioc"
   },
   {
+    "package": "decemedip",
+    "maintainer": "Ning Shen <ning.shen.wk@gmail.com>",
+    "url": "https://github.com/nshen7/decemedip",
+    "registry": "bioc"
+  },
+  {
     "package": "DECIPHER",
     "maintainer": "Erik Wright <eswright@pitt.edu>",
     "url": "https://git.bioconductor.org/packages/DECIPHER",
@@ -3699,6 +3711,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DOTSeq",
+    "maintainer": "Chun Shen Lim <lim.bioinfo@gmail.com>",
+    "url": "https://github.com/compgenom/dotseq",
+    "registry": "bioc"
+  },
+  {
     "package": "doubletrouble",
     "maintainer": "Fabrício Almeida-Silva <fabricio_almeidasilva@hotmail.com>",
     "url": "https://github.com/almeidasilvaf/doubletrouble",
@@ -3732,6 +3750,12 @@
     "package": "DropletUtils",
     "maintainer": "Jonathan Griffiths <jonathan.griffiths.94@gmail.com>",
     "url": "https://git.bioconductor.org/packages/DropletUtils",
+    "registry": "bioc"
+  },
+  {
+    "package": "drugfindR",
+    "maintainer": "Ali Sajid Imami <Ali.Sajid.Imami@gmail.com>",
+    "url": "https://github.com/cogdisreslab/drugfindr",
     "registry": "bioc"
   },
   {
@@ -4074,6 +4098,12 @@
     "package": "epiregulon.extra",
     "maintainer": "Xiaosai Yao <xiaosai.yao@gmail.com>",
     "url": "https://github.com/xiaosaiyao/epiregulon.extra",
+    "registry": "bioc"
+  },
+  {
+    "package": "epiSeeker",
+    "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
+    "url": "https://github.com/yulab-smu/episeeker",
     "registry": "bioc"
   },
   {
@@ -8505,6 +8535,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MutSeqR",
+    "maintainer": "Matthew J. Meier <matthew.meier@hc-sc.gc.ca>",
+    "url": "https://github.com/ehsrb-bsrse-bioinformatics/mutseqr",
+    "registry": "bioc"
+  },
+  {
     "package": "MVCClass",
     "maintainer": "Elizabeth Whalen <ewhalen@hsph.harvard.edu>",
     "url": "https://git.bioconductor.org/packages/MVCClass",
@@ -9538,6 +9574,12 @@
     "registry": "bioc"
   },
   {
+    "package": "plaid",
+    "maintainer": "Antonino Zito <antonino.zito@bigomics.ch>",
+    "url": "https://github.com/bigomics/plaid",
+    "registry": "bioc"
+  },
+  {
     "package": "planet",
     "maintainer": "Victor Yuan <victor.2wy@gmail.com>",
     "url": "https://github.com/wvictor14/planet",
@@ -9667,6 +9709,12 @@
     "package": "POMA",
     "maintainer": "Pol Castellano-Escuder <polcaes@gmail.com>",
     "url": "https://github.com/pcastellanoescuder/poma",
+    "registry": "bioc"
+  },
+  {
+    "package": "posDemux",
+    "maintainer": "Jakob Peder Pettersen <jakobpeder.pettersen@gmail.com>",
+    "url": "https://github.com/yaccos/posdemux",
     "registry": "bioc"
   },
   {
@@ -12016,6 +12064,12 @@
     "registry": "bioc"
   },
   {
+    "package": "singIST",
+    "maintainer": "Aitor Moruno-Cuenca <morunoaitor@gmail.com>",
+    "url": "https://github.com/datasciencerd-almirall/singist",
+    "registry": "bioc"
+  },
+  {
     "package": "SingleCellAlleleExperiment",
     "maintainer": "Jonas Schuck <jschuckdev@gmail.com>",
     "url": "https://github.com/agimkeller/singlecellalleleexperiment",
@@ -12652,6 +12706,12 @@
     "registry": "bioc"
   },
   {
+    "package": "staRgate",
+    "maintainer": "Jasme Lee <leej22@mskcc.org>",
+    "url": "https://github.com/leejasme/stargate",
+    "registry": "bioc"
+  },
+  {
     "package": "STATegRa",
     "maintainer": "David Gomez-Cabrero <david.gomezcabrero@ki.se>",
     "url": "https://git.bioconductor.org/packages/STATegRa",
@@ -13099,6 +13159,12 @@
     "package": "tidyCoverage",
     "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
     "url": "https://github.com/js2264/tidycoverage",
+    "registry": "bioc"
+  },
+  {
+    "package": "tidyexposomics",
+    "maintainer": "Jason Laird <jasonlaird5353@gmail.com>",
+    "url": "https://github.com/bionomad/tidyexposomics",
     "registry": "bioc"
   },
   {

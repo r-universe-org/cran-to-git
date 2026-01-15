@@ -18,5 +18,10 @@
     "package": "rtms",
     "maintainer": "Nathaniel Twarog <nathaniel.twarog@stjude.org>",
     "url": "https://github.com/cran/rtms"
+  },
+  {
+    "package": "rtmsEcho",
+    "maintainer": "Nathaniel Twarog <nathaniel.twarog@stjude.org>",
+    "url": "https://github.com/cran/rtmsEcho"
   }
 ]

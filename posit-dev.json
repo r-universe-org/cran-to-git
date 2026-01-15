@@ -15,6 +15,11 @@
     "url": "https://github.com/posit-dev/connectcreds"
   },
   {
+    "package": "frontmatter",
+    "maintainer": "Garrick Aden-Buie <garrick@posit.co>",
+    "url": "https://github.com/posit-dev/frontmatter"
+  },
+  {
     "package": "mcptools",
     "maintainer": "Simon Couch <simon.couch@posit.co>",
     "url": "https://github.com/posit-dev/mcptools"

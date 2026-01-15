@@ -6,7 +6,7 @@ a4Core,bioc
 a4Preproc,bioc
 a4Reporting,bioc
 AalenJohansen,cran
-aamatch,cran
+aamatch,rosenbap
 AATtools,spiritspeak
 ABACUS,bio-statistics
 ABarray,bioc
@@ -441,7 +441,7 @@ ALassoSurvIC,pakdaewo
 albatross,ikrylovmsu
 aLBI,ataher76
 albopictus,kerguler
-alcoholSurv,cran
+alcoholSurv,rosenbap
 alcyon,spatialnous
 ald,chedgala
 ALDEx2,bioc
@@ -1337,6 +1337,7 @@ bayesDccGarch,jafiorucci
 BayesDecon,cran
 BayesDesign,cran
 bayesdfa,fate-ewi
+bayesDiagnostics,ikrakib
 BayesDIP,chenw10
 BayesDissolution,tpourmohamad
 bayesdistreg,cran
@@ -1994,6 +1995,7 @@ BlandAltmanLeh,cran
 blandr,deepankardatta
 blapsr,oswaldogressani
 blase,bioc
+blastar,loukesio
 blaster,tamminenlab
 blastula,rstudio
 blatent,jonathantemplin
@@ -2060,6 +2062,7 @@ bltm,curso-r
 bluebike,zyang2k
 BlueCarbon,ecologyr
 bluster,bioc
+blvim,fabrice-rossi
 BlythStillCasellaCI,ronyu-gilead
 BMA,hanase
 bmabart,qingzhaoyu
@@ -2848,6 +2851,7 @@ CelliD,bioc
 cellity,bioc
 cellKey,bernhard-da
 CellMapper,bioc
+CellMentor,bioc
 cellmig,bioc
 cellmigRation,bioc
 CellMixS,bioc
@@ -4896,6 +4900,7 @@ debrowser,bioc
 debugme,r-lib
 debugr,jsugarelli
 DeCAFS,gtromano
+decemedip,bioc
 DECIDE,christianak
 decido,hypertidy
 DECIPHER,bioc
@@ -5203,6 +5208,7 @@ dhsage,imranshakoor
 dHSIC,cran
 DHSr,arnob62
 di,cran
+diagcounts,cran
 diagis,helske
 diagL1,kevin444
 diagmeta,guido-s
@@ -5601,8 +5607,8 @@ doppelgangR,bioc
 doRedis,bwlewis
 doremi,dcourvoisier
 doRNG,renozao
-DOS,cran
-DOS2,cran
+DOS,rosenbap
+DOS2,rosenbap
 Doscheda,bioc
 DOSE,bioc
 dosearch,santikka
@@ -5622,6 +5628,7 @@ dotgen,xiaoran831213
 DOtools,bioc
 dotprofile,jeanmathieupotvin
 dots,christopherkenny
+DOTSeq,bioc
 dotsViolin,cran
 dotty,kevinushey
 dotwhisker,fsolt
@@ -5740,6 +5747,7 @@ drtmle,benkeser
 drugDemand,kaifenglu
 drugdevelopR,sterniii3
 DrugExposureDiagnostics,darwin-eu
+drugfindR,bioc
 drugprepr,belayb
 drugsens,flalom
 DrugSim2DR,hanjunwei-lab
@@ -5791,8 +5799,8 @@ DSSP,gentrywhite
 dst,rapler
 dstabledist,cran
 DstarM,vandenman
-dstat,cran
-dstat2x2xk,cran
+dstat,rosenbap
+dstat2x2xk,rosenbap
 dSTEM,cran
 dsTidyverse,molgenis
 dsTidyverseClient,molgenis
@@ -6260,7 +6268,6 @@ elaborator,openpharma
 elasdics,steyerli
 elasso,piguo
 elastes,mpff
-elastic,ropensci-archive
 elasticnet,cran
 elec,lmiratrix
 EleChemr,federicoviv
@@ -6517,6 +6524,7 @@ epiR,cran
 epiregulon,bioc
 epiregulon.extra,bioc
 EpiReport,epiconcept-paris
+epiSeeker,bioc
 EpiSemble,diprosinha
 episensr,dhaine
 EpiSignalDetection,eu-ecdc
@@ -6753,7 +6761,7 @@ evian,struglab
 evidence,rvhulst
 evidenceFactors,cran
 EvidenceSynthesis,ohdsi
-evident,cran
+evident,rosenbap
 EviewsR,sagirumati
 evilDice,cran
 evinf,doktorandahl
@@ -6884,7 +6892,7 @@ ExtDist,oleksii-nikolaienko
 ExtendedABSurvTDC,hardikghosh911
 extendedFamily,gmcmacran
 ExtendedLaplace,saahdavid
-exteriorMatch,cran
+exteriorMatch,rosenbap
 extlasso,doer0
 ExtMallows,cran
 extr,hakoyamah
@@ -7869,6 +7877,7 @@ fromhere,mitchelloharawild
 fromo,shabbychef
 frontier,r-forge
 frontiles,cran
+frontmatter,posit-dev
 frostr,imangr
 froth,ahl27
 frscore,vpparkkinen
@@ -7914,7 +7923,7 @@ fucom,mateusvanzetta
 fude,takeshinishimura
 fuel,cran
 fueleconomy,hadley
-fugue,cran
+fugue,rosenbap
 fuj,jmbarbone
 fullfact,cran
 fullRankMatrix,pweidemueller
@@ -9367,6 +9376,7 @@ gripp,jaderlugon
 grizbayr,r-angi
 GRmetrics,bioc
 grmsem,bstpourcain
+grmtree,predicare1
 grnn,chasset
 GRNNs,shufeng-li
 GROAN,ne1s0n
@@ -10667,7 +10677,7 @@ Information,klarsen1
 InformativeCensoring,jwb133
 informativeSCI,lianekluge
 Informeasure,bioc
-informedSen,cran
+informedSen,rosenbap
 INFOSET,cran
 infotest,guliyevh
 infotheo,meyerp-software
@@ -11048,7 +11058,7 @@ itmsa,stscl
 ITNr,matt-smith430
 itol.toolkit,tongzhou2017
 iTOP,nanne-aben
-iTOS,cran
+iTOS,rosenbap
 itp,paulnorthrop
 itraxR,tombishop1
 itrimhoch,cran
@@ -14406,6 +14416,7 @@ mutationtypes,selkamand
 mutoss,kornl
 mutossGUI,r-forge
 mutscan,bioc
+MutSeqR,bioc
 mutSignatures,dami82
 muttest,jakubsob
 mutualinf,rafaelfuentealbac
@@ -14859,6 +14870,7 @@ nimbleEcology,nimble-dev
 nimbleHMC,danielturek
 nimbleMacros,nimble-dev
 nimbleNoBounds,drjp
+nimbleQuad,paciorek
 nimbleSCR,danielturek
 nimbleSMC,nimble-dev
 nimblewomble,arh926
@@ -16599,7 +16611,7 @@ PJFM,jjr1234
 PK,tjaki
 pk.unit.trans,fuyongchao
 pk4adi,xfz329
-PKbioanalysis,cran
+PKbioanalysis,omarashkar
 PKconverter,ek-lee
 pkdata,couthcommander
 pkgbuild,r-lib
@@ -16640,6 +16652,7 @@ PL94171,corymccartan
 plac,942kid
 placer,cran
 PlackettLuce,hturner
+plaid,bioc
 plainview,r-spatial
 plan,dankelley
 Planesmuestra,ericksuhel
@@ -16985,6 +16998,7 @@ PortfolioTesteR,albertopallotta
 portion,loelschlaeger
 portn,ysd2004
 portvine,emanuelsommer
+posDemux,bioc
 poset,lmaowisc
 poseticDataAnalysis,aavellone
 POSetR,albertoarcagni
@@ -20174,6 +20188,7 @@ RTMBdist,janoleko
 rtmpinv,econcz
 rtmpt,raphaelhartmann
 rtms,nathanieltwarog
+rtmsEcho,nathanieltwarog
 RTN,bioc
 RTNduals,bioc
 Rtnmin,nashjc
@@ -20404,6 +20419,7 @@ SAiVE,uo-saive
 SAKERNAS,mubarakfadhlul
 sakura,rconsortium
 salad,cran
+salem,elinw
 SALES,knightgu
 salesforcer,stevenmmortimer
 salmonMSE,blue-matter
@@ -21000,14 +21016,14 @@ SensIAT,uofuepibio
 sensibo.sky,theclue
 sensiPhy,paternogbc
 sensitivity,biooss
-sensitivity2x2xk,cran
+sensitivity2x2xk,rosenbap
 sensitivityCalibration,cran
 SensitivityCaseControl,dsmall19
-sensitivityfull,cran
+sensitivityfull,rosenbap
 sensitivityIxJ,cran
-sensitivitymult,cran
-sensitivitymv,cran
-sensitivitymw,cran
+sensitivitymult,rosenbap
+sensitivitymv,rosenbap
+sensitivitymw,rosenbap
 SensMap,ibtihelrebhi
 sensmediation,anitalindmark
 sensobol,arnaldpuy
@@ -21017,7 +21033,7 @@ sensory,cran
 SenSpe,cran
 sensR,aigorahub
 SenSrivastava,kjetil1001
-senstrat,cran
+senstrat,rosenbap
 sentencepiece,bnosac
 sentiment.ai,benwiseman
 SentimentAnalysis,sfeuerriegel
@@ -21616,6 +21632,7 @@ sincell,bioc
 sindyr,racdale
 sinew,yonicd
 singcar,jorittmo
+singIST,bioc
 SingleCaseES,jepusto
 SingleCellAlleleExperiment,bioc
 SingleCellComplexHeatMap,fanxurong
@@ -22632,6 +22649,7 @@ stagedtrees,stagedtrees
 stagePop,helenkettle
 stageR,bioc
 staggered,pedrohcgs
+staggR,chse-ohsu
 StakeholderAnalysis,cran
 StAMPP,lpembleton
 stampr,jedalong
@@ -22651,6 +22669,7 @@ stapler,muschellij2
 staplr,pridiltal
 staRdom,matthiaspucher
 STAREG,cran
+staRgate,bioc
 stargazer,marekhlavac
 starm,cran
 starma,fcheysson
@@ -22945,7 +22964,7 @@ subgroup,cran
 SubgrpID,cran
 subgxe,umich-cphds
 subincomeR,pablogguz
-submax,cran
+submax,rosenbap
 subplex,kingaa
 subrank,jeromepcollet
 subsampling,dqksnow
@@ -23362,7 +23381,7 @@ tailloss,igollini
 tailor,tidymodels
 tailplots,bernhardklar
 TailRank,r-forge
-tailTransform,cran
+tailTransform,rosenbap
 taipan,srkobakian
 talkr,mdingemanse
 tall,massimoaria
@@ -23597,7 +23616,7 @@ testthat,r-lib
 testthatdocs,urniaz
 testthatmulti,collinerickson
 testthis,s-fleck
-testtwice,cran
+testtwice,rosenbap
 tetraclasse,vincentguyader
 tetragon,pigian
 tetrascatt,jdgonzalezwork
@@ -23781,6 +23800,7 @@ tidyedgar,gerardgimenezadsuar
 tidyEdSurvey,pdbailey0
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
+tidyexposomics,bioc
 tidyfast,tysonstanley
 tidyfinance,tidy-finance
 tidyfit,jpfitzinger
@@ -23875,7 +23895,7 @@ TIGERr,han-siyu
 tigers,emmanuelparadis
 tigger,immcantation
 tightClust,cran
-tightenBlock,cran
+tightenBlock,rosenbap
 tigre,bioc
 tigreBrowserWriter,probic
 tigris,walkerke
@@ -24108,6 +24128,7 @@ tout,lictr
 tower,ixpantia
 toweranNA,matloff
 ToxCrit,cran
+toxdrc,jsalole
 toxEval,doi-usgs
 ToxicoGx,bioc
 toxpiR,toxpi
@@ -24594,7 +24615,6 @@ typetracer,mpadge
 typr,christopherkenny
 tzdb,r-lib
 tzupdater,sthonnard
-u5mr,myominnoo
 UAHDataScienceO,andriyprotsak5
 UAHDataScienceSC,andriyprotsak5
 UAHDataScienceSF,andriyprotsak5
@@ -25365,7 +25385,7 @@ WeightedCluster,matthias-studer
 WeightedEnsemble,yeasinstat
 weightedGCM,cyrillsch
 WeightedPortTest,tjfisher19
-weightedRank,cran
+weightedRank,rosenbap
 WeightedROC,tdhock
 weightedScores,cran
 weightedsurv,larry-leon
