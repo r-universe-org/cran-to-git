@@ -1024,6 +1024,7 @@ auth0,curso-r
 authoritative,bisaloo
 auto.pca,navinkumarnedunchezhian
 AutoAds,nemtsevvv
+autoann,cran
 autoBagging,vcerqueira
 autocogs,schloerke
 autoCovariateSelection,technoslerphile
@@ -1031,6 +1032,7 @@ autodb,charnelmouse
 AutoDeskR,paulgovan
 autoEnsemble,haghish
 autoFC,tspsyched
+autoFlagR,vikrant31
 autoFRK,h0h1
 autogam,tripartio
 autoGO,mpallocc
@@ -1572,7 +1574,7 @@ BEDMatrix,quantgen
 bedr,uclahs-cds
 BeeBDC,jbdorey
 beeca,openpharma
-BeeGUTS,bgoussen
+BeeGUTS,ibacon-gmbh-modelling
 beepr,rasmusab
 beer,bioc
 beeswarm,aroneklund
@@ -3609,13 +3611,10 @@ cogmapr,cran
 cognitoR,chi2labs
 coGPS,bioc
 cohetsurr,laylaparast
-CohortAlgebra,ohdsi
 cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
-CohortExplorer,ohdsi
 CohortGenerator,ohdsi
-CohortPathways,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,kimlopezguell
@@ -5659,6 +5658,7 @@ DPCD,sammorrissette
 dpcid,cran
 dPCP,alfodefalco
 dpcR,michbur
+dpGMM,szumx123
 DPI,psychbruce
 Dpit,cran
 dpkg,cole-brokamp
@@ -5902,6 +5902,7 @@ dyn,markleeds2
 dynafluxr,sgsokol
 dynamac,andyphilips
 dynamAedes,mattmar
+dynamicpv,msdllcpapers
 dynamicSDM,r-a-dobson
 dynamicTreeCut,plangfelder
 dynamite,ropensci
@@ -12782,6 +12783,7 @@ mBvs,kleest0
 mbX,utsavlamichhane
 mc.heterogeneity,gabriellajg
 mc2d,cran
+mcanalysis,cran
 MCARtest,cran
 mcauchyd,santagos
 MCAvariants,rosarialo
@@ -14082,6 +14084,7 @@ MRQoL,cran
 MRReg,darkeyes
 mrregression,lgstat
 MRStdCRT,deckardt98
+MRStdLCRT,cran
 MRTAnalysis,tqian
 MRTSampleSize,pengliao
 MRTSampleSizeBinary,tqian
@@ -15612,6 +15615,7 @@ orbital,tidymodels
 orbweaver,ixpantia
 orca,thocevar
 orcamentoBR,cran
+orcidtr,lorenzofabbri
 orclus,g-rho
 ORCME,cran
 Orcs,fdetsch
@@ -16185,6 +16189,7 @@ pdfsearch,lebebr01
 pdftables,expersso
 pdftools,ropensci
 pdi,jasenfinch
+PDIndex,cran
 pdInfoBuilder,bioc
 pdist,jeffwong
 PDM,jfpalomeque
@@ -17487,6 +17492,7 @@ PSpower,laubok
 psqn,boennecd
 psre,cran
 PSRICalc,rfeissiv
+psrwe,olssol
 PSS.Health,cran
 PSSIM,hwanggit
 PSSMCOOL,biocool-lab
@@ -18318,7 +18324,7 @@ Rbowtie2,bioc
 RbowtieCuda,bioc
 RBPcurve,giuseppec
 rbranding,epiforesite
-rbridge,byuzbasi
+rbridge,cran
 rbrsa,obakis
 rbscCI,shimenghuang
 rbsurv,bioc
@@ -21661,7 +21667,7 @@ siren,cran
 SIRmcmc,cran
 sirt,alexanderrobitzsch
 SIRthresholded,clement-w
-sirus,clementbenard
+sirus,cran
 SIS,yangfengstat
 sisal,mvkorpel
 SISIR,cran
@@ -22369,7 +22375,7 @@ spikes,cran
 spikeslab,kogalur
 spikeSlabGAM,fabian-s
 spiky,bioc
-Spillover,jilberurbina
+Spillover,cran
 spillR,bioc
 SPINA,jwdietrich21
 spINAR,mfaymon
@@ -22756,6 +22762,7 @@ stcov,bnaul
 stcpR6,shinjaehyeok
 STCYP,cran
 stddiff,marsdu1989
+stddiff.spark,alicja-januszkiewicz
 STDistance,princewang2018
 stdmod,sfcheung
 stdReg,arvsjo
@@ -25712,7 +25719,6 @@ xtdml,cran
 xtranat,fdepaolis
 xts,joshuaulrich
 xtsum,macosso
-xtune,jingxuanh
 xtvfreg,tfliaoui
 xutils,fangzhou-xie
 xVA,sa-ccr

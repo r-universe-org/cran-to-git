@@ -15,32 +15,14 @@
     "url": "https://github.com/ohdsi/circer"
   },
   {
-    "package": "CohortAlgebra",
-    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortalgebra",
-    "registry": "archived"
-  },
-  {
     "package": "CohortConstructor",
     "maintainer": "Edward Burn <edward.burn@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/cohortconstructor"
   },
   {
-    "package": "CohortExplorer",
-    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortexplorer",
-    "registry": "archived"
-  },
-  {
     "package": "CohortGenerator",
     "maintainer": "Anthony Sena <sena@ohdsi.org>",
     "url": "https://github.com/ohdsi/cohortgenerator"
-  },
-  {
-    "package": "CohortPathways",
-    "maintainer": "Gowtham Rao <rao@ohdsi.org>",
-    "url": "https://github.com/ohdsi/cohortpathways",
-    "registry": "archived"
   },
   {
     "package": "CohortSymmetry",

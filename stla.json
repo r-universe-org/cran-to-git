@@ -63,7 +63,8 @@
   {
     "package": "EigenR",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/eigenr"
+    "url": "https://github.com/stla/eigenr",
+    "registry": "archived"
   },
   {
     "package": "findInFiles",
@@ -88,7 +89,8 @@
   {
     "package": "gfiExtremes",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/gfiextremes"
+    "url": "https://github.com/stla/gfiextremes",
+    "registry": "archived"
   },
   {
     "package": "gfiUltra",
@@ -98,7 +100,8 @@
   {
     "package": "giacR",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/giacr"
+    "url": "https://github.com/stla/giacr",
+    "registry": "archived"
   },
   {
     "package": "gmpoly",
@@ -118,7 +121,8 @@
   {
     "package": "HypergeoMat",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/hypergeomat"
+    "url": "https://github.com/stla/hypergeomat",
+    "registry": "archived"
   },
   {
     "package": "interpolation",
@@ -138,7 +142,8 @@
   {
     "package": "jack",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/jackr"
+    "url": "https://github.com/stla/jackr",
+    "registry": "archived"
   },
   {
     "package": "jacobi",
@@ -213,7 +218,8 @@
   {
     "package": "qspray",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/qspray"
+    "url": "https://github.com/stla/qspray",
+    "registry": "archived"
   },
   {
     "package": "rAmCharts4",
@@ -223,17 +229,20 @@
   {
     "package": "RationalMatrix",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/rationalmatrix"
+    "url": "https://github.com/stla/rationalmatrix",
+    "registry": "archived"
   },
   {
     "package": "ratioOfQsprays",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/ratioofqsprays"
+    "url": "https://github.com/stla/ratioofqsprays",
+    "registry": "archived"
   },
   {
     "package": "RCDT",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/rcdt"
+    "url": "https://github.com/stla/rcdt",
+    "registry": "archived"
   },
   {
     "package": "RcppColors",
@@ -298,7 +307,8 @@
   {
     "package": "symbolicQspray",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/symbolicqspray"
+    "url": "https://github.com/stla/symbolicqspray",
+    "registry": "archived"
   },
   {
     "package": "syt",
