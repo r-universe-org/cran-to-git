@@ -610,6 +610,7 @@ animl,cran
 anipaths,henryrscharf
 aniSNA,prabhleenkaur19
 aniview,lgnbhl
+ankiR,chrislongros
 anMC,dazzimonti
 ANN2,bflammers
 annaffy,bioc
@@ -2709,7 +2710,7 @@ causal.decomp,syeonkang
 causalBatch,neurodata
 causalCmprsk,bella2001
 causaldata,nickch-k
-causalDisco,annennenne
+causalDisco,disco-coders
 causaldrf,cran
 causalDT,tiffanymtang
 causaleffect,santikka
@@ -3589,6 +3590,7 @@ codified,ouhscbbmc
 CoDiNA,cran
 codingMatrices,billvenables
 codyn,nceas
+codyna,santikka
 coefa,xijianzheng
 coefficientalpha,johnnyzhz
 coefplot,jaredlander
@@ -5548,7 +5550,7 @@ dnr,abhirupkgp
 do,yikeshu0611
 do3PCA,caetanods
 dobin,sevvandi
-doblin,aserohijos
+doblin,cran
 dobson,agbarnett
 doBy,hojsgaard
 doc2concrete,myeomans
@@ -6372,6 +6374,7 @@ emphatic,coolbutuseless
 empichar,gbasulto
 EmpiricalBrownsMethod,bioc
 EmpiricalCalibration,ohdsi
+EmpiricalDynamics,isadorenabi
 emplik,maizhou
 emplik2,maizhou
 emplikAUC,maizhou
@@ -8849,6 +8852,7 @@ ggversa,cran
 ggvfields,dusty-turner
 ggview,idmn
 ggvis,hadley
+ggvolc,loukesio
 ggvolcano,yaoxiangli
 ggwordcloud,lepennec
 ggx,brandmaier
@@ -10118,7 +10122,7 @@ htmltools,rstudio
 HTMLUtils,cran
 htmlwidgets,ramnathv
 HTqPCR,bioc
-htrSPRanalysis,janice-mccarthy
+htrSPRanalysis,cran
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
@@ -10361,7 +10365,7 @@ icosa,icosa-grid
 icpack,hputter
 icpsrdata,fsolt
 icr,staudtlex
-ICRanks,almohamad
+ICRanks,cran
 icRSF,cran
 ICS,cran
 ICSClust,auroreaa
@@ -10857,6 +10861,7 @@ ip2whois,ip2whois
 ipa,rossellhayes
 ipaddress,davidchall
 ipADMIXTURE,darkeyes
+IPAG,gpiaser
 ipanema,cran
 iPath,bioc
 ipbase,dominikkukacka
@@ -11451,8 +11456,8 @@ Kmedians,godichon-baggioni
 kmer,shaunpwilkinson
 kmeRtone,sahakyanlab
 kmi,aallignol
-kml,christophe314
-kml3d,christophe314
+kml,cran
+kml3d,cran
 KMLtoSHAPE,cran
 kmodR,cran
 KMsurv,jun-yan
@@ -12192,7 +12197,7 @@ longit,atanubhattacharjee
 longitudinal,cran
 longitudinalANAL,cran
 longitudinalcascade,noahhaber
-longitudinalData,christophe314
+longitudinalData,cran
 LongituRF,sistm
 longke,shixuanwang43
 longmemo,mmaechler
@@ -12318,6 +12323,7 @@ LSWPlib,cran
 LSX,koheiw
 ltable,cran
 LTASR,cran
+ltc,loukesio
 LTCDM,cran
 lterdatasampler,lter
 lterpalettefinder,lter
@@ -13381,7 +13387,7 @@ milr,pingyangchen
 mimager,bioc
 mimdo,gjlabita
 mime,yihui
-MIMER,anoopvelluv
+MIMER,cran
 mimi,cran
 mimiSBM,kdesantiago
 MIMSunit,mhealthgroup
@@ -14353,7 +14359,7 @@ MultiRNAflow,bioc
 MultiRNG,bernice0321
 MultiRobust,praetere
 multiROC,cran
-MultIS,wagner-s
+MultIS,cran
 MultiscaleDTM,ailich
 multiScaleR,wpeterman
 multiscan,bioc
@@ -14774,6 +14780,7 @@ networksem,johnnyzhz
 NetworkToolbox,alexchristensen
 networktools,paytonjjones
 networktree,paytonjjones
+NeuDist,vkumar123vkumar
 NeuralEstimators,msainsburydale
 neuralGAM,inesortega
 neuralnet,bips-hb
@@ -14950,6 +14957,7 @@ NMAforest,cran
 nmaINLA,gunhanb
 NMAoutlier,petropouloumaria
 nmaplateplot,cran
+NMAR,ncn-foreigners
 nmarank,tpapak
 nmathresh,dmphillippo
 NMcalc,philipdelff
@@ -15676,6 +15684,7 @@ ormPlot,rix133
 oro.dicom,bjw34032
 oro.nifti,bjw34032
 oro.pet,bjw34032
+ORscraper,samuelgonzalez0204
 orsifronts,australianantarcticdivision
 orsk,cran
 ORTH.Ord,mengcan47
@@ -18324,7 +18333,7 @@ Rbowtie2,bioc
 RbowtieCuda,bioc
 RBPcurve,giuseppec
 rbranding,epiforesite
-rbridge,cran
+rbridge,byuzbasi
 rbrsa,obakis
 rbscCI,shimenghuang
 rbsurv,bioc
@@ -18906,6 +18915,7 @@ REMixed,cran
 REMLA,bryansaul
 rEMM,mhahsler
 remmy,long39ng
+remode,cran
 remote,tim-salabim
 remotePARTS,morrowcj
 remotes,r-lib
@@ -19725,7 +19735,7 @@ RODBCDBI,teramonagi
 rodd,romanguchenko
 rODE,f0nzie
 rodeo,dkneis
-rofanova,unina-sfere
+rofanova,fabiocentofanti
 roger,vigou3
 Rogue,ms609
 ROI,r-forge
@@ -20302,6 +20312,7 @@ rwalkr,earowang
 rwarrior,cran
 Rwave,r-forge
 rwavelet,fabnavarro
+Rwbo,cran
 rwc,ehanks
 rWCVP,matildabrown
 RWDataPlyr,bouldercodehub
@@ -21667,7 +21678,7 @@ siren,cran
 SIRmcmc,cran
 sirt,alexanderrobitzsch
 SIRthresholded,clement-w
-sirus,cran
+sirus,clementbenard
 SIS,yangfengstat
 sisal,mvkorpel
 SISIR,cran
@@ -22375,7 +22386,7 @@ spikes,cran
 spikeslab,kogalur
 spikeSlabGAM,fabian-s
 spiky,bioc
-Spillover,cran
+Spillover,jilberurbina
 spillR,bioc
 SPINA,jwdietrich21
 spINAR,mfaymon
