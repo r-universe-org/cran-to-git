@@ -3,5 +3,10 @@
     "package": "valdr",
     "maintainer": "Kieran Harrison <k.harrison@vald.com>",
     "url": "https://github.com/cran/valdr"
+  },
+  {
+    "package": "valdrViz",
+    "maintainer": "Kieran Harrison <k.harrison@vald.com>",
+    "url": "https://github.com/cran/valdrViz"
   }
 ]

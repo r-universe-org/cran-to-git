@@ -2,7 +2,8 @@
   {
     "package": "bartMachine",
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
-    "url": "https://github.com/cran/bartMachine"
+    "url": "https://github.com/kapelner/bartmachine",
+    "subdir": "bartMachine"
   },
   {
     "package": "bartMachineJARs",
