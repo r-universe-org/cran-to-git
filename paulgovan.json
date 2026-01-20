@@ -48,23 +48,5 @@
     "package": "ReliaShiny",
     "maintainer": "Paul Govan <paul.govan2@gmail.com>",
     "url": "https://github.com/paulgovan/reliashiny"
-  },
-  {
-    "package": "WeibullR.learnr",
-    "maintainer": "Paul Govan <paul.govan2@gmail.com>",
-    "url": "https://github.com/cran/WeibullR.learnr",
-    "registry": "archived"
-  },
-  {
-    "package": "WeibullR.plotly",
-    "maintainer": "Paul Govan <paul.govan2@gmail.com>",
-    "url": "https://github.com/cran/WeibullR.plotly",
-    "registry": "archived"
-  },
-  {
-    "package": "WeibullR.shiny",
-    "maintainer": "Paul Govan <paul.govan2@gmail.com>",
-    "url": "https://github.com/paulgovan/weibullr.shiny",
-    "registry": "archived"
   }
 ]

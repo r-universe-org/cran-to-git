@@ -582,7 +582,7 @@ AnanseSeurat,jgasmits
 anansi,bioc
 Anaquin,bioc
 aNCA,pharmaverse
-AncestryMapper,cran
+AncestryMapper,eoh-gh
 AnchorRegression,simzim96
 ANCOMBC,bioc
 AncReg,markusul
@@ -680,7 +680,7 @@ anytime,eddelbuettel
 ao,loelschlaeger
 AOboot,cran
 aod,cran
-aods3,aursiber
+aods3,lbbe-software
 aoos,wahani
 aopdata,rafapereirabr
 Aoptbdtvc,doer0
@@ -887,7 +887,7 @@ aRxiv,ropensci
 ASAFE,bioc
 asaur,mooredf22
 asbio,kenaho1
-ascentTraining,cran
+ascentTraining,harryjalexander
 ascii,mclements
 asciicast,r-lib
 asciichartr,blmayer
@@ -2430,6 +2430,7 @@ bundesbank,enricoschumann
 bundesligR,ottlngr
 bundle,rstudio
 bunsen,cran
+buoyant,posit-dev
 bupaR,bupaverse
 bupaverse,bupaverse
 burgle,paulgunsalus
@@ -4955,6 +4956,7 @@ deepregression,druegamer
 deepRstudio,kumes
 deepSNV,bioc
 deepspat,andrewzm
+deepSTRAPP,maeldore
 DeepTarget,bioc
 deeptime,willgearty
 deeptimedata,willgearty
@@ -7097,6 +7099,7 @@ fasterRaster,adamlilith
 fastFMM,gloewing
 fastfocal,hoyiwan
 FastGaSP,uncertaintyquantification
+fastgeojson,firstzeroenergy
 fastGHQuad,awblocker
 fastGLCM,mlampros
 fastglm,jaredhuling
@@ -7517,6 +7520,7 @@ flevr,bdwilliamson
 flex,cran
 flexBCF,skdeshpande91
 flexclust,cran
+flexCountReg,jwood-iastate
 flexCWM,cran
 flexdashboard,rstudio
 FlexDir,nenedibri
@@ -9815,6 +9819,7 @@ heiscore.data,vramdas06
 helixvis,rrrlw
 HellCor,lafaye
 hellno,petermeissner
+hellodatascience,hellodata-science
 helloJavaWorld,tverbeke
 HelloRanges,bioc
 hellorust,r-rust
@@ -9842,7 +9847,7 @@ hesim,hesim-dev
 HEssRNA,bmgfiasri
 hetcorFS,cran
 HeterFunctionalData,hwanggit
-heterocop,cran
+heterocop,ekaterinatomilina
 heterogen,patauchi
 HeteroGGM,cran
 heterometa,deweyme
@@ -12290,7 +12295,7 @@ LS2W,eckleyi
 LS2Wstat,cran
 lsa,fwild
 LSAfun,fguenther
-LSAMBA,cran
+LSAMBA,aurianegbt
 LSAmitR,thkiefer
 lsasim,tmatta
 lsbs,weng-gw
@@ -14055,6 +14060,7 @@ mr.mashr,stephenslab
 mr.pivw,siqixu
 MR.RGM,bitansa
 MRAM,cran
+mrangr,cran
 mrap,cran
 mratios,cran
 mrbayes,okezie94
@@ -14899,6 +14905,7 @@ NISTnls,cran
 NISTunits,cran
 NitrogenUptake2016,troyhill
 nivm,michaelfay-niaid
+nivo.bubblechart,dataraceredu
 nixmass,haraldschellander
 nixtlar,nixtla
 nJira,nikhilchoudhry
@@ -17833,7 +17840,7 @@ qtlcharts,kbroman
 qtlDesign,sens
 QTLEMM,py-chung
 QTLExperiment,bioc
-qtlhot,cran
+qtlhot,byandell-sysgen
 Qtlizer,bioc
 qtlnet,cran
 qtlpoly,gabrielgesteira
@@ -18916,7 +18923,7 @@ ReMFPCA,haghbinh
 remify,tilburgnetworkgroup
 remindR,cran
 remiod,xsswang
-REMixed,cran
+REMixed,aurianegbt
 REMLA,bryansaul
 rEMM,mhahsler
 remmy,long39ng
@@ -20204,6 +20211,7 @@ rtkore,joblion
 RTL,risktoollib
 RTLknitr,foadesmaeili5
 rtlr,matanhakim
+rTLS,antguz
 rTLsDeep,carlos-alberto-silva
 RTMB,kaskr
 RTMBdist,janoleko
@@ -21759,7 +21767,7 @@ slam,kurthornik
 slanter,tanaylab
 slap,tadascience
 slash,feddelegrand7
-slasso,unina-sfere
+slasso,fabiocentofanti
 SLBDD,cran
 slca,kim0sun
 SLCARE,qyxxx
@@ -22281,6 +22289,7 @@ spcadjust,agandy
 SPCALDA,cran
 SPCAvRP,milanagataric
 SPCDAnalyze,cran
+spCF,dmuraka
 SPCompute,aguerozz
 spconf,kpkeller
 spcosa,cran
@@ -23018,6 +23027,7 @@ sugrrants,earowang
 SUITOR,bioc
 sulcimap,cran
 SumcaVer1,torabi-uofm
+sumExtras,kylegrealis
 sumFREGAT,cran
 summariser,condwanaland
 SummarizedExperiment,bioc
@@ -23806,7 +23816,6 @@ tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
 tidycode,lucymcgowan
 tidycomm,tidycomm
-TidyConsultant,harrison4192
 tidycountries,denironyx
 tidyCoverage,bioc
 tidyCpp,eddelbuettel
@@ -25011,6 +25020,7 @@ vecmatch,polymerase3
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
+vectorialcalculus,julianfajardo1908
 vectorsurvR,cran
 vectorwavelet,toygur
 vecvec,mitchelloharawild
@@ -25037,6 +25047,7 @@ venn,dusadrian
 VennDetail,bioc
 VennDiagram,uclahs-cds
 venneuler,s-u
+VennItem,microbialman
 vennplot,z267xu
 verbaliseR,cararthompson
 verbalisr,magnusdv
@@ -25239,7 +25250,7 @@ vueR,vue-r
 vulcan,bioc
 VulnToolkit,troyhill
 VUROCS,cran
-vvauditor,tin900
+vvauditor,esr316
 vvbitwarden,esr316
 vvcanvas,vusaverse
 vvconverter,vusaverse
@@ -25401,9 +25412,6 @@ WeibullModiAMR,drajaykumarmr1008
 weibullness,appliedstat
 WeibullR,weibull-r
 WeibullR.ALT,jto888
-WeibullR.learnr,paulgovan
-WeibullR.plotly,paulgovan
-WeibullR.shiny,paulgovan
 weibulltools,tim-tu
 Weighted.Desc.Stat,cran
 weightedCL,cran
@@ -25516,6 +25524,7 @@ withr,r-lib
 wizaRdry,belieflab
 wk,paleolimbot
 wkb,ianmcook
+wklsr,tbanken
 wktmo,leoly2017
 WLogit,clavie3009
 WLreg,marvels2031
@@ -25599,6 +25608,7 @@ wrappedtools,abusjahn
 wrappr,cran
 wrapr,winvector
 wrassp,ips-lmu
+wrds,statzhero
 Wrench,bioc
 WrensBookshelf,buveges
 WRestimates,autumnlou
