@@ -933,7 +933,6 @@ assertthat,hadley
 assessor,jhlee1408
 AssessORF,bioc
 ASSET,bioc
-AssetCorr,maximiliannaglur
 AssetPricing,rolfturner
 ASSIGN,bioc
 assignPOP,alexkychen
@@ -1048,7 +1047,6 @@ automap,jskoien
 automatedRecLin,ncn-foreigners
 automatedtests,wouterzeevat
 autometric,wlandau
-autoMFA,john-c-davey
 automl,aboulaboul
 autoMrP,retowuest
 autonewsmd,kapsner
@@ -4126,6 +4124,7 @@ countsplit,anna-neufeld
 countSTAR,bking124
 countToFPKM,aalhendi1707
 countts,cran
+couplr,gcol33
 coursekata,coursekata
 covadap,cran
 covafillr,calbertsen
@@ -5022,7 +5021,6 @@ demography,robjhyndman
 demoKde,billvenables
 DemoKin,ivanwilli
 demoShiny,sigbertklinke
-DEMOVA,20k-p
 demulticoder,grunwaldlab
 demuxmix,bioc
 demuxSNP,bioc
@@ -5713,7 +5711,7 @@ drda,albertopessia
 DRDID,pedrohcgs
 DrDimont,kathbaum
 DRDRtest,weng-gw
-dream,cran
+dream,kevincarson
 dreamer,rich-payne
 dreamerr,lrberge
 dreamlet,bioc
@@ -6440,6 +6438,7 @@ ensembleMOS,sbaran0225
 ensemblepp,jakmes
 ensembleTax,dcat4
 enshuman,totajuliusd
+ensModelVis,domijan
 ensr,dewittpe
 EnTraineR,sebastien-le
 entropart,ericmarcon
@@ -9868,6 +9867,7 @@ heuristicsmineR,bupaverse
 hexbin,edzer
 hexDensity,chenlaboratory
 hexfont,trevorld
+hexify,gcol33
 hexSticker,guangchuangyu
 HextractoR,cran
 hextri,tslumley
@@ -14580,6 +14580,7 @@ nanostringr,talhouklab
 nanotime,eddelbuettel
 NanoTube,bioc
 NAP,cran
+NAPrior,cran
 naptanr,dipad-fran-bryden
 naptime,russellpierce
 nardl,zedtaha
@@ -16705,6 +16706,7 @@ PlatformDesign,cran
 platowork,lassehjorthmadsen
 plattice,cran
 Platypus,cran
+plausibounds,simonfreyaldenhoven
 plavaan,marklhc
 play,joe-chelladurai
 player,rossellhayes
@@ -20470,7 +20472,7 @@ sampcompR,bjoernrohr
 sampleClassifier,bioc
 sampledatasets,lightbluetitan
 sampler,mbaldassaro
-sampleSelection,arne-henningsen
+sampleSelection,r-forge
 samplesize,shearer
 SampleSize4ClinicalTrials,qihongchao
 samplesize4surveys,psirusteam
@@ -20868,6 +20870,7 @@ SdeaR,cran
 SDEFSR,agvico
 sdetorus,egarpor
 SDGdetector,yingjie4science
+SDGLM,guangbaog
 SDLfilter,takahiroshimada
 sdlrm,rdmatheus
 sdm,babaknaimi
@@ -21851,6 +21854,7 @@ SmartSVA,cran
 SMASH,cran
 smashr,stephenslab
 smatr,remkoduursma
+smbdata,emitanaka
 smbinning,hjopia
 smcfcs,jwb133
 SMCRM,tverbeke
@@ -24429,7 +24433,7 @@ trustmebro,kuuuwe
 trustOptim,braunm
 tryCatchLog,aryoda
 tryr,analythium
-TSA,cran
+TSA,kungsikchan
 tsallisqexp,dutangc
 TSANN,yeasinstat
 tsapp,rainers48

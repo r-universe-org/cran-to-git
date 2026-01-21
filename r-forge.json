@@ -733,6 +733,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "sampleSelection",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/r-forge/sampleselection",
+    "subdir": "pkg/sampleSelection"
+  },
+  {
     "package": "sandwich",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/sandwich",
