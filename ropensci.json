@@ -136,7 +136,7 @@
   },
   {
     "package": "circle",
-    "maintainer": "Patrick Schratz <patrick.schratz@gmail.com>",
+    "maintainer": "David Munoz Tord <david.munoztord@mailbox.org>",
     "url": "https://github.com/ropensci/circle"
   },
   {
@@ -243,6 +243,11 @@
     "package": "dendroNetwork",
     "maintainer": "Ronald Visser <r.m.visser@saxion.nl>",
     "url": "https://github.com/ropensci/dendronetwork"
+  },
+  {
+    "package": "dfms",
+    "maintainer": "Sebastian Krantz <sebastian.krantz@graduateinstitute.ch>",
+    "url": "https://github.com/ropensci/dfms"
   },
   {
     "package": "dittodb",
@@ -783,6 +788,11 @@
     "package": "rdryad",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rdryad"
+  },
+  {
+    "package": "read.abares",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://github.com/ropensci/read.abares"
   },
   {
     "package": "readODS",

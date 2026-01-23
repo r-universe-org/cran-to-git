@@ -2541,6 +2541,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CompensAID",
+    "maintainer": "Rosan Olsman <r.olsman@erasmusmc.nl>",
+    "url": "https://github.com/olsman/compensaid",
+    "registry": "bioc"
+  },
+  {
     "package": "compEpiTools",
     "maintainer": "Mattia Furlan <mattia.furlan@iit.it>",
     "url": "https://git.bioconductor.org/packages/compEpiTools",
@@ -7260,6 +7266,12 @@
     "package": "mdqc",
     "maintainer": "Gabriela Cohen-Freue <gcohen@mrl.ubc.ca>",
     "url": "https://git.bioconductor.org/packages/mdqc",
+    "registry": "bioc"
+  },
+  {
+    "package": "MDSvis",
+    "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/mdsvis",
     "registry": "bioc"
   },
   {
