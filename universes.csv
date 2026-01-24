@@ -1137,6 +1137,7 @@ AzureTableStor,azure
 AzureVision,azure
 AzureVM,azure
 AzureVMmetadata,azure
+b32,extendr
 b64,extendr
 BaalChIP,bioc
 babel,olshena
@@ -1786,6 +1787,7 @@ BinaryDosage,jimb3
 BinaryEMVS,john-snyder
 BinaryEPPM,cran
 binaryGP,chihli
+BinaryReplicates,pierrepudlo
 binaryRL,yuki-961004
 binb,eddelbuettel
 BINCOR,jomopo
@@ -4445,6 +4447,7 @@ ctc,bioc
 CTD,vpetrosyan
 CTdata,bioc
 CTDquerier,bioc
+CTE,donaldtmcknight
 CTexploreR,bioc
 ctf,fitzgerald-csus
 ctgdist,huseyinyildiz35
@@ -5338,6 +5341,7 @@ dir.expiry,bioc
 dir2json,parmsam
 Dire,american-institutes-for-research
 DIRECT,audreyqyfu
+directAgeStd,joeblackford
 DirectedClustering,gianpaoloclemente
 DirectEffects,mattblackwell
 Directional,cran
@@ -8912,6 +8916,7 @@ gimap,fredhutch
 gimme,gateslab
 GIMMEgVAR,williamsandra
 GimmeMyPlot,ecamenen
+GimmeMyStats,ecamenen
 gimms,environmentalinformatics-marburg
 GINAX,xss55
 Gini,marsdu1989
@@ -9363,6 +9368,7 @@ gremlin,matthewwolak
 GREMLINS,grosssbm
 GRENITS,bioc
 greport,harrelfe
+grepreaper,akshat09867
 gretel,davidbuch
 gretlR,sagirumati
 grex,nanxstats
@@ -9475,6 +9481,7 @@ GSEABenchmarkeR,bioc
 GSEAlm,bioc
 GSEAmining,bioc
 gsean,bioc
+gsearly,astroherring
 gsEasy,daniel-jg
 GseaVis,junjunlab
 GSED,marie-karelle
@@ -10099,7 +10106,7 @@ hpfilter,cran
 HPiP,bioc
 hpiR,andykrause
 HPLB,lorismichel
-HPZoneAPI,cran
+HPZoneAPI,ggdatascience
 HQM,cran
 hqmisc,hugoquene
 hqreg,cy-dev
@@ -11216,6 +11223,7 @@ joineR,graemeleehickey
 joineRML,graemeleehickey
 joinet,rauschenberger
 joinless,braylinjr
+joinspy,gcol33
 joint.Cox,takeshiemura1
 JointAI,nerler
 jointCalib,ncn-foreigners
@@ -13239,6 +13247,7 @@ MF.beta4,annechao
 mfa,bioc
 mfaces,cli9
 MFAg,cran
+mfcurve,xam12
 mFD,cmlmagneville
 mfdb,lentinj
 MFDFA,mlaib
@@ -13461,7 +13470,7 @@ minSNPs,ludwighoon
 minter,fdecunta
 MINTplates,cran
 MinTriadic,leksro
-minty,gesistsa
+minty,chainsawriot
 mintyr,tony2015116
 mipfp,jojo-
 MiPP,bioc
@@ -15603,6 +15612,7 @@ opticut,psolymos
 optifunset,cran
 optigrab,decisionpatterns
 optim.functions,gabysbrain
+OptimalBinningWoE,evandeilton
 OptimalCutpoints,cran
 OptimalDesign,cran
 optimalFlow,bioc
@@ -15797,6 +15807,7 @@ OutliersLearn,missiegobeats
 OutliersO3,impaug
 outlierspinner,peconom
 outliertree,david-cortes
+outlying,p10911004-npust
 outreg,kota7
 OUTRIDER,bioc
 OutSeekR,pboutros
@@ -17228,6 +17239,7 @@ PReMiuM,silvialiverani
 prenoms,desautm
 prepdat,ayalaallon
 pRepDesigns,cran
+prepkit,gonrui
 prepost,mattblackwell
 prepplot,ugroempi
 PreProcess,r-forge
@@ -18357,6 +18369,7 @@ rblt,sg4r
 RBM,bioc
 rbm25,davzim
 rBMF,cran
+rbmi,openpharma
 rbmn,cran
 RBNZ,rntq472
 rbooster,cran
@@ -18430,6 +18443,7 @@ rchroma,cynkra
 RChronoModel,philippe-a
 rciplot,cran
 RCircos,hzhanghenry
+rCISSVAE,ciss-vae
 RcisTarget,bioc
 rcites,ropensci
 RCLabels,matthewheun
@@ -20055,7 +20069,7 @@ RSBJson,tverbeke
 rsbml,bioc
 RSC,lcorag
 rSCA,xanderwangcsl
-RSCAT,act-org
+RSCAT,bnjiangece
 rscc,sigbertklinke
 RScelestial,foroughmand
 RSclient,s-u
@@ -21106,7 +21120,7 @@ sepkoski,lewisajones
 seq.hotSPOT,bioc
 seq2pathway,bioc
 seq2R,noramvillanueva
-SeqAlignR,cran
+SeqAlignR,leonnorblad
 SeqAlloc,cran
 SeqArray,bioc
 seqCAT,bioc
@@ -21123,7 +21137,7 @@ seqICP,cran
 seqimpute,emerykevin
 Seqinfo,bioc
 seqinr,lbbe-software
-SeqKat,pboutros
+SeqKat,theboutroslab
 seqLogo,bioc
 SeqMADE,cran
 seqmagick,yulab-smu
@@ -22306,6 +22320,7 @@ spbabel,mdsumner
 spbal,javalake2023
 spBayes,finleya
 spBayesSurv,wonderzhm
+spBFA,berchuck
 spBPS,lucapresicce
 Spbsampling,francescopantalone
 spc,knoths
@@ -23024,6 +23039,7 @@ SubgrpID,cran
 subgxe,umich-cphds
 subincomeR,pablogguz
 submax,rosenbap
+subniche,karasiewiczstephane
 subplex,kingaa
 subrank,jeromepcollet
 subsampling,dqksnow
@@ -23052,6 +23068,7 @@ sugrrants,earowang
 SUITOR,bioc
 sulcimap,cran
 SumcaVer1,torabi-uofm
+sumer,cran
 sumExtras,kylegrealis
 sumFREGAT,cran
 summariser,condwanaland
@@ -25809,6 +25826,7 @@ YatesAlgo.FactorialExp.SR,roy-sr-007
 ycevo,bonsook
 YEAB,cran
 yesno,poissonconsulting
+yfhist,jasonjfoster
 yfinancer,gacolitti
 yfR,ropensci
 yfscreen,jasonjfoster

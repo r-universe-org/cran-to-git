@@ -1,7 +1,7 @@
 [
   {
     "package": "ApplyPolygenicScore",
-    "maintainer": "Paul Boutros <PBoutros@mednet.ucla.edu>",
+    "maintainer": "Paul Boutros <PBoutros@sbpdiscovery.org>",
     "url": "https://github.com/cran/ApplyPolygenicScore"
   },
   {
@@ -16,17 +16,12 @@
   },
   {
     "package": "OmicsQC",
-    "maintainer": "Paul C. Boutros <PBoutros@mednet.ucla.edu>",
+    "maintainer": "Paul C. Boutros <PBoutros@sbpdiscovery.org>",
     "url": "https://github.com/cran/OmicsQC"
   },
   {
     "package": "OutSeekR",
     "maintainer": "Paul Boutros <pboutros@sbpdiscovery.org>",
     "url": "https://github.com/cran/OutSeekR"
-  },
-  {
-    "package": "SeqKat",
-    "maintainer": "Paul C. Boutros <pboutros@mednet.ucla.edu>",
-    "url": "https://github.com/cran/SeqKat"
   }
 ]
