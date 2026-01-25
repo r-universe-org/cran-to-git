@@ -1,10 +1,5 @@
 [
   {
-    "package": "bedr",
-    "maintainer": "Paul C. Boutros <pboutros@mednet.ucla.edu>",
-    "url": "https://github.com/uclahs-cds/package-bedr"
-  },
-  {
     "package": "BoutrosLab.plotting.general",
     "maintainer": "Paul Boutros <PBoutros@sbpdiscovery.org>",
     "url": "https://github.com/uclahs-cds/package-boutroslab-plotting-general"
@@ -13,6 +8,11 @@
     "package": "CancerEvolutionVisualization",
     "maintainer": "Paul Boutros <PBoutros@mednet.ucla.edu>",
     "url": "https://github.com/uclahs-cds/public-r-cancerevolutionvisualization"
+  },
+  {
+    "package": "iSubGen",
+    "maintainer": "Mao Tian <mtian@sbpdiscovery.org>",
+    "url": "https://github.com/uclahs-cds/package-isubgen"
   },
   {
     "package": "VennDiagram",
