@@ -516,13 +516,6 @@
     "subdir": "pkg/PreProcess"
   },
   {
-    "package": "PST",
-    "maintainer": "Alexis Gabadinho <alexis.gabadinho@wanadoo.fr>",
-    "url": "https://github.com/r-forge/pst",
-    "subdir": "pkg",
-    "registry": "archived"
-  },
-  {
     "package": "QSARdata",
     "maintainer": "Max Kuhn <mxkuhn@gmail.com>",
     "url": "https://github.com/r-forge/qsardata",

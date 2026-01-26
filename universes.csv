@@ -601,7 +601,6 @@ aniDom,cran
 anim.plots,hughjonesd
 animalcules,bioc
 animalEKF,sam-data-guy-iam
-AnimalHabitatNetwork,cran
 AnimalSequences,reviewburner
 animate,kcf-jackson
 animation,yihui
@@ -1055,7 +1054,6 @@ autonomics,bioc
 AutoPipe,falafel19
 Autoplotprotein,cran
 AutoPlots,adrianantico
-autoRasch,cran
 autoReg,cardiomoon
 AutoregressionMDE,cran
 AutoScore,nliulab
@@ -1389,7 +1387,6 @@ BayesKnockdown,bioc
 BayesLCA,itsarthurwhite
 bayesLife,hanase
 bayeslist,cran
-bayeslm,jingyuhe
 BayesLN,agardini
 BayesLogit,jwindle
 bayeslongitudinal,edjcastilloca
@@ -4140,7 +4137,6 @@ covalchemy,namanlab
 covatest,sandradeiaco
 covBM,ostirrup
 CovCorTest,sjedhoff
-covdepGE,jacobhelwig
 covEB,bioc
 coveffectsplot,smouksassi
 covequal,turgeonmaxime
@@ -5791,7 +5787,6 @@ dsims,distancedevelopment
 DSjobtracker,thiyangt
 DSL,theussl
 dslabs,cran
-dsld,matloff
 dslice,yechao1009
 DSLite,datashield
 dsm,distancedevelopment
@@ -6246,7 +6241,6 @@ eha,goranbrostrom
 ehaGoF,agulb
 eHDPrep,overton-group
 ehelp,mponce0
-eHOF,florianjansen
 EHR,cran
 EHRmuse,ritoban1
 EHRtemporalVariability,hms-dbmi
@@ -6284,6 +6278,7 @@ elaborator,openpharma
 elasdics,steyerli
 elasso,piguo
 elastes,mpff
+elastic,rfhb
 elasticnet,cran
 elec,lmiratrix
 EleChemr,federicoviv
@@ -7219,7 +7214,6 @@ fcirt,naidantu
 fcl,shrektan
 fclust,cran
 fcm,liadd
-FCMapper,shaunturney
 FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
@@ -7431,7 +7425,6 @@ FinTS,cran
 fio,albersonmiranda
 fioRa,janlisec
 fipio,program--
-fipp,cran
 FiRE,princethewinner
 firebase,johncoene
 firebase.auth.rest,kennedymwavu
@@ -7651,7 +7644,6 @@ FME,r-forge
 fmeffects,holgstr
 fmerPack,liyanstat
 fmesher,inlabru-org
-fmf,zheng-ww
 fmi,cran
 FMM,fmmgroupva
 FMP,nwaller
@@ -12520,7 +12512,6 @@ mand,cran
 MandalaR,lucianea
 mandelbrot,blmoore
 manet,cran
-mangoro,sounkou-bioinfo
 Mangrove,lowk
 manhplot,cgrace1978
 manifestoR,manifestoproject
@@ -12923,7 +12914,6 @@ MDDC,niuniular
 mddmaps,alrobles
 mde,nelson-gon
 mded,cran
-MDEI,ratkovic
 mdendro,albyfs
 MDFS,yoctozepto
 mdftracks,burgerga
@@ -13002,7 +12992,6 @@ MEDseq,keefe-murphy
 MedxR,lightbluetitan
 MedZIsc,cran
 meerva,cran
-meetupapi,zacdav
 meetupr,rladies
 mefa,psolymos
 mefa4,psolymos
@@ -13032,7 +13021,7 @@ memoise,r-lib
 memor,hebrewseniorlife
 memoria,blasbenito
 memshare,mthrun
-MEMSS,stevencarlislewalker
+MEMSS,bbolker
 memuse,shinra-dev
 MendelianRandomization,sb452
 MEPDF,cran
@@ -13188,7 +13177,6 @@ meteoEVT,noctiluc3nt
 meteoForecast,oscarperpinan
 meteoland,emf-creaf
 meteor,cropmodels
-meteorits,fchamroukhi
 meteospain,emf-creaf
 meteR,cmerow
 metevalue,cran
@@ -13292,7 +13280,6 @@ MGPSDK,nathcarr55
 mgpStreamingSDK,nathcarr55
 mgsa,bioc
 MGSDA,irinagain
-mgss,splinesmoothing
 mgsub,bmewing
 mgwnbr,julianamrosa
 mgwrhw,haqqulamin06
@@ -14752,7 +14739,6 @@ netClust,cran
 NetCluster,cran
 netCoin,modesto-escobar
 netcom,langendorfr
-netcontrol,daklor
 NetCoupler,netcoupler
 netcutter,fmarotta
 NetDA,lchen723
@@ -15697,7 +15683,6 @@ ordinalsimr,neuroshepherd
 ordinalTables,cran
 OrdMonReg,numbersman77
 OrdNor,bernice0321
-ordPens,ahoshiyar
 ordr,corybrunson
 ore,jonclayden
 oreo,cran
@@ -17149,7 +17134,6 @@ ppgmmga,luca-scr
 PPInfer,bioc
 ppitables,katilingban
 ppks,cran
-PPLasso,cran
 pplot,cran
 ppls,vguillemot
 ppmf,christopherkenny
@@ -17558,7 +17542,6 @@ PSSMCOOL,biocool-lab
 pssmooth,mjuraska
 psSubpathway,hanjunwei-lab
 PSsurvival,cxinyang
-PST,r-forge
 Pstat,cran
 pstest,pedrohcgs
 PStrata,laubok
@@ -18888,7 +18871,6 @@ regioneR,bioc
 regioneReloaded,bioc
 regionReport,bioc
 regions,ropengov
-registr,julia-wrobel
 registry,cran
 RegKink,cran
 reglogit,rbgramacy
@@ -20320,7 +20302,6 @@ runexp,anniesbooth
 runibic,bioc
 RUnit,romanzenka
 runjags,ku-awdc
-runMCMCbtadjust,cran
 runner,gogonzo
 runonce,privefl
 runstats,martakarass
@@ -20592,7 +20573,6 @@ sas7bdat,cran
 SAScii,ajdamico
 SASdates,imaheshdivakaran
 saseR,bioc
-sasfunclust,unina-sfere
 sasLM,cran
 SASmarkdown,hemken
 SASmixed,stevencarlislewalker
@@ -20634,7 +20614,6 @@ SBMLR,bioc
 sbmSDP,aaamini
 SBMSplitMerge,cran
 SBN,flee598
-sbo,vgherard
 sboost,jadonwagstaff
 sbrl,hongyuy
 SBSDiff,cran
