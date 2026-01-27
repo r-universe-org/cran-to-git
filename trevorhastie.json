@@ -53,5 +53,10 @@
     "package": "svmpath",
     "maintainer": "Trevor Hastie <hastie@stanford.edu>",
     "url": "https://github.com/cran/svmpath"
+  },
+  {
+    "package": "uniLasso",
+    "maintainer": "Trevor Hastie <hastie@stanford.edu>",
+    "url": "https://github.com/trevorhastie/unilasso"
   }
 ]

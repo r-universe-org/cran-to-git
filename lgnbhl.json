@@ -26,6 +26,16 @@
     "registry": "archived"
   },
   {
+    "package": "muiMaterial",
+    "maintainer": "Felix Luginbuhl <felix.luginbuhl@protonmail.ch>",
+    "url": "https://github.com/lgnbhl/muimaterial"
+  },
+  {
+    "package": "muiTreeView",
+    "maintainer": "Felix Luginbuhl <felix.luginbuhl@protonmail.ch>",
+    "url": "https://github.com/lgnbhl/muitreeview"
+  },
+  {
     "package": "reactRouter",
     "maintainer": "Felix Luginbuhl <felix.luginbuhl@protonmail.ch>",
     "url": "https://github.com/lgnbhl/reactrouter"
