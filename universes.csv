@@ -617,6 +617,7 @@ anndataR,bioc
 annmap,bioc
 annmatrix,karoliskoncevicius
 AnnoProbe,jmzeng1314
+annotaR,sulkysubject37
 annotate,bioc
 annotater,luisdva
 AnnotationBustR,sborstein
@@ -3145,6 +3146,7 @@ ciCalibrate,samch93
 cicero,bioc
 cicerone,johncoene
 CICI,cran
+ciecl,rodotasso
 CIEE,skonigor
 cif,cran
 CIfinder,cran
@@ -3396,7 +3398,7 @@ Cluster.OBeu,okgreece
 clusterability,zachneville
 ClusterBootstrap,mathijsdeen
 clusterCrit,iagogv3
-ClusteredMutations,cran
+ClusteredMutations,dalora-cell
 clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
@@ -3602,6 +3604,7 @@ coFAST,feiyoung
 cofeatureR,tinyheero
 coffee,maarten14c
 cofid,alrobles
+CoFM,guangbaog
 coga,chaoranhu
 CoGAPS,bioc
 cogena,bioc
@@ -4706,6 +4709,7 @@ datacleanr,the-hull
 datacommons,tidy-intelligence
 dataCompare,seewe
 dataCompareR,capitalone
+datacult,gilberto-sassi
 datacutr,pharmaverse
 datadictionary,doctorbjones
 datadogr,yutannihilation
@@ -7590,6 +7594,7 @@ flowMatch,bioc
 flowMeans,bioc
 flowMerge,bioc
 flowml,boehringer-ingelheim
+flownet,sebkrantz
 flowPeaks,bioc
 flowPloidy,bioc
 flowPlots,bioc
@@ -8474,6 +8479,7 @@ geomaroc,amineandam04
 geomerge,kdonnay
 geometa,eblondel
 GEOmetadb,bioc
+GeometricMorphometricsMix,cran
 geomeTriD,bioc
 geometries,dcooley
 geometry,davidcsterratt
@@ -9199,6 +9205,7 @@ govinfoR,blackerby
 govStatJPN,yuichiro-otani
 gower,markvanderloo
 goweragreement,drjphughesjr
+GowerSom,cran
 GOxploreR,kalifa-manjang
 goxygen,pik-piam
 gp,cran
@@ -10708,6 +10715,7 @@ INLAjoint,denisrustand
 inlamemi,emmaskarstein
 INLAspacetime,eliaskrainski
 INLAtools,eliaskrainski
+INLAvaan,haziqj
 inlcolor,jfisher-usgs
 inline,eddelbuettel
 inlinedocs,tdhock
@@ -13764,6 +13772,7 @@ mmr,stevecondylios
 mmrm,openpharma
 mmsample,cran
 mmstat4,sigbertklinke
+mmtdiff,cran
 mmtsne,benradford
 MMUPHin,bioc
 MMWRweek,jarad
@@ -13963,6 +13972,7 @@ mosaicCalc,projectmosaic
 mosaicCore,projectmosaic
 mosaicData,projectmosaic
 mosaics,bioc
+MOSAlloc,cran
 mosbi,bioc
 MOSClip,bioc
 mosclust,anacletolab
@@ -16028,6 +16038,7 @@ partsm,matthieustigler
 parttime,dgkf
 parttree,grantmcdermott
 party,r-forge
+partycoloR,lwarode
 partykit,r-forge
 parzer,ropensci
 PAS,zhiqiuhu
@@ -16174,7 +16185,7 @@ PCMBaseCpp,venelin
 PCMRS,schaubert
 pcnetmeta,linlf
 PCObw,cran
-pCODE,alex-haixuw
+pCODE,haixuw1
 PCovR,cran
 PCpluS,florianpein
 pcpr,columbia-prime
@@ -16665,6 +16676,7 @@ PKI,s-u
 PKLMtest,spohnm
 pkmon,cran
 PKNCA,humanpred
+pkpd.Release,piey27
 PKPDindex,najla-alabdulkarim
 PKPDsim,insightrx
 pkr,cran
@@ -17468,6 +17480,7 @@ psborrow,gravesti
 psborrow2,genentech
 psc,richjjackson
 PSCBS,henrikbengtsson
+pscDesign,richjjackson
 pscl,atahk
 pscore,jwiley
 PScr,diegogallardo87
@@ -19367,6 +19380,8 @@ rJava,s-u
 rJavaEnv,e-kotov
 rjd3jars,tanguybarthelemy
 rjd3toolkit,rjdverse
+rjd3tramoseats,rjdverse
+rjd3x13,rjdverse
 RJDBC,s-u
 RJDemetra,rjdverse
 rjdmarkdown,aqlt
@@ -19424,6 +19439,7 @@ rLFT,salbeke
 Rlgt,cbergmeir
 Rlibeemd,helske
 Rlibkdv,bojianzhu
+rlibkriging,yannrichet-asnr
 rliger,welch-lab
 Rlinkedin,mpiccirilli
 rlinkedinads,selesnow
@@ -20728,6 +20744,7 @@ scmap,bioc
 scMappR,dsokolo
 scMerge,bioc
 scMET,bioc
+scMetaTraj,cran
 scmeth,bioc
 scMitoMut,bioc
 scModels,lisaamrhein
@@ -21410,7 +21427,7 @@ shoppingwords,bkanx
 shoredate,isakro
 shortcuts,jcval94
 ShortForm,anthonyraborn
-shortIRT,ottaviaepifania
+shortIRT,cran
 shortr,lfourni2
 ShortRead,bioc
 shorts,mladenjovanovic
@@ -22777,6 +22794,7 @@ stcos,holans
 stcov,bnaul
 stcpR6,shinjaehyeok
 STCYP,cran
+stdbscan,miboraminima
 stddiff,marsdu1989
 stddiff.spark,alicja-januszkiewicz
 STDistance,princewang2018
@@ -23297,6 +23315,7 @@ symSEM,mikewlcheung
 SymTS,michaelg-1
 syn,njtierney
 synapsis,bioc
+syncdr,rossanatat
 synchronicity,cran
 synchrony,tgouhier
 SynchWave,dkimstatlab
@@ -23364,6 +23383,7 @@ tableHTML,lyzander
 tableMatrix,cran
 TableMonster,cran
 tableone,kaz-yos
+tableParser,ingmarboeschen
 tabler,pachadotdev
 tablerDash,rinterface
 tables,dmurdoch
@@ -24207,6 +24227,7 @@ tradeSeq,bioc
 tradestatistics,ropensci
 Trading,sa-ccr
 TrafficBDE,okgreece
+trafficCAR,cran
 trafo,akreutzmann
 traineR,promidat
 trainR,villegar
