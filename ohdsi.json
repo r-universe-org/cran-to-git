@@ -45,6 +45,11 @@
     "url": "https://github.com/ohdsi/databaseconnectorjars"
   },
   {
+    "package": "DataQualityDashboard",
+    "maintainer": "Katy Sadowski <sadowski@ohdsi.org>",
+    "url": "https://github.com/ohdsi/dataqualitydashboard"
+  },
+  {
     "package": "EmpiricalCalibration",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/empiricalcalibration"

@@ -616,6 +616,7 @@ anndata,dynverse
 anndataR,bioc
 annmap,bioc
 annmatrix,karoliskoncevicius
+annoLinker,bioc
 AnnoProbe,jmzeng1314
 annotaR,sulkysubject37
 annotate,bioc
@@ -1725,7 +1726,6 @@ bigalgebra,fbertran
 biganalytics,cran
 bigassertr,privefl
 bigBits,cran
-bigchess,rosawojciech
 bigD,rstudio
 bigdatadist,cran
 BigDataPE,strategicprojects
@@ -4737,6 +4737,7 @@ DataPackageR,ropensci
 datapasta,milesmcbain
 dataprep,cran
 dataPreparation,eltoulemonde
+DataQualityDashboard,ohdsi
 dataquieR,struckma
 datardis,kittjonathan
 dataReporter,ekstroem
@@ -5283,6 +5284,7 @@ diffHic,bioc
 diffIRT,cran
 DiffLogo,bioc
 diffmatchpatch,rundel
+diffMeshGP,codegeasswwj
 DiffNet,faren-f
 diffobj,brodieg
 diffpriv,brubinstein
@@ -6586,6 +6588,7 @@ EQUALCompareImages,cran
 equalCovs,cran
 Equalden.HD,cran
 EQUALencrypt,cran
+EQUALPrognosis,cran
 EQUALrepeat,cran
 EQUALSTATS,cran
 equaltestMI,gabriellajg
@@ -6729,6 +6732,7 @@ eva,brianbader
 eva3dm,schuch666
 evabic,abichat
 Evacluster,fahimehnm
+evalHTE,cran
 evalITR,michaellli
 evalR,cran
 EvalTest,nassimayad87
@@ -8479,7 +8483,7 @@ geomaroc,amineandam04
 geomerge,kdonnay
 geometa,eblondel
 GEOmetadb,bioc
-GeometricMorphometricsMix,cran
+GeometricMorphometricsMix,fruciano
 geomeTriD,bioc
 geometries,dcooley
 geometry,davidcsterratt
@@ -8897,7 +8901,7 @@ gigs,ropensci
 GIGSEA,bioc
 GillespieSSA,rcannood
 GillespieSSA2,rcannood
-gilmour,cran
+gilmour,dolejs1993
 gim,zhangh12
 gimap,fredhutch
 gimme,gateslab
@@ -15685,7 +15689,7 @@ Organism.dplyr,bioc
 OrganismDbi,bioc
 organizr,jobrachem
 OrgHeatmap,qiruishen439
-OrgMassSpecR,cran
+OrgMassSpecR,orgmassspec
 orgR,yitang
 orgutils,enricoschumann
 ORIClust,cran
@@ -17307,6 +17311,7 @@ ProActive,jlmaier12
 ProAE,bnnoble
 probably,tidymodels
 proBAMr,bioc
+proBatch,bioc
 probaverse,probaverse
 ProbBayes,bayesball
 ProbBreed,saulo-chaves
@@ -19999,6 +20004,7 @@ rredlist,ropensci
 RRedshiftSQL,mtreadwell
 rrefine,vpnagraj
 rreg,ybkamaleri
+rregm,cran
 rrepast,antonio-pgarcia
 Rrepest,cran
 rres,bowenwang7
@@ -20744,7 +20750,7 @@ scmap,bioc
 scMappR,dsokolo
 scMerge,bioc
 scMET,bioc
-scMetaTraj,cran
+scMetaTraj,dr-xygreg
 scmeth,bioc
 scMitoMut,bioc
 scModels,lisaamrhein
@@ -21489,6 +21495,7 @@ Signac,stuart-lab
 SignacX,mathewchamberlain
 signal,r-forge
 signalHsmm,michbur
+SignalY,isadorenabi
 signatureSearch,bioc
 signed.backbones,furkangursoy
 signeR,bioc
@@ -24985,6 +24992,7 @@ vaultr,vimc
 vaxineR,peiyuliu-biostats
 vaxpmx,vavrycuk-zz
 vayr,acoppock
+vazul,nthun
 VBel,jlimrasc
 VBJM,jjr1234
 VBLPCM,cran

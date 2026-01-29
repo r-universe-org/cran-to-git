@@ -439,6 +439,12 @@
     "registry": "bioc"
   },
   {
+    "package": "annoLinker",
+    "maintainer": "Jianhong Ou <jou@morgridge.org>",
+    "url": "https://github.com/jianhong/annolinker",
+    "registry": "bioc"
+  },
+  {
     "package": "annotate",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://git.bioconductor.org/packages/annotate",
@@ -9811,6 +9817,12 @@
     "package": "proBAMr",
     "maintainer": "Xiaojing Wang <xiaojing.wang@vanderbilt.edu>",
     "url": "https://git.bioconductor.org/packages/proBAMr",
+    "registry": "bioc"
+  },
+  {
+    "package": "proBatch",
+    "maintainer": "Yuliya Burankova <yuliya.burankova@uni-hamburg.de>",
+    "url": "https://github.com/freddsle/probatch",
     "registry": "bioc"
   },
   {
