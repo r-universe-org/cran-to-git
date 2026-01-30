@@ -3130,6 +3130,7 @@ chron,kurthornik
 chronicle,pheymanss
 chronicler,b-rodrigues
 chronochrt,archaeothommy
+chronometre,eddelbuettel
 CHRONOS,bioc
 chronosphere,chronosphere-info
 chunked,edwindj
@@ -3365,6 +3366,7 @@ cloudstoR,pdparker
 cloudUtil,cpanse
 clptheory,dbasu-umass
 clr,apierrot
+CLRtools,brendacontla
 CLSIEP15,cran
 clst,bioc
 clstutils,bioc
@@ -3638,6 +3640,7 @@ cointReg,aschersleben
 col2hex2col,anttirask
 cola,bioc
 cold,cran
+coldrift,yashauti3
 colf,lyzander
 collapse,fastverse
 CollapseLevels,krishanu1181
@@ -6348,7 +6351,6 @@ emdi,soerenpannier
 emdist,s-u
 EMDomics,bioc
 EMDSVRhybrid,cran
-emend,anuopensci
 emery,therealcfdrake
 emf,temp20250212
 emg,spgarbet
@@ -6386,6 +6388,7 @@ EmpiricalDynamics,isadorenabi
 emplik,maizhou
 emplik2,maizhou
 emplikAUC,maizhou
+emplikCS,maizhou
 emreliability,liuhuan90123
 ems,epimedplotly
 EMSaov,ek-lee
@@ -9625,6 +9628,7 @@ h3jsr,obrl-soil
 h3lib,symbolixau
 h3o,extendr
 h3r,symbolixau
+h5lite,cmmr
 h5mread,bioc
 h5vc,bioc
 haarfisz,cran
@@ -9711,7 +9715,7 @@ hca,bioc
 hcandersenr,emilhvitfeldt
 hcci,prdm0
 HCD,tianxili
-hce,cran
+hce,samve
 hchinamap,r-stata
 hcidata,henningpohl
 hclust1d,szymonnowakowski
@@ -11056,6 +11060,7 @@ ISS,manuelmmueller
 IssueTrackeR,tanguybarthelemy
 istacr,cran
 istat,elakkkk
+istatR,jfulponi
 iSTATS,vitor-mendes-iq
 iSTAY,cran
 iSubGen,uclahs-cds
@@ -11673,6 +11678,7 @@ LARisk,jhlee-projects
 lars,trevorhastie
 LassoBacktracking,rajenshah
 LassoGEE,liygcr
+LassoHiDFastGibbs,mjdavoudabadi
 LassoNet,jstriaukas
 lassopv,lingfeiwang
 LassoSIR,zhaozhg81
@@ -13140,6 +13146,7 @@ metapro,ysora
 metaprotr,aaronmilloro
 metaquant,udarask
 metaRange,metarange
+metarep,ijaljuli
 metaRNASeq,sblanck
 MetaRVM,resume-epi
 metaSDTreg,cran
@@ -15732,7 +15739,7 @@ osdatahub,cran
 osdc,steno-aarhus
 osDesign,shaneuse
 OSDR,cran
-OSFD,shangkun-wang
+OSFD,shangkunwang01
 osfr,ropensci
 oskeyring,r-lib
 OSLdecomposition,dirkmittelstrass
@@ -16934,6 +16941,7 @@ politeness,myeomans
 politicsR,silvadenisson
 polle,andreasnordland
 pollen,nowosad
+pollster,jdjohn215
 polmineR,polmine
 polspline,cran
 Poly4AT,farmse988
@@ -19322,6 +19330,7 @@ RImpact,cran
 rimu,tslumley
 rinat,ropensci
 rineq,kdevkdev
+rinet,jackgle
 ring,mrc-ide
 ringostat,selesnow
 RInside,eddelbuettel
@@ -19408,7 +19417,7 @@ rkafkajars,shrutigupta23
 RKaggle,benyamindsmith
 RKEA,kurthornik
 RKEAjars,kurthornik
-RKEEL,i02momuj
+RKEEL,cran
 RKEELdata,i02momuj
 RKelly,hcelion
 rKenyaForex,mutuasam
@@ -21183,7 +21192,7 @@ sfcurve,jokergoo
 sfd,topepo
 sfdct,hypertidy
 sfdep,josiahparry
-SFDesign,shangkun-wang
+SFDesign,shangkunwang01
 sffdr,ajbass
 sFFLHD,collinerickson
 sfheaders,dcooley
@@ -22789,6 +22798,7 @@ stats4teaching,estebancabello
 statsearchanalyticsr,sditools
 statsExpressions,indrajeetpatil
 statsr,statswithr
+StatsTFLValR,kalsem
 statswalesr,jamie-ralph
 statTarget,bioc
 StatTeacherAssistant,ccasement
@@ -25395,6 +25405,7 @@ weakARMA,cran
 wearables,cran
 weathercan,ropensci
 weatherindices,akstat21
+weatherjoin,hauae
 weathermetrics,geanders
 weatherOz,ropensci
 WeatherSentiment,leilamarvian

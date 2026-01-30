@@ -20,6 +20,11 @@
     "url": "https://github.com/eddelbuettel/binb"
   },
   {
+    "package": "chronometre",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/chronometre-r"
+  },
+  {
     "package": "ciw",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/ciw"
