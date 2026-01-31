@@ -2623,7 +2623,7 @@ careless,ryentes
 caresid,gianmarcoalberti
 caret,topepo
 caretEnsemble,zachmayer
-caretForecast,akai01
+caretForecast,taf-society
 caretSDM,luizesser
 carfima,hyungsuktak
 cargo,dbdahl
@@ -5361,6 +5361,7 @@ disagg2,erinmh
 disaggR,inseefr
 DisaggregateTS,cran
 disaggregation,timcdlucas
+disagmethod,erinmh
 DisasterAlert,leilamarvian
 disastr.api,chris-dworschak
 disbayes,chjackson
@@ -6455,7 +6456,6 @@ entropart,ericmarcon
 EntropicStatistics,cran
 entropy,cran
 EntropyEstimation,cran
-EntropyMCMC,cran
 entrymodels,gnjardim
 envalysis,zsteinmetz
 EnvCpt,rkillick
@@ -9722,6 +9722,7 @@ hclust1d,szymonnowakowski
 hclusteasy,tsukubai
 hclustTeach,cran
 HCmodelSets,hhhelfer
+HCPclust,menghan898
 HCR,jie-qiao
 hcruR,mumbarkar
 HCT,cran
@@ -11422,7 +11423,7 @@ KFPCA,cran
 KFPLS,cran
 kfre,lshpaner
 kgc,clb117
-kgen,dm807cam
+kgen,dmayk
 KGode,cran
 kgp,stephenturner
 kgrams,vgherard
@@ -15915,7 +15916,7 @@ paleoDiv,theropod1
 paleomorph,timcdlucas
 paleopop,globalecologylab
 paleotree,dwbapst
-paleoTS,cran
+paleoTS,genehunt99
 palette,christopherkenny
 paletteer,emilhvitfeldt
 paletteknife,johnxhobbs
@@ -16501,7 +16502,7 @@ philr,bioc
 PHInfiniteEstimates,kolassa-dev
 PhIPData,bioc
 PhitestR,cran
-phm,elliesmall
+phm,cran
 phoenics,r-serv
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
@@ -16857,6 +16858,7 @@ pmmlTransformations,cran
 pmp,bioc
 pmparser,hugheylab
 pmr,cran
+pmrm,openpharma
 pmsampsize,cran
 PMScanR,bioc
 pmsesampling,chenaters
@@ -17287,6 +17289,7 @@ princurve,rcannood
 PrInDT,cran
 prinsurf,raeesaganey91
 printr,yihui
+printtree,prigasg
 prinvars,ronho
 prioGene,huerqiang
 prior3D,cadam00
@@ -17480,7 +17483,6 @@ pRSR,cran
 prt,nbenn
 PRTree,tsprass
 prWarp,cran
-pryr,hadley
 Przewodnik,pbiecek
 ps,r-lib
 PSAboot,jbryer
@@ -19306,7 +19308,6 @@ ridigbio,idigbio
 riem,ropensci
 Riemann,kisungyou
 RiemBase,kisungyou
-riemstats,nicoesve
 riemtan,nicoesve
 Riex,theeliteanalyst
 rifi,bioc
@@ -19417,7 +19418,7 @@ rkafkajars,shrutigupta23
 RKaggle,benyamindsmith
 RKEA,kurthornik
 RKEAjars,kurthornik
-RKEEL,cran
+RKEEL,i02momuj
 RKEELdata,i02momuj
 RKelly,hcelion
 rKenyaForex,mutuasam
@@ -21852,7 +21853,7 @@ SMAHP,cran
 smallarea,nandy006
 SmallCountRounding,statisticsnorway
 smallsets,lydialucchesi
-smallstuff,elliesmall
+smallstuff,cran
 smam,chaoranhu
 smapr,ropensci
 SMARTbayesR,wilart
@@ -24792,6 +24793,7 @@ unitquantreg,andrmenezes
 units,r-quantities
 UnitStat,ankita8985
 unittest,ravingmantis
+unityForest,romanhornung
 unival,dnavarro991
 univariateML,jonasmoss
 UniversalCVI,nwiroonsri
@@ -25757,6 +25759,7 @@ xopen,r-lib
 xpect,pigian
 xpectr,ludvigolsen
 xplain,jsugarelli
+xplainfi,mlr-org
 xplorerr,rsquaredacademy
 Xplortext,cran
 xportr,atorus-research

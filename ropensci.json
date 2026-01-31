@@ -217,7 +217,8 @@
   {
     "package": "dataset",
     "maintainer": "Daniel Antal <daniel.antal@dataobservatory.eu>",
-    "url": "https://github.com/ropensci/dataset"
+    "url": "https://github.com/ropensci/dataset",
+    "registry": "archived"
   },
   {
     "package": "DataSpaceR",

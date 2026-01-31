@@ -16,7 +16,7 @@
   },
   {
     "package": "crmPack",
-    "maintainer": "Daniel Sabanes Bove <daniel.sabanes_bove@rconis.com>",
+    "maintainer": "Daniel Sabanés Bové <daniel.sabanes_bove@rconis.com>",
     "url": "https://github.com/openpharma/crmpack"
   },
   {
@@ -43,6 +43,11 @@
     "package": "mtdesign",
     "maintainer": "John Kirkpatrick <mtdesign@puzzledface.net>",
     "url": "https://github.com/openpharma/mtdesign"
+  },
+  {
+    "package": "pmrm",
+    "maintainer": "William Michael Landau <will.landau.oss@gmail.com>",
+    "url": "https://github.com/openpharma/pmrm"
   },
   {
     "package": "rbmi",
