@@ -1,5 +1,10 @@
 [
   {
+    "package": "contactsurveys",
+    "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
+    "url": "https://github.com/epiforecasts/contactsurveys"
+  },
+  {
     "package": "EpiNow2",
     "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
     "url": "https://github.com/epiforecasts/epinow2"

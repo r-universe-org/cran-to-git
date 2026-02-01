@@ -5,6 +5,7 @@ a4Classif,bioc
 a4Core,bioc
 a4Preproc,bioc
 a4Reporting,bioc
+aae.pop,aae-stats
 AalenJohansen,cran
 aamatch,rosenbap
 AATtools,spiritspeak
@@ -444,6 +445,7 @@ alcoholSurv,rosenbap
 alcyon,spatialnous
 ald,chedgala
 ALDEx2,bioc
+ALDEx3,jsilve24
 ALDqr,lbenitesanchez
 aldvmm,pletschm
 ale,tripartio
@@ -851,7 +853,6 @@ aroma.cn,henrikbengtsson
 aroma.core,henrikbengtsson
 aroma.light,bioc
 Arothron,aprofico
-ARpLMEC,cran
 ARPobservation,jepusto
 arpr,thinkr-open
 aRpsDCA,derrickturk
@@ -1047,6 +1048,7 @@ automagic,cole-brokamp
 automap,jskoien
 automatedRecLin,ncn-foreigners
 automatedtests,wouterzeevat
+automerge,posit-dev
 autometric,wlandau
 automl,aboulaboul
 autoMrP,retowuest
@@ -2604,6 +2606,7 @@ carbonr,lilyclements
 carcass,fraenzi
 card,shah-in-boots
 card.pro,oobianom
+cardargus,strategicprojects
 carData,r-forge
 cardelino,bioc
 cardidates,r-forge
@@ -3931,6 +3934,7 @@ constrainedKriging,cran
 conStruct,gbradburd
 constructive,cynkra
 contactdata,socialcontactdata
+contactsurveys,epiforecasts
 container,rpahl
 containr,erwinlares
 ContaminatedMixt,cran
@@ -4159,7 +4163,6 @@ covid19india,maxsal
 covid19italy,ramikrispin
 covid19sf,ramikrispin
 covid19srilanka,thiyangtdata
-covid19swiss,covid19r
 covid19tunisia,mounabelaid
 covid19us,aedobbyn
 covidcast,capnrefsmmat
@@ -7082,6 +7085,7 @@ fasano.franceschini.test,braunlab-nu
 fase,peterwmacd
 FASeg,emilielebarbier
 fAssets,r-forge
+fasster,tidyverts
 fasstr,bcgov
 FAST.R,f-neri
 fasta,echi
@@ -8906,7 +8910,6 @@ GillespieSSA,rcannood
 GillespieSSA2,rcannood
 gilmour,dolejs1993
 gim,zhangh12
-gimap,fredhutch
 gimme,gateslab
 GIMMEgVAR,williamsandra
 GimmeMyPlot,ecamenen
@@ -11440,6 +11443,7 @@ kimfilter,hubbardalex
 kimisc,krlmlr
 kin.cohort,victor-moreno
 kindisperse,moshejasper
+kindling,joshuamarie
 kinematics,pabrod
 kinesis,nfrerebeau
 KingCountyHouses,cran
@@ -11458,6 +11462,7 @@ kit,fastverse
 kitagawa,abarbour
 kitesquare,hugleipzig
 kiwisR,rywhale
+kkmeans,jdberlinski
 kknn,klausvigo
 kko,cran
 klaR,uligges
@@ -12060,6 +12065,8 @@ llbayesireg,rosineide
 LLIC,guangbaog
 LLM,arnoxieseg
 LLMAgentR,knowusuboaky
+llmflow,zaoqu-liu
+llmhelper,zaoqu-liu
 LLMing,sliplr19
 LLMR,asanaei
 LLMTranslate,bieducation
@@ -14924,7 +14931,6 @@ nivm,michaelfay-niaid
 nivo.bubblechart,dataraceredu
 nixmass,haraldschellander
 nixtlar,nixtla
-nJira,nikhilchoudhry
 NlcOptim,cran
 nlcv,lcougnaud
 nleqslv,cran
@@ -15164,7 +15170,7 @@ NPHMC,rxpharmstat
 nphPower,hcheng99
 nphRCT,dominicmagirr
 npi,ropensci
-npIntFactRep,josfeys
+npIntFactRep,cran
 NPIstats,tmaturi
 npiv,cran
 nplplot,danieleweeks
@@ -16502,7 +16508,7 @@ philr,bioc
 PHInfiniteEstimates,kolassa-dev
 PhIPData,bioc
 PhitestR,cran
-phm,cran
+phm,elliesmall
 phoenics,r-serv
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
@@ -16652,6 +16658,7 @@ pixelpuzzle,rolkra
 pixels,javierluraschi
 pixiedust,nutterb
 pixmap,zeileis
+pixr,strategicprojects
 PJCcalculator,lemonade0924
 PJFM,jjr1234
 PK,tjaki
@@ -16852,6 +16859,7 @@ pmhtutorial,cran
 pminternal,stephenrho
 pmlbr,epistasislab
 pmledecon,cran
+pmlsp,d-spinelli
 pmm,bioc
 pmml,cumulocity-iot
 pmmlTransformations,cran
@@ -19422,7 +19430,6 @@ RKEEL,i02momuj
 RKEELdata,i02momuj
 RKelly,hcelion
 rKenyaForex,mutuasam
-RKHSMetaMod,cran
 rKIN,salbeke
 RkMetrics,titus-rotich
 rKolada,lchansson
@@ -20454,6 +20461,7 @@ SAFD,asunlubiano
 safe,bioc
 safeframe,epiverse-trace
 safejoin,samedwardes
+SafeMapper,zaoqu-liu
 SAFEPG,qiantang0326
 safer,talegari
 safestats,alexanderlynl
@@ -20487,6 +20495,7 @@ SAMBA,cran
 sambia,nkathh
 samc,andrewmarx
 SAME,czhong9106
+sameplot,tomnaber
 SAMGEP,celehs
 samon,amcderm1
 sampbias,azizka
@@ -21853,7 +21862,7 @@ SMAHP,cran
 smallarea,nandy006
 SmallCountRounding,statisticsnorway
 smallsets,lydialucchesi
-smallstuff,cran
+smallstuff,elliesmall
 smam,chaoranhu
 smapr,ropensci
 SMARTbayesR,wilart
@@ -22750,7 +22759,6 @@ Stat2Data,statmanrobin
 Statamarkdown,hemken
 statar,matthieugomez
 statBasics,gilberto-sassi
-statcanR,warint
 statcheck,michelenuijten
 statcodelists,antaldaniel
 statcomp,cran

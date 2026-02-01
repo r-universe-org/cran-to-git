@@ -1,5 +1,10 @@
 [
   {
+    "package": "automerge",
+    "maintainer": "Charlie Gao <charlie.gao@posit.co>",
+    "url": "https://github.com/posit-dev/automerge-r"
+  },
+  {
     "package": "btw",
     "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
     "url": "https://github.com/posit-dev/btw"
