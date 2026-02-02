@@ -1260,6 +1260,7 @@ blockr.dock,https://github.com/bristolmyerssquibb/blockr.dock,,
 blockr.dplyr,https://github.com/bristolmyerssquibb/blockr.dplyr,,
 blockr.ggplot,https://github.com/bristolmyerssquibb/blockr.ggplot,,
 blockr.io,https://github.com/bristolmyerssquibb/blockr.io,,
+blockstrap,https://github.com/numbats/blockstrap,,
 blocs,https://github.com/coletl/blocs,,
 blogdown,https://github.com/rstudio/blogdown,,
 blorr,https://github.com/rsquaredacademy/blorr,,
@@ -1786,7 +1787,6 @@ CellMentor,https://github.com/petrenkokate/cellmentor,,bioc
 cellmig,https://github.com/snaketron/cellmig,,bioc
 cellmigRation,https://github.com/ocbe-uio/cellmigration,,bioc
 CellMixS,https://github.com/almutlue/cellmixs,,bioc
-cellpypes,https://github.com/felixthestudent/cellpypes,,archived
 cellranger,https://github.com/rsheets/cellranger,,
 cellscape,https://github.com/shixiangwang/cellscape,,bioc
 cellxgenedp,https://github.com/mtmorgan/cellxgenedp,,bioc
@@ -2342,6 +2342,7 @@ CompensAID,https://github.com/olsman/compensaid,,bioc
 comperank,https://github.com/echasnovski/comperank,,
 comperes,https://github.com/echasnovski/comperes,,
 competitiontoolbox,https://github.com/luciu5/competitiontoolbox,,
+comphy,https://github.com/jfoadi/comphy,,
 compindexR,https://github.com/olgnaydn/compindexr,,
 completejourney,https://github.com/bradleyboehmke/completejourney,,
 ComplexHeatmap,https://github.com/jokergoo/complexheatmap,,bioc
@@ -2959,6 +2960,7 @@ dataverse,https://github.com/iqss/dataverse-client-r,,
 dataviewR,https://github.com/madhankumarnagaraji/dataviewr,,
 DataVisualizations,https://github.com/mthrun/datavisualizations,,
 datawizard,https://github.com/easystats/datawizard,,
+date4ts,https://github.com/tractortom/date4ts,,
 dateback,https://github.com/r-suzuki/dateback,,
 datefixR,https://github.com/ropensci/datefixr,,
 daterangepicker,https://github.com/trafficonese/daterangepicker,,
@@ -5060,7 +5062,6 @@ gap,https://github.com/jinghuazhao/r,gap,
 gap.datasets,https://github.com/jinghuazhao/r,gap.datasets,
 GAparsimony,https://github.com/jpison/gaparsimony,,
 gapclosing,https://github.com/ilundberg/gapclosing,,
-gapfill,https://github.com/florafauna/gapfill,gapfill,archived
 gapmap,https://github.com/evanbiederstedt/gapmap,,
 gapminder,https://github.com/jennybc/gapminder,,
 GAPR,https://github.com/shuyyu/gapr,,
@@ -5372,7 +5373,6 @@ ggbrain,https://github.com/michaelhallquist/ggbrain,,
 ggbreak,https://github.com/yulab-smu/ggbreak,,
 ggbrick,https://github.com/doehm/ggbrick,,
 ggbuildr,https://github.com/jongbinjung/ggbuildr,,
-ggbump,https://github.com/davidsjoberg/ggbump,,archived
 ggchangepoint,https://github.com/pursuitofdatascience/ggchangepoint,,
 ggcharts,https://github.com/thomas-neitmann/ggcharts,,
 ggChernoff,https://github.com/selbosh/ggchernoff,,
@@ -5381,7 +5381,6 @@ ggcleveland,https://github.com/mpru/ggcleveland,,
 ggcompare,https://github.com/hmu-wh/ggcompare,,
 ggcorrheatmap,https://github.com/leod123/ggcorrheatmap,,
 ggcorrplot,https://github.com/kassambara/ggcorrplot,,
-ggcorset,https://github.com/kbelisar/ggcorset,,archived
 ggcyto,https://github.com/rglab/ggcyto,,bioc
 ggdag,https://github.com/r-causal/ggdag,,
 ggdaynight,https://github.com/gabrielslpires/ggdaynight,,
@@ -5432,9 +5431,7 @@ gggrid,https://github.com/pmur002/gggrid,,
 ggguides,https://github.com/gcol33/ggguides,,
 ggh4x,https://github.com/teunbrand/ggh4x,,
 gghalfnorm,https://github.com/nathaneastwood/gghalfnorm,,
-gghalves,https://github.com/erocoar/gghalves,,archived
 gghdx,https://github.com/ocha-dap/gghdx,,
-ggheatmap,https://github.com/xiaoluo-boy/ggheatmap,,archived
 gghexsize,https://github.com/hrryt/gghexsize,,
 gghighlight,https://github.com/yutannihilation/gghighlight,,
 gghilbertstrings,https://github.com/sumidu/gghilbertstrings,,archived
@@ -5501,7 +5498,6 @@ ggpmisc,https://github.com/aphalo/ggpmisc,,
 ggPMX,https://github.com/ggpmxdevelopment/ggpmx,,
 ggpointdensity,https://github.com/lkremer/ggpointdensity,,
 ggpointless,https://github.com/flrd/ggpointless,,
-ggpol,https://github.com/erocoar/ggpol,,archived
 ggpolar,https://github.com/shixiangwang/polar,,
 ggpolypath,https://github.com/mdsumner/ggpolypath,,
 ggpp,https://github.com/aphalo/ggpp,,
@@ -6006,6 +6002,7 @@ Gviz,https://github.com/ivanek/gviz,,bioc
 GWalkR,https://github.com/kanaries/gwalkr,,
 gwaRs,https://github.com/lindonkambule/gwars,,
 gwas2crispr,https://github.com/leopard0ly/gwas2crispr,,
+gwascat,https://github.com/vjcitn/gwascat,,bioc
 GWASExactHW,https://github.com/smgogarten/gwasexacthw,,
 gwasforest,https://github.com/yilixu/gwasforest,,
 GWASinlps,https://github.com/nilotpalsanyal/gwasinlps,,
@@ -6358,7 +6355,7 @@ HuBMAPR,https://github.com/christinehou11/hubmapr,,bioc
 HubPub,https://github.com/bioconductor/hubpub,,bioc
 hubUtils,https://github.com/hubverse-org/hubutils,,
 hues,https://github.com/johnbaums/hues,,
-huge,https://github.com/hmjianggatech/huge,,
+huge,https://github.com/hmjianggatech/huge,,archived
 huito,https://github.com/flavjack/huito,,
 humanFormat,https://github.com/dustin/humanformat,,
 humaniformat,https://github.com/ironholds/humaniformat,,
@@ -6415,7 +6412,6 @@ hySAINT,https://github.com/lli289/hysaint,,
 hystar,https://github.com/daandejongen/hystar,,
 hystReet,https://github.com/johannesfriedrich/hystreet,,
 HZIP,https://github.com/carrascojalmar/hzip,,
-I14Y,https://github.com/lgnbhl/i14y,,archived
 i18n,https://github.com/rich-iannone/i18n,,
 iadf,https://github.com/konradmayer/iadf,,
 ialiquor,https://github.com/nikdata/ialiquor,,
@@ -6592,7 +6588,6 @@ IMIFA,https://github.com/keefe-murphy/imifa,,
 IMIX,https://github.com/ziqiaow/imix,,
 iml,https://github.com/giuseppec/iml,,
 immApex,https://github.com/borchlab/immapex,,bioc
-immcp,https://github.com/yuanlonghu/immcp,,archived
 immer,https://github.com/alexanderrobitzsch/immer,,
 Immigrate,https://github.com/ruzhangzhao/immigrate,,
 immReferent,https://github.com/borchlab/immreferent,,bioc
@@ -6930,7 +6925,7 @@ IxPopDyMod,https://github.com/dallenmidd/ixpopdymod,,
 izmir,https://github.com/ozancanozdemir/izmir,,
 jaatha,https://github.com/statgenlmu/jaatha,,
 jab.adverse.reactions,https://gitlab.com/iembry/jab.adverse.reactions,,
-jaccard,https://github.com/ncchung/jaccard,,
+jaccard,https://github.com/ncchung/jaccard,,archived
 jack,https://github.com/stla/jackr,,archived
 jackalope,https://github.com/lucasnell/jackalope,,
 jackknifeR,https://github.com/mohanasundarams/jackknifer,,
@@ -8008,7 +8003,6 @@ MCM,https://github.com/jiahui1902/mcm,,
 mcmcderive,https://github.com/poissonconsulting/mcmcderive,,
 mcmcensemble,https://github.com/bisaloo/mcmcensemble,,
 MCMCglmm,https://github.com/jarrodhadfield/mcmcglmm,,
-mcmcOutput,https://github.com/mikemeredith/mcmcoutput,,archived
 MCMCprecision,https://github.com/danheck/mcmcprecision,,
 mcmcr,https://github.com/poissonconsulting/mcmcr,,
 mcmcse,https://github.com/dvats/mcmcse,,
@@ -8161,7 +8155,6 @@ metagenomeSeq,https://github.com/hcbravolab/metagenomeseq,,bioc
 metagroup,https://github.com/asmpro7/metagroup,,
 metaHelper,https://github.com/robertemprechtinger/metahelper,,
 MetaIntegration,https://github.com/umich-biostatistics/metaintegration,,
-metajam,https://github.com/nceas/metajam,,archived
 MetaLandSim,https://github.com/fmestre1/metalandsim,,
 metalite,https://github.com/merck/metalite,,
 metalite.ae,https://github.com/merck/metalite.ae,,
@@ -9129,7 +9122,6 @@ neonstore,https://github.com/cboettig/neonstore,,
 neonUtilities,https://github.com/neonscience/neon-utilities,neonUtilities,
 neotoma2,https://github.com/neotomadb/neotoma2,,
 neptune,https://github.com/neptune-ai/neptune-r,,
-nesRdata,https://github.com/jsta/nesrdata,,archived
 nestcolor,https://github.com/insightsengineering/nestcolor,,
 nestedcv,https://github.com/myles-lewis/nestedcv,,
 nestedLogit,https://github.com/friendly/nestedlogit,,
@@ -9404,7 +9396,6 @@ npsp,https://github.com/rubenfcasal/npsp,,
 npsurvSS,https://github.com/godwinyyung/npsurvss,,
 nrlR,https://github.com/danieltomaro13/nrlr,,
 nscancor,https://github.com/chrsigg/nscancor,,
-nse,https://github.com/keblu/nse,,archived
 nseq,https://github.com/rfsaldanha/nseq,,
 nser,https://github.com/nandp1/nser,,
 NSM3,https://github.com/grantschneider/nsm3,,
@@ -12041,7 +12032,7 @@ rgl2gltf,https://github.com/dmurdoch/rgl2gltf,,
 rglobi,https://github.com/ropensci/rglobi,,
 Rglpk,https://github.com/r-forge/rglp,pkg/Rglpk,
 rglplus,https://github.com/obreschkow/rglplus,,
-rgm,https://github.com/franciscorichter/rgm,,
+rgm,https://github.com/franciscorichter/rgm,,archived
 RGN,https://github.com/climateanalytics/rgn,,
 rgnoisefilt,https://github.com/juanmartinsantos/rgnoisefilt,pkg/rgnoisefilt,
 rgnparser,https://github.com/ropensci/rgnparser,,
@@ -12503,7 +12494,6 @@ rPackedBar,https://github.com/adamspannbauer/rpackedbar,,
 rpact,https://github.com/rpact-com/rpact,,
 Rpadrino,https://github.com/padrinodb/rpadrino,,
 rpaleoclim,https://github.com/joeroe/rpaleoclim,,
-RPANDA,https://github.com/hmorlon/panda,,archived
 rPanglaoDB,https://github.com/dosorio/rpanglaodb,,
 Rparadox,https://github.com/celebithil/rparadox,,
 rpart,https://github.com/bethatkinson/rpart,,
@@ -13124,7 +13114,6 @@ scTenifoldNet,https://github.com/cailab-tamu/sctenifoldnet,,
 scTHI,https://github.com/miccec/scthi,,bioc
 SCtools,https://github.com/bcastanho/sctools,,
 sctransform,https://github.com/satijalab/sctransform,,
-scUtils,https://github.com/felixthestudent/scutils,,archived
 scutr,https://github.com/s-kganz/scutr,,
 scviR,https://github.com/vjcitn/scvir,,bioc
 sdam,https://github.com/sdam-au/sdam,,
@@ -14427,7 +14416,7 @@ stlnpp,https://github.com/moradii/stlnpp,,
 stlplus,https://github.com/hafen/stlplus,,
 stm,https://github.com/bstewart/stm,,
 stmgui,https://github.com/dzangri/stmgui,,
-stminsights,https://github.com/cschwem2er/stminsights,,
+stminsights,https://github.com/cschwem2er/stminsights,,archived
 StMoMo,https://github.com/amvillegas/stmomo,,
 StMoSim,https://github.com/matthiassalvisberg/stmosim,,
 STMotif,https://github.com/heraldoborges/stmotif,,
@@ -14652,6 +14641,7 @@ svDialogs,https://github.com/sciviews/svdialogs,,
 svDialogstcltk,https://github.com/sciviews/svdialogstcltk,,
 SveltePlots,https://github.com/pascal-schmidt/svelteplots,,
 svenssonm,https://github.com/lexizhu/svenssonm,,
+SVG,https://github.com/zaoqu-liu/svg,,
 svgedit,https://github.com/danielthedie/svgedit,,
 svglite,https://github.com/r-lib/svglite,,
 svgPanZoom,https://github.com/timelyportfolio/svgpanzoom,,
@@ -14931,7 +14921,6 @@ terra,https://github.com/rspatial/terra,,
 terrainmeshr,https://github.com/tylermorganwall/terrainmeshr,,
 terrainr,https://github.com/ropensci/terrainr,,
 terraTCGAdata,https://github.com/waldronlab/terratcgadata,,bioc
-TESS,https://github.com/hoehna/tess,,archived
 tesselle,https://codeberg.org/tesselle/tesselle,,
 tesseract,https://github.com/ropensci/tesseract,,
 TestAnaAPP,https://github.com/jiangyouxiang/testanaapp,,
@@ -15885,7 +15874,6 @@ vcrpart,https://github.com/rbuergin/vcrpart,,
 vctrs,https://github.com/r-lib/vctrs,,
 vctsfr,https://github.com/franciscomartinezdelrio/vctsfr,,
 vdiffr,https://github.com/r-lib/vdiffr,,
-vDiveR,https://github.com/pendy05/vdiver,,archived
 VDJdive,https://github.com/kstreet13/vdjdive,,bioc
 VDPO,https://github.com/pavel-hernadez-amaro/vdpo,,
 vec2dtransf,https://github.com/gacarrillor/vec2dtransf,,
@@ -16223,7 +16211,6 @@ windows.pls,https://github.com/egonzato/windows.pls,,
 windsoraiR,https://github.com/windsor-ai/windsorair,,
 winfapReader,https://github.com/ilapros/winfapreader,,
 wingen,https://github.com/anushapb/wingen,,
-wiqid,https://github.com/mikemeredith/wiqid,,archived
 wISAM,https://github.com/rcorty/wisam,,
 withdots,https://github.com/nikkrieger/withdots,,
 wither,https://github.com/torbjorn/wither,,
