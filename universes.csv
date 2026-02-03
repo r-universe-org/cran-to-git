@@ -1880,6 +1880,7 @@ biogas,sashahafner
 biogeom,cran
 biogram,michbur
 biogrowth,albgarre
+BioGSP,bmengineer
 Bioi,zcolburn
 bioimagetools,bioimaginggroup
 bioinactivation,albgarre
@@ -2015,6 +2016,7 @@ Blendstat,cran
 blima,bioc
 blindrecalc,imbi-heidelberg
 blindreview,githubwilly
+blindspiker,markhogue
 blink,cleanzr
 bliss,pmgrollemund
 blit,wanglabcsu
@@ -3218,7 +3220,6 @@ citecorp,ropensci
 CiteFuse,bioc
 cities,hakeemwahab
 CITMIC,hanjunwei-lab
-citmre,davrodecon
 cito,citoverse
 ciTools,jthaman
 citrus,datadondom
@@ -4293,7 +4294,6 @@ CREDS,cran
 credsubs,cran
 credule,blenezet
 creepyalien,rolkra
-cRegulome,ropensci
 crew,wlandau
 crew.aws.batch,wlandau
 crew.cluster,wlandau
@@ -7632,6 +7632,7 @@ fluoSurv,jferdy
 fluspect,ahornero
 flux,cran
 fluxfinder,compass-doe
+fluxfixer,yhata86
 fluxible,plant-functional-trait-course
 FluxPoint,cran
 fluxtools,kesondrakey
@@ -12440,7 +12441,7 @@ maditr,gdemin
 MADMMplasso,wleoncio
 madness,shabbychef
 MADPop,mlysy
-madr,mattcefalu
+madr,cran
 madrat,pik-piam
 madshapR,maelstrom-research
 madsim,doulaye
@@ -15040,7 +15041,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
-noisysbmGGM,cran
+noisysbmGGM,valentinkil
 nolock,artllex
 nombre,rossellhayes
 nomclust,zdeneksulc
@@ -17012,7 +17013,6 @@ popgenr,akijarl
 PopGenReport,green-striped-gecko
 POPInf,qlu-lab
 popkin,storeylab
-popler,ropensci
 popPCR,zeroh729
 poppr,grunwaldlab
 PopPsiSeqR,csoeder
@@ -18023,7 +18023,6 @@ R2OpenBUGS,uligges
 r2pmml,jpmml
 r2pptx,mattle24
 r2r,vgherard
-r2readthedocs,ropensci
 r2redux,mommy003
 r2resize,oobianom
 R2ROC,mommy003
@@ -19863,6 +19862,7 @@ rotemplate,ropensci
 rotl,ropensci
 rotor,s-fleck
 ROTS,bioc
+rotulador,tractortom
 roughnet,schochastics
 RoughSets,janusza
 roughsf,schochastics
@@ -20275,6 +20275,7 @@ rtson,tercen
 Rttf2pt1,fbertran
 RTTWebClient,cran
 Rtumblr,schochastics
+Rtwalk,rodrigosqrt3
 rTwig,aidanmorales
 Rtwobitlib,hpages
 rtype,renkun-ken
@@ -22203,7 +22204,7 @@ sparsestep,gjjvdburg
 sparsesurv,alexangelakis-ang
 sparsesvd,schtepf
 sparseSVM,cy-dev
-SparseTSCGM,cran
+SparseTSCGM,fentaw-r
 sparsevb,gabriel-clara
 sparsevctrs,r-lib
 SparseVFC,sciurus365
@@ -22497,7 +22498,7 @@ SportsTour,cran
 sportyR,sportsdataverse
 SpotClean,bioc
 spotidy,cran
-spotifyr,charlie86
+spotifyr,sillyplots
 SPOTlight,bioc
 spotoroo,tengmcing
 spotr,cran
