@@ -36,12 +36,6 @@
     "subdir": "pkg/Bessel"
   },
   {
-    "package": "car",
-    "maintainer": "John Fox <jfox@mcmaster.ca>",
-    "url": "https://github.com/r-forge/car",
-    "subdir": "pkg/car"
-  },
-  {
     "package": "carData",
     "maintainer": "Brad Price <brad.price@mail.wvu.edu>",
     "url": "https://github.com/r-forge/car",

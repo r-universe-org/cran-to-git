@@ -1,7 +1,12 @@
 [
   {
+    "package": "natstrat",
+    "maintainer": "Katherine Brumberg <kbrum@umich.edu>",
+    "url": "https://github.com/kkbrum/natstrat"
+  },
+  {
     "package": "optrefine",
-    "maintainer": "Katherine Brumberg <kbrum@wharton.upenn.edu>",
+    "maintainer": "Katherine Brumberg <kbrum@umich.edu>",
     "url": "https://github.com/kkbrum/optrefine"
   },
   {

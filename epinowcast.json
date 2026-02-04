@@ -1,5 +1,10 @@
 [
   {
+    "package": "baselinenowcast",
+    "maintainer": "Kaitlyn Johnson <kaitlyn.johnson@lshtm.ac.uk>",
+    "url": "https://github.com/epinowcast/baselinenowcast"
+  },
+  {
     "package": "primarycensored",
     "maintainer": "Sam Abbott <contact@samabbott.co.uk>",
     "url": "https://github.com/epinowcast/primarycensored"
