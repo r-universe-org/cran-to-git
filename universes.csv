@@ -1093,6 +1093,7 @@ avlm,michaellindon
 avocado,nikdata
 avotrex,joe-wayman
 avseqmc,cran
+avstrat,mwloewen
 AWAggregator,bioc
 awardFindR,ropensci
 awdb,kbvernon
@@ -3784,6 +3785,7 @@ compIndexBuilder,leilamarvian
 compindexR,olgnaydn
 compindPCA,rrk4910
 completejourney,bradleyboehmke
+complex,config-i1
 ComplexHeatmap,bioc
 complexity,cran
 complexlm,quantumofmoose
@@ -4524,6 +4526,7 @@ currencyapi,dominikkukacka
 currentSurvival,cran
 CurricularAnalytics,danyulll
 CurricularComplexity,cran
+CurricularComplexityData,cran
 currr,marcellgranat
 curry,thomasp85
 cursr,cmann3
@@ -5350,6 +5353,7 @@ dir.expiry,bioc
 dir2json,parmsam
 Dire,american-institutes-for-research
 DIRECT,audreyqyfu
+directadjusting,finnishcancerregistry
 directAgeStd,joeblackford
 DirectedClustering,gianpaoloclemente
 DirectEffects,mattblackwell
@@ -5385,6 +5389,7 @@ discnorm,cran
 discord,r-computing-lab
 discordant,bioc
 DiscoRhythm,bioc
+DiSCos,davidvandijcke
 discourseGT,q1cui
 discoveR,promidat
 discoverableresearch,cran
@@ -7907,6 +7912,7 @@ frontmatter,posit-dev
 frostr,imangr
 froth,ahl27
 frscore,vpparkkinen
+fru,mbq
 fruclimadapt,carm1r
 fs,r-lib
 FSA,fishr-core-team
@@ -8087,6 +8093,7 @@ galah,atlasoflivingaustralia
 GALAHAD,rfeissiv
 galamm,lcbc-uio
 galaxias,atlasoflivingaustralia
+GalaxyR,julfrey
 galigor,selesnow
 galisats,lechjaszowski
 gallery,txiao95
@@ -9477,6 +9484,7 @@ GSD,dkimstatlab
 GSDA,xueyuancao
 gsDesign,keaven
 gsDesign2,merck
+gsDesignTune,nanxstats
 GSE,claudioagostinelli
 GSEABase,bioc
 GSEABenchmarkeR,bioc
@@ -12622,6 +12630,7 @@ MarginalMediation,tysonstanley
 marginme,samuel-watson
 margins,bbolker
 marima,cran
+marinepredator,urbs-dev
 mariner,bioc
 MariNET,cran
 mark,jmbarbone
@@ -15292,7 +15301,7 @@ obAnalytics,phil8192
 OBASpatial,joalor93
 obcost,zangt2
 obfuscatoR,edsandorf
-OBIC,nmi-nl
+OBIC,nmi-agro
 objectProperties,lawremi
 objectremover,alan-y
 objectSignals,lawremi
@@ -15460,7 +15469,6 @@ OncoBayes2,novartis
 OncoDataSets,lightbluetitan
 Oncofilterfast,phoenix-chen-git
 oncomix,bioc
-oncomsm,boehringer-ingelheim
 oncoscanR,bioc
 OncoScore,bioc
 OncoSimulR,bioc
@@ -15657,6 +15665,7 @@ opusreader2,philipp-baumann
 OPWeight,bioc
 oRaklE,cran
 OralOpioids,ankonahouston
+Orangutan,metalofis
 orbital,tidymodels
 orbweaver,ixpantia
 orca,thocevar
@@ -17165,6 +17174,7 @@ ppsr,paulvanderlaken
 PPTcirc,karlampm
 PPtreeViz,ek-lee
 ppwdeming,jjkraker
+ppweibull,cran
 pql,guangbaog
 PQLseq,cran
 pqrBayes,cenwu
@@ -21169,7 +21179,6 @@ serosv,oucru-modelling
 serp,ejikeugba
 serpstatr,alex-danilin
 serrsBayes,mooresm
-servosphereR,jake-wittman
 servr,yihui
 sesame,bioc
 SEset,ryanoisin
@@ -21186,6 +21195,7 @@ sets,cran
 SetTest,wpihongzhang
 settings,markvanderloo
 settingsSync,notplancha
+setweaver,nicolasleenaerts
 setwidth,ptuc-stats
 Seurat,satijalab
 SeuratExplorer,fentouxungui
@@ -21988,6 +21998,7 @@ snic,rolfsimoes
 snifter,bioc
 snirh.lab,lpereira-ue
 snm,bioc
+SNMA,donaldtmcknight
 snn,sunweisurrey
 snotelr,bluegreen-labs
 snow,ltierney
@@ -22227,6 +22238,7 @@ sparsesurv,alexangelakis-ang
 sparsesvd,schtepf
 sparseSVM,cy-dev
 SparseTSCGM,fentaw-r
+sparsevar,svazzole
 sparsevb,gabriel-clara
 sparsevctrs,r-lib
 SparseVFC,sciurus365
@@ -22574,6 +22586,7 @@ sqlhelper,majerr
 sqlHelpers,tconwell
 sqliter,wilsonfreitas
 sqliteutils,crotman
+sqlm,usrbinr
 SQLove,samkerns
 sqlparseR,michaelsimmler
 sqlq,pkrog
@@ -23878,6 +23891,7 @@ tidyEdSurvey,pdbailey0
 tidyEmoji,pursuitofdatascience
 tidyestimate,kaiaragaki
 tidyexposomics,bioc
+tidyextreme,mauritia-flexuosa
 tidyfast,tysonstanley
 tidyfinance,tidy-finance
 tidyfit,jpfitzinger
@@ -24686,6 +24700,7 @@ txtplot,bbnkmp
 txtq,wlandau
 typed,moodymudskipper
 typehint,jsugarelli
+typeR,fgazzelloni
 types,jimhester
 typetracer,mpadge
 typr,christopherkenny
@@ -25575,6 +25590,7 @@ wklsr,tbanken
 wktmo,leoly2017
 WLogit,clavie3009
 WLreg,marvels2031
+wlsd,ci2131a
 WMAP,cran
 wmm,ropensci
 wmwAUC,grendar
