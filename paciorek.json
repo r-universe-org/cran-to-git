@@ -15,5 +15,10 @@
     "package": "nimbleQuad",
     "maintainer": "Christopher Paciorek <paciorek@stat.berkeley.edu>",
     "url": "https://github.com/cran/nimbleQuad"
+  },
+  {
+    "package": "spectralGP",
+    "maintainer": "Christopher Paciorek <paciorek@stat.berkeley.edu>",
+    "url": "https://github.com/cran/spectralGP"
   }
 ]
