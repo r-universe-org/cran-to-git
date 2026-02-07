@@ -1,5 +1,10 @@
 [
   {
+    "package": "deSolve",
+    "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
+    "url": "https://github.com/tpetzoldt/desolve"
+  },
+  {
     "package": "FAdist",
     "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
     "url": "https://github.com/tpetzoldt/fadist"

@@ -138,12 +138,6 @@
     "subdir": "pkg/crch"
   },
   {
-    "package": "deSolve",
-    "maintainer": "Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>",
-    "url": "https://github.com/r-forge/desolve",
-    "subdir": "pkg/deSolve"
-  },
-  {
     "package": "distr",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
