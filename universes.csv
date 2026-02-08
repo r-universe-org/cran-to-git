@@ -6814,7 +6814,7 @@ evprof,resourcefully-dev
 evsim,resourcefully-dev
 evt0,lbelzile
 evtclass,edovi
-evtree,cran
+evtree,thomasgrubinger-svg
 EWCE,bioc
 EWGoF,mkrit
 ewoc,dnzmarcio
@@ -6862,7 +6862,7 @@ ExCluster,bioc
 exCon,bryanhanson
 excursions,davidbolin
 exdex,paulnorthrop
-exdqlm,rabarata
+exdqlm,antonioapdl
 executablePackeR,changwoolim
 ExGaussEstim,jdcerca
 exhaustiveRasch,chrgrebe
@@ -9459,7 +9459,6 @@ grpsel,ryan-thompson
 grpseq,lmaowisc
 grpSLOPE,agisga
 GrpString,dstgithub
-grr,cvarrichio
 GRShiny,sooyongl
 GRSxE,michlau
 grt,ajwills72
@@ -11222,7 +11221,7 @@ jmotif,jmotif
 jmuOutlier,cran
 jmv,jamovi
 jmvconnect,jonathon-love
-jmvcore,jamovi
+jmvcore,jonathon-love
 jmvReadWrite,sjentsch
 JNplots,kenstoyama
 job,lindeloev
@@ -15631,6 +15630,7 @@ OptimalTiming,cran
 OptimaRegion,exd13
 optimbase,cran
 optimCheck,mlysy
+optimflex,eunscho
 optimg,vthorrf
 optimization,kaihusmann
 optimizeR,loelschlaeger
@@ -16438,7 +16438,7 @@ pgca,bioc
 pgdraw,cran
 PGEE,cran
 pgee.mixed,kaos42
-pgenlibr,cran
+pgenlibr,chrchang
 pgirmess,pgiraudoux
 pgKDEsphere,maria-alonsopena
 pglm,ycroissant
@@ -18735,6 +18735,7 @@ readNSx,dipterix
 readobj,jefferis
 readODS,ropensci
 readOffice,bmewing
+readosense,jogaudard
 ReadqPCR,bioc
 readr,tidyverse
 readrba,mattcowgill
@@ -22379,7 +22380,6 @@ SPECK,cran
 speckle,bioc
 specklestar,drastega
 specL,bioc
-specleanr,anthonybasooma
 SpeCond,bioc
 specr,masurp
 specs,wijler
@@ -22550,6 +22550,7 @@ Spower,philchalmers
 SPPcomb,cran
 spphpr,cran
 SpPOP,cran
+SppTrend,cran
 spqdep,f8l5h9
 spqn,bioc
 spray,robinhankin

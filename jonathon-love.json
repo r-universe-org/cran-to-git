@@ -3,5 +3,10 @@
     "package": "jmvconnect",
     "maintainer": "Jonathon Love <jon@thon.cc>",
     "url": "https://github.com/cran/jmvconnect"
+  },
+  {
+    "package": "jmvcore",
+    "maintainer": "Jonathon Love <jon@thon.cc>",
+    "url": "https://github.com/cran/jmvcore"
   }
 ]
