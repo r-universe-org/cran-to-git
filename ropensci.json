@@ -1039,7 +1039,8 @@
   {
     "package": "taxize",
     "maintainer": "Zachary Foster <zacharyfoster1989@gmail.com>",
-    "url": "https://github.com/ropensci/taxize"
+    "url": "https://github.com/ropensci/taxize",
+    "registry": "archived"
   },
   {
     "package": "taxizedb",
@@ -1194,7 +1195,8 @@
   {
     "package": "wikitaxa",
     "maintainer": "Scott Chamberlain <myrmecocystus+r@gmail.com>",
-    "url": "https://github.com/ropensci/wikitaxa"
+    "url": "https://github.com/ropensci/wikitaxa",
+    "registry": "archived"
   },
   {
     "package": "workloopR",

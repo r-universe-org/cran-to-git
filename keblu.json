@@ -3,5 +3,10 @@
     "package": "MSGARCH",
     "maintainer": "Keven Bluteau <Keven.Bluteau@usherbrooke.ca>",
     "url": "https://github.com/cran/MSGARCH"
+  },
+  {
+    "package": "nse",
+    "maintainer": "Keven Bluteau <keven.bluteau@usherbrooke.ca>",
+    "url": "https://github.com/keblu/nse"
   }
 ]

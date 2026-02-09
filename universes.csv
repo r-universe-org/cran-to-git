@@ -2395,7 +2395,7 @@ BSW,uds-mf-imbei
 bsynth,google
 btb,inseefr
 BTdecayLasso,heilokchow
-btergm,leifeld
+btergm,leifeld-lab
 BTIME,cran
 BTLLasso,schaubert
 BTM,bnosac
@@ -2436,6 +2436,7 @@ bumphunter,bioc
 BumpyMatrix,bioc
 bunching,mavpanos
 bunchr,trilnick
+bunddev,mchlbckr
 bundesbank,enricoschumann
 bundesligR,ottlngr
 bundle,rstudio
@@ -7615,7 +7616,6 @@ flowmapper,johmast
 flowMatch,bioc
 flowMeans,bioc
 flowMerge,bioc
-flowml,boehringer-ingelheim
 flownet,sebkrantz
 flowPeaks,bioc
 flowPloidy,bioc
@@ -8050,6 +8050,7 @@ fuzzySim,ambarbosa
 FuzzySimRes,mroman-ibs
 FuzzySpec,ghashti-j
 FuzzyStatTra,asunlubiano
+fuzzystring,paulesantos
 FuzzySTs,cran
 fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
@@ -10060,6 +10061,7 @@ hmstimer,poissonconsulting
 HMTL,hermitz9
 hNMF,nsauwen
 hnp,cran
+HNPclassifier,wobushics
 hoardeR,fischuu
 hoardr,ropensci
 HOasso,albertoarcagni
@@ -13971,7 +13973,6 @@ moose,carohlfs
 mop,marlonecobos
 mopac,sccmckenzie
 MOQA,cran
-moreparty,nicolas-robette
 morepls,nicolas-robette
 morestopwords,fatelarico
 morph,cran
@@ -15222,6 +15223,7 @@ nrlR,danieltomaro13
 nsarfima,cran
 nscancor,chrsigg
 NScluster,cran
+nse,keblu
 nseq,rfsaldanha
 nser,nandp1
 nsga2R,alan9956
@@ -17279,7 +17281,6 @@ prettyB,jumpingrivers
 prettycode,r-lib
 PrettyCols,nrennie
 prettydoc,yixuan
-prettyglm,jared-fowler
 prettyGraphs,derekbeaton
 prettymapr,paleolimbot
 prettyR,jimlemon
@@ -17932,6 +17933,7 @@ quantileDA,viroli
 QuantileGH,tingtingzhan
 QuantileGradeR,king-county-restaurant-grading
 QuantileNPCI,yan16
+QuantileOnQuantile,cran
 QuantilePeer,ahoundetoungan
 quantilogram,cran
 quantiseqr,bioc
@@ -19672,6 +19674,7 @@ rnr,jongbinjung
 rnrfa,ilapros
 Rnumerai,omniacsdao
 Rnvd3,stla
+roadDB,sommergeo
 roadoi,ropensci
 roads,landscitech
 roahd,astamm
@@ -20661,6 +20664,7 @@ scagnostics,s-u
 scalablebayesm,cran
 Scale4C,bioc
 scaleAlign,leahfeuerstahler
+scaledescr,dharaiyadarshan-create
 ScaledMatrix,bioc
 Scalelink,cmjcharlton
 scales,r-lib
@@ -21379,6 +21383,7 @@ shinyDND,ayayron
 shinydrive,bthieurmel
 shinyDSP,bioc
 shinyDTC,sigbertklinke
+shinyEditor,zearoby
 shinyEffects,rinterface
 shinyepico,bioc
 shinyExprPortal,c4tb
@@ -23728,7 +23733,7 @@ texmex,harrysouthworth
 texor,abhi-1u
 TExPosition,derekbeaton
 texPreview,yonicd
-texreg,leifeld
+texreg,leifeld-lab
 text,oscarkjell
 text.alignment,digi-vub
 text2emotion,hateprograming

@@ -1,15 +1,5 @@
 [
   {
-    "package": "btergm",
-    "maintainer": "Philip Leifeld <philip.leifeld@manchester.ac.uk>",
-    "url": "https://github.com/leifeld/btergm"
-  },
-  {
-    "package": "texreg",
-    "maintainer": "Philip Leifeld <philip.leifeld@manchester.ac.uk>",
-    "url": "https://github.com/leifeld/texreg"
-  },
-  {
     "package": "xergm.common",
     "maintainer": "Philip Leifeld <philip.leifeld@essex.ac.uk>",
     "url": "https://github.com/cran/xergm.common"
