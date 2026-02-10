@@ -742,6 +742,7 @@ AppliedPredictiveModeling,topepo
 ApplyPolygenicScore,pboutros
 appnn,carlosfamilia
 apportion,christopherkenny
+appraise,cran
 appreci8R,bioc
 appRiori,ugranziol
 approximator,robinhankin
@@ -1017,6 +1018,7 @@ audubon,paithiov909
 augmentedRCBD,aravind-j
 augSIMEX,cran
 auk,ropensci
+AUKtest,cran
 aum,tdhock
 AurieLSHGaussian,auriee
 auRoc,daifengstat
@@ -1202,7 +1204,7 @@ bama,umich-cphds
 BAMBI,c7rishi
 bambooHR,mangothecat
 bambu,bioc
-bamdit,bayesstats
+bamdit,pablo-e-verde
 bamlss,freezenik
 bamm,luismurao
 BAMMtools,cran
@@ -3803,6 +3805,7 @@ COMPoissonReg,lotze
 CompositeReliability,jmoonen
 compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
+compositional.mle,queelius
 CompositionalClust,cran
 CompositionalHDDA,cran
 CompositionalML,cran
@@ -4042,6 +4045,7 @@ coRdon,bioc
 CORE,gsun2018
 coreCT,troyhill
 CoreGx,bioc
+coreheat,cran
 corehunter,hdbeukel
 CORElearn,rmarko
 corella,atlasoflivingaustralia
@@ -6248,6 +6252,7 @@ egg,baptiste
 eggCounts,cran
 eglhmm,rolfturner
 EGM,shah-in-boots
+egnyte,atorus-research
 EgoCor,julia-dyck
 egor,tilltnet
 EGRET,doi-usgs
@@ -8156,6 +8161,7 @@ GARCHIto,cran
 GARCHSK,keeeeei0315
 garchx,gsucarrat
 GARCOM,complexgenome
+GAReg,mli171
 garfield,bioc
 gargle,r-lib
 gargoyle,colinfay
@@ -8747,6 +8753,7 @@ ggmatplot,xuan-liang
 ggmcmc,xfim
 ggmice,amices
 ggmix,sahirbhatnagar
+ggmlR,zabis13
 ggmr,hugogasca
 GGMridge,sth1402
 ggmRSCU,cran
@@ -9652,6 +9659,7 @@ hackeRnews,szymanskir
 HACSim,jphill01
 HadamardR,appavoodhandapani
 HaDeX,werpuc
+HaDeX2,hadexversum
 HadIBDs,ashutoshdalal97
 hagis,openplantpathology
 hahmmr,teng-gao
@@ -9820,6 +9828,7 @@ healthyR.ai,spsanderson
 healthyR.data,spsanderson
 healthyR.ts,spsanderson
 healthyverse,spsanderson
+heaping,matthias-da
 heapsofpapers,rohanalexander
 heartbeatr,ruiseabra
 heatex,atkinsjay
@@ -9857,6 +9866,7 @@ HELP,bioc
 HelpersMG,marc-girondot
 helsinki,ropengov
 HEM,bioc
+hemat,cran
 HEMDAG,marconotaro
 hemispheR,fchianucci
 henna,andrei-stoica26
@@ -11169,7 +11179,7 @@ janitor,sfirke
 janus,pigian
 JapanAPIs,lightbluetitan
 japanstat,uchidamizuki
-jarbes,bayesstats
+jarbes,pablo-e-verde
 JATSdecoder,ingmarboeschen
 JavaGD,s-u
 javateak,ywdistira
@@ -12302,6 +12312,7 @@ lpirfs,adaemmerp
 LPKsample,kaijunwang19
 lpl,statapps
 LPM,korry74
+lpmec,cjerzak
 LPmerge,jendelman
 lpNet,bioc
 LPower,cran
@@ -12768,6 +12779,7 @@ maxent.ot,connormayer
 MaxentVariableSelection,alj1983
 maximin,sunf16
 MaximinInfer,cran
+MaxIntTools,cran
 maxLik,otoomet
 maxlike,roelandkindt
 maxmatching,baolidakai
@@ -14335,6 +14347,7 @@ MultiGlarmaVarSel,cran
 multigraph,mplex
 multigraphr,termehs
 MultiGrey,cran
+multigroup.vaccine,epiforesite
 MultiGroupO,caromillat
 MultiGroupSequential,marvels2031
 multiGSEA,bioc
@@ -14489,6 +14502,7 @@ mvdalab,cran
 mvDFA,jpirmer
 mverse,mverseanalysis
 MVET,yeonseok-choi
+mvfmr,cran
 mvgam,nicholasjclark
 mvgb,swihart
 mvglmmRank,akarl46556
@@ -15341,6 +15355,7 @@ oclust,clarkkm2
 OCNet,lucarraro
 ocp,anjapago
 OCplus,bioc
+ocrRBBR,compbioipm
 ocs4R,eblondel
 OCSdata,opencasestudies
 octad,bioc
@@ -15399,6 +15414,7 @@ ohoegdm,tmsalab
 OHPL,nanxstats
 ohsome,giscience
 ohun,ropensci
+ohvbd,fwimp
 oii,computermacgyver
 ojsr,gastonbecerra
 okcolors,nelsonquesado
@@ -22847,6 +22863,7 @@ statswalesr,jamie-ralph
 statTarget,bioc
 StatTeacherAssistant,ccasement
 StatTools,cran
+statuser,urisohn
 STB,cran
 stbl,wranglezone
 STCCGEV,cran
@@ -23428,6 +23445,7 @@ T4transport,kisungyou
 tab,vandomed
 tab2xml,josesamos
 Taba,cran
+tabbitR,smmcandrew
 tabbycat,olihawkins
 taber,restonslacker
 tabit,petermeissner
@@ -24180,6 +24198,7 @@ ToolsForCoDa,jangraffelman
 toolStability,illustratien
 TooManyCellsR,gregoryschwartz
 toon,laresbernardo
+toonlite,aljrico
 toOrdinal,centerforassessment
 Toothnroll,aprofico
 TOP,bioc
@@ -24223,6 +24242,7 @@ toscmask,toscm
 toscutil,toscm
 TOSI,feiyoung
 tosr,coreofscience
+tost.suite,alexisdinno
 TOSTER,arcaldwell49
 totalcensus,gl-li
 TotalCopheneticIndex,ms609
