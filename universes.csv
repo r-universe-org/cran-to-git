@@ -795,6 +795,7 @@ archetypal,dchristop
 archetyper,mkorvink
 archetypes,mjaeugster
 archiDART,archidart
+archipelago,cran
 ARCHISSUR,morgane-m
 archive,r-lib
 archiveRetriever,liserman
@@ -1510,6 +1511,7 @@ BcDiag,ewouddt
 BCEA,giabaio
 BCEE,detal9
 bcf,jaredsmurray
+BCFM,ategge
 bcfrailph,mesfin-haileyesus
 bcfrailphdv,mesfin-haileyesus
 BCgee,nicolalunardon
@@ -1857,6 +1859,7 @@ BiocHubsShiny,bioc
 BiocIO,bioc
 BioCircos,lvulliard
 bioclim,cran
+BiocMaintainerApp,bioc
 biocmake,bioc
 BiocManager,bioconductor
 BiocNeighbors,bioc
@@ -2647,6 +2650,7 @@ Carlson,stla
 CARM,fanglu-chen
 CARME,marcogramatica
 CARMS,jto888
+carnation,bioc
 CARNIVAL,bioc
 caROC,ziyili20
 caroline,cran
@@ -2673,7 +2677,6 @@ CaseCohortCoxSurvival,etievant
 caseMatch,nielsenrich
 cases,maxwestphal
 casimir,deutsche-nationalbibliothek
-casino,anthonypileggi
 CASMAP,cran
 CASMI,cran
 casper,bioc
@@ -3361,6 +3364,7 @@ clisymbols,r-lib
 clitable,kforner
 CLME,jelsema
 clmplus,gpitt71
+clmstan,t-momozaki
 clock,r-lib
 clockify,datawookie
 clockplot,mahmudstat
@@ -4222,7 +4226,6 @@ CP,andreasstatsr
 cp4p,jacky11
 cpa,cran
 cpam,l-a-yates
-CPAT,ntguardian
 CPBayes,arunabhacodes
 CPC,imehlhaff
 CPCAT,lehmannrene
@@ -5065,6 +5068,7 @@ dendsort,evanbiederstedt
 denguedatahub,thiyangt
 denim,thinhong
 denoiSeq,buriom
+DenoIST,bioc
 denovolyzeR,jamesware
 denseFLMM,jonacrc
 densEstBayes,mattwand
@@ -9084,6 +9088,7 @@ glueDo,hswerdfe
 gluedown,k5cents
 gluvarpro,scontador
 glvmfit,cran
+glycoTraitR,bioc
 glyparse,glycoverse
 glyrepr,glycoverse
 gm,flujoo
@@ -11401,7 +11406,6 @@ kequate,cran
 keras,t-kalinowski
 keras3,rstudio
 kerasnip,davidrsch
-kerastuneR,eagerai
 kerDAA,cran
 kerdiest,iullibarri
 KERE,cran
@@ -12069,6 +12073,7 @@ lite,paulnorthrop
 litedown,yihui
 liteq,r-lib
 literanger,stephematician
+LitFetchR,thomasdumond
 litRiddle,computationalstylistics
 litteR,cran
 litterfitter,traitecoevo
@@ -12983,6 +12988,7 @@ MeasurementDiagnostics,ohdsi
 MeasurementError.cor,bioc
 measurementProtocol,markedmondson1234
 measurements,matthewabirk
+measureR,hdmeasure
 measures,philipppro
 measuRing,wilarhen
 MEAT,bioc
@@ -13855,7 +13861,6 @@ Modalclust,surajitstat
 ModCon,bioc
 modeest,paulponcet
 modehunt,numbersman77
-model4you,heidiseibold
 modelbased,easystats
 modelbpp,sfcheung
 modelc,sparkfish
@@ -14199,10 +14204,9 @@ mSigTools,rozen-lab
 mSimCC,dmorinya
 msImpute,bioc
 MSIMST,rh8liuqy
-MSinference,cran
+MSinference,marina-khi
 MSiP,mrbakhsh
 msir,cran
-mskcc.oncotree,maialab
 mslp,bioc
 msltrend,cran
 msm,chjackson
@@ -14591,6 +14595,7 @@ N2H4,forkonlp
 N2R,kharchenkolab
 na.tools,decisionpatterns
 naaccr,werthpadoh
+nabla,queelius
 nabor,jefferis
 NAC,cran
 NACHO,mcanouil
@@ -17002,6 +17007,7 @@ polylabelr,jolars
 polymapR,pbourkey
 polymatching,cran
 polyMatrix,namezys
+PolyMigR,cran
 polynom,billvenables
 PolynomF,billvenables
 PolyPatEx,aleczwart
@@ -18012,7 +18018,6 @@ quid,lukasklima
 quiddich,luisekuehn
 quietR,thomascjohnson
 quiltr,cjbarrie
-quincunx,ramiromagno
 quint,elisedus
 quitefastmst,gagolews
 quollr,jayanilakshika
@@ -19177,6 +19182,7 @@ Rfacebook,pablobarbera
 rfacebookstat,selesnow
 rfacts,elilillyco
 RFAE,bips-hb
+rFAMS,fishr-core-team
 rfaRm,bioc
 rfars,s87jackson
 Rfast,rfastofficial
@@ -22973,7 +22979,6 @@ StormR,umr-amap
 storr,richfitz
 stors,ahmad-alqabandi
 stortingscrape,martigso
-stoRy,theme-ontology
 storywranglr,chris31415926535
 stosim,jto888
 STPGA,denizakdemir
@@ -23875,6 +23880,7 @@ thriftr,systemincloud
 thunder,bczernecki
 ThurMod,markustjansen
 thurstonianIRT,paul-buerkner
+ti,usrbinr
 tibble,tidyverse
 tibbletime,business-science
 tibblify,wranglezone
@@ -23891,7 +23897,6 @@ tidier,talegari
 tidyAML,spsanderson
 tidybayes,mjskay
 tidyBdE,ropenspain
-tidybins,harrison4192
 tidyboot,langcog
 tidybulk,bioc
 tidycat,guyabel
@@ -25950,7 +25955,6 @@ ZINAR1,cran
 ZINARp,cran
 zinbwave,bioc
 zip,r-lib
-zipangu,uribo
 ZIPBayes,cran
 zipcodeR,gavinrozzi
 ZIPFA,zjph602xtc

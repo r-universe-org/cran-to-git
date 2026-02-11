@@ -1171,6 +1171,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocMaintainerApp",
+    "maintainer": "Lori Shepherd <lori.shepherd@roswellpark.org>",
+    "url": "https://github.com/lshep/biocmaintainerapp",
+    "registry": "bioc"
+  },
+  {
     "package": "biocmake",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://github.com/ltla/biocmake",
@@ -1679,6 +1685,12 @@
     "package": "CARDspa",
     "maintainer": "Jing Fu <jing_fu@brown.edu>",
     "url": "https://github.com/yma-lab/cardspa",
+    "registry": "bioc"
+  },
+  {
+    "package": "carnation",
+    "maintainer": "Apratim Mitra <apratim.mitra@nih.gov>",
+    "url": "https://github.com/nichd-bspc/carnation",
     "registry": "bioc"
   },
   {
@@ -3360,6 +3372,12 @@
     "package": "demuxSNP",
     "maintainer": "Michael Lynch <michael.lynch@ul.ie>",
     "url": "https://github.com/michaelplynch/demuxsnp",
+    "registry": "bioc"
+  },
+  {
+    "package": "DenoIST",
+    "maintainer": "Aaron Kwok <akwok@svi.edu.au>",
+    "url": "https://github.com/aaronkwc/denoist",
     "registry": "bioc"
   },
   {
@@ -5382,6 +5400,12 @@
     "package": "GloScope",
     "maintainer": "Elizabeth Purdom <epurdom@stat.berkeley.edu>",
     "url": "https://github.com/epurdom/gloscope",
+    "registry": "bioc"
+  },
+  {
+    "package": "glycoTraitR",
+    "maintainer": "Bingyuan Zhang <zhang.bingyuan.w8@f.mail.nagoya-u.ac.jp>",
+    "url": "https://github.com/matsui-lab/glycotraitr",
     "registry": "bioc"
   },
   {
