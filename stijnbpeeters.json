@@ -1,5 +1,10 @@
 [
   {
+    "package": "DepMod",
+    "maintainer": "Stijn Peeters <s.b.peeters@eshpm.eur.nl>",
+    "url": "https://github.com/stijnbpeeters/depmod"
+  },
+  {
     "package": "MHQoL",
     "maintainer": "Stijn Peeters <s.b.peeters@eshpm.eur.nl>",
     "url": "https://github.com/cran/MHQoL"

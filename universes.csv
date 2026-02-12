@@ -284,6 +284,7 @@ Aerith,bioc
 AeRobiology,oteros
 AeroEvapR,a-fitts
 AeroSampleR,markhogue
+aesopR,davidbrocker
 AF,cran
 afc,jonasbhend
 afcharts,best-practice-and-impact
@@ -3530,6 +3531,7 @@ cnaOpt,mathiasambuehl
 cnbdistr,xiaotianzhu
 cncaGUI,ananieto
 cnd,jmbarbone
+cnefetools,pedreirajr
 CNEr,bioc
 CNID,chuxinyuan
 CNLTreg,cran
@@ -5098,6 +5100,7 @@ DEploid,deploid-dev
 DEploid.utils,shajoezhu
 DEplotting,jannis-b
 depmixS4,ingmarvisser
+DepMod,stijnbpeeters
 DEPONS2R,jacobnabe
 deposits,ropensci
 depower,bklamer
@@ -5848,6 +5851,7 @@ Dtableone,cran
 dtangle,gjhunt
 DTAplots,ianschiller
 DTAT,dcnorris
+dtaudit,fpcordeiro
 DTAXG,marsdu1989
 dTBM,jhu267
 dtComb,gokmenzararsiz
@@ -7460,6 +7464,7 @@ fireproof,thomasp85
 firesafety,thomasp85
 firesale,thomasp85
 firestorm,thomasp85
+firmmatchr,cran
 first,cran
 FiSh,mlaib
 FISHalyseR,bioc
@@ -8471,6 +8476,7 @@ GeoAdjust,cran
 geoAr,politicaargentina
 geoarrow,geoarrow
 geoBayes,cran
+geobounds,dieghernan
 geobr,rafapereirabr
 geocacheR,alunhewinson
 geocausal,mmukaigawara
@@ -11126,6 +11132,7 @@ itscalledsoccer,american-soccer-analysis
 itsdm,lleisong
 itsmr,georgeweigt
 iucnr,paulesantos
+iv.sensemakr,carloscinelli
 ivaBSS,cran
 IVAS,bioc
 IVCor,scottpanhan
@@ -11976,6 +11983,7 @@ lightr,ropensci
 lightsf,roming20
 lightsout,daattali
 likelihood,lmurphy186232
+likelihood.model,queelius
 likelihoodAsy,rugbel
 likelihoodExplore,benbarnard
 likelihoodR,cran
@@ -16742,6 +16750,7 @@ pKSEA,pll21
 pksensi,nanhung
 PL94171,corymccartan
 plac,942kid
+placematchr,cran
 placer,cran
 PlackettLuce,hturner
 plaid,bioc
@@ -17654,7 +17663,6 @@ pubmedR,massimoaria
 pubmedtk,bgcarlisle
 PubMedWordcloud,felixfan
 pubrplot,umarhussain-git
-pubtatordb,mamc-dci
 pudu,pachadotdev
 puff,hammerling-research-group
 PUGMM,giorgiazaccaria
@@ -18731,7 +18739,6 @@ ReacTran,karlines
 reactRouter,lgnbhl
 ReAD,cran
 read.abares,ropensci
-read.dbc,danicat
 read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
@@ -20147,7 +20154,6 @@ rSFA,martinzaefferer
 Rsfar,haghbinh
 Rsgf,bcable
 RSGHB,rsginc
-rSHAPE,jdench
 rshift,alexhroom
 rsi,ropensci
 rsides,cran
@@ -21629,6 +21635,7 @@ simer,xiaolei-lab
 simest,r-forge
 simET,liumiguo
 SimEUCartelLaw,mabe0033
+simevent,miclukacova
 simex,wolfganglederer
 simExam,wleoncio
 SIMEXBoost,cran
@@ -23887,6 +23894,7 @@ tibblify,wranglezone
 tic,ropensci
 tican,sjtingle
 tickr,ben-williams
+TICM,cran
 tictactoe,kota7
 tictoc,jabiru
 TideCurves,moritzmn
@@ -24520,7 +24528,7 @@ truncnormbayes,mathurlabstanford
 truncreg,r-forge
 truncSP,anitalindmark
 trunmnt,cran
-trust,cjgeyer
+trust,cran
 trustedtimestamping,ttspackage
 trustmebro,kuuuwe
 trustOptim,braunm
