@@ -416,7 +416,7 @@
   },
   {
     "package": "animalcules",
-    "maintainer": "Jessica McClintock <jessica.mcclintock@rutgers.edu>",
+    "maintainer": "W. Evan Johnson <wej@bu.edu>",
     "url": "https://github.com/wejlab/animalcules",
     "registry": "bioc"
   },
@@ -896,7 +896,7 @@
   },
   {
     "package": "BatchQC",
-    "maintainer": "Jessica Anderson <anderson.jessica@rutgers.edu>",
+    "maintainer": "Yaoan Leng <leng@bu.edu>",
     "url": "https://github.com/wejlab/batchqc",
     "registry": "bioc"
   },
@@ -10627,6 +10627,12 @@
     "package": "rfaRm",
     "maintainer": "Lara Selles Vidal <lara.selles@oist.jp>",
     "url": "https://git.bioconductor.org/packages/rfaRm",
+    "registry": "bioc"
+  },
+  {
+    "package": "Rfastp",
+    "maintainer": "Thomas Carroll <tc.infomatics@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/Rfastp",
     "registry": "bioc"
   },
   {
