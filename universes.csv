@@ -1477,6 +1477,7 @@ BayLum,crp2a
 bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
+bayou,uyedaj
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
@@ -2625,7 +2626,7 @@ card.pro,oobianom
 cardargus,strategicprojects
 carData,r-forge
 cardelino,bioc
-CardiacDP,cran
+CardiacDP,vicellken
 cardidates,r-forge
 Cardinal,bioc
 CardinalIO,bioc
@@ -2812,6 +2813,7 @@ CCM,gdancik
 ccmEstimator,wu-xiaohan
 ccmm,cran
 CCMMR,djwtouw
+CCMnet,ravigoyalgit
 ccmReportR,durhamregionharp
 ccoptimalmatch,cran
 ccostr,clinda-aau
@@ -2920,6 +2922,7 @@ centrifugeR,phamdn
 CEoptim,cran
 CePa,jokergoo
 cepiigeodist,pachadotdev
+cepiweek,deginadaniel
 Cepo,bioc
 cepp,dmohit
 cepR,robertmyles
@@ -4985,7 +4988,6 @@ deepMOU,martindip
 deepnet,runxiao
 deepNN,bentaylor1
 DeepPINCS,bioc
-deepredeff,ruthkr
 deepregression,druegamer
 deepRstudio,kumes
 deepSNV,bioc
@@ -5003,6 +5005,7 @@ defineR,dbosak01
 deFit,yueqinhu
 deflateBR,meirelesff
 deflist,bbuchsbaum
+defm,uofuepibio
 deforestable,otryakhin-dmitry
 deform,byoungman
 DEFormats,bioc
@@ -6776,7 +6779,7 @@ evaluomeR,bioc
 evanverse,evanbio
 evapoRe,akbarr1184
 Evapotranspiration,cran
-eVCGsampler,andreass23
+eVCGsampler,sanofi-public
 EVchargcost,cran
 evclass,cran
 EvCombR,cran
@@ -7178,6 +7181,7 @@ fastpos,johannes-titz
 FastqCleaner,bioc
 fastqcr,kassambara
 fastqq,gumeo
+fastQR,maurobernardi
 fastqrs,santiago-pereda
 fastR2,rpruim
 FastRCS,kvak
@@ -9356,6 +9360,7 @@ graphkernels,mahito-sugiyama
 graphlayouts,schochastics
 graphon,kisungyou
 graphonmix,sevvandi
+graphPAF,johnfergusonnuig
 graphpcor,eliaskrainski
 graphql,ropensci
 GraphRankTest,cran
@@ -11316,7 +11321,7 @@ jskm,jinseob2kim
 JSM,helenxu
 JSmediation,cedricbatailler
 jsmodule,jinseob2kim
-json2aRgs,vforwater
+json2aRgs,tool-spec
 json64,msantelices
 jsonify,symbolixau
 jsonld,ropensci
@@ -12313,8 +12318,6 @@ lovecraftr,sergejruff
 lowmemtkmeans,andrewthomasjones
 lowpassFilter,florianpein
 LowRankQP,johnormerod
-LowWAFOMNX,mersennetwister-lab
-LowWAFOMSobol,mersennetwister-lab
 lpacf,adunaic
 lpanda,localpolitics
 LPBkg,salgeri
@@ -13295,6 +13298,7 @@ mFD,cmlmagneville
 mfdb,lentinj
 MFDFA,mlaib
 mFDP,cran
+MFF,nihattak
 mfGARCH,onnokleen
 mFilter,mbalcilar
 mFLICA,darkeyes
@@ -13344,6 +13348,7 @@ MHDA,cran
 mHG,kobiperl
 mHMMbayes,emmekeaarts
 Mhorseshoe,rkdalsrl1511
+mhpfilter,myaseen208
 MHQoL,stijnbpeeters
 mhsmm,cran
 mhtboot,abhirupkgp
@@ -17648,6 +17653,7 @@ ptm,jcaledo
 ptmixed,m-signo
 ptools,apwheele
 PtProcess,cran
+PTSDdiag,weidmannl
 ptspotter,r-leyshon
 PTSR,tsprass
 pttstability,adamtclark
@@ -18310,6 +18316,7 @@ Raquifer,susaenergy
 rar,jgaeb
 rare,yanxht
 RareComb,vijaymp38
+rareflow,pietropiu-labstats
 rareNMtests,luiscayuela
 RAREsim,bioc
 rarestR,pzhaonet
@@ -18930,6 +18937,7 @@ regexPipes,cran
 regexSelect,yonicd
 regextable,judgelord
 reghelper,jeff-hughes
+RegimeChange,cran
 regional,nowosad
 RegionalConsistency,gosukehommaex
 regionalpcs,bioc
@@ -20800,6 +20808,7 @@ schex,bioc
 scHiCcompare,bioc
 schoenberg,jadahlke
 scholar,yulab-smu
+scholid,thomas-rauter
 SchoolDataIT,lcef97
 schoolmath,cran
 schoRsch,cran
@@ -22444,7 +22453,6 @@ spectralR,olehprylutskyi
 SpectralTAD,bioc
 Spectran,litgde
 SpectraQL,bioc
-spectre,r-spatialecology
 SpectriPy,bioc
 spectrolab,meireles
 Spectrum,crj32
@@ -23965,6 +23973,7 @@ tidyHeatmap,stemangiola
 tidyheatmaps,jbengler
 tidyhte,ddimmery
 tidyhydat,ropensci
+tidyILD,cran
 tidyindex,huizezhang-sherry
 tidyjson,colearendt
 tidyklips,cheongchoi
