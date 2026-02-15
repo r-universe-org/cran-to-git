@@ -90,21 +90,9 @@
     "url": "https://github.com/cran/ISR"
   },
   {
-    "package": "LFM",
-    "maintainer": "Guangbao Guo <ggb11111111@163.com>",
-    "url": "https://github.com/guangbaog/lfm",
-    "registry": "archived"
-  },
-  {
     "package": "LIC",
     "maintainer": "Guangbao Guo <ggb11111111@163.com>",
     "url": "https://github.com/cran/LIC"
-  },
-  {
-    "package": "LLIC",
-    "maintainer": "Guangbao Guo <ggb11111111@163.com>",
-    "url": "https://github.com/guangbaog/llic",
-    "registry": "archived"
   },
   {
     "package": "OPCreg",
@@ -145,12 +133,6 @@
     "package": "SOPC",
     "maintainer": "Guangbao Guo <ggb11111111@163.com>",
     "url": "https://github.com/cran/SOPC"
-  },
-  {
-    "package": "TFM",
-    "maintainer": "Guangbao Guo <ggb11111111@163.com>",
-    "url": "https://github.com/guangbaog/tfm",
-    "registry": "archived"
   },
   {
     "package": "TLIC",
