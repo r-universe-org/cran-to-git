@@ -837,7 +837,6 @@ argparse,trevorld
 argparser,djhshih
 argus,cran
 ARHT,haoranli
-ari,jhudsl
 ARIbrain,cran
 aricode,jchiquet
 AriGaMyANNSVR,sandipgarai
@@ -1707,7 +1706,6 @@ BI,marcschwartz
 BiasCorrector,kapsner
 BiasedUrn,agnerf
 bib2df,ropensci
-BiBitR,ewouddt
 biblio,kamapu
 bibliometrix,massimoaria
 bibliometrixData,massimoaria
@@ -1720,7 +1718,6 @@ bibtex,ropensci
 BicARE,bioc
 BiCausality,darkeyes
 biClassify,aflapan
-biclust,cran
 BICORN,cran
 BiDAG,polinasuter
 bidask,eguidotti
@@ -2432,7 +2429,6 @@ bulkQC,joerigdon
 bulkreadr,gbganalyst
 BulkSignalR,bioc
 bulletcp,nategarton13
-bulletr,erichare
 bullishTrader,maheshpkumar
 bullseye,cbhurley
 bullwhipgame,msmarchena
@@ -3808,7 +3804,6 @@ complexNet,marcosmolla
 complexplus,cran
 ComplexUpset,krassowski
 complmrob,dakep
-CompMix,haowei72
 CompModels,tpourmohamad
 COMPoissonReg,lotze
 CompositeReliability,jmoonen
@@ -6977,7 +6972,7 @@ eyeris,shawntz
 eyetools,tombeesley
 eyetrackingR,samhforbes
 eyeTrackR,cran
-ez,mike-lawrence
+ez,bucky2177
 ez.combat,cran
 EZbakR,isaacvock
 ezcox,shixiangwang
@@ -8048,7 +8043,6 @@ fuzzr,mdlincoln
 Fuzzy.p.value,cran
 FuzzyAHP,jancaha
 FuzzyClass,leapigufpb
-FuzzyDBScan,henrifnk
 fuzzyforest,daniel-conn17
 FuzzyImputationTest,mroman-ibs
 fuzzyjoin,dgrtwo
@@ -8179,7 +8173,6 @@ gargoyle,colinfay
 garma,rlph50
 garray,huangqqss
 GARS,bioc
-GAS,leopoldocatania
 gasanalyzer,cran
 gaselect,dakep
 gasfluxes,ecoroland2
@@ -9299,7 +9292,6 @@ gptr,broccolito
 GPTreeO,timo-braun
 gptstudio,michelnivard
 gptzeror,christopherkenny
-GPUmatrix,clobatofern95
 GPvam,akarl46556
 GPvecchia,marcinjurek
 gpx,bmewing
@@ -9507,6 +9499,7 @@ GSD,dkimstatlab
 GSDA,xueyuancao
 gsDesign,keaven
 gsDesign2,merck
+gsDesignNB,keaven
 gsDesignTune,nanxstats
 GSE,claudioagostinelli
 GSEABase,bioc
@@ -9531,6 +9524,7 @@ gslnls,jorischau
 gsloid,benmarwick
 GSM,cran
 gsMAMS,tpatni719
+gsMeanFreq,cran
 GSMX,cran
 GSODR,ropensci
 gson,guangchuangyu
@@ -10000,7 +9994,6 @@ highriskzone,cran
 highs,florianschwendinger
 hightR,yongwoo-eg-kim
 highTtest,sth1402
-higlasso,cran
 higrad,captainyc
 hilbert,program--
 HilbertCurve,bioc
@@ -11432,6 +11425,7 @@ kernhaz,cran
 kernlab,alexkz
 kernopt,thomasfillon
 kernplus,hhwangbo
+kernreg,cran
 kernscr,borishejblum
 KernSmooth,cran
 KernSmoothIRT,mcguirebc
@@ -14112,6 +14106,7 @@ mpspline2,obrl-soil
 MPsychoR,pmair78
 mpt,cran
 MPTinR,singmann
+MPTmultiverse,mpt-network
 MPV,wjbraun
 mpwR,cran
 MQMF,haddonm
@@ -15235,6 +15230,7 @@ NPRED,zejiang-unsw
 npreg,cran
 npregderiv,osavchuk
 npregfast,sestelo
+npRmpi,jeffreyracine
 nprobust,cran
 nproc,yangfengstat
 npROCRegression,mxrodriguezuvigo
@@ -15691,6 +15687,7 @@ OptOTrials,cran
 optparse,trevorld
 optR,cran
 optrcdmaeAT,cran
+optree,byzheng
 optrefine,kkbrum
 optRF,tmlange
 OPTS,cran
@@ -17942,6 +17939,7 @@ quadtree,dfriend21
 quadVAR,sciurus365
 qualitycontrol,luisgarcez11
 QualityMeasure,knieser
+quallmer,quallmer
 qualmap,chris-prener
 qualpalr,jolars
 qualR,ropensci
@@ -21589,7 +21587,6 @@ signnet,schochastics
 signs,benjaminwolfe
 SigOptR,cran
 sigora,wolski
-sigQC,andrewdhawan
 sigr,winvector
 SigsPack,bioc
 sigsquared,bioc
@@ -21737,6 +21734,7 @@ simstudy,kgoldfeld
 simsurv,sambrilleman
 SimSurvey,paulregular
 SimSurvNMarker,boennecd
+SimtablR,matheustg-14
 simTargetCov,anthonychristidis
 simtimer,ims-fhs
 SimTimeVar,mayamathur
@@ -21992,7 +21990,6 @@ smoothclust,bioc
 smoothedIPW,stmcg
 smoothedLasso,ghahn-hsph
 smoothemplik,fifis
-smoother,cran
 SmoothHazard,tagteam
 smoothHR,arturstat
 smoothic,meadhbh-oneill
@@ -22332,7 +22329,6 @@ SpatialGraph,garciapintado
 spatialHeatmap,bioc
 spatialising,nowosad
 SpatialKDE,jancaha
-SpatialKWD,stegua
 SpatialNP,cran
 SpatialOmicsOverlay,bioc
 SpatialPack,faosorios
@@ -22640,6 +22636,7 @@ sqlparseR,michaelsimmler
 sqlq,pkrog
 SqlRender,ohdsi
 sqlscore,wwbrannon
+sqlserverconnect,cran
 sqlstrings,dejse
 sqltargets,daranzolin
 SQMtools,cran
@@ -23155,7 +23152,6 @@ suntools,adokter
 supclust,mmaechler
 super,timtaylor
 superb,dcousin3
-superbiclust,tkhamiak
 SuperCell,gfellerlab
 SuperCellCyto,bioc
 supercells,nowosad
@@ -23775,7 +23771,6 @@ text2emotion,hateprograming
 text2map,dustinstoltz
 text2sdg,dwulff
 text2sdgData,psychobas
-text2speech,jhudsl
 text2vec,dselivanov
 textab,setzler
 textanalyzer,cran
@@ -24757,6 +24752,7 @@ typeR,fgazzelloni
 types,jimhester
 typetracer,mpadge
 typr,christopherkenny
+typstable,freierson
 tzdb,r-lib
 tzupdater,sthonnard
 UAHDataScienceO,andriyprotsak5

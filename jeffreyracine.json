@@ -8,5 +8,10 @@
     "package": "np",
     "maintainer": "Jeffrey S. Racine <racinej@mcmaster.ca>",
     "url": "https://github.com/jeffreyracine/r-package-np"
+  },
+  {
+    "package": "npRmpi",
+    "maintainer": "Jeffrey S. Racine <racinej@mcmaster.ca>",
+    "url": "https://github.com/cran/npRmpi"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "package": "ari",
-    "maintainer": "Sean Kross <sean@seankross.com>",
-    "url": "https://github.com/jhudsl/ari",
-    "registry": "archived"
-  },
-  {
     "package": "matahari",
     "maintainer": "Sean Kross <sean@seankross.com>",
     "url": "https://github.com/jhudsl/matahari"
@@ -19,11 +13,5 @@
     "package": "ottrpal",
     "maintainer": "Candace Savonen <cansav09@gmail.com>",
     "url": "https://github.com/jhudsl/ottrpal"
-  },
-  {
-    "package": "text2speech",
-    "maintainer": "Howard Baek <howardbaek.fh@gmail.com>",
-    "url": "https://github.com/jhudsl/text2speech",
-    "registry": "archived"
   }
 ]
