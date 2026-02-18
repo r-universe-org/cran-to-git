@@ -3,5 +3,11 @@
     "package": "car",
     "maintainer": "Brad Price <brad.price@mail.wvu.edu>",
     "url": "https://github.com/cran/car"
+  },
+  {
+    "package": "effects",
+    "maintainer": "Brad Price <brad.price@mail.wvu.edu>",
+    "url": "https://github.com/bprice2652/effects_repo",
+    "subdir": "effects"
   }
 ]

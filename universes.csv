@@ -250,6 +250,7 @@ ADPF,samdkruse
 adplots,cran
 adproclus,henry-heppe
 adpss,ca4wa
+adrftools,ngreifer
 ads,lamonica-d
 adsasi,cran
 adsDataHubR,pankaj-bhatlawande
@@ -511,6 +512,7 @@ alqrfe,iandanilevicz
 alr4,sanfordweisberg
 ALS,k-m-m
 ALSCPC,cran
+alsi,cran
 altadata,altabering
 altair,vegawidget
 altcdfenvs,bioc
@@ -1058,7 +1060,7 @@ automl,aboulaboul
 autoMrP,retowuest
 autonewsmd,kapsner
 autonomics,bioc
-AutoPipe,cran
+AutoPipe,falafel19
 Autoplotprotein,cran
 AutoPlots,adrianantico
 autoReg,cardiomoon
@@ -5009,6 +5011,7 @@ DegNorm,bioc
 degradr,abraham1011
 DEGraph,bioc
 DEGRE,douglasterra
+DegreeDayCalc,almarazkrae-4081
 degreenet,handcock
 DEGreport,bioc
 degross,plambertuliege
@@ -5281,7 +5284,7 @@ Diderot,cran
 DiDforBigData,setzler
 DIDHAD,cran
 didimputation,kylebutts
-DIDmultiplegt,cran
+DIDmultiplegt,credible-answers
 DIDmultiplegtDYN,credible-answers
 didrooRFM,didroo55
 diegr,gerslovaz
@@ -6240,7 +6243,7 @@ eff2,richardkwo
 effClust,cran
 EffectLiteR,amayer2010
 effectplots,mayer79
-effects,john-d-fox
+effects,bprice2652
 effectsize,easystats
 effectsizescr,unipateambehave
 EffectStars,schaubert
@@ -6780,7 +6783,7 @@ eve,doulaye
 evenBreak,barryzee
 event,swihart
 eventdataR,bupaverse
-EventDetectGUI,cran
+EventDetectGUI,sowmyachandrasekaran17
 EventDetectR,frehbach
 eventglm,sachsmc
 eventInterval,jimlemon
@@ -7856,6 +7859,7 @@ frailtySurv,vmonaco
 frair,dpritchard
 framecleaner,harrison4192
 Frames2,dmolinam
+framework,table1
 franc,gaborcsardi
 FRAPO,bpfaff
 FRApp,gioiadc
@@ -11475,6 +11479,7 @@ kindisperse,moshejasper
 kindling,joshuamarie
 kinematics,pabrod
 kinesis,nfrerebeau
+KinformR,sequencebio
 KingCountyHouses,cran
 KinMixLite,petergreen5678
 kinship2,mayoverse
@@ -11967,6 +11972,7 @@ LifemapR,lifemap-tol
 lifepack,oskarallerslev
 lifeR,jcoliver
 Lifertable,cran
+LifeTableFertility,almarazkrae-4081
 liftLRD,cran
 liftr,nanxstats
 LiftTest,cran
@@ -13368,7 +13374,7 @@ michelRodange,b-rodrigues
 MiChip,bioc
 miclust,jobago
 micompr,nunofachada
-miCoPTCM,cran
+miCoPTCM,aurelie-bertrand
 microbats,stathwang
 microbenchmark,joshuaulrich
 microbial,guokai8
@@ -16653,6 +16659,7 @@ piecewiseSEM,jslefche
 PieGlyph,rishvish
 Pigengene,bioc
 piggyback,ropensci
+piglet,ayeletperes
 pii,jacobpstein
 piiR,theotherdrwells
 Pijavski,cran
@@ -16710,7 +16717,7 @@ PJFM,jjr1234
 PK,tjaki
 pk.unit.trans,fuyongchao
 pk4adi,xfz329
-PKbioanalysis,cran
+PKbioanalysis,omarashkar
 PKconverter,ek-lee
 pkdata,couthcommander
 pkgbuild,r-lib
@@ -18378,6 +18385,7 @@ RBaM,bam-tools
 RBaseX,benengbers
 rBayesianOptimization,yanyachen
 rbbnp,xinyu-daidai
+RBBR,compbioipm
 rbc,jonjamesjr
 rbcb,wilsonfreitas
 RbcBook1,bioc
@@ -18932,6 +18940,7 @@ regioneR,bioc
 regioneReloaded,bioc
 regionReport,bioc
 regions,ropengov
+registr,julia-wrobel
 registry,cran
 RegKink,cran
 reglogit,rbgramacy
@@ -19346,6 +19355,7 @@ riAFTBART,freyrray
 rib,lbilli
 ribd,magnusdv
 RIbench,cran
+ribiosMath,bedapub
 ribiosUtils,bedapub
 RiboCrypt,bioc
 RiboDiPA,bioc
@@ -20352,6 +20362,7 @@ rubias,eriqande
 RUCova,bioc
 rucrdtw,pboesu
 rugarch,alexiosg
+RuHere,wevertonbio
 Ruido,arthurigorr
 ruijter,ramiromagno
 ruler,echasnovski
@@ -22461,6 +22472,7 @@ sperrorest,giscience-fsu
 SpeTestNP,hippolyteboucher
 SPEV,rebeccahurwitz
 spex,mdsumner
+spexvb,peterolejua
 spfa,yliu87
 spfda,dipterix
 spfilteR,sjuhl
@@ -22636,7 +22648,7 @@ sqlparseR,michaelsimmler
 sqlq,pkrog
 SqlRender,ohdsi
 sqlscore,wwbrannon
-sqlserverconnect,cran
+sqlserverconnect,drosenman
 sqlstrings,dejse
 sqltargets,daranzolin
 SQMtools,cran
@@ -23944,6 +23956,7 @@ tidygam,stefanocoretta
 tidygapminder,ebedthan
 tidygate,stemangiola
 tidygenomics,const-ae
+tidyGenR,csmiguel
 tidygeocoder,jessecambon
 tidygeoRSS,robertmyles
 tidygraph,thomasp85
@@ -24534,6 +24547,7 @@ trustmebro,kuuuwe
 trustOptim,braunm
 tryCatchLog,aryoda
 tryr,analythium
+Ts,cran
 TSA,kungsikchan
 tsallisqexp,dutangc
 TSANN,yeasinstat
@@ -24966,6 +24980,7 @@ UStatBookABSC,ansuchatterjee
 ustfd,groditi
 ustyc,mrbcuda
 utc,antojo-segura
+uteals,phuse-org
 utest,jotlind
 utf8,krlmlr
 utf8ify,rolkra
@@ -25047,6 +25062,7 @@ varhandle,mmahmoudian
 variability,popatraj
 variables,r-forge
 VariableScreening,dziakj1
+VariableSelection,xss55
 varian,jwiley
 VarianceGamma,dsco036
 variancePartition,bioc

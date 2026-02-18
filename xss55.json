@@ -8,5 +8,10 @@
     "package": "GLMMselect",
     "maintainer": "Shuangshuang Xu <xshuangshuang@vt.edu>",
     "url": "https://github.com/cran/GLMMselect"
+  },
+  {
+    "package": "VariableSelection",
+    "maintainer": "Shuangshuang Xu <xshuangshuang@vt.edu>",
+    "url": "https://github.com/xss55/variableselection"
   }
 ]
