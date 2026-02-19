@@ -130,6 +130,11 @@
     "url": "https://github.com/mlr-org/mlr3spatiotempcv"
   },
   {
+    "package": "mlr3summary",
+    "maintainer": "Susanne Dandl <dandls.datascience@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3summary"
+  },
+  {
     "package": "mlr3torch",
     "maintainer": "Sebastian Fischer <sebf.fischer@gmail.com>",
     "url": "https://github.com/mlr-org/mlr3torch"

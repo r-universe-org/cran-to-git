@@ -5,6 +5,11 @@
     "url": "https://github.com/ggsegverse/ggseg"
   },
   {
+    "package": "ggseg.formats",
+    "maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>",
+    "url": "https://github.com/ggsegverse/ggseg.formats"
+  },
+  {
     "package": "ggseg3d",
     "maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>",
     "url": "https://github.com/ggsegverse/ggseg3d"

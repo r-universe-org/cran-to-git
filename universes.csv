@@ -1534,7 +1534,6 @@ bcRP,juliocollazos64
 bcrypt,jeroen
 bcSeq,bioc
 BCSreg,ffqueiroz
-BCT,valentinian22
 bcv,michbur
 bda,cran
 BDAlgo,karasiewiczstephane
@@ -3337,6 +3336,7 @@ ClimMobTools,agrdatasci
 climodr,envima
 ClimProjDiags,cran
 climwin,liamdbailey
+clinCompare,siddharthlokineni
 clinDataReview,openanalytics
 clinDR,snthomas99
 clinfun,veseshan
@@ -4034,6 +4034,7 @@ CopulaGAMM,cran
 CopulaInference,bouchranasri
 copulareg,cran
 CopulaREMADA,cran
+copulaSFM,woraphonyamaka
 copulaSim,psyen0824
 CopyNumberPlots,bioc
 copyseparator,leiyang-fish
@@ -5863,6 +5864,7 @@ DTDA.cif,sidoruvigo
 DTDA.ni,sidoruvigo
 DTEAssurance,jamesalsbury
 DTEBOP2,zhongheng-biostatistics
+dtGAP,hanmingwu1103
 dtgiw,atchanut
 dti,ktabelow
 dtlcor,ashwz
@@ -6587,6 +6589,7 @@ epivizrData,bioc
 epivizrServer,bioc
 epivizrStandalone,bioc
 epiworldR,uofuepibio
+epiworldRcalibrate,sima-njf
 epiworldRShiny,uofuepibio
 epizootic,viralemergence
 EPLSIM,yuyanwangsixtwo
@@ -6950,7 +6953,6 @@ extras,poissonconsulting
 extrasteps,emilhvitfeldt
 extraSuperpower,luisrmacias
 extraterrestrial,chesterdeocaris
-extRatum,patnik
 extRC,francescobartolucci
 ExtremalDep,borisberanger
 ExtremeBounds,cran
@@ -8474,6 +8476,7 @@ GenWin,timbeissinger
 GeoAdjust,cran
 geoAr,politicaargentina
 geoarrow,geoarrow
+geoarrowWidget,r-spatial
 geoBayes,cran
 geobounds,dieghernan
 geobr,rafapereirabr
@@ -8837,6 +8840,7 @@ ggsci,nanxstats
 ggscidca,cran
 ggsector,yanpd01
 ggseg,ggsegverse
+ggseg.formats,ggsegverse
 ggseg3d,ggsegverse
 ggsegmentedtotalbar,ozancanozdemir
 ggsem,smin95
@@ -10014,6 +10018,7 @@ hindex,cran
 hindexcalculator,salavifard
 hint,alextkalinka
 hipathia,bioc
+hipecR,tarjae
 hiphop,cran
 hippie,crew102
 HIPPO,bioc
@@ -11795,6 +11800,7 @@ LCFdata,cran
 lchemix,wzhang17
 LCMCR,dmanriqu
 lcmm,cecileproust-lima
+lcmsPlot,bioc
 LCMSQA,jaehyunjoo
 lconnect,fmestre1
 lcopula,lbelzile
@@ -13640,6 +13646,7 @@ mixR,garybaylor
 mixRaschTools,pamelapsc
 MixRF,randel
 MixSAL,franczakius
+MixSemiRob,syeonkang
 MixSIAR,brianstock
 MixSim,snoweye
 mixsmsn,cran
@@ -13757,7 +13764,7 @@ mlr3resampling,tdhock
 mlr3shiny,lamate
 mlr3spatial,mlr-org
 mlr3spatiotempcv,mlr-org
-mlr3summary,cran
+mlr3summary,mlr-org
 mlr3superlearner,nt-williams
 mlr3torch,mlr-org
 mlr3tuning,mlr-org
@@ -16093,6 +16100,7 @@ partialised,uchidamizuki
 partialling.out,ropensci
 Partiallyoverlapping,cran
 PartialNetwork,ahoundetoungan
+PartialTL,cran
 particle.swarm.optimisation,brunettheo
 particles,thomasp85
 parTimeROC,faizazhar
@@ -17643,6 +17651,7 @@ ptinpoly,maisogjm
 pTITAN2,usepa
 ptm,jcaledo
 ptmixed,m-signo
+PTMods,bioc
 ptools,apwheele
 PtProcess,cran
 PTSDdiag,weidmannl
@@ -25937,6 +25946,7 @@ YPPE,fndemarqui
 ypr,poissonconsulting
 ypssc,shashankkumbhare
 YRmisc,peteryinr
+yrnd,williamarrata
 YTAnalytics,davisj95
 yuima,yuimaproject
 yuimaGUI,eguidotti

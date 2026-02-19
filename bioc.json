@@ -6753,6 +6753,12 @@
     "registry": "bioc"
   },
   {
+    "package": "lcmsPlot",
+    "maintainer": "Ossama Edbali <o.edbali@bham.ac.uk>",
+    "url": "https://github.com/computational-metabolomics/lcmsplot",
+    "registry": "bioc"
+  },
+  {
     "package": "ldblock",
     "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
     "url": "https://git.bioconductor.org/packages/ldblock",
@@ -9979,6 +9985,12 @@
     "package": "ptairMS",
     "maintainer": "camille Roquencourt <camille.roquencourt@hotmail.fr>",
     "url": "https://github.com/camilleroquencourt/ptairms",
+    "registry": "bioc"
+  },
+  {
+    "package": "PTMods",
+    "maintainer": "Guillaume Deflandre <guillaume.deflandre@uclouvain.be>",
+    "url": "https://github.com/rformassspectrometry/ptmods",
     "registry": "bioc"
   },
   {
