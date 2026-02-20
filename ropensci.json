@@ -916,12 +916,6 @@
     "url": "https://github.com/ropensci/rotl"
   },
   {
-    "package": "Rpolyhedra",
-    "maintainer": "Alejandro Baranek <abaranek@dc.uba.ar>",
-    "url": "https://github.com/ropensci/rpolyhedra",
-    "registry": "archived"
-  },
-  {
     "package": "rredlist",
     "maintainer": "William Gearty <willgearty@gmail.com>",
     "url": "https://github.com/ropensci/rredlist"
@@ -933,7 +927,7 @@
   },
   {
     "package": "RSelenium",
-    "maintainer": "Ju Yeong Kim <jkim2345@fredhutch.org>",
+    "maintainer": "Jonathan Völkle <jonathan.voelkle@web.de>",
     "url": "https://github.com/ropensci/rselenium"
   },
   {
