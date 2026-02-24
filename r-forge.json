@@ -594,6 +594,12 @@
     "subdir": "pkg/robustbase"
   },
   {
+    "package": "robustX",
+    "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
+    "url": "https://github.com/r-forge/robustbase",
+    "subdir": "pkg/robustX"
+  },
+  {
     "package": "ROI",
     "maintainer": "Stefan Theussl <Stefan.Theussl@R-Project.org>",
     "url": "https://github.com/r-forge/roi",
