@@ -1,5 +1,10 @@
 [
   {
+    "package": "bigMICE",
+    "maintainer": "Oleg Sysoev <oleg.sysoev@liu.se>",
+    "url": "https://github.com/cran/bigMICE"
+  },
+  {
     "package": "psica",
     "maintainer": "Oleg Sysoev <Oleg.Sysoev@liu.se>",
     "url": "https://github.com/cran/psica"
