@@ -428,7 +428,7 @@
   },
   {
     "package": "anndataR",
-    "maintainer": "Robrecht Cannoodt <robrecht@data-intuitive.com>",
+    "maintainer": "Robrecht Cannoodt <rcannood@gmail.com>",
     "url": "https://github.com/scverse/anndatar",
     "registry": "bioc"
   },
@@ -8895,6 +8895,12 @@
     "registry": "bioc"
   },
   {
+    "package": "OAtools",
+    "maintainer": "Aidan Shea <aidantshea@gmail.com>",
+    "url": "https://github.com/uwvirology-ngs/oatools",
+    "registry": "bioc"
+  },
+  {
     "package": "occugene",
     "maintainer": "Oliver Will <oliverrreader@gmail.com>",
     "url": "https://git.bioconductor.org/packages/occugene",
@@ -9288,7 +9294,7 @@
   {
     "package": "parglms",
     "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
-    "url": "https://git.bioconductor.org/packages/parglms",
+    "url": "https://github.com/vjcitn/parglms",
     "registry": "bioc"
   },
   {
@@ -13246,6 +13252,12 @@
     "registry": "bioc"
   },
   {
+    "package": "tidyprint",
+    "maintainer": "Chen Zhan <chen.zhan@adelaide.edu.au>",
+    "url": "https://github.com/tidyomics/tidyprint",
+    "registry": "bioc"
+  },
+  {
     "package": "tidysbml",
     "maintainer": "Veronica Paparozzi <veronicapaparozzi1@gmail.com>",
     "url": "https://github.com/veronicapaparozzi/tidysbml",
@@ -13393,6 +13405,12 @@
     "package": "topGO",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/topgo",
+    "registry": "bioc"
+  },
+  {
+    "package": "toppgene",
+    "maintainer": "Pariksheet Nanda <pan79@pitt.edu>",
+    "url": "https://git.bioconductor.org/packages/toppgene",
     "registry": "bioc"
   },
   {
