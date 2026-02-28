@@ -724,7 +724,7 @@ api2lm,jfrench
 APIS,julienrocheigepp
 apisensr,dhaine
 APL,bioc
-aplms,shuwei325
+aplms,swchouchen
 aplore3,lbraglia
 aplot,yulab-smu
 aplotExtra,yulab-smu
@@ -958,6 +958,7 @@ astgrepr,etiennebacher
 AsthmaNHANES,suntaojj
 astrochron,cran
 astroFns,cran
+astronomyengine,mitchelloharawild
 astsa,dsstoffer
 ASURAT,bioc
 asuri,bioc
@@ -7499,6 +7500,7 @@ FITSio,cran
 fitteR,markusboenn
 FitUltD,jcval94
 fitur,tomroh
+fitVARMxID,jeksterslab
 fitzRoy,jimmyday12
 fivethirtyeight,rudeboybert
 FixedPoint,s-baumann
@@ -8870,6 +8872,8 @@ ggtrendline,phdmeiwp
 ggtricks,abdoulma
 GGUM,jorgetendeiro
 ggupset,const-ae
+ggvariant,josh45-source
+ggvegan,gavinsimpson
 ggvenn,yanlinlin82
 ggVennDiagram,gaospecial
 ggversa,cran
@@ -9028,6 +9032,7 @@ glmnetcr,kelliejarcher
 glmnetr,cran
 glmnetSE,sebastianbahr
 glmnetUtils,hongooi73
+GLmom,sygstat
 GLMpack,smtorres
 glmpath,cran
 glmpathcr,kelliejarcher
@@ -10261,6 +10266,7 @@ HypergeoMat,stla
 hypergraph,bioc
 hyperoverlap,matildabrown
 hyperSpec,r-hyperspec
+hypertext,sigflux
 hypervolume,bblonder
 HYPEtools,rcapell
 hypoRF,hedigers
@@ -12201,7 +12207,7 @@ LogisticEnsembles,infinitecuriosity
 logisticPCA,andland
 LogisticRCI,cran
 logisticRR,youjin1207
-logitFD,cran
+logitFD,manuelescabias
 logitnorm,bgctw
 logitr,jhelvy
 logKDE,andrewthomasjones
@@ -14837,6 +14843,7 @@ neurohcp,muschellij2
 neuroim,bbuchsbaum
 neuroim2,bbuchsbaum
 neuroimaGene,cran
+neuromapr,lcbc-uio
 neuromplex,cran
 neuroSCC,iguanamarina
 neuRosim,ktabelow
@@ -17576,6 +17583,7 @@ psSubpathway,hanjunwei-lab
 PSsurvival,cxinyang
 Pstat,cran
 pstest,pedrohcgs
+PSTR,yukai-yang
 psvd,doulaye
 psvmSDR,c16267
 PSW,lenmade
@@ -18134,7 +18142,7 @@ radous,feddelegrand7
 radsafer,markhogue
 RADstackshelpR,cran
 Radviz,yannabraham
-radviz3d,cran
+radviz3d,fanne-stat
 RAdwords,jburkhardt
 raem,cneyens
 raer,bioc
@@ -18325,7 +18333,7 @@ ratios,solmonta
 Rato,cran
 rATTAINS,mps9506
 rattle,gjwgit
-Ravages,ozvan
+Ravages,cran
 ravecore,rave-ieeg
 ravelRy,walkerkq
 raven.rdf,raven-computing
@@ -18598,6 +18606,7 @@ RcppThread,tnagler
 rcpptimer,berrij
 RcppTN,olmjo
 RcppTOML,eddelbuettel
+RcppTskit,highlanderlab
 RcppUUID,eddelbuettel
 RcppXPtrUtils,enchufa2
 RcppXsimd,msuchard
@@ -21213,6 +21222,7 @@ servr,yihui
 sesame,bioc
 SEset,ryanoisin
 SESraster,hemingnm
+sessioncheck,djnavarro
 sessioninfo,r-lib
 set,yikeshu0611
 SETA,bioc
@@ -23872,6 +23882,7 @@ Tides,tomjscox
 TideTables,moritzmn
 tidier,talegari
 tidyAML,spsanderson
+tidyaudit,fpcordeiro
 tidybayes,mjskay
 tidyBdE,ropenspain
 tidyboot,langcog
