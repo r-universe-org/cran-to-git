@@ -331,6 +331,11 @@
     "url": "https://github.com/ropensci/ezknitr"
   },
   {
+    "package": "fastMatMR",
+    "maintainer": "Rohit Goswami <rgoswami@ieee.org>",
+    "url": "https://github.com/ropensci/fastmatmr"
+  },
+  {
     "package": "FedData",
     "maintainer": "R. Kyle Bocinsky <bocinsky@gmail.com>",
     "url": "https://github.com/ropensci/feddata"
@@ -1098,7 +1103,7 @@
   },
   {
     "package": "tracerer",
-    "maintainer": "Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>",
+    "maintainer": "Richèl J.C. Bilderbeek <rjcbilderbeek@gmail.com>",
     "url": "https://github.com/ropensci/tracerer"
   },
   {
