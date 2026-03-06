@@ -708,6 +708,7 @@ APCalign,traitecoevo
 APCanalysis,ardenewan
 apcf,rnuske
 APCI,jiahui1902
+APCinteraction,tranbaokhue
 apcluster,ubod
 aPCoA,yushushi
 apComplex,bioc
@@ -1086,6 +1087,7 @@ AutoWMM,malfly
 AuxSurvey,zjg540066169
 auxvecLASSO,gustafanderssons
 av,ropensci
+AV1R,zabis13
 available,r-lib
 avar,smac-group
 averisk,johnfergusonnuig
@@ -3043,6 +3045,7 @@ checkglobals,jorischau
 checkhelper,thinkr-open
 checkLuhn,adamjdeacon
 checkmate,mllg
+checkstring,m-muecke
 checkthat,iancero
 cheddar,quicklizard99
 cheem,nspyrison
@@ -3744,7 +3747,7 @@ comets,lucaskook
 comf,marcelschweiker
 comFuncs,tucai
 ComICS,yaelsteu
-CoMiRe,cran
+CoMiRe,tonycanale
 COMIX,shgrky
 COMMA,kimberlywebb
 commafree,t-kalinowski
@@ -4424,7 +4427,7 @@ CSCNet,shahin-roshani
 csdata,raubreywhite
 csdb,raubreywhite
 csdm,macosso
-CSDownscale,tkariyat
+CSDownscale,cran
 csdR,bioc
 cSEM,floschuberth
 CSeqpat,hz6yc3
@@ -6579,6 +6582,7 @@ epitools,cran
 epitraxr,epiforesite
 epitrix,reconhub
 EpiTxDb,bioc
+epiviz,ukhsa-collaboration
 epivizr,bioc
 epivizrChart,bioc
 epivizrData,bioc
@@ -7269,6 +7273,7 @@ fdapaceShiny,cpossinger
 fdaPDE,eleonoraarnone
 fdaPOIFD,aefdz
 fdarep,functionaldata
+fdars,sipemu
 fdaSP,maurobernardi
 fdasrvf,jdtuck
 fdatest,alessiapini
@@ -12090,6 +12095,7 @@ LJmp3converter,lijin-5673
 ljr,cran
 LKT,optimal-learning-lab
 llama,larskotthoff
+llamaR,zabis13
 llbayesireg,rosineide
 LLM,arnoxieseg
 LLMAgentR,knowusuboaky
@@ -14974,7 +14980,7 @@ nixmass,haraldschellander
 nixtlar,nixtla
 NlcOptim,cran
 nlcv,lcougnaud
-nleqslv,cran
+nleqslv,bertcarnell
 nlgeocoder,urosconf
 nlgm,cran
 NlinTS,hmamouche
@@ -18715,6 +18721,7 @@ Rdisop,bioc
 rdist,blasern
 Rdistance,tmcd82070
 rdiversity,boydorr
+rdkitpyr,andreysamokhin
 rdlearn,kkawato
 rdlocrand,gvazquezbare
 RDM,christopherstrothmann
@@ -19004,6 +19011,7 @@ relevent,cran
 relgam,kjytay
 reliabilitydiag,aijordan
 ReliabilityTheory,louisaslett
+reliacoef,eunscho
 ReliaGrowR,paulgovan
 ReliaLearnR,paulgovan
 ReliaPlotR,paulgovan
@@ -19643,7 +19651,7 @@ rmoo,evolutionary-optimization-laboratory
 RMOPI,lingweir
 Rmosek,cran
 rMOST,diversity-paretooptimal
-rmp,cran
+rmp,tonycanale
 Rmpfr,r-forge
 Rmpi,cran
 RMPSH,cran
@@ -20233,6 +20241,7 @@ rsprite2,lukaswallrich
 rsq,db969
 RSQL,ropenstats
 RSQLite,r-dbi
+RSQLite.toolkit,fab-algo
 RSqlParser,cran
 RsqMed,ytzhong
 RSquaredMI,karchjd
@@ -20901,6 +20910,7 @@ scoutbaR,divadnojnarg
 SCOUTer,cran
 scov,m-metodiev
 scp,bioc
+scPairs,zhaoqing-wang
 scPCA,bioc
 SCperf,msmarchena
 scperturbR,stefanpeidli
@@ -22641,7 +22651,7 @@ spThin,mlammens
 spTimer,ksbakar
 sptotal,highamm
 spup,ksawicka
-spuriouscorrelations,cran
+spuriouscorrelations,pachadotdev
 SpuriousMemory,zhongjun-qu
 spuRs,cran
 SPYvsSPY,shabbychef
@@ -23927,6 +23937,7 @@ tidyAML,spsanderson
 tidyaudit,fpcordeiro
 tidybayes,mjskay
 tidyBdE,ropenspain
+tidybins,harrison4192
 tidyboot,langcog
 tidybulk,bioc
 tidycat,guyabel
@@ -24508,6 +24519,7 @@ triebeard,ironholds
 triggerstrategy,cran
 tRigon,cran
 trigpoints,philmikejones
+TriLLIEM,kevinhzhao
 TriMatch,jbryer
 trimcluster,valentint
 trimetStops,graysonwhite
@@ -25675,6 +25687,7 @@ wizaRdry,belieflab
 wk,paleolimbot
 wkb,ianmcook
 wklsr,tbanken
+wkpool,hypertidy
 wktmo,leoly2017
 WLogit,clavie3009
 WLreg,marvels2031
