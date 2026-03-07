@@ -349,6 +349,7 @@ agpower,tomriddle89
 AGPRIS,edoardobaldoni
 agRee,daifengstat
 AgreementInterval,jialinx007
+agregR,rnmag
 agricolae,cran
 agricolaeplotr,jensharbers
 agridat,kwstat
@@ -2277,6 +2278,7 @@ brandr,danielvartan
 brandwatchR,phippsy
 brant,benjaminschlegel
 braQCA,cran
+brar,samch93
 brassica,cran
 bratteli,stla
 bravo,dongjli
@@ -3410,7 +3412,7 @@ clust.bin.pair,dgopstein
 ClustAll,bioc
 clustAnalytics,martirm
 ClustAssess,core-bioinformatics
-ClustBlock,cran
+ClustBlock,fabienllobellresearch
 clustComp,bioc
 ClusTCR2,cran
 clustcurv,noramvillanueva
@@ -8327,7 +8329,7 @@ gemma2,fboehm
 gemR,khliland
 gems,svizcaya
 gemtc,gertvv
-gen2stage,cran
+gen2stage,statalite
 gen3sis,project-gen3sis
 gen5helper,ylin00
 gena,bogdanpotanin
@@ -8900,6 +8902,7 @@ ggview,idmn
 ggvis,hadley
 ggvolc,loukesio
 ggvolcano,yaoxiangli
+ggwidth,davidhodge931
 ggwordcloud,lepennec
 ggx,brandmaier
 gh,r-lib
@@ -10369,6 +10372,7 @@ ICBioMark,cobrbra
 ICC,matthewwolak
 ICC.Sample.Size,cran
 ICcalib,daniel258
+iccbeta,tmsalab
 ICCbin,akhtarh
 iccCompare,jlcarrascoub
 iccCounts,jlcarrascoub
@@ -12074,6 +12078,7 @@ listarrays,t-kalinowski
 listcomp,dirkschumacher
 listcompr,patrickroocks
 listenv,futureverse
+LISTO,andrei-stoica26
 listr,cran
 listviewer,timelyportfolio
 listWithDefaults,russellpierce
@@ -12609,6 +12614,7 @@ mapindia,shubhamdutta26
 mapindiatools,shubhamdutta26
 Mapinguari,gabrielhoc
 mapiso,riatelab
+maplamina,jhumbl
 maplegend,riatelab
 mapme.biodiversity,mapme-initiative
 mapmetadata,ropensci
@@ -14002,6 +14008,7 @@ moonBook,cardiomoon
 moonboot,cdalitz
 Moonlight2R,bioc
 MoonlightR,bioc
+moonlit,msmielak
 mooplot,multi-objective
 moose,carohlfs
 mop,marlonecobos
@@ -14410,6 +14417,7 @@ MultinomialCI,cran
 multinomialLogitMix,mqbssppe
 multinomineq,danheck
 multIntTestFunc,klausherrmann
+multiobjectiveMDP,cran
 MultiObjMatch,shichaohan
 multiocc,heplersa
 MultiOrd,bernice0321
@@ -15578,6 +15586,7 @@ Open.Visualization.Academy,raymondbalise
 openai,irudnyts
 openair,openair-project
 openairmaps,openair-project
+openaiRtools,xiaoluolorn
 openalexR,ropensci
 openappr,lilyclements
 openbankeR,nik01010
@@ -17192,7 +17201,7 @@ ppcc,cran
 PPCDT,guangbaog
 PPCI,davidhofmeyr
 ppclust,cran
-ppcor,cran
+ppcor,statalite
 ppcseq,bioc
 ppcSpatial,myaseen208
 ppdiag,owenward
@@ -18966,6 +18975,7 @@ registry,cran
 RegKink,cran
 reglogit,rbgramacy
 regmed,sinnweja
+regmedint,kaz-yos
 regmhmm,henryleongstat
 regMMD,pierrealquier
 regnet,jrenstat
@@ -19790,6 +19800,7 @@ robreg3S,claudioagostinelli
 robregcc,amishra-stats
 RobRegression,godichon-baggioni
 RoBSA,fbartos
+robscale,davdittrich
 robsel,dddlab
 robservable,juba
 robslopes,cran
@@ -23950,6 +23961,7 @@ tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
 tidycode,lucymcgowan
 tidycomm,tidycomm
+TidyConsultant,harrison4192
 tidycountries,denironyx
 tidyCoverage,bioc
 tidyCpp,eddelbuettel
@@ -25148,6 +25160,7 @@ vcd,cran
 vcd2df,vcd2df
 vcdExtra,friendly
 VCFArray,bioc
+vcfheader,cran
 vcfppR,zilong-li
 vcfR,knausb
 vchartr,dreamrs
@@ -25248,6 +25261,7 @@ VICatMix,j-ackierao
 vici,sistm
 Vicus,rikenbit
 video,ashbaldry
+videogameinsightsR,econosopher
 vidger,bioc
 vietnamcode,cran
 vietnameseConverter,ecodynizw
@@ -25453,6 +25467,7 @@ waou,cran
 warabandi,harry-maan
 warbleR,marce10
 WARDEN,jsanchezalv
+WAreg,fancy575
 warehouseTools,a-dudek-ue
 WARN,tsutatsuta
 WarnEpi,pan-mingyue
@@ -25612,6 +25627,7 @@ wget,yulab-smu
 WGScan,cran
 WgtEff,joshlmiller1978
 WH,guillaumebiessy
+whalestrike,dankelley
 whapi,strategicprojects
 whatifbandit,noch05
 WhatsR,gesiscss
@@ -25786,7 +25802,7 @@ WriteXLS,marcschwartz
 wrMisc,wraff
 wrProteo,wraff
 WRS2,r-forge
-WRSS,rarabzadeh
+WRSS,rarabzad
 wrswoR,krlmlr
 WRTDStidal,fawda123
 wrTopDownFrag,wraff
@@ -25997,6 +26013,7 @@ zenstats,rfsaldanha
 ZEP,mroman-ibs
 zephyr,novonordisk-opensource
 zeroEQpart,djrichar92
+ZeroOneDists,fhernanb
 zetadiv,cran
 ZetaSuite,junhuili1017
 zfa,cran
