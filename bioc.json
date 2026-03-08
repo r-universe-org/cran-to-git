@@ -907,6 +907,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Battlefield",
+    "maintainer": "Jean-Philippe Villemin <jpvillemin@gmail.com>",
+    "url": "https://github.com/zhefrench/battlefield",
+    "registry": "bioc"
+  },
+  {
     "package": "BayesKnockdown",
     "maintainer": "William Chad Young <wmchad@uw.edu>",
     "url": "https://git.bioconductor.org/packages/BayesKnockdown",
@@ -5454,6 +5460,12 @@
     "package": "GOexpress",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/kevinrue/goexpress",
+    "registry": "bioc"
+  },
+  {
+    "package": "GOfan",
+    "maintainer": "Jianhong Ou <jou@morgridge.org>",
+    "url": "https://github.com/jianhong/gofan",
     "registry": "bioc"
   },
   {
@@ -10297,6 +10309,12 @@
     "package": "Rbec",
     "maintainer": "Pengfan Zhang <pzhang@mpipz.mpg.de>",
     "url": "https://git.bioconductor.org/packages/Rbec",
+    "registry": "bioc"
+  },
+  {
+    "package": "RBedMethyl",
+    "maintainer": "Vasileios Lemonidis <vasileios.lemonidis@uantwerpen.be>",
+    "url": "https://github.com/cmg-ua/rbedmethyl",
     "registry": "bioc"
   },
   {
