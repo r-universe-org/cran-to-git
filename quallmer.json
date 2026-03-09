@@ -3,5 +3,10 @@
     "package": "quallmer",
     "maintainer": "Seraphine F. Maerz <seraphine.maerz@unimelb.edu.au>",
     "url": "https://github.com/quallmer/quallmer"
+  },
+  {
+    "package": "quallmer.app",
+    "maintainer": "Seraphine F. Maerz <seraphine.maerz@unimelb.edu.au>",
+    "url": "https://github.com/quallmer/quallmer.app"
   }
 ]
