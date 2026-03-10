@@ -1603,6 +1603,7 @@ belex,milosvil
 belg,r-spatialecology
 BElikelihood,cran
 bellreg,fndemarqui
+BEMPdata,janfreihardt
 bench,r-lib
 benchdamic,bioc
 benchden,thmild
@@ -2851,6 +2852,7 @@ cdlTools,jlisic
 CDM,alexanderrobitzsch
 CDMConnector,darwin-eu
 cdmTools,pablo-najera
+cdnbcr,rdmatheus
 cdom,pmassicotte
 cdparcoord,cran
 cdrcR,aelissa
@@ -2970,6 +2972,7 @@ CFilt,jessicakubrusly
 CFM,guangbaog
 cfmortality,aminadibi
 CFO,cran
+cforecast,timginker
 cforward,muschellij2
 cfr,epiverse-trace
 cft,earthlab
@@ -6105,6 +6108,7 @@ echos,ahaeusser
 ecic,frederickluser
 ecipex,cran
 eclipseplot,pevid-sci
+eClosure,jellegoeman
 ECLRMC,cran
 ecm,gaurbans
 ecmwfr,bluegreen-labs
@@ -6718,6 +6722,7 @@ estatapi,yutannihilation
 estats,cran
 EstCRM,czopluoglu
 EstemPMM,szabolotnii
+EstHTSeed,hardikghosh911
 estimability,rvlenth
 EstimateBreed,willyanjnr
 EstimateGroupNetwork,cran
@@ -7821,6 +7826,7 @@ fourierin,gbasulto
 fourinarow,kstreet13
 FourScores,cran
 FourWayHMM,cran
+fozziejoin,jonddowns
 fpa,lawrencecao
 fPASS,salilkoner
 fpc,chrhennig
@@ -11539,7 +11545,6 @@ KnapsackSampling,chinsoon12
 KneeArrower,cran
 knfi,syoung9836
 knitcitations,cboettig
-knitLatex,coachshea
 knitr,yihui
 knitrBootstrap,jimhester
 knitrdata,dmkaplan2000
@@ -12807,7 +12812,7 @@ maxEff,tingtingzhan
 maxent.ot,connormayer
 MaxentVariableSelection,alj1983
 maximin,sunf16
-MaximinInfer,cran
+MaximinInfer,anonymous-researcher-123243
 MaxIntTools,cran
 maxLik,otoomet
 maxlike,roelandkindt
@@ -16410,6 +16415,7 @@ pensim,waldronlab
 pensynth,vankesteren
 peopleanalytics,cstarbuck
 peopleanalyticsdata,keithmcnulty
+pep725,matthias-da
 pEPA,kdrachal
 PEPBVS,kcharmpi
 pepe,seymakalay
@@ -16609,7 +16615,6 @@ photobiologySun,aphalo
 photobiologyWavebands,aphalo
 PhotoGEA,eloch216
 photon,jslth
-photosearcher,ropensci
 PhotosynQ,photosynq
 photosynthesis,cdmuir
 photosynthesisLRC,heliotropichuman
@@ -19192,6 +19197,7 @@ restimizeapi,thospfuller
 RESTK,cran
 restoptr,dimitri-justeau
 RestoreNet,delcore-luca
+restrictR,gcol33
 restriktor,cran
 RestRserve,rexyai
 result,soumyaray
@@ -19276,6 +19282,7 @@ rfold,feddelegrand7
 Rfolding,cran
 rfordummies,rfordummies
 Rforestry,forestry-labs
+rformat,cornball-ai
 RFormatter,evolutics
 rfPermute,swfsc
 RFplus,jonnathan-landi
@@ -19802,6 +19809,7 @@ RobMixReg,changwn
 robnptests,s-abbas
 roboBayes,sth1402
 robomit,seschaub
+ROBOSRMSMOTE,cran
 robotoolbox,dickoa
 robotstxt,ropensci
 RobPC,hsnbulut
@@ -20152,6 +20160,7 @@ RRmorph,cran
 RRNA,jlp-bioinf
 rrnni,biods
 rroad,vsimko
+rrobot,mandymejia
 rrpack,ohyoo
 RRphylo,pasraia
 RRPP,mlcollyer
@@ -20439,7 +20448,6 @@ runstats,martakarass
 Runuran,unuran
 ruODK,ropensci
 rupturesRcpp,edelweiss611428
-rusda,ropensci
 rush,mlr-org
 rusk,thinkr-open
 rust,paulnorthrop
@@ -20897,7 +20905,7 @@ scMET,bioc
 scMetaTraj,dr-xygreg
 scmeth,bioc
 scMitoMut,bioc
-scModels,lisaamrhein
+scModels,cran
 scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
@@ -22936,7 +22944,7 @@ StatsTFLValR,kalsem
 statswalesr,jamie-ralph
 statTarget,bioc
 StatTeacherAssistant,ccasement
-StatTools,cran
+StatTools,reesedavid132
 statuser,urisohn
 STB,cran
 stbl,wranglezone
