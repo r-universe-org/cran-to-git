@@ -1,5 +1,10 @@
 [
   {
+    "package": "clustvarsel",
+    "maintainer": "Luca Scrucca <luca.scrucca@unibo.it>",
+    "url": "https://github.com/cran/clustvarsel"
+  },
+  {
     "package": "dispmod",
     "maintainer": "Luca Scrucca <luca.scrucca@unipg.it>",
     "url": "https://github.com/cran/dispmod"
@@ -8,6 +13,21 @@
     "package": "GA",
     "maintainer": "Luca Scrucca <luca.scrucca@unibo.it>",
     "url": "https://github.com/luca-scr/ga"
+  },
+  {
+    "package": "mclust",
+    "maintainer": "Luca Scrucca <luca.scrucca@unibo.it>",
+    "url": "https://github.com/cran/mclust"
+  },
+  {
+    "package": "mclustAddons",
+    "maintainer": "Luca Scrucca <luca.scrucca@unibo.it>",
+    "url": "https://github.com/cran/mclustAddons"
+  },
+  {
+    "package": "msir",
+    "maintainer": "Luca Scrucca <luca.scrucca@unibo.it>",
+    "url": "https://github.com/cran/msir"
   },
   {
     "package": "ppgmmga",

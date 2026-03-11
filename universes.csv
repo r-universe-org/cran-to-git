@@ -800,6 +800,7 @@ archetyper,mkorvink
 archetypes,mjaeugster
 archiDART,archidart
 archipelago,cran
+ArchipelagoEngine,njtalingting
 ARCHISSUR,morgane-m
 archive,r-lib
 archiveRetriever,liserman
@@ -2094,6 +2095,7 @@ BMA,hanase
 bmabart,qingzhaoyu
 BMAmevt,lbelzile
 bmass,mturchin20
+bmco,xynthiakavelaars
 BMconcor,fatelarico
 bmem,johnnyzhz
 BMEmapping,kinsprideduah
@@ -2207,7 +2209,7 @@ bootsurv,zmashreghi
 bootSVD,aaronjfisher
 bootUR,smeekes
 bootwar,mightymetrika
-BootWPTOS,cran
+BootWPTOS,guynason
 BOP2FE,belayb
 Boptbd,cran
 bor,davidnsousa
@@ -2357,6 +2359,7 @@ brunnermunzel,toshi-ara
 brxx,joshuaraytanzer
 bs4cards,djnavarro
 bs4Dash,rinterface
+bs4Dashkit,prigasg
 BSagri,cran
 bsam,ianjonsen
 bsamGP,beomjopark
@@ -3478,7 +3481,7 @@ clustSIGNAL,bioc
 clustTMB,andrea-havron
 clustur,schlosslab
 ClustVarLV,evigneau
-clustvarsel,cran
+clustvarsel,luca-scr
 clv,cran
 clValid,vpihur
 CLVTools,bachmannpatrick
@@ -3752,6 +3755,7 @@ comclim,bblonder
 coMethDMR,bioc
 cometr,comet-ml
 comets,lucaskook
+comexr,strategicprojects
 comf,marcelschweiker
 comFuncs,tucai
 ComICS,yaelsteu
@@ -4137,7 +4141,7 @@ COSNet,bioc
 cosso,cran
 cossonet,cran
 COST,cran
-costat,cran
+costat,guynason
 costsensitive,david-cortes
 COTAN,bioc
 CoTiMA,cotima
@@ -4168,7 +4172,7 @@ countts,cran
 countyhealthR,countyhealthrankings
 couplr,gcol33
 coursekata,coursekata
-covadap,cran
+covadap,rfrieri91-sys
 covafillr,calbertsen
 covalchemy,namanlab
 covatest,sandradeiaco
@@ -4908,7 +4912,7 @@ DDD,rsetienne
 dde,mrc-ide
 ddecompose,cran
 DDESONN,mathatter
-DDHFm,cran
+DDHFm,guynason
 ddi,kuriwaki
 ddiv,meganmorbitzer
 DDIwR,dusadrian
@@ -5870,6 +5874,7 @@ DTDA.cif,sidoruvigo
 DTDA.ni,sidoruvigo
 DTEAssurance,jamesalsbury
 DTEBOP2,zhongheng-biostatistics
+DTFM,guangbaog
 dtGAP,hanmingwu1103
 dtgiw,atchanut
 dti,ktabelow
@@ -6141,6 +6146,7 @@ econet,change-prin
 EcoNetGen,cboettig
 econetwork,vmielecnrs
 EconGeo,paballand
+EcoNiche,yedeng-lab
 econid,teal-insights
 economiccomplexity,pachadotdev
 econtools,tidy-intelligence
@@ -6376,6 +6382,7 @@ emayili,datawookie
 emBayes,yuwen-l
 EMbC,jgarriga65
 embed,tidymodels
+EmbedSOM,exaexa
 embryogrowth,marc-girondot
 emburden,ericscheier
 EMC2,ampl-psych
@@ -8862,6 +8869,7 @@ ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
 ggskewboxplots,mcavs
+ggsky,uskovgs
 ggsmc,richardgeveritt
 ggsoccer,torvaney
 ggsolvencyii,vanzanden
@@ -9160,6 +9168,7 @@ gmvjoint,jamesmurray7
 gmwmx,lionelvoirol
 gmwmx2,smac-group
 gMWT,fischuu
+GMX,rwa-thebook
 GNAR,cran
 GNE,r-forge
 GNET2,bioc
@@ -9678,7 +9687,7 @@ h3r,symbolixau
 h5lite,cmmr
 h5mread,bioc
 h5vc,bioc
-haarfisz,cran
+haarfisz,guynason
 hablar,davidsjoberg
 habtools,jmadinlab
 HAC,ankitiitm
@@ -10249,7 +10258,7 @@ hwig,robitalec
 hwordcloud,r-stata
 hwriter,greg-cotam
 hwsdr,bluegreen-labs
-hwwntest,cran
+hwwntest,guynason
 HybridDesign,cran
 hybridEHR,cran
 HybridExpress,bioc
@@ -10927,10 +10936,10 @@ iotables,ropengov
 iotarelr,fberding
 iotools,s-u
 IP,rucknium
-ip2location,ip2location
+ip2location,ip2location-com
 ip2location.io,cran
-ip2locationio,ip2location
-ip2proxy,ip2location
+ip2locationio,ip2location-com
+ip2proxy,ip2location-com
 ip2whois,ip2whois
 ipa,rossellhayes
 ipaddress,davidchall
@@ -12209,7 +12218,7 @@ LocaTT,urodelan
 locfdr,hrpcisd
 locfit,andyliaw-mrk
 loci2path,bioc
-locits,cran
+locits,guynason
 Lock5Data,statmanrobin
 LocKer,cran
 locpol,bquast
@@ -12429,6 +12438,7 @@ lubridate,tidyverse
 lubrilog,arrismo
 lucas,momut1
 lucid,kwstat
+lucidr,hyperverse-r
 LUCIDus,uscbiostats
 ludic,borishejblum
 lue,manidhill0n
@@ -12910,8 +12920,8 @@ MCL,rforaita
 mclink,liuyanglee
 mclm,masterclm
 mclogit,melff
-mclust,cran
-mclustAddons,cran
+mclust,luca-scr
+mclustAddons,luca-scr
 mclustcomp,kisungyou
 MCM,jiahui1902
 mcmapper,cran
@@ -14243,7 +14253,7 @@ msImpute,bioc
 MSIMST,rh8liuqy
 MSinference,marina-khi
 MSiP,mrbakhsh
-msir,cran
+msir,luca-scr
 mslp,bioc
 msltrend,cran
 msm,chjackson
@@ -16671,6 +16681,7 @@ piano,bioc
 piar,marberts
 PiC,rupppy
 picante,skembel
+picasso,tourzhao-edu
 PICB,bioc
 PICBayes,cran
 picClip,deppemj
@@ -16819,7 +16830,7 @@ plattice,cran
 Platypus,cran
 plausibounds,simonfreyaldenhoven
 plavaan,marklhc
-play,joe-chelladurai
+play,cran
 player,rossellhayes
 PlayerChart,amalpanwar
 PlayerRatings,ste6an-hub
@@ -18280,7 +18291,7 @@ RandomProjectionTest,juanxitas33
 randomUniformForest,cran
 Randomuseragent,fangzhou-xie
 RandomWalker,spsanderson
-randotools,ctu-bern
+randotools,dcr-unibe-ch
 randPack,bioc
 randPedPCA,bryo-han
 RandPro,siddhunitpy
@@ -18323,6 +18334,7 @@ RAP,rudth
 Rapi,datarapi
 rapiclient,bergant
 RApiDatetime,eddelbuettel
+rapidcodeR,cran
 RapidFuzz,strategicprojects
 rapidjsonr,cran
 rapidoc,meztez
@@ -18800,6 +18812,7 @@ read.gb,largon-denayah
 read.gt3x,tuomonieminen
 readABF,zabolekar
 readabs,mattcowgill
+readaec,charlescoverdale
 readapra,javanderwal
 readbitmap,jefferis
 readBrukerFlexData,sgibb
@@ -19635,6 +19648,7 @@ RMCLab,aalfons
 rmcmc,ucl
 rmcorr,lmarusich
 rmda,mdbrown
+rmdcev,plloydsmith
 RmdConcord,dmurdoch
 rmdfiltr,crsh
 rmdformats,juba
@@ -19956,6 +19970,7 @@ ronfig,timtaylor
 ROntoTools,bioc
 Rook,evanbiederstedt
 ROOPSD,yrobink
+ROOT,peterliu599
 roots,cran
 RootscanR,sophiekersting
 RootsExtremaInflections,dchristop
@@ -20905,7 +20920,7 @@ scMET,bioc
 scMetaTraj,dr-xygreg
 scmeth,bioc
 scMitoMut,bioc
-scModels,cran
+scModels,lisaamrhein
 scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
@@ -25158,6 +25173,7 @@ vascr,jameshucklesby
 vasicek,statcompute
 vasicekreg,jmazucheli
 VaSP,bioc
+vaster,hypertidy
 vatcheckapi,dominikkukacka
 vaultr,vimc
 vaxineR,peiyuliu-biostats
@@ -25432,7 +25448,7 @@ vsmi,cran
 vsn,bioc
 VSOLassoBag,chywang17
 vsp,rohelab
-vstdct,cran
+vstdct,kklockmann
 vstsr,ashbaldry
 VSURF,robingenuer
 VsusP,nilson01
@@ -25513,7 +25529,7 @@ Wats,ouhscbbmc
 watson,lsablica
 wav,mlverse
 wavClusteR,bioc
-waveband,cran
+waveband,guynason
 waved,michaelstats
 WaveletANN,ranjitstat
 WaveletArima,ranjitstat
@@ -25535,7 +25551,7 @@ WaverR,cran
 waves,gorelab
 WaveSampling,rjauslin
 waveslim,bjw34032
-wavethresh,cran
+wavethresh,guynason
 wavScalogram,cran
 waydown,pabrod
 WayFindR,cran
@@ -25603,6 +25619,7 @@ webuse,leeper
 webutils,jeroen
 wec,rensenieuwenhuis
 weed,rammkripa
+wefnexus,lalitrolaniya
 WEGE,harithmorgadinho
 wehoop,sportsdataverse
 WeibullFit,thiagomini
