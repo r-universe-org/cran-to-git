@@ -2145,6 +2145,7 @@ bodenmiller,yannabraham
 bodsr,dipad-fran-bryden
 bodycomp,gleidsonuern
 bodycompref,p-mq
+boe,charlescoverdale
 boggy,ramiromagno
 boilerpipeR,mannau
 boilerplate,go-bayes
@@ -4846,7 +4847,6 @@ dbi.table,kjellpk
 DBItest,r-dbi
 dblcens,yfyang86
 dBlockmodeling,aleszib
-dblr,rnorm
 DBmaps,akshat09867
 dbMC,tienmt
 DBModelSelect,shkoeneman
@@ -5719,7 +5719,6 @@ dpkg,cole-brokamp
 dplR,opendendro
 dplyr,tidyverse
 dplyrAssist,cardiomoon
-dpm,jacob-long
 DPP,lmavila
 DPpack,sgiddens
 dppmix,djhshih
@@ -6721,7 +6720,6 @@ espadon,cran
 esquisse,dreamrs
 esreg,bayerse
 ess,mlindsk
-essentials,cran
 essHist,housenli
 essurvey,ropensci
 estadistica,cran
@@ -7242,6 +7240,7 @@ favnums,cran
 favr,lj-jenkins
 FAwR,cran
 fbar,maxconway
+fbardl,cran
 fBasics,cran
 fbati,cran
 FBCRM,cran
@@ -7765,7 +7764,6 @@ forecasteR,promidat
 forecastHybrid,ellisp
 ForecastingEnsembles,infinitecuriosity
 forecastLSW,adunaic
-forecastML,nredell
 forecastSNSTS,tobiaskley
 FoReco,danigiro
 ForeComp,mcmcs
@@ -8119,7 +8117,6 @@ GAD,cran
 GADAG,magalichampion
 gadget3,gadget-framework
 gadjid,sweichwald
-gafit,cran
 gaga,bioc
 GAGAs,cran
 GAGBLUP,cran
@@ -9285,7 +9282,6 @@ GPArotation,r-forge
 GPBayes,pulongma
 gpboost,fabsig
 gpbStat,nandp1
-GPCERF,nsaph-software
 GPCMlasso,schaubert
 gpcp,cmn92
 GPCsign,morgane-m
@@ -10095,6 +10091,7 @@ hmmTMB,theomichelot
 HMP,cran
 HMPTrees,cran
 HMR,cran
+hmrc,charlescoverdale
 hms,tidyverse
 Hmsc,hmsc-r
 hmsidwR,fgazzelloni
@@ -10702,6 +10699,7 @@ IncomPair,cran
 incR,pablocapilla
 inctools,eduardgrebe
 incubate,lenz99
+INCVCommunityDetection,ivylinzhang97
 inDAGO,indagoverse
 INDEED,bioc
 indelmiss,cran
@@ -10892,7 +10890,6 @@ intmed,ncysur
 IntNMF,cran
 intradayModel,convexfi
 IntramiRExploreR,bioc
-inTrees,softwaredeng
 intRegGOF,cran
 INTRIGUE,mkleinsa
 intRinsic,fradenti
@@ -12162,6 +12159,7 @@ lmm,jinghuazhao
 LMMELSM,stephensrmmartin
 lmmot,mnwright
 lmmpar,fulyagokalp
+lmmprobe,anjazgodic
 LMMsolver,biometris
 LMMstar,bozenne
 LMN,mlysy
@@ -15041,7 +15039,6 @@ nloptr,astamm
 NLP,kurthornik
 NLPclient,florianschwendinger
 nlpembeds,thomaschln
-nlpred,benkeser
 nlpsem,veronica0206
 NLPutils,kurthornik
 NLPwavelet,nilotpalsanyal
@@ -15583,6 +15580,7 @@ onmaRg,wiiison
 onnx,onnx
 OnomasticDiversity,mjginzo
 onpoint,r-spatialecology
+ons,charlescoverdale
 onsr,kvasilopoulos
 onsvplot,pabsantos
 onsvtables,onsv
@@ -16101,7 +16099,6 @@ params,sahilseth
 paramsim,sta189332
 paramtest,jeff-hughes
 paran,alexisdinno
-ParBayesianOptimization,anothersamwilson
 parcats,erblast
 parcr,systemsbioinformatics
 ParDNAcopy,gsun2018
@@ -17713,6 +17710,7 @@ PublicationBias,mathurlabstanford
 PublicationBiasBenchmark,fbartos
 publipha,jonasmoss
 Publish,tagteam
+PubMatrixR,toledoem
 pubmed.mineR,ramuigibnew
 PubMedMining,cran
 pubmedR,massimoaria
@@ -18836,6 +18834,7 @@ readMzXmlData,sgibb
 readNSx,dipterix
 readobj,jefferis
 readODS,ropensci
+readoecd,charlescoverdale
 readOffice,bmewing
 readosense,jogaudard
 ReadqPCR,bioc
@@ -19463,7 +19462,6 @@ Rigma,alekoure
 rigr,statdivlab
 Rigraphlib,bioc
 rigvf,bioc
-RIIM,zoezhu098
 riingo,business-science
 Rilostat,ilostat
 rim,rcst
@@ -19671,6 +19669,7 @@ RMFM,feiyoung
 Rmfrac,nemini-s
 rmgarch,alexiosg
 rMIDAS,midasverse
+rMIDAS2,tsrobinson
 rminer,paulocortez4
 rminqa,ypan1988
 rmio,privefl
@@ -22858,6 +22857,7 @@ StackImpute,mkleinsa
 stacking,onogi
 stacks,tidymodels
 stacomirtools,cedricbriandgithub
+stacr,chrislyonsky
 STADyUM,bioc
 stagedtrees,stagedtrees
 stagePop,helenkettle
@@ -23756,6 +23756,7 @@ temperatureresponse,low-decarie
 templateICAr,mandymejia
 templates,wahani
 templr,mascotnum
+tempodisco,kinleyid
 Temporal,zrmacc
 TemporalForest,sisishao
 TemporalGSSA,cran
@@ -25343,7 +25344,6 @@ virustotal,themains
 visa,kang-yu
 visachartR,chris-demartini
 visae,dnzmarcio
-visaOTR,treerlikesu
 VisCollin,friendly
 viscomp,georgiosseitidis
 viscomplexr,peterbiber
@@ -25855,6 +25855,7 @@ wskm,cran
 wsMed,yangzhen1999
 wsprv,statliang89
 wsrf,simonyansenzhao
+wstats,cran
 wstdiff,cran
 wsyn,reumandc
 wtest,anotherruisun
@@ -25966,7 +25967,9 @@ xslt,ropensci
 xsp,cran
 xSub,zhukovyuri
 xtable,r-forge
+xtdhcoint,muhammedalkhalaf
 xtdml,cran
+xtpqardl,cran
 xtranat,fdepaolis
 xts,joshuaulrich
 xtsum,macosso

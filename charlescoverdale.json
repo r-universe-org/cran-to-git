@@ -1,12 +1,32 @@
 [
   {
+    "package": "boe",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/boe"
+  },
+  {
+    "package": "hmrc",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/hmrc"
+  },
+  {
     "package": "inflateR",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/inflater"
   },
   {
+    "package": "ons",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/ons"
+  },
+  {
     "package": "readaec",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/readaec"
+  },
+  {
+    "package": "readoecd",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/readoecd"
   }
 ]
