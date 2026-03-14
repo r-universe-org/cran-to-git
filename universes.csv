@@ -119,6 +119,7 @@ ActiSleep,n-szeto
 activAnalyzer,pydemull
 activatr,dschafer
 ActiveDriver,reimand0
+ActiveDriverWGS,reimand0
 activegp,cran
 ActiveLearning4SPM,capezza
 ActivePathways,reimandlab
@@ -535,7 +536,6 @@ AMARETTO,bioc
 amazonadsR,pablosanmar
 amazons3R,pablosanmar
 amazonspR,pablosanmar
-amberr,obiba
 ambient,thomasp85
 ambiorix,ambiorix-web
 ambiR,niva-denmark
@@ -559,6 +559,7 @@ aMNLFA,vtcole
 AmoudSurv,abdisalammuse
 AMOUNTAIN,bioc
 amp,adam-s-elder
+amp.dm,leidenadvancedpkpd
 ampd,cran
 AmpGram,michbur
 ampir,legana
@@ -1440,7 +1441,7 @@ BayesPower,tkwong3004
 BayesPPD,angieshen6
 BayesPPDSurv,cran
 BayesProject,ghahn-hsph
-bayesQR,driesbenoit
+bayesQR,ugent-cvamo
 bayesQRsurvey,torodriguezt
 bayesRecon,idsia
 bayesreg,cran
@@ -2323,6 +2324,7 @@ bridger2,imamachi-n
 bridgesampling,quentingronau
 bridgr,marcburri
 brif,profyliu
+brightspaceR,pcstrategyandopsco
 briKmeans,aurora-torrente
 BRINDA,hanqiluo
 brinton,sciencegraph
@@ -2762,6 +2764,7 @@ causalSLSE,pchausse
 causalweight,hugometric
 CausCor,sugym
 causens,kuan-liu-lab
+caustests,muhammedalkhalaf
 CautiousLearning,cran
 CAvariants,rosarialo
 caviarpd,dbdahl
@@ -4955,6 +4958,7 @@ DECIDE,christianak
 decido,hypertidy
 DECIPHER,bioc
 decision,cran
+decisionpaths,causalfragility-lab
 decisionSupport,eikeluedeling
 deckgl,crazycapivara
 declared,dusadrian
@@ -5271,6 +5275,7 @@ DiallelAnalysisR,myaseen208
 dialr,socialresearchcentre
 dialrjars,socialresearchcentre
 dials,tidymodels
+dialvalidator,pcstrategyandopsco
 diaplt,osubera
 diario,strategicprojects
 diathor,limnolab
@@ -7900,6 +7905,7 @@ fredr,sboysel
 free,ly129
 freealg,robinhankin
 freebird,laylaparast
+freebsdcontribs,chrislongros
 freecurrencyapi,dominikkukacka
 freedom,sva-se
 freegroup,robinhankin
@@ -8136,7 +8142,6 @@ galisats,lechjaszowski
 gallery,txiao95
 GALLO,pablobio
 galts,jbytecode
-galvanizer,jonlinca
 gam,trevorhastie
 gam.hp,laijiangshan
 gamair,cran
@@ -9751,6 +9756,7 @@ Hassani.SACF,leilamarvian
 Hassani.Silva,leilamarvian
 hassediagrams,gsk-biostatistics
 hatchR,bmait101
+hatemicoint,muhammedalkhalaf
 havel,andrewghazi
 haven,tidyverse
 hawkes,riadhzaatour
@@ -10777,6 +10783,7 @@ ini,dvdscripter
 injectoR,lev-kuznetsov
 InjurySeverityScore,dajuntian
 injurytools,lzumeta
+inkaR,ofurkancoban
 INLABMA,becarioprecario
 inlabru,inlabru-org
 INLAjoint,denisrustand
@@ -11068,6 +11075,7 @@ ISLR2,trevorhastie
 ISM,gunjan15
 ismev,cran
 ismtchile,mrosas47
+ISMtools,tangyi82
 isni,cran
 isnullptr,jonasfoe
 Iso,rolfturner
@@ -15384,6 +15392,7 @@ oblicubes,trevorld
 obliqueRSF,bcjaeger
 obm,miklosban
 OBMbpkg,john-snyder
+obr,charlescoverdale
 OBRE,cran
 Observation,paulhibbing
 OBsMD,cran
@@ -16949,7 +16958,6 @@ pMEM,guenardg
 pmetar,prcwiek
 pmev,david-hammond
 PMEvapotranspiration,himadriiasri
-pmhtutorial,cran
 pminternal,stephenrho
 pmlbr,epistasislab
 pmledecon,cran
@@ -17813,6 +17821,7 @@ QAIG,shubh-b
 qap,mhahsler
 qape,cran
 Qapprox,wpihongzhang
+qardlr,muhammedalkhalaf
 qatarcars,profmusgrave
 qbinplots,edwindj
 qbld,ayushmclaren
@@ -18000,7 +18009,6 @@ qualV,r-forge
 qualvar,joelgombin
 QUALYPSO,guillaumeevin
 QuanDA,cran
-Quandl,quandl
 quantbayes,cran
 QuantBondCurves,camodays1
 quantCurves,nparamestimcurves
@@ -20427,7 +20435,6 @@ rtry,mpi-bgc-functional-biogeography
 rts,babaknaimi
 rts2,samueliwatson
 RTSA,annelyng
-rtsdata,cran
 RtsEva,alowis
 Rtsne,jkrijthe
 rtson,tercen
@@ -20560,6 +20567,7 @@ S4Arrays,bioc
 S4DM,bmaitner
 S4Vectors,bioc
 S7,rconsortium
+S7schema,novonordisk-opensource
 saasCNV,zhangzhongyang16
 sabre,nowosad
 sac,cran
@@ -21649,6 +21657,7 @@ sievePH,mjuraska
 sievetest,cran
 SiFINeT,cran
 sig,richierocks
+SigBridgeRUtils,exceret
 SigCheck,bioc
 sigclust,cran
 sigFeature,bioc
@@ -23943,6 +23952,7 @@ thestats,analyticsresearchlab
 THETASVM,cran
 thgenetics,cran
 thief,robjhyndman
+ThinkingGrid,a-kulkarn
 thinkr,thinkr-open
 this.path,arcadeantics
 thisplot,mengxu98
@@ -25429,6 +25439,7 @@ voteogram,hrbrmstr
 votesmart,decktools
 votesys,cran
 vottrans,example237
+voucher,visruthsk
 vov,tylerlittlefield
 vowels,tskendal
 voxel,angelgar
@@ -25967,6 +25978,8 @@ xslt,ropensci
 xsp,cran
 xSub,zhukovyuri
 xtable,r-forge
+xtbhst,muhammedalkhalaf
+xtcspqardl,muhammedalkhalaf
 xtdhcoint,muhammedalkhalaf
 xtdml,cran
 xtpqardl,cran
@@ -26031,7 +26044,7 @@ YRmisc,peteryinr
 yrnd,williamarrata
 YTAnalytics,davisj95
 yuima,yuimaproject
-yuimaGUI,eguidotti
+yuimaGUI,yuimaproject
 yulab.utils,yulab-smu
 yum,cran
 yyjsonr,coolbutuseless

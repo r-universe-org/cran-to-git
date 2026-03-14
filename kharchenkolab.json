@@ -2,7 +2,8 @@
   {
     "package": "conos",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
-    "url": "https://github.com/kharchenkolab/conos"
+    "url": "https://github.com/kharchenkolab/conos",
+    "registry": "archived"
   },
   {
     "package": "leidenAlg",
@@ -12,7 +13,8 @@
   {
     "package": "N2R",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
-    "url": "https://github.com/kharchenkolab/n2r"
+    "url": "https://github.com/kharchenkolab/n2r",
+    "registry": "archived"
   },
   {
     "package": "numbat",
@@ -22,7 +24,8 @@
   {
     "package": "pagoda2",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
-    "url": "https://github.com/kharchenkolab/pagoda2"
+    "url": "https://github.com/kharchenkolab/pagoda2",
+    "registry": "archived"
   },
   {
     "package": "sccore",

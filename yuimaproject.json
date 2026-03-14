@@ -3,5 +3,10 @@
     "package": "yuima",
     "maintainer": "Yuta Koike <kyuta@ms.u-tokyo.ac.jp>",
     "url": "https://github.com/yuimaproject/yuima"
+  },
+  {
+    "package": "yuimaGUI",
+    "maintainer": "Emanuele Guidotti <emanuele.guidotti@usi.ch>",
+    "url": "https://github.com/yuimaproject/yuimagui"
   }
 ]
