@@ -10,6 +10,11 @@
     "url": "https://github.com/muhammedalkhalaf/caustests"
   },
   {
+    "package": "fbardl",
+    "maintainer": "Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>",
+    "url": "https://github.com/cran/fbardl"
+  },
+  {
     "package": "hatemicoint",
     "maintainer": "Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>",
     "url": "https://github.com/muhammedalkhalaf/hatemicoint"
@@ -33,5 +38,10 @@
     "package": "xtdhcoint",
     "maintainer": "Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>",
     "url": "https://github.com/muhammedalkhalaf/xtdhcoint"
+  },
+  {
+    "package": "xtpqardl",
+    "maintainer": "Muhammad Alkhalaf <muhammedalkhalaf@gmail.com>",
+    "url": "https://github.com/muhammedalkhalaf/xtpqardl"
   }
 ]

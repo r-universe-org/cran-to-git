@@ -55,12 +55,6 @@
     "url": "https://github.com/stla/datetimerangepicker"
   },
   {
-    "package": "EigenR",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/eigenr",
-    "registry": "archived"
-  },
-  {
     "package": "findInFiles",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/findinfiles"
@@ -81,21 +75,9 @@
     "url": "https://github.com/stla/gbeta"
   },
   {
-    "package": "gfiExtremes",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/gfiextremes",
-    "registry": "archived"
-  },
-  {
     "package": "gfiUltra",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/gfiultra"
-  },
-  {
-    "package": "giacR",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/giacr",
-    "registry": "archived"
   },
   {
     "package": "gmpoly",
@@ -113,12 +95,6 @@
     "url": "https://github.com/stla/html2r"
   },
   {
-    "package": "HypergeoMat",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/hypergeomat",
-    "registry": "archived"
-  },
-  {
     "package": "interpolation",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/interpolation",
@@ -133,12 +109,6 @@
     "package": "intmap",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/intmap"
-  },
-  {
-    "package": "jack",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/jackr",
-    "registry": "archived"
   },
   {
     "package": "jacobi",
@@ -211,33 +181,9 @@
     "url": "https://github.com/stla/qsplines"
   },
   {
-    "package": "qspray",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/qspray",
-    "registry": "archived"
-  },
-  {
     "package": "rAmCharts4",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/ramcharts4"
-  },
-  {
-    "package": "RationalMatrix",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/rationalmatrix",
-    "registry": "archived"
-  },
-  {
-    "package": "ratioOfQsprays",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/ratioofqsprays",
-    "registry": "archived"
-  },
-  {
-    "package": "RCDT",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/rcdt",
-    "registry": "archived"
   },
   {
     "package": "RcppColors",
@@ -298,12 +244,6 @@
     "package": "swipeR",
     "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
     "url": "https://github.com/stla/swiper"
-  },
-  {
-    "package": "symbolicQspray",
-    "maintainer": "Stéphane Laurent <laurent_step@outlook.fr>",
-    "url": "https://github.com/stla/symbolicqspray",
-    "registry": "archived"
   },
   {
     "package": "syt",
