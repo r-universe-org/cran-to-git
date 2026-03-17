@@ -3,5 +3,10 @@
     "package": "decisionpaths",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/decisionpaths"
+  },
+  {
+    "package": "MultiSpline",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/multispline"
   }
 ]
