@@ -1129,6 +1129,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocBuildReporter",
+    "maintainer": "Lori Shepherd <lori.shepherd@roswellpark.org>",
+    "url": "https://github.com/lshep/biocbuildreporter",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocCheck",
     "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/bioccheck",
@@ -4677,6 +4683,18 @@
     "registry": "bioc"
   },
   {
+    "package": "fourSynergy",
+    "maintainer": "Sophie Wind <sophie.wind@uni-muenster.de>",
+    "url": "https://github.com/sophiewind/foursynergy",
+    "registry": "bioc"
+  },
+  {
+    "package": "fRagmentomics",
+    "maintainer": "Killian Maudet <killian.maudet@gustaveroussy.fr>",
+    "url": "https://github.com/elsab-lab/fragmentomics",
+    "registry": "bioc"
+  },
+  {
     "package": "FRASER",
     "maintainer": "Christian Mertes <mertes@in.tum.de>",
     "url": "https://github.com/gagneurlab/fraser",
@@ -7536,6 +7554,12 @@
     "package": "metapone",
     "maintainer": "Tianwei Yu <yutianwei@cuhk.edu.cn>",
     "url": "https://git.bioconductor.org/packages/metapone",
+    "registry": "bioc"
+  },
+  {
+    "package": "MetaProViz",
+    "maintainer": "Christina Schmidt <christina.schmidt.science@gmail.com>",
+    "url": "https://github.com/saezlab/metaproviz",
     "registry": "bioc"
   },
   {
@@ -11848,6 +11872,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SEMPLR",
+    "maintainer": "Grace Kenney <kenney.grace6@gmail.com>",
+    "url": "https://github.com/grkenney/semplr",
+    "registry": "bioc"
+  },
+  {
     "package": "seq.hotSPOT",
     "maintainer": "Sydney Grant <sydney.grant@roswellpark.org>",
     "url": "https://github.com/sydney-grant/seq.hotspot",
@@ -12301,6 +12331,12 @@
     "package": "smoppix",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/sthawinke/smoppix",
+    "registry": "bioc"
+  },
+  {
+    "package": "SMTrackR",
+    "maintainer": "Satyanarayan Rao <satyanarayan.rao@bt.iitr.ac.in>",
+    "url": "https://git.bioconductor.org/packages/SMTrackR",
     "registry": "bioc"
   },
   {
