@@ -5,6 +5,11 @@
     "url": "https://github.com/charlescoverdale/boe"
   },
   {
+    "package": "fred",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/fred"
+  },
+  {
     "package": "hmrc",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/hmrc"
@@ -25,9 +30,24 @@
     "url": "https://github.com/charlescoverdale/ons"
   },
   {
+    "package": "predictset",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/predictset"
+  },
+  {
     "package": "readaec",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/readaec"
+  },
+  {
+    "package": "readecb",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/readecb"
+  },
+  {
+    "package": "readnoaa",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/readnoaa"
   },
   {
     "package": "readoecd",

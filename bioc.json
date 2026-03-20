@@ -974,7 +974,7 @@
   },
   {
     "package": "beadarray",
-    "maintainer": "Mark Dunning <m.j.dunning@sheffield.ac.uk>",
+    "maintainer": "Mark Dunning <m.dunning@imperial.ac.uk>",
     "url": "https://git.bioconductor.org/packages/beadarray",
     "registry": "bioc"
   },
@@ -6012,6 +6012,12 @@
     "package": "HIREewas",
     "maintainer": "Xiangyu Luo <xyluo1991@gmail.com>",
     "url": "https://git.bioconductor.org/packages/HIREewas",
+    "registry": "bioc"
+  },
+  {
+    "package": "HiSpaR",
+    "maintainer": "Yingcheng Luo <lyc22@mails.tsinghua.edu.cn>",
+    "url": "https://github.com/masterstormtrooper/hispar",
     "registry": "bioc"
   },
   {
