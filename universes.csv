@@ -2045,7 +2045,7 @@ blmeco,fraenzi
 BLMEngineInR,windwardenv
 BLModel,cran
 blob,tidyverse
-blockcluster,cran
+blockcluster,joblion
 BlockCov,marie-perrotdockes
 blockCV,rvalavi
 blockedFF,sukantaiasri
@@ -2218,6 +2218,7 @@ Boptbd,cran
 bor,davidnsousa
 boral,fhui28
 borealis,bioc
+BORG,gcol33
 borrowr,cran
 Boruta,cran
 bosfr,yijin-zeng
@@ -4435,6 +4436,7 @@ cryptoverse,viv-analytics
 cryptowatchR,lorenzbr
 CryptRndTest,haydarde
 cryst,claudiopozo
+crystract,prabhulab
 csa,imarkonis
 csalert,raubreywhite
 csampling,arbrazzale
@@ -4497,6 +4499,7 @@ ctgt,nxu312
 cthist,bgcarlisle
 cthreshER,fpzhang2015
 ctl,dannyarends
+ctlr,cran
 ctmcd,cran
 ctmcmove,ehanks
 cTMed,jeksterslab
@@ -5273,7 +5276,7 @@ DHSr,arnob62
 di,cran
 diagcounts,cran
 diagis,helske
-diagL1,kevin444
+diagL1,kevinds100
 diagmeta,guido-s
 diagonals,bquast
 diagram,karlines
@@ -8280,6 +8283,7 @@ gclus,cbhurley
 gcmr,crisvarin
 gconsensus,hugogasca
 gcookbook,wch
+gcor,r-suzuki
 GCPBayes,tbaghfalaki
 gcplyr,mikeblazanin
 GCPM,cran
@@ -9124,7 +9128,7 @@ glossa,imares-group
 glossary,debruine
 glossr,montesmariana
 glow,traversc
-glpkAPI,mihai-sysbio
+glpkAPI,cran
 gLRTH,cran
 glscalibrator,fabbiologia
 glsm,cran
@@ -9418,7 +9422,7 @@ greed,comeetie
 GreedyEPL,riccardorastelli
 GreedyExperimentalDesign,kapelner
 GreedyExperimentalDesignJARs,kapelner
-greekLetters,kevin444
+greekLetters,kevinds100
 greeks,ahudde
 greenclust,jeffjetton
 greencrab.toolkit,abigailkeller
@@ -9476,7 +9480,7 @@ GROAN,ne1s0n
 grobblR,calvinmfloyd
 groc,lafaye
 groHMM,bioc
-gromovlab,hvlieb
+gromovlab,cran
 groqR,gabrielkaiserqfin
 groundhog,credibilitylab
 GroupBN,abecker-ml
@@ -11356,7 +11360,6 @@ jsonvalidate,ropensci
 JSparO,cran
 jstable,jinseob2kim
 jstager,takeshinishimura
-jstor,ropensci
 jsTree,yonicd
 jsTreeR,stla
 JSUparameters,cjclarke258
@@ -11710,6 +11713,7 @@ lagsarlmtree,zeileis
 LagSequential,bpoconnor
 Lahman,cdalzell
 LAIr,fchianucci
+lakefetch,jeremylfarrell
 LakeMetabolizer,gleon
 lakemorpho,usepa
 laketemps,gleon
@@ -13650,6 +13654,7 @@ mixedBayes,kunfa
 mixedbiastest,akarl46556
 mixedCCA,irinagain
 mixedfact,sukantaiasri
+mixediffusion,abraham1011
 MixedIndTests,bouchranasri
 MixedLevelRSDs,ashutoshdalal97
 mixedLSR,alexanderjwhite
@@ -15327,6 +15332,7 @@ nsROC,cran
 NST,cran
 nswgeo,cidm-ph
 nsyllable,quanteda
+nTARP,cran
 ntfy,jonocarroll
 NTLKwIEx,otodji
 ntranova,cran
@@ -16528,7 +16534,7 @@ pexm,vdinizm
 pez,willpearse
 pfamAnalyzeR,bioc
 pfica,marcvidalbadia
-PFIM,cran
+PFIM,packagepfim
 PFLR,haoluns
 pfr,tbrown122387
 PFW,ropensci
@@ -17626,7 +17632,7 @@ PScr,diegogallardo87
 psd,abarbour
 PSDistr,cran
 psdr,yhankcheng
-pseudo,kevin444
+pseudo,kevinds100
 pseudobibeR,browndw
 pseudoCure,stc04003
 pseudohouseholds,chris31415926535
@@ -17829,6 +17835,7 @@ pzfx,yue-jiang
 Q2q,farid-flici
 Q7,iqis
 qad,griefl
+qadf,muhammedalkhalaf
 QAEnsemble,wroda22
 QAIG,shubh-b
 qap,mhahsler
@@ -19154,7 +19161,7 @@ reportfactory,reconverse
 ReportingTools,bioc
 reportr,jonclayden
 reportReg,marsdu1989
-reportRmd,cran
+reportRmd,biostatspmh
 reportROC,marsdu1989
 ReportSubtotal,yaboody
 reporttools,numbersman77
@@ -20409,7 +20416,7 @@ rtiktoken,davzim
 rtip,angelberihuete
 rtist,tomasokal
 rtk,cran
-rtkore,cran
+rtkore,joblion
 RTL,risktoollib
 RTLknitr,foadesmaeili5
 rtlr,matanhakim
