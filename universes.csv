@@ -3666,6 +3666,7 @@ cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortGenerator,ohdsi
+CohortMethod,ohdsi
 CohortPlat,el-meyer
 cohorts,peerchristensen
 CohortSurvival,kimlopezguell
@@ -4323,7 +4324,7 @@ CREAM,bhklab
 createLogicalPCM,amarnathbose
 credentials,ropensci
 CRediTas,ropensci
-creditmodel,fanhansen
+creditmodel,cran
 creditr,yanrong-stacy-song
 CreditRisk,cran
 CREDS,cran
@@ -4581,7 +4582,7 @@ CustomDerivative,aim-it4
 CustomerScoringMetrics,koendebock
 customiser,jameslairdsmith
 customizedTraining,saberpowers
-customknitrender,cran
+customknitrender,mmartinezluis
 customProDB,bioc
 CustosAscensor,iagomn
 cusumcharter,johnmackintosh
@@ -7077,7 +7078,7 @@ FactorCopulaModel,cran
 factorEx,naoki-egami
 factorH,cran
 FactorHet,mgoplerud
-factorial2x2,ericsleifer
+factorial2x2,cran
 factormodel,yujunghwang
 factorplot,cran
 factorstochvol,gregorkastner
@@ -7752,6 +7753,7 @@ FoCo2,danigiro
 focusedMDS,lea-urpa
 foghorn,fmichonneau
 folda,moran79
+foldedt,cran
 folders,deohs
 folio,nfrerebeau
 fomantic.plus,ashbaldry
@@ -9128,7 +9130,7 @@ glossa,imares-group
 glossary,debruine
 glossr,montesmariana
 glow,traversc
-glpkAPI,cran
+glpkAPI,mihai-sysbio
 gLRTH,cran
 glscalibrator,fabbiologia
 glsm,cran
@@ -9216,6 +9218,7 @@ GOfan,bioc
 gofar,amishra-stats
 gofcat,ejikeugba
 GofCens,arnaugarciagrbio
+GOFclustering,cran
 gofCopula,simontrimborn
 gofedf,pnickchi
 goffda,egarpor
@@ -9480,7 +9483,7 @@ GROAN,ne1s0n
 grobblR,calvinmfloyd
 groc,lafaye
 groHMM,bioc
-gromovlab,cran
+gromovlab,hvlieb
 groqR,gabrielkaiserqfin
 groundhog,credibilitylab
 GroupBN,abecker-ml
@@ -13992,7 +13995,7 @@ mogsa,bioc
 mojson,chriswweibo
 mokken,avdrark
 molaR,jdpampush-netizen
-MoLE,samlestrade2
+MoLE,cran
 MoleculeExperiment,bioc
 MolgenisArmadillo,molgenis
 MolgenisAuth,molgenis
@@ -14180,6 +14183,7 @@ mRc,k-dettloff
 MRCE,adamjrothman
 mrct,cran
 MRCV,cran
+mrddGlobal,asamiahulin
 mrds,distancedevelopment
 mreg,shug0131
 mregions2,ropensci
@@ -14361,7 +14365,7 @@ muiTreeView,lgnbhl
 Mulcom,bioc
 mulea,eltebioinformatics
 mulgar,dicook
-MullerPlot,farahpourlab
+MullerPlot,cran
 mully,frankkramer-lab
 mulSEM,mikewlcheung
 mulset,login-
@@ -14369,6 +14373,7 @@ mult.latent.reg,cran
 MultANOVA,bmahieuoniris
 MultBiplotR,villardon
 multbxxc,sgsokol
+multChernoff,richardkwo
 multcomp,r-forge
 multcompView,lselzer
 multDM,kdrachal
@@ -16087,7 +16092,7 @@ panelsummary,michaeltopper1
 panelSUR,laurabarbieri
 PanelTM,cran
 panelvar,datarob
-panelView,cran
+panelView,xuyiqing
 panelWranglR,jszitas
 pangaear,ropensci
 pangoling,ropensci
@@ -17907,7 +17912,7 @@ qif,umich-biostatistics
 qiitr,yutannihilation
 Qindex,tingtingzhan
 Qindex.data,tingtingzhan
-qkerntool,yusenzhang
+qkerntool,cran
 qlcal,qlcal
 qlcData,cysouw
 qlcMatrix,cysouw
@@ -18473,6 +18478,7 @@ rbcc,kzst
 rbch,rucknium
 rBDAT,vochr
 RBE3,cran
+Rbearcat,saannidhya
 Rbeast,zhaokg
 Rbec,bioc
 RBedMethyl,bioc
@@ -19506,7 +19512,7 @@ ringostat,selesnow
 RInside,eddelbuettel
 RInSp,nicola-zaccarelli
 rintcal,maarten14c
-rIntervalTree,shuye2009
+rIntervalTree,cran
 rintimg,feddelegrand7
 rintrojs,carlganz
 rio,gesistsa
@@ -21077,7 +21083,7 @@ sdcSpatial,edwindj
 sdcTable,bernhard-da
 sde,siacus
 SdeaR,cran
-SDEFSR,agvico
+SDEFSR,cran
 sdetorus,egarpor
 sdf.test,ilarianadin-crypto
 SDGdetector,yingjie4science
@@ -25451,7 +25457,7 @@ voluModel,hannahlowens
 VoronoiBiomedPlot,cran
 voronoifortune,emmanuelparadis
 voronoiTreemap,urosconf
-VorteksExport,lansdon-qualta
+VorteksExport,cran
 voson.tcn,vosonlab
 VOSONDash,vosonlab
 vosonSML,vosonlab
