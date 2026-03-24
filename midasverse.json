@@ -1,5 +1,11 @@
 [
   {
+    "package": "citestR",
+    "maintainer": "Thomas Robinson <t.robinson7@lse.ac.uk>",
+    "url": "https://github.com/midasverse/citest",
+    "subdir": "citestR"
+  },
+  {
     "package": "rMIDAS",
     "maintainer": "Thomas Robinson <ts.robinson1994@gmail.com>",
     "url": "https://github.com/midasverse/rmidas"

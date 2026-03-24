@@ -3250,6 +3250,7 @@ citation,pik-piam
 citationchaser,cran
 citecorp,ropensci
 CiteFuse,bioc
+citestR,midasverse
 cities,hakeemwahab
 CITMIC,hanjunwei-lab
 cito,citoverse
@@ -3340,6 +3341,7 @@ CliftLRD,cran
 climaemet,ropenspain
 ClimaRep,cran
 climate,bczernecki
+climatekit,charlescoverdale
 climateStability,hannahlowens
 climatol,jaggh
 climatrends,agrdatasci
@@ -3736,7 +3738,7 @@ Colossus,ericgiunta
 colouR,alaninglis
 colourlovers,andrewheiss
 colourpicker,daattali
-colourspace,yann-c-inn
+colourspace,iamyannc
 colourvalues,symbolixau
 colourvision,cran
 COLP,nystat
@@ -5268,6 +5270,7 @@ DHARMa,florianhartig
 DHBins,tslumley
 dhga,samarendra88
 dhglm,msnoh1
+dhmeasures,stephbuon
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
 dHSIC,cran
@@ -5407,6 +5410,7 @@ DirectStandardisation,christianak
 DirichletMultinomial,bioc
 dirichletprocess,dm13450
 DirichletReg,maiermarco
+DirichletRF,xaleed
 DIRMR,guangbaog
 dirmult,tvedebrink
 DirStats,egarpor
@@ -5891,6 +5895,7 @@ dtgiw,atchanut
 dti,ktabelow
 dtlcor,ashwz
 dtlg,ascentsoftware
+dtlscores,grimmjulian
 dtmapi,displacement-tracking-matrix
 DTMCPack,wbnicholson
 dtms,christiandudel
@@ -7312,10 +7317,11 @@ fdarep,functionaldata
 fdars,sipemu
 fdaSP,maurobernardi
 fdasrvf,jdtuck
-fdatest,alessiapini
+fdatest,permaverse
 FDboost,boost-r
 fddm,rtdists
 fdesigns,cran
+fdid,xuyiqing
 fdm2id,blansche
 fDMA,kdrachal
 FDOTT,cran
@@ -7814,6 +7820,7 @@ forestr,atkinsjeff
 forestRK,h56cho
 forestry,jienagu
 forestSAS,zongzheng
+forestsearch,larry-leon
 ForestTools,andrew-plowright
 foretell,sriharitn
 forge,cran
@@ -9536,6 +9543,7 @@ gsbDesign,bbnkmp
 gsbm,cran
 GSCA,bioc
 gscaLCA,hee6904
+gsClusterDetect,lmullany
 gscounts,tobiasmuetze
 gscramble,eriqande
 gscreend,bioc
@@ -11266,6 +11274,7 @@ jipApprox,rhobis
 jjb,coatless-rpkg
 jlmerclusterperm,yjunechoe
 JLPM,vivianephilipps
+jlview,tanaylab
 JM,drizopoulos
 jmastats,uribo
 jmatrix,jdmde
@@ -11664,6 +11673,7 @@ kyotil,youyifong
 kza,closebrian
 kzs,cran
 l0ara,cran
+L0cpt,thaowang
 L0Learn,hazimehh
 L0TFinv,thaowang
 l1ball,cran
@@ -13505,7 +13515,7 @@ milr,pingyangchen
 mimager,bioc
 mimdo,gjlabita
 mime,yihui
-MIMER,anoopvelluv
+MIMER,agerada
 mimi,cran
 mimiSBM,kdesantiago
 MIMSunit,mhealthgroup
@@ -14312,6 +14322,7 @@ MSstatsResponse,bioc
 MSstatsShiny,bioc
 MSstatsTMT,bioc
 MST,pcalhoun1
+mstATA,hongchen030
 mstate,hputter
 mStats,myominnoo
 mstclustering,kmfrick
@@ -14394,6 +14405,7 @@ multibreakeR,loicym
 multibridge,asarafoglou
 multiCA,anikoszabo
 multicastR,cran
+multiCCA,halmaris
 multichull,cran
 multiclassPairs,nourmarzouka
 MultiClassROC,cran
@@ -14480,6 +14492,7 @@ MultiplierDEA,cran
 multipol,robinhankin
 multiRDPG,cran
 multiRec,alokanandaghosh
+MultiResponseR,bmahieuoniris
 MultiRFM,feiyoung
 multirich,akeyel
 multiridge,cran
@@ -16080,6 +16093,7 @@ pandoc,cderv
 pandocfilters,florianschwendinger
 panelcn.mops,bioc
 PanelCount,jnpeng
+paneldesc,dtereshch
 panelhetero,tkhdyanagi
 PanelMatch,insongkim
 panelPomp,jeswheel
@@ -16948,6 +16962,7 @@ plspm,gastonstat
 plsRbeta,fbertran
 plsRcox,fbertran
 plsRglm,fbertran
+plssem,kss2k
 plsVarSel,khliland
 plu,rossellhayes
 plug,strategicprojects
@@ -19682,6 +19697,7 @@ rmcorr,lmarusich
 rmda,mdbrown
 rmdcev,plloydsmith
 RmdConcord,dmurdoch
+rmdd,paulesantos
 rmdfiltr,crsh
 rmdformats,juba
 rmdHelpers,petersmp
@@ -22243,6 +22259,7 @@ SoilTaxonomy,ncss-tech
 soiltestcorr,adriancorrendo
 SoilTesting,bappa10085
 soiltexture,julienmoeys
+soiltillr,cran
 soilVAE,hugomachadorodrigues
 soilwater,ecor
 Sojourn,paulhibbing
@@ -23685,6 +23702,7 @@ taxize,ropensci
 taxizedb,ropensci
 taxlist,ropensci
 taxnames,kamapu
+taxodist,rodrigosqrt3
 taxonomizr,sherrillmix
 taxotools,vijaybarve
 TaxSEA,bioc
@@ -23934,6 +23952,7 @@ TFHAZ,bioc
 tfhub,rstudio
 tfio,terrytangyuan
 TFisher,wpihongzhang
+tflmetaR,yaolu611
 TFMPvalue,ge11232002
 tfNeuralODE,semran9
 TFORGE,kasselhingee
@@ -23966,6 +23985,7 @@ thematic,rstudio
 themis,tidymodels
 TheOpenAIR,umatter
 theorytools,cjvanlissa
+theRefdate,m03358db
 ThermalSampleR,clarkevansteenderen
 Thermimage,gtatters
 ThermIndex,chicozo1989
@@ -24137,6 +24157,7 @@ tidytof,bioc
 tidytransit,r-transit
 tidytreatment,bonstats
 tidytree,yulab-smu
+tidyttmoment,paulesantos
 tidytuesdayR,dslc-io
 tidyusmacro,mtkonczal
 tidyverse,tidyverse
@@ -24885,7 +24906,7 @@ UAHDataScienceO,andriyprotsak5
 UAHDataScienceSC,andriyprotsak5
 UAHDataScienceSF,andriyprotsak5
 UAHDataScienceUC,andriyprotsak5
-uaparserjs,hrbrmstr
+uaparserjs,gregfrog
 uavRmp,gisma
 ubair,cran
 UBayFS,annajenul
@@ -25456,6 +25477,7 @@ voson.tcn,vosonlab
 VOSONDash,vosonlab
 vosonSML,vosonlab
 Voss,cran
+vostokR,bi0m3trics
 vote,hanase
 voteogram,hrbrmstr
 votesmart,decktools
@@ -25610,6 +25632,7 @@ Wcompo,lmaowisc
 wconf,cran
 wCorr,american-institutes-for-research
 wcox,vharntzen
+wcvpmatch,paulesantos
 WData,noeliasanchmrt
 WDI,vincentarelbundock
 wdiEF,cran
@@ -26033,6 +26056,7 @@ yaml12,posit-dev
 yamlet,bergsmat
 yamlme,kamapu
 yamss,bioc
+YangHuiMagic,niechunxiao
 YAPSA,bioc
 yardstick,tidymodels
 yarn,bioc
