@@ -37,7 +37,8 @@
   {
     "package": "CTAShiny",
     "maintainer": "Kartikeya Bolar <kartikeya.bolar@tapmi.edu.in>",
-    "url": "https://github.com/cran/CTAShiny"
+    "url": "https://github.com/cran/CTAShiny",
+    "registry": "archived"
   },
   {
     "package": "CTShiny",
@@ -102,7 +103,8 @@
   {
     "package": "PROBShiny",
     "maintainer": "Kartikeya Bolar <kartikeya.bolar@tapmi.edu.in>",
-    "url": "https://github.com/cran/PROBShiny"
+    "url": "https://github.com/cran/PROBShiny",
+    "registry": "archived"
   },
   {
     "package": "semdrw",
@@ -112,12 +114,14 @@
   {
     "package": "STAT",
     "maintainer": "Kartikeya Bolar <kartikeya.bolar@tapmi.edu.in>",
-    "url": "https://github.com/cran/STAT"
+    "url": "https://github.com/cran/STAT",
+    "registry": "archived"
   },
   {
     "package": "STAT2",
     "maintainer": "Kartikeya Bolar <kartikeya.bolar@tapmi.edu.in>",
-    "url": "https://github.com/cran/STAT2"
+    "url": "https://github.com/cran/STAT2",
+    "registry": "archived"
   },
   {
     "package": "TAShiny",

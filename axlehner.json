@@ -1,5 +1,10 @@
 [
   {
+    "package": "SpatialInference",
+    "maintainer": "Alexander Lehner <alehner@worldbank.org>",
+    "url": "https://github.com/axlehner/spatialinference"
+  },
+  {
     "package": "SpatialRDD",
     "maintainer": "Alexander Lehner <lehner@uchicago.edu>",
     "url": "https://github.com/axlehner/spatialrdd"

@@ -1213,6 +1213,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocPkgDash",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
+    "url": "https://github.com/bioconductor/biocpkgdash",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocPkgTools",
     "maintainer": "Sean Davis <seandavi@gmail.com>",
     "url": "https://github.com/seandavi/biocpkgtools",
@@ -4692,6 +4698,12 @@
     "package": "fRagmentomics",
     "maintainer": "Killian Maudet <killian.maudet@gustaveroussy.fr>",
     "url": "https://github.com/elsab-lab/fragmentomics",
+    "registry": "bioc"
+  },
+  {
+    "package": "fraq",
+    "maintainer": "Travers Ching <traversc@gmail.com>",
+    "url": "https://github.com/traversc/fraq",
     "registry": "bioc"
   },
   {
@@ -11956,6 +11968,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Seqtometry",
+    "maintainer": "Robert Kousnetsov <robert.kousnetsov@health.slu.edu>",
+    "url": "https://github.com/hawigerlab/seqtometry",
+    "registry": "bioc"
+  },
+  {
     "package": "SeqVarTools",
     "maintainer": "Stephanie M. Gogarten <sdmorris@uw.edu>",
     "url": "https://github.com/smgogarten/seqvartools",
@@ -11995,6 +12013,12 @@
     "package": "sevenC",
     "maintainer": "Jonas Ibn-Salem <jonas.ibn-salem@tron-mainz.de>",
     "url": "https://github.com/ibn-salem/sevenc",
+    "registry": "bioc"
+  },
+  {
+    "package": "sfi",
+    "maintainer": "Miao YU <yufreecas@gmail.com>",
+    "url": "https://github.com/yufree/sfi",
     "registry": "bioc"
   },
   {
