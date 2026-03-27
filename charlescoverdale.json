@@ -25,6 +25,11 @@
     "url": "https://github.com/charlescoverdale/inflater"
   },
   {
+    "package": "inflationkit",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/inflationkit"
+  },
+  {
     "package": "nowcast",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/nowcast"
@@ -63,5 +68,10 @@
     "package": "readoecd",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/readoecd"
+  },
+  {
+    "package": "yieldcurves",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/yieldcurves"
   }
 ]

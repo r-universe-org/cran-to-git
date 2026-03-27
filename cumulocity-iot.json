@@ -3,11 +3,5 @@
     "package": "cumulocityr",
     "maintainer": "Dmitriy Bolotov <dmitriy.bolotov@softwareag.com>",
     "url": "https://github.com/cumulocity-iot/cumulocityr"
-  },
-  {
-    "package": "pmml",
-    "maintainer": "Dmitriy Bolotov <dmitriy.bolotov@softwareag.com>",
-    "url": "https://github.com/cumulocity-iot/r-pmml",
-    "registry": "archived"
   }
 ]

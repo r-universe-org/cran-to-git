@@ -611,6 +611,7 @@ AnimalSequences,reviewburner
 animate,kcf-jackson
 animation,yihui
 animbook,krisanata
+animejs,long39ng
 animint2,animint
 animl,cran
 anipaths,henryrscharf
@@ -763,7 +764,7 @@ APRScenario,giannilmbd
 apsimx,femiguez
 apt,cran
 APTIcalc,nobinstat
-APtools,cran
+APtools,hengruicai
 apyramid,r4epi
 AQEval,karlropkins
 aqfig,jlswall
@@ -4575,7 +4576,7 @@ curry,thomasp85
 cursr,cmann3
 curstatCI,kimhendrickx
 curtailment,martinlaw
-curvecomp,cran
+curvecomp,radon0303
 curveDepth,pavlomozharovskyi
 curvHDR,mattwand
 curvir,trnnick
@@ -6141,6 +6142,7 @@ eclipseplot,pevid-sci
 eClosure,jellegoeman
 ECLRMC,cran
 ecm,gaurbans
+ECMLE,da-na-deri
 ecmwfr,bluegreen-labs
 eco,kosukeimai
 ecocbo,arturosp
@@ -6224,6 +6226,7 @@ edfinr,bellwetherorg
 edfReader,cran
 edfun,talgalili
 edgar,gunratan
+edgarfundamentals,robschumaker
 edgarWebR,mwaldstein
 edge,bioc
 edgebundle,schochastics
@@ -9360,6 +9363,7 @@ gptr,broccolito
 GPTreeO,timo-braun
 gptstudio,michelnivard
 gptzeror,christopherkenny
+GPUmatrix,arubio2
 GPvam,akarl46556
 GPvecchia,marcinjurek
 gpx,bmewing
@@ -9525,6 +9529,7 @@ growth,swihart
 growthcleanr,carriedaymont
 GrowthCurveME,cancermodels-org
 growthcurver,sprouffske
+growthDecomp,cran
 growthmodels,drodriguezperez
 growthPheno,briencj
 growthrate,cran
@@ -9999,6 +10004,7 @@ HGSL,cran
 hgutils,hvdboorn
 hgwrr,hpdell
 HH,rmheiberger
+hhdynamics,timktsang
 hhh4contacts,bastistician
 hhi,cran
 hhmR,sgmmahon
@@ -10429,7 +10435,7 @@ iCARH,takouajendoubi
 icarus,khaledlarbi
 ICBioMark,cobrbra
 ICC,matthewwolak
-ICC.Sample.Size,cran
+ICC.Sample.Size,alasdairrathbone-bit
 ICcalib,daniel258
 iccbeta,tmsalab
 ICCbin,akhtarh
@@ -10790,6 +10796,7 @@ infix,ebeneditos
 infixit,prlitics
 inflateR,charlescoverdale
 Inflation,fernote7
+inflationkit,charlescoverdale
 inflection,dchristop
 InflectSSP,cran
 Inflongitudinal,tanmoy0stat
@@ -11224,6 +11231,7 @@ iWeigReg,cran
 IWTomics,bioc
 ixplorer,ixpantia
 IxPopDyMod,dallenmidd
+ixsurface,cjbrant
 iZID,xiaomangmang
 izmir,ozancanozdemir
 jaatha,statgenlmu
@@ -11470,7 +11478,7 @@ Kendall,angusian
 kendallknight,pachadotdev
 kendallRandomWalks,cran
 Keng,qyaozh
-KenSyn,cran
+KenSyn,fbrun-acta
 KEPTED,tyy20
 kequate,cran
 keras,t-kalinowski
@@ -11689,6 +11697,7 @@ kza,closebrian
 kzs,cran
 l0ara,cran
 L0cpt,thaowang
+L0ggm,alexchristensen
 L0Learn,hazimehh
 L0TFinv,thaowang
 l1ball,cran
@@ -12331,6 +12340,7 @@ LongDat,ccy-dev
 LongDecompHE,cran
 longevity,lbelzile
 longit,atanubhattacharjee
+longitree,ryt1207
 longitudinal,cran
 longitudinalANAL,cran
 longitudinalcascade,noahhaber
@@ -13332,7 +13342,7 @@ MetMashR,bioc
 MetNet,bioc
 MeTo,ullid
 metools,jvg0mes
-MetProc,cran
+MetProc,mchaffin17
 metR,eliocamp
 metrica,adriancorrendo
 MetricGraph,davidbolin
@@ -13780,7 +13790,7 @@ MLFDR,asmita112358
 mlfit,mlfit
 mlflow,benwilson2
 MLFS,jernejjevsenak
-MLGdata,cran
+MLGdata,nicola-sartori
 MLGL,modal-inria
 MLID,profrichharris
 mlim,haghish
@@ -14907,6 +14917,7 @@ netrankr,schochastics
 netregR,fmarrs3
 NetRep,sritchie73
 netresponse,bioc
+netrics,stocnet
 netropy,termehs
 nets,ctbrownlees
 NetSAM,bioc
@@ -16816,6 +16827,7 @@ pixelclasser,ropensci
 pixelpuzzle,rolkra
 pixels,javierluraschi
 pixiedust,nutterb
+pixieweb,lchansson
 pixmap,zeileis
 pixr,strategicprojects
 pizzarr,zarr-developers
@@ -16883,7 +16895,7 @@ plantTracker,aestears
 plaqr,cran
 plasma,r-forge
 PlasmaMutationDetector,cran
-Plasmidprofiler,cran
+Plasmidprofiler,thezetner
 plasmut,bioc
 plasso,mcknaus
 plater,ropensci
@@ -17020,7 +17032,7 @@ pmlbr,epistasislab
 pmledecon,cran
 pmlsp,d-spinelli
 pmm,bioc
-pmml,cumulocity-iot
+pmml,mhahsler
 pmmlTransformations,cran
 pmp,bioc
 pmparser,hugheylab
@@ -18266,6 +18278,7 @@ radar,cran
 radarBoxplot,caiohamamura
 radarchart,mangothecat
 RadData,markhogue
+radEmu,statdivlab
 RadEro,cran
 RadialVisGadgets,jmatute
 radiant,radiant-rstats
@@ -18627,6 +18640,7 @@ rcldf,simongreenhill
 RClickhouse,imsmwu
 RClimacell,nikdata
 rclipboard,sbihorel
+rcloner,boettiger-lab
 rclsp,econcz
 RCM,bioc
 rcmdcheck,r-lib
@@ -19054,7 +19068,7 @@ RegDDM,biorabbit
 regDIF,wbelzak
 RegEnRF,umbe1987
 RegEnrich,bioc
-REGENT,cran
+REGENT,djmcrouch
 regexPipes,cran
 regexSelect,yonicd
 regextable,judgelord
@@ -20438,6 +20452,7 @@ RTD,treasure-data
 RTDE,dutangc
 rtdists,rtdists
 rtematres,cpfaff
+rtemis,rtemis-org
 rtemps,bblodfon
 rTensor,rikenbit
 rTephra,ajakef
@@ -21334,6 +21349,7 @@ sentometrics,sentometricsresearch
 sentopics,odelmarcelle
 sentryR,jcpsantiago
 SEofM,marsdu1989
+SEPA,cran
 SEPaLS,hlorenzo
 sEparaTe,cran
 separationplot,cran
@@ -21389,6 +21405,7 @@ serocalculator,ucd-serg
 serofoi,epiverse-trace
 SerolyzeR,mini-pw
 serosv,oucru-modelling
+SeroTrackR,dionnecargy
 serp,ejikeugba
 serpstatr,alex-danilin
 serrsBayes,mooresm
@@ -22275,6 +22292,7 @@ soilchemistry,bappa10085
 SoilConservation,dionecardoso
 soilDB,ncss-tech
 SoilFDA,cran
+soilFlux,hugomachadorodrigues
 soilfoodwebs,robertwbuchkowski
 SoilFunctionality,cran
 SoilHyP,ullid
@@ -23332,6 +23350,7 @@ Superpower,arcaldwell49
 SuperRanker,ekstroem
 supersigs,bioc
 superspreading,epiverse-trace
+SuperSurv,yuelyu21
 supervisedPRIM,dashaub
 SupMZ,myaseen208
 suppdata,ropensci
@@ -23883,6 +23902,7 @@ tern.gee,insightsengineering
 tern.mmrm,insightsengineering
 Ternary,ms609
 ternarynet,bioc
+TernTables,jdpreston30
 ternvis,cran
 terra,rspatial
 terrainmeshr,tylermorganwall
@@ -25720,6 +25740,7 @@ weibullness,appliedstat
 WeibullR,weibull-r
 WeibullR.ALT,jto888
 weibulltools,tim-tu
+WeightCraft,vlospa99
 Weighted.Desc.Stat,cran
 weightedCL,cran
 WeightedCluster,matthias-studer
@@ -26108,6 +26129,7 @@ yfR,ropensci
 yfscreen,jasonjfoster
 yhat,cran
 YieldCurve,cran
+yieldcurves,charlescoverdale
 yll,antoinesoetewey
 ymd,shrektan
 Ymisc,yrhwang90
@@ -26131,7 +26153,7 @@ yuimaGUI,yuimaproject
 yulab.utils,yulab-smu
 yum,cran
 yyjsonr,coolbutuseless
-Z10,rhlee12
+Z10,cran
 z22,jslth
 zalpha,chorscroft
 zarr,r-cf
@@ -26140,7 +26162,7 @@ zctaCrosswalk,marketbridge
 zcurve,fbartos
 zdeskR,chrisumphlett
 zeallot,r-lib
-ZeBook,cran
+ZeBook,fbrun-acta
 zebu,omfmartin
 zeitgebr,rethomics
 zellkonverter,bioc
