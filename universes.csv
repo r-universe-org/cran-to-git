@@ -2936,6 +2936,7 @@ centerline,atsyplenkov
 centiserve,cran
 centr,ryanzomorrodi
 centrifugeR,phamdn
+CEOdata,ceopinio
 CEoptim,cran
 CePa,jokergoo
 cepiigeodist,pachadotdev
@@ -3684,6 +3685,7 @@ CoinMinD,rudth
 Coinprofile,wilmermartinezr
 COINr,bluefoxr
 COINT,cran
+cointests,muhammedalkhalaf
 cointmonitoR,aschersleben
 cointReg,aschersleben
 cointsmall,muhammedalkhalaf
@@ -9614,7 +9616,7 @@ gsubfn,ggrothendieck
 GSVA,bioc
 gsw,teos-10
 GsymPoint,cran
-gsynth,cran
+gsynth,xuyiqing
 gt,rstudio
 gt4ireval,julian-urbano
 gtable,r-lib
@@ -10911,7 +10913,6 @@ interp,cran
 interplex,tdaverse
 interplot,sammo3182
 InterpolateR,jonnathan-landi
-interpolation,stla
 interpolators,stla
 interpret,interpretml
 interpretCI,cardiomoon
@@ -11976,6 +11977,7 @@ lessSEM,jhorzek
 lest,s-fleck
 lestat,pettermostad
 letsHerp,joao-svalencar
+letsR,macroecology
 letsRept,joao-svalencar
 lettervalue,gilberto-sassi
 levi,bioc
@@ -12142,6 +12144,7 @@ LiquidAssociation,bioc
 lira,cran
 lisa,tylerlittlefield
 lisaClust,bioc
+lisat,cran
 lisrelToR,cran
 list,sensitivequestions
 listArray,sigbertklinke
@@ -12694,6 +12697,7 @@ mapmixture,tom-jenkins
 mappeR,uiowa-applied-topology
 MapperAlgo,tda-r
 mappestRisk,ecologyr
+MappingCalc,edimansyahabdin
 mappings,benjaminrich
 mapplots,hgerritsen
 mappoly,mmollina
@@ -13805,6 +13809,7 @@ mlmi,jwb133
 MLML2R,samarafk
 mlmm.gwas,cran
 MLModelSelection,kuojunglee
+mlmoderator,causalfragility-lab
 MLMOI,mhashemihsmw
 MLmorph,theogrost
 mlmpower,bkeller2
@@ -16973,6 +16978,7 @@ PlotPrjNetworks,jordieres
 plotprotein,cran
 plotrix,plotrix
 plotROC,sachsmc
+plotrr,lobsterbush
 plotscale,bergsmat
 plotscaper,bartonicek
 plotSEMM,philchalmers
@@ -18568,6 +18574,7 @@ Rbowtie2,bioc
 RbowtieCuda,bioc
 RBPcurve,giuseppec
 rbranding,epiforesite
+rbreak,zhongjun-qu
 rbrsa,obakis
 rbscCI,shimenghuang
 rbsurv,bioc
@@ -20580,7 +20587,7 @@ RViennaCL,cdeterman
 rviewgraph,alun-thomas
 rvif,rnoremlas
 rvinecopulib,vinecopulib
-RVIpkg,cran
+RVIpkg,abestsg
 Rvisdiff,bioc
 rvisidata,paulklemm
 rvkstat,selesnow
@@ -24720,6 +24727,7 @@ truh,natesmith07
 TrumpetPlots,cran
 truncAIPW,wangyuyao98
 TruncatedNormal,lbelzile
+TruncatedPCQM,rcjhrpyt-droid
 truncdist,cran
 TruncExpFam,ocbe-uio
 truncnorm,olafmersmann
@@ -25069,6 +25077,7 @@ unitedR,dschindler
 unitizer,brodieg
 UnitMix,cristinafaricelli
 unitquantreg,andrmenezes
+unitrootests,muhammedalkhalaf
 units,r-quantities
 UnitStat,ankita8985
 unittest,ravingmantis
