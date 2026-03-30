@@ -1,5 +1,10 @@
 [
   {
+    "package": "rjd3bench",
+    "maintainer": "Corentin Lemasson <corentin.lemasson@nbb.be>",
+    "url": "https://github.com/rjdverse/rjd3bench"
+  },
+  {
     "package": "rjd3providers",
     "maintainer": "Alessandro Piovani <alessandro.piovani@istat.it>",
     "url": "https://github.com/rjdverse/rjd3providers"
