@@ -1,5 +1,10 @@
 [
   {
+    "package": "PQA",
+    "maintainer": "Luca Coraggio <luca.coraggio@unina.it>",
+    "url": "https://github.com/cran/PQA"
+  },
+  {
     "package": "qcluster",
     "maintainer": "Luca Coraggio <luca.coraggio@unina.it>",
     "url": "https://github.com/cran/qcluster"

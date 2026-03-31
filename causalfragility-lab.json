@@ -10,9 +10,19 @@
     "url": "https://github.com/causalfragility-lab/causalspline"
   },
   {
+    "package": "confoundvis",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/confoundvis"
+  },
+  {
     "package": "decisionpaths",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/decisionpaths"
+  },
+  {
+    "package": "metaLong",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/metalong"
   },
   {
     "package": "mlmoderator",

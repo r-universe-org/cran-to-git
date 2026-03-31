@@ -220,12 +220,6 @@
     "url": "https://github.com/ropensci/datapackager"
   },
   {
-    "package": "dataset",
-    "maintainer": "Daniel Antal <daniel.antal@dataobservatory.eu>",
-    "url": "https://github.com/ropensci/dataset",
-    "registry": "archived"
-  },
-  {
     "package": "DataSpaceR",
     "maintainer": "Jason Taylor <jmtaylor@fredhutch.org>",
     "url": "https://github.com/ropensci/dataspacer"
@@ -830,6 +824,11 @@
     "package": "restez",
     "maintainer": "Joel H. Nitta <joelnitta@gmail.com>",
     "url": "https://github.com/ropensci/restez"
+  },
+  {
+    "package": "reviser",
+    "maintainer": "Marc Burri <marc.burri91@gmail.com>",
+    "url": "https://github.com/ropensci/reviser"
   },
   {
     "package": "rfishbase",

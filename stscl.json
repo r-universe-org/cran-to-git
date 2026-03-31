@@ -25,6 +25,11 @@
     "url": "https://github.com/stscl/itmsa"
   },
   {
+    "package": "pc",
+    "maintainer": "Wenbo Lyu <lyu.geosocial@gmail.com>",
+    "url": "https://github.com/stscl/pc"
+  },
+  {
     "package": "sdsfun",
     "maintainer": "Wenbo Lv <lyu.geosocial@gmail.com>",
     "url": "https://github.com/stscl/sdsfun"
@@ -41,7 +46,7 @@
   },
   {
     "package": "tEDM",
-    "maintainer": "Wenbo Lv <lyu.geosocial@gmail.com>",
+    "maintainer": "Wenbo Lyu <lyu.geosocial@gmail.com>",
     "url": "https://github.com/stscl/tedm"
   }
 ]
