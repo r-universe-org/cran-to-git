@@ -7419,6 +7419,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MeLSI",
+    "maintainer": "Nathan Bresette <nathanbresette04@gmail.com>",
+    "url": "https://github.com/nathanbresette/melsi",
+    "registry": "bioc"
+  },
+  {
     "package": "memes",
     "maintainer": "Spencer Nystrom <nystromdev@gmail.com>",
     "url": "https://github.com/snystrom/memes",
@@ -11017,6 +11023,12 @@
     "package": "RnaSeqSampleSize",
     "maintainer": "Shilin Zhao Developer <zhaoshilin@gmail.com>",
     "url": "https://git.bioconductor.org/packages/RnaSeqSampleSize",
+    "registry": "bioc"
+  },
+  {
+    "package": "RNAshapeQC",
+    "maintainer": "Miyeon Yeon <myeon@uthsc.edu>",
+    "url": "https://github.com/hyochoi/rnashapeqc",
     "registry": "bioc"
   },
   {

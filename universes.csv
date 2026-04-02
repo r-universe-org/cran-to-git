@@ -357,6 +357,7 @@ agregR,rnmag
 agricolae,cran
 agricolaeplotr,jensharbers
 agridat,kwstat
+AgriDiversiX,santosharathod
 agrifeature,cran
 agriReg,cran
 agriTutorial,rned
@@ -448,6 +449,7 @@ alakazam,immcantation
 alarmdata,alarm-redist
 ALassoSurvIC,pakdaewo
 albatross,ikrylovmsu
+albersdown,bbuchsbaum
 aLBI,ataher76
 albopictus,kerguler
 alcoholSurv,rosenbap
@@ -1752,6 +1754,7 @@ bifrost,jakeberv
 bifurcatingr,cran
 bigalgebra,fbertran
 biganalytics,cran
+bigANNOY,fbertran
 bigassertr,privefl
 bigBits,cran
 bigD,rstudio
@@ -1762,6 +1765,7 @@ BIGDAWG,igdawg
 bigDM,spatialstatisticsupna
 bigergm,corneliusfritz
 bigGP,paciorek
+bigKNN,fbertran
 BIGL,openanalytics
 biglasso,pbreheny
 bigleaf,juergenknauer
@@ -2741,6 +2745,7 @@ catsim,gzt
 catSurv,erossiter
 CATT,marsdu1989
 CATTexact,edelmand21
+catviz,victorkilanko
 cauchypca,cran
 caugi,frederikfabriciusbjerre
 cauphy,gilles-didier
@@ -6272,6 +6277,7 @@ educationdata,urbaninstitute
 educationR,lightbluetitan
 educineq,jordavuc
 edwards97,paleolimbot
+EE.Data,paulhibbing
 EEAaq,paolomaranzano
 EEEA,cran
 eefAnalytics,germaine86
@@ -8322,6 +8328,7 @@ gconsensus,hugogasca
 gcookbook,wch
 gcor,r-suzuki
 GCPBayes,tbaghfalaki
+gcpca,eliezyer
 gcplyr,mikeblazanin
 GCPM,cran
 GCPtools,bioc
@@ -8809,6 +8816,7 @@ gghalfnorm,nathaneastwood
 gghdx,ocha-dap
 gghexsize,hrryt
 gghighlight,yutannihilation
+gghinton,robin-foster-rf
 gghist,frederikziebell
 ggHoriPlot,rivasiker
 gghourglass,pepijn-devries
@@ -9982,7 +9990,6 @@ HEssRNA,bmgfiasri
 hetcorFS,cran
 HeterFunctionalData,hwanggit
 heterogen,patauchi
-HeteroGGM,cran
 heterometa,deweyme
 heteromixgm,cran
 hetGP,mbinois
@@ -12076,6 +12083,7 @@ lightr,ropensci
 lightsf,roming20
 lightsout,daattali
 likelihood,lmurphy186232
+likelihood.contr,queelius
 likelihood.model,queelius
 likelihoodAsy,rugbel
 likelihoodExplore,benbarnard
@@ -13150,6 +13158,7 @@ meifly,hadley
 MEIGOR,bioc
 mekko,ryninho
 Melissa,bioc
+MeLSI,bioc
 melt,ropensci
 meltt,kdonnay
 mem,lozalojo
@@ -14391,6 +14400,7 @@ MSwM,josepasanchez
 mt,wanchanglin
 MTA,riatelab
 mtanan,cran
+mtaOpenData,martinezc1
 MTAR,lan
 mtarm,lhvanegasp
 mtb,yh202109
@@ -14876,7 +14886,7 @@ Neighboot,cran
 neighbours,enricoschumann
 neighbr,dbolotov
 neldermead,cran
-Nematode,cran
+Nematode,h-xuanjiu
 nemBM,mrmarjan
 nempi,bioc
 nemsqar,bemts-hhs
@@ -14922,7 +14932,6 @@ netdose,petropouloumaria
 NetExplorer,sebastiansosa
 NetGreg,cran
 netgsa,mikehellstern
-netgwas,pariya
 nethet,bioc
 netie,tianshilu
 NetIndices,karlines
@@ -14951,7 +14960,6 @@ NetSci,deisygysi
 netseer,sevvandi
 netseg,mbojan
 netSEM,laurabruckman
-netShiny,pariya
 NetSimR,netsimanalytics
 netSmooth,bioc
 netstat,stevecondylios
@@ -15222,12 +15230,12 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
-noisysbmGGM,valentinkil
 nolock,artllex
 nombre,rossellhayes
 nomclust,zdeneksulc
 nomesbr,ipea
 nominatimlite,dieghernan
+nomine,lobsterbush
 nomisdata,cherylisabella
 nomiShape,norberello
 nomisr,ropensci
@@ -15437,7 +15445,6 @@ numspellR,jokoadenur
 NuPoP,bioc
 NUSS,theogrost
 NutrienTrackeR,cran
-nutriNetwork,pariya
 nutrition,wleoncio
 nuts,ropensci
 NVAR,sciurus365
@@ -15447,6 +15454,7 @@ nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
 nycOpenData,martinezc1
+nysOpenData,martinezc1
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
 nzilbb.vowels,nzilbb
@@ -19462,7 +19470,6 @@ rglobi,ropensci
 Rglottography,glottography
 Rglpk,r-forge
 rglplus,obreschkow
-rgm,franciscorichter
 RGMM,godichon-baggioni
 RGN,climateanalytics
 rgnoisefilt,juanmartinsantos
@@ -19865,6 +19872,7 @@ RNAseqNet,cran
 RNASeqPower,bioc
 RNAseqQC,frederikziebell
 RnaSeqSampleSize,bioc
+RNAshapeQC,bioc
 rnassqs,ropensci
 rnaturalearth,ropensci
 rnaturalearthdata,ropensci
@@ -21975,6 +21983,7 @@ sindyr,racdale
 sinew,yonicd
 singcar,jorittmo
 singIST,bioc
+SingleArmMRCT,gosukehommaex
 SingleCaseES,jepusto
 SingleCellAlleleExperiment,bioc
 SingleCellComplexHeatMap,fanxurong
@@ -23172,7 +23181,6 @@ stlTDNN,cran
 stm,bstewart
 stmgp,uekim
 stmgui,dzangri
-stminsights,cschwem2er
 StMoMo,amvillegas
 StMoSim,matthiassalvisberg
 STMotif,heraldoborges
@@ -23294,6 +23302,7 @@ StructureMC,yifuliu
 strvalidator,oskarhansson
 sts,cran
 sTSD,cran
+stt.api,cornball-ai
 stuart,martscht
 studentlife,frycast
 studyStrap,gloewing
@@ -23782,6 +23791,7 @@ taxa,ropensci
 taxadb,ropensci
 taxalight,cboettig
 TaxaNorm,wangziyue57
+taxdiv,mgorgoz
 TaxicabCA,jacquesallard
 taxize,ropensci
 taxizedb,ropensci
@@ -24589,7 +24599,6 @@ transformmos,babaknaderi
 transformr,thomasp85
 transfR,albandelavenne
 transGFM,zjwangatsu
-TransGraph,cran
 TransHDM,gaohuer
 transite,bioc
 Transition,mark-eis

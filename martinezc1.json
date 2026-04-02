@@ -1,8 +1,18 @@
 [
   {
+    "package": "mtaOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/martinezc1/mtaopendata"
+  },
+  {
     "package": "nycOpenData",
     "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
     "url": "https://github.com/martinezc1/nycopendata"
+  },
+  {
+    "package": "nysOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/martinezc1/nysopendata"
   },
   {
     "package": "reproresearchR",
