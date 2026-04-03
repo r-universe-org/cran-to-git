@@ -583,7 +583,6 @@ amt,jmsigner
 amVennDiagram5,stla
 AmyloGram,michbur
 anabel,lordramachandran
-AnaCoDa,clandere
 Anaconda,plstenger
 anacor,r-forge
 Analitica,cjimenezgallardo
@@ -1314,6 +1313,7 @@ basket,kaneplusplus
 BasketballAnalyzeR,sndmrc
 BasketTrial,wonderzhm
 baskexact,lbau7
+baskoptr,lukasdsauer
 basksim,lbau7
 baskwrap,lukasdsauer
 BASS,dfrancom
@@ -2474,7 +2474,6 @@ bundle,rstudio
 bunsen,cran
 buoyant,posit-dev
 bupaR,bupaverse
-bupaverse,bupaverse
 burgle,paulgunsalus
 burnr,ltrr-arizona-edu
 bursa,ozancanozdemir
@@ -2530,7 +2529,6 @@ cabootcrs,cran
 cacc,amoneva
 cache,olivierbinette
 cachem,r-lib
-CACIMAR,jiang-junyao
 cacIRT,quinn-lathrop
 CaDENCE,alexcannon
 CADF,cran
@@ -3379,6 +3377,7 @@ clinDataReview,openanalytics
 clinDR,snthomas99
 clinfun,veseshan
 clinical,tkcaccia
+clinicalfair,cuiweig
 clinicalomicsdbR,bzhanglab
 clinicalsignificance,benediktclaus
 ClinicalTrialSummary,pakdaewo
@@ -5032,7 +5031,6 @@ deepMOU,martindip
 deepnet,runxiao
 deepNN,bentaylor1
 DeepPINCS,bioc
-deepregression,druegamer
 deepRstudio,kumes
 deepSNV,bioc
 deepspat,andrewzm
@@ -5040,7 +5038,6 @@ deepSTRAPP,maeldore
 DeepTarget,bioc
 deeptime,willgearty
 deeptimedata,willgearty
-deeptrafo,neural-structured-additive-learning
 DEET,dustinsokolowski
 DEEVD,jahmadkhan
 default,goldingn
@@ -5862,6 +5859,7 @@ dscoreMSM,atanubhattacharjee
 dsdp,tsuchiya-lab
 dsem,james-thorson-noaa
 DSFM,guangbaog
+dsge,muswaseja92
 DSI,datashield
 dsims,distancedevelopment
 DSjobtracker,thiyangt
@@ -6689,7 +6687,6 @@ EQUALencrypt,cran
 EQUALPrognosis,cran
 EQUALrepeat,cran
 EQUALSTATS,cran
-equaltestMI,gabriellajg
 equatags,ardata-fr
 equate,talbano
 equateIRT,micbtz
@@ -14732,6 +14729,7 @@ mycolorsTB,cran
 mycor,cardiomoon
 myCRAN,barryzee
 mygene,bioc
+MyoScore,hirriririir
 myownrobs,myownrobs
 myrror,pip-technical-team
 myTAI,drostlab
@@ -16536,6 +16534,7 @@ peopleanalyticsdata,keithmcnulty
 pep725,matthias-da
 pEPA,kdrachal
 PEPBVS,kcharmpi
+pepdiff,tsl-zz
 pepe,seymakalay
 peperr,fbertran
 PepMapViz,cran
@@ -16666,6 +16665,7 @@ Phase12Compare,cran
 phase12designs,angela-cao
 phase1PRMD,luzhangstat
 phase1RMD,vivienjyin
+PhaseGMM,cran
 PhaseType,louisaslett
 PhaseTypeR,rivasiker
 phateR,scottgigante
@@ -16938,10 +16938,8 @@ PlateVision,probablyshubham
 PlatformDesign,cran
 platowork,lassehjorthmadsen
 plattice,cran
-Platypus,cran
 plausibounds,simonfreyaldenhoven
 plavaan,marklhc
-play,cran
 player,rossellhayes
 PlayerChart,amalpanwar
 PlayerRatings,ste6an-hub
@@ -18454,6 +18452,7 @@ rapidcodeR,cran
 RapidFuzz,strategicprojects
 rapidjsonr,cran
 rapidoc,meztez
+RapidoPGS,grealesm
 rapidphylo,arindamroychoudhury
 RapidPolygonLookup,markusloecher
 rapidraker,crew102
@@ -19095,6 +19094,7 @@ refuge,evanodell
 refugees,populationstatistics
 refund,refunders
 refund.shiny,refunders
+refundBayes,zirenjiang
 RegAssure,nrubiog
 RegCalReliab,lbw080526
 regclass,profpetrie
@@ -19289,6 +19289,7 @@ reReg,stc04003
 resample,timhesterberg
 resampledata,rudeboybert
 resampledata3,timhesterberg
+rescomp,pyrrhicpachyderm
 resde,ogarciav
 resemble,l-ramirez-lopez
 reservoir,critical-infrastructure-systems-lab
@@ -19661,6 +19662,7 @@ rjd3jars,tanguybarthelemy
 rjd3providers,rjdverse
 rjd3toolkit,rjdverse
 rjd3tramoseats,rjdverse
+rjd3workspace,rjdverse
 rjd3x13,rjdverse
 RJDBC,s-u
 RJDemetra,rjdverse
@@ -20847,7 +20849,6 @@ saros.base,nifu-no
 SARP.compo,ecuris
 SARP.moodle,ecuris
 sarp.snowprofile,phaegeli
-sarp.snowprofile.alignment,fherla
 sarp.snowprofile.pyface,fherla
 sars,txm676
 sarsop,boettiger-lab
@@ -21702,6 +21703,7 @@ shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
 shinyrecipes,albertoalmuinha
+shinyreprex,ascentsoftware
 shinyRGL,trestletech
 shinySbm,jo-theo
 shinyscholar,simon-smart88
@@ -23471,6 +23473,7 @@ survIDINRI,cran
 survidm,sestelo
 SurviMChd,atanubhattacharjee
 SurvImpute,cran
+survinger,cuiweig
 survival,therneau
 SurvivalClusteringTree,luyouepiusf
 survivalmodels,foucher-y
@@ -23655,6 +23658,7 @@ synthesis,zejiang-unsw
 synthesisr,mjwestgate
 synthesizer,markvanderloo
 SynthETIC,agi-lab
+syntheticdata,cuiweig
 synthpop,bnowok
 synthReturn,davidkreitmeir
 SynthTools,charlotteloobyrti
