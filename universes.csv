@@ -1219,6 +1219,7 @@ Ball,mamba413
 ballgown,bioc
 BALLI,cran
 BallMapper,pdlotko
+balnet,anumbat
 BaM,jgill22
 bama,umich-cphds
 BAMBI,c7rishi
@@ -1416,6 +1417,7 @@ BayesKnockdown,bioc
 BayesLCA,itsarthurwhite
 bayesLife,hanase
 bayeslist,cran
+bayeslm,jingyuhe
 BayesLN,agardini
 BayesLogit,jwindle
 bayeslongitudinal,edjcastilloca
@@ -1980,6 +1982,7 @@ bipl5,ruanbuys
 biplotbootGUI,ananieto
 biplotEZ,muvisu
 birankr,brianaronson
+birdcolors,cran
 birddog,roneyfraga
 birdie,corymccartan
 birdnetR,birdnet-team
@@ -4480,6 +4483,7 @@ cshapes,lucgirardin
 CSHShydRology,cshs-hydrology
 CSIndicators,cran
 csmaps,raubreywhite
+csmbuilder,palderman
 CSMES,koendebock
 csmGmm,ryansunwork
 csmpv,ajiangsfu
@@ -6061,6 +6065,7 @@ EasyCellType,bioc
 easycensus,corymccartan
 easyclimate,verughub
 easyCODA,michaelgreenacre
+easyComment,cran
 easydb,selkamand
 easyDes,marsdu1989
 EasyDescribe,nie-xiuquan
@@ -8675,7 +8680,6 @@ GetBCBData,msperlin
 getCRUCLdata,ropensci
 getDEE2,bioc
 GETdesigns,ashutoshdalal97
-GetDFPData,msperlin
 GetDFPData2,msperlin
 getDTeval,mb4511
 GetFREData,msperlin
@@ -10645,7 +10649,7 @@ ILoReg,bioc
 ILRCM,atanubhattacharjee
 ILS,mflores72000
 ILSAmerge,dopatendo
-ILSAstats,cran
+ILSAstats,dopatendo
 ILSM,weichengsun
 imabc,c-rutter
 image.binarization,digi-vub
@@ -12111,6 +12115,7 @@ lincom,cran
 LindenmayeR,bryanhanson
 lindia,yeukyul
 LindleyPowerSeries,tragedybmc127
+lineagefreq,cuiweig
 lineagespot,bioc
 linearModel,cran
 LinearRegressionMDE,cran
@@ -12461,6 +12466,7 @@ lsasim,tmatta
 lsbs,weng-gw
 LSD,birdumbrella
 lsdbc,ulandarisyamsudin
+LSDinterface,santannaks
 LSDirf,santannaks
 LSE,sergio05acm
 LSEbootLS,nicolas-udec
@@ -12615,6 +12621,7 @@ maicChecks,l-yau
 maicplus,hta-pharma
 MAICtools,cran
 maidr,xability
+MAIHDA,hdbt
 mailchimpR,pablosanmar
 mailmerge,andrie
 mailR,rpremrajgit
@@ -13889,6 +13896,7 @@ MLSeq,bioc
 mlsjunkgen,scumdogsteev
 MLSP,cran
 mlspatial,azizadeboye
+mlstm,thimeno1993
 mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
 mlt,r-forge
@@ -14214,6 +14222,7 @@ MplusLGM,olivierpds
 mplusParallel.automation,jakewplantz
 MplusTrees,cran
 mpm,r-forge
+mpmaggregate,hinrich62
 mpmcorrelogram,cran
 mpmi,r-forge
 mpmsim,jonesor
@@ -14542,6 +14551,7 @@ MultiPhen,cran
 MultipleBreakpoints,cran
 MultipleBubbles,pedroharaujo
 multipleDL,yuqitian35
+multipleITScontrol,herts-phei
 multipleNCC,cran
 multipleOutcomes,zhangh12
 MultipleRegression,cran
@@ -15542,6 +15552,7 @@ ODRF,liuyu-star
 ODS,yinghao-pan
 odseq,bioc
 ODT,katynasada
+OdysseusSurvivalModule,a1exanderalexeyuk
 odyssey,nfrerebeau
 OECD,expersso
 oecdoda,tidy-intelligence
@@ -16552,6 +16563,7 @@ peramo,phamdn
 perARMA,klona9
 Perc,hanettools
 perccalc,cimentadaj
+percentiles,cran
 PerFit,jorgetendeiro
 PerfMeas,gvalentini58
 performance,easystats
@@ -18525,6 +18537,7 @@ rATTAINS,mps9506
 rattle,gjwgit
 Ravages,cran
 ravecore,rave-ieeg
+ravel,msaule
 ravelRy,walkerkq
 raven.rdf,raven-computing
 RavenR,rchlumsk
@@ -21032,6 +21045,7 @@ scimetr,rubenfcasal
 scimo,abichat
 SCINA,jcao89757
 scINSIGHT,vivianstats
+scip,bnaras
 sciplot,mutualism
 SCIproj,saskiaotto
 scipub,dpagliaccio
@@ -21444,6 +21458,7 @@ serieslcb,cran
 serocalculator,ucd-serg
 serofoi,epiverse-trace
 SerolyzeR,mini-pw
+seroreconstruct,timktsang
 serosv,oucru-modelling
 SeroTrackR,dionnecargy
 serp,ejikeugba
@@ -21566,6 +21581,7 @@ shapper,modeloriented
 shapr,norskregnesentral
 shapviz,modeloriented
 shar,r-spatialecology
+shard,bbuchsbaum
 SharedObject,bioc
 SHARK4R,sharksmhi
 SharkDemography,jonathansmart
@@ -23050,6 +23066,7 @@ starwarsdb,gadenbuie
 STAT,kartikeyabolar
 STAT2,kartikeyabolar
 Stat2Data,statmanrobin
+statAfrikR,damoko2004
 Statamarkdown,hemken
 statar,matthieugomez
 statBasics,gilberto-sassi
@@ -23626,6 +23643,7 @@ symbolicDA,a-dudek-ue
 SymbolicDeterminants,githubwilly
 symDMatrix,quantgen
 symengine,symengine
+symMCD,cran
 symmetry,cran
 symmoments,cran
 symphony,joycekang
@@ -24908,6 +24926,7 @@ TukeyC,jcfaria
 TukeyGH77,tingtingzhan
 tukeytrend,cran
 TULIP,yuqingxx
+tulpaMesh,gcol33
 tumgr,wilkersj
 tune,tidymodels
 TunePareto,hkestler
@@ -26252,6 +26271,7 @@ zitools,bioc
 ZLAvian,cdr-er
 zlib,gentleghostcoder
 zlog,ampel-leipzig
+zmctp,roladoja
 zmisc,torfason
 zoeppritz,jonathanlees
 zoib,cran

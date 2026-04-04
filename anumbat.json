@@ -1,5 +1,10 @@
 [
   {
+    "package": "balnet",
+    "maintainer": "Erik Sverdrup <erik.sverdrup@monash.edu>",
+    "url": "https://github.com/cran/balnet"
+  },
+  {
     "package": "grf",
     "maintainer": "Erik Sverdrup <erik.sverdrup@monash.edu>",
     "url": "https://github.com/cran/grf"
