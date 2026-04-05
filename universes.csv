@@ -386,6 +386,7 @@ ahptopsis2n,raqueldourado
 AHPWR,lucianea
 AHSurv,abdisalammuse
 ai,urniaz
+AIBias,causalfragility-lab
 aIc,ggloor
 AICcmodavg,mamaz7
 AID,osmandag
@@ -533,7 +534,6 @@ ALTopt,robustsource
 altR2,karchjd
 ALUES,alstat
 amadeus,niehs
-amanida,mariallr
 amanpg,cran
 amap,antoinelucas64
 amapGeocode,womeimingzi11
@@ -3215,7 +3215,6 @@ cigarillo,bioc
 CIM,patnik
 CIMICE,bioc
 cimir,mkoohafkan
-CIMPLE,cran
 CimpleG,costalab
 CIMTx,jiayiji
 cinaR,eonurk
@@ -4782,7 +4781,6 @@ DataClean,xiaoruizhu
 datacleanr,the-hull
 datacommons,tidy-intelligence
 dataCompare,seewe
-dataCompareR,capitalone
 datacult,gilberto-sassi
 datacutr,pharmaverse
 datadictionary,doctorbjones
@@ -5728,7 +5726,6 @@ DoubleCone,cran
 DoubleExpSeq,sean-ruddy
 DoubleML,doubleml
 doubletrouble,bioc
-doublIn,vharntzen
 doubt,moodymudskipper
 douconca,biometris
 doudpackage,cran
@@ -6993,6 +6990,7 @@ ExploreModelMatrix,bioc
 exploreR,cran
 ExploreTheData,ronaldkpearson
 expm,r-forge
+ExpoRiskR,bioc
 export,tomwenseleers
 ExPosition,derekbeaton
 ExposR,expos-model
@@ -7518,7 +7516,7 @@ FinePop,nakamichireiichiro
 FinePop2,cran
 finetune,tidymodels
 FinfoMDS,bioc
-fingerprint,rajarshi
+fingerprint,zachcp
 fingerPro,eead-csic-eesa
 fingertipsR,ropensci
 finiteruinprob,baumgrt
@@ -8191,7 +8189,6 @@ GAGAs,cran
 GAGBLUP,cran
 gage,bioc
 gageRR,warrenjonahb
-gaiah,eriqande
 gainML,hhwangbo
 gains,cran
 GAIPE,yao5566
@@ -8511,7 +8508,6 @@ genMCMCDiag,lukeduttweiler
 GENMETA,kundupro
 geno2proteo,cran
 genodds,hannahjohns
-genogeographer,tvedebrink
 genomation,bioc
 GenomAutomorphism,bioc
 GenomeAdmixR,thijsjanzen
@@ -8520,6 +8516,7 @@ genomeIntervals,bioc
 genomes,bioc
 genomic.autocorr,chr1swallace
 GenomicAlignments,bioc
+GenomicCoordinates,bioc
 GenomicDataCommons,bioc
 GenomicDistributions,bioc
 GenomicFeatures,bioc
@@ -11440,6 +11437,7 @@ just.install,carlosyanez
 justifier,cran
 JustifyAlpha,cran
 jvcoords,seehuhn
+jvecfor,bioc
 JWileymisc,jwiley
 k5,k5cents
 kableExtra,haozhu233
@@ -12468,6 +12466,7 @@ LSD,birdumbrella
 lsdbc,ulandarisyamsudin
 LSDinterface,santannaks
 LSDirf,santannaks
+LSDsensitivity,santannaks
 LSE,sergio05acm
 LSEbootLS,nicolas-udec
 lsei,yong3738
@@ -13219,6 +13218,7 @@ metabinR,bioc
 metaBLUE,cran
 metaBMA,danheck
 MetaboAnnotation,bioc
+MetaboAnnotatoR,bioc
 MetaboCoreUtils,bioc
 metaboData,aberhrml
 metabodecon,spang-lab
@@ -13659,6 +13659,7 @@ mirTarRnaSeq,bioc
 mirtCAT,philchalmers
 miRtest,stephanartmann
 misaem,julierennes
+misc,kguidonimartins
 misc3d,ltierney
 miscF,daifengstat
 miscFuncs,bentaylor1
@@ -15938,7 +15939,6 @@ OrthoPanels,mapickup
 orthopolynom,cran
 orthos,bioc
 ORTSC,mohmedsoudy
-oRus,cran
 OryzaProbe,lym-bioinfo
 OSAT,bioc
 osbng,ordnancesurvey
@@ -16923,7 +16923,6 @@ pksensi,nanhung
 PL94171,corymccartan
 plac,942kid
 placematchr,swediot
-placer,cran
 PlackettLuce,hturner
 plaid,bioc
 plainview,r-spatial
@@ -17148,6 +17147,7 @@ poissoned,coolbutuseless
 PoissonMultinomial,yili-hong
 PoissonPCA,tjk23
 poissonreg,tidymodels
+poissonsuperlearner,cran
 poistweedie,cran
 pokemon,williamorim
 PolarCAP,imehlhaff
@@ -20974,6 +20974,7 @@ SCCI,cran
 scClassify,bioc
 scclust,fsavje
 sccomp,bioc
+scConform,bioc
 sccore,kharchenkolab
 sccr,cran
 SCCS,cran
@@ -21103,6 +21104,7 @@ SCOUTer,cran
 scov,m-metodiev
 scp,bioc
 scPairs,zhaoqing-wang
+scPassport,bioc
 scPCA,bioc
 SCperf,msmarchena
 scperturbR,stefanpeidli
@@ -21954,7 +21956,6 @@ SimplyAgree,arcaldwell49
 SIMplyBee,highlanderlab
 simPop,statistikat
 simpowa,akipingu
-simpr,statisfactions
 simpr.interaction,statisfactions
 simputation,markvanderloo
 simqi,cran
@@ -22424,6 +22425,7 @@ SoupX,constantamateur
 sourcetools,kevinushey
 sourcoise,xtimbeau
 SouthParkRshiny,amalan-constat
+sov,spatial-voting-lab
 sovereign,tylerjpike
 sox,ly129
 SoyNAM,alenxav
@@ -22796,6 +22798,7 @@ spMC,drwolf85
 spmodel,usepa
 spmoran,dmuraka
 spnaf,cran
+SpNeigh,bioc
 spNetwork,jeremygelb
 SpNMF,cran
 spnn,romin-ebrahimi
@@ -24948,7 +24951,6 @@ tvdenoising,glmgen
 tvem,dziakj1
 tvgarch,scmartins
 tvGarchKF,tomas-udec
-tvgeom,cran
 tvm,juancentro
 tvmComp,maheshpkumar
 tvmediation,dcoffman
@@ -24981,7 +24983,6 @@ twitteradsR,pablosanmar
 twitterwidget,guivo
 twl,cran
 twn,redtent
-TwoArmSurvSim,cran
 twoCoprimary,gosukehommaex
 TwoDcDAPSA,lemonade0924
 twoddpcr,bioc

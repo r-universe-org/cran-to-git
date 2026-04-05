@@ -4299,6 +4299,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ExpoRiskR",
+    "maintainer": "Prem Prashant Chaudhary <chaudharyp2@nih.gov>",
+    "url": "https://github.com/ppchaudhary/exporiskr",
+    "registry": "bioc"
+  },
+  {
     "package": "ExpressionAtlas",
     "maintainer": "Anil Thanki <anilthanki@ebi.ac.uk>",
     "url": "https://github.com/ebi-gene-expression-group/bioconductor-expressionatlas",
@@ -5106,6 +5112,12 @@
     "package": "GenomicAlignments",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/genomicalignments",
+    "registry": "bioc"
+  },
+  {
+    "package": "GenomicCoordinates",
+    "maintainer": "Jacques Serizay <jacquesserizay@gmail.com>",
+    "url": "https://github.com/js2264/genomiccoordinates",
     "registry": "bioc"
   },
   {
@@ -6693,6 +6705,12 @@
     "registry": "bioc"
   },
   {
+    "package": "jvecfor",
+    "maintainer": "Anestis Gkanogiannis <anestis@gkanogiannis.com>",
+    "url": "https://github.com/gkanogiannis/jvecfor",
+    "registry": "bioc"
+  },
+  {
     "package": "karyoploteR",
     "maintainer": "Bernat Gel <bgel@igtp.cat>",
     "url": "https://github.com/bernatgel/karyoploter",
@@ -7482,6 +7500,12 @@
     "package": "MetaboAnnotation",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/metaboannotation",
+    "registry": "bioc"
+  },
+  {
+    "package": "MetaboAnnotatoR",
+    "maintainer": "Goncalo Graca <ggraca22@gmail.com>",
+    "url": "https://github.com/gggraca/metaboannotator",
     "registry": "bioc"
   },
   {
@@ -11530,6 +11554,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scConform",
+    "maintainer": "Daniela Corbetta <daniela.corbetta@unipd.it>",
+    "url": "https://github.com/ccb-hms/scconform",
+    "registry": "bioc"
+  },
+  {
     "package": "scDataviz",
     "maintainer": "Kevin Blighe <kevin@clinicalbioinformatics.co.uk>",
     "url": "https://github.com/kevinblighe/scdataviz",
@@ -11725,6 +11755,12 @@
     "package": "scp",
     "maintainer": "Christophe Vanderaa <christophe.vanderaa@ugent.be>",
     "url": "https://github.com/uclouvain-cbio/scp",
+    "registry": "bioc"
+  },
+  {
+    "package": "scPassport",
+    "maintainer": "Sedat Kacar <sedatkacar56@gmail.com>",
+    "url": "https://github.com/sedatkacar56/scpassport",
     "registry": "bioc"
   },
   {
@@ -12739,6 +12775,12 @@
     "package": "splots",
     "maintainer": "Wolfgang Huber <wolfgang.huber@embl.org>",
     "url": "https://git.bioconductor.org/packages/splots",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpNeigh",
+    "maintainer": "Jinming Cheng <jinming.cheng@outlook.com>",
+    "url": "https://github.com/jinming-cheng/spneigh",
     "registry": "bioc"
   },
   {

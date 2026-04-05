@@ -219,6 +219,7 @@ AhoCorasickTrie,https://github.com/chambm/ahocorasicktrie,,
 AHPGaussian,https://github.com/cidedson/ahpgaussian,,
 AHPtools,https://github.com/amarnathbose/ahptools,,
 ai,https://github.com/urniaz/ai,ai,
+AIBias,https://github.com/causalfragility-lab/aibias,,
 aIc,https://github.com/ggloor/aic,,
 AiES,https://github.com/breezycave/aies,,
 aifeducation,https://github.com/fberding/aifeducation,,
@@ -301,7 +302,6 @@ altfuelr,https://github.com/burch-cm/altfuelr,,
 altR2,https://github.com/karchjd/altr2,,
 ALUES,https://github.com/alstat/alues,,
 amadeus,https://github.com/niehs/amadeus,,
-amanida,https://github.com/mariallr/amanida,,archived
 amapGeocode,https://github.com/womeimingzi11/amapgeocode,,
 amapro,https://github.com/helgasoft/amapro,,
 AMAPVox,https://github.com/umr-amap/amapvox,,
@@ -495,7 +495,6 @@ arctools,https://github.com/martakarass/arctools,,
 ArctosR,https://github.com/hrhwilliams/arctosr,,
 aRD,https://github.com/uds-mf-imbei/ard,,
 ARDL,https://github.com/natsiopoulos/ardl,,
-ardlverse,https://github.com/muhammedalkhalaf/ardlverse,,
 ards,https://github.com/dbosak01/ards,,
 area,https://github.com/hypertidy/area,,
 areal,https://github.com/chris-prener/areal,,
@@ -876,7 +875,7 @@ BayesGPfit,https://github.com/kangjian2016/bayesgpfit,,
 BayesGrowth,https://github.com/jonathansmart/bayesgrowth,,
 bayesian,https://github.com/hsbadr/bayesian,,
 BayesianDisaggregation,https://github.com/isadorenabi/bayesiandisaggregation,,
-BayesianLasso,https://github.com/garthtarr/bayesianlasso,,archived
+BayesianLasso,https://github.com/garthtarr/bayesianlasso,,
 BayesianLaterality,https://github.com/lcbc-uio/bayesianlaterality,,
 BayesianMCPMod,https://github.com/boehringer-ingelheim/bayesianmcpmod,,
 BayesianNetwork,https://github.com/paulgovan/bayesiannetwork,,
@@ -2426,6 +2425,7 @@ CompositeReliability,https://github.com/jmoonen/compositereliabilityinnesteddesi
 compositeReliabilityInNestedDesigns,https://github.com/jmoonen/compositereliabilityinnesteddesigns,,
 compositional.mle,https://github.com/queelius/compositional.mle,,
 CompoundDb,https://github.com/rformassspectrometry/compounddb,,bioc
+CompoundEvents,https://github.com/drought/compoundevents,,
 CompPareto,https://github.com/liuaber/comppareto,,
 comprehenr,https://github.com/gdemin/comprehenr,,
 compSPOT,https://github.com/sydney-grant/compspot,,bioc
@@ -2995,7 +2995,6 @@ DataClean,https://github.com/xiaoruizhu/dataclean,,
 datacleanr,https://github.com/the-hull/datacleanr,,
 datacommons,https://github.com/tidy-intelligence/r-datacommons,,
 dataCompare,https://github.com/seewe/datacompare,,
-dataCompareR,https://github.com/capitalone/datacomparer,dataCompareR,archived
 datacutr,https://github.com/pharmaverse/datacutr,,
 datadictionary,https://github.com/doctorbjones/datadictionary,,
 datadiff,https://github.com/thinkr-open/datadiff,,
@@ -3607,7 +3606,6 @@ dotty,https://github.com/kevinushey/dotty,,
 dotwhisker,https://github.com/fsolt/dotwhisker,,
 DoubleML,https://github.com/doubleml/doubleml-for-r,,
 doubletrouble,https://github.com/almeidasilvaf/doubletrouble,,bioc
-doublIn,https://github.com/vharntzen/doublin,,archived
 doubt,https://github.com/moodymudskipper/doubt,,
 douconca,https://github.com/biometris/douconca,,
 Dowd,https://github.com/d-acharya/dowd,,
@@ -4392,6 +4390,7 @@ exploratory,https://github.com/jinkim3/exploratory,,
 explore,https://github.com/rolkra/explore,,
 ExploreModelMatrix,https://github.com/csoneson/exploremodelmatrix,,bioc
 expm,https://github.com/r-forge/expm,pkg,
+ExpoRiskR,https://github.com/ppchaudhary/exporiskr,,bioc
 export,https://github.com/tomwenseleers/export,,
 ExPosition,https://github.com/derekbeaton/exposition1,ExPosition,
 ExposR,https://github.com/expos-model/exposr,,
@@ -5001,7 +5000,6 @@ fpROC,https://github.com/luismurao/fproc,,
 fqacalc,https://github.com/ecomodteam/fqacalc,,
 fqadata,https://github.com/ecomodteam/fqadata,,
 fqar,https://github.com/equitable-equations/fqar,,
-fqardl,https://github.com/muhammedalkhalaf/fqardl,,
 fr,https://github.com/cole-brokamp/fr,,
 frab,https://github.com/robinhankin/frab,,
 fracdiff,https://github.com/mmaechler/fracdiff,,
@@ -5168,7 +5166,6 @@ GACE,https://github.com/vinoalles/gace,,
 gadget3,https://github.com/gadget-framework/gadget3,,
 gage,https://github.com/datapplab/gage,,bioc
 gageRR,https://github.com/warrenjonahb/gagerr,,
-gaiah,https://github.com/eriqande/gaiah,,archived
 gainML,https://github.com/hhwangbo/gainml,,
 galah,https://github.com/atlasoflivingaustralia/galah-r,,
 galamm,https://github.com/lcbc-uio/galamm,,
@@ -5348,6 +5345,7 @@ GenomeAdmixR,https://github.com/thijsjanzen/genomeadmixr,,
 GenomeInfoDb,https://github.com/bioconductor/genomeinfodb,,bioc
 genomic.autocorr,https://github.com/chr1swallace/genomic.autocorr,,
 GenomicAlignments,https://github.com/bioconductor/genomicalignments,,bioc
+GenomicCoordinates,https://github.com/js2264/genomiccoordinates,,bioc
 GenomicDataCommons,https://github.com/bioconductor/genomicdatacommons,,bioc
 GenomicDistributions,https://github.com/databio/genomicdistributions,,bioc
 GenomicFeatures,https://github.com/bioconductor/genomicfeatures,,bioc
@@ -7215,6 +7213,7 @@ junctions,https://github.com/thijsjanzen/junctions,,
 just.install,https://github.com/carlosyanez/just.install,,
 justifier,https://codeberg.org/r-packages/justifier,,
 jvcoords,https://github.com/seehuhn/jvcoords,,
+jvecfor,https://github.com/gkanogiannis/jvecfor,,bioc
 JWileymisc,https://github.com/jwiley/jwileymisc,,
 k5,https://github.com/k5cents/k5,,
 kableExtra,https://github.com/haozhu233/kableextra,,
@@ -8309,6 +8308,7 @@ metabias,https://github.com/mathurlabstanford/metabias,,
 metabinR,https://github.com/gkanogiannis/metabinr,,bioc
 metaBMA,https://github.com/danheck/metabma,,
 MetaboAnnotation,https://github.com/rformassspectrometry/metaboannotation,,bioc
+MetaboAnnotatoR,https://github.com/gggraca/metaboannotator,,bioc
 MetaboCoreUtils,https://github.com/rformassspectrometry/metabocoreutils,,bioc
 metaboData,https://github.com/aberhrml/metabodata,,
 metabodecon,https://github.com/spang-lab/metabodecon,,
@@ -8576,6 +8576,7 @@ miRspongeR,https://github.com/zhangjunpeng411/mirsponger,,bioc
 mirt,https://github.com/philchalmers/mirt,,
 mirtCAT,https://github.com/philchalmers/mirtcat,,
 misaem,https://github.com/julierennes/misaem,,
+misc,https://github.com/kguidonimartins/misc,,
 misc3d,https://gitlab.com/luke-tierney/misc3d,,
 MiscMetabar,https://github.com/adrientaudiere/miscmetabar,,
 miscTools,https://github.com/arne-henningsen/misctools,,
@@ -13318,6 +13319,7 @@ scCB2,https://github.com/zijianni/sccb2,,bioc
 scClassify,https://github.com/sydneybiox/scclassify,,bioc
 scclust,https://github.com/fsavje/scclust-r,,
 sccomp,https://github.com/mangiolalaboratory/sccomp,,bioc
+scConform,https://github.com/ccb-hms/scconform,,bioc
 sccore,https://github.com/kharchenkolab/sccore,,
 scCustomize,https://github.com/samuel-marsh/sccustomize,,
 scDataviz,https://github.com/kevinblighe/scdataviz,,bioc
@@ -13408,6 +13410,7 @@ scoup,https://github.com/thsadiq/scoup,,bioc
 scov,https://github.com/m-metodiev/scov,,
 scp,https://github.com/uclouvain-cbio/scp,,bioc
 scPairs,https://github.com/zhaoqing-wang/scpairs,,
+scPassport,https://github.com/sedatkacar56/scpassport,,bioc
 scPCA,https://github.com/philboileau/scpca,,bioc
 SCperf,https://github.com/msmarchena/scperf,,
 scPipe,https://github.com/luyitian/scpipe,,bioc
@@ -13988,7 +13991,6 @@ SimplyAgree,https://github.com/arcaldwell49/simplyagree,,
 SIMplyBee,https://github.com/highlanderlab/simplybee,,
 simPop,https://github.com/statistikat/simpop,,
 simpowa,https://github.com/akipingu/simpowa,,
-simpr,https://github.com/statisfactions/simpr,,archived
 simpr.interaction,https://github.com/statisfactions/simpr.interaction,,
 simputation,https://github.com/markvanderloo/simputation,pkg,
 simr,https://github.com/pitakakariki/simr,,
@@ -14284,6 +14286,7 @@ SoupX,https://github.com/constantamateur/soupx,,
 sourcetools,https://github.com/kevinushey/sourcetools,,
 sourcoise,https://github.com/xtimbeau/sourcoise,,
 SouthParkRshiny,https://github.com/amalan-constat/southparkrshiny,,
+sov,https://github.com/spatial-voting-lab/sov,,
 sovereign,https://github.com/tylerjpike/sovereign,,archived
 SoyNAM,https://github.com/alenxav/soynam,,
 SoyURT,https://github.com/mdkrause/soyurt,,
@@ -14530,6 +14533,7 @@ splusTimeSeries,https://github.com/spkaluzny/splustimeseries,,
 spMaps,https://github.com/rte-antares-rpackage/spmaps,,
 spMC,https://github.com/drwolf85/spmc,,
 spmodel,https://github.com/usepa/spmodel,,
+SpNeigh,https://github.com/jinming-cheng/spneigh,,bioc
 spNetwork,https://github.com/jeremygelb/spnetwork,,
 spnn,https://github.com/romin-ebrahimi/spnn,,
 spocc,https://github.com/ropensci/spocc,,

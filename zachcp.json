@@ -1,5 +1,10 @@
 [
   {
+    "package": "fingerprint",
+    "maintainer": "Zach Charlop-Powers <zach.charlop.powers@gmail.com>",
+    "url": "https://github.com/cran/fingerprint"
+  },
+  {
     "package": "msaR",
     "maintainer": "Zachary Charlop-Powers <zach.charlop.powers@gmail.com>",
     "url": "https://github.com/zachcp/msar"
