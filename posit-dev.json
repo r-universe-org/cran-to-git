@@ -52,11 +52,6 @@
     "subdir": "pkg-r"
   },
   {
-    "package": "shinylive",
-    "maintainer": "Barret Schloerke <barret@posit.co>",
-    "url": "https://github.com/posit-dev/r-shinylive"
-  },
-  {
     "package": "snowflakeauth",
     "maintainer": "E. David Aja <david@posit.co>",
     "url": "https://github.com/posit-dev/snowflakeauth"
