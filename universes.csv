@@ -322,6 +322,7 @@ africamonitor,sebkrantz
 aftables,best-practice-and-impact
 aftgee,stc04003
 afthd,atanubhattacharjee
+aftPenCDA,seonsy
 aftR2,wangyuyao98
 aftsem,benedma2
 afttest,woojungbae
@@ -943,6 +944,7 @@ aSPU,ikwak2
 asremlPlus,briencj
 ASRgenomics,sgezan
 ASSA,extremestats
+assemblykor,kyusik-yang
 assert,olivierbinette
 assertable,gnguy
 assertHE,dark-peak-analytics
@@ -4410,7 +4412,7 @@ crossfit,etiennepeyrot
 crosshap,jacobimarsh
 crosslag,curiousxx
 crossmap,rossellhayes
-crossmatch,cran
+crossmatch,mariekestolte
 crossnma,htx-r
 Crossover,kornl
 crossrun,torewentzel-larsen
@@ -4828,7 +4830,7 @@ datasets.load,bquast
 datasetsICR,cran
 DataSetsUni,imranshakoor
 DataSetsVerse,lightbluetitan
-DataSimilarity,cran
+DataSimilarity,mariekestolte
 DataSpaceR,ropensci
 dataspice,ropensci
 datastat,atchanut
@@ -5326,7 +5328,6 @@ dichromat,cran
 DICOMread,cran
 DIconvex,cran
 Dict,five-dots
-dictionar6,xoopr
 dictionaRy,stevecondylios
 did,bcallaway11
 did2s,kylebutts
@@ -7835,6 +7836,7 @@ forensicpopdata,mkruijver
 forensim,mkruijver
 foreSIGHT,climateanalytics
 forestat,caf-ifrit
+forestBalance,jaredhuling
 forestControl,aberhrml
 ForestDisc,hmais
 forestecology,rudeboybert
@@ -11030,6 +11032,7 @@ ipflasso,boulesteix
 ipfp,awblocker
 ipfr,dkyleward
 ipft,esansano
+ipgeolocation,devjfreaks
 ipkg,chuxinyuan
 IPLGP,py-chung
 iplookupapi,dominikkukacka
@@ -12736,6 +12739,7 @@ maps,adeckmyn
 mapsapi,michaeldorman
 mapscanner,ropensci
 mapscape,bioc
+mapSenegal,mapsenegal
 mapsf,riatelab
 mapsFinland,jkhaukka
 mapSpain,ropenspain
@@ -13202,6 +13206,7 @@ meshes,bioc
 meshr,bioc
 MesKit,bioc
 mesonet,palderman
+MEsreg,woraphonyamaka
 MESS,ekstroem
 messaging,rich-iannone
 messi,umich-cphds
@@ -13821,7 +13826,7 @@ MLEce,ijun2018
 MLEcens,cran
 mlegp,gdancik
 mlelod,gregorsega
-mlergm,cran
+mlergm,jrstew
 MLeval,crj32
 mlexperiments,kapsner
 mlf,kdpeterson51
@@ -17608,6 +17613,7 @@ proftools,ltierney
 profvis,r-lib
 progeny,bioc
 progress,r-lib
+progressify,futureverse
 progressr,futureverse
 PROJ,hypertidy
 proj4,s-u
@@ -18946,6 +18952,7 @@ readBrukerFlexData,sgibb
 readbulk,pascalkieslich
 ReadDIM,subhadipdatta
 readecb,charlescoverdale
+readelan,borstell
 readepi,epiverse-trace
 reader,nicholasjcooper
 readHAC,kaskr
@@ -19123,7 +19130,7 @@ regexPipes,cran
 regexSelect,yonicd
 regextable,judgelord
 reghelper,jeff-hughes
-RegimeChange,cran
+RegimeChange,isadorenabi
 regional,nowosad
 RegionalConsistency,gosukehommaex
 regionalpcs,bioc
@@ -21026,6 +21033,7 @@ scHiCcompare,bioc
 schoenberg,jadahlke
 scholar,yulab-smu
 scholid,thomas-rauter
+scholidonline,thomas-rauter
 SchoolDataIT,lcef97
 schoolmath,cran
 schoRsch,cran
@@ -21686,6 +21694,7 @@ shinyKGode,glasgowcompbio
 shinyKnobs,cotepat
 shinylight,tim-band
 ShinyLink,cdc-addm
+shinylive,posit-dev
 shinyloadtest,rstudio
 shinylogs,dreamrs
 shinyLottie,camhowitt
@@ -23880,7 +23889,6 @@ TDCM,cotterell
 tdcmStan,atlas-aai
 TDCor,lucasmikael
 TDIagree,annafelip-badia
-tdigest,hrbrmstr
 TDLM,rtdlm
 TDPanalysis,mxdurand
 tdPRC,kmbeyene
@@ -25062,6 +25070,7 @@ uisapi,tidy-intelligence
 uiucthemes,illinois-r
 uk2us,bldavies
 ukbabynames,mine-cetinkaya-rundel
+ukbflow,evanbio
 ukbnmr,sritchie73
 ukc19,ai4ci
 UKFE,agqhammond
@@ -25871,6 +25880,7 @@ whitewater,joshualerickson
 whoa,eriqande
 whoami,r-lib
 whomds,lindsayevanslee
+WHORiskCalculator,cran
 whSample,km4ivi
 wid,cran
 widals,davezes
