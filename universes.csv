@@ -2895,6 +2895,7 @@ ceas,jamespeapen
 ceblR,awosoga
 CEC,swarm-lab
 CEDA,cran
+CEDMr,causalfragility-lab
 CEEMDANML,sandipgarai
 ceg,ptaranti
 CEGO,martinzaefferer
@@ -5820,6 +5821,7 @@ DRIP,kangy10
 driveR,egeulgen
 DriverNet,bioc
 drMAIC,heorlytics
+drmeta,causalfragility-lab
 droll,cran
 DRomics,lbbe-software
 drone,thiyangtdata
@@ -7204,6 +7206,7 @@ fastDummies,jacobkap
 fastei,danielhermosilla
 fasterize,hypertidy
 fasterRaster,adamlilith
+fastFGEE,gloewing
 fastFMM,gloewing
 fastfocal,hoyiwan
 FastGaSP,uncertaintyquantification
@@ -9383,6 +9386,7 @@ gps,zheyuanli
 gps.track,wagnnerms97
 GPSCDF,cran
 GPSeqClus,cran
+gpss,doeun-kim
 GPTCM,ocbe-uio
 gptoolsStan,tillahoffmann
 gptr,broccolito
@@ -9990,6 +9994,7 @@ hesim,hesim-dev
 HEssRNA,bmgfiasri
 hetcorFS,cran
 HeterFunctionalData,hwanggit
+heterocop,ekaterinatomilina
 heterogen,patauchi
 heterometa,deweyme
 heteromixgm,cran
@@ -10903,6 +10908,7 @@ integIRTy,cran
 integr,peleplay
 IntegrateBs,cran
 IntegratedJM,cran
+integrity,darios
 inteli,minqk-acr
 intendo,rich-iannone
 intensegRid,kkulma
@@ -14930,6 +14936,7 @@ nestedLogit,friendly
 NestedMenu,stla
 nestedpp,cran
 nestfs,mcol
+Nestimate,mohsaqr
 NestMRMC,didsr
 nestr,emitanaka
 net4pg,laurafancello
@@ -15711,7 +15718,6 @@ OOBCurve,philipppro
 oolong,gesistsa
 oompaBase,r-forge
 oompaData,r-forge
-ooplah,xoopr
 OOR,mbinois
 oosse,sthawinke
 oottest,philippkuelpmann
@@ -21693,7 +21699,6 @@ shinykanban,ugurdar
 shinyKGode,glasgowcompbio
 shinyKnobs,cotepat
 shinylight,tim-band
-ShinyLink,cdc-addm
 shinylive,posit-dev
 shinyloadtest,rstudio
 shinylogs,dreamrs
@@ -22216,6 +22221,7 @@ smfsb,darrenjw
 smicd,chiquadrat
 smidm,cran
 smile,lcgodoy
+smimodel,nuwani-palihawadana
 smirnov,ashipunov
 SMITE,bioc
 SmithWilsonYieldCurve,philjoubert
@@ -22491,6 +22497,7 @@ sparklyr.nested,mitre
 sparktex,leeper
 sparktf,cran
 sparkxgb,edgararuiz
+sparqlr,sib-swiss
 sparr,tilmandavies
 SPARRAfairness,jamesliley
 sparrow,bioc
@@ -22498,6 +22505,7 @@ sparrpowR,machiela-lab
 SparseArray,bioc
 SparseBiplots,mitzicubillamontilla
 SparseChol,samuel-watson
+sparsecommunity,neil-sps
 sparseCov,chexjiang
 SparseDC,jli-stat
 sparseDFM,cran
@@ -23045,6 +23053,7 @@ standardlastprofile,flrd
 standartox,andschar
 standby,rsquaredacademy
 standR,bioc
+standrecon,kriggithub
 StanHeaders,stan-dev
 staninside,medewitt
 StanMoMo,kabarigou
@@ -23557,6 +23566,7 @@ sValues,carloscinelli
 svaNUMT,bioc
 svaRetro,bioc
 svars,alexanderlange53
+SVARtca,muhammedalkhalaf
 svd,asl
 svDialogs,sciviews
 svDialogstcltk,sciviews
@@ -23833,7 +23843,6 @@ taxlist,ropensci
 taxnames,kamapu
 taxodist,rodrigosqrt3
 taxonomizr,sherrillmix
-taxotools,vijaybarve
 TaxSEA,bioc
 taylor,wjakethompson
 TaylorRussell,nwaller
@@ -23944,7 +23953,7 @@ TempStable,tmoek
 tempted,pixushi
 Tendril,astrazeneca
 TENET,bioc
-tenispolaR,adelmofilho
+tenispolaR,aadelmo
 tenm,luismurao
 tensor,cran
 tensorA,cran
@@ -25568,6 +25577,7 @@ vivaldi,greshamlab
 vivid,alaninglis
 vivo,modeloriented
 vizdraws,ignacio82
+VizModules,j-andrews7
 VizTest,cran
 vkR,dementiy
 VLF,tathey
@@ -25827,6 +25837,7 @@ WeightedROC,tdhock
 weightedScores,cran
 weightedsurv,larry-leon
 WeightedTreemaps,m-jahn
+weightedVoronoi,harriraven
 WeightIt,ngreifer
 WeightMyItems,afarukkilic
 weightQuant,vivianephilipps
@@ -25893,8 +25904,6 @@ WienR,raphaelhartmann
 wig,ramiromagno
 wiggleplotr,bioc
 wikibooks,cran
-WikidataQueryServiceR,wikimedia
-WikidataR,ts404
 wikifacts,keithmcnulty
 wikilake,jsta
 WikipediR,ironholds
@@ -25932,7 +25941,6 @@ withr,r-lib
 wizaRdry,belieflab
 wk,paleolimbot
 wkb,ianmcook
-wklsr,tbanken
 wkpool,hypertidy
 wktmo,leoly2017
 WLogit,clavie3009

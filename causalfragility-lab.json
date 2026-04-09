@@ -15,6 +15,11 @@
     "url": "https://github.com/causalfragility-lab/causalspline"
   },
   {
+    "package": "CEDMr",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/cedmr"
+  },
+  {
     "package": "confoundvis",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/confoundvis"
@@ -23,6 +28,11 @@
     "package": "decisionpaths",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/decisionpaths"
+  },
+  {
+    "package": "drmeta",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/drmeta"
   },
   {
     "package": "metaLong",
