@@ -10,6 +10,11 @@
     "url": "https://github.com/ggsegverse/ggseg.formats"
   },
   {
+    "package": "ggseg.meshes",
+    "maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>",
+    "url": "https://github.com/ggsegverse/ggseg.meshes"
+  },
+  {
     "package": "ggseg3d",
     "maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>",
     "url": "https://github.com/ggsegverse/ggseg3d"
