@@ -3490,7 +3490,7 @@
   },
   {
     "package": "DEXSeq",
-    "maintainer": "Alejandro Reyes <alejandro.reyes.ds@gmail.com>",
+    "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
     "url": "https://git.bioconductor.org/packages/DEXSeq",
     "registry": "bioc"
   },
@@ -5655,6 +5655,12 @@
     "registry": "bioc"
   },
   {
+    "package": "GSABenchmark",
+    "maintainer": "Andrei-Florian Stoica <andreistoica@foxmail.com>",
+    "url": "https://github.com/andrei-stoica26/gsabenchmark",
+    "registry": "bioc"
+  },
+  {
     "package": "GSALightning",
     "maintainer": "Billy Heung Wing Chang <billyheungwing@gmail.com>",
     "url": "https://github.com/billyhw/gsalightning",
@@ -5808,6 +5814,12 @@
     "package": "h5vc",
     "maintainer": "Paul Theodor Pyl <paul.theodor.pyl@gmail.com>",
     "url": "https://git.bioconductor.org/packages/h5vc",
+    "registry": "bioc"
+  },
+  {
+    "package": "hammers",
+    "maintainer": "Andrei-Florian Stoica <andreistoica@foxmail.com>",
+    "url": "https://github.com/andrei-stoica26/hammers",
     "registry": "bioc"
   },
   {
@@ -6772,7 +6784,7 @@
   },
   {
     "package": "kissDE",
-    "maintainer": "Aurélie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
+    "maintainer": "Aurelie Siberchicot <aurelie.siberchicot@univ-lyon1.fr>",
     "url": "https://github.com/lbbe-software/kissde",
     "registry": "bioc"
   },
@@ -10750,6 +10762,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RFGeneRank",
+    "maintainer": "Abdulaziz Albeshri <a.z.a1410@hotmail.com>",
+    "url": "https://github.com/abdulaziz-albeshri/rfgenerank",
+    "registry": "bioc"
+  },
+  {
     "package": "RFLOMICS",
     "maintainer": "Nadia Bessoltane <nadia.bessoltane@inrae.fr>",
     "url": "https://github.com/rflomics/rflomics",
@@ -11680,6 +11698,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scLang",
+    "maintainer": "Andrei-Florian Stoica <andreistoica@foxmail.com>",
+    "url": "https://github.com/andrei-stoica26/sclang",
+    "registry": "bioc"
+  },
+  {
     "package": "scmap",
     "maintainer": "Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>",
     "url": "https://github.com/hemberg-lab/scmap",
@@ -12562,6 +12586,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SpatialArtifacts",
+    "maintainer": "Harriet Jiali He <jhe46@jh.edu>",
+    "url": "https://github.com/cambridgecat13/spatialartifacts",
+    "registry": "bioc"
+  },
+  {
     "package": "SpatialCPie",
     "maintainer": "Joseph Bergenstraahle <joseph.bergenstrahle@gmail.com>",
     "url": "https://git.bioconductor.org/packages/SpatialCPie",
@@ -12733,6 +12763,12 @@
     "package": "splatter",
     "maintainer": "Luke Zappia <luke@lazappi.id.au>",
     "url": "https://github.com/oshlack/splatter",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpliceImpactR",
+    "maintainer": "Zachary Wakefield <zachpw@bu.edu>",
+    "url": "https://github.com/fiszbein-lab/spliceimpactr",
     "registry": "bioc"
   },
   {
@@ -14112,7 +14148,7 @@
   {
     "package": "wavClusteR",
     "maintainer": "Federico Comoglio <federico.comoglio@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/wavClusteR",
+    "url": "https://github.com/federicocomoglio/wavcluster",
     "registry": "bioc"
   },
   {
@@ -14245,6 +14281,12 @@
     "package": "yarn",
     "maintainer": "Joseph N Paulson <paulson.joseph@gene.com>",
     "url": "https://git.bioconductor.org/packages/yarn",
+    "registry": "bioc"
+  },
+  {
+    "package": "ZarrArray",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/zarrarray",
     "registry": "bioc"
   },
   {

@@ -1,5 +1,10 @@
 [
   {
+    "package": "coda.pack",
+    "maintainer": "Marc Comas-Cufí <mcomas@imae.udg.edu>",
+    "url": "https://github.com/cran/coda.pack"
+  },
+  {
     "package": "coda.plot",
     "maintainer": "Marc Comas-Cufí <mcomas@imae.udg.edu>",
     "url": "https://github.com/cran/coda.plot"
