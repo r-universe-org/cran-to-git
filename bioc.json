@@ -1027,6 +1027,12 @@
     "registry": "bioc"
   },
   {
+    "package": "betterChromVAR",
+    "maintainer": "Pierre-Luc Germain <pierre-luc.germain@hest.ethz.ch>",
+    "url": "https://github.com/plger/betterchromvar",
+    "registry": "bioc"
+  },
+  {
     "package": "bettr",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/federicomarini/bettr",
@@ -7050,6 +7056,12 @@
     "package": "LRcell",
     "maintainer": "Wenjing Ma <wenjing.ma@emory.edu>",
     "url": "https://github.com/marvinquiet/lrcell",
+    "registry": "bioc"
+  },
+  {
+    "package": "LRDE",
+    "maintainer": "Ziyang Liu <jacobleo773@gmail.com>",
+    "url": "https://github.com/ziyang773/lrde",
     "registry": "bioc"
   },
   {
