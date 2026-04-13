@@ -1,7 +1,17 @@
 [
   {
+    "package": "EEMDlstm",
+    "maintainer": "Ronit Jaiswal <ronitjaiswal2912@gmail.com>",
+    "url": "https://github.com/cran/EEMDlstm"
+  },
+  {
     "package": "stlARIMA",
     "maintainer": "Ronit Jaiswal <ronitjaiswal2912@gmail.com>",
     "url": "https://github.com/cran/stlARIMA"
+  },
+  {
+    "package": "TSdeeplearning",
+    "maintainer": "Ronit Jaiswal <ronitjaiswal2912@gmail.com>",
+    "url": "https://github.com/cran/TSdeeplearning"
   }
 ]

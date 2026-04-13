@@ -75,6 +75,11 @@
     "url": "https://github.com/fbertran/granova"
   },
   {
+    "package": "missPLS",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
+    "url": "https://github.com/fbertran/misspls"
+  },
+  {
     "package": "ModStatR",
     "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
     "url": "https://github.com/fbertran/modstatr"
@@ -158,6 +163,11 @@
     "package": "SelectBoost.gamlss",
     "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
     "url": "https://github.com/fbertran/selectboost.gamlss"
+  },
+  {
+    "package": "SelectBoost.quantile",
+    "maintainer": "Frederic Bertrand <frederic.bertrand@lecnam.net>",
+    "url": "https://github.com/fbertran/selectboost.quantile"
   },
   {
     "package": "Sobol4R",
