@@ -1713,7 +1713,7 @@
   },
   {
     "package": "carnation",
-    "maintainer": "Apratim Mitra <apratim.mitra@nih.gov>",
+    "maintainer": "Apratim Mitra <apratim.mitra@gmail.com>",
     "url": "https://github.com/nichd-bspc/carnation",
     "registry": "bioc"
   },
@@ -11398,12 +11398,6 @@
     "registry": "bioc"
   },
   {
-    "package": "S4Vectors",
-    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
-    "url": "https://github.com/bioconductor/s4vectors",
-    "registry": "bioc"
-  },
-  {
     "package": "safe",
     "maintainer": "Ludwig Geistlinger <ludwig.geistlinger@gmail.com>",
     "url": "https://git.bioconductor.org/packages/safe",
@@ -12175,12 +12169,6 @@
     "package": "shinyMethyl",
     "maintainer": "Jean-Philippe Fortin <fortin946@gmail.com>",
     "url": "https://github.com/jfortin1/shinymethyl",
-    "registry": "bioc"
-  },
-  {
-    "package": "ShortRead",
-    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-    "url": "https://github.com/bioconductor/shortread",
     "registry": "bioc"
   },
   {

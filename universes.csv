@@ -1819,7 +1819,7 @@ billboard,mikkelkrogsholm
 billboarder,dreamrs
 bimets,andrea-luciani
 BimodalIndex,cran
-bin2norm,cran
+bin2norm,ubcxzhang
 binancer,daroczig
 Binarize,hkestler
 BinarybalancedCut,navinkumarnedunchezhian
@@ -4811,7 +4811,7 @@ DataFusionGDM,jiashuaiz
 DataGraph,davidadalsteinsson
 DataLoader,srivenkatesh7
 dataMaid,ekstroem
-datamedios,exetrujillo
+datamedios,socialtec-cl
 dataMeta,dmrodz
 DataMetProcess,wagnnerms97
 datamods,dreamrs
@@ -5664,6 +5664,7 @@ DockerParallel,jiefei-wang
 docket,jonathanconrad98
 docknitr,innermatrix
 dockViewR,cynkra
+doclisting,r-lib
 doconv,ardata-fr
 docopt,docopt
 docopulae,arappold
@@ -7186,6 +7187,7 @@ fanyi,yulab-smu
 FAO56,aahani-r
 FAOSTAT,paulrougieux
 faoutlier,philchalmers
+FAPA,sekangakim
 faq,jienagu
 far,looping027
 faraway,julianfaraway
@@ -8735,6 +8737,7 @@ GFDrmtl,merlemunko
 GFDsurv,merlemunko
 GFE,cran
 gfer,yuanchao-xu
+GFFStrandLoc,cran
 GFGM.copula,cran
 GFisher,wpihongzhang
 gfiUltra,stla
@@ -9202,6 +9205,7 @@ gLRTH,cran
 glscalibrator,fabbiologia
 glsm,cran
 GLSME,cran
+GLSUP,tjk23
 glue,tidyverse
 glueDo,hswerdfe
 gluedown,k5cents
@@ -9776,6 +9780,7 @@ h3jsr,obrl-soil
 h3lib,symbolixau
 h3o,extendr
 h3r,symbolixau
+h3sdm,manuelspinola
 h5lite,cmmr
 h5mread,bioc
 h5vc,bioc
@@ -13059,6 +13064,7 @@ MCMCtreeR,markmark-zz
 MCMCvis,caseyyoungflesh
 McMiso,kencheung2
 mcmodule,nataliaciria
+mcmsector,cran
 mcMST,jakobbossek
 mcmsupply,hannahcomiskey
 mco,olafmersmann
@@ -13846,6 +13852,7 @@ MLBC,cran
 mlbench,kurthornik
 mlbplotR,camdenk
 mlbstats,pdwaggoner
+MLCausal,causalfragility-lab
 MLCIRTwithin,francescobartolucci
 MLCM,cran
 MLCOPULA,cran
@@ -14050,6 +14057,7 @@ Modelcharts,krishnaharsha
 modeldata,tidymodels
 modeldatatoo,tidymodels
 modeldb,tidymodels
+modeldiagramR,glinse-stat
 modelDown,modeloriented
 modelenv,tidymodels
 Modeler,cran
@@ -15227,6 +15235,7 @@ NMcalc,philipdelff
 NMdata,nmautoverse
 NMF,renozao
 nmfbin,michalovadek
+nmfkc,ksatohds
 NMFN,timothyliu-datascience
 NMI,terrytwu
 Nmisc,numeract
@@ -15451,6 +15460,7 @@ nsga2R,alan9956
 nsga3,shramkoartem
 NSM3,grantschneider
 nsm3data,kim3-sudo
+NSMM,cran
 NSO1212,makhgal-ganbold
 nsp,pfryz
 nspmix,yong3738
@@ -17337,6 +17347,7 @@ postGGIR,weiguonimh
 postHoc,rlabo
 postinfectious,charleung
 postlightmercury,mikkelkrogsholm
+postlink,postlink-group
 postlogic,rdoctaskforce
 POSTm,sth1402
 postpack,bstaton1
@@ -19673,6 +19684,7 @@ rintrojs,carlganz
 rio,gesistsa
 rioja,nsj3
 rioplot,dmmelamed
+rip.opencv,deepayan
 ripc,ocha-dap
 ripserr,tdaverse
 rirods,irods
@@ -20753,7 +20765,7 @@ s3fs,dyfanjones
 S3VS,cran
 S4Arrays,bioc
 S4DM,bmaitner
-S4Vectors,bioc
+S4Vectors,bioconductor
 S7,rconsortium
 S7schema,novonordisk-opensource
 saasCNV,zhangzhongyang16
@@ -21823,7 +21835,7 @@ shortcuts,jcval94
 ShortForm,anthonyraborn
 shortIRT,cran
 shortr,lfourni2
-ShortRead,bioc
+ShortRead,bioconductor
 shorts,mladenjovanovic
 shortuuid,schochastics
 shotGroups,cran
@@ -24299,6 +24311,7 @@ TidyMultiqc,multimeric
 tidyna,statzhero
 tidync,ropensci
 tidynorm,jofrhwld
+tidyOhdsiSolutions,a1exanderalexeyuk
 tidyomics,bioc
 tidypaleo,paleolimbot
 tidyplate,shubhamdutta26
@@ -24427,6 +24440,7 @@ tinyimg,yihui
 tinylabels,mariusbarth
 tinylens,arbelt
 tinyplot,grantmcdermott
+tinyrox,cornball-ai
 tinyscholar,shixiangwang
 tinyshinyserver,lab1702
 tinysnapshot,vincentarelbundock

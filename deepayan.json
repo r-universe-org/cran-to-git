@@ -8,5 +8,11 @@
     "package": "latticeExtra",
     "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
     "url": "https://github.com/deepayan/latticeextra"
+  },
+  {
+    "package": "rip.opencv",
+    "maintainer": "Deepayan Sarkar <deepayan.sarkar@r-project.org>",
+    "url": "https://github.com/deepayan/rip",
+    "subdir": "rip.opencv"
   }
 ]
