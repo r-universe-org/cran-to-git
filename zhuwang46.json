@@ -1,7 +1,32 @@
 [
   {
+    "package": "bst",
+    "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
+    "url": "https://github.com/cran/bst"
+  },
+  {
+    "package": "bujar",
+    "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
+    "url": "https://github.com/cran/bujar"
+  },
+  {
+    "package": "cts",
+    "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
+    "url": "https://github.com/zhuwang46/cts"
+  },
+  {
+    "package": "irboost",
+    "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
+    "url": "https://github.com/cran/irboost"
+  },
+  {
     "package": "mpath",
     "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
     "url": "https://github.com/zhuwang46/mpath"
+  },
+  {
+    "package": "orsk",
+    "maintainer": "Zhu Wang <zwang145@uthsc.edu>",
+    "url": "https://github.com/cran/orsk"
   }
 ]

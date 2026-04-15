@@ -9406,6 +9406,12 @@
     "registry": "bioc"
   },
   {
+    "package": "parati",
+    "maintainer": "Jinyi Che <chejinyi777@gmail.com>",
+    "url": "https://github.com/newche/parati",
+    "registry": "bioc"
+  },
+  {
     "package": "parglms",
     "maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/parglms",
@@ -10366,6 +10372,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RankMap",
+    "maintainer": "Jinming Cheng <jinming.cheng@outlook.com>",
+    "url": "https://github.com/jinming-cheng/rankmap",
+    "registry": "bioc"
+  },
+  {
     "package": "RankProd",
     "maintainer": "Francesco Del Carratore <francescodc87@gmail.com>",
     "url": "https://git.bioconductor.org/packages/RankProd",
@@ -10663,6 +10675,12 @@
     "package": "ReducedExperiment",
     "maintainer": "Jack Gisby <jackgisby@gmail.com>",
     "url": "https://github.com/jackgisby/reducedexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "Rega",
+    "maintainer": "Igor Cervenka <igor.cervenka@unibas.ch>",
+    "url": "https://github.com/ivanek/rega",
     "registry": "bioc"
   },
   {
@@ -11905,6 +11923,12 @@
     "package": "scTreeViz",
     "maintainer": "Jayaram Kancherla <jayaram.kancherla@gmail.com>",
     "url": "https://git.bioconductor.org/packages/scTreeViz",
+    "registry": "bioc"
+  },
+  {
+    "package": "scTypeEval",
+    "maintainer": "Josep Garnica <josep.garnicacaparros@unige.ch>",
+    "url": "https://github.com/carmonalab/sctypeeval",
     "registry": "bioc"
   },
   {
