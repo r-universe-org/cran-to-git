@@ -770,6 +770,7 @@ appsheet,calderonsamuel
 aprean3,lbraglia
 aprof,marcodvisser
 APRScenario,giannilmbd
+APS,tmlange
 apsimx,femiguez
 apt,cran
 APTIcalc,nobinstat
@@ -2692,6 +2693,7 @@ caroline,cran
 carpenter,lwjohnst86
 carrier,r-lib
 CARRoT,albazarova
+carsAlgo,mah-iasri
 carSurv,cran
 cartograflow,fbahoken
 cartogram,sjewo
@@ -3139,6 +3141,7 @@ chillR,eikeluedeling
 chimeraviz,bioc
 ChinAPIs,lightbluetitan
 ChineseNames,psychbruce
+chiOpenData,martinezc1
 ChIPanalyser,bioc
 ChIPComp,bioc
 chipenrich,bioc
@@ -3697,6 +3700,7 @@ cohetsurr,laylaparast
 cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
+CohortContrast,healthinformaticsut
 CohortGenerator,ohdsi
 CohortMethod,ohdsi
 CohortPlat,el-meyer
@@ -5005,6 +5009,7 @@ DECIDE,christianak
 decido,hypertidy
 DECIPHER,bioc
 decision,cran
+DecisionDrift,causalfragility-lab
 decisionpaths,causalfragility-lab
 decisionSupport,eikeluedeling
 deckgl,crazycapivara
@@ -5110,7 +5115,7 @@ DEmixR,fhabibzadeh
 DeMixT,bioc
 DemoDecomp,timriffe
 demodelr,jmzobitz
-demofit,cran
+demofit,kakijackieli
 demogR,hanase
 demoGraphic,loankimrobinson
 DemographicTable,tingtingzhan
@@ -5399,6 +5404,7 @@ DIFtree,jmober
 digest,eddelbuettel
 DigestiveDataSets,lightbluetitan
 diggit,bioc
+digiNORM,cran
 digiRhythm,nasserdr
 digitalPCR,xutaodeng
 digitTests,koenderks
@@ -6442,6 +6448,7 @@ emailvalidation,dominikkukacka
 EMAR,cran
 EMAS,nie-xiuquan
 emayili,datawookie
+emBALVI,cran
 emBayes,yuwen-l
 EMbC,jgarriga65
 embed,tidymodels
@@ -9119,6 +9126,7 @@ gld,newystats
 GLDEX,allegropiano
 GLDreg,allegropiano
 gldrm,cran
+gleam,un-fao
 Glimma,bioc
 glinternet,michael626
 glinvci,hckiang
@@ -9128,6 +9136,7 @@ gllvm,jenniniku
 glm.deploy,castroloj
 glm.predict,benjaminschlegel
 glm2,mdonoghoe
+glm4,awhug
 GLMaSPU,chongwu-biostat
 glmbb,cjgeyer
 glmc,cran
@@ -9754,6 +9763,7 @@ GWLelast,kingqwert
 GWmodel,lbb220
 GWmodelVis,lbb220
 GWnnegPCA,naru-t
+GWnorm,jackkuipers
 GWpcor,gwpcor
 gwpcormapper,gwpcor
 gWQS,renzetti
@@ -10165,6 +10175,7 @@ hlaR,larsenlab
 HLAtools,sjmack
 hlidacr,skvrnami
 HLMdiag,aloy
+hlmLab,causalfragility-lab
 HLSM,tmsweet
 hlt,mkleinsa
 HMC,cran
@@ -11588,7 +11599,7 @@ KFPCA,cran
 KFPLS,cran
 kfre,lshpaner
 kgc,clb117
-kgen,dmayk
+kgen,cran
 KGode,cran
 kgp,stephenturner
 kgrams,vgherard
@@ -11843,6 +11854,7 @@ languageR,cran
 languageserver,reditorsupport
 languageserversetup,jozefhajnala
 lans2r,kopflab
+laOpenData,martinezc1
 LaplacesDemon,laplacesdemonr
 lares,laresbernardo
 lareshiny,laresbernardo
@@ -12186,6 +12198,7 @@ linne,johncoene
 Linnorm,bioc
 linpk,benjaminrich
 linprog,r-forge
+linreg,cran
 LinRegInteractive,datscimema
 LINselect,cran
 lintools,data-cleaning
@@ -12237,6 +12250,7 @@ llama,larskotthoff
 llamaR,zabis13
 llbayesireg,rosineide
 LLM,arnoxieseg
+llm.api,cornball-ai
 LLMAgentR,knowusuboaky
 llmflow,zaoqu-liu
 llmhelper,zaoqu-liu
@@ -14228,6 +14242,7 @@ MotifPeeker,bioc
 motifr,marioangst
 motifStack,bioc
 motifTestR,bioc
+motmot,ms609
 motoRneuron,tweedell
 moult,birgiterni
 mountainplot,kwstat
@@ -14307,6 +14322,7 @@ mrddGlobal,asamiahulin
 mrds,distancedevelopment
 mreg,shug0131
 mregions2,ropensci
+mrf,quirinms
 mrf2d,freguglia
 MRFA,chihli
 MRFcov,nicholasjclark
@@ -14662,6 +14678,7 @@ MulvariateRandomForestVarImp,megatvini
 mumarinex,cran
 MuMIn,cran
 mumosa,bioc
+munch,ardata-fr
 munfold,melff
 MungeSumstats,bioc
 munsell,cwickham
@@ -14996,6 +15013,7 @@ netknitr,ijayc
 NetLogoR,predictiveecology
 netmap,artod83
 netmediate,sduxbury
+netmem,anespinosa
 netmeta,guido-s
 netmhc2pan,richelbilderbeek
 NetMix,solivella
@@ -15372,6 +15390,7 @@ novelqualcodes,desiquintans
 NoviceDeveloperResources,barryzee
 NoviceDeveloperResources2,barryzee
 nowcast,charlescoverdale
+nowcastr,whocov
 noweb,cran
 np,jeffreyracine
 npANCOVA,minajahangiri
@@ -15822,7 +15841,7 @@ openxlsx,ycphs
 openxlsx2,janmarvin
 operator.tools,decisionpatterns
 operators,romainfrancois
-opGMMassessment,cran
+opGMMassessment,jornlotsch
 OPI,cran
 opImputation,jornlotsch
 opinAr,politicaargentina
@@ -18424,7 +18443,7 @@ rairtable,matthewjrogers
 RaJIVE,ericaponzi
 rakeR,philmikejones
 ralger,feddelegrand7
-RALSA,cran
+RALSA,pakom
 Ramble,noraincheck
 rAmCharts,datastorm-open
 rAmCharts4,stla
@@ -20071,6 +20090,7 @@ RobustLinearReg,cran
 robustlm,mamba413
 robustlmm,kollerma
 robustmatrix,marcusmayrhofer
+RobustMediate,causalfragility-lab
 robustmeta,nomahi
 RobustMetrics,bernhardklar
 RobustPrediction,yuting-he
@@ -20200,6 +20220,7 @@ ROptSpace,kisungyou
 ROracle,rajendrapingte
 rorcid,ropensci-archive
 roreviewapi,ropensci
+roroph,njtalingting
 rorqual.morpho,flukeandfeather
 rosario,alrobles
 ROSE,nicolalunardon
@@ -20338,11 +20359,13 @@ rQSAR,ocheab
 rqt,bioc
 rqti,shevandrin
 Rquake,jonathanlees
+rqualify,medtronic-biostatistics
 RQuantLib,eddelbuettel
 rqubic,bioc
 Rquefts,cropmodels
 rquery,winvector
 rquest,shenal-dkumara
+rquiz,saskiaotto
 rr,graemeblair
 rr2,arives
 Rramas,cran
@@ -20809,7 +20832,6 @@ SAFD,asunlubiano
 safe,bioc
 safeframe,epiverse-trace
 safejoin,samedwardes
-SafeMapper,zaoqu-liu
 SAFEPG,qiantang0326
 safer,talegari
 safestats,alexanderlynl
@@ -20880,6 +20902,7 @@ SAMprior,pengyang0411
 sampsizeval,mpavlou
 samr,tibshirani
 sams,dbdahl
+SamsaRaLight,natheob
 SamSPECTRAL,bioc
 SAMtool,blue-matter
 SAMTx,cran
@@ -21438,6 +21461,7 @@ semTools,simsem
 semtree,brandmaier
 semver,johndharrison
 semverutils,ajwtech
+senatebR,vsntos
 sendgridr,mrchypark
 sendigR,phuse-org
 sendmailR,olafmersmann
@@ -22869,6 +22893,7 @@ spm,jinli22
 spm2,jinli22
 spMaps,rte-antares-rpackage
 spMC,drwolf85
+spmixW,muswaseja92
 spmodel,usepa
 spmoran,dmuraka
 spnaf,cran
@@ -23146,6 +23171,7 @@ STAT2,kartikeyabolar
 Stat2Data,statmanrobin
 statAfrikR,damoko2004
 Statamarkdown,hemken
+statAPA,causalfragility-lab
 statar,matthieugomez
 statBasics,gilberto-sassi
 statcheck,michelenuijten
@@ -23683,6 +23709,7 @@ swash,geowieland
 swatches,hrbrmstr
 SWATH2stats,bioc
 SwathXtend,bioc
+swcEcon,cran
 swCRTdesign,jphughes9
 swdft,leerichardson
 swdpwr,jiachenchen322
@@ -26171,6 +26198,7 @@ xgboost,dmlc
 xgrove,g-rho
 xgxr,novartis
 xhaz,jgoungounga
+xiacf,yetanothersu
 XICOR,spholmes
 XiMpLe,rkward-community
 XINA,bioc
