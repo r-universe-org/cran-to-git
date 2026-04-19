@@ -2811,6 +2811,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CrcBiomeScreen",
+    "maintainer": "Chengxin Li <ngzh5554@leeds.ac.uk>",
+    "url": "https://github.com/omicsforestry/crcbiomescreen",
+    "registry": "bioc"
+  },
+  {
     "package": "CRImage",
     "maintainer": "Henrik Failmezger <failmezger@mpipz.mpg.de>",
     "url": "https://git.bioconductor.org/packages/CRImage",
@@ -4368,6 +4374,12 @@
     "package": "FastqCleaner",
     "maintainer": "Leandro Roser <learoser@gmail.com>",
     "url": "https://github.com/leandroroser/fastqcleaner",
+    "registry": "bioc"
+  },
+  {
+    "package": "fastRanges",
+    "maintainer": "Chirag Parsania <chirag.parsania@gmail.com>",
+    "url": "https://github.com/cparsania/fastranges",
     "registry": "bioc"
   },
   {
@@ -6063,6 +6075,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HistoImagePlot",
+    "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
+    "url": "https://github.com/waldronlab/histoimageplot",
+    "registry": "bioc"
+  },
+  {
     "package": "HiTC",
     "maintainer": "Nicolas Servant <nicolas.servant@curie.fr>",
     "url": "https://git.bioconductor.org/packages/HiTC",
@@ -6351,9 +6369,21 @@
     "registry": "bioc"
   },
   {
+    "package": "imageFeatureTCGA",
+    "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
+    "url": "https://github.com/waldronlab/imagefeaturetcga",
+    "registry": "bioc"
+  },
+  {
     "package": "imageTCGA",
     "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
     "url": "https://github.com/billila/imagetcga",
+    "registry": "bioc"
+  },
+  {
+    "package": "imageTCGAutils",
+    "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
+    "url": "https://github.com/waldronlab/imagetcgautils",
     "registry": "bioc"
   },
   {
@@ -8098,7 +8128,7 @@
   },
   {
     "package": "mixOmics",
-    "maintainer": "Eva Hamrud <mixomicsdeveloper@gmail.com>",
+    "maintainer": "Derek Lei <mixomicsdeveloper@gmail.com>",
     "url": "https://github.com/mixomicsteam/mixomics",
     "registry": "bioc"
   },
@@ -9784,6 +9814,12 @@
     "registry": "bioc"
   },
   {
+    "package": "PlinkMatrix",
+    "maintainer": "Vince Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/plinkmatrix",
+    "registry": "bioc"
+  },
+  {
     "package": "plotgardener",
     "maintainer": "Nicole Kramer <nekramer27@gmail.com>",
     "url": "https://github.com/phanstiellab/plotgardener",
@@ -9889,6 +9925,12 @@
     "package": "posDemux",
     "maintainer": "Jakob Peder Pettersen <jakobpeder.pettersen@gmail.com>",
     "url": "https://github.com/yaccos/posdemux",
+    "registry": "bioc"
+  },
+  {
+    "package": "postNet",
+    "maintainer": "Krzysztof Szkop <krzysztof.szkop@gmail.com>",
+    "url": "https://github.com/kszkop/postnet",
     "registry": "bioc"
   },
   {
@@ -11656,6 +11698,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scECODA",
+    "maintainer": "Christian Halter <scecoda.dev@gmail.com>",
+    "url": "https://github.com/carmonalab/scecoda",
+    "registry": "bioc"
+  },
+  {
     "package": "SCFA",
     "maintainer": "Duc Tran <duct@nevada.unr.edu>",
     "url": "https://github.com/duct317/scfa",
@@ -11911,6 +11959,12 @@
     "package": "scTHI",
     "maintainer": "Michele Ceccarelli <m.ceccarelli@gmail.com>",
     "url": "https://github.com/miccec/scthi",
+    "registry": "bioc"
+  },
+  {
+    "package": "scToppR",
+    "maintainer": "Bryan Granger <grangerb@musc.edu>",
+    "url": "https://github.com/bioinformaticsmusc/sctoppr",
     "registry": "bioc"
   },
   {
@@ -12426,7 +12480,7 @@
   {
     "package": "SMAD",
     "maintainer": "Qingzhou Zhang <zqzneptune@hotmail.com>",
-    "url": "https://git.bioconductor.org/packages/SMAD",
+    "url": "https://github.com/zqzneptune/smad",
     "registry": "bioc"
   },
   {
@@ -14113,6 +14167,12 @@
     "package": "vissE",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/visse",
+    "registry": "bioc"
+  },
+  {
+    "package": "VISTA",
+    "maintainer": "Chirag Parsania <chirag.parsania@gmail.com>",
+    "url": "https://github.com/cparsania/vista",
     "registry": "bioc"
   },
   {

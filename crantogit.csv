@@ -2736,6 +2736,7 @@ crawl,https://github.com/nmml/crawl,,
 crayon,https://github.com/r-lib/crayon,,
 crayons,https://github.com/christopherkenny/crayons,,
 crc32c,https://github.com/eddelbuettel/crc32c,,
+CrcBiomeScreen,https://github.com/omicsforestry/crcbiomescreen,,bioc
 crch,https://github.com/r-forge/topmodels,pkg/crch,
 CRE,https://github.com/nsaph-software/cre,,
 CREAM,https://github.com/bhklab/cream,,
@@ -4586,6 +4587,7 @@ FastqCleaner,https://github.com/leandroroser/fastqcleaner,,bioc
 fastqcr,https://github.com/kassambara/fastqcr,,
 fastqq,https://github.com/gumeo/fastqq,,
 fastR2,https://github.com/rpruim/fastr2,,
+fastRanges,https://github.com/cparsania/fastranges,,bioc
 fastrc,https://github.com/steverozen/fastrc,,
 fastreeR,https://github.com/gkanogiannis/fastreer,,bioc
 fastreg,https://github.com/dp-next/fastreg,,
@@ -6406,7 +6408,7 @@ hidradenitis,https://github.com/humanpred/hidradenitis,,
 hierarchicalSets,https://github.com/thomasp85/hierarchicalsets,,
 hierBipartite,https://github.com/calvintchi/hierbipartite,,
 hierfstat,https://github.com/jgx65/hierfstat,,
-hierNest,https://github.com/zirenjiang/hiernest,,archived
+hierNest,https://github.com/zirenjiang/hiernest,,
 hierNet,https://github.com/jacobbien/hiernet,,
 HierPortfolios,https://github.com/ctruciosm/hierportfolios,,
 hierSDR,https://github.com/jaredhuling/hiersdr,,
@@ -6442,6 +6444,7 @@ HistData,https://github.com/friendly/histdata,,
 HistDAWass,https://github.com/airpino/histdawass,,
 histmdl,https://github.com/joukewitteveen/histmdl,,
 histogram,https://github.com/thmild/histogram,,
+HistoImagePlot,https://github.com/waldronlab/histoimageplot,,bioc
 historicalborrow,https://github.com/wlandau/historicalborrow,,
 historicalborrowlong,https://github.com/wlandau/historicalborrowlong,,
 historydata,https://github.com/ropensci/historydata,,
@@ -6764,11 +6767,13 @@ image.libfacedetection,https://github.com/bnosac/image,image.libfacedetection,
 image.LineSegmentDetector,https://github.com/bnosac/image,image.LineSegmentDetector,
 image.Otsu,https://github.com/bnosac/image,image.Otsu,
 image2data,https://github.com/quantmeth/image2data,,
+imageFeatureTCGA,https://github.com/waldronlab/imagefeaturetcga,,bioc
 imagefluency,https://github.com/stm/imagefluency,,
 imager,https://github.com/asgr/imager,,
 imagerExtra,https://github.com/shotaochi/imagerextra,,
 imageseg,https://github.com/ecodynizw/imageseg,,
 imageTCGA,https://github.com/billila/imagetcga,,bioc
+imageTCGAutils,https://github.com/waldronlab/imagetcgautils,,bioc
 imageviewer,https://github.com/yapus/imageviewer,,
 imaginarycss,https://github.com/gvegayon/imaginary-structures,imaginarycss,
 imaginator,https://github.com/casact/imaginator,,
@@ -10709,6 +10714,7 @@ plgraphics,https://github.com/r-forge/regdevelop,pkg/plgraphics,
 pliman,https://github.com/nepem-ufsc/pliman,,
 PLindleyROC,https://github.com/ertansu/plindleyroc,,
 plinkFile,https://github.com/xiaoran831213/plinkfile,,
+PlinkMatrix,https://github.com/vjcitn/plinkmatrix,,bioc
 plinkQC,https://github.com/meyer-lab-cshl/plinkqc,,
 plm,https://github.com/ycroissant/plm,,
 PLMIX,https://github.com/cmollica/plmix,,
@@ -10925,6 +10931,7 @@ posterior,https://github.com/stan-dev/posterior,,
 PosteriorBootstrap,https://github.com/alan-turing-institute/posteriorbootstrap,,
 postlink,https://github.com/postlink-group/postlink,,
 postlogic,https://github.com/rdoctaskforce/postlogic,,
+postNet,https://github.com/kszkop/postnet,,bioc
 postpack,https://github.com/bstaton1/postpack,,
 POT,https://github.com/r-forge/pot,pkg,
 potential,https://github.com/riatelab/potential,,
@@ -13421,6 +13428,7 @@ scDiffCom,https://github.com/cyrillagger/scdiffcom,,
 scDIFtest,https://github.com/ddebeer/scdiftest,,
 scDotPlot,https://github.com/ben-laufer/scdotplot,,bioc
 scdtb,https://github.com/mightymetrika/scdtb,,
+scECODA,https://github.com/carmonalab/scecoda,,bioc
 scenes,https://github.com/shinyworks/scenes,,
 SCEnt,https://github.com/hwarden162/scent,,
 scf,https://github.com/jncohen/scf,,
@@ -13536,6 +13544,7 @@ scTenifoldKnk,https://github.com/cailab-tamu/sctenifoldknk,,
 scTenifoldNet,https://github.com/cailab-tamu/sctenifoldnet,,
 scTHI,https://github.com/miccec/scthi,,bioc
 SCtools,https://github.com/bcastanho/sctools,,
+scToppR,https://github.com/bioinformaticsmusc/sctoppr,,bioc
 sctransform,https://github.com/satijalab/sctransform,,
 scTypeEval,https://github.com/carmonalab/sctypeeval,,bioc
 scutr,https://github.com/s-kganz/scutr,,
@@ -14225,6 +14234,7 @@ slurmR,https://github.com/uscbiostats/slurmr,,
 smaa,https://github.com/gertvv/rsmaa,smaa,
 smacofx,https://github.com/r-forge/stops,pkg/smacofx,
 smacpod,https://github.com/jfrench/smacpod,,
+SMAD,https://github.com/zqzneptune/smad,,bioc
 smallarea,https://github.com/nandy006/smallarea,,
 SmallCountRounding,https://github.com/statisticsnorway/ssb-smallcountrounding,,
 smallsets,https://github.com/lydialucchesi/smallsets,,
@@ -16468,6 +16478,7 @@ visPedigree,https://github.com/luansheng/vispedigree,,
 visreg,https://github.com/pbreheny/visreg,,
 vissE,https://github.com/davislaboratory/visse,,bioc
 visStatistics,https://github.com/shhschilling/visstatistics,,
+VISTA,https://github.com/cparsania/vista,,bioc
 vistime,https://github.com/shosaco/vistime,,
 vistla,https://gitlab.com/mbq/vistla,,
 visTree,https://github.com/ashwinikv/vistree,,

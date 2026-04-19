@@ -4357,6 +4357,7 @@ crawl,nmml
 crayon,r-lib
 crayons,christopherkenny
 crc32c,eddelbuettel
+CrcBiomeScreen,bioc
 crch,r-forge
 crctStepdown,samueliwatson
 CRE,nsaph-software
@@ -7274,6 +7275,7 @@ fastqq,gumeo
 fastQR,maurobernardi
 fastqrs,santiago-pereda
 fastR2,rpruim
+fastRanges,bioc
 fastrc,steverozen
 FastRCS,kvak
 fastreeR,bioc
@@ -8572,7 +8574,7 @@ genpwr,cran
 genridge,friendly
 GenSA,cran
 genscore,sqyu
-genSEIR,cran
+genSEIR,selcukorkmaz
 genset,cran
 gensphere,jpnolan
 genstab,jacks306
@@ -10156,6 +10158,7 @@ HistData,friendly
 HistDAWass,airpino
 histmdl,joukewitteveen
 histogram,thmild
+HistoImagePlot,bioc
 historicalborrow,wlandau
 historicalborrowlong,wlandau
 historydata,ropensci
@@ -10703,6 +10706,7 @@ image.LineSegmentDetector,bnosac
 image.Otsu,bnosac
 image2data,quantmeth
 imageData,briencj
+imageFeatureTCGA,bioc
 imagefluency,stm
 imagefx,alexjcwitsil
 imager,asgr
@@ -10710,6 +10714,7 @@ imagerExtra,shotaochi
 imageRy,euroaeaegypti
 imageseg,ecodynizw
 imageTCGA,bioc
+imageTCGAutils,bioc
 imageviewer,yapus
 imaginarycss,gvegayon
 imaginator,casact
@@ -17040,6 +17045,7 @@ pliman,nepem-ufsc
 PLindleyROC,ertansu
 plink,bocaccio
 plinkFile,xiaoran831213
+PlinkMatrix,bioc
 plinkQC,meyer-lab-cshl
 PLIS,zweilab
 plm,ycroissant
@@ -17364,6 +17370,7 @@ postlightmercury,mikkelkrogsholm
 postlink,postlink-group
 postlogic,rdoctaskforce
 POSTm,sth1402
+postNet,bioc
 postpack,bstaton1
 POT,r-forge
 potential,riatelab
@@ -20278,7 +20285,7 @@ rPBK,virgile-baudrot
 rpc,somakd
 rpca,macieksk
 Rpdb,discoleo
-rPDBapi,cran
+rPDBapi,selcukorkmaz
 RPDTest,glazellli
 RpeakChrom,manuelperis
 RPEGLMEN,anthonychristidis
@@ -21085,6 +21092,7 @@ scDotPlot,bioc
 scds,bioc
 scdtb,mightymetrika
 SCE,loong2020
+scECODA,bioc
 scellpam,jdmde
 scenes,shinyworks
 scenfire,rmarcosgit
@@ -21256,6 +21264,7 @@ scTensor,bioc
 scTGIF,bioc
 scTHI,bioc
 SCtools,bcastanho
+scToppR,bioc
 sctransform,satijalab
 scTreeViz,bioc
 scTypeEval,bioc
@@ -25644,6 +25653,7 @@ visPedigree,luansheng
 visreg,pbreheny
 vissE,bioc
 visStatistics,shhschilling
+VISTA,bioc
 vistime,shosaco
 vistla,mbq
 visTree,ashwinikv

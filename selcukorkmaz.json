@@ -10,6 +10,11 @@
     "url": "https://github.com/selcukorkmaz/fastml"
   },
   {
+    "package": "genSEIR",
+    "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
+    "url": "https://github.com/cran/genSEIR"
+  },
+  {
     "package": "MVN",
     "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
     "url": "https://github.com/selcukorkmaz/mvn"
@@ -18,5 +23,10 @@
     "package": "PubChemR",
     "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
     "url": "https://github.com/selcukorkmaz/pubchemr"
+  },
+  {
+    "package": "rPDBapi",
+    "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
+    "url": "https://github.com/cran/rPDBapi"
   }
 ]
