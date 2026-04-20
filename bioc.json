@@ -12226,6 +12226,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ShortRead",
+    "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+    "url": "https://github.com/bioconductor/shortread",
+    "registry": "bioc"
+  },
+  {
     "package": "SIAMCAT",
     "maintainer": "Jakob Wirbel <jakob.wirbel@embl.de>",
     "url": "https://git.bioconductor.org/packages/SIAMCAT",
