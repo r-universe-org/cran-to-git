@@ -609,7 +609,7 @@
   {
     "package": "arrayQualityMetrics",
     "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
-    "url": "https://github.com/grimbough/arrayqualitymetrics",
+    "url": "https://github.com/huber-group-embl/arrayqualitymetrics",
     "registry": "bioc"
   },
   {
@@ -11437,6 +11437,12 @@
     "package": "S4Arrays",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/s4arrays",
+    "registry": "bioc"
+  },
+  {
+    "package": "S4Vectors",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/s4vectors",
     "registry": "bioc"
   },
   {

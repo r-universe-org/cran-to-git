@@ -3,11 +3,5 @@
     "package": "BiocManager",
     "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "url": "https://github.com/bioconductor/biocmanager"
-  },
-  {
-    "package": "S4Vectors",
-    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
-    "url": "https://github.com/bioconductor/s4vectors",
-    "branch": "RELEASE_3_22"
   }
 ]

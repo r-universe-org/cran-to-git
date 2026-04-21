@@ -1841,7 +1841,6 @@ binfunest,philshea
 bingadsR,pablosanmar
 bingat,cran
 binGroup,cran
-binGroup2,bdhitt
 BinGSD,xiaomangmang
 binhf,cran
 binman,ropensci
@@ -2255,6 +2254,7 @@ BoundaryStats,aluo734
 BoundEdgeworth,alexisderumigny
 boundedur,muhammedalkhalaf
 boundingbox,stomperusa
+BoundIRT,cran
 boussinesq,ecor
 boutliers,nomahi
 BoutrosLab.plotting.general,uclahs-cds
@@ -2887,6 +2887,7 @@ CDI,bioc
 cdid,joelcuerrier
 cdiWG2WS,trevorkmday
 cdlei,cran
+cdlsim,burgerhaley97
 cdlTools,jlisic
 CDM,alexanderrobitzsch
 CDMConnector,darwin-eu
@@ -3947,6 +3948,7 @@ ConfIntVariance,cran
 conflicted,r-lib
 ConFluxPro,valentingar
 ConfMatrix,svilchez
+confMeta,savefonta
 conformalbayes,corymccartan
 conformalClassification,niha21
 conformalForecast,xqnwang
@@ -5852,6 +5854,7 @@ drpop,mqnjqrid
 DRPT,cran
 DRquality,mthrun
 DRR,gdkrmr
+drrglm,paradoxical-rhapsody
 DRsurvCRT,cran
 drtmle,benkeser
 drugDemand,kaifenglu
@@ -6187,7 +6190,7 @@ ecochange,wilarhen
 EcoCleanR,sonipri
 ecocomDP,ediorg
 ecoCopula,eco-stats
-ecode,haoranpopevo
+ecode,treepest123
 EcoDiet,pyhernvann
 ecodist,phiala
 ecodive,cmmr
@@ -6410,7 +6413,7 @@ elfgen,harpgroup
 elgbd,markean
 elhmc,cran
 ELIC,guangbaog
-ELISAtools,cran
+ELISAtools,ffeng23
 elisr,sbissantz
 eList,cmann3
 elitism,cran
@@ -9574,7 +9577,6 @@ groupr,ngriffiths21
 grouprar,neptune555
 GroupSeq,rpahl
 GroupTest,cran
-groupTesting,cran
 groupwalk,freejstone
 groupWQS,mmcarli
 grove,lm186
@@ -10273,6 +10275,7 @@ HQM,cran
 hqmisc,hugoquene
 hqreg,cy-dev
 hR,dalekube
+hrbrthemes,hrbrmstr
 hrcomprisk,antiportad
 hrf,mandymejia
 hrqglas,shaobo-li
@@ -10838,6 +10841,7 @@ inegiR,eflores89
 ineq,zeileis
 ineq.2d,sklivan
 ineqJD,albertoarcagni
+inequality,charlescoverdale
 inet,jmbh
 iNETgrate,bioc
 INetTool,valeriapolicastro
@@ -20780,7 +20784,7 @@ s3fs,dyfanjones
 S3VS,cran
 S4Arrays,bioc
 S4DM,bmaitner
-S4Vectors,bioconductor
+S4Vectors,bioc
 S7,rconsortium
 S7schema,novonordisk-opensource
 saasCNV,zhangzhongyang16
@@ -22963,6 +22967,7 @@ SpuriousMemory,zhongjun-qu
 spuRs,cran
 SPYvsSPY,shabbychef
 SQI,owaisaliwani30
+SQIpro,cran
 SQL,cran
 sqlcaser,cran
 SQLDataFrame,bioc
