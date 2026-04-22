@@ -20,12 +20,6 @@
     "url": "https://github.com/hanjunwei-lab/dtsea"
   },
   {
-    "package": "ICDS",
-    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
-    "url": "https://github.com/hanjunwei-lab/icds",
-    "registry": "archived"
-  },
-  {
     "package": "IDMIR",
     "maintainer": "Junwei Han <hanjunwei1981@163.com>",
     "url": "https://github.com/cran/IDMIR"
@@ -39,12 +33,6 @@
     "package": "MiRSEA",
     "maintainer": "Junwei Han <hanjunwei1981@163.com>",
     "url": "https://github.com/hanjunwei-lab/mirsea"
-  },
-  {
-    "package": "PMAPscore",
-    "maintainer": "Junwei Han <hanjunwei1981@163.com>",
-    "url": "https://github.com/hanjunwei-lab/pmapscore",
-    "registry": "archived"
   },
   {
     "package": "psSubpathway",

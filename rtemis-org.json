@@ -3,5 +3,10 @@
     "package": "rtemis",
     "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
     "url": "https://github.com/rtemis-org/rtemis"
+  },
+  {
+    "package": "rtemis.core",
+    "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
+    "url": "https://github.com/rtemis-org/rtemis.core"
   }
 ]

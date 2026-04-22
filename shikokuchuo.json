@@ -1,5 +1,10 @@
 [
   {
+    "package": "mori",
+    "maintainer": "Charlie Gao <charlie.gao@posit.co>",
+    "url": "https://github.com/shikokuchuo/mori"
+  },
+  {
     "package": "secretbase",
     "maintainer": "Charlie Gao <charlie.gao@posit.co>",
     "url": "https://github.com/shikokuchuo/secretbase"

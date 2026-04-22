@@ -5,8 +5,18 @@
     "url": "https://github.com/heorlytics/closeloop"
   },
   {
+    "package": "dceasimR",
+    "maintainer": "Shubhram Pandey <shubhram.pandey@heorlytics.com>",
+    "url": "https://github.com/heorlytics/dceasimr"
+  },
+  {
     "package": "drMAIC",
     "maintainer": "Anupama Singh <anupama.singh@pharmacoevidence.com>",
     "url": "https://github.com/heorlytics/drmaic"
+  },
+  {
+    "package": "htaBIM",
+    "maintainer": "Shubhram Pandey <shubhram.pandey@heorlytics.com>",
+    "url": "https://github.com/heorlytics/htabim"
   }
 ]

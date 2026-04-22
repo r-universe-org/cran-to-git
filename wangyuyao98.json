@@ -8,5 +8,11 @@
     "package": "truncAIPW",
     "maintainer": "Yuyao Wang <yuw079@ucsd.edu>",
     "url": "https://github.com/cran/truncAIPW"
+  },
+  {
+    "package": "truncProxy",
+    "maintainer": "Yuyao Wang <yuw079@ucsd.edu>",
+    "url": "https://github.com/wangyuyao98/truncproxy_weighting",
+    "subdir": "pkg/truncProxy"
   }
 ]

@@ -10,6 +10,11 @@
     "url": "https://github.com/causalfragility-lab/aibias"
   },
   {
+    "package": "aiDIF",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/aidif"
+  },
+  {
     "package": "CausalSpline",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/causalspline"
@@ -68,6 +73,11 @@
     "package": "RobustMediate",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/robustmediate"
+  },
+  {
+    "package": "socialdrift",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/socialdrift"
   },
   {
     "package": "statAPA",

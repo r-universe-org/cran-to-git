@@ -28,5 +28,10 @@
     "package": "rPDBapi",
     "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
     "url": "https://github.com/cran/rPDBapi"
+  },
+  {
+    "package": "splitGraph",
+    "maintainer": "Selcuk Korkmaz <selcukorkmaz@gmail.com>",
+    "url": "https://github.com/selcukorkmaz/splitgraph"
   }
 ]

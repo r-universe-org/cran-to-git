@@ -5,6 +5,11 @@
     "url": "https://github.com/charlescoverdale/boe"
   },
   {
+    "package": "carbondata",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/carbondata"
+  },
+  {
     "package": "climatekit",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/climatekit"
@@ -45,6 +50,11 @@
     "url": "https://github.com/charlescoverdale/inflationkit"
   },
   {
+    "package": "mpshock",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/mpshock"
+  },
+  {
     "package": "nowcast",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/nowcast"
@@ -83,6 +93,11 @@
     "package": "readoecd",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/readoecd"
+  },
+  {
+    "package": "ukhousing",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/ukhousing"
   },
   {
     "package": "yieldcurves",

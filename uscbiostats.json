@@ -40,6 +40,11 @@
     "url": "https://github.com/uscbiostats/acdc"
   },
   {
+    "package": "MRIreduce",
+    "maintainer": "Jinyao Tian <jinyaoti@usc.edu>",
+    "url": "https://github.com/uscbiostats/mrireduce"
+  },
+  {
     "package": "partition",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
     "url": "https://github.com/uscbiostats/partition"
