@@ -45,6 +45,11 @@
     "url": "https://github.com/causalfragility-lab/drmeta"
   },
   {
+    "package": "EpiNova",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/epinova"
+  },
+  {
     "package": "hlmLab",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/hlmlab"
@@ -68,6 +73,11 @@
     "package": "MultiSpline",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/multispline"
+  },
+  {
+    "package": "RobustFlow",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/robustflow"
   },
   {
     "package": "RobustMediate",
