@@ -1,10 +1,5 @@
 [
   {
-    "package": "ip2location",
-    "maintainer": "Kai Wen Ooi <support@ip2location.com>",
-    "url": "https://github.com/ip2location-com/ip2location-r"
-  },
-  {
     "package": "ip2locationio",
     "maintainer": "IP2Location.io <support@ip2location.io>",
     "url": "https://github.com/cran/ip2locationio"

@@ -1,17 +1,14 @@
 [
   {
-    "package": "graphpcor",
-    "maintainer": "Elias Teixeira Krainski <eliaskrainski@gmail.com>",
-    "url": "https://github.com/cran/graphpcor"
-  },
-  {
     "package": "INLAspacetime",
     "maintainer": "Elias Teixeira Krainski <eliaskrainski@gmail.com>",
-    "url": "https://github.com/eliaskrainski/inlaspacetime"
+    "url": "https://github.com/eliaskrainski/inlaspacetime",
+    "registry": "archived"
   },
   {
     "package": "INLAtools",
     "maintainer": "Elias Teixeira Krainski <elias.krainski@kaust.edu.sa>",
-    "url": "https://github.com/eliaskrainski/inlatools"
+    "url": "https://github.com/eliaskrainski/inlatools",
+    "registry": "archived"
   }
 ]

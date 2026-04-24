@@ -1,5 +1,10 @@
 [
   {
+    "package": "khaos",
+    "maintainer": "Kellin Rumsey <knrumsey@lanl.gov>",
+    "url": "https://github.com/cran/khaos"
+  },
+  {
     "package": "leapgp",
     "maintainer": "Kellin Rumsey <knrumsey@lanl.gov>",
     "url": "https://github.com/cran/leapgp"
