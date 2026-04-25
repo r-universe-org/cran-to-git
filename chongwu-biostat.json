@@ -2,16 +2,19 @@
   {
     "package": "GLMaSPU",
     "maintainer": "Chong Wu <wuxx0845@umn.edu>",
-    "url": "https://github.com/chongwu-biostat/glmaspu"
+    "url": "https://github.com/chongwu-biostat/glmaspu",
+    "registry": "archived"
   },
   {
     "package": "MiSPU",
     "maintainer": "Chong Wu <wuxx0845@umn.edu>",
-    "url": "https://github.com/chongwu-biostat/mispu"
+    "url": "https://github.com/chongwu-biostat/mispu",
+    "registry": "archived"
   },
   {
     "package": "prclust",
     "maintainer": "Chong Wu <wuxx0845@umn.edu>",
-    "url": "https://github.com/chongwu-biostat/prclust"
+    "url": "https://github.com/chongwu-biostat/prclust",
+    "registry": "archived"
   }
 ]
