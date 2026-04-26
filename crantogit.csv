@@ -609,6 +609,7 @@ asymmetry,https://github.com/berriez/asymmetry,,
 asympDiag,https://github.com/alvaro-kothe/asympdiag,,
 asymptor,https://github.com/bisaloo/asymptor,,
 atable,https://github.com/arminstroebel/atable,,
+atacInferCnv,https://github.com/kokonech/atacinfercnv,,bioc
 ATACseqQC,https://github.com/jianhong/atacseqqc,,bioc
 ATACseqTFEA,https://github.com/jianhong/atacseqtfea,,bioc
 ATAforecasting,https://github.com/alsabtay/ataforecasting,,
@@ -837,6 +838,7 @@ basksim,https://github.com/lbau7/basksim,,
 baskwrap,https://github.com/lukasdsauer/baskwrap,,
 batata,https://github.com/feddelegrand7/batata,,
 batchCorr,https://github.com/metabocomp/batchcorr,,bioc
+BatChef,https://github.com/zuinelena3/batchef,,bioc
 BatchExperiments,https://github.com/tudo-r/batchexperiments,,
 BatchGetSymbols,https://github.com/msperlin/batchgetsymbols,,
 BatchJobs,https://github.com/tudo-r/batchjobs,,
@@ -1168,6 +1170,7 @@ Bioc.gff,https://github.com/bioconductor/bioc.gff,,bioc
 bioC.logs,https://github.com/mponce0/bioc.logs,,
 bioCancer,https://github.com/kmezhoud/biocancer,,bioc
 BioCartaImage,https://github.com/jokergoo/biocartaimage,,bioc
+BiocAzul,https://github.com/bioconductor/biocazul,,bioc
 BiocBaseUtils,https://github.com/bioconductor/biocbaseutils,,bioc
 BiocBook,https://github.com/js2264/biocbook,,bioc
 BiocBuildReporter,https://github.com/lshep/biocbuildreporter,,bioc
@@ -1286,6 +1289,7 @@ BlanketStatsments,https://github.com/p-mq/blanketstatsments,,
 blapsr,https://github.com/oswaldogressani/blapsr,,
 blase,https://github.com/andrewmccluskey-uog/blase,,bioc
 blastar,https://github.com/loukesio/blastar,,archived
+blaster,https://github.com/tamminenlab/blaster,,
 blastula,https://github.com/rstudio/blastula,,
 blatent,https://github.com/jonathantemplin/blatent,,
 blavaan,https://github.com/ecmerkle/blavaan,,
@@ -2179,6 +2183,7 @@ clmstan,https://github.com/t-momozaki/clmstan,,
 clock,https://github.com/r-lib/clock,,
 clockify,https://github.com/datawookie/clockify,,
 clockplot,https://github.com/mahmudstat/clockplot,,
+ClonalSim,https://github.com/gbucci/clonalsim,,bioc
 cloneRate,https://github.com/bdj34/clonerate,,
 clootl,https://github.com/eliotmiller/clootl,,
 closeloop,https://github.com/heorlytics/closeloop,,
@@ -4223,6 +4228,7 @@ EpipwR,https://github.com/jbarth216/epipwr,,bioc
 epiregulon,https://github.com/xiaosaiyao/epiregulon,,bioc
 epiregulon.extra,https://github.com/xiaosaiyao/epiregulon.extra,,bioc
 EpiReport,https://github.com/epiconcept-paris/epireport,,
+epiRomics,https://github.com/huising-lab/epiromics,,bioc
 epiSeeker,https://github.com/yulab-smu/episeeker,,bioc
 episensr,https://codeberg.org/dhaine/episensr,,
 EpiSignalDetection,https://github.com/eu-ecdc/episignaldetection,,
@@ -6049,6 +6055,7 @@ grapes,https://github.com/wlandau/grapes,,
 grapesAgri1,https://github.com/pratheesh3780/grapesagri1,,
 graph3d,https://github.com/stla/graph3d,,
 grapherator,https://github.com/jakobbossek/grapherator,,
+GraphExperiment,https://github.com/almeidasilvaf/graphexperiment,,bioc
 graphframes,https://github.com/rstudio/graphframes,,
 graphicalExtremes,https://github.com/sebastian-engelke/graphicalextremes,,
 graphicalMCP,https://github.com/openpharma/graphicalmcp,,
@@ -6799,6 +6806,7 @@ image.libfacedetection,https://github.com/bnosac/image,image.libfacedetection,
 image.LineSegmentDetector,https://github.com/bnosac/image,image.LineSegmentDetector,
 image.Otsu,https://github.com/bnosac/image,image.Otsu,
 image2data,https://github.com/quantmeth/image2data,,
+ImageArray,https://github.com/bimsbbioinfo/imagearray,,bioc
 imageFeatureTCGA,https://github.com/waldronlab/imagefeaturetcga,,bioc
 imagefluency,https://github.com/stm/imagefluency,,
 imager,https://github.com/asgr/imager,,
@@ -6826,6 +6834,7 @@ iml,https://github.com/giuseppec/iml,,
 immApex,https://github.com/borchlab/immapex,,bioc
 immer,https://github.com/alexanderrobitzsch/immer,,
 Immigrate,https://github.com/ruzhangzhao/immigrate,,
+immLynx,https://github.com/borchlab/immlynx,,bioc
 immReferent,https://github.com/borchlab/immreferent,,bioc
 immunarch,https://github.com/immunomind/immunarch,,
 immundata,https://github.com/immunomind/immundata,,
@@ -7818,6 +7827,7 @@ lmreg,https://github.com/janakaushik/lmreg,,
 lmSubsets,https://github.com/marc-hofmann/lmsubsets.r,pkg,
 lmtp,https://github.com/nt-williams/lmtp,,
 lmw,https://github.com/ngreifer/lmw,,
+lncRna,https://github.com/prodakt/lncrna,,bioc
 LNPar,https://github.com/marco-bee/lnpar,,
 loa,https://github.com/r-forge/loa,pkg/loa,
 loadeR,https://github.com/promidat/loader,,
@@ -8413,6 +8423,7 @@ MetabolicSurv,https://github.com/olajumokeevangelina/metabolicsurv,,
 MetabolicSyndrome,https://github.com/jagadishramasamy/metsynd,,
 MetabolomicsBasics,https://github.com/janlisec/metabolomicsbasics,,
 MetabolSSMF,https://github.com/wenxuanliu1996/metabolssmf,,
+metabom8,https://github.com/tkimhofer/metabom8,,bioc
 metabook,https://github.com/guido-s/metabook,,
 metabup,https://github.com/dcahoy/metabup,,
 metacoder,https://github.com/grunwaldlab/metacoder,,
@@ -10889,6 +10900,7 @@ poLCA,https://github.com/dlinzer/polca,,
 poLCAParallel,https://github.com/qmul/polcaparallel,,
 poldis,https://github.com/henriquesposito/poldis,,
 PolicyPortfolios,https://github.com/xfim/policyportfolios,,
+polimetrics,https://github.com/burrelvannjr/polimetrics,,
 polished,https://github.com/tychobra/polished,,
 polite,https://github.com/dmi3kno/polite,,
 politeness,https://github.com/myeomans/politeness,,
@@ -11543,6 +11555,7 @@ quasar,https://github.com/angeella/quasar,,
 QuasR,https://github.com/fmicompbio/quasr,,bioc
 quaxnat,https://github.com/maximilianaxer/quaxnat,,
 QUBIC,https://github.com/zy26/qubic,,bioc
+queeems,https://github.com/thsadiq/queeems,,bioc
 querychat,https://github.com/posit-dev/querychat,pkg-r,
 queryparser,https://github.com/ianmcook/queryparser,,
 queryup,https://github.com/voisinneg/queryup,,
@@ -14680,6 +14693,7 @@ splatter,https://github.com/oshlack/splatter,,bioc
 spldv,https://github.com/gpiras/spldv,,
 SPLICE,https://github.com/agi-lab/splice,SPLICE,
 SpliceImpactR,https://github.com/fiszbein-lab/spliceimpactr,,bioc
+splicelogic,https://github.com/thelovelab/splicelogic,,bioc
 SpliceWiz,https://github.com/alexchwong/splicewiz,,bioc
 SplicingFactory,https://github.com/esebesty/splicingfactory,,bioc
 SplicingGraphs,https://github.com/bioconductor/splicinggraphs,,bioc
@@ -16692,6 +16706,7 @@ WaverideR,https://github.com/stratigraphy/waverider,,
 waves,https://github.com/gorelab/waves,,
 WaveSampling,https://github.com/rjauslin/wavesampling,,
 waveslim,https://github.com/bjw34032/waveslim,,
+wavFeatExt,https://github.com/maharaniau/wavfeatext,,bioc
 waydown,https://github.com/pabrod/waydown,,
 Waypoint,https://github.com/mark-eis/waypoint,,
 waysign,https://github.com/thomasp85/waysign,,

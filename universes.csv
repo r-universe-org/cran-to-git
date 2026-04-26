@@ -1000,6 +1000,7 @@ asymptor,bisaloo
 AsynchLong,sth1402
 ata,chajewski
 atable,arminstroebel
+atacInferCnv,bioc
 ATACseqQC,bioc
 ATACseqTFEA,bioc
 ATAforecasting,alsabtay
@@ -1334,6 +1335,7 @@ BAT,cardosopmb
 batata,feddelegrand7
 batch,cran
 batchCorr,bioc
+BatChef,bioc
 batchelor,bioc
 BatchExperiments,tudo-r
 BatchGetSymbols,msperlin
@@ -1884,6 +1886,7 @@ Bioc.gff,bioc
 bioC.logs,mponce0
 bioCancer,bioc
 BioCartaImage,bioc
+BiocAzul,bioc
 BiocBaseUtils,bioc
 BiocBook,bioc
 BiocBuildReporter,bioc
@@ -2056,6 +2059,7 @@ BlanketStatsments,p-mq
 blapsr,oswaldogressani
 blase,bioc
 blastar,loukesio
+blaster,tamminenlab
 blastula,rstudio
 blatent,jonathantemplin
 blavaan,ecmerkle
@@ -3443,6 +3447,7 @@ clockplot,mahmudstat
 clogitboost,haoluns
 clogitL1,cran
 Clomial,bioc
+ClonalSim,bioc
 cloneRate,bdj34
 CloneSeeker,cran
 CLONETv2,cran
@@ -5123,7 +5128,7 @@ deltaccd,hugheylab
 deltaGseg,bioc
 DeltaMAN,admaldonado
 deltapif,rodrigozepeda
-deltaPlotR,cran
+deltaPlotR,adelahladka
 deltatest,hoxo-m
 DELTD,jahmadkhan
 DEM,cran
@@ -5519,7 +5524,7 @@ discursive,pwkraft
 disdat,rvalavi
 diseasemapping,eborgnine
 diseasystore,ssi-dk
-DisHet,cran
+DisHet,wtwt5237
 DisimForMixed,cran
 DisImpact,vinhdizzo
 dismo,rspatial
@@ -6682,6 +6687,7 @@ epiR,markstevenson1
 epiregulon,bioc
 epiregulon.extra,bioc
 EpiReport,epiconcept-paris
+epiRomics,bioc
 epiSeeker,bioc
 EpiSemble,diprosinha
 episensr,dhaine
@@ -9501,6 +9507,7 @@ GraphAT,bioc
 graphclust,tabea17
 GrapheR,maximeherve
 grapherator,jakobbossek
+GraphExperiment,bioc
 graphframes,rstudio
 graphicalEvidence,cran
 graphicalExtremes,sebastian-engelke
@@ -10740,6 +10747,7 @@ image.libfacedetection,bnosac
 image.LineSegmentDetector,bnosac
 image.Otsu,bnosac
 image2data,quantmeth
+ImageArray,bioc
 imageData,briencj
 imageFeatureTCGA,bioc
 imagefluency,stm
@@ -10780,6 +10788,7 @@ immApex,bioc
 immer,alexanderrobitzsch
 Immigrate,ruzhangzhao
 ImML,salvatoremangiafico
+immLynx,bioc
 immReferent,bioc
 immunarch,immunomind
 immunaut,login-
@@ -12363,6 +12372,7 @@ lmviz,cran
 lmw,ngreifer
 lncDIFF,qianli10000
 LncFinder,han-siyu
+lncRna,bioc
 LNIRT,cran
 lnmCluster,cran
 LNPar,marco-bee
@@ -12763,7 +12773,7 @@ mammalcol,dlizcano
 MAMS,cran
 ManagedCloudProvider,jiefei-wang
 managelocalrepo,imanuelcostigan
-MANCIE,cran
+MANCIE,wtwt5237
 mand,cran
 MandalaR,lucianea
 mandelbrot,blmoore
@@ -13341,6 +13351,7 @@ MetabolicSyndrome,jagadishramasamy
 MetabolomicsBasics,janlisec
 metabolomicsWorkbenchR,bioc
 MetabolSSMF,wenxuanliu1996
+metabom8,bioc
 metabomxtr,bioc
 metabook,guido-s
 MetaboQC,monicacalsan
@@ -18329,6 +18340,7 @@ QuaternaryProd,bioc
 quaxnat,maximilianaxer
 QUBIC,bioc
 QuClu,landerlucci
+queeems,bioc
 queryBuilder,krystian8207
 querychat,posit-dev
 queryparser,ianmcook
@@ -22719,7 +22731,7 @@ sparsenetgls,bioc
 sparsepca,erichson
 sparsepp,dselivanov
 sparseR,petersonr
-sparsereg,cran
+sparsereg,ratkovic
 sparseSEM,cran
 SparseSignatures,bioc
 sparsestep,gjjvdburg
@@ -22959,6 +22971,7 @@ splatter,bioc
 spldv,gpiras
 SPLICE,agi-lab
 SpliceImpactR,bioc
+splicelogic,bioc
 SpliceWiz,bioc
 SplicingFactory,bioc
 SplicingGraphs,bioc
@@ -25962,6 +25975,7 @@ WaveSampling,rjauslin
 waveslim,bjw34032
 WaveST,ranjitstat
 wavethresh,guynason
+wavFeatExt,bioc
 wavScalogram,cran
 waydown,pabrod
 WayFindR,cran

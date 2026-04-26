@@ -691,6 +691,12 @@
     "registry": "bioc"
   },
   {
+    "package": "atacInferCnv",
+    "maintainer": "Konstantin Okonechnikov <k.okonechnikov@gmail.com>",
+    "url": "https://github.com/kokonech/atacinfercnv",
+    "registry": "bioc"
+  },
+  {
     "package": "ATACseqQC",
     "maintainer": "Jianhong Ou <jou@morgridge.org>",
     "url": "https://github.com/jianhong/atacseqqc",
@@ -886,6 +892,12 @@
     "package": "batchCorr",
     "maintainer": "Anton Ribbenstedt <parasitetwin@gmail.com>",
     "url": "https://github.com/metabocomp/batchcorr",
+    "registry": "bioc"
+  },
+  {
+    "package": "BatChef",
+    "maintainer": "Elena Zuin <elena.zuin.3@phd.unipd.it>",
+    "url": "https://github.com/zuinelena3/batchef",
     "registry": "bioc"
   },
   {
@@ -1120,6 +1132,12 @@
     "package": "BioCartaImage",
     "maintainer": "Zuguang Gu <guzuguang@suat-sz.edu.cn>",
     "url": "https://github.com/jokergoo/biocartaimage",
+    "registry": "bioc"
+  },
+  {
+    "package": "BiocAzul",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
+    "url": "https://github.com/bioconductor/biocazul",
     "registry": "bioc"
   },
   {
@@ -2291,6 +2309,12 @@
     "package": "Clomial",
     "maintainer": "Habil Zare <zare@u.washington.edu>",
     "url": "https://git.bioconductor.org/packages/Clomial",
+    "registry": "bioc"
+  },
+  {
+    "package": "ClonalSim",
+    "maintainer": "Gabriele Bucci <bucci.g@gmail.com>",
+    "url": "https://github.com/gbucci/clonalsim",
     "registry": "bioc"
   },
   {
@@ -4161,6 +4185,12 @@
     "registry": "bioc"
   },
   {
+    "package": "epiRomics",
+    "maintainer": "Alex M. Mawla <ammawla@ucdavis.edu>",
+    "url": "https://github.com/huising-lab/epiromics",
+    "registry": "bioc"
+  },
+  {
     "package": "epiSeeker",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/episeeker",
@@ -5643,6 +5673,12 @@
     "registry": "bioc"
   },
   {
+    "package": "GraphExperiment",
+    "maintainer": "Fabricio Almeida-Silva <fabricio_almeidasilva@hotmail.com>",
+    "url": "https://github.com/almeidasilvaf/graphexperiment",
+    "registry": "bioc"
+  },
+  {
     "package": "graphite",
     "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
     "url": "https://github.com/sales-lab/graphite",
@@ -6369,6 +6405,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ImageArray",
+    "maintainer": "Artür Manukyan <artur-man@hotmail.com>",
+    "url": "https://github.com/bimsbbioinfo/imagearray",
+    "registry": "bioc"
+  },
+  {
     "package": "imageFeatureTCGA",
     "maintainer": "Ilaria Billato <ilaria.billato@phd.unipd.it>",
     "url": "https://github.com/waldronlab/imagefeaturetcga",
@@ -6408,6 +6450,12 @@
     "package": "immApex",
     "maintainer": "Nick Borcherding <ncborch@gmail.com>",
     "url": "https://github.com/borchlab/immapex",
+    "registry": "bioc"
+  },
+  {
+    "package": "immLynx",
+    "maintainer": "Nick Borcherding <ncborch@gmail.com>",
+    "url": "https://github.com/borchlab/immlynx",
     "registry": "bioc"
   },
   {
@@ -7023,6 +7071,12 @@
     "registry": "bioc"
   },
   {
+    "package": "lncRna",
+    "maintainer": "Jan Pawel Jastrzebski <bioinformatyka@gmail.com>",
+    "url": "https://github.com/prodakt/lncrna",
+    "registry": "bioc"
+  },
+  {
     "package": "LOBSTAHS",
     "maintainer": "Henry Holm <hholm@whoi.edu>",
     "url": "https://github.com/vanmooylipidomics/lobstahs",
@@ -7578,6 +7632,12 @@
     "package": "metabolomicsWorkbenchR",
     "maintainer": "Gavin Rhys Lloyd <g.r.lloyd@bham.ac.uk>",
     "url": "https://git.bioconductor.org/packages/metabolomicsWorkbenchR",
+    "registry": "bioc"
+  },
+  {
+    "package": "metabom8",
+    "maintainer": "Torben Kimhofer <tkimhofer@gmail.com>",
+    "url": "https://github.com/tkimhofer/metabom8",
     "registry": "bioc"
   },
   {
@@ -10324,6 +10384,12 @@
     "registry": "bioc"
   },
   {
+    "package": "queeems",
+    "maintainer": "Hassan Sadiq <hassan.t.sadiq@gmail.com>",
+    "url": "https://github.com/thsadiq/queeems",
+    "registry": "bioc"
+  },
+  {
     "package": "qusage",
     "maintainer": "Christopher Bolen <cbolen1@gmail.com>",
     "url": "https://git.bioconductor.org/packages/qusage",
@@ -12862,6 +12928,12 @@
     "registry": "bioc"
   },
   {
+    "package": "splicelogic",
+    "maintainer": "Beatriz Campillo <beatrizcampillo29@gmail.com>",
+    "url": "https://github.com/thelovelab/splicelogic",
+    "registry": "bioc"
+  },
+  {
     "package": "SpliceWiz",
     "maintainer": "Alex Chit Hei Wong <alexchwong.github@gmail.com>",
     "url": "https://github.com/alexchwong/splicewiz",
@@ -14245,6 +14317,12 @@
     "package": "wavClusteR",
     "maintainer": "Federico Comoglio <federico.comoglio@gmail.com>",
     "url": "https://github.com/federicocomoglio/wavcluster",
+    "registry": "bioc"
+  },
+  {
+    "package": "wavFeatExt",
+    "maintainer": "Maharani Ahsani Ummi <maharaniahsani@itb.ac.id>",
+    "url": "https://github.com/maharaniau/wavfeatext",
     "registry": "bioc"
   },
   {
