@@ -2,12 +2,14 @@
   {
     "package": "EconDemand",
     "maintainer": "Tianhao Wu <tianhao.wu@yale.edu>",
-    "url": "https://github.com/cran/EconDemand"
+    "url": "https://github.com/cran/EconDemand",
+    "registry": "archived"
   },
   {
     "package": "matrixLaplacian",
     "maintainer": "Tianhao Wu <tianhao.wu@yale.edu>",
-    "url": "https://github.com/cran/matrixLaplacian"
+    "url": "https://github.com/cran/matrixLaplacian",
+    "registry": "archived"
   },
   {
     "package": "NMI",
@@ -17,6 +19,7 @@
   {
     "package": "SpectralMap",
     "maintainer": "Tianhao Wu <tianhao.wu@yale.edu>",
-    "url": "https://github.com/cran/SpectralMap"
+    "url": "https://github.com/cran/SpectralMap",
+    "registry": "archived"
   }
 ]
