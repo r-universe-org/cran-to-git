@@ -2,11 +2,13 @@
   {
     "package": "mbrglm",
     "maintainer": "Euloge C. Kenne Pagui <kenne@stat.unipd.it>",
-    "url": "https://github.com/eulogepagui/mbrglm"
+    "url": "https://github.com/eulogepagui/mbrglm",
+    "registry": "archived"
   },
   {
     "package": "PLordprob",
     "maintainer": "Euloge Clovis Kenne Pagui <kenne@stat.unipd.it>",
-    "url": "https://github.com/cran/PLordprob"
+    "url": "https://github.com/cran/PLordprob",
+    "registry": "archived"
   }
 ]
