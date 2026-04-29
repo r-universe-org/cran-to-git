@@ -5,6 +5,12 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
+    "package": "rtemis.a3",
+    "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
+    "url": "https://github.com/rtemis-org/a3",
+    "subdir": "r"
+  },
+  {
     "package": "rtemis.core",
     "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
     "url": "https://github.com/rtemis-org/rtemis.core"

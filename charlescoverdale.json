@@ -1,5 +1,15 @@
 [
   {
+    "package": "aemo",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/aemo"
+  },
+  {
+    "package": "ato",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/ato"
+  },
+  {
     "package": "boe",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/boe"
@@ -8,6 +18,11 @@
     "package": "carbondata",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/carbondata"
+  },
+  {
+    "package": "cer",
+    "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/cer"
   },
   {
     "package": "climatekit",
@@ -28,6 +43,11 @@
     "package": "fred",
     "maintainer": "Charles Coverdale <charlesfcoverdale@gmail.com>",
     "url": "https://github.com/charlescoverdale/fred"
+  },
+  {
+    "package": "greenbook",
+    "maintainer": "Charles Coverdale <charles.f.coverdale@gmail.com>",
+    "url": "https://github.com/charlescoverdale/greenbook"
   },
   {
     "package": "hmrc",

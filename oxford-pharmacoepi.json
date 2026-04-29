@@ -3,5 +3,10 @@
     "package": "EpiStandard",
     "maintainer": "Elin Rowlands <elin.rowlands@ndorms.ox.ac.uk>",
     "url": "https://github.com/oxford-pharmacoepi/epistandard"
+  },
+  {
+    "package": "OmopStudyBuilder",
+    "maintainer": "Folu Akintola <folu.akintola@ndorms.ox.ac.uk>",
+    "url": "https://github.com/oxford-pharmacoepi/omopstudybuilder"
   }
 ]

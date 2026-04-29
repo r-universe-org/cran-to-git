@@ -20,6 +20,11 @@
     "url": "https://github.com/doi-usgs/hydroloom"
   },
   {
+    "package": "mortar",
+    "maintainer": "Anthony Martinez <ajmartinez@usgs.gov>",
+    "url": "https://github.com/doi-usgs/mortar"
+  },
+  {
     "package": "ncdfgeom",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
     "url": "https://github.com/doi-usgs/ncdfgeom"
