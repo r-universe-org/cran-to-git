@@ -2282,6 +2282,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ClusterGVis",
+    "maintainer": "Jun Zhang <1138976957@qq.com>",
+    "url": "https://github.com/junjunlab/clustergvis",
+    "registry": "bioc"
+  },
+  {
     "package": "ClusterJudge",
     "maintainer": "Adrian Pasculescu <a.pasculescu@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ClusterJudge",

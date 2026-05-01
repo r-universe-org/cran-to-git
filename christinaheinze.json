@@ -2,7 +2,8 @@
   {
     "package": "backShift",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
-    "url": "https://github.com/christinaheinze/backshift"
+    "url": "https://github.com/christinaheinze/backshift",
+    "registry": "archived"
   },
   {
     "package": "CompareCausalNetworks",
@@ -19,6 +20,7 @@
     "package": "nonlinearICP",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
-    "subdir": "nonlinearICP"
+    "subdir": "nonlinearICP",
+    "registry": "archived"
   }
 ]

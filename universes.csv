@@ -566,7 +566,6 @@ AmigaFFH,pepijn-devries
 AMIM,gelotran
 AMISforInfectiousDiseases,drsimonspencer
 ammiBayes,cran
-ammistability,ajaygpb
 AMModels,cran
 AmmoniaConcentration,tumenas
 aMNLFA,vtcole
@@ -720,7 +719,6 @@ APackOfTheClones,qile0317
 apaTables,dstanley4
 apaText,dstanley4
 apathe,crsh
-apc,cran
 apca,cran
 APCalign,traitecoevo
 APCanalysis,ardenewan
@@ -1387,7 +1385,6 @@ bayesdfa,fate-ewi
 bayesDiagnostics,ikrakib
 BayesDIP,chenw10
 BayesDissolution,tpourmohamad
-BayesDLMfMRI,johnatanlab
 bayesDP,graemeleehickey
 bayesEO,e-sensing
 BayesERtools,genentech
@@ -1411,7 +1408,7 @@ BayesianDEB,sciom
 BayesianDisaggregation,isadorenabi
 BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
-BayesianGLasso,trainorp
+BayesianGLasso,cran
 BayesianHybridDesign,cran
 BayesianInference,cran
 BayesianLasso,garthtarr
@@ -2015,7 +2012,7 @@ biscuiteer,bioc
 BISdata,enricoschumann
 BiSeq,bioc
 bispdep,carlosm77
-BisRNA,carinelegrand
+BisRNA,cran
 bistablehistory,alexander-pastukhov
 bit,r-lib
 bit64,r-lib
@@ -2786,7 +2783,7 @@ causalDisco,disco-coders
 causaldrf,cran
 causalDT,tiffanymtang
 causaleffect,santikka
-CausalGAM,quinn-kevin
+CausalGAM,cran
 CausalGPS,nsaph-software
 causalHyperGraph,mathiasambuehl
 CausalImpact,google
@@ -3498,7 +3495,7 @@ clusterExperiment,bioc
 ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
 clusterGGM,aalfons
-ClusterGVis,junjunlab
+ClusterGVis,bioc
 clusterhap,gastonquero
 Clustering,laperez
 clustering.sc.dp,cran
@@ -7667,7 +7664,6 @@ fixes,yo5uke
 fixest,lrberge
 fixr,ambuvjyn
 FixSeqMTP,allenzhuaz
-fixtuRes,jakubnowicki
 fizzbuzzR,cran
 fjoin,trobx
 FjordLight,face-it-project
@@ -8306,7 +8302,7 @@ gammaFuncModel,patrickmorgenstern
 Gammareg,cran
 gammi,cran
 gammSlice,mattwand
-gamreg,takayukikawashima
+gamreg,cran
 gamRR,marsdu1989
 gamsel,trevorhastie
 gamselBayes,mattwand
@@ -10935,7 +10931,7 @@ informedSen,rosenbap
 INFOSET,cran
 infotest,guliyevh
 infotheo,meyerp-software
-InfoTrad,murattinic
+InfoTrad,cran
 infoxtr,stscl
 Infusion,f-rousset
 ingredients,modeloriented
@@ -11481,7 +11477,7 @@ jose,r-lib
 jot,christopherkenny
 journalabbr,zoushucai
 journalR,epi-sam
-JOUSBoost,molson2
+JOUSBoost,cran
 joyn,randrescastaneda
 jpcity,uchidamizuki
 jpeg,s-u
@@ -15372,7 +15368,6 @@ nnsolve,nikolas-kk
 nnspat,elvanceyhan
 nnSVG,bioc
 nnt,yangzhao98
-NNTbiomarker,professorbeautiful
 nnTensor,rikenbit
 nntmvn,jcatwood
 NO.PING.PONG,bpoconnor
@@ -17479,7 +17474,6 @@ potools,michaelchirico
 potts,cjgeyer
 PottsUtils,daifengstat
 pould,sjmack
-POUMM,venelin
 POV,paulantondeen
 pow.int,jondebove
 powdist,cran
@@ -18293,7 +18287,6 @@ quadraticSD,cran
 QuadratiK,ropensci
 QuadRoot,cran
 quadrupen,jchiquet
-quadtree,dfriend21
 quadVAR,sciurus365
 qualitycontrol,luisgarcez11
 QualityMeasure,knieser
@@ -18491,7 +18484,6 @@ r6methods,jakubsob
 R6P,tidylab
 r6qualitytools,fabianenc
 ra4bayesmeta,manuelaott
-rabi,andburch
 RABR,tian-yu-zhan
 RAC,damianobaldan
 racademyocean,selesnow
@@ -18983,7 +18975,6 @@ RcppHNSW,jlmelville
 RcppHungarian,jsilve24
 RcppInt64,eddelbuettel
 RcppJagger,shusei-e
-RcppLbfgsBlaze,chingchuan-chen
 RcppMagicEnum,eddelbuettel
 RcppMeCab,junhewk
 RcppML,zdebruine
@@ -19362,7 +19353,7 @@ reinstallr,calligross
 reinsureR,cran
 relaimpo,ugroempi
 relatable,domjarkey
-Relatedness,fabienlaporte
+Relatedness,cran
 relations,kurthornik
 RelativeDistClust,creus-marti
 relcircle,lin429
@@ -19559,7 +19550,6 @@ retrodesign,andytimm
 retrofit,bioc
 retrosheet,colindouglas
 retry,randy3k
-ReturnCurves,lidiamandre
 ReUseData,bioc
 reval,mkoohafkan
 ReVAMP,edwbaker
@@ -19957,7 +19947,7 @@ RLumShiny,tzerk
 rly,systemincloud
 RM.weights,vivsara
 RM2006,ctruciosm
-rma.exact,haben-michael
+rma.exact,cran
 rmacrostrat,palaeoverse
 RMaCzek,cran
 Rmagpie,bioc
@@ -20409,7 +20399,7 @@ rpcss,aravind-j
 Rpdb,discoleo
 rPDBapi,selcukorkmaz
 RPDTest,glazellli
-RpeakChrom,manuelperis
+RpeakChrom,cran
 RPEGLMEN,anthonychristidis
 RPEIF,anthonychristidis
 RPEnsemble,tc325
@@ -24585,7 +24575,6 @@ timeROC,paulowhite
 timescape,bioc
 timeSeries,cran
 timeSeriesDataSets,lightbluetitan
-timeseriesdb,mbannert
 timetk,business-science
 timetools,vald
 TimeTraits,scllock
@@ -26415,7 +26404,6 @@ xreg2,mathsinhealth
 xrf,holub008
 xRing,filipecampelo
 xrnet,uscbiostats
-XRPython,cran
 XRSCC,ericksuhel
 xslt,ropensci
 xsp,cran
