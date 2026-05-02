@@ -1408,7 +1408,7 @@ BayesianDEB,sciom
 BayesianDisaggregation,isadorenabi
 BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
-BayesianGLasso,cran
+BayesianGLasso,trainorp
 BayesianHybridDesign,cran
 BayesianInference,cran
 BayesianLasso,garthtarr
@@ -5958,7 +5958,6 @@ DTFM,guangbaog
 dtGAP,hanmingwu1103
 dtgiw,atchanut
 dti,ktabelow
-dtlcor,ashwz
 dtlg,ascentsoftware
 dtlscores,grimmjulian
 dtmapi,displacement-tracking-matrix
@@ -8302,7 +8301,7 @@ gammaFuncModel,patrickmorgenstern
 Gammareg,cran
 gammi,cran
 gammSlice,mattwand
-gamreg,cran
+gamreg,takayukikawashima
 gamRR,marsdu1989
 gamsel,trevorhastie
 gamselBayes,mattwand
@@ -9814,6 +9813,7 @@ GWSDAT,waynegitshell
 GWsignif,changjiangxu
 gwzinbr,jessicavasconcelos
 GxEprs,dovinij
+GxEScanR,jimb3
 gym,paulhendricks
 gypsum,bioc
 h0,hyungsuktak
@@ -10931,7 +10931,7 @@ informedSen,rosenbap
 INFOSET,cran
 infotest,guliyevh
 infotheo,meyerp-software
-InfoTrad,cran
+InfoTrad,murattinic
 infoxtr,stscl
 Infusion,f-rousset
 ingredients,modeloriented
@@ -11477,7 +11477,7 @@ jose,r-lib
 jot,christopherkenny
 journalabbr,zoushucai
 journalR,epi-sam
-JOUSBoost,cran
+JOUSBoost,molson2
 joyn,randrescastaneda
 jpcity,uchidamizuki
 jpeg,s-u
@@ -19353,7 +19353,7 @@ reinstallr,calligross
 reinsureR,cran
 relaimpo,ugroempi
 relatable,domjarkey
-Relatedness,cran
+Relatedness,fabienlaporte
 relations,kurthornik
 RelativeDistClust,creus-marti
 relcircle,lin429
@@ -19947,7 +19947,7 @@ RLumShiny,tzerk
 rly,systemincloud
 RM.weights,vivsara
 RM2006,ctruciosm
-rma.exact,cran
+rma.exact,haben-michael
 rmacrostrat,palaeoverse
 RMaCzek,cran
 Rmagpie,bioc
@@ -20399,7 +20399,7 @@ rpcss,aravind-j
 Rpdb,discoleo
 rPDBapi,selcukorkmaz
 RPDTest,glazellli
-RpeakChrom,cran
+RpeakChrom,manuelperis
 RPEGLMEN,anthonychristidis
 RPEIF,anthonychristidis
 RPEnsemble,tc325
@@ -24035,7 +24035,6 @@ TAPseq,bioc
 TAQMNGR,cipollinifabrizio-01
 TAR,hanwengutierrez
 tarchetypes,ropensci
-tarchives,uchidamizuki
 tardis,chris31415926535
 target,bioc
 TargetDecoy,bioc
