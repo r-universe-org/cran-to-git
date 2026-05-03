@@ -5328,7 +5328,7 @@ dhglm,msnoh1
 dhmeasures,stephbuon
 DHS.rates,mahmoudelkasabi
 dhsage,imranshakoor
-dHSIC,cran
+dHSIC,niklaspfister
 DHSr,arnob62
 di,cran
 diagcounts,cran
@@ -8970,6 +8970,7 @@ ggquickeda,smouksassi
 ggquiver,mitchelloharawild
 ggragged,mikmart
 ggrain,njudd
+ggRandomForests,ehrlinger
 ggraph,thomasp85
 ggraptR,cargomoose
 ggrasp,idpcc
@@ -8993,6 +8994,7 @@ ggScatRidges,matbou85
 ggsced,miyamot0
 ggsci,nanxstats
 ggscidca,cran
+ggscribe,davidhodge931
 ggseg,ggsegverse
 ggseg.formats,ggsegverse
 ggseg.meshes,ggsegverse
@@ -9924,7 +9926,7 @@ hclust1d,szymonnowakowski
 hclusteasy,tsukubai
 hclustTeach,cran
 HCmodelSets,hhhelfer
-HCPclust,menghan898
+HCPclust,judywangstat
 HCR,jie-qiao
 hcruR,mumbarkar
 HCT,cran
@@ -10343,11 +10345,13 @@ hsrecombi,wittenburg
 hsstan,mcol
 hstats,modeloriented
 htaBIM,heorlytics
+HTDV,isadorenabi
 htestClust,cran
 htetree,jiahuixu1
 HTGM,barryzee
 HTGM2D,barryzee
 HTGM3D,barryzee
+HTGM4D,barryzee
 HTLR,longhaisk
 htm2txt,replicable
 html2R,stla
@@ -11452,6 +11456,7 @@ joineR,graemeleehickey
 joineRML,graemeleehickey
 joinet,rauschenberger
 joinless,braylinjr
+joinpointR,datos-ine
 joinspy,gcol33
 joint.Cox,takeshiemura1
 JointAI,nerler
@@ -17571,6 +17576,7 @@ praise,rladies
 pram,bioc
 PRANA,cran
 praznik,mbq
+PRBMSdesigns,cran
 prcbench,evalclass
 prclust,chongwu-biostat
 prcr,jrosen48
@@ -21093,6 +21099,7 @@ SaturnCoefficient,davidechicco
 SAutomata,cran
 SAVER,mohuangx
 savonliquide,feddelegrand7
+savvyGLM,ziwei-chenchen
 savvyPR,ziwei-chenchen
 savvyr,openpharma
 savvySh,ziwei-chenchen

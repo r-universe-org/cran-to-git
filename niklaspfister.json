@@ -1,5 +1,10 @@
 [
   {
+    "package": "dHSIC",
+    "maintainer": "Niklas Pfister <niklas.pfister@gmail.com>",
+    "url": "https://github.com/niklaspfister/dhsic"
+  },
+  {
     "package": "StabilizedRegression",
     "maintainer": "Niklas Pfister <np@math.ku.dk>",
     "url": "https://github.com/niklaspfister/stabilizedregression-r",
