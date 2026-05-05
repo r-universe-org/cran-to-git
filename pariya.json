@@ -1,5 +1,15 @@
 [
   {
+    "package": "netgwas",
+    "maintainer": "Pariya Behrouzi <pariya.behrouzi@gmail.com>",
+    "url": "https://github.com/cran/netgwas"
+  },
+  {
+    "package": "nutriNetwork",
+    "maintainer": "Pariya Behrouzi <pariya.behrouzi@gmail.com>",
+    "url": "https://github.com/cran/nutriNetwork"
+  },
+  {
     "package": "pcgen",
     "maintainer": "Pariya Behrouzi <pariya.behrouzi@gmail.com>",
     "url": "https://github.com/cran/pcgen"

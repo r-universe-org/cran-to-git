@@ -14,5 +14,11 @@
     "package": "rtemis.core",
     "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
     "url": "https://github.com/rtemis-org/rtemis.core"
+  },
+  {
+    "package": "rtemis.llm",
+    "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
+    "url": "https://github.com/rtemis-org/llm",
+    "subdir": "r"
   }
 ]

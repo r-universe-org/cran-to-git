@@ -1,12 +1,8 @@
 [
   {
-    "package": "DRDRtest",
-    "maintainer": "Guangwei Weng <wengx076@umn.edu>",
-    "url": "https://github.com/cran/DRDRtest"
-  },
-  {
     "package": "lsbs",
     "maintainer": "Guangwei Weng <wengx076@umn.edu>",
-    "url": "https://github.com/weng-gw/lsbs"
+    "url": "https://github.com/weng-gw/lsbs",
+    "registry": "archived"
   }
 ]

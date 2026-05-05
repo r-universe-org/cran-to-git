@@ -2,7 +2,8 @@
   {
     "package": "gpx",
     "maintainer": "Mark Ewing <b.mark@ewingsonline.com>",
-    "url": "https://github.com/bmewing/gpx"
+    "url": "https://github.com/bmewing/gpx",
+    "registry": "archived"
   },
   {
     "package": "mgsub",
@@ -12,11 +13,13 @@
   {
     "package": "readOffice",
     "maintainer": "Mark Ewing <b.mark@ewingsonline.com>",
-    "url": "https://github.com/bmewing/readoffice"
+    "url": "https://github.com/bmewing/readoffice",
+    "registry": "archived"
   },
   {
     "package": "whitechapelR",
     "maintainer": "Mark Ewing <b.mark@ewingsonline.com>",
-    "url": "https://github.com/bmewing/whitechapelr"
+    "url": "https://github.com/bmewing/whitechapelr",
+    "registry": "archived"
   }
 ]

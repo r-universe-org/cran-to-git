@@ -1,5 +1,10 @@
 [
   {
+    "package": "corteza",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/corteza"
+  },
+  {
     "package": "llm.api",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/llm.api"
@@ -8,6 +13,11 @@
     "package": "mx.api",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/mx.api"
+  },
+  {
+    "package": "pensar",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/pensar"
   },
   {
     "package": "rformat",
