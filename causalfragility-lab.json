@@ -75,6 +75,16 @@
     "url": "https://github.com/causalfragility-lab/multispline"
   },
   {
+    "package": "NonlinearDiD",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/nonlineardid"
+  },
+  {
+    "package": "rdstagger",
+    "maintainer": "Subir Hait <haitsubi@msu.edu>",
+    "url": "https://github.com/causalfragility-lab/rdstagger"
+  },
+  {
     "package": "RobustFlow",
     "maintainer": "Subir Hait <haitsubi@msu.edu>",
     "url": "https://github.com/causalfragility-lab/robustflow"
