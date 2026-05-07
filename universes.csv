@@ -1543,7 +1543,7 @@ bccp,mahditeimouri
 BCD,mnrzrad
 BCDAG,alesmascaro
 bcdata,bcgov
-BCDating,einian85
+BCDating,cran
 BCEA,giabaio
 BCEE,detal9
 bcf,jaredsmurray
@@ -2636,6 +2636,7 @@ cancerscreening,damurka
 candisc,friendly
 CANE,vinayaka11442
 Canek,martinloza
+CanonicalFamilyExtra,qiu-hongxiang-david
 canprot,jedick
 cansim,mountainmath
 canvasXpress,neuhausi
@@ -4473,7 +4474,7 @@ crs,jeffreyracine
 crseEventStudy,skoestlmeier
 crsmeta,hypertidy
 crsnls,cran
-crso,michaelklein916
+crso,cran
 crstools,dramanica
 crsuggest,walkerke
 crt2power,melodyaowen
@@ -4825,6 +4826,7 @@ datacult,gilberto-sassi
 datacutr,pharmaverse
 datadictionary,doctorbjones
 datadiff,thinkr-open
+DataDNA,tonyisfool
 datadogr,yutannihilation
 datadriftR,ugurdar
 DataEditR,dillonhammill
@@ -6185,7 +6187,6 @@ eBsc,lfrm
 EBSEA,bioc
 EBSeq,bioc
 ebTobit,barbehenna
-ebvcube,ebvcube
 ebx,nmayo-earthblox
 ec50estimator,alvesks
 ecan,matutosi
@@ -6964,7 +6965,7 @@ evoTS,klvoje
 evprof,resourcefully-dev
 evsim,resourcefully-dev
 evt0,lbelzile
-evtclass,edovi
+evtclass,cran
 evtree,thomasgrubinger-svg
 EWCE,bioc
 EWGoF,mkrit
@@ -7612,7 +7613,7 @@ fipio,program--
 FiRE,princethewinner
 firebase,johncoene
 firebase.auth.rest,kennedymwavu
-firebehavioR,ecofire
+firebehavioR,cran
 fireexposuR,ropensci
 fireproof,thomasp85
 firesafety,thomasp85
@@ -9510,7 +9511,7 @@ GRaNIE,bioc
 granova,fbertran
 granovaGG,briandk
 grantham,patterninstitute
-GRAPE,michaelklein916
+GRAPE,cran
 graper,bioc
 grapes,wlandau
 grapesAgri1,pratheesh3780
@@ -10381,7 +10382,7 @@ HTMLUtils,cran
 htmlwidgets,ramnathv
 htmxr,hyperverse-r
 HTqPCR,bioc
-htrSPRanalysis,cran
+htrSPRanalysis,janice-mccarthy
 HTRX,cran
 hts,earowang
 HTSCluster,andreamrau
@@ -10538,6 +10539,7 @@ Ibex,bioc
 IBFS,cran
 ibger,strategicprojects
 ibh,bioc
+ibkrcp,sactyr
 IBLM,ifoa-adswp
 ibm,roliveros-ramos
 ibmAcousticR,chrisumphlett
@@ -11146,6 +11148,7 @@ IPEC,cran
 IPEDS,ajhaller
 IPEDSuploadables,alisonlanski
 iperform,cran
+ipeval,jvelumc
 ipflasso,boulesteix
 ipfp,awblocker
 ipfr,dkyleward
@@ -11654,7 +11657,7 @@ kernelshap,modeloriented
 kernhaz,cran
 kernlab,alexkz
 kernopt,thomasfillon
-kernplus,hhwangbo
+kernplus,cran
 kernreg,cran
 kernscr,borishejblum
 KernSmooth,cran
@@ -12018,7 +12021,7 @@ lboxcox,ubclxing
 LBPG,kittipong8888
 lbreg,cran
 LBSPR,adrianhordyk
-LCA,edcurry
+LCA,cran
 LCAextend,cran
 lcars,leonawicz
 lcc,prof-thiagooliveira
@@ -13142,7 +13145,7 @@ mccca,cran
 mccf1,kirin666
 mcclust,cran
 MCCM,encoreus
-mccmeiv,chrismattstat
+mccmeiv,cran
 mccount,kennethataylor
 mccr,cran
 mcemGLM,acosta-stat
@@ -13577,6 +13580,7 @@ mfp,georgheinze
 mfp2,edwinkipruto
 MFPCA,clarahapp
 mfpp,kzst
+MFRCD,sukantaiasri
 mfrmr,cran
 MFSD,cran
 MFSIS,cran
@@ -14898,6 +14902,7 @@ mwa,kdonnay
 MWASTools,bioc
 mwcsr,ctlab
 mwlaxeref,cran
+mwmapdata,bitacanalytics
 MWright,cran
 mwshiny,delosh653
 mwTensor,rikenbit
@@ -15435,7 +15440,7 @@ NonCompart,cran
 noncompliance,cran
 noncomplyR,sscogges
 nondetects,bioc
-nonet,aviralvijay-gslab
+nonet,cran
 NonlinearDiD,causalfragility-lab
 nonLinearDotPlot,sorendoring
 nonlinearICP,christinaheinze
@@ -16139,6 +16144,7 @@ OSAT,bioc
 osbng,ordnancesurvey
 osc,steffenkriewald
 oscar,syksy
+OSCARS,oscarsglobal
 OscillatorGenerator,arneschoch811
 Oscope,bioc
 OSCV,osavchuk
@@ -22901,7 +22907,7 @@ spc,knoths
 spc4sts,cran
 spcadjust,agandy
 SPCALDA,cran
-SPCAvRP,milanagataric
+SPCAvRP,cran
 SPCDAnalyze,cran
 spCF,dmuraka
 SPCompute,aguerozz
@@ -23751,6 +23757,7 @@ survCurve,cran
 SurvDisc,johnlawrence1
 survdistr,mlr-org
 survdnn,ielbadisy
+survdt,cran
 surveil,connordonegan
 surveillance,r-forge
 survELtest,news11
@@ -24270,6 +24277,7 @@ terrainmeshr,tylermorganwall
 terrainr,ropensci
 terraTCGAdata,bioc
 TesiproV,smtiluxx
+tesouror,strategicprojects
 tesselle,nfrerebeau
 tesseract,ropensci
 test.assessr,sanofi-public
@@ -25788,6 +25796,7 @@ vietnamcode,cran
 vietnameseConverter,ecodynizw
 ViewPipeSteps,daranzolin
 viewpoly,mmollina
+ViewR,itsmdivakaran
 viewscape,land-info-lab
 vigicaen,pharmacologie-caen
 VIGoR,onogi
