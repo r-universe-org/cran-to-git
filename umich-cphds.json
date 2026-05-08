@@ -12,7 +12,8 @@
   {
     "package": "lodi",
     "maintainer": "Alexander Rix <alexrix@umich.edu>",
-    "url": "https://github.com/umich-cphds/lodi"
+    "url": "https://github.com/umich-cphds/lodi",
+    "registry": "archived"
   },
   {
     "package": "medScan",
@@ -27,6 +28,7 @@
   {
     "package": "subgxe",
     "maintainer": "Alexander Rix <alexrix@umich.edu>",
-    "url": "https://github.com/umich-cphds/subgxe"
+    "url": "https://github.com/umich-cphds/subgxe",
+    "registry": "archived"
   }
 ]
