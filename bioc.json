@@ -547,6 +547,12 @@
     "registry": "bioc"
   },
   {
+    "package": "AnVILVRS",
+    "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
+    "url": "https://github.com/bioconductor/anvilvrs",
+    "registry": "bioc"
+  },
+  {
     "package": "AnVILWorkflow",
     "maintainer": "Sehyun Oh <shbrief@gmail.com>",
     "url": "https://github.com/shbrief/anvilworkflow",
@@ -727,6 +733,36 @@
     "registry": "bioc"
   },
   {
+    "package": "augere.core",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/augere-bioinfo/augere.core",
+    "registry": "bioc"
+  },
+  {
+    "package": "augere.de",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/augere-bioinfo/augere.de",
+    "registry": "bioc"
+  },
+  {
+    "package": "augere.gsea",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/augere-bioinfo/augere.gsea",
+    "registry": "bioc"
+  },
+  {
+    "package": "augere.screen",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/augere-bioinfo/augere.screen",
+    "registry": "bioc"
+  },
+  {
+    "package": "augere.solo",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/augere-bioinfo/augere.solo",
+    "registry": "bioc"
+  },
+  {
     "package": "autonomics",
     "maintainer": "Aditya Bhagwat <aditya.bhagwat@uni-marburg.de>",
     "url": "https://git.bioconductor.org/packages/autonomics",
@@ -784,6 +820,12 @@
     "package": "bambu",
     "maintainer": "Ying Chen <chen_ying@gis.a-star.edu.sg>",
     "url": "https://github.com/goekelab/bambu",
+    "registry": "bioc"
+  },
+  {
+    "package": "BamScale",
+    "maintainer": "Chirag Parsania <chirag.parsania@gmail.com>",
+    "url": "https://github.com/cparsania/bamscale",
     "registry": "bioc"
   },
   {
@@ -9553,6 +9595,12 @@
     "package": "PhosR",
     "maintainer": "Di Xiao <di.xiao@sydney.edu.au>",
     "url": "https://git.bioconductor.org/packages/PhosR",
+    "registry": "bioc"
+  },
+  {
+    "package": "phylobar",
+    "maintainer": "Kris Sankaran <ksankaran@wisc.edu>",
+    "url": "https://github.com/mkdiro-o/phylobar",
     "registry": "bioc"
   },
   {

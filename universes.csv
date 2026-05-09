@@ -693,6 +693,7 @@ AnVILBase,bioc
 AnVILBilling,bioc
 AnVILGCP,bioc
 AnVILPublish,bioc
+AnVILVRS,bioc
 AnVILWorkflow,bioc
 AnxietySleep,nim-ach
 anybadger,lmeninato
@@ -1046,6 +1047,11 @@ audit,cran
 auditor,modeloriented
 audrex,pigian
 audubon,paithiov909
+augere.core,bioc
+augere.de,bioc
+augere.gsea,bioc
+augere.screen,bioc
+augere.solo,bioc
 augmentedRCBD,aravind-j
 augSIMEX,cran
 auk,ropensci
@@ -1245,6 +1251,7 @@ bamlss,freezenik
 bamm,luismurao
 BAMMtools,cran
 bamp,volkerschmid
+BamScale,bioc
 BANAM,cran
 bandicoot,tengmcing
 bandit,markusloecher
@@ -1459,6 +1466,7 @@ BayesNetBP,hyu-ub
 BayesNSGP,danielturek
 BayesPET,cran
 BayesPieceHazSelect,andrewgchapple
+BayesPIM,thomasklausch2
 bayesplay,bayesplay
 bayesplot,stan-dev
 bayespm,kiagiasdim
@@ -1998,6 +2006,7 @@ bipd,mikejseo
 bipl5,ruanbuys
 biplotbootGUI,ananieto
 biplotEZ,muvisu
+BiplotML,jgbabativam
 birankr,brianaronson
 birdcolors,cran
 birddog,roneyfraga
@@ -2763,6 +2772,7 @@ catmap,tpq
 catmaply,verkehrsbetriebezuerich
 catool,dawit3000
 caTools,coffeemuggler
+CatPredi,ibarrioberaza
 catR,huacheng1985
 CatReg,cran
 catregs,dmmelamed
@@ -3633,6 +3643,7 @@ CNVRG,jharrisonecoevo
 CNVScope,jamesdalg
 coala,statgenlmu
 coalescentMCMC,emmanuelparadis
+coalitions,adibender
 COAP,feiyoung
 coarseDataTools,nickreich
 CoastlineFD,redworld123
@@ -4036,6 +4047,7 @@ conStruct,gbradburd
 constructive,cynkra
 contactdata,socialcontactdata
 contactsurveys,epiforecasts
+contagionchannels,avishekb9
 container,rpahl
 containr,erwinlares
 ContaminatedMixt,cran
@@ -5559,7 +5571,7 @@ distcomp,bnaras
 distcrete,reconhub
 distdichoR,cran
 distfree.cr,zhiqiuhu
-distfreereg,jm-umn
+distfreereg,small-epsilon
 distfromq,elray1
 distill,rstudio
 distilleR,openefsa
@@ -7395,7 +7407,7 @@ fcirt,naidantu
 fcl,shrektan
 fclust,cran
 fcm,liadd
-fcmfd,cran
+fcmfd,jortigasg
 FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
@@ -7901,6 +7913,7 @@ FoRDM,mdjahan
 foreach,revolutionanalytics
 ForeCA,gmgeorg
 forecast,robjhyndman
+forecastADAPT,vidalla
 ForecastCombinations,cran
 forecasteR,promidat
 forecastHybrid,ellisp
@@ -8172,6 +8185,7 @@ fundiversity,funecology
 funFEM,cran
 fungible,nwaller
 funGp,djbetancourt-gh
+funHDDC,jujacques
 funIHC,cran
 funique,mkearney
 fUnitRoots,cran
@@ -9605,6 +9619,7 @@ gridGeometry,pmur002
 gridGraphics,pmur002
 gridGraphviz,r-forge
 gridify,pharmaverse
+gridmicrotex,adayim
 GridOnClusters,cran
 gridOT,cran
 gridpattern,trevorld
@@ -11823,7 +11838,7 @@ KRLS,j-hai
 krm,youyifong
 KRMM,ljacquin
 kronos,thomazbastiaanssen
-KRONX,cran
+KRONX,oismrg-saamlab
 ks,tarnduong
 KSA,aboaziz1
 kSamples,cran
@@ -13615,6 +13630,7 @@ MGPSDK,nathcarr55
 mgpStreamingSDK,nathcarr55
 mgsa,bioc
 MGSDA,irinagain
+mGSFPCA,cran
 mgsub,bmewing
 mgwnbr,julianamrosa
 mgwrhw,haqqulamin06
@@ -14011,6 +14027,7 @@ mlmhelpr,lrocconi
 mlmi,jwb133
 MLML2R,samarafk
 mlmm.gwas,cran
+mlmodels,alfisankipan
 mlmoderator,causalfragility-lab
 MLMOI,mhashemihsmw
 MLmorph,theogrost
@@ -16515,7 +16532,7 @@ pathviewr,ropensci
 pathwayPCA,bioc
 PathwaySpace,sysbiolab
 PathwayVote,yinanzheng
-PatientGenerator,mi-erasmusmc
+PatientGenerator,ohdsi
 PatientLevelPrediction,ohdsi
 PatientProfiles,darwin-eu
 patientProfilesVis,openanalytics
@@ -16976,6 +16993,7 @@ phyclust,snoweye
 phyext2,johnrstevens
 phylepic,cidm-ph
 phylin,ptarroso
+phylobar,bioc
 phylobase,fmichonneau
 phylocanvas,zachcp
 phylocomr,ropensci
@@ -19658,6 +19676,7 @@ RFLOMICS,bioc
 RFLPtools,stamats
 rflsgen,dimitri-justeau
 rfm,rsquaredacademy
+RFmerge,hzambran
 RFmstate,cran
 Rfmtool,cran
 rfoaas,eddelbuettel
@@ -24789,6 +24808,7 @@ toonlite,aljrico
 toOrdinal,centerforassessment
 Toothnroll,aprofico
 TOP,bioc
+topcc,niechunxiao
 topChef,celevitz
 topconfects,bioc
 TopDom,henrikbengtsson
@@ -26417,6 +26437,7 @@ Xeva,bioc
 xfun,yihui
 xgb2sql,chengjunhou
 xgboost,dmlc
+XGeoRTR,fbertran
 xgrove,g-rho
 xgxr,novartis
 xhaz,jgoungounga

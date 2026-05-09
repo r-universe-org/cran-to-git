@@ -120,6 +120,11 @@
     "url": "https://github.com/ohdsi/parallellogger"
   },
   {
+    "package": "PatientGenerator",
+    "maintainer": "Cesar Barboza <c.barboza@mi-erasmusmc.nl>",
+    "url": "https://github.com/ohdsi/patientgenerator"
+  },
+  {
     "package": "PatientLevelPrediction",
     "maintainer": "Egill Fridgeirsson <e.fridgeirsson@erasmusmc.nl>",
     "url": "https://github.com/ohdsi/patientlevelprediction"
