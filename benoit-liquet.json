@@ -1,5 +1,10 @@
 [
   {
+    "package": "combss",
+    "maintainer": "Benoit Liquet <benoit.liquet@univ-pau.fr>",
+    "url": "https://github.com/benoit-liquet/combss"
+  },
+  {
     "package": "MBSGS",
     "maintainer": "Benoit Liquet <benoit.liquet@univ-pau.fr>",
     "url": "https://github.com/cran/MBSGS"

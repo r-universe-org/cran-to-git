@@ -1,5 +1,10 @@
 [
   {
+    "package": "gcomputation",
+    "maintainer": "Yohann Foucher <yohann.foucher@univ-poitiers.fr>",
+    "url": "https://github.com/chupverse/gcomputation"
+  },
+  {
     "package": "survivalPLANN",
     "maintainer": "Yohann Foucher <yohann.foucher@univ-poitiers.fr>",
     "url": "https://github.com/chupverse/survivalplann"

@@ -916,6 +916,7 @@ arulesNBMiner,mhahsler
 arulesSequences,cran
 arulesViz,mhahsler
 ARUtools,arutools
+ArvindSt,shikhartyagi
 aRxiv,ropensci
 ASAFE,bioc
 asaur,mooredf22
@@ -3071,6 +3072,7 @@ cgmquantify,cran
 CGNM,cran
 CGP,shanbatr
 CGR,vishnumrstat
+cgvR,zabis13
 cgwtools,cran
 chainbinomial,opisthokonta
 ChainLadder,mages
@@ -3829,6 +3831,7 @@ CombinS,mlaib
 combiroc,ingmbioinfo
 combiter,kota7
 COMBO,kimberlywebb
+combss,benoit-liquet
 comclim,bblonder
 coMethDMR,bioc
 cometr,comet-ml
@@ -4054,6 +4057,7 @@ ContaminatedMixt,cran
 contdid,bcallaway11
 contentanalysis,massimoaria
 contentid,cboettig
+contentValidity,rafhq1403
 conText,prodriguezsosa
 contextFind,s87jackson
 contfrac,robinhankin
@@ -4649,6 +4653,7 @@ curstatCI,kimhendrickx
 curtailment,martinlaw
 curvecomp,radon0303
 curveDepth,pavlomozharovskyi
+curves,rvalavi
 curvHDR,mattwand
 curvir,trnnick
 cusp,raoelg
@@ -6202,6 +6207,7 @@ eBsc,lfrm
 EBSEA,bioc
 EBSeq,bioc
 ebTobit,barbehenna
+ebvcube,ebvcube
 ebx,nmayo-earthblox
 ec50estimator,alvesks
 ecan,matutosi
@@ -8338,6 +8344,7 @@ gamRR,marsdu1989
 gamsel,trevorhastie
 gamselBayes,mattwand
 gamstransfer,gams-dev
+gamutil,msaito8623
 ganDataModel,cran
 gander,simonpcouch
 ganGenerativeData,cran
@@ -8425,6 +8432,7 @@ gclink,liuyanglee
 gclm,gherardovarando
 gclus,cbhurley
 gcmr,crisvarin
+gcomputation,chupverse
 gconsensus,hugogasca
 gcookbook,wch
 gcor,r-suzuki
@@ -10589,7 +10597,7 @@ ICC,matthewwolak
 ICC.Sample.Size,alasdairrathbone-bit
 ICcalib,daniel258
 iccbeta,tmsalab
-ICCbin,akhtarh
+ICCbin,makhtarh
 iccCompare,jlcarrascoub
 iccCounts,jlcarrascoub
 iccde,cran
@@ -10884,6 +10892,7 @@ imsig,ajitjohnson
 imt,google
 IMTest,cran
 imuf,gitboosting
+imv,ben-domingue
 ImVol,imiqbal
 inaparc,cran
 inbreedR,mastoffel
@@ -13301,6 +13310,7 @@ MEclustnet,gormleyi
 meconetcomp,chiliubio
 mecor,lindanab
 mecoturn,chiliubio
+mectx,cran
 MED,kcgchan
 MedDataSets,lightbluetitan
 MedDietCalc,miguelmenendezorenga
@@ -18645,6 +18655,7 @@ randomForest,andyliaw-mrk
 randomForestExplainer,modeloriented
 randomForestRHF,kogalur
 RandomForestsGLS,arkajyotisaha
+randomForestSGT,kogalur
 randomForestSRC,kogalur
 randomForestVIP,kelvynbladen
 RandomGaussianNB,patchanok-tu
@@ -18696,6 +18707,7 @@ rankinma,enochkang
 rankinPlot,hannahjohns
 RankMap,bioc
 RankPCA,sandipgarai
+rankPlayedInference,barryzee
 RankProd,bioc
 rankrate,pearce790
 RankResponse,cran
@@ -20322,6 +20334,7 @@ rocrateR,researchobject
 ROCS,cran
 ROCSI,cran
 ROCsurf,ertansu
+ROCsurvcomp,mmrahman13
 rocsvm.path,cran
 rocTools,cran
 rocvb,swang1021
@@ -20922,6 +20935,7 @@ rvkstat,selesnow
 rvMF,seungwoo-stat
 rvolleydata,awosoga
 RVS,bioc
+rvtk,astamm
 rwa,martinctc
 rwalkr,earowang
 rwarrior,cran
@@ -22537,6 +22551,7 @@ smoothr,mstrimas
 smoothROCtime,susanadc2009
 smoothSurv,cran
 smoothtail,numbersman77
+SmoothWin,hamedhm
 smoothy,cran
 smoots,dschulz13
 smoppix,bioc
@@ -22888,6 +22903,7 @@ SpatialRDD,axlehner
 spatialreg,r-spatial
 spatialreg.hp,cran
 SpatialRegimes,fvidoli
+spatialRegroup,nausello
 spatialRF,blasbenito
 spatialrisk,mharinga
 SpatialRoMLE,wyilldirim
@@ -23490,6 +23506,7 @@ StepReg,junhuili1017
 StepRegShiny,junhuili1017
 steprf,jinli22
 stepSplitReg,anthonychristidis
+stepssurvey,drpakhare
 StepwiseTest,kendrov
 StereoMorph,aaronolsen
 stevedata,svmiller
@@ -24559,6 +24576,7 @@ tidynorm,jofrhwld
 tidyOhdsiSolutions,a1exanderalexeyuk
 tidyomics,bioc
 tidypaleo,paleolimbot
+TidyPanel,tonyisfool
 tidyplate,shubhamdutta26
 tidyplots,jbengler
 tidyplus,poissonconsulting
@@ -24769,7 +24787,7 @@ tmsens,dea-hazewinkel
 TMSig,bioc
 tmt,jansteinfeld
 TMTI,phillipmogensen
-tmvmixnorm,cran
+tmvmixnorm,ralphma1203
 tmvnsim,cran
 tmvtnorm,stefanwilhelm
 tmvtnsim,kaifenglu
@@ -25730,6 +25748,7 @@ vcvComp,cran
 VDAP,cran
 vdar,cran
 vdiffr,r-lib
+vDiveR,pendy05
 VDJdive,bioc
 VDJgermlines,alexyermanos
 VDPO,pavel-hernadez-amaro
@@ -26028,6 +26047,7 @@ WARDEN,jsanchezalv
 WAreg,fancy575
 warehouseTools,a-dudek-ue
 wARMASVp,roga11
+warmthcompetence,bushraguenoun
 WARN,tsutatsuta
 WarnEpi,pan-mingyue
 warp,davisvaughan
@@ -26186,7 +26206,7 @@ welo,vincenzocandila
 WeMix,american-institutes-for-research
 wesanderson,karthik
 Westerlund,bosco-hung
-wevid,mcol
+wevid,pmckeigue
 wex,timginker
 weyl,robinhankin
 wf,christopherkenny
