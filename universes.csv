@@ -64,6 +64,7 @@ AcademicThemes,hwarden162
 academictwitteR,cjbarrie
 acc,cran
 acca,cran
+accelEE,paulhibbing
 accelerometry,vandomed
 accelmissing,jungaeleeb
 AccelStab,accelstab
@@ -394,6 +395,7 @@ AIBias,causalfragility-lab
 aIc,ggloor
 AICcmodavg,mamaz7
 AID,osmandag
+AIDA,catarinaploureiro
 aiDIF,causalfragility-lab
 AiES,breezycave
 aifeducation,fberding
@@ -1210,6 +1212,7 @@ backtestGraphics,yanrong-stacy-song
 baclava,sth1402
 bacon,bioc
 bacondecomp,evanjflack
+bacontrees,freguglia
 BACprior,detal9
 bacr,cran
 BADER,bioc
@@ -3021,6 +3024,7 @@ Certara.RsNLME.ModelBuilder,certara-jcraig
 Certara.RsNLME.ModelExecutor,certara-jcraig
 Certara.VPCResults,certara-jcraig
 Certara.Xpose.NLME,certara-jcraig
+certify,cwimpy
 ces,laurenceomfoisy
 ceser,diogoferrari
 cetcolor,coatless-rpkg
@@ -4860,6 +4864,7 @@ dataMeta,dmrodz
 DataMetProcess,wagnnerms97
 datamods,dreamrs
 dataMojo,jienagu
+datamuseum,btorgovitsky00
 datana,cseljatib
 datanugget,ritde-art
 dataonderivatives,imanuelcostigan
@@ -5566,6 +5571,7 @@ dissCqN,murphymv
 dissever,pierreroudier
 dissimilarities,edelweiss611428
 DiSSMod,sangkyustat
+dist.structure,queelius
 Distance,distancedevelopment
 distanceHD,jungaeleeb
 distances,fsavje
@@ -6170,6 +6176,7 @@ EasyStat,itsmdivakaran
 easystats,easystats
 easysurv,maple-health-group
 easySVG,ytdai
+easytable,alfredo-hs
 easyVerification,jonasbhend
 easyViz,cran
 eat,miriamesteve
@@ -7118,6 +7125,7 @@ extraterrestrial,chesterdeocaris
 extRC,francescobartolucci
 ExtremalDep,borisberanger
 ExtremeBounds,cran
+ExtremeCI,opasche
 extremefit,kevinjaunatre
 extremeIndex,maxtailt
 extrememix,manueleleonelli
@@ -8011,6 +8019,7 @@ fpest,sampath1959
 FPLdata,andrewl776
 fplot,lrberge
 fplyr,fmarotta
+fpod,supermoan
 fpop,guillemr
 fpopw,guillemr
 fPortfolio,r-forge
@@ -8648,6 +8657,7 @@ GenOrd,alessandro-barbiero
 GenoTriplo,julienrocheigepp
 GenOU,cran
 genpathmox,glamb85
+genproc,danielrak
 GenProSeq,bioc
 genpwr,cran
 genridge,friendly
@@ -10244,6 +10254,7 @@ HistData,friendly
 HistDAWass,airpino
 histmdl,joukewitteveen
 histogram,thmild
+HistogramTools,murraystokely
 HistoImagePlot,bioc
 historicalborrow,wlandau
 historicalborrowlong,wlandau
@@ -10675,6 +10686,7 @@ idcnrba,westat-schneider
 IDE,andrewzm
 IDEAFilter,biogen-inc
 ideal,bioc
+idealstan,saudiwin
 ideamdb,luzmmorales
 ideanet,tom-wolff
 IDEATools,davidcarayon
@@ -13175,6 +13187,7 @@ MCCM,encoreus
 mccmeiv,chrismattstat
 mccount,kennethataylor
 mccr,cran
+mcdabench,cagataycebeci
 mcemGLM,acosta-stat
 mcen,cran
 mcga,jbytecode
@@ -13466,9 +13479,11 @@ MetaHD,jayaminicl
 metahdep,bioc
 metaHelper,robertemprechtinger
 metaheuristicOpt,lala-s-riza
+MetaHunt,wshi18
 metainc,cran
 MetaIntegration,umich-biostatistics
 MetaLandSim,fmestre1
+metalcor,ochoalab
 metaLik,crisvarin
 metalite,merck
 metalite.ae,merck
@@ -13594,6 +13609,7 @@ mExplorer,reimand0
 MF.beta4,annechao
 mfaces,cli9
 MFAg,cran
+mfclim,nmoiroux
 mfcurve,xam12
 mFD,cmlmagneville
 mfdb,lentinj
@@ -14195,6 +14211,7 @@ MODA,bioc
 modACDC,uscbiostats
 ModalCens,chedgala
 Modalclust,surajitstat
+ModalForecast,chedgala
 ModCon,bioc
 modeest,paulponcet
 modehunt,numbersman77
@@ -14492,6 +14509,7 @@ mRMRe,bhklab
 mro,cran
 MRPC,audreyfulab
 mRpostman,allanvc
+mrPStrata,chaochengstat
 MRQoL,cran
 MRReg,darkeyes
 mrregression,lgstat
@@ -14932,6 +14950,7 @@ mwa,kdonnay
 MWASTools,bioc
 mwcsr,ctlab
 mwlaxeref,cran
+mwmap,bitacanalytics
 mwmapdata,bitacanalytics
 MWright,cran
 mwshiny,delosh653
@@ -15020,6 +15039,7 @@ nat.nblast,natverse
 nat.templatebrains,natverse
 nat.utils,natverse
 natcpp,natverse
+nativeORT,calebmcarr
 natmanager,natverse
 NatParksPalettes,kevinsblake
 natserv,ropensci
@@ -21169,7 +21189,7 @@ saseR,bioc
 sasif,chandrt23-lang
 sasLM,cran
 SASmarkdown,hemken
-SASmixed,stevencarlislewalker
+SASmixed,annahuynhly
 sasquatch,ropensci
 sasr,insightsengineering
 sass,rstudio
@@ -24316,6 +24336,7 @@ ternvis,cran
 terra,rspatial
 terrainmeshr,tylermorganwall
 terrainr,ropensci
+terralink,sorus-tools
 terraTCGAdata,bioc
 TesiproV,smtiluxx
 tesouror,strategicprojects
@@ -25916,6 +25937,7 @@ vitae,mitchelloharawild
 vital,robjhyndman
 vitality,cran
 vitals,tidyverse
+vitopack,com-pass-ov
 vivaglint,microsoft
 vivainsights,microsoft
 vivaldi,greshamlab
