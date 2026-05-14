@@ -15,6 +15,11 @@
     "url": "https://github.com/darwin-eu/cohortcharacteristics"
   },
   {
+    "package": "CohortSurvival",
+    "maintainer": "Kim López-Güell <kim.lopez@spc.ox.ac.uk>",
+    "url": "https://github.com/darwin-eu/cohortsurvival"
+  },
+  {
     "package": "DrugExposureDiagnostics",
     "maintainer": "Ger Inberg <g.inberg@erasmusmc.nl>",
     "url": "https://github.com/darwin-eu/drugexposurediagnostics"

@@ -1,11 +1,5 @@
 [
   {
-    "package": "haplo.ccs",
-    "maintainer": "Benjamin French <b.french@vumc.org>",
-    "url": "https://github.com/vubiostat/haplo.ccs",
-    "registry": "archived"
-  },
-  {
     "package": "redcapAPI",
     "maintainer": "Shawn Garbett <shawn.garbett@vumc.org>",
     "url": "https://github.com/vubiostat/redcapapi"

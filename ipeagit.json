@@ -1,10 +1,5 @@
 [
   {
-    "package": "accessibility",
-    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/ipeagit/accessibility"
-  },
-  {
     "package": "censobr",
     "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
     "url": "https://github.com/ipeagit/censobr"
@@ -13,35 +8,5 @@
     "package": "enderecobr",
     "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
     "url": "https://github.com/ipeagit/enderecobr"
-  },
-  {
-    "package": "flightsbr",
-    "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
-    "url": "https://github.com/ipeagit/flightsbr"
-  },
-  {
-    "package": "geocodebr",
-    "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
-    "url": "https://github.com/ipeagit/geocodebr"
-  },
-  {
-    "package": "gtfs2emis",
-    "maintainer": "Joao Bazzo <joao.bazzo@gmail.com>",
-    "url": "https://github.com/ipeagit/gtfs2emis"
-  },
-  {
-    "package": "gtfs2gps",
-    "maintainer": "Pedro R. Andrade <pedro.andrade@inpe.br>",
-    "url": "https://github.com/ipeagit/gtfs2gps"
-  },
-  {
-    "package": "gtfstools",
-    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/ipeagit/gtfstools"
-  },
-  {
-    "package": "rosmium",
-    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/ipeagit/rosmium"
   }
 ]

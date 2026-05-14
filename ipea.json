@@ -1,5 +1,10 @@
 [
   {
+    "package": "accessibility",
+    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
+    "url": "https://github.com/ipea/accessibility"
+  },
+  {
     "package": "aebdata",
     "maintainer": "Hugo Macedo <aebdata@hhmace.do>",
     "url": "https://github.com/ipea/aebdata"
@@ -10,9 +15,39 @@
     "url": "https://github.com/ipea/documentosbr"
   },
   {
+    "package": "flightsbr",
+    "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
+    "url": "https://github.com/ipea/flightsbr"
+  },
+  {
+    "package": "geocodebr",
+    "maintainer": "Rafael H. M. Pereira <rafa.pereira.br@gmail.com>",
+    "url": "https://github.com/ipea/geocodebr"
+  },
+  {
+    "package": "gtfs2emis",
+    "maintainer": "Joao Bazzo <joao.bazzo@gmail.com>",
+    "url": "https://github.com/ipea/gtfs2emis"
+  },
+  {
+    "package": "gtfs2gps",
+    "maintainer": "Pedro R. Andrade <pedro.andrade@inpe.br>",
+    "url": "https://github.com/ipea/gtfs2gps"
+  },
+  {
+    "package": "gtfstools",
+    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
+    "url": "https://github.com/ipea/gtfstools"
+  },
+  {
     "package": "nomesbr",
     "maintainer": "Rodrigo Borges <rodrigoesborges@gmail.com>",
     "url": "https://github.com/ipea/nomesbr"
+  },
+  {
+    "package": "rosmium",
+    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
+    "url": "https://github.com/ipea/rosmium"
   },
   {
     "package": "uci",
