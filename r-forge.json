@@ -783,7 +783,8 @@
     "package": "softclassval",
     "maintainer": "Claudia Beleites <claudia.beleites@chemometrix.eu>",
     "url": "https://github.com/r-forge/softclassval",
-    "subdir": "pkg"
+    "subdir": "pkg",
+    "registry": "archived"
   },
   {
     "package": "SpatialExtremes",
