@@ -3675,6 +3675,12 @@
     "registry": "bioc"
   },
   {
+    "package": "dnaEPICO",
+    "maintainer": "Paul Ruiz <ruizpint@qut.edu.au>",
+    "url": "https://github.com/paulyrp/dnaepico",
+    "registry": "bioc"
+  },
+  {
     "package": "DNAfusion",
     "maintainer": "Christoffer Trier Maansson <ctm@clin.au.dk>",
     "url": "https://github.com/ctriermaansson/dnafusion",
@@ -12240,7 +12246,7 @@
   {
     "package": "SingleCellExperiment",
     "maintainer": "Davide Risso <risso.davide@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/SingleCellExperiment",
+    "url": "https://github.com/drisso/singlecellexperiment",
     "registry": "bioc"
   },
   {

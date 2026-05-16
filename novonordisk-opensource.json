@@ -15,6 +15,11 @@
     "url": "https://github.com/novonordisk-opensource/connector.databricks"
   },
   {
+    "package": "mighty.metadata",
+    "maintainer": "Aksel Thomsen <oath@novonordisk.com>",
+    "url": "https://github.com/novonordisk-opensource/mighty.metadata"
+  },
+  {
     "package": "postcard",
     "maintainer": "Mathias Lerbech Jeppesen <mathiasljeppesen@outlook.com>",
     "url": "https://github.com/novonordisk-opensource/postcard"

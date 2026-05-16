@@ -1,8 +1,20 @@
 [
   {
+    "package": "glmmrBase",
+    "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
+    "url": "https://github.com/samuel-watson/glmmrbase",
+    "registry": "archived"
+  },
+  {
     "package": "glmmrOptim",
     "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
     "url": "https://github.com/samuel-watson/glmmroptim",
+    "registry": "archived"
+  },
+  {
+    "package": "marginme",
+    "maintainer": "Sam Watson <S.I.Watson@bham.ac.uk>",
+    "url": "https://github.com/samuel-watson/marginme",
     "registry": "archived"
   },
   {
