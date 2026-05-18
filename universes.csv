@@ -2090,7 +2090,6 @@ blmeco,fraenzi
 BLMEngineInR,windwardenv
 BLModel,cran
 blob,tidyverse
-blockcluster,joblion
 BlockCov,marie-perrotdockes
 blockCV,rvalavi
 blockedFF,sukantaiasri
@@ -2819,7 +2818,7 @@ causalreg,cran
 causalsens,mattblackwell
 causalSLSE,pchausse
 CausalSpline,causalfragility-lab
-causalweight,hugometric
+causalweight,cran
 causalWins,cran
 CausCor,sugym
 causens,kuan-liu-lab
@@ -6275,7 +6274,6 @@ econdataverse,tidy-intelligence
 EconDemand,terrytwu
 econet,change-prin
 EcoNetGen,cboettig
-econetwork,cran
 EconGeo,paballand
 EcoNiche,yedeng-lab
 econid,teal-insights
@@ -9504,6 +9502,7 @@ gprofiler2,cran
 gps,zheyuanli
 gps.track,wagnnerms97
 GPSCDF,cran
+GPSeqClus,cran
 gpss,doeun-kim
 GPTCM,ocbe-uio
 gptoolsStan,tillahoffmann
@@ -10508,6 +10507,7 @@ hyfo,yuanchao-xu
 HyMETT,cpenn-usgs
 hypeR,bioc
 hyper.fit,asgr
+hyper.gam,tingtingzhan
 hyper2,robinhankin
 hyperbolicDEA,alexanderoe
 HyperbolicDist,dsco036
@@ -16911,7 +16911,6 @@ ph2bayes,nshi-stat
 ph2bye,allenzhuaz
 ph2mult,allenzhuaz
 phacking,mathurlabstanford
-PhageCocktail,cran
 phangorn,klausvigo
 phantasus,bioc
 phantasusLite,bioc
@@ -19163,7 +19162,7 @@ rdlearn,kkawato
 rdlocrand,mdcattaneo
 RDM,christopherstrothmann
 RDML,pcruniversum
-rdmulti,gvazquezbare
+rdmulti,mdcattaneo
 rdnb,chgrl
 RDnp,hsnbulut
 rdocdump,e-kotov
@@ -19172,7 +19171,7 @@ RDota2,lyzander
 rdoxygen,mlysy
 RDP,robertdj
 Rdpack,geobosh
-rdpower,gvazquezbare
+rdpower,mdcattaneo
 rdracor,dracor-org
 rdrobust,scalonico
 RDRToolbox,bioc
@@ -20059,7 +20058,7 @@ RMark,jlaake
 rmarkdown,rstudio
 rmass2,soumyasahu
 RMassBank,bioc
-RMAT,eli-fidele
+RMAT,al00shie
 rmatio,stewid
 RMAWGEN,ecor
 rmBayes,zhengxiaouvic
@@ -20831,7 +20830,6 @@ Rtinycc,sounkou-bioinfo
 rtip,angelberihuete
 rtist,tomasokal
 rtk,cran
-rtkore,joblion
 RTL,risktoollib
 RTLknitr,foadesmaeili5
 rtlr,matanhakim
