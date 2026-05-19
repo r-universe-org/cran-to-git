@@ -5,6 +5,11 @@
     "url": "https://github.com/alrobles/cofid"
   },
   {
+    "package": "maxentcpp",
+    "maintainer": "Angel Robles <a.l.robles.fernandez@gmail.com>",
+    "url": "https://github.com/alrobles/maxentcpp"
+  },
+  {
     "package": "mddmaps",
     "maintainer": "Angel Robles <a.l.robles.fernandez@gmail.com>",
     "url": "https://github.com/cran/mddmaps"
@@ -13,6 +18,11 @@
     "package": "rosario",
     "maintainer": "Tatiana Velásquez-Roa <yxh11@txstate.edu>",
     "url": "https://github.com/alrobles/rosario"
+  },
+  {
+    "package": "sobol",
+    "maintainer": "Angel Robles <a.l.robles.fernandez@gmail.com>",
+    "url": "https://github.com/alrobles/sobol"
   },
   {
     "package": "ucminfcpp",
