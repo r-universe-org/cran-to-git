@@ -1,5 +1,10 @@
 [
   {
+    "package": "getCRUCLdata",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://codeberg.org/ropensci/getcrucldata"
+  },
+  {
     "package": "GSODR",
     "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
     "url": "https://codeberg.org/ropensci/gsodr"
