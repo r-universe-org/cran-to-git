@@ -1415,6 +1415,7 @@ BayesGWQS,mmcarli
 bayesian,hsbadr
 BayesianDEB,sciom
 BayesianDisaggregation,isadorenabi
+bayesianETAS,gordonjamesross
 BayesianFitForecast,gchowell
 Bayesiangammareg,arturloza
 BayesianGLasso,trainorp
@@ -4121,6 +4122,7 @@ CopCTS,fuyuan-li
 cope,cran
 copent,majianthu
 CopernicusClimate,pepijn-devries
+CopernicusDataspace,pepijn-devries
 CopernicusDEM,mlampros
 CopernicusMarine,pepijn-devries
 copernicusR,hansttito
@@ -4687,6 +4689,7 @@ cvar,geobosh
 cvasi,cvasi-tktd
 cvAUC,ledell
 cvCovEst,philboileau
+cvcqv,maanibeigy
 cvcrand,hengshiyu
 CVD,cran
 cvdprevent,craig-parylo
@@ -4712,7 +4715,6 @@ cxxfunplus,maverickg
 cyanoFilter,bioc
 cycle,bioc
 cyclestreets,cyclestreets
-cycleTrendR,pietropiu-labstats
 cyclocomp,gaborcsardi
 cycloids,peterbiber
 cyclomort,eligurarie
@@ -6361,7 +6363,7 @@ eDNAfuns,ramongallego
 eDNAjoint,ropensci
 EDNE.EQ,cran
 EDOIF,darkeyes
-EDOtrans,cran
+EDOtrans,jornlotsch
 eds,bioc
 edstan,danielcfurr
 EdSurvey,american-institutes-for-research
@@ -7422,7 +7424,7 @@ fcirt,naidantu
 fcl,shrektan
 fclust,cran
 fcm,liadd
-fcmfd,jortigasg
+fcmfd,cran
 FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
@@ -12606,10 +12608,10 @@ lpacf,adunaic
 lpanda,localpolitics
 LPBkg,salgeri
 lpc,danielawitten
-lpcde,cran
+lpcde,mdcattaneo
 LPCM,jeinbeck-code
 lpda,mjnueda
-lpdensity,xinweima
+lpdensity,mdcattaneo
 LPDynR,xavi-rp
 LPE,bioc
 LPGraph,cran
@@ -13754,7 +13756,7 @@ midasml,jstriaukas
 midasr,mpiktas
 midastouch,philippgaffert
 midfieldr,midfieldr
-midi,lmjl-alea
+midi,tractoverse
 MIDN,cran
 midnight,ryo-asashi
 midoc,elliecurnow
@@ -14166,6 +14168,7 @@ mMPA,cran
 mmpca,cyianor
 mmpp,cran
 mmr,stevecondylios
+MMRcaseselection,ingorohlfing
 mmrm,openpharma
 mmsample,cran
 mmstat4,sigbertklinke
@@ -14350,6 +14353,7 @@ mori,shikokuchuo
 morph,cran
 morphemepiece,macmillancontentscience
 morphemepiece.data,macmillancontentscience
+morpheus,yagu0
 Morpho,zarquon42b
 morphomap,aprofico
 moRphomenses,clancylabuiuc
@@ -19139,7 +19143,7 @@ rdbnomics,s915
 rdcmchecks,r-dcm
 rdcor,cran
 rddapp,felixthoemmes
-rddensity,xinweima
+rddensity,mdcattaneo
 rddi,dswoulf
 rddtools,bquast
 rde,kloppen
@@ -19331,6 +19335,7 @@ REDCapCAST,agdamsbo
 REDCapDM,bruigtp
 REDCapExporter,dewittpe
 REDCapR,ouhscbbmc
+REDCapSync,thecodingdocs
 REDCapTidieR,chop-cgtinformatics
 redcas,cran
 redditadsR,pablosanmar
@@ -19671,6 +19676,7 @@ REXoplanets,jkolomanski
 rexpokit,nmatzke
 rexposome,bioc
 rextendr,extendr
+rextor,iscience-kn
 Rfacebook,pablobarbera
 rfacebookstat,selesnow
 rfacts,elilillyco
@@ -20389,6 +20395,7 @@ rollbar,ankane
 rolldown,yihui
 rollinglda,jonasrieger
 rollout,iancero
+rollshap,jasonjfoster
 rollup,juyoungahn
 rollupTree,jsjuni
 roloc,pmur002
@@ -21355,6 +21362,7 @@ scifigure,prpatil
 scimetr,rubenfcasal
 scimo,abichat
 SCINA,jcao89757
+scindex,cran
 scINSIGHT,vivianstats
 scip,bnaras
 sciplot,mutualism
@@ -22565,6 +22573,7 @@ smpic,mikkelkrogsholm
 smplot2,smin95
 SMPracticals,cran
 SMR,bendeivide
+smriti,xguot
 sms,dimitrisk
 smsets,ganava4
 smsncut,cran
@@ -24334,7 +24343,7 @@ TesiproV,smtiluxx
 tesouror,strategicprojects
 tesselle,nfrerebeau
 tesseract,ropensci
-test.assessr,sanofi-public
+test.assessr,pharmaverse
 test2norm,au-uscd
 TestAnaAPP,jiangyouxiang
 testarguments,mattsainsburydale
@@ -25806,6 +25815,7 @@ vennDiagramLab,zoliqua
 venneuler,s-u
 VennItem,microbialman
 vennplot,z267xu
+venny,p10911004-npust
 verbaliseR,cararthompson
 verbalisr,magnusdv
 verdadecu,demografiando

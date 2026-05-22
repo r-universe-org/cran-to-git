@@ -21,7 +21,7 @@
   },
   {
     "package": "admiralonco",
-    "maintainer": "Stefan Bundfuss <stefan.bundfuss@roche.com>",
+    "maintainer": "Stefan Bundfuss <stefan.bundfuss@external.roche.com>",
     "url": "https://github.com/pharmaverse/admiralonco"
   },
   {
@@ -108,6 +108,11 @@
     "package": "sdtmchecks",
     "maintainer": "Will Harris <harric17@gene.com>",
     "url": "https://github.com/pharmaverse/sdtmchecks"
+  },
+  {
+    "package": "test.assessr",
+    "maintainer": "Edward Gillian <edward.gillian-ext@sanofi.com>",
+    "url": "https://github.com/pharmaverse/test.assessr"
   },
   {
     "package": "tidytlg",
