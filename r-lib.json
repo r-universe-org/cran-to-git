@@ -551,6 +551,11 @@
     "subdir": "bindings/r"
   },
   {
+    "package": "tsitter",
+    "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+    "url": "https://github.com/r-lib/tsitter"
+  },
+  {
     "package": "tzdb",
     "maintainer": "Davis Vaughan <davis@posit.co>",
     "url": "https://github.com/r-lib/tzdb"

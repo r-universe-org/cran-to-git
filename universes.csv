@@ -2001,6 +2001,7 @@ BioTIP,bioc
 biotmle,bioc
 biotools,arsilva87
 BioTrajectory,cran
+BioUtils,spencertreadway
 BioVenn,cran
 biovizBase,bioc
 BioVizSeq,zhaosq2022
@@ -2424,6 +2425,7 @@ bsamGP,beomjopark
 bscui,patzaw
 BSDA,alanarnholt
 bsearchtools,digemall
+BSET,pietrocarlotti
 BSgenome,bioc
 BSgenomeForge,bioc
 bsgof,appliedstat
@@ -5182,6 +5184,7 @@ DemographicTable,tingtingzhan
 demography,robjhyndman
 demoKde,billvenables
 DemoKin,ivanwilli
+demor,vadvu
 demoShiny,sigbertklinke
 demulticoder,grunwaldlab
 demuxmix,bioc
@@ -8080,6 +8083,7 @@ frechet,functionaldata
 fred,charlescoverdale
 fredr,sboysel
 free,ly129
+free1way.docreg,thothorn
 freealg,robinhankin
 freebird,laylaparast
 freebsdcontribs,chrislongros
@@ -13361,6 +13365,7 @@ mefa,psolymos
 mefa4,psolymos
 MEFM,zerokgkg1368
 megadepth,bioc
+megatrees,daijiang
 MEGB,cran
 MEGENA,songw01
 meifly,hadley
@@ -14535,7 +14540,6 @@ MsBackendRawFileReader,bioc
 MsBackendSql,bioc
 MSbox,yonghuidong
 MSBStatsData,mchlbckr
-MSCA,marc-75
 MSCCT,hminp
 msce,cran
 mschart,ardata-fr
@@ -22598,6 +22602,7 @@ snap,pigian
 snapchatadsR,pablosanmar
 snapcount,bioc
 snapKrig,deankoch
+snapr,d-morrison
 snapshot,asgr
 snazzieR,detectivefierce
 SNBdata,enricoschumann
@@ -25231,6 +25236,7 @@ tsibbletalk,earowang
 tsintermittent,trnnick
 tsiR,adbecker
 tsissm,tsmodels
+tsitter,r-lib
 TSLA,jianminc
 TSLSTM,ranjitstat
 TSLSTMplus,jaipizgon
