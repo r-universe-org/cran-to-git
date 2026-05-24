@@ -8511,6 +8511,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MSTree",
+    "maintainer": "Abdullah El-Kurdi <ak161@aub.edu.lb>",
+    "url": "https://git.bioconductor.org/packages/MSTree",
+    "registry": "bioc"
+  },
+  {
     "package": "MuData",
     "maintainer": "Ilia Kats <i.kats@dkfz-heidelberg.de>",
     "url": "https://github.com/ilia-kats/mudata",
