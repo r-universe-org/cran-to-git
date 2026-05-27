@@ -1,5 +1,10 @@
 [
   {
+    "package": "ichimoku",
+    "maintainer": "Charlie Gao <charlie.gao@shikokuchuo.net>",
+    "url": "https://github.com/shikokuchuo/ichimoku"
+  },
+  {
     "package": "mori",
     "maintainer": "Charlie Gao <charlie.gao@posit.co>",
     "url": "https://github.com/shikokuchuo/mori"
