@@ -1,5 +1,10 @@
 [
   {
+    "package": "hmmTensor",
+    "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
+    "url": "https://github.com/cran/hmmTensor"
+  },
+  {
     "package": "symTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://github.com/cran/symTensor"
