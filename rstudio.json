@@ -90,6 +90,11 @@
     "url": "https://github.com/rstudio/fontawesome"
   },
   {
+    "package": "forge",
+    "maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+    "url": "https://github.com/rstudio/forge"
+  },
+  {
     "package": "graphframes",
     "maintainer": "Kevin Kuo <kevin.kuo@rstudio.com>",
     "url": "https://github.com/rstudio/graphframes",

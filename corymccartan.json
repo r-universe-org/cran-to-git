@@ -1,5 +1,10 @@
 [
   {
+    "package": "adjustr",
+    "maintainer": "Cory McCartan <mccartan@psu.edu>",
+    "url": "https://github.com/corymccartan/adjustr"
+  },
+  {
     "package": "bases",
     "maintainer": "Cory McCartan <mccartan@psu.edu>",
     "url": "https://github.com/corymccartan/bases"
@@ -23,6 +28,11 @@
     "package": "PL94171",
     "maintainer": "Cory McCartan <mccartan@psu.edu>",
     "url": "https://github.com/corymccartan/pl94171"
+  },
+  {
+    "package": "schmear",
+    "maintainer": "Cory McCartan <mccartan@psu.edu>",
+    "url": "https://github.com/corymccartan/schmear"
   },
   {
     "package": "wacolors",

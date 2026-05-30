@@ -111,6 +111,7 @@ acoRn,npechl
 acp,cran
 acro,ai-sdc
 acroname,vpnagraj
+acsmoe,dshkol
 acss,cran
 acss.data,singmann
 ACSSpack,nkyangtzeqian
@@ -230,6 +231,7 @@ adjROC,haghish
 adjSURVCI,mkhanal12
 adjustedcranlogs,tylermorganwall
 adjustedCurves,robindenz1
+adjustr,corymccartan
 adklakedata,jeremylfarrell
 adlift,cran
 ADLP,cran
@@ -1951,6 +1953,7 @@ BioGSP,bmengineer
 Bioi,zcolburn
 bioimagetools,bioimaginggroup
 bioinactivation,albgarre
+BioIndex,cran
 BioInsight,cran
 bioLeak,selcukorkmaz
 biolink,aaronwolen
@@ -3429,6 +3432,7 @@ climetrics,shirintaheri
 climextRemes,paciorek
 ClimInd,fergusreiggracia
 ClimMobTools,agrdatasci
+climniche,bohao0813
 climodr,envima
 ClimProjDiags,cran
 climwin,liamdbailey
@@ -6489,6 +6493,7 @@ elfgen,harpgroup
 elgbd,markean
 elhmc,cran
 ELIC,guangbaog
+ElicitationWizard,cran
 ELISAtools,ffeng23
 elisr,sbissantz
 eList,cmann3
@@ -6812,6 +6817,7 @@ EQUIVNONINF,cran
 equivUMP,thmild
 ER,khliland
 era,joeroe
+EraBrewer,mathias-sm
 erah,xdomingoal
 eratosthenes,scollinselliott
 erboost,archer-yang-lab
@@ -6950,7 +6956,6 @@ EvaluateCore,aravind-j
 EvaluationMeasures,babak-khorsand
 EValue,mayamathur
 evaluomeR,bioc
-evanverse,evanbio
 evapoRe,akbarr1184
 Evapotranspiration,cran
 eVCGsampler,sanofi-public
@@ -7978,7 +7983,7 @@ forestSAS,zongzheng
 forestsearch,larry-leon
 ForestTools,andrew-plowright
 foretell,sriharitn
-forge,cran
+forge,rstudio
 forgts,luisdva
 ForIT,npuletti
 ForLion,lin-siting
@@ -9419,7 +9424,6 @@ goft,elizagestrada
 goftest,baddstats
 GOfuncR,bioc
 gogarch,bpfaff
-golden,petedodd
 goldfish,stocnet
 goldilocks,graemeleehickey
 GOLDprice,mubarakfadhlul
@@ -9553,7 +9557,6 @@ grainchanger,ropensci
 grainscape,achubaty
 gramEvol,fnoorian
 GramQuad,iagogv3
-grand,zpneal
 GRANDpriv,lsq0000
 grandR,erhard-lab
 grangers,matfar88
@@ -9623,6 +9626,7 @@ greencrab.toolkit,abigailkeller
 GREENeR,calfarog
 greenfeedr,gmbog
 greenR,sachit27
+GREENREG,dbazan2003
 greenSD,billbillbilly
 Greg,gforge
 GregoryQuadrature,dhetting
@@ -9877,6 +9881,7 @@ GWnnegPCA,naru-t
 GWnorm,jackkuipers
 GWpcor,gwpcor
 gwpcormapper,gwpcor
+GWPR.light,michaelchaoli-cpu
 gWQS,renzetti
 GWRLASSO,cran
 GWRM,svilchez
@@ -10978,6 +10983,7 @@ ineq,zeileis
 ineq.2d,sklivan
 ineqJD,albertoarcagni
 inequality,charlescoverdale
+inequantiles,silviascarpa
 inet,jmbh
 iNETgrate,bioc
 INetTool,valeriapolicastro
@@ -12006,6 +12012,7 @@ landscapetools,ropensci
 landsepi,mechantrouquin
 lang,mlverse
 Langevin,cran
+LangevinFlow,behroozmoosavi
 langevitour,pfh
 languagelayeR,colinfay
 languageR,cran
@@ -14293,6 +14300,7 @@ modifiedmk,patakamuri
 modisfast,ptaconet
 MODISTools,bluegreen-labs
 MODIStsp,ropensci
+ModLR,ahdar1
 modmarg,anniejw6
 modMax,cran
 modnets,tswanson222
@@ -14837,6 +14845,7 @@ multispatialCCM,adamtclark
 MultiSpline,causalfragility-lab
 multistateQTL,bioc
 MultiStatM,e-tau
+multiswc,tonyhbc
 multitaper,krahim
 multitool,ethan-young
 MultiTraits,temp20250212
@@ -14967,7 +14976,7 @@ mvSUSY,wtschacher
 MVT,faosorios
 MVTests,hsnbulut
 mvtmeta,hanchenphd
-mvtnorm,r-forge
+mvtnorm,thothorn
 mvtsplot,rdpeng
 mvtweedie,james-thorson-noaa
 mvvg,samksoon
@@ -15851,6 +15860,7 @@ ohun,ropensci
 ohvbd,fwimp
 oii,computermacgyver
 ojsr,gastonbecerra
+okBATHTUB,0011235813
 okcolors,nelsonquesado
 OkNNE,amjadali0313
 okxAPI,fanggong
@@ -16700,6 +16710,7 @@ pcpr,columbia-prime
 PCPS,vanderleidebastiani
 PCRA,martinrd3d
 PCRedux,pcruniversum
+pcreg,cran
 PCS,jasonwilson2024
 pcse,deliabailey
 PCSinR,felixhenninger
@@ -16898,7 +16909,6 @@ pervasive,dlajoiemoncton
 pesel,psobczyk
 PesticideLoadIndicator,cran
 pestr,mczyzj
-Petersen,cschwarz-stat-sfu-ca
 petersenlab,devpsylab
 PEtests,cran
 PetfindeR,aschleg
@@ -17580,6 +17590,7 @@ postNet,bioc
 postpack,bstaton1
 POT,r-forge
 potential,riatelab
+potentiomap,cran
 poth,augustinewigle
 potions,atlasoflivingaustralia
 potools,michaelchirico
@@ -17661,6 +17672,7 @@ ppsr,paulvanderlaken
 PPTcirc,karlampm
 PPtreeExt,natydasilva
 PPtreeViz,ek-lee
+PPTS,cran
 ppwdeming,jjkraker
 ppweibull,cran
 PQA,lcorag
@@ -20767,6 +20779,7 @@ RSSampling,cran
 RsSimulx,cran
 RSSL,jkrijthe
 RSSOP,rarabzadeh
+RSSRMR,cran
 RSStest,fikrigokpinar
 RSSthemes,nrennie
 rstac,brazil-data-cube
@@ -21042,6 +21055,7 @@ saber,cornball-ai
 sabre,nowosad
 saccadr,alexander-pastukhov
 SACCR,sa-ccr
+saCI,cxxhorrible
 sacRebleu,lazerlambda
 sad,s6sebusc
 SADEG,cran
@@ -21360,6 +21374,7 @@ schematic,whipson
 schemr,stuart-morrison
 schex,bioc
 scHiCcompare,bioc
+schmear,corymccartan
 schoenberg,jadahlke
 scholar,yulab-smu
 scholid,thomas-rauter
@@ -22077,6 +22092,7 @@ shinyservicebot,capiaas
 shinySIR,cran
 shinystan,stan-dev
 shinystate,rpodcast
+shinyStep,zhangh12
 shinyStorePlus,oobianom
 shinyTempSignal,yulab-smu
 shinytest,rstudio
@@ -22889,7 +22905,6 @@ sparsio,rexyai
 sparta,mlindsk
 SPARTAAS,cran
 sparvaride,hdarjus
-SPAS,cschwarz-stat-sfu-ca
 spaSim,bioc
 spass,cran
 spate,fabsig
@@ -25712,6 +25727,7 @@ vardpoor,csblatvia
 VarED,cran
 VaRES,lbelzile
 varEst,cran
+varGuid,luminwin
 varGuidTS,luminwin
 varhandle,mmahmoudian
 variability,popatraj

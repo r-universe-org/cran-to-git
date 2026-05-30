@@ -60,6 +60,11 @@
     "url": "https://github.com/cran/MVA"
   },
   {
+    "package": "mvtnorm",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/mvtnorm"
+  },
+  {
     "package": "TH.data",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/cran/TH.data"

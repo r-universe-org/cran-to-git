@@ -408,12 +408,6 @@
     "subdir": "pkg/mutossGUI"
   },
   {
-    "package": "mvtnorm",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/mvtnorm",
-    "subdir": "pkg"
-  },
-  {
     "package": "nor1mix",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",
