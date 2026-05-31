@@ -1547,7 +1547,7 @@ bbreg,cran
 bbssr,gosukehommaex
 bbw,rapidsurveys
 bc3net,bio-complexity
-BCA1SG,cran
+BCA1SG,stat-code-demo
 bcaboot,bnaras
 BCBCSF,longhaisk
 bcc,danielucas28
@@ -1617,6 +1617,7 @@ BeadDataPackR,bioc
 beadplexr,ustervbo
 beakr,mazamascience
 beam,gleday
+bean,paanwaris
 beanplot,cran
 beans,topepo
 bearishTrader,maheshpkumar
@@ -4278,6 +4279,7 @@ countts,cran
 countyhealthR,countyhealthrankings
 coupling,stscl
 couplr,gcol33
+courieR,lennon-li
 coursekata,coursekata
 covadap,rfrieri91-sys
 covafillr,calbertsen
@@ -6094,7 +6096,6 @@ dymo,pigian
 dyn,markleeds2
 dynafluxr,sgsokol
 dynamac,andyphilips
-dynamAedes,mattmar
 dynamicpv,msdllcpapers
 dynamicSDM,r-a-dobson
 dynamicTreeCut,plangfelder
@@ -7574,6 +7575,7 @@ fhircrackr,polar-fhir
 fHMM,loelschlaeger
 FHtest,ramonoller
 FI,dvdscripter
+fiber,tractoverse
 fiberLD,cran
 fibos,hersonhebert
 fic,chjackson
@@ -9651,6 +9653,7 @@ gridBase,pmur002
 gridBezier,pmur002
 GRIDCOPULA,cran
 gridDebug,cran
+griddy,dshkol
 gridExtra,baptiste
 gridGeometry,pmur002
 gridGraphics,pmur002
@@ -11890,6 +11893,7 @@ krm,youyifong
 KRMM,ljacquin
 kronos,thomazbastiaanssen
 KRONX,oismrg-saamlab
+kronxNBC,oismrg-saamlab
 ks,tarnduong
 KSA,aboaziz1
 kSamples,cran
@@ -15507,6 +15511,7 @@ noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
 nolock,artllex
+nomads,cran
 nombre,rossellhayes
 nomclust,zdeneksulc
 nomesbr,ipea
@@ -15903,7 +15908,7 @@ OmicsQC,pboutros
 omicsTools,cheemalab
 omicsViewer,bioc
 omicwas,fumi-github
-Omisc,cran
+Omisc,okeep
 Omixer,bioc
 omixVizR,leslie-lu
 omnibus,adamlilith
@@ -21285,6 +21290,7 @@ scalreg,cran
 scam,cran
 scan,jazznbass
 SCAN.UPC,bioc
+scanCP,armanazizyan
 scanMiR,bioc
 scanMiRApp,bioc
 scAnnotate,ubcxzhang
@@ -23210,6 +23216,7 @@ SppTrend,cran
 spqdep,f8l5h9
 spqn,bioc
 spray,robinhankin
+spreadr,csqsiew
 SPREDA,yili-hong
 SPreg,cran
 spreval,glgrabow
@@ -23485,6 +23492,7 @@ statioVAR,cran
 statip,paulponcet
 statisfactory,adamlilith
 statisR,cran
+StatisticTeach1,jdelahoz-m
 statlingua,bgreenwell
 StatMatch,cran
 statMatchLCM,cran
@@ -24327,6 +24335,7 @@ tempodisco,kinleyid
 Temporal,zrmacc
 TemporalForest,sisishao
 TemporalGSSA,cran
+TemporalHazard,ehrlinger
 tempR,jcc9
 TempStable,tmoek
 tempted,pixushi
@@ -24410,6 +24419,7 @@ tetragon,pigian
 tetrascatt,jdgonzalezwork
 tetRys,cran
 Tex4exams,qingwenhu
+texanshootR,gcol33
 TeXCheckR,hughparsonage
 TexExamRandomizer,alexrecuenco
 texmex,harrysouthworth
@@ -24537,6 +24547,7 @@ ThresholdROC,spjaume
 ThresholdROCsurvival,spjaume
 threshr,paulnorthrop
 thriftr,systemincloud
+ThSQCA,im-research-yt
 thunder,bczernecki
 ThurMod,markustjansen
 thurstonianIRT,paul-buerkner
@@ -24828,6 +24839,7 @@ tmbstan,kaskr
 TmCalculator,junhuili1017
 tmcn,cran
 TMDb,andreacapozio
+tmfast,dhicks
 Tmisc,stephenturner
 TMixClust,bioc
 TML,barnhilldave
@@ -25920,6 +25932,7 @@ vip,koalaverse
 viper,bioc
 vipor,cran
 VIProDesign,cran
+ViralEntropR,vadimtyuryaev
 viralx,juanv66x
 VIRF,ranjitstat
 viridis,sjmgarnier

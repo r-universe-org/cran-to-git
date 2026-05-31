@@ -1,5 +1,10 @@
 [
   {
+    "package": "fiber",
+    "maintainer": "Aymeric Stamm <aymeric.stamm@cnrs.fr>",
+    "url": "https://github.com/tractoverse/fiber"
+  },
+  {
     "package": "midi",
     "maintainer": "Aymeric Stamm <aymeric.stamm@cnrs.fr>",
     "url": "https://github.com/tractoverse/midi"
