@@ -107,7 +107,8 @@
   {
     "package": "censo2017",
     "maintainer": "Mauricio Vargas <mavargas11@uc.cl>",
-    "url": "https://github.com/ropensci/censo2017"
+    "url": "https://github.com/ropensci/censo2017",
+    "registry": "archived"
   },
   {
     "package": "cffr",
@@ -798,11 +799,6 @@
     "package": "rdryad",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rdryad"
-  },
-  {
-    "package": "read.abares",
-    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
-    "url": "https://github.com/ropensci/read.abares"
   },
   {
     "package": "readODS",
