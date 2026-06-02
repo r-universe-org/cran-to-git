@@ -1,5 +1,10 @@
 [
   {
+    "package": "mvBayes",
+    "maintainer": "J. Derek Tucker <jdtuck@sandia.gov>",
+    "url": "https://github.com/sandialabs/mvbayesr"
+  },
+  {
     "package": "stpphawkes",
     "maintainer": "J. Derek Tucker <jdtuck@sandia.gov>",
     "url": "https://github.com/sandialabs/stpphawkes"

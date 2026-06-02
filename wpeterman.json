@@ -1,5 +1,10 @@
 [
   {
+    "package": "corMLPE",
+    "maintainer": "Bill Peterman <peterman.73@osu.edu>",
+    "url": "https://github.com/wpeterman/cormlpe"
+  },
+  {
     "package": "multiScaleR",
     "maintainer": "Bill Peterman <Peterman.73@osu.edu>",
     "url": "https://github.com/wpeterman/multiscaler"

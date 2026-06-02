@@ -25,6 +25,11 @@
     "url": "https://github.com/r-tmap/tmap.networks"
   },
   {
+    "package": "tmap.sources",
+    "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
+    "url": "https://github.com/r-tmap/tmap.sources"
+  },
+  {
     "package": "tmaptools",
     "maintainer": "Martijn Tennekes <mtennekes@gmail.com>",
     "url": "https://github.com/r-tmap/tmaptools"

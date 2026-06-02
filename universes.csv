@@ -1493,6 +1493,7 @@ BayesRep,samch93
 BayesRepDesign,samch93
 bayesROE,waidschrat
 BayesRS,mirkoth
+BayesRTMB,norimune
 bayesrules,bayes-rules
 BayesS5,minsuk000
 BayesSampling,pedrosfig
@@ -3486,6 +3487,7 @@ clordr,ralphma1203
 closeloop,heorlytics
 cloudfs,g6t
 cloudml,rstudio
+cloudosR,l-mansouri
 cloudstoR,pdparker
 cloudUtil,cpanse
 clptheory,dbasu-umass
@@ -4031,6 +4033,7 @@ connections,rstudio
 connectoModa,idiise
 connector,novonordisk-opensource
 connector.databricks,novonordisk-opensource
+connector.sharepoint,novonordisk-opensource
 connectwidgets,rstudio
 ConnMatTools,dmkaplan2000
 conogive,jonasmoss
@@ -4179,6 +4182,7 @@ corHMM,thej022214
 corkscrew,sasan-puri
 corlink,johnfergusonnuig
 CorMID,janlisec
+corMLPE,wpeterman
 Cormotif,bioc
 corncob,statdivlab
 cornet,rauschenberger
@@ -4551,6 +4555,7 @@ csdm,macosso
 CSDownscale,cran
 csdR,bioc
 cSEM,floschuberth
+csemGT,rgempp
 CSeqpat,hz6yc3
 CSeQTL,pllittle
 CSESA,xia-zhang
@@ -4584,6 +4589,7 @@ csv,bergsmat
 csvread,jabiru
 csvwr,robsteranium
 csvy,leeper
+CSwR,jolars
 ctablerseh,haqqulamin06
 ctbi,fritte2
 ctc,bioc
@@ -6453,6 +6459,7 @@ eicm,miguel-porto
 EIEntropy,sfrana-prog
 eiExpand,rachel-carroll
 eigenmodel,pdhoff
+eiIT,cran
 eikosograms,rwoldford
 eimpute,gaozhe33
 einet,travisbyrum
@@ -13737,6 +13744,7 @@ micEconCES,micecon
 micEconDistRay,micecon
 micEconIndex,arne-henningsen
 micEconSNQP,arne-henningsen
+miceDRF,krystynagrzesiak
 miceFast,polkas
 micemd,vaudigier
 micer,maxwell-geospatial
@@ -14502,6 +14510,8 @@ MPTmultiverse,mpt-network
 MPV,wjbraun
 mpwR,cran
 MQMF,haddonm
+mqqcause,merwanroudane
+mqqr,merwanroudane
 Mqrcm,cran
 mqriskR,aokine
 mr.mashr,stephenslab
@@ -14916,6 +14926,7 @@ mvalpha,therealcfdrake
 MVar,cran
 MVar.pt,cran
 mvardlurt,muhammedalkhalaf
+mvBayes,sandialabs
 MvBinary,masedki
 mvbutils,markbravington
 mvcauchy,cran
@@ -15735,6 +15746,7 @@ nuts,ropensci
 NVAR,sciurus365
 NVCSSL,cran
 nvctr,euctrl-pru
+nVennR2,vqf
 nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
@@ -16010,7 +16022,7 @@ OpenBARD,cran
 openblender,danielvpinacho-ship-it
 opencage,ropensci
 OpEnCAST,abhiksarkariasri
-opencesp,cran
+opencesp,rchapelle
 opencis,hmeleiro
 OpenCL,s-u
 opencpu,opencpu
@@ -18343,6 +18355,7 @@ Qploidy,cristianetaniguti
 qpNCA,huismanj
 qPRAentry,mcendoya
 qqconf,eweine
+qqkrls,merwanroudane
 qqman,stephenturner
 qqplotr,aloy
 QQreflimits,jjkraker
@@ -19185,6 +19198,7 @@ rddtools,bquast
 rde,kloppen
 rDEA,jaak-s
 rdecision,ajsims1704
+rDeckgl,tirizvanov
 rDecode,cspun
 rdeps,frbcesab
 rdflib,ropensci
@@ -20733,6 +20747,7 @@ rshift,alexhroom
 rsi,ropensci
 rsides,cran
 RSiena,stocnet
+RsimdDispatch,sounkou-bioinfo
 rsimsum,ellessenne
 rsinaica,diegovalle
 rsixel,cran
@@ -22615,6 +22630,7 @@ SMOTEWB,fatihsaglam
 smovie,paulnorthrop
 smplot2,smin95
 SMPracticals,cran
+smqf,ardiad
 SMR,bendeivide
 smriti,xguot
 sms,dimitrisk
@@ -23088,6 +23104,7 @@ spFSR,yongkai17
 spGARCH,cran
 spgs,cran
 spgwr,rsbivand
+sphereclust,cran
 spheredata,santosoph
 sphereML,santosoph
 SphereOptimize,cran
@@ -23346,6 +23363,7 @@ SSLfmm,cran
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
 ssmodels,fsbmat-ufv
+ssmooth,biodiversity-futures-lab
 ssMousetrack,antonio-calcagni
 ssMRCD,patriciapuch
 ssmrob,cran
@@ -23604,6 +23622,7 @@ StochBlock,aleszib
 stochcorr,smiitk
 stochLAB,marinescotlandscience
 stochQN,david-cortes
+StochSimR,ayush291202
 stochtree,stochastictree
 stochvol,gregorkastner
 stochvolTMB,jenswahl
@@ -23787,6 +23806,7 @@ suncalc,datastorm-open
 SunCalcMeeus,aphalo
 Sunclarco,cran
 sundialr,sn248
+SUNGEO,zhukovyuri
 SunsVoc,cran
 suntools,adokter
 supabaseR,deepanshkhurana
@@ -24246,6 +24266,7 @@ tbrf,mps9506
 TBSignatureProfiler,bioc
 TCA,cozygene
 TCC,bioc
+tceper,strategicprojects
 tcftt,huaiyuzhang
 TCGAbiolinks,bioc
 TCGAretriever,dami82
@@ -24832,6 +24853,7 @@ tmap.cartogram,r-tmap
 tmap.glyphs,r-tmap
 tmap.mapgl,r-tmap
 tmap.networks,r-tmap
+tmap.sources,r-tmap
 tmaptools,r-tmap
 tmapverse,mtennekes
 TMB,kaskr
@@ -26564,6 +26586,7 @@ xmrr,zanidean
 xnet,centerforstatistics-ugent
 XNomial,wrengels
 xoi,kbroman
+XOMultinom,sergioventurini
 xopen,r-lib
 xpect,pigian
 xpectr,ludvigolsen

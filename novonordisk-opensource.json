@@ -15,6 +15,11 @@
     "url": "https://github.com/novonordisk-opensource/connector.databricks"
   },
   {
+    "package": "connector.sharepoint",
+    "maintainer": "Vladimir Obucina <vlob@novonordisk.com>",
+    "url": "https://github.com/novonordisk-opensource/connector.sharepoint"
+  },
+  {
     "package": "mighty.metadata",
     "maintainer": "Aksel Thomsen <oath@novonordisk.com>",
     "url": "https://github.com/novonordisk-opensource/mighty.metadata"
