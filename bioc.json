@@ -543,7 +543,7 @@
   {
     "package": "AnVILPublish",
     "maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
-    "url": "https://git.bioconductor.org/packages/AnVILPublish",
+    "url": "https://github.com/bioconductor/anvilpublish",
     "registry": "bioc"
   },
   {
@@ -826,6 +826,12 @@
     "package": "BamScale",
     "maintainer": "Chirag Parsania <chirag.parsania@gmail.com>",
     "url": "https://github.com/cparsania/bamscale",
+    "registry": "bioc"
+  },
+  {
+    "package": "bamsignals",
+    "maintainer": "Johannes Helmuth <johannes.helmuth@laborberlin.com>",
+    "url": "https://github.com/lamortenera/bamsignals",
     "registry": "bioc"
   },
   {
@@ -6064,7 +6070,7 @@
   },
   {
     "package": "HMMcopy",
-    "maintainer": "Daniel Lai <dalai@bccrc.ca>",
+    "maintainer": "Andrew McPherson <andrew.mcpherson@gmail.com>",
     "url": "https://git.bioconductor.org/packages/HMMcopy",
     "registry": "bioc"
   },
@@ -6378,6 +6384,12 @@
     "package": "immApex",
     "maintainer": "Nick Borcherding <ncborch@gmail.com>",
     "url": "https://github.com/borchlab/immapex",
+    "registry": "bioc"
+  },
+  {
+    "package": "immGLIPH",
+    "maintainer": "Nick Borcherding <ncborch@gmail.com>",
+    "url": "https://github.com/borchlab/immgliph",
     "registry": "bioc"
   },
   {
@@ -8895,6 +8907,12 @@
     "registry": "bioc"
   },
   {
+    "package": "normr",
+    "maintainer": "Johannes Helmuth <johannes.helmuth@laborberlin.com>",
+    "url": "https://github.com/your-highness/normr",
+    "registry": "bioc"
+  },
+  {
     "package": "notame",
     "maintainer": "Vilhelm Suksi <vksuks@utu.fi>",
     "url": "https://github.com/hanhineva-lab/notame",
@@ -9360,7 +9378,7 @@
   {
     "package": "parati",
     "maintainer": "Jinyi Che <chejinyi777@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/parati",
+    "url": "https://github.com/newche/parati",
     "registry": "bioc"
   },
   {
@@ -9667,6 +9685,12 @@
     "package": "Pigengene",
     "maintainer": "Habil Zare <zare@u.washington.edu>",
     "url": "https://git.bioconductor.org/packages/Pigengene",
+    "registry": "bioc"
+  },
+  {
+    "package": "PinPath",
+    "maintainer": "Jarno Koetsier <jarno.koetsier@gmail.com>",
+    "url": "https://github.com/synum-lab/pinpath",
     "registry": "bioc"
   },
   {
@@ -13747,6 +13771,12 @@
     "package": "TSCAN",
     "maintainer": "Zhicheng Ji <zji4@jhu.edu>",
     "url": "https://git.bioconductor.org/packages/TSCAN",
+    "registry": "bioc"
+  },
+  {
+    "package": "TSENAT",
+    "maintainer": "Cristóbal Gallardo <gallardoalba@pm.me>",
+    "url": "https://github.com/gallardoalba/tsenat",
     "registry": "bioc"
   },
   {
