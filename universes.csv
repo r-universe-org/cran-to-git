@@ -408,6 +408,7 @@ AiES,breezycave
 aifeducation,fberding
 AIFFtools,cran
 AIGovernance,causalfragility-lab
+AIGRA,cran
 aihuman,sooahnshin
 aimPlot,ybkamaleri
 AIMS,bioc
@@ -1530,6 +1531,7 @@ bayMDS,mansukoh
 baymedr,maxlinde
 bayNorm,bioc
 bayou,uyedaj
+bayprior,ndohpenngit
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
@@ -8190,6 +8192,7 @@ fspe,jmbh
 fsr,accarniel
 fSRM,nicebread
 FSSF,boyangshang
+fssg,jmrothen
 fst,fstpackage
 fst4pg,tmaryhuard
 Fstability,cran
@@ -11658,6 +11661,7 @@ JuliaConnectoR,stefan-m-lenz
 JuliaFormulae,yjunechoe
 jumble,davidhodge931
 JUMP,cran
+JumpDiffSim,kennedy2244
 jumps,matteopelagatti
 junco,johnsonandjohnson
 junctions,thijsjanzen
@@ -11990,6 +11994,7 @@ lacm,crisvarin
 lacrmr,ixpantia
 lactater,fmmattioni
 LactCurveModels,venkatesanraja
+lacunarity,ikarobarreto
 lacunaritycovariance,kasselhingee
 lacunr,elliottsmeds
 LAD,fchianucci
@@ -16041,6 +16046,7 @@ OpEnCAST,abhiksarkariasri
 opencesp,rchapelle
 opencis,hmeleiro
 OpenCL,s-u
+opencltools,knygren
 opencpu,opencpu
 openCR,murrayefford
 opencv,ropensci
@@ -16522,6 +16528,7 @@ parallelMap,mlr-org
 parallelMCMCcombine,stat108ds
 parallelpam,jdmde
 parallelPlot,cran
+ParallelTree,okeep
 param2moment,tingtingzhan
 ParamANOVA,vicbrans
 paramDemo,fercol
@@ -16613,6 +16620,7 @@ pater,juliocollazos64
 Path.Analysis,abeyrann
 path.chain,krzjoa
 Path2PPI,bioc
+pathdb,aidanfred24
 pathfindR,egeulgen
 pathfindR.data,egeulgen
 pathifier,bioc
@@ -17138,6 +17146,7 @@ pickgene,bioc
 pickmax,cran
 picohdr,coolbutuseless
 picR,javenrflo
+picreg,vcmaxouuu
 pid,kgdunn
 PIE,misstiny
 PieceExpIntensity,andrewchapple21
@@ -17487,6 +17496,7 @@ PolicyPortfolios,xfim
 policytree,anumbat
 polimetrics,burrelvannjr
 poliscidata,cran
+polish,gsk-biostatistics
 polished,tychobra
 PolisheR,cran
 polite,dmi3kno
@@ -19467,6 +19477,7 @@ RegAssure,nrubiog
 RegCalReliab,lbw080526
 regclass,profpetrie
 RegCombin,cran
+regcorr,lonze-nb
 regda,cran
 RegDDM,biorabbit
 regDIF,wbelzak
@@ -20390,6 +20401,7 @@ robustreg,cran
 robustSFA,cran
 robustsur,claudioagostinelli
 robustT2,sergiodanielfg
+robusttseq,njgonzalezs
 robustvarComp,claudioagostinelli
 robustX,r-forge
 robvis,mcguinlu
@@ -21167,7 +21179,7 @@ SALTSampler,cran
 salty,mdlincoln
 SAM,hmjianggatech
 samadb,sebkrantz
-SAMBA,cran
+SAMBA,lbeesleybiostat
 sambia,nkathh
 samc,andrewmarx
 SAME,czhong9106
@@ -21945,6 +21957,7 @@ SGL,nrs02004
 sglasso,luigiaugugliaro
 sglg,cran
 sglr,hrpcisd
+sgmean,jcarlosgaviria
 sgmodel,thomasvigie
 sGMRFmix,hoxo-m
 sgo,clozanoruiz
@@ -25476,6 +25489,7 @@ twoway,friendly
 TwoWayFEWeights,credible-answers
 twowaytests,osmandag
 twoxtwo,vpnagraj
+twscrapeR,agusnieto77
 TWW,cran
 txcutr,bioc
 txdbmaker,bioc
