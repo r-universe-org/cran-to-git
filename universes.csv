@@ -349,7 +349,7 @@ agghoo,cran
 aggreCAT,metamelb-replicats
 aggregateBioVar,bioc
 AggregateR,matthbogaert
-aggregation,lynnyi
+aggregation,emaigne
 aggTrees,riccardo-df
 aggutils,forecastingresearch
 AGHmatrix,rramadeu
@@ -1708,6 +1708,7 @@ betareg,zeileis
 betaregscale,evandeilton
 betaSandwich,jeksterslab
 betaselectr,sfcheung
+betaStability,gaoyu19920914
 betategarch,cran
 bethel,micheledemeo
 BETS,nmecsys
@@ -3673,7 +3674,7 @@ CNVScope,jamesdalg
 coala,statgenlmu
 coalescentMCMC,emmanuelparadis
 CoalescentPhylo,arindamroychoudhury
-coalitions,adibender
+coalitions,koala-lmu
 COAP,feiyoung
 coarseDataTools,nickreich
 CoastlineFD,redworld123
@@ -4554,6 +4555,7 @@ csalert,raubreywhite
 csampling,arbrazzale
 CSAR,bioc
 csaw,bioc
+csbewma,cran
 CsChange,marsdu1989
 csci,michaelfay-niaid
 CSclone,tsungyuwu
@@ -6662,6 +6664,7 @@ enrichwith,ikosmidis
 EnsCat,jlp2duke
 ensembldb,bioc
 ensembleBMA,cran
+ensembleML,cran
 ensembleMOS,sbaran0225
 ensemblepp,jakmes
 ensembleTax,dcat4
@@ -8731,6 +8734,7 @@ geocomplexity,ausgis
 geodaData,spatialanalysis
 geodata,rspatial
 geoDeltaAudit,phinnphace
+GeoDensityR,sahalpaladan
 geodetector,cran
 GeoDiff,bioc
 geodimension,josesamos
@@ -15324,6 +15328,7 @@ neuroSCC,iguanamarina
 neuRosim,ktabelow
 neuroUp,eduardklap
 neutralitytestr,marcjwilliams1
+NeutroIBDAnalysis,cran
 neutrostat,kzst
 neutroSurvey,pankajdas7
 nev,wilburtownsend
@@ -15445,6 +15450,7 @@ nlmixr2extra,nlmixr2
 nlmixr2lib,nlmixr2
 nlmixr2plot,nlmixr2
 nlmixr2rpt,nlmixr2
+nlmixr2targets,nlmixr2
 nlmm,marco-geraci
 NLMR,ropensci
 nlmrt,nashjc
@@ -20022,6 +20028,7 @@ riskscores,hjeglinton
 RiskScorescvd,dvicencio
 risksetROC,paramita-sc
 riskSimul,cran
+RiskyCNV,apalania-lab
 riskyr,hneth
 RISmed,skoval
 Rita,danielamattei
@@ -20808,6 +20815,7 @@ rsnell,pfpetrowski
 RSNNS,cbergmeir
 rsnps,ropensci
 rsocialwatcher,worldbank
+rsocsim,mpidr
 rsofun,geco-bern
 rsoi,boshek
 Rsolnp,alexiosg
@@ -21487,6 +21495,7 @@ scMET,bioc
 scMetaTraj,dr-xygreg
 scmeth,bioc
 scMitoMut,bioc
+scModels,hkumar6
 scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
