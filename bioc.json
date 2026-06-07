@@ -8601,6 +8601,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MultipleAlignment",
+    "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
+    "url": "https://github.com/bioconductor/multiplealignment",
+    "registry": "bioc"
+  },
+  {
     "package": "MultiRNAflow",
     "maintainer": "Rodolphe Loubaton <loubaton.rodolphe@gmail.com>",
     "url": "https://github.com/loubator/multirnaflow",
@@ -9989,7 +9995,7 @@
   },
   {
     "package": "profileplyr",
-    "maintainer": "Tom Carroll <tc.infomatics@gmail.com>",
+    "maintainer": "Doug Barrows <doug.barrows@gmail.com>",
     "url": "https://git.bioconductor.org/packages/profileplyr",
     "registry": "bioc"
   },
