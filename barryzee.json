@@ -1,5 +1,10 @@
 [
   {
+    "package": "autoLibLoad",
+    "maintainer": "Barry Zeeberg <barryz2013@gmail.com>",
+    "url": "https://github.com/cran/autoLibLoad"
+  },
+  {
     "package": "clickableImageMap",
     "maintainer": "Barry Zeeberg <barryz2013@gmail.com>",
     "url": "https://github.com/cran/clickableImageMap"
@@ -8,6 +13,11 @@
     "package": "conditionalProbNspades",
     "maintainer": "Barry Zeeberg <barryz2013@gmail.com>",
     "url": "https://github.com/cran/conditionalProbNspades"
+  },
+  {
+    "package": "consolidatePacks",
+    "maintainer": "Barry Zeeberg <barryz2013@gmail.com>",
+    "url": "https://github.com/cran/consolidatePacks"
   },
   {
     "package": "evenBreak",

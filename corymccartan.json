@@ -25,6 +25,11 @@
     "url": "https://github.com/corymccartan/easycensus"
   },
   {
+    "package": "onnxr",
+    "maintainer": "Cory McCartan <mccartan@psu.edu>",
+    "url": "https://github.com/corymccartan/onnxr"
+  },
+  {
     "package": "PL94171",
     "maintainer": "Cory McCartan <mccartan@psu.edu>",
     "url": "https://github.com/corymccartan/pl94171"
@@ -33,6 +38,11 @@
     "package": "schmear",
     "maintainer": "Cory McCartan <mccartan@psu.edu>",
     "url": "https://github.com/corymccartan/schmear"
+  },
+  {
+    "package": "seine",
+    "maintainer": "Cory McCartan <mccartan@psu.edu>",
+    "url": "https://github.com/corymccartan/seine"
   },
   {
     "package": "wacolors",
