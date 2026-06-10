@@ -2,7 +2,8 @@
   {
     "package": "lidR",
     "maintainer": "Jean-Romain Roussel <info@r-lidar.com>",
-    "url": "https://github.com/r-lidar/lidr"
+    "url": "https://github.com/r-lidar/lidr",
+    "registry": "archived"
   },
   {
     "package": "RCSF",
@@ -12,7 +13,8 @@
   {
     "package": "rlas",
     "maintainer": "Jean-Romain Roussel <info@r-lidar.com>",
-    "url": "https://github.com/r-lidar/rlas"
+    "url": "https://github.com/r-lidar/rlas",
+    "registry": "archived"
   },
   {
     "package": "RMCC",

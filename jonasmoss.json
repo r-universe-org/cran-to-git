@@ -1,15 +1,5 @@
 [
   {
-    "package": "attenuation",
-    "maintainer": "Jonas Moss <jonas.gjertsen@gmail.com>",
-    "url": "https://github.com/jonasmoss/attenuation"
-  },
-  {
-    "package": "conogive",
-    "maintainer": "Jonas Moss <jonas.gjertsen@gmail.com>",
-    "url": "https://github.com/cran/conogive"
-  },
-  {
     "package": "kdensity",
     "maintainer": "Jonas Moss <jonas.gjertsen@gmail.com>",
     "url": "https://github.com/jonasmoss/kdensity"
@@ -28,11 +18,6 @@
     "package": "semTests",
     "maintainer": "Jonas Moss <jonas.moss.statistics@gmail.com>",
     "url": "https://github.com/jonasmoss/semtests"
-  },
-  {
-    "package": "subformula",
-    "maintainer": "Jonas Moss <jonas.gjertsen@gmail.com>",
-    "url": "https://github.com/jonasmoss/subformula"
   },
   {
     "package": "univariateML",
