@@ -1898,6 +1898,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cellNexus",
+    "maintainer": "Mengyuan Shen <shen.m@wehi.edu.au>",
+    "url": "https://github.com/mangiolalaboratory/cellnexus",
+    "registry": "bioc"
+  },
+  {
     "package": "CellNOptR",
     "maintainer": "Attila Gabor <attila.gabor@uni-heidelberg.de>",
     "url": "https://git.bioconductor.org/packages/CellNOptR",
@@ -3168,6 +3174,12 @@
     "package": "DART",
     "maintainer": "Charles Shijie Zheng <charles_zheng@live.com>",
     "url": "https://git.bioconductor.org/packages/DART",
+    "registry": "bioc"
+  },
+  {
+    "package": "daVis",
+    "maintainer": "Katarzyna Gorczak <katarzyna.gorczak@openanalytics.eu>",
+    "url": "https://github.com/openanalytics/davis",
     "registry": "bioc"
   },
   {

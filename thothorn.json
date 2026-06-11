@@ -65,6 +65,12 @@
     "url": "https://codeberg.org/thothorn/mvtnorm"
   },
   {
+    "package": "tbm",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/tram",
+    "subdir": "pkg/tbm"
+  },
+  {
     "package": "TH.data",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/cran/TH.data"

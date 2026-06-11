@@ -5,6 +5,11 @@
     "url": "https://github.com/ropensci-review-tools/goodpractice"
   },
   {
+    "package": "pkgmatch",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci-review-tools/pkgmatch"
+  },
+  {
     "package": "pkgstats",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci-review-tools/pkgstats"

@@ -2974,6 +2974,7 @@ CellMentor,bioc
 cellmig,bioc
 cellmigRation,bioc
 CellMixS,bioc
+cellNexus,bioc
 CellNOptR,bioc
 cellOrigins,davidhmolnar
 cellranger,rsheets
@@ -3329,6 +3330,7 @@ circular,cran
 CircularBoxplots,jdberlinski
 CircularDDM,yxlin
 circularKDE,stazam
+CircularRegression,aureliennicosiaulaval
 CircularSilhouette,joemsong
 circumplex,jmgirard
 cirls,pierremasselot
@@ -3546,6 +3548,7 @@ ClusterFoldSimilarity,bioc
 clusterGeneration,weiliang
 clusterGGM,aalfons
 ClusterGVis,bioc
+clusterindices,cran
 Clustering,laperez
 clustering.sc.dp,cran
 ClusterJudge,bioc
@@ -4560,7 +4563,7 @@ csalert,raubreywhite
 csampling,arbrazzale
 CSAR,bioc
 csaw,bioc
-csbewma,cran
+csbewma,fmurital
 CsChange,marsdu1989
 csci,michaelfay-niaid
 CSclone,tsungyuwu
@@ -4963,6 +4966,7 @@ datrProfile,avitaliano
 dauphin,hughparsonage
 dauR,cran
 Davies,robinhankin
+daVis,bioc
 dawai,cran
 dawaR,aleksanderbl29
 daymetr,bluegreen-labs
@@ -5033,6 +5037,7 @@ dcmdata,r-dcm
 dcmle,datacloning
 dcmodify,data-cleaning
 dcmstan,r-dcm
+dcorBSS,cran
 dcortools,edelmand21
 dcorVS,cran
 dcov,cran
@@ -5136,6 +5141,7 @@ deep,blmayer
 deepdep,dominikrafacz
 deepgmm,suren-rathnayake
 deepgp,anniesbooth
+deepImp,matthias-da
 DeepLearningCausal,hknd23
 deeplr,zumbov2
 deepMOU,martindip
@@ -7086,6 +7092,7 @@ excursions,davidbolin
 exdex,paulnorthrop
 exdqlm,antonioapdl
 executablePackeR,changwoolim
+exeval,martin-umpierrez
 ExGaussEstim,jdcerca
 exhaustiveRasch,chrgrebe
 ExhaustiveSearch,rudolfjagdhuber
@@ -7883,6 +7890,7 @@ flps,sooyongl
 FLR,consmavr
 flsa,hhoeflin
 FLSSS,whateverliu
+fluffy,lj-jenkins
 Fluidigm,fischuu
 fluidsynth,ropensci
 fluorojip,cran
@@ -10031,6 +10039,7 @@ HCD,tianxili
 hce,samve
 hchinamap,r-stata
 hcidata,henningpohl
+hcinfer,prdm0
 hclust1d,szymonnowakowski
 hclusteasy,tsukubai
 hclustTeach,cran
@@ -12278,6 +12287,7 @@ LFDREmpiricalBayes,empiricalbayes
 lfe,r-econometrics
 lfebd3,sukantaiasri
 lfl,beerda
+LFM,guangbaog
 lfmm,bcm-uga
 lfproQC,kabilansbio
 lfstat,mundl
@@ -12314,7 +12324,7 @@ librarysnapshot,petermeissner
 libstable4u,swihart
 LIC,guangbaog
 licoread,jogaudard
-lidaRtRee,cran
+lidaRtRee,jmmonnet
 lidR,r-lidar
 lievens,ramiromagno
 lifecontingencies,spedygiorgio
@@ -14925,6 +14935,7 @@ MulvariateRandomForestVarImp,megatvini
 mumarinex,nathan-chauvel
 MuMIn,cran
 mumosa,bioc
+mums2,mums2
 munch,ardata-fr
 munfold,melff
 MungeSumstats,bioc
@@ -15231,6 +15242,7 @@ neptune,neptune-ai
 nestable,derekunderwood
 NeStage,raymondltremblay
 nestcolor,insightsengineering
+nestedcv,myles-lewis
 nestedLogit,friendly
 NestedMenu,stla
 nestedpp,cran
@@ -24336,7 +24348,7 @@ tbea,gaballench
 TBEST,gsun2018
 TBFmultinomial,rachelhey
 tbl2xts,nicktz
-tbm,r-forge
+tbm,thothorn
 tboot,njm18
 TBox,tanguybarthelemy
 TBRDist,ms609

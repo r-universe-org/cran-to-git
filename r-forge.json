@@ -823,12 +823,6 @@
     "subdir": "pkg/TailRank"
   },
   {
-    "package": "tbm",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/tbm"
-  },
-  {
     "package": "tframe",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/tsanalysis",
