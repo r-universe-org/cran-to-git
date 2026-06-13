@@ -647,7 +647,6 @@ annmap,bioc
 annmatrix,karoliskoncevicius
 annoLinker,bioc
 AnnoProbe,jmzeng1314
-annotaR,sulkysubject37
 annotate,bioc
 annotater,luisdva
 AnnotationBustR,sborstein
@@ -1405,6 +1404,7 @@ bayesDiagnostics,ikrakib
 BayesDIP,chenw10
 BayesDissolution,tpourmohamad
 bayesDP,graemeleehickey
+bayesefa,steveculpepper
 bayesEO,e-sensing
 BayesERtools,genentech
 BayesESS,github-js
@@ -4133,6 +4133,7 @@ Convolutioner,federicoviv
 convoSPAT,markdrisser
 cooccure,mohsaqr
 CooccurrenceAffinity,kpmainali
+cookie,juliocollazos64
 cookiecutter,felixhenninger
 cookiemonster,jbgruber
 cookies,shinyworks
@@ -4167,6 +4168,7 @@ CopulaGAMM,cran
 CopulaInference,bouchranasri
 copulareg,cran
 CopulaREMADA,cran
+CopulaSCR,ytonghui
 copulaSFM,woraphonyamaka
 copulaSim,psyen0824
 copulaSQM,woraphonyamaka
@@ -4194,6 +4196,7 @@ corels,corels
 CoreMicrobiomeR,cran
 coreNLP,taylor-arnold
 coreSim,christophergandrud
+coresynth,yo5uke
 corHMM,thej022214
 corkscrew,sasan-puri
 corlink,johnfergusonnuig
@@ -9845,6 +9848,7 @@ gtexture,rbarkerclarke
 gtfs2emis,ipea
 gtfs2gps,ipea
 gtfsio,r-transit
+gtfsrealtime,mattwigway
 gtfsrouter,urbananalyst
 gtfstools,ipea
 gtheoryr,ujjwaltyagii
@@ -12590,6 +12594,7 @@ LogConcDEAD,ychen101
 logconcens,cran
 logcondens,numbersman77
 logcondiscr,numbersman77
+logcumulant,raydonal
 logger,daroczig
 logging,wlogsolutions
 loggit,ryapric
@@ -13372,6 +13377,7 @@ mdmb,alexanderrobitzsch
 MDMR,dmcartor
 MDOLS,cran
 mdp,bioc
+MDP2,relund
 mdpeer,martakarass
 MDPIexploreR,pgomba
 MDPtoolbox,gchapron
@@ -13574,7 +13580,7 @@ metalcor,ochoalab
 metaLik,crisvarin
 metalite,merck
 metalite.ae,merck
-metalite.sl,wangben718
+metalite.sl,merck
 metalite.table1,elong0527
 metaLong,causalfragility-lab
 MetAlyzer,lu-group-ukhd
@@ -15047,6 +15053,7 @@ MWright,cran
 mwshiny,delosh653
 mwTensor,rikenbit
 mx.api,cornball-ai
+mx.crypto,cornball-ai
 mxcc,kzst
 mxfda,julia-wrobel
 mxkssd,doer0
@@ -15450,6 +15457,7 @@ nixtlar,nixtla
 NlcOptim,cran
 nlcv,lcougnaud
 nleqslv,bertcarnell
+nlfh,paparker
 nlgeocoder,urosconf
 nlgm,cran
 NlinTS,hmamouche
@@ -18228,6 +18236,7 @@ pullword,hetong007
 PulmoDataSets,lightbluetitan
 puls,vinhtantran
 pulsar,zdk123
+pulso,stebandido77
 puma,bioc
 pumBayes,skylarshihub
 pumilioR,ljvillanueva
@@ -21470,6 +21479,7 @@ scGraphVerse,bioc
 scgwr,dmuraka
 SChangeBlock,sgoerz
 sched,pkrog
+schemate,hongyuanjia
 schematic,whipson
 schemr,stuart-morrison
 schex,bioc
@@ -21496,6 +21506,7 @@ scientific,oobianom
 scientoText,ashrafsau
 scifer,bioc
 scifigure,prpatil
+scilintr,arjunrajlab
 scimetr,rubenfcasal
 scimo,abichat
 SCINA,jcao89757
@@ -22691,6 +22702,7 @@ SMNCensReg,cran
 SMNlmec,kelinzhong
 smof,cran
 smoke,quinsun
+SmokingHistoryGenerator,nci-cisnet
 smoof,jakobbossek
 smooth,config-i1
 smoothbp,abindoff
@@ -23169,6 +23181,7 @@ SPEDInstabR,cran
 spEDM,stscl
 speech,nicolas-schmidt
 speechbr,dcardosos
+speechmatics,thisisnic
 speedglm,cran
 speedyBBT,rowlandseymour
 speedycode,jacobwharris
