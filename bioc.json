@@ -6783,6 +6783,12 @@
     "registry": "bioc"
   },
   {
+    "package": "KEGGemUP",
+    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
+    "url": "https://github.com/imbeimainz/keggemup",
+    "registry": "bioc"
+  },
+  {
     "package": "KEGGgraph",
     "maintainer": "Jitao David Zhang <jitao_david.zhang@roche.com>",
     "url": "https://git.bioconductor.org/packages/KEGGgraph",
@@ -6881,7 +6887,7 @@
   {
     "package": "leapR",
     "maintainer": "Sara Gosline <sara.gosline@pnnl.gov>",
-    "url": "https://git.bioconductor.org/packages/leapR",
+    "url": "https://github.com/pnnl/leapr",
     "registry": "bioc"
   },
   {

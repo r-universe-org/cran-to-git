@@ -1059,7 +1059,6 @@ augere.de,bioc
 augere.gsea,bioc
 augere.screen,bioc
 augere.solo,bioc
-augmentedRCBD,aravind-j
 augSIMEX,cran
 auk,ropensci
 AUKtest,cran
@@ -4558,7 +4557,6 @@ cryptotrackr,cran
 cryptoverse,viv-analytics
 cryptowatchR,lorenzbr
 CryptRndTest,haydarde
-cryst,claudiopozo
 crystract,prabhulab
 csa,imarkonis
 csalert,raubreywhite
@@ -5473,7 +5471,6 @@ diffee,blw921
 diffEnrich,sabalab
 diffeqr,sciml
 diffeR,amsantac
-diffeRenTES,cran
 DifferentialRegulation,bioc
 diffGeneAnalysis,bioc
 diffHic,bioc
@@ -5831,7 +5828,6 @@ doSNOW,beccadaniel
 DOSPortfolio,statistics-in-portfolio-theory
 dosresmeta,alecri
 dostats,halpo
-DOT,haghish
 dotCall64,cran
 dotenv,gaborcsardi
 dotgen,xiaoran831213
@@ -7897,7 +7893,6 @@ fluidsynth,ropensci
 fluorojip,cran
 fluoSurv,jferdy
 fluspect,ahornero
-flux,cran
 fluxfinder,compass-doe
 fluxfixer,yhata86
 fluxible,plant-functional-trait-course
@@ -8243,7 +8238,6 @@ funchir,michaelchirico
 FunChisq,joemsong
 funcMapper,antoniof1704
 funcml,ielbadisy
-FuncNN,b-thi
 FunctanSNP,cran
 functional,klutometis
 FunctionalCalibration,vitorribasp
@@ -11746,6 +11740,7 @@ kdry,kapsner
 kebabs,bioc
 kedd,iagogv3
 keep,pjumppanen
+KEGGemUP,bioc
 KEGGgraph,bioc
 KEGGlincs,bioc
 keggorthology,bioc
@@ -13454,7 +13449,6 @@ MEFM,zerokgkg1368
 megadepth,bioc
 megatrees,daijiang
 MEGB,cran
-MEGENA,songw01
 meifly,hadley
 MEIGOR,bioc
 mekko,ryninho
@@ -17869,7 +17863,6 @@ prettydoc,yixuan
 prettyGraphs,derekbeaton
 prettymapr,paleolimbot
 prettyPanelMatch,jacqpark
-prettyR,jimlemon
 prettyunits,r-lib
 prevalence,brechtdv
 prevederer,wkdavis
@@ -19699,7 +19692,6 @@ ReproStat,ntigideon
 REPS,vivekag7
 repsd,anthonyraborn
 repsim,kisungyou
-REPTILE,yupenghe
 reptiledb.data,paulesantos
 repurrrsive,jennybc
 RepViz,bioc
@@ -24750,7 +24742,7 @@ tidyHeatmap,stemangiola
 tidyheatmaps,jbengler
 tidyhte,ddimmery
 tidyhydat,ropensci
-tidyILD,cran
+tidyILD,alitovchenko
 tidyjson,colearendt
 tidyklips,cheongchoi
 tidylaslog,omodolor
@@ -26151,7 +26143,7 @@ vntrs,loelschlaeger
 vocaldia,cran
 voi,chjackson
 voice,filipezabala
-voiceR,voiceanalyticshub
+voiceR,cran
 voigt,cran
 vol2birdR,adokter
 volatilityTrader,maheshpkumar
