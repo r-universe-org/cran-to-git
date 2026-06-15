@@ -125,6 +125,11 @@
     "url": "https://github.com/eddelbuettel/rapiserialize"
   },
   {
+    "package": "rbenchmark",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rbenchmark"
+  },
+  {
     "package": "RcppAnnoy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppannoy"

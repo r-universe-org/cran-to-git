@@ -9598,6 +9598,12 @@
     "registry": "bioc"
   },
   {
+    "package": "pgen2gds",
+    "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
+    "url": "https://github.com/zhengxwen/pgen2gds",
+    "registry": "bioc"
+  },
+  {
     "package": "pgxRpi",
     "maintainer": "Hangjia Zhao <hangjia.zhao@uzh.ch>",
     "url": "https://github.com/progenetix/pgxrpi",

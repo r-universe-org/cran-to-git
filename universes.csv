@@ -326,7 +326,7 @@ AFheritability,cran
 afmpar,philaris
 afmToolkit,cran
 afpt,marcoklh
-AFR,cran
+AFR,ardfm
 africamonitor,sebkrantz
 aftables,best-practice-and-impact
 aftgee,stc04003
@@ -12545,7 +12545,6 @@ lobbyR,chriscioffi
 LoBrA,ac-hauschild
 LOBSTAHS,bioc
 lobsteR,voigtstefan
-LobsterCatch,pnickchi
 lobstr,r-lib
 localboot,zzz1990771
 LocalControl,ohdsi
@@ -17007,6 +17006,7 @@ pgca,bioc
 pgdraw,cran
 PGEE,cran
 pgee.mixed,kaos42
+pgen2gds,bioc
 pgenlibr,chrchang
 pgirmess,pgiraudoux
 pgKDEsphere,maria-alonsopena
@@ -18269,7 +18269,7 @@ pvclass,cran
 pvclust,r-suzuki
 pvcurveanalysis,annaraesch
 pvda,fusarolimichele
-pvEBayes,yihaotancn
+pvEBayes,ropensci
 Pviz,bioc
 pvldcurve,annaraesch
 pvLRT,c7rishi
@@ -18981,7 +18981,7 @@ Rbeast,zhaokg
 Rbec,bioc
 RBedMethyl,bioc
 rbedrock,reedacartwright
-rbenchmark,cran
+rbenchmark,eddelbuettel
 Rbent,fpzhang2015
 RBesT,novartis
 rBeta2009,aks43725
@@ -26143,7 +26143,7 @@ vntrs,loelschlaeger
 vocaldia,cran
 voi,chjackson
 voice,filipezabala
-voiceR,cran
+voiceR,voiceanalyticshub
 voigt,cran
 vol2birdR,adokter
 volatilityTrader,maheshpkumar
