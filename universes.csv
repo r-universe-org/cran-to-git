@@ -1537,6 +1537,7 @@ bayprior,ndohpenngit
 baySeq,bioc
 baystability,myaseen208
 BAYSTAR,edmhlin
+baytaAAR,isaakiel
 baytrends,tetratech
 BB,rvaradhan
 BBCAnalyzer,bioc
@@ -2817,6 +2818,7 @@ causalDisco,disco-coders
 causaldrf,cran
 causalDT,tiffanymtang
 causaleffect,santikka
+causalfrag,causalfragility-lab
 CausalGAM,cran
 CausalGPS,nsaph-software
 causalHyperGraph,mathiasambuehl
@@ -2919,6 +2921,7 @@ cd,cleanzr
 cdata,winvector
 CDatanet,ahoundetoungan
 cdcanthro,cdc-dnpao
+cdCAT,thiagofmiranda
 cdcatR,miguel-sorrel
 CDCPLACES,brendensm
 cdcsis,wencanhong
@@ -12199,6 +12202,7 @@ leafpop,r-spatial
 leafSTAR,aguslespi
 leafsync,r-spatial
 leaftime,timelyportfolio
+leafwax,bradleylab
 leakr,cherylisabella
 leakyIV,dswatson
 leapgp,knrumsey-lanl
@@ -12435,6 +12439,7 @@ lira,cran
 lisa,tylerlittlefield
 lisaClust,bioc
 lisat,cran
+lisp,klutometis
 lisrelToR,cran
 list,sensitivequestions
 listArray,sigbertklinke
@@ -12763,6 +12768,7 @@ lsr,djnavarro
 lsReg,jimb3
 LSRS,mehdisarparast
 lss2,asatwani2
+lssdoc,amaltawfik
 LST,bappa10085
 LSTbook,dtkaplan
 LSTMfactors,haijiangq
@@ -13567,6 +13573,7 @@ metaHelper,robertemprechtinger
 metaheuristicOpt,lala-s-riza
 MetaHunt,wshi18
 metainc,cran
+metainsight,ajsajs22
 MetaIntegration,umich-biostatistics
 MetaLandSim,fmestre1
 metalcor,ochoalab
@@ -14493,6 +14500,7 @@ mountainplot,kwstat
 MouseFM,bioc
 mousetRajectory,mc-schaaf
 mousetrap,pascalkieslich
+MOutliers,senuyasara
 move,bart1
 move2,bart1
 movecost,gianmarcoalberti
@@ -15503,7 +15511,7 @@ nlts,objornstad
 nLTT,thijsjanzen
 nlWaldTest,olehjktu
 NMA,nomahi
-NMADTA,xxing8jh
+NMADTA,cran
 NMAforest,cran
 nmaINLA,gunhanb
 NMAoutlier,petropouloumaria
@@ -17681,6 +17689,7 @@ POV,paulantondeen
 pow.int,jondebove
 powdist,cran
 PoweR,lafaye
+power.nb,magronah
 power.transform,oncoray
 Power2Stage,detlew
 power4mome,sfcheung
@@ -19352,6 +19361,7 @@ readelan,borstell
 readepi,epiverse-trace
 reader,nicholasjcooper
 readHAC,kaskr
+readimf,charlescoverdale
 readJDX,bryanhanson
 readMDTable,jrdnbradford
 readme2vignette,indenkun
@@ -20021,6 +20031,7 @@ rinat,ropensci
 rineq,kdevkdev
 rinet,jackgle
 ring,mrc-ide
+ringbp,epiforecasts
 ringostat,selesnow
 RInside,eddelbuettel
 RInSp,nicola-zaccarelli
@@ -21785,6 +21796,7 @@ sem,zhenghuanie
 semantic.assets,appsilon
 semantic.dashboard,appsilon
 SemanticDistance,reilly-conceptscognitionlab
+semanticfa,devon7y
 semaphore,cmmr
 Semblance,cran
 semboottools,yangzhen1999
@@ -24705,6 +24717,7 @@ tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
 tidycomm,tidycomm
 TidyConsultant,harrison4192
+tidycorrgram,zhangx60
 tidycountries,denironyx
 tidyCoverage,bioc
 tidyCpp,eddelbuettel
