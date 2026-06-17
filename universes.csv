@@ -1518,6 +1518,7 @@ bayesTFR,hanase
 BayesTools,fbartos
 BayesTree,remcc
 BayesTreePrior,alexiajm
+BayesTSM,thomasklausch2
 BayesTwin,ingaschwabe
 BayesVarSel,comodin19
 bayesvl,sshpa
@@ -2324,6 +2325,7 @@ bpnreg,joliencremers
 bpp,numbersman77
 bpr,laura-dangelo
 BPrinStratTTE,boehringer-ingelheim
+bptips,cran
 bpvars,bsvars
 bqror,prajual
 bqtl,cran
@@ -2952,6 +2954,7 @@ CDSim,ikemillar
 CDSS,chockemeyer
 CDVI,vishnumrstat
 CDVineCopulaConditional,cran
+CEACT,ielbadisy
 ceas,jamespeapen
 ceblR,awosoga
 CEC,swarm-lab
@@ -3330,6 +3333,7 @@ circuitscaper,matthewkling
 circular,cran
 CircularBoxplots,jdberlinski
 CircularDDM,yxlin
+circularEV,cran
 circularKDE,stazam
 CircularRegression,aureliennicosiaulaval
 CircularSilhouette,joemsong
@@ -3344,6 +3348,7 @@ citation,pik-piam
 citationchaser,cran
 citecorp,ropensci
 CiteFuse,bioc
+CiteSource,eshackathon
 citestR,midasverse
 cities,hakeemwahab
 CITMIC,hanjunwei-lab
@@ -6063,6 +6068,7 @@ dtrSurv,sth1402
 DTS,sabasina22
 DTSEA,hanjunwei-lab
 DTSg,gisler
+dtsmartr,wagh-nikhil
 dtt,luqqe
 dttr2,poissonconsulting
 dtts,eddelbuettel
@@ -6199,6 +6205,7 @@ EasyDescribe,nie-xiuquan
 easyEWAS,ytwangzero
 easylabel,myles-lewis
 easylift,bioc
+easyLSEA,davidgo464
 EasyMx,mhunter1
 easyNCDF,cran
 easynem,whkygl
@@ -8029,6 +8036,7 @@ formatR,yihui
 formattable,renkun-ken
 formatters,insightsengineering
 formods,john-harrold
+formr,rubenarslan
 FormShare,qlands
 Formula,zeileis
 formula.tools,decisionpatterns
@@ -8642,6 +8650,7 @@ GeneralizedUmatrixGPU,quirinms
 GeneralizedWendland,thomas-caspar-fischer
 GeneralOaxaca,aureliennicosia
 generalRSS,shahn63
+GenerateIndexPedigree,katelynqueen98
 generator,paulhendricks
 geneRecommender,bioc
 GeneRegionScan,bioc
@@ -9024,6 +9033,7 @@ ggmapcn,rimagination
 ggmapinset,cidm-ph
 ggmatplot,xuan-liang
 ggmcmc,xfim
+ggmemo,lindsay-lintelman
 ggmice,amices
 ggmix,sahirbhatnagar
 ggmlR,zabis13
@@ -9272,6 +9282,7 @@ glasso,cran
 glassoFast,jclavel
 glasstabs,prigasg
 glba,ingmarvisser
+GLBFP,aureliennicosiaulaval
 glca,kim0sun
 glcm,azvoleff
 GLCMTextures,ailich
@@ -10554,6 +10565,7 @@ hydra,mkellerressel
 hydraulics,edm44
 hydReng,niccologalatioto
 HYDROCAL,cran
+hydrocan,hakaiinstitute
 HydroCode,cran
 hydroDCindex,alobondo
 hydrodownloadR,bafg-bund
@@ -10802,6 +10814,7 @@ ie2miscdata,iembry
 ieeeround,jandom-devel
 ieegio,dipterix
 iemisctext,iembry
+ierd,sudiptapal0709
 IETD,lfduquey
 ieTest,jkidd20
 ieugwasr,mrcieu
@@ -12478,6 +12491,7 @@ llmcoder,shiyangzheng
 llmflow,zaoqu-liu
 llmhelper,zaoqu-liu
 LLMing,sliplr19
+llmjoin,evanliu3594
 llmjson,dyfanjones
 LLMR,asanaei
 llmshieldr,ineelhere
@@ -15419,6 +15433,7 @@ niarules,firefly-cpp
 nic,thiyangt
 nice,cran
 NicheBarcoding,yangcq-ivy
+nicheR,castanedam
 nicheROVER,mlysy
 nichetools,benjaminhlina
 nichevol,marlonecobos
@@ -20868,6 +20883,7 @@ rsparkling,jakubhava
 rsparse,dselivanov
 Rspc,merck
 rSPDE,davidbolin
+rspdlite,eddelbuettel
 RSpectra,yixuan
 rSpectral,cmclean5
 RSpincalc,cran

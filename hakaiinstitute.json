@@ -4,5 +4,10 @@
     "maintainer": "Sam Albers <sam.albers@hakai.org>",
     "url": "https://github.com/hakaiinstitute/hakai-api-client-r",
     "subdir": "hakaiApi"
+  },
+  {
+    "package": "hydrocan",
+    "maintainer": "Sam Albers <sam.albers@hakai.org>",
+    "url": "https://github.com/hakaiinstitute/hydrocan"
   }
 ]

@@ -305,6 +305,11 @@
     "url": "https://github.com/eddelbuettel/rquantlib"
   },
   {
+    "package": "rspdlite",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rspdlite"
+  },
+  {
     "package": "sanitizers",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/sanitizers"
