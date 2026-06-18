@@ -145,6 +145,11 @@
     "url": "https://github.com/ohdsi/selfcontrolledcaseseries"
   },
   {
+    "package": "SelfControlledCohort",
+    "maintainer": "Jamie Gilbert <gilbert@ohdsi.org>",
+    "url": "https://github.com/ohdsi/selfcontrolledcohort"
+  },
+  {
     "package": "SqlRender",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/sqlrender"

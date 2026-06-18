@@ -1490,6 +1490,7 @@ BayesPPD,angieshen6
 BayesPPDSurv,cran
 BayesPPR,gqcollins
 BayesProject,ghahn-hsph
+bayesqm,rdazadda
 bayesQR,ugent-cvamo
 bayesQRsurvey,torodriguezt
 bayesRecon,idsia
@@ -3360,6 +3361,7 @@ ciu,cran
 ciuupi,pvkabaila
 ciuupi2,pvkabaila
 civ,thomaswiemann
+civic.icarm,olawaleawe
 civis,civisanalytics
 ciw,eddelbuettel
 CJAMP,skonigor
@@ -7633,6 +7635,7 @@ figir,philaris
 figma,pedropark99
 figpatch,bradyajohnston
 file2meco,chiliubio
+fileaccess,cran
 filearray,dipterix
 filebin,datawookie
 filecacher,orgadish
@@ -8465,6 +8468,7 @@ gaussquad,cran
 gaussratiovegind,cran
 GaussSuppression,statisticsnorway
 gawdis,pavel-fibich
+gazepath,ingmarvisser
 GB2,cran
 GB2group,jordavuc
 GB5mcPred,diprosinha
@@ -9073,6 +9077,7 @@ ggplot2movies,hadley
 ggplotAssist,cardiomoon
 ggplotgui,gertstulp
 ggplotify,guangchuangyu
+ggplotplus,maisrc
 ggpmisc,aphalo
 ggPMX,ggpmxdevelopment
 ggpointdensity,lkremer
@@ -9269,6 +9274,7 @@ GK2011,leeper
 gkgraphR,racorreia
 gkmSVM,mbeer3
 gKRLS,mgoplerud
+gkrreg,marcelorpf
 gkwdist,evandeilton
 gkwreg,evandeilton
 GLAD,bioc
@@ -10170,6 +10176,7 @@ hellno,petermeissner
 hellodatascience,hellodata-science
 HelloFrog,linoyljf
 helloJavaWorld,tverbeke
+hellokitty,abigailkeller
 HelloRanges,bioc
 hellorust,r-rust
 helminthR,ropensci
@@ -11331,7 +11338,7 @@ iRoCoDe,mah-iasri
 IRon,nunompmoniz
 ironseed,reedacartwright
 irpfR,luabragadeoliveira
-irr,cran
+irr,matthiasgamer
 IRR2FPR,fbartos
 irrCAC,cran
 IrregLong,epullenayegum
@@ -14047,6 +14054,7 @@ mixdist,cran
 mixedBayes,kunfa
 mixedbiastest,akarl46556
 mixedCCA,irinagain
+mixedClust,jujacques
 mixedfact,sukantaiasri
 mixediffusion,abraham1011
 MixedIndTests,bouchranasri
@@ -14075,7 +14083,7 @@ mixopt,collinerickson
 MixOptim,cran
 mixPHM,pmair78
 mixpoissonreg,alexandrebsimas
-mixpower,cran
+mixpower,alitovchenko
 mixR,garybaylor
 mixRaschTools,pamelapsc
 MixRF,randel
@@ -14448,6 +14456,7 @@ moonboot,cdalitz
 Moonlight2R,bioc
 MoonlightR,bioc
 moonlit,msmielak
+MoonShineR,lokpoon
 mooplot,multi-objective
 moose,carohlfs
 mop,marlonecobos
@@ -15178,6 +15187,7 @@ NBDCtools,dairc-service
 NBDdirichlet,feimingchen
 NBDesign,marvels2031
 nberwp,bldavies
+NBKP,cran
 NBLDA,dncr
 nblR,jaseziv
 nbody,obreschkow
@@ -15491,6 +15501,7 @@ nlmixr2extra,nlmixr2
 nlmixr2lib,nlmixr2
 nlmixr2plot,nlmixr2
 nlmixr2rpt,nlmixr2
+nlmixr2save,mattfidler
 nlmixr2targets,nlmixr2
 nlmm,marco-geraci
 NLMR,ropensci
@@ -15826,7 +15837,6 @@ nVennR2,vqf
 nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
-nycOpenData,martinezc1
 nysOpenData,martinezc1
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
@@ -15895,6 +15905,7 @@ octopucs,roger0268
 octopus,mcodrescu
 octopusR,moohan
 od,itsleeds
+oda,njrhodes
 ODataQuery,cran
 odbc,r-dbi
 odbc.resourcer,obiba
@@ -16032,6 +16043,7 @@ OncoScore,bioc
 OncoSimulR,bioc
 OncoSubtype,dadongz
 Oncotree,anikoszabo
+ondisc,timothy-barry
 One4All,moore-institute-4-plastic-pollution-res
 OneArm2stage,cran
 OneArmTTE,cran
@@ -17300,6 +17312,7 @@ pkgnet,uptake
 pkgnews,owenjonesuob
 pkgreviewr,ropensci
 pkgsearch,r-hub
+pkgsite,edgararuiz
 pkgstats,ropensci
 pkgverse,mkearney
 PKI,s-u
@@ -20553,7 +20566,6 @@ rollup,juyoungahn
 rollupTree,jsjuni
 roloc,pmur002
 rolocISCCNBS,pmur002
-rolog,mgondan
 ROlogit,nyilin
 rolr,quping16
 RolWinMulCor,jomopo
@@ -21806,6 +21818,7 @@ selenium,ashbythorpe
 SELEX,bioc
 SELF,cran
 SelfControlledCaseSeries,ohdsi
+SelfControlledCohort,ohdsi
 selfingTree,cran
 seliNDRIx,venkatesanraja
 sem,zhenghuanie
@@ -23356,6 +23369,7 @@ SpPOP,cran
 SppTrend,cran
 spqdep,f8l5h9
 spqn,bioc
+spqrp,fhradilak
 spray,robinhankin
 spreadr,csqsiew
 SPREDA,yili-hong
@@ -24462,6 +24476,7 @@ teamcolors,beanumber
 tectonicr,tobiste
 teda,cran
 tEDM,stscl
+teems,teemsphere
 tehtuner,jackmwolf
 teigen,its-likeli-jeff
 Tejapi,tejapi
@@ -24915,6 +24930,7 @@ tinydng,tylermorganwall
 tinyimg,yihui
 tinylabels,mariusbarth
 tinylens,arbelt
+tinyoauth,cornball-ai
 tinypkgr,cornball-ai
 tinyplot,grantmcdermott
 tinyrox,cornball-ai
