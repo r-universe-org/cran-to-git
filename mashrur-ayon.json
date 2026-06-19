@@ -3,5 +3,11 @@
     "package": "genderstat",
     "maintainer": "S M Mashrur Arafin Ayon <mashrur399@gmail.com>",
     "url": "https://github.com/cran/genderstat"
+  },
+  {
+    "package": "gendertext",
+    "maintainer": "S M Mashrur Arafin Ayon <mashrur399@gmail.com>",
+    "url": "https://github.com/mashrur-ayon/gendertext",
+    "subdir": "gendertext"
   }
 ]

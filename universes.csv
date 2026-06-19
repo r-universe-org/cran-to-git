@@ -80,6 +80,7 @@ AccSamplingDesign,vietha
 accSDA,gumeo
 accucor,xiaoyangsu
 accumulate,markvanderloo
+accuracylevel,madsyair
 acdcquery,slesche
 acdcR,ysd2004
 acde,bioc
@@ -122,6 +123,7 @@ ActCR,junruidi
 actel,hugomflavio
 ActFrag,junruidi
 actfts,sergiofinances
+actibase,jhuwit
 actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
 ActiSleep,n-szeto
@@ -2606,6 +2608,7 @@ CAGR,cran
 cAIC4,druegamer
 CAinterprTools,gianmarcoalberti
 Cairo,s-u
+cairovolt,abdullahcairovolt-rgb
 CAISEr,fcampelo
 calACS,agu-1
 CALANGO,fcampelo
@@ -3447,6 +3450,7 @@ climate,bczernecki
 climatehealth,cran
 climatekit,charlescoverdale
 climateStability,hannahlowens
+climatestatsr,cran
 climatol,jaggh
 climatrends,agrdatasci
 ClimClass,zottelef
@@ -4432,6 +4436,7 @@ cqrReg,cran
 cquad,fravale
 CR2,flh3
 CRABS,afmagee
+craftgrn,oncologylab
 cragg,beniaminogreen
 cramer,cmfranz
 cramR,yanisvdc
@@ -6409,6 +6414,7 @@ eDNAjoint,ropensci
 EDNE.EQ,cran
 EDOIF,darkeyes
 EDOtrans,jornlotsch
+edr4r,ksonda
 eds,bioc
 edstan,danielcfurr
 EdSurvey,american-institutes-for-research
@@ -7229,6 +7235,7 @@ fabisearch,mondrus96
 fable,tidyverts
 fable.ata,alsabtay
 fable.bayesRecon,dazzimonti
+fable.intermittent,stefanodamato
 fable.prophet,mitchelloharawild
 fableCount,cran
 fabletools,tidyverts
@@ -7689,7 +7696,7 @@ fingertipsR,ropensci
 finiteruinprob,baumgrt
 finity,x0range
 finlabR,suyashjindal
-finna,ake123
+finna,fennicahub
 FinNet,fatelarico
 finnishgrid,virmar
 finnsurveytext,dariah-fi-survey-concept-network
@@ -8407,6 +8414,7 @@ gamlssbssn,cran
 gamlssx,paulnorthrop
 gamm4,cran
 gamma,crp2a
+GammaFrailty,shikhartyagi
 gammaFuncModel,patrickmorgenstern
 Gammareg,cran
 gammi,cran
@@ -8617,6 +8625,7 @@ genderBR,meirelesff
 gendercoder,ropensci
 GenderInfer,cran
 genderstat,mashrur-ayon
+gendertext,mashrur-ayon
 gendist,cran
 GENEAclassify,ai-jyc
 GENEAcore,ai-jyc
@@ -9153,7 +9162,6 @@ ggsurvey,balexanderstats
 ggsurvfit,pharmaverse
 ggswissmaps,gibonet
 ggtangle,guangchuangyu
-ggtaxplot,cran
 ggtea,ambitiousbellydancingsquirrel
 ggtern,nicholasehamilton
 ggtext,wilkelab
@@ -9430,6 +9438,7 @@ GMRP,bioc
 gms,pik-piam
 GMSE,confoobio
 GMSimpute,qianli10000
+gmsp,averrik
 gmt,arni-magnusson
 gmtFD,ls-git-17
 gmvarkit,saviviro
@@ -11377,6 +11386,7 @@ iSEEde,bioc
 iSEEfier,bioc
 iSEEhex,bioc
 iSEEhub,bioc
+iSEEid,bioc
 iSEEindex,bioc
 iSEEpathways,bioc
 iSEEtree,bioc
@@ -13446,6 +13456,7 @@ MEDesigns,ashutoshdalal97
 medExtractR,cran
 medfate,emf-creaf
 medfateland,emf-creaf
+medfit,data-wise
 medflex,jmpsteen
 mediacloudr,jandix
 MediaK,robertren
@@ -15229,6 +15240,7 @@ ndi,idblr
 ndjson,hrbrmstr
 ndl,dernarr
 NDP,kartikeyabolar
+NDPalette,yelleknek
 ndtv,statnet
 nearfar,joerigdon
 neat,m-signo
@@ -15617,6 +15629,7 @@ nomisr,ropensci
 nomnoml,rstudio
 nomogramEx,marsdu1989
 nomogramFormula,yikeshu0611
+nonabsdid,takuma1102
 NonCompart,cran
 noncompliance,cran
 noncomplyR,sscogges
@@ -15837,6 +15850,7 @@ nVennR2,vqf
 nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
+nycOpenData,martinezc1
 nysOpenData,martinezc1
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
@@ -18069,6 +18083,7 @@ PROPS,bioc
 PropScrRand,tloux
 proPubBills,nadinesk
 ProPublicaR,dietrichson
+proratar,cran
 PROreg,najerazuloaga
 PROscorer,raybaser
 PROscorerTools,mskcc-epi-bio
@@ -18881,6 +18896,7 @@ rankCorr,shengxintu
 rankdifferencetest,bklamer
 rankdist,cran
 rankFD,cran
+RankGWASK,cran
 rankhazard,nannikoski
 rankICC,shengxintu
 RankingProject,civilstat
@@ -20566,6 +20582,7 @@ rollup,juyoungahn
 rollupTree,jsjuni
 roloc,pmur002
 rolocISCCNBS,pmur002
+rolog,mgondan
 ROlogit,nyilin
 rolr,quping16
 RolWinMulCor,jomopo
@@ -21681,6 +21698,7 @@ SDAMS,bioc
 SDAR,cran
 SDAResources,cran
 sdbuildR,kcevers
+sdc.redistribute,dads2busy
 sdcHierarchies,bernhard-da
 sdcLog,matthiasgomolka
 sdcMicro,sdctools
@@ -24127,6 +24145,7 @@ svines,tnagler
 svKomodo,sciviews
 SVMD,himadriiasri
 SVMDO,bioc
+svmf,cran
 svMisc,sciviews
 SVMMaj,hoksanyip
 svmpath,trevorhastie
@@ -25213,6 +25232,7 @@ transGFM,zjwangatsu
 TransHDM,gaohuer
 transite,bioc
 Transition,mark-eis
+transitiontrees,mohsaqr
 translate.logit,nicolas-robette
 tRanslatome,bioc
 translit.uk,amice13
@@ -25609,7 +25629,6 @@ tximport,bioc
 txshift,nhejazi
 txtplot,bbnkmp
 txtq,wlandau
-tynding,y-sunflower
 typed,moodymudskipper
 typehint,jsugarelli
 typeR,fgazzelloni
@@ -25833,6 +25852,7 @@ USpopcenters,nikkrieger
 usportsR,uwaggs
 ussherR,datascinet
 UStatBookABSC,ansuchatterjee
+ustats,cxy0714
 ustfd,groditi
 ustyc,mrbcuda
 utc,antojo-segura
@@ -26004,6 +26024,7 @@ veccompare,jglev
 VeccTMVN,jcatwood
 VecDep,stevendekeyser98
 vecmatch,polymerase3
+vecrep,mitchelloharawild
 vecsets,cran
 vectorbitops,cran
 VectorCodeR,cran
@@ -26529,6 +26550,7 @@ winputall,opkoutchade
 winr,annweideman
 WinRatio,cran
 WINS,cuiyingbeicheng
+WinsCRT,cran
 wintime,cran
 WIPF,cran
 wired,pigian
@@ -26555,6 +26577,7 @@ WMWssp,happma
 wnl,cran
 wNNSel,shahlafaisal
 wnominate,jeffreyblewis
+wnpmle,abellach
 WOAkMedoids,cran
 wodds,alexhallam
 woe,cran

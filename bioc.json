@@ -6621,6 +6621,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iSEEid",
+    "maintainer": "Federico Marini <marinif@uni-mainz.de>",
+    "url": "https://github.com/isee/iseeid",
+    "registry": "bioc"
+  },
+  {
     "package": "iSEEindex",
     "maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "url": "https://github.com/isee/iseeindex",
