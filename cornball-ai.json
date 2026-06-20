@@ -15,6 +15,11 @@
     "url": "https://github.com/cornball-ai/mx.api"
   },
   {
+    "package": "mx.client",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/mx.client"
+  },
+  {
     "package": "mx.crypto",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/mx.crypto"
@@ -28,6 +33,11 @@
     "package": "rformat",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/rformat"
+  },
+  {
+    "package": "rotio",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/rotio"
   },
   {
     "package": "saber",

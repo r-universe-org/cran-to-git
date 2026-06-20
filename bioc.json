@@ -1045,6 +1045,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BenchHub",
+    "maintainer": "SOMS Maintainer <maths.bioconductor@sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/benchhub",
+    "registry": "bioc"
+  },
+  {
     "package": "BERT",
     "maintainer": "Yannis Schumann <yannis.schumann@desy.de>",
     "url": "https://github.com/hsu-hpc/bert",
@@ -2231,6 +2237,12 @@
     "package": "CiteFuse",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/citefuse",
+    "registry": "bioc"
+  },
+  {
+    "package": "CLAMP",
+    "maintainer": "Marc Subirana-Granes <mb2subi@gmail.com>",
+    "url": "https://github.com/chikinalab/clamp",
     "registry": "bioc"
   },
   {
@@ -9907,6 +9919,12 @@
     "package": "posDemux",
     "maintainer": "Jakob Peder Pettersen <jakobpeder.pettersen@gmail.com>",
     "url": "https://github.com/yaccos/posdemux",
+    "registry": "bioc"
+  },
+  {
+    "package": "PostChicago",
+    "maintainer": "Angelika Feldmann <angelika.feldmann@dkfz-heidelberg.de>",
+    "url": "https://github.com/feldmannlabdkfz/postchicago",
     "registry": "bioc"
   },
   {
