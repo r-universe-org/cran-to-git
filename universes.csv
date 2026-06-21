@@ -912,7 +912,6 @@ arrowheadr,wjschne
 ars,cran
 arse,nr3xe
 arsenal,mayoverse
-ART,cran
 arthistory,saralemus7
 artma,petrcala
 artMS,bioc
@@ -2649,6 +2648,7 @@ calpassapi,vinhdizzo
 CalSim,resinj
 camcorder,thebioengineer
 CaMeA,ramhworkshop
+CamelRatiosIndex,jc-ayimah
 CamelUp,mczek
 CAMERA,bioc
 camerondata,juvlac
@@ -4383,6 +4383,7 @@ CoxPlus,jnpeng
 CoxR2,hyeriu
 coxrobust,shanascogin
 coxsei,fchenunswms
+coxstream,tommycarstensen
 CP,andreasstatsr
 cp4p,jacky11
 cpa,cran
@@ -6082,6 +6083,7 @@ DTS,sabasina22
 DTSEA,hanjunwei-lab
 DTSg,gisler
 dtsmartr,wagh-nikhil
+DTSR,guangbaog
 dtt,luqqe
 dttr2,poissonconsulting
 dtts,eddelbuettel
@@ -7505,6 +7507,7 @@ FCVAR,leemorinucf
 FD,elaliberte
 fda,jamesramsay5
 fda.usc,moviedo5
+fda.vi,desouzalab
 fdaACF,gmestrem
 fdacluster,astamm
 fdaconcur,functionaldata
@@ -8333,7 +8336,6 @@ fuzzyforest,daniel-conn17
 FuzzyImputationTest,mroman-ibs
 fuzzyjoin,dgrtwo
 fuzzylink,joeornstein
-FuzzyLP,olbapjose
 FuzzyM,petukhovaalina-tech
 FuzzyNumbers,gagolews
 FuzzyNumbers.Ext.2,cran
@@ -8409,9 +8411,7 @@ gamlss,gamlss-dev
 gamlss.add,gamlss-dev
 gamlss.cens,mstasinopoulos
 gamlss.data,gamlss-dev
-gamlss.demo,cran
 gamlss.dist,gamlss-dev
-gamlss.foreach,cran
 gamlss.inf,cran
 gamlss.lasso,flziel
 gamlss.mx,mstasinopoulos
@@ -9037,6 +9037,7 @@ ggiraphExtra,cardiomoon
 GGIRread,wadpac
 ggisotonic,talegari
 ggkegg,bioc
+ggkodom,subroy13
 gglasso,archer-yang-lab
 gglgbtq,turtletopia
 gglinedensity,hrryt
@@ -9311,6 +9312,7 @@ GLDEX,allegropiano
 GLDreg,allegropiano
 gldrm,cran
 gleam,un-fao
+gleifr,m-muecke
 Glimma,bioc
 glinternet,michael626
 glinvci,hckiang
@@ -12069,7 +12071,6 @@ LAIr,fchianucci
 lakefetch,jeremylfarrell
 LakeMetabolizer,gleon
 lakemorpho,usepa
-laketemps,gleon
 lakhesis,scollinselliott
 LAM,alexanderrobitzsch
 LaMa,janolefi
@@ -12600,7 +12601,6 @@ localIV,xiangzhou09
 localLLM,eddieyang211
 localModel,modeloriented
 localScore,cran
-localsolver,cran
 localsp,ausgis
 locaR,rhedley
 locateip,judith-bourque
@@ -14799,6 +14799,7 @@ mueRelativeRisk,rickeycarter
 MuFiMeshGP,cran
 MUGS,celehs
 muhaz,dwinsemius
+muiDataGrid,lgnbhl
 muiMaterial,lgnbhl
 muir,alforj
 muiTreeView,lgnbhl
@@ -15381,6 +15382,7 @@ NeuralEstimators,msainsburydale
 neuralGAM,inesortega
 neuralnet,bips-hb
 NeuralNetTools,fawda123
+neuralnetwork,trtfj
 NeuralSens,jaipizgon
 neurobase,muschellij2
 neuroblastoma,tdhock
@@ -18588,7 +18590,7 @@ qualvar,joelgombin
 QUALYPSO,guillaumeevin
 QuanDA,cran
 quantbayes,cran
-QuantBondCurves,cran
+QuantBondCurves,camodays1
 quantCurves,nparamestimcurves
 quantdates,quantilma
 quantdr,elianachristou
@@ -19733,6 +19735,7 @@ ReplicationSuccess,crsuzh
 Repliscope,dzmitrygb
 repmis,christophergandrud
 repmod,david-hervas
+repo.data,llrs
 RepoGenerator,jaredlander
 repolr,astroherring
 repometrics,ropensci
@@ -19758,6 +19761,7 @@ reprex,tidyverse
 reproducer,lechmadeyski
 reproducible,predictiveecology
 reproducibleRchunks,brandmaier
+reproducr,repro-stats
 reproj,hypertidy
 reproresearchR,martinezc1
 ReproStat,ntigideon
@@ -21007,7 +21011,6 @@ rTableICC,haydarde
 rtables,insightsengineering
 rtables.officer,insightsengineering
 rtabulator,eoda-dev
-rtape,cran
 Rtauchen,davidzarruk
 RTaxometrics,cran
 RTCA,bioc
@@ -21017,7 +21020,6 @@ rTCRBCRr,cran
 RTD,treasure-data
 RTDE,dutangc
 rtdists,rtdists
-rtematres,cpfaff
 rtemis,rtemis-org
 rtemis.a3,rtemis-org
 rtemis.core,rtemis-org
@@ -21615,6 +21617,7 @@ SCOPE,bioc
 scoper,immcantation
 scopr,rethomics
 SCOPRO,gabrielelubatti
+scopusflow,pablobernabeu
 SCOR,synx21
 score,cran
 scorecard,shichenxie
@@ -22997,6 +23000,7 @@ sp23design,hrpcisd
 spaa,helixcn
 spaAlign,omodolor
 spAbundance,ecoverser
+spacc,gcol33
 SpaCCI,cran
 spacefillr,tylermorganwall
 SpaceMarkers,bioc
@@ -23480,7 +23484,6 @@ sRACIPE,bioc
 SRAdb,bioc
 srcpkgs,kforner
 srcr,baileych
-SRCS,cran
 sRDA,acsala
 sRdpData,fragmentation-project
 sreg,jutrifonov
@@ -24127,6 +24130,7 @@ survRM2,cran
 survRM2adapt,mikihoriguchi
 survRM2perm,mikihoriguchi
 survSAKK,sakk-statistics
+survSampleSize,jianghuai0730
 survSens,rong0707
 survsim,dmorinya
 survSNP,dcibioinformatics
@@ -25573,7 +25577,6 @@ tune,tidymodels
 TunePareto,hkestler
 tuneR,r-forge
 tuneRanger,philipppro
-tuple,statlaw
 turboEM,rvaradhan
 TurboNorm,bioc
 turkeyelections,ozancanozdemir
@@ -26493,7 +26496,6 @@ WeightSVM,zjph602xtc
 weird,robjhyndman
 weirs,wasquith
 weitrix,bioc
-welchADF,cran
 welo,vincenzocandila
 WeMix,american-institutes-for-research
 wesanderson,karthik
