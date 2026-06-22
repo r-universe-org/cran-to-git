@@ -4041,6 +4041,12 @@
     "registry": "bioc"
   },
   {
+    "package": "EMMA",
+    "maintainer": "Najla Abassi <abassi.nejla96@gmail.com>",
+    "url": "https://github.com/imbeimainz/emma",
+    "registry": "bioc"
+  },
+  {
     "package": "EmpiricalBrownsMethod",
     "maintainer": "David Gibbs <dgibbs@systemsbiology.org>",
     "url": "https://git.bioconductor.org/packages/EmpiricalBrownsMethod",
