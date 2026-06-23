@@ -3,5 +3,11 @@
     "package": "DCEM",
     "maintainer": "Sharma Parichit <parishar@iu.edu>",
     "url": "https://github.com/parichit/dcem"
+  },
+  {
+    "package": "geokmeans",
+    "maintainer": "Parichit Sharma <parishar@iu.edu>",
+    "url": "https://github.com/parichit/geometric-k-means",
+    "subdir": "geokmeans"
   }
 ]

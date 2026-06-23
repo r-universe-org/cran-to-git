@@ -10,6 +10,12 @@
     "url": "https://github.com/kharchenkolab/leidenalg"
   },
   {
+    "package": "lstar",
+    "maintainer": "Peter Kharchenko <pk.restricted@gmail.com>",
+    "url": "https://github.com/kharchenkolab/lstar",
+    "subdir": "R"
+  },
+  {
     "package": "N2R",
     "maintainer": "Evan Biederstedt <evan.biederstedt@gmail.com>",
     "url": "https://github.com/kharchenkolab/n2r"
