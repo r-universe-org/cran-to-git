@@ -1418,6 +1418,7 @@ BayesFM,piatek
 BayesfMRI,mandymejia
 bayesforecast,asael697
 BayesForge,cran
+BayesFR,benjamin-rosenbaum
 bayesGARCH,ardiad
 BayesGmed,belayb
 BayesGOF,cran
@@ -1731,7 +1732,7 @@ BeyondBenford,cran
 beyondWhittle,cran
 bezier,aaronolsen
 bfast,bfast2
-bfbin2arm,cran
+bfbin2arm,rikokelter
 bfboin,openpharma
 bfboinet,jingzhuzhuzhu
 bfcluster,cran
@@ -2465,6 +2466,7 @@ BSPBSS,benwu233
 bspcov,statjs
 bspec,christianroever
 bspline,mathscell
+BsplineQuantReg,alexandreabbes
 bsplus,ijlyttle
 bspm,cran4linux
 bspmma,cran
@@ -5885,7 +5887,7 @@ dpasurv,mattiminn
 dpcc,bingyuan-zhang
 DPCD,sammorrissette
 dpcid,cran
-DPComb,cran
+DPComb,gonzalocontador
 dPCP,alfodefalco
 dpcR,michbur
 dpdr,mattwarkentin
@@ -8591,6 +8593,7 @@ geeLite,mtkurbucz-ucl
 geeM,lsubioscomputing
 GEEmediate,daniel258
 geepack,hojsgaard
+geer,anestistouloumis
 geesmv,cran
 geess,rtishii
 geessbin,rtishii
@@ -8873,6 +8876,7 @@ GeRnika,cran
 gert,ropensci
 gesca,quantmm
 GESE,cran
+gesel,bioc
 gesisdata,fsolt
 geslaR,eireextremes
 gestalt,egnha
@@ -10944,6 +10948,7 @@ ImCluster,imiqbal
 imcRtools,bioc
 IMD,humaniverse
 imdbapi,cran
+imdR,subhradip25
 iMediate,cran
 imf.data,pedrobtz
 imfapi,teal-insights
@@ -12141,6 +12146,7 @@ latexdiffr,hughjonesd
 latexpdf,bergsmat
 latexSymb,nicoesve
 latrend,niekdt
+LatSquare,heholzner-png
 latte,dkahle
 lattice,deepayan
 latticeDensity,ronbarry
@@ -12521,6 +12527,7 @@ llmclean,sadikulislamiasri-hub
 llmcoder,shiyangzheng
 llmflow,zaoqu-liu
 llmhelper,zaoqu-liu
+llmimpute,sadikulislamiasri-hub
 LLMing,sliplr19
 llmjoin,evanliu3594
 llmjson,dyfanjones
@@ -14031,7 +14038,7 @@ missalpha,cran
 missCforest,ielbadisy
 missCompare,tirgit
 MissCP,cran
-missDeaths,cran
+missDeaths,tstupnik
 missDiag,sumtxt
 missForest,stekhoven
 missForestPredict,sibipx
@@ -14737,6 +14744,7 @@ msos,coatless-rpkg
 MSoutcomes,cran
 msPCA,jeanpauphilet
 mspms,bioc
+msprog,noemimontobbio
 MSPRT,sandy-pramanik
 msPurity,bioc
 msqrob2,bioc
@@ -20738,6 +20746,7 @@ RPEXE.RPEXT,hangangtrue
 rpf,jpritikin
 rpgconn,r-data-science
 RPhosFate,gisler
+rphylo,007v
 Rphylopars,ericgoolsby
 rphylopic,palaeoverse
 rpinterest,colinfay
@@ -21673,7 +21682,7 @@ SCpubr,enblacar
 scqe,kirstenlandsiedel
 scQTLtools,bioc
 scquantum,alex-l-m
-scR,cran
+scR,pjesscarter
 scraEP,jboelaert
 scran,bioc
 scrapeR,mdubeau20
@@ -23874,6 +23883,7 @@ StratifiedMedicine,thomasjemielita
 StratifiedRF,david-cortes
 StratifiedSampling,rjauslin
 stratifiedyh,duanyh16
+stratifyR,cran
 StratigrapheR,sewouter
 StratPal,mindthegap-erc
 StratSel,lleemann

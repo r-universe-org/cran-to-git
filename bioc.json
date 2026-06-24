@@ -5307,6 +5307,12 @@
     "registry": "bioc"
   },
   {
+    "package": "gesel",
+    "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
+    "url": "https://github.com/gesel-inc/gesel-r",
+    "registry": "bioc"
+  },
+  {
     "package": "getDEE2",
     "maintainer": "Mark 0000-0002-7688-6974 Ziemann <mark.ziemann@gmail.com>",
     "url": "https://github.com/markziemann/getdee2",
