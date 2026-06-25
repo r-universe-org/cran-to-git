@@ -1,5 +1,10 @@
 [
   {
+    "package": "countryatlas",
+    "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
+    "url": "https://github.com/pursuitofdatascience/countryatlas"
+  },
+  {
     "package": "ggchangepoint",
     "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
     "url": "https://github.com/pursuitofdatascience/ggchangepoint"
@@ -8,6 +13,11 @@
     "package": "ggDoubleHeat",
     "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
     "url": "https://github.com/pursuitofdatascience/ggdoubleheat"
+  },
+  {
+    "package": "ggtaichi",
+    "maintainer": "Youzhi Yu <yuyouzhi666@icloud.com>",
+    "url": "https://github.com/pursuitofdatascience/ggtaichi"
   },
   {
     "package": "tidyEmoji",
