@@ -3583,6 +3583,7 @@ clustermq,mschubert
 clusternomics,evelinag
 clusterProfiler,bioc
 ClusterR,mlampros
+ClusterRandSSAdj,begglest
 ClusterRankTest,cran
 clusterRepro,tibshirani
 clusterSeq,bioc
@@ -4143,7 +4144,7 @@ conumee,bioc
 convdistr,johnaponte
 ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
-convergenceDFM,cran
+convergenceDFM,isadorenabi
 convergEU,federico-m-stefanini
 ConversationAlign,reilly-conceptscognitionlab
 conversim,chaoliu-cl
@@ -5308,6 +5309,7 @@ deprivateR,pfizer-opensource
 deps,analythium
 depth.plot,cran
 DepthProc,zzawadz
+depthR,penny4nonsense
 depthTools,aurora-torrente
 DEqMS,bioc
 DER,cran
@@ -5502,6 +5504,7 @@ diffcp,bnaras
 diffcyt,bioc
 diffdf,gowerc
 diffdfs,riazarbi
+diffdriver,szhaolab
 diffee,blw921
 diffEnrich,sabalab
 diffeqr,sciml
@@ -6141,6 +6144,7 @@ DWDLargeR,xylam
 dwdradar,brry
 dwlm,hugogasca
 DWLS,sistia01
+dwmmlRidge,filizkrdg
 dwp,ddalthorp
 DWreg,cran
 DyadiCarma,slangevar
@@ -6487,6 +6491,7 @@ EFSATools,openefsa
 ega,cran
 EGAD,bioc
 EGAnet,hfgolino
+egfr,mhovd
 egg,baptiste
 eggCounts,cran
 eglhmm,rolfturner
@@ -8794,7 +8799,6 @@ GeoDiff,bioc
 geodimension,josesamos
 geodist,hypertidy
 geodiv,bioxgeo
-geodl,maxwell-geospatial
 geodrawr,curycu
 GeodRegr,hayoungshin1
 geoelectrics,kleebaum
@@ -14590,6 +14594,7 @@ mp,fatore
 MPAC,bioc
 mpactr,mums2
 mpae,rubenfcasal
+mpaR,resendeph
 mpath,zhuwang46
 mpathr,m-path-io
 mpathsenser,koenniem
@@ -15465,7 +15470,6 @@ nflseedR,nflverse
 NFLSimulatoR,rtelmore
 nflverse,nflverse
 nftbart,rsparapa
-nFunNN,cran
 NFWdist,asgr
 ngboostForecast,akai01
 NGBVS,alenazia
@@ -15899,7 +15903,7 @@ nVennR2,vqf
 nvmix,mariushofert
 nycflights13,tidyverse
 nycflights23,moderndive
-nycOpenData,martinezc1
+nycOpenData,ropensci
 nysOpenData,martinezc1
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
@@ -19964,7 +19968,6 @@ rfPred,bioc
 Rfractran,cran
 rfriend,delde001
 rFSA,joshuawlambert
-Rfssa,haghbinh
 Rfuzzycoco,lonza-rnd-data-science
 Rfuzzydid,kmfrick
 rfVarImpOOB,markusloecher
@@ -21578,6 +21581,7 @@ scenfire,rmarcosgit
 SCEnt,hwarden162
 SCEPtER,mattdell71
 SCEPtERbinary,mattdell71
+sceua,atsyplenkov
 scf,jncohen
 SCFA,bioc
 scFeatureFilter,bioc
@@ -22694,6 +22698,7 @@ skmeans,kurthornik
 SKNN,cran
 skpr,tylermorganwall
 skylight,bluegreen-labs
+skymodelr,tylermorganwall
 skynet,ropensci
 skytrackr,bluegreen-labs
 slackr,mrkaye97
@@ -22906,6 +22911,7 @@ SNPassoc,isglobal-brge
 SNPediaR,bioc
 SNPfiltR,cran
 SNPhood,bioc
+SNPkit,viniciusjunqueira
 snplinkage,thomaschln
 snplist,dcibioinformatics
 sNPLS,david-hervas
@@ -24060,7 +24066,7 @@ support.BWS3,cran
 support.CEs,cran
 supportR,njlyon0
 sur,daphnaharel
-sure,koalaverse
+sure,bgreenwell
 sureLDA,celehs
 SuRF.vs,tjk23
 surface,tingram
@@ -24577,7 +24583,6 @@ TELP,cran
 telraamStats,ketsiaguichard
 TempCont,burriach
 tempdisagg,cynkra
-temper,pigian
 temperatureresponse,low-decarie
 templateICAr,mandymejia
 templates,wahani

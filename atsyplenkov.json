@@ -3,5 +3,11 @@
     "package": "centerline",
     "maintainer": "Anatoly Tsyplenkov <atsyplenkov@fastmail.com>",
     "url": "https://github.com/atsyplenkov/centerline"
+  },
+  {
+    "package": "sceua",
+    "maintainer": "Anatoly Tsyplenkov <atsyplenkov@fastmail.com>",
+    "url": "https://github.com/atsyplenkov/sceua",
+    "subdir": "r"
   }
 ]
