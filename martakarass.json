@@ -13,7 +13,8 @@
   {
     "package": "arctools",
     "maintainer": "Marta Karas <marta.karass@gmail.com>",
-    "url": "https://github.com/martakarass/arctools"
+    "url": "https://github.com/martakarass/arctools",
+    "registry": "archived"
   },
   {
     "package": "mdpeer",
@@ -23,6 +24,7 @@
   {
     "package": "runstats",
     "maintainer": "Marta Karas <marta.karass@gmail.com>",
-    "url": "https://github.com/martakarass/runstats"
+    "url": "https://github.com/martakarass/runstats",
+    "registry": "archived"
   }
 ]

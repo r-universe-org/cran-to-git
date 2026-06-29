@@ -2030,6 +2030,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CGRphylo2",
+    "maintainer": "Amarinder Singh Thind <thind.amarinder@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/CGRphylo2",
+    "registry": "bioc"
+  },
+  {
     "package": "ChAMP",
     "maintainer": "Yuan Tian <champ450k@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ChAMP",
@@ -11590,6 +11596,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scBatchQC",
+    "maintainer": "Subhadip Jana <subhadipjana1409@gmail.com>",
+    "url": "https://github.com/subhadipjana1409/scbatchqc",
+    "registry": "bioc"
+  },
+  {
     "package": "scBFA",
     "maintainer": "Ruoxin Li <uskli@ucdavis.edu>",
     "url": "https://git.bioconductor.org/packages/scBFA",
@@ -11695,6 +11707,12 @@
     "package": "SCFA",
     "maintainer": "Duc Tran <duct@nevada.unr.edu>",
     "url": "https://github.com/duct317/scfa",
+    "registry": "bioc"
+  },
+  {
+    "package": "scFastDE",
+    "maintainer": "Subhadip Jana <subhadipjana1409@gmail.com>",
+    "url": "https://github.com/subhadipjana1409/scfastde",
     "registry": "bioc"
   },
   {

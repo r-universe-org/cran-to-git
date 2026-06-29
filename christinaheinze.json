@@ -1,11 +1,5 @@
 [
   {
-    "package": "backShift",
-    "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
-    "url": "https://github.com/christinaheinze/backshift",
-    "registry": "archived"
-  },
-  {
     "package": "CompareCausalNetworks",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/comparecausalnetworks"
@@ -15,13 +9,6 @@
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
     "subdir": "CondIndTests",
-    "registry": "archived"
-  },
-  {
-    "package": "nonlinearICP",
-    "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
-    "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
-    "subdir": "nonlinearICP",
     "registry": "archived"
   }
 ]
