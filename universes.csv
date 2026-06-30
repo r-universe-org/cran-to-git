@@ -582,6 +582,7 @@ ammiBayes,cran
 AMModels,cran
 AmmoniaConcentration,tumenas
 aMNLFA,vtcole
+amorem,franciscorichter
 AmoudSurv,abdisalammuse
 AMOUNTAIN,bioc
 amp,adam-s-elder
@@ -1734,7 +1735,7 @@ bfast,bfast2
 bfbin2arm,rikokelter
 bfboin,openpharma
 bfboinet,jingzhuzhuzhu
-bfcluster,cran
+bfcluster,moritzschafer
 BFF,rshudde
 BFI,hassanpazira
 BFM,guangbaog
@@ -2136,6 +2137,7 @@ blockr.dplyr,bristolmyerssquibb
 blockr.ggplot,bristolmyerssquibb
 blockr.io,bristolmyerssquibb
 blockrand,glsnow
+blockRAR,thevaachandereng
 blocksdesign,rned
 blockstrap,numbats
 blockTools,ryantmoore
@@ -6375,6 +6377,7 @@ ecoval,nschuwirth
 ecoXCorr,nmoiroux
 ecp,zwenyu
 ecpdist,abreu-uma
+ecpromethee,marciobasilio
 ecr,jakobbossek
 ectotemp,wouterbeukema
 ECTSVR,cran
@@ -7637,6 +7640,7 @@ FI,dvdscripter
 fiber,tractoverse
 fiberLD,cran
 fibos,hersonhebert
+fibr,abindoff
 fic,chjackson
 fICA,cran
 fidelius,mattwarkentin
@@ -8361,6 +8365,7 @@ fxl,miyamot0
 fxregime,zeileis
 fxTWAPLS,special-uor
 fy,hughparsonage
+fz,funz
 g.data,cran
 g.ridge,takeshiemura1
 G2Sd,gallonr
@@ -9562,6 +9567,7 @@ goweragreement,drjphughesjr
 GowerSom,cran
 goxygen,pik-piam
 gp,cran
+gp3tools,stefanosbalaskas
 GPA,bioc
 GPAbin,jnienk
 gpairs,jayemerson
@@ -10545,6 +10551,7 @@ httr,r-lib
 httr2,r-lib
 hubeau,inrae
 hubEnsembles,hubverse-org
+hubEvals,hubverse-org
 HuBMAPR,bioc
 HubPub,bioc
 hubUtils,hubverse-org
@@ -13064,6 +13071,7 @@ mapscanner,ropensci
 mapscape,bioc
 mapSenegal,mapsenegal
 mapsf,riatelab
+mapsf.gui,mthh
 mapSpain,ropenspain
 mapsPERU,musajajorge
 mapsRinteractive,ymutua
@@ -16069,6 +16077,7 @@ OncoBayes2,novartis
 OncoDataSets,lightbluetitan
 Oncofilterfast,phoenix-chen-git
 oncomix,bioc
+oncoPredict,huanglabumn
 oncoscanR,bioc
 OncoScore,bioc
 OncoSimulR,bioc
@@ -18240,6 +18249,7 @@ psycCleaning,jasonmoy28
 psych,revelle
 psychmeta,psychmeta
 psycho,neuropsychology
+PsychoMatic,gmoncayoj
 psychometric,tfletcher05
 psychomix,zeileis
 psychonetrics,sachaepskamp
@@ -18707,6 +18717,7 @@ R2Addhaz,deniserava
 R2admb,bbolker
 R2BayesX,freezenik
 R2BEAT,barcaroli
+R2camtrapdp,kfukasawa37
 r2country,oobianom
 r2d2,arni-magnusson
 R2D2ordinal,cran
@@ -21344,7 +21355,6 @@ SAMprior,pengyang0411
 sampsizeval,mpavlou
 samr,tibshirani
 sams,dbdahl
-SamsaRaLight,natheob
 SamSPECTRAL,bioc
 SAMtool,blue-matter
 SAMTx,cran
@@ -22275,6 +22285,7 @@ shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
 shinyrecipes,albertoalmuinha
+shinyReports,cran
 shinyreprex,ascentsoftware
 shinyRGL,trestletech
 shinySbm,jo-theo
@@ -24134,7 +24145,7 @@ SurvSparse,cran
 survSpearman,svetlanaeden
 SurvSPro,cran
 survstan,fndemarqui
-SurvTrunc,cran
+SurvTrunc,rennertl
 survtype,bioc
 SUSENAS,mubarakfadhlul
 susieR,stephenslab
@@ -26144,7 +26155,7 @@ VineCopula,tnagler
 vinereg,tnagler
 violinplotter,jeffersonfparil
 vioplot,tomkellygenetics
-vip,koalaverse
+vip,bgreenwell
 viper,bioc
 vipor,cran
 VIProDesign,cran
@@ -26600,6 +26611,7 @@ wodds,alexhallam
 woe,cran
 woeBinning,cran
 womblR,berchuck
+wompwomp,pachterlab
 WoodburyMatrix,mbertolacci
 WoodSimulatR,cran
 woodValuationDE,forest-economics-goettingen
