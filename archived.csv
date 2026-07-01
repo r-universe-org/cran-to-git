@@ -3742,7 +3742,6 @@
 "noaaoceans","0.3.0","Sean Warlick <warlick.sean@gmail.com>",NA,2024-08-20,"repeated policy violation  On Internet access."
 "noaastormevents","0.2.0","Brooke Anderson <brooke.anderson@colostate.edu>","https://github.com/geanders/noaastormevents",2025-02-12,"requires archived package 'choroplethr'."
 "nodeHarvest","0.7-3","Nicolai Meinshausen <meinshausen@stat.math.ethz.ch>",NA,2022-06-20,"check problems were not corrected despite reminders."
-"nodiv","1.4.3","Michael Krabbe Borregaard <mkborregaard@sund.ku.dk>","https://github.com/mkborregaard/nodiv",2025-12-22,"issues were not corrected despite reminders."
 "noegletalR","0.2.1","Frederik Larsen <frlars21@student.aau.dk>","https://github.com/frlars21/noegletalr",2025-03-17,"issues were not corrected despite reminders."
 "noisysbmGGM","0.1.2.3","Valentin Kilian <valentin.kilian@ens-rennes.fr>",NA,2026-02-01,"requires archived package 'huge'."
 "nomesbr","0.0.9","Rodrigo Borges <rodrigoesborges@gmail.com>","https://github.com/ipeadata-lab/nomesbr",2026-06-01,"policy violation.  Stores > 100 MB in ~/.cache/R and does not clean up."
