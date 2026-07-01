@@ -1120,6 +1120,7 @@ autoshiny,alekrutkowski
 autoslider.core,insightsengineering
 autostats,harrison4192
 AutoStepwiseGLM,cran
+AutoStrataK,cran
 autostsm,hubbardalex
 autotab,sarahmilligan-hub
 autotest,ropensci
@@ -1316,6 +1317,7 @@ basedosdados,pedrocava
 basefun,r-forge
 baseline,khliland
 baselinenowcast,epinowcast
+baselinr,zl1212-ship-it
 basemaps,16eagle
 basemodels,ying-ju
 basepenguins,ellakaye
@@ -2021,6 +2023,7 @@ BioTIMEr,biotimehub
 BioTIP,bioc
 biotmle,bioc
 biotools,arsilva87
+BioTooltipR,mattjmeier
 BioTrajectory,cran
 BioUtils,spencertreadway
 BioVenn,cran
@@ -2057,6 +2060,7 @@ bit64,r-lib
 bitfield,bitfloat
 bitmexr,hfshr
 bitops,mmaechler
+bitriad,corybrunson
 BiTrinA,hkestler
 BiTSLS,jiaqi-min
 bitstreamio,coolbutuseless
@@ -2732,6 +2736,7 @@ caresid,gianmarcoalberti
 caret,topepo
 caretEnsemble,zachmayer
 caretForecast,taf-society
+caretMultimodal,compbio-lab
 caretSDM,luizesser
 carfima,hyungsuktak
 cargo,dbdahl
@@ -2871,6 +2876,7 @@ cbcTools,jhelvy
 cbinom,ddalthorp
 cBioPortalData,bioc
 cbioportalR,karissawhiting
+CbKST,chockemeyer
 cbl,dswatson
 CBN2Path,bioc
 CBnetworkMA,cran
@@ -3448,6 +3454,7 @@ clidatajp,matutosi
 cliff,randy3k
 clifford,robinhankin
 CliftLRD,cran
+clim4health,cran
 climaemet,ropenspain
 ClimaRep,cran
 climate,bczernecki
@@ -3567,6 +3574,7 @@ ClusterGVis,bioc
 clusterindices,cran
 Clustering,laperez
 clustering.sc.dp,cran
+clusterIV,atal-kat
 ClusterJudge,bioc
 clusterMI,vaudigier
 clustermole,igordot
@@ -4386,6 +4394,7 @@ coxrobust,shanascogin
 coxsei,fchenunswms
 coxstream,tommycarstensen
 CP,andreasstatsr
+cp1919,pachadotdev
 cp4p,jacky11
 cpa,cran
 cpam,l-a-yates
@@ -4889,6 +4898,7 @@ dartRverse,green-striped-gecko
 DasGuptR,josiahpjking
 dashboardthemes,nik01010
 Dasst,hlozza
+DAST,nripstein
 dat,wahani
 data.checker,onsdigital
 data.table,rdatatable
@@ -5204,6 +5214,7 @@ DEHOGT,ahshen26
 deident,cran
 dejaVu,jwb133
 Delaporte,aadler
+delarr,bbuchsbaum
 delaydiscount,davideh-vt
 delayed,tlverse
 DelayedArray,bioc
@@ -5459,6 +5470,7 @@ DiceEval,chelbert
 DiceKriging,roustant
 DiceOptim,mbinois
 diceplot,maflot
+dicepro,kalidouba
 diceR,alinetalhouk
 DICErClust,cran
 DiceView,irsn
@@ -5980,6 +5992,7 @@ dropR,iscience-kn
 droptest,chadr
 drord,benkeser
 drought,drought
+droughtevents,ajpelu
 drpop,mqnjqrid
 DRPT,cran
 DRquality,mthrun
@@ -6014,6 +6027,7 @@ dscoreMSM,atanubhattacharjee
 dsem,james-thorson-noaa
 DSFM,guangbaog
 dsge,muswaseja92
+DSGEr,songif-ofo
 DSI,datashield
 dsims,distancedevelopment
 DSIR,shanlong-who
@@ -6585,6 +6599,7 @@ emailvalidation,dominikkukacka
 EMAR,cran
 EMAS,nie-xiuquan
 EMAtools,ekleiman1
+emaxnls,djnavarro
 emayili,datawookie
 emBALVI,cran
 emBayes,yuwen-l
@@ -7015,6 +7030,7 @@ EValue,mayamathur
 evaluomeR,bioc
 evapoRe,akbarr1184
 Evapotranspiration,cran
+evbsreg,raydonal
 eVCGsampler,sanofi-public
 EVchargcost,cran
 evclass,cran
@@ -7781,6 +7797,7 @@ fitur,tomroh
 fitVARMxID,jeksterslab
 fitzRoy,jimmyday12
 fivethirtyeight,rudeboybert
+fixedCV,rpkgarcia
 FixedPoint,s-baumann
 fixedTimeEvents,khliland
 fixerapi,evanodell
@@ -9435,6 +9452,7 @@ gmGeostats,cran
 gmgm,jeremyroos
 GmicR,bioc
 Gmisc,gforge
+GMLTM,eduar-ramirez
 gmm,pchausse
 GMMAT,hanchenphd
 GMMBoost,cran
@@ -9810,6 +9828,7 @@ gsaot,pietrocipolla
 GSAR,bioc
 gsarima,obriet
 gsbDesign,bbnkmp
+GSbench,mqfarooqi1
 gsbm,cran
 GSCA,bioc
 gscaLCA,hee6904
@@ -10558,6 +10577,7 @@ hubUtils,hubverse-org
 hudr,cran
 hues,johnbaums
 huge,gatech-flash
+huggingfaceR,farach
 huito,flavjack
 HUM,cran
 humanFormat,dustin
@@ -10573,6 +10593,7 @@ hutils,hughparsonage
 hutilscpp,hughparsonage
 huxtable,hughjonesd
 HVP,bioc
+HVS,tjk23
 HVT,mu-sigma
 hwde,jhmaindonald
 HWEintrinsic,cran
@@ -10712,6 +10733,7 @@ ICAOD,ehsan66
 icardaFIGSr,cran
 iCARE,bioc
 iCARH,takouajendoubi
+icarm,olawaleawe
 icarus,khaledlarbi
 ICBioMark,cobrbra
 ICC,matthewwolak
@@ -11004,6 +11026,7 @@ importinegi,crenteriam
 impower133,fanfande131
 imprecise101,cran
 impressionist.colors,fedecasale
+ImprintCapASM,19-saha
 imprinting,cobeylab
 ImpShrinkage,mnrzrad
 impute,bioc
@@ -12826,6 +12849,7 @@ LSTS,pachadotdev
 LSVAR,peiliangbai92
 LSWPlib,cran
 LSX,koheiw
+lt,yihui
 ltable,cran
 LTASR,cran
 ltc,loukesio
@@ -12866,6 +12890,7 @@ luzlogr,bpbond
 LVGP,siyutao2020
 lvimp,bdwilliamson
 lvmisc,verasls
+lvmPlot,trtfj
 lvnet,cran
 lvplot,hadley
 lwc2022,c-monaghan
@@ -14606,7 +14631,6 @@ mpspline2,obrl-soil
 MPsychoR,pmair78
 mpt,cran
 MPTinR,singmann
-MPTmultiverse,mpt-network
 MPV,wjbraun
 mpwR,cran
 MQMF,haddonm
@@ -14904,6 +14928,7 @@ multimediate,samarafk
 multiMiR,bioc
 multimix,jmcurran
 MultimodalExperiment,bioc
+MultiModalR,dijog
 multimode,jose-ameijeiras
 multiModTest,cran
 multimolang,daedaluslab
@@ -15009,6 +15034,7 @@ MUS,alsguimaraes
 muscat,bioc
 muscle,bioc
 musclesyneRgies,alesantuz
+muse,config-i1
 music,egenn
 musicatk,bioc
 musicMCT,satbq
@@ -15279,6 +15305,7 @@ NegBinBetaBinreg,cran
 negenes,kbroman
 negligible,cribbie
 Neighboot,cran
+NeighborFinder,cran
 neighbours,enricoschumann
 neighbr,dbolotov
 neldermead,cran
@@ -15332,6 +15359,7 @@ netgsa,mikehellstern
 netgwas,pariya
 nethet,bioc
 netie,tianshilu
+netify,netify-dev
 NetIndices,karlines
 NetInt,jessicagliozzo
 netknitr,ijayc
@@ -15635,6 +15663,7 @@ nocturn,chronopsychiatry
 nodbi,ropensci
 node2vec,tianyang-0523
 nodeSub,thijsjanzen
+nodiv,mkborregaard
 nofrills,egnha
 noia,lerouzic
 noise,audreyqyfu
@@ -16005,6 +16034,7 @@ oii,computermacgyver
 ojsr,gastonbecerra
 okBATHTUB,0011235813
 okcolors,nelsonquesado
+okf,travisjakel
 OkNNE,amjadali0313
 okxAPI,fanggong
 okxr,oliverlds
@@ -16277,6 +16307,7 @@ optRF,tmlange
 OPTS,cran
 OptSig,jh8080
 optsize,cran
+OptSurvCutR,paytonyau
 OPTtesting,cran
 optweight,ngreifer
 opusminer,cbergmeir
@@ -17304,6 +17335,7 @@ Pirat,bioc
 piratings,larsvancutsem
 pisaRT,cran
 piton,ironholds
+PITS,drdaviddelorenzo
 PIUMA,bioc
 pivmet,leoegidi
 PivotalP,karimshehta
@@ -17707,6 +17739,7 @@ porridge,wvanwie
 port4me,henrikbengtsson
 PortalHacienda,fmgarciadiaz
 portalr,weecology
+porter,hongyuanjia
 portes,cran
 portfolio,dgerlanc
 PortfolioAnalytics,braverock
@@ -18156,6 +18189,7 @@ provParseR,blernermhc
 provSummarizeR,end-to-end-provenance
 provTraceR,end-to-end-provenance
 provViz,end-to-end-provenance
+proximetricsR,l-ramirez-lopez
 proxirr,danielebaisero
 ProxReg,doufu1402
 proxy,cran
@@ -19407,6 +19441,7 @@ rdwd,brry
 rdwplus,apear9
 re,pythonicr
 re2,girishji
+reaborn,shawntz
 Reacnorm,devillemereuil
 react,tadascience
 reactable,glin
@@ -21968,7 +22003,7 @@ SEPA,cran
 SEPaLS,hlorenzo
 sEparaTe,cran
 separationplot,cran
-sepkoski,lewisajones
+sepkoski,palaeoverse
 SepTest,mghorbani01
 seq.hotSPOT,bioc
 seq2pathway,bioc
@@ -21977,6 +22012,7 @@ SeqAlignR,leonnorblad
 SeqArray,bioc
 seqCAT,bioc
 seqcombo,bioc
+seqcomp,alasgarliakbar
 seqDesign,mjuraska
 SeqFeatR,cran
 SeqGate,bioc
@@ -22512,6 +22548,7 @@ simpleSetup,christophergandrud
 simpletex,chuxinyuan
 SimpleUpset,smped
 simplexgof,raydonal
+SimplexRegression,dudajustino
 SIMPLICA,joshageman
 SimplicialComplex,tda-r
 SimplicialCubature,jpnolan
@@ -23403,6 +23440,7 @@ spork,bergsmat
 sport,gogonzo
 SportMiner,praveenmaths89
 SPORTSCausal,cran
+sportsfeatures,artisto123
 SportsTour,cran
 sportyR,sportsdataverse
 SpotClean,bioc
@@ -23778,6 +23816,7 @@ StereoMorph,aaronolsen
 stevedata,svmiller
 stevedore,richfitz
 stevemisc,svmiller
+steves,moderndive
 stevetemplates,svmiller
 stevethemes,svmiller
 stfit,mingsnu
@@ -24183,6 +24222,7 @@ SVMDO,bioc
 svmf,cran
 svMisc,sciviews
 SVMMaj,hoksanyip
+svmodt,aneeshagarwala
 svmpath,trevorhastie
 SVN,damienchallet
 SVP,bioc
@@ -24438,6 +24478,7 @@ taxalight,cboettig
 TaxaNorm,wangziyue57
 taxdiv,mgorgoz
 TaxicabCA,jacquesallard
+taxify,gcol33
 taxize,ropensci
 taxizedb,ropensci
 taxlist,ropensci
@@ -24554,6 +24595,7 @@ Temporal,zrmacc
 TemporalForest,sisishao
 TemporalGSSA,cran
 TemporalHazard,ehrlinger
+TemporalModelR,cjhughes926
 tempR,jcc9
 TempStable,tmoek
 tempted,pixushi
@@ -25695,6 +25737,7 @@ UCR.ColumnNames,jacobkap
 UCSC.utils,bioc
 UCSCXenaShiny,openbiox
 UCSCXenaTools,ropensci
+uddbart,xulinpan
 UdderQuarterInfectionData,lduchate
 udpipe,bnosac
 udunits2,pacificclimate
@@ -25711,6 +25754,7 @@ uisapi,tidy-intelligence
 uiucthemes,illinois-r
 uk2us,bldavies
 ukbabynames,mine-cetinkaya-rundel
+UKBAnalytica,hinna0818
 ukbflow,evanbio
 ukbnmr,sritchie73
 ukc19,ai4ci
@@ -26013,6 +26057,7 @@ vayr,acoppock
 vazul,nthun
 VBel,jlimrasc
 VBLPCM,cran
+vbm,staniks0
 vbmp,bioc
 VBMS,luluo1999
 VBphenoR,buckleybrian
@@ -26487,6 +26532,7 @@ weightedScores,cran
 weightedsurv,larry-leon
 WeightedTreemaps,m-jahn
 weightedVoronoi,harriraven
+weightflow,jpferreira33
 WeightIt,ngreifer
 WeightMyItems,afarukkilic
 weightQuant,vivianephilipps
