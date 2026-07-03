@@ -95,12 +95,6 @@
     "url": "https://github.com/rstudio/forge"
   },
   {
-    "package": "graphframes",
-    "maintainer": "Kevin Kuo <kevin.kuo@rstudio.com>",
-    "url": "https://github.com/rstudio/graphframes",
-    "registry": "archived"
-  },
-  {
     "package": "gt",
     "maintainer": "Richard Iannone <rich@posit.co>",
     "url": "https://github.com/rstudio/gt"

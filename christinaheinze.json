@@ -3,12 +3,5 @@
     "package": "CompareCausalNetworks",
     "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
     "url": "https://github.com/christinaheinze/comparecausalnetworks"
-  },
-  {
-    "package": "CondIndTests",
-    "maintainer": "Christina Heinze-Deml <heinzedeml@stat.math.ethz.ch>",
-    "url": "https://github.com/christinaheinze/nonlinearicp-and-condindtests",
-    "subdir": "CondIndTests",
-    "registry": "archived"
   }
 ]
