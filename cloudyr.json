@@ -1,11 +1,5 @@
 [
   {
-    "package": "aws.ec2metadata",
-    "maintainer": "Jonathan Stott <jonathan.stott@magairports.com>",
-    "url": "https://github.com/cloudyr/aws.ec2metadata",
-    "registry": "archived"
-  },
-  {
     "package": "aws.iam",
     "maintainer": "Simon Urbanek <simon.urbanek@R-project.org>",
     "url": "https://github.com/cloudyr/aws.iam"

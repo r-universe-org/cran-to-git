@@ -5,6 +5,11 @@
     "url": "https://github.com/posit-dev/automerge-r"
   },
   {
+    "package": "autosync",
+    "maintainer": "Charlie Gao <charlie.gao@posit.co>",
+    "url": "https://github.com/posit-dev/autosync"
+  },
+  {
     "package": "btw",
     "maintainer": "Garrick Aden-Buie <garrick@adenbuie.com>",
     "url": "https://github.com/posit-dev/btw"

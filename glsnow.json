@@ -10,6 +10,12 @@
     "url": "https://github.com/cran/obsSens"
   },
   {
+    "package": "R6Nomogram",
+    "maintainer": "Greg Snow <538280@gmail.com>",
+    "url": "https://github.com/glsnow/r6nomogram",
+    "subdir": "pkg"
+  },
+  {
     "package": "TeachingDemos",
     "maintainer": "Greg Snow <538280@gmail.com>",
     "url": "https://github.com/glsnow/teachingdemos"

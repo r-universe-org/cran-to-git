@@ -10,12 +10,6 @@
     "url": "https://github.com/umich-cphds/gigg"
   },
   {
-    "package": "lodi",
-    "maintainer": "Alexander Rix <alexrix@umich.edu>",
-    "url": "https://github.com/umich-cphds/lodi",
-    "registry": "archived"
-  },
-  {
     "package": "medScan",
     "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
     "url": "https://github.com/umich-cphds/medscan"
@@ -24,11 +18,5 @@
     "package": "messi",
     "maintainer": "Michael Kleinsasser <mkleinsa@umich.edu>",
     "url": "https://github.com/umich-cphds/messi"
-  },
-  {
-    "package": "subgxe",
-    "maintainer": "Alexander Rix <alexrix@umich.edu>",
-    "url": "https://github.com/umich-cphds/subgxe",
-    "registry": "archived"
   }
 ]
