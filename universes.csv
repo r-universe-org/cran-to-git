@@ -125,6 +125,7 @@ actfts,sergiofinances
 actibase,jhuwit
 actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
+actiread,jhuwit
 ActiSleep,n-szeto
 activAnalyzer,pydemull
 activatr,dschafer
@@ -816,6 +817,7 @@ arcgis,r-arcgis
 arcgisgeocode,r-arcgis
 arcgislayers,r-arcgis
 arcgisplaces,josiahparry
+arcgisrouting,r-arcgis
 arcgisutils,r-arcgis
 ArchaeoPhases,archaeostat
 ArchaeoPhases.dataset,philippe-a
@@ -1888,7 +1890,7 @@ BinMat,clarkevansteenderen
 binMto,cran
 BinNonNor,bernice0321
 BinNor,bernice0321
-binom,sdorairaj
+binom,adcascone
 binomCI,cran
 binomialRF,cran
 binomialtrend,csmatyi
@@ -2288,6 +2290,7 @@ boral,fhui28
 borealis,bioc
 BORG,gcol33
 borrowr,cran
+BORT,depazcimat
 Boruta,mbq
 bosfr,yijin-zeng
 BosonSampling,cran
@@ -2715,9 +2718,9 @@ CardinalIO,bioc
 cardinalR,jayanilakshika
 CardioCurveR,matcasti
 CardioDataSets,lightbluetitan
-cards,insightsengineering
+cards,ddsjoberg
 CARDspa,bioc
-cardx,insightsengineering
+cardx,ddsjoberg
 care,cran
 care4cmodel,cran
 caRecall,wraysmith
@@ -4884,6 +4887,7 @@ data.table.threads,anirban166
 data.tree,gluc
 data.validator,appsilon
 data360r,pechiyappan
+data4health,daniela-l
 dataaimsr,ropensci
 DatabaseConnector,ohdsi
 DatabaseConnectorJars,ohdsi
@@ -4970,6 +4974,7 @@ DateTimeRangePicker,stla
 datetimeutils,enricoschumann
 datetoiso,cran
 dateutils,macroeconomicdata
+datey,logmu-org
 datoramar,kxzk
 datos,cienciadedatos
 datplot,lsteinmann
@@ -5465,6 +5470,7 @@ didec,yupingwang7
 DiDforBigData,setzler
 DIDHAD,cran
 didimputation,kylebutts
+didintrjl,ebjamieson97
 DIDmultiplegt,credible-answers
 DIDmultiplegtDYN,credible-answers
 didrooRFM,didroo55
@@ -6786,6 +6792,7 @@ epiregulon,bioc
 epiregulon.extra,bioc
 EpiReport,epiconcept-paris
 epiRomics,bioc
+EpiScopeK,cran
 epiSeeker,bioc
 EpiSemble,diprosinha
 episensr,dhaine
@@ -9067,6 +9074,7 @@ GGoutlieR,cheweichang1992
 GGPA,bioc
 ggpackets,dgkf
 ggpage,emilhvitfeldt
+ggpaintr,willju-wangqian
 ggparty,martin-borkovec
 ggpath,mrcaseb
 ggpattern,trevorld
@@ -10086,7 +10094,6 @@ HDcpDetect,natasha-stewart
 hdcuremodels,ropensci
 HDCurves,cran
 hdd,lrberge
-hddtools,ropensci
 HDF5Array,bioc
 hdf5lib,cmmr
 hdf5r,hhoeflin
@@ -10982,7 +10989,7 @@ importinegi,crenteriam
 impower133,fanfande131
 imprecise101,cran
 impressionist.colors,fedecasale
-ImprintCapASM,19-saha
+ImprintCapASM,cran
 imprinting,cobeylab
 ImpShrinkage,mnrzrad
 impute,bioc
@@ -11615,6 +11622,7 @@ jobqueue,cmmr
 JoF,burmarkus
 joineR,graemeleehickey
 joineRML,graemeleehickey
+joinery,edubruell
 joinet,rauschenberger
 joinless,braylinjr
 joinpointR,datos-ine
@@ -15646,6 +15654,7 @@ nonParQuantileCausality,mbalcilar
 NonParRolCor,jomopo
 nonparTrendR,dariasur
 NonProbEst,luiscastro193
+nonprobsampling,jiakun0611
 nonprobsvy,ncn-foreigners
 nonsmooth,jrjthompson
 nonstat,martinhecht
@@ -17343,6 +17352,7 @@ Planesmuestra,ericksuhel
 planet,bioc
 PlanetNICFI,mlampros
 planets,aljrico
+planisphere,riatelab
 planr,nguyennico
 planscorer,christopherkenny
 plantecophys,remkoduursma
@@ -26023,6 +26033,7 @@ vegan,vegandevs
 vegan3d,vegandevs
 vegawidget,vegawidget
 vegclust,emf-creaf
+vegdata,florian-jansen
 vegetablesSriLanka,thiyangtdata
 vegIndexCalc,bijoy231997
 vegperiod,rnuske

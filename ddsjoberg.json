@@ -1,5 +1,15 @@
 [
   {
+    "package": "cards",
+    "maintainer": "Daniel D. Sjoberg <danield.sjoberg@gmail.com>",
+    "url": "https://github.com/cran/cards"
+  },
+  {
+    "package": "cardx",
+    "maintainer": "Daniel D. Sjoberg <danield.sjoberg@gmail.com>",
+    "url": "https://github.com/cran/cardx"
+  },
+  {
     "package": "dcurves",
     "maintainer": "Daniel D. Sjoberg <danield.sjoberg@gmail.com>",
     "url": "https://github.com/ddsjoberg/dcurves"

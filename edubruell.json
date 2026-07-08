@@ -1,5 +1,10 @@
 [
   {
+    "package": "joinery",
+    "maintainer": "Eduard Brüll <eduard.bruell@zew.de>",
+    "url": "https://github.com/edubruell/joinery"
+  },
+  {
     "package": "tidyllm",
     "maintainer": "Eduard Brüll <eduard.bruell@zew.de>",
     "url": "https://github.com/edubruell/tidyllm"
