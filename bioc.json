@@ -3201,6 +3201,12 @@
     "registry": "bioc"
   },
   {
+    "package": "dbSequence",
+    "maintainer": "Edward C. Ruiz <ecr7407@gmail.com>",
+    "url": "https://github.com/dbverse-org/dbsequence",
+    "registry": "bioc"
+  },
+  {
     "package": "dcanr",
     "maintainer": "Dharmesh D. Bhuva <bhuva.d@wehi.edu.au>",
     "url": "https://github.com/davislaboratory/dcanr",
