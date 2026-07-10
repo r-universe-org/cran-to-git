@@ -7294,7 +7294,7 @@
   },
   {
     "package": "markeR",
-    "maintainer": "Rita Martins-Silva <rita.silva@medicina.ulisboa.pt>",
+    "maintainer": "Rita Martins-Silva <rita.silva@gimm.pt>",
     "url": "https://github.com/diseasetranscriptomicslab/marker",
     "registry": "bioc"
   },
@@ -11641,6 +11641,12 @@
     "package": "sccomp",
     "maintainer": "Stefano Mangiola <stefano.mangiola@unimelb.edu.au>",
     "url": "https://github.com/mangiolalaboratory/sccomp",
+    "registry": "bioc"
+  },
+  {
+    "package": "scCompoundDE",
+    "maintainer": "Subhadip Jana <subhadipjana1409@gmail.com>",
+    "url": "https://github.com/subhadipjana1409/sccompoundde",
     "registry": "bioc"
   },
   {
