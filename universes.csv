@@ -2333,6 +2333,7 @@ bpr,laura-dangelo
 BPrinStratTTE,boehringer-ingelheim
 bptips,cran
 bpvars,bsvars
+bqmm,kvenkita
 bqror,prajual
 bqtl,cran
 BRACE,cran
@@ -2439,6 +2440,7 @@ bs4Dashkit,prigasg
 BSagri,cran
 bsam,ianjonsen
 bsamGP,beomjopark
+BSCB,fannyyang73
 bscui,patzaw
 BSDA,alanarnholt
 bsearchtools,digemall
@@ -2958,6 +2960,7 @@ cdrcR,aelissa
 CDsampling,cran
 CDSE,zivankaraman
 CDSim,ikemillar
+CDSimX,ikemillar
 CDSS,chockemeyer
 CDVI,vishnumrstat
 CEACT,ielbadisy
@@ -4021,6 +4024,7 @@ configural,bwiernik
 confinterpret,jimvine
 confintr,mayer79
 confintROB,masonfg
+conflibertR,shreyasmeher
 conflicted,r-lib
 ConFluxPro,valentingar
 ConfMatrix,svilchez
@@ -4647,6 +4651,7 @@ cTOST,yboulag
 ctqr,cran
 cTRAP,bioc
 ctrdata,rfhb
+ctreeMI,phillip-sherlock
 ctrialsgov,taylor-arnold
 CTRing,robertschneiderfromuqar
 ctrlGene,cran
@@ -5306,6 +5311,7 @@ derfinderHelper,bioc
 derfinderPlot,bioc
 Deriv,sgsokol
 derivmkts,rmcd1024
+derrick,openpharma
 DES,cran
 DESA,vjoshy
 desc,r-lib
@@ -5786,6 +5792,7 @@ DockerParallel,jiefei-wang
 docket,jonathanconrad98
 docknitr,innermatrix
 dockViewR,cynkra
+doclingr,strategicprojects
 doclisting,r-lib
 doconv,ardata-fr
 docopt,docopt
@@ -6006,6 +6013,7 @@ dsBaseClient,stuartwheater
 DSBayes,rvaradhan
 dscore,d-score
 dscoreMSM,atanubhattacharjee
+DSDRM,guangbaog
 dsem,james-thorson-noaa
 DSFM,guangbaog
 dsge,muswaseja92
@@ -9101,6 +9109,7 @@ ggpointless,flrd
 ggpolar,shixiangwang
 ggpolypath,mdsumner
 ggpop,jurjoroa
+ggpower,yaoxiangli
 ggpp,aphalo
 ggprism,csdaw
 ggpubr,kassambara
@@ -11005,6 +11014,7 @@ imputeREE,cicarrascog
 ImputeRobust,dsalfran
 imputeTestbench,neerajdhanraj
 imputeTS,steffenmoritz
+IMR,khaledfouda
 iMRMC,brandon-gallas
 imsig,ajitjohnson
 imt,google
@@ -11075,6 +11085,7 @@ infectiousR,lightbluetitan
 infer,tidymodels
 infercnv,bioc
 inferCSN,mengxu98
+inferencer,oliverlds
 InferenceSMR,detal9
 inferference,bsaul
 inferMM,mijeong-kim
@@ -11444,6 +11455,7 @@ isopam,sebschmidtlein
 isopleuros,nfrerebeau
 IsoplotR,pvermees
 IsoplotRgui,pvermees
+isoreader2,isoverse
 IsoriX,courtiol
 IsoSpecR,matteolacki
 isoSurv,zea23i651096531
@@ -11660,6 +11672,7 @@ JPEN,cran
 jpgrid,uchidamizuki
 jpinfect,tomonorihoshi
 jpmap,yhoriuchi
+jpmapdata,yhoriuchi
 jpmesh,uribo
 jpstat,uchidamizuki
 JPSurv,wheelerb
@@ -13265,6 +13278,7 @@ mbend,nilforooshan
 MBESS,yelleknek
 mbest,patperry
 mbg,henryspatialanalysis
+MBGapp,olatunjijohnson
 MBHdesign,scott-foster
 mbir,kdpeterson51
 mbkmeans,bioc
@@ -16110,6 +16124,7 @@ oolong,gesistsa
 oompaBase,r-forge
 oompaData,r-forge
 OOR,mbinois
+OORRT,cran
 oosse,sthawinke
 oottest,philippkuelpmann
 opa,timbeechey
@@ -18154,6 +18169,7 @@ Przewodnik,pbiecek
 ps,r-lib
 PSAboot,jbryer
 PSAgraphics,jbryer
+psAve,kabajiro
 PSAWR,schochastics
 psBayesborrow,cran
 psbcGroup,cran
@@ -18367,6 +18383,7 @@ pxR,cjgb
 pxweb,ropengov
 PxWebApiData,statisticsnorway
 pycno,cran
+pycnogrid,higgicd
 pye,ucmpyepackage
 pyinit,dakep
 pylintR,stla
@@ -19225,7 +19242,7 @@ RcppBessel,alexiosg
 RcppBigIntAlgos,jwood000
 RcppBlaze,chingchuan-chen
 RcppCCTZ,eddelbuettel
-RcppCensSpatial,katherineloor
+RcppCensSpatial,cran
 RcppCGAL,ericdunipace
 RcppClassic,eddelbuettel
 RcppClassicExamples,eddelbuettel
@@ -19828,6 +19845,7 @@ reticulate,rstudio
 retimer,abeith
 retistruct,davidcsterratt
 retmort,cran
+retraction,choxos
 retriever,dosorio
 retrodesign,andytimm
 retrofit,bioc
@@ -21264,6 +21282,7 @@ safestats,alexanderlynl
 safetensors,mlverse
 safetyData,jwildfire
 SafeVote,cthombor
+safuzzy,cran
 sagenhaft,bioc
 sageR,fbertran
 SAGM,cran
@@ -21747,6 +21766,7 @@ SEAHORS,aurelienroyer
 seahtrue,bioc
 seairmobility,wwang-math
 sealasso,cran
+sealeveltools,cran
 searchAnalyzeR,chaoliu-cl
 searcher,coatless-rpkg
 SearchTrees,gmbecker
@@ -22378,7 +22398,7 @@ SILGGM,cran
 Silhouette,kskbhat
 silicate,hypertidy
 SillyPutty,cran
-SILM,zhangxiany-tamu
+SILM,cran
 silp,tombjjj
 silviculture,cidree
 SIM,bioc
@@ -23168,6 +23188,7 @@ spBPS,lucapresicce
 Spbsampling,francescopantalone
 spc,knoths
 spc4sts,cran
+spca,merolagio
 spcadjust,agandy
 SPCALDA,cran
 spCF,dmuraka
@@ -23733,6 +23754,7 @@ StepRegShiny,junhuili1017
 steprf,jinli22
 stepSplitReg,anthonychristidis
 stepssurvey,drpakhare
+stepwedgepower,amandalinli
 StepwiseTest,kendrov
 StereoMorph,aaronolsen
 stevedata,svmiller
@@ -24163,6 +24185,7 @@ svylme,tslumley
 svymargins,cran
 SvyNom,mskcc-epi-bio
 svyROC,aiparragirre
+svySE,lburgoss
 svytest,cnlubianski
 svyVarSel,aiparragirre
 svyVGAM,tslumley
@@ -25384,6 +25407,7 @@ trps,benjaminhlina
 TrtCombo.FactorialExp.SR,roy-sr-007
 trtf,r-forge
 trtswitch,kaifenglu
+truchet,paezha
 trud,ropensci
 truelies,hughjonesd
 TrueSkillThroughTime,glandfried
@@ -26106,7 +26130,7 @@ vidger,bioc
 vietnamcode,cran
 vietnameseConverter,ecodynizw
 ViewPipeSteps,daranzolin
-viewpoly,mmollina
+viewpoly,breeding-insight
 ViewR,itsmdivakaran
 viewscape,billbillbilly
 vigicaen,pharmacologie-caen
