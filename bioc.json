@@ -8661,6 +8661,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MultiOmicsBridge",
+    "maintainer": "Subhadip Jana <subhadipjana1409@gmail.com>",
+    "url": "https://github.com/subhadipjana1409/multiomicsbridge",
+    "registry": "bioc"
+  },
+  {
     "package": "MultipleAlignment",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/multiplealignment",

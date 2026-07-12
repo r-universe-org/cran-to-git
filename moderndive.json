@@ -1,5 +1,10 @@
 [
   {
+    "package": "exoplanetdata",
+    "maintainer": "Chester Ismay <chester.ismay@gmail.com>",
+    "url": "https://github.com/moderndive/exoplanetdata"
+  },
+  {
     "package": "moderndive",
     "maintainer": "Albert Y. Kim <albert.ys.kim@gmail.com>",
     "url": "https://github.com/moderndive/moderndive"
@@ -13,5 +18,10 @@
     "package": "steves",
     "maintainer": "Chester Ismay <chester.ismay@gmail.com>",
     "url": "https://github.com/moderndive/steves"
+  },
+  {
+    "package": "volcanoes",
+    "maintainer": "Chester Ismay <chester.ismay@gmail.com>",
+    "url": "https://github.com/moderndive/volcanoes"
   }
 ]

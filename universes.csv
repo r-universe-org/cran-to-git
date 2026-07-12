@@ -1517,6 +1517,7 @@ BayesSpace,bioc
 bayesSSM,bjarkehautop
 BayesSUR,mbant
 bayesSurv,cran
+BayesSurveillance,zerish12
 BayesSurvival,svdpas
 BayesSurvive,ocbe-uio
 bayest,riko-k
@@ -1797,6 +1798,7 @@ bidsr,dipterix
 bidux,jrwinget
 BIEN,bmaitner
 BifactorIndicesCalculator,ddueber
+bifactory,leondebeer
 bife,amrei-stammann
 BiFET,bioc
 BIFIEsurvey,konradoberwimmer
@@ -3189,6 +3191,7 @@ chess,curso-r
 chess2plyrs,luigi-annic
 chessboard,frbcesab
 ChessGmooG,impaug
+chessResults,cran
 chest,uqwang
 ChestVolume,cran
 CHETAH,bioc
@@ -7130,6 +7133,7 @@ exifr,paleolimbot
 exiftoolr,joshobrien
 ExiMiR,bioc
 ExNRuleEnsemble,cran
+exoplanetdata,moderndive
 exoplanets,ropensci
 ExpAnalysis3d,cran
 ExPanDaR,trr266
@@ -8488,6 +8492,7 @@ GB2,cran
 GB2group,jordavuc
 GB5mcPred,diprosinha
 GBASS,knrumsey-lanl
+gbcrosswalk,robin621
 gbeta,stla
 gbfs,simonpcouch
 gbifdb,ropensci
@@ -8962,6 +8967,7 @@ ggcharts,thomas-neitmann
 ggChernoff,selbosh
 ggChinaFlag,xlions
 ggchord,dangjem
+ggchord2,cran
 ggcircular,aureliennicosiaulaval
 GGClassification,fvcampos
 ggcleveland,mpru
@@ -12186,6 +12192,7 @@ lboxcox,ubclxing
 LBPG,kittipong8888
 lbreg,cran
 LBSPR,adrianhordyk
+lbugr,wickm
 LCAextend,cran
 lcars,leonawicz
 lcc,prof-thiagooliveira
@@ -14247,6 +14254,7 @@ MLSeq,bioc
 mlsjunkgen,scumdogsteev
 MLSP,cran
 mlspatial,azizadeboye
+mlstats,felixdidi
 mlstm,thimeno1993
 mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
@@ -14911,6 +14919,7 @@ multIntTestFunc,klausherrmann
 multiobjectiveMDP,cran
 MultiObjMatch,shichaohan
 multiocc,heplersa
+MultiOmicsBridge,bioc
 MultiOrd,bernice0321
 multipanelfigure,r-cheologist
 MultiPhen,cran
@@ -17070,6 +17079,7 @@ pfica,marcvidalbadia
 PFIM,packagepfim
 PFLR,haoluns
 pfr,tbrown122387
+pft,overdodactyl
 PFW,ropensci
 pfwim,beckslab
 pg,tmsalab
@@ -19242,7 +19252,7 @@ RcppBessel,alexiosg
 RcppBigIntAlgos,jwood000
 RcppBlaze,chingchuan-chen
 RcppCCTZ,eddelbuettel
-RcppCensSpatial,cran
+RcppCensSpatial,katherineloor
 RcppCGAL,ericdunipace
 RcppClassic,eddelbuettel
 RcppClassicExamples,eddelbuettel
@@ -20601,6 +20611,7 @@ rollbar,ankane
 rolldown,yihui
 rolleigen,jasonjfoster
 rollinglda,jonasrieger
+rolloptim,jasonjfoster
 rollout,iancero
 rollshap,jasonjfoster
 rollup,juyoungahn
@@ -21263,6 +21274,7 @@ saeME,cran
 saemix,ecomets
 saeMSPE,exce1sior1008
 saens,alfrzlp
+saeproj.multilevel,rahmanazlya02
 saePseudo,darinhuwaidaa
 saeRobust,wahani
 saery,small-area-estimation
@@ -21736,6 +21748,7 @@ sdf.test,ilarianadin-crypto
 SDGdetector,yingjie4science
 SDGLM,guangbaog
 SDI,cran
+sdim,gabbocg
 SDLfilter,takahiroshimada
 sdlrm,rdmatheus
 sdm,babaknaimi
@@ -22398,7 +22411,7 @@ SILGGM,cran
 Silhouette,kskbhat
 silicate,hypertidy
 SillyPutty,cran
-SILM,cran
+SILM,zhangxiany-tamu
 silp,tombjjj
 silviculture,cidree
 SIM,bioc
@@ -22539,6 +22552,7 @@ SimTOST,smartdata-analysis-and-statistics
 simtrait,ochoalab
 simtrial,merck
 simts,smac-group
+simtte,csetraynor
 simuclustfactor,cran
 simukde,makhgal-ganbold
 simulariatools,simularia
@@ -24716,6 +24730,7 @@ theiaR,norival
 thematic,rstudio
 themis,tidymodels
 TheOpenAIR,umatter
+TheOrdinals,cran
 theorytools,cjvanlissa
 theRefdate,m03358db
 ThermalSampleR,clarkevansteenderen
@@ -25462,6 +25477,7 @@ TSE,joshlmiller1978
 TSEAL,vg-lab
 tseffects,sorenjordan
 TSEind,joshlmiller1978
+tseLCA,samleebyu
 TSENAT,bioc
 tsensembler,vcerqueira
 tsentiment,hakkisabah
@@ -26238,6 +26254,7 @@ voigt,cran
 vol2birdR,adokter
 volatilityTrader,maheshpkumar
 volcano3D,katrionagoldmann
+volcanoes,moderndive
 volcanoPlot,jwildfire
 volesti,vfisikop
 volker,strohne
