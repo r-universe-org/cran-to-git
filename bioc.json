@@ -8511,6 +8511,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MsStash",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msstash",
+    "registry": "bioc"
+  },
+  {
     "package": "MSstats",
     "maintainer": "Meena Choi <mnchoi67@gmail.com>",
     "url": "https://git.bioconductor.org/packages/MSstats",

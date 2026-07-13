@@ -774,13 +774,6 @@
     "subdir": "pkg/smacofx"
   },
   {
-    "package": "softclassval",
-    "maintainer": "Claudia Beleites <claudia.beleites@chemometrix.eu>",
-    "url": "https://github.com/r-forge/softclassval",
-    "subdir": "pkg",
-    "registry": "archived"
-  },
-  {
     "package": "SpatialExtremes",
     "maintainer": "Mathieu Ribatet <mathieu.ribatet@ec-nantes.fr>",
     "url": "https://github.com/r-forge/spatialextremes",
