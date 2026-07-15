@@ -239,7 +239,6 @@ adklakedata,jeremylfarrell
 adlift,cran
 ADLP,cran
 admiral,pharmaverse
-admiral.test,bms63
 admiraldev,pharmaverse
 admiralmetabolic,pharmaverse
 admiralneuro,pharmaverse
@@ -3338,6 +3337,7 @@ CircularBoxplots,jdberlinski
 CircularDDM,yxlin
 circularEV,cran
 circularKDE,stazam
+circularNet,fatemehsarasir
 CircularRegression,aureliennicosiaulaval
 CircularSilhouette,joemsong
 circumplex,jmgirard
@@ -5938,7 +5938,6 @@ drcte,onofriandreapg
 drda,albertopessia
 DrData,mohsenmehdinia
 DRDID,pedrohcgs
-DrDimont,kathbaum
 dream,kevincarson
 dreamer,rich-payne
 dreamerr,lrberge
@@ -6160,6 +6159,7 @@ dynBiplotGUI,jegido
 DynClust,yrozen-biostm
 dynConfiR,sehellmann
 dynCorr,joeldubin
+DynCount,cran
 dyndimred,dynverse
 DynDoc,bioc
 dynemu,heojunoh
@@ -9400,6 +9400,7 @@ gluedown,k5cents
 gluvarpro,scontador
 glvmfit,cran
 glycoTraitR,bioc
+glydraw,glycoverse
 glyparse,glycoverse
 glyph,josh45-source
 glyrepr,glycoverse
@@ -9517,7 +9518,6 @@ googleCloudStorageR,cloudyr
 googleCloudVisionR,cloudyr
 googledrive,tidyverse
 googleErrorReportingR,ixpantia
-GoogleImage2Array,kumes
 GoogleKnowledgeGraphR,cran
 googleLanguageR,ropensci
 googlenlp,brianweinstein
@@ -11028,6 +11028,7 @@ INCVCommunityDetection,ivylinzhang97
 inDAGO,indagoverse
 INDEED,bioc
 indelmiss,cran
+IndependenceTests,lafaye
 independenceWeights,jaredhuling
 IndepTest,cran
 index0,selbosh
@@ -12151,6 +12152,7 @@ layer,marcosci
 lazybar,finyang
 lazyData,billvenables
 lazyeval,hadley
+lazymatrix,vsegersall
 lazysf,hypertidy
 lazysql,uweblock
 lazytrade,vzhomeexperiments
@@ -16466,6 +16468,7 @@ packHV,hvaret
 packMBPLSDA,cran
 packrat,rstudio
 pacman,trinker
+paco,ligophorus
 pacotest,maltekurz
 pacs,polkas
 pacta.loanbook,rmi-pacta
@@ -23177,6 +23180,7 @@ specieschrom,loick-klpr
 SPECK,cran
 speckle,bioc
 specL,bioc
+specmine.datasets,pedrofontao
 SpeCond,bioc
 specr,masurp
 specs,wijler
@@ -25676,7 +25680,7 @@ ultrapolaRplot,cran
 umap,tkonopka
 Umatrix,cran
 umbridge,linusseelinger
-ume,cran
+ume,boriskoch
 UMI4Cats,bioc
 umiAnalyzer,sfilges
 Umoments,innager
