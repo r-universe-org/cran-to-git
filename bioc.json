@@ -1708,13 +1708,13 @@
   {
     "package": "Cardinal",
     "maintainer": "Kylie Ariel Bemis <k.bemis@northeastern.edu>",
-    "url": "https://github.com/kuwisdelu/cardinal",
+    "url": "https://github.com/cardinalverse/cardinal",
     "registry": "bioc"
   },
   {
     "package": "CardinalIO",
     "maintainer": "Kylie Ariel Bemis <k.bemis@northeastern.edu>",
-    "url": "https://github.com/kuwisdelu/cardinalio",
+    "url": "https://github.com/cardinalverse/cardinalio",
     "registry": "bioc"
   },
   {
@@ -9244,6 +9244,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ontoProc2",
+    "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
+    "url": "https://github.com/vjcitn/ontoproc2",
+    "registry": "bioc"
+  },
+  {
     "package": "openCyto",
     "maintainer": "Mike Jiang <mike@ozette.com>",
     "url": "https://git.bioconductor.org/packages/openCyto",
@@ -13883,7 +13889,7 @@
   },
   {
     "package": "TSENAT",
-    "maintainer": "Cristóbal Gallardo <gallardoalba@pm.me>",
+    "maintainer": "Cristóbal Gallardo Alba <gallardoalba@pm.me>",
     "url": "https://github.com/gallardoalba/tsenat",
     "registry": "bioc"
   },

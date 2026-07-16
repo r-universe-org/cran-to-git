@@ -392,6 +392,7 @@ ahocorasick,yousa-mirage
 AhoCorasickTrie,chambm
 AHPGaussian,cidedson
 AHPhybrid,miguellellis
+ahpsurvey,frankiecho
 AHPtools,amarnathbose
 ahptopsis2n,raqueldourado
 AHPWR,lucianea
@@ -765,6 +766,7 @@ apng,cran
 Apoderoides,sa-to-shi-a-o-ki
 apollo,stephanehess
 apor,cran
+appac,cran
 appeears,bluegreen-labs
 APPEstimation,eisuke-inoue
 appleadsR,pablosanmar
@@ -1554,6 +1556,7 @@ BBmisc,berndbischl
 bbmix,evigorito
 bbmle,bbolker
 bbnet,vda1r22
+BBNI,anson-li8
 bbotk,mlr-org
 bbreg,cran
 bbssr,gosukehommaex
@@ -4197,7 +4200,7 @@ coreCT,troyhill
 CoreGx,bioc
 coreheat,cran
 corehunter,hdbeukel
-CORElearn,rmarko
+CORElearn,cran
 corella,atlasoflivingaustralia
 corels,corels
 CoreMicrobiomeR,cran
@@ -4704,6 +4707,7 @@ curveDepth,pavlomozharovskyi
 curves,rvalavi
 curvHDR,mattwand
 curvir,trnnick
+cusna,cran
 cusp,raoelg
 custom.gauss.quad,pvkabaila
 customCMPdb,bioc
@@ -7812,6 +7816,7 @@ flatr,evilgraham
 flattabler,josesamos
 flatxml,jsugarelli
 fledge,cynkra
+fletcher,chrislongros
 flevr,bdwilliamson
 flex,cran
 flexBART,skdeshpande91
@@ -8546,6 +8551,7 @@ gdistance,agrdatasci
 gdldata,globaldatalab
 gdm,fitzlab-al
 gDNAx,bioc
+gdpar,isadorenabi
 gdpc,esmucler
 GDPuc,pik-piam
 gDR,bioc
@@ -11962,6 +11968,7 @@ KRIS,cran
 KRLS,j-hai
 krm,youyifong
 KRMM,ljacquin
+kro.inv.test,seungbongjung
 kronos,thomazbastiaanssen
 KRONX,oismrg-saamlab
 kronxNBC,oismrg-saamlab
@@ -13078,6 +13085,7 @@ marginme,samuel-watson
 margins,bbolker
 marima,cran
 marimekko,gogonzo
+MarineChain,ikemillar
 marinepredator,urbs-dev
 mariner,bioc
 MariNET,cran
@@ -13462,6 +13470,7 @@ MEDIPS,bioc
 meditations,jacobkap
 MedLEA,thiyangtdata
 MEDME,bioc
+medmod,raviselker
 medparser,oortelli
 medrxivr,ropensci
 medScan,umich-cphds
@@ -16093,6 +16102,7 @@ ontologyPlot,daniel-jg
 ontologySimilarity,daniel-jg
 ontophylo,diegosasso
 ontoProc,bioc
+ontoProc2,bioc
 OOBCurve,philipppro
 OofAExp,shinfu666
 oolong,gesistsa
@@ -16831,7 +16841,7 @@ PCovR,cran
 PCpluS,florianpein
 pcpr,columbia-prime
 PCPS,vanderleidebastiani
-PCRA,martinrd3d
+PCRA,robustport
 PCRedux,pcruniversum
 pcreg,cran
 PCS,jasonwilson2024
@@ -17808,7 +17818,6 @@ pqrBayes,cenwu
 pqrfe,iandanilevicz
 pqsfinder,bioc
 pQTLdata,jinghuazhao
-PRA,paulgovan
 praatpicture,rpuggaardrode
 prabclus,chrhennig
 pracma,hwborchers
@@ -19368,6 +19377,7 @@ Rduinoiot,flavioleccese92
 Rdune,nvietto
 rdwd,brry
 rdwplus,apear9
+rdyncall,hongyuanjia
 re,pythonicr
 re2,girishji
 reaborn,shawntz
@@ -20652,6 +20662,7 @@ roxygen2,r-lib
 roxygen2md,r-lib
 roxyglobals,anthonynorth
 roxylint,openpharma
+roxyreqs,mnlang
 roxytest,mikldk
 roxytypes,openpharma
 RPA,bioc
@@ -20691,6 +20702,7 @@ RPhosFate,gisler
 rphylo,007v
 Rphylopars,ericgoolsby
 rphylopic,palaeoverse
+rpic,milkway
 rpinterest,colinfay
 RPIV,cyrillsch
 rplanes,signaturescience
@@ -21843,7 +21855,7 @@ semfindr,sfcheung
 semgram,omstuhler
 SEMgraph,fernandopalluzzi
 semhelpinghands,sfcheung
-semiArtificial,rmarko
+semiArtificial,cran
 semicmprskcoxmsm,cran
 SemiCompRisks,kleest0
 semicontMANOVA,cran
@@ -24343,6 +24355,7 @@ tanggle,bioc
 TangledFeatures,allen-1242
 tangram,spgarbet
 tangram.pipe,thomasgstewart
+tantivyr,strategicprojects
 TapeR,vochr
 taperNOR,smartforest-no
 TapeS,vochr
@@ -25565,6 +25578,7 @@ twc,imarkonis
 twdtw,vwmaus
 tweeDEseq,bioc
 tweedie,peterkdunn
+tweedieDistr,stefanodamato
 tweenr,thomasp85
 tweetcheck,wurli
 twenty48,rossellhayes

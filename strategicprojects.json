@@ -6,7 +6,7 @@
   },
   {
     "package": "BigDataPE",
-    "maintainer": "Andre Leite <leite@castlab.org>",
+    "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/bigdatape"
   },
   {
@@ -62,7 +62,8 @@
   {
     "package": "pdfsigner",
     "maintainer": "Andre Leite <leite@castlab.org>",
-    "url": "https://github.com/strategicprojects/pdfsigner"
+    "url": "https://github.com/strategicprojects/pdfsigner",
+    "registry": "archived"
   },
   {
     "package": "pikchr",
@@ -88,6 +89,11 @@
     "package": "rsei",
     "maintainer": "Andre Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/rsei"
+  },
+  {
+    "package": "tantivyr",
+    "maintainer": "Andre Leite <leite@castlab.org>",
+    "url": "https://github.com/strategicprojects/tantivyr"
   },
   {
     "package": "tceper",

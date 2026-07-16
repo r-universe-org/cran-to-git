@@ -7,7 +7,8 @@
   {
     "package": "contdid",
     "maintainer": "Brantly Callaway <brantly.callaway@uga.edu>",
-    "url": "https://github.com/bcallaway11/contdid"
+    "url": "https://github.com/bcallaway11/contdid",
+    "registry": "archived"
   },
   {
     "package": "did",
@@ -17,11 +18,13 @@
   {
     "package": "ptetools",
     "maintainer": "Brantly Callaway <brantly.callaway@uga.edu>",
-    "url": "https://github.com/bcallaway11/ptetools"
+    "url": "https://github.com/bcallaway11/ptetools",
+    "registry": "archived"
   },
   {
     "package": "qte",
     "maintainer": "Brantly Callaway <brantly.callaway@uga.edu>",
-    "url": "https://github.com/bcallaway11/qte"
+    "url": "https://github.com/bcallaway11/qte",
+    "registry": "archived"
   }
 ]
