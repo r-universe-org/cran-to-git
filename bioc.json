@@ -865,6 +865,12 @@
     "registry": "bioc"
   },
   {
+    "package": "barmixR",
+    "maintainer": "Mohammad Darbalaei <mohammad.darbalaei@uni-due.de>",
+    "url": "https://github.com/mohammaddarbalaei/barmixr",
+    "registry": "bioc"
+  },
+  {
     "package": "BaseSpaceR",
     "maintainer": "Jared O'Connell <joconnell@illumina.com>",
     "url": "https://git.bioconductor.org/packages/BaseSpaceR",
@@ -5340,6 +5346,12 @@
     "package": "GEWIST",
     "maintainer": "Wei Q. Deng <dengwq@mcmaster.ca>",
     "url": "https://git.bioconductor.org/packages/GEWIST",
+    "registry": "bioc"
+  },
+  {
+    "package": "GExPipe",
+    "maintainer": "Safa Rafique <safa.sandhu@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/GExPipe",
     "registry": "bioc"
   },
   {
@@ -14293,6 +14305,12 @@
     "package": "Wrench",
     "maintainer": "Hector Corrada Bravo <hcorrada@gmail.com>",
     "url": "https://github.com/hcbravolab/wrench",
+    "registry": "bioc"
+  },
+  {
+    "package": "wSIR",
+    "maintainer": "Max Woollard <mwoo5086@uni.sydney.edu.au>",
+    "url": "https://github.com/sydneybiox/wsir",
     "registry": "bioc"
   },
   {

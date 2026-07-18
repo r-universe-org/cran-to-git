@@ -334,6 +334,7 @@ aftsem,benedma2
 afttest,woojungbae
 ag5Tools,agrdatasci
 AGBQR,khder90
+AGCA4extremes,a91quaini
 agcounts,bhelsel
 AGD,stefvanbuuren
 AGDEX,bioc
@@ -1292,6 +1293,7 @@ baRcodeR,ropensci
 BarcodingR,zhangab2008
 BAREB,rh8liuqy
 bark,merliseclyde
+barmixR,bioc
 Barnard,kerguler
 barrel,barrancoelena
 barrks,jjentschke
@@ -5949,7 +5951,6 @@ dreamer,rich-payne
 dreamerr,lrberge
 dreamlet,bioc
 DREGAR,hamedhm
-dress.graph,velicast
 drf,jeffnaef
 drgee,drjoze
 drglm,nayemmh
@@ -6028,6 +6029,7 @@ dsm,distancedevelopment
 dsmmR,mavrogiannis-ioannis
 DSMolgenisArmadillo,molgenis
 dsmSearch,billbillbilly
+dsn,hypertidy
 DSOpal,datashield
 dsos,vathymut
 dsp,schafert
@@ -7849,6 +7851,7 @@ FlexRL,robachowyk
 flexrsurv,grzebyk
 FlexScan,marsdu1989
 flexsiteboard,struckma
+flexstanr,accidda
 flexsurv,chjackson
 flexsurvcure,jrdnmdhl
 flextable,davidgohel
@@ -8908,6 +8911,7 @@ GEVACO,cran
 GEVcdn,alexcannon
 GEWIST,bioc
 gexp,ivanalaman
+GExPipe,bioc
 geyser,bioc
 geysertimes,geysertimes
 GFA,eemeii
@@ -8932,6 +8936,7 @@ gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
 gg1d,selkamand
 gg4way,bioc
+ggadjustedforest,kriz98
 ggalign,yunuuuu
 ggaligner,mohmedsoudy
 ggalignment,aftonsteps
@@ -9155,6 +9160,7 @@ ggseqplot,maraab23
 ggshadow,marcmenem
 ggside,jtlandis
 ggsignif,const-ae
+ggsketch,orijitghosh
 ggskewboxplots,mcavs
 ggsky,uskovgs
 ggsmc,richardgeveritt
@@ -10432,6 +10438,7 @@ homologene,oganm
 homomorpheR,bnaras
 HomomorphicEncryption,bquast
 HonestDiD,asheshrambachan
+hood2net,csqsiew
 hoodscanR,bioc
 hoopR,sportsdataverse
 hopach,bioc
@@ -11911,7 +11918,6 @@ kmi,aallignol
 KMLtoSHAPE,cran
 kmodR,cran
 KMsurv,jun-yan
-KMT,jwboys26
 KMunicate,ellessenne
 KnapsackSampling,chinsoon12
 KneeArrower,cran
@@ -12442,6 +12448,7 @@ lineup,kbroman
 lineup2,kbroman
 lineupjs,lineupjs
 linevis,thomaschln
+lingamr,morimotoosamu
 lingdist,fncokg
 lingglosses,agricolamz
 lingmatch,miserman
@@ -15446,6 +15453,7 @@ NHANES,rpruim
 nhanesA,cjendres1
 nhanesdata,kylegrealis
 nhanesdiva,snowepi
+nhanesR,dwinsemius
 nhdplusTools,doi-usgs
 nhdR,jsta
 NHLData,cran
@@ -20065,6 +20073,7 @@ ridgregextra,filizkrdg
 ridigbio,idigbio
 riem,ropensci
 Riemann,kisungyou
+riemannianStats,cran
 RiemBase,kisungyou
 riemtan,nicoesve
 Riex,theeliteanalyst
@@ -23609,6 +23618,7 @@ staRdom,matthiaspucher
 STAREG,cran
 staRgate,bioc
 stargazer,marekhlavac
+stargazer2,cran
 starling,nrsmoll
 starm,cran
 starma,fcheysson
@@ -23633,6 +23643,7 @@ Statamarkdown,hemken
 statAPA,causalfragility-lab
 statar,matthieugomez
 statBasics,gilberto-sassi
+statcanR,warint
 statcheck,michelenuijten
 statcodelists,antaldaniel
 statcomp,cran
@@ -24217,6 +24228,7 @@ swjm,jaredhuling
 SWMPr,fawda123
 SwPcIndex,cran
 SWTools,matt-s-gibbs
+sybilion,cran
 sylcount,wrathematics
 syllabifyr,jofrhwld
 syllogi,cran
@@ -25738,6 +25750,7 @@ uni.shrinkage,cran
 uni.survival.tree,takeshiemura1
 uniah,zea23i651096531
 unicefData,unicef-drp
+UniCensor,shikhartyagi
 Unico,cozygene
 Unicode,kurthornik
 unicol,hneth
@@ -26677,6 +26690,7 @@ wrTopDownFrag,wraff
 wru,kosukeimai
 wsbackfit,cran
 WSCdata,jzangela
+wSIR,bioc
 wsjplot,slee981
 wskm,cran
 wsMed,yangzhen1999
