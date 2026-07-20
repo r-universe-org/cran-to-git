@@ -3201,6 +3201,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DAssemble",
+    "maintainer": "Nalin Arora <naa4050@med.cornell.edu>",
+    "url": "https://github.com/himelmallick/dassemble",
+    "registry": "bioc"
+  },
+  {
     "package": "daVis",
     "maintainer": "Katarzyna Gorczak <katarzyna.gorczak@openanalytics.eu>",
     "url": "https://github.com/openanalytics/davis",
@@ -5350,7 +5356,7 @@
   },
   {
     "package": "GExPipe",
-    "maintainer": "Safa Rafique <safa.sandhu@gmail.com>",
+    "maintainer": "ERROR",
     "url": "https://git.bioconductor.org/packages/GExPipe",
     "registry": "bioc"
   },

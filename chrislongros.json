@@ -18,5 +18,15 @@
     "package": "freebsdcontribs",
     "maintainer": "Christos Longros <chris.longros@gmail.com>",
     "url": "https://github.com/chrislongros/freebsdcontribs"
+  },
+  {
+    "package": "osscontribs",
+    "maintainer": "Christos Longros <chris.longros@gmail.com>",
+    "url": "https://github.com/chrislongros/osscontribs"
+  },
+  {
+    "package": "srsbench",
+    "maintainer": "Christos Longros <chris.longros@gmail.com>",
+    "url": "https://github.com/chrislongros/srsbench"
   }
 ]
