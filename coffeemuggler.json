@@ -1,12 +1,7 @@
 [
   {
-    "package": "caTools",
-    "maintainer": "Michael Dietze <michael.dietze@uni-goettingen.de>",
-    "url": "https://github.com/cran/caTools"
-  },
-  {
     "package": "EMMAgeo",
-    "maintainer": "Michael Dietze <michael.dietze@uni-goettingen.de>",
+    "maintainer": "Michael Dietze <michael.dietze@geo.rwth-aachen.de>",
     "url": "https://github.com/coffeemuggler/emmageo"
   },
   {
@@ -16,7 +11,7 @@
   },
   {
     "package": "sandbox",
-    "maintainer": "Michael Dietze <michael.dietze@uni-goettingen.de>",
+    "maintainer": "Michael Dietze <michael.dietze@geo.rwth-aachen.de>",
     "url": "https://github.com/coffeemuggler/sandbox"
   }
 ]
