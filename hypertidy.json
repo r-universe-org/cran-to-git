@@ -90,6 +90,11 @@
     "url": "https://github.com/hypertidy/tabularaster"
   },
   {
+    "package": "textures",
+    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
+    "url": "https://github.com/hypertidy/textures"
+  },
+  {
     "package": "tissot",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/hypertidy/tissot"
@@ -113,5 +118,10 @@
     "package": "wkpool",
     "maintainer": "Michael Sumner <mdsumner@gmail.com>",
     "url": "https://github.com/hypertidy/wkpool"
+  },
+  {
+    "package": "ximage",
+    "maintainer": "Michael D. Sumner <mdsumner@gmail.com>",
+    "url": "https://github.com/hypertidy/ximage"
   }
 ]

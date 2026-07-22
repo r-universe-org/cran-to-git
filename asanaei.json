@@ -5,6 +5,16 @@
     "url": "https://github.com/asanaei/llmr"
   },
   {
+    "package": "LLMR.shiny",
+    "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
+    "url": "https://github.com/asanaei/llmr.shiny"
+  },
+  {
+    "package": "LLMRagent",
+    "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
+    "url": "https://github.com/asanaei/llmragent"
+  },
+  {
     "package": "recoder",
     "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
     "url": "https://github.com/cran/recoder"
