@@ -1,5 +1,10 @@
 [
   {
+    "package": "doseminer",
+    "maintainer": "David Selby <david_antony.selby@dfki.de>",
+    "url": "https://github.com/selbosh/doseminer"
+  },
+  {
     "package": "ggChernoff",
     "maintainer": "David Selby <selby@cs.uni-kl.de>",
     "url": "https://github.com/selbosh/ggchernoff"

@@ -5356,8 +5356,8 @@
   },
   {
     "package": "GExPipe",
-    "maintainer": "ERROR",
-    "url": "https://git.bioconductor.org/packages/GExPipe",
+    "maintainer": "Safa Rafique <safa.sandhu@gmail.com>",
+    "url": "https://github.com/safarafique/gexpipe",
     "registry": "bioc"
   },
   {
@@ -10594,6 +10594,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RBPSpecificity",
+    "maintainer": "Soon Yi <cu.soonyi@gmail.com>",
+    "url": "https://github.com/s00nyi/rbpspecificity",
+    "registry": "bioc"
+  },
+  {
     "package": "rbsurv",
     "maintainer": "Soo-heang Eo <hanansh@korea.ac.kr>",
     "url": "https://git.bioconductor.org/packages/rbsurv",
@@ -11473,6 +11479,12 @@
     "package": "S4Arrays",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/s4arrays",
+    "registry": "bioc"
+  },
+  {
+    "package": "S4Cartographer",
+    "maintainer": "Malte Thodberg <maltethodberg@gmail.com>",
+    "url": "https://github.com/maltethodberg/s4cartographer",
     "registry": "bioc"
   },
   {
@@ -13735,6 +13747,12 @@
     "package": "tradeSeq",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://github.com/statomics/tradeseq",
+    "registry": "bioc"
+  },
+  {
+    "package": "TraianProt",
+    "maintainer": "Samuel de la Camara Fuentes <sdelacam@ucm.es>",
+    "url": "https://github.com/samueldelacamarafuentes/traianprot",
     "registry": "bioc"
   },
   {

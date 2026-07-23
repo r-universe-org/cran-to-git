@@ -15,8 +15,13 @@
     "url": "https://github.com/cran/ctv"
   },
   {
+    "package": "dichromat",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://github.com/cran/dichromat"
+  },
+  {
     "package": "distributions3",
-    "maintainer": "Alex Hayes <alexpghayes@gmail.com>",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/zeileis/distributions3"
   },
   {

@@ -75,6 +75,11 @@
     "url": "https://github.com/mlr-org/mlr3filters"
   },
   {
+    "package": "mlr3forecast",
+    "maintainer": "Maximilian Mücke <muecke.maximilian@gmail.com>",
+    "url": "https://github.com/mlr-org/mlr3forecast"
+  },
+  {
     "package": "mlr3fselect",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3fselect"
