@@ -2538,6 +2538,7 @@ bundle,rstudio
 bunsen,cran
 buoyant,posit-dev
 bupaR,bupaverse
+burakDiagrams,cran
 burgle,paulgunsalus
 burnr,ltrr-arizona-edu
 bursa,ozancanozdemir
@@ -2806,6 +2807,7 @@ cati,adrientaudiere
 catIrt,swnydick
 catlearn,ajwills72
 catmaply,verkehrsbetriebezuerich
+catmodeling,stephenjewson
 catool,dawit3000
 caTools,cran
 CatPredi,ibarrioberaza
@@ -3630,6 +3632,7 @@ CMapViz,peyronlab
 cmaRs,yaziciceyda
 CMatching,cran
 cmbClust,cran
+CMCMC,cran
 cmdfun,snystrom
 CMF,cyianor
 cmfrec,david-cortes
@@ -4129,6 +4132,7 @@ ContRespPP,jcliff89
 contribution,openbiox
 control,benubah
 controlfunctionIV,zijguo
+controller,joeroe
 controlTest,erickawaguchi
 contsurvplot,robindenz1
 contTimeCausal,sth1402
@@ -5248,6 +5252,7 @@ DeMixT,bioc
 DemoDecomp,timriffe
 demodelr,jmzobitz
 demofit,kakijackieli
+DemogAnr,cran
 demogR,hanase
 DemographicTable,tingtingzhan
 demography,robjhyndman
@@ -5667,7 +5672,7 @@ distfreereg,small-epsilon
 distfromq,elray1
 distill,rstudio
 distilleR,openefsa
-distillery,cran
+distillery,ericgillelandcsu
 distinct,bioc
 distinctiveness,iandreafc
 distionary,ropensci
@@ -6001,6 +6006,7 @@ drugDemand,kaifenglu
 drugdevelopR,sterniii3
 DrugExposureDiagnostics,darwin-eu
 drugfindR,bioc
+drugprepr,belayb
 drugsens,flalom
 DrugSim2DR,hanjunwei-lab
 drugTargetInteractions,bioc
@@ -6162,6 +6168,7 @@ DYM,kos59125
 DyMEP,ftschurr
 dymo,pigian
 dyn,markleeds2
+Dyn4cast,jobnmadu
 dynafluxr,sgsokol
 dynamac,andyphilips
 dynamicpv,msdllcpapers
@@ -6523,6 +6530,7 @@ eiCircles,cran
 eicm,miguel-porto
 EIEntropy,sfrana-prog
 eiExpand,rachel-carroll
+eigencore,bbuchsbaum
 eigenmodel,pdhoff
 eiIT,cran
 eikosograms,rwoldford
@@ -7221,7 +7229,7 @@ extremefit,kevinjaunatre
 extremeIndex,maxtailt
 extrememix,manueleleonelli
 ExtremeRisks,simonepadoan
-extRemes,cran
+extRemes,ericgillelandcsu
 extremeStat,brry
 extremevalues,markvanderloo
 extremis,extremestats
@@ -7323,6 +7331,7 @@ fail,mllg
 fairadapt,dplecko
 fairGATE,rhysholland
 fairGNN,rhysholland
+fairlieR,cathybu9
 FAIRmaterials,cwru-sdle
 fairmetrics,jianhuig
 fairml,cran
@@ -8877,6 +8886,7 @@ GeoVersa,hugomachadorodrigues
 geovizr,riatelab
 geovol,scmartins
 GeoWeightedModel,javierdelahoz
+geozarr,r-cf
 geozoo,schloerke
 gep2pep,bioc
 gepaf,riatelab
@@ -9211,6 +9221,7 @@ ggthemeUL,mrmarjan
 ggtibble,humanpred
 ggtikz,osthomas
 ggtime,mitchelloharawild
+ggtintshade,wkumler
 ggtrace,rnabioco
 ggtranslate,mathiasleroy
 ggtree,bioc
@@ -10084,6 +10095,7 @@ hatsurvey,haqqulamin06
 HausdorffGoF,fakecloudsjy
 havel,andrewghazi
 haven,tidyverse
+HawaSpatial,abdisalammuse
 hawkes,riadhzaatour
 hawkesbow,fcheysson
 hawkinR,hawkindynamics
@@ -10396,6 +10408,7 @@ hkevp,lbelzile
 HKRbook,sigbertklinke
 hlaR,larsenlab
 HLAtools,sjmack
+HLCtools,guilhermefranchi
 hlidacr,skvrnami
 HLMdiag,aloy
 hlmLab,causalfragility-lab
@@ -11448,7 +11461,7 @@ islify,bioc
 ISLR,trevorhastie
 ISLR2,trevorhastie
 ISM,gunjan15
-ismev,cran
+ismev,ericgillelandcsu
 ismtchile,mrosas47
 ISMtools,tangyi82
 isni,cran
@@ -12649,6 +12662,7 @@ locaR,rhedley
 locateip,judith-bourque
 locatexec,ardata-fr
 locationgamer,maxcal88
+locatr,prigasg
 LocaTT,urodelan
 locdiff,niechunxiao
 locfdr,hrpcisd
@@ -13121,6 +13135,7 @@ marelac,karlines
 MareyMap,lbbe-software
 marg,arbrazzale
 margaret,coreofscience
+margEVT,rodrigosqrt3
 marginaleffects,vincentarelbundock
 marginalizedRisk,youyifong
 MarginalMaxTest,canyi-chen
@@ -14201,6 +14216,7 @@ MLE,cran
 mlearning,sciviews
 MLEce,ijun2018
 MLEcens,cran
+MleCensoR,shikhartyagi
 mlegp,gdancik
 mlelod,gregorsega
 mlergm,jrstew
@@ -15787,7 +15803,7 @@ NPCox,yqml
 npcp,cran
 npcs,tctsung
 npcure,iullibarri
-npcurePK,cran
+npcurePK,wendesafari
 npde,ecomets
 npDoseResponse,zhangyk8
 npdsim,mohammedhichame
@@ -16327,6 +16343,7 @@ orbitr,drosenman
 orbweaver,ixpantia
 orca,thocevar
 orcamentoBR,cran
+orchaRd,daniel1noble
 orcidtr,lorenzofabbri
 orclus,g-rho
 ORCME,cran
@@ -16691,7 +16708,7 @@ paramlink2,magnusdv
 paramsim,sta189332
 paramtest,jeff-hughes
 paran,alexisdinno
-parasiteR,juanmac1
+parasiteR,dvelop-r
 parati,bioc
 parcats,erblast
 ParCC,drpakhare
@@ -18725,6 +18742,7 @@ Qval,haijiangq
 qvalue,bioc
 qVarSel,stefanobenati
 qvcalc,davidfirth
+qviewparsR,cttir
 qvirus,juan-acu
 qwalkr,vitormarquesr
 QWDAP,cran
@@ -19194,6 +19212,7 @@ rChEA3,ckntav
 rchemo,chemhouse-group
 rcheology,hughjonesd
 RChest,azalk
+rchime,mothur
 RchivalTag,cran
 Rchoice,mauricio1986
 rChoiceDialogs,alexfoxfox
@@ -19714,7 +19733,7 @@ ReliaPlotR,paulgovan
 reliaR,vkumar123vkumar
 ReliaShiny,paulgovan
 relimp,davidfirth
-RelimpPCR,michhernand
+RelimpPCR,dougrizo
 relliptical,katherineloor
 relMix,gdorum
 relSim,jmcurran
@@ -20004,6 +20023,7 @@ RGeode,lorenzorimella
 rgeomorphon,brownag
 rgeomstats,lmjl-alea
 rgeopat2,nowosad
+rgexf,gvegayon
 RGF,mlampros
 Rgff,cran
 rGhanaCensus,ktemadarko
@@ -21747,6 +21767,7 @@ scrypt,bobjansen
 scryr,curso-r
 scs,florianschwendinger
 scShapes,bioc
+scShardSplitRef,irinavkuznetsova
 scSpatialSIM,fridleylab
 scTenifoldKnk,cailab-tamu
 scTenifoldNet,cailab-tamu
@@ -21832,6 +21853,7 @@ seasonalytics,cran
 SeaSondeR,gofuvi
 seastests,danielollech
 SeaVal,cran
+sebkc,gowusu
 SeBR,drkowal
 SECFISH,isabella84
 sechm,bioc
@@ -22837,7 +22859,7 @@ smoothemplik,fifis
 SmoothHazard,tagteam
 smoothHR,arturstat
 smoothic,meadhbh-oneill
-smoothie,cran
+smoothie,ericgillelandcsu
 smoothmest,chrhennig
 SmoothPLS,francoisbassac
 smoothr,mstrimas
@@ -23206,7 +23228,7 @@ spatialSimGP,bioc
 spatialTIME,fridleylab
 SpatialTools,jfrench
 SpatialVS,yili-hong
-SpatialVx,cran
+SpatialVx,ericgillelandcsu
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
 SpatMCA,egpivo
@@ -23750,6 +23772,7 @@ StatRank,hosseinazari
 StatRec,cran
 stats19,ropensci
 stats4teaching,estebancabello
+statsapps,vbaliga
 statsearchanalyticsr,sditools
 statsExpressions,indrajeetpatil
 statsr,statswithr
@@ -26150,7 +26173,7 @@ verbalisr,magnusdv
 verdadecu,demografiando
 verdata,hrdag
 verhoeff,condwanaland
-verification,cran
+verification,ericgillelandcsu
 verifyr2,ejuhjav
 vermeulen,ramiromagno
 versioning,cran

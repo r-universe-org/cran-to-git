@@ -2,7 +2,8 @@
   {
     "package": "countrycode",
     "maintainer": "Vincent Arel-Bundock <vincent.arel-bundock@umontreal.ca>",
-    "url": "https://github.com/vincentarelbundock/countrycode"
+    "url": "https://github.com/vincentarelbundock/countrycode",
+    "subdir": "r"
   },
   {
     "package": "marginaleffects",
