@@ -20,11 +20,6 @@
     "url": "https://github.com/insightsengineering/dunlin"
   },
   {
-    "package": "formatters",
-    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
-    "url": "https://github.com/insightsengineering/formatters"
-  },
-  {
     "package": "ggplot2.utils",
     "maintainer": "Daniel Sabanés Bové <daniel.sabanes_bove@rconis.com>",
     "url": "https://github.com/insightsengineering/ggplot2.utils"
@@ -43,11 +38,6 @@
     "package": "roxy.shinylive",
     "maintainer": "Pawel Rucki <pawel.rucki@roche.com>",
     "url": "https://github.com/insightsengineering/roxy.shinylive"
-  },
-  {
-    "package": "rtables",
-    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
-    "url": "https://github.com/insightsengineering/rtables"
   },
   {
     "package": "rtables.officer",
@@ -118,11 +108,6 @@
     "package": "teal.widgets",
     "maintainer": "Dony Unardi <unardid@gene.com>",
     "url": "https://github.com/insightsengineering/teal.widgets"
-  },
-  {
-    "package": "tern",
-    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
-    "url": "https://github.com/insightsengineering/tern"
   },
   {
     "package": "tern.gee",

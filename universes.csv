@@ -115,7 +115,6 @@ acroname,vpnagraj
 acsmoe,dshkol
 acss,cran
 acss.data,singmann
-ACSSpack,nkyangtzeqian
 ACSWR,prabhanjan-tattar
 act,oliverehmer
 ACTCD,wenchao-ma
@@ -1425,7 +1424,6 @@ BayesForge,cran
 BayesFR,benjamin-rosenbaum
 bayesGARCH,ardiad
 BayesGmed,belayb
-BayesGOF,cran
 BayesGP,bayes-gp
 BayesGPfit,kangjian2016
 BayesGrowth,jonathansmart
@@ -2157,7 +2155,6 @@ blox,janobauer
 BLPestimatoR,danielbr2
 BLR,cran
 blrm,minniesun
-BLRPM,cran
 BLRShiny,kartikeyabolar
 BLRShiny2,kartikeyabolar
 blsBandit,cran
@@ -3019,7 +3016,7 @@ censcyt,bioc
 CensMFM,franciscoalencar
 censo2017,ropensci
 censo2022arg,rodriduran
-censobr,ipeagit
+censobr,ipea
 censorcopula,cran
 censored,tidymodels
 censoredAIDS,noejn2
@@ -6476,7 +6473,6 @@ eemdTDNN,cran
 EEML,ranjitstat
 eemR,pmassicotte
 eeptools,jknowles
-EESPCA,hrobertfrost
 ef,colinpmillar
 EFA.dimensions,bpoconnor
 EFA.MRFA,dnavarrogonzalez
@@ -7470,7 +7466,6 @@ fastrmodels,nflverse
 FastRWeb,s-u
 fastseg,bioc
 FastSegmentation,blytheking
-fastshap,bgreenwell
 FastStepGraph,juancolonna
 FastSurvival,gosukehommaex
 fastText,mlampros
@@ -8054,7 +8049,6 @@ foreign,cran
 forensicolors,marsicofl
 forensicpopdata,mkruijver
 forensim,mkruijver
-foreSIGHT,climateanalytics
 forestat,caf-ifrit
 forestBalance,jaredhuling
 forestControl,aberhrml
@@ -8087,7 +8081,7 @@ formatBibtex,wenjie2wang
 formatdown,graphdr
 formatR,yihui
 formattable,renkun-ken
-formatters,insightsengineering
+formatters,pharmaverse
 formods,john-harrold
 formr,rubenarslan
 FormShare,qlands
@@ -9810,7 +9804,6 @@ groupedHyperframe,tingtingzhan
 groupedHyperframe.random,tingtingzhan
 groupedSurv,dcibioinformatics
 grouper,zimmy313
-groupICA,cran
 groupr,ngriffiths21
 grouprar,neptune555
 GroupSeq,rpahl
@@ -10142,7 +10135,6 @@ hdbma,qingzhaoyu
 HDBRR,castlemon
 hdcate,cran
 HDCD,cran
-HDCI,xinxuyale
 HDclassif,lrberge
 HDclust,cran
 HDcpDetect,natasha-stewart
@@ -10838,6 +10830,7 @@ idarps,lionelvoirol
 idbr,walkerke
 IDCard,marsdu1989
 idcnrba,westat-schneider
+IDConverter,wanglabcsu
 IDE,andrewzm
 IDEAFilter,biogen-inc
 ideal,bioc
@@ -11559,7 +11552,6 @@ itrimhoch,cran
 its.analysis,patrick-eng
 itsadug,jacolien
 itscalledsoccer,american-soccer-analysis
-itsdm,lleisong
 itsmr,georgeweigt
 iucnr,paulesantos
 iv.sensemakr,carloscinelli
@@ -12814,7 +12806,6 @@ LPM,korry74
 lpmec,cjerzak
 LPmerge,jendelman
 lpNet,bioc
-LPRelevance,kaijunwang19
 lpridge,r-forge
 LPsmooth,xiangyu2022
 lpSolve,gaborcsardi
@@ -17486,7 +17477,6 @@ PlinkMatrix,bioc
 plinkQC,meyer-lab-cshl
 PLIS,zweilab
 plm,ycroissant
-PLMIX,cmollica
 PLmixed,njrockwood
 plmmr,pbreheny
 pln,falkcarl
@@ -17991,7 +17981,6 @@ PresenceAbsence,cran
 presens,matthewabirk
 presenter,harrison4192
 presentes,diegokoz
-preseqR,cran
 PResiduals,cran
 presize,dcr-unibe-ch
 presmoothedTP,gsoutinho
@@ -18300,7 +18289,6 @@ psre,cran
 PSRICalc,rfeissiv
 PSRICalcSM,rfeissiv
 psrwe,olssol
-PSS.Health,cran
 PSSIM,hwanggit
 PSSMCOOL,biocool-lab
 pssmooth,mjuraska
@@ -18438,7 +18426,6 @@ pwlapprox2d,jwarwicker
 pwlmm,cran
 PWMEnrich,bioc
 pwr,heliosdrm
-pwr2,cran
 pwr2ppl,chrisaberson
 pwr4exp,an-ethz
 pwrAB,chawm
@@ -18866,7 +18853,6 @@ rADA,cran
 RADanalysis,saeedghalati
 radar,cran
 radarBoxplot,caiohamamura
-radarchart,mangothecat
 RadData,markhogue
 radEmu,statdivlab
 RadEro,cran
@@ -20161,7 +20147,6 @@ riemtan,nicoesve
 Riex,theeliteanalyst
 rifi,bioc
 rifiComparative,bioc
-rifle,cran
 rifreg,cran
 RIFS,cran
 rifttable,stopsack
@@ -21092,7 +21077,7 @@ rt,nceas
 rt.test,statpnu
 rt3,johanjordaan
 rTableICC,haydarde
-rtables,insightsengineering
+rtables,pharmaverse
 rtables.officer,insightsengineering
 rtabulator,eoda-dev
 Rtauchen,davidzarruk
@@ -24672,7 +24657,7 @@ tergo,kpagacz
 term,poissonconsulting
 terminaldigits,cran
 terminalgraphics,cran
-tern,insightsengineering
+tern,pharmaverse
 tern.gee,insightsengineering
 tern.mmrm,insightsengineering
 Ternary,ms609

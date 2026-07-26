@@ -60,6 +60,11 @@
     "url": "https://github.com/pharmaverse/envsetup"
   },
   {
+    "package": "formatters",
+    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
+    "url": "https://github.com/pharmaverse/formatters"
+  },
+  {
     "package": "ggsurvfit",
     "maintainer": "Daniel D. Sjoberg <danield.sjoberg@gmail.com>",
     "url": "https://github.com/pharmaverse/ggsurvfit"
@@ -115,6 +120,11 @@
     "url": "https://github.com/pharmaverse/rlistings"
   },
   {
+    "package": "rtables",
+    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
+    "url": "https://github.com/pharmaverse/rtables"
+  },
+  {
     "package": "sdtm.oak",
     "maintainer": "Rammprasad Ganapathy <ganapathy.rammprasad@gene.com>",
     "url": "https://github.com/pharmaverse/sdtm.oak"
@@ -123,6 +133,11 @@
     "package": "sdtmchecks",
     "maintainer": "Will Harris <harric17@gene.com>",
     "url": "https://github.com/pharmaverse/sdtmchecks"
+  },
+  {
+    "package": "tern",
+    "maintainer": "Joe Zhu <joe.zhu@roche.com>",
+    "url": "https://github.com/pharmaverse/tern"
   },
   {
     "package": "test.assessr",
