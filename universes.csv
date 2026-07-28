@@ -2127,7 +2127,7 @@ blockForest,bips-hb
 blocking,ncn-foreigners
 blocklength,alec-stashevsky
 blockmatrix,ecor
-BlockMissingData,cran
+BlockMissingData,feixue-stat
 blockmodeling,cran
 BlockmodelingGUI,cran
 blockmodels,grosssbm
@@ -6020,7 +6020,7 @@ dryingkineticmodels,cran
 ds,cran
 ds4psy,hneth
 dsa,danielollech
-DSAIDE,ahgroup
+DSAIDE,andreashandel
 DSAIRM,ahgroup
 DSAM,lark-max
 dsample,cran
@@ -10085,6 +10085,7 @@ hash,drjphughesjr
 hashids,alshum
 hashmapR,svensglinz
 hashr,markvanderloo
+hashtable,jokergoo
 Hassani.SACF,leilamarvian
 Hassani.Silva,leilamarvian
 hassediagrams,gsk-biostatistics
@@ -12957,8 +12958,6 @@ mactivate,davezes
 maczic,nancyfcheng
 MAd,acdelre
 mada,r-forge
-MadanText,kidoishi
-MadanTextNetwork,kidoishi
 maddison,expersso
 MaddisonData,sbgraves237
 made4,bioc
@@ -15099,6 +15098,7 @@ mvhist,jpnolan
 mvhtests,cran
 mvinfluence,friendly
 MVisAGe,vonnwalter23
+MVLs,cran
 mvLSW,cran
 mvLSWimpute,cran
 mvMAPIT,lcrawlab
@@ -16321,7 +16321,7 @@ options,dgkf
 optionstrat,cran
 optiscale,cran
 optiSel,rowellmann
-optiSolve,cran
+optiSolve,rowellmann
 optistock,cran
 OptM,rfitak
 optmatch,markmfredrickson
@@ -17100,7 +17100,6 @@ PerRegMod,slimaneregui
 perry,aalfons
 perryExamples,aalfons
 persDx,zea23i651096531
-PersianStemmer,cran
 persistence,aavellone
 PersomicsArray,jsmes123
 personalized,jaredhuling
@@ -17802,6 +17801,7 @@ postlogic,rdoctaskforce
 POSTm,sth1402
 postNet,bioc
 postpack,bstaton1
+postshock,wqy497
 POT,r-forge
 potential,riatelab
 potentiomap,el-cordero
@@ -19159,7 +19159,6 @@ RBPcurve,giuseppec
 RBPSpecificity,bioc
 rbranding,epiforesite
 rbreak,zhongjun-qu
-rbrsa,obakis
 rbscCI,shimenghuang
 rbsurv,bioc
 rbtc,bpfaff
@@ -20334,7 +20333,7 @@ rmapzen,tarakc02
 rmarchingcubes,shwilks
 rmargint,alemermartinez
 RMariaDB,r-dbi
-RMark,jlaake
+RMark,sjbonner
 rmarkdown,rstudio
 rmass2,soumyasahu
 RMassBank,bioc
@@ -20969,7 +20968,6 @@ rsf,dchiu911
 rSFA,martinzaefferer
 Rsfar,haghbinh
 Rsgf,bcable
-RSGHB,rsginc
 rsgl,sgl-projects
 rshift,alexhroom
 rsi,ropensci
@@ -21196,7 +21194,7 @@ Runuran,unuran
 ruODK,ropensci
 rupturesRcpp,edelweiss611428
 rurality,cwimpy
-rurl,bart-turczynski
+rurl,cran
 rush,mlr-org
 rusk,thinkr-open
 rust,paulnorthrop
@@ -24417,7 +24415,7 @@ tables,dmurdoch
 tablesgg,rrprf
 tablespan,jhorzek
 tablet,bergsmat
-TableToLongForm,cran
+TableToLongForm,joh024
 tablexlsx,ddotta
 tabnet,mlverse
 taboolaR,pablosanmar
@@ -24728,6 +24726,7 @@ text2sdg,dwulff
 text2sdgData,psychobas
 text2vec,dselivanov
 textab,setzler
+TextAnalysisR,mshin77
 textanalyzer,cran
 textAnnotatoR,chaoliu-cl
 textBoxPlacement,barryzee

@@ -1,5 +1,11 @@
 [
   {
+    "package": "RMark",
+    "maintainer": "Simon Bonner <simon.bonner@uwo.ca>",
+    "url": "https://github.com/sjbonner/rmark",
+    "subdir": "RMark"
+  },
+  {
     "package": "RWildbook",
     "maintainer": "Simon Bonner <sbonner6@uwo.ca>",
     "url": "https://github.com/cran/RWildbook"
