@@ -1,5 +1,10 @@
 [
   {
+    "package": "jsslintr",
+    "maintainer": "Manuel Koller <kollerma@proton.me>",
+    "url": "https://github.com/cran/jsslintr"
+  },
+  {
     "package": "robustlmm",
     "maintainer": "Manuel Koller <kollerma@proton.me>",
     "url": "https://github.com/kollerma/robustlmm"

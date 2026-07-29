@@ -13522,6 +13522,12 @@
     "registry": "bioc"
   },
   {
+    "package": "TiDEomics",
+    "maintainer": "Tianen He <tianen.he@ndm.ox.ac.uk>",
+    "url": "https://github.com/hte123/tideomics",
+    "registry": "bioc"
+  },
+  {
     "package": "tidybulk",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/tidyomics/tidybulk",
