@@ -126,6 +126,7 @@ actibase,jhuwit
 actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
 actiread,jhuwit
+actiRhythm,rdazadda
 ActiSleep,n-szeto
 activAnalyzer,pydemull
 activatr,dschafer
@@ -528,6 +529,7 @@ AlphaMissenseR,bioc
 alphaN,jespernwulff
 alphaOutlier,cran
 AlphaPart,cran
+AlphaPowerHazard,shikhartyagi
 alphashape3d,beatrizpateiro
 AlphaSimR,gaynorr
 alphastable,mahditeimouri
@@ -1551,6 +1553,7 @@ BAYSTAR,edmhlin
 baytaAAR,isaakiel
 baytrends,tetratech
 BB,rvaradhan
+BBC,cran
 BBCAnalyzer,bioc
 bbdetection,cran
 BBEST,antongagin
@@ -1624,6 +1627,7 @@ bdsm,mdubel
 bdsmatrix,cran
 bdsvd,janobauer
 BDWreg,hamedhm
+BE,cran
 bea.R,us-bea
 BEACH,danniyugithub
 beachmat,bioc
@@ -2431,6 +2435,7 @@ broom.mixed,bbolker
 brotli,jeroen
 BrowserViz,bioc
 BRPL,cran
+brpop,rfsaldanha
 Brq,rahim69
 brranching,ropensci
 BRRAT,csiro
@@ -3331,6 +3336,7 @@ CIpostSelect,diallo0
 cir,assaforon
 circacompare,rwparsons
 CircaCP,shanshanchen-biostat
+circda,cran
 CirceR,ohdsi
 circhelp,achetverikov
 circle,ropensci
@@ -3894,6 +3900,7 @@ CombinS,mlaib
 combiroc,ingmbioinfo
 combiter,kota7
 COMBO,kimberlywebb
+combreg,yuzh98
 combss,benoit-liquet
 comclim,bblonder
 coMethDMR,bioc
@@ -4605,6 +4612,7 @@ CSDownscale,cran
 csdR,bioc
 cSEM,floschuberth
 csemGT,rgempp
+csemTools,cmerinos
 CSeqpat,hz6yc3
 CSeQTL,pllittle
 CSESA,xia-zhang
@@ -7358,6 +7366,7 @@ FamAgg,bioc
 famat,bioc
 FAMetA,maialba3
 FamEvent,cran
+Familia,josuechinchilla
 familial,ryan-thompson
 familiar,oncoray
 Familias,thoree
@@ -7906,6 +7915,7 @@ float,wrathematics
 flock,ivannp
 flocker,jsocolar
 flood,cran
+floodflow,gowusu
 FloodFreqPlot,aahani-r
 FLOPART,tdhock
 flora,gustavobio
@@ -8298,6 +8308,7 @@ fullfact,cran
 fullRankMatrix,pweidemueller
 fullROC,yuerany
 fun,yihui
+funbiogeo,frbcesab
 funbootband,koda86
 func2vis,raghvendra5688
 FuncDiv,gavinmdouglas
@@ -12007,6 +12018,7 @@ koinar,bioc
 kokudosuuchi,yutannihilation
 KOLaide,zpneal
 kollaR,drjohanlk
+koma,timothymerlin
 komaletter,rnuske
 konfound,konfound-project
 KONPsurv,matan-schles
@@ -12306,6 +12318,7 @@ leafSTAR,aguslespi
 leafsync,r-spatial
 leaftime,timelyportfolio
 leafwax,bradleylab
+leakaudit,anakincodex
 leakr,cherylisabella
 leakyIV,dswatson
 leapgp,knrumsey-lanl
@@ -13560,6 +13573,7 @@ MEIGOR,bioc
 mekko,ryninho
 melidosData,melidosproject
 mellio,nicomel1907
+melodi,inseefrlab
 MeLSI,bioc
 melt,ropensci
 meltt,kdonnay
@@ -13870,6 +13884,7 @@ MHQoL,stijnbpeeters
 mhsmm,cran
 MHTdiscrete,allenzhuaz
 MHTmult,allenzhuaz
+mhtopt,erickrl6-dot
 MHTrajectoryR,masedki
 mhurdle,ycroissant
 mi,bgoodri
@@ -13917,6 +13932,7 @@ MicrobiomeSurv,n-t-huyen
 MicrobiotaProcess,bioc
 MicrobTiSDA,lishijiagg
 microCRAN,stefanedwards
+microdatasus,rfsaldanha
 MicroDatosEs,ropenspain
 microdiluteR,silvia-eckert
 microeco,chiliubio
@@ -14580,6 +14596,7 @@ mosaic,projectmosaic
 mosaicCalc,projectmosaic
 mosaicCore,projectmosaic
 mosaicData,projectmosaic
+MosaiClusteR,lucp12891
 mosaics,bioc
 MOSAlloc,cran
 mosbi,bioc
@@ -15405,6 +15422,7 @@ netmeta,guido-s
 netmhc2pan,richelbilderbeek
 NetMix,solivella
 NetOrigin,jmanitz
+netpanel,kevincarson
 NetPathMiner,bioc
 netplot,usccana
 NetPreProc,gvalentini58
@@ -22249,6 +22267,7 @@ shewhartr,castlaboratory
 shidashi,dipterix
 shide,mmollayi
 ShiftConvolvePoibin,cran
+ShiftHappens,benrenard
 shiftR,andreyshabalin
 ShiftShareSE,kolesarm
 shinipsum,thinkr-open
@@ -22364,6 +22383,7 @@ shinyquiz,priism-center
 shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
+shinyrecap,fellstat
 shinyrecipes,albertoalmuinha
 shinyReports,cran
 shinyreprex,ascentsoftware
@@ -23445,6 +23465,7 @@ SplitSplitPlot,cran
 splitstackshape,mrdwab
 splitTools,mayer79
 SplitWise,mtkurbucz-ucl
+spliv,koren6684
 splm,cran
 splmm,esunroc
 splot,miserman
@@ -23723,6 +23744,7 @@ starling,nrsmoll
 starm,cran
 starma,fcheysson
 starnet,rauschenberger
+STARRS,daphnegiorgi
 starry,joe-chelladurai
 stars,r-spatial
 starschemar,josesamos
@@ -24040,6 +24062,7 @@ subselect,apedrods
 subsemble,ledell
 subSeq,bioc
 substackR,posocap
+subtitles,cornball-ai
 subtools,fkeck
 SubTS,michaelg-1
 SubtypeDrug,hanjunwei-lab
@@ -24194,7 +24217,7 @@ survivalMPL,ptuc-stats
 survivalPLANN,chupverse
 survivalREC,gsoutinho
 survivalROC,paramita-sc
-survivalSL,foucher-y
+survivalSL,chupverse
 survivalsurrogate,laylaparast
 survivalsvm,imbs-hl
 SurvivalTests,osmandag
@@ -25470,6 +25493,7 @@ TRexSelector,jasinmachkour
 Tri.Hierarchical.IBDs,ashutoshdalal97
 triact,agroscope-ch
 TriadSim,cran
+triageR,devwebwacky
 TrialEmulation,causal-lda
 trialr,brockk
 TrialSimulator,zhangh12
