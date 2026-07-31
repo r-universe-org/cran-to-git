@@ -1,5 +1,10 @@
 [
   {
+    "package": "dyadMLM",
+    "maintainer": "Pascal Küng <kueng.pascal@gmail.com>",
+    "url": "https://github.com/pascal-kueng/dyadmlm"
+  },
+  {
     "package": "wbCorr",
     "maintainer": "Pascal Küng <pascal.kueng@psychologie.uzh.ch>",
     "url": "https://github.com/pascal-kueng/wbcorr"

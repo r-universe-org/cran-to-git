@@ -1,11 +1,5 @@
 [
   {
-    "package": "galigor",
-    "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
-    "url": "https://github.com/cran/galigor",
-    "registry": "archived"
-  },
-  {
     "package": "getProxy",
     "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
     "url": "https://github.com/selesnow/getproxy"
@@ -49,12 +43,6 @@
     "package": "rlinkedinads",
     "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
     "url": "https://github.com/selesnow/rlinkedinads"
-  },
-  {
-    "package": "rmytarget",
-    "maintainer": "Alexey Seleznev <selesnow@gmail.com>",
-    "url": "https://github.com/selesnow/rmytarget",
-    "registry": "archived"
   },
   {
     "package": "rtgstat",

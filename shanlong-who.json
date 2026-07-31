@@ -1,7 +1,17 @@
 [
   {
+    "package": "cataScience",
+    "maintainer": "Shanlong Ding <dings@who.int>",
+    "url": "https://github.com/shanlong-who/catascience"
+  },
+  {
     "package": "DSIR",
     "maintainer": "Shanlong Ding <dings@who.int>",
     "url": "https://github.com/shanlong-who/dsir"
+  },
+  {
+    "package": "exmort",
+    "maintainer": "Shanlong Ding <dings@who.int>",
+    "url": "https://github.com/shanlong-who/exmort"
   }
 ]

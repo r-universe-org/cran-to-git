@@ -15,6 +15,11 @@
     "url": "https://github.com/cran/GammaFrailty"
   },
   {
+    "package": "gofmalm",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gofmalm"
+  },
+  {
     "package": "MAARTS",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MAARTS"
@@ -23,6 +28,11 @@
     "package": "MleCensoR",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MleCensoR"
+  },
+  {
+    "package": "StochFracPoisson",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/StochFracPoisson"
   },
   {
     "package": "UniCensor",
