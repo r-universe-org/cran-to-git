@@ -5649,6 +5649,12 @@
     "registry": "bioc"
   },
   {
+    "package": "GPlinksR",
+    "maintainer": "Xinran Wang <xwang210@usc.edu>",
+    "url": "https://github.com/corawang123/gplinksr",
+    "registry": "bioc"
+  },
+  {
     "package": "gpls",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://git.bioconductor.org/packages/gpls",
@@ -7701,6 +7707,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MetaPathNet",
+    "maintainer": "Zhaojie Wang <zhaojie.wang@cnrs.fr>",
+    "url": "https://github.com/zhaojie-wang/metapathnet",
+    "registry": "bioc"
+  },
+  {
     "package": "MetaPhOR",
     "maintainer": "Emily Isenhart <emily.isenhart@roswellpark.org>",
     "url": "https://git.bioconductor.org/packages/MetaPhOR",
@@ -8421,6 +8433,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MsBackendMetabolomicsWorkbench",
+    "maintainer": "Gabriele Tomè <gabriele.tome@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msbackendmetabolomicsworkbench",
+    "registry": "bioc"
+  },
+  {
     "package": "MsBackendMgf",
     "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
     "url": "https://github.com/rformassspectrometry/msbackendmgf",
@@ -8700,6 +8718,12 @@
     "package": "MultipleAlignment",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/multiplealignment",
+    "registry": "bioc"
+  },
+  {
+    "package": "multipointR",
+    "maintainer": "Martin Emons <martin.emons@uzh.ch>",
+    "url": "https://github.com/mjemons/multipointr",
     "registry": "bioc"
   },
   {
@@ -13710,7 +13734,7 @@
   {
     "package": "toppgene",
     "maintainer": "Pariksheet Nanda <pan79@pitt.edu>",
-    "url": "https://git.bioconductor.org/packages/toppgene",
+    "url": "https://github.com/immusystems-lab/toppgene",
     "registry": "bioc"
   },
   {
