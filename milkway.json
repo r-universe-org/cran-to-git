@@ -1,5 +1,10 @@
 [
   {
+    "package": "dwg2geo",
+    "maintainer": "André Leite <leite@castlab.org>",
+    "url": "https://github.com/milkway/dwg2geo-r"
+  },
+  {
     "package": "rpic",
     "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/milkway/rpic-r"

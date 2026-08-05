@@ -1,5 +1,10 @@
 [
   {
+    "package": "crbcc",
+    "maintainer": "Josef Malý <malyjos4@fit.cvut.cz>",
+    "url": "https://github.com/prl-prg/crbcc"
+  },
+  {
     "package": "mutator",
     "maintainer": "Pierre Donat-Bouillud <pierre.donat.bouillud@fit.cvut.cz>",
     "url": "https://github.com/prl-prg/mutator"

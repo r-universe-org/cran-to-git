@@ -33,5 +33,10 @@
     "package": "blockr.io",
     "maintainer": "Christoph Sax <christoph@cynkra.com>",
     "url": "https://github.com/bristolmyerssquibb/blockr.io"
+  },
+  {
+    "package": "blockr.session",
+    "maintainer": "Nicolas Bennett <nicolas@cynkra.com>",
+    "url": "https://github.com/bristolmyerssquibb/blockr.session"
   }
 ]

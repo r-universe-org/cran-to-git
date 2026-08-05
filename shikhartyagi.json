@@ -1,5 +1,10 @@
 [
   {
+    "package": "AdaptHyCensor",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/AdaptHyCensor"
+  },
+  {
     "package": "AlphaPowerHazard",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/AlphaPowerHazard"
@@ -23,6 +28,11 @@
     "package": "gofmalm",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gofmalm"
+  },
+  {
+    "package": "gofPHCS",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gofPHCS"
   },
   {
     "package": "Gofpt2",

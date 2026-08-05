@@ -11146,6 +11146,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RmzTabM",
+    "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/rmztabm",
+    "registry": "bioc"
+  },
+  {
     "package": "RNAAgeCalc",
     "maintainer": "Xu Ren <xuren2120@gmail.com>",
     "url": "https://github.com/reese3928/rnaagecalc",
@@ -12409,6 +12415,12 @@
     "package": "SimFFPE",
     "maintainer": "Lanying Wei <lanying.wei@uni-muenster.de>",
     "url": "https://git.bioconductor.org/packages/SimFFPE",
+    "registry": "bioc"
+  },
+  {
+    "package": "SimiCviz",
+    "maintainer": "Irene Marín-Goñi <imarin.4@alumni.unav.es>",
+    "url": "https://github.com/ml4bm-lab/simicviz",
     "registry": "bioc"
   },
   {
