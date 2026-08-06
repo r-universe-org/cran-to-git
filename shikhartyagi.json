@@ -15,6 +15,16 @@
     "url": "https://github.com/shikhartyagi/arvindst"
   },
   {
+    "package": "BayesQRCount",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/BayesQRCount"
+  },
+  {
+    "package": "CompRiskRel",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/CompRiskRel"
+  },
+  {
     "package": "coxmnar",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/coxmnar"
@@ -40,6 +50,11 @@
     "url": "https://github.com/cran/Gofpt2"
   },
   {
+    "package": "LugsailGR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/LugsailGR"
+  },
+  {
     "package": "MAARTS",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MAARTS"
@@ -50,6 +65,16 @@
     "url": "https://github.com/cran/MleCensoR"
   },
   {
+    "package": "MYIS",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/MYIS"
+  },
+  {
+    "package": "predHCS",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/predHCS"
+  },
+  {
     "package": "ProcessCapabilityR",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/ProcessCapabilityR"
@@ -58,6 +83,11 @@
     "package": "StochFracPoisson",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/StochFracPoisson"
+  },
+  {
+    "package": "StressCensoR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/StressCensoR"
   },
   {
     "package": "UniCensor",
