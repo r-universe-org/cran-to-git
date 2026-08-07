@@ -15,9 +15,29 @@
     "url": "https://github.com/shikhartyagi/arvindst"
   },
   {
+    "package": "BayesPanelUR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/BayesPanelUR"
+  },
+  {
     "package": "BayesQRCount",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/BayesQRCount"
+  },
+  {
+    "package": "BayesSplineUR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/BayesSplineUR"
+  },
+  {
+    "package": "BayesURTrend",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/BayesURTrend"
+  },
+  {
+    "package": "BDPTobitQR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/BDPTobitQR"
   },
   {
     "package": "CompRiskRel",
@@ -98,5 +118,15 @@
     "package": "UniCensorEM",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/UniCensorEM"
+  },
+  {
+    "package": "UniIS",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/UniIS"
+  },
+  {
+    "package": "UniLindleyApprox",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/UniLindleyApprox"
   }
 ]

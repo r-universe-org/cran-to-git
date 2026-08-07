@@ -1,5 +1,10 @@
 [
   {
+    "package": "glcdp",
+    "maintainer": "Johannes Zauner <johannes.zauner@tum.de>",
+    "url": "https://github.com/tscnlab/glc-dp-r"
+  },
+  {
     "package": "LightLogR",
     "maintainer": "Johannes Zauner <johannes.zauner@tum.de>",
     "url": "https://github.com/tscnlab/lightlogr"

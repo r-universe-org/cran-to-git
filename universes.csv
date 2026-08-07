@@ -803,7 +803,7 @@ AQEval,karlropkins
 aqfig,jlswall
 AQLSchemes,johnjsl7
 aqp,ncss-tech
-AquaAnalytix,cran
+AquaAnalytix,tanujrlbcau
 AquaBEHER,robeltakele
 aquacultuR,tellanax
 AQuadtree,raymondlagonigro
@@ -1489,6 +1489,7 @@ BayesMultMeta,ethorsn
 bayesnec,open-aims
 BayesNetBP,hyu-ub
 BayesNSGP,danielturek
+BayesPanelUR,shikhartyagi
 BayesPET,cran
 BayesPieceHazSelect,andrewgchapple
 BayesPIM,thomasklausch2
@@ -1524,6 +1525,7 @@ BayesSampling,pedrosfig
 BayesSenMC,formidify
 BayesSIM,seowoo-jung
 BayesSpace,bioc
+BayesSplineUR,shikhartyagi
 bayesSSM,bjarkehautop
 BayesSUR,mbant
 bayesSurv,cran
@@ -1539,6 +1541,7 @@ BayesTree,remcc
 BayesTreePrior,alexiajm
 BayesTSM,thomasklausch2
 BayesTwin,ingaschwabe
+BayesURTrend,shikhartyagi
 BayesVarSel,comodin19
 bayesvl,sshpa
 BayesVolcano,katjadanielzik
@@ -1600,6 +1603,7 @@ Bchron,andrewcparnell
 bclogit,tennenbaumj
 bcmaps,bcgov
 bcmixed,kzkzmr
+BCodifSIS,mohsenrzp
 bcp,zhaokg
 bcpa,eligurarie
 bcputility,tomroh
@@ -1627,6 +1631,7 @@ bdlnm,pasahe
 bdlp,cran
 bdots,collinn
 bdpar,miferreiro
+BDPTobitQR,shikhartyagi
 bdpv,cran
 bdrc,sor16
 bdribs,cran
@@ -1990,7 +1995,7 @@ BioIndex,cran
 BioInsight,cran
 bioLeak,selcukorkmaz
 biolink,aaronwolen
-biologicalActivityIndices,cran
+biologicalActivityIndices,tanujrlbcau
 BioM2,cran
 biomaRt,bioc
 biomartr,ropensci
@@ -3626,7 +3631,7 @@ clusterv,anacletolab
 ClusterVAR,aniebee
 clusterWebApp,yjzhou16
 ClustGeo,chavent
-clustGLMM,cran
+clustGLMM,vavrajan
 clustifyr,bioc
 ClustImpute,o1iv3r
 ClustIRR,bioc
@@ -4944,6 +4949,7 @@ data.validator,appsilon
 data360r,pechiyappan
 data4health,daniela-l
 dataaimsr,ropensci
+DataAudit,vinodhpmd
 DatabaseConnector,ohdsi
 DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
@@ -6408,7 +6414,7 @@ ecolottery,frmunoz
 ecolRxC,cran
 ecolTest,hugosal
 EcoMetrics,mutuasam
-EconAndProdEfficiency,cran
+EconAndProdEfficiency,tanujrlbcau
 EconCausal,isadorenabi
 econdatasets,tidy-intelligence
 econdataverse,tidy-intelligence
@@ -7825,7 +7831,7 @@ fishmethods,gnelson12
 fishMod,scott-foster
 FishPhyloMaker,gabrielnakamura
 fishpond,bioc
-FishProxCompAnalyzer,cran
+FishProxCompAnalyzer,tanujrlbcau
 fishRman,shyentist
 fishstat,sofia-taf
 fishtree,jonchang
@@ -7837,6 +7843,7 @@ fitbitScraper,corynissen
 fitbitViz,mlampros
 fitConic,cran
 fitdistcp,stephenjewson
+fitdistrBayes,ramospedroluiz
 fitdistrplus,lbbe-software
 FitDynMix,marco-bee
 fitHeavyTail,convexfi
@@ -8444,7 +8451,7 @@ FVDDPpkg,stefanodamato
 fwb,ngreifer
 FWDselect,sestelo
 fwlplot,kylebutts
-FWRGB,cran
+FWRGB,tanujrlbcau
 fwtraits,anthonybasooma
 fxl,miyamot0
 fxregime,zeileis
@@ -9408,6 +9415,7 @@ glasstabs,prigasg
 glba,ingmarvisser
 GLBFP,aureliennicosiaulaval
 glca,kim0sun
+glcdp,tscnlab
 glcm,azvoleff
 GLCMTextures,ailich
 gld,newystats
@@ -11340,6 +11348,7 @@ InterVA4,verbal-autopsy-software
 InterVA5,jarathomas
 interval,michaelfay-niaid
 intervalaverage,myoung3
+IntervalCensoredMultistateR2,luyouepiusf
 intervalpsych,matthiaskloft
 IntervalQuestionStat,garciagarjose
 intervals,edzer
@@ -12812,6 +12821,7 @@ logrx,pharmaverse
 logrxaddin,pharmaverse
 logspline,cran
 logStirling2,jblood94
+logtree,ivansortino
 lokern,r-forge
 LOLA,bioc
 lolog,statnet
@@ -12909,6 +12919,7 @@ lrd,npm27
 LRDE,bioc
 LREP,jiqiaingwu
 lrequire,rickwargo
+LRErdd,itamuria
 lrgs,abmantz
 LRMF3,rohelab
 LRMiss,benrisebrow
@@ -14482,6 +14493,7 @@ MoBPS,tpook92
 mobsim,mobiodiv
 moc.gapbk,jorgeklz
 MOCCA,hkestler
+mochita,juliocollazos64
 mockery,r-lib
 mockr,krlmlr
 mockthat,nbenn
@@ -15980,6 +15992,7 @@ NSR,bmaitner
 nsRFA,cran
 nsROC,cran
 NST,cran
+NSTempRFA,gabrielblain
 nswgeo,cidm-ph
 nsyllable,quanteda
 nTARP,cran
@@ -16692,6 +16705,7 @@ painbow,steveharoz
 painter,bsandel
 paintingr,thereallda
 paintmap,daniel-jg
+paintr,coatless-rpkg
 PAIRADISE,bioc
 paircompviz,bioc
 PairedData,cran
@@ -17801,7 +17815,7 @@ polylabelr,jolars
 polymapR,pbourkey
 polymatching,gnattino
 polyMatrix,namezys
-PolyMigR,cran
+PolyMigR,tanujrlbcau
 polynom,billvenables
 PolynomF,billvenables
 PolyPatEx,aleczwart
@@ -18439,6 +18453,7 @@ psychTools,revelle
 PsychWordVec,psychbruce
 PsyControl,maxwellhong
 psymetadata,josue-rodriguez
+PsyMetricTools,jventural
 psyntur,mark-andrews
 psyphy,cran
 PsyToolkit,klaaslusterbroodvan
@@ -18747,6 +18762,7 @@ Qtlizer,bioc
 qtlnet,cran
 QTLRel,cran
 Qtools,marco-geraci
+qtsa,leilamarvian
 qtwAcademic,chizapoth
 quadcleanR,dominiquemaucieri
 quadform,robinhankin
@@ -19485,7 +19501,7 @@ Rcriticor,faune3
 RCRnorm,cran
 rcrossref,ropensci
 Rcsdp,hcorrada
-RCSF,r-lidar
+RCSF,jean-romain
 RCSL,bioc
 rcssci,cran
 Rcssplot,tkonopka
@@ -20130,6 +20146,7 @@ RGBM,raghvendra5688
 Rgbp,jyklly
 RGCCA,rgcca-factory
 RGCxGC,danielquiroz97
+RGDrivers,diogosbr
 RGE,jmcotest
 rgee,r-spatial
 rgeedim,brownag
@@ -21575,6 +21592,7 @@ sapevom,raqueldourado
 sapfluxnetr,sapfluxnet
 sapo,lcgodoy
 SAPP,cran
+sappviz,cran
 saqgetr,skgrange
 SAR,hongooi73
 sara4r,cran
@@ -22000,10 +22018,10 @@ seeclickfixr,justindbk
 seecolor,lovestat
 seedCCA,cran
 seededlda,koheiw
-SeedImbibition,cran
+SeedImbibition,tanujrlbcau
 SeedMaker,hdhshowalter
 seedr,efernandezpascual
-SeedVigorIndex,cran
+SeedVigorIndex,tanujrlbcau
 seekr,smartiing
 seer,thiyangt
 SEERaBomb,radivot
@@ -23117,7 +23135,7 @@ soilDB,ncss-tech
 SoilFDA,cran
 soilFlux,hugomachadorodrigues
 soilfoodwebs,robertwbuchkowski
-SoilFunctionality,cran
+SoilFunctionality,tanujrlbcau
 SoilHyP,ullid
 soilhypfit,cran
 soilKey,hugomachadorodrigues
@@ -24609,6 +24627,7 @@ tanggle,bioc
 TangledFeatures,allen-1242
 tangram,spgarbet
 tangram.pipe,thomasgstewart
+tanner,growthcharts
 tantivyr,strategicprojects
 TapeR,vochr
 taperNOR,smartforest-no
@@ -24744,6 +24763,7 @@ teems,teemsphere
 tehtuner,jackmwolf
 teigen,its-likeli-jeff
 Tejapi,tejapi
+tejoR,adrigr52
 TEKRABber,bioc
 telegram,lbraglia
 telegram.bot,ebeneditos
@@ -24933,6 +24953,7 @@ tgram,cran
 TGS,sap01
 TGST,yizhenxu
 tgstat,tanaylab
+TH,cran
 TH.data,thothorn
 thames,njirons
 thamesblock,m-metodiev
@@ -25206,6 +25227,7 @@ tinyoauth,cornball-ai
 tinypkgr,cornball-ai
 tinyplot,grantmcdermott
 tinyrox,cornball-ai
+tinyroxygen,pachadotdev
 tinyscholar,shixiangwang
 tinyshinyserver,lab1702
 tinysnapshot,vincentarelbundock
@@ -26000,8 +26022,10 @@ unifir,ropensci
 uniformly,stla
 unifyR,cran
 unigd,nx10
+UniIS,shikhartyagi
 unikn,hneth
 uniLasso,trevorhastie
+UniLindleyApprox,shikhartyagi
 UniProt.ws,bioc
 UniprotR,proteomicslab57357
 uniqtag,sjackman
@@ -26303,7 +26327,7 @@ vegdata,florian-jansen
 vegetablesSriLanka,thiyangtdata
 vegIndexCalc,bijoy231997
 vegperiod,rnuske
-VegSpecIndex,cran
+VegSpecIndex,tanujrlbcau
 vein,atmoschem
 vek,samsemegne
 velociraptor,bioc
@@ -26734,6 +26758,7 @@ wevid,pmckeigue
 wex,timginker
 weyl,robinhankin
 wf,christopherkenny
+WFC,weiandata
 wfe,insongkim
 wfg,hy20189
 wfindr,idmn
