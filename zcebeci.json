@@ -1,5 +1,10 @@
 [
   {
+    "package": "fastrda",
+    "maintainer": "Zeynel Cebeci <cebeciz@gmail.com>",
+    "url": "https://github.com/cran/fastrda"
+  },
+  {
     "package": "odetector",
     "maintainer": "Zeynel Cebeci <zcebeci@cukurova.edu.tr>",
     "url": "https://github.com/zcebeci/odetector"

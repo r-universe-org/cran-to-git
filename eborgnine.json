@@ -13,5 +13,11 @@
     "package": "mapmisc",
     "maintainer": "Patrick Brown <patrick.brown@utoronto.ca>",
     "url": "https://github.com/cran/mapmisc"
+  },
+  {
+    "package": "RCppAD",
+    "maintainer": "Patrick Brown <patrick.borgnine@gmail.com>",
+    "url": "https://github.com/eborgnine/adlaplace",
+    "subdir": "RCppAD"
   }
 ]

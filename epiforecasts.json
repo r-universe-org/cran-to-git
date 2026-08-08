@@ -5,6 +5,11 @@
     "url": "https://github.com/epiforecasts/contactsurveys"
   },
   {
+    "package": "distspec",
+    "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
+    "url": "https://github.com/epiforecasts/distspec"
+  },
+  {
     "package": "EpiNow2",
     "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
     "url": "https://github.com/epiforecasts/epinow2"
