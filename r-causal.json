@@ -1,5 +1,10 @@
 [
   {
+    "package": "causalgenerics",
+    "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
+    "url": "https://github.com/r-causal/causalgenerics"
+  },
+  {
     "package": "ggdag",
     "maintainer": "Malcolm Barrett <malcolmbarrett@gmail.com>",
     "url": "https://github.com/r-causal/ggdag"

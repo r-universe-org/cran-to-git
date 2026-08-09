@@ -60,6 +60,11 @@
     "url": "https://github.com/cran/GammaFrailty"
   },
   {
+    "package": "GammaFrailtySPC",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/GammaFrailtySPC"
+  },
+  {
     "package": "gofmalm",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gofmalm"
@@ -75,9 +80,19 @@
     "url": "https://github.com/cran/Gofpt2"
   },
   {
+    "package": "gpciEMprogII",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpciEMprogII"
+  },
+  {
     "package": "gpciImpSam",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gpciImpSam"
+  },
+  {
+    "package": "gpciIntCensor",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpciIntCensor"
   },
   {
     "package": "gpciProgTyII",
@@ -138,6 +153,11 @@
     "package": "SemiParamBernsteinDepCS",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/SemiParamBernsteinDepCS"
+  },
+  {
+    "package": "SingRegKrig",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/SingRegKrig"
   },
   {
     "package": "StochFracPoisson",
