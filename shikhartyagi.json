@@ -65,6 +65,11 @@
     "url": "https://github.com/cran/GammaFrailtySPC"
   },
   {
+    "package": "gofLorenz",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gofLorenz"
+  },
+  {
     "package": "gofmalm",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gofmalm"
@@ -123,6 +128,11 @@
     "package": "MleCensoR",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MleCensoR"
+  },
+  {
+    "package": "ModToppLeone",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/ModToppLeone"
   },
   {
     "package": "MultiFrailty",

@@ -1,5 +1,10 @@
 [
   {
+    "package": "DropCens",
+    "maintainer": "Okechukwu J. Obulezi <oj.obulezi@unizik.edu.ng>",
+    "url": "https://github.com/cran/DropCens"
+  },
+  {
     "package": "ghcclm",
     "maintainer": "Okechukwu J. Obulezi <oj.obulezi@unizik.edu.ng>",
     "url": "https://github.com/cran/ghcclm"
@@ -8,5 +13,15 @@
     "package": "pcsclr",
     "maintainer": "Okechukwu J. Obulezi <oj.obulezi@unizik.edu.ng>",
     "url": "https://github.com/cran/pcsclr"
+  },
+  {
+    "package": "PINNProgCens",
+    "maintainer": "Okechukwu J. Obulezi <oj.obulezi@unizik.edu.ng>",
+    "url": "https://github.com/cran/PINNProgCens"
+  },
+  {
+    "package": "ProgVine",
+    "maintainer": "Okechukwu J. Obulezi <oj.obulezi@unizik.edu.ng>",
+    "url": "https://github.com/cran/ProgVine"
   }
 ]
