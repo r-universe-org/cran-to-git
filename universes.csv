@@ -2211,7 +2211,7 @@ BMIselect,zjg540066169
 bmixture,rezamoammadi
 bml,benrosche
 bmlm,mvuorre
-bmm,venpopov
+bmm,popov-lab
 bmp,jefferis
 BMRMM,yutongwu96
 BMS,cran
@@ -3926,7 +3926,6 @@ combinat,vjcitn
 combinatorics,anik4322
 combinedevents,katie-frank
 CombinePortfolio,flziel
-combinIT,haghbinh
 CombinS,mlaib
 combiroc,ingmbioinfo
 combiter,kota7
@@ -6186,7 +6185,9 @@ dualtrees,s6sebusc
 duawranglr,btskinner
 dub,egnha
 duckdb,duckdb
+DuckDBDataFrame,bioc
 duckdbfs,cboettig
+DuckDBGRanges,bioc
 duckduckr,dirkschumacher
 duckh3,cidree
 duckplyr,tidyverse
@@ -6744,6 +6745,7 @@ EMSNM,denglinsui
 EMSS,sangkyustat
 emstreeR,allanvc
 EMT,uwemenzel
+EMTscore,bioc
 emulator,robinhankin
 emuR,ips-lmu
 enaho,dopatendo
@@ -7840,6 +7842,7 @@ first,cran
 Fiscal,mark-eis
 FiSh,mlaib
 FISHalyseR,bioc
+fishash,bioc
 fishbc,poissonconsulting
 fishdata,condwanaland
 FishDiveR,calvinsbeale
@@ -7901,7 +7904,6 @@ FjordLight,face-it-project
 fkbma,cran
 fkcentroids,seungwoo-stat
 FKF,waternumbers
-FKF.SP,tomaspinall
 FKmL,jhp115
 FKSUM,davidhofmeyr
 FLAG,yanglabhkust
@@ -9973,6 +9975,7 @@ gsDesignTune,nanxstats
 GSE,claudioagostinelli
 GSEABase,bioc
 GSEABenchmarkeR,bioc
+GSEAlens,bioc
 GSEAlm,bioc
 GSEAmining,bioc
 gsean,bioc
@@ -11155,7 +11158,7 @@ importinegi,crenteriam
 impower133,fanfande131
 imprecise101,cran
 impressionist.colors,fedecasale
-ImprintCapASM,cran
+ImprintCapASM,19-saha
 imprinting,cobeylab
 ImpShrinkage,mnrzrad
 impute,bioc
@@ -12982,7 +12985,6 @@ lsm,cran
 lsmeans,rvlenth
 LSMjml,cran
 LSMonteCarlo,cran
-LSMRealOptions,tomaspinall
 lsoda,mclements
 lspartition,yingjieum
 LSPFP,cran
@@ -14381,7 +14383,6 @@ MLmetrics,yanyachen
 mlmhelpr,lrocconi
 mlmi,jwb133
 MLML2R,samarafk
-mlmodels,alfisankipan
 mlmoderator,causalfragility-lab
 MLMOI,mhashemihsmw
 MLmorph,theogrost
@@ -14638,6 +14639,7 @@ monaco,stla
 monad,mikmart
 monaLisa,bioc
 MoNAn,cran
+monarch,ropensci
 monashtipr,jimmyday12
 mondate,chiefmurph
 Mondrian,lbbe-software
@@ -15740,8 +15742,8 @@ nlme,cran
 nlmeU,agalecki
 nlmeVPC,ek-lee
 nlmixr2,nlmixr2
-nlmixr2auto,cran
-nlmixr2autoinit,cran
+nlmixr2auto,ucl-pharmacometrics
+nlmixr2autoinit,ucl-pharmacometrics
 nlmixr2data,nlmixr2
 nlmixr2est,nlmixr2
 nlmixr2extra,nlmixr2
@@ -16089,7 +16091,6 @@ nwsrfsr,cameronbracken
 nycflights13,tidyverse
 nycflights23,moderndive
 nycOpenData,ropensci
-nysOpenData,martinezc1
 nzffdr,flee598
 nzilbb.labbcat,nzilbb
 nzilbb.vowels,nzilbb
@@ -16854,7 +16855,6 @@ panoramic,bioc
 panp,bioc
 PANPRSnext,cran
 PANR,bioc
-panstarrs,uskovgs
 PantaRhei,pwbogaart
 papaja,crsh
 papeR,hofnerb
@@ -20434,7 +20434,7 @@ rjd3bench,rjdverse
 rjd3jars,tanguybarthelemy
 rjd3production,inseefr
 rjd3providers,rjdverse
-rjd3qr,cran
+rjd3qr,inseefr
 rjd3toolkit,rjdverse
 rjd3tramoseats,rjdverse
 rjd3workspace,rjdverse
@@ -26560,7 +26560,6 @@ vntrs,loelschlaeger
 vocaldia,cran
 voi,chjackson
 voice,filipezabala
-voiceR,voiceanalyticshub
 voigt,cran
 vol2birdR,adokter
 volatilityTrader,maheshpkumar

@@ -3897,6 +3897,18 @@
     "registry": "bioc"
   },
   {
+    "package": "DuckDBDataFrame",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/duckdbdataframe",
+    "registry": "bioc"
+  },
+  {
+    "package": "DuckDBGRanges",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/duckdbgranges",
+    "registry": "bioc"
+  },
+  {
     "package": "Dune",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://git.bioconductor.org/packages/Dune",
@@ -4074,6 +4086,12 @@
     "package": "EmpiricalBrownsMethod",
     "maintainer": "David Gibbs <dgibbs@systemsbiology.org>",
     "url": "https://git.bioconductor.org/packages/EmpiricalBrownsMethod",
+    "registry": "bioc"
+  },
+  {
+    "package": "EMTscore",
+    "maintainer": "Haimei Wen <hudie.luoluo@gmail.com>",
+    "url": "https://github.com/wenmm/emtscore",
     "registry": "bioc"
   },
   {
@@ -4554,6 +4572,12 @@
     "package": "FISHalyseR",
     "maintainer": "Karesh Arunakirinathan <akaresh88@gmail.com>",
     "url": "https://git.bioconductor.org/packages/FISHalyseR",
+    "registry": "bioc"
+  },
+  {
+    "package": "fishash",
+    "maintainer": "Jack Kamm <jackkamm@gmail.com>",
+    "url": "https://github.com/jackkamm/fishash",
     "registry": "bioc"
   },
   {
@@ -5772,6 +5796,12 @@
     "package": "GSEABenchmarkeR",
     "maintainer": "Ludwig Geistlinger <ludwig.geistlinger@gmail.com>",
     "url": "https://github.com/waldronlab/gseabenchmarker",
+    "registry": "bioc"
+  },
+  {
+    "package": "GSEAlens",
+    "maintainer": "Dudali Lab <sealgod@qq.com>",
+    "url": "https://github.com/ddl095/gsealens",
     "registry": "bioc"
   },
   {
@@ -14267,7 +14297,7 @@
   },
   {
     "package": "vmrseq",
-    "maintainer": "Ning Shen <ning.shen.wk@gmail.com>",
+    "maintainer": "Keegan Korthauer <kkorthauer@cmmt.ubc.ca>",
     "url": "https://github.com/nshen7/vmrseq",
     "registry": "bioc"
   },
