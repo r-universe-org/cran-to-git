@@ -3897,6 +3897,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DuckDBArray",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/duckdbarray",
+    "registry": "bioc"
+  },
+  {
     "package": "DuckDBDataFrame",
     "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
     "url": "https://github.com/genentech/duckdbdataframe",
