@@ -49,5 +49,10 @@
     "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
     "url": "https://github.com/kapelner/pte",
     "subdir": "PTE"
+  },
+  {
+    "package": "SeqExpMatch",
+    "maintainer": "Adam Kapelner <kapelner@qc.cuny.edu>",
+    "url": "https://github.com/cran/SeqExpMatch"
   }
 ]
