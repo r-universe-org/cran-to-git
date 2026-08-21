@@ -15,6 +15,11 @@
     "url": "https://github.com/doi-usgs/egretci"
   },
   {
+    "package": "hydrogeofetch",
+    "maintainer": "David Blodgett <dblodgett@usgs.gov>",
+    "url": "https://github.com/doi-usgs/nhdplustools"
+  },
+  {
     "package": "hydroloom",
     "maintainer": "David Blodgett <dblodgett@usgs.gov>",
     "url": "https://github.com/doi-usgs/hydroloom"

@@ -484,6 +484,7 @@ ALDEx3,jsilve24
 ALDqr,lbenitesanchez
 aldvmm,pletschm
 ale,tripartio
+alepe,strategicprojects
 alevinQC,bioc
 ALFAM2,au-bce-ee
 alfr,rwetherall
@@ -577,7 +578,6 @@ amen,pdhoff
 ameras,sanderroberti
 amerika,pdwaggoner
 AmesHousing,topepo
-ami,briandconnelly
 AmigaFFH,pepijn-devries
 AMIM,gelotran
 AMISforInfectiousDiseases,drsimonspencer
@@ -2600,6 +2600,7 @@ BVARverse,nk027
 bvhar,ygeunkim
 bvls,cran
 bvpa,biplab44
+bvpSolve,ghfbsd
 bwd,cran
 bWGR,alenxav
 BWGS,byzheng
@@ -2897,6 +2898,7 @@ causens,kuan-liu-lab
 caustests,muhammedalkhalaf
 CautiousLearning,cran
 CAvariants,rosarialo
+caverify,chrispbsmolen
 caviarpd,dbdahl
 cayleyR,zabis13
 CB2,cran
@@ -5499,6 +5501,7 @@ DGLMExtPois,franciscomartinezdelrio
 dgof,cran
 DGP4LCF,jcai-1122
 dgpsi,mingdeyu
+dgraphs,pgajer
 DHARMa,florianhartig
 DHBins,tslumley
 dhga,samarendra88
@@ -9924,6 +9927,7 @@ GroupSeq,rpahl
 GroupTest,cran
 groupwalk,freejstone
 groupWQS,mmcarli
+grout,hypertidy
 grove,lm186
 growR,kuadrat
 growth,swihart
@@ -10754,6 +10758,7 @@ hydroDCindex,alobondo
 hydrodownloadR,bafg-bund
 hydroeval,arcblade-02
 hydroEvents,conradwasko
+hydrogeofetch,doi-usgs
 hydroGOF,hzambran
 hydroloom,doi-usgs
 HydroMe,cran
@@ -11608,7 +11613,7 @@ IsoCorrectoR,bioc
 IsoCorrectoRGUI,bioc
 isocountry,m-muecke
 isocubes,coolbutuseless
-isodistrreg,alexanderhenzi
+isodistrreg,cran
 isoexplorer,isoverse
 IsoformSwitchAnalyzeR,bioc
 isogeochem,davidbajnai
@@ -11687,6 +11692,7 @@ ivdesc,sumtxt
 ivDiag,cran
 IVDML,cyrillsch
 ivdoctr,emallickhossain
+ivdtools,hiox-tech
 ivgets,jkurle
 ivgls,djghosh1123
 ivmodel,hyunseungkang
@@ -12136,6 +12142,7 @@ KPC,zh2395
 kpcaIG,cran
 kpeaks,cran
 kpiwidget,arnold-kakas
+kpp2019,damurka
 KQM,cran
 KrakenR,nathanael-durst
 KraljicMatrix,koalaverse
@@ -12605,6 +12612,7 @@ LindenmayeR,bryanhanson
 lindia,yeukyul
 LindleyPowerSeries,tragedybmc127
 lineagefreq,cuiweig
+lineager,repro-stats
 lineagespot,bioc
 linearModel,cran
 LinearRegressionMDE,cran
@@ -13594,6 +13602,7 @@ mdgc,boennecd
 MDgof,wolfgangrolke
 MDimNormn,cran
 mdir.logrank,marcdii
+mditools,secretariat-compnet
 MDMA,mathijsdeen
 mdmb,alexanderrobitzsch
 MDMR,dmcartor
@@ -14378,6 +14387,7 @@ mLLMCelltype,cafferychen777
 mllrnrs,kapsner
 mlma,qingzhaoyu
 mlmc,louisaslett
+MLMES,yijunchenguw
 MLmetrics,yanyachen
 mlmhelpr,lrocconi
 mlmi,jwb133
@@ -15453,6 +15463,7 @@ ncmeta,hypertidy
 NCmisc,nicholasjcooper
 ncmR,h-xuanjiu
 ncodeR,codymarquart
+ncpen,zeemkr
 ncRNAtools,bioc
 NCSCopula,bnasri
 NCutYX,seborinos
@@ -16086,6 +16097,7 @@ NVCSSL,cran
 nvctr,euctrl-pru
 nVennR2,vqf
 nvmix,mariushofert
+nwaa,laljeet
 nwsrfsr,cameronbracken
 nycflights13,tidyverse
 nycflights23,moderndive
@@ -16196,6 +16208,7 @@ oenb,franzmohr
 OenoKPM,merlot1998
 oews2020,cmann3
 oews2021,cmann3
+ofemeantest,ppaccioretti
 officedown,davidgohel
 officer,davidgohel
 offlineChange,weinijiahuan123
@@ -20781,6 +20794,7 @@ RobustPrediction,yuting-he
 robustrank,youyifong
 RobustRankAggreg,raivokolde
 robustrao,mccalatravamoreno
+robustrcp,obulezi12345-svg
 robustreg,cran
 robustSFA,cran
 robustsur,claudioagostinelli
@@ -21300,6 +21314,7 @@ RTextTools,lorenc5
 rtf,cran
 RTFA,cran
 rtForecastEval,chikuang
+RtForecastR,rajsubediresearch
 rTG,jernejjevsenak
 rtgstat,selesnow
 Rthingsboard,ddorch
@@ -21739,6 +21754,7 @@ scanCP,armanazizyan
 scanMiR,bioc
 scanMiRApp,bioc
 scAnnotatR,bioc
+scanr,prabashoka
 scanstatistics,promerpr
 SCANVIS,bioc
 scape,arni-magnusson
@@ -21876,6 +21892,7 @@ scMET,bioc
 scMetaTraj,dr-xygreg
 scmeth,bioc
 scMitoMut,bioc
+scmix,cran
 scModels,hkumar6
 scmSpillover,cran
 scMultiSim,bioc
@@ -25024,6 +25041,7 @@ theft,hendersontrent
 theftdlc,hendersontrent
 theiaR,norival
 thematic,rstudio
+themescopeR,lucadaniello
 themis,tidymodels
 TheOpenAIR,umatter
 TheOrdinals,cran
@@ -26058,6 +26076,7 @@ uncmbb,joongsup
 uncorbets,reckziegel
 UNCOVER,samuelemerson
 uncoverappLib,bioc
+underdisp,bagozzib
 undidR,ebjamieson97
 UNDO,bioc
 unexcel,drhrf
@@ -26752,6 +26771,7 @@ weathercan,ropensci
 weatherindices,akstat21
 weatherjoin,hauae
 weathermetrics,geanders
+weatherMRJD,obulezi12345-svg
 weatherOz,ropensci
 WeatherSentiment,leilamarvian
 weatherStats,pdhoff
