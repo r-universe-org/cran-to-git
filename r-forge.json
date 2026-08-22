@@ -282,6 +282,12 @@
     "subdir": "pkg/Gifi"
   },
   {
+    "package": "glmertree",
+    "maintainer": "Marjolein Fokkema <M.Fokkema@fsw.leidenuniv.nl>",
+    "url": "https://github.com/r-forge/partykit",
+    "subdir": "pkg/glmertree"
+  },
+  {
     "package": "GNE",
     "maintainer": "Christophe Dutang <dutangc@gmail.com>",
     "url": "https://github.com/r-forge/optimizer",

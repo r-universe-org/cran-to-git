@@ -10,9 +10,19 @@
     "url": "https://github.com/cran/AlphaPowerHazard"
   },
   {
+    "package": "ArvindRF",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/ArvindRF"
+  },
+  {
     "package": "ArvindSt",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/shikhartyagi/arvindst"
+  },
+  {
+    "package": "AugBalWeight",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/AugBalWeight"
   },
   {
     "package": "BayesPanelUR",
@@ -43,6 +53,11 @@
     "package": "CompRiskRel",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/CompRiskRel"
+  },
+  {
+    "package": "CoxAalenCR",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/CoxAalenCR"
   },
   {
     "package": "coxmnar",
@@ -90,6 +105,31 @@
     "url": "https://github.com/cran/gpciEMprogII"
   },
   {
+    "package": "gpcihybridII",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpcihybridII"
+  },
+  {
+    "package": "gpcihybridIIEM",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpcihybridIIEM"
+  },
+  {
+    "package": "gpcihybridIIImpSam",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpcihybridIIImpSam"
+  },
+  {
+    "package": "gpcihybridIILinApp",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpcihybridIILinApp"
+  },
+  {
+    "package": "gpcihybridIImcmc",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpcihybridIImcmc"
+  },
+  {
     "package": "gpciImpSam",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gpciImpSam"
@@ -98,6 +138,11 @@
     "package": "gpciIntCensor",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/gpciIntCensor"
+  },
+  {
+    "package": "gpciLindleyApprox",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/gpciLindleyApprox"
   },
   {
     "package": "gpciProgTyII",
@@ -135,6 +180,11 @@
     "url": "https://github.com/cran/ModToppLeone"
   },
   {
+    "package": "MTLRF",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/MTLRF"
+  },
+  {
     "package": "MultiFrailty",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MultiFrailty"
@@ -148,6 +198,21 @@
     "package": "MYIS",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/MYIS"
+  },
+  {
+    "package": "OneShotEM",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/OneShotEM"
+  },
+  {
+    "package": "pHMC",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/pHMC"
+  },
+  {
+    "package": "PowerXgammaRF",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/PowerXgammaRF"
   },
   {
     "package": "predHCS",
@@ -178,6 +243,11 @@
     "package": "StressCensoR",
     "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
     "url": "https://github.com/cran/StressCensoR"
+  },
+  {
+    "package": "TieFreeCensor",
+    "maintainer": "Shikhar Tyagi <shikhar1093tyagi@gmail.com>",
+    "url": "https://github.com/cran/TieFreeCensor"
   },
   {
     "package": "TKApprox",

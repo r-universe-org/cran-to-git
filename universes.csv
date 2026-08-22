@@ -934,6 +934,7 @@ arulesNBMiner,mhahsler
 arulesSequences,cran
 arulesViz,mhahsler
 ARUtools,arutools
+ArvindRF,shikhartyagi
 ArvindSt,shikhartyagi
 aRxiv,ropensci
 ASAFE,bioc
@@ -1006,6 +1007,7 @@ aster2,cran
 asteRisk,rafael-ayala
 astgrepr,etiennebacher
 AsthmaNHANES,suntaojj
+AstraeaDB,astraeadb
 astrochron,cran
 astroFns,cran
 astronomR,samrit2442
@@ -1067,6 +1069,7 @@ audit,cran
 auditor,modeloriented
 audrex,pigian
 audubon,paithiov909
+AugBalWeight,shikhartyagi
 augere.core,bioc
 augere.de,bioc
 augere.gsea,bioc
@@ -1141,6 +1144,7 @@ autotestR,cran
 autothresholdr,rorynolan
 AutoTransQF,cran
 autoTS,vivienroussez
+autotune,tathagata-s
 autovi,tengmcing
 AutoWMM,malfly
 AuxSurvey,zjg540066169
@@ -2067,6 +2071,7 @@ birdring,cran
 birdscanR,birdscancommunity
 birdsize,ropensci
 birk,matthewabirk
+birp,cran
 birtr,seockhokim
 BIS,stefanangrick
 biscale,chris-prener
@@ -2420,6 +2425,7 @@ BRETIGEA,andymckenzie
 brew,gregfrog
 BREW3R.r,bioc
 brfinance,efram2
+brfssdata,muntasirmasum
 brglm,ikosmidis
 brglm2,ikosmidis
 brickset,jbryer
@@ -2466,6 +2472,7 @@ bruceR,psychbruce
 brulee,tidymodels
 bruneimap,bruneiverse
 brunnermunzel,toshi-ara
+bruno,cran
 brxx,joshuaraytanzer
 bs4cards,djnavarro
 bs4Dash,rinterface
@@ -2735,7 +2742,7 @@ car,bprice2652
 caracas,r-cas
 caradpt,jerryluorj
 caRamel,fzao
-carat,yexiaoqingruc
+carat,cran
 CARBayes,duncanplee
 CARBayesdata,duncanplee
 CARBayesST,duncanplee
@@ -2757,7 +2764,7 @@ CardinalIO,bioc
 cardinalR,jayanilakshika
 CardioCurveR,matcasti
 CardioDataSets,lightbluetitan
-cards,ddsjoberg
+cards,pharmaverse
 CARDspa,bioc
 cardx,ddsjoberg
 care,cran
@@ -3403,6 +3410,7 @@ cit,uscbiostats
 CITAN,gagolews
 citation,pik-piam
 citationchaser,cran
+citcdf,sistm
 citecorp,ropensci
 CiteFuse,bioc
 CiteSource,eshackathon
@@ -4421,6 +4429,7 @@ cowfootR,juanmarcosmoreno-arch
 cowplot,wilkelab
 cowsay,sckott
 cox.rvph,haaamin02
+CoxAalenCR,shikhartyagi
 CoxAIPW,charlesluo1002
 CoxBcv,xueqiwang
 CoxBoost,bblodfon
@@ -6091,6 +6100,7 @@ dsBaseClient,stuartwheater
 DSBayes,rvaradhan
 dscore,d-score
 dscoreMSM,atanubhattacharjee
+dsdp,tsuchiya-lab
 DSDRM,guangbaog
 dsem,james-thorson-noaa
 DSFM,guangbaog
@@ -7868,6 +7878,7 @@ fit.models,kjellpk
 fitbitr,mrkaye97
 fitbitScraper,corynissen
 fitbitViz,mlampros
+FITclust,ghashti-j
 fitConic,cran
 fitdistcp,stephenjewson
 fitdistrBayes,ramospedroluiz
@@ -8472,6 +8483,7 @@ FuzzySpec,ghashti-j
 FuzzyStatTra,asunlubiano
 fuzzystring,paulesantos
 FuzzySTs,cran
+fuzzyurn,obulezi12345-svg
 fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
 fwb,ngreifer
@@ -9051,6 +9063,7 @@ gfonts,dreamrs
 gfoRmula,causalinference
 gfoRmulaICE,liljing
 gFormulaMI,jwb133
+GFT,reinhardhansen
 gfunctions,gsucarrat
 gg.gap,chrislou-bioinfo
 gg1d,selkamand
@@ -9473,7 +9486,7 @@ glmbb,cran
 glmc,cran
 GLMcat,ylleonv
 glme,mcavs
-glmertree,marjoleinf
+glmertree,r-forge
 glmfitmiss,cran
 glmGamPoi,bioc
 glmlep,cran
@@ -9723,8 +9736,14 @@ gpbiometrics,cran
 gpboost,fabsig
 gpbStat,nandp1
 gpciEMprogII,shikhartyagi
+gpcihybridII,shikhartyagi
+gpcihybridIIEM,shikhartyagi
+gpcihybridIIImpSam,shikhartyagi
+gpcihybridIILinApp,shikhartyagi
+gpcihybridIImcmc,shikhartyagi
 gpciImpSam,shikhartyagi
 gpciIntCensor,shikhartyagi
+gpciLindleyApprox,shikhartyagi
 gpciProgTyII,shikhartyagi
 gpciProgTyIIImpSam,shikhartyagi
 GPCMlasso,schaubert
@@ -9836,6 +9855,7 @@ gravitas,sayani07
 gravity,pachadotdev
 gravityGE,noejn2
 gravmagsubs,collincr-usgs
+grayleafspotdata,rotsl
 gRbase,hojsgaard
 gRc,hojsgaard
 GRCdesigns,ashutoshdalal97
@@ -11153,6 +11173,7 @@ impectR,cran
 impermanentlosscalc,amber32k
 impimp,paul-fink
 implicitExpansion,manuelhentschel
+implicitMeasures,ottaviae
 implied,opisthokonta
 implyr,ianmcook
 import,rticulate
@@ -11427,6 +11448,7 @@ invctr,fredhasselman
 inventorize,haythamomar1988
 inverseRegex,rntq472
 invertiforms,rohelab
+investdatar,oliverlds
 investr,bgreenwell
 invgamma,dkahle
 invgamstochvol,blessingsmajoni
@@ -13310,6 +13332,7 @@ markstat,moradii
 marlod,cran
 marmap,ericpante
 MARMoT,albertocalore
+marp,kanji709
 marqLevAlg,vivianephilipps
 marquee,r-lib
 marr,bioc
@@ -14997,6 +15020,7 @@ mtgjsonsdk,mtgjson
 mthapower,aurora-mareviv
 mtlgmm,ytstat
 MTLR,haiderstats
+MTLRF,shikhartyagi
 MTPS,ubclxing
 mtrank,tevrenoglou
 MtreeRing,ropensci
@@ -15224,6 +15248,7 @@ musicatk,bioc
 musicMCT,satbq
 musicNMR,tkcaccia
 musicXML,benrenard
+MuTATE,sarahayton
 MutationalPatterns,bioc
 mutationtypes,selkamand
 mutator,prl-prg
@@ -16326,6 +16351,7 @@ onemapsgapi,jolene-lim
 OneR,vonjd
 OneSampleLogRankTest,dkangeyan
 OneSampleMR,remlapmot
+OneShotEM,shikhartyagi
 ONEST,hangangtrue
 OneStep,dutangc
 onetime,hughjonesd
@@ -16400,6 +16426,7 @@ openEBGM,johnihrie
 openeo,open-eo
 openesm,openesm-project
 openFDA,simpar1471
+openfhe.R,openfheorg
 opengraph,christopherkenny
 OpEnHiMR,diprosinha
 openholidaysR,jfeldhege
@@ -17023,6 +17050,7 @@ paws.networking,dyfanjones
 paws.security.identity,dyfanjones
 paws.storage,dyfanjones
 pawscore,crtwomey
+pb210dating,sanchezcabeza
 pbANOVA,sarahkatharine
 pbapply,psolymos
 pbatR,cran
@@ -17409,6 +17437,7 @@ philr,bioc
 PHInfiniteEstimates,kolassa-dev
 phinterval,ethansansom
 PhIPData,bioc
+pHMC,shikhartyagi
 phoenics,r-serv
 phoenix,cu-dbmi-peds
 phonenumber,scumdogsteev
@@ -17475,6 +17504,7 @@ phylotaR,ropensci
 phylotate,dlbeer
 phyloTop,michellekendall
 phylotypr,mothur
+phylowise,jordandouglas
 phylter,damiendevienne
 phymapnet,rosaaghdam
 phyr,daijiang
@@ -18038,6 +18068,7 @@ powerSurvEpi,weiliang
 powerTCR,bioc
 powertools,powerandsamplesize
 PowerTOST,detlew
+PowerXgammaRF,shikhartyagi
 powRICLPM,jeroendmulder
 PowRPriori,mirgll
 POWSC,bioc
@@ -19184,6 +19215,7 @@ RankGWASK,cran
 rankhazard,nannikoski
 rankICC,shengxintu
 RankingProject,civilstat
+rankingQ,sysilviakim
 rankinma,enochkang
 rankinPlot,hannahjohns
 RankMap,bioc
@@ -20142,6 +20174,7 @@ revss,aadler
 Revticulate,calcharp
 revtools,mjwestgate
 rewie,sduxbury
+rewind,tenmeh
 rex,r-lib
 rexer,josesamos
 REXoplanets,jkolomanski
@@ -22462,6 +22495,7 @@ shiny.blueprint,cran
 shiny.destroy,ashbaldry
 shiny.emptystate,appsilon
 shiny.exe,aodiakite
+shiny.fluent,appsilon
 shiny.gosling,bioc
 shiny.i18n,appsilon
 shiny.ollama,ineelhere
@@ -23261,6 +23295,7 @@ sonar,cran
 sondage,dickoa
 SongEvo,raydanner
 sonicLength,chasberry
+sonicscrewdriver,edwbaker
 sonify,sieste
 SONO,efthymioscosta
 sooty,mdsumner
@@ -24668,6 +24703,7 @@ tabularaster,hypertidy
 tabularmaps,uribo
 tabularMLC,caiohamamura
 tabulator,skhiggins
+tabulergm,gvegayon
 tabulog,austinrwarner
 tabuSearch,domijan
 tabxplor,bricenocenti
@@ -25235,6 +25271,7 @@ tidywater,brownandcaldwell-public
 tidyweather,byzheng
 tidywikidatar,edjnet
 tidyxl,nacnudus
+TieFreeCensor,shikhartyagi
 tif,ropensci
 tiff,s-u
 tigerhitteR,aiien61
@@ -25330,7 +25367,7 @@ tippy,johncoene
 tipr,r-causal
 TiPS,gonchedanesh
 tipsae,cran
-tipse,cran
+tipse,openpharma
 tirt,cran
 tis,cran
 tissot,hypertidy
