@@ -3915,6 +3915,12 @@
     "registry": "bioc"
   },
   {
+    "package": "DuckDBSpatial",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/duckdbspatial",
+    "registry": "bioc"
+  },
+  {
     "package": "Dune",
     "maintainer": "Hector Roux de Bezieux <hector.rouxdebezieux@berkeley.edu>",
     "url": "https://git.bioconductor.org/packages/Dune",
@@ -4386,6 +4392,12 @@
     "package": "ExploreModelMatrix",
     "maintainer": "Charlotte Soneson <charlottesoneson@gmail.com>",
     "url": "https://github.com/csoneson/exploremodelmatrix",
+    "registry": "bioc"
+  },
+  {
+    "package": "exploreSE",
+    "maintainer": "Jasper Spitzer <jasspitzer135@gmail.com>",
+    "url": "https://github.com/jaspitzer/explorese",
     "registry": "bioc"
   },
   {

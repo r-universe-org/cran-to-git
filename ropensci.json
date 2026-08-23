@@ -47,7 +47,8 @@
   {
     "package": "baRulho",
     "maintainer": "Marcelo Araya-Salas <marcelo.araya@ucr.ac.cr>",
-    "url": "https://github.com/ropensci/barulho"
+    "url": "https://github.com/ropensci/barulho",
+    "registry": "archived"
   },
   {
     "package": "BaseSet",
@@ -417,7 +418,8 @@
   {
     "package": "GLMMcosinor",
     "maintainer": "Rex Parsons <rex.parsons94@gmail.com>",
-    "url": "https://github.com/ropensci/glmmcosinor"
+    "url": "https://github.com/ropensci/glmmcosinor",
+    "registry": "archived"
   },
   {
     "package": "googleLanguageR",
@@ -702,7 +704,8 @@
   {
     "package": "phonfieldwork",
     "maintainer": "George Moroz <agricolamz@gmail.com>",
-    "url": "https://github.com/ropensci/phonfieldwork"
+    "url": "https://github.com/ropensci/phonfieldwork",
+    "registry": "archived"
   },
   {
     "package": "phylocomr",
@@ -967,7 +970,8 @@
   {
     "package": "rtika",
     "maintainer": "Sasha Goodman <goodmansasha@gmail.com>",
-    "url": "https://github.com/ropensci/rtika"
+    "url": "https://github.com/ropensci/rtika",
+    "registry": "archived"
   },
   {
     "package": "rvertnet",

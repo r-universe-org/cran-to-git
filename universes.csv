@@ -1123,6 +1123,7 @@ autoMR,kelinzhong
 autonewsmd,kapsner
 AutoNN,vishnumrstat
 autonomics,bioc
+autoplotly,terrytangyuan
 Autoplotprotein,cran
 AutoPlots,adrianantico
 autoReg,cardiomoon
@@ -2732,6 +2733,7 @@ capesR,hugoavmedeiros
 capitalR,cran
 capl,barnzilla
 caplot,gianmarcoalberti
+capn,cran
 CaPO4Sim,divadnojnarg
 capr,rluo
 Capsule,saadat-abu
@@ -2742,7 +2744,7 @@ car,bprice2652
 caracas,r-cas
 caradpt,jerryluorj
 caRamel,fzao
-carat,cran
+carat,yexiaoqingruc
 CARBayes,duncanplee
 CARBayesdata,duncanplee
 CARBayesST,duncanplee
@@ -3904,7 +3906,7 @@ colorizer,zumbov2
 colormap,bhaskarvk
 ColorNameR,msanchez-beeckman
 colorplane,bbuchsbaum
-colorr,cdcrabtree
+colorr,lobsterbush
 colorRamp2,jokergoo
 colorRamps,jefferis
 colorrepel,raysinensis
@@ -4382,6 +4384,7 @@ countyhealthR,countyhealthrankings
 coupling,stscl
 couplr,gcol33
 courieR,lennon-li
+coursekata,coursekata
 covadap,rfrieri91-sys
 covafillr,calbertsen
 covalchemy,namanlab
@@ -5107,7 +5110,6 @@ DBTC,rgyoung6
 dbw,hirotokatsumata
 dbWebForms,tconwell
 dbx,ankane
-dc3net,altayg
 dcanr,bioc
 DCATS,bioc
 DCCA,tsprass
@@ -5976,7 +5978,7 @@ dpasurv,mattiminn
 dpcc,bingyuan-zhang
 DPCD,sammorrissette
 dpcid,cran
-DPComb,gonzalocontador
+DPComb,zwulab
 dPCP,alfodefalco
 dpcR,michbur
 dpdr,mattwarkentin
@@ -6200,6 +6202,7 @@ DuckDBArray,bioc
 DuckDBDataFrame,bioc
 duckdbfs,cboettig
 DuckDBGRanges,bioc
+DuckDBSpatial,bioc
 duckduckr,dirkschumacher
 duckh3,cidree
 duckplyr,tidyverse
@@ -7101,7 +7104,6 @@ eudysbiome,bioc
 eufmdis.adapt,iankopacka
 EUfootball,cran
 eulerr,jolars
-eummd,cran
 eunis.habitats,ramiromagno
 Eunomia,ohdsi
 eurlex,michalovadek
@@ -7271,6 +7273,7 @@ exploratory,jinkim3
 explore,rolkra
 ExploreModelMatrix,bioc
 exploreR,cran
+exploreSE,bioc
 ExploreTheData,ronaldkpearson
 expm,r-forge
 expoquimR,aguilar-elena
@@ -9675,7 +9678,6 @@ GoodFibes,jessica-arbour
 GoodFitSBM,roy-sr-007
 GoodmanKruskal,ronaldkpearson
 goodpractice,ropensci
-Goodreader,chaoliu-cl
 googleadsR,pablosanmar
 googleAnalyticsR,8-bit-sheep
 googleAuthR,markedmondson1234
@@ -13438,7 +13440,6 @@ matriz,jpmonteagudo28
 matsbyname,matthewheun
 matsindf,matthewheun
 matter,bioc
-MatTransMix,xuwenzhu20
 matuR,josedv82
 mau,pedroguarderas
 mauricer,ropensci
@@ -21913,7 +21914,7 @@ sciRmdTheme,oobianom
 scISR,duct317
 scistreer,kharchenkolab
 scitb,cran
-scITD,j-mitchel
+scITD,cran
 SciViews,sciviews
 scLANE,bioc
 scLang,bioc
@@ -22294,7 +22295,6 @@ seqcombo,bioc
 seqcomp,alasgarliakbar
 seqDesign,mjuraska
 SeqExpMatch,kapelner
-SeqFeatR,cran
 SeqGate,bioc
 seqgendiff,dcgerard
 SeqGSEA,bioc
@@ -22474,7 +22474,6 @@ sharpshootR,ncss-tech
 sharx,psolymos
 shattering,mellorf
 shazam,immcantation
-SheetReader,fhenz
 SHELF,oakleyj
 ShellChron,nielsjdewinter
 shellgame,phinnphace
