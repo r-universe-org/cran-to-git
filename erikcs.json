@@ -1,5 +1,10 @@
 [
   {
+    "package": "balnet",
+    "maintainer": "Erik Sverdrup <erik.sverdrup@gmail.com>",
+    "url": "https://github.com/cran/balnet"
+  },
+  {
     "package": "maq",
     "maintainer": "Erik Sverdrup <erik.sverdrup@gmail.com>",
     "url": "https://github.com/cran/maq"

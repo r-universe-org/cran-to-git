@@ -40,6 +40,11 @@
     "url": "https://github.com/cran/IndependenceTests"
   },
   {
+    "package": "LeLogicielR",
+    "maintainer": "Pierre Lafaye De Micheaux <lafaye@unsw.edu.au>",
+    "url": "https://github.com/cran/LeLogicielR"
+  },
+  {
     "package": "nortestARMA",
     "maintainer": "Pierre Lafaye de Micheaux <lafaye@unsw.edu.au>",
     "url": "https://github.com/cran/nortestARMA"
@@ -53,5 +58,10 @@
     "package": "rPowerSampleSize",
     "maintainer": "Pierre Lafaye de Micheaux <lafaye@unsw.edu.au>",
     "url": "https://github.com/cran/rPowerSampleSize"
+  },
+  {
+    "package": "TRSbook",
+    "maintainer": "Pierre Lafaye De Micheaux <lafaye@unsw.edu.au>",
+    "url": "https://github.com/cran/TRSbook"
   }
 ]

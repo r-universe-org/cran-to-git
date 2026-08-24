@@ -10432,6 +10432,12 @@
     "registry": "bioc"
   },
   {
+    "package": "quantMSImageR",
+    "maintainer": "Matthew J. Smith <mattyjsmith123@gmail.com>",
+    "url": "https://github.com/mjs-708/quantmsimager",
+    "registry": "bioc"
+  },
+  {
     "package": "quantro",
     "maintainer": "Stephanie Hicks <shicks19@jhu.edu>",
     "url": "https://git.bioconductor.org/packages/quantro",
