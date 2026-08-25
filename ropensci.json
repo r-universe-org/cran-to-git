@@ -391,6 +391,11 @@
     "url": "https://github.com/ropensci/geotargets"
   },
   {
+    "package": "getCRUCLdata",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://codeberg.org/ropensci/getcrucldata"
+  },
+  {
     "package": "ghql",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci/ghql"
@@ -430,6 +435,11 @@
     "package": "graphql",
     "maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
     "url": "https://github.com/ropensci/graphql"
+  },
+  {
+    "package": "GSODR",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://codeberg.org/ropensci/gsodr"
   },
   {
     "package": "gtexr",
@@ -565,6 +575,11 @@
     "package": "naijR",
     "maintainer": "Victor Ordu <victorordu@outlook.com>",
     "url": "https://github.com/ropensci/naijr"
+  },
+  {
+    "package": "nasapower",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://codeberg.org/ropensci/nasapower"
   },
   {
     "package": "natserv",
@@ -821,6 +836,11 @@
     "package": "rdryad",
     "maintainer": "Scott Chamberlain <myrmecocystus@gmail.com>",
     "url": "https://github.com/ropensci/rdryad"
+  },
+  {
+    "package": "read.abares",
+    "maintainer": "Adam H. Sparks <adamhsparks@gmail.com>",
+    "url": "https://codeberg.org/ropensci/read.abares"
   },
   {
     "package": "readODS",

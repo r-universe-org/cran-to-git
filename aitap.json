@@ -8,5 +8,20 @@
     "package": "depcache",
     "maintainer": "Ivan Krylov <krylov.r00t@gmail.com>",
     "url": "https://github.com/aitap/depcache"
+  },
+  {
+    "package": "RCurl",
+    "maintainer": "Ivan Krylov <ikrylov@disroot.org>",
+    "url": "https://codeberg.org/aitap/rcurl"
+  },
+  {
+    "package": "Ropj",
+    "maintainer": "Ivan Krylov <ikrylov@disroot.org>",
+    "url": "https://codeberg.org/aitap/ropj"
+  },
+  {
+    "package": "XML",
+    "maintainer": "Ivan Krylov <ikrylov@disroot.org>",
+    "url": "https://codeberg.org/aitap/xml"
   }
 ]

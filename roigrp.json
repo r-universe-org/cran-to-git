@@ -1,0 +1,72 @@
+[
+  {
+    "package": "highs",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/highs"
+  },
+  {
+    "package": "ROI.format.cbf",
+    "maintainer": "Benjamin Schwendinger <benjaminschwe@gmail.com>",
+    "url": "https://gitlab.com/roigrp/tools/roi.format.cbf"
+  },
+  {
+    "package": "ROI.plugin.alabama",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.alabama"
+  },
+  {
+    "package": "ROI.plugin.clarabel",
+    "maintainer": "Benjamin Schwendinger <benjaminschwe@gmail.com>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.clarabel"
+  },
+  {
+    "package": "ROI.plugin.deoptim",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.deoptim"
+  },
+  {
+    "package": "ROI.plugin.ecos",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.ecos"
+  },
+  {
+    "package": "ROI.plugin.lpsolve",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.lpsolve"
+  },
+  {
+    "package": "ROI.plugin.msbinlp",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.msbinlp"
+  },
+  {
+    "package": "ROI.plugin.neos",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.neos"
+  },
+  {
+    "package": "ROI.plugin.nloptr",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.nloptr"
+  },
+  {
+    "package": "ROI.plugin.optimx",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.optimx"
+  },
+  {
+    "package": "ROI.plugin.osqp",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.osqp"
+  },
+  {
+    "package": "ROI.plugin.qpoases",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.qpoases"
+  },
+  {
+    "package": "ROI.plugin.scs",
+    "maintainer": "Florian Schwendinger <FlorianSchwendinger@gmx.at>",
+    "url": "https://gitlab.com/roigrp/solver/roi.plugin.scs"
+  }
+]

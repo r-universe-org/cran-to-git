@@ -40,6 +40,11 @@
     "url": "https://github.com/riatelab/mapsf"
   },
   {
+    "package": "mapsf.gui",
+    "maintainer": "Matthieu Viry <matthieu.viry@cnrs.fr>",
+    "url": "https://codeberg.org/riatelab/mapsf.gui"
+  },
+  {
     "package": "maptiles",
     "maintainer": "Timothée Giraud <timothee.giraud@cnrs.fr>",
     "url": "https://github.com/riatelab/maptiles"
