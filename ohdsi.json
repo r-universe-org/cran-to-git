@@ -25,6 +25,11 @@
     "url": "https://github.com/ohdsi/cohortgenerator"
   },
   {
+    "package": "CohortIncidence",
+    "maintainer": "Christopher Knoll <cknoll@ohdsi.org>",
+    "url": "https://github.com/ohdsi/cohortincidence"
+  },
+  {
     "package": "CohortMethod",
     "maintainer": "Martijn Schuemie <schuemie@ohdsi.org>",
     "url": "https://github.com/ohdsi/cohortmethod"

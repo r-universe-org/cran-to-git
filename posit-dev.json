@@ -20,6 +20,12 @@
     "url": "https://github.com/posit-dev/buoyant"
   },
   {
+    "package": "commons",
+    "maintainer": "Simon Couch <simon.couch@posit.co>",
+    "url": "https://github.com/posit-dev/commons",
+    "subdir": "pkg-r"
+  },
+  {
     "package": "connectapi",
     "maintainer": "Kara Woo <kara.woo@posit.co>",
     "url": "https://github.com/posit-dev/connectapi"
