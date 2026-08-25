@@ -3855,7 +3855,7 @@ CohortSurvival,darwin-eu
 CohortSymmetry,ohdsi
 cohorttools,jkhaukka
 CoImp,cran
-coin,r-forge
+coin,thothorn
 coinmarketcapr,amrrs
 CoinMinD,rudth
 Coinprofile,wilmermartinezr
@@ -3965,7 +3965,7 @@ CommonJavaJars,r-forge
 commonmark,ropensci
 CommonMean.Copula,cran
 commonmetar,ropensci
-commons,posit-dev
+commons,simonpcouch
 commonsMath,dbdahl
 comorbidity,ellessenne
 comorbidPGS,vp-biostat
@@ -6372,7 +6372,7 @@ eba,cran
 ebal,j-hai
 EBarrays,bioc
 EBASE,fawda123
-EBASS,aud33
+EBASS,biostatusmr
 ebaTools,rmcgill777
 EbayesThresh,stephenslab
 EBCHS,dulilun
@@ -11066,6 +11066,7 @@ iglm,corneliusfritz
 iglu,irinagain
 igoR,dieghernan
 IgorR,jefferis
+IGPFrailty,shikhartyagi
 igr,digitalnature-ie
 igraph,igraph
 igraphdata,igraph
@@ -11419,6 +11420,7 @@ InterpretMSSpectrum,janlisec
 interpretR,ballings
 interprocess,cmmr
 inters,mattblackwell
+interSAE,leilamarvian
 InterSIM,cran
 InterVA4,verbal-autopsy-software
 InterVA5,jarathomas
@@ -13423,7 +13425,7 @@ matrans,cran
 matricks,krzjoa
 matRiks,brancaccioandrea
 matrisk,cran
-Matrix,r-forge
+Matrix,cran
 matrixcalc,tomkellygenetics
 matrixCorr,prof-thiagooliveira
 MatrixCorrelation,khliland
@@ -14486,7 +14488,7 @@ mlstats,felixdidi
 mlstm,thimeno1993
 mlstrOpalr,maelstrom-research
 mlsurvlrnrs,kapsner
-mlt,r-forge
+mlt,thothorn
 mlt.docreg,r-forge
 mltest,cran
 mltools,ben519
@@ -15065,7 +15067,7 @@ MultANOVA,bmahieuoniris
 MultBiplotR,villardon
 multbxxc,sgsokol
 multChernoff,richardkwo
-multcomp,r-forge
+multcomp,thothorn
 multcompView,lselzer
 multDM,kdrachal
 multe,kolesarm
@@ -16985,9 +16987,9 @@ partR2,mastoffel
 partsm,matthieustigler
 parttime,dgkf
 parttree,grantmcdermott
-party,r-forge
+party,thothorn
 partycoloR,lwarode
-partykit,r-forge
+partykit,thothorn
 parzer,ropensci
 PAS,zhiqiuhu
 pasadr,ainsuotain
@@ -19377,8 +19379,8 @@ RBF,msalibian
 rbfmvar,muhammedalkhalaf
 RBGL,bioc
 rbgm,australianantarcticdivision
-rbi,sbfnk
-rbi.helpers,sbfnk
+rbi,epiforecasts
+rbi.helpers,epiforecasts
 rBiasCorrection,kapsner
 rbibutils,geobosh
 rbin,rsquaredacademy
@@ -21687,7 +21689,7 @@ SAMUR,asmahani
 sanba,fradenti
 sand,kolaczyk
 sandbox,coffeemuggler
-sandwich,r-forge
+sandwich,zeileis
 SanFranBeachWater,cran
 sangeranalyseR,bioc
 sangerseqR,bioc
@@ -25059,7 +25061,7 @@ tfevents,mlverse
 TFHAZ,bioc
 tfhub,rstudio
 tfio,terrytangyuan
-TFisher,wpihongzhang
+TFisher,zwulab
 tflmetaR,yaolu611
 TFMPvalue,ge11232002
 tfNeuralODE,semran9
@@ -25619,7 +25621,7 @@ trajeR,gitedric
 trajmsm,awamaeva
 trajr,jimmcl
 traktok,jbgruber
-tram,r-forge
+tram,thothorn
 tramicp,lucaskook
 TraMineR,traminer
 TraMineRextras,traminer
@@ -26383,7 +26385,7 @@ VARSELECTEXPOSURE,cran
 VarSelLCM,r-forge
 varSelRF,rdiaz02
 VARshrink,namgillee
-vartest,osmandag
+vartest,cran
 varTestnlme,baeyc
 VARtests,cran
 varycoef,cran
@@ -27352,7 +27354,7 @@ zoltr,reichlab
 ZonationR,thiago-cav
 zonebuilder,zonebuilders
 zonohedra,glenndavis52
-zoo,r-forge
+zoo,zeileis
 ZooID,arickgrootveld
 zooimage,phgrosjean
 zoolog,josempozo

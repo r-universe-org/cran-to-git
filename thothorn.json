@@ -5,6 +5,12 @@
     "url": "https://github.com/cran/ATR"
   },
   {
+    "package": "coin",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/coin",
+    "subdir": "pkg/coin"
+  },
+  {
     "package": "exactRankTests",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/cran/exactRankTests"
@@ -37,7 +43,7 @@
   {
     "package": "ipred",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/cran/ipred"
+    "url": "https://codeberg.org/thothorn/ipred"
   },
   {
     "package": "libcoin",
@@ -50,9 +56,20 @@
     "url": "https://github.com/cran/maxstat"
   },
   {
+    "package": "mlt",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/tram",
+    "subdir": "pkg/mlt"
+  },
+  {
     "package": "modeltools",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/cran/modeltools"
+  },
+  {
+    "package": "multcomp",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/multcomp"
   },
   {
     "package": "MVA",
@@ -65,6 +82,18 @@
     "url": "https://codeberg.org/thothorn/mvtnorm"
   },
   {
+    "package": "party",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/party",
+    "subdir": "pkg"
+  },
+  {
+    "package": "partykit",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/partykit",
+    "subdir": "pkg/partykit"
+  },
+  {
     "package": "tbm",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://codeberg.org/thothorn/tram",
@@ -74,5 +103,11 @@
     "package": "TH.data",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://github.com/cran/TH.data"
+  },
+  {
+    "package": "tram",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/tram",
+    "subdir": "pkg/tram"
   }
 ]

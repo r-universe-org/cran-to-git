@@ -15,6 +15,16 @@
     "url": "https://github.com/epiforecasts/epinow2"
   },
   {
+    "package": "rbi",
+    "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
+    "url": "https://github.com/epiforecasts/rbi"
+  },
+  {
+    "package": "rbi.helpers",
+    "maintainer": "Sebastian Funk <sebastian.funk@lshtm.ac.uk>",
+    "url": "https://github.com/epiforecasts/rbi.helpers"
+  },
+  {
     "package": "ringbp",
     "maintainer": "Joshua W. Lambert <joshua.lambert@lshtm.ac.uk>",
     "url": "https://github.com/epiforecasts/ringbp"

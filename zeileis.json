@@ -12,12 +12,12 @@
   {
     "package": "ctv",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/ctv"
+    "url": "https://codeberg.org/zeileis/ctv"
   },
   {
     "package": "dichromat",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/dichromat"
+    "url": "https://codeberg.org/zeileis/dichromat"
   },
   {
     "package": "distributions3",
@@ -37,27 +37,27 @@
   {
     "package": "exams2forms",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/exams2forms"
+    "url": "https://codeberg.org/zeileis/exams2forms"
   },
   {
     "package": "exams2learnr",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/exams2learnr"
+    "url": "https://codeberg.org/zeileis/exams2learnr"
   },
   {
     "package": "Formula",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/Formula"
+    "url": "https://codeberg.org/zeileis/formula"
   },
   {
     "package": "fortunes",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/fortunes"
+    "url": "https://codeberg.org/zeileis/fortunes"
   },
   {
     "package": "fxregime",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/fxregime"
+    "url": "https://codeberg.org/zeileis/fxregime"
   },
   {
     "package": "glmx",
@@ -107,7 +107,7 @@
   {
     "package": "psychotree",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/psychotree"
+    "url": "https://codeberg.org/zeileis/psychotree"
   },
   {
     "package": "pwt",
@@ -130,18 +130,28 @@
     "url": "https://github.com/cran/pwt9"
   },
   {
+    "package": "sandwich",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://codeberg.org/zeileis/sandwich"
+  },
+  {
     "package": "stablelearner",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/stablelearner"
+    "url": "https://codeberg.org/zeileis/stablelearner"
   },
   {
     "package": "strucchange",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/strucchange"
+    "url": "https://codeberg.org/zeileis/strucchange"
   },
   {
     "package": "tth",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/tth"
+    "url": "https://codeberg.org/zeileis/tth"
+  },
+  {
+    "package": "zoo",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://codeberg.org/zeileis/zoo"
   }
 ]

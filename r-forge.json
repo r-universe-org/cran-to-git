@@ -78,12 +78,6 @@
     "subdir": "pkg/cobs"
   },
   {
-    "package": "coin",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/coin",
-    "subdir": "pkg/coin"
-  },
-  {
     "package": "colorspace",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://github.com/r-forge/colorspace",
@@ -354,12 +348,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "Matrix",
-    "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
-    "url": "https://github.com/r-forge/matrix",
-    "subdir": "pkg/Matrix"
-  },
-  {
     "package": "MatrixModels",
     "maintainer": "Martin Maechler <mmaechler+Matrix@gmail.com>",
     "url": "https://github.com/r-forge/matrix",
@@ -370,12 +358,6 @@
     "maintainer": "Katharine M. Mullen <katharine.mullen@stat.ucla.edu>",
     "url": "https://github.com/r-forge/optimizer",
     "subdir": "pkg/minqa"
-  },
-  {
-    "package": "mlt",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/mlt"
   },
   {
     "package": "mlt.docreg",
@@ -393,12 +375,6 @@
     "package": "mpmi",
     "maintainer": "Chris Pardy <cooliomcdude@gmail.com>",
     "url": "https://github.com/r-forge/mpmi",
-    "subdir": "pkg"
-  },
-  {
-    "package": "multcomp",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/multcomp",
     "subdir": "pkg"
   },
   {
@@ -442,18 +418,6 @@
     "maintainer": "Kevin R. Coombes <krc@silicovore.com>",
     "url": "https://github.com/r-forge/oompa",
     "subdir": "pkg/oompaData"
-  },
-  {
-    "package": "party",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/party",
-    "subdir": "pkg"
-  },
-  {
-    "package": "partykit",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/partykit",
-    "subdir": "pkg/partykit"
   },
   {
     "package": "pcalg",
@@ -726,12 +690,6 @@
     "subdir": "pkg/sampleSelection"
   },
   {
-    "package": "sandwich",
-    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/sandwich",
-    "subdir": "pkg"
-  },
-  {
     "package": "setRNG",
     "maintainer": "Paul Gilbert <pgilbert.ttv9z@ncf.ca>",
     "url": "https://github.com/r-forge/distr",
@@ -840,12 +798,6 @@
     "subdir": "pkg"
   },
   {
-    "package": "tram",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/tram"
-  },
-  {
     "package": "tramME",
     "maintainer": "Balint Tamasi <balint.tamasi+tramME@gmail.com>",
     "url": "https://github.com/r-forge/ctm",
@@ -922,11 +874,5 @@
     "maintainer": "Stefan Evert <stefan.evert@fau.de>",
     "url": "https://github.com/r-forge/zipfr",
     "subdir": "pkg/zipfR"
-  },
-  {
-    "package": "zoo",
-    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/zoo",
-    "subdir": "pkg/zoo"
   }
 ]
