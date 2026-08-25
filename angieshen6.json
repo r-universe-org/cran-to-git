@@ -3,5 +3,10 @@
     "package": "BayesPPD",
     "maintainer": "Yueqi Shen <angieshen6@gmail.com>",
     "url": "https://github.com/cran/BayesPPD"
+  },
+  {
+    "package": "BayesPPDSurv",
+    "maintainer": "Yueqi Shen <angieshen6@gmail.com>",
+    "url": "https://github.com/cran/BayesPPDSurv"
   }
 ]

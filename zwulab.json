@@ -3,5 +3,20 @@
     "package": "DPComb",
     "maintainer": "Zheyang Wu <zheyangwu@wpi.edu>",
     "url": "https://github.com/zwulab/dpcomb"
+  },
+  {
+    "package": "GFisher",
+    "maintainer": "Zheyang Wu <zheyangwu@wpi.edu>",
+    "url": "https://github.com/zwulab/gfisher"
+  },
+  {
+    "package": "Qapprox",
+    "maintainer": "Zheyang Wu <zheyangwu@wpi.edu>",
+    "url": "https://github.com/zwulab/qapprox"
+  },
+  {
+    "package": "SetTest",
+    "maintainer": "Zheyang Wu <zheyangwu@wpi.edu>",
+    "url": "https://github.com/zwulab/settest"
   }
 ]
