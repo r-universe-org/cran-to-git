@@ -374,6 +374,7 @@ AgriDataTools,faheemkhan15326
 AgriDiversiX,santosharathod
 agriDQ,sadikulislamiasri-hub
 agrifeature,cran
+AgriFusionR,mqfarooqi1
 agriReg,sadikulislamiasri-hub
 agriTutorial,rned
 agriutilities,apariciojohan
@@ -441,6 +442,7 @@ AirScreen,cran
 airship,el-meyer
 airt,sevvandi
 aiRthermo,cran
+AISanalyze,remip48
 AIscreenR,mikkelvembye
 aisdk,yulab-smu
 aisdk.providers,yulab-smu
@@ -819,7 +821,7 @@ ArArRedux,pvermees
 arc,kliegr
 ARCensReg,fernandalschumacher
 arcgeocoder,dieghernan
-arcgis,r-arcgis
+arcgis,josiahparry
 arcgisgeocode,r-arcgis
 arcgislayers,r-arcgis
 arcgisplaces,josiahparry
@@ -2722,6 +2724,7 @@ CanonicalFamilyExtra,qiu-hongxiang-david
 canprot,jedick
 canpumf,mountainmath
 cansim,mountainmath
+cantrends,mattwarkentin
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
 CAOP.RAA.2024,patterninstitute
@@ -4532,7 +4535,7 @@ crbcc,prl-prg
 CRBHSF,zerish12
 crc32c,eddelbuettel
 CrcBiomeScreen,bioc
-crch,r-forge
+crch,zeileis
 crctStepdown,samueliwatson
 CRE,nsaph-software
 cre.dcf,kpoigeo
@@ -6813,6 +6816,7 @@ enrichplot,bioc
 enrichR,wjawaid
 enrichViewNet,bioc
 enrichwith,ikosmidis
+enrollcast,localopen
 EnsCat,jlp2duke
 ensembldb,bioc
 ensembleBMA,cran
@@ -7259,6 +7263,7 @@ ExpBites,nmoiroux
 expDB,byzheng
 ExpDE,fcampelo
 ExpDes,ericbarba
+ExpDesignR,vinodhpmd
 expectreg,cran
 experDesign,llrs
 experiences,joe-chelladurai
@@ -9226,6 +9231,7 @@ ggmulti,z267xu
 ggmultiglyph,aravind-j
 ggnetwork,briatte
 ggnewscale,eliocamp
+ggnext,itsmdivakaran
 ggnormalviolin,wjschne
 ggOceanMaps,mikkovihtakari
 ggokabeito,malcolmbarrett
@@ -9753,6 +9759,7 @@ gpcihybridIILinApp,shikhartyagi
 gpcihybridIImcmc,shikhartyagi
 gpciImpSam,shikhartyagi
 gpciIntCensor,shikhartyagi
+gpciLindApproxProgII,shikhartyagi
 gpciLindleyApprox,shikhartyagi
 gpciProgTyII,shikhartyagi
 gpciProgTyIIImpSam,shikhartyagi
@@ -10224,7 +10231,6 @@ harmonicmeanp,cran
 harmonizer,cran
 HarmonizR,bioc
 harmony,immunogenomics
-harmonydata,omtarful
 harness,pcbrom
 HARplus,bodysbobb
 HARr,mivanic
@@ -12336,6 +12342,7 @@ lareshiny,laresbernardo
 Largevars,eszter-kiss
 LARisk,jhlee-projects
 lars,trevorhastie
+lasars,cran
 LassoBacktracking,rajenshah
 LassoHiDFastGibbs,mjdavoudabadi
 LassoNet,jstriaukas
@@ -15202,6 +15209,7 @@ multiscan,bioc
 multiscape,josesalgr
 multiselect,meisnera
 multisensi,cran
+MultiSEp,ianoverton
 multisite.accuracy,jrad1
 MultisiteMediation,xu-qin
 MultiSkew,cran
@@ -15285,6 +15293,7 @@ MVar.pt,cran
 mvardlurt,muhammedalkhalaf
 mvBayes,sandialabs
 MvBinary,masedki
+mvboxcox,ubcxzhang
 mvbutils,markbravington
 mvcauchy,cran
 MVCClass,bioc
@@ -16571,6 +16580,7 @@ orbweaver,ixpantia
 orca,thocevar
 orcamentoBR,cran
 orchaRd,daniel1noble
+ORCI.Welch,cran
 orcidtr,lorenzofabbri
 orclus,g-rho
 ORCME,cran
@@ -19162,6 +19172,7 @@ rAmCharts,datastorm-open
 rAmCharts4,stla
 ramchoice,xinweima
 ramcmc,helske
+RAMEN,ropensci
 rameritrade,altanalytics
 ramify,bgreenwell
 ramlegacy,ropensci
@@ -21905,7 +21916,7 @@ scholar,yulab-smu
 scholid,thomas-rauter
 scholidonline,thomas-rauter
 SchoolDataIT,lcef97
-schoolmath,cran
+schoolmath,produnis
 schoRsch,cran
 scHOT,bioc
 schrute,bradlindblad
@@ -22035,7 +22046,6 @@ scrutiny,lhdjung
 scrutr,danielrak
 scry,bioc
 scrypt,bobjansen
-scryr,curso-r
 scs,florianschwendinger
 scShapes,bioc
 scShardSplitRef,irinavkuznetsova
@@ -23750,6 +23760,7 @@ sport,gogonzo
 SportMiner,praveenmaths89
 SPORTSCausal,cran
 sportsfeatures,artisto123
+sportsR,lightbluetitan
 SportsTour,cran
 sportyR,sportsdataverse
 SpotClean,bioc
@@ -25027,6 +25038,7 @@ textanalyzer,cran
 textAnnotatoR,chaoliu-cl
 textBoxPlacement,barryzee
 textcat,kurthornik
+textclassificationtutorial,vkobayashi
 textclean,trinker
 textdata,emilhvitfeldt
 texter,simmieyungie

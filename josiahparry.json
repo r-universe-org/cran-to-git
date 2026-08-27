@@ -1,5 +1,10 @@
 [
   {
+    "package": "arcgis",
+    "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
+    "url": "https://github.com/cran/arcgis"
+  },
+  {
     "package": "arcgisplaces",
     "maintainer": "Josiah Parry <josiah.parry@gmail.com>",
     "url": "https://github.com/cran/arcgisplaces"

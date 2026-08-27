@@ -7,7 +7,12 @@
   {
     "package": "betareg",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/betareg"
+    "url": "https://codeberg.org/zeileis/betareg"
+  },
+  {
+    "package": "crch",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://codeberg.org/zeileis/crch"
   },
   {
     "package": "ctv",

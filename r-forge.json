@@ -126,12 +126,6 @@
     "subdir": "pkg/cotram"
   },
   {
-    "package": "crch",
-    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/topmodels",
-    "subdir": "pkg/crch"
-  },
-  {
     "package": "distr",
     "maintainer": "Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>",
     "url": "https://github.com/r-forge/distr",
