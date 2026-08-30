@@ -3051,6 +3051,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CySA",
+    "maintainer": "Bernd Jagla <bernd.jagla@pasteur.fr>",
+    "url": "https://github.com/baj12/cysa",
+    "registry": "bioc"
+  },
+  {
     "package": "CytoDx",
     "maintainer": "Zicheng Hu <zicheng.hu@ucsf.edu>",
     "url": "https://git.bioconductor.org/packages/CytoDx",
@@ -12817,6 +12823,12 @@
     "package": "SpatialCPie",
     "maintainer": "Joseph Bergenstraahle <joseph.bergenstrahle@gmail.com>",
     "url": "https://git.bioconductor.org/packages/SpatialCPie",
+    "registry": "bioc"
+  },
+  {
+    "package": "spatialdataR",
+    "maintainer": "Helena L. Crowell <helena@crowell.eu>",
+    "url": "https://github.com/helenalc/spatialdatar",
     "registry": "bioc"
   },
   {

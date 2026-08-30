@@ -4849,6 +4849,7 @@ cylcop,floo66
 cymruservices,hrbrmstr
 cyphr,ropensci
 cypress,bioc
+CySA,bioc
 cystiSim,brechtdv
 CytobankAPI,stu-blair
 CytoDx,bioc
@@ -10308,7 +10309,6 @@ HDGLM,cran
 hdi,meierluk
 hdImpute,pdwaggoner
 HDInterval,ngumbang
-HDiR,cran
 hdiVAR,cran
 HDLSSkST,biplab44
 hdm,martinspindler
@@ -11513,7 +11513,7 @@ IPEC,cran
 IPEDS,ajhaller
 IPEDSuploadables,alisonlanski
 iperform,cran
-ipeval,jvelumc
+ipeval,survival-lumc
 ipf,cran
 ipflasso,boulesteix
 ipfp,awblocker
@@ -17845,7 +17845,7 @@ pmxTools,kestrel99
 PNADcIBGE,gabriel-assuncao
 PNADCperiods,antrologos
 PNAR,cran
-PNC,temp20250212
+PNC,cran
 pnd,fifis
 PND.heter.cluster,xliu12
 PNDSIBGE,gabriel-assuncao
@@ -22007,7 +22007,7 @@ scquantum,alex-l-m
 scR,pjesscarter
 scraEP,jboelaert
 scran,bioc
-scrapeR,mdubeau20
+scrapeR,mdubeau19
 scrapper,bioc
 scrappy,villegar
 scReClassify,bioc
@@ -23480,6 +23480,7 @@ spatialCatalogueViewer,sebastien-plutniak
 spatialCovariance,cran
 SpatialCPie,bioc
 spatialData,blasbenito
+spatialdataR,bioc
 spatialDE,bioc
 SpatialDecon,bioc
 SpatialDownscaling,mikasip
