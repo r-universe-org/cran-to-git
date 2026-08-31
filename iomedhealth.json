@@ -1,0 +1,14 @@
+[
+  {
+    "package": "CohortCosts",
+    "maintainer": "Gabriel Maeztu <gabriel@iomed.health>",
+    "url": "https://github.com/iomedhealth/omopheor",
+    "subdir": "packages/CohortCosts"
+  },
+  {
+    "package": "CohortUtilisation",
+    "maintainer": "Gabriel Maeztu <gabriel@iomed.health>",
+    "url": "https://github.com/iomedhealth/omopheor",
+    "subdir": "packages/CohortUtilisation"
+  }
+]

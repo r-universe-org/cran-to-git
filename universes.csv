@@ -411,6 +411,7 @@ AIDA,catarinaploureiro
 aiDIF,causalfragility-lab
 aieconindex,charlescoverdale
 AiES,breezycave
+aiEvalR,causalfragility-lab
 aifeducation,fberding
 AIFFtools,cran
 AIGovernance,causalfragility-lab
@@ -2896,6 +2897,7 @@ CausalQueries,integrated-inferences
 CausalR,bioc
 causalreg,cran
 causalsens,mattblackwell
+causalsim,chaycereed
 causalSLSE,pchausse
 CausalSpline,causalfragility-lab
 CausalState,sebastiaan-blank
@@ -3839,7 +3841,6 @@ Cogito,bioc
 coglasso,drquestion
 coglyphr,mutopsy
 cogmapr,frdvnw
-cognitoR,chi2labs
 coGPS,bioc
 cograph,sonsoleslp
 cohetsurr,laylaparast
@@ -3847,6 +3848,7 @@ cohortBuilder,r-world-devs
 CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortContrast,healthinformaticsut
+CohortCosts,iomedhealth
 CohortGenerator,ohdsi
 CohortIncidence,ohdsi
 CohortMethod,ohdsi
@@ -3855,6 +3857,7 @@ cohorts,peerchristensen
 CohortSurvival,darwin-eu
 CohortSymmetry,ohdsi
 cohorttools,jkhaukka
+CohortUtilisation,iomedhealth
 CoImp,cran
 coin,thothorn
 coinmarketcapr,amrrs
@@ -5611,6 +5614,7 @@ diffuStats,bioc
 diffUTR,bioc
 diffval,tiagomonteirohenriques
 diffviewer,r-lib
+diffwrap,cran
 DiffXTables,joemsong
 DIFlasso,schaubert
 DIFM,cran
@@ -6346,6 +6350,7 @@ easynem,whkygl
 easynls,cran
 easyORtables,neilmhta
 easypackages,jakesherman
+EasyPCA,vishnumrstat
 easypower,amcgarvey93
 easyPSID,brianaronson
 easyPubMed,dami82
@@ -6963,7 +6968,6 @@ epocakir,alwinw
 Epoch,jiefei-wang
 eponge,krzjoa
 epos,bernd-mueller
-epoxy,gadenbuie
 eppoFindeR,openefsa
 epr,cran
 epsiwal,shabbychef
@@ -7204,7 +7208,7 @@ exact2x2,michaelfay-niaid
 exactamente,mightymetrika
 exactci,michaelfay-niaid
 ExactCIdiff,cran
-ExactCIone,cran
+ExactCIone,befrthunder
 ExactCox,cran
 exactextractr,isciences
 exactGMH,trizahra10019-spec
@@ -9092,6 +9096,7 @@ GGally,ggobi
 ggalttext,cran
 ggamma,matheushjs
 gganimate,thomasp85
+gganime,long39ng
 ggarchery,mdhall272
 ggarrow,teunbrand
 ggauto,nrennie
@@ -14741,6 +14746,7 @@ mori,shikokuchuo
 morph,cran
 morphemepiece,macmillancontentscience
 morphemepiece.data,macmillancontentscience
+morphErr,elismit01
 morpheus,yagu0
 Morpho,zarquon42b
 morphomap,aprofico
@@ -15390,6 +15396,7 @@ myrror,pip-technical-team
 myTAI,drostlab
 myvariant,bioc
 mzID,bioc
+mziln,cran
 mzipmed,ams329
 mzR,bioc
 n1qn1,nlmixr2
@@ -15490,6 +15497,7 @@ NBShiny2,kartikeyabolar
 NBShiny3,kartikeyabolar
 nbTransmission,sarahleavitt
 NBtsVarSel,mgomtsyan
+NBvarsel,lasaibarrenada
 nc,tdhock
 NCA,govertbuijs
 ncaavolleyballr,jeffreyrstevens
@@ -15841,7 +15849,7 @@ nlts,objornstad
 nLTT,thijsjanzen
 nlWaldTest,olehjktu
 NMA,nomahi
-NMADTA,cran
+NMADTA,xingxing8-star
 NMAforest,cran
 nmaINLA,gunhanb
 NMAoutlier,petropouloumaria
@@ -15896,7 +15904,6 @@ NO.PING.PONG,bpoconnor
 noaa,cran
 noah,teebusch
 NobBS,sarahhbellum
-noctua,dyfanjones
 nocturn,chronopsychiatry
 nodbi,ropensci
 node2vec,tianyang-0523
@@ -15911,6 +15918,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
+nolaOpenData,gomes-sh
 nolock,artllex
 nomads,cran
 nombre,rossellhayes
@@ -16795,6 +16803,7 @@ pacta.multi.loanbook,rmi-pacta
 pacu,cldossantos
 pacviz,sharksorceress
 PACVr,michaelgruenstaeudl
+PaddleOCR,xiaoluolorn
 paddleR,arnold-kakas
 Pade,aadler
 padma,bioc
@@ -20415,6 +20424,7 @@ RiemBase,kisungyou
 riemtan,nicoesve
 Riex,theeliteanalyst
 RIFanalysis,cran
+rifexpectile,aandoye
 rifi,bioc
 rifiComparative,bioc
 rifreg,cran
@@ -23125,7 +23135,7 @@ SMITE,bioc
 SmithWilsonYieldCurve,philjoubert
 SMLE,jasonqxz
 smlePH,taehwa015
-smlmkalman,andrew-buist
+smlmkalman,andi-buist
 SMLoutliers,siddjain24
 SMM,nicolasv-dev
 SMMAL,hjmarquis
@@ -24196,6 +24206,7 @@ stors,ahmad-alqabandi
 stortingscrape,martigso
 storywranglr,chris31415926535
 stosim,jto888
+stow,cole-brokamp
 STPGA,denizakdemir
 stPipe,bioc
 stplanr,ropensci
@@ -27371,7 +27382,6 @@ zoolog,josempozo
 zoom,cbarbu
 zoomerjoin,beniaminogreen
 zoomgrid,yukai-yang
-zoomGroupStats,cran
 zoomr,chrisumphlett
 zoteR,cran
 ZRA,cran
