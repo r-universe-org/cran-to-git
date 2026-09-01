@@ -1027,6 +1027,7 @@ asympDiag,alvaro-kothe
 asympTest,lafaye
 asymptor,bisaloo
 AsynchLong,sth1402
+AsyPeer,mathieulambotte
 ata,chajewski
 atable,arminstroebel
 atacInferCnv,bioc
@@ -1685,6 +1686,7 @@ beeswarm,aroneklund
 beezdemand,brentkaplan
 beezdiscounting,brentkaplan
 befproj,thure666
+behaviorchange,matherion
 behavr,rethomics
 BEKKs,mjfullness
 belex,milosvil
@@ -2006,6 +2008,7 @@ BioM2,cran
 biomaRt,bioc
 biomartr,ropensci
 BIOMASS,umr-amap
+biomes,azizka
 biometrics,cseljatib
 biometryassist,biometryhub
 biomformat,bioc
@@ -2072,7 +2075,6 @@ birdring,cran
 birdscanR,birdscancommunity
 birdsize,ropensci
 birk,matthewabirk
-birp,cran
 birtr,seockhokim
 BIS,stefanangrick
 biscale,chris-prener
@@ -4089,6 +4091,7 @@ CONFESS,bioc
 confidence,cran
 confidenceCurves,cran
 ConfidenceEllipse,christiangoueguel
+confidenceSim,cran
 config,rstudio
 ConfigParser,hhoeflin
 configr,miachol
@@ -6968,6 +6971,7 @@ epocakir,alwinw
 Epoch,jiefei-wang
 eponge,krzjoa
 epos,bernd-mueller
+epoxy,gadenbuie
 eppoFindeR,openefsa
 epr,cran
 epsiwal,shabbychef
@@ -7185,7 +7189,6 @@ evolution,strategicprojects
 EvolutionaryGames,jhstaudacher
 evolvability,ghbolstad
 evolved,mjanuario
-Evomorph,juanmac17
 evoper,antonio-pgarcia
 EvoPhylo,tiago-simoes
 evoTS,klvoje
@@ -7197,6 +7200,7 @@ EWAScaller,saadat-abu
 EWCE,bioc
 ewens,chrishanretty
 EWGoF,mkrit
+ewoc,dnzmarcio
 EWOC.Comb,cran
 ewp,pboesu
 EwR,cran
@@ -7789,6 +7793,7 @@ fig,cran
 figir,philaris
 figma,pedropark99
 figpatch,bradyajohnston
+figsr,bonijoao
 file2meco,chiliubio
 fileaccess,vaishalijs
 filearray,dipterix
@@ -8747,7 +8752,7 @@ geessbin,rtishii
 geeVerse,zzz1990771
 geex,bsaul
 geigen,jonathanlees
-geiger,lukejharmon
+geiger,mwpennell
 GEInfo,cran
 GEint,ryansunwork
 GEInter,cran
@@ -9755,6 +9760,7 @@ GPBayes,pulongma
 gpbiometrics,stefanosbalaskas
 gpboost,fabsig
 gpbStat,nandp1
+gpci,shikhartyagi
 gpciEMprogII,shikhartyagi
 gpcihybridII,shikhartyagi
 gpcihybridIIEM,shikhartyagi
@@ -9816,7 +9822,6 @@ GRAB,woodymiao
 grabsampling,mayooran1987
 GrabSVG,castleli
 Grace,sen-zhao
-grade,ltjohnson
 gradeR,tbrown122387
 graDiEnt,bmgaldo
 gradLasso,ddefranza
@@ -12390,6 +12395,7 @@ lax,paulnorthrop
 lay,courtiol
 layer,marcosci
 layeranalyzer,cran
+lazybar,finyang
 lazyData,billvenables
 lazyeval,hadley
 lazymatrix,vsegersall
@@ -13901,6 +13907,7 @@ metarep,ijaljuli
 metaRNASeq,sblanck
 MetaRVM,resume-epi
 metaSDTreg,cran
+metaselection,jepusto
 metaSEM,mikewlcheung
 metasens,guido-s
 metaSeq,bioc
@@ -18431,6 +18438,7 @@ proporz,polettif
 propOverlap,cran
 PROPS,bioc
 PropScrRand,tloux
+PropTestR,vinodhpmd
 proPubBills,nadinesk
 ProPublicaR,dietrichson
 proratar,cran
@@ -19672,6 +19680,7 @@ rdataretriever,ropensci
 Rdatasets,vincentarelbundock
 rdav,gk-crop
 rdbnomics,s915
+rdborrow,genentech
 rdcmchecks,r-dcm
 rdcor,cran
 rddapp,felixthoemmes
@@ -25668,6 +25677,7 @@ TransHDM,gaohuer
 transite,bioc
 Transition,mark-eis
 transitiontrees,mohsaqr
+transittraj,utel-uiuc
 translate.logit,nicolas-robette
 tRanslatome,bioc
 translit.uk,amice13
@@ -26106,6 +26116,7 @@ udpipe,bnosac
 udunits2,pacificclimate
 UEI,ranjitstat
 ufRisk,cran
+ufs,cran
 UGarima,atchanut
 ugatsdb,sebkrantz
 uGMAR,saviviro
