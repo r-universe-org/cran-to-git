@@ -1,7 +1,17 @@
 [
   {
+    "package": "depictr",
+    "maintainer": "Pablo Bernabeu <pcbernabeu@gmail.com>",
+    "url": "https://github.com/pablobernabeu/depictr"
+  },
+  {
     "package": "scopusflow",
     "maintainer": "Pablo Bernabeu <pcbernabeu@gmail.com>",
     "url": "https://github.com/pablobernabeu/scopusflow"
+  },
+  {
+    "package": "theoryforge",
+    "maintainer": "Pablo Bernabeu <pcbernabeu@gmail.com>",
+    "url": "https://github.com/cran/theoryforge"
   }
 ]

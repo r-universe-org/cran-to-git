@@ -124,6 +124,7 @@ actibase,jhuwit
 actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
 actinet,jhuwit
+actiquantiles,jhuwit
 actiread,jhuwit
 actiRhythm,rdazadda
 activAnalyzer,pydemull
@@ -1155,6 +1156,7 @@ av,ropensci
 AV1R,zabis13
 available,r-lib
 avar,smac-group
+AvatarTLA,gerardo-manzanarez-villasana
 averisk,johnfergusonnuig
 avesperu,paulesantos
 AVGAS,lli289
@@ -2075,6 +2077,7 @@ birdring,cran
 birdscanR,birdscancommunity
 birdsize,ropensci
 birk,matthewabirk
+birp,cran
 birtr,seockhokim
 BIS,stefanangrick
 biscale,chris-prener
@@ -2507,6 +2510,7 @@ bspcov,statjs
 bspec,christianroever
 bspline,mathscell
 BsplineQuantReg,alexandreabbes
+BsplineQuantRegGui,tournefeuille2026
 bsplus,ijlyttle
 bspm,cran4linux
 bsreg,nk027
@@ -5070,6 +5074,7 @@ datetimeutils,enricoschumann
 datetoiso,cran
 dateutils,macroeconomicdata
 datey,logmu-org
+datom,amashadihossein
 datoramar,kxzk
 datos,cienciadedatos
 datplot,lsteinmann
@@ -5081,6 +5086,7 @@ Davies,robinhankin
 daVis,bioc
 dawai,cran
 dawaR,aleksanderbl29
+dawnn,george-hall-ucl
 daymetr,bluegreen-labs
 days2lessons,vladbazon
 daySupply,ab-sa
@@ -5371,6 +5377,7 @@ denstrip,chjackson
 densvis,bioc
 dentomedical,umarhussain-git
 denvax,pearsonca
+deOpenData,martinezc1
 DEoptim,ardiad
 DEoptimR,eduardotrincaoconceicao
 depcache,aitap
@@ -5381,6 +5388,7 @@ DepDoubleTruncKS,shikhartyagi
 DepecheR,bioc
 depend.truncation,takeshiemura1
 dependentsimr,tgbrooks
+depictr,pablobernabeu
 DepInfeR,bioc
 DepLogo,jgraux
 DEploid,deploid-dev
@@ -5835,7 +5843,6 @@ dlnm,gasparrini
 dlookr,choonghyunryu
 DLPCA,guangbaog
 dlr,macmillancontentscience
-dlsem,alessandromagrini
 dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
@@ -7520,6 +7527,7 @@ fastFGEE,gloewing
 fastFMM,awqx
 fastfocal,hoyiwan
 FastGaSP,uncertaintyquantification
+fastgbm,ielbadisy
 fastgeojson,firstzeroenergy
 fastGHQuad,awblocker
 fastGLCM,mlampros
@@ -7924,6 +7932,7 @@ fitteR,markusboenn
 FitUltD,jcval94
 fitur,tomroh
 fitVARMxID,jeksterslab
+FitVerse,cran
 fitzRoy,jimmyday12
 fivethirtyeight,rudeboybert
 fixedCV,rpkgarcia
@@ -9037,6 +9046,7 @@ gestalt,egnha
 gestate,jamescbell
 GET,myllym
 getable,liao961120
+getaca,gcol33
 GetBCBData,msperlin
 getCRUCLdata,ropensci
 getDEE2,bioc
@@ -10268,6 +10278,7 @@ HazardDiff,deniserava
 hazer,bbcrown
 hbal,xuyiqing
 hbamr,jbolstad
+hBayesDM,ccs-lab
 hbbr,drsmukherjee
 hbim,michaelfay-niaid
 hbmem,prattems
@@ -10599,7 +10610,6 @@ HMMextra0s,cran
 HMMHSMM,cran
 hmmm,cran
 HMMpa,bips-hb
-hmmr,depmix
 HMMRel,mgamiz
 hmmTensor,kokitsuyuzaki
 hmmTMB,theomichelot
@@ -15383,6 +15393,7 @@ mx.crypto,cornball-ai
 mxcc,kzst
 mxfda,julia-wrobel
 mxkssd,doer0
+MXM,stavrospap1
 mxmmod,khusmann
 mxnorm,colemanrharris
 mxsem,jhorzek
@@ -15790,7 +15801,6 @@ nipalsMCIA,bioc
 nipnTK,nutriverse
 NipponMap,stanimura
 NIPTeR,ljohansson
-nirs4alldatasets,pamdeveloper
 NIRStat,johnzonwyk
 NISTnls,cran
 NISTunits,cran
@@ -17547,6 +17557,7 @@ phylotypr,mothur
 phylowise,jordandouglas
 phylter,damiendevienne
 phymapnet,rosaaghdam
+phynotype,ielbadisy
 phyr,daijiang
 phyreg,cran
 PhysActBedRest,cran
@@ -17603,7 +17614,7 @@ pinochet,danilofreire
 pinp,eddelbuettel
 PinPath,bioc
 pins,rstudio
-PINSPlus,csieuluoi
+PINSPlus,cran
 PINstimation,monty-se
 pinterestadsR,pablosanmar
 pintervals,doktorandahl
@@ -25128,6 +25139,7 @@ themescopeR,lucadaniello
 themis,tidymodels
 TheOpenAIR,umatter
 TheOrdinals,cran
+theoryforge,pablobernabeu
 theorytools,cjvanlissa
 theRefdate,m03358db
 ThermalSampleR,clarkevansteenderen
@@ -25232,6 +25244,7 @@ tidyfun,tidyfun
 tidygam,stefanocoretta
 tidygapminder,ebedthan
 tidygate,stemangiola
+tidygedcom,r-computing-lab
 tidyGenR,csmiguel
 tidygeocoder,jessecambon
 tidygeoRSS,robertmyles
@@ -25469,6 +25482,7 @@ tmbstan,kaskr
 TmCalculator,junhuili1017
 tmcn,cran
 TMDb,andreacapozio
+tmdbR,vader75
 tmfast,dhicks
 Tmisc,stephenturner
 TMixClust,bioc
@@ -25904,7 +25918,7 @@ tsfngm,cran
 tsforecast,cran
 tsg,yng-me
 tsgarch,tsmodels
-tsgc,craig-pt
+tsgc,edwintang903
 TSGS,sudhirsrivastava
 TSGSIS,cran
 TSHRC,cjgeyer
@@ -26262,6 +26276,7 @@ uptasticsearch,jameslamb
 uptimeRobot,theclue
 ura,bengoehring
 urbin,arne-henningsen
+urbstatdata,mariocools
 urca,bpfaff
 urlchecker,r-lib
 urlexplorer,marekprokop
