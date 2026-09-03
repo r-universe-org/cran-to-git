@@ -2023,6 +2023,7 @@ BioNAR,bioc
 BioNERO,bioc
 BioNet,bioc
 bionetdata,gvalentini58
+biopalette,evanbio
 BioPET,cran
 BioPETsurv,chengs94
 biopixR,brauckhoff
@@ -2103,6 +2104,7 @@ bivariateLeaflet,maduprey
 bivariatemaps,hidasi
 BivGeo,ricardopuziol
 bivgeom,alessandro-barbiero
+BivKLD,s00singla
 BivLaplaceRL,itsmdivakaran
 bivpois,cran
 BivRec,sandracastropearson
@@ -2122,6 +2124,7 @@ BKP,jiangyan-zhao
 BKPC,domijan
 BKQualit,bkpraveenars-del
 BKTR,julien-hec
+BKVerify,bkpraveenars-del
 BLA,chawezimiti
 blackbox,f-rousset
 blackmarbler,worldbank
@@ -6125,6 +6128,7 @@ dsBaseClient,stuartwheater
 DSBayes,rvaradhan
 dscore,d-score
 dscoreMSM,atanubhattacharjee
+dScoreTest,richardkwo
 dsdp,tsuchiya-lab
 DSDRM,guangbaog
 dsem,james-thorson-noaa
@@ -7282,6 +7286,7 @@ expectreg,cran
 experDesign,llrs
 experiences,joe-chelladurai
 experiment,kosukeimai
+ExperimentalDesignGeneratorandRandomiser,biologyautomation
 ExperimentHub,bioc
 ExperimentHubData,bioc
 experimentr,tuncerkerem
@@ -7481,6 +7486,7 @@ FAMoS,gabelhub
 famSKATRC,kkunji
 fanc,keihirose
 fANCOVA,wangx6ccf
+Fancy,bioc
 fancycut,adamleerich
 fangs,dbdahl
 fanplot,guyabel
@@ -8006,6 +8012,7 @@ flexsiteboard,libreumg
 flexstanr,accidda
 flexsurv,chjackson
 flexsurvcure,jrdnmdhl
+flexsynth,lauyeehow1986-hub
 flextable,davidgohel
 flexurba,cvmigero
 FlexVarJM,leoniecourcoul
@@ -9351,6 +9358,7 @@ ggstance,lionel-
 ggstar,xiangpin
 ggstats,larmarange
 ggstatsplot,indrajeetpatil
+ggstratify,akishiroshita
 ggstudent,helske
 ggsurveillance,biostats-dev
 ggsurvey,balexanderstats
@@ -9985,6 +9993,7 @@ groupwalk,freejstone
 groupWQS,mmcarli
 grout,hypertidy
 grove,lm186
+growkar,bioc
 growR,kuadrat
 growth,swihart
 growthcleanr,carriedaymont
@@ -11509,6 +11518,7 @@ ionet,carol-seven
 iotables,ropengov
 iotarelr,fberding
 iotools,s-u
+IP,rucknium
 ip2location,ip2location
 ip2location.io,cran
 ip2locationio,ip2location-com
@@ -13082,6 +13092,7 @@ lterpalettefinder,lter
 ltertools,lter
 LTFGRS,emilmip
 LTFHPlus,emilmip
+ltgsmd,cran
 ltm,drizopoulos
 ltmix,martinblostein
 ltmle,joshuaschwab
@@ -15379,6 +15390,7 @@ mvtsplot,rdpeng
 mvtweedie,james-thorson-noaa
 mvvg,samksoon
 mwa,kdonnay
+mwana,mphimo
 MWASTools,bioc
 mwcsr,ctlab
 mwlaxeref,cran
@@ -15617,6 +15629,7 @@ NetGreg,cran
 netgsa,mikehellstern
 netgwas,pariya
 nethet,bioc
+nethist,enigmasong
 netie,tianshilu
 netify,netify-dev
 NetIndices,karlines
@@ -17322,6 +17335,7 @@ PepsNMR,bioc
 pepStat,bioc
 Peptides,dosorio
 peptoolkit,jrcodina
+pepVet,bioc
 pepXMLTab,bioc
 pequod,tiagojct
 peramo,phamdn
@@ -19509,6 +19523,7 @@ RchivalTag,cran
 Rchoice,mauricio1986
 rChoiceDialogs,alexfoxfox
 rchroma,cynkra
+rcicr,rdotsch
 rciplot,cran
 RCircos,hzhanghenry
 rCISSVAE,ciss-vae
@@ -20401,6 +20416,7 @@ rhub,r-hub
 RHybridFinder,cran
 rhymer,landesbergn
 rhype,hwarden162
+rhythm.metrics,congzhang365
 ri2,acoppock
 RI2by2,joerigdon
 RIA,martonkolossvary
@@ -20967,6 +20983,7 @@ rolescry,canboynukara
 roll,jasonjfoster
 rollama,jbgruber
 rollbar,ankane
+rollcast,pigian
 rolldown,yihui
 rolleigen,jasonjfoster
 rollinglda,jonasrieger
@@ -21833,6 +21850,7 @@ Scale4C,bioc
 scaleAlign,leahfeuerstahler
 scaledescr,dharaiyadarshan-create
 ScaledMatrix,bioc
+scalednap,aavellone
 Scalelink,cmjcharlton
 scales,r-lib
 ScaleSpikeSlab,niloyb
@@ -21995,7 +22013,7 @@ scoper,immcantation
 scopr,rethomics
 SCOPRO,gabrielelubatti
 scopusflow,pablobernabeu
-SCOR,synx21
+SCOR,debsurya-de
 score,cran
 scorecard,shichenxie
 scorecardModelUtils,aryapoddar
@@ -24192,6 +24210,7 @@ stlTDNN,cran
 stm,bstewart
 stmgp,uekim
 stmgui,dzangri
+stminsights,cschwem2er
 StMoMo,amvillegas
 StMoSim,matthiassalvisberg
 STMotif,heraldoborges
@@ -24607,6 +24626,7 @@ swamp,lau-mel
 swaprinc,mncube
 swaRm,swarm-lab
 swaRmverse,marinapapa
+SwarnSeq,bioc
 swash,geowieland
 swatches,hrbrmstr
 SWATH2stats,bioc

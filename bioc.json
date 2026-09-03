@@ -4461,6 +4461,12 @@
     "registry": "bioc"
   },
   {
+    "package": "Fancy",
+    "maintainer": "Wanxin Lai <wanxin.graceca@gmail.com>",
+    "url": "https://github.com/wala-github/fancy",
+    "registry": "bioc"
+  },
+  {
     "package": "fastLiquidAssociation",
     "maintainer": "Tina Gunderson <gunderson.tina@gmail.com>",
     "url": "https://git.bioconductor.org/packages/fastLiquidAssociation",
@@ -5778,6 +5784,12 @@
     "package": "groHMM",
     "maintainer": "Tulip Nandu <tulip.nandu@utsouthwestern.edu>",
     "url": "https://github.com/kraus-lab/grohmm",
+    "registry": "bioc"
+  },
+  {
+    "package": "growkar",
+    "maintainer": "Pooja Sethiya <poojasethiya24@gmail.com>",
+    "url": "https://github.com/sethiyap/growkar",
     "registry": "bioc"
   },
   {
@@ -9736,6 +9748,12 @@
     "registry": "bioc"
   },
   {
+    "package": "pepVet",
+    "maintainer": "Enes K. Ergin <eneskemalergin@gmail.com>",
+    "url": "https://github.com/langelab/pepvet",
+    "registry": "bioc"
+  },
+  {
     "package": "pepXMLTab",
     "maintainer": "Xiaojing Wang <xiaojing.wang@vanderbilt.edu>",
     "url": "https://git.bioconductor.org/packages/pepXMLTab",
@@ -13363,6 +13381,12 @@
     "package": "SVP",
     "maintainer": "Shuangbin Xu <xshuangbin@163.com>",
     "url": "https://github.com/yulab-smu/svp",
+    "registry": "bioc"
+  },
+  {
+    "package": "SwarnSeq",
+    "maintainer": "Samarendra Das <samarendra.das@icar.org.in>",
+    "url": "https://github.com/nifmd-bbf/swarnseq",
     "registry": "bioc"
   },
   {
