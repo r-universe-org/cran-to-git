@@ -8721,6 +8721,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MultiAssaySpatialExperiment",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/multiassayspatialexperiment",
+    "registry": "bioc"
+  },
+  {
     "package": "MultiBaC",
     "maintainer": "The package maintainer <manuelugidos@gmail.com>",
     "url": "https://git.bioconductor.org/packages/MultiBaC",

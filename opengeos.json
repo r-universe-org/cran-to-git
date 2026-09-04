@@ -1,5 +1,10 @@
 [
   {
+    "package": "geolibre",
+    "maintainer": "Qiusheng Wu <giswqs@gmail.com>",
+    "url": "https://github.com/opengeos/geolibre-r"
+  },
+  {
     "package": "whitebox",
     "maintainer": "Andrew Brown <brown.andrewg@gmail.com>",
     "url": "https://github.com/opengeos/whiteboxr"

@@ -40,6 +40,11 @@
     "url": "https://github.com/mlr-org/mlr3"
   },
   {
+    "package": "mlr3automl",
+    "maintainer": "Marc Becker <marcbecker@posteo.de>",
+    "url": "https://github.com/mlr-org/mlr3automl"
+  },
+  {
     "package": "mlr3batchmark",
     "maintainer": "Marc Becker <marcbecker@posteo.de>",
     "url": "https://github.com/mlr-org/mlr3batchmark"

@@ -1,5 +1,10 @@
 [
   {
+    "package": "BUSfinancial",
+    "maintainer": "Fadhlul Mubarak <mubarakfadhlul@gmail.com>",
+    "url": "https://github.com/cran/BUSfinancial"
+  },
+  {
     "package": "hosm",
     "maintainer": "Fadhlul Mubarak <mubarakfadhlul@gmail.com>",
     "url": "https://github.com/mubarakfadhlul/hosm"
@@ -8,6 +13,11 @@
     "package": "ifpd",
     "maintainer": "Fadhlul Mubarak <mubarakfadhlul@gmail.com>",
     "url": "https://github.com/mubarakfadhlul/ifpd"
+  },
+  {
+    "package": "K4Guru",
+    "maintainer": "Fadhlul Mubarak <mubarakfadhlul@gmail.com>",
+    "url": "https://github.com/cran/K4Guru"
   },
   {
     "package": "K4PrestasiSiswa",
