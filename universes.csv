@@ -2129,6 +2129,7 @@ BKMutate,bkpraveenars-del
 BKP,jiangyan-zhao
 BKPC,domijan
 BKQualit,bkpraveenars-del
+BKT,cran
 BKTR,julien-hec
 BKVerify,bkpraveenars-del
 BLA,chawezimiti
@@ -3816,6 +3817,7 @@ cOde,dkaschek
 codebook,rubenarslan
 codebookr,brad-cannell
 codebreaker,rolkra
+CodeCarbonR,beabock
 codeCollection,jkhaukka
 codecountR,cran
 CodeDepends,duncantl
@@ -4746,6 +4748,7 @@ ctmm,ctmm-initiative
 ctmva,biplab44
 CTNote,ctn-0094
 ctoclient,guturago
+ctOpenData,nyc-open-data-lab
 cTOST,yboulag
 ctqr,pfrumento
 cTRAP,bioc
@@ -5065,6 +5068,7 @@ DatastreamDSWS2R,charlescara
 DatastreamR,datastreamapi
 DATAstudio,extremestats
 DataSum,uzairkhan11w
+datasus,rpradosiqueira
 datasusr,strategicprojects
 dataverifyr,davzim
 dataverse,iqss
@@ -7157,7 +7161,7 @@ eva3dm,schuch666
 evabic,abichat
 Evacluster,fahimehnm
 evacpath,el-cordero
-evalHTE,cran
+evalHTE,michaellli
 evalITR,michaellli
 evalR,cran
 EvalTest,nassimayad87
@@ -9325,6 +9329,7 @@ ggrecipes,ignophi
 ggredist,alarm-redist
 ggrefine,davidhodge931
 ggrepel,slowkow
+ggResidpanel,goodekat
 ggreveal,weverthonmachado
 GGRidge,cran
 ggridges,wilkelab
@@ -9450,7 +9455,7 @@ gilmour,dolejs1993
 gim,zhangh12
 gimap,fredhutch
 gimme,gateslab
-GIMMEgVAR,cran
+GIMMEgVAR,williamsandra
 GimmeMyPlot,ecamenen
 GimmeMyStats,ecamenen
 gimms,environmentalinformatics-marburg
@@ -11427,7 +11432,7 @@ intansv,bioc
 IntCal,maarten14c
 intccr,cran
 integIRTy,cran
-IntegMultiReg,cran
+IntegMultiReg,chekouo
 integr,peleplay
 IntegratedJM,cran
 integrity,sollibesman
@@ -12316,6 +12321,7 @@ LabRS,agnesevardanega
 labsimplex,crparedes
 labstatR,siacus
 labstats,stanlazic
+LABTNSCPSS,bayaniazadeh
 LACE,bioc
 LACHESIS,bioc
 lacm,crisvarin
@@ -15351,6 +15357,7 @@ mvcor,cran
 mvctm,denufl
 mvdalab,cran
 mvDFA,jpirmer
+mvdpd,claudioagostinelli
 mverse,mverseanalysis
 MVET,yeonseok-choi
 mvfmr,cran
@@ -15969,7 +15976,7 @@ NOISeq,bioc
 noisyCE2,f-santi
 noisyr,core-bioinformatics
 noisySBM,tabea17
-nolaOpenData,gomes-sh
+nolaOpenData,nyc-open-data-lab
 nolock,artllex
 nomads,cran
 nombre,rossellhayes
@@ -18823,6 +18830,7 @@ qdap,trinker
 qdapDictionaries,trinker
 qdapRegex,trinker
 qdapTools,trinker
+qdaR,easyqda
 QDComparison,cran
 qDEA,uaeja
 qdm,cran
@@ -23601,6 +23609,7 @@ spatialwidget,symbolixau
 SpatMCA,egpivo
 SpaTopic,xiyupeng
 SpatPCA,egpivo
+spatpersist,emre-cebeci
 spatPomp,spatpomp-org
 SpATS,mxrodriguezuvigo
 spatsoc,ropensci
@@ -24004,6 +24013,7 @@ ssrn,uribo
 SSRTcalc,agleontyev
 sss,andrie
 SSsimple,davezes
+sssp,sparsification
 sssvcqr,stork343
 Sstack,klmatlock
 sstn,cran
@@ -24092,6 +24102,7 @@ statAfrikR,damoko2004
 Statamarkdown,hemken
 statAPA,causalfragility-lab
 statar,matthieugomez
+STATassist,hiows
 statBasics,gilberto-sassi
 statcanR,warint
 statcheck,michelenuijten
@@ -24466,6 +24477,7 @@ support.BWS2,cran
 support.BWS3,cran
 support.CEs,cran
 supportR,njlyon0
+suppr,lj-jenkins
 sur,daphnaharel
 sure,bgreenwell
 sureLDA,celehs
@@ -26505,6 +26517,7 @@ vbm,staniks0
 vbmp,bioc
 VBMS,luluo1999
 VBphenoR,buckleybrian
+vbpm,jinsong-chen
 vbracket,h20gg702
 VBsparsePCA,yc-ning
 VBV,dsteuer
@@ -26644,7 +26657,6 @@ VineCopula,tnagler
 vinereg,tnagler
 violinplotter,jeffersonfparil
 vioplot,tomkellygenetics
-vip,bgreenwell
 viper,bioc
 vipor,cran
 VIProDesign,cran
