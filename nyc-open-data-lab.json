@@ -1,5 +1,10 @@
 [
   {
+    "package": "chiOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/nyc-open-data-lab/chiopendata"
+  },
+  {
     "package": "cincinnatiOpenData",
     "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
     "url": "https://github.com/nyc-open-data-lab/cincinnatiopendata"
@@ -10,9 +15,24 @@
     "url": "https://github.com/nyc-open-data-lab/ctopendata"
   },
   {
+    "package": "laOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/nyc-open-data-lab/laopendata"
+  },
+  {
+    "package": "mtaOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/nyc-open-data-lab/mtaopendata"
+  },
+  {
     "package": "nolaOpenData",
     "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
     "url": "https://github.com/nyc-open-data-lab/nolaopendata"
+  },
+  {
+    "package": "nysOpenData",
+    "maintainer": "Christian Martinez <c.martinez0@outlook.com>",
+    "url": "https://github.com/nyc-open-data-lab/nysopendata"
   },
   {
     "package": "SeattleOpenData",
