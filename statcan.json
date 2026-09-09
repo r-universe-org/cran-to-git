@@ -1,5 +1,10 @@
 [
   {
+    "package": "chms",
+    "maintainer": "Joel Barnes <joel.barnes@statcan.gc.ca>",
+    "url": "https://github.com/statcan/chms"
+  },
+  {
     "package": "gseries",
     "maintainer": "Michel Ferland <michel.ferland@statcan.gc.ca>",
     "url": "https://github.com/statcan/gensol-gseries"
