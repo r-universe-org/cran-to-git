@@ -377,6 +377,7 @@ AgriDiversiX,santosharathod
 agriDQ,sadikulislamiasri-hub
 agrifeature,cran
 AgriFusionR,mqfarooqi1
+agriME,cran
 agriReg,sadikulislamiasri-hub
 agriTutorial,rned
 agriutilities,apariciojohan
@@ -727,7 +728,7 @@ aods3,lbbe-software
 aoos,wahani
 aopdata,rafapereirabr
 Aoptbdtvc,doer0
-aoristic,jerryratcliffe
+aoristic,jerry-ratcliffe
 aorsf,ropensci
 aos,lgnbhl
 AOUSDOHtools,zhd52
@@ -800,6 +801,7 @@ aprean3,lbraglia
 aprof,marcodvisser
 APRScenario,giannilmbd
 APS,tmlange
+apsimeval,sukamal99
 apsimx,femiguez
 apt,cran
 aptg,christophebenjamin
@@ -1090,7 +1092,7 @@ aum,tdhock
 AurieLSHGaussian,auriee
 auRoc,daifengstat
 aurora,aurora-govpe
-ausOpenData,martinezc1
+ausOpenData,nyc-open-data-lab
 ausplotsR,ternaustralia
 AustralianPoliticians,rohanalexander
 AUtests,cran
@@ -2278,6 +2280,7 @@ bolasso,dmolitor
 bold,ropensci
 BOLDconnectR,sameerpadhye
 bolder,freitascurti
+BOLDNODE,sameerpadhye
 bolsec,alvaroitapia
 Bolstad,jmcurran
 Bolstad2,jmcurran
@@ -2971,6 +2974,7 @@ cccm,cran
 cccp,bpfaff
 cccrm,jlcarrascoub
 CCd,cran
+ccda,tanospeter
 ccdR,usepa
 ccfindR,bioc
 cchs,cran
@@ -3145,6 +3149,7 @@ cfa,pmair78
 CFAcoop,zytohmgu
 CFAssay,bioc
 cfbfastR,sportsdataverse
+cfbseedR,sportsdataverse
 CFC,asmahani
 cfda,modal-inria
 cfdecomp,maartenbijlsma
@@ -3582,6 +3587,7 @@ clippda,bioc
 clipper,bioc
 clipr,mdlincoln
 cliProfiler,bioc
+CLIQUE,kelvynbladen
 cliqueMS,bioc
 CliquePercolation,langejens
 clisymbols,r-lib
@@ -5009,6 +5015,7 @@ DataAudit,vinodhpmd
 DatabaseConnector,ohdsi
 DatabaseConnectorJars,ohdsi
 DatabionicSwarm,mthrun
+datacaged,gecomt
 DataClean,xiaoruizhu
 datacleanr,the-hull
 datacommons,tidy-intelligence
@@ -6250,6 +6257,7 @@ DuckDBGRanges,bioc
 DuckDBSpatial,bioc
 duckduckr,dirkschumacher
 duckh3,cidree
+ducklake,tgerke
 duckplyr,tidyverse
 duckspatial,cidree
 duet,themisefth
@@ -6970,6 +6978,7 @@ EpiSimR,nassimayad87
 episomer,eu-ecdc
 epistack,bioc
 EpiStandard,oxford-pharmacoepi
+epistandardiseR,joeblackford
 epistasisGA,bioc
 EpiStats,loremerdrignac
 EpistemicGameTheory,bilgeob
@@ -7041,6 +7050,7 @@ era,joeroe
 EraBrewer,mathias-sm
 erah,xdomingoal
 eratosthenes,scollinselliott
+ERBioR,aguilar-elena
 erboost,archer-yang-lab
 erccdashboard,bioc
 ercv,iserram
@@ -7066,6 +7076,7 @@ ernest,ropensci
 ernm,duncan-clark
 ERP,dcauseur
 ERPeq,emrahaltun
+erplots,djnavarro
 ERPM,stocnet
 errorist,coatless-rpkg
 errorlocate,data-cleaning
@@ -7522,6 +7533,7 @@ far,looping027
 faraway,julianfaraway
 FARDEEP,yuyingxie
 farff,mlr-org
+farmPartial,cran
 farr,iangow
 farrell,feddelegrand7
 FARS,cran
@@ -7759,6 +7771,7 @@ fellingdater,ropensci
 felp,atusy
 feltr,christopherkenny
 fence,cran
+FeNEU,cran
 FENmlm,lrberge
 fenr,bioc
 FEprovideR,umich-biostatistics
@@ -8528,6 +8541,7 @@ fuzzyforest,daniel-conn17
 FuzzyImputationTest,mroman-ibs
 fuzzyjoin,dgrtwo
 fuzzylink,joeornstein
+FuzzyLogit,cran
 FuzzyM,petukhovaalina-tech
 FuzzyNumbers,gagolews
 FuzzyPovertyR,airdede
@@ -9024,6 +9038,7 @@ geopsych,zhangsui921
 GEOquery,bioc
 geoR,paulojus
 GeoRange,jamestboyle
+georefar,datosgobar
 georefdatar,abuseki
 georob,cran
 geos,paleolimbot
@@ -10351,6 +10366,7 @@ HDcpDetect,natasha-stewart
 hdcuremodels,ropensci
 HDCurves,cran
 hdd,lrberge
+HDElliptical,flnankai
 HDF5Array,bioc
 hdf5lib,cmmr
 hdf5r,hhoeflin
@@ -12733,6 +12749,7 @@ linguisticsdown,liao961120
 link,tadascience
 link2GI,r-spatial
 Linkage,cran
+linkagg,renit12345-ship-it
 LinkedGASP,ksenia-kyzyurova
 linkedInadsR,pablosanmar
 LinkedMatrix,quantgen
@@ -15663,7 +15680,7 @@ nethist,enigmasong
 netie,tianshilu
 netify,netify-dev
 NetIndices,karlines
-NetInt,jessicagliozzo
+NetInt,gliozzoj
 netknitr,ijayc
 NetLogoR,predictiveecology
 netmap,artod83
@@ -15859,6 +15876,7 @@ nleqslv,bertcarnell
 nlfh,paparker
 nlgeocoder,urosconf
 nlgm,cran
+NLIN,helleensilvaa
 NlinTS,hmamouche
 nlist,poissonconsulting
 nlive,maudewagner
@@ -15876,6 +15894,7 @@ nlmixr2plot,nlmixr2
 nlmixr2rpt,nlmixr2
 nlmixr2save,nlmixr2
 nlmixr2targets,nlmixr2
+nlmixr2utils,nlmixr2
 nlmm,marco-geraci
 NLMR,ropensci
 nlmrt,nashjc
@@ -18340,6 +18359,7 @@ PriceIndices,jacekbialek
 pricelevels,sweinand
 priceR,stevecondylios
 pricesensitivitymeter,max-alletsee
+PricingBandits,ian-weaver
 prider,tamminenlab
 pridit,rlieberthal
 prim,tarnduong
@@ -20327,7 +20347,7 @@ RFLPtools,stamats
 rflsgen,dimitri-justeau
 rfm,rsquaredacademy
 RFmerge,hzambran
-RFmstate,cran
+RFmstate,evalunac
 Rfmtool,cran
 rfoaas,eddelbuettel
 RFOC,jonathanlees
@@ -21556,7 +21576,7 @@ Runuran,unuran
 ruODK,ropensci
 rupturesRcpp,edelweiss611428
 rurality,cwimpy
-rurl,cran
+rurl,bart-turczynski
 rush,mlr-org
 rusk,thinkr-open
 rust,paulnorthrop
@@ -21586,6 +21606,7 @@ rvinecopulib,vinecopulib
 RVIpkg,abestsg
 Rvisdiff,bioc
 rvisidata,paulklemm
+rvisual,facszero
 rvkstat,selesnow
 rvMF,seungwoo-stat
 rvmprior,cran
@@ -22121,7 +22142,7 @@ scRNAseqApp,bioc
 scRNAstat,xiayh17
 scrobbler,condwanaland
 scrollrevealR,feddelegrand7
-scROSHI,lbosshard
+scROSHI,dominikburri
 scruff,bioc
 scrutiny,lhdjung
 scrutr,danielrak
@@ -22131,6 +22152,7 @@ scs,florianschwendinger
 scShapes,bioc
 scShardSplitRef,irinavkuznetsova
 scSpatialSIM,fridleylab
+scStability,gnotic
 scTenifoldKnk,cailab-tamu
 scTenifoldNet,cailab-tamu
 scTensor,bioc
@@ -22662,6 +22684,7 @@ shinyFiles,thomasp85
 shinyfilter,jsugarelli
 shinyfilters,joshwlivingston
 shinyfullscreen,etiennebacher
+shinygenui,nanxstats
 shinyGizmo,krystian8207
 shinyglass,ericrayanderson
 shinyglide,juba
@@ -23612,6 +23635,7 @@ SpatialVx,ericgillelandcsu
 spatialwarnings,spatial-ews
 spatialwidget,symbolixau
 SpatMCA,egpivo
+SpatMix,lhzmix
 SpaTopic,xiyupeng
 SpatPCA,egpivo
 spatpersist,emre-cebeci
@@ -25278,6 +25302,7 @@ tidycensus,walkerke
 tidycensuskr,sigmafelix
 tidychangepoint,beanumber
 tidycharts,mi2datalab
+tidycjk,pursuitofdatascience
 tidyclust,tidymodels
 tidycmprsk,mskcc-epi-bio
 tidycomm,tidycomm
@@ -26070,6 +26095,7 @@ TukeyC,jcfaria
 TukeyGH77,tingtingzhan
 tukeytrend,cran
 TULIP,yuqingxx
+tulpa,gcol33
 tulpaMesh,gcol33
 tumgr,wilkersj
 tune,tidymodels
@@ -26351,6 +26377,7 @@ urlshorteneR,dmpe
 urltools,ironholds
 uroot,geobosh
 URooTab,sagirumati
+uroscores,faizamirullah
 ursa,nplatonov
 us.census.geoheader,greg-minshall
 usa,k5cents
@@ -26646,7 +26673,7 @@ ViewR,itsmdivakaran
 viewscape,billbillbilly
 vigicaen,pharmacologie-caen
 VIGoR,onogi
-viking,cran
+viking,josephdevilmarest
 villager,zizroc
 VIM,statistikat
 VIMean,marsdu1989
@@ -27079,6 +27106,7 @@ windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
 wingen,anushapb
+winning,microprediction
 winputall,opkoutchade
 winr,annweideman
 WinRatio,kduarte54
@@ -27231,6 +27259,7 @@ wyz.code.testthat,neonira
 x12,statistikat
 x13binary,x13org
 x3ptools,heike
+xaci,xaviermilhaud
 xactonomial,sachsmc
 xadmix,lschoenm
 XAItest,bioc
