@@ -264,6 +264,12 @@
     "subdir": "pkg"
   },
   {
+    "package": "geostatsp",
+    "maintainer": "Patrick Brown <patrick.brown@utoronto.ca>",
+    "url": "https://github.com/r-forge/diseasemapping",
+    "subdir": "pkg/geostatsp"
+  },
+  {
     "package": "Gifi",
     "maintainer": "Patrick Mair <mair@fas.harvard.edu>",
     "url": "https://github.com/r-forge/psychor",

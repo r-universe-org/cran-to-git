@@ -10,6 +10,7 @@ a5R,belian-earth
 aae.pop,aae-stats
 AalenJohansen,cran
 aamatch,rosenbap
+aanova,ataher76
 AATtools,spiritspeak
 ABACUS,bio-statistics
 ABarray,bioc
@@ -378,6 +379,7 @@ agriDQ,sadikulislamiasri-hub
 agrifeature,cran
 AgriFusionR,mqfarooqi1
 agriME,cran
+agriPAM,chiranjit4969
 agriReg,sadikulislamiasri-hub
 agriTutorial,rned
 agriutilities,apariciojohan
@@ -405,6 +407,7 @@ AHPtools,amarnathbose
 ahptopsis2n,raqueldourado
 AHPWR,lucianea
 AHSurv,abdisalammuse
+AHTauDesign,xyzhao27
 ai,urniaz
 AIBias,causalfragility-lab
 aIc,ggloor
@@ -514,6 +517,7 @@ AlleleRetain,elweiser
 AlleleShift,roelandkindt
 AllelicImbalance,bioc
 AllelicSeries,insitro
+AlleloBin,vpprasanth
 allestimates,uqwang
 AllMetrics,sandipgarai
 allMT,tmungle
@@ -3788,6 +3792,7 @@ CNVrd2,bioc
 CNVreg,sth1402
 CNVRG,jharrisonecoevo
 CNVScope,jamesdalg
+co2e,joewcorra
 coala,statgenlmu
 coalescentMCMC,emmanuelparadis
 CoalescentPhylo,arindamroychoudhury
@@ -4798,6 +4803,7 @@ cubing,ste6an-hub
 Cubist,topepo
 cucumber,jakubsob
 cuda.ml,mlverse
+cudaverse,cudaverse
 CUFF,giguerch
 CUMP,cran
 cumprinc,jcrichardson617
@@ -5223,6 +5229,7 @@ DDRTree,brgew
 ddsPLS,hlorenzo
 ddst,pbiecek
 ddtlcm,limengbinggz
+DEA,davidhbernstein
 deadband,nunziotorrisi
 deadwood,gagolews
 deal,cran
@@ -6964,6 +6971,7 @@ epiparameterDB,epiverse-trace
 epiphy,chgigot
 EpiPvr,cran
 EpipwR,bioc
+EpiQuestionR,vinodhpmd
 epiR,markstevenson1
 epiregulon,bioc
 epiregulon.extra,bioc
@@ -7000,6 +7008,7 @@ epiworldR,uofuepibio
 epiworldRcalibrate,sima-njf
 epiworldRShiny,uofuepibio
 epizootic,viralemergence
+epkde,mauriziofilippone
 EPLSIM,yuyanwangsixtwo
 eplusr,hongyuanjia
 eply,wlandau
@@ -7302,6 +7311,7 @@ exifr,paleolimbot
 exiftoolr,joshobrien
 ExiMiR,bioc
 exmort,shanlong-who
+exnexSurv,victorney
 ExNRuleEnsemble,cran
 exoplanetdata,moderndive
 exoplanets,ropensci
@@ -9053,7 +9063,7 @@ geospt,amsantac
 geosptdb,carlosm77
 geostan,connordonegan
 geostats,pvermees
-geostatsp,eborgnine
+geostatsp,r-forge
 GEOsubmission,bioc
 geotargets,ropensci
 GeoTcgaData,bioc
@@ -10994,6 +11004,7 @@ icdGLM,sdlugosz
 icdhelper,nishasheshashayee
 icdpicr,ablack3
 icdpicr2,clark-david
+icebergr,pursuitofdatascience
 ICEbox,kapelner
 icecdr,eliocamp
 icecream,lewinfox
@@ -11327,6 +11338,7 @@ IndexNumR,grahamjwhite
 indexr,lharris421
 indexthis,lrberge
 IndexWizard,johannesgeibel
+IndFarmCost,chiranjit4969
 IndGenErrors,cran
 india,faosorios
 IndiAPIs,lightbluetitan
@@ -11383,6 +11395,7 @@ influential,asalavaty
 influxdbr,dleutnant
 infocausality,stscl
 infoelectoral,ropenspain
+infometrics,genmaxent
 Information,klarsen1
 InformativeCensoring,jwb133
 informativeSCI,lianekluge
@@ -11512,6 +11525,7 @@ intkrige,beanb2
 intmap,stla
 intmed,ncysur
 IntNMF,cran
+intraclass,jmgirard
 intradayModel,convexfi
 IntramiRExploreR,bioc
 intRegGOF,cran
@@ -13496,6 +13510,7 @@ MATES,zexicai
 mathjaxr,wviechtb
 mathml,mgondan
 mathpix,jonocarroll
+mathr,ksbae
 maths.genealogy,louisaslett
 matlab,cran
 matlab2r,ocbe-uio
@@ -13584,7 +13599,6 @@ MBESS,yelleknek
 mbest,patperry
 mbg,henryspatialanalysis
 MBGapp,olatunjijohnson
-MBHdesign,scott-foster
 mbir,kdpeterson51
 mbkmeans,bioc
 mblm,luqqe
@@ -16342,6 +16356,7 @@ oeli,loelschlaeger
 oem,jaredhuling
 oenb,franzmohr
 OenoKPM,merlot1998
+oesir,guangbaog
 oews2020,cmann3
 oews2021,cmann3
 ofemeantest,ppaccioretti
@@ -16800,6 +16815,7 @@ otsfeatures,anloor7
 OtsuFire,olgaviedma
 OtsuSeg,olgaviedma
 otTensor,rikenbit
+otter,ottvahtrik
 ottr,chrispyles
 ottrpal,jhudsl
 OTUbase,bioc
@@ -19683,7 +19699,6 @@ RcppDist,duckmayr
 RcppDPR,cran
 RcppDynProg,winvector
 RcppEigen,rcppcore
-RcppEigenAD,cran
 RcppEnsmallen,coatless-rpkg
 RcppExamples,eddelbuettel
 RcppFarmHash,eddelbuettel
@@ -21109,6 +21124,7 @@ rotationForest,ballings
 rotations,stanfill
 rotatogram,noahhaber
 rotemplate,ropensci
+Rothermel,gvacchiano
 rotio,cornball-ai
 rotl,ropensci
 rotor,s-fleck
@@ -21341,6 +21357,7 @@ rsei,strategicprojects
 RSEIS,jonathanlees
 RSelenium,ropensci
 rsem,johnnyzhz
+RSEML,rolenburg
 rsemmed,bioc
 RSentiment,cran
 RSeqAn,bioc
@@ -23364,6 +23381,7 @@ socialranking,jassler
 socialrisk,wyattbensken
 socialSim,roriwijnhorst
 sociome,clevelandclinicqhs
+socketR,sassoftware
 socratadata,ryanzomorrodi
 socviz,kjhealy
 sodavis,yangli88
@@ -23486,7 +23504,6 @@ spada,lgschuck
 SPADAR,algolkm
 spAddins,gegznav
 SpadeR,cran
-SpaDES,predictiveecology
 SpaDES.core,predictiveecology
 SpaDES.tools,predictiveecology
 spagmix,tilmandavies
@@ -25011,7 +25028,7 @@ TeachingSampling,psirusteam
 teal,insightsengineering
 teal.code,insightsengineering
 teal.data,insightsengineering
-teal.logger,insightsengineering
+teal.logger,pharmaverse
 teal.modules.clinical,insightsengineering
 teal.modules.general,insightsengineering
 teal.picks,insightsengineering
@@ -26113,6 +26130,7 @@ tutorizeR,aureliennicosiaulaval
 TUvalues,mariaguilleng
 TUWmodel,cran
 tv,eheinzen
+tvbounds,filippopalomba
 tvcure,plambertuliege
 tvdenoising,glmgen
 tvem,dziakj1
