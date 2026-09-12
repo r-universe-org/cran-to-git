@@ -1189,6 +1189,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BiocDuckDB",
+    "maintainer": "Patrick Aboyoun <aboyounp@gene.com>",
+    "url": "https://github.com/genentech/biocduckdb",
+    "registry": "bioc"
+  },
+  {
     "package": "BiocFHIR",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://github.com/vjcitn/biocfhir",
@@ -2652,6 +2658,12 @@
     "package": "compSPOT",
     "maintainer": "Sydney Grant <Sydney.Grant@roswellpark.org>",
     "url": "https://github.com/sydney-grant/compspot",
+    "registry": "bioc"
+  },
+  {
+    "package": "CONCERTDR",
+    "maintainer": "Hengxin Pan <pan.h@wehi.edu.au>",
+    "url": "https://github.com/davidsongroup/concertdr",
     "registry": "bioc"
   },
   {
@@ -9111,6 +9123,12 @@
     "registry": "bioc"
   },
   {
+    "package": "normScore",
+    "maintainer": "Julia García Currás <julia.gcurras@udc.es>",
+    "url": "https://github.com/juliagcurras/normscore",
+    "registry": "bioc"
+  },
+  {
     "package": "notame",
     "maintainer": "Vilhelm Suksi <vksuks@utu.fi>",
     "url": "https://github.com/hanhineva-lab/notame",
@@ -10066,6 +10084,12 @@
     "registry": "bioc"
   },
   {
+    "package": "polyICSFlow",
+    "maintainer": "Lisa Loksø Dietz <lisdie@clin.au.dk>",
+    "url": "https://github.com/soegaardlab/polyicsflow",
+    "registry": "bioc"
+  },
+  {
     "package": "PolySTest",
     "maintainer": "Veit Schwämmle <veits@bmb.sdu.dk>",
     "url": "https://github.com/computproteomics/polystest",
@@ -10273,6 +10297,12 @@
     "package": "Prostar",
     "maintainer": "Samuel Wieczorek <samuel.wieczorek@cea.fr>",
     "url": "https://github.com/edyp-lab/prostar",
+    "registry": "bioc"
+  },
+  {
+    "package": "ProteinBatcher",
+    "maintainer": "Aitor Moruno-Cuenca <morunoaitor@gmail.com>",
+    "url": "https://github.com/datasciencerd-almirall/proteinbatcher",
     "registry": "bioc"
   },
   {
@@ -11800,6 +11830,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scCertify",
+    "maintainer": "Jaya Surya Doddetipalli <jayasuryadoddetipalli@gmail.com>",
+    "url": "https://github.com/jaya-surya-dev/sccertify",
+    "registry": "bioc"
+  },
+  {
     "package": "scClassify",
     "maintainer": "Yingxin Lin <yingxin.lin@sydney.edu.au>",
     "url": "https://github.com/sydneybiox/scclassify",
@@ -12472,6 +12508,12 @@
     "registry": "bioc"
   },
   {
+    "package": "sigvar",
+    "maintainer": "Nicolas Alcala <alcalan@iarc.who.int>",
+    "url": "https://github.com/maikemorrison/sigvar",
+    "registry": "bioc"
+  },
+  {
     "package": "SIM",
     "maintainer": "Renee X. de Menezes <r.menezes@nki.nl>",
     "url": "https://git.bioconductor.org/packages/SIM",
@@ -12943,6 +12985,12 @@
     "package": "SpectraQL",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/spectraql",
+    "registry": "bioc"
+  },
+  {
+    "package": "SpectraStash",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/spectrastash",
     "registry": "bioc"
   },
   {

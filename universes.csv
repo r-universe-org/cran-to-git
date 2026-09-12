@@ -302,7 +302,7 @@ AeRobiology,oteros
 AeroEvapR,a-fitts
 AeroSampleR,markhogue
 aesopR,davidbrocker
-afc,jonasbhend
+afc,meteoswiss
 afcharts,best-practice-and-impact
 afcolours,ldavies99
 afdx,johnaponte
@@ -846,7 +846,6 @@ archeofrag,sebastien-plutniak
 archeofrag.gui,sebastien-plutniak
 archeoViz,sebastien-plutniak
 archetypal,dchristop
-archetyper,mkorvink
 archetypes,mjaeugster
 archiDART,archidart
 archipelago,cran
@@ -861,6 +860,7 @@ arcopt,marcus-waldman
 arcpbf,r-arcgis
 arcpullr,cran
 arcpy,mkoohafkan
+arcstat,mtloots
 ArctosR,hrhwilliams
 aRD,uds-mf-imbei
 ArDec,susanabarbosa
@@ -1968,6 +1968,7 @@ BiocBaseUtils,bioc
 BiocBook,bioc
 BiocBuildReporter,bioc
 BiocCheck,bioc
+BiocDuckDB,bioc
 BiocFHIR,bioc
 BiocFileCache,bioc
 BiocGenerics,bioc
@@ -3342,6 +3343,7 @@ chopsticks,bioc
 chopthin,agandy
 chords,johnros
 chores,simonpcouch
+choroplethr,eastnile
 choroplethrAdmin1,arilamstein
 choroplethrMaps,arilamstein
 chouca,alexgenin
@@ -4092,6 +4094,7 @@ con2aqi,marsdu1989
 con2lki,markbaas
 concatipede,tardipede
 concaveman,joelgombin
+CONCERTDR,bioc
 ConconiAnaerobicThresholdTest,waldronlab
 concordance,insongkim
 ConcordanceTest,cran
@@ -4980,6 +4983,7 @@ dandelionR,bioc
 dang,eddelbuettel
 dani,matteo21q
 DanielBiostatistics10th,tingtingzhan
+danlex,kristianvepsalainen
 dann,gmcmacran
 daoh,davecumin
 DAPAR,bioc
@@ -5202,7 +5206,7 @@ Dcurvature,jorgejola-code
 dcurver,oguzhanogreden
 dcurves,ddsjoberg
 dcvar,benlug
-dda,wwiedermann
+dda,hirnia
 ddalpha,pokotylo
 ddc,cran
 ddCt,bioc
@@ -6675,6 +6679,7 @@ eia,ropensci
 EIAapi,ramikrispin
 eiCircles,cran
 eicm,miguel-porto
+eidosapi,hmirceb
 EIEntropy,sfrana-prog
 eiExpand,rachel-carroll
 eigencore,bbuchsbaum
@@ -10750,6 +10755,7 @@ hR,dalekube
 hrbrthemes,hrbrmstr
 hrcomprisk,antiportad
 hrf,mandymejia
+HRM,happma
 hrqglas,shaobo-li
 hrt,dprei
 hrtlFMC,bijoy231997
@@ -11019,6 +11025,7 @@ icepalace,ropensci
 icertool,cran
 icesAdvice,ices-tools-prod
 IceSat2R,mlampros
+ICESat2VegR,carlos-alberto-silva
 icesConnect,ices-tools-prod
 icesDatras,ices-tools-prod
 icesDatsu,ices-tools-prod
@@ -13599,6 +13606,7 @@ MBESS,yelleknek
 mbest,patperry
 mbg,henryspatialanalysis
 MBGapp,olatunjijohnson
+MBHdesign,scott-foster
 mbir,kdpeterson51
 mbkmeans,bioc
 mblm,luqqe
@@ -15586,6 +15594,7 @@ NBR,cran
 NBShiny,kartikeyabolar
 NBShiny2,kartikeyabolar
 NBShiny3,kartikeyabolar
+nbsurv,ielbadisy
 nbTransmission,sarahleavitt
 NBtsVarSel,mgomtsyan
 NBvarsel,lasaibarrenada
@@ -16077,6 +16086,7 @@ NormPsy,cecileproust-lima
 NormqPCR,bioc
 normr,bioc
 normref,metimmerman
+normScore,bioc
 norSTR,magnusdv
 nortest,uligges
 nortestARMA,lafaye
@@ -18041,6 +18051,7 @@ polyCub,bastistician
 polyglotr,tomeriko96
 polyglotSQL,strategicprojects
 PolyHaplotyper,roelandv
+polyICSFlow,bioc
 polykde,egarpor
 polylabelr,jolars
 polymapR,pbourkey
@@ -18551,6 +18562,7 @@ ProSportsDraftData,ginsburg1
 Prostar,bioc
 protag,yuanbofaith
 protein8k,simonliles
+ProteinBatcher,bioc
 ProteinPCA,piey27
 proteinProfiles,bioc
 ProteoBayes,mariechion
@@ -19201,6 +19213,7 @@ r4ss,r4ss
 r4sub,r4sub
 r4subcore,r4sub
 r4subdata,r4sub
+r4subpharma,r4sub
 r4subprofile,r4sub
 r4subrisk,r4sub
 r4subscore,r4sub
@@ -21236,6 +21249,7 @@ RProtoBuf,eddelbuettel
 RProtoBufLib,bioc
 RPscoring,daphnaharel
 rpsftm,cran
+rpsurv,ielbadisy
 RPtests,rajenshah
 rptR,mastoffel
 rPublic,jgquantscripts
@@ -21973,6 +21987,7 @@ scCATCH,zjufanlab
 scCB2,bioc
 sccca,mohmedsoudy
 SCCDdesign,cran
+scCertify,bioc
 sccic,neilhwang
 scClassify,bioc
 scclust,fsavje
@@ -22568,6 +22583,7 @@ SGL,nrs02004
 sglasso,luigiaugugliaro
 sglg,cran
 sglr,hrpcisd
+sglssnal,roobnloo
 sgmean,jcarlosgaviria
 sgmodel,thomasvigie
 sGMRFmix,hoxo-m
@@ -22873,6 +22889,7 @@ sigr,winvector
 SigsPack,bioc
 sigsquared,bioc
 sigugr,josesamos
+sigvar,bioc
 SIHR,zywang0701
 siie,cran
 siland,cran
@@ -23056,6 +23073,7 @@ singleRcapture,ncn-foreigners
 singR,laowang-123
 SingRegKrig,shikhartyagi
 singscore,bioc
+siniaR,paulesantos
 sinib,boxiangliu
 SINRELEF.LD,cran
 SIP,acannis
@@ -23736,6 +23754,7 @@ spectralR,olehprylutskyi
 SpectralTAD,bioc
 Spectran,litgde
 SpectraQL,bioc
+SpectraStash,bioc
 SpectriPy,bioc
 spectrolab,meireles
 Spectrum,crj32
@@ -26215,7 +26234,6 @@ UAHDataScienceSC,andriyprotsak5
 UAHDataScienceSF,andriyprotsak5
 UAHDataScienceUC,andriyprotsak5
 uaparserjs,gregfrog
-uavRmp,gisma
 ubair,imke-kilab
 UBayFS,annajenul
 UBCRM,zemmourc
@@ -26479,6 +26497,7 @@ validann,gbhumphrey1
 validata,harrison4192
 validate,data-cleaning
 validateIt,cran
+validateR,ugyennorbu
 validatesuggest,data-cleaning
 validatetools,data-cleaning
 ValidationExplorer,j-oram

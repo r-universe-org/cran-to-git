@@ -3,19 +3,22 @@
     "package": "adbcdrivermanager",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcdrivermanager"
+    "subdir": "r/adbcdrivermanager",
+    "registry": "archived"
   },
   {
     "package": "adbcpostgresql",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcpostgresql"
+    "subdir": "r/adbcpostgresql",
+    "registry": "archived"
   },
   {
     "package": "adbcsqlite",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcsqlite"
+    "subdir": "r/adbcsqlite",
+    "registry": "archived"
   },
   {
     "package": "apache.sedona",
