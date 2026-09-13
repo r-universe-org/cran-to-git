@@ -1,5 +1,15 @@
 [
   {
+    "package": "AMRsurveilR",
+    "maintainer": "Vinodhkumar Obli Rajendran <vinodhkumar.rajendran@gmail.com>",
+    "url": "https://github.com/vinodhpmd/amrsurveilr"
+  },
+  {
+    "package": "AutoEDA",
+    "maintainer": "Vinodhkumar Obli Rajendran <vinodhkumar.rajendran@gmail.com>",
+    "url": "https://github.com/vinodhpmd/autoeda"
+  },
+  {
     "package": "DataAudit",
     "maintainer": "Vinodh Kumar Obli Rajendran <vinodhkumar.rajendran@gmail.com>",
     "url": "https://github.com/vinodhpmd/dataaudit"
@@ -33,6 +43,11 @@
     "package": "OutbreakR",
     "maintainer": "Vinodhkumar Obli Rajendran <vinodhkumar.rajendran@gmail.com>",
     "url": "https://github.com/cran/OutbreakR"
+  },
+  {
+    "package": "ProMetaR",
+    "maintainer": "Vinodhkumar Obli Rajendran <vinodhkumar.rajendran@gmail.com>",
+    "url": "https://github.com/vinodhpmd/prometar"
   },
   {
     "package": "PropTestR",

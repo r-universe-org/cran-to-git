@@ -1,5 +1,10 @@
 [
   {
+    "package": "FocusGroup",
+    "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
+    "url": "https://github.com/asanaei/focusgroup"
+  },
+  {
     "package": "LLMR",
     "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
     "url": "https://github.com/asanaei/llmr"
@@ -13,6 +18,11 @@
     "package": "LLMRagent",
     "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
     "url": "https://github.com/asanaei/llmragent"
+  },
+  {
+    "package": "LLMRpanel",
+    "maintainer": "Ali Sanaei <sanaei@uchicago.edu>",
+    "url": "https://github.com/asanaei/llmrpanel"
   },
   {
     "package": "recoder",
