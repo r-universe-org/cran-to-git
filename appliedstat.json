@@ -12,6 +12,12 @@
     "subdir": "rQCC"
   },
   {
+    "package": "rt.test",
+    "maintainer": "Chanseok Park <statpnu@gmail.com>",
+    "url": "https://github.com/appliedstat/r",
+    "subdir": "rt.test"
+  },
+  {
     "package": "weibullness",
     "maintainer": "Chanseok Park <statpnu@gmail.com>",
     "url": "https://github.com/appliedstat/r",

@@ -3,8 +3,7 @@
     "package": "adbcdrivermanager",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcdrivermanager",
-    "registry": "archived"
+    "subdir": "r/adbcdrivermanager"
   },
   {
     "package": "adbcpostgresql",
