@@ -1017,6 +1017,7 @@ assorthead,bioc
 assortnet,cran
 AssumpSure,ahmedbargheet
 AST,alighanbari26
+ast2ast,konrad1991
 aster,cran
 aster2,cran
 asteRisk,rafael-ayala
@@ -1164,6 +1165,7 @@ AutoTransQF,cran
 autoTS,vivienroussez
 autotune,tathagata-s
 autovi,tengmcing
+AutoViz,vinodhpmd
 AutoWMM,malfly
 AuxSurvey,zjg540066169
 auxvecLASSO,gustafanderssons
@@ -2255,7 +2257,7 @@ bnbc,bioc
 bnclassify,bmihaljevic
 bndovb,yujunghwang
 bnem,bioc
-bnlearn,cran
+bnlearn,scutari
 bnma,mikejseo
 bnmonitor,manueleleonelli
 bnns,swarnendu-stat
@@ -4674,7 +4676,7 @@ crosswalkr,btskinner
 crov,cran
 crownmetrics,sergiocostafh
 crqa,morenococo
-crrcbcv,cran
+crrcbcv,erxc
 crrSC,cran
 crrstep,rvaradhan
 crs,jeffreyracine
@@ -4824,6 +4826,7 @@ cumprinc,jcrichardson617
 cumulcalib,resplab
 cuperdec,jfy133
 cuRe,lassehjort
+cureAssess,geethanjaleem
 CureDepCens,gabrielgrandemagne
 curephEM,hjmarquis
 cureplots,gbasulto
@@ -7516,7 +7519,7 @@ fairGNN,rhysholland
 fairlieR,cathybu9
 FAIRmaterials,cwru-sdle
 fairmetrics,jianhuig
-fairml,cran
+fairml,scutari
 fairmodels,modeloriented
 fairness,kozodoi
 fairsubset,cran
@@ -7769,6 +7772,7 @@ feasts,tidyverts
 featdelta,lordrudolf
 featForge,cran
 feather,wesm
+featR,elkronos
 FeatSeekR,bioc
 feature,tarnduong
 featureCorMatrix,masem-research
@@ -8327,7 +8331,6 @@ FPLdata,andrewl776
 fplot,lrberge
 fplyr,fmarotta
 fpod,supermoan
-fpop,guillemr
 fpopw,guillemr
 fPortfolio,r-forge
 fpow,baharev
@@ -12282,6 +12285,7 @@ koma,timothymerlin
 komaletter,rnuske
 konfound,konfound-project
 KONPsurv,matan-schles
+koopman.dmd,jimeharrisjr
 KOR.addrlink,daniels08663
 koRpus,undocumeantit
 koRpus.lang.en,undocumeantit
@@ -13433,6 +13437,7 @@ march,andreberchtold
 marcher,eligurarie
 marcox,actinium-oxide
 marcxmlr,larry77
+mardist,panoschristidis
 marelac,karlines
 MareyMap,lbbe-software
 marg,arbrazzale
@@ -16914,6 +16919,7 @@ oystermapR,trissyboats
 oz,kurthornik
 ozbabynames,robjhyndman
 ozmaps,mdsumner
+p2oncology,innovatiostat
 p3state.msm,gsoutinho
 pa,yl2
 PAA,bioc
@@ -17690,7 +17696,7 @@ PhysioIndexR,vinayaka11442
 PhysMove,hannahcalich
 PhySortR,timothystephens
 phytoclass,phytoclass
-PhytoIn,phytoin
+PhytoIn,cran
 phytools,liamrevell
 PhytosanitaryCalculator,grvisei
 piano,bioc
@@ -19577,7 +19583,7 @@ rbm25,davzim
 rBMF,cran
 rbmi,openpharma
 rbmiUtils,openpharma
-rbmn,cran
+rbmn,scutari
 RBNZ,rntq472
 Rborist,suiji
 rbounds,ljk20
@@ -21477,6 +21483,7 @@ RSSampling,cran
 RsSimulx,cran
 RSSL,jkrijthe
 RSSOP,rarabzadeh
+rSSP,harsh-123-stats
 RSSRMR,cran
 RSStest,fikrigokpinar
 RSSthemes,nrennie
@@ -22470,6 +22477,7 @@ sensobol,arnaldpuy
 SensoMineR,husson
 sensortowerR,econosopher
 sensory,cran
+SensoryDataSets,dianarebaza
 SenSpe,cran
 sensR,aigorahub
 SenSrivastava,kjetil1001
@@ -27424,6 +27432,7 @@ xopen,r-lib
 xpect,pigian
 xpectr,ludvigolsen
 xplain,jsugarelli
+xplaineff,mlr-org
 xplainfi,mlr-org
 xplorerr,rsquaredacademy
 Xplortext,cran
@@ -27556,6 +27565,7 @@ ZIM,mingstat
 ZIM4rv,fanx0037
 ZINAR1,cran
 ZINARp,cran
+ZINB.GP,kingjms1
 zinbwave,bioc
 zip,r-lib
 ZIPBayes,cran
