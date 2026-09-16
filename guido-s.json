@@ -1,5 +1,10 @@
 [
   {
+    "package": "cdmeta",
+    "maintainer": "Hisashi Noma <noma@ism.ac.jp>",
+    "url": "https://github.com/guido-s/cdmeta"
+  },
+  {
     "package": "crossnma",
     "maintainer": "Guido Schwarzer <guido.schwarzer@uniklinik-freiburg.de>",
     "url": "https://github.com/guido-s/crossnma"

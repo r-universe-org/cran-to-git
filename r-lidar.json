@@ -1,5 +1,10 @@
 [
   {
+    "package": "lidR",
+    "maintainer": "Jean-Romain Roussel <info@r-lidar.com>",
+    "url": "https://github.com/r-lidar/lidr"
+  },
+  {
     "package": "RCSF",
     "maintainer": "Jean-Romain Roussel <jean-romain.roussel.1@ulaval.ca>",
     "url": "https://github.com/r-lidar/rcsf"

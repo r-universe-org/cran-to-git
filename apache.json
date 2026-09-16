@@ -9,15 +9,13 @@
     "package": "adbcpostgresql",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcpostgresql",
-    "registry": "archived"
+    "subdir": "r/adbcpostgresql"
   },
   {
     "package": "adbcsqlite",
     "maintainer": "Dewey Dunnington <dewey@dunnington.ca>",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcsqlite",
-    "registry": "archived"
+    "subdir": "r/adbcsqlite"
   },
   {
     "package": "apache.sedona",
