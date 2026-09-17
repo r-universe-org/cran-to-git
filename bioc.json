@@ -2775,6 +2775,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CorNetto",
+    "maintainer": "Bradley Ward <bradleyalexward@gmail.com>",
+    "url": "https://github.com/bradleyalexward/cornetto",
+    "registry": "bioc"
+  },
+  {
     "package": "corral",
     "maintainer": "Lauren Hsu <lrnshoe@gmail.com>",
     "url": "https://git.bioconductor.org/packages/corral",
@@ -5040,6 +5046,12 @@
     "package": "GDSArray",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/bioconductor/gdsarray",
+    "registry": "bioc"
+  },
+  {
+    "package": "gdscloud",
+    "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
+    "url": "https://github.com/zhengxwen/gdscloud",
     "registry": "bioc"
   },
   {
@@ -9887,7 +9899,7 @@
   },
   {
     "package": "PhyloProfile",
-    "maintainer": "Vinh Tran <tran@bio.uni-frankfurt.de>",
+    "maintainer": "Vinh Tran <v.tran@ub.uni-frankfurt.de>",
     "url": "https://github.com/bionf/phyloprofile",
     "registry": "bioc"
   },
@@ -10417,6 +10429,12 @@
     "package": "QFeatures",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/qfeatures",
+    "registry": "bioc"
+  },
+  {
+    "package": "QFeaturesGUI",
+    "maintainer": "Léopold Guyot <leopold.guyot@uclouvain.be>",
+    "url": "https://github.com/rformassspectrometry/qfeaturesgui",
     "registry": "bioc"
   },
   {
