@@ -124,6 +124,7 @@ actfts,sergiofinances
 actibase,jhuwit
 actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
+actimetrics,jhuwit
 actinet,jhuwit
 actiquantiles,jhuwit
 actiread,jhuwit
@@ -902,6 +903,7 @@ aridagri,lalitrolaniya
 AriGaMyANNSVR,sandipgarai
 arima2,jeswheel
 ARIMAANN,cran
+arimasel,olawaleawe
 ARInfoLSTM,ranjitstat
 arkdb,ropensci
 arkg,arkg-data
@@ -1742,7 +1744,7 @@ BERT,bioc
 BERTopic,feng-ji-lab
 bertopicr,tpetric7
 bespatial,nowosad
-BeSS,cran
+BeSS,wencanhong-coder
 Bessel,r-forge
 bestglm,cliffordlai
 besthr,tsl-zz
@@ -1938,6 +1940,7 @@ binford,benmarwick
 binfunest,philshea
 bingadsR,pablosanmar
 binGroup,cran
+binGroup2,bdhitt
 BinGSD,xiaomangmang
 binhf,cran
 binman,ropensci
@@ -2311,6 +2314,7 @@ BonEV,dongmeili2017
 bonn,sumtxt
 bonsai,tidymodels
 bonsaiforest,insightsengineering
+bonsaisitter,cornball-ai
 booami,robertkuchen
 boodd,klona9
 boodist,stla
@@ -2844,6 +2848,7 @@ cartographer,cidm-ph
 cartographr,da-wi
 cartography,riatelab
 carts,novonordisk-opensource
+carwatch,carwatch-tools
 Cascade,fbertran
 CascadeData,fbertran
 cascadeSelect,stla
@@ -3246,6 +3251,7 @@ charcuterie,jonocarroll
 charisma,shawntz
 charlatan,ropensci
 charlesschwabapi,njbultman
+charport,charbase
 chartql,rmsyed
 chartreview,ghahn-bwh
 chatAI4R,kumes
@@ -4290,6 +4296,7 @@ cookiemonster,jbgruber
 cookies,shinyworks
 cooltools,obreschkow
 coop,wrathematics
+coOpenData,nyc-open-data-lab
 CoopGame,jhstaudacher
 CoordinateCleaner,ropensci
 CooRTweet,nicolarighetti
@@ -4344,6 +4351,7 @@ corella,atlasoflivingaustralia
 corels,corels
 CoreMicrobiomeR,cran
 coreNLP,taylor-arnold
+Coreset,ms609
 coreSim,christophergandrud
 coresynth,yo5uke
 coreval,hrach-gevorgyan
@@ -4397,6 +4405,7 @@ corrtable,lauralambert99
 CorrToolBox,bernice0321
 corrViz,alaninglis
 corset,viraltux
+corsym,ochoalab
 corTest,cran
 corTESTsrd,tuwhydro
 corteza,cornball-ai
@@ -4684,6 +4693,7 @@ crossvalidationCP,florianpein
 crosswalkr,btskinner
 crov,cran
 crownmetrics,sergiocostafh
+CrownScorchTLS,jbcannon
 crqa,morenococo
 crrcbcv,erxc
 crrSC,cran
@@ -5056,6 +5066,7 @@ dataCompare,seewe
 DataCraftR,cran
 datacult,gilberto-sassi
 datacutr,pharmaverse
+datadict,tidyverse
 datadictionary,doctorbjones
 datadiff,thinkr-open
 DataDNA,tonyisfool
@@ -5349,6 +5360,7 @@ defm,uofuepibio
 deforestable,otryakhin-dmitry
 deform,byoungman
 DEFormats,bioc
+deformula,okamumu
 DegCre,bioc
 degday,ucanr-igis
 DegNorm,bioc
@@ -7910,6 +7922,7 @@ FilmsGmooG,impaug
 FilterFFPE,bioc
 filterNHP,avrincon
 filters,shajoezhu
+filters.trade,shajoezhu
 filtro,tidymodels
 fImport,cran
 finalfit,ewenharrison
@@ -8316,6 +8329,7 @@ forplo,cran
 forrel,magnusdv
 forrest,lorenzofabbri
 forstringr,gbganalyst
+FORTLS,molina-valero
 fortniteR,econosopher
 fortunes,zeileis
 forward,kjbeath
@@ -9213,6 +9227,7 @@ ggauto,nrennie
 ggautomap,cidm-ph
 ggbeeswarm,eclarke
 ggbio,bioc
+ggbipart,pedroj
 ggbiplot,friendly
 ggblanket,davidhodge931
 ggblend,mjskay
@@ -9622,7 +9637,7 @@ glme,mcavs
 glmertree,r-forge
 glmfitmiss,cran
 glmGamPoi,bioc
-glmlep,cran
+glmlep,wencanhong-coder
 glmm,knudson1
 glmm.hp,laijiangshan
 GLMMadaptive,drizopoulos
@@ -11643,6 +11658,7 @@ IPDfromKM,naliustat
 ipdw,jsta
 ipeadatar,ipea
 ipeaplot,ipeadata-lab
+iPEB,bitansa
 IPEC,cran
 IPEDS,ajhaller
 IPEDSuploadables,alisonlanski
@@ -12494,6 +12510,7 @@ LatentBMA,cran
 latentcor,mingzehuang
 latentFactoR,alexchristensen
 latentnet,statnet
+latentState,martin2002-ux
 later,r-lib
 later2,pachadotdev
 Laterality,antonyborel
@@ -13428,6 +13445,7 @@ mapmetadata,ropensci
 mapmisc,eborgnine
 mapmixture,tom-jenkins
 mapnhanespa,jhuwit
+maposm,riatelab
 mappeR,uiowa-applied-topology
 MapperAlgo,tda-r
 mappestRisk,ecologyr
@@ -14280,6 +14298,7 @@ midas,shapenaji
 midas2,sullivan0147
 midasHLA,bioc
 MIDASim,mengyu-he
+midasINLA,cran
 midasml,jstriaukas
 midasr,mpiktas
 midastouch,philippgaffert
@@ -14778,6 +14797,7 @@ modelObj,sth1402
 modelr,tidyverse
 modelscompete4,ssjerf-stack
 modelSelection,davidrusi
+modelskill,alexandrewadoux
 modelSSE,cran
 modelStudio,modeloriented
 modelsummary,vincentarelbundock
@@ -14894,7 +14914,7 @@ MOQA,cran
 moranajp,matutosi
 morepls,nicolas-robette
 morestopwords,fatelarico
-mori,shikokuchuo
+mori,r-lib
 morph,cran
 morphemepiece,macmillancontentscience
 morphemepiece.data,macmillancontentscience
@@ -16173,6 +16193,7 @@ novelqualcodes,desiquintans
 NoviceDeveloperResources,barryzee
 NoviceDeveloperResources2,barryzee
 nowcast,charlescoverdale
+nowcaster,covid19br
 nowcastr,whocov
 noweb,cran
 np,jeffreyracine
@@ -16511,6 +16532,7 @@ omock,ohdsi
 OmopConstructor,ohdsi
 omopgenerics,darwin-eu
 omophub,omophub
+OmopIndices,ohdsi
 OmopOnSpark,ohdsi
 OmopSketch,ohdsi
 OmopStudyBuilder,oxford-pharmacoepi
@@ -18025,6 +18047,7 @@ pmrm,openpharma
 pmsampsize,cran
 PMScanR,bioc
 pmsesampling,chenaters
+pmsims,pmsims-package
 pmultinom,alex-l-m
 pmvalsampsize,cran
 pmwg,university-of-newcastle-research
@@ -18486,7 +18509,7 @@ prioritizr,prioritizr
 prioritizrdata,prioritizr
 priorityelasticnet,cran
 prioritylasso,romanhornung
-priorsense,n-kall
+priorsense,stan-dev
 prism,ropensci
 PRISM.forecast,ryanddyi
 PRISMA,cran
@@ -18668,6 +18691,7 @@ provSummarizeR,end-to-end-provenance
 provTraceR,end-to-end-provenance
 provViz,end-to-end-provenance
 proximetricsR,buchi-labortechnik-ag
+Proximum,agostinognasso
 proxirr,danielebaisero
 ProxReg,doufu1402
 proxy,cran
@@ -19447,6 +19471,7 @@ rankFD,frankkonietschke
 RankGWASK,cran
 rankhazard,nannikoski
 rankICC,shengxintu
+rankimp,agostinognasso
 RankingProject,civilstat
 rankingQ,sysilviakim
 rankinma,enochkang
@@ -19852,6 +19877,7 @@ Rcurvep,moggces
 Rcwl,bioc
 RcwlPipelines,bioc
 RCX,bioc
+rcxl,vlshields
 RCy3,bioc
 RCyjs,bioc
 RCytoGPS,cran
@@ -20539,6 +20565,8 @@ rGREAT,bioc
 RGreenplum,mwillumz
 RGremlinsConjoint,statuser
 rGroovy,thospfuller
+rgrpc,cornball-ai
+rGrSPTT,harsh-123-stats
 RGSEA,bioc
 rgsepd,bioc
 rgsp,myaseen208
@@ -20881,6 +20909,7 @@ rmonocypher,coolbutuseless
 rmoo,evolutionary-optimization-laboratory
 RMOPI,lingweir
 rmoriebricklayer,rootcoder007
+rmoriedata,rootcoder007
 rMosaic,tirizvanov
 Rmosek,cran
 rMOST,diversity-paretooptimal
@@ -23260,6 +23289,7 @@ sld,newystats
 sleacr,nutriverse
 sleekts,arefinsheen
 SleepCycles,christineblume
+sleeper,muschellij2
 sleepr,rethomics
 sleepwalk,anders-biostat
 sleev,dragontaoran
@@ -23768,6 +23798,7 @@ spatPomp,spatpomp-org
 SpATS,mxrodriguezuvigo
 spatsoc,ropensci
 spatstat,spatstat
+spatstat.convert,baddstats
 spatstat.data,spatstat
 spatstat.explore,spatstat
 spatstat.geom,spatstat

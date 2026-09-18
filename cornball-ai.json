@@ -1,5 +1,10 @@
 [
   {
+    "package": "bonsaisitter",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/bonsaisitter"
+  },
+  {
     "package": "chatterbox",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/chatterbox"
@@ -58,6 +63,11 @@
     "package": "rformat",
     "maintainer": "Troy Hernandez <troy@cornball.ai>",
     "url": "https://github.com/cornball-ai/rformat"
+  },
+  {
+    "package": "rgrpc",
+    "maintainer": "Troy Hernandez <troy@cornball.ai>",
+    "url": "https://github.com/cornball-ai/rgrpc"
   },
   {
     "package": "rotio",

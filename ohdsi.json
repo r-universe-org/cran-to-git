@@ -105,6 +105,11 @@
     "url": "https://github.com/ohdsi/omopconstructor"
   },
   {
+    "package": "OmopIndices",
+    "maintainer": "Martí Català <marti.catalasabate@ndorms.ox.ac.uk>",
+    "url": "https://github.com/ohdsi/omopindices"
+  },
+  {
     "package": "OmopOnSpark",
     "maintainer": "Edward Burn <edward.burn@ndorms.ox.ac.uk>",
     "url": "https://github.com/ohdsi/omoponspark"

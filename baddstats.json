@@ -20,6 +20,11 @@
     "url": "https://github.com/cran/scuba"
   },
   {
+    "package": "spatstat.convert",
+    "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
+    "url": "https://github.com/cran/spatstat.convert"
+  },
+  {
     "package": "spatstat.gui",
     "maintainer": "Adrian Baddeley <Adrian.Baddeley@curtin.edu.au>",
     "url": "https://github.com/cran/spatstat.gui"

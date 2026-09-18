@@ -5,6 +5,12 @@
     "url": "https://github.com/tidyverse/blob"
   },
   {
+    "package": "datadict",
+    "maintainer": "Gábor Csárdi <gabor@posit.co>",
+    "url": "https://github.com/tidyverse/data-dict",
+    "subdir": "r"
+  },
+  {
     "package": "dbplyr",
     "maintainer": "Hadley Wickham <hadley@posit.co>",
     "url": "https://github.com/tidyverse/dbplyr"
