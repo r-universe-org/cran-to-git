@@ -731,7 +731,7 @@ anyLib,achateigner
 anytime,eddelbuettel
 ao,loelschlaeger
 AOboot,cran
-aod,cran
+aod,renaudlancelot
 aods3,lbbe-software
 aoos,wahani
 aopdata,rafapereirabr
@@ -1081,6 +1081,7 @@ attention,bquast
 attestix,vibetensor
 attract,bioc
 attrib,raubreywhite
+attrition,acoppock
 AUC,ballings
 AUCell,bioc
 audio,s-u
@@ -1998,6 +1999,7 @@ BiocMaintainerApp,bioc
 biocmake,bioc
 BiocManager,bioconductor
 BiocNeighbors,bioc
+biocohort,samuelbharti
 biocompute,sbg
 BioCor,bioc
 BiocParallel,bioc
@@ -7884,6 +7886,7 @@ FHtest,ramonoller
 FI,dvdscripter
 fiber,tractoverse
 fiberLD,cran
+fibermargin,tkcaccia
 fibos,hersonhebert
 fibr,abindoff
 fic,chjackson
@@ -8911,6 +8914,7 @@ GENEAread,ai-jyc
 geneAttribution,bioc
 GeneBreak,bioc
 geneClassifiers,bioc
+geneClusterPattern,bioc
 GeneCycle,mjafin
 geneExpressionFromGEO,cran
 GeneExpressionSignature,bioc
@@ -9410,6 +9414,7 @@ ggquiver,mitchelloharawild
 ggragged,mikmart
 ggrain,njudd
 ggRandomForests,ehrlinger
+ggrank,thinkdenominator
 ggraph,thomasp85
 ggraptR,cargomoose
 ggrastr,vpetukhov
@@ -9978,6 +9983,7 @@ graphclust,tabea17
 GrapheR,maximeherve
 grapherator,jakobbossek
 GraphExperiment,bioc
+gRaphiaExtra,cran
 graphicalEvidence,cran
 graphicalExtremes,sebastian-engelke
 graphicalMCP,openpharma
@@ -10059,6 +10065,7 @@ gridExtra,baptiste
 gridGeometry,pmur002
 gridGraphics,pmur002
 gridGraphviz,r-forge
+gridHR,norberello
 gridify,pharmaverse
 gridmicrotex,adayim
 GridOnClusters,cran
@@ -14998,6 +15005,7 @@ MPBoost,iullibarri
 MPCI,edgarsantos-fernandez
 MPCR,stsds
 MPDiR,cran
+mpem,lhzmix
 MPFE,bioc
 MPGE,arunabhacodes
 MPI,faiarte
@@ -20742,7 +20750,7 @@ RJalaliDate,h-rabiee
 rJava,s-u
 rJavaEnv,e-kotov
 rjd3bench,rjdverse
-rjd3jars,tanguybarthelemy
+rjd3jars,rjdverse
 rjd3production,inseefr
 rjd3providers,rjdverse
 rjd3qr,inseefr
@@ -21990,6 +21998,7 @@ sars,txm676
 sarsop,boettiger-lab
 sas7bdat,cran
 SAScii,ajdamico
+sasctl,sassoftware
 SASdates,imaheshdivakaran
 saseR,bioc
 sasif,chandrt23-lang
@@ -22077,6 +22086,7 @@ scaRabee,cran
 SCArray,bioc
 SCArray.sat,bioc
 scater,bioc
+SCAtools,youngchanresearcher
 scatr,raviselker
 scatterbar,jefworks-lab
 scatterD3,juba
@@ -22962,6 +22972,7 @@ sicure,cran
 SID,fkgruber
 SIDES,marie-karelle
 sidier,cran
+sidra,rodrigoesborges
 SidraFacil,datascientist-br
 sidrar,rpradosiqueira
 Sie2nts,xcding1212
@@ -23651,6 +23662,7 @@ spaMM,f-rousset
 Spaniel,bioc
 spanish,ropenspain
 spanishoddata,ropenspain
+spanner,bi0m3trics
 SpaNorm,bioc
 spANOVA,lrcastro
 spant,martin3141
@@ -26049,6 +26061,7 @@ triact,agroscope-ch
 TriadSim,cran
 triageR,devwebwacky
 TrialEmulation,causal-lda
+TrialFlowR,vinodhpmd
 trialr,brockk
 TrialSimulator,zhangh12
 TrialSize,vickywu77
@@ -26349,6 +26362,7 @@ txshift,nhejazi
 txtplot,bbnkmp
 txtq,wlandau
 typed,moodymudskipper
+typedjson,nbenn
 typehint,jsugarelli
 typeR,fgazzelloni
 types,jimhester
@@ -26765,7 +26779,7 @@ vectra,gcol33
 VectrixDB,knowusuboaky
 vecvec,mitchelloharawild
 VedicDateTime,prajwalkpatil
-veesa,goodekat
+veesa,sandialabs
 vegalite,hrbrmstr
 VegaMC,bioc
 vegan,vegandevs
@@ -26957,6 +26971,7 @@ voson.tcn,vosonlab
 VOSONDash,vosonlab
 vosonSML,vosonlab
 Voss,cran
+vostokR,bi0m3trics
 vote,hanase
 voteogram,hrbrmstr
 votesmart,decktools

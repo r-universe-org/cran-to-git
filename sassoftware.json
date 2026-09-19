@@ -1,5 +1,10 @@
 [
   {
+    "package": "sasctl",
+    "maintainer": "Eduardo Hellas <ehellas@gmail.com>",
+    "url": "https://github.com/sassoftware/r-sasctl"
+  },
+  {
     "package": "socketR",
     "maintainer": "Eduardo Hellas <ehellas@gmail.com>",
     "url": "https://github.com/sassoftware/socketr"

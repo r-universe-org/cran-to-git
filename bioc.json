@@ -5109,6 +5109,12 @@
     "registry": "bioc"
   },
   {
+    "package": "geneClusterPattern",
+    "maintainer": "Jianhong Ou <jou@morgridge.org>",
+    "url": "https://github.com/jianhong/geneclusterpattern",
+    "registry": "bioc"
+  },
+  {
     "package": "GeneExpressionSignature",
     "maintainer": "Yang Cao <yiluheihei@gmail.com>",
     "url": "https://github.com/yiluheihei/geneexpressionsignature",
