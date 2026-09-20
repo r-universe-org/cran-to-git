@@ -96,7 +96,7 @@ ACEsimFit,xuanyu-lyu
 ACEt,lhe17
 acfMPeriod,rogih
 aCGH,bioc
-achieveGap,causalfragility-lab
+achieveGap,subirhait
 Achilles,fdefalco
 acid,cran
 ackwards,jmgirard
@@ -411,19 +411,19 @@ AHPWR,lucianea
 AHSurv,abdisalammuse
 AHTauDesign,xyzhao27
 ai,urniaz
-AIBias,causalfragility-lab
+AIBias,subirhait
 aIc,ggloor
 AICcmodavg,mamaz7
 AID,osmandag
 AIDA,catarinaploureiro
-aiDIF,causalfragility-lab
+aiDIF,subirhait
 aieconindex,charlescoverdale
 AiES,breezycave
-aiEvalR,causalfragility-lab
+aiEvalR,subirhait
 aifeducation,fberding
 AIFFtools,cran
 AIGENIE,laralee
-AIGovernance,causalfragility-lab
+AIGovernance,subirhait
 AIGRA,cran
 aihuman,sooahnshin
 aimPlot,ybkamaleri
@@ -2775,7 +2775,7 @@ canvasXpress.data,neuhausi
 CAOP.RAA.2024,patterninstitute
 caper,davidorme
 capesData,leobiazoli
-capesR,hugoavmedeiros
+capesR,strategicprojects
 capitalR,cran
 capl,barnzilla
 caplot,gianmarcoalberti
@@ -2928,7 +2928,7 @@ causalDisco,disco-coders
 causaldrf,cran
 causalDT,tiffanymtang
 causaleffect,santikka
-causalfrag,causalfragility-lab
+causalfrag,subirhait
 causalgenerics,r-causal
 CausalGPS,nsaph-software
 causalHyperGraph,mathiasambuehl
@@ -2949,7 +2949,7 @@ causalreg,cran
 causalsens,mattblackwell
 causalsim,chaycereed
 causalSLSE,pchausse
-CausalSpline,causalfragility-lab
+CausalSpline,subirhait
 CausalState,sebastiaan-blank
 causalweight,hugometric
 causalWins,cran
@@ -3075,7 +3075,7 @@ ceas,jamespeapen
 ceblR,awosoga
 CEC,swarm-lab
 CEDA,cran
-CEDMr,causalfragility-lab
+CEDMr,subirhait
 CEEMDANML,sandipgarai
 CEGO,martinzaefferer
 celaref,bioc
@@ -4179,7 +4179,7 @@ conformalInference.fd,paolo-vergo
 conformalInference.multi,paolo-vergo
 conformalpvalue,chhavi-tyagi
 ConformalSmallest,elsa-yang98
-confoundvis,causalfragility-lab
+confoundvis,subirhait
 confreq,jhhmuc
 ConfusionTableR,cran
 congress,christopherkenny
@@ -5297,8 +5297,8 @@ decido,hypertidy
 decimal,pedrobtz
 DECIPHER,bioc
 decision,cran
-DecisionDrift,causalfragility-lab
-decisionpaths,causalfragility-lab
+DecisionDrift,subirhait
+decisionpaths,subirhait
 decisionSupport,eikeluedeling
 deckgl,crazycapivara
 deckglgeoarrow,r-spatial
@@ -6157,7 +6157,7 @@ DriverNet,bioc
 DRLAP2,obulezi12345-svg
 drlate,kvenkita
 drMAIC,heorlytics
-drmeta,causalfragility-lab
+drmeta,subirhait
 drmTMB,itchyshin
 drogonR,zabis13
 droll,cran
@@ -7010,7 +7010,7 @@ epimutacions,bioc
 epiNEM,bioc
 epinet,cgroendyke
 epinetr,diondetterer
-EpiNova,causalfragility-lab
+EpiNova,subirhait
 EpiNow2,epiforecasts
 epiomics,goodrich-lab
 epiparameter,epiverse-trace
@@ -10713,7 +10713,7 @@ HLAtools,sjmack
 HLCtools,guilhermefranchi
 hlidacr,skvrnami
 HLMdiag,aloy
-hlmLab,causalfragility-lab
+hlmLab,subirhait
 hlrhotrix,cran
 HLSM,tmsweet
 hlt,mkleinsa
@@ -12912,7 +12912,7 @@ ljr,cran
 LKT,optimal-learning-lab
 llama,larskotthoff
 llamaR,zabis13
-LLM,arnoxieseg
+LLM,cran
 llm.api,cornball-ai
 LLMAgentR,knowusuboaky
 llmclean,sadikulislamiasri-hub
@@ -14041,7 +14041,7 @@ metalite,merck
 metalite.ae,merck
 metalite.sl,merck
 metalite.table1,elong0527
-metaLong,causalfragility-lab
+metaLong,subirhait
 MetAlyzer,lu-group-ukhd
 metaMA,sblanck
 metamedian,stmcg
@@ -14575,7 +14575,7 @@ MLBC,cran
 mlbench,kurthornik
 mlbplotR,camdenk
 mlbstats,pdwaggoner
-MLCausal,causalfragility-lab
+MLCausal,subirhait
 MLCIRTwithin,francescobartolucci
 MLCM,cran
 MLCOPULA,cran
@@ -14613,7 +14613,7 @@ MLmetrics,yanyachen
 mlmhelpr,lrocconi
 mlmi,jwb133
 MLML2R,samarafk
-mlmoderator,causalfragility-lab
+mlmoderator,subirhait
 MLMOI,mhashemihsmw
 MLmorph,theogrost
 mlmpower,bkeller2
@@ -15397,7 +15397,7 @@ MultisiteMediation,xu-qin
 MultiSkew,cran
 multisom,sarra25
 multispatialCCM,adamtclark
-MultiSpline,causalfragility-lab
+MultiSpline,subirhait
 multistateQTL,bioc
 MultiStatM,e-tau
 MultiStepSSAD,shikhartyagi
@@ -16126,7 +16126,7 @@ NonCompart,cran
 noncompliance,cran
 noncomplyR,sscogges
 nondetects,bioc
-NonlinearDiD,causalfragility-lab
+NonlinearDiD,subirhait
 nonLinearDotPlot,sorendoring
 NonlinearTSA,cran
 nonlinearTseries,constantino-garcia
@@ -19955,7 +19955,7 @@ RDS,handcock
 Rdsdp,zhisu
 rdss,graemeblair
 RDSsamplesize,yibboo
-rdstagger,causalfragility-lab
+rdstagger,subirhait
 RDStreeboot,cran
 Rdta,hyungsuktak
 rdtLite,end-to-end-provenance
@@ -21089,7 +21089,7 @@ robustDIF,peterhalpin
 robusTest,obouaziz
 robustETM,chuanhong
 robustfa,fbertran
-RobustFlow,causalfragility-lab
+RobustFlow,subirhait
 robustGarch,echorliu
 RobustGaSP,uncertaintyquantification
 robustHD,aalfons
@@ -21099,7 +21099,7 @@ robustlm,mamba413
 robustlmm,kollerma
 RobustLPA,vraquila
 robustmatrix,marcusmayrhofer
-RobustMediate,causalfragility-lab
+RobustMediate,subirhait
 robustmeta,nomahi
 RobustMetrics,bernhardklar
 RobustPrediction,yuting-he
@@ -23521,7 +23521,7 @@ sobolnp,maikol-solis
 soc.ca,rsoc
 socceR,ekstroem
 social,thomaswpike
-socialdrift,causalfragility-lab
+socialdrift,subirhait
 SocialFacts,geminy3
 socialh,valentebr
 socialmixr,epiforecasts
@@ -24300,7 +24300,7 @@ starwarsdb,gadenbuie
 Stat2Data,statmanrobin
 statAfrikR,damoko2004
 Statamarkdown,hemken
-statAPA,causalfragility-lab
+statAPA,subirhait
 statar,matthieugomez
 STATassist,hiows
 statBasics,gilberto-sassi
@@ -27425,7 +27425,7 @@ wsMed,yangzhen1999
 wsprv,statliang89
 WSPsignal,julia-dyck
 wsrf,simonyansenzhao
-wstats,cran
+wstats,jgaeb
 wstdiff,cran
 wsyn,reumandc
 wtest,anotherruisun
