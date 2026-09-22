@@ -3,5 +3,10 @@
     "package": "crossmatch",
     "maintainer": "Marieke Stolte <stolte@statistik.tu-dortmund.de>",
     "url": "https://github.com/cran/crossmatch"
+  },
+  {
+    "package": "DataSimilarity",
+    "maintainer": "Marieke Stolte <marieke.stolte@ibe.med.uni-muenchen.de>",
+    "url": "https://github.com/cran/DataSimilarity"
   }
 ]

@@ -411,6 +411,7 @@ AHPWR,lucianea
 AHSurv,abdisalammuse
 AHTauDesign,xyzhao27
 ai,urniaz
+AI4OfficialStats,leilamarvian
 AIBias,subirhait
 aIc,ggloor
 AICcmodavg,mamaz7
@@ -985,6 +986,7 @@ askpass,r-lib
 asleep,jhuwit
 aslib,coseal
 asm,nineisprime
+ASMap,drj001
 ASMbook,kenkellner
 asmbPLS,runzhiz
 ASML,brais-gonzalez
@@ -2046,6 +2048,7 @@ biomes,azizka
 biometrics,cseljatib
 biometryassist,biometryhub
 biomformat,bioc
+BioMixModel,vinodhpmd
 biomod2,biomodhub
 BioMonTools,leppott
 BioMoR,sulkysubject37
@@ -2769,6 +2772,7 @@ CanonicalFamilyExtra,qiu-hongxiang-david
 canprot,jedick
 canpumf,mountainmath
 cansim,mountainmath
+Canton,scienceadvances
 cantrends,mattwarkentin
 canvasXpress,neuhausi
 canvasXpress.data,neuhausi
@@ -2933,6 +2937,7 @@ causalgenerics,r-causal
 CausalGPS,nsaph-software
 causalHyperGraph,mathiasambuehl
 CausalImpact,google
+CausalLoopAnalytics,vinodhpmd
 CausalMBSTS,fmenchetti
 CausalMetaR,ly129
 CausalMixGPD,arnabaich96
@@ -3528,6 +3533,7 @@ classmap,jakobraymaekers
 CLAST,chrislloyd58
 clayringsmiletus,lsteinmann
 clc,josesamos
+CLCM,cjangelo
 cld,gegznav
 cld2,ropensci
 cld3,ropensci
@@ -4087,6 +4093,7 @@ compositeReliabilityInNestedDesigns,jmoonen
 Compositional,cran
 compositional.mle,queelius
 Compositionalasmr,cran
+Compositionalcln,cran
 CompositionalClust,cran
 CompositionalHDDA,cran
 CompositionalML,cran
@@ -5117,7 +5124,7 @@ datasetsICR,cran
 DataSetsUni,imranshakoor
 DataSetsVerse,lightbluetitan
 datasetviewer,vthanik
-DataSimilarity,cran
+DataSimilarity,mariekestolte
 DataSpaceR,ropensci
 dataspice,ropensci
 datastat,atchanut
@@ -5923,6 +5930,7 @@ dlstats,guangchuangyu
 dm,cynkra
 dma,hanase
 dmai,myaseen208
+DMAR,yelleknek
 dmbc,sergioventurini
 DMCFB,bioc
 DMCfun,igmmgi
@@ -6556,6 +6564,7 @@ econdatasets,tidy-intelligence
 econdataverse,tidy-intelligence
 econet,change-prin
 EcoNetGen,cboettig
+EconEvalR,vinodhpmd
 EconGeo,paballand
 EcoNiche,yedeng-lab
 econid,teal-insights
@@ -7401,6 +7410,7 @@ ExpoRiskR,bioc
 export,tomwenseleers
 ExPosition,derekbeaton
 ExposR,expos-model
+exposureEM,w2meng
 expowo,dboslab
 expperm,benowell
 ExpRep,cran
@@ -8716,6 +8726,7 @@ GAPR,shuyyu
 GAprediction,bioc
 gaQSAR,joshageman
 GARCH.X,cran
+GARCHInfoLSTM,ranjitstat
 GARCHIto,cran
 GARCHSK,keeeeei0315
 garchx,gsucarrat
@@ -10234,6 +10245,7 @@ gtrellis,bioc
 gtrendshealth,cdcgov
 gtrendsR,pmassicotte
 GTRT,cran
+gtstats,thinkdenominator
 gtsummary,ddsjoberg
 gtWAS,junhuili1017
 guaguas,rivaquiroga
@@ -11636,6 +11648,7 @@ iNZightTS,inzightvit
 io,djhshih
 ioanalysis,julianwadeoolman
 IOBR,iobr
+iod25,douglasmunro
 IOLS,nassimzbalah
 ioncopy,budczies
 ionet,carol-seven
@@ -12668,6 +12681,7 @@ LedPred,bioc
 leem,bendeivide
 lefko3,dormancy1
 lefser,bioc
+legendplot,rubenfcasal
 legendry,teunbrand
 legion,openforecast-org
 legislatoR,saschagobel
@@ -12712,6 +12726,7 @@ lexiconPT,sillasgonzaga
 LexisNexisTools,jbgruber
 LexisPlotR,ottlngr
 lexRankr,adamspannbauer
+lexsync,pablobernabeu
 lfa,bioc
 lfactors,pdbailey0
 LFApp,fpaskali
@@ -13632,6 +13647,7 @@ matrixTests,karoliskoncevicius
 matriz,jpmonteagudo28
 matsbyname,matthewheun
 matsindf,matthewheun
+matsketch,mqfarooqi1
 matSPACE,kimhyew1
 matter,bioc
 matuR,josedv82
@@ -13860,6 +13876,7 @@ MEAT,bioc
 MEB,bioc
 meboot,cran
 MECfda,jihx1015
+mechgraph,guangchuangyu
 MEclustnet,gormleyi
 meconetcomp,chiliubio
 mecor,lindanab
@@ -15982,6 +15999,7 @@ nivo.bubblechart,dataraceredu
 nixmass,haraldschellander
 nixtlar,nixtla
 NlcOptim,cran
+nlcs,cran
 nlcv,lcougnaud
 nleqslv,bertcarnell
 nlfh,paparker
@@ -16625,6 +16643,7 @@ oottest,philippkuelpmann
 opa,timbeechey
 opalr,obiba
 OPC,cran
+OPCC,lennon-li
 OPCreg,guangbaog
 opdisDownsampling,jornlotsch
 OPDOE,cran
@@ -17124,6 +17143,7 @@ panelvar,datarob
 panelView,xuyiqing
 panelWranglR,jszitas
 pangaear,ropensci
+panglm,ielbadisy
 pangoling,ropensci
 PanJen,cran
 pannotator,nunzioknerr
@@ -17569,6 +17589,7 @@ perturbR,kgates
 PeruAPIs,lightbluetitan
 peruflorads43,paulesantos
 perumammals,paulesantos
+peruocc,paulesantos
 peruse,jacgoldsm
 perutimber,paulesantos
 pervasive,dlajoiemoncton
@@ -19351,6 +19372,7 @@ RADanalysis,saeedghalati
 radar,cran
 radarBoxplot,caiohamamura
 RadData,markhogue
+raddr,bart-turczynski
 radEmu,statdivlab
 RadEro,cran
 RadialVisGadgets,jmatute
@@ -20723,6 +20745,7 @@ riskutility,matthias-da
 RiskyCNV,apalania-lab
 riskyr,hneth
 RISmed,skoval
+risq,cran
 Rita,danielamattei
 ritalic,plant-data
 RITAN,bioc
@@ -23645,6 +23668,7 @@ spacetime,edzer
 SpaceTimeBSS,cran
 SpaceTrooper,bioc
 spacexr,bioc
+spaci,ogunsolaia
 SPACO,koehlibert
 SpaCOAP,feiyoung
 spacyr,quanteda
@@ -24083,6 +24107,7 @@ SpTe2M,yklmy1994121
 spThin,mlammens
 spTimer,ksbakar
 sptotal,highamm
+sptrends,olive-r
 spup,ksawicka
 spuriouscorrelations,pachadotdev
 SpuriousMemory,zhongjun-qu
@@ -24630,6 +24655,7 @@ sulcimap,cran
 SumcaVer1,torabi-uofm
 sumer,rowellmann
 sumExtras,kylegrealis
+summarisebig,larry77
 summariser,condwanaland
 SummarizedExperiment,bioc
 summarySCI,sakk-statistics
@@ -24785,6 +24811,7 @@ survout,cran
 survParamSim,yoshidk6
 survPen,fauvernierma
 survPresmooth,cran
+survrec,isglobal-brge
 SurvRegCensCov,stanislashubeaux
 survregVB,chengqianxian
 survRM2,cran
@@ -25111,6 +25138,7 @@ taxlist,ropensci
 taxnames,kamapu
 taxodist,rodrigosqrt3
 taxonomizr,sherrillmix
+TaxResolveR,prdelosriosescalante
 TaxSEA,bioc
 taylor,wjakethompson
 TaylorRussell,nwaller
@@ -25120,6 +25148,7 @@ tbd,killingvectorfield
 tbea,gaballench
 TBEST,gsun2018
 TBFmultinomial,rachelhey
+tbl.now,rodrigozepeda
 tbl2xts,nicktz
 tbm,thothorn
 tbnb,cran
@@ -25620,6 +25649,7 @@ tilegramsR,bhaskarvk
 tilemaps,kaerosen
 tiler,ropensci
 tilingArray,bioc
+tiltdens,doostih
 tilting,haeran-cho
 timbeR,sergiocostafh
 timbr,uchidamizuki
@@ -25908,6 +25938,7 @@ TrackTrap,santosh4355
 trackViewer,bioc
 tractor.base,tractor
 trade,luciu5
+tradeIndices,cran
 tradeoffaucdim,luisgarcez11
 tradepolicy,pachadotdev
 TRADER,pavel-fibich
@@ -26628,6 +26659,7 @@ vaersvax,iembry
 VAExprs,bioc
 vagalumeR,r-music
 valaddin,egnha
+ValCurvaR,isaquebrand
 vald.extractor,praveenmaths89
 valdr,kh-vald22
 valdrViz,kh-vald22
@@ -27691,6 +27723,7 @@ zoom,cbarbu
 zoomerjoin,beniaminogreen
 zoomgrid,yukai-yang
 zoomr,chrisumphlett
+zot,averrik
 zoteR,cran
 ZRA,cran
 zscorer,nutriverse
