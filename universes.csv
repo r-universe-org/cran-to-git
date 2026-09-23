@@ -1384,6 +1384,7 @@ BASiCS,bioc
 basicspace,christopherdhare
 BASiCStan,bioc
 BasicSTARRseq,bioc
+BasicStatsPlots,cran
 basictabler,cbailiss
 basifoR,wilarhen
 basil,chrislongros
@@ -3409,7 +3410,7 @@ ciCalibrate,samch93
 cicero,bioc
 cicerone,johncoene
 CICI,cran
-ciecl,rodotasso
+ciecl,ropensci
 CIEE,skonigor
 cif,cran
 CIfinder,cran
@@ -4702,6 +4703,7 @@ crosswalkr,btskinner
 crov,cran
 crownmetrics,sergiocostafh
 CrownScorchTLS,jbcannon
+crownsegmentr,lenostatos
 crqa,morenococo
 crrcbcv,erxc
 crrSC,cran
@@ -4977,6 +4979,7 @@ dabestr,acclab
 dabr,special-uor
 dacc,liyanstat
 DACF,cran
+DACT,cran
 dad,santagos
 dada2,bioc
 dadjoke,cran
@@ -8499,6 +8502,7 @@ fsdaR,uniprjrc
 FSelector,larskotthoff
 FSelectorRcpp,mi2-warsaw
 fsemipar,silvianovo
+FSHybridPLS,jong-min-moon
 fsia,micbtz
 FSinR,sambrista
 FSK2R,albgarre
@@ -10831,6 +10835,7 @@ hrcomprisk,antiportad
 hrf,mandymejia
 HRM,happma
 hrqglas,shaobo-li
+HRRI,mghotbi
 hrt,dprei
 hrtlFMC,bijoy231997
 HRTnomaly,drwolf85
@@ -11641,8 +11646,6 @@ invitroTKstats,usepa
 invivoPKfit,jfwambaugh
 InvStablePrior,dcahoy
 iNZightMR,inzightvit
-iNZightPlots,inzightvit
-iNZightRegression,inzightvit
 iNZightTools,inzightvit
 iNZightTS,inzightvit
 io,djhshih
@@ -18974,6 +18977,7 @@ QAEnsemble,wroda22
 QAIG,shubh-b
 qap,mhahsler
 qape,cran
+qapproach,cran
 Qapprox,zwulab
 qardlr,muhammedalkhalaf
 qarPI,silvianovo
@@ -22517,6 +22521,7 @@ semdrw,kartikeyabolar
 semds,pmair78
 semEff,murphymv
 semEffect,phdmeiwp
+semeqmodels,sfcheung
 semfindr,sfcheung
 semFromKeys,timbainbridge
 semgram,omstuhler
@@ -22917,6 +22922,7 @@ shinyquiz,priism-center
 shinyr,ijayc
 shinyRadioMatrix,szelepke
 shinyRatings,shahronak47
+shinyreact,schloerke
 shinyrecap,fellstat
 shinyrecipes,albertoalmuinha
 shinyReports,cran
@@ -26917,6 +26923,7 @@ virustotal,themains
 visa,kang-yu
 visachartR,chris-demartini
 visae,dnzmarcio
+visATC,jnm212
 VisCollin,friendly
 viscomp,georgiosseitidis
 viscomplexr,peterbiber
@@ -27458,6 +27465,7 @@ WSPsignal,julia-dyck
 wsrf,simonyansenzhao
 wstats,jgaeb
 wstdiff,cran
+WSwavelet,nilotpalsanyal
 wsyn,reumandc
 wtest,anotherruisun
 wTO,cran

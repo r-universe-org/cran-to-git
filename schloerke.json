@@ -13,5 +13,10 @@
     "package": "gqlr",
     "maintainer": "Barret Schloerke <schloerke@gmail.com>",
     "url": "https://github.com/schloerke/gqlr"
+  },
+  {
+    "package": "shinyreact",
+    "maintainer": "Barret Schloerke <barret@posit.co>",
+    "url": "https://github.com/cran/shinyreact"
   }
 ]
