@@ -416,7 +416,7 @@
   },
   {
     "package": "animalcules",
-    "maintainer": "W. Evan Johnson <wej@bu.edu>",
+    "maintainer": "W. Evan Johnson <wevanjohnson@gmail.com>",
     "url": "https://github.com/wejlab/animalcules",
     "registry": "bioc"
   },
@@ -10756,6 +10756,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RBPEqBind",
+    "maintainer": "Soon Yi <cu.soonyi@gmail.com>",
+    "url": "https://github.com/s00nyi/rbpeqbind",
+    "registry": "bioc"
+  },
+  {
     "package": "RBPSpecificity",
     "maintainer": "Soon Yi <cu.soonyi@gmail.com>",
     "url": "https://github.com/s00nyi/rbpspecificity",
@@ -14143,6 +14149,12 @@
     "package": "TSENAT",
     "maintainer": "Cristóbal Gallardo Alba <gallardoalba@pm.me>",
     "url": "https://github.com/gallardoalba/tsenat",
+    "registry": "bioc"
+  },
+  {
+    "package": "TSSr",
+    "maintainer": "Zhenguo Lin <zhenguo.lin@slu.edu>",
+    "url": "https://github.com/linlab-slu/tssr",
     "registry": "bioc"
   },
   {

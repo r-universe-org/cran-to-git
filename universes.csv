@@ -2442,6 +2442,7 @@ brand.yml,gadenbuie
 brandr,danielvartan
 brandwatchR,phippsy
 brant,benjaminschlegel
+brapiR2,ropensci
 braQCA,burrelvannjr
 brar,samch93
 brassica,cran
@@ -4044,7 +4045,6 @@ commonmetar,ropensci
 commons,posit-dev
 commonsMath,dbdahl
 comorbidity,ellessenne
-comorbidPGS,vp-biostat
 comorosmaps,hhousni
 Comp2ROC,anabraga
 comparator,ngmarchant
@@ -5473,6 +5473,7 @@ DepDoubleTruncKS,shikhartyagi
 DepecheR,bioc
 depend.truncation,takeshiemura1
 dependentsimr,tgbrooks
+depguard,sunraycodes
 depictr,pablobernabeu
 DepInfeR,bioc
 DepLogo,jgraux
@@ -8561,6 +8562,7 @@ funFEM,cran
 fungible,nwaller
 funGp,djbetancourt-gh
 funHDDC,jujacques
+funHMM,cran
 funIHC,cran
 funique,mkearney
 fUnitRoots,cran
@@ -8795,6 +8797,7 @@ gcbd,eddelbuettel
 GCCfactor,rl1081
 GCD,oblarquez
 gcdnet,archer-yang-lab
+gcemod,cran
 gcerisk,cran
 GCEstim,jorgevazcabral
 gchartsmap,odeleongt
@@ -8998,6 +9001,7 @@ GenMarkov,cran
 genMCMCDiag,lukeduttweiler
 GENMETA,kundupro
 geno2proteo,cran
+genoaligner,alrobles
 genodds,hannahjohns
 genomation,bioc
 GenomAutomorphism,bioc
@@ -11010,7 +11014,7 @@ HZIP,carrascojalmar
 i18n,rich-iannone
 i3pack,solivella
 IAcsSPCR,johnjsl7
-iAdapt,cran
+iAdapt,alyssamv
 iadf,konradmayer
 IADT,cran
 iai,jackdunnnz
@@ -12778,6 +12782,7 @@ librarysnapshot,petermeissner
 libstable4u,swihart
 LIC,guangbaog
 licoread,jogaudard
+lidaRtRee,jmmonnet
 lidR,r-lidar
 lievens,ramiromagno
 lifecontingencies,spedygiorgio
@@ -19545,7 +19550,13 @@ rapportools,rapporter
 rappsflyer,selesnow
 rapr,brownag
 rapsimng,byzheng
+rapsimng.canola,byzheng
+rapsimng.chickpea,byzheng
 rapsimng.decide.core,byzheng
+rapsimng.fababean,byzheng
+rapsimng.lentil,byzheng
+rapsimng.lupin,byzheng
+rapsimng.wheat,byzheng
 raptools,researchverse
 RAPTOR,the-hull
 raptr,jeffreyhanson
@@ -19686,6 +19697,7 @@ Rbowtie,bioc
 Rbowtie2,bioc
 RbowtieCuda,bioc
 RBPcurve,giuseppec
+RBPEqBind,bioc
 RBPSpecificity,bioc
 rbranding,epiforesite
 rbreak,zhongjun-qu
@@ -20749,7 +20761,7 @@ riskutility,matthias-da
 RiskyCNV,apalania-lab
 riskyr,hneth
 RISmed,skoval
-risq,cran
+risq,reijeridema
 Rita,danielamattei
 ritalic,plant-data
 RITAN,bioc
@@ -21519,6 +21531,7 @@ rsemmed,bioc
 RSentiment,cran
 RSeqAn,bioc
 Rserve,s-u
+RserveTS,tmelliott
 rsf,dchiu911
 rSFA,martinzaefferer
 Rsfar,haghbinh
@@ -22689,7 +22702,7 @@ sewage,mwhalen18
 sezgi,tdelphi1981
 sf,r-spatial
 sfa,davidhbernstein
-sfadv,ydesjeux
+sfadv,cran
 sfaR,hdakpo
 sfarrow,wcjochem
 sfc,ctfysh
@@ -25044,7 +25057,6 @@ tables,dmurdoch
 tablesgg,rrprf
 tablespan,jhorzek
 tablet,bergsmat
-TableToLongForm,joh024
 tablexlsx,ddotta
 tabnet,mlverse
 taboolaR,pablosanmar
@@ -26261,6 +26273,7 @@ TSS.RESTREND,ardenb
 tsSelect,aviblinder
 tssim,danielollech
 TSsmoothing,leticiaram
+TSSr,bioc
 TSSS,cran
 TSstudio,ramikrispin
 TSSVM,cran
@@ -27341,7 +27354,7 @@ WIPF,cran
 wired,pigian
 wISAM,rcorty
 wishartinference,hanqisunnyshi
-wishmom,cran
+wishmom,raymond-kan
 withdots,nikkrieger
 wither,torbjorn
 withr,r-lib
