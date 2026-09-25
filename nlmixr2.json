@@ -70,6 +70,11 @@
     "url": "https://github.com/nlmixr2/nlmixr2save"
   },
   {
+    "package": "nlmixr2scm",
+    "maintainer": "Justin Wilkins <justin.wilkins@occams.com>",
+    "url": "https://github.com/nlmixr2/nlmixr2scm"
+  },
+  {
     "package": "nlmixr2targets",
     "maintainer": "Bill Denney <wdenney@humanpredictions.com>",
     "url": "https://github.com/nlmixr2/nlmixr2targets"
@@ -98,6 +103,11 @@
     "package": "rxode2",
     "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
     "url": "https://github.com/nlmixr2/rxode2"
+  },
+  {
+    "package": "rxode2lincmt",
+    "maintainer": "Matthew L. Fidler <matthew.fidler@gmail.com>",
+    "url": "https://github.com/nlmixr2/rxode2lincmt"
   },
   {
     "package": "rxode2ll",

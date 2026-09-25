@@ -2038,6 +2038,7 @@ bioimagetools,bioimaginggroup
 bioinactivation,albgarre
 BioIndex,cran
 BioInsight,cran
+bioIOT,xtsgreen
 bioLeak,selcukorkmaz
 biolink,aaronwolen
 biologicalActivityIndices,tanujrlbcau
@@ -2240,6 +2241,7 @@ bluebike,zyang2k
 BlueCarbon,ecologyr
 bluertopo,el-cordero
 blueterra,el-cordero
+blueycolors,ekholme
 bluster,bioc
 blvim,fabrice-rossi
 BlythStillCasellaCI,ronyu-gilead
@@ -2683,6 +2685,7 @@ ca,cran
 CA3variants,rosarialo
 cABCanalysis,andrehdev
 cabinets,nt-williams
+CAbiplot,cran
 cabootcrs,cran
 cacc,amoneva
 cache,olivierbinette
@@ -4522,7 +4525,7 @@ cox.rvph,haaamin02
 CoxAalenCR,shikhartyagi
 CoxAIPW,charlesluo1002
 CoxBcv,xueqiwang
-CoxBoost,bblodfon
+CoxBoost,binderh
 coxerr,cran
 CoxICPen,cran
 CoxLikelihood,cran
@@ -7897,6 +7900,7 @@ fhircrackr,polar-fhir
 fHMM,loelschlaeger
 FHtest,ramonoller
 FI,dvdscripter
+FIAstemmap,firelab
 fiber,tractoverse
 fiberLD,cran
 fibermargin,tkcaccia
@@ -8356,6 +8360,7 @@ FossilSim,bjoelle
 FossilSimShiny,bjoelle
 foto,bluegreen-labs
 foundry,palantir
+foundryR,farach
 FourgameteP,aflavus
 fourierin,gbasulto
 fourinarow,kstreet13
@@ -8581,6 +8586,7 @@ funprog,py-b
 funr,sahilseth
 funrar,rekyt
 funreg,dziakj1
+funresMech,segon03
 funspace,carlosp-carmona
 funspotr,brshallo
 funStatTest,gdurif
@@ -8797,7 +8803,7 @@ gcbd,eddelbuettel
 GCCfactor,rl1081
 GCD,oblarquez
 gcdnet,archer-yang-lab
-gcemod,cran
+gcemod,lmell-source
 gcerisk,cran
 GCEstim,jorgevazcabral
 gchartsmap,odeleongt
@@ -8829,6 +8835,7 @@ GDAdata,impaug
 gdalcubes,appelmar
 gdalraster,firelab
 gdalUtilities,joshobrien
+gdam,fhui28
 gdata,r-gregmisc
 GDAtools,nicolas-robette
 GDCRNATools,bioc
@@ -16030,6 +16037,7 @@ nlmixr2lib,nlmixr2
 nlmixr2plot,nlmixr2
 nlmixr2rpt,nlmixr2
 nlmixr2save,nlmixr2
+nlmixr2scm,nlmixr2
 nlmixr2targets,nlmixr2
 nlmixr2utils,nlmixr2
 nlmm,marco-geraci
@@ -17014,6 +17022,7 @@ pa,yl2
 PAA,bioc
 paar,ppaccioretti
 PAC,yhenryli
+pacha,envinatu
 pacheck,xa4p
 pack,joshuaulrich
 packageDiff,couthcommander
@@ -17942,6 +17951,7 @@ planttfhunter,bioc
 plantTracker,aestears
 plasma,r-forge
 PlasmaMutationDetector,cran
+plasmidplot,dkturingfz
 plasmut,bioc
 plasso,mcknaus
 plater,ropensci
@@ -18816,6 +18826,7 @@ PSTR,yukai-yang
 PStrata,laubok
 psvd,doulaye
 psvmSDR,c16267
+psvr,pbenavidesh
 PSW,lenmade
 PSweight,thuizhou
 psy,cran
@@ -19913,6 +19924,7 @@ Rcssplot,tkonopka
 RCT,isidorogu
 RCT2,kosukeimai
 rct3,colinpmillar
+RCTCovAdj,yain22
 RCtest,joannajedrzejewska
 rCTOOL,francagiannini
 RCTRecruit,imalagaris
@@ -20251,6 +20263,7 @@ RegSDC,olangsrud
 regsem,rjacobucci
 regspec,benowell
 regsplice,bioc
+regstat,mtloots
 regsubseq,diystat
 regtomean,infinitomagico
 regtools,matloff
@@ -20758,6 +20771,7 @@ RiskScorescvd,dvicencio
 risksetROC,paramita-sc
 riskSimul,cran
 riskutility,matthias-da
+riskweightedassets,rds0001
 RiskyCNV,apalania-lab
 riskyr,hneth
 RISmed,skoval
@@ -21152,6 +21166,7 @@ robustsur,claudioagostinelli
 robustT2,sergiodanielfg
 robusttseq,njgonzalezs
 robustvarComp,claudioagostinelli
+RobustVis,bioinfo20251
 robustX,r-forge
 robvis,mcguinlu
 Robyn,facebookexperimental
@@ -21552,6 +21567,7 @@ rslp,dfalbel
 rslurm,earthlab
 rsm,rvlenth
 RSmallTelescopes,cran
+rsmart,msdllcpapers
 RSmartlyIO,banboo-data
 rsmatch,skent259
 rsmatrix,marberts
@@ -21839,6 +21855,7 @@ rwunderground,alshum
 RXKCD,onertipaday
 RxnSim,varungiri
 rxode2,nlmixr2
+rxode2lincmt,nlmixr2
 rxode2ll,nlmixr2
 rxode2mrgsolvebridge,cran
 rxref,ssmithm
@@ -22319,6 +22336,7 @@ scReClassify,bioc
 scRecover,bioc
 ScreenClean,karlmzhang
 screenCounter,bioc
+screenllm,s-spillias
 ScreeNOT,eladromanov
 ScreenR,bioc
 screenshot,matutosi
@@ -25472,7 +25490,6 @@ thinr,humanpred
 this.path,arcadeantics
 thisplot,mengxu98
 thisutils,mengxu98
-ThomasJeffersonUniv,tingtingzhan
 thor,richfitz
 thorn,stla
 THREC,cran
@@ -26083,6 +26100,7 @@ treestats,thijsjanzen
 treestructure,emvolz-phylodynamics
 TreeSummarizedExperiment,bioc
 TreeTools,ms609
+tReeTraits,cran
 TREG,bioc
 trekcolors,leonawicz
 trekfont,leonawicz
@@ -26594,6 +26612,7 @@ upstartr,globeandmail
 UPSvarApprox,rhobis
 uptasticsearch,jameslamb
 uptimeRobot,theclue
+uqsa,icpm-kth
 ura,bengoehring
 urbin,arne-henningsen
 urbstatdata,mariocools
@@ -27499,6 +27518,7 @@ x3ptools,heike
 xaci,xaviermilhaud
 xactonomial,sachsmc
 xadmix,lschoenm
+xaiHydro,sadikulislamiasri-hub
 XAItest,bioc
 xaringan,yihui
 xaringanExtra,gadenbuie
@@ -27744,6 +27764,7 @@ zoom,cbarbu
 zoomerjoin,beniaminogreen
 zoomgrid,yukai-yang
 zoomr,chrisumphlett
+ZooRisk,vinodhpmd
 zot,averrik
 zoteR,cran
 ZRA,cran
