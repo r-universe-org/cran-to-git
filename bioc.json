@@ -7155,6 +7155,12 @@
     "registry": "bioc"
   },
   {
+    "package": "LIPIDIFy",
+    "maintainer": "Fayrouz Hammal <fayrouz.hammal@petermac.org>",
+    "url": "https://github.com/fayrouzhammal/lipidify",
+    "registry": "bioc"
+  },
+  {
     "package": "lipidr",
     "maintainer": "Ahmed Mohamed <mohamed@kuicr.kyoto-u.ac.jp>",
     "url": "https://github.com/ahmohamed/lipidr",

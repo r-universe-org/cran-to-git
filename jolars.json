@@ -1,5 +1,10 @@
 [
   {
+    "package": "arity",
+    "maintainer": "Johan Larsson <johan@jolars.co>",
+    "url": "https://github.com/jolars/arity-r"
+  },
+  {
     "package": "CSwR",
     "maintainer": "Johan Larsson <johan@jolars.co>",
     "url": "https://github.com/jolars/cswr-package"
