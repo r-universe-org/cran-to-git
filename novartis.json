@@ -1,5 +1,10 @@
 [
   {
+    "package": "bslibdash",
+    "maintainer": "Alexandros Kouretsis <alexandros@appsilon.com>",
+    "url": "https://github.com/novartis/bslibdash"
+  },
+  {
     "package": "monitOS",
     "maintainer": "Thibaud Coroller <thibaud.coroller@novartis.com>",
     "url": "https://github.com/novartis/monitos"
