@@ -90,6 +90,11 @@
     "url": "https://github.com/eddelbuettel/littler"
   },
   {
+    "package": "myman",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/myman"
+  },
+  {
     "package": "nanotime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/nanotime"

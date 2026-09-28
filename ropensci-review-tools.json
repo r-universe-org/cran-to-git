@@ -10,6 +10,11 @@
     "url": "https://github.com/ropensci-review-tools/goodpractice"
   },
   {
+    "package": "pkgcheck",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck"
+  },
+  {
     "package": "pkgmatch",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/ropensci-review-tools/pkgmatch"
