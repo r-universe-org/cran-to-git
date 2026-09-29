@@ -1,7 +1,12 @@
 [
   {
     "package": "EpiILM",
-    "maintainer": "Waleed Almutiry <wkmtierie@qu.edu.sa>",
+    "maintainer": "Waleed Almutiry <w.mutiry@etec.gov.sa>",
     "url": "https://github.com/waleedalmutiry/epiilm"
+  },
+  {
+    "package": "EpiILMCT",
+    "maintainer": "Waleed Almutiry <w.mutiry@etec.gov.sa>",
+    "url": "https://github.com/waleedalmutiry/epiilmct"
   }
 ]
