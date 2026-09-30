@@ -73,6 +73,7 @@ AcceptReject,prdm0
 accessibility,ipea
 accessr,paulnorthrop
 accessrmd,r-leyshon
+accmv,mathcg
 accrual,cran
 accrualPlot,dcr-unibe-ch
 AccSamplingDesign,vietha
@@ -1162,6 +1163,7 @@ autoScorecard,aughunter
 Autoseed,jaredrecords
 autoshiny,alekrutkowski
 autoslider.core,pharmaverse
+autoslider.trade,shajoezhu
 autostats,harrison4192
 AutoStepwiseGLM,cran
 AutoStrataK,cran
@@ -1709,6 +1711,7 @@ BEDASSLE,gbradburd
 bedbaser,bioc
 BEDMatrix,quantgen
 bedr,theboutroslab
+bedrock,andrisignorell
 bedrockbio,bedrock-bio
 BeeBDC,jbdorey
 beeca,openpharma
@@ -3642,6 +3645,7 @@ cliProfiler,bioc
 CLIQUE,kelvynbladen
 cliqueMS,bioc
 CliquePercolation,langejens
+clis,raydonal
 clisymbols,r-lib
 clitable,kforner
 CLME,jelsema
@@ -4476,6 +4480,7 @@ Countr,geobosh
 countries,fbellelli
 countryatlas,pursuitofdatascience
 countrycode,vincentarelbundock
+countryscales,trekonom
 CountsEPPM,cran
 countsimQC,bioc
 countsplit,anna-neufeld
@@ -4698,6 +4703,7 @@ cropZoning,filgueirasr
 CrossCarry,cruzalirio
 CrossClustering,corradolanera
 crossdes,bbnkmp
+CrossDomainAdjust,cran
 CrossExpression,cran
 crossfit,etiennepeyrot
 crosshap,jacobimarsh
@@ -5307,6 +5313,7 @@ deaviz,pomelo64
 debar,cnuge
 DEBBI,bmgaldo
 debest,wpihongzhang
+debiasedInference,mathcg
 debiasedTrialEmulation,cran
 DebiasInfer,zhangyk8
 deBif,amderoos
@@ -6156,7 +6163,7 @@ drawProteins,bioc
 DRaWR,cblatti3
 drawsample,atalay-k
 DrBats,bfontez
-drc,cran
+drc,doseresponse
 drcarlate,cran
 DRclass,peterreichert
 drclust,cran
@@ -8022,6 +8029,7 @@ fipp,cran
 FiRE,princethewinner
 firebase,johncoene
 firebase.auth.rest,kennedymwavu
+fireData,kohze
 fireexposuR,ropensci
 fireproof,thomasp85
 firesafety,thomasp85
@@ -11966,6 +11974,7 @@ ivreg,zeileis
 ivreg2r,restatr
 ivs,davisvaughan
 ivtools,arvsjo
+ivue,pgajer
 ivx,kvasilopoulos
 ivygapSE,bioc
 IVYplot,tringuyen2023
@@ -12253,7 +12262,7 @@ kernelFactory,ballings
 Kernelheaping,mgross
 KernelICA,cran
 KernelKnn,mlampros
-kernelPhil,cran
+kernelPhil,aglacwif
 kernelshap,modeloriented
 kernhaz,cran
 kernlab,alexkz
@@ -13335,6 +13344,7 @@ lvmisc,verasls
 lvmPlot,trtfj
 lvnet,cran
 lvplot,hadley
+lwbgt,zyf0717
 lwc2022,c-monaghan
 LWFBrook90R,pschmidtwalter
 lwgeom,r-spatial
@@ -19139,6 +19149,7 @@ qpdf,ropensci
 qpgraph,bioc
 qPLEXanalyzer,bioc
 Qploidy,cristianetaniguti
+qpmR,mustapha-wasseja
 qpNCA,huismanj
 qpost,petzi53
 qPRAentry,mcendoya
@@ -19488,6 +19499,7 @@ RainfallErosivityFactor,dionecardoso
 rainfarmr,jhardenberg
 rairtable,matthewjrogers
 raiseR,jinsejacob
+raisr,strategicprojects
 RaJIVE,ericaponzi
 rakeR,philmikejones
 ralger,feddelegrand7
@@ -19736,6 +19748,7 @@ rbioacc,lbbe-software
 rbioapi,moosa-r
 rbiodatacr,manuelspinola
 RBioFormats,bioc
+rbiogeme,michelbierlaire
 rbiom,cmmr
 rBiopaxParser,bioc
 rbiouml,yevshin
@@ -21519,6 +21532,7 @@ rredlist,ropensci
 rrefine,vpnagraj
 rreg,ybkamaleri
 rregm,cran
+rReGSPTT,harsh-123-stats
 rrepast,antonio-pgarcia
 Rrepest,cran
 rres,bowenwang7
@@ -22261,6 +22275,7 @@ SCFA,bioc
 scFastDE,bioc
 scFeatureFilter,bioc
 scFeatures,bioc
+scFlex,mohamednhassan
 SCFMonitor,azuleneg
 scGate,carmonalab
 SCGLR,scnext
@@ -23097,7 +23112,7 @@ SIEVEseq,divo-lee
 sievetest,pmatousu
 SiFINeT,cran
 sig,richierocks
-SigBridgeRUtils,exceret
+SigBridgeRUtils,wanglabcsu
 SigCheck,bioc
 sigclust,cran
 sigFeature,bioc
@@ -24187,6 +24202,7 @@ SPRT,cran
 sprtt,meikesteinhilber
 sps,marberts
 spsComps,lz100
+spscsfa,kaisun84
 spselect,cran
 SPsimSeq,bioc
 SPSL,cran
@@ -24318,6 +24334,7 @@ SSNbler,pet221
 SSOSVM,andrewthomasjones
 SSP,edlinguerra
 ssPATHS,bioc
+ssPilot,joeldadiboe-rgb
 SSplots,eldho1983
 sspm,pedersen-fisheries-lab
 sspse,handcock
@@ -24753,6 +24770,7 @@ sumExtras,kylegrealis
 summarisebig,larry77
 summariser,condwanaland
 SummarizedExperiment,bioc
+summary2joint,ubcxzhang
 summarySCI,sakk-statistics
 summarytabl,anyamemensah
 summarytools,dcomtois
@@ -26080,6 +26098,7 @@ transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
 transfR,albandelavenne
+transfRgov,distintivelab
 transGFM,zjwangatsu
 TransHDM,gaohuer
 transite,bioc
@@ -26704,6 +26723,7 @@ usdata,openintrostat
 usdatasets,lightbluetitan
 usdm,babaknaimi
 usdoj,ropengov
+uSDT,ricardoreysaez
 USE,danddr
 usedist,kylebittinger
 usedthese,cgoo4
@@ -27441,6 +27461,7 @@ wired,pigian
 wISAM,rcorty
 wishartinference,hanqisunnyshi
 wishmom,raymond-kan
+WISP.data,oggioniale
 withdots,nikkrieger
 wither,torbjorn
 withr,r-lib

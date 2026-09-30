@@ -1,7 +1,7 @@
 [
   {
     "package": "alepe",
-    "maintainer": "Andre Leite <leite@castlab.org>",
+    "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/alepe"
   },
   {
@@ -93,6 +93,11 @@
     "package": "polyglotSQL",
     "maintainer": "Andre Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/polyglot-sql-r"
+  },
+  {
+    "package": "raisr",
+    "maintainer": "Andre Leite <leite@castlab.org>",
+    "url": "https://github.com/strategicprojects/raisr"
   },
   {
     "package": "RapidFuzz",
