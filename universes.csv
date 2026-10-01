@@ -112,6 +112,7 @@ acopula,cran
 acoRn,npechl
 acousticTS,brandynlucca
 acR,andersonheri
+ACRER,martakis
 acro,ai-sdc
 acroname,vpnagraj
 acsmoe,dshkol
@@ -245,6 +246,7 @@ adjustr,corymccartan
 adklakedata,jeremylfarrell
 adlift,cran
 ADLP,cran
+admetshiny,xavierclementegarcia
 admiral,pharmaverse
 admiraldev,pharmaverse
 admiralmetabolic,pharmaverse
@@ -601,7 +603,6 @@ AMISforInfectiousDiseases,drsimonspencer
 ammiBayes,cran
 AMModels,cran
 AmmoniaConcentration,tumenas
-aMNLFA,vtcole
 amorem,franciscorichter
 AmoudSurv,abdisalammuse
 AMOUNTAIN,bioc
@@ -2710,6 +2711,7 @@ CAESAR.Suite,xiaozhangryy
 CAFE,bioc
 caffsim,asancpt
 CAFT,mli171
+cagedr,strategicprojects
 CAGEfightR,bioc
 cageminer,bioc
 CAGEr,bioc
@@ -3537,6 +3539,7 @@ clarabel,oxfordcontrol
 clarify,iqss
 clarkeTest,cran
 class,cran
+classbound,natydasilva
 ClassComparison,r-forge
 ClassDiscovery,r-forge
 classGraph,mmaechler
@@ -3817,6 +3820,7 @@ CNAnorm,bioc
 cnaOpt,mathiasambuehl
 cnbdistr,xiaotianzhu
 cncaGUI,ananieto
+cncleanr,jorungandr
 cnd,jmbarbone
 cnefetools,pedreirajr
 CNEr,bioc
@@ -6315,7 +6319,7 @@ dtmapi,displacement-tracking-matrix
 DTMCPack,wbnicholson
 dtms,christiandudel
 dtp,zedtaha
-dtpcrm,christinayap
+dtpcrm,icr-epat
 dtplyr,tidyverse
 dtrackr,terminological
 dtreg,tibhannover
@@ -6584,6 +6588,7 @@ EcoDiet,pyhernvann
 ecodist,phiala
 ecodive,cmmr
 EcoEnsemble,cefasrepres
+ecoGLMM,andre-fcsantos
 Ecohydmod,rodolfomssouza
 ECoL,lpfgarcia
 ecolitk,bioc
@@ -7225,6 +7230,7 @@ estadistica,cran
 estar,ludmillafigueiredo
 estatapi,yutannihilation
 estats,cran
+estbanr,strategicprojects
 EstCRM,czopluoglu
 EstemPMM,szabolotnii
 EstHTSeed,hardikghosh911
@@ -7639,6 +7645,7 @@ far,looping027
 faraway,julianfaraway
 FARDEEP,yuyingxie
 farff,mlr-org
+FARM,amishorn
 farmPartial,cran
 farr,iangow
 farrell,feddelegrand7
@@ -7733,6 +7740,7 @@ fastRG,rohelab
 fastRhockey,sportsdataverse
 fastrmodels,nflverse
 FastRWeb,s-u
+fastsae,ridsonap
 fastseg,bioc
 FastSegmentation,blytheking
 FastStepGraph,juancolonna
@@ -8908,7 +8916,6 @@ gdxtools,lolow
 GE,cran
 gear,jfrench
 geboes.score,billdenney
-GEC,liuaber
 GECal,yonghyun-k
 gecko,vascobranco
 GeDi,bioc
@@ -9096,6 +9103,7 @@ genTS,tucai
 GenTwoArmsTrialSize,cran
 GenVisR,bioc
 GenWin,timbeissinger
+geoaddSAE2,amlyhrzky
 GeoAdjust,cran
 geoAr,politicaargentina
 geoarrow,geoarrow
@@ -10418,6 +10426,7 @@ handwriterApp,csafe-isu
 handwriterRF,csafe-isu
 handyplots,schwartstack
 hann,emmanuelparadis
+HanNLP,shapelayer
 hans,cran
 HanStat,konradkrahl
 hanyupinyin,cuihr17
@@ -10821,6 +10830,7 @@ hnp,cran
 HNPclassifier,wobushics
 hoardr,ropensci
 HOasso,albertoarcagni
+hobbs,hobbs-dev
 hoboR,leboldus-lab
 hockeystick,cortinah
 HodgesTools,tyler-hansen
@@ -12599,6 +12609,7 @@ LATERmodel,unimelbmdap
 latex2exp,stefano-meschiari
 latexdiffr,hughjonesd
 latexpdf,bergsmat
+latexr,rodrigoesborges
 latexSymb,nicoesve
 latrend,niekdt
 LatSquare,heholzner-png
@@ -12886,6 +12897,7 @@ limorhyde,hugheylab
 limorhyde2,hugheylab
 limpa,bioc
 limpca,bioc
+limpidR,cran
 LimROTS,bioc
 limSolve,karlines
 lin.eval,vishesh-shrivastav
@@ -13730,7 +13742,7 @@ MaxentVariableSelection,alj1983
 maximin,sunf16
 MaximinInfer,anonymous-researcher-123243
 MaxIntTools,cran
-maxLik,otoomet
+maxLik,arne-henningsen
 maxlike,roelandkindt
 maxmatching,baolidakai
 MaxMC,julienneves
@@ -14432,6 +14444,7 @@ mimdo,gjlabita
 mime,yihui
 MIMER,agerada
 mimiSBM,kdesantiago
+MIML,neelesh2302-creator
 MIMSunit,mhealth-research-group
 mimsy,michelleckelly
 min2HalfFFD,bijoy231997
@@ -14639,6 +14652,7 @@ MixTwice,zzheng68
 mixvlmc,fabrice-rossi
 mize,jlmelville
 mizer,sizespectrum
+mizu,shikokuchuo
 MJMbamlss,alexvolkmann
 mKBO,rensenieuwenhuis
 MKclass,stamats
@@ -15459,6 +15473,7 @@ multipleNCC,cran
 multipleOutcomes,zhangh12
 MultipleRegression,cran
 multiplestressR,benjburgess
+multipletR,bioc
 multiplex,mplex
 MultiplierDEA,cran
 multipointR,bioc
@@ -15614,7 +15629,8 @@ mvp,robinhankin
 MVPBT,nomahi
 mvpd,swihart
 mvPot,r-fndv
-mvProbit,arne-henningsen
+mvPred,matloff
+mvProbit,r-forge
 mvQuad,weiserc
 MVQuickGraphs,douglaswhitaker
 MVR,jedazard
@@ -17259,6 +17275,7 @@ paramtest,jeff-hughes
 paran,alexisdinno
 parasiteR,dvelop-r
 parati,bioc
+ParBayesianOptimization,novica
 parcats,erblast
 ParCC,drpakhare
 parcr,systemsbioinformatics
@@ -17546,6 +17563,7 @@ pedbp,dewittpe
 pedbuildr,magnusdv
 pedFamilias,magnusdv
 pedgene,sinnweja
+pediatric.zcalc,bips-hb
 pedigree,albartcoster
 pedigreemm,anainesvs
 pedigreeTools,rpedigree
@@ -18565,6 +18583,7 @@ pressfreedom,petzi53
 pressfreedom.data,petzi53
 PressPurt,rtxci
 pressuRe,telfer
+presto,slowkow
 pretest,cran
 pretestcad,jauntyjjs
 prettyB,jumpingrivers
@@ -19425,6 +19444,7 @@ r4subprofile,r4sub
 r4subrisk,r4sub
 r4subscore,r4sub
 r4subtrace,r4sub
+R4VN,tructhanhthai
 r5r,rafapereirabr
 r5rgui,e-kotov
 R6,r-lib
@@ -22505,6 +22525,7 @@ sealasso,cran
 sealeveltools,cran
 searchAnalyzeR,chaoliu-cl
 searcher,coatless-rpkg
+searchlight,blackthrive
 SearchTrees,gmbecker
 SEARS,cran
 seas,mwtoews
@@ -22650,7 +22671,7 @@ semptools,sfcheung
 semrulesid,zacharyvig
 SEMsens,leitewl
 SEMsensitivity,cran
-semsfa,cran
+semsfa,giancarloferrara-dev
 semTests,jonasmoss
 semTools,simsem
 semtree,brandmaier
@@ -22679,6 +22700,7 @@ SensMap,ibtihelrebhi
 sensmediation,anitalindmark
 sensobol,arnaldpuy
 SensoMineR,husson
+sensorLeak,division55
 sensortowerR,econosopher
 sensory,cran
 SensoryDataSets,dianarebaza
@@ -24123,7 +24145,7 @@ SplitGLM,anthonychristidis
 splitGraph,selcukorkmaz
 splithalf,sdparsons
 splithalfr,tpronk
-SplitKnockoff,wanghaoxue0
+SplitKnockoff,llmquantx
 splitr,akanimohod19a
 SplitReg,anthonychristidis
 splitSelect,anthonychristidis
@@ -24317,7 +24339,7 @@ ssize,bioc
 ssize.fdr,cran
 ssizeRNA,ranbi1990
 SSLASSO,gemoran
-SSLfmm,cran
+SSLfmm,wujrtudou
 SSM,peterrobertcurtis
 ssmn,lbenitesanchez
 ssmodels,fsbmat-ufv
@@ -24982,6 +25004,7 @@ svmodt,aneeshagarwala
 svmpath,trevorhastie
 SVN,damienchallet
 SVP,bioc
+svpChange,vrunge
 svplots,cran
 svrep,bschneidr
 svrpath,09dohkim
@@ -25469,6 +25492,7 @@ text2emotion,hateprograming
 text2map,dustinstoltz
 text2sdg,dwulff
 text2sdgData,psychobas
+text2speech,jhudsl
 text2vec,dselivanov
 textab,setzler
 TextAnalysisR,mshin77
@@ -27716,6 +27740,7 @@ xtdhcoint,muhammedalkhalaf
 xtdml,cran
 xtfifevd,muhammedalkhalaf
 xtife,rickchen0910
+xtifedml,cran
 xtpqardl,muhammedalkhalaf
 xtranat,fdepaolis
 xtrec,muhammedalkhalaf

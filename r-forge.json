@@ -390,6 +390,12 @@
     "subdir": "pkg/mutossGUI"
   },
   {
+    "package": "mvProbit",
+    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
+    "url": "https://github.com/r-forge/sampleselection",
+    "subdir": "pkg/mvProbit"
+  },
+  {
     "package": "nor1mix",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/curves-etc",

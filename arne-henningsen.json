@@ -1,5 +1,10 @@
 [
   {
+    "package": "maxLik",
+    "maintainer": "Ott Toomet <otoomet@gmail.com>",
+    "url": "https://github.com/arne-henningsen/maxlik"
+  },
+  {
     "package": "micEcon",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/cran/micEcon"
@@ -23,11 +28,6 @@
     "package": "miscTools",
     "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
     "url": "https://github.com/arne-henningsen/misctools"
-  },
-  {
-    "package": "mvProbit",
-    "maintainer": "Arne Henningsen <arne.henningsen@gmail.com>",
-    "url": "https://github.com/cran/mvProbit"
   },
   {
     "package": "urbin",
