@@ -360,12 +360,6 @@
     "subdir": "pkg/minqa"
   },
   {
-    "package": "mlt.docreg",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/mlt.docreg"
-  },
-  {
     "package": "mpm",
     "maintainer": "Laure Cougnaud <laure.cougnaud@openanalytics.eu>",
     "url": "https://github.com/r-forge/mpm",

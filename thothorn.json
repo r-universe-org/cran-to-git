@@ -62,6 +62,12 @@
     "subdir": "pkg/mlt"
   },
   {
+    "package": "mlt.docreg",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/tram",
+    "subdir": "pkg/mlt.docreg"
+  },
+  {
     "package": "modeltools",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://codeberg.org/thothorn/modeltools"
