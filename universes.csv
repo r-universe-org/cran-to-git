@@ -4794,6 +4794,7 @@ CSOA,bioc
 csodata,csoireland
 cspp,caleblucas
 csppData,caleblucas
+CspStandSegmentation,julfrey
 csquares,pepijn-devries
 csranks,danielwilhelm
 CSSQ,bioc
@@ -5196,7 +5197,6 @@ dauR,cran
 Davies,robinhankin
 daVis,bioc
 dawai,cran
-dawaR,aleksanderbl29
 dawnn,george-hall-ucl
 daymetr,bluegreen-labs
 days2lessons,vladbazon
@@ -6696,6 +6696,7 @@ educabR,sidneybissoli
 educationdata,urbaninstitute
 educationR,lightbluetitan
 educineq,jordavuc
+eduResearchR,jlmarmanillo-jlms
 edwards97,paleolimbot
 EE.Data,paulhibbing
 EEAaq,paolomaranzano
@@ -7626,6 +7627,7 @@ Familias,thoree
 Families,willekens
 famish,probaverse
 FAmle,tpetzoldt
+famnesia,magnusdv
 FAMoS,gabelhub
 famSKATRC,kkunji
 fanc,keihirose
@@ -12884,6 +12886,7 @@ likelihoodTools,ajpelu
 likert,jbryer
 LikertEZ,cran
 LikertMakeR,winzarh
+likingInitiative,liking-initiative
 lilikoi,granatumx
 lillies,cran
 LilRhino,travis-barton
@@ -15341,6 +15344,7 @@ MuChPoint,lionning
 muckrock,ironholds
 MuData,bioc
 mudfold,spybal
+mudnester,nrsmoll
 mueRelativeRisk,rickeycarter
 MuFiMeshGP,cran
 MUGS,celehs
@@ -17412,6 +17416,7 @@ PBD,rsetienne
 pbdMPI,snoweye
 pbdSLAP,snoweye
 pbdZMQ,snoweye
+PBGoF,cran
 PBIBD,sharmakush
 PBImisc,pbiecek
 pbiparams,cbaragao
@@ -17528,6 +17533,7 @@ pdp,bgreenwell
 pdqr,echasnovski
 PDQutils,shabbychef
 pdR,cran
+PDRobust,whhuan
 PDSCE,adamjrothman
 PDShiny,kartikeyabolar
 pdSpecEst,jorischau
@@ -18957,6 +18963,7 @@ PTXQC,cbielow
 ptycho,cran
 pubchem.bio,cran
 PubChemR,selcukorkmaz
+pubformat,reynolds826
 pubh,josie-athens
 public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
@@ -21011,6 +21018,7 @@ rmdformats,juba
 rmdHelpers,petersmp
 rmdpartials,rubenarslan
 rmdplugr,jolars
+rMDSPTT,harsh-123-stats
 rmdwc,sigbertklinke
 rMEA,kleinbub
 RmecabKo,junhewk
@@ -21847,6 +21855,7 @@ ruler,echasnovski
 rules,tidymodels
 RulesTools,nikolett0203
 rUM,raymondbalise
+rumenGP,araujorodrig-lab
 rumidas,vincenzocandila
 ruminate,john-harrold
 runcharter,johnmackintosh
@@ -22997,6 +23006,7 @@ shinyglide,juba
 shinyGovstyle,dfe-analytical-services
 shinyHeatmaply,yonicd
 shinyhelper,cwthom
+shinyHierarchy,devmazter92
 shinyHugePlot,jtagusari
 shinyInvoice,fernandoroa
 shinyIRT,huseyinyildiz35
@@ -25384,6 +25394,7 @@ temperatureresponse,low-decarie
 templateICAr,mandymejia
 templates,wahani
 templr,mascotnum
+TEMPO,rprojectromania
 tempodisco,kinleyid
 Temporal,zrmacc
 TemporalForest,sisishao
@@ -25813,6 +25824,7 @@ timeROC,paulowhite
 timescape,bioc
 timeSeries,cran
 timeSeriesDataSets,lightbluetitan
+timesift,gcol33
 timetk,business-science
 timetools,vald
 TimeTraits,scllock
@@ -26596,6 +26608,7 @@ ukhousing,charlescoverdale
 ukhsadatR,silverfoxdoc
 ukpolice,evanodell
 Ularcirc,bioc
+UlavalSSD,aureliennicosiaulaval
 ulex,dime-worldbank
 ulid,eddelbuettel
 ulrb,pascoalf
@@ -27761,6 +27774,7 @@ yaConsensus,stefanomp
 yager,statcompute
 yahoofinancer,rsquaredacademy
 yaImpute,jeffreyevans
+yaleBraille,wininger
 YaleToolkit,jayemerson
 yaml,r-lib
 yaml12,posit-dev
@@ -27891,6 +27905,7 @@ ztils,zachpeagler
 ztpln,mattocci27
 zTree,kirchkamp
 ztype,vincentguyader
+zujson,pedrobtz
 ZVCV,leahprice
 ZygosityPredictor,bioc
 zyp,corviday
