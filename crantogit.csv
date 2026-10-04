@@ -1308,7 +1308,6 @@ biocthis,https://github.com/lcolladotor/biocthis,,bioc
 biocViews,https://github.com/bioconductor/biocviews,,bioc
 biodb,https://gitlab.com/rbiodb/biodb,,bioc
 Biodem,https://github.com/fedster/biodem,,
-biodosetools,https://github.com/biodosetools-team/biodosetools,,archived
 BioGA,https://github.com/danymukesha/bioga,,bioc
 biogas,https://github.com/sashahafner/biogas,,
 biogram,https://github.com/michbur/biogram,,
@@ -1394,6 +1393,7 @@ biwavelet,https://github.com/tgouhier/biwavelet,,
 biwt,https://github.com/hardin47/biwt,,
 bizdays,https://github.com/wilsonfreitas/r-bizdays,,
 bizicount,https://github.com/jmniehaus/bizicount,,
+BJM,https://github.com/wenhaoli18/bjm,,
 BKBreed,https://github.com/bkpraveenars-del/bkbreed,,
 bkmr,https://github.com/jenfb/bkmr,,
 bkmrhat,https://github.com/alexpkeil1/bkmrhat,,
@@ -3109,6 +3109,7 @@ CSwR,https://github.com/jolars/cswr-package,,
 ct,https://github.com/stangandaho/ct,,
 ctbi,https://github.com/fritte2/ctbi,,
 CTdata,https://github.com/uclouvain-cbio/ctdata,,bioc
+ctdR,https://github.com/drake69/ctdr,,bioc
 CTexploreR,https://github.com/uclouvain-cbio/ctexplorer,,bioc
 ctgimme,https://github.com/jpark93/ctgimme,,
 cthist,https://github.com/bgcarlisle/cthist,,
@@ -3250,6 +3251,7 @@ daiquiri,https://github.com/ropensci/daiquiri,,
 daiR,https://github.com/hegghammer/dair,,
 DAISIE,https://github.com/rsetienne/daisie,,
 DAISIEprep,https://github.com/joshwlambert/daisieprep,,
+daisytools,https://github.com/daisy-model/daisy-r-tools,,
 DALEX,https://github.com/modeloriented/dalex,,
 DALEXtra,https://github.com/modeloriented/dalextra,,
 DALSM,https://github.com/plambertuliege/dalsm,,
@@ -6629,6 +6631,7 @@ grattanInflators,https://github.com/hughparsonage/grattaninflators,,
 gravitas,https://github.com/sayani07/gravitas,,
 gravity,https://github.com/pachadotdev/gravity,,
 grayleafspotdata,https://github.com/rotsl/grayleafspotdata,,
+grayleafspotr,https://github.com/rotsl/grayleafspotr,,bioc
 gRbase,https://github.com/hojsgaard/grbase,,
 gRc,https://github.com/hojsgaard/grc,,
 greatR,https://github.com/ruthkr/greatr,,
@@ -10902,7 +10905,7 @@ openrouteservice,https://github.com/giscience/openrouteservice-r,,
 openscoring,https://github.com/jakub-jedrusiak/openscoring,,
 opensimplex2,https://github.com/pepijn-devries/opensimplex2,,
 openSkies,https://github.com/rafael-ayala/openskies,,
-OpenSpecy,https://github.com/wincowgerdev/openspecy-package,,
+OpenSpecy,https://github.com/wincowgerdev/openspecy-package,,archived
 openssl,https://github.com/jeroen/openssl,,
 OpenStreetMap,https://github.com/ifellows/rosm,OpenStreetMap,
 opentripplanner,https://github.com/ropensci/opentripplanner,,
@@ -12363,6 +12366,7 @@ pumBayes,https://github.com/skylarshihub/pumbayes,,
 pumilioR,https://github.com/ljvillanueva/pumilior,pumilioR,
 PUMP,https://github.com/mdrcny/pump,,
 puniform,https://github.com/robbievanaert/puniform,,
+punKEGGer,https://github.com/guillermodeandajauregui/punkegger,,bioc
 punycoder,https://gitlab.com/bart-turczynski/punycoder,,
 PupillometryR,https://github.com/samhforbes/pupillometryr,,
 PureCN,https://github.com/lima1/purecn,,bioc
@@ -13862,6 +13866,7 @@ RNAmodR.ML,https://github.com/felixernst/rnamodr.ml,,bioc
 RNAmodR.RiboMethSeq,https://github.com/felixernst/rnamodr.ribomethseq,,bioc
 Rnanoflann,https://github.com/manospapadakis95/rnanoflann,,
 RNAsense,https://github.com/marcusrosenblatt/rnasense,,bioc
+rnaSentry,https://github.com/ghrieb/rnasentry,,bioc
 rnaseqcomp,https://github.com/tengmx/rnaseqcomp,,bioc
 RNAseqCovarImpute,https://github.com/brennanhilton/rnaseqcovarimpute,,bioc
 RNAseqQC,https://github.com/frederikziebell/rnaseqqc,,
@@ -14059,7 +14064,7 @@ rotio,https://github.com/cornball-ai/rotio,,
 rotl,https://github.com/ropensci/rotl,,
 rotor,https://github.com/s-fleck/rotor,,
 rotulador,https://github.com/tractortom/rotulador,,
-RougeLM,https://github.com/betaandbit/rougelm,,
+RougeLM,https://github.com/betaandbit/roguelm,,
 roughnet,https://github.com/schochastics/roughnet,,
 RoughSets,https://github.com/janusza/roughsets,,
 roughsf,https://github.com/schochastics/roughsf,,
@@ -15714,6 +15719,7 @@ spada,https://github.com/lgschuck/spada,,
 spAddins,https://github.com/gegznav/spaddins,,
 SpaDES.core,https://github.com/predictiveecology/spades.core,,
 SpaDES.tools,https://github.com/predictiveecology/spades.tools,,
+spammR,https://github.com/pnnl-compbio/spammr,,bioc
 spanish,https://github.com/ropenspain/spanish,,
 spanishoddata,https://github.com/ropenspain/spanishoddata,,
 spanner,https://github.com/bi0m3trics/spanner,,

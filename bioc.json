@@ -818,7 +818,7 @@
   },
   {
     "package": "bambu",
-    "maintainer": "Ying Chen <chen_ying@gis.a-star.edu.sg>",
+    "maintainer": "Ying Chen <chen_ying@a-star.edu.sg>",
     "url": "https://github.com/goekelab/bambu",
     "registry": "bioc"
   },
@@ -3009,6 +3009,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ctdR",
+    "maintainer": "Luigi Corsaro <lcorsaro69@gmail.com>",
+    "url": "https://github.com/drake69/ctdr",
+    "registry": "bioc"
+  },
+  {
     "package": "CTexploreR",
     "maintainer": "Axelle Loriot <axelle.loriot@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/ctexplorer",
@@ -3474,6 +3480,12 @@
     "package": "densvis",
     "maintainer": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
     "url": "https://github.com/alanocallaghan/densvis",
+    "registry": "bioc"
+  },
+  {
+    "package": "DEP",
+    "maintainer": "Jelmer Dijkstra <protechrobioMV@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/DEP",
     "registry": "bioc"
   },
   {
@@ -5790,6 +5802,12 @@
     "package": "graphite",
     "maintainer": "Gabriele Sales <gabriele.sales@unipd.it>",
     "url": "https://github.com/sales-lab/graphite",
+    "registry": "bioc"
+  },
+  {
+    "package": "grayleafspotr",
+    "maintainer": "Rohan R <phonics-tiffs1i@icloud.com>",
+    "url": "https://github.com/rotsl/grayleafspotr",
     "registry": "bioc"
   },
   {
@@ -10396,6 +10414,12 @@
     "registry": "bioc"
   },
   {
+    "package": "punKEGGer",
+    "maintainer": "Guillermo de Anda Jáuregui <gdeanda@inmegen.edu.mx>",
+    "url": "https://github.com/guillermodeandajauregui/punkegger",
+    "registry": "bioc"
+  },
+  {
     "package": "PureCN",
     "maintainer": "Markus Riester <markus.riester@gmail.com>",
     "url": "https://github.com/lima1/purecn",
@@ -11356,6 +11380,12 @@
     "registry": "bioc"
   },
   {
+    "package": "rnaSentry",
+    "maintainer": "Abdelkarim Hani Ghrieb <ghriebabdelkarimhani@gmail.com>",
+    "url": "https://github.com/ghrieb/rnasentry",
+    "registry": "bioc"
+  },
+  {
     "package": "rnaseqcomp",
     "maintainer": "Mingxiang Teng <tengmx@gmail.com>",
     "url": "https://github.com/tengmx/rnaseqcomp",
@@ -12113,7 +12143,7 @@
   },
   {
     "package": "scp",
-    "maintainer": "Christophe Vanderaa <vanderaa.christophe@gmail.com>",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/scp",
     "registry": "bioc"
   },
@@ -12865,6 +12895,12 @@
     "package": "spacexr",
     "maintainer": "Gabriel Grajeda <gabriel.grajeda@gmail.com>",
     "url": "https://github.com/ggrajeda/spacexr",
+    "registry": "bioc"
+  },
+  {
+    "package": "spammR",
+    "maintainer": "Sara Gosline <sara.gosline@pnnl.gov>",
+    "url": "https://github.com/pnnl-compbio/spammr",
     "registry": "bioc"
   },
   {
