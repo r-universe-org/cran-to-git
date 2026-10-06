@@ -393,6 +393,7 @@ agriwater,cesarofs
 agrmt,r-forge
 agrobox,joa3aquin50
 agroclimatico,ropensci
+AgroMetIndices,cran
 AgroR,gabrielshimizu
 AgroReg,gabrielshimizu
 agrostab,cheshanf
@@ -1552,6 +1553,7 @@ bayesqm,rdazadda
 bayesQR,ugent-cvamo
 BayesQRCount,shikhartyagi
 bayesQRsurvey,torodriguezt
+BayesRE,cran
 bayesRecon,idsia
 bayesreg,cran
 BayesRegDTR,jlimrasc
@@ -2904,6 +2906,7 @@ catalytic,cran
 cataScience,shanlong-who
 CatastRo,ropenspain
 catch,yuqingxx
+catchmentACS,joonho112
 catcont,decisionpatterns
 catdap,cran
 catdata,schaubert
@@ -2955,6 +2958,7 @@ causalgenerics,r-causal
 CausalGPS,nsaph-software
 causalHyperGraph,mathiasambuehl
 CausalImpact,google
+causaljudgment,tadegquillien
 CausalLoopAnalytics,vinodhpmd
 CausalMBSTS,fmenchetti
 CausalMetaR,ly129
@@ -3627,7 +3631,7 @@ clinicalfair,cuiweig
 clinicalomicsdbR,bzhanglab
 clinicalsignificance,benediktschfr
 ClinicalTrialSummary,pakdaewo
-ClinicalUtilityRecal,anumishra
+ClinicalUtilityRecal,cran
 clinify,atorus-research
 clinmon,lilleoel
 clinPK,insightrx
@@ -4368,6 +4372,7 @@ COR,guangbaog
 cora,cleanzr
 Coralysis,bioc
 coRanking,gdkrmr
+CORAtool,youngchanresearcher
 corazon,feddelegrand7
 corbouli,cadam00
 corclass,boutyline
@@ -5150,6 +5155,7 @@ dataRetrieval,doi-usgs
 datarium,kassambara
 datarobot,cran
 datasauRus,jumpingrivers
+datascan,emitanaka
 dataSDA,hanmingwu1103
 dataseries,cynkra
 dataset,ropensci
@@ -5435,6 +5441,7 @@ delimtools,legallab
 delma,atlasoflivingaustralia
 DELocal,bioc
 Delta,cran
+delta.sharing,zacdav-db
 deltabreedquery,breeding-insight
 deltaCaptureC,bioc
 deltaccd,hugheylab
@@ -11473,6 +11480,7 @@ inaparc,cran
 inatpick,andresarb
 inbreedR,mastoffel
 inca,drwolf85
+IncAAM,cran
 incase,rossellhayes
 IncDTW,maxar
 incgraph,rcannood
@@ -14414,7 +14422,7 @@ midas,shapenaji
 midas2,sullivan0147
 midasHLA,bioc
 MIDASim,mengyu-he
-midasINLA,cran
+midasINLA,stephen-villejo
 midasml,jstriaukas
 midasr,mpiktas
 midastouch,philippgaffert
@@ -19267,6 +19275,7 @@ quadprog,berwinturlach
 quadprogXT,rharlow86
 quadraticSD,cran
 QuadratiK,ropensci
+quadriceps,nittanylion
 QuadRoot,cran
 quadrupen,jchiquet
 quadVAR,sciurus365
@@ -19661,6 +19670,9 @@ rapsimng,byzheng
 rapsimng.canola,byzheng
 rapsimng.chickpea,byzheng
 rapsimng.decide.core,byzheng
+rapsimng.decide.cultivar,byzheng
+rapsimng.decide.nitrogen,byzheng
+rapsimng.decide.sowing,byzheng
 rapsimng.fababean,byzheng
 rapsimng.lentil,byzheng
 rapsimng.lupin,byzheng
@@ -20722,6 +20734,7 @@ rgrass,osgeo
 rGREAT,bioc
 RGreenplum,mwillumz
 RGremlinsConjoint,statuser
+rgrind,devwebwacky
 rGroovy,thospfuller
 rgrpc,cornball-ai
 rGrSPTT,harsh-123-stats
@@ -21628,6 +21641,7 @@ rScudo,bioc
 RSD,shayantohidi
 RSDA,cran
 RSDC,ardiad
+rsDCM,cran
 rsdepth,amessbee
 rSDI,ehengirmen
 RSDK,elkhmissi
@@ -21824,6 +21838,7 @@ RTopper,bioc
 rTPC,padpadpadpad
 Rtpca,bioc
 rtpcr,mirzaghaderi
+rtprep,gidonfrischkorn
 Rtrack,rupertoverall
 rtracklayer,bioc
 RTransferEntropy,bzpaper
@@ -24166,6 +24181,7 @@ splitGraph,selcukorkmaz
 splithalf,sdparsons
 splithalfr,tpronk
 SplitKnockoff,llmquantx
+splitpopsurv,nobifukuda
 splitr,akanimohod19a
 SplitReg,anthonychristidis
 splitSelect,anthonychristidis
@@ -25605,6 +25621,7 @@ ThermIndex,chicozo1989
 thermocouple,cran
 TheseusPlot,hoxo-m
 TheSFACE,amitsasson
+ThesiStats,jventural
 thestats,analyticsresearchlab
 THETASVM,cran
 thgenetics,cran
@@ -27659,6 +27676,7 @@ XAItest,bioc
 xaringan,yihui
 xaringanExtra,gadenbuie
 xaringanthemer,gadenbuie
+xbioclim,alrobles
 xCell2,bioc
 Xcertainty,mmi-codex
 xcms,bioc
@@ -27778,6 +27796,7 @@ xwf,willemvandenboom
 xxdi,nilabhrardas
 xxhashlite,coolbutuseless
 XYomics,eglaab
+xyt,australianantarcticdivision
 yaap,cran
 yacca,cran
 yaConsensus,stefanomp
