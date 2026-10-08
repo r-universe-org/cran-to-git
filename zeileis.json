@@ -10,6 +10,11 @@
     "url": "https://codeberg.org/zeileis/betareg"
   },
   {
+    "package": "colorspace",
+    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
+    "url": "https://codeberg.org/zeileis/colorspace"
+  },
+  {
     "package": "crch",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
     "url": "https://codeberg.org/zeileis/crch"
@@ -37,7 +42,7 @@
   {
     "package": "exams",
     "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/cran/exams"
+    "url": "https://codeberg.org/zeileis/exams"
   },
   {
     "package": "exams2forms",

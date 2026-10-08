@@ -78,12 +78,6 @@
     "subdir": "pkg/cobs"
   },
   {
-    "package": "colorspace",
-    "maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
-    "url": "https://github.com/r-forge/colorspace",
-    "subdir": "pkg/colorspace"
-  },
-  {
     "package": "CommonJavaJars",
     "maintainer": "Kornelius Rohmeyer <rohmeyer@small-projects.de>",
     "url": "https://github.com/r-forge/gsrmtp",
