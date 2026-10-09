@@ -875,6 +875,7 @@ arcpy,mkoohafkan
 arcstat,mtloots
 ArctosR,hrhwilliams
 aRD,uds-mf-imbei
+ardea,npcooley
 ArDec,susanabarbosa
 ARDECO,attarco
 ARDL,natsiopoulos
@@ -2410,6 +2411,7 @@ box,klmr
 box.linters,appsilon
 box.lsp,appsilon
 boxcoxmix,iagogv3
+BoxDensityPlot,cran
 boxfilter,thomaspruf
 boxly,merck
 boxplotcluster,gianmarcoalberti
@@ -2805,6 +2807,7 @@ capesData,leobiazoli
 capesR,milkway
 capitalR,cran
 capl,barnzilla
+caples,robinmahachi
 caplot,gianmarcoalberti
 capn,cran
 CaPO4Sim,divadnojnarg
@@ -6221,7 +6224,7 @@ drisdiagnostics,cran
 DrivePlotR,hardtme
 driveR,egeulgen
 DriverNet,bioc
-DRLAP2,obulezi12345-svg
+DRLAP2,obulezi-oj
 drlate,kvenkita
 drMAIC,heorlytics
 drmeta,subirhait
@@ -6230,7 +6233,7 @@ drogonR,zabis13
 droll,cran
 DRomics,lbbe-software
 drone,thiyangtdata
-DropCens,obulezi12345-svg
+DropCens,obulezi-oj
 DropletUtils,bioc
 dropout,hendr1km
 dropR,iscience-kn
@@ -8714,7 +8717,7 @@ FuzzySpec,ghashti-j
 FuzzyStatTra,asunlubiano
 fuzzystring,paulesantos
 FuzzySTs,cran
-fuzzyurn,obulezi12345-svg
+fuzzyurn,obulezi-oj
 fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
 fwb,ngreifer
@@ -9620,7 +9623,7 @@ ggx,brandmaier
 gh,r-lib
 ghapps,r-lib
 Ghat,medhat86
-ghcclm,obulezi12345-svg
+ghcclm,obulezi-oj
 ghclass,rundel
 ghcm,arlundborg
 GHCNr,emilio-berti
@@ -10346,6 +10349,7 @@ GTRT,cran
 gtstats,thinkdenominator
 gtsummary,ddsjoberg
 gtWAS,junhuili1017
+gtxlsx,janmarvin
 guaguas,rivaquiroga
 guardianapi,evanodell
 GUD,rh8liuqy
@@ -12461,6 +12465,7 @@ koRpus,undocumeantit
 koRpus.lang.en,undocumeantit
 kosel,cran
 kosis,seokhoonj
+KOTORY,ebrahimkhaled
 Kpart,egolinko
 KPC,zh2395
 kpcaIG,cran
@@ -12594,6 +12599,7 @@ laminr,laminlabs
 lamle,cran
 lamW,aadler
 lancor,bernhardklar
+land4health,harmonize-tools
 LandComp,ladylavender
 landest,laylaparast
 landform,gianmarcoalberti
@@ -14175,6 +14181,7 @@ metainc,cran
 metainsight,ajsajs22
 MetaIntegration,umich-biostatistics
 metajam,nceas
+metalabr,langcog
 MetaLandSim,fmestre1
 metalcor,ochoalab
 metaLik,crisvarin
@@ -17192,6 +17199,7 @@ PAIRADISE,bioc
 paircompviz,bioc
 PairedData,cran
 pairedGSEA,bioc
+PairedRand,cran
 pairkat,bioc
 pairscale,ftwkoopmans
 pairsD3,garthtarr
@@ -17534,7 +17542,7 @@ PCRA,robustport
 PCRedux,pcruniversum
 pcreg,cran
 PCS,jasonwilson2024
-pcsclr,obulezi12345-svg
+pcsclr,obulezi-oj
 pcse,deliabailey
 PCSinR,felixhenninger
 pcsstools,jackmwolf
@@ -17967,7 +17975,7 @@ pingers,jessevent
 pingr,r-lib
 PINMA,nomahi
 pinnacle.data,marcoblume
-PINNProgCens,obulezi12345-svg
+PINNProgCens,obulezi-oj
 pinochet,danilofreire
 pinp,eddelbuettel
 PinPath,bioc
@@ -18767,7 +18775,7 @@ progeny,bioc
 progress,r-lib
 progressify,futureverse
 progressr,futureverse
-ProgVine,obulezi12345-svg
+ProgVine,obulezi-oj
 PROJ,hypertidy
 proj4,s-u
 ProjectionBasedClustering,mthrun
@@ -18869,6 +18877,7 @@ proxirr,danielebaisero
 ProxReg,doufu1402
 proxy,cran
 proxyC,koheiw
+proxymix,max578
 prozor,protviz
 PRP,artemiszhao
 prqlr,prql
@@ -21056,6 +21065,7 @@ rmBayes,zhengxiaouvic
 RMCC,r-lidar
 RMCDA,annicenajafi
 rmcfs,cran
+rMCHSPTT,harsh-123-stats
 RMCLab,aalfons
 rmcmc,ucl
 rmcorr,lmarusich
@@ -21300,7 +21310,7 @@ RobustPrediction,yuting-he
 robustrank,youyifong
 RobustRankAggreg,raivokolde
 robustrao,mccalatravamoreno
-robustrcp,obulezi12345-svg
+robustrcp,obulezi-oj
 robustreg,cran
 robustSFA,cran
 robustsur,claudioagostinelli
@@ -22790,6 +22800,7 @@ seq2pathway,bioc
 seq2R,noramvillanueva
 SeqAlignR,leonnorblad
 SeqArray,bioc
+seqbench,castlaboratory
 seqCAT,bioc
 seqcombo,bioc
 seqcomp,alasgarliakbar
@@ -23418,6 +23429,7 @@ singscore,bioc
 siniaR,paulesantos
 sinib,boxiangliu
 SINRELEF.LD,cran
+SINT,silvestro26
 SIP,acannis
 SIPDIBGE,gabriel-assuncao
 SIPETool,federicoviv
@@ -25163,6 +25175,7 @@ synadam,novartis
 synapsis,bioc
 sync3d,katharinabrecht-quantum
 syncdr,rossanatat
+SyncER,katleenwils
 SyncERdata,katleenwils
 synchronicity,cran
 synchrony,tgouhier
@@ -25769,6 +25782,7 @@ tidyllm,edubruell
 tidylo,juliasilge
 tidylog,elbersb
 tidyLPA,data-edu
+tidymatrix,raivokolde
 tidyMC,stefanlinner
 tidymodels,tidymodels
 tidymodlr,david-hammond
@@ -26153,6 +26167,7 @@ tradeoffaucdim,luisgarcez11
 tradepolicy,pachadotdev
 TRADER,pavel-fibich
 tradeSeq,bioc
+tradesimr,oliverlds
 tradestatistics,ropensci
 Trading,sa-ccr
 TrafficBDE,okgreece
@@ -27404,7 +27419,7 @@ weathercan,ropensci
 weatherindices,akstat21
 weatherjoin,hauae
 weathermetrics,geanders
-weatherMRJD,obulezi12345-svg
+weatherMRJD,obulezi-oj
 weatherOz,ropensci
 WeatherSentiment,leilamarvian
 weatherStats,pdhoff
@@ -27752,6 +27767,7 @@ XINA,bioc
 xkcd,toledoem
 xkcdcolors,tslumley
 XKCDdata,cran
+xlamisc,r-xla
 xlcharts,lgnbhl
 XLConnect,miraisolutions
 xlcutter,bisaloo

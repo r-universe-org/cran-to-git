@@ -1,5 +1,10 @@
 [
   {
+    "package": "seqbench",
+    "maintainer": "André Leite <leite@castlab.org>",
+    "url": "https://github.com/castlaboratory/seqbench"
+  },
+  {
     "package": "shewhartr",
     "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/castlaboratory/shewhartr"
