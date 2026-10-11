@@ -3069,6 +3069,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CyFj11",
+    "maintainer": "Bernd Jagla <bernd.jagla@pasteur.fr>",
+    "url": "https://github.com/c3bi-pasteur-fr/cyfj11",
+    "registry": "bioc"
+  },
+  {
     "package": "cypress",
     "maintainer": "Shilin Yu <sy597@georgetown.edu>",
     "url": "https://github.com/renlyly/cypress",
@@ -3317,7 +3323,7 @@
   {
     "package": "decontX",
     "maintainer": "Joshua Campbell <camp@bu.edu>",
-    "url": "https://git.bioconductor.org/packages/decontX",
+    "url": "https://github.com/campbio/decontx",
     "registry": "bioc"
   },
   {
@@ -13777,6 +13783,12 @@
     "package": "TFutils",
     "maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "url": "https://git.bioconductor.org/packages/TFutils",
+    "registry": "bioc"
+  },
+  {
+    "package": "thyroidBRS",
+    "maintainer": "Hugo Tovar <hatovar@inmegen.gob.mx>",
+    "url": "https://github.com/camilasauria/thyroidbrs",
     "registry": "bioc"
   },
   {

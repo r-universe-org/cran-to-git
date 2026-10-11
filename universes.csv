@@ -4322,6 +4322,7 @@ convdistr,johnaponte
 ConvergenceClubs,rhobis
 ConvergenceConcepts,lafaye
 convergenceDFM,isadorenabi
+ConvergeR,pauldeboissier1
 convergEU,federico-m-stefanini
 ConversationAlign,reilly-conceptscognitionlab
 conversim,chaoliu-cl
@@ -4978,6 +4979,7 @@ cyclomort,eligurarie
 Cyclops,ohdsi
 cyclotomic,stla
 cydar,bioc
+CyFj11,bioc
 cyjShiny,cran
 cylcop,floo66
 cymruservices,hrbrmstr
@@ -5225,6 +5227,7 @@ daySupply,ab-sa
 db2pq,iangow
 dbacf,cran
 dbarts,vdorie
+dbcturbo,gpimentel14
 DBCVindex,cran
 dbd,rolfturner
 DBfit,cran
@@ -5692,6 +5695,7 @@ diagFDR,cran
 diagis,helske
 diagL1,kevinrodrigues100
 diagmeta,guido-s
+DiagnostySize,cran
 diagonals,bquast
 diagram,karlines
 DiagrammeR,rich-iannone
@@ -7555,6 +7559,7 @@ EzGP,cran
 ezknitr,ropensci
 ezplot,wkostelecki
 ezr,jinkim3
+EZRShiny,vari-bbc
 ezTrack,taylorbcraft
 EZtune,jillbo1000
 f1dataR,scasanova
@@ -8376,6 +8381,7 @@ forecTheta,jafiorucci
 foreign,cran
 forensicolors,marsicofl
 forensicpopdata,mkruijver
+forensicR,kaquadros
 forensim,mkruijver
 forestat,caf-ifrit
 forestBalance,jaredhuling
@@ -9174,6 +9180,7 @@ geohabnet,garrettlab
 geohashTools,michaelchirico
 geoheatmap,sjwwillems
 geoidep,ambarja
+GeoIndexR,sowsalim01
 geojson,ropensci
 geojsonio,ropensci
 geojsonR,mlampros
@@ -10588,6 +10595,7 @@ hdpGLM,diogoferrari
 hdqr,qiantang0326
 hdrcde,robjhyndman
 HDRFA,ldstat
+hdrm,schnieboli
 hds,liangcj
 HDShOP,otryakhin-dmitry
 HDSinRdata,alicepaul
@@ -11836,6 +11844,7 @@ irboost,zhuwang46
 ircor,julian-urbano
 IRdisplay,irkernel
 iRegression,eufraneto
+irelink,christopherkenny
 iRepro,cran
 IRexamples,vinhdizzo
 iRfcb,europeanifcbgroup
@@ -13857,6 +13866,7 @@ mbX,utsavlamichhane
 mc2d,cran
 mcanalysis,cran
 MCARtest,cran
+MCAtools,nskamdem
 MCAvariants,rosarialo
 mcb,heming0425
 MCBackscattering,cran
@@ -15029,6 +15039,7 @@ monashtipr,jimmyday12
 mondate,chiefmurph
 Mondrian,lbbe-software
 mongolite,jeroen
+mongolmaps,temuulene
 mongolstats,temuulene
 mongopipe,cran
 monitoR,jonkatz2
@@ -16442,6 +16453,7 @@ NRMSampling,sadikulislamiasri-hub
 NRMstatsML,sadikulislamiasri-hub
 nsarfima,cran
 NSC,boklauth
+NSCA,youngchanresearcher
 nscancor,chrsigg
 NScluster,cran
 nse,keblu
@@ -16581,6 +16593,7 @@ octawave,katharinabrecht-quantum
 octopucs,roger0268
 octopus,mcodrescu
 octopusR,moohan
+ocupacoesBR,moraespeixoto
 od,itsleeds
 oda,njrhodes
 ODataQuery,cran
@@ -17947,6 +17960,7 @@ picker,hms-dbmi
 pickgene,bioc
 pickmax,cran
 picohdr,coolbutuseless
+PICOTsize,atefehrashidi
 picR,javenrflo
 picreg,vcmaxouuu
 pid,kgdunn
@@ -20573,6 +20587,7 @@ ResidualMatrix,bioc
 resilience,rvaradhan
 ResIN,pwarncke77
 ResIndex,anandorjha
+ResistantProcrustes,xiaozhuotang
 ResistorArray,robinhankin
 resizableSplitLayout,schaffman5
 reslife,an-crawford
@@ -20951,6 +20966,7 @@ RJalaliDate,h-rabiee
 rJava,s-u
 rJavaEnv,e-kotov
 rjd3bench,rjdverse
+rjd3filters,rjdverse
 rjd3jars,rjdverse
 rjd3production,inseefr
 rjd3providers,rjdverse
@@ -22264,6 +22280,7 @@ sbrl,hongyuy
 SBSDiff,cran
 sbtools,doi-usgs
 sbw,cran
+sbwadjust,kaylairish
 SC2API,sammorrissette
 sc2sc,cran
 SC3,bioc
@@ -22819,6 +22836,7 @@ SeqMADE,cran
 seqmagick,yulab-smu
 seqminer,zhanxw
 seqmon,cran
+SeqNet,tgrimes
 seqPattern,bioc
 seqsetvis,bioc
 seqSHP,traminer
@@ -25168,6 +25186,7 @@ symmoments,floschuberth
 symptomcheckR,ma-kopka
 symSEM,mikewlcheung
 symTensor,kokitsuyuzaki
+symtests,cran
 SymTS,michaelg-1
 syn,njtierney
 synadam,novartis
@@ -25698,6 +25717,7 @@ ThSQCA,im-research-yt
 thunder,bczernecki
 ThurMod,markustjansen
 thurstonianIRT,paul-buerkner
+thyroidBRS,bioc
 tibble,tidyverse
 tibbletime,business-science
 tibblify,wranglezone
@@ -25736,6 +25756,7 @@ tidycorrgram,zhangx60
 tidycountries,denironyx
 tidyCoverage,bioc
 tidyCpp,eddelbuettel
+tidycreel,chrischizinski
 tidycwl,sbg
 tidydann,gmcmacran
 tidydatatutor,seankross
@@ -25783,6 +25804,7 @@ tidylog,elbersb
 tidyLPA,data-edu
 tidymatrix,raivokolde
 tidyMC,stefanlinner
+tidymedia,jmgirard
 tidymodels,tidymodels
 tidymodlr,david-hammond
 TidyMultiqc,multimeric
@@ -26029,6 +26051,7 @@ TOAST,bioc
 toastui,dreamrs
 TOC,amsantac
 todor,dokato
+toeclim,cran
 togglr,thinkr-open
 TOHM,salgeri
 tok,mlverse
@@ -26693,6 +26716,7 @@ ultrapolaRplot,cran
 umap,tkonopka
 Umatrix,cran
 umbridge,linusseelinger
+UMDA,cran
 ume,boriskoch
 UMI4Cats,bioc
 umiAnalyzer,sfilges
@@ -27610,6 +27634,7 @@ woodValuationDE,forest-economics-goettingen
 wooldridge,justinmshea
 worcs,cjvanlissa
 word2vec,bnosac
+wordbankr,langcog
 wordcloud,ifellows
 wordcloud2,lchiffon
 wordler,davidasmith
