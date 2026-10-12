@@ -5176,7 +5176,6 @@ datasetjson,atorus-research
 datasets.load,bquast
 datasetsICR,cran
 DataSetsUni,imranshakoor
-DataSetsVerse,lightbluetitan
 datasetviewer,vthanik
 DataSimilarity,mariekestolte
 DataSpaceR,ropensci
@@ -9793,6 +9792,7 @@ glmSTARMA,stmaletz
 glmtlp,yuyangstat
 glmtoolbox,lhvanegasp
 glmtrans,ytstat
+glmtree,adimajo
 glmulti,vincexxc
 glmvsd,archer-yang-lab
 glmx,zeileis
@@ -14022,7 +14022,6 @@ mecor,lindanab
 mecoturn,chiliubio
 mectx,cran
 MED,kcgchan
-MedDataSets,lightbluetitan
 MedDietCalc,miguelmenendezorenga
 meddra.read,humanpred
 mederrRank,cran
@@ -15033,7 +15032,7 @@ MomTrunc,chedgala
 monaco,stla
 monad,mikmart
 monaLisa,bioc
-MoNAn,cran
+MoNAn,stocnet
 monarch,ropensci
 monashtipr,jimmyday12
 mondate,chiefmurph
@@ -18133,6 +18132,7 @@ PlinkMatrix,bioc
 plinkQC,meyer-lab-cshl
 PLIS,zweilab
 plm,ycroissant
+PLMIX,cmollica
 PLmixed,njrockwood
 plmmr,pbreheny
 pln,falkcarl
@@ -19872,6 +19872,7 @@ RBPEqBind,bioc
 RBPSpecificity,bioc
 rbranding,epiforesite
 rbreak,zhongjun-qu
+rbridge,byuzbasi
 rbscCI,shimenghuang
 rbsurv,bioc
 rbtc,bpfaff
@@ -25481,7 +25482,7 @@ temper,pigian
 temperatureresponse,low-decarie
 templateICAr,mandymejia
 templates,wahani
-templr,mascotnum
+templr,rt-uq
 TEMPO,rprojectromania
 tempodisco,kinleyid
 Temporal,zrmacc
