@@ -5,6 +5,12 @@
     "url": "https://github.com/cran/ATR"
   },
   {
+    "package": "basefun",
+    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
+    "url": "https://codeberg.org/thothorn/tram",
+    "subdir": "pkg/basefun"
+  },
+  {
     "package": "coin",
     "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
     "url": "https://codeberg.org/thothorn/coin",

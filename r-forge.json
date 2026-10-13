@@ -24,12 +24,6 @@
     "subdir": "pkg/aspect"
   },
   {
-    "package": "basefun",
-    "maintainer": "Torsten Hothorn <Torsten.Hothorn@R-project.org>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/basefun"
-  },
-  {
     "package": "Bessel",
     "maintainer": "Martin Maechler <maechler@stat.math.ethz.ch>",
     "url": "https://github.com/r-forge/specfun",
