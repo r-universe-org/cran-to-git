@@ -16,6 +16,12 @@
     "url": "https://github.com/rtemis-org/rtemis.core"
   },
   {
+    "package": "rtemis.draw",
+    "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
+    "url": "https://github.com/rtemis-org/draw",
+    "subdir": "r"
+  },
+  {
     "package": "rtemis.llm",
     "maintainer": "E.D. Gennatas <gennatas@gmail.com>",
     "url": "https://github.com/rtemis-org/llm",

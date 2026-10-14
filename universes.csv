@@ -618,7 +618,7 @@ AmpGram,michbur
 ampir,legana
 AMPLE,pacificcommunity
 amplican,bioc
-AmpliconDuo,cran
+AmpliconDuo,anla8000
 AMR,msberends
 amregtest,torstax
 AMRsurveilR,vinodhpmd
@@ -818,6 +818,7 @@ aprof,marcodvisser
 APRScenario,giannilmbd
 APS,tmlange
 apsimeval,sukamal99
+apsimwise,byzheng
 apsimx,femiguez
 apt,cran
 aptg,christophebenjamin
@@ -4352,7 +4353,7 @@ copa,bioc
 copBasic,wasquith
 copCAR,drjphughesjr
 copcor,youyifong
-CopCTS,cran
+CopCTS,fuyuan-li
 cope,cran
 copent,majianthu
 CopernicusClimate,pepijn-devries
@@ -4682,7 +4683,7 @@ crimCV,cran
 crimedata,mpjashby
 crimedatasets,lightbluetitan
 crimeutils,jacobkap
-crisp,cran
+crisp,ajpete
 CRISPRball,bioc
 crisprBase,bioc
 crisprBowtie,bioc
@@ -7066,6 +7067,7 @@ epidict,r4epi
 EpidigiR,cran
 EpiDISH,bioc
 epiDisplay,cran
+epidist,epinowcast
 epidm,ukhsa-collaboration
 EpiDynamics,oswaldosantos
 EpiEstim,mrc-ide
@@ -8155,7 +8157,7 @@ FKSUM,davidhofmeyr
 FLAG,yanglabhkust
 flagme,bioc
 flagr,mmatyi
-flam,cran
+flam,ajpete
 FLAME,vittorioorlandi
 FLAMES,bioc
 flametree,djnavarro
@@ -8382,6 +8384,7 @@ forensicolors,marsicofl
 forensicpopdata,mkruijver
 forensicR,kaquadros
 forensim,mkruijver
+foresightr,strategicprojects
 forestat,caf-ifrit
 forestBalance,jaredhuling
 forestControl,aberhrml
@@ -10148,6 +10151,7 @@ greenclust,jeffjetton
 greencrab.toolkit,abigailkeller
 GREENeR,calfarog
 greenfeedr,gmbog
+GreenManureR,cran
 greenR,sachit27
 GREENREG,dbazan2003
 greenSD,billbillbilly
@@ -10300,7 +10304,7 @@ gsMeanFreq,cran
 GSMX,cran
 GSODR,ropensci
 gson,yulab-smu
-GSparO,cran
+GSparO,mayhhu
 gspcr,cran
 GSReg,bioc
 GSRI,bioc
@@ -11766,7 +11770,7 @@ iNZightMR,inzightvit
 iNZightTools,inzightvit
 iNZightTS,inzightvit
 io,djhshih
-ioanalysis,cran
+ioanalysis,julianwadeoolman
 IOBR,iobr
 iod25,douglasmunro
 IOLS,nassimzbalah
@@ -12291,7 +12295,7 @@ KDEmcmc,jhlee-projects
 kdensity,jonasmoss
 kdevine,tnagler
 kDGLM,silvaneojunior
-kdist,cran
+kdist,tlamontsmith
 kdml,jrjthompson
 kdps,ucsd-salem-lab
 kdry,kapsner
@@ -12598,7 +12602,7 @@ lakemorpho,usepa
 lakhesis,scollinselliott
 LAM,alexanderrobitzsch
 LaMa,janolefi
-lambda.r,cran
+lambda.r,zatonovo
 lambdastar,cran
 lambdaTS,pigian
 lambdr,mdneuzerling
@@ -12752,6 +12756,7 @@ LDlinkR,cbiit
 LDM,yijuanhu
 ldmppr,lanedrew
 LDNN,vasileioskarapoulios
+ldpdist,cran
 LDRTools,cran
 ldsep,dcgerard
 ldt,rmojab63
@@ -12786,7 +12791,7 @@ leapR,bioc
 leaps,tslumley
 LeArEst,ptaler
 LearnBayes,bayesball
-LearnClust,cran
+LearnClust,robertoalcantara9
 learner,stmcg
 LearnGeom,albrizre
 learningr,richierocks
@@ -13544,7 +13549,7 @@ ManagedCloudProvider,jiefei-wang
 mand,cran
 MandalaR,lucianea
 mandelbrot,blmoore
-Mangrove,cran
+Mangrove,lowk
 manhplot,cgrace1978
 manifesto,christopherkenny
 manifestoR,manifestoproject
@@ -14021,7 +14026,7 @@ meconetcomp,chiliubio
 mecor,lindanab
 mecoturn,chiliubio
 mectx,cran
-MED,cran
+MED,kcgchan
 MedDietCalc,miguelmenendezorenga
 meddra.read,humanpred
 mederrRank,cran
@@ -14690,7 +14695,7 @@ mixqrgate,kvenkita
 mixR,garybaylor
 mixRaschTools,pamelapsc
 MixRF,randel
-MixSAL,cran
+MixSAL,franczakius
 MixSemiRob,syeonkang
 MixSIAR,brianstock
 MixSim,snoweye
@@ -14879,7 +14884,7 @@ mmiCATs,mightymetrika
 MMINP,yulab-smu
 mmints,mightymetrika
 mmirestriktor,mightymetrika
-MMLR,cran
+MMLR,nadezdaspiridovska
 mmmgee,rmaster1
 MMOC,charliecarpenter
 mmod,dwinter
@@ -16759,7 +16764,7 @@ OneStep,dutangc
 onetime,hughjonesd
 OneTwoSamples,fbertran
 oneway,p10911004-npust
-onewaytests,osmandag
+onewaytests,cran
 onion,robinhankin
 onlineBcp,cran
 onlineCOV,cran
@@ -18259,6 +18264,7 @@ PNC,cran
 pnd,fifis
 PND.heter.cluster,xliu12
 png,s-u
+pnotp,vicho-btw
 PNSIBGE,gabriel-assuncao
 PnT,peter962
 PNWColors,jakelawlor
@@ -20136,7 +20142,7 @@ rdhte,scalonico
 rdi,cbolen1
 Rdiagnosislist,anoopshah
 rdian,ironholds
-Rdice,cran
+Rdice,gennaro-tedesco
 RDieHarder,eddelbuettel
 Rdimtools,kisungyou
 Rdisop,bioc
@@ -20283,7 +20289,7 @@ recodeflow,big-life-lab
 recoder,asanaei
 recogito,digi-vub
 recolorize,hiweller
-recombinator,cran
+recombinator,peterhurford
 recometrics,david-cortes
 recommenderlab,mhahsler
 recommenderlabBX,mhahsler
@@ -20444,7 +20450,7 @@ relcircle,lin429
 reldist,handcock
 RelDists,fhernanb
 releaser,tanguybarthelemy
-Relectoral,cran
+Relectoral,miguelro
 relevance,wernerstahel
 relevent,cran
 reliabilitydiag,aijordan
@@ -20823,7 +20829,7 @@ rhoneycomb,plantbreedingbiometryaua2
 rhoR,epistemic-analytics
 rhosa,tabe
 Rhpc,e-nakama
-RHPCBenchmark,cran
+RHPCBenchmark,jrmccombs
 RhpcBLASctl,e-nakama
 RHRT,vblesius
 RHRV,r-forge
@@ -21846,6 +21852,7 @@ rtdists,rtdists
 rtemis,rtemis-org
 rtemis.a3,rtemis-org
 rtemis.core,rtemis-org
+rtemis.draw,rtemis-org
 rtemis.llm,rtemis-org
 rtemps,bblodfon
 rTensor,rikenbit
@@ -22148,6 +22155,7 @@ SAMPLE,yacinebenchehida
 sampleClassifier,bioc
 SampleCore,aravind-j
 sampledatasets,lightbluetitan
+sampleone,mdelapi
 sampler,mbaldassaro
 sampleSelection,r-forge
 SampleSelectR,rtiinternational
@@ -22590,10 +22598,11 @@ sdmTMB,sdmtmb
 SDMtune,consbiol-unibern
 sdmvspecies,howl-anderson
 SDPDmod,rozetasimonovska
-sdPrior,cran
+sdPrior,k-nadja
 sdprisk,baumgrt
 SDPrism2D,zeddshaver
 sdrt,tharindupdealwis
+sds,hypertidy
 sdsfun,stscl
 sdstudio,surveydown-dev
 SDT,cran
@@ -23777,7 +23786,7 @@ sociome,clevelandclinicqhs
 socketR,sassoftware
 socratadata,ryanzomorrodi
 socviz,kjhealy
-sodavis,cran
+sodavis,yangli88
 sodium,ropensci
 sofa,ropensci
 Sofi,loerasg
@@ -24667,7 +24676,7 @@ stepNorm,bioc
 stepp,steppdev
 SteppedPower,pmildenb
 steppedwedge,avi-kenny
-stepPenal,cran
+stepPenal,veleni
 stepPlr,cran
 stepR,florianpein
 StepReg,junhuili1017
@@ -25293,7 +25302,7 @@ tabularmaps,uribo
 tabularMLC,caiohamamura
 tabulator,skhiggins
 tabulergm,gvegayon
-tabulog,cran
+tabulog,austinrwarner
 tabuSearch,domijan
 tabxplor,bricenocenti
 tacmagic,ropensci
@@ -26024,7 +26033,7 @@ tmapverse,mtennekes
 TMB,kaskr
 tmbstan,kaskr
 TmCalculator,junhuili1017
-TMDb,cran
+TMDb,andreacapozio
 tmdbR,vader75
 tmfast,dhicks
 Tmisc,stephenturner
@@ -27728,7 +27737,7 @@ wstats,jgaeb
 wstdiff,cran
 WSwavelet,nilotpalsanyal
 wsyn,reumandc
-wtest,cran
+wtest,anotherruisun
 wTO,cran
 WtTopsis,zhengyu888
 WufooR,dmpe
