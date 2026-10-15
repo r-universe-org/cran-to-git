@@ -943,6 +943,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BatchVaria",
+    "maintainer": "Nicholas Moir <nicholas.moir@ed.ac.uk>",
+    "url": "https://github.com/cmpmolonc/batchvaria",
+    "registry": "bioc"
+  },
+  {
     "package": "Battlefield",
     "maintainer": "Jean-Philippe Villemin <jpvillemin@gmail.com>",
     "url": "https://github.com/zhefrench/battlefield",
@@ -3666,6 +3672,12 @@
     "package": "dinoR",
     "maintainer": "Michaela Schwaiger <michaela.schwaiger@fmi.ch>",
     "url": "https://github.com/xxxmichixxx/dinor",
+    "registry": "bioc"
+  },
+  {
+    "package": "DiPPER",
+    "maintainer": "Juho Pelto <jepelt@utu.fi>",
+    "url": "https://github.com/jepelt/dipper",
     "registry": "bioc"
   },
   {
@@ -6735,6 +6747,12 @@
     "registry": "bioc"
   },
   {
+    "package": "IntrinsicScan",
+    "maintainer": "Leandro Altare <memedesimo22@gmail.com>",
+    "url": "https://github.com/memedesimo98/intrinsicscan",
+    "registry": "bioc"
+  },
+  {
     "package": "iPath",
     "maintainer": "Kenong Su <kenong.su@emory.edu>",
     "url": "https://github.com/suke18/ipath",
@@ -9605,7 +9623,7 @@
   },
   {
     "package": "pairedGSEA",
-    "maintainer": "Søren Helweg Dam <sohdam@dtu.dk>",
+    "maintainer": "Dimitrios S. Kanakoglou <dimkan@dtu.dk>",
     "url": "https://github.com/isoformanalysisgroup/pairedgsea",
     "registry": "bioc"
   },
@@ -12976,6 +12994,12 @@
     "registry": "bioc"
   },
   {
+    "package": "SpatialData.data",
+    "maintainer": "Helena L. Crowell <helena@crowell.eu>",
+    "url": "https://github.com/helenalc/spatialdata.data",
+    "registry": "bioc"
+  },
+  {
     "package": "spatialdataR",
     "maintainer": "Helena L. Crowell <helena@crowell.eu>",
     "url": "https://github.com/helenalc/spatialdatar",
@@ -13447,6 +13471,12 @@
     "package": "SummarizedExperiment",
     "maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "url": "https://github.com/bioconductor/summarizedexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "SummarizedHeatmap",
+    "maintainer": "Bradley Blaser <bradley.blaser@osumc.edu>",
+    "url": "https://github.com/blaserlab/summarizedheatmap",
     "registry": "bioc"
   },
   {

@@ -1430,6 +1430,7 @@ batchscr,sherrisherry
 BatchSVG,bioc
 batchtma,stopsack
 batchtools,mlr-org
+BatchVaria,bioc
 bate,dbasu-umass
 batman,ironholds
 batsch,ramiromagno
@@ -2521,6 +2522,7 @@ brnn,cran
 broadcast,tony-aw
 broadSeq,bioc
 Brobdingnag,robinhankin
+brochure,colinfay
 BrokenAdaptiveRidge,msuchard
 brokenstick,growthcharts
 brolgar,njtierney
@@ -2765,6 +2767,7 @@ calmr,victor-navarro
 calms,cran
 calpassapi,vinhdizzo
 CalSim,resinj
+cam2model,arturosp
 camcorder,thebioengineer
 CaMeA,ramhworkshop
 CamelRatiosIndex,jc-ayimah
@@ -5808,6 +5811,7 @@ dint,s-fleck
 DiPALM,humanoidtyphoon
 DiPhiSeq,jli-stat
 dipm,cli9
+DiPPER,bioc
 DiPs,ruoqiyu
 dipsaus,dipterix
 diptest,mmaechler
@@ -7021,6 +7025,7 @@ enveomics.R,lmrodriguezr
 envi,lance-waller-lab
 enviGCMS,yufree
 enviPat,blosloos
+enviPathR,envipath
 envir,t-kalinowski
 envirem,ptitle
 EnviroPRA2,cran
@@ -8575,6 +8580,7 @@ fromo,shabbychef
 frontier,r-forge
 frontiles,cran
 frontmatter,posit-dev
+frostlake,frostlake-db
 frostr,imangr
 froth,ahl27
 frscore,vpparkkinen
@@ -9336,6 +9342,7 @@ ggalignment,aftonsteps
 ggallin,shabbychef
 ggalluvial,corybrunson
 GGally,ggobi
+ggaltdata,fniniv
 ggalttext,cran
 ggamma,matheushjs
 gganimate,thomasp85
@@ -11743,6 +11750,7 @@ intRinsic,fradenti
 intrinsicDimension,kjohnsson
 intrinsicFRP,a91quaini
 intrinsicKappa,dschindler
+IntrinsicScan,bioc
 intrval,psolymos
 intRvals,cran
 intSDM,philipmostert
@@ -12097,6 +12105,7 @@ JDCruncheR,inseefr
 jdenticon,mattroumaya
 Jdmbs,jirotubuyaki
 jds.rmd,wenjie2wang
+jekylldown,allanvc
 jellyfisher,hautaniemilab
 jenga,pigian
 jenkins,ropensci
@@ -13906,7 +13915,6 @@ mcmapper,cran
 mcmc,cran
 MCMC.qpcr,z0on
 MCMC4Extremes,cran
-mcmcderive,poissonconsulting
 mcmcensemble,bisaloo
 MCMCglmm,jarrodhadfield
 MCMChybridGP,cran
@@ -15758,6 +15766,7 @@ mzR,bioc
 n1qn1,nlmixr2
 N2H4,forkonlp
 N2R,kharchenkolab
+n3d,cornball-ai
 naaccr,werthpadoh
 nabla,queelius
 nabor,jefferis
@@ -17922,6 +17931,7 @@ phylolm.hp,laijiangshan
 phylometrics,mathecoevo
 phylopairs,cran
 phylopath,ax3man
+phylopred,alrobles
 PhyloProfile,bioc
 phyloraster,gabferreira
 phyloregion,darunabas
@@ -17948,7 +17958,6 @@ PhysioIndexR,vinayaka11442
 PhysMove,hannahcalich
 PhySortR,timothystephens
 phytoclass,phytoclass
-PhytoIn,phytoin
 phytools,liamrevell
 PhytosanitaryCalculator,grvisei
 piano,bioc
@@ -18513,7 +18522,7 @@ PowerXgammaRF,shikhartyagi
 powRICLPM,jeroendmulder
 PowRPriori,mirgll
 POWSC,bioc
-PP,jansteinfeld
+PP,manuelreif
 PPbigdata,yajie1020
 pPCA,srika1919
 ppcc,cran
@@ -19040,6 +19049,7 @@ public.ctn0094data,ctn-0094
 public.ctn0094extra,ctn-0094
 PublicationBias,mathurlabstanford
 PublicationBiasBenchmark,fbartos
+publicdataau,x5hwuk7nc6jsudcc
 publipha,jonasmoss
 Publish,tagteam
 PubMatrixR,toledoem
@@ -19422,6 +19432,7 @@ quickPWCR,billbillbilly
 quickr,t-kalinowski
 quickregression,darshan-maniyar
 quickSentiment,cran
+quicopt,quicopt
 QuICSeedR,cran
 quid,lukasklima
 quiddich,luisekuehn
@@ -19867,6 +19878,7 @@ rBMF,cran
 rbmi,openpharma
 rbmiUtils,openpharma
 rbmn,scutari
+RBMRB,bmrb-io
 RBNZ,rntq472
 Rborist,suiji
 rbounds,ljk20
@@ -20644,6 +20656,7 @@ retraction,choxos
 retriever,dosorio
 retrodesign,andytimm
 retrofit,bioc
+retroglyph,wlandau
 retroharmonize,dataobservatory-eu
 retrosheet,colindouglas
 retry,randy3k
@@ -22195,6 +22208,7 @@ sanba,fradenti
 sand,kolaczyk
 sandbox,coffeemuggler
 sandwich,zeileis
+sandwichrand,wangbshun
 SanFranBeachWater,cran
 sangeranalyseR,bioc
 sangerseqR,bioc
@@ -22461,6 +22475,7 @@ scModels,hkumar6
 scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
+scNPM,taostat1
 scone,bioc
 Sconify,bioc
 scOntoMatch,papatheodorou-group
@@ -24016,6 +24031,7 @@ spatialCovariance,cran
 SpatialCPie,bioc
 spatialcvR,sowsalim01
 spatialData,blasbenito
+SpatialData.data,bioc
 spatialdataR,bioc
 spatialDE,bioc
 SpatialDecon,bioc
@@ -24783,7 +24799,7 @@ StratifiedMedicine,thomasjemielita
 StratifiedRF,david-cortes
 StratifiedSampling,rjauslin
 stratifiedyh,duanyh16
-stratifyR,cran
+stratifyR,karunaredz
 StratigrapheR,sewouter
 stratigraphr,joeroe
 StratPal,mindthegap-erc
@@ -24898,6 +24914,7 @@ sumExtras,kylegrealis
 summarisebig,larry77
 summariser,condwanaland
 SummarizedExperiment,bioc
+SummarizedHeatmap,bioc
 summary2joint,ubcxzhang
 summarySCI,sakk-statistics
 summarytabl,anyamemensah
@@ -25676,6 +25693,7 @@ TH.data,thothorn
 thames,njirons
 thamesblock,m-metodiev
 thamesmix,m-metodiev
+theeuh,mrchypark
 theft,hendersontrent
 theftdlc,hendersontrent
 theiaR,norival
