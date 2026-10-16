@@ -6957,6 +6957,12 @@
     "registry": "bioc"
   },
   {
+    "package": "karioCaS",
+    "maintainer": "Thiago Parente <thiago.parente@fiocruz.br>",
+    "url": "https://github.com/thiagoparentefiocruz/kariocas",
+    "registry": "bioc"
+  },
+  {
     "package": "karyoploteR",
     "maintainer": "Bernat Gel <bgel@igtp.cat>",
     "url": "https://github.com/bernatgel/karyoploter",
@@ -8592,6 +8598,12 @@
     "package": "MsBackendMsp",
     "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
     "url": "https://github.com/rformassspectrometry/msbackendmsp",
+    "registry": "bioc"
+  },
+  {
+    "package": "MsBackendParquet",
+    "maintainer": "Ossama Edbali <o.edbali@bham.ac.uk>",
+    "url": "https://github.com/computational-metabolomics/msbackendparquet",
     "registry": "bioc"
   },
   {

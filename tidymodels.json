@@ -180,6 +180,11 @@
     "url": "https://github.com/tidymodels/stacks"
   },
   {
+    "package": "tabby",
+    "maintainer": "Max Kuhn <max@posit.co>",
+    "url": "https://github.com/tidymodels/tabby"
+  },
+  {
     "package": "tabpfn",
     "maintainer": "Max Kuhn <max@posit.co>",
     "url": "https://github.com/tidymodels/tabpfn"

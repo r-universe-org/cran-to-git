@@ -1,5 +1,10 @@
 [
   {
+    "package": "dominoise",
+    "maintainer": "Julien Jamme <julien.jamme@insee.fr>",
+    "url": "https://github.com/inseefrlab/dominoise"
+  },
+  {
     "package": "melodi",
     "maintainer": "Cédric Bobinec <cedric.bobinec@insee.fr>",
     "url": "https://github.com/inseefrlab/melodi"

@@ -1,5 +1,10 @@
 [
   {
+    "package": "CAs",
+    "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
+    "url": "https://github.com/ugroempi/cas"
+  },
+  {
     "package": "DoE.base",
     "maintainer": "Ulrike Groemping <ulrike.groemping@bht-berlin.de>",
     "url": "https://github.com/cran/DoE.base"
