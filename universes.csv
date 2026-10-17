@@ -129,10 +129,12 @@ actigraph.sleepr,dipetkov
 actilifecounts,jhmigueles
 actimetrics,jhuwit
 actinet,jhuwit
+actiplot,jhuwit
 actiquantiles,jhuwit
 actiread,jhuwit
 actiRhythm,rdazadda
 actisensorlog,jhuwit
+actisomni,jhuwit
 activAnalyzer,pydemull
 activatr,dschafer
 ActiveDriver,reimand0
@@ -810,6 +812,7 @@ appreci8R,bioc
 appRiori,ugranziol
 approximator,robinhankin
 approxmatch,cran
+ApproxOp,edmond-aliaga
 approxOT,ericdunipace
 appsflyeR,pablosanmar
 appsheet,calderonsamuel
@@ -2339,6 +2342,7 @@ bondAnalyst,maheshpkumar
 BondValuation,cran
 BoneDensityMapping,telfer
 BoneProfileR,marc-girondot
+bones,tenmeh
 BonEV,dongmeili2017
 bonn,sumtxt
 bonsai,tidymodels
@@ -2489,6 +2493,7 @@ BreakPoints,cran
 BreastSubtypeR,bioc
 breathtestcore,dmenne
 breathteststan,dmenne
+BreedReliabR,annusawarkar-sys
 bReeze,chgrl
 bregr,wanglabcsu
 brendaDb,bioc
@@ -3621,6 +3626,7 @@ clim4health,carlesmila
 climaemet,ropenspain
 ClimaRep,cran
 climate,bczernecki
+ClimateAnomaly,ranjitstat
 climateBR,kaiorb52
 climatehealth,cran
 climatekit,charlescoverdale
@@ -6139,6 +6145,7 @@ DoubleCone,cran
 DoubleExpSeq,sean-ruddy
 DoubleML,doubleml
 doubletrouble,bioc
+doubletrs,mayankgandhi13
 doubt,moodymudskipper
 douconca,biometris
 doudpackage,tiago972
@@ -6875,6 +6882,7 @@ ElliptCopulas,alexisderumigny
 elliptic,robinhankin
 ellipticalsymmetry,cran
 ellmer,tidyverse
+ellmercodex,simxnherrera
 ELMER,bioc
 ELmethodVar,jingru-zhang
 elmNNRcpp,mlampros
@@ -7243,6 +7251,7 @@ errum,tmsalab
 ERSA,cbhurley
 ERSSA,bioc
 eRTG3D,munterfi
+ertte,djnavarro
 ervissexplore,epiconcept-paris
 ES,cran
 es.dif,sa-to-shi-a-o-ki
@@ -8749,6 +8758,7 @@ fuzzySurvival,mukulbijalwan
 fuzzyurn,obulezi-oj
 fuzzywuzzyR,mlampros
 FVDDPpkg,stefanodamato
+fvfmR,garenj
 fwb,ngreifer
 FWDselect,sestelo
 fwlplot,kylebutts
@@ -9843,6 +9853,7 @@ glossa,imares-group
 glossary,debruine
 glossr,montesmariana
 glow,traversc
+glpsol,optimal2050
 gLRTH,cran
 glscalibrator,fabbiologia
 glsm,cran
@@ -11906,6 +11917,7 @@ IRTC,weiandata
 irtDemo,metinbulus
 IRTest,seewooli
 irtGUI,huseyinyildiz35
+irtlink,oskarengels
 IRTM,dasiegel
 irtoys,irtools
 irtpwr,flxzimmer
@@ -12469,6 +12481,7 @@ knitcitations,cboettig
 knitr,yihui
 knitrBootstrap,jimhester
 knitrdata,dmkaplan2000
+knitroff,danielgccr
 knitrProgressBar,rmflight
 knitxl,dreanod
 knn.covertree,flying-sheep
@@ -12644,6 +12657,7 @@ lamW,aadler
 lancor,bernhardklar
 land4health,harmonize-tools
 LandComp,ladylavender
+lande,human-augment-analytics
 landest,laylaparast
 landform,gianmarcoalberti
 landgraph,wpeterman
@@ -12691,6 +12705,7 @@ LatentBMA,cran
 latentcor,mingzehuang
 latentFactoR,alexchristensen
 latentnet,statnet
+latents,mohsaqr
 latentState,martin2002-ux
 later,r-lib
 later2,pachadotdev
@@ -12978,6 +12993,7 @@ LikertEZ,cran
 LikertMakeR,winzarh
 likingInitiative,liking-initiative
 lilikoi,granatumx
+lillardhaz,nobifukuda
 lillies,cran
 LilRhino,travis-barton
 lime,tidymodels
@@ -13185,6 +13201,7 @@ lobstr,r-lib
 localboot,zzz1990771
 LocalControl,ohdsi
 LocalCop,mlysy
+localdatasus,hendesson
 localFDA,aefdz
 localgauss,torekleppe
 localICE,viadee
@@ -13454,6 +13471,7 @@ lwbgt,zyf0717
 lwc2022,c-monaghan
 LWFBrook90R,pschmidtwalter
 lwgeom,r-spatial
+lwqs,subspacer
 LymphoSeq,bioc
 lyubishchev,akzhanberdi
 LZeroSpikeInference,jewellsean
@@ -14336,6 +14354,7 @@ MetricGraph,davidbolin
 metricminer,ottrproject
 Metrics,mfrasco
 MetricsWeighted,mayer79
+metricT,akimura753
 metrix,juanmac17
 metro,k5cents
 metRology,cran
@@ -14994,6 +15013,7 @@ modeLLtest,shanascogin
 ModelMap,cran
 ModelMatrixModel,xinyongtian
 ModelMetrics,jackstat
+modelname,bonour
 modelObj,sth1402
 modelr,tidyverse
 modelscompete4,ssjerf-stack
@@ -16040,6 +16060,7 @@ NetworkDistance,kisungyou
 networkDynamic,skyebend
 networkDynamicData,skyebend
 NetworkExtinction,derek-corcoran-barrios
+networkformat,jessebrandtdata
 NetworkInference,desmarais-lab
 networkLite,epimodel
 networkR,ekstroem
@@ -17199,6 +17220,7 @@ pa,yl2
 PAA,bioc
 paar,ppaccioretti
 PAC,yhenryli
+PACE,bioc
 pacha,envinatu
 pacheck,xa4p
 pack,joshuaulrich
@@ -19275,7 +19297,7 @@ qmvs,ycartes
 qoi,johannesfriedrich
 qol,s3rdia
 QoLMiss,atanubhattacharjee
-qountstat,cran
+qountstat,bennidaniels
 qpcR,anspiess
 qPCRhelper,cran
 qpcrNorm,bioc
@@ -19643,6 +19665,7 @@ rakeR,philmikejones
 ralger,feddelegrand7
 RALSA,pakom
 Ramble,noraincheck
+rambur,phamdn
 rAmCharts,datastorm-open
 rAmCharts4,stla
 ramchoice,mdcattaneo
@@ -21064,6 +21087,7 @@ RKUM,maalam79
 rkvo,vst
 Rlab,cran
 Rlabkey,cnathe
+rladybugdb,hadimaster65555
 rLakeAnalyzer,gleon
 rLakeHabitat,tristanblechinger
 rlandfire,bcknr
@@ -21906,6 +21930,7 @@ rtestim,dajmcdon
 RTextTools,lorenc5
 rtf,cran
 RTFA,cran
+RTFBoost,cran
 rtForecastEval,chikuang
 RtForecastR,rajsubediresearch
 rTG,jernejjevsenak
@@ -23029,6 +23054,7 @@ shadowr,ricilandolt
 shadowtext,guangchuangyu
 shadowVIMP,staburo
 SHAKTI,cran
+shaman,tanaylab
 shannon,imranshakoor
 SHAPBoost,o-t-o-z
 ShapDoE,lqyang0714
@@ -25281,6 +25307,7 @@ Synth,j-hai
 synthesis,hydroclimatex
 synthesisr,mjwestgate
 synthesizer,markvanderloo
+SynthesizerPlus,bogdanoancea
 SynthETIC,agi-lab
 syntheticdata,cuiweig
 synthpop,bnowok
@@ -26279,7 +26306,7 @@ tramicp,lucaskook
 TraMineR,traminer
 TraMineRextras,traminer
 tramME,r-forge
-tramnet,r-forge
+tramnet,lucaskook
 TRAMPR,richfitz
 tramvs,r-forge
 transcriptogramer,bioc
@@ -26356,6 +26383,7 @@ TreeDimensionTest,cran
 TreeDist,ms609
 treefit,hayamizu-lab
 treeheatr,trangdata
+treehunt,julesba-git
 treeio,ropensci
 treekoR,bioc
 treemap,mtennekes
@@ -27100,6 +27128,7 @@ vcd,cran
 vcd2df,vcd2df
 vcdExtra,friendly
 VCFArray,bioc
+VCFArrow,legallab
 vcfheader,cran
 vcfppR,zilong-li
 vcfR,knausb
@@ -28078,8 +28107,10 @@ ztils,zachpeagler
 ztpln,mattocci27
 zTree,kirchkamp
 ztype,vincentguyader
+zucsv,pedrobtz
 zuhtml,pedrobtz
 zujson,pedrobtz
+zukomp,pedrobtz
 zuyaml,pedrobtz
 ZVCV,leahprice
 ZygosityPredictor,bioc

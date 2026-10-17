@@ -3,5 +3,10 @@
     "package": "delimtools",
     "maintainer": "Pedro Bittencourt <pedro.sennabittencourt@gmail.com>",
     "url": "https://github.com/legallab/delimtools"
+  },
+  {
+    "package": "VCFArrow",
+    "maintainer": "Tomas Hrbek <hrbek@evoamazon.net>",
+    "url": "https://github.com/legallab/vcfarrow"
   }
 ]

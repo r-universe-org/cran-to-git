@@ -9598,6 +9598,12 @@
     "registry": "bioc"
   },
   {
+    "package": "PACE",
+    "maintainer": "Elijah Willie <ewil3501@uni.sydney.edu.au>",
+    "url": "https://github.com/ecool50/pace",
+    "registry": "bioc"
+  },
+  {
     "package": "packFinder",
     "maintainer": "Jack Gisby <jackgisby@gmail.com>",
     "url": "https://github.com/jackgisby/packfinder",

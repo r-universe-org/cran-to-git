@@ -732,12 +732,6 @@
     "subdir": "pkg/tramME"
   },
   {
-    "package": "tramnet",
-    "maintainer": "Lucas Kook <lucasheinrich.kook@gmail.com>",
-    "url": "https://github.com/r-forge/ctm",
-    "subdir": "pkg/tramnet"
-  },
-  {
     "package": "tramvs",
     "maintainer": "Lucas Kook <lucasheinrich.kook@gmail.com>",
     "url": "https://github.com/r-forge/ctm",
