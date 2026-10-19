@@ -1682,6 +1682,7 @@ bde,gsantafe
 BDEsize,cran
 bdf3,sukantaiasri
 BDgraph,rezamoammadi
+BDIB,zhaosaijun
 bdl,statisticspoland
 bdlim,anderwilson
 bdlnm,pasahe
@@ -2048,6 +2049,7 @@ BiodiversityR,roelandkindt
 BIOdry,wilarhen
 BIOEFIC,michelblezins
 biofetchR,dstuart505
+BioFTF,fabriziomaturo
 BioGA,bioc
 biogas,sashahafner
 biogeom,cran
@@ -2783,9 +2785,9 @@ CAMERA,bioc
 camerondata,juvlac
 campaignmanageR,pablosanmar
 campfin,irworkshop
-campsis,calvagone
+campsis,campsisverse
 campsismod,calvagone
-campsisnca,calvagone
+campsisnca,campsisverse
 camsRad,ropensci
 camtrapdp,inbo
 camtrapR,jniedballa
@@ -4914,6 +4916,7 @@ CUFF,giguerch
 CUMP,cran
 cumprinc,jcrichardson617
 cumulcalib,resplab
+CUNYsports,nyc-open-data-lab
 cuperdec,jfy133
 cuRe,lassehjort
 cureAssess,geethanjaleem
@@ -5977,6 +5980,7 @@ DiversityStats,aravind-j
 divest,jonclayden
 DIVINE,bruigtp
 divo,mpiet11
+divoRce,cran
 divraster,flaviomoc
 divseg,christopherkenny
 divvy,gawainantell
@@ -6023,6 +6027,7 @@ DMMF,kwanghun
 dMod,dkaschek
 DMRcaller,bioc
 DMRcate,bioc
+dmrfit,jupepis
 DMRnet,szymonnowakowski
 dMrs,cran
 DMRScan,bioc
@@ -8301,6 +8306,7 @@ flowTrans,bioc
 flowViz,bioc
 flowVS,bioc
 flowWorkspace,bioc
+flowz,pigian
 flps,sooyongl
 FLR,consmavr
 flsa,hhoeflin
@@ -8402,6 +8408,7 @@ forecasteR,promidat
 forecastHybrid,ellisp
 ForecastingEnsembles,infinitecuriosity
 forecastLSW,adunaic
+forecastsuite,sparrow410
 FoReco,danigiro
 FoRecoML,danigiro
 ForeComp,mcmcs
@@ -9225,6 +9232,7 @@ GEOmap,jonathanlees
 geomapdata,jonathanlees
 GeomArchetypal,dchristop
 geomaroc,amineandam04
+geomattR,gortegasolis
 geomerge,kdonnay
 geometa,eblondel
 GEOmetadb,bioc
@@ -11926,6 +11934,7 @@ irtrees,irtools
 irtreliability,cran
 IRTShiny,kylehamilton
 irtsim,sward1
+irw,itemresponsewarehouse
 isa2,gaborcsardi
 ISAnalytics,bioc
 ISAR,rtelmore
@@ -13471,6 +13480,7 @@ lwbgt,zyf0717
 lwc2022,c-monaghan
 LWFBrook90R,pschmidtwalter
 lwgeom,r-spatial
+lwpls,christiangoueguel
 lwqs,subspacer
 LymphoSeq,bioc
 lyubishchev,akzhanberdi
@@ -15530,6 +15540,7 @@ MultiFrailty,shikhartyagi
 multifunc,jebyrnes
 multifwf,prontog
 MultiGlarmaVarSel,cran
+multigrain,gsk-biostatistics
 multigraph,mplex
 multigraphr,termehs
 MultiGrey,cran
@@ -15832,6 +15843,7 @@ nakagami,jonasmoss
 NAM,alenxav
 name,christopherkenny
 namedropR,nucleic-acid
+namegender,cran
 NameNeedle,cran
 namer,jumpingrivers
 nametagger,bnosac
@@ -18331,6 +18343,7 @@ PoDBAY,vavrycuk-zz
 PoDCall,bioc
 podkat,bioc
 poem,bioc
+POEMED,yelleknek
 poems,globalecologylab
 POET,zhelcheva
 pogit,cran
@@ -20334,7 +20347,7 @@ rebus.unicode,richierocks
 RECA,nanxstats
 recalibratiNN,cmusso86
 recapr,mbtyers
-RecAssoRules,louisraimbault
+RecAssoRules,cran
 recastlessons,vladbazon
 receptiviti,receptiviti
 recexcavAAR,isaakiel
@@ -22087,6 +22100,7 @@ RWiener,yeagle
 rwig,fangzhou-xie
 rWikiPathways,bioc
 RWildbook,sjbonner
+rWind,jabiologo
 rWishart,benbarnard
 rwisp,dioubernardo
 rwlifetable,cran
@@ -22887,6 +22901,7 @@ sentometrics,sentometricsresearch
 sentopics,odelmarcelle
 sentryR,jcpsantiago
 SEofM,marsdu1989
+seowebchecker,jaiganesh6999
 SEPA,cran
 SEPaLS,hlorenzo
 sEparaTe,cran
@@ -27942,6 +27957,7 @@ xRing,filipecampelo
 xrnet,uscbiostats
 XRSCC,ericksuhel
 xsdm,xsdm-project
+XSLmodels,kachergis
 xslt,ropensci
 XSRecencyX,feigao1
 xSub,zhukovyuri
