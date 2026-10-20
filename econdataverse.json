@@ -1,0 +1,37 @@
+[
+  {
+    "package": "econdatasets",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-econdatasets"
+  },
+  {
+    "package": "econdataverse",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-econdataverse"
+  },
+  {
+    "package": "econtools",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-econtools"
+  },
+  {
+    "package": "oecdoda",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-oecdoda"
+  },
+  {
+    "package": "owidapi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-owidapi"
+  },
+  {
+    "package": "uisapi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-uisapi"
+  },
+  {
+    "package": "wbwdi",
+    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
+    "url": "https://github.com/econdataverse/r-wbwdi"
+  }
+]

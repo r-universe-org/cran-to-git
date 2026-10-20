@@ -1931,7 +1931,6 @@ bigsplines,cran
 bigstatsr,privefl
 bigstep,pmszulc
 bigSurvSGD,atarkhan
-bigtabulate,cran
 bigtcr,cran
 bigtime,ineswilms
 bigutilsr,privefl
@@ -2786,7 +2785,7 @@ camerondata,juvlac
 campaignmanageR,pablosanmar
 campfin,irworkshop
 campsis,campsisverse
-campsismod,calvagone
+campsismod,campsisverse
 campsisnca,campsisverse
 camsRad,ropensci
 camtrapdp,inbo
@@ -3950,6 +3949,7 @@ coefficientalpha,johnnyzhz
 coefplot,jaredlander
 coenocliner,gavinsimpson
 coenoflex,dvrbts
+coevolve,ropensci
 cofad,johannes-titz
 coFAST,feiyoung
 coffee,maarten14c
@@ -4061,7 +4061,6 @@ comato,cran
 COMBAT,mw201608
 combat.enigma,jrad1
 ComBatFamQC,zheng206
-combcoint,janine-langerbein
 combi,bioc
 combinat,vjcitn
 combinatorics,anik4322
@@ -6654,8 +6653,8 @@ ecolTest,hugosal
 EcoMetrics,mutuasam
 EconAndProdEfficiency,tanujrlbcau
 EconCausal,isadorenabi
-econdatasets,tidy-intelligence
-econdataverse,tidy-intelligence
+econdatasets,econdataverse
+econdataverse,econdataverse
 econet,change-prin
 EcoNetGen,cboettig
 EconEvalR,vinodhpmd
@@ -6663,7 +6662,7 @@ EconGeo,paballand
 EcoNiche,yedeng-lab
 econid,teal-insights
 economiccomplexity,pachadotdev
-econtools,tidy-intelligence
+econtools,econdataverse
 econullnetr,ivaughan
 ecopower,cran
 ecoreg,chjackson
@@ -7439,7 +7438,6 @@ exactLTRE,chrissy3815
 ExactMed,caubm
 ExactMultinom,resinj
 exactRankTests,thothorn
-ExactTree,github-ms
 ExactVaRTest,yujianchen219
 exametrika,kosugitti
 examly,ahmetcaliskan1987
@@ -10428,7 +10426,6 @@ gunsales,eddelbuettel
 gustave,inseefr
 gutenbergr,ropensci
 GUTS,ojakoby
-GVARX,cran
 gvc,bquast
 gvcAnalyzer,ballavbabu
 gvcR,myaseen208
@@ -16368,7 +16365,6 @@ noncomplyR,sscogges
 nondetects,bioc
 NonlinearDiD,subirhait
 nonLinearDotPlot,sorendoring
-NonlinearTSA,cran
 nonlinearTseries,constantino-garcia
 nonmem2R,cran
 nonmem2rx,nlmixr2
@@ -16694,7 +16690,7 @@ OdysseusPathwayModule,a1exanderalexeyuk
 OdysseusSurvivalModule,a1exanderalexeyuk
 odyssey,nfrerebeau
 OECD,expersso
-oecdoda,tidy-intelligence
+oecdoda,econdataverse
 OEFPIL,cran
 oeis.tools,oeistools
 oeli,loelschlaeger
@@ -17107,7 +17103,7 @@ orthGS,ealedo
 orthoDr,teazrq
 orthogene,bioc
 orthogonalsplinebasis,halpo
-orthoMTL,cran
+orthoMTL,novartis
 OrthoPanels,mapickup
 orthopolynom,cran
 orthos,bioc
@@ -17213,7 +17209,7 @@ owd,feakster
 owdbr,kimjoaoun
 OWEA,shuaih0303
 OwenQ,stla
-owidapi,tidy-intelligence
+owidapi,econdataverse
 owidR,piersyork
 ows4R,eblondel
 oxcAAR,isaakiel
@@ -20347,7 +20343,7 @@ rebus.unicode,richierocks
 RECA,nanxstats
 recalibratiNN,cmusso86
 recapr,mbtyers
-RecAssoRules,cran
+RecAssoRules,louisraimbault
 recastlessons,vladbazon
 receptiviti,receptiviti
 recexcavAAR,isaakiel
@@ -25538,7 +25534,7 @@ TDboost,archer-yang-lab
 TDCM,cotterell
 tdcmStan,atlas-aai
 TDCor,lucasmikael
-TDIagree,annafelip-badia
+TDIagree,bimau-pccb
 tdigest,hrbrmstr
 TDLM,rtdlm
 TDPanalysis,mxdurand
@@ -26552,7 +26548,6 @@ tsdisagg2,jvieira13
 TSdisaggregation,mosleyl
 tsdistributions,tsmodels
 TSDT,elilillyco
-tsDyn,matthieustigler
 TSE,joshlmiller1978
 TSEAL,vg-lab
 tseffects,sorenjordan
@@ -26802,7 +26797,7 @@ uGMAR,saviviro
 ugomquantreg,jmazucheli
 UHM,tbaghfalaki
 ui,minnage
-uisapi,tidy-intelligence
+uisapi,econdataverse
 uiucthemes,illinois-r
 uk2us,bldavies
 ukbabynames,mine-cetinkaya-rundel
@@ -27523,7 +27518,7 @@ wbs,cran
 wbsd,dprei
 wbstats,pachadotdev
 wbsts,kakoko1984
-wbwdi,tidy-intelligence
+wbwdi,econdataverse
 wcc,cran
 wcde,guyabel
 WCE,cran

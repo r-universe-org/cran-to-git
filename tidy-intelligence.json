@@ -3,40 +3,5 @@
     "package": "datacommons",
     "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
     "url": "https://github.com/tidy-intelligence/r-datacommons"
-  },
-  {
-    "package": "econdatasets",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-econdatasets"
-  },
-  {
-    "package": "econdataverse",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-econdataverse"
-  },
-  {
-    "package": "econtools",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-econtools"
-  },
-  {
-    "package": "oecdoda",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-oecdoda"
-  },
-  {
-    "package": "owidapi",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-owidapi"
-  },
-  {
-    "package": "uisapi",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-uisapi"
-  },
-  {
-    "package": "wbwdi",
-    "maintainer": "Christoph Scheuch <christoph@tidy-intelligence.com>",
-    "url": "https://github.com/tidy-intelligence/r-wbwdi"
   }
 ]
