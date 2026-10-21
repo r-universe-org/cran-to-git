@@ -3,5 +3,11 @@
     "package": "censusindia",
     "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
     "url": "https://github.com/saketlab/censusindia"
+  },
+  {
+    "package": "genevintage",
+    "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
+    "url": "https://github.com/saketlab/genevintage",
+    "subdir": "R"
   }
 ]
