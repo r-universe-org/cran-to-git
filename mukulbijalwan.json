@@ -2,16 +2,21 @@
   {
     "package": "DPrivStats",
     "maintainer": "Mukul Bijalwan <mukulbijalwan555@gmail.com>",
-    "url": "https://github.com/mukulbijalwan/dprivstats"
+    "url": "https://github.com/cran/DPrivStats"
   },
   {
     "package": "DPSynth",
     "maintainer": "Mukul Bijalwan <mukulbijalwan555@gmail.com>",
-    "url": "https://github.com/mukulbijalwan/dpsynth"
+    "url": "https://github.com/cran/DPSynth"
   },
   {
     "package": "fuzzySurvival",
     "maintainer": "Mukul Bijalwan <mukulbijalwan555@gmail.com>",
     "url": "https://github.com/mukulbijalwan/fuzzysurvival"
+  },
+  {
+    "package": "IFFuzzyStats",
+    "maintainer": "Mukul Bijalwan <mukulbijalwan555@gmail.com>",
+    "url": "https://github.com/cran/IFFuzzyStats"
   }
 ]

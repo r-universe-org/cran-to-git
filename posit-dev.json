@@ -59,7 +59,8 @@
     "package": "querychat",
     "maintainer": "Garrick Aden-Buie <garrick@posit.co>",
     "url": "https://github.com/posit-dev/querychat",
-    "subdir": "pkg-r"
+    "subdir": "pkg-r",
+    "registry": "archived"
   },
   {
     "package": "shinychat",

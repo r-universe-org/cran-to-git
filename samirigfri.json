@@ -1,5 +1,15 @@
 [
   {
+    "package": "ET0MassModels",
+    "maintainer": "Samir Barman <samir.igfri@gmail.com>",
+    "url": "https://github.com/samirigfri/et0massmodels"
+  },
+  {
+    "package": "ET0RadModels",
+    "maintainer": "Samir Barman <samir.igfri@gmail.com>",
+    "url": "https://github.com/samirigfri/et0radmodels"
+  },
+  {
     "package": "ET0TempModels",
     "maintainer": "Samir Barman <samir.igfri@gmail.com>",
     "url": "https://github.com/samirigfri/et0tempmodels"

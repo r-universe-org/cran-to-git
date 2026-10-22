@@ -1,5 +1,10 @@
 [
   {
+    "package": "gaussianprocesses",
+    "maintainer": "Diogo Ribeiro <dfr@esmad.ipp.pt>",
+    "url": "https://gitlab.com/diogoribeiro7/gaussian-processes-r"
+  },
+  {
     "package": "heteroTests",
     "maintainer": "Diogo Ribeiro <dfr@esmad.ipp.pt>",
     "url": "https://github.com/diogoribeiro7/heterotests"

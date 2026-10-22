@@ -1,5 +1,11 @@
 [
   {
+    "package": "tsexplorer",
+    "maintainer": "Diego J. Pedregal <diego.pedregal@uclm.es>",
+    "url": "https://github.com/djpedregal/tsexplorer",
+    "subdir": "r"
+  },
+  {
     "package": "UComp",
     "maintainer": "Diego J. Pedregal <diego.pedregal@uclm.es>",
     "url": "https://github.com/cran/UComp"

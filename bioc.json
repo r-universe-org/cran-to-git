@@ -2444,6 +2444,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CMEnt",
+    "maintainer": "Vasileios Lemonidis <vasileios.lemonidis@uantwerpen.be>",
+    "url": "https://github.com/cmg-ua/cment",
+    "registry": "bioc"
+  },
+  {
     "package": "cn.farms",
     "maintainer": "Andreas Mitterecker <mitteran11@gmail.com>",
     "url": "https://git.bioconductor.org/packages/cn.farms",
@@ -11497,6 +11503,12 @@
     "package": "RolDE",
     "maintainer": "Medical Bioinformatics Centre <mbc@utu.fi>",
     "url": "https://github.com/elolab/rolde",
+    "registry": "bioc"
+  },
+  {
+    "package": "rols",
+    "maintainer": "Sehyun Oh <shbrief@gmail.com>",
+    "url": "https://github.com/shbrief/rols",
     "registry": "bioc"
   },
   {

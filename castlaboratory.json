@@ -1,5 +1,15 @@
 [
   {
+    "package": "edetect",
+    "maintainer": "André Leite <leite@castlab.org>",
+    "url": "https://github.com/castlaboratory/edetect"
+  },
+  {
+    "package": "fieldopt",
+    "maintainer": "André Leite <leite@castlab.org>",
+    "url": "https://github.com/castlaboratory/fieldopt"
+  },
+  {
     "package": "seqbench",
     "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/castlaboratory/seqbench"

@@ -669,7 +669,8 @@
     "package": "SpatialExtremes",
     "maintainer": "Mathieu Ribatet <mathieu.ribatet@ec-nantes.fr>",
     "url": "https://github.com/r-forge/spatialextremes",
-    "subdir": "pkg"
+    "subdir": "pkg",
+    "registry": "archived"
   },
   {
     "package": "stabledist",
