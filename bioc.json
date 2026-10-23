@@ -9718,6 +9718,12 @@
     "registry": "bioc"
   },
   {
+    "package": "path2path",
+    "maintainer": "Jun Li <jun.li@nd.edu>",
+    "url": "https://github.com/jli-stat/path2path",
+    "registry": "bioc"
+  },
+  {
     "package": "Path2PPI",
     "maintainer": "Oliver Philipp <contact@oliverphilipp.info>",
     "url": "https://git.bioconductor.org/packages/Path2PPI",
@@ -10354,6 +10360,12 @@
     "registry": "bioc"
   },
   {
+    "package": "prolfqua",
+    "maintainer": "Christian Panse <cp@fgcz.ethz.ch>",
+    "url": "https://github.com/fgcz/prolfqua",
+    "registry": "bioc"
+  },
+  {
     "package": "pRoloc",
     "maintainer": "Lisa Breckels <lms79@cam.ac.uk>",
     "url": "https://github.com/lgatto/proloc",
@@ -10705,6 +10717,12 @@
     "package": "rain",
     "maintainer": "Paul F. Thaben <paul.thaben@charite.de>",
     "url": "https://git.bioconductor.org/packages/rain",
+    "registry": "bioc"
+  },
+  {
+    "package": "RAMEN",
+    "maintainer": "Erick I. Navarro-Delgado <erick.delgado@ubc.ca>",
+    "url": "https://github.com/ropensci/ramen",
     "registry": "bioc"
   },
   {
@@ -13453,6 +13471,12 @@
     "package": "STRINGdb",
     "maintainer": "Damian Szklarczyk <damian.szklarczyk@imls.uzh.ch>",
     "url": "https://git.bioconductor.org/packages/STRINGdb",
+    "registry": "bioc"
+  },
+  {
+    "package": "STRprofilerR",
+    "maintainer": "Jared Andrews <jared.andrews07@gmail.com>",
+    "url": "https://github.com/j-andrews7/strprofilerr",
     "registry": "bioc"
   },
   {
