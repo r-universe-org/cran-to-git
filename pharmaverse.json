@@ -145,9 +145,44 @@
     "url": "https://github.com/pharmaverse/sdtmchecks"
   },
   {
+    "package": "teal",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal"
+  },
+  {
+    "package": "teal.code",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.code"
+  },
+  {
+    "package": "teal.data",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.data"
+  },
+  {
     "package": "teal.logger",
     "maintainer": "Dony Unardi <unardid@gene.com>",
     "url": "https://github.com/pharmaverse/teal.logger"
+  },
+  {
+    "package": "teal.picks",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.picks"
+  },
+  {
+    "package": "teal.reporter",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.reporter"
+  },
+  {
+    "package": "teal.slice",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.slice"
+  },
+  {
+    "package": "teal.widgets",
+    "maintainer": "Dony Unardi <unardid@gene.com>",
+    "url": "https://github.com/pharmaverse/teal.widgets"
   },
   {
     "package": "tern",

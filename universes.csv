@@ -1339,7 +1339,7 @@ BANDITS,bioc
 banditsCI,uchicago-pol-methods
 bandle,bioc
 bandsfdp,uni-arya
-banffIT,personalizedtransplantcare
+banffIT,guifabre
 bang,paulnorthrop
 bangladesh,cran
 Banksy,bioc
@@ -2681,6 +2681,7 @@ BuSuCo,cran
 butcher,tidymodels
 butterfly,ropensci
 butterflyOptions,maheshpkumar
+ButtR,cran
 BuyseTest,bozenne
 buzzMed,olfactorybulb
 Bvalue,zhaoyi1026
@@ -12850,7 +12851,7 @@ ldblock,bioc
 ldbod,kwilliams83
 ldbounds,aflyfortrout
 LDcorSV,aursiber
-lddmm,cran
+lddmm,giorgiopaulon
 ldhmm,slihn
 LDlinkR,cbiit
 LDM,yijuanhu
@@ -20552,6 +20553,7 @@ registr,julia-wrobel
 registry,cran
 RegKink,cran
 reglogit,rbgramacy
+reglScatterplotR,bioc
 regmed,sinnweja
 regmedint,kaz-yos
 regmhmm,henryleongstat
@@ -24176,6 +24178,7 @@ SpatialCPie,bioc
 spatialcvR,sowsalim01
 spatialData,blasbenito
 SpatialData.data,bioc
+SpatialData.plot,bioc
 spatialdataR,bioc
 spatialDE,bioc
 SpatialDecon,bioc
@@ -24961,6 +24964,7 @@ STREAK,cran
 stream,mhahsler
 streambugs,nschuwirth
 StreamCatTools,usepa
+streamConnect,mhahsler
 streamDAG,moondog1969
 streamDepletr,foundryspatial
 StreamMetabolism,ssefick
@@ -25008,7 +25012,7 @@ StructuralDecompose,allen-1242
 StructuralVariantAnnotation,bioc
 StructureMC,yifuliu
 strvalidator,oskarhansson
-sts,cran
+sts,mankad-research
 sTSD,cran
 stt.api,cornball-ai
 stuart,martscht
@@ -25631,17 +25635,17 @@ tea,cran
 TeachHist,carstenlange
 TeachingDemos,glsnow
 TeachingSampling,psirusteam
-teal,insightsengineering
-teal.code,insightsengineering
-teal.data,insightsengineering
+teal,pharmaverse
+teal.code,pharmaverse
+teal.data,pharmaverse
 teal.logger,pharmaverse
 teal.modules.clinical,insightsengineering
 teal.modules.general,insightsengineering
-teal.picks,insightsengineering
-teal.reporter,insightsengineering
-teal.slice,insightsengineering
+teal.picks,pharmaverse
+teal.reporter,pharmaverse
+teal.slice,pharmaverse
 teal.transform,insightsengineering
-teal.widgets,insightsengineering
+teal.widgets,pharmaverse
 tealeaves,cdmuir
 teamcolors,beanumber
 tectonicr,tobiste
@@ -28209,6 +28213,7 @@ ztpln,mattocci27
 zTree,kirchkamp
 ztype,vincentguyader
 zucbor,pedrobtz
+zucrypt,pedrobtz
 zucsv,pedrobtz
 zuexact,pedrobtz
 zufast,pedrobtz

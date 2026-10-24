@@ -55,21 +55,6 @@
     "url": "https://github.com/insightsengineering/simidm"
   },
   {
-    "package": "teal",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal"
-  },
-  {
-    "package": "teal.code",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.code"
-  },
-  {
-    "package": "teal.data",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.data"
-  },
-  {
     "package": "teal.modules.clinical",
     "maintainer": "Dony Unardi <unardid@gene.com>",
     "url": "https://github.com/insightsengineering/teal.modules.clinical"
@@ -80,29 +65,9 @@
     "url": "https://github.com/insightsengineering/teal.modules.general"
   },
   {
-    "package": "teal.picks",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.picks"
-  },
-  {
-    "package": "teal.reporter",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.reporter"
-  },
-  {
-    "package": "teal.slice",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.slice"
-  },
-  {
     "package": "teal.transform",
     "maintainer": "Dony Unardi <unardid@gene.com>",
     "url": "https://github.com/insightsengineering/teal.transform"
-  },
-  {
-    "package": "teal.widgets",
-    "maintainer": "Dony Unardi <unardid@gene.com>",
-    "url": "https://github.com/insightsengineering/teal.widgets"
   },
   {
     "package": "tern.gee",

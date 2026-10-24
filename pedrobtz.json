@@ -27,8 +27,7 @@
   {
     "package": "mdbx",
     "maintainer": "Pedro Baltazar <pedrobtz@gmail.com>",
-    "url": "https://github.com/pedrobtz/mdbx",
-    "registry": "archived"
+    "url": "https://github.com/pedrobtz/mdbx"
   },
   {
     "package": "openlineage",
@@ -49,6 +48,11 @@
     "package": "zucbor",
     "maintainer": "Pedro Baltazar <pedrobtz@gmail.com>",
     "url": "https://github.com/pedrobtz/zucbor"
+  },
+  {
+    "package": "zucrypt",
+    "maintainer": "Pedro Baltazar <pedrobtz@gmail.com>",
+    "url": "https://github.com/pedrobtz/zucrypt"
   },
   {
     "package": "zucsv",
