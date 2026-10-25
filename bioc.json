@@ -5079,6 +5079,12 @@
     "registry": "bioc"
   },
   {
+    "package": "GDSAnnotator",
+    "maintainer": "Xiuwen Zheng <xiuwen.zheng@abbvie.com>",
+    "url": "https://github.com/zhengxwen/gdsannotator",
+    "registry": "bioc"
+  },
+  {
     "package": "GDSArray",
     "maintainer": "Xiuwen Zheng <zhengx@u.washington.edu>",
     "url": "https://github.com/bioconductor/gdsarray",

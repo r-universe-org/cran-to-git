@@ -145,6 +145,11 @@
     "url": "https://github.com/ohdsi/phenotyper"
   },
   {
+    "package": "PheValuator",
+    "maintainer": "William J. O'Brien <wobrien8@its.jnj.com>",
+    "url": "https://github.com/ohdsi/phevaluator"
+  },
+  {
     "package": "ResultModelManager",
     "maintainer": "Jamie Gilbert <gilbert@ohdsi.org>",
     "url": "https://github.com/ohdsi/resultmodelmanager"
