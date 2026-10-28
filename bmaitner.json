@@ -5,6 +5,11 @@
     "url": "https://github.com/cran/BIEN"
   },
   {
+    "package": "glyospalettes",
+    "maintainer": "Brian Maitner <bmaitner@gmail.com>",
+    "url": "https://github.com/bmaitner/glyospalettes"
+  },
+  {
     "package": "GNRS",
     "maintainer": "Brian Maitner <bmaitner@gmail.com>",
     "url": "https://github.com/cran/GNRS"
@@ -33,5 +38,10 @@
     "package": "TNRS",
     "maintainer": "Brian Maitner <bmaitner@gmail.com>",
     "url": "https://github.com/cran/TNRS"
+  },
+  {
+    "package": "transformerpalettes",
+    "maintainer": "Brian Maitner <bmaitner@gmail.com>",
+    "url": "https://github.com/bmaitner/transformerpalettes"
   }
 ]

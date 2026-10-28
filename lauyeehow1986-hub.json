@@ -3,5 +3,11 @@
     "package": "flexsynth",
     "maintainer": "Yee How Lau <lauyeehow1986@gmail.com>",
     "url": "https://github.com/lauyeehow1986-hub/flexsynth"
+  },
+  {
+    "package": "pyrt",
+    "maintainer": "Yee How Lau <lauyeehow1986@gmail.com>",
+    "url": "https://github.com/lauyeehow1986-hub/r_python_converter",
+    "subdir": "packages/pyrt"
   }
 ]

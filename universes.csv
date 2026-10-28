@@ -544,6 +544,7 @@ allomr,ziegenknauff
 Allspice,cran
 ALLSPICER,wlu04
 alluvial,mbojan
+almanac,davisvaughan
 alone,doehm
 alookr,choonghyunryu
 aloom,damjankrstajic
@@ -4933,6 +4934,7 @@ cubing,ste6an-hub
 Cubist,topepo
 cucumber,jakubsob
 cuda.ml,mlverse
+cudacellr,cudaverse
 cudaverse,cudaverse
 CUFF,giguerch
 CUMP,cran
@@ -6510,6 +6512,7 @@ DynForest,anthonydevaux
 dyngen,dynverse
 dynlm,zeileis
 dynmix,kdrachal
+DynMSR,hetalang
 DynNom,cran
 dynpanel,zedtaha
 dynparam,dynverse
@@ -7017,7 +7020,6 @@ encryptedRmd,dirkschumacher
 encryptr,surgicalinformatics
 enderecobr,ipea
 endogeneity,jnpeng
-EndoMineR,ropensci
 endorse,sensitivequestions
 endtoend,chedgala
 energy,mariarizzo
@@ -7032,6 +7034,7 @@ english,billvenables
 EngrEcon,liyabera
 engression,cran
 EngrExpt,cran
+enhancedTtest,analystnyamu
 EnhancedVolcano,bioc
 enhancer,covaruber
 enhancerHomologSearch,bioc
@@ -7819,6 +7822,7 @@ fastNaiveBayes,mskogholt
 fastnet,networkgroupr
 fastOnlineCpt,ghahn-hsph
 FastPCS,kvak
+fastphylosig,yinwen-ecology
 fastPLS,tkcaccia
 fastplyr,nicchr
 fastpng,coolbutuseless
@@ -8577,6 +8581,7 @@ frailtyEM,tbalan
 frailtyHL,msnoh1
 frailtyMMpen,heilokchow
 frailtypack,cran
+FrailtyPackPlus,shikhartyagi
 frailtyROC,kmbeyene
 frailtySurv,vmonaco
 frair,dpritchard
@@ -8978,6 +8983,7 @@ gcite,muschellij2
 gcKrig,hanzifei
 gclink,liuyanglee
 gclm,gherardovarando
+gcloglog,bertvanderveen
 gclus,cbhurley
 gcmr,crisvarin
 gcmrec,isglobal-brge
@@ -9925,6 +9931,7 @@ glvmfit,cran
 glycoTraitR,bioc
 glydraw,glycoverse
 glymotif,glycoverse
+glyospalettes,bmaitner
 glyparse,glycoverse
 glyph,josh45-source
 glyrepr,glycoverse
@@ -14708,6 +14715,7 @@ miRNApath,bioc
 MiRNAQCD,alessioperinelli
 miRNAtap,bioc
 mirrorselect,yulab-smu
+mirrorslope,sullivanstatistics
 MiRSEA,hanjunwei-lab
 miRSM,bioc
 miRspongeR,bioc
@@ -15252,6 +15260,7 @@ mosclust,anacletolab
 mosdef,bioc
 MOsemiind,cran
 MOSim,bioc
+mospiR,saketkc
 MOST,dziakj1
 mosum,haeran-cho
 MoTBFs,admaldonado
@@ -16059,6 +16068,7 @@ neotoma2,neotomadb
 nephro,cran
 NEpiC,cran
 neptune,neptune-ai
+nesstarR,saketkc
 nestable,derekunderwood
 NeStage,raymondltremblay
 nestcolor,insightsengineering
@@ -19171,6 +19181,7 @@ PTERP,laylaparast
 ptetools,bcallaway11
 ptinpoly,maisogjm
 pTITAN2,usepa
+ptLasso,erincr
 PTLENKies,otodji
 ptm,jcaledo
 ptmixed,m-signo
@@ -19295,6 +19306,7 @@ pyinit,dakep
 pylintR,stla
 pyMTurkR,vineetbansal
 pyramid,minatonakazawa
+pyrt,lauyeehow1986-hub
 pysd2r,jimduggan
 pysparklyr,mlverse
 PytrendsLongitudinalR,cran
@@ -19723,6 +19735,7 @@ radiant.data,radiant-rstats
 radiant.design,radiant-rstats
 radiant.model,radiant-rstats
 radiant.multivariate,radiant-rstats
+radiatR,johnkirwan
 RadioGx,bioc
 RadioSonde,dnychka
 radir,dmorinya
@@ -19872,6 +19885,7 @@ rapidphylo,arindamroychoudhury
 RapidPolygonLookup,markusloecher
 rapidraker,crew102
 rapidsplithalf,spiritspeak
+rapidxlsx,aminfathullah
 rapidxmlr,cran
 RApiSerialize,eddelbuettel
 Rapp,r-lib
@@ -20321,7 +20335,7 @@ rdmulti,mdcattaneo
 rdnb,chgrl
 RDnp,hsnbulut
 rdocdump,e-kotov
-rdomains,soodoku
+rdomains,themains
 RDota2,lyzander
 rdoxygen,mlysy
 RDP,robertdj
@@ -20604,6 +20618,7 @@ regstat,mtloots
 regsubseq,diystat
 regtomean,infinitomagico
 regtools,matloff
+ReguGLH,haoranli
 regulog,repro-stats
 regutools,bioc
 rehh,cran
@@ -21767,6 +21782,7 @@ RProtoBuf,eddelbuettel
 RProtoBufLib,bioc
 RPscoring,daphnaharel
 rpsftm,cran
+rpspanel,adebayomoses
 rpsurv,ielbadisy
 RPtests,rajenshah
 rptR,mastoffel
@@ -24506,6 +24522,7 @@ Spower,philchalmers
 SPPcomb,cran
 spphpr,cran
 SpPOP,cran
+sppt,martinandresen
 SppTrend,cran
 spqdep,f8l5h9
 spqn,bioc
@@ -25204,6 +25221,7 @@ surveyexplorer,liamhaller
 surveyframe,mohammedalisharafuddin
 surveygraph,surveygraph
 SurveyNCD,stataid-research-lab
+surveynnet,237triangle
 surveyplanning,csblatvia
 surveyPrev,richardli
 surveysd,statistikat
@@ -26444,6 +26462,7 @@ Transform,osmandag
 transform.hazards,palryalen
 transformer,bquast
 transformerForecasting,harish11999
+transformerpalettes,bmaitner
 transformGamPoi,bioc
 transformmos,babaknaderi
 transformr,thomasp85
@@ -26614,6 +26633,7 @@ trtf,r-forge
 trtswitch,kaifenglu
 truchet,paezha
 trud,ropensci
+truedist,cran
 truelies,hughjonesd
 TrueSkillThroughTime,glandfried
 TrueWAP,callawaycross
@@ -26754,6 +26774,7 @@ TTE,nomahi
 tteICE,mephas
 ttgsea,bioc
 tth,zeileis
+TTM,tchang-w
 TTMap,bioc
 tTOlr,jhmaindonald
 TTR,joshuaulrich
@@ -27807,6 +27828,7 @@ WindCurves,neerajdhanraj
 windex,kevinarbuckle
 windfarmGA,ysosirius
 windows.pls,egonzato
+windscape,matthewkling
 windsoraiR,windsor-ai
 wINEQ,sebastianwojcik86
 winfapReader,ilapros
@@ -28187,6 +28209,7 @@ zFPKM,bioc
 ZIBR,pennchopmicrobiomeprogram
 ZIDW,dsy109
 zigg,eddelbuettel
+zigimports,lokop5116
 ZIHINAR1,fushengyy
 ZIM,mingstat
 ZIM4rv,fanx0037
@@ -28249,6 +28272,7 @@ zufft,pedrobtz
 zuhtml,pedrobtz
 zujson,pedrobtz
 zukomp,pedrobtz
+zuxml,pedrobtz
 zuyaml,pedrobtz
 ZVCV,leahprice
 ZygosityPredictor,bioc
