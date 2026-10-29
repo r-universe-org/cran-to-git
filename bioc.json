@@ -12226,6 +12226,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scOverlay",
+    "maintainer": "Bernat Gel <bgel@igtp.cat>",
+    "url": "https://github.com/bernatgel/scoverlay",
+    "registry": "bioc"
+  },
+  {
     "package": "scp",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/uclouvain-cbio/scp",

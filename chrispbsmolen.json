@@ -1,5 +1,10 @@
 [
   {
+    "package": "cafast",
+    "maintainer": "Christopher Smolen <chrispbsmolen@gmail.com>",
+    "url": "https://github.com/cran/cafast"
+  },
+  {
     "package": "caverify",
     "maintainer": "Christopher Smolen <chrispbsmolen@gmail.com>",
     "url": "https://github.com/cran/caverify"
