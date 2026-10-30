@@ -13486,6 +13486,12 @@
     "registry": "bioc"
   },
   {
+    "package": "strainspy",
+    "maintainer": "Sudaraka Mallawaarachchi <smallawaarachchi@gmail.com>",
+    "url": "https://github.com/gtonkinhill/strainspy",
+    "registry": "bioc"
+  },
+  {
     "package": "strandCheckR",
     "maintainer": "Thu-Hien To <tothuhien@gmail.com>",
     "url": "https://github.com/uofabioinformaticshub/strandcheckr",
