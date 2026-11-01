@@ -11087,8 +11087,8 @@
   },
   {
     "package": "regioneR",
-    "maintainer": "Bernat Gel <bgel@imppc.org>",
-    "url": "https://git.bioconductor.org/packages/regioneR",
+    "maintainer": "Bernat Gel <bgel@igtp.cat>",
+    "url": "https://github.com/bernatgel/regioner",
     "registry": "bioc"
   },
   {
@@ -14713,6 +14713,12 @@
     "package": "wiggleplotr",
     "maintainer": "Kaur Alasoo <kaur.alasoo@gmail.com>",
     "url": "https://git.bioconductor.org/packages/wiggleplotr",
+    "registry": "bioc"
+  },
+  {
+    "package": "WithinHostExperiment",
+    "maintainer": "Cuiwei Gao <48gaocuiwei@gmail.com>",
+    "url": "https://github.com/cuiweig/withinhostexperiment",
     "registry": "bioc"
   },
   {

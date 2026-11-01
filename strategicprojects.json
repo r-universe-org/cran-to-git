@@ -80,6 +80,12 @@
     "url": "https://github.com/strategicprojects/foresightr"
   },
   {
+    "package": "misocialr",
+    "maintainer": "André Leite <leite@castlab.org>",
+    "url": "https://github.com/strategicprojects/misocial",
+    "subdir": "misocialr"
+  },
+  {
     "package": "obrasgovr",
     "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/obrasgovr"
@@ -146,7 +152,7 @@
   },
   {
     "package": "transferegovr",
-    "maintainer": "Andre Leite <leite@castlab.org>",
+    "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/transferegovr"
   },
   {
@@ -156,7 +162,7 @@
   },
   {
     "package": "webdav",
-    "maintainer": "Andre Leite <leite@castlab.org>",
+    "maintainer": "André Leite <leite@castlab.org>",
     "url": "https://github.com/strategicprojects/webdav"
   },
   {

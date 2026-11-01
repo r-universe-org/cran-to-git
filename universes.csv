@@ -112,6 +112,7 @@ acnr,mpierrejean
 acopula,cran
 acoRn,npechl
 acousticTS,brandynlucca
+acpbvar,ursillofederica
 acR,andersonheri
 ACRER,martakis
 acro,ai-sdc
@@ -1326,6 +1327,7 @@ BalanceCheck,cran
 BalancedSampling,envisim
 baldur,philipberg
 Ball,mamba413
+ballast,sullivanstatistics
 BALLI,cran
 BallMapper,pdlotko
 balnet,erikcs
@@ -2569,6 +2571,7 @@ brulee,tidymodels
 bruneimap,bruneiverse
 brunnermunzel,toshi-ara
 bruno,cran
+brvmr,harzat
 brxx,joshuaraytanzer
 bs4cards,djnavarro
 bs4Dash,rinterface
@@ -3172,6 +3175,7 @@ CellNOptR,bioc
 cellOrigins,davidhmolnar
 cellranger,rsheets
 cellscape,bioc
+cellsynth,martynk
 celltrackR,jtextor
 CellTrails,bioc
 cellVolumeDist,cran
@@ -8936,6 +8940,7 @@ garma,rlph50
 garray,huangqqss
 GarrettRank,cran
 GARS,bioc
+GAS,leopoldocatania
 gasanalyzer,cran
 gaselect,dakep
 gasfluxes,ecoroland2
@@ -9350,6 +9355,7 @@ geostatsp,r-forge
 GEOsubmission,bioc
 geotargets,ropensci
 GeoTcgaData,bioc
+geotech,iembry
 GeoThinneR,jmestret
 geotools,antoinelucas64
 geotoolsR,cran
@@ -12159,7 +12165,7 @@ ivcheck,charlescoverdale
 IVCor,scottpanhan
 ivd,consistentlybetter
 ivdesc,sumtxt
-ivDiag,cran
+ivDiag,apoorvalal
 IVDML,cyrillsch
 ivdoctr,emallickhossain
 ivdtools,hiox-tech
@@ -12888,7 +12894,7 @@ LDAandLDAS,cran
 LDAcoop,zytohmgu
 ldamatch,kylebgorman
 ldaPrototype,jonasrieger
-LDAShiny,javierdelahoz
+LDAShiny,jdelahoz-m
 LDATree,moran79
 LDATS,weecology
 LDAvis,cpsievert
@@ -13947,6 +13953,7 @@ matsindf,matthewheun
 matsketch,mqfarooqi1
 matSPACE,kimhyew1
 matter,bioc
+MatTransMix,xuwenzhu20
 matuR,josedv82
 mau,pedroguarderas
 mauricer,ropensci
@@ -14761,6 +14768,7 @@ miscTools,arne-henningsen
 miselect,cran
 misha,tanaylab
 misl,justinmanjourides
+misocialr,strategicprojects
 mispitools,marsicofl
 mispr,cran
 misPRIME,treerlikesu
@@ -15489,7 +15497,7 @@ mslp,bioc
 msm,chjackson
 msma,cran
 msme,cran
-MSMGOptimizer,duah-philip
+MSMGOptimizer,cran
 MSML,mommy003
 msmsEDA,bioc
 msmsTests,bioc
@@ -16805,6 +16813,7 @@ OdysseusPathwayModule,a1exanderalexeyuk
 OdysseusSurvivalModule,a1exanderalexeyuk
 odyssey,nfrerebeau
 OECD,expersso
+OECDdata,alekrutkowski
 oecdoda,econdataverse
 OEFPIL,cran
 oeis.tools,oeistools
@@ -22963,6 +22972,7 @@ SelfControlledCaseSeries,ohdsi
 SelfControlledCohort,ohdsi
 selfingTree,cran
 seliNDRIx,venkatesanraja
+selSurv,cran
 sem,zhenghuanie
 semantic.assets,appsilon
 semantic.dashboard,appsilon
@@ -25501,6 +25511,7 @@ syrona,healthinformaticsut
 syrup,simonpcouch
 sys,jeroen
 sysAgNPs,xitingwang-ida
+sysbreak,zhongjun-qu
 SyScSelection,cran
 sysfonts,yixuan
 sysid,syerramilli
@@ -25865,7 +25876,7 @@ texPreview,yonicd
 texreg,leifeld-lab
 text,oscarkjell
 text.alignment,digi-vub
-text2emotion,hateprograming
+text2emotion,natwwww
 text2map,dustinstoltz
 text2sdg,dwulff
 text2sdgData,psychobas
@@ -26543,6 +26554,7 @@ traseR,bioc
 Tratamentos.ad,cran
 traudem,lucarraro
 traumar,bemts-hhs
+traveltime,idem-lab
 traveltimeR,traveltime-dev
 trawl,almutveraart
 trc,cran
@@ -27519,6 +27531,7 @@ vivid,alaninglis
 vivo,modeloriented
 vizClust,cran
 vizdraws,ignacio82
+vizintel,pooja-6318
 VizModules,j-andrews7
 VizTest,cran
 vkR,dementiy
@@ -27897,6 +27910,7 @@ wishmom,raymond-kan
 WISP.data,oggioniale
 withdots,nikkrieger
 wither,torbjorn
+WithinHostExperiment,bioc
 withr,r-lib
 wizaRdry,belieflab
 wjake,wjakethompson
