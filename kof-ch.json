@@ -1,11 +1,5 @@
 [
   {
-    "package": "kofdata",
-    "maintainer": "Matthias Bannert <bannert@kof.ethz.ch>",
-    "url": "https://github.com/kof-ch/kofdata",
-    "registry": "archived"
-  },
-  {
     "package": "tstools",
     "maintainer": "Stéphane Bisinger <bisinger@kof.ethz.ch>",
     "url": "https://github.com/kof-ch/tstools"
