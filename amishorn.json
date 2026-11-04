@@ -3,5 +3,10 @@
     "package": "FARM",
     "maintainer": "Ramón Christen <hiroshima@bluewin.ch>",
     "url": "https://github.com/cran/FARM"
+  },
+  {
+    "package": "FARM.eval",
+    "maintainer": "Ramón Christen <hiroshima@bluewin.ch>",
+    "url": "https://github.com/cran/FARM.eval"
   }
 ]

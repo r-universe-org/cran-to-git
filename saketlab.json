@@ -11,9 +11,25 @@
     "subdir": "R"
   },
   {
+    "package": "lightson",
+    "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
+    "url": "https://github.com/saketlab/lightson"
+  },
+  {
+    "package": "SexSeek",
+    "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
+    "url": "https://github.com/saketlab/sexseek"
+  },
+  {
     "package": "varunayan",
     "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
     "url": "https://github.com/saketlab/varunayan",
+    "subdir": "R"
+  },
+  {
+    "package": "vayuayan",
+    "maintainer": "Saket Choudhary <saketc@iitb.ac.in>",
+    "url": "https://github.com/saketlab/vayuayan",
     "subdir": "R"
   }
 ]

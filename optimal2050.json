@@ -3,5 +3,10 @@
     "package": "glpsol",
     "maintainer": "Oleg Lugovoy <olugovoy@optimalsolution.dev>",
     "url": "https://github.com/optimal2050/glpsol"
+  },
+  {
+    "package": "nestedscales",
+    "maintainer": "Oleg Lugovoy <olugovoy@optimalsolution.dev>",
+    "url": "https://github.com/optimal2050/nestedscales"
   }
 ]

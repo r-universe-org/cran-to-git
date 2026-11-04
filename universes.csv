@@ -4186,6 +4186,7 @@ Compositionalasmr,cran
 Compositionalcln,cran
 CompositionalClust,cran
 CompositionalHDDA,cran
+CompositionalLASSO,cran
 CompositionalML,cran
 CompositionalMPT,cran
 CompositionalNAimp,cran
@@ -5462,6 +5463,7 @@ deep,blmayer
 deepdep,dominikrafacz
 deepgmm,suren-rathnayake
 deepgp,anniesbooth
+deepICMGP,jennychang32
 deepImp,matthias-da
 DeepLearningCausal,hknd23
 deeplr,zumbov2
@@ -7773,6 +7775,7 @@ faraway,julianfaraway
 FARDEEP,yuyingxie
 farff,mlr-org
 FARM,amishorn
+FARM.eval,amishorn
 farmPartial,cran
 farr,iangow
 farrell,feddelegrand7
@@ -9416,6 +9419,7 @@ getwiki,corydonbaylor
 geva,bioc
 GEVACO,cran
 GEVcdn,alexcannon
+GEVStableGarch,thiagodoregosousa
 GEWIST,bioc
 gexp,ivanalaman
 GExPipe,bioc
@@ -9878,7 +9882,9 @@ GLMcat,ylleonv
 glme,mcavs
 glmertree,r-forge
 glmfitmiss,cran
+glmfsa,cran
 glmGamPoi,bioc
+glmheaders,tylermorganwall
 glmlep,wencanhong-coder
 glmm,knudson1
 glmm.hp,laijiangshan
@@ -11563,6 +11569,7 @@ IMD,humaniverse
 imdbapi,cran
 imdR,subhradip25
 iMediate,cran
+imedR,chanikyanaiducn7
 imf.data,pedrobtz
 imfapi,teal-insights
 ImFoR,imiqbal
@@ -11756,6 +11763,7 @@ inlabru,inlabru-org
 INLAcircular,xiangyestats
 INLAjoint,denisrustand
 inlamemi,emmaskarstein
+inlaops,novica
 INLAspacetime,eliaskrainski
 INLAtools,eliaskrainski
 INLAvaan,haziqj
@@ -13087,6 +13095,7 @@ LightLogR,tscnlab
 lightparser,thinkr-open
 lightr,ropensci
 lightsf,roming20
+lightson,saketlab
 lightsout,daattali
 likelihood,lmurphy186232
 likelihood.contr,queelius
@@ -15040,6 +15049,7 @@ MMDCopula,alexisderumigny
 MMDiff2,bioc
 MMDvariance,weiliang
 mme,mestherlv
+MMEFM,kx-liu
 mmeln,giguerch
 MMeM,pengluyaoyao
 mmequiv,kennethataylor
@@ -15107,6 +15117,7 @@ modACDC,uscbiostats
 ModalCens,chedgala
 Modalclust,surajitstat
 ModalForecast,chedgala
+ModalNet,chedgala
 ModCon,bioc
 modeest,paulponcet
 modehunt,numbersman77
@@ -15903,7 +15914,7 @@ mx.crypto,cornball-ai
 mxcc,kzst
 mxfda,julia-wrobel
 mxkssd,doer0
-MXM,stavrospap1
+MXM,cran
 mxmmod,khusmann
 mxnorm,colemanrharris
 mxsem,jhorzek
@@ -16001,6 +16012,7 @@ NAVAECI,alexisderumigny
 navigation,smac-group
 navigatr,uchidamizuki
 nawtilus,hirotokatsumata
+naxp,logmu-org
 NB.MClust,qianli10000
 NBAloveR,koki25ando
 NBAMSeq,bioc
@@ -16101,6 +16113,7 @@ neotoma2,neotomadb
 nephro,cran
 NEpiC,cran
 neptune,neptune-ai
+nerfplus,tiffanymtang
 nert,ropensci
 nesstarR,saketkc
 nestable,derekunderwood
@@ -16110,6 +16123,7 @@ nestedcv,myles-lewis
 nestedLogit,friendly
 NestedMenu,stla
 nestedpp,cran
+nestedscales,optimal2050
 nestfs,mcol
 Nestimate,mohsaqr
 NestMRMC,didsr
@@ -17244,7 +17258,7 @@ OSCV,osavchuk
 osd,xdomingoal
 osdatahub,cran
 osdc,steno-aarhus
-osDesign,shaneuse
+osDesign,cran
 OSDR,cran
 OSFD,shangkunwang01
 osfr,ropensci
@@ -18562,6 +18576,7 @@ polySegratioMM,petebaker
 PolySTest,bioc
 Polytect,bioc
 PolyTree,souravc1979
+PolyTrend,cran
 polywog,brentonk
 POMA,bioc
 POMADE,mikkelvembye
@@ -19602,6 +19617,7 @@ quartets,r-causal
 quartificate,ropensci
 quartify,ddotta
 quarto,quarto-dev
+quartodown,bjarkehautop
 quartose,djnavarro
 quasar,angeella
 QuasR,bioc
@@ -19705,6 +19721,7 @@ r2resize,oobianom
 R2ROC,mommy003
 r2rtf,merck
 R2sample,wolfgangrolke
+r2sbml,sn248
 r2shortcode,oobianom
 r2social,oobianom
 r2spss,aalfons
@@ -21127,6 +21144,7 @@ Rigraphlib,bioc
 rigvf,bioc
 riingo,business-science
 Rilostat,ilostat
+rim,rcst
 RImageJROI,davidcsterratt
 RImagePalette,joelcarlson
 RImmPort,bioc
@@ -22066,6 +22084,7 @@ rsvg,ropensci
 RSVSim,bioc
 rSWeeP,bioc
 rswipl,mgondan
+RSYC,ptompalski
 Rsymphony,r-forge
 rsyncrosim,syncrosim
 rsyntax,kasperwelbers
@@ -22478,6 +22497,7 @@ sarp.snowprofile,phaegeli
 sarp.snowprofile.pyface,fherla
 sars,txm676
 sarsop,boettiger-lab
+sas2r,songyue-chen
 sas7bdat,cran
 SAScii,ajdamico
 sasctl,sassoftware
@@ -22590,6 +22610,7 @@ SCBN,bioc
 scBSP,castleli
 scBubbletree,bioc
 scbursts,cran
+scCAN,bangtran365
 scCATCH,zjufanlab
 scCB2,bioc
 sccca,mohmedsoudy
@@ -23156,6 +23177,7 @@ sevenbridges2,sbg
 sevenC,bioc
 sever,johncoene
 sewage,mwhalen18
+SexSeek,saketlab
 sezgi,tdelphi1981
 sf,r-spatial
 sfa,davidhbernstein
@@ -23244,6 +23266,7 @@ shapes,iandryden
 ShapeSelectForest,xliaosdsu
 SHAPforxgboost,liuyanguu
 shapley,haghish
+shapleydecomp,aucarter
 shapleyHALE,cran
 ShapleyOutlier,marcusmayrhofer
 ShapleyValue,jingyiliang1009
@@ -23282,6 +23305,7 @@ shinipsum,thinkr-open
 shiny,rstudio
 shiny.blueprint,cran
 shiny.destroy,ashbaldry
+shiny.element,kaipingyang
 shiny.emptystate,appsilon
 shiny.exe,aodiakite
 shiny.fluent,appsilon
@@ -24775,6 +24799,7 @@ stacomirtools,cedricbriandgithub
 stacr,chrislyonsky
 STADyUM,bioc
 stagedtrees,stagedtrees
+stagelife,vksharma-bhu
 stagePop,helenkettle
 stageR,bioc
 staggered,pedrohcgs
@@ -25204,6 +25229,7 @@ SuperpixelImageSegmentation,mlampros
 Superpower,arcaldwell49
 SuperRanker,ekstroem
 superspreading,epiverse-trace
+superstats,cran
 SuperSurv,yuelyu21
 supervisedPRIM,dashaub
 SupMZ,myaseen208
@@ -25954,6 +25980,7 @@ TH.data,thothorn
 thames,njirons
 thamesblock,m-metodiev
 thamesmix,m-metodiev
+theaitetos,katharinabrecht-quantum
 theeuh,mrchypark
 theft,hendersontrent
 theftdlc,hendersontrent
@@ -26666,6 +26693,7 @@ trip,trackage
 tripaccess,scao53
 tripack,cran
 tripEstimation,trackage
+triplclust,cdalitz
 triplediff,cran
 TripleR,nicebread
 triplesmatch,kkbrum
@@ -26741,6 +26769,7 @@ tsdisagg2,jvieira13
 TSdisaggregation,mosleyl
 tsdistributions,tsmodels
 TSDT,elilillyco
+tsDyn,matthieustigler
 TSE,joshlmiller1978
 TSEAL,vg-lab
 tseffects,sorenjordan
@@ -26987,6 +27016,7 @@ udpipe,bnosac
 udunits2,pacificclimate
 UEI,ranjitstat
 ufRisk,cran
+ufs,matherion
 UGarima,atchanut
 ugatsdb,sebkrantz
 uGMAR,saviviro
@@ -27032,6 +27062,7 @@ unbalhaar,pfryz
 UncDecomp,kim-seonghyeon
 uncertainty,hugogasca
 uncertainUCDP,doktorandahl
+uncertR,btanay041
 uncmbb,joongsup
 uncorbets,reckziegel
 UNCOVER,samuelemerson
@@ -27317,6 +27348,7 @@ vaultr,vimc
 vaxineR,peiyuliu-biostats
 vaxpmx,vavrycuk-zz
 vayr,acoppock
+vayuayan,saketlab
 vazul,nthun
 VBel,jlimrasc
 VBLPCM,cran
@@ -27681,6 +27713,7 @@ watson,lsablica
 wav,mlverse
 wavClusteR,bioc
 waveband,guynason
+wavecov,jkostal3
 waved,michaelstats
 WaveletANN,ranjitstat
 WaveletArima,ranjitstat
@@ -28033,6 +28066,7 @@ wsMed,yangzhen1999
 wsprv,statliang89
 WSPsignal,julia-dyck
 wsrf,simonyansenzhao
+WSSmod,longo-lab
 wstats,jgaeb
 wstdiff,cran
 WSwavelet,nilotpalsanyal
@@ -28113,6 +28147,7 @@ xlsform2word,avoratovo
 xlsx,colearendt
 xlsx2dfs,gwangjinkim
 xlsxjars,colearendt
+xlum,r-lum
 xmap,cynthiahqy
 xmapbridge,bioc
 xmeta,penncil

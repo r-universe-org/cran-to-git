@@ -23,5 +23,10 @@
     "package": "rxylib",
     "maintainer": "Sebastian Kreutzer <sebastian.kreutzer@uni-heidelberg.de>",
     "url": "https://github.com/r-lum/rxylib"
+  },
+  {
+    "package": "xlum",
+    "maintainer": "Sebastian Kreutzer <maintainer_luminescence@r-luminescence.org>",
+    "url": "https://github.com/r-lum/xlum"
   }
 ]

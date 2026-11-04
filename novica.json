@@ -1,5 +1,10 @@
 [
   {
+    "package": "inlaops",
+    "maintainer": "Novica Nakov <nnovica@gmail.com>",
+    "url": "https://github.com/novica/inlaops"
+  },
+  {
     "package": "ParBayesianOptimization",
     "maintainer": "Novica Nakov <nnovica@gmail.com>",
     "url": "https://github.com/novica/parbayesianoptimization"
