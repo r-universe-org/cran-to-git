@@ -3089,6 +3089,7 @@ ccmEstimator,wu-xiaohan
 CCMMR,djwtouw
 CCMnet,ravigoyalgit
 ccmReportR,durhamregionharp
+CCNR,djwtouw
 ccoptimalmatch,cran
 ccostr,clinda-aau
 CCP,uwemenzel
@@ -4191,6 +4192,7 @@ CompositionalML,cran
 CompositionalMPT,cran
 CompositionalNAimp,cran
 CompositionalRF,cran
+Compositionalridge,cran
 Compositionalscsmr,cran
 CompositionalSR,cran
 CompositionalZADR,cran
@@ -5369,6 +5371,7 @@ dcurves,ddsjoberg
 dcvar,benlug
 dda,hirnia
 ddalpha,pokotylo
+DDAWASS,airpino
 ddc,cran
 ddCt,bioc
 DDD,rsetienne
@@ -5481,6 +5484,7 @@ deeptimedata,willgearty
 DEET,dustinsokolowski
 DEEVD,jahmadkhan
 default,goldingn
+definecore,shekharchalwadigrepo-hub
 defineOptions,niceume
 defineR,dbosak01
 deFit,yueqinhu
@@ -7653,10 +7657,12 @@ ezknitr,ropensci
 ezplot,wkostelecki
 ezr,jinkim3
 EZRShiny,vari-bbc
+ezrsurvey,aschellewald
 ezTrack,taylorbcraft
 EZtune,jillbo1000
 f1dataR,scasanova
 f1pits,jordan-soria
+F2Adonis2,lakviruperera
 FaaSr,faasr
 fabCI,pdhoff
 fabia,bioc
@@ -8604,7 +8610,7 @@ FrailtyCompRisk,teamheka
 frailtyEM,tbalan
 frailtyHL,msnoh1
 frailtyMMpen,heilokchow
-frailtypack,cran
+frailtypack,vrondeau
 FrailtyPackPlus,shikhartyagi
 frailtyROC,kmbeyene
 frailtySurv,vmonaco
@@ -8897,7 +8903,6 @@ gamlss.data,gamlss-dev
 gamlss.dist,gamlss-dev
 gamlss.inf,cran
 gamlss.lasso,flziel
-gamlss.mx,mstasinopoulos
 gamlss.tr,mstasinopoulos
 gamlssbssn,cran
 gamlssx,paulnorthrop
@@ -9563,6 +9568,7 @@ ggicons,mitchelloharawild
 ggimage,yulab-smu
 ggimg,taylor-arnold
 ggincerta,maggiexma
+ggindex,discindo
 gginference,okgreece
 gginnards,aphalo
 ggInterval,hanmingwu1103
@@ -10182,7 +10188,6 @@ gprofiler2,cran
 gps,zheyuanli
 gps.track,wagnnerms97
 GPSCDF,cran
-GPSeqClus,cran
 gpss,doeun-kim
 GPTCM,ocbe-uio
 gptoolsStan,tillahoffmann
@@ -11651,6 +11656,7 @@ imuf,gitboosting
 imuGAP,accidda
 imv,ben-domingue
 ImVol,imiqbal
+IMW,svilsen
 inaparc,cran
 inatpick,andresarb
 inbreedR,mastoffel
@@ -12635,6 +12641,7 @@ kpcaIG,cran
 kpeaks,cran
 kpiwidget,arnold-kakas
 kpp2019,damurka
+kpqc,kpqc
 KQM,cran
 KrakenR,nathanael-durst
 KraljicMatrix,koalaverse
@@ -14147,6 +14154,7 @@ MDFS,yoctozepto
 mdftracks,burgerga
 mdgc,boennecd
 MDgof,wolfgangrolke
+mdiharmonize,secretariat-compnet
 MDimNormn,cran
 mdir.logrank,marcdii
 mditools,secretariat-compnet
@@ -14838,7 +14846,6 @@ mixediffusion,abraham1011
 MixedIndTests,bouchranasri
 MixedLevelRSDs,ashutoshdalal97
 mixedLSR,alexanderjwhite
-mixedMem,ysamwang
 MixedPoisson,cran
 MixedPsy,moskante
 mixedsde,cran
@@ -15914,7 +15921,7 @@ mx.crypto,cornball-ai
 mxcc,kzst
 mxfda,julia-wrobel
 mxkssd,doer0
-MXM,cran
+MXM,stavrospap1
 mxmmod,khusmann
 mxnorm,colemanrharris
 mxsem,jhorzek
@@ -17258,7 +17265,7 @@ OSCV,osavchuk
 osd,xdomingoal
 osdatahub,cran
 osdc,steno-aarhus
-osDesign,cran
+osDesign,shaneuse
 OSDR,cran
 OSFD,shangkunwang01
 osfr,ropensci
@@ -21283,7 +21290,6 @@ RLassoCox,bioc
 rlcv,cran
 rLDCP,cran
 rle,statnet
-RLeafAngle,wangwm2017
 rleafmap,fkeck
 rlecuyer,hanase
 rlemon,josherrickson
@@ -21809,6 +21815,7 @@ RPIV,cyrillsch
 rpivotTable,lilyclements
 rpkgkit,wanglabcsu
 rplanes,signaturescience
+rplatypus,maju116
 rplec,cran
 rplotengine,cran
 RplotterPkg,deandevl
@@ -22725,6 +22732,7 @@ scmeth,bioc
 scMitoMut,bioc
 scmix,cran
 scModels,hkumar6
+SCMs,zjelveh
 scmSpillover,cran
 scMultiSim,bioc
 SCnorm,bioc
@@ -24143,6 +24151,7 @@ soReta,orlandotomassini
 sorocs,wzhang17
 SorptionAnalysis,aurnovcy
 sortable,rstudio
+SortedEffects,shuowencs
 sorvi,ropengov
 sos,sbgraves237
 sosta,bioc
