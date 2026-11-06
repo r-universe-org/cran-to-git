@@ -319,6 +319,12 @@
     "registry": "bioc"
   },
   {
+    "package": "alabaster.treese",
+    "maintainer": "Tuomas Borman <tuomas.v.borman@utu.fi>",
+    "url": "https://github.com/microbiome/alabaster.treese",
+    "registry": "bioc"
+  },
+  {
     "package": "alabaster.vcf",
     "maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "url": "https://git.bioconductor.org/packages/alabaster.vcf",
@@ -4209,6 +4215,12 @@
     "registry": "bioc"
   },
   {
+    "package": "enrichmet",
+    "maintainer": "Yonatan Mekonnen <yaayalew@gmail.com>",
+    "url": "https://github.com/biodatalab/enrichmet",
+    "registry": "bioc"
+  },
+  {
     "package": "enrichplot",
     "maintainer": "Guangchuang Yu <guangchuangyu@gmail.com>",
     "url": "https://github.com/yulab-smu/enrichplot",
@@ -7083,6 +7095,12 @@
     "registry": "bioc"
   },
   {
+    "package": "lantern",
+    "maintainer": "Yu Wang <ywang@mcw.edu>",
+    "url": "https://github.com/yuw444/lantern",
+    "registry": "bioc"
+  },
+  {
     "package": "LBE",
     "maintainer": "Cyril Dalmasso <cyril.dalmasso@univ-evry.fr>",
     "url": "https://git.bioconductor.org/packages/LBE",
@@ -7410,6 +7428,12 @@
     "package": "MAGAR",
     "maintainer": "Michael Scherer <michael.scherer@dkfz.de>",
     "url": "https://github.com/mpiicomputationalepigenetics/magar",
+    "registry": "bioc"
+  },
+  {
+    "package": "MagellanNTK",
+    "maintainer": "Manon Gaudin <manon.gaudin@cea.fr>",
+    "url": "https://github.com/edyp-lab/magellanntk",
     "registry": "bioc"
   },
   {
@@ -11358,7 +11382,7 @@
   {
     "package": "RJMCMCNucleosomes",
     "maintainer": "Astrid Deschênes <adeschen@hotmail.com>",
-    "url": "https://github.com/arnauddroitlab/rjmcmcnucleosomes",
+    "url": "https://github.com/adeschen/rjmcmcnucleosomes",
     "registry": "bioc"
   },
   {
@@ -12256,6 +12280,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scProkaR",
+    "maintainer": "Jinxin Zhao <jinxin.zhao@monash.edu>",
+    "url": "https://github.com/monash-li-lab/scprokar",
+    "registry": "bioc"
+  },
+  {
     "package": "scQTLtools",
     "maintainer": "Xiaofeng Wu <1427972815@qq.com>",
     "url": "https://github.com/xfwucn/scqtltools",
@@ -12487,6 +12517,12 @@
     "package": "seqPattern",
     "maintainer": "Vanja Haberle <vanja.haberle@gmail.com>",
     "url": "https://git.bioconductor.org/packages/seqPattern",
+    "registry": "bioc"
+  },
+  {
+    "package": "seqRdna",
+    "maintainer": "Daniel Vaughan <daniel.1.vaughan@kcl.ac.uk>",
+    "url": "https://github.com/muscleomicslab/seqrdna",
     "registry": "bioc"
   },
   {
@@ -13109,7 +13145,7 @@
   },
   {
     "package": "SpatialFeatureExperiment",
-    "maintainer": "Lambda Moses <dl3764@columbia.edu>",
+    "maintainer": "Lambda Moses <lambda.calc29@gmail.com>",
     "url": "https://github.com/pachterlab/spatialfeatureexperiment",
     "registry": "bioc"
   },
@@ -14329,6 +14365,12 @@
     "package": "TSSr",
     "maintainer": "Zhenguo Lin <zhenguo.lin@slu.edu>",
     "url": "https://github.com/linlab-slu/tssr",
+    "registry": "bioc"
+  },
+  {
+    "package": "tTEscanR",
+    "maintainer": "Ana Varas-Sánchez <ana.varas@scilifelab.se>",
+    "url": "https://github.com/avarassanchez/ttescanr",
     "registry": "bioc"
   },
   {

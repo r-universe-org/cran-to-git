@@ -1,5 +1,10 @@
 [
   {
+    "package": "autotest",
+    "maintainer": "Mark Padgham <mark.padgham@email.com>",
+    "url": "https://github.com/mpadge/autotest"
+  },
+  {
     "package": "typetracer",
     "maintainer": "Mark Padgham <mark.padgham@email.com>",
     "url": "https://github.com/mpadge/typetracer"

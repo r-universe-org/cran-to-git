@@ -298,6 +298,7 @@ akc,https://github.com/hope-data-science/akc,,
 akiFlagger,https://github.com/isaranwrap/akiflagger,,
 alabaster.base,https://github.com/artifactdb/alabaster.base,,bioc
 alabaster.sfe,https://github.com/pachterlab/alabaster.sfe,,bioc
+alabaster.treese,https://github.com/microbiome/alabaster.treese,,bioc
 alakazam,https://github.com/immcantation/alakazam,,
 alarmdata,https://github.com/alarm-redist/alarmdata,,
 albersdown,https://github.com/bbuchsbaum/albersdown,,
@@ -761,7 +762,7 @@ autoslider.trade,https://github.com/shajoezhu/autoslider.trade,,
 autostats,https://github.com/harrison4192/autostats,,
 autosync,https://github.com/posit-dev/autosync,,
 autotab,https://github.com/sarahmilligan-hub/autotab,,
-autotest,https://github.com/ropensci-review-tools/autotest,,
+autotest,https://github.com/mpadge/autotest,,
 autothresholdr,https://github.com/rorynolan/autothresholdr,,
 autoTS,https://github.com/vivienroussez/autots,,
 autotune,https://github.com/tathagata-s/autotune,,
@@ -4618,6 +4619,7 @@ enpls,https://github.com/nanxstats/enpls,,
 EnrichedHeatmap,https://github.com/jokergoo/enrichedheatmap,,bioc
 EnrichIntersect,https://github.com/ocbe-uio/enrichintersect,,
 EnrichmentBrowser,https://github.com/lgeistlinger/enrichmentbrowser,,bioc
+enrichmet,https://github.com/biodatalab/enrichmet,,bioc
 enrichplot,https://github.com/yulab-smu/enrichplot,,bioc
 enrichR,https://github.com/wjawaid/enrichr,,
 enrichViewNet,https://github.com/adeschen/enrichviewnet,,bioc
@@ -7960,7 +7962,7 @@ ISPAT3D,https://github.com/sagnikbhadury/ispat-3d,,
 ispdata,https://github.com/igorlaltuf/ispdata,,
 IssueTrackeR,https://github.com/tanguybarthelemy/issuetracker,,
 istatR,https://github.com/jfulponi/istatr,,
-iSTATS,https://github.com/vitor-mendes-iq/istats,,archived
+iSTATS,https://github.com/vitor-mendes-iq/istats,,
 iSubGen,https://github.com/uclahs-cds/package-isubgen,,
 italy,https://github.com/cleanzr/italy,,archived
 itan,https://github.com/arielarmijo/itan,,
@@ -8378,6 +8380,7 @@ languagelayeR,https://github.com/colinfay/languagelayer,,
 languageserver,https://github.com/reditorsupport/languageserver,,
 languageserversetup,https://github.com/jozefhajnala/languageserversetup,,
 lans2r,https://github.com/kopflab/lans2r,,
+lantern,https://github.com/yuw444/lantern,,bioc
 laOpenData,https://github.com/nyc-open-data-lab/laopendata,,
 LaplacesDemon,https://github.com/laplacesdemonr/laplacesdemon,,
 lapop,https://github.com/lapop-central/lapop,,
@@ -8932,6 +8935,7 @@ maftools,https://github.com/poisonalien/maftools,,bioc
 MAGAR,https://github.com/mpiicomputationalepigenetics/magar,,bioc
 magclass,https://github.com/pik-piam/magclass,,
 MAGEE,https://github.com/hanchenphd/magee,,
+MagellanNTK,https://github.com/edyp-lab/magellanntk,,bioc
 magentabook,https://github.com/charlescoverdale/magentabook,,
 magic,https://github.com/robinhankin/magic,,
 magicaxis,https://github.com/asgr/magicaxis,,
@@ -13999,7 +14003,7 @@ rjdmarkdown,https://github.com/aqlt/rjdmarkdown,,
 rjdqa,https://github.com/aqlt/rjdqa,,
 rjdworkspace,https://github.com/inseefrlab/rjdworkspace,,
 rje,https://github.com/rje42/rje,,
-RJMCMCNucleosomes,https://github.com/arnauddroitlab/rjmcmcnucleosomes,,bioc
+RJMCMCNucleosomes,https://github.com/adeschen/rjmcmcnucleosomes,,bioc
 rjqpd,https://github.com/bobbyingram/rjqpd,,
 RJSDMX,https://github.com/amattioc/sdmx,RJSDMX,
 rjsf,https://github.com/olivervu25/rjsf,,
@@ -14018,7 +14022,7 @@ rKolada,https://github.com/lchansson/rkolada,,
 rKOMICS,https://github.com/geertsmanon/rkomics,,
 RKorAPClient,https://github.com/korap/rkorapclient,,
 rkvo,https://github.com/vst/rkvo,,
-rladybugdb,https://github.com/hadimaster65555/rladybugdb,,
+rladybugdb,https://github.com/hadimaster65555/rladybugdb,,archived
 rLakeAnalyzer,https://github.com/gleon/rlakeanalyzer,,
 rLakeHabitat,https://gitlab.com/tristanblechinger/rlakehabitat,,
 rlandfire,https://github.com/bcknr/rlandfire,,
@@ -15053,6 +15057,7 @@ SCperf,https://github.com/msmarchena/scperf,,
 scPipe,https://github.com/luyitian/scpipe,,bioc
 scPloidy,https://github.com/fumi-github/scploidy,,
 scplot,https://github.com/jazznbass/scplot,,
+scProkaR,https://github.com/monash-li-lab/scprokar,,bioc
 SCpubr,https://github.com/enblacar/scpubr,,
 scQTLtools,https://github.com/xfwucn/scqtltools,,bioc
 scR,https://github.com/pjesscarter/scr,,
@@ -15293,6 +15298,7 @@ seqLogo,https://github.com/ivanek/seqlogo,,bioc
 seqmagick,https://github.com/yulab-smu/seqmagick,,
 seqminer,https://github.com/zhanxw/seqminer,,
 SeqNet,https://github.com/tgrimes/seqnet,,
+seqRdna,https://github.com/muscleomicslab/seqrdna,,bioc
 SeqSQC,https://github.com/liubuntu/seqsqc,,bioc
 SEQTaRget,https://github.com/causalinference/seqtarget,SEQTaRget,
 Seqtometry,https://github.com/hawigerlab/seqtometry,,bioc
@@ -16380,7 +16386,7 @@ SRscore,https://github.com/fusk-kpu/srscore,,
 srt,https://github.com/k5cents/srt,,
 SRTtools,https://github.com/chihangchen/srttools,,
 srvyr,https://github.com/gergness/srvyr,,
-ss3sim,https://github.com/ss3sim/ss3sim,,
+ss3sim,https://github.com/ss3sim/ss3sim,,archived
 ssBartik,https://github.com/takuma1102/ssbartik,,
 SSBtools,https://github.com/statisticsnorway/ssb-ssbtools,,
 ssc,https://github.com/mabelc/ssc,,
@@ -17890,6 +17896,7 @@ ttbbeer,https://github.com/jasdumas/ttbbeer,,
 ttcg,https://github.com/hckiang/ttcg,,
 ttdo,https://github.com/eddelbuettel/ttdo,,
 tteICE,https://github.com/mephas/tteice,,
+tTEscanR,https://github.com/avarassanchez/ttescanr,,bioc
 tth,https://codeberg.org/zeileis/tth,,
 TTM,https://github.com/tchang-w/ttm,,
 TTR,https://github.com/joshuaulrich/ttr,,
