@@ -1,5 +1,30 @@
 [
   {
+    "package": "acca",
+    "maintainer": "livio finos <livio.finos@unipd.it>",
+    "url": "https://github.com/cran/acca"
+  },
+  {
+    "package": "ARIbrain",
+    "maintainer": "Livio Finos <livio.finos@unipd.it>",
+    "url": "https://github.com/cran/ARIbrain"
+  },
+  {
+    "package": "flip",
+    "maintainer": "Livio Finos <livio.finos@unipd.it>",
+    "url": "https://github.com/cran/flip"
+  },
+  {
+    "package": "flipscores",
+    "maintainer": "Livio Finos <livio.finos@unipd.it>",
+    "url": "https://github.com/livioivil/flipscores"
+  },
+  {
+    "package": "jointest",
+    "maintainer": "Livio Finos <livio.finos@unipd.it>",
+    "url": "https://github.com/livioivil/jointest"
+  },
+  {
     "package": "someMTP",
     "maintainer": "livio finos <livio@stat.unipd.it>",
     "url": "https://github.com/cran/someMTP"
