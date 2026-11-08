@@ -7750,7 +7750,7 @@
   },
   {
     "package": "memes",
-    "maintainer": "Spencer Nystrom <nystromdev@gmail.com>",
+    "maintainer": "Sabrina Nystrom <nystromdev@gmail.com>",
     "url": "https://github.com/snystrom/memes",
     "registry": "bioc"
   },
@@ -8586,6 +8586,12 @@
     "package": "MPRAnalyze",
     "maintainer": "Tal Ashuach <tal_ashuach@berkeley.edu>",
     "url": "https://github.com/yoseflab/mpranalyze",
+    "registry": "bioc"
+  },
+  {
+    "package": "MRManalyzeR",
+    "maintainer": "Matthew J. Smith <mattyjsmith123@gmail.com>",
+    "url": "https://github.com/mjs-708/mrmanalyzer",
     "registry": "bioc"
   },
   {

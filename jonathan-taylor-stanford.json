@@ -1,5 +1,10 @@
 [
   {
+    "package": "coxdev",
+    "maintainer": "Jonathan Taylor <jtaylo@stanford.edu>",
+    "url": "https://github.com/cran/coxdev"
+  },
+  {
     "package": "lassoinf",
     "maintainer": "Jonathan Taylor <jtaylo@stanford.edu>",
     "url": "https://github.com/cran/lassoinf"
