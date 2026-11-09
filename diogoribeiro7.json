@@ -1,5 +1,10 @@
 [
   {
+    "package": "abstractExtractR",
+    "maintainer": "Diogo Ribeiro <dfr@esmad.ipp.pt>",
+    "url": "https://github.com/cran/abstractExtractR"
+  },
+  {
     "package": "gaussianprocesses",
     "maintainer": "Diogo Ribeiro <dfr@esmad.ipp.pt>",
     "url": "https://gitlab.com/diogoribeiro7/gaussian-processes-r"

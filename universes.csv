@@ -54,6 +54,7 @@ AbSolution,eds-bioinformatics-laboratory
 absorber,cran
 ABSSeq,bioc
 abstr,a-b-street
+abstractExtractR,diogoribeiro7
 abstractr,mattkumar
 ABSurvTDC,hardikghosh911
 abtest,quentingronau
@@ -1847,6 +1848,7 @@ bfsl,pasturm
 bfsMaps,andrisignorell
 bfw,oeysan
 BG2,bioc
+bgbcalc,rds0001
 BGData,quantgen
 BgeeCall,bioc
 BgeeDB,bioc
@@ -2459,7 +2461,7 @@ bpAcc,cran
 bpbounds,remlapmot
 bpca,jcfaria
 bpcp,michaelfay-niaid
-bpDir,davidebuttarazzi
+bpDir,cran
 bpgmm,yaoxiangli
 bplsr,cran
 BPM,cran
@@ -5100,7 +5102,7 @@ dabestr,acclab
 dabr,special-uor
 dacc,liyanstat
 DACF,cran
-DACT,cran
+DACT,innovatiostat
 dad,santagos
 dada2,bioc
 dadjoke,cran
@@ -5354,6 +5356,7 @@ DChaos,jsandube
 dChipIO,henrikbengtsson
 dci,aarkilanian
 dcifer,eppicenter
+DCIi1,cran
 DCL,mmiranda-ugr
 DCLEAR,ikwak2
 dclone,datacloning
@@ -5438,6 +5441,7 @@ decision,cran
 DecisionDrift,subirhait
 decisionfacets,edidatasolutions
 decisionpaths,subirhait
+decisions,fmegahed
 decisionSupport,eikeluedeling
 deckgl,crazycapivara
 deckglgeoarrow,r-spatial
@@ -11325,7 +11329,6 @@ ibist,ibist
 ibkrcp,sactyr
 IBLM,ifoa-adswp
 ibm,roliveros-ramos
-ibmAcousticR,chrisumphlett
 ibmcraftr,saitheinthantun
 ibmdbR,cran
 IBMPopSim,daphnegiorgi
@@ -11766,6 +11769,7 @@ influenceR,khanna-lab
 influential,asalavaty
 influxdbr,dleutnant
 infocausality,stscl
+infocentroid,ahmetkutuk1
 infoelectoral,ropenspain
 infometrics,genmaxent
 Information,klarsen1
@@ -14291,6 +14295,7 @@ memtoc,jcoa05
 memuse,shinra-dev
 MEMWAS,enochkang
 MendelianRandomization,sb452
+menstrualcycleR,eisenlohrmoullab
 meow,klintkanopka
 Mercator,cran
 merDeriv,nctingwang
@@ -14505,7 +14510,7 @@ metricminer,ottrproject
 Metrics,mfrasco
 MetricsWeighted,mayer79
 metricT,akimura753
-metrictrails,raimun2
+metrictrails,metric-trails
 metrix,juanmac17
 metro,k5cents
 metRology,cran
@@ -14936,6 +14941,7 @@ mkssd,doer0
 ml,epagogy
 ML.MSBD,bjoelle
 ML2Pvae,converseg
+mlAEWMA,cran
 mlapi,dselivanov
 MLBC,cran
 mlbench,kurthornik
@@ -16480,6 +16486,7 @@ nnmf,cran
 NNMIS,cran
 NNMoMo,cran
 nnNorm,bioc
+NNPreg,mayukhc13
 nnR,2shakilrafi
 NNS,ovvo-financial
 nnsolve,nikolas-kk
@@ -18707,7 +18714,7 @@ PostcodesioR,ropensci
 postdoc,ropensci
 posterior,stan-dev
 PosteriorBootstrap,alan-turing-institute
-postHoc,rlabo
+postHoc,cran
 postinfectious,charleung
 postlightmercury,mikkelkrogsholm
 postlink,postlink-group
@@ -18807,6 +18814,7 @@ ppsbm,daphnegiorgi
 ppseq,zabore
 PPSFS,paradoxical-rhapsody
 ppsr,paulvanderlaken
+ppsynth,angusgrier
 PPTcirc,karlampm
 PPtreeExt,natydasilva
 PPtreeViz,ek-lee
@@ -19597,7 +19605,7 @@ quadprogXT,rharlow86
 quadraticSD,cran
 QuadratiK,ropensci
 quadriceps,nittanylion
-QuadRoot,cran
+QuadRoot,pankajdas7
 quadrupen,jchiquet
 quadVAR,sciurus365
 quak,pedrobtz
@@ -20898,6 +20906,7 @@ RespirAnalyzer,dongxinzheng
 respirometry,matthewabirk
 respondeR,choxos
 responsePatterns,cran
+ResponseScan,jventural
 respR,januarharianto
 resquin,matroth
 RESS,bwaxer
@@ -23542,6 +23551,7 @@ SICtools,bioc
 sicure,cran
 SID,fkgruber
 SIDES,marie-karelle
+sideview,lauyeehow1986-hub
 sidier,cran
 sidra,rodrigoesborges
 SidraFacil,datascientist-br
@@ -26765,6 +26775,7 @@ TropFishR,tokami
 trotter,ram6ler
 trouBBlme4SolveR,iagogv3
 TroublemakeR,sustainscapes
+tRowel,gwenolivier
 trps,benjaminhlina
 TRSbook,lafaye
 TrtCombo.FactorialExp.SR,roy-sr-007
@@ -27009,6 +27020,7 @@ TwoPhaseCorR,cran
 twoPhaseGAS,egosv
 twoPhaseSens,rophenceojiambo
 TwoRegression,paulhibbing
+TwoSampleCalImpute,kamun2026
 twosamples,cdowd
 TwoSampleTest.HD,cran
 twosigma,edvanburen
@@ -27476,7 +27488,7 @@ VegSpecIndex,tanujrlbcau
 vein,atmoschem
 vek,samsemegne
 velociraptor,bioc
-velociraptr,aazaff
+velociraptr,cran
 veloviz,bioc
 vembedr,ijlyttle
 venn,dusadrian
@@ -27842,6 +27854,8 @@ weatherOz,ropensci
 WeatherSentiment,leilamarvian
 weatherStats,pdhoff
 weathR,jeffreyfowler
+weaveCompare,mrsecretario
+weaveDraft,mrsecretario
 weaver,bioc
 WebAnalytics,gregfrog
 webbioc,bioc
@@ -28172,6 +28186,7 @@ xegaMigration,ageyerschulz
 xegaPermGene,ageyerschulz
 xegaPopulation,ageyerschulz
 xegaSelectGene,ageyerschulz
+xemd,averrik
 XeniumIO,bioc
 xenLite,bioc
 xergm.common,leifeld
