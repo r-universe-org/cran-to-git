@@ -739,12 +739,6 @@
     "subdir": "pkg/trtf"
   },
   {
-    "package": "truncreg",
-    "maintainer": "Yves Croissant <y.croissant@univ-lyon2.fr>",
-    "url": "https://github.com/r-forge/truncreg",
-    "subdir": "pkg"
-  },
-  {
     "package": "tscount",
     "maintainer": "Tobias Liboschik <liboschik@statistik.tu-dortmund.de>",
     "url": "https://github.com/r-forge/tscount",

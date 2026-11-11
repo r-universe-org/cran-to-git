@@ -1111,6 +1111,12 @@
     "registry": "bioc"
   },
   {
+    "package": "bHIVE",
+    "maintainer": "Nick Borcherding <ncborch@gmail.com>",
+    "url": "https://github.com/borchlab/bhive",
+    "registry": "bioc"
+  },
+  {
     "package": "BicARE",
     "maintainer": "Pierre Gestraud <pierre.gestraud@curie.fr>",
     "url": "https://git.bioconductor.org/packages/BicARE",
@@ -1787,6 +1793,12 @@
     "package": "CatsCradle",
     "maintainer": "Michael Shapiro <michael.shapiro@crick.ac.uk>",
     "url": "https://github.com/annaladdach/catscradle",
+    "registry": "bioc"
+  },
+  {
+    "package": "causalASCEND",
+    "maintainer": "Stephen Asiedu <stephen.asiedu@kcl.ac.uk>",
+    "url": "https://github.com/sparkailab/causalascend",
     "registry": "bioc"
   },
   {
@@ -2967,6 +2979,12 @@
     "registry": "bioc"
   },
   {
+    "package": "crossarrayEWAS",
+    "maintainer": "Katarzyna Kamieniecka <kkamieni@bradford.ac.uk>",
+    "url": "https://github.com/bioinfbrad/crossarrayewas",
+    "registry": "bioc"
+  },
+  {
     "package": "crumblr",
     "maintainer": "Gabriel Hoffman <gabriel.hoffman@mssm.edu>",
     "url": "https://github.com/diseaseneurogenomics/crumblr",
@@ -3599,7 +3617,7 @@
   {
     "package": "DEXSeq",
     "maintainer": "Hugo Gruson <hugo.gruson@embl.de>",
-    "url": "https://git.bioconductor.org/packages/DEXSeq",
+    "url": "https://github.com/huber-group-embl/dexseq",
     "registry": "bioc"
   },
   {
@@ -11314,6 +11332,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RhyME",
+    "maintainer": "Yixiang Hong <yixiang.hong@uth.tmc.edu>",
+    "url": "https://github.com/njuelsdke/rhyme",
+    "registry": "bioc"
+  },
+  {
     "package": "RiboCrypt",
     "maintainer": "Michal Swirski <michal.swirski@uw.edu.pl>",
     "url": "https://github.com/m-swirski/ribocrypt",
@@ -11599,6 +11623,12 @@
     "package": "RPA",
     "maintainer": "Leo Lahti <leo.lahti@iki.fi>",
     "url": "https://git.bioconductor.org/packages/RPA",
+    "registry": "bioc"
+  },
+  {
+    "package": "RPBC",
+    "maintainer": "Elizabeth B. Amona <amonaelizabeth1@gmail.com>",
+    "url": "https://github.com/elizabethamona/rpbc",
     "registry": "bioc"
   },
   {
@@ -14321,7 +14351,7 @@
   },
   {
     "package": "tripr",
-    "maintainer": "Nikolaos Pechlivanis <inab.bioinformatics@lists.certh.gr>",
+    "maintainer": "Konstantinos Kardamiliotis <inab.bioinformatics@lists.certh.gr>",
     "url": "https://github.com/biodataanalysisgroup/tripr",
     "registry": "bioc"
   },
