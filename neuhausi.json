@@ -8,5 +8,11 @@
     "package": "canvasXpress.data",
     "maintainer": "Connie Brett <connie@aggregate-genius.com>",
     "url": "https://github.com/neuhausi/canvasxpress.data"
+  },
+  {
+    "package": "canvasXpressDashboards",
+    "maintainer": "Isaac Neuhaus <imnphd@gmail.com>",
+    "url": "https://github.com/neuhausi/canvasxpress-dashboards",
+    "subdir": "r"
   }
 ]

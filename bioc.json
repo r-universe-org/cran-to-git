@@ -3922,7 +3922,7 @@
   },
   {
     "package": "DRIMSeq",
-    "maintainer": "Malgorzata Nowicka <gosia.nowicka.uzh@gmail.com>",
+    "maintainer": "Mark D. Robinson <mark.robinson@mls.uzh.ch>",
     "url": "https://git.bioconductor.org/packages/DRIMSeq",
     "registry": "bioc"
   },
@@ -10495,6 +10495,12 @@
     "package": "ProtGenerics",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/protgenerics",
+    "registry": "bioc"
+  },
+  {
+    "package": "PscanR",
+    "maintainer": "Federico Zambelli <federico.zambelli@unimi.it>",
+    "url": "https://github.com/federico77z/pscanr",
     "registry": "bioc"
   },
   {
