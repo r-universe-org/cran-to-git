@@ -4095,6 +4095,12 @@
     "registry": "bioc"
   },
   {
+    "package": "ECLIPSE",
+    "maintainer": "Ethan Burns <ethan.burns@yale.edu>",
+    "url": "https://github.com/eburns10/eclipse",
+    "registry": "bioc"
+  },
+  {
     "package": "ecolitk",
     "maintainer": "Laurent Gautier <lgautier@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ecolitk",
@@ -4474,7 +4480,7 @@
   },
   {
     "package": "ExperimentSubset",
-    "maintainer": "Irzam Sarfraz <irzam9095@gmail.com>",
+    "maintainer": "Joshua D. Campbell <camp@bu.edu>",
     "url": "https://github.com/campbio/experimentsubset",
     "registry": "bioc"
   },
@@ -6357,6 +6363,12 @@
     "registry": "bioc"
   },
   {
+    "package": "HTAN",
+    "maintainer": "Sean Davis <seandavi@gmail.com>",
+    "url": "https://github.com/seandavi/htan",
+    "registry": "bioc"
+  },
+  {
     "package": "HTqPCR",
     "maintainer": "Matthew N. McCall <mccallm@gmail.com>",
     "url": "https://git.bioconductor.org/packages/HTqPCR",
@@ -8100,6 +8112,12 @@
     "package": "Mfuzz",
     "maintainer": "Matthias Futschik <matthias.futschik@sysbiolab.eu>",
     "url": "https://git.bioconductor.org/packages/Mfuzz",
+    "registry": "bioc"
+  },
+  {
+    "package": "mgcca",
+    "maintainer": "Dolors Pelegri-Siso <dolors.pelegri@isglobal.org>",
+    "url": "https://github.com/isglobal-brge/mgcca",
     "registry": "bioc"
   },
   {

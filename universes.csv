@@ -799,6 +799,7 @@ apifetch,strategicprojects
 APIS,julienrocheigepp
 apisensr,dhaine
 APL,bioc
+aplime,cran
 aplms,swchouchen
 aplore3,lbraglia
 AplosNCA,aplosanalytics
@@ -1142,6 +1143,7 @@ AURMC,zrmacc
 auRoc,daifengstat
 aurora,aurora-govpe
 ausOpenData,nyc-open-data-lab
+ausPH,palesl
 ausplotsR,ternaustralia
 AustralianPoliticians,rohanalexander
 AUtests,cran
@@ -1317,6 +1319,7 @@ baffle,j-moravec
 bage,bayesiandemography
 bagged.outliertrees,rafajpsantos
 baggingbwsel,rubenfcasal
+baggingReserve,heirofisildur
 baggr,wwiecek
 BAGofT,cran
 BAGS,bioc
@@ -2612,6 +2615,7 @@ BsMD,ejbz
 bsnsing,profyliu
 bsocialv2,juane99
 BSPADATA,cran
+bspam,kamataak
 BSPBSS,benwu233
 bspcov,statjs
 bspec,christianroever
@@ -4109,6 +4113,7 @@ COLP,nystat
 cols,cran
 cols4all,cols4all
 colt,s-fleck
+colvR,bbricout
 comapr,bioc
 comat,nowosad
 comato,cran
@@ -6506,6 +6511,7 @@ DUToolkit,mwiggins-ihe
 dverse,maurolepore
 DVHmetrics,dwoll
 dvir,magnusdv
+dvqcc,cran
 DVS,mahdinouraie
 DWaveNARDL,yeasinstat
 DWBmodelUN,dazamora
@@ -6706,6 +6712,7 @@ echor,mps9506
 echos,ahaeusser
 ecic,frederickluser
 ecipex,cran
+ECLIPSE,bioc
 eclipseplot,pevid-sci
 eClosure,jellegoeman
 ecm,gaurbans
@@ -6774,7 +6781,7 @@ ecpdist,abreu-uma
 ecpromethee,marciobasilio
 ecr,jakobbossek
 ectotemp,wouterbeukema
-ECTSVR,cran
+ECTSVR,pankajdas7
 ECTTDNN,cran
 Ecume,hectorrdb
 eCV,agugonrey
@@ -7966,6 +7973,7 @@ FCO,thomasniemand
 fCopulae,waternumbers
 fcp,xiaoran831213
 FCPS,mthrun
+fcrci,jiarmendano
 fcros,doulaye
 fcScan,bioc
 FCtools,cogbrainhealthlab
@@ -7973,6 +7981,7 @@ fctutils,guokai8
 fcuk,thinkr-open
 FCUSUM,zedtaha
 FCVAR,leemorinucf
+fCWTr,lschneiderbauer
 FD,cran
 fda,jamesramsay5
 fda.usc,moviedo5
@@ -8418,6 +8427,7 @@ fluidsynth,ropensci
 fluorojip,cran
 fluoSurv,jferdy
 fluspect,ahornero
+FluvialTracer,cran
 fluxCore,j-e-dalton
 fluxfinder,compass-doe
 fluxfixer,yhata86
@@ -10128,6 +10138,7 @@ googlePolylines,symbolixau
 googlePublicData,gvegayon
 googlePubsubR,andodet
 googler,mkearney
+googlesecretmanager,brancengregory
 googlesheets4,tidyverse
 googleTagManageR,cran
 googletraffic,dime-worldbank
@@ -10930,6 +10941,7 @@ hicream,eoojj
 hicVennDiagram,bioc
 hiddenf,jasonaosborne
 HiddenMarkov,cran
+HiddenTrunc,ginni88
 hidecan,plantandfoodresearch
 HiDimDA,apedrods
 hidradenitis,humanpred
@@ -11147,6 +11159,7 @@ hsrecombi,wittenburg
 hsstan,mcol
 hstats,modeloriented
 htaBIM,heorlytics
+HTAN,bioc
 HTDV,isadorenabi
 htestClust,cran
 htetree,jiahuixu1
@@ -12139,7 +12152,7 @@ isokernel,zhuye88
 ISoLDE,bioc
 IsoMemo,pandora-isomemo
 isomiRs,bioc
-isoniche,shadub
+isoniche,itai811
 isoorbi,isoverse
 isopam,sebschmidtlein
 isopleuros,tesselle
@@ -13912,6 +13925,7 @@ mas,alenxav
 maSAE,fvafrcu
 masc,kiante-fernandez
 mascarade,alserglab
+mascot,insightsurge
 mase,mcconvil
 maser,bioc
 mashr,stephenslab
@@ -14567,6 +14581,7 @@ mfx,a-fernihough
 mgarchBEKK,vst
 MGBT,cran
 mgc,neurodata
+mgcca,bioc
 mgcv,cran
 mgcViz,mfasiolo
 MGDrivE,marshalllab
@@ -14702,6 +14717,7 @@ mig,lbelzile
 MigConnectivity,smbc-nzp
 MIGEE,atanubhattacharjee
 migest,guyabel
+mighty.component,novonordisk-opensource
 mighty.metadata,novonordisk-opensource
 migraph,stocnet
 migrate,ketchbrookanalytics
@@ -15495,6 +15511,7 @@ msaeHB,cran
 msaenet,nanxstats
 msamp,m-fer1
 msaR,zachcp
+msarima,danigiro
 MsBackendMassbank,bioc
 MsBackendMassIVE,bioc
 MsBackendMetaboLights,bioc
@@ -17690,6 +17707,7 @@ pathlit,riasat-pathlit
 pathMED,bioc
 pathmodelfit,steveculpepper
 PathNet,bioc
+PathoFMPred,tkcaccia
 PathoStat,bioc
 pathRender,bioc
 paths,xiangzhou09
@@ -19114,6 +19132,7 @@ PROPER,bioc
 propertee,benbhansen-stats
 properties,dseynaev
 prophet,meta
+propop,statistik-aargau
 proporz,polettif
 propOverlap,cran
 PROPS,bioc
@@ -19284,6 +19303,7 @@ PsyControl,maxwellhong
 PsyLingLLM,hanmingpsy
 psymetadata,josue-rodriguez
 PsyMetricTools,jventural
+PsyML,jventural
 psyntur,mark-andrews
 psyphy,cran
 PsyToolkit,klaaslusterbroodvan
@@ -20927,6 +20947,7 @@ RESS,bwaxer
 restatapi,eurostat
 restatis,correlaid
 restaurant,cleanzr
+rester,jhuwit
 restez,ropensci
 restfulr,lawremi
 restimizeapi,thospfuller
@@ -23434,7 +23455,7 @@ shinyepico,bioc
 shinyExprPortal,c4tb
 shinyfa,dalyanalytics
 shinyFeedback,merlinoa
-shinyFiles,thomasp85
+shinyFiles,shinyfiles
 shinyfilter,jsugarelli
 shinyfilters,joshwlivingston
 shinyfullscreen,etiennebacher
@@ -24815,7 +24836,7 @@ ssmodels,fsbmat-ufv
 ssmooth,biodiversity-futures-lab
 ssMousetrack,antonio-calcagni
 ssMRCD,patriciapuch
-ssMRCT,cran
+ssMRCT,kunhaiq
 ssmrob,cran
 ssmsn,lbenitesanchez
 ssMutPA,hanjunwei-lab
@@ -25699,6 +25720,7 @@ tagcloud,january3
 tagr,jsugarelli
 tagtools,animaltags
 tAI,mariodosreis
+tailcdf,viakovlev
 TailClassifier,cran
 tailDepFun,akiriliouk
 TailID,cran
@@ -25999,6 +26021,7 @@ textclassificationtutorial,vkobayashi
 textclean,trinker
 textdata,emilhvitfeldt
 texter,simmieyungie
+textileFlame,mrsecretario
 textir,taddylab
 textmineR,tommyjones
 TextMiningGUI,c0reyes
@@ -27666,7 +27689,7 @@ vMF,ahoundetoungan
 vmr,cran
 vmrseq,bioc
 vmsae,zhenhua-wang
-vmTools,cran
+vmTools,epi-sam
 VNDesign,angelasebastia
 vntrs,loelschlaeger
 vocaldia,cran
@@ -28447,6 +28470,7 @@ zstd,r-lib
 ztable,cardiomoon
 ztils,zachpeagler
 ztpln,mattocci27
+ZTRecur,cran
 zTree,kirchkamp
 ztype,vincentguyader
 zubin,pedrobtz
