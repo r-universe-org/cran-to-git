@@ -1,5 +1,10 @@
 [
   {
+    "package": "BasinmodlR",
+    "maintainer": "Michiel Arts <michiel.arts@stratigraphy.eu>",
+    "url": "https://github.com/stratigraphy/basinmodlr"
+  },
+  {
     "package": "WaverideR",
     "maintainer": "Michiel Arts <michiel.arts@stratigraphy.eu>",
     "url": "https://github.com/stratigraphy/waverider"

@@ -565,6 +565,12 @@
     "registry": "bioc"
   },
   {
+    "package": "apbCatalogR",
+    "maintainer": "Witek Wolski <wewolski@gmail.com>",
+    "url": "https://github.com/anndata-omics-bridge/apbcatalogr",
+    "registry": "bioc"
+  },
+  {
     "package": "apComplex",
     "maintainer": "Denise Scholtens <dscholtens@northwestern.edu>",
     "url": "https://git.bioconductor.org/packages/apComplex",
@@ -4162,7 +4168,7 @@
   },
   {
     "package": "ELMER",
-    "maintainer": "Tiago Chedraoui Silva <tiagochst@gmail.com>",
+    "maintainer": "Christopher Smolen <chrispbsmolen@gmail.com>",
     "url": "https://git.bioconductor.org/packages/ELMER",
     "registry": "bioc"
   },
@@ -9090,6 +9096,12 @@
     "package": "NADfinder",
     "maintainer": "Jianhong Ou <jou@morgridge.org>",
     "url": "https://github.com/jianhong/nadfinder",
+    "registry": "bioc"
+  },
+  {
+    "package": "NADIA",
+    "maintainer": "Sergio Ciordia <sciordia@gmail.com>",
+    "url": "https://github.com/sciordia/nadia",
     "registry": "bioc"
   },
   {
