@@ -1736,6 +1736,12 @@
     "registry": "bioc"
   },
   {
+    "package": "CanvasXpressBio",
+    "maintainer": "Isaac Neuhaus <imnphd@gmail.com>",
+    "url": "https://git.bioconductor.org/packages/CanvasXpressBio",
+    "registry": "bioc"
+  },
+  {
     "package": "cardelino",
     "maintainer": "Davis McCarthy <dmccarthy@svi.edu.au>",
     "url": "https://github.com/single-cell-genetics/cardelino",
@@ -6768,6 +6774,12 @@
     "package": "intansv",
     "maintainer": "Wen Yao <ywhzau@gmail.com>",
     "url": "https://git.bioconductor.org/packages/intansv",
+    "registry": "bioc"
+  },
+  {
+    "package": "IntegratedLearner",
+    "maintainer": "Nalin Arora <naa4050@med.cornell.edu>",
+    "url": "https://github.com/himelmallick/integratedlearner",
     "registry": "bioc"
   },
   {
