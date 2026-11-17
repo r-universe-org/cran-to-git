@@ -1916,6 +1916,12 @@
     "registry": "bioc"
   },
   {
+    "package": "cellchatr",
+    "maintainer": "Mayank Gandhi <135.mayankgandhi@gmail.com>",
+    "url": "https://github.com/mayankgandhi13/cellchatr",
+    "registry": "bioc"
+  },
+  {
     "package": "cellity",
     "maintainer": "Tomislav Ilicic <ti243@cam.ac.uk>",
     "url": "https://git.bioconductor.org/packages/cellity",
