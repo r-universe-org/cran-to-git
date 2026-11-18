@@ -485,6 +485,11 @@
     "url": "https://github.com/r-lib/rprojroot"
   },
   {
+    "package": "rray",
+    "maintainer": "Davis Vaughan <davis@posit.co>",
+    "url": "https://github.com/r-lib/rray"
+  },
+  {
     "package": "scales",
     "maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
     "url": "https://github.com/r-lib/scales"

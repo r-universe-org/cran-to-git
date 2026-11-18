@@ -5764,7 +5764,7 @@
   },
   {
     "package": "GOfuncR",
-    "maintainer": "Steffi Grote <grote.steffi@gmail.com>",
+    "maintainer": "Christopher Smolen <chrispbsmolen@gmail.com>",
     "url": "https://git.bioconductor.org/packages/GOfuncR",
     "registry": "bioc"
   },
@@ -8199,6 +8199,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MiCARA",
+    "maintainer": "Safa Bushnaq <19397747@brookes.ac.uk>",
+    "url": "https://github.com/bushnaqsafa/micara",
+    "registry": "bioc"
+  },
+  {
     "package": "MiChip",
     "maintainer": "Jonathon Blake <blake@embl.de>",
     "url": "https://git.bioconductor.org/packages/MiChip",
@@ -9454,7 +9460,7 @@
   },
   {
     "package": "OmaDB",
-    "maintainer": "Klara Kaleb <klara.kaleb18@ic.ac.uk>",
+    "maintainer": "Adrian Altenhoff <adrian.altenhoff@inf.ethz.ch>",
     "url": "https://github.com/dessimozlab/omadb",
     "registry": "bioc"
   },
@@ -11983,6 +11989,12 @@
     "package": "SBGNview",
     "maintainer": "Weijun Luo <luo_weijun@yahoo.com>",
     "url": "https://github.com/datapplab/sbgnview",
+    "registry": "bioc"
+  },
+  {
+    "package": "sbivar",
+    "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
+    "url": "https://github.com/sthawinke/sbivar",
     "registry": "bioc"
   },
   {
