@@ -6987,6 +6987,12 @@
     "registry": "bioc"
   },
   {
+    "package": "IsoNetAnalyzeR",
+    "maintainer": "Dimitrios S. Kanakoglou <dimkan@dtu.dk>",
+    "url": "https://github.com/isoformanalysisgroup/isonetanalyzer",
+    "registry": "bioc"
+  },
+  {
     "package": "ITALICS",
     "maintainer": "Guillem Rigaill <italics@curie.fr>",
     "url": "https://git.bioconductor.org/packages/ITALICS",
@@ -14863,6 +14869,12 @@
     "package": "WithinHostExperiment",
     "maintainer": "Cuiwei Gao <48gaocuiwei@gmail.com>",
     "url": "https://github.com/cuiweig/withinhostexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "woven",
+    "maintainer": "Nathan Bresette <nathanbresette04@gmail.com>",
+    "url": "https://github.com/nathanbresette/woven",
     "registry": "bioc"
   },
   {
