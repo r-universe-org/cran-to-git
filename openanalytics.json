@@ -17,6 +17,11 @@
     "subdir": "clinUtils"
   },
   {
+    "package": "cvxoptdes",
+    "maintainer": "Joris Chau <joris.chau@openanalytics.eu>",
+    "url": "https://github.com/openanalytics/cvxoptdes"
+  },
+  {
     "package": "editbl",
     "maintainer": "Jasper Schelfhout <jasper.schelfhout@openanalytics.eu>",
     "url": "https://github.com/openanalytics/editbl",

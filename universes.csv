@@ -1542,6 +1542,7 @@ BayesianReasoning,gorkang
 bayesiansurpriser,dshkol
 BayesianTools,florianhartig
 Bayesiantreg,mmarinj
+BayesianTrial,jiangyan-zhao
 bayesianVARs,luisgruber
 bayesics,dksewell
 bayesImageS,mooresm
@@ -3871,7 +3872,7 @@ cmapR,bioc
 CMAPSS,mortamini
 CMapViz,peyronlab
 cmaRs,yaziciceyda
-CMatching,cran
+CMatching,massimocannas
 cmbClust,cran
 CMCMC,cran
 cmdfun,snystrom
@@ -4996,6 +4997,7 @@ cuda.ml,mlverse
 cudacellr,cudaverse
 cudaverse,cudaverse
 CUFF,giguerch
+cumba,geomodellab
 CUMP,cran
 cumprinc,jcrichardson617
 cumulcalib,resplab
@@ -5064,6 +5066,7 @@ cvsem,annawysocki
 CVST,cran
 CVThresh,dkimstatlab
 cvTools,aalfons
+cvxoptdes,openanalytics
 CVXR,cvxgrp
 cwad,bkpraveenars-del
 cWise,yukiatsusaka
@@ -5227,7 +5230,7 @@ DataClean,xiaoruizhu
 datacleanr,the-hull
 datacommons,tidy-intelligence
 dataCompare,seewe
-DataCraftR,cran
+DataCraftR,carlosrivera1212
 datacult,gilberto-sassi
 datacutr,pharmaverse
 datadict,tidyverse
@@ -10934,7 +10937,7 @@ hfr,jpfitzinger
 HGC,bioc
 HGDMr,centreforhydrology
 hglm,cran
-hglm.data,cran
+hglm.data,larsronn
 hgm,nobuki-takayama
 HGMND,zjq-ruc
 hgnc,patterninstitute
@@ -11464,6 +11467,7 @@ iCOBRA,bioc
 ICODS,sth1402
 icomb,shanikalw
 ICompELM,saikathd
+iconic,bioc
 icons,mitchelloharawild
 icosa,icosa-grid
 icpack,hputter
@@ -13363,6 +13367,7 @@ LMMELSM,stephensrmmartin
 lmmot,mnwright
 lmmpar,fulyagokalp
 lmmprobe,anjazgodic
+lmmresample,ricardo-martinez-flores
 LMMsolver,biometris
 LMMstar,bozenne
 LMN,mlysy
@@ -13915,7 +13920,7 @@ marimekko,gogonzo
 MarineChain,ikemillar
 marinepredator,urbs-dev
 mariner,bioc
-MariNET,cran
+MariNET,marinavargasf
 mariposa,yannickdiehl
 mark,jmbarbone
 markdown,rstudio
@@ -13942,7 +13947,7 @@ marp,kanji709
 marqLevAlg,vivianephilipps
 marquee,r-lib
 marr,bioc
-marradistrees,cran
+marradistrees,massimocannas
 marray,bioc
 mars,cran
 MARSANNhybrid,cran
@@ -16163,6 +16168,7 @@ ncodeR,epistemic-analytics
 ncpen,zeemkr
 ncRNAtools,bioc
 NCSCopula,bnasri
+nctools,roliveros-ramos
 NCutYX,seborinos
 ncvreg,pbreheny
 nda,kzst
@@ -16309,7 +16315,6 @@ networksem,johnnyzhz
 NetworkToolbox,alexchristensen
 networktools,paytonjjones
 networktree,paytonjjones
-netZooR,bioc
 NeuDist,vkumar123vkumar
 NeuralEstimators,msainsburydale
 neuralGAM,inesortega
@@ -16383,6 +16388,7 @@ ngramrr,chainsawriot
 ngspatial,drjphughesjr
 ngsReports,bioc
 NGSToolKit,bigfacilityiisr
+ngvb,rafaelcabral-ai
 NHANES,rpruim
 nhanesA,cjendres1
 nhanesdata,kylegrealis
@@ -16563,6 +16569,7 @@ NO.PING.PONG,bpoconnor
 noaa,cran
 noah,teebusch
 NobBS,sarahhbellum
+noctua,dyfanjones
 nocturn,chronopsychiatry
 nodbi,ropensci
 node2vec,tianyang-0523
@@ -17362,7 +17369,7 @@ osd,xdomingoal
 osdatahub,cran
 osdc,steno-aarhus
 osDesign,shaneuse
-OSDR,cran
+OSDR,massimocannas
 OSFD,shangkunwang01
 osfr,ropensci
 osir,guangbaog
@@ -17622,6 +17629,7 @@ pannotator,nunzioknerr
 PanomiR,bioc
 panoramic,bioc
 panp,bioc
+panpathAudit,bioc
 PANPRSnext,cran
 PANR,bioc
 PantaRhei,pwbogaart
@@ -20886,7 +20894,7 @@ renz,jcaledo
 repairData,petzi53
 repana,johnaponte
 RepaymentPlan,kumaragri
-RepeatABEL,cran
+RepeatABEL,larsronn
 repeated,swihart
 RepeatedHighDim,klausjung-hannover
 repec,chrmongeau
@@ -26343,7 +26351,6 @@ tidyterra,dieghernan
 tidytext,juliasilge
 tidytitanic,evamaerey
 tidytlg,pharmaverse
-tidytof,bioc
 tidytransit,r-transit
 tidytreatment,bonstats
 tidytree,yulab-smu
@@ -26544,6 +26551,7 @@ tok,mlverse
 tokenbrowser,kasperwelbers
 tokenizers,ropensci
 tokenizers.bpe,bnosac
+tokenusagedata,jack-beanstalk-2022
 tolerance,dsy109
 tomba,tomba-io
 toml,r-lib
@@ -27763,7 +27771,7 @@ vntrs,loelschlaeger
 vocaldia,cran
 voi,chjackson
 voice,filipezabala
-voigt,cran
+voigt,massimocannas
 vol2birdR,adokter
 volatilityTrader,maheshpkumar
 volcano3D,katrionagoldmann
@@ -27989,6 +27997,7 @@ webr,cardiomoon
 webreadr,ironholds
 webSDM,giopogg
 websearchr,fschaffner
+webserver,s-u
 webshot,wch
 webshot2,rstudio
 websocket,rstudio

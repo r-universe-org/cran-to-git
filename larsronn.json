@@ -3,5 +3,15 @@
     "package": "CodataGS",
     "maintainer": "Lars Ronnegard <lrn@du.se>",
     "url": "https://github.com/cran/CodataGS"
+  },
+  {
+    "package": "hglm.data",
+    "maintainer": "Lars Ronnegard <lars.ronnegard@slu.se>",
+    "url": "https://github.com/cran/hglm.data"
+  },
+  {
+    "package": "RepeatABEL",
+    "maintainer": "Lars Ronnegard <lars.ronnegard@slu.se>",
+    "url": "https://github.com/cran/RepeatABEL"
   }
 ]

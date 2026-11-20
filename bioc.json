@@ -6537,6 +6537,12 @@
     "registry": "bioc"
   },
   {
+    "package": "iconic",
+    "maintainer": "Sean T. Bresnahan <seantbresnahan3@gmail.com>",
+    "url": "https://github.com/sbresnahan/iconic",
+    "registry": "bioc"
+  },
+  {
     "package": "ideal",
     "maintainer": "Federico Marini <marinif@uni-mainz.de>",
     "url": "https://github.com/federicomarini/ideal",
@@ -9249,12 +9255,6 @@
     "registry": "bioc"
   },
   {
-    "package": "netZooR",
-    "maintainer": "Marouen Ben Guebila <marouen.b.guebila@gmail.com>",
-    "url": "https://github.com/netzoo/netzoor",
-    "registry": "bioc"
-  },
-  {
     "package": "NewWave",
     "maintainer": "Federico Agostinis <federico.agostinis@outlook.com>",
     "url": "https://github.com/federico-agostinis/newwave",
@@ -9799,6 +9799,12 @@
     "package": "panp",
     "maintainer": "Peter Warren <peter.warren@verizon.net>",
     "url": "https://git.bioconductor.org/packages/panp",
+    "registry": "bioc"
+  },
+  {
+    "package": "panpathAudit",
+    "maintainer": "Anestis Gkanogiannis <anestis@gkanogiannis.com>",
+    "url": "https://github.com/gkanogiannis/panpathaudit",
     "registry": "bioc"
   },
   {
@@ -14113,12 +14119,6 @@
     "package": "tidySummarizedExperiment",
     "maintainer": "Stefano Mangiola <mangiolastefano@gmail.com>",
     "url": "https://github.com/tidyomics/tidysummarizedexperiment",
-    "registry": "bioc"
-  },
-  {
-    "package": "tidytof",
-    "maintainer": "Timothy Keyes <tkeyes@stanford.edu>",
-    "url": "https://github.com/keyes-timothy/tidytof",
     "registry": "bioc"
   },
   {
