@@ -346,6 +346,7 @@ africamonitor,sebkrantz
 aftables,best-practice-and-impact
 aftgee,stc04003
 afthd,atanubhattacharjee
+AFTMicroMed,cran
 aftPenCDA,seonsy
 aftR2,wangyuyao98
 aftsem,benedma2
@@ -451,6 +452,7 @@ aion,tesselle
 AIPW,yqzhong7
 air,soumyaray
 aire.zmvm,diegovalle
+AIRes,pablosancheznunez
 AirExposure,flortames
 airGR,cran
 airGRdatasets,cran
@@ -4042,6 +4044,7 @@ coGPS,bioc
 cograph,sonsoleslp
 cohetsurr,laylaparast
 cohortBuilder,r-world-devs
+cohortBuilder.db,r-world-devs
 CohortCharacteristics,darwin-eu
 CohortConstructor,ohdsi
 CohortContrast,healthinformaticsut
@@ -4527,6 +4530,7 @@ CorrBin,anikoszabo
 corrDNA,prabinameher
 correctedAUC,weiliangqiu
 CorrectedFDR,cran
+correctedWS,cycologist
 CorrectOverloadedPeaks,janlisec
 correctR,hendersontrent
 correctref,umarhussain-git
@@ -5699,6 +5703,7 @@ descutils,fkueck
 deseats,dschulz13
 DESeq2,bioc
 Design.parameters,vinaymandya123-collab
+DesignComplexSurvival,gosukehommaex
 designer,ashbaldry
 designit,bedapub
 DesignLibrary,declaredesign
@@ -6865,6 +6870,7 @@ educineq,jordavuc
 eduResearchR,jlmarmanillo-jlms
 edwards97,paleolimbot
 EE.Data,paulhibbing
+EEAaq,paolomaranzano
 EEEA,cran
 eefAnalytics,germaine86
 eegkit,cran
@@ -7082,6 +7088,7 @@ emplik,maizhou
 emplik2,maizhou
 emplikAUC,maizhou
 emplikCS,maizhou
+emplikDTA,toduckhanh
 emreliability,liuhuan90123
 ems,epimedplotly
 EMSaov,ek-lee
@@ -8056,6 +8063,7 @@ fdWasserstein,cran
 FDX,disohda
 FEA,bhramdath
 FeaLect,cran
+feasiblesize,cran
 FEAST,bioc
 feasts,tidyverts
 featdelta,lordrudolf
@@ -8339,6 +8347,7 @@ FLASHMM,baderlab
 flashr,jeffreyrstevens
 flassomsm,atanubhattacharjee
 flatr,evilgraham
+flatratemath,scrapertweeter3-prog
 flattabler,josesamos
 flatxml,jsugarelli
 fledge,cynkra
@@ -14507,6 +14516,7 @@ metaRange,metarange
 metarep,ijaljuli
 metaRNASeq,sblanck
 MetaRVM,resume-epi
+metascience,pablosancheznunez
 metaSDTreg,cran
 metaselection,jepusto
 metaSEM,mikewlcheung
@@ -16219,6 +16229,7 @@ neo4jshell,keithmcnulty
 neo4r,neo4j-rstats
 neodistr,madsyair
 neojags,madsyair
+NEONiso,lanl
 neonOS,neonscience
 neonPlantEcology,admahood
 neonSoilFlux,jmzobitz
@@ -16351,6 +16362,7 @@ neutralitytestr,marcjwilliams1
 NeutroBasicDesignsAnalysis,vinaymandya123-collab
 NeutroCODsAnalysis,vinaymandya123-collab
 NeutroCrdRcbdAnalysis,vinaymandya123-collab
+NeutroDOE,vinaymandya123-collab
 NeutroIBDAnalysis,vinaymandya123-collab
 neutroPPS,cran
 NeutroRCDsAnalysis,vinaymandya123-collab
@@ -19688,7 +19700,7 @@ QTLEMM,py-chung
 QTLExperiment,bioc
 qtlhot,byandell-sysgen
 Qtlizer,bioc
-qtlnet,cran
+qtlnet,byandell-sysgen
 QTLRel,cran
 Qtools,marco-geraci
 qtsa,leilamarvian
@@ -20274,7 +20286,7 @@ RCAL,cran
 RCALI,mechantrouquin
 RcamelsCL,hgarcesf
 rcamelspe,paulesantos
-Rcan,timat35
+Rcan,iarc-csu
 Rcapture,cran
 RCarb,r-lum
 rcarbon,ahb108
@@ -22524,7 +22536,7 @@ saeHB.Spatial.Beta,bobyiwan
 saeHB.TF.beta,nasyazahira
 saeHB.twofold,reymath99
 saeHB.unit,ridsonap
-saeHB.ZIB,rizqinar
+saeHB.ZIB,cran
 saekernel,wicaksh
 saeME,cran
 saemix,ecomets
@@ -22616,6 +22628,7 @@ SAMprior,pengyang0411
 sampsizeval,mpavlou
 samr,tibshirani
 sams,dbdahl
+SamsaRaLight,natheob
 SamSPECTRAL,bioc
 SAMtool,blue-matter
 SAMTx,cran
@@ -23719,7 +23732,7 @@ sigvar,bioc
 SIHR,zywang0701
 SII,euphonic-euphemism
 siie,cran
-siland,martininrae84000
+siland,martin-biosp
 silentema,hsiutingyu
 SILFS,cran
 SILGGM,cran
@@ -24938,6 +24951,7 @@ ssr,enriquegit
 SSRA,cran
 ssrch,bioc
 SSReliabilityClaytonMWD,fatihki
+ssrfr,bart-turczynski
 SSRMST,mikihoriguchi
 ssrn,uribo
 SSRTcalc,agleontyev
@@ -26517,6 +26531,7 @@ tlrmvnmvt,cran
 tls,liyanstat
 tlsR,labsyspharm
 tm,r-forge
+tm.hyslaw,ygma-bitc
 tm.plugin.alceste,nalimilan
 tm.plugin.dc,theussl
 tm.plugin.europresse,nalimilan
@@ -26524,6 +26539,7 @@ tm.plugin.factiva,nalimilan
 tm.plugin.koRpus,undocumeantit
 tm.plugin.lexisnexis,nalimilan
 tm.plugin.mail,kurthornik
+tm.ttni,ygma-bitc
 tm1r,muhammedalionder
 tma,codymarquart
 tmap,r-tmap
@@ -26681,7 +26697,7 @@ tr.iatgen,iatgen
 TR8,giobo
 trace,zachariahmclean
 TraceAssist,cran
-tracee,philipdelff
+tracee,nmautoverse
 tracenma,loukiaspin
 tracer,mangothecat
 tracerer,ropensci
