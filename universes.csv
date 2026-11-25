@@ -194,6 +194,7 @@ ADAPTS,sdanzige
 adaptsmoFMRI,cran
 adaptTest,marc-vdmb
 adaR,gesistsa
+adarvmapsr,adarv-epi-hub
 adas.utils,pbosetti
 AdaSampling,pyanglab
 adbcdrivermanager,apache
@@ -637,6 +638,7 @@ AmpliconDuo,anla8000
 AMR,msberends
 amregtest,torstax
 AMRsurveilR,vinodhpmd
+AMRvalid,omarfaruqe
 amscorer,amadou-khsow
 amsSim,riccardogozzo
 amt,jmsigner
@@ -697,6 +699,7 @@ AnnotationBustR,sborstein
 AnnotationDbi,bioc
 AnnotationFilter,bioc
 AnnotationForge,bioc
+AnnotationGx,bioc
 AnnotationHub,bioc
 AnnotationHubData,bioc
 annotationTools,bioc
@@ -1344,6 +1347,7 @@ BalancedSampling,envisim
 baldur,philipberg
 Ball,mamba413
 ballast,sullivanstatistics
+ballgown,bioc
 BALLI,cran
 BallMapper,pdlotko
 balnet,erikcs
@@ -2363,6 +2367,7 @@ bodenmiller,yannabraham
 bodsr,dipad-fran-bryden
 bodycomp,gleidsonuern
 bodycompref,p-mq
+bodycon,rbglabs
 boe,charlescoverdale
 boggy,ramiromagno
 boids4R,fbertran
@@ -2540,6 +2545,7 @@ BreakPoints,cran
 BreastSubtypeR,bioc
 breathtestcore,dmenne
 breathteststan,dmenne
+BreedingExperiment,bioc
 BreedReliabR,annusawarkar-sys
 bReeze,chgrl
 bregr,wanglabcsu
@@ -3556,6 +3562,7 @@ CIpostSelect,diallo0
 cir,assaforon
 circacompare,rwparsons
 CircaCP,shanshanchen-biostat
+circaTime,bioc
 circda,cran
 CirceR,ohdsi
 circhelp,achetverikov
@@ -4359,6 +4366,7 @@ ConsensusCPA,vishnumrstat
 consensusDE,bioc
 ConsensusOPLS,vanduttran
 consensusOV,bioc
+consensusRegions,bioc
 consensusSeekeR,bioc
 conserveR,azizka
 consibiocloudclient,exetico
@@ -8146,6 +8154,7 @@ fgls,emiliogcs
 fglsnet,weihuaan
 Fgmutils,cran
 FGNet,bioc
+fgof,jun-yan
 FGRepo,cran
 fgsea,bioc
 fgui,cran
@@ -9139,6 +9148,7 @@ GDPuc,pik-piam
 gDR,bioc
 gDRcore,bioc
 gDRimport,bioc
+gDRplots,bioc
 gDRstyle,bioc
 gDRutils,bioc
 gds,cran
@@ -9465,7 +9475,7 @@ geppe,cran
 gerbil,michaelwrobbins
 gerda,hhilbig
 gerefer,cran
-GerminaR,flavjack
+GerminaR,flozanoisla
 germinationmetrics,aravind-j
 GeRnika,cran
 gert,ropensci
@@ -11258,7 +11268,7 @@ hudr,cran
 hues,johnbaums
 huge,gatech-flash
 huggingfaceR,farach
-huito,flavjack
+huito,flozanoisla
 HUM,cran
 humanFormat,dustin
 humaniformat,ironholds
@@ -11572,6 +11582,7 @@ ifctools,lbraglia
 ife,nt-williams
 IFFuzzyStats,mukulbijalwan
 ifit,cran
+IFLSTM,yeasinstat
 IFMCDM,a-dudek-ue
 ifo,m-muecke
 iForecast,cran
@@ -11818,6 +11829,7 @@ InferenceSMR,detal9
 inferference,bsaul
 inferMM,mijeong-kim
 inferr,rsquaredacademy
+inferRecom,bioc
 inferstat,vinodhpmd
 infiltrodiscR,saryace
 infinityFlow,bioc
@@ -11971,7 +11983,7 @@ intervals,edzer
 IntervalSurgeon,daniel-jg
 intervcomp,cran
 inTextSummaryTable,openanalytics
-inti,flavjack
+inti,flozanoisla
 intkrige,beanb2
 intmap,stla
 intmed,ncysur
@@ -14389,6 +14401,7 @@ mermboost,cran
 MERO,mohmedsoudy
 merror,rabilon
 merTools,jknowles
+mesa,bioc
 MeSHDbi,bioc
 meshes,bioc
 meshr,bioc
@@ -14576,6 +14589,7 @@ methylPipe,bioc
 methylscaper,bioc
 MethylSeekR,bioc
 methylSig,bioc
+methylTFR,bioc
 methylumi,bioc
 MetID,bioc
 MetMashR,bioc
@@ -14949,6 +14963,7 @@ mixedBayes,kunfa
 mixedbiastest,akarl46556
 mixedCCA,irinagain
 mixedClust,jujacques
+MixedDeepMM,cran
 MixedDiversityAnalysis,cran
 mixedfact,sukantaiasri
 mixediffusion,abraham1011
@@ -15518,6 +15533,7 @@ mrbayes,okezie94
 mrbin,kleinomicslab
 mrbsizeR,romanflury
 mRc,k-dettloff
+MRCCC,bioc
 MRCE,adamjrothman
 mrct,cran
 MRCV,cran
@@ -15607,6 +15623,7 @@ mseapca,hiroyukiyamamoto
 msentropy,yuanyueli
 MSEtool,blue-matter
 MsExperiment,bioc
+MsExperimentStash,bioc
 MsFeatures,bioc
 MSG,yihui
 MSGARCH,keblu
@@ -17041,6 +17058,7 @@ omicwas,fumi-github
 Omisc,okeep
 Omixer,bioc
 omnibus,adamlilith
+OmniCorr,bioc
 OmnipathR,bioc
 omock,ohdsi
 OmopConstructor,ohdsi
@@ -17377,6 +17395,7 @@ orthogonalsplinebasis,halpo
 orthoMTL,novartis
 OrthoPanels,mapickup
 orthopolynom,cran
+orthoRibbon,bioc
 orthos,bioc
 ORTSC,mohmedsoudy
 OryzaProbe,lym-bioinfo
@@ -18166,6 +18185,7 @@ pharmaverseraw,pharmaverse
 pharmaversesdtm,pharmaverse
 pharmaversesdtmjnj,munoztd0
 pharmr,pharmpy
+pharos,andrisignorell
 phase,cran
 phase12designs,angela-cao
 phase1PRMD,luzhangstat
@@ -19267,7 +19287,7 @@ ProxReg,doufu1402
 proxy,cran
 proxyC,koheiw
 proxymix,max578
-prozor,protviz
+prozor,prolfqua
 PRP,artemiszhao
 prqlr,prql
 prrd,eddelbuettel
@@ -20335,6 +20355,7 @@ rcicr,rdotsch
 rciplot,cran
 RCircos,hzhanghenry
 rCISSVAE,ciss-vae
+RcisTarget,bioc
 rcites,ropensci
 RCLabels,matthewheun
 Rclade,zengzichao
@@ -21943,7 +21964,7 @@ Rpadrino,padrinodb
 rPAex,cran
 rpaleoclim,joeroe
 rPandas,akshat09867
-rpanel,adrian-bowman
+rpanel,paulnorthrop
 rpanelauto,econcz
 rpanelrev,econcz
 rPanglaoDB,dosorio
@@ -22536,7 +22557,7 @@ saeHB.Spatial.Beta,bobyiwan
 saeHB.TF.beta,nasyazahira
 saeHB.twofold,reymath99
 saeHB.unit,ridsonap
-saeHB.ZIB,cran
+saeHB.ZIB,rizqinar
 saekernel,wicaksh
 saeME,cran
 saemix,ecomets
@@ -23174,6 +23195,7 @@ SeleMix,cran
 selenider,ashbythorpe
 selenium,ashbythorpe
 SELEX,bioc
+selexprepR,bioc
 SelfControlledCaseSeries,ohdsi
 SelfControlledCohort,ohdsi
 selfingTree,cran
@@ -23876,6 +23898,7 @@ simStateSpace,jeksterslab
 simstudy,kgoldfeld
 simsurv,sambrilleman
 SimSurvey,paulregular
+SimSurvNMarker,boennecd
 SimtablR,matheustg-14
 simTargetCov,anthonychristidis
 simTool,marselscheer
@@ -25068,6 +25091,7 @@ statease,devwebwacky
 statebins,hrbrmstr
 STATegRa,bioc
 StateLevelForest,gatesdupont
+statelier,dcojoc
 states,andybega
 StatescopeR,bioc
 statespacer,dylanb95
@@ -27928,6 +27952,7 @@ WASP,hydroclimatex
 waspasR,flavio-barbara
 waspr,joliencremers
 watcher,r-lib
+water,midraed
 WaterBalanceR,thomasp-gfz
 waterfalls,hughparsonage
 wateRinfo,ropensci

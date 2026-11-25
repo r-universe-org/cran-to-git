@@ -475,6 +475,12 @@
     "registry": "bioc"
   },
   {
+    "package": "AnnotationGx",
+    "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
+    "url": "https://github.com/bhklab/annotationgx",
+    "registry": "bioc"
+  },
+  {
     "package": "AnnotationHub",
     "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
     "url": "https://github.com/bioconductor/annotationhub",
@@ -826,6 +832,12 @@
     "package": "BAGS",
     "maintainer": "Alejandro Quiroz-Zarate <aquiroz@jimmy.harvard.edu>",
     "url": "https://git.bioconductor.org/packages/BAGS",
+    "registry": "bioc"
+  },
+  {
+    "package": "ballgown",
+    "maintainer": "Alyssa C. Frazee <alyssa.frazee@gmail.com>",
+    "url": "https://github.com/alyssafrazee/ballgown",
     "registry": "bioc"
   },
   {
@@ -1547,6 +1559,12 @@
     "package": "BreastSubtypeR",
     "maintainer": "Emmanouil G. Sifakis <emmanouil.sifakis@ki.se>",
     "url": "https://github.com/johanhartmangroupbioteam/breastsubtyper",
+    "registry": "bioc"
+  },
+  {
+    "package": "BreedingExperiment",
+    "maintainer": "Muhammad Farooqi <mqfarooqi@gmail.com>",
+    "url": "https://github.com/mqfarooqi1/breedingexperiment",
     "registry": "bioc"
   },
   {
@@ -2282,6 +2300,12 @@
     "registry": "bioc"
   },
   {
+    "package": "circaTime",
+    "maintainer": "Alperen Uysal <dralperenuysal@gmail.com>",
+    "url": "https://github.com/dralperenuysal/circatime",
+    "registry": "bioc"
+  },
+  {
     "package": "circRNAprofiler",
     "maintainer": "Simona Aufiero <simo.aufiero@gmail.com>",
     "url": "https://github.com/aufiero/circrnaprofiler",
@@ -2754,6 +2778,12 @@
     "package": "consensusOV",
     "maintainer": "Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>",
     "url": "https://github.com/bhklab/consensusov",
+    "registry": "bioc"
+  },
+  {
+    "package": "consensusRegions",
+    "maintainer": "Sebastian Gregoricchio <s.gregoricchio@nki.nl>",
+    "url": "https://github.com/sebastian-gregoricchio/consensusregions",
     "registry": "bioc"
   },
   {
@@ -5121,6 +5151,12 @@
     "registry": "bioc"
   },
   {
+    "package": "gDRplots",
+    "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
+    "url": "https://github.com/gdrplatform/gdrplots",
+    "registry": "bioc"
+  },
+  {
     "package": "gDRstyle",
     "maintainer": "Arkadiusz Gladki <gladki.arkadiusz@gmail.com>",
     "url": "https://github.com/gdrplatform/gdrstyle",
@@ -5795,7 +5831,7 @@
   {
     "package": "goSorensen",
     "maintainer": "Pablo Flores <p_flores@espoch.edu.ec>",
-    "url": "https://git.bioconductor.org/packages/goSorensen",
+    "url": "https://github.com/pablof1988/gosorensen",
     "registry": "bioc"
   },
   {
@@ -6738,6 +6774,12 @@
     "package": "infercnv",
     "maintainer": "Christophe Georgescu <cgeorges@broadinstitute.org>",
     "url": "https://github.com/broadinstitute/infercnv",
+    "registry": "bioc"
+  },
+  {
+    "package": "inferRecom",
+    "maintainer": "Catherine Mahoney <catherine.f.mahoney@gmail.com>",
+    "url": "https://github.com/catherinefayemahoney/inferrecom",
     "registry": "bioc"
   },
   {
@@ -7827,6 +7869,12 @@
     "registry": "bioc"
   },
   {
+    "package": "mesa",
+    "maintainer": "Steven Hill <stevenhill.work@gmail.com>",
+    "url": "https://github.com/cruk-mi/mesa",
+    "registry": "bioc"
+  },
+  {
     "package": "MeSHDbi",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://git.bioconductor.org/packages/MeSHDbi",
@@ -8118,6 +8166,12 @@
     "package": "methylSig",
     "maintainer": "Raymond G. Cavalcante <rcavalca@umich.edu>",
     "url": "https://github.com/sartorlab/methylsig",
+    "registry": "bioc"
+  },
+  {
+    "package": "methylTFR",
+    "maintainer": "Irem B. Gündüz <irembgunduz@gmail.com>",
+    "url": "https://github.com/epigenomeinformatics/methyltfr",
     "registry": "bioc"
   },
   {
@@ -8667,6 +8721,12 @@
     "registry": "bioc"
   },
   {
+    "package": "MRCCC",
+    "maintainer": "Bitan Sarkar <bitansarkar010899@gmail.com>",
+    "url": "https://github.com/bitansa/mrccc",
+    "registry": "bioc"
+  },
+  {
     "package": "MRManalyzeR",
     "maintainer": "Matthew J. Smith <mattyjsmith123@gmail.com>",
     "url": "https://github.com/mjs-708/mrmanalyzer",
@@ -8754,6 +8814,12 @@
     "package": "MsExperiment",
     "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
     "url": "https://github.com/rformassspectrometry/msexperiment",
+    "registry": "bioc"
+  },
+  {
+    "package": "MsExperimentStash",
+    "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
+    "url": "https://github.com/rformassspectrometry/msexperimentstash",
     "registry": "bioc"
   },
   {
@@ -9537,6 +9603,12 @@
     "registry": "bioc"
   },
   {
+    "package": "OmniCorr",
+    "maintainer": "Veronica Quarato <vequa7472@nmbu.no>",
+    "url": "https://github.com/veronicaquarato/omnicorr",
+    "registry": "bioc"
+  },
+  {
     "package": "OmnipathR",
     "maintainer": "Denes Turei <turei.denes@gmail.com>",
     "url": "https://github.com/saezlab/omnipathr",
@@ -9667,6 +9739,12 @@
     "package": "orthogene",
     "maintainer": "Brian Schilder <brian_schilder@alumni.brown.edu>",
     "url": "https://github.com/neurogenomics/orthogene",
+    "registry": "bioc"
+  },
+  {
+    "package": "orthoRibbon",
+    "maintainer": "Jianhong Ou <jou@morgridge.org>",
+    "url": "https://github.com/jianhong/orthoribbon",
     "registry": "bioc"
   },
   {
@@ -11038,6 +11116,12 @@
     "registry": "bioc"
   },
   {
+    "package": "RcisTarget",
+    "maintainer": "Gert Hulselmans <Gert.Hulselmans@kuleuven.be>",
+    "url": "https://github.com/aertslab/rcistarget",
+    "registry": "bioc"
+  },
+  {
     "package": "RCM",
     "maintainer": "Stijn Hawinkel <stijn.hawinkel@psb.ugent.be>",
     "url": "https://github.com/centerforstatistics-ugent/rcm",
@@ -11964,7 +12048,7 @@
   {
     "package": "sangeranalyseR",
     "maintainer": "Kuan-Hao Chao <ntueeb05howard@gmail.com>",
-    "url": "https://git.bioconductor.org/packages/sangeranalyseR",
+    "url": "https://github.com/roblanf/sangeranalyser",
     "registry": "bioc"
   },
   {
@@ -12559,6 +12643,12 @@
     "package": "SELEX",
     "maintainer": "Harmen J. Bussemaker <hjb2004@columbia.edu>",
     "url": "https://git.bioconductor.org/packages/SELEX",
+    "registry": "bioc"
+  },
+  {
+    "package": "selexprepR",
+    "maintainer": "Marco Rota Negroni <marco.rotanegroni@gmail.com>",
+    "url": "https://github.com/marcorotanegroni/selexprepr",
     "registry": "bioc"
   },
   {
@@ -14789,7 +14879,7 @@
   },
   {
     "package": "Voyager",
-    "maintainer": "Lambda Moses <dl3764@columbia.edu>",
+    "maintainer": "Lambda Moses <lambda.calc29@gmail.com>",
     "url": "https://github.com/pachterlab/voyager",
     "registry": "bioc"
   },
