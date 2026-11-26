@@ -1,5 +1,10 @@
 [
   {
+    "package": "bayesintervals",
+    "maintainer": "Ekin Ören <ekin.oren.3@gmail.com>",
+    "url": "https://github.com/sanofi-public/bayesiansi.calculator"
+  },
+  {
     "package": "eVCGsampler",
     "maintainer": "Andreas Schulz <andreas.schulz2@sanofi.com>",
     "url": "https://github.com/sanofi-public/evcgsampler"
