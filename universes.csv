@@ -4347,6 +4347,7 @@ connected,kwstat
 ConnectednessApproach,cran
 Connection,cran
 connections,rstudio
+connectivity,rvalavi
 connectoModa,idiise
 connector,novonordisk-opensource
 connector.databricks,novonordisk-opensource
@@ -5848,6 +5849,7 @@ diceR,alinetalhouk
 DICErClust,cran
 DiceView,irsn
 dichromat,zeileis
+dicomr,cran
 DICOMread,cran
 dicomtk,lauyeehow1986-hub
 Dict,five-dots
@@ -18093,7 +18095,6 @@ permChacko,ocbe-uio
 PermCor,cran
 permimp,ddebeer
 permPATH,ishterev33
-permRand,m-mellers
 perms,cran
 permubiome,alfbenpa
 permuco,jaromilfrossard
@@ -20393,7 +20394,7 @@ RcmdrPlugin.RiskDemo,arolluom
 RcmdrPlugin.RMTCJags,mgoulartinc
 RcmdrPlugin.ROC,danny-ldc
 RcmdrPlugin.sos,landroni
-RcmdrPlugin.survival,john-d-fox
+RcmdrPlugin.survival,mmm-uca
 RcmdrPlugin.TeachingDemos,john-d-fox
 RcmdrPlugin.TeachStat,cran
 RcmdrPlugin.temis,nalimilan
@@ -21358,6 +21359,7 @@ rintrojs,carlganz
 rio,gesistsa
 rioja,nsj3
 rioplot,dmmelamed
+riot,tractoverse
 rip.opencv,deepayan
 ripc,ocha-dap
 ripserr,tdaverse
@@ -26613,6 +26615,7 @@ tokenbrowser,kasperwelbers
 tokenizers,ropensci
 tokenizers.bpe,bnosac
 tokenusagedata,jack-beanstalk-2022
+tokr,marekdejauj
 tolerance,dsy109
 tomba,tomba-io
 toml,r-lib
