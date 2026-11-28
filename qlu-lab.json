@@ -3,5 +3,11 @@
     "package": "POPInf",
     "maintainer": "Jiacheng Miao <jiacheng.miao@wisc.edu>",
     "url": "https://github.com/qlu-lab/popinf"
+  },
+  {
+    "package": "sardine",
+    "maintainer": "Ryan Moreno <rrmoreno@wisc.edu>",
+    "url": "https://github.com/qlu-lab/sardine",
+    "subdir": "r"
   }
 ]

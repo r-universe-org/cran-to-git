@@ -1362,6 +1362,7 @@ bamm,luismurao
 BAMMtools,cran
 bamp,volkerschmid
 BamScale,bioc
+BamScaleR,bioc
 bamsignals,bioc
 BANAM,cran
 bandicoot,tengmcing
@@ -2921,7 +2922,7 @@ CardioDataSets,lightbluetitan
 cardiovagal,amyaperry1979
 cards,pharmaverse
 CARDspa,bioc
-cardx,ddsjoberg
+cardx,pharmaverse
 care,cran
 care4cmodel,cran
 caRecall,wraysmith
@@ -3270,6 +3271,7 @@ cer,charlescoverdale
 ceramic,hypertidy
 cercospoRa,paulmelloy
 cereal,r-lib
+ceres,satyaprakashnayak
 CERFIT,justinthorp
 CerioliOutlierDetection,christopherggreen
 ceRNAnetsim,bioc
@@ -4127,6 +4129,7 @@ colorscience,glenndavis52
 colorsGen,stla
 colorspace,zeileis
 colorSpec,glenndavis52
+colortheme,ryo-asashi
 Colossus,ericgiunta
 colouR,alaninglis
 colourlovers,andrewheiss
@@ -4871,7 +4874,7 @@ crs,jeffreyracine
 crseEventStudy,skoestlmeier
 crsmeta,hypertidy
 crsnls,cran
-crstools,dramanica
+crstools,evolecolgroup
 crsuggest,walkerke
 crt2power,melodyaowen
 CRTConjoint,daewoongham97
@@ -7547,7 +7550,6 @@ evolMap,modesto-escobar
 evolqg,lem-usp
 evolution,strategicprojects
 EvolutionaryGames,jhstaudacher
-evolvability,ghbolstad
 evolved,mjanuario
 evoper,antonio-pgarcia
 EvoPhylo,tiago-simoes
@@ -18837,6 +18839,7 @@ postdoc,ropensci
 posterior,stan-dev
 PosteriorBootstrap,alan-turing-institute
 postHoc,cran
+posthocbounds,cran
 postinfectious,charleung
 postlightmercury,mikkelkrogsholm
 postlink,postlink-group
@@ -22693,6 +22696,7 @@ saqgetr,skgrange
 SAR,hongooi73
 sara4r,cran
 SARAR,lhvanegasp
+sardine,qlu-lab
 sarima,geobosh
 SARIMAInfoRF,ranjitstat
 sarks,bioc
@@ -23026,6 +23030,7 @@ scrypt,bobjansen
 scs,florianschwendinger
 scShapes,bioc
 scShardSplitRef,irinavkuznetsova
+scSimEval,bioc
 scSpatialSIM,fridleylab
 scStability,gnotic
 scTenifoldKnk,cailab-tamu
@@ -24492,6 +24497,7 @@ SPARTAAS,cran
 sparvaride,hdarjus
 spaSim,bioc
 spass,cran
+spatbiome,asmita112358
 spatcovar,emre-cebeci
 spate,fabsig
 spatemR,cruzalirio
@@ -24726,6 +24732,7 @@ spinyReg,jchiquet
 spiralize,jokergoo
 spiritR,awconway
 spiro,ropensci
+spiSEE,bioc
 spkTools,bioc
 splancs,rsbivand
 splash,villegar
@@ -26355,6 +26362,7 @@ tidyllm,edubruell
 tidylo,juliasilge
 tidylog,elbersb
 tidyLPA,data-edu
+tidyMacro,muhsinciftci
 tidymatrix,raivokolde
 tidyMC,stefanlinner
 tidymedia,jmgirard
@@ -27498,6 +27506,7 @@ vaersNDvax,iembry
 vaersvax,iembry
 VAExprs,bioc
 vagalumeR,r-music
+VAJointSurv,boennecd
 valaddin,egnha
 ValCurvaR,isaquebrand
 vald.extractor,praveenmaths89

@@ -853,6 +853,12 @@
     "registry": "bioc"
   },
   {
+    "package": "BamScaleR",
+    "maintainer": "Chirag Parsania <chirag.parsania@gmail.com>",
+    "url": "https://github.com/cparsania/bamscaler",
+    "registry": "bioc"
+  },
+  {
     "package": "bamsignals",
     "maintainer": "Johannes Helmuth <johannes.helmuth@laborberlin.com>",
     "url": "https://github.com/lamortenera/bamsignals",
@@ -8398,7 +8404,7 @@
   },
   {
     "package": "miRNAmeConverter",
-    "maintainer": "ERROR",
+    "maintainer": "Stefan J. Haunsberger <stefan.haunsberger@gmail.com>",
     "url": "https://git.bioconductor.org/packages/miRNAmeConverter",
     "registry": "bioc"
   },
@@ -8488,7 +8494,7 @@
   },
   {
     "package": "MLP",
-    "maintainer": "ERROR",
+    "maintainer": "Tobias Verbeke <tobias.verbeke@openanalytics.eu>",
     "url": "https://git.bioconductor.org/packages/MLP",
     "registry": "bioc"
   },
@@ -9677,7 +9683,7 @@
   },
   {
     "package": "OrderedList",
-    "maintainer": "Claudio Lottaz <Claudio.Lottaz@klinik.uni-regensburg.de>",
+    "maintainer": "Claudio Lottaz <Claudio.Lottaz@uni-regensburg.de>",
     "url": "https://git.bioconductor.org/packages/OrderedList",
     "registry": "bioc"
   },
@@ -11201,7 +11207,7 @@
   },
   {
     "package": "recoup",
-    "maintainer": "ERROR",
+    "maintainer": "Panagiotis Moulos <moulos@fleming.gr>",
     "url": "https://github.com/pmoulos/recoup",
     "registry": "bioc"
   },
@@ -12508,6 +12514,12 @@
     "registry": "bioc"
   },
   {
+    "package": "scSimEval",
+    "maintainer": "Kabilan Sakthivel <kabilan151414@gmail.com>",
+    "url": "https://github.com/kabilanbio/scsimeval",
+    "registry": "bioc"
+  },
+  {
     "package": "scTensor",
     "maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "url": "https://git.bioconductor.org/packages/scTensor",
@@ -13417,6 +13429,12 @@
     "package": "spillR",
     "maintainer": "Marco Guazzini <m.guazzini@student.maastrichtuniversity.nl>",
     "url": "https://git.bioconductor.org/packages/spillR",
+    "registry": "bioc"
+  },
+  {
+    "package": "spiSEE",
+    "maintainer": "Emile Danvin <emile.danvin@gmail.com>",
+    "url": "https://github.com/righellilab/spisee",
     "registry": "bioc"
   },
   {
